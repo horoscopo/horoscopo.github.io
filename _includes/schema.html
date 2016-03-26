@@ -1,0 +1,22 @@
+   <script type="application/ld+json">
+      {
+      "@context" : "http://schema.org",
+      "@type" : "Organization",
+      "name" : "{{ site.name }}",
+      "url" : "{{ site.url }}",
+      "sameAs" : [
+      	{% if site.social-links.twitter %}
+        "https://twitter.com/{{ site.social-links.twitter }}",
+	{% endif %}
+	{% if site.social-links.facebook %}
+	"https://www.facebook.com/{{ site.social-links.facebook }}",
+	{% endif %}
+	{% if site.social-links.facebook %}
+	"https://www.youtube.com/{{ site.social-links.youtube }}"
+	{% endif %} 
+	{% if site.social-links.instagram %}
+	"https://www.youtube.com/{{ site.social-links.instagram }}"
+	{% endif %} 
+      ]
+      }
+   </script> 

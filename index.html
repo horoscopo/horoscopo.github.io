@@ -1,18 +1,97 @@
 ---
 layout: default
 ---
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="row centered violet">
+  <h1><a href="{{ site.baseurl }}/horoscopo-de-hoy/" alt="Horoscopos de hoy" title="Horoscopos de hoy">Horoscopos del dia de hoy gratis</a>, enterate lo que nadie te quiere decir sobre tu signo del Zodiaco. 
+  Tenemos precencia en la redes sociales mas importantes</h1>
+  {% include social.html %}
 </div>
+
+<div class="row centered lightgrey">
+  <h1>Horoscopos diarios, semanales, mensuales y anuales, te traemos todos los Horoscopos.</h1>
+  <p>
+  El Zodiaco está basado en la división en doce partes iguales de la banda celeste sobre la que trazan sus trayectorias el Sol, la Luna, y los planetas, de forma que los doce signos se caracterizan por tener  personalidades básicas o expresión característicos propios.
+  Los fenemos de los astros reflejan o rigen las actividades de las personas. Es por esto que te traemos de forma totalmente gratis los horoscopos para que puedas orientarte con las predicciones diarias, semanales, mensuales y anuales..
+  </p>
+</div>
+<div class="row centered violet">
+  <h2>¿De que signo soy?</h2>
+  <p>Con solo saber tu fecha de nacimiento podras conocer cual es el signo del zodiaco que te representa y conocer todas sus caracteristicas.
+  </p>
+</div>
+  <div class="row centered lightgrey">
+    <div class="col-sm-4">
+      <img src="/images/aries.png" class="img-responsive center-block">
+      <h3>
+      Aries
+      </h3>
+      <p>
+      Si eres nacido del 21 de Marzo al 20 de Abril tu signo es Aries. La primer casa del zodiaco y el primer punto cardinal. Tu planeta regente es Marte, un signo de Fuego.
+      </p>
+    </div>
+    <div class="col-sm-4">
+      <img src="/images/tauro.png" class="img-responsive center-block">
+      <h3>Tauro</h3>
+      <p>
+      Los nacidos del 20 de Abril al 20 de Mayo son de Tauro. Un signo de Tierra, marcado por el planeta Venus. La segunda casa zodical.
+      </p>
+    </div>
+    <div class="col-sm-4">
+      <img src="/images/geminis.png" class="img-responsive center-block">
+      <h3>Geminis</h3>
+      <p>Si naciste del 21 de Mayo al 21 de Junio eres de Geminis. El planeta regente es Mercurio. Un signo mutable que tiene como elemento el aire.</p>
+    </div>
+  </div>
+  <div class="row centered lightgrey">
+    <div class="col-sm-4">
+      <img src="/images/cancer.png" class="img-responsive center-block">
+      <h3>Cancer</h3>
+      <p>Si has nacido del 21 de Mayo al 21 de Junio eres de Cancer, un signo de Agua. La Luna es el planeta regente de la 4 casa del zodiaco y es un signo de Agua.</p>
+    </div>
+    <div class="col-sm-4">
+      <img src="/images/leo.png" class="img-responsive center-block">
+      <h3>Leo</h3>
+      <p>Los del 24 de Julio al 23 de Agosto son de Leo. La quinta casa esta marcada por el Sol y el Fuego.</p>
+    </div>
+    <div class="col-sm-4">
+      <img src="/images/virgo.png" class="img-responsive center-block">
+      <h3>Virgo</h3>
+      <p>Si tu fecha de nacimiento esta entre el 23 de Agosto y el 22 de Septiembre, eres de Virgo. Un signo de tierra y mutable, con planete regente Mercurio.</p>
+    </div>
+  </div>
+  <div class="row centered lightgrey">
+    <div class="col-sm-4">
+      <img src="/images/libra.png" class="img-responsive center-block">
+      <h3>Libra</h3>
+      <p>Aquellos nacidos del 23 de Septiembre al 23 de Octubre son de Libra. El tercer punto cardinal es un signo de aire y tiene como planeta regente a Venus.</p>
+    </div>
+    <div class="col-sm-4">
+      <img src="/images/escorpio.png" class="img-responsive center-block">
+      <h3>Escorpio</h3>
+      <p>Si naciste del 24 de Octubre al 21 de Noviembre, eres de Escorpio, un signo de Agua que tiene como planetas regentes a Merte y Pluton.</p>
+    </div>
+    <div class="col-sm-4">
+      <img src="/images/sagitario.png" class="img-responsive center-block">
+      <h3>Sagitario</h3>
+      <p>Quienes hayan nacido del 22 de Noviembre al 20 de Diciembre son de Sagitario, el noveno signo del zodiaco un signo marcado por el Fuego. Su planeta regente es Jupiter.</p>
+    </div>
+  </div>
+  <div class="row centered lightgrey">
+    <div class="col-sm-4">
+      <img src="/images/capricornio.png" class="img-responsive center-block">
+      <h3>Capricornio</h3>
+      <p>Los nacidos del 21 de Diciembre al 20 de Enero son de Capricornio un signo de Tierra y el cuarto punto cardinal. Tiene como planeta regente a Saturno.</p>
+    </div>
+    <div class="col-sm-4">
+      <img src="/images/acuario.png" class="img-responsive center-block">
+      <h3>Acuario</h3>
+      <p>Si naciste del 21 de Enero al 19 de Febrero tu signo es de Acuario. Tienes como planeta regente a Saturno y Urano. El elemento que te define es el Aire.</p>
+    </div>
+    <div class="col-sm-4">
+      <img src="/images/piscis.png" class="img-responsive center-block">
+      <h3>Piscis</h3>
+      <p>Si eres nacido del 20 de Febrero al 20 de Marzo eres de Piscis, la ultima casa zodiacal. Un signo de Agua y que posee a Jupiter y Neptuno como planetas regentes. Otro de los signos mutables.</p>
+    </div>
+  </div>
+
+

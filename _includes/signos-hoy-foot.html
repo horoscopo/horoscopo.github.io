@@ -1,0 +1,13 @@
+    <strong>Horoscopos de hoy - Predicciones por signos</strong>
+  <div class="row centered lightgrey">
+    {% for signo in site.data.signos %}
+          <div class="col-sm-4">
+	    <a href="{{ site.url }}horoscopo-diario-gratis/{{ signo.id }}/" alt="{{ signo.id }} Horóscopo hoy">
+	      <img src="{{ site.url }}images/{{ signo.id }}.png" class="img-responsive center-block">
+		<ul class="list-unstyled">
+		  <li>{{ signo.id }} Hoy</li>
+		</ul>
+	     </a>
+	  </div>
+    {% endfor %}
+  </div>

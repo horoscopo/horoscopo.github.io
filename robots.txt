@@ -1,0 +1,4 @@
+User-agent:  *
+Disallow:  /aviso-legal-privacidad/
+ 
+Sitemap: http://horoscopo-del-dia.com/sitemap.xml

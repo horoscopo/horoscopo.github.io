@@ -1,0 +1,54 @@
+   <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage":{
+	"@type":"WebPage",
+	"@id":"{{ site.baseurl }}{{ post.url }}"
+      },
+      "headline": "{{ page.title }}",
+      "image": {
+	"@type": "ImageObject",
+	"url": "{{ site.url }}{{ page.ogimg }}",
+	"height": 1024,
+	"width": 768
+      },
+      
+      {% if page.sitemap.lastmod %}
+      "datePublished": "{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}",
+      {% elsif page.date %}
+      "datePublished": "{{ page.date | date: "%Y-%m-%d" }}",
+      {% else %}
+      "datePublished": "{{ site.time | date: "%Y-%m-%d"  }}",
+      {% endif %}
+      {% if page.sitemap.lastmod %}
+      "dateModified": "{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}",
+      {% elsif page.date %}
+      "dateModified": "{{ page.date | date: "%Y-%m-%d" }}",
+      {% else %}
+      "dateModified": "{{ site.time | date: "%Y-%m-%d"  }}",
+      {% endif %}
+      
+      "author": {
+	"@type": "Person",
+	"name": "{{ site.name }}"
+      },
+      "publisher": {
+	"@type": "Organization",
+	"name": "{{ site.name }}",
+	"logo": {
+	  "@type": "ImageObject",
+	  "url": "{{ site.url }}{{ site.avatar }}",
+	  "width": 600,
+	  "height": 60
+	}
+      },
+      {% if page.description %}
+      "description": "{{ page.description }}"
+      {% elsif page.excerpt %}
+      "description": "{{ page.excerpt| strip_html }}"
+      {% else %}
+      "description": "{{ site.description }}"
+      {% endif %}
+    }
+   </script> 
