@@ -1,15 +1,15 @@
 ---
 layout: page
-title: escorpio 21-03-2016 al 28-03-2016 
+title: escorpio 28-03-2016 al 04-04-2016 
 permalink: /horoscopo-semanal-gratis/escorpio/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-03-21'
+ lastmod: '2016-03-28'
 ---
-No permitas que las dudas o temores socaven tus objetivos o te impidan apuntar alto. El contexto cósmico de esta semana podría hacerte dudar y preguntarte si estás haciendo lo correcto. Ten confianza en ti. Si necesitas reafirmación o motivación, habla con una amistad o consejero de vida. Una nueva perspectiva podría mejorar maravillosamente tu estado de ánimo. La Luna Llena en Géminis de mitad de semana sugiere que vas a tener visitas en tu hogar, pudiendo dar lugar a una gran fiesta. 
+Si tienes plazos que cumplir, objetivos que alcanzar e importantes citas que atender, date mucho margen de maniobra. Con Mercurio y Júpiter actualmente retrógrados, hay muchas posibilidades de que haya retrasos que podrían costarte. Una manera de hacerle frente a esto sería prepararte tanto como te sea posible. Sin embargo, puede que también te sea útil negociar un poco de tiempo extra para cualquier retraso inesperado. Además, si decides salir de compras, recuerda guardar los recibos.
 
 ##Dinero
 
-Es posible que sientas un urgencia grave esta semana - de viajar, aprender algo nuevo, de hacer una amistad en el extranjero, o hablar un nuevo idioma. Cada uno de estos tiene una ventaja única para tu vida monetaria en el futuro, así que vale la pena checar qué es lo que te parece más interesante. Puede que no puedas resistirte a hacerlo de todas maneras ya que tu vida social podría bajar de ritmo lo suficiente para que puedas hacer estas cosas.
+Esta semana es como una bolsa mixta de tu “yo”. Por un lado, tienes una energía repentina y expansiva afectando a tu sector de grupos y negocios propios, lo que sugiere que puede que estés pensando en convertir una habilidad en un negocio rentable. Por otro lado, tu sector de deuda y el dinero de otras personas entran en juego. No pidas prestado más de lo que te puedes permitir con el fin de lograr que este negocio entre en marcha.

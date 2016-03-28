@@ -1,15 +1,15 @@
 ---
 layout: page
-title: acuario 21-03-2016 al 28-03-2016 
+title: acuario 28-03-2016 al 04-04-2016 
 permalink: /horoscopo-semanal-gratis/acuario/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-03-21'
+ lastmod: '2016-03-28'
 ---
-Tu sector de ocio y placer está lleno de vibrantes energías y optimistas planetas, sugiriendo que harás un esfuerzo para disfrutar esta semana de Halloween y Día de Muertos. Pero primero tendrás que evitar las tentaciones que la Luna Llena del martes te traerá al encontrarse en tu signo, pudiendo animarte a darte gustos, lo cual está bien, pero también hay la posibilidad de que tiendas a excederte si es que realmente te estás divirtiendo . Si bien no es un problema, puede serlo si arruina una dieta o régimen saludable de alimentación.
+Puede que sientas motivación a sacrificar tu tiempo y recursos para ayudar a los demás, sobre todo esta semana, cuando muchas personas se sientan solas o estén en necesidad de asistencia. Hacerlo podría ser muy gratificante y podría animarte a continuar tus actividades caritativas en el futuro. Debido a que se trata de una semana muy social, prepárate para recibir a algunos invitados inesperados debido a una celebración. La Luna Llena en Géminis de mitad de semana puede ser un tanto caprichosa, así que considera alivianar tu horario.
 
 ##Dinero
 
-Es hora de prestarle atención a la manera en la que te presentas a ti y tus habilidades al mundo. Esto podría significar invertir en un armario más profesional o hacer que un escritor profesional escriba tu currículum vitae. Poner tu mejor pie por delante es importante debido a la actividad en tu sector profesional, el cuál probablemente requiere de tu atención ahora.
+Para ti, esta semana se trata de aumentar considerablemente tu potencial de ingresos. Dondequiera que detectes una oportunidad, haz valer tu voluntad, tus necesidades y tu individualidad. Con la ayuda de los útiles aspectos, el dinero viene cuando cultivas la creatividad en tu pensamiento. En otras palabras, mientras menos hagas las cosas de la misma vieja manera, más lo agradecerás. Es bastante brillante si piensas en ello.

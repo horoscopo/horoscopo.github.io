@@ -1,15 +1,15 @@
 ---
 layout: page
-title: capricornio 21-03-2016 al 28-03-2016 
+title: capricornio 28-03-2016 al 04-04-2016 
 permalink: /horoscopo-semanal-gratis/capricornio/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-03-21'
+ lastmod: '2016-03-28'
 ---
-Tu semana comienza con un posible conflicto que podría ser difícil de resolver. Contigo o alguien más teniendo una actitud obstinada, nada va a cambiar a menos que uno de ustedes pueda disponerse a hacer concesiones. Sumado a esto, tanto Mercurio como Júpiter inician una fase retrógrada, por lo que podrías sentir como si la vida hubiera llegado a un punto muerto. Si esto te hace sentir molestia, tu mejor opción podría ser salir con algunos buenos amigos para tener una charla de corazón a corazón y así cambiar tu perspectiva y mejorar tu estado de ánimo.
+Aunque la Luna Nueva se manifiesta en el social Acuario, analiza cuidadosamente la posibilidad de hacer un nuevo comienzo esta semana. Si bien esta puede ser una excelente oportunidad para entrar a nuevos círculos, te ayudaría investigar un poco antes de involucrarte demasiado. Esto se aplica a nuevas relaciones románticas también. Hay una gran cantidad de oportunidades apareciendo en el frente laboral, aunque lo más seguro es que coseches sus beneficios a la larga. El Día de San Valentín se vislumbra sensual, un poco intenso y divertido.
 
 ##Dinero
 
-Las relaciones serias en tu vida y los problemas financieros que compartes se destacan esta semana. El tener esa importante conversación con tu pareja puede ayudar a aliviar los problemas de dinero antes de que se manifiesten, no después. Eres capaz de utilizar tus habilidades de comunicación para convencer a otros de que tú y tus proyectos son dignos de inversión.
+Tu sector de dinero se destaca esta semana. La forma en la que ves el dinero en tu vida entra en cuestión, así como la sabiduría de tus planes monetarios más recientes. Este es el momento de cuestionar todo - incluso lo que decidiste que fue bueno hace unos meses. Alentar las señales del Universo se relacionan con tu capacidad de obtener ingresos, mientras que los detalles de cualquier noticia negativa se suavizan. Estás en el camino correcto en ambos sentidos.

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: cancer 21-03-2016 al 28-03-2016 
+title: cancer 28-03-2016 al 04-04-2016 
 permalink: /horoscopo-semanal-gratis/cancer/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-03-21'
+ lastmod: '2016-03-28'
 ---
-Comenzarás a volver a la normalidad de nuevo cuando Marte entre a tu signo, aportándote alegres ideas y poniendo oportunidades únicas en tu camino. Tu curiosidad podría dirigirte hacia interesantes direcciones mientras creas nuevos contactos, haces nuevos amigos y absorbes información. Sin embargo, te ayudaría ser más exigente, de lo contrario podrías terminar ahogándote en un mar de hechos. Establece un curso y apégate a él para obtener mejores resultados. En el tema de dinero, una antigüedad que posees podría valer mucho más de lo que pensabas.
+Colaborar con otra persona en un proyecto creativo y emocionante podría robarse una gran cantidad de tu tiempo y atención esta semana. Parece ser algo que podría valer la pena. Tómate tu tiempo con esto, ya que podría entrar en conflicto con otros planes profesionales u otras responsabilidades. En otra nota, intensos sentimientos por alguien podrían ser correspondidos, muy a tu placer. Si se trata de un nuevo romance, éste podría elevarse a un nuevo nivel de pasión. Sólo asegúrate de que realmente es lo que quieres antes de involucrarte demasiado.
 
 ##Dinero
 
-Estás en medio de un replanteamiento serio cuando se trata de gastar. Puede que te estés preguntando cómo proteger a tu familia a largo plazo, lo que te podría llevar a considerar la contratación de un asesor financiero u otro experto. Otros miembros de tu tribu pueden tener ideas sorprendentemente buenas acerca de cómo ahorrar e invertir para un futuro compartido. Escucha.
+Puede que creas que algo en el trabajo es demasiado bueno para ser verdad - porque lo es. En lugar de ver esto a través de lentes color de rosa, simplemente sé realista. El mejor uso de esta energía es a través de la imaginación y la creatividad, no el engaño. Aunque los aspectos crean una gran cantidad de energía, prepárate para un viaje lleno de baches.

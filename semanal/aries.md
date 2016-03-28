@@ -1,15 +1,15 @@
 ---
 layout: page
-title: aries 21-03-2016 al 28-03-2016 
+title: aries 28-03-2016 al 04-04-2016 
 permalink: /horoscopo-semanal-gratis/aries/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-03-21'
+ lastmod: '2016-03-28'
 ---
-Tus previas semanas han estado ocupadas con proyectos y oportunidades que probablemente han iniciado una nueva fase en tu vida. Esta semana tendrás ansias de analizar el costo de tus últimas ideas con miras a la recaudación de fondos o la planificación de un presupuesto. La Luna Nueva en Escorpión puede ser un excelente momento para empezar un negocio en línea, crear un sitio web y darte a conocer. Las cosas podrían empezar poco a poco, pero podrían cobrar impulso rápidamente. ¡La noche del viernes es ideal para una cita especial!
+Si estás planeando un proyecto, encárgate de los detalles, ya que podrías subestimar el tiempo, la carga de trabajo, o gastos que este implique. El continuo enfoque en tu sector de recursos compartidos bien puede ayudarte a ganar dinero o animarte a desperdiciarlo. Si estás considerando consolidar tus deudas o adquirir un préstamo, espera hasta que Mercurio se torne directo el Jueves para experimentar transacciones más manejables. Saturno regresa de nuevo a tu signo el Domingo, animándote a liberar sentimientos que pudieran haberte evitado hacer algo.
 
 ##Dinero
 
-Actualmente te enfrentas a un momento de cambios. Estás buscando maneras de brillar y no sólo en tu vida laboral. En vez, se trata de obtener reconocimiento y apreciación por lo que te gusta. Hay una nueva energía en tu sector de comunicación, por lo que hasta hablar te resulta más fácil. Al mismo tiempo, tu sector de dinero y los valores se activa. El deseo está ahí y ya está listo/a para tomar acción para hacer tu vida más cómoda económicamente.
+Este período es de los aspectos que afectan a las vidas pasadas, karma y las instituciones. De repente puedes ser presa de un deseo de cambiar de trabajo, iniciar una obra de caridad, o desarrollar un nuevo negocio. Hacer una investigación cuando puedas y luego crear un plan de negocios que se ve por lo menos cinco años en el futuro. Es posible hacer que funcione.
