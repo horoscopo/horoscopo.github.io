@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sagitario Marzo 2016 
+title: Sagitario Abril 2016 
 permalink: /horoscopo-mensual/sagitario/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2016, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-03-01'
+ lastmod: '2016-04-01'
 ---
 
- La conjunción entre la Luna y Saturno del 1 de marzo le da a tu mes un comienzo serio y productivo. Recibe el respeto y los honores. La Luna Nueva del 8 de marzo refresca tu interés hacia tu vida hogareña y el medio ambiente. Si has estado posponiendo cualquier cambio doméstico, hazlo ahora. Algo que hagas en tu trabajo ahora también podría mejorar tu vida hogareña. Sal a divertirte bajo la Luna Llena del 23 de marzo y simplemente disfruta de pasar tiempo con la gente. No es necesario que hagas nada especial, pero es probable que termines haciéndolo y que deleite a tu corazón. Haz sugerencias y elige lo que más te agrade. Tus amigos querrán darte gusto.
+ ¡La Luna Nueva del 7 de abril presagia gran alegría y diversión! Tu niño interior se encontrará muy cerca de la superficie ahora, y puede que sientas muchas de esas emociones infantiles que resultan de comportarte más creativa y atrevidamente. Las posesiones materiales podrían asumir una mayor importancia durante la Luna Llena del 21 de abril. Puede que hasta se te ofrezca más de lo que realmente quieres o puede que encuentres un nuevo hogar para ese especial artículo o herencia que ha dejado de ser parte de tu vida. Al final del mes, podrás atar un montón de cabos sueltos fácilmente mientras la Luna forme trígono con Júpiter el 27 de abril.   

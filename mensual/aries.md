@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Aries Marzo 2016 
+title: Aries Abril 2016 
 permalink: /horoscopo-mensual/aries/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2016, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-03-01'
+ lastmod: '2016-04-01'
 ---
 
- Analiza tus sentimientos durante la Luna Nueva del 8 de marzo y tal vez detecta un defecto personal que es fácil de remediar. Puede que sea algo pequeño que te ha estado irritando durante mucho tiempo. El presente es muy buen momento para fácilmente formar un nuevo y buen hábito. La Luna Llena del 23 de marzo les emana brillo a todas las relaciones en tu vida. Además, las uniones románticas reciben ternura. Anda y permite que esta vez sea tu amante quien te consienta. El lunes de Pascua, el 28 de marzo, es un día de alta energía debido a la conjunción entre Marte y la Luna. Puede que para entonces ya quieras comenzar algo que ha estado en tu mente durante todo el invierno. ¡Hazlo y hazlo bien!
+ ¡La Luna Nueva del 7 de abril se manifiesta en tu signo! Diversión con amigos, vecinos y tal vez una o dos sorpresas de cumpleaños son algo probables. Muestra tu mejor, más enérgica y divertida actitud y mantente en buenos términos tanto con colegas como clientes. Los días en torno a la Luna Llena del 21 de abril podrían ser extremadamente ocupados para ti, así que ten mucho cuidado tanto con tu persona como tus sentimientos. Protege tu tiempo a solas, planea suficientes momentos de tranquilidad, y después, sal a apoderarte del mundo. La conjunción entre la Luna y Marte del 25 de abril le da un rápido inicio a tu semana laboral. Sin embargo, la conjunción entre la Luna y Saturno manifestándose en la segunda parte de ese día te mantendrá en curso.

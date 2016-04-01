@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Libra Marzo 2016 
+title: Libra Abril 2016 
 permalink: /horoscopo-mensual/libra/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2016, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-03-01'
+ lastmod: '2016-04-01'
 ---
 
- Si sientes el impulso de querer cuidar de todos a la vez, comienza contigo. Tal vez ya te ha cansado hablar de este tema, por lo que debes detectar las señales de advertencia. Trata de tener bondad hacia tu propia persona. La Luna Llena del 23 de marzo podría traer consigo gente que aligere tu estado de ánimo y te haga salir a divertirte. Si un nuevo y fresco amor visita tu vida, ¡puede que se vuelva fiebre de primavera! El amor está en el aire. Ten receptividad y permite que un dinámico espíritu toque tu corazón. El 30 de marzo, un agridulce o sensible recuerdo podría herir tu corazón de nuevo bajo la conjunción entre Venus y Quirón. Aprecia esos momentos del pasado.
+ La Luna Nueva del 7 de abril viene repleta de amor y romance. Es tu momento para tener suerte en el amor, proyectar más atractivo del que esperas y recibir más atención de la que hubieras imaginado. Prepárate para recibir admiración por parte de una sorprendente fuente. La Luna Llena del 21 de abril podría despertar necesidades o deseos profundamente enterrados que pudieran haber sido olvidados o reprimidos durante demasiado tiempo. Ten amabilidad hacia ti, tal vez al permitirte mostrar un poco más de emoción. Está bien llorar en privado, o en público, en su caso. Venus entra a Tauro el 29 de abril, cuando deberías de rodearte de belleza.

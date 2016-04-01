@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Acuario Marzo 2016 
+title: Acuario Abril 2016 
 permalink: /horoscopo-mensual/acuario/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2016, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-03-01'
+ lastmod: '2016-04-01'
 ---
 
- Debido al sextil formado entre la Luna y Venus, y Mercurio entrando a Acuario el 2 de marzo, ¡deberías prepararte para una temporada muy ocupada! La Luna Nueva del 8 de marzo es magia pura (algo de ello podría ser fantasía, pero aún sigue siendo divertido), pudiendo traer consigo buena suerte y dinero. Alguien espontáneamente te dirá lo que necesitas para que tal magia se manifieste. Piensa en grande bajo la Luna Llena del 23 de marzo. ¿Estás planeando un viaje? ¿Tienes ganas de probar una nueva técnica en tu trabajo o escuela? Experimenta a una escala más pequeña o cerca de casa, pero mantén esa intención de llevar tus nuevas habilidades a un escenario más grande. ¡Y no la abandones!
+ Tus amigos y familiares podrían rodearte durante la Luna Nueva del 7 de abril. Gurda tu distancia tanto como sea necesario. Aun así, puede que sea difícil encontrar tiempo para otras personas que piensan que están simplemente tratando de mantenerse en contacto contigo. Las demandas laborales y profesionales podrían ser demasiadas bajo la Luna Llena del 21 de abril, cuando tu corazón estará más seguramente atado a tu hogar. Cumplirás con todas tus obligaciones y realizarás tus funciones, pero no estarás realmente feliz hasta que estés en casa. Finalmente, el sextil entre la Luna y Urano del 30 de abril termina tu mes con una ligera sorpresa que podría resolver uno o dos problemas.

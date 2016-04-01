@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Geminis Marzo 2016 
+title: Geminis Abril 2016 
 permalink: /horoscopo-mensual/geminis/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2016, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-03-01'
+ lastmod: '2016-04-01'
 ---
 
- Todos los ojos podrían estar en ti bajo la Luna Nueva del 8 de marzo. Tómate tu tiempo, esfuérzate lo más que puedas y aprende de todo y de todos. Si repites un pequeño error de juicio, relájate. Tal tiene una solución simple y fácil que ya conoces. Algunas de tus amistades podrían querer tu opinión bajo la Luna Llena del 23 de marzo. Tengan discusiones creativas y divertidas, más adviérteles a tus amigos que todo es un experimento y que deben escuchar lo que les dicte su corazón. Por último, la conjunción entre Mercurio y Urano del 31 de marzo podría desencadenar salvajes pensamientos y locos planes. Juega a lo seguro, pero también déjate llevar.
+ Tu vida social adopta un tono más aventurero bajo la Luna Nueva del 7 de abril. Podrían lloverte muchas invitaciones sociales, por lo que escoge y elige al basarte en el puro placer que encuentres en cada oferta. La Luna Llena el 21 de abril acentúa tus habilidades interpersonales y talento para unir a las personas. Puede que los demás tengan ideas, planes o agendas, pero tú eres quien sabe cómo hacer que todas ellas funcionen. Gozarás de ser el catalizador que ponga todo en movimiento a medida que ganas respeto y otros tipos de recompensas. Mercurio se torna retrógrado en Tauro el 28 de abril, aspecto que te dará tiempo para echarle un segundo vistazo a algunos asuntos domésticos y monetarios.
