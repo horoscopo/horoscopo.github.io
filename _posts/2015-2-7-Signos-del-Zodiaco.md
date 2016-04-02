@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de abril 2016
+title: Hóroscopo de hoy 02 de abril 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Las ideas podrían parecer convencionales, pero no lo son bajo la Luna en Acuario. Por supuesto, eso es parte de su brillo. ¡Qué gran momento para formular soluciones a problemas! Esta noche, la química emocional podría estar fuera de sintonía. Es posible que desees tener cuidado cuando de sentimientos se trate.
+Lleva ciertos asuntos a una conclusión para poder garantizar una transición más suave mientras Mercurio se encuentre a punto de cambiar de signo. El compromiso es la clave para las parejas esta noche. Los solteros podrían experimentar atracción física, pero se necesita tiempo para saber si tienen algo en común (el tiempo podría ser escaso bajo la cuadratura entre la Luna y Venus).
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
