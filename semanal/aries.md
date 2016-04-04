@@ -1,15 +1,15 @@
 ---
 layout: page
-title: aries 28-03-2016 al 04-04-2016 
+title: aries 04-04-2016 al 11-04-2016 
 permalink: /horoscopo-semanal-gratis/aries/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-03-28'
+ lastmod: '2016-04-04'
 ---
-Si estás planeando un proyecto, encárgate de los detalles, ya que podrías subestimar el tiempo, la carga de trabajo, o gastos que este implique. El continuo enfoque en tu sector de recursos compartidos bien puede ayudarte a ganar dinero o animarte a desperdiciarlo. Si estás considerando consolidar tus deudas o adquirir un préstamo, espera hasta que Mercurio se torne directo el Jueves para experimentar transacciones más manejables. Saturno regresa de nuevo a tu signo el Domingo, animándote a liberar sentimientos que pudieran haberte evitado hacer algo.
+Venus se encuentra en Capricornio y en tu sector de viajes, por lo que esta puede ser la oportunidad ideal para hacer planes con un amigo o ser querido, sobre todo si quieres escapar a climas soleados. Con Mercurio ahora avanzando a partir del lunes, habrá menos retrasos o desvíos inesperados. El Sol en tu sector profesional te anima a reflexionar sobre tus planes. Ahora es el momento de pensar de manera diferente al formular una estrategia para conseguir una promoción o aumento de sueldo.
 
 ##Dinero
 
-Este período es de los aspectos que afectan a las vidas pasadas, karma y las instituciones. De repente puedes ser presa de un deseo de cambiar de trabajo, iniciar una obra de caridad, o desarrollar un nuevo negocio. Hacer una investigación cuando puedas y luego crear un plan de negocios que se ve por lo menos cinco años en el futuro. Es posible hacer que funcione.
+Está subiéndote a grandes olas de cambio en tu vida monetaria. Tienes muchas ideas creativas sobre cómo ganar y ahorrar más, lo cual es genial. Pero también eres un poco inestable a veces, así que tener un plan B, C, y D no estaría de más. Mientras tanto, tu sector de carrera se está encendiendo, pidiéndote que asumas un rol de liderazgo.

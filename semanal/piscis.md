@@ -1,15 +1,15 @@
 ---
 layout: page
-title: piscis 28-03-2016 al 04-04-2016 
+title: piscis 04-04-2016 al 11-04-2016 
 permalink: /horoscopo-semanal-gratis/piscis/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-03-28'
+ lastmod: '2016-04-04'
 ---
-Lo mejor sería tomar cierto tema con paciencia a pesar de que tu instinto sea darte prisa. Te beneficiarás de abordar las cuestiones financieras lentamente y de manera eficiente, sobre todo si estás en busca de fondos para iniciar un proyecto o negocio. Ve los inevitables retrasos con humor y todo se resolverá por si solo gradualmente. Es posible que sientas más motivación a probar nuevas rutinas de dieta o ejercicio cuando Marte entre a Sagitario el sábado. Hazlo. Comenzar ahora te garantizará el mejor resultado posible. 
+El Sol ocupando tu signo te otorga una mayor vitalidad y energía. Aun así, a menos que sientas mucho interés o pasión por algo, puede que te resulte difícil ponerlo en marcha. Esta semana, trabaja en esos proyectos e ideas que significan mucho para ti. Esto no quiere decir que debas olvidarte de tus responsabilidades, debes de hacer todo lo posible por cumplirlas. Pero cuando tengas tiempo, trabajar en tus proyectos favoritos puede ser profundamente gratificante, no sólo ahora sino también en el futuro.
 
 ##Dinero
 
-Probablemente tienes un fuerte deseo de seguridad financiera. Para algunos esto puede traducirse en el deseo de controlar, mientras que para otros es sólo un deseo. Es hora de expresar lo que quieres y dejar que tus necesidades sean conocidas dentro de las alianzas empresariales y la oficina. Tienes la capacidad de comunicación y la creatividad para alcanzarlo.
+Ahora tienes el apoyo total del Universo para hacer dinero a través de cualquier cosa que implique el amor, las relaciones, la familia, los niños, y actividades divertidas. Son tus relaciones personales o profesionales las que te podrían ofrecer las mejores ideas para productos o servicios que les puedas ofrecer a tus clientes. Tienes más de una oportunidad para hacer que suceda.

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: cancer 28-03-2016 al 04-04-2016 
+title: cancer 04-04-2016 al 11-04-2016 
 permalink: /horoscopo-semanal-gratis/cancer/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-03-28'
+ lastmod: '2016-04-04'
 ---
-Colaborar con otra persona en un proyecto creativo y emocionante podría robarse una gran cantidad de tu tiempo y atención esta semana. Parece ser algo que podría valer la pena. Tómate tu tiempo con esto, ya que podría entrar en conflicto con otros planes profesionales u otras responsabilidades. En otra nota, intensos sentimientos por alguien podrían ser correspondidos, muy a tu placer. Si se trata de un nuevo romance, éste podría elevarse a un nuevo nivel de pasión. Sólo asegúrate de que realmente es lo que quieres antes de involucrarte demasiado.
+Esta semana, ciertos sentimientos podrían ser bastante intensos, desarrollándose hacia una gran fuerza conforme Venus se acerca a Plutón. Podrías percatarte de que sientes atracción hacia alguien que realmente se destaca del resto. Más tarde, ciertas conversaciones también podrían aumentar de tono y volverse muy intensas. Esta podría ser una de esas semanas en las que las cosas entre tú y alguien más podrían llegar a un punto crítico, y tu reacción podría tener consecuencias en el futuro. Mientras tanto, el espíritu festivo aumenta, ¡mejorando tu vida social radicalmente!
 
 ##Dinero
 
-Puede que creas que algo en el trabajo es demasiado bueno para ser verdad - porque lo es. En lugar de ver esto a través de lentes color de rosa, simplemente sé realista. El mejor uso de esta energía es a través de la imaginación y la creatividad, no el engaño. Aunque los aspectos crean una gran cantidad de energía, prepárate para un viaje lleno de baches.
+Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.

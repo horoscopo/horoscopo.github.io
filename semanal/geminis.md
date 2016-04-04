@@ -1,15 +1,15 @@
 ---
 layout: page
-title: geminis 28-03-2016 al 04-04-2016 
+title: geminis 04-04-2016 al 11-04-2016 
 permalink: /horoscopo-semanal-gratis/geminis/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-03-28'
+ lastmod: '2016-04-04'
 ---
-La Luna Nueva en tu signo del lunes puede ser la mejor del año para ti. Este es el momento indicado para poner en práctica cambios en áreas clave de tu vida. Comienza en los próximos días y verás una diferencia incluso antes. Puede que te resulte útil escribir tus metas, ya que hacerlo pondrá en marcha el proceso y te ayudará a alcanzarlas. El fuerte enfoque en tu sector espiritual te alienta a usar tu intuición como parte de tu caja de herramientas todos los días.
+Adopta un enfoque muy cauteloso hacia inversiones, asuntos empresariales, recursos compartidos y actividades de mercado de valores. De hecho, la mezcla de energías de esta semana insinúa inestabilidad en las áreas antes mencionadas; lo que podría deberse a fuerzas fuera de tu control. Por ahora, es mejor que no apuestes tus recursos o tomes cualquier tipo de riesgo, ya que hay una buena probabilidad de que no rinda frutos o que incluso termines perdiendo dinero. Haz lo que puedas para guardar bien tu efectivo y espera pacientemente que este período llegue a su fin.
 
 ##Dinero
 
-Este período tiene que ver con los opuestos. Puede que estés tratando de manifestar una nueva relación en tu vida con un mentor, empleador o socio de negocios. Y con cierta actividad en el área que rige las relaciones serias, podrías conocer a la persona adecuada en el momento adecuado. Juntos, pueden mover montañas en el mundo de los negocios, ¡por lo que definan parámetros y manos a la obra! Más deben actuar con rapidez.
+Puede que los aspectos en tu sector de dinero y valores te molesten más que a la mayoría. Justo cuando estás a punto de cerrar el trato, las cosas se te escapan de las manos o simplemente se retrasan. No importa, ya que se pondrán mejor. Hasta entonces, haz negocios o trabaja para instituciones y corporaciones más grandes. Esto mejorará tu presupuesto anual.

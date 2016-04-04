@@ -1,15 +1,15 @@
 ---
 layout: page
-title: capricornio 28-03-2016 al 04-04-2016 
+title: capricornio 04-04-2016 al 11-04-2016 
 permalink: /horoscopo-semanal-gratis/capricornio/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-03-28'
+ lastmod: '2016-04-04'
 ---
-Aunque la Luna Nueva se manifiesta en el social Acuario, analiza cuidadosamente la posibilidad de hacer un nuevo comienzo esta semana. Si bien esta puede ser una excelente oportunidad para entrar a nuevos círculos, te ayudaría investigar un poco antes de involucrarte demasiado. Esto se aplica a nuevas relaciones románticas también. Hay una gran cantidad de oportunidades apareciendo en el frente laboral, aunque lo más seguro es que coseches sus beneficios a la larga. El Día de San Valentín se vislumbra sensual, un poco intenso y divertido.
+Podrás fácilmente sintonizar con los sentimientos de otras personas, sobre todo al comienzo de la semana. Y si bien esto podría aumentar tu percepción sobre lo que mueve a ciertas personas, también puedes utilizarlo a tu ventaja, sobre todo si tienes ansias por resolver cuestiones amorosas o asuntos financieros. La vibra cambia un poco una vez que el Sol entra a Acuario, tu signo opuesto, volviéndose un poco más alegre y social. La Luna Llena en tu signo del sábado puede ser excelente para una fiesta u otra celebración.
 
 ##Dinero
 
-Tu sector de dinero se destaca esta semana. La forma en la que ves el dinero en tu vida entra en cuestión, así como la sabiduría de tus planes monetarios más recientes. Este es el momento de cuestionar todo - incluso lo que decidiste que fue bueno hace unos meses. Alentar las señales del Universo se relacionan con tu capacidad de obtener ingresos, mientras que los detalles de cualquier noticia negativa se suavizan. Estás en el camino correcto en ambos sentidos.
+Es una gran semana para pensar y planificar. El Universo indica un tiempo de gran actividad mental. Es un momento de gran oportunidad, a partir de los pasos que tendrás que tomar para realizar tus sueños financieros a darte crédito por cosas que ya has logrado. Cierta actividad en tu sector de aprendizaje te llama para que tomes una clase de algo que te inspire.
