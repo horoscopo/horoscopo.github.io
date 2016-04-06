@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de abril 2016
+title: Hóroscopo de hoy 06 de abril 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-¡Agárrate! El día de hoy es como una montaña rusa de altas y bajas mientras la Luna cuadra a Urano, el planeta del cambio. Y el aspecto añadido por la Luna y Saturno la hace una experiencia de aprendizaje. Las lecciones extremadamente personales de esta noche podrían tratarse sobre el control de los sentimientos. Los solteros, sobre todo, deben hacen uso de esta noción.
+Tu imaginación trabajando de más podría conducir a decisiones equivocadas. La realidad podría ser lo contrario a lo que temporalmente piensas cuando Mercurio aspecta al nebuloso Neptuno. Pospón tu decisión hasta que hayas analizado tus pensamientos. Esta noche, los solteros se hacen del rogar con tal de proteger a su corazón bajo la Luna en el cauteloso Tauro.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
