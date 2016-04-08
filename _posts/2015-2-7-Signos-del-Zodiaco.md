@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de abril 2016
+title: Hóroscopo de hoy 08 de abril 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Planea proyectos esta mañana, como la reparación de ciertas situaciones en más de un sentido. Ten apertura a nuevas ideas cuando la Luna forme trígono con Plutón esta tarde. Esta es la oportunidad de volver a examinar lecciones que de otra manera no hubieras aprendido. Tales pudiéndote servir esta noche. También hay mucho qué decir sobre el beneficio de la duda.
+¡Feliz cumpleaños a Piscis durante los próximos 30 días! Sé feliz y cultiva alegría en tu vida. El aspecto entre la Luna y Plutón confiere una mente deductiva, visiones del futuro y la persistencia de enfocarse en todo ello. Sueña en grande. Esta noche, busca lo inesperado mientras la Luna cuadre a Urano. ¿No te había aburrido ya un poco la misma rutina de siempre?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
