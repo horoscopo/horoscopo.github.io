@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de abril 2016
+title: Hóroscopo de hoy 09 de abril 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-¡Feliz cumpleaños a Piscis durante los próximos 30 días! Sé feliz y cultiva alegría en tu vida. El aspecto entre la Luna y Plutón confiere una mente deductiva, visiones del futuro y la persistencia de enfocarse en todo ello. Sueña en grande. Esta noche, busca lo inesperado mientras la Luna cuadre a Urano. ¿No te había aburrido ya un poco la misma rutina de siempre?
+Si has estado sintiendo un abrumador aburrimiento, el sextil entre la Luna y Mercurio te ofrece la oportunidad de hacer algo interesante. ¡Algo bastante inspirador! El mensaje de esta noche para los solteros es que es posible que deseen estar a solas. Si es así, protegerán a su inocente y confiado corazón. Sin embargo, las parejas pueden demostrarse su amor y confianza mutua.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
