@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 09 de abril 2016
+title: Hóroscopo de hoy 10 de abril 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Si has estado sintiendo un abrumador aburrimiento, el sextil entre la Luna y Mercurio te ofrece la oportunidad de hacer algo interesante. ¡Algo bastante inspirador! El mensaje de esta noche para los solteros es que es posible que deseen estar a solas. Si es así, protegerán a su inocente y confiado corazón. Sin embargo, las parejas pueden demostrarse su amor y confianza mutua.
+¡Feliz cumpleaños a Leo! Es un nuevo año en el que presumes lo que tienes y lo haces de una manera más brillante y más audaz. Si hay algo que todos debemos hacer hoy es encargarnos de situaciones sin resolver con Mercurio a punto de cambiar de signo. Esta noche, la tensión entra eléctricamente a la escena cuando la Luna cuadra a Marte.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
