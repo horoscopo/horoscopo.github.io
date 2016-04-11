@@ -1,15 +1,15 @@
 ---
 layout: page
-title: acuario 04-04-2016 al 11-04-2016 
+title: acuario 11-04-2016 al 18-04-2016 
 permalink: /horoscopo-semanal-gratis/acuario/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-04'
+ lastmod: '2016-04-11'
 ---
-Estás en una fase en la que te beneficiará relajarte y recargar baterías. Después de once meses de actividad en tu duodécimo casa, deberías dedicarte a meditar sobre tu progreso y metas para los próximos doce meses. También es una oportunidad para dejar de lado sentimientos y situaciones que drenan tu energía. Si haces esto ahora, harás el mejor uso posible de tu período anual de recuperación. Finalmente, Venus entrando a tu sector social el domingo hace de este un excelente momento para la colaboración y el trabajo en equipo.
+Un deseo que has tenido durante algún tiempo podría hacerse más fuerte esta semana, sobre todo si tiene que ver con romance. Como resultado, la necesidad de acercarte a esta persona podría convertirse en una especie de obsesión. Sin embargo, ándate con cuidado, ya que esta actitud podría incomodarle a menos que el sentimiento sea mutuo. Además, tal parece que no descansarás hasta que llegues al fondo de un misterio o problema, y tu persistencia en esta área sin duda podría valerte la pena.
 
 ##Dinero
 
-Para ti, esta semana es sobre el hecho de que parte de ti quiere sumergirse en la belleza y la creatividad, pero las fuerzas quieren que pases tiempo al cuidado de cualquier deuda que pueda haberse acumulado. De nada sirve entrar en pánico o reprenderse a sí mismo por un gasto excesivo. A partir de este punto en adelante, haz una promesa para cambiar la forma de hacer negocios en tu vida monetaria, puedes hacerlo.
+Tienes un montón de creatividad ahora, así como un deseo de mejorar tu apariencia y prestar más atención a la forma en la que te proyectas al mundo. Hay impulso a que acudas a las relaciones personales y profesionales que te ayudarán a avanzar en tu trabajo y vida monetaria.

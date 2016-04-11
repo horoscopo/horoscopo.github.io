@@ -1,15 +1,15 @@
 ---
 layout: page
-title: geminis 04-04-2016 al 11-04-2016 
+title: geminis 11-04-2016 al 18-04-2016 
 permalink: /horoscopo-semanal-gratis/geminis/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-04'
+ lastmod: '2016-04-11'
 ---
-Adopta un enfoque muy cauteloso hacia inversiones, asuntos empresariales, recursos compartidos y actividades de mercado de valores. De hecho, la mezcla de energías de esta semana insinúa inestabilidad en las áreas antes mencionadas; lo que podría deberse a fuerzas fuera de tu control. Por ahora, es mejor que no apuestes tus recursos o tomes cualquier tipo de riesgo, ya que hay una buena probabilidad de que no rinda frutos o que incluso termines perdiendo dinero. Haz lo que puedas para guardar bien tu efectivo y espera pacientemente que este período llegue a su fin.
+Cuestiones de salud y bienestar pasan a primer plano, al igual que los asuntos laborales y de estilo de vida. Si sientes agobio, tal vez deberías considerar la posibilidad de disminuir tu ritmo e incluso tomarte tiempo libre con tal de recargar tus baterías. A partir de mediados de semana podrías tener más motivación a investigar tus opciones y encontrar maneras de hacer más fácil tu vida en general. Continúas teniendo el apoyo de los demás incluso si no eres consciente de ello, lo que seguro es una buena noticia. Además, ¡tu vida amorosa está que arde!
 
 ##Dinero
 
-Puede que los aspectos en tu sector de dinero y valores te molesten más que a la mayoría. Justo cuando estás a punto de cerrar el trato, las cosas se te escapan de las manos o simplemente se retrasan. No importa, ya que se pondrán mejor. Hasta entonces, haz negocios o trabaja para instituciones y corporaciones más grandes. Esto mejorará tu presupuesto anual.
+Esta semana, cierta actividad en tu sector de empleo restringirá tu vida laboral un poco y te pedirá que seas más responsable con lo que haces con tu dinero. El tratar de ser todo para todo el mundo no va a funcionar ahora. En lugar de eso, especializa tus habilidades y cobra por ello en consecuencia.  Acude a comunicarte con tus más allegados en busca de pistas sobre la manera de proceder.

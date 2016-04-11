@@ -1,15 +1,15 @@
 ---
 layout: page
-title: leo 04-04-2016 al 11-04-2016 
+title: leo 11-04-2016 al 18-04-2016 
 permalink: /horoscopo-semanal-gratis/leo/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-04'
+ lastmod: '2016-04-11'
 ---
-Existe la posibilidad de mensajes contradictorios debido a una mezcla de fantasiosas energías sugiriendo que tus cabeza anda por la nubes. Esto puede ser genial para la formulación y el intercambio de ideas, pero puede que no sea tan útil si tienes plazos que cumplir y objetivos que alcanzar. Hacer ejercicio a diario puede ponerte los pies en la tierra, permitiéndote centrarte y concentrarte mejor. Mercurio retrocede en tu sector hogareño desde el jueves, por lo que pospón proyectos de remodelación o la compra de artículos caros por ahora.
+Venus en el apasionado Escorpión podía darte ganas de perder unas cuantas libras. Mientras que alistarte para la época de festividades puede estar en lo alto de tu agenda, ten cuidado al salir con amigos si quieres terminar la semana sin problemas. Evita alterar los planes mejor trazados al guardarte tus polémicos comentarios. Si tus propios planes se ven alterados, tendrás que tomarlo con calma. La Luna Nueva del viernes es perfecta para llevar una relación amorosa a un nuevo nivel.    
 
 ##Dinero
 
-Esta semana se trata de la actividad que hay en tu sector de deuda o dinero de otras personas, lo que significa que algo que pensaste haber ya pagado, podría levantar su fea cabeza de nuevo. Asegúrate de haber tenido la intención de pagarlo, y de que accidentalmente haya sido olvidado en la pila de cuentas sin pagar. Encárgate de tal lo antes posible para evitar contratiempos. Haz tu trabajo lo mejor posible o cambia de carrera.
+Para ti, esta semana es sobre el hecho de que parte de ti quiere sumergirse en la belleza y la creatividad, pero las fuerzas quieren que pases tiempo al cuidado de cualquier deuda que pueda haberse acumulado. De nada sirve entrar en pánico o reprenderse a sí mismo por un gasto excesivo. A partir de este punto en adelante, haz una promesa para cambiar la forma de hacer negocios en tu vida monetaria, puedes hacerlo.

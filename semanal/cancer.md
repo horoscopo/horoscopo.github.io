@@ -1,15 +1,15 @@
 ---
 layout: page
-title: cancer 04-04-2016 al 11-04-2016 
+title: cancer 11-04-2016 al 18-04-2016 
 permalink: /horoscopo-semanal-gratis/cancer/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-04'
+ lastmod: '2016-04-11'
 ---
-Esta semana, ciertos sentimientos podrían ser bastante intensos, desarrollándose hacia una gran fuerza conforme Venus se acerca a Plutón. Podrías percatarte de que sientes atracción hacia alguien que realmente se destaca del resto. Más tarde, ciertas conversaciones también podrían aumentar de tono y volverse muy intensas. Esta podría ser una de esas semanas en las que las cosas entre tú y alguien más podrían llegar a un punto crítico, y tu reacción podría tener consecuencias en el futuro. Mientras tanto, el espíritu festivo aumenta, ¡mejorando tu vida social radicalmente!
+Puede que los asuntos monetarios no hayan sido fáciles durante algún tiempo, sobre todo con Saturno animándote a ser más responsable con respecto a tus finanzas. Es posible que te hayas visto en la necesidad de reducir y reciclar ciertos artículos en lugar de comprar nuevos. Sin embargo, esta semana te trae oportunidades para más trabajo, ya sea temporal o a largo plazo. Una oferta que te llegue de la nada podría ser la respuesta a una oración y proporcionarte ese dinero que realmente necesitas. Además, también podrían surgirte ideas para mejorar tus ingresos.
 
 ##Dinero
 
-Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.
+Esta semana experimentas un aumento de energía en el terreno de la auto-expresión.  Alguien en tu lugar de trabajo te tiene celos y es incapaz de poder manejar tu poderosa naturaleza. No le des importancia. Te estás proyectando de una nueva manera, que no puede ser nada más que positiva. Habla con la verdad. Tu destino es la profundidad, la madurez y el buen sentido. Otros necesitan oírlo.
