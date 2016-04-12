@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de abril 2016
+title: Hóroscopo de hoy 12 de abril 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Hoy, comunícate con confianza mientras la Luna forme trígono con Júpiter. Pero debido a la influencia de Neptuno, visualiza y luego revisa tus palabras si es necesario. Esta noche, algunas personas piensan que argumentar alivia el estrés cuando la Luna aspecta a los tensos Marte y Plutón. Si no tienes pareja, podrías dejarte llevar por tus ciegos instintos en vez de tu destino o algo que realmente hubieras elegido.
+Evoca imágenes y premoniciones vívidas mientras tengas una extraña habilidad para comprender, cortesía del trígono acuoso entre Mercurio y Neptuno. Es fácil contener tu emoción bajo la Luna en Virgo de esta noche. La buena noticia para los solteros es que buscar pacientemente vale la pena - lo mismo ocurre con sentarse a observar.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
