@@ -22,14 +22,16 @@ layout: null
                      <time class="op-modified" dateTime='{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}' />
                      
                      <figure>
-                        <img src="{{ post.ogimg }}" />
+                        <img src="{{ site.url }}{{ post.ogimg }}" />
                         <figcaption>{{ post.title | xml_escape }}</figcaption>
                      </figure>   
                   </header>
+                  <p>
                   {{ post.content | xml_escape }}
+                  </p>
                   <figure>
                      <video>
-                        <source src="//www.youtube.com/embed/{{ post.horoscopo.video }}" type="video/mp4" />
+                        <source src="http://www.youtube.com/embed/{{ post.horoscopo.video }}" type="video/mp4" />
                      </video>
                   </figure>
                </article>
