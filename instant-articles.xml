@@ -28,10 +28,15 @@ layout: null
                   
                   {{ post.content }}
                   
-                  <figure class="op-social" data-feedback="fb:likes,fb:comments">
+                  <figure class="op-social">
                         <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ post.horoscopo.video }}" allowfullscreen></iframe>
                   </figure>
                   
+                  <footer>
+                  <ul class="op-related-articles">
+                     <li data-sponsored="true"><a href="{{ site.url }}"></a></li>
+                  </ul>
+                  </footer>
 
                   
                </article>
