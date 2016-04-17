@@ -26,7 +26,7 @@ layout: null
                      </figure>   
                   </header>
                   
-                  {{ post.content | xml_escape }}
+                  {{ post.content }}
                   
                   <figure>
                      <video>
