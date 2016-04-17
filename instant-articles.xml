@@ -40,17 +40,19 @@ layout: null
                      </figure>   
                   </header>
                   
-                  <figure data-feedback="fb:likes, fb:comments">
-                        <img src="{{ site.url }}{{ post.ogimg }}" />
-                        <figcaption>{{ post.title | xml_escape }}</figcaption>
-                  </figure>
-                  
-                  {{ post.content }}
-                  
                   <figure class="op-social">
                         <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ post.horoscopo.video }}" allowfullscreen></iframe>
                   </figure>
                   
+
+                  {{ post.content }}
+
+                  <figure data-feedback="fb:likes, fb:comments">
+                        <img src="{{ site.url }}{{ post.ogimg }}" />
+                        <figcaption>{{ post.title | xml_escape }}</figcaption>
+                  </figure>
+                                    
+
                   <footer>
                   <ul class="op-related-articles">
                      <li data-sponsored="true"><a href="{{ site.url }}"></a></li>
