@@ -11,7 +11,7 @@ layout: null
     {% for post in site.posts limit:12 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <content:encoded>
+        <content:encoded><![CDATA[
            <html>
             <body>
                <article>
@@ -35,7 +35,7 @@ layout: null
                </article>
             </body>
             </html>
-        </content:encoded>   
+        ]]></content:encoded>   
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ site.url }}{{ post.url }}</link>
