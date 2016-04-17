@@ -12,7 +12,7 @@ layout: null
    <author>
       <name>{{ site.name }}</name>
    </author>
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts %}
 
    <entry>
      <title>{{ post.title | xml_escape }}</title>
