@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de abril 2016
+title: Hóroscopo de hoy 17 de abril 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-No te sorprendas cuando destellos de intuición sean encendidos por Venus en Piscis conjuntando a Neptuno. Si se siente bien hacerlo, llévalos contigo hacia el futuro. Mercurio se encuentra a punto de cambiar de signo esta noche. Espera cambios repentinos de humor y diálogo. Está bien, posiblemente alcanzaste el punto máximo dentro de una conversación y es hora de pasar a otra cosa.
+Hoy, presta atención, ya que Saturno, el planeta que suele darle a uno lecciones, sugiere que pensemos seriamente ciertos problemas. Las parejas tienen la intención de preservar el espacio que tanto parecen necesitar bajo la Luna en Acuario de esta noche. Solteros, la atracción tiene mucho que ver con la actitud y el enfoque cuando Júpiter aspecta a Urano.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
