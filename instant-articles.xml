@@ -11,13 +11,27 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <content:encoded><![CDATA[
-           <html>
+           <!doctype html>
+           <html lang="es" prefix="op: http://media.facebook.com/op#">
+            <head>
+               <meta charset="utf-8">
+               <link rel="canonical" href="{{ site.url }}{{ post.url }}">
+               <link rel="stylesheet" title="default" href="#">
+               <title>{{ post.title | xml_escape }}</title>
+               <meta property="fb:article_style" content="default">
+            </head>
             <body>
                <article>
                   <header>
                      
                      <h1>{{ post.title | xml_escape }}</h1>
-                     
+                     <h3 class="op-kicker">
+                        Horóscopos
+                     </h3>
+                     <address>
+                     Horóscopo del día
+                     </address>
+
                      <time class="op-modified" dateTime='{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}' />
                      
                      <figure>
@@ -25,6 +39,11 @@ layout: null
                         <figcaption>{{ post.title | xml_escape }}</figcaption>
                      </figure>   
                   </header>
+                  
+                  <figure data-feedback="fb:likes, fb:comments">
+                        <img src="{{ site.url }}{{ post.ogimg }}" />
+                        <figcaption>{{ post.title | xml_escape }}</figcaption>
+                  </figure>
                   
                   {{ post.content }}
                   
