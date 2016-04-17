@@ -1,8 +1,7 @@
 ---
 layout: null
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{{ site.name | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -26,9 +25,9 @@ layout: null
                         <figcaption>{{ post.title | xml_escape }}</figcaption>
                      </figure>   
                   </header>
-                  <p>
+                  
                   {{ post.content | xml_escape }}
-                  </p>
+                  
                   <figure>
                      <video>
                         <source src="http://www.youtube.com/embed/{{ post.horoscopo.video }}" type="video/mp4" />
