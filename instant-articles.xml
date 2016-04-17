@@ -19,20 +19,36 @@ layout: null
                      <h1>{{ post.title | xml_escape }}</h1>
                      
                      <time class="op-modified" dateTime='{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}' />
-                     
-                     <figure>
-                        <img src="{{ site.url }}{{ post.ogimg }}" />
-                        <figcaption>{{ post.title | xml_escape }}</figcaption>
-                     </figure>   
+                     <figure class="op-slideshow">
+                        <figure>
+                           <img src="{{ site.url }}{{ post.ogimg }}" />
+                           <figcaption>{{ post.title | xml_escape }}</figcaption>
+                        </figure>  
+                        <figure class="op-social">
+                           <iframe>
+                              <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ post.horoscopo.video }}" allowfullscreen></iframe>
+                           </iframe>
+                        </figure>
+                     </figure> 
                   </header>
                   
                   {{ post.content }}
                   
+                  <figure class="op-social">
+                     <iframe>
+                        <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ post.horoscopo.video }}" allowfullscreen></iframe>
+                     </iframe>
+                  </figure>
+               
                   <figure>
                      <video>
-                        <source src="http://www.youtube.com/embed/{{ post.horoscopo.video }}" type="video/mp4" />
-                     </video>
+                        <iframe>
+                        <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ post.horoscopo.video }}" allowfullscreen></iframe>
+                     </iframe></video>
                   </figure>
+                  
+
+                  
                </article>
             </body>
             </html>
