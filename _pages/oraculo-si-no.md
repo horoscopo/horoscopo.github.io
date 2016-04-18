@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Oraculo Si o NO
 permalink: /oraculo-si-no/
 oraculo_si_no: true
