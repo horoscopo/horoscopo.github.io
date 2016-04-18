@@ -1,15 +1,15 @@
 ---
 layout: page
-title: leo 11-04-2016 al 18-04-2016 
+title: leo 18-04-2016 al 25-04-2016 
 permalink: /horoscopo-semanal-gratis/leo/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-11'
+ lastmod: '2016-04-18'
 ---
-Venus en el apasionado Escorpión podía darte ganas de perder unas cuantas libras. Mientras que alistarte para la época de festividades puede estar en lo alto de tu agenda, ten cuidado al salir con amigos si quieres terminar la semana sin problemas. Evita alterar los planes mejor trazados al guardarte tus polémicos comentarios. Si tus propios planes se ven alterados, tendrás que tomarlo con calma. La Luna Nueva del viernes es perfecta para llevar una relación amorosa a un nuevo nivel.    
+Cualquier cambio que realices en tu interior podría permitirte tener más confianza y lograr más. Sin embargo, esta podría ser la razón por la que sientas que has perdido tu sentido de orientación. Realmente no ha desaparecido, se trata simplemente de que estás en el acto de redefinición de tus objetivos y propósito de vida. De hecho, el Eclipse Lunar de esta semana podría animarte a ir aún más profundo. Si te has preparado para alcanzar el éxito, el cosmos sugiere que el primer paso es conocerte como persona.
 
 ##Dinero
 
-Para ti, esta semana es sobre el hecho de que parte de ti quiere sumergirse en la belleza y la creatividad, pero las fuerzas quieren que pases tiempo al cuidado de cualquier deuda que pueda haberse acumulado. De nada sirve entrar en pánico o reprenderse a sí mismo por un gasto excesivo. A partir de este punto en adelante, haz una promesa para cambiar la forma de hacer negocios en tu vida monetaria, puedes hacerlo.
+Te enfrentas a un tiempo que hace correr la voz. No solamente estás conociendo gente nueva y reconectando con viejos amigos, también estás influyendo en la opinión pública con tu trabajo y pidiendo lo que realmente vales. Un aspecto positivo armoniza tus esfuerzos para crear una vida cómoda. El primer paso en este camino es un hogar seguro y acogedor. Ya sea que ésta sea una casa o un apartamento, asegúrate de que estás viviendo en un espacio que te hace sentir éxito.

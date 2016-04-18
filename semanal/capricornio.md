@@ -1,15 +1,15 @@
 ---
 layout: page
-title: capricornio 11-04-2016 al 18-04-2016 
+title: capricornio 18-04-2016 al 25-04-2016 
 permalink: /horoscopo-semanal-gratis/capricornio/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-11'
+ lastmod: '2016-04-18'
 ---
-El deseo de aventura podría llevarte a hacer planes para tomar un crucero, una largo trayecto, o un viaje alrededor del mundo. Hay bastante acción manteniendo tu tiempo ocupado, y mientras más emocionante y desafiante sea, mejor. Un alegre enfoque en cuestiones profesionales podría verte solicitando un nuevo puesto de trabajo, promoción, o cambiar por completo tu escena laboral. Sea lo que sea a lo que te dediques ahora, es probable que desees más ingresos, más retos, o más poder. ¡Es hora de ir tras ello!
+Comenzar a controlar tus finanzas podría ser un factor importante en relación a ahorrar para tu futuro. Pero debido a que se trata de una semana muy social, es posible que debas ignorar los gastos adicionales temporalmente a favor de pasártela bien. Aun así, el impacto que una persona tenga sobre los asuntos familiares y las celebraciones podría ser bastante marcado. Tal podría agregarle un tono muy espiritual a los próximos días o llegar a ser un problema. Una manera de manejar esto sería mantener los límites establecidos y delegar.
 
 ##Dinero
 
-Esta semana pones a prueba la resistencia y la tensión de tus relaciones. Esto puede resultar en que más de una relación profesional estrecha no funcione. No importa. Hay un montón de cambios positivos que se aproximan a tu sector del hogar, lo que indica un movimiento, la venta, o la adición de un espacio laboral en tu vida. El secreto está en no tratar de forzar nada ya que no es probable que dé frutos financieros por ahora.
+Tienes algunos desafíos a la espera. Tus relaciones son las más afectadas por las configuraciones celestes actuales. El Universo te está empujando a extenderte un poco más, sobre todo cuando se trata de tus compañeros de trabajo. Trata de conocerles mejor y es posible que llegues a tener más cercanía con ellos de la que tienes ahora. ¡Necesitas de todos los amigos que puedas conseguir!

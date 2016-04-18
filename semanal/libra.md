@@ -1,15 +1,15 @@
 ---
 layout: page
-title: libra 11-04-2016 al 18-04-2016 
+title: libra 18-04-2016 al 25-04-2016 
 permalink: /horoscopo-semanal-gratis/libra/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-11'
+ lastmod: '2016-04-18'
 ---
-La compleja red de energías de esta semana te trae la oportunidad de considerar tus prioridades, sobre todo en cuanto a finanzas se refiere. Antes de gastar dinero en artículos para tu hogar que te dan placer pero que no necesitas, considera si lo que tienes la intención de comprar es una buena inversión. Ya sea que estés invirtiendo tu tiempo o tus recursos, vale la pena tener mucho cuidado y no perder dinero innecesariamente. Si lo haces, lograrás avanzar positivamente y te sentirás muy bien acerca de todo lo que logres.
+La optimista alineación de esta semana podría empujarte a poner manos a la obra y tener éxito en un ambicioso objetivo o plan profesional. Puede que sientas más confianza en tus posibilidades de la que has tenido en algún tiempo, lo que contribuye a tu entusiasmo y determinación para tener éxito. El movimiento de Mercurio a Libra del Jueves le añade brillo extra a tu vida social, animándote a socializar y tal vez involucrarte en trabajo en equipo. La Luna Llena en Piscis del Sábado le daría vida a una reunión o fiesta en tu casa.
 
 ##Dinero
 
-Esta semana la vida será cualquier cosa menos que aburrida con tu eléctrica personalidad ganándose a algunos, pero dejando a otros preguntándose de qué planeta viniste. Quieres salir a divertirte con amantes, amigos y familiares, pero el Universo quiere que te encargues del cambio en el frente de carrera. Si te está empezando a costar demasiado, piensa en cómo trabajar desde casa tiempo parcial para ahorrarte el dinero gastado en transportación.
+Es una semana extraña en tu sector de empleo. Parte de ti quiere avanzar mientras que otra parte de ti quiere quedarse atrás, así que puede que te sea difícil avanzar en las diversas cuestiones relacionadas con el trabajo. Puede haber algo de tensión entre tu deseo de avanzar en tus objetivos de carrera y la realidad en cómo te estás proyectando actualmente hacia el mundo. Es hora de intensificar tu espíritu.
