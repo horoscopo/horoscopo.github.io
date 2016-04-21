@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de abril 2016
+title: Hóroscopo de hoy 21 de abril 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Hoy, la vida es muy ordenada bajo la increíblemente eficiente Luna en Virgo. Venus, el astro del amor, también se encuentra en Virgo, dándonos tendencia a juzgar a las personas a tan sólo unos minutos de haberlas conocido. A veces es bueno aplicar la prueba del tiempo cuando los veredictos son firmes y la información es escasa.
+Todo puede ser ordenado y comprensible el día de hoy. Y tú puedes ser perfección pura bajo la Luna en Virgo. Hay una gran cantidad de emociones expresadas cuando la Luna se opone a Neptuno esta noche. Lástima que nadie entienda lo que realmente las motiva. Para los solteros, no es una buena noche para comenzar un romance.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
