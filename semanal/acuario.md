@@ -1,15 +1,15 @@
 ---
 layout: page
-title: acuario 18-04-2016 al 25-04-2016 
+title: acuario 25-04-2016 al 02-05-2016 
 permalink: /horoscopo-semanal-gratis/acuario/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-18'
+ lastmod: '2016-04-25'
 ---
-El enfoque en tu sector espiritual continúa, aumentando tu intuición y despertando aún más tus sueños y metas con una visión inspiradora y práctica. Mientras que el Sol en tu signo te invita a actuar en relación a planes que son cercanos a tu corazón, te beneficiarás de tomarte tiempo para meditar y reflexionar. Equilibrar tus acciones con calma y paz interior puede allanar el camino para un mayor éxito. Este fin de semana, un optimista aspecto alude a un encuentro que podrías encontrar muy conmovedor.
+Con Marte recientemente en Escorpión, la intensidad llena ésta y las próximas seis semanas. Sin embargo, tu aumentada fuerza de voluntad y determinación podrían verse afectadas tanto por Mercurio como Júpiter girando hacia atrás. No trates de forzar el ritmo. En vez, céntrate en lo que sí esté funcionando y toma las cosas un paso a la vez. La mezcla de energías de esta semana también podría representar un punto decisivo, sobre todo si sientes la necesidad de tomar una decisión clave que podría tener consecuencias importantes.
 
 ##Dinero
 
-Podría parecer que tu vida monetaria va hacia atrás en lugar de avanzar hacia delante. Ciertas influencias parecen restringir y limitar lo que viene, pero puede que esto sea sólo una ilusión. Considera tener un poco más de madurez y responsabilidad.  Esto significa que probablemente tengas que determinar de una vez por todas lo que significa el dinero en tu vida. ¿Sientes comodidad con el dinero que ganas, o  necesitas más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.
+Los aspectos de esta semana podrían lanzar una llave inglesa hacia tus planes de dinero. Pon orden en tu propiedad compartida y las inversiones que tengas. La firma, el sellado y la entrega de estos materiales al lugar donde tienen que estar dejan espacio para crear una estrategia en otros lugares. Al mismo tiempo, considera la posibilidad de poner tu dinero en instituciones que sabes que son confiables. Confiar en las nuevas puede ser atractivo, pero no es la decisión correcta para este momento de tu vida.

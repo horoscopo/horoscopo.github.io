@@ -1,15 +1,15 @@
 ---
 layout: page
-title: geminis 18-04-2016 al 25-04-2016 
+title: geminis 25-04-2016 al 02-05-2016 
 permalink: /horoscopo-semanal-gratis/geminis/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-18'
+ lastmod: '2016-04-25'
 ---
-Esta semana, es posible que tengas que convencerte de que tienes lo que se necesita para tener éxito. De hecho, tal va a ser la parte más difícil del proceso. E incluso si realmente no piensas que puedes hacerlo, puede que hasta sea mejor que pretendas lo contrario. La razón es que una espléndida alineación de energías entre semana podía verte haciendo considerables avances. Puede que al principio te tambalees al tener que salirte de tu zona de confort, pero una vez que comiences a hacerlo, habrás ganado la batalla. 
+Las posibilidades de ocio y placer continúan atrayendo tu atención, animándote a explorar tus habilidades y talentos y mostrarlos de la mejor manera posible. Aun así, ciertas cuestiones de autoestima podrían afectar tu confianza a menos que puedas cortarlas de raíz. Hay una posibilidad de que pudieras impresionar a alguien que quiera contratar tus servicios, por lo que no te contengas. Más tarde, cuando Marte entre a Sagitario, te percatarás de que salirte de tu zona de confort podría mejorar tu ingreso.
 
 ##Dinero
 
-Es posible que sientas un urgencia grave esta semana - de viajar, aprender algo nuevo, de hacer una amistad en el extranjero, o hablar un nuevo idioma. Cada uno de estos tiene una ventaja única para tu vida monetaria en el futuro, así que vale la pena checar qué es lo que te parece más interesante. Puede que no puedas resistirte a hacerlo de todas maneras ya que tu vida social podría bajar de ritmo lo suficiente para que puedas hacer estas cosas.
+Gran parte de la energía celeste indica que alguien o algo del pasado volverá para que puedas lidiar con ello de una vez por todas. Por otra parte, tu sector de trabajo por cuenta propia y de grupos sociales está resaltado. Conectar con gente con quién hayas perdido contacto puede conducirte a más dinero en el futuro.

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: capricornio 18-04-2016 al 25-04-2016 
+title: capricornio 25-04-2016 al 02-05-2016 
 permalink: /horoscopo-semanal-gratis/capricornio/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-18'
+ lastmod: '2016-04-25'
 ---
-Comenzar a controlar tus finanzas podría ser un factor importante en relación a ahorrar para tu futuro. Pero debido a que se trata de una semana muy social, es posible que debas ignorar los gastos adicionales temporalmente a favor de pasártela bien. Aun así, el impacto que una persona tenga sobre los asuntos familiares y las celebraciones podría ser bastante marcado. Tal podría agregarle un tono muy espiritual a los próximos días o llegar a ser un problema. Una manera de manejar esto sería mantener los límites establecidos y delegar.
+Tu atención se dirige hacia tus pensamientos y sentimientos. Se te facilitará más conectar y compartir tus emociones una vez que Mercurio entre a tu sector espiritual el lunes. Sin embargo, los días de mitad de semana podrían traer un desenlace debido a un tenso aspecto que podría significar que no te interesa invertir en un hobby o incluso un romance que pudiera estarte costando caro. A partir del viernes, será momento de analizar qué tan bien puedes manejar tu poder y qué es lo que te podría estar impidiendo disfrutar de la intimidad.
 
 ##Dinero
 
-Tienes algunos desafíos a la espera. Tus relaciones son las más afectadas por las configuraciones celestes actuales. El Universo te está empujando a extenderte un poco más, sobre todo cuando se trata de tus compañeros de trabajo. Trata de conocerles mejor y es posible que llegues a tener más cercanía con ellos de la que tienes ahora. ¡Necesitas de todos los amigos que puedas conseguir!
+Te enfrentas a una semana de crecimiento financiero. Usualmente te inclinas a la organización con respecto al gasto y esta puede ser una gran semana para discutir la ejecución presupuestaria y revisarla. ¿El actual está trabajando para ti o es necesario algún ajuste? Puede ser útil el registrarse en un servicio de banca en línea o usar herramientas en línea para calcular lo que necesitas para tu jubilación.

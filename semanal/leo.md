@@ -1,15 +1,15 @@
 ---
 layout: page
-title: leo 18-04-2016 al 25-04-2016 
+title: leo 25-04-2016 al 02-05-2016 
 permalink: /horoscopo-semanal-gratis/leo/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-18'
+ lastmod: '2016-04-25'
 ---
-Cualquier cambio que realices en tu interior podría permitirte tener más confianza y lograr más. Sin embargo, esta podría ser la razón por la que sientas que has perdido tu sentido de orientación. Realmente no ha desaparecido, se trata simplemente de que estás en el acto de redefinición de tus objetivos y propósito de vida. De hecho, el Eclipse Lunar de esta semana podría animarte a ir aún más profundo. Si te has preparado para alcanzar el éxito, el cosmos sugiere que el primer paso es conocerte como persona.
+Mientras que tu mente está concentrada en aventuras de viaje, oportunidades de estudio, o en la ampliación de tus horizontes, podrías perderte de un evento que termine haciéndote sentir confusión. Prepárate para una posible disputa en una relación que bien podrías evitar si eres lo suficientemente sensible para detectar lo que realmente está pasando. Puede que estés enterrando la cabeza en la arena porque no quieres ver lo que está sucediendo. Es mejor hablar que acabar en una pelea. Escucha el llamado de la Luna Nueva del Viernes a salirte de tu zona de confort.
 
 ##Dinero
 
-Te enfrentas a un tiempo que hace correr la voz. No solamente estás conociendo gente nueva y reconectando con viejos amigos, también estás influyendo en la opinión pública con tu trabajo y pidiendo lo que realmente vales. Un aspecto positivo armoniza tus esfuerzos para crear una vida cómoda. El primer paso en este camino es un hogar seguro y acogedor. Ya sea que ésta sea una casa o un apartamento, asegúrate de que estás viviendo en un espacio que te hace sentir éxito.
+Tú necesitas sentir seguridad en todos los aspectos de tu vida, lo que por lo general requiere de dinero en efectivo. Ahora, tus relaciones se vuelven muy importantes cuando se trata de hacer más dinero. Si necesitas un nuevo puesto de trabajo o una recomendación, pídele el favor a la persona más poderosa que conozcas. El aspecto actual es favorable para que las cosas se resuelvan y para que logres la felicidad que anhelas.

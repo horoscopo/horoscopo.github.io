@@ -1,15 +1,15 @@
 ---
 layout: page
-title: tauro 18-04-2016 al 25-04-2016 
+title: tauro 25-04-2016 al 02-05-2016 
 permalink: /horoscopo-semanal-gratis/tauro/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-18'
+ lastmod: '2016-04-25'
 ---
-Si ciertos amigos te han decepcionado recientemente, esto podría estar a punto de cambiar. El lunes, Mercurio comienza a avanzar en tu sector social. No fue necesariamente su culpa, ya que puede que hayan tenido sus propios problemas que resolver. Con un espíritu de buena voluntad, asegúrate de organizar una reunión o celebración para aquellos en tu círculo, incluida cualquier persona que te haya decepcionado. Hazles saber que todo está bien y que todo pronto volverá a la normalidad de nuevo.
+Un encuentro podría estar en tus cartas esta semana o durante las próximas tres semanas. Mercurio retrógrado en tu sector social sugiere que una vieja amistad, viejo interés amoroso o inclusive un ex podría volver a tu vida. Esta puede ser una oportunidad para hablar de lo anteriormente ocurrido u obtener curación con respecto a una difícil ruptura. Podrías percatarte de que ésta vez logran progresar mucho más. Además, Venus entrando a Tauro el viernes también sugiere que un romance del pasado podría volver a encenderse.
 
 ##Dinero
 
-Aunque puede que parezca como si las oportunidades estuvieran saliendo de la nada, lo cuál puede minar un poco tu  natural deseo de seguridad, debes saber que vas por buen camino. Es posible que estés un poco más propenso/a a accidentes de lo normal, así que conduce con cuidado. Trata de pagar lo que debes. No esperes a recibir esa inevitable llamada.
+Esta semana se obtiene un agradable descanso. Gente con la que pudiste haber perdido contacto está de vuelta en la escena. Una o más de estas personas más podría traer excelentes oportunidades comerciales. No tienes que entrarle a todos y cada uno de ellos, pero sin duda escucha las ideas que tengan. Debido a que hay grandes aspectos en tu carta ahora, tu influencia sobre los grupos sociales es cada vez mayor. Las esperanzas, los sueños y el dinero no están muy lejos. Deja que todos vengan hacia ti.
