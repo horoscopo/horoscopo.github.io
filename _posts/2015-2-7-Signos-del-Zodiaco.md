@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de abril 2016
+title: Hóroscopo de hoy 26 de abril 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Si te topas con retrasos, vienen por cortesía del Sol y Saturno. No es  como si el mundo estuviera en tu contra personalmente - tales retrasos son buenos para ti. En el lado positivo, la Luna en Leo de esta noche centra su atención en ti y te baña de calor. Solteros, disfruten de la atención - y tal vez incluso de una conexión amorosa.
+Prepárate para tener que pensar rápidamente, porque siempre existe la posibilidad de que haya cambios dramáticos o noticias importantes cuando Mercurio cuadra a Urano como lo hace hoy. No puedes operar en piloto automático. El mismo ritmo continúa por la noche cuando las emociones son más intensas y no pueden ser manipuladas bajo la Luna en Escorpión.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
