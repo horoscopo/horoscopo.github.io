@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 28 de abril 2016
+title: Hóroscopo de hoy 29 de abril 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Ten creatividad al hacer un positivo uso de tu hiperactiva imaginación mientras Marte aspecte a Neptuno durante los próximos días. La Luna en Tauro de esta noche ofrece la oportunidad de conocer a la sensible persona que hay por debajo de un extravagante exterior. Es agradable ver las cosas bajo una luz práctica, ¿no es así?
+Es hora de convertir al caos en orden conforme Mercurio entra al minimalista Virgo, el regente de la organizada simplicidad. Prepárate para reducir todo a sus elementos más simples. La atmósfera es a menudo emocional y pesada cuando la Luna aspecta a Plutón como lo hace esta noche. Una gran cantidad de sentimientos pueden ser desperdiciados en cosas que realmente no importan.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
