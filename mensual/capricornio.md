@@ -3,6 +3,8 @@ layout: page
 title: Capricornio Mayo 2016 
 permalink: /horoscopo-mensual/capricornio/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2016, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+ogimg: /images/capricornio.png
+description: Tu ansia de diversión pura es iluminada por la Luna Nueva del 6 de mayo. Encuentra alegría en algo nuevo y sorprendente. Algunas de tus amistades podrían no sorprenderse, pero estarán felices por ti. ¡Hazlo y ve hacia dónde te lleva! La Luna Llena del 21 de mayo te otorga poder detrás de escenas en una situación social o familiar. Tú bien sabes cómo restarles importancia a tus ventajas y hacer las cosas a tu manera. No tendrás que aplicar ninguna presión o persuasión para conseguir lo que deseas. La cuadratura entre Júpiter y Saturno del 26 de mayo es una ocurrencia rara, otorgándote más potencia e influencia. Utiliza ambos sabiamente y con cuidado.
 sitemap:
  priority: 1
  changefreq: 'monthly'
