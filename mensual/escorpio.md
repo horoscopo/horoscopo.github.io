@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Escorpio Abril 2016 
+title: Escorpio Mayo 2016 
 permalink: /horoscopo-mensual/escorpio/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2016, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-04-01'
+ lastmod: '2016-05-01'
 ---
 
- La Luna Nueva del 7 de abril hace hincapié en tu salud y vitalidad. Aumenta la cantidad de atención que le pones a tu propio bienestar. Come más sanamente y activa más tus días. No es necesario que inicies un deporte intenso, simplemente disfruta de pasar menos tiempo en el sofá comiendo y bebiendo. La Luna Llena del 21 de abril se trata de tu vida amorosa. Tú tienes altos estándares y expectativas - ambos positivos - y ahora, vaya que podrías tener algunos poderosos y románticos encuentros. Alternativamente, podrías experimentar una profunda visión romántica con alguien especial o dentro de tu propio corazón. Finalmente, el sextil entre la Luna y Marte del 29 de abril suaviza un fin de semana que de lo contrario podría ser complicado.    
+ El amor brilla a todo tu alrededor bajo la Luna Nueva del 6 de mayo. Un encantador e inteligente admirador podría aparecerse de la nada, o puede que te des cuenta de que le has dado una gran impresión y has atraído a alguien que admiras. Una relación amorosa - nueva o establecida - podría crecer y profundizarse. La Luna Llena del 21 mayo acentúa asuntos monetarios. Eres una persona ambiciosa y llena de energía, por lo que otras personas querrán que les apoyes de cierta manera que beneficie a todos los involucrados. Lo único que tienes que haces es comportarte amable, graciosa e igual de competentemente como sueles hacerlo. Es durante éste periodo de tiempo en el que sería posible que encontraras un socio de negocios. Marte entra a Escorpión el 27 de mayo para encender tu dedicación hacia mejorar tu vida. 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Acuario Abril 2016 
+title: Acuario Mayo 2016 
 permalink: /horoscopo-mensual/acuario/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2016, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-04-01'
+ lastmod: '2016-05-01'
 ---
 
- Tus amigos y familiares podrían rodearte durante la Luna Nueva del 7 de abril. Gurda tu distancia tanto como sea necesario. Aun así, puede que sea difícil encontrar tiempo para otras personas que piensan que están simplemente tratando de mantenerse en contacto contigo. Las demandas laborales y profesionales podrían ser demasiadas bajo la Luna Llena del 21 de abril, cuando tu corazón estará más seguramente atado a tu hogar. Cumplirás con todas tus obligaciones y realizarás tus funciones, pero no estarás realmente feliz hasta que estés en casa. Finalmente, el sextil entre la Luna y Urano del 30 de abril termina tu mes con una ligera sorpresa que podría resolver uno o dos problemas.
+ ¿Está alguien en casa resistiéndose a tus ideas o deseos? Esto podría detenerse después de la Luna Nueva del 6 de mayo. O quizás has querido volver a diseñar o remodelar una habitación u otro espacio privado. Comienza ahora y obtén la cooperación e inspiración de todos a tu alrededor. La Luna Llena de 21 de mayo es toda tuya. ¡Sal a bailar sobre el escenario de la vida! Eres una persona demasiado disciplinada e inteligente como para exagerar y causar algún problema o molestar a alguien. Si alguien más hace olas, mantendrás el control y hasta tal vez ganes algunos nuevos aliados. Finalmente, el sextil entre la Luna y Saturno del 27 de mayo le da un suave final a tu mes.

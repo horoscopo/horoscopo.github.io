@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Abril 2016 
+title: Leo Mayo 2016 
 permalink: /horoscopo-mensual/leo/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2016, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-04-01'
+ lastmod: '2016-05-01'
 ---
 
- La Luna Nueva del 7 de abril te recuerda que el mundo es, de hecho, tu ostra. ¿Hay cosas que anhelas hacer, gente que deseas conocer, o lugares que quieres ver? Pues, ¿que esperas? Hacer por lo menos una de ellas será una magnífica experiencia. La Luna Llena del 21 de abril ilumina directamente tu trabajo y carrera profesional. Compórtate tranquilamente, no respondas emocionalmente a ninguna situación, y recuerda tu gran cantidad de talento, habilidad y sentido práctico. Nadie tiene los pies en la tierra más que tú en este momento. El amor podría ser tierno, pero puede que las cosas no sean tan fáciles mientras la Luna cuadre al Sol el 29 de abril. Ten consideración.
+ El Sol forma trígono con Júpiter el 3 de mayo, simplificando algunos problemas prácticos ya sea en tu trabajo u hogar. Tu trabajo y vida profesional brillan bajo la Luna Nueva del 6 de mayo. Dale inicio a un nuevo proyecto o a la nueva fase de una misión que ya esté bajo tu control. Amplía tus responsabilidades y aumenta tu valor y aprecio ante los ojos de tus compañeros de trabajo y superiores. La Luna Llena del 21 de mayo trae consigo días para entretenerte y disfrutar de una gran emoción. Una amistad podría otorgarte una invitación o la oportunidad de entrar a un círculo social más grande que comparta una de tus pasiones y que pudiera llevarte más lejos.

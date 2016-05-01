@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Libra Abril 2016 
+title: Libra Mayo 2016 
 permalink: /horoscopo-mensual/libra/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2016, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-04-01'
+ lastmod: '2016-05-01'
 ---
 
- La Luna Nueva del 7 de abril viene repleta de amor y romance. Es tu momento para tener suerte en el amor, proyectar más atractivo del que esperas y recibir más atención de la que hubieras imaginado. Prepárate para recibir admiración por parte de una sorprendente fuente. La Luna Llena del 21 de abril podría despertar necesidades o deseos profundamente enterrados que pudieran haber sido olvidados o reprimidos durante demasiado tiempo. Ten amabilidad hacia ti, tal vez al permitirte mostrar un poco más de emoción. Está bien llorar en privado, o en público, en su caso. Venus entra a Tauro el 29 de abril, cuando deberías de rodearte de belleza.
+ Tendrás la facultad de resolver un difícil asunto bajo la Luna Nueva del 6 de mayo. Tal problema podría ser de mayor importancia para alguien cercano a ti más que para ti y podría involucrar dinero, bienes, o alguna otra cosa de valor material. Puede que no le parezca fácil a otros, pero no será difícil para ti. A tus amistades se les podría dificultar mantenerse al día contigo en torno a los días de Luna Llena del 21 de mayo. Sal de casa y acude a lugares que te fascinan. Te sorprenderás de quienes quieran acompañarte. El trígono entre la Luna y Venus del 26 de mayo le da un agradable y romántico final a tu mes.
