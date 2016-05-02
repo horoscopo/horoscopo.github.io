@@ -1,15 +1,15 @@
 ---
 layout: page
-title: cancer 25-04-2016 al 02-05-2016 
+title: cancer 02-05-2016 al 09-05-2016 
 permalink: /horoscopo-semanal-gratis/cancer/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-25'
+ lastmod: '2016-05-02'
 ---
-Tienes bastantes oportunidades románticas, pero al final, podrías terminar criticando demasiado para tu propio bien. La actual alineación en Virgo sugiere que podrías enfocarte en los defectos de los demás en lugar de aplaudirles sus mejores características. Es posible que por ello termines perdiéndote de un gran partido. Los mejores días para socializar y salir a citas son de viernes a domingo. Pero un irritable conjunto de aspectos insinúa que ciertas pasiones ocultas podrían ser desatadas, sobre todo una vez que el Sol entre a Escorpión.
+La Luna Llena del lunes en tu sector financiero personal podía verte gastar en artículos que realmente no necesitas. Si te sientes muy emocional o de mal humor, podrías terminar dirigiéndote al centro comercial o visitar tus sitios web favoritos de compras en tu intento por sentirte mejor acerca de algo. Piensa muy cuidadosamente antes de realizar cualquier compra si es que quieres evitarte problemas en el futuro. Ciertas cuestiones de estilo de vida son puestas bajo enfoque el jueves y el viernes, pudiendo ser una señal para hacer algunos bien pensados cambios.
 
 ##Dinero
 
-Es una semana de subidas y bajadas para ti. Por un lado, gran parte del enfoque de esta semana es sobre el dinero y el estatus. Por otro lado, los aspectos afectarán a tu sector de deuda y el dinero de otras personas. El Universo quiere que resuelvas esto antes de que empeore.
+Es una gran semana para ti. Una gran cantidad de energía te rodea, y ahora podrás atraer lo que quieres y necesitas. En cuanto a dinero, vas en la dirección correcta y habrá más comunicación al respecto. Los aspectos demuestran que tu deuda actual está en descenso, gracias a tu esfuerzo diligente y la planificación. ¡Buen trabajo!

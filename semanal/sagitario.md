@@ -1,15 +1,15 @@
 ---
 layout: page
-title: sagitario 25-04-2016 al 02-05-2016 
+title: sagitario 02-05-2016 al 09-05-2016 
 permalink: /horoscopo-semanal-gratis/sagitario/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-25'
+ lastmod: '2016-05-02'
 ---
-Finalmente, todo regresa a la normalidad desde el lunes cuando Mercurio comienza a avanzar de nuevo. Si has estado posponiendo el momento de la verdad con respecto a la firma de un acuerdo, compromiso, o cierto curso de acción, ahora puedes seguir adelante. Si tienes dudas, asegúrate de analizarlas antes de firmar en la línea punteada, ya que puede que ciertas condiciones hayan cambiado en las últimas semanas. Este fin de semana, el vínculo entre Venus y Neptuno podría hacer una cita con tu pareja o interés amoroso muy romántica. 
+Tendrás que navegar a través de lo que podría ser una semana compleja. La fase retrógrada de Mercurio a partir del Lunes podría causar retrasos, lo que significa que tus planes mejor trazados podrían esfumarse. En lugar de enojarte y echar humo, aprovecha esta oportunidad para investigar tus opciones y obtener más información. Evita a personas manipuladoras y prepotentes el Jueves y Viernes, en particular cualquiera que pudiera tener interés personal en hacerte daño. Júntate con personas optimistas y generosas con tal de tener experiencias positivas y una vida social feliz.
 
 ##Dinero
 
-Estás pensando en hacer algunos cambios en tu forma de trabajar y cómo exponerle tus ideas al mundo. Un aspecto favorable indica que podrías fácilmente llevarte tu trabajo a casa, comenzar un nuevo negocio en tu hogar, o comenzar a trabajar en hacerle mejoras a tu hogar; como por ejemplo construcción o decoración. El único problema radica en el hecho de que a tu ego le puede resultar difícil adaptarse a los cambios.
+Tu mente podría verse llena de ideas, pensamientos y palabras acerca de la libertad y su significado. Pero antes de escribirle a tu jefe esa carta de renuncia, considera las formas en la que puedes esforzarte para añadir belleza y creatividad a tu lugar de trabajo. El hacer sugerencias positivas puede dar resultados sorprendentes y ponerte a cargo de un nuevo y  emocionante proyecto. Esto no sólo puede traer más dinero, sino también mejorar tu confianza.

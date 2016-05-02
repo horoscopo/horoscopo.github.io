@@ -1,15 +1,15 @@
 ---
 layout: page
-title: piscis 25-04-2016 al 02-05-2016 
+title: piscis 02-05-2016 al 09-05-2016 
 permalink: /horoscopo-semanal-gratis/piscis/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-25'
+ lastmod: '2016-05-02'
 ---
-Aunque puede que sientas emoción acerca de un plan o incluso una relación, ciertos aspectos astrológicos de esta semana indican que también podría haber una falta de confianza de tu parte. Esto se debe a una poderosa presencia en tu sector espiritual que te anima a desprenderte de cierto equipaje emocional y, en particular, concentrarte en tu autoestima y en maneras en las que puedes mejorarte como persona. Este es el momento para hacerle frente a lo que te está frenando para que puedas seguir avanzando con entusiasmo.
+Continuas en una fase en la que te hace bien descansar y darte la oportunidad de recargar baterías. También estás planeando activamente tu éxito conforme Marte entra a tu sector profesional. Puede que sea una buena idea adoptar una estrategia más selectiva en relación a los proyectos que aceptas, ya que te beneficiaría tomar un descanso entre ellos. Además, Mercurio entrando a tu signo este fin de semana podría inspirar en ti una idea que parece resumir la actitud motivacional que deseas adoptar para el 2016.
 
 ##Dinero
 
-Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.
+Es una gran semana para pensar y planificar. El Universo indica un tiempo de gran actividad mental. Es un momento de gran oportunidad, a partir de los pasos que tendrás que tomar para realizar tus sueños financieros a darte crédito por cosas que ya has logrado. Cierta actividad en tu sector de aprendizaje te llama para que tomes una clase de algo que te inspire.

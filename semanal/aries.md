@@ -1,15 +1,15 @@
 ---
 layout: page
-title: aries 25-04-2016 al 02-05-2016 
+title: aries 02-05-2016 al 09-05-2016 
 permalink: /horoscopo-semanal-gratis/aries/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-04-25'
+ lastmod: '2016-05-02'
 ---
-Es posible que desees probar una nueva dieta, nueva forma de ejercicio como spinning o Pilates, o tal vez un tratamiento relajante que pueda aliviar los nudos y la tensión nerviosa. Cualquier cosa que pueda mejorar tu vitalidad y hacer que te sientas bien vale la pena ser intentada - además de que te hará una gran cantidad de amistades en el proceso. Una vez que el Sol entre a tu sector de relaciones el jueves, puede que sientas inclinación a comprometerte en lugar de insistir en salirte con la tuya en asuntos clave.
+Esta podría ser una excelente oportunidad para comenzar de nuevo con respecto a tu camino espiritual. La Luna Nueva del lunes podría animarte a aprender a meditar, tomar clases de yoga o conectar con otras personas que compartan tus ideales. Aun así, ciertas creencias heredadas de tu infancia o de otra vida podrían entrar en conflicto con las ideas que quisieras adoptar. Tendrás que resolver esto de cualquier manera que sientas es la mejor. El Día de San Valentín combina la sensualidad de Tauro con la pasión de Escorpión, creando una ocasión bastante especial. 
 
 ##Dinero
 
-Esta semana es como una bolsa mixta de tu “yo”. Por un lado, tienes una energía repentina y expansiva afectando a tu sector de grupos y negocios propios, lo que sugiere que puede que estés pensando en convertir una habilidad en un negocio rentable. Por otro lado, tu sector de deuda y el dinero de otras personas entran en juego. No pidas prestado más de lo que te puedes permitir con el fin de lograr que este negocio entre en marcha.
+Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.
