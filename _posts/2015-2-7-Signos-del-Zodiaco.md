@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 02 de mayo 2016
+title: Hóroscopo de hoy 03 de mayo 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-El Sol oponiéndose a Júpiter durante los próximos cuatro días causa una tendencia a culpar a otras personas con el fin de mejorar nuestra propia autoestima. Ponte de pie, no te tomes las críticas personalmente y todo saldrá muy bien. Esta noche, el destino se encuentra en acción bajo el Eclipse Solar en Piscis; pero puede que no sepas exactamente cómo durante seis meses.
+El Universo está lleno de hechos justo cuando los necesitamos mientras Mercurio forma sextil con Saturno. Disfruta de este buen tránsito que fomenta la honestidad. Esta noche, el sextil entre la Luna y Saturno es como un ancla en un mar agitado. Los solteros experimentan buenos comienzos con alguien nuevo. Por su parte, aquellos en pareja sienten calidez al acurrucarse juntos.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
