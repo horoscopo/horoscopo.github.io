@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de mayo 2016
+title: Hóroscopo de hoy 06 de mayo 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Un par de opiniones conflictivas pasadas podrían resurgir esta mañana si cierta situación no fue resuelta la primera vez. Espera, porque la cooperación alivia esas viejas tensiones cuando la Luna aspecta a Venus por la tarde. Esta noche, el trígono entre Venus y Urano es estelar para la amistad y la diversión en grupo. Deléitate en la alegría del momento.
+Te despiertas bajo la Luna en el activo Aries y haces las cosas con facilidad y anticipación de que hoy mismo, cosas buenas vendrán en forma de importantes nuevos desarrollos. Esta noche, los solteros son atractivos, encantadores, muy románticos, y no muy serios; en caso de que busques compromiso. Mantén las cosas ligeras.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
