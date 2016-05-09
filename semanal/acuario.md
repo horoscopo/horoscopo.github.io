@@ -1,15 +1,15 @@
 ---
 layout: page
-title: acuario 02-05-2016 al 09-05-2016 
+title: acuario 09-05-2016 al 16-05-2016 
 permalink: /horoscopo-semanal-gratis/acuario/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-02'
+ lastmod: '2016-05-09'
 ---
-Si ciertas personas han estado incumpliendo promesas y esquivando responsabilidades, las cosas podrían cambiar a medida que Mercurio comienza a girar hacia adelante a partir del lunes. Puede que experimentes una sensación de alivio cuando las cosas vuelvan a la normalidad. Y con Venus ahora moviéndose a través de Capricornio, la actitud de cierta persona hacia ti podría parecer mucho más dulce y más considerada de lo que ha sido por un tiempo. Es posible que desees concretar una cita para el sábado, la que podría ayudarte a revivir la chispa de la pasión. El domingo, ¡una noticia podría sorprenderte!   
+Pon atención a tus visiones al inicio de la semana, ya que una poderosa mezcla de energías sugiere que tu intuición podría anular tu lógica. Si te llega la sensación de que debes conectar con alguien o cambiar hacia una dirección determinada, escúchala. Si te surgen preguntas, no dudes en pedirle sus comentarios a alguna buena amistad. A mita de semana, el Sol entra a Acuario y a tu sector de viajes y aventura, dándote una vibra más optimista y ligera. Es hora de salir a explorar y tal vez hacer planes de viaje.
 
 ##Dinero
 
-Este período es acerca de cómo enfocar tus emociones hacia una empresa que produzca dinero de algún tipo. Puede sonar difícil, pero podría sorprenderte lo fácil que es. Tu vida emocional está justo en la superficie y en busca de una manera de expresarse. Esto seguro es muy bueno si eres del tipo creativo, ¡por lo que aprovecha y haz algo con ello!
+Te encuentras en una situación tensa esta semana. Ambos lados, tu femenino y masculino deben de ser tomados en cuenta cuando consideres nuevas formas de ganar, ahorra o gastar tu dinero. Piensa pragmáticamente cuando aprecies y disfrutes los placeres de las cosas más finas y encontrarás que podrías acostumbrarte a ellas.

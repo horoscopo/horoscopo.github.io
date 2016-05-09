@@ -1,15 +1,15 @@
 ---
 layout: page
-title: aries 02-05-2016 al 09-05-2016 
+title: aries 09-05-2016 al 16-05-2016 
 permalink: /horoscopo-semanal-gratis/aries/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-02'
+ lastmod: '2016-05-09'
 ---
-Esta podría ser una excelente oportunidad para comenzar de nuevo con respecto a tu camino espiritual. La Luna Nueva del lunes podría animarte a aprender a meditar, tomar clases de yoga o conectar con otras personas que compartan tus ideales. Aun así, ciertas creencias heredadas de tu infancia o de otra vida podrían entrar en conflicto con las ideas que quisieras adoptar. Tendrás que resolver esto de cualquier manera que sientas es la mejor. El Día de San Valentín combina la sensualidad de Tauro con la pasión de Escorpión, creando una ocasión bastante especial. 
+Presta atención a tus asuntos financieros, sobre todo si los has estado descuidando recientemente. La intensa mezcla de energías de esta semana sugiere que cierta situación podría volverse urgente a menos que tomes medidas más temprano que tarde. La Luna Nueva ofrece oportunidad para un nuevo comienzo, especialmente si te dispones a discutir tus problemas con alguien que puede ofrecerte algunos consejos útiles. Y si es que no has tenido tiempo para descansar durante algún tiempo, esfuérzate por tomarte unas cortas vacaciones para darte la oportunidad de relajarte.
 
 ##Dinero
 
-Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.
+Esta semana, el Universo es de apoyo. Tu mente está enfocada en poner los planes de ahorro e inversión en su lugar, sobre todo para tu familia. Quieres llegar a ser más responsables en este ámbito y reducir los gastos impulsivos. Piensa en cómo tus necesidades son atendidas al trabajar para una gran institución. ¿Tal vez es hora de pensar en cómo iniciar tu propio negocio?

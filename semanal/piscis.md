@@ -1,15 +1,15 @@
 ---
 layout: page
-title: piscis 02-05-2016 al 09-05-2016 
+title: piscis 09-05-2016 al 16-05-2016 
 permalink: /horoscopo-semanal-gratis/piscis/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-02'
+ lastmod: '2016-05-09'
 ---
-Continuas en una fase en la que te hace bien descansar y darte la oportunidad de recargar baterías. También estás planeando activamente tu éxito conforme Marte entra a tu sector profesional. Puede que sea una buena idea adoptar una estrategia más selectiva en relación a los proyectos que aceptas, ya que te beneficiaría tomar un descanso entre ellos. Además, Mercurio entrando a tu signo este fin de semana podría inspirar en ti una idea que parece resumir la actitud motivacional que deseas adoptar para el 2016.
+Con Saturno ahora en tu sector espiritual, esta es una oportunidad para deshacerte de cualquier equipaje emocional que se ha acumulado en los últimos años. Esto se refiere más a una limpieza profunda en lugar de una sólo superficial. Aunque es muy probable que te encuentres haciendo esto intermitentemente durante el próximo par de años, no hay mejor momento como el presente para comenzar. Es la oportunidad perfecta para hacer las paces, obtener estabilidad emocional y aumentar tu vitalidad. Finalmente, una o dos ofertas laborales podrían probar ser rentables cuando Venus entre a Libra a partir del domingo. 
 
 ##Dinero
 
-Es una gran semana para pensar y planificar. El Universo indica un tiempo de gran actividad mental. Es un momento de gran oportunidad, a partir de los pasos que tendrás que tomar para realizar tus sueños financieros a darte crédito por cosas que ya has logrado. Cierta actividad en tu sector de aprendizaje te llama para que tomes una clase de algo que te inspire.
+Este período es de los aspectos que afectan a las vidas pasadas, karma y las instituciones. De repente puedes ser presa de un deseo de cambiar de trabajo, iniciar una obra de caridad, o desarrollar un nuevo negocio. Hacer una investigación cuando puedas y luego crear un plan de negocios que se ve por lo menos cinco años en el futuro. Es posible hacer que funcione.
