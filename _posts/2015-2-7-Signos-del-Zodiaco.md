@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de mayo 2016
+title: Hóroscopo de hoy 09 de mayo 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Hoy, los teléfonos se mantienen sonando al recibir una gran cantidad de información. La buena noticia es que a causa de la honestidad y sinceridad de alguien, podrías enterarte de algo que necesitas saber. Esta noche, el trígono entre Plutón y la Luna en Tauro crea una combinación cósmica de pasión, calor y el deseo de relaciones comprometidas.
+Adopta un enfoque prudente el día de hoy. Con Mercurio a punto de cambiar de signo, puede que no seas capaz de cumplir con todos tus compromisos y promesas sin importar lo mucho que desees hacerlo. Las parejas sienten energía, frescura e ímpetu. Los solteros podrían caer rápidamente en un apasionado enamoramiento (o lujuria) bajo la Luna en Aries de esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
