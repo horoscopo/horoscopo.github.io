@@ -1,15 +1,15 @@
 ---
 layout: page
-title: libra 09-05-2016 al 16-05-2016 
+title: libra 16-05-2016 al 23-05-2016 
 permalink: /horoscopo-semanal-gratis/libra/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-09'
+ lastmod: '2016-05-16'
 ---
-Ciertos hechos demostrados y fuentes confiables de información podrían no ser tan honrados como primero pensaste. Alternativamente, la actitud apática o incompetente de otras personas podría interrumpir tus planes y agenda. Si tus mejores planes parecen derrumbarse esta semana, un enfoque paciente y la voluntad de comprometerte puede ser lo mejor que pudieras llegar a hacer. Sin embargo, la Luna Llena en Géminis podría compensar cualquier decepción, pudiendo ser perfecta para una agradable reunión o celebración este fin de semana.
+Marte en una parte sensible de tu carta sugiere que sentimientos relacionados con el pasado podrían ser liberados esta semana. Si notas enojo o molestia en ti, evita la tentación de actuar bajo impulso, ya que desde luego no ayudará. Habla con una amistad o busca cualquier tipo de asesoramiento si realmente te sientes mal. Es probable que tus amistades más cercanas de todos modos te estén cuidando y te estén apoyando en este momento. Da los primeros pasos hacia un objetivo clave durante o poco después de la Luna Nueva del viernes.
 
 ##Dinero
 
-Nunca ha sido tu punto fuerte el sentarte y aceptar, lo cuál se sentirá doble esta semana. Algunos aspectos negativos crearán olas. Trata de llevar las facciones beligerantes en tu red social a la mesa de la paz conforme te haces cargo de los asuntos de deuda o propiedad que poseas con otra persona. El dejar que alguien más se haga cargo de ello no dará los mejores resultados ahora. Sabes perfectamente qué es  lo mejor para los dos.
+Estás en medio de un replanteamiento serio cuando se trata de gastar. Puede que te estés preguntando cómo proteger a tu familia a largo plazo, lo que te podría llevar a considerar la contratación de un asesor financiero u otro experto. Otros miembros de tu tribu pueden tener ideas sorprendentemente buenas acerca de cómo ahorrar e invertir para un futuro compartido. Escucha.

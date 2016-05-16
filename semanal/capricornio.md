@@ -1,15 +1,15 @@
 ---
 layout: page
-title: capricornio 09-05-2016 al 16-05-2016 
+title: capricornio 16-05-2016 al 23-05-2016 
 permalink: /horoscopo-semanal-gratis/capricornio/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-09'
+ lastmod: '2016-05-16'
 ---
-Alguien podría ser una fuerza a tener en cuenta como catalizador para un cambio positivo en tu vida. Marte en Leo indica que aquellos con los que tienes una estrecha conexión podrían inspirarte a empezar a trabajar en un proyecto o plan. En cuanto a romance, pensamientos de un enlace apasionado podrían hacerte sentir tentación. Júpiter en Virgo aumenta tus posibilidades de éxito financiero, especialmente si tienes un negocio o ganas de invertir. Sin embargo, asegúrate de obtener buenos consejos antes de empezar.
+¡Prepárate para relajarte en grande! Si sientes agotamiento, la entrada del Sol a Tauro y a tu sector hogareño podría ser como volver al vientre materno. Esta es tu oportunidad para cuidar de ti y reponer tu energía. Si alguien te llama con un proyecto interesante, no digas que sí de inmediato y te comprometas. Requieres de este tiempo para ponerte en contacto con tu cuerpo y restaurar tu espíritu al sano juicio. Sin embargo, la Luna Llena del jueves podría ponerte en el centro de atención, así que ¡prepárate!
 
 ##Dinero
 
-Es una semana de dificultades conforme ciertos aspectos facilitan las cosas en tu sector de trabajo (esta es la buena noticia), pero las dificultan en otras áreas (la mala noticia). Se te está empujando a acceder a tu intuición en los asuntos de dinero y negocios y considerar trabajar para una institución más grande. Podrías recibir más dinero si piensas en grande.
+Para  ti, ésta semana se trata de tomar ventaja de las circunstancias que se presenten en tu vida laboral. Tienes suerte, así que puedes encontrar la oportunidad de impresionar a alguien que tiene el poder de tomar decisiones financieras. Estas oportunidades afectarán positivamente tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personal y financiera, incorporarlas en tu vida cotidiana te hará más fuerte.

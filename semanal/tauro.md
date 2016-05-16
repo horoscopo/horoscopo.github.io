@@ -1,15 +1,15 @@
 ---
 layout: page
-title: tauro 09-05-2016 al 16-05-2016 
+title: tauro 16-05-2016 al 23-05-2016 
 permalink: /horoscopo-semanal-gratis/tauro/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-09'
+ lastmod: '2016-05-16'
 ---
-La entada de Venus a Acuario podría darte el deseo de prestarle más atención a tu imagen, tal vez al probarte ropa nueva o darte un cambio de imagen. Además, es una oportunidad para socializar y hacer nuevo amigos y contactos ya sea en línea o en persona. Con Mercurio también en tu signo, utiliza esta oportunidad para compartir ideas y planes que tengan sentido para ti y así reunir un poco de apoyo. Mantente alerta a tu situación monetaria, sobre todo tus gastos, una vez que el Sol entre a tu sector financiero personal el jueves. 
+Amigos y familiares que no has visto en mucho tiempo podrían aparecerse a tu puerta con Mercurio iniciando su fase retrógrada en tu sector de hogar y familia. Y con Venus entrando al mismo sector más adelante en la semana, disfrutarás mucho de la oportunidad de entretener a tus invitados. Al mismo tiempo, esta es una buena oportunidad para descansar y cuidar de ti. Tu vida ha estado muy ocupada últimamente y tu cuerpo y cerebro necesitan de este tiempo para relajarse y recargar baterías.
 
 ##Dinero
 
-El Universo está aumentando ahora tu capacidad de ganar. Esta es una gran noticia para tu estado de ánimo, que puede estar vinculado a la libertad que percibes como la que te otorga el dinero, y una buena noticia para tu ambición, que tiende a estar ligada a la forma en la que percibes tu justa compensación. A medida que tus metas profesionales empiezan a hacerse realidad, el flujo de efectivo también mejora. ¿Qué podría no gustarte de tu vida ahora?
+Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.

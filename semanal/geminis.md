@@ -1,15 +1,15 @@
 ---
 layout: page
-title: geminis 09-05-2016 al 16-05-2016 
+title: geminis 16-05-2016 al 23-05-2016 
 permalink: /horoscopo-semanal-gratis/geminis/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-09'
+ lastmod: '2016-05-16'
 ---
-Tu sector de ocio y placer te anima a explorar tu creatividad. De hecho, disfrutar de tus aficiones favoritas puede ayudarte a exorcizar tus malas vibras internas mientras te ayuda a producir inspiradoras o intrigantes obras. No subestimes el poder de este tipo de actividades para sanar y restaurar tu estado de ánimo. Con Marte entrando a tu sector hogareño, puede que tengas que establecer límites firmes con respecto a las tareas hogareñas y cotidianas, sobre todo si eres tú quien se ha encargado de todas hasta ahora.
+Si estás tratando de aumentar tu confianza, el efecto negativo de una celosa amistad podría no estarte ayudando. Teniendo esto en cuenta, la Luna Nueva en Aries del jueves podría ser una llamada a hablar sobre al asunto. Sin embargo, si esperas hasta que llegue el fin de semana, es posible que puedan resolverlo de una manera que les permita apreciar y disfrutar mutuamente de sus cualidades tan únicas. Evita tener esta discusión a mitad de semana, ya que el resultado podría no ser muy agradable.
 
 ##Dinero
 
-Esta semana hace hincapié en la seguridad, dinero y valores. Un aspecto armonioso te da licencia para gastar en ese viaje que has estado deseando hacer, ese taller de fin de semana que te traerá más dinero en efectivo a largo plazo e incluso esa idea creativa que ha estado deambulando en la parte trasera de tu cerebro. Haz que suceda y estarás feliz por ello.
+Esta semana tienes actividad en el sector de tu carta que rige tu hogar y sentimientos internos. El Universo quiere que avances para poder crear y conquistar. Pero también hay que tomarlo con calma y construir una base sólida antes de seguir adelante. Tus sentimientos pueden ser igualmente confusos. Mientras tanto, es hora de pagar tus deudas.

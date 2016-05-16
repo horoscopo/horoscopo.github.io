@@ -1,15 +1,15 @@
 ---
 layout: page
-title: cancer 09-05-2016 al 16-05-2016 
+title: cancer 16-05-2016 al 23-05-2016 
 permalink: /horoscopo-semanal-gratis/cancer/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-09'
+ lastmod: '2016-05-16'
 ---
-Con el fuerte enfoque que hay en tu sector espiritual, puede que estés pasado por un período de reflexión. Ve las próximas semanas como una oportunidad para hacerte una limpieza emocional y finalmente deshacerte de los problemas que te han estado molestando desde hace algún tiempo. La Luna Nueva del viernes podría aportarte deslumbrantes visiones con respecto a situaciones o personas que están listas para salir de tu vida. No te apegues demasiado a ellas - ¡déjalas ir! Es hora de hacerle espacio a todas las nuevas oportunidades que se podrán en tu camino.   
+Júpiter comienza a avanzar en tu sector financiero desde el lunes. Si has estado sufrido retrasos, deberías notar una mayor actividad pronto. Sin embargo, esta semana mantente alerta a oportunidades que podrían permitirte mejorar tu ingreso o tu estatus. El pasado juega un papel importante en tu presente, por lo que un antiguo jefe podría tener un consejo, un nuevo proyecto para ti o darte el nombre de un contacto que puede serte de ayuda. Además, salir a conocer gente podrían traerte nuevos asociados y también útil información.
 
 ##Dinero
 
-Esta semana se trata de la actividad que hay en tu sector de deuda o dinero de otras personas, lo que significa que algo que pensaste haber ya pagado, podría levantar su fea cabeza de nuevo. Asegúrate de haber tenido la intención de pagarlo, y de que accidentalmente haya sido olvidado en la pila de cuentas sin pagar. Encárgate de tal lo antes posible para evitar contratiempos. Haz tu trabajo lo mejor posible o cambia de carrera.
+Lo más probable es que seas alguien muy organizado con su dinero. Lo llevas en la sangre. Incluso si tu mantenimiento de registros no es el mejor, es probable que lo lleves todo en tu cabeza. Tienes una oportunidad única, aparentemente de la nada, para llevar tu trabajo a casa de algún modo. Es un buen momento para establecer un negocio basado en tu hogar o incluso hacer de la construcción o la decoración de casas tu nuevo trabajo. ¡Usa tus habilidades para obtener los mejores resultados!

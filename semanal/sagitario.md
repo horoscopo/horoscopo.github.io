@@ -1,15 +1,15 @@
 ---
 layout: page
-title: sagitario 09-05-2016 al 16-05-2016 
+title: sagitario 16-05-2016 al 23-05-2016 
 permalink: /horoscopo-semanal-gratis/sagitario/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-09'
+ lastmod: '2016-05-16'
 ---
-No permitas que nadie te apresure a tomar una decisión o a hacer un compromiso antes de tiempo. Con Mercurio tornándose retrógrado, es esencial leer con mucho cuidado las cláusulas de un contrato o documento legal antes de firmar. Alguien podría estarse sintiendo muy sensible, dándote la sensación de que tienes que andarte con mucho cuidado. En esta situación, vale la pena tener honestidad en lugar de tolerar las tendencias manipuladoras de alguien. El romance puede florecer cuando la oportunidad para una cita especial aumenta tu innata pasión.
+Mientras que la Luna Nueva del lunes podría alentarte a tomar una nueva dirección en un nuevo romance o relación en curso, algunas influencias podrían causar que retrases tu decisión. Las objeciones de algunos de tus familiares o ciertas reservas de tu parte podría ser el problema. No las ignores, ya que podrían ser importantes. Es probable que sientas más comodidad al proceder una vez que las haya resuelto. Se te hará mucho más fácil resolver estas cuestiones y mantener felices a todos después del sábado; una vez que Mercurio entre a tu sector de relaciones.
 
 ##Dinero
 
-Esta semana te trae poca ventaja. Tu personalidad nunca es sutil sino voluptuosa y podría inclusive estar a cargo en este momento, lo cuál no les parece a todos. Si vas a una entrevista o quieres impresionar a un cliente nuevo, tu acto súper poderoso puede no ser tu mejor apuesta. En cambio, sería mejor que jugaras la carta del misterio. El atraerlos a ti podría traerte mejores resultados financieros.
+Es una semana difícil para ti. Es tu responsabilidad decir lo que necesitas decir de una forma amable y gentil. Pero cuando se trata de tu vida hogareña y emociones internas, puede ser difícil reunir ese tipo de paciencia. En vez, puede que sientas presión y falta de respeto al tratar de salir adelante. La semana que viene será mejor en general.

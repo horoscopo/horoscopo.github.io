@@ -1,15 +1,15 @@
 ---
 layout: page
-title: aries 09-05-2016 al 16-05-2016 
+title: aries 16-05-2016 al 23-05-2016 
 permalink: /horoscopo-semanal-gratis/aries/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-09'
+ lastmod: '2016-05-16'
 ---
-Presta atención a tus asuntos financieros, sobre todo si los has estado descuidando recientemente. La intensa mezcla de energías de esta semana sugiere que cierta situación podría volverse urgente a menos que tomes medidas más temprano que tarde. La Luna Nueva ofrece oportunidad para un nuevo comienzo, especialmente si te dispones a discutir tus problemas con alguien que puede ofrecerte algunos consejos útiles. Y si es que no has tenido tiempo para descansar durante algún tiempo, esfuérzate por tomarte unas cortas vacaciones para darte la oportunidad de relajarte.
+Esta no es la mejor semana para asuntos financieros, especialmente si estás considerando comprar o vender artículos caros. De hecho, puede que te sea mejor esperar hasta que Mercurio se torne directo el 11 de Junio para asegurar una transacción sin problemas. El actual enfoque en Géminis podría mantener tu tiempo ocupado en el reino del romance. Pareces ser el alma de la fiesta, así que no deberían de hacerte falta invitaciones. Más ten cuidado con alguien que es demasiado amable o halagador para su propio bien.
 
 ##Dinero
 
-Esta semana, el Universo es de apoyo. Tu mente está enfocada en poner los planes de ahorro e inversión en su lugar, sobre todo para tu familia. Quieres llegar a ser más responsables en este ámbito y reducir los gastos impulsivos. Piensa en cómo tus necesidades son atendidas al trabajar para una gran institución. ¿Tal vez es hora de pensar en cómo iniciar tu propio negocio?
+Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.
