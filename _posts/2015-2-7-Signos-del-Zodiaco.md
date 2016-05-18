@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de mayo 2016
+title: Hóroscopo de hoy 18 de mayo 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Hoy, las técnicas son muy suaves, incluso si son tomadas con medidas enérgicas. ¡Ponte tu mejor sonrisa y lánzate a obtener lo que quieres! No se puede discutir con las emociones. En lugar de discutir e insistir en que las personas no deberían de sentir lo que sienten, entiende que alguien simplemente lo siente de esa manera mientas la Luna conecta con Neptuno esta noche.
+El sextil entre el Sol y Júpiter promete oportunidades y fáciles éxitos el día de hoy. Fluye tan naturalmente como lo hace un espíritu libre. Cuando la Luna y Mercurio aspectan al transformador Plutón esta noche, si una puerta se cierra (o ha cerrado), otra se abre (con variadas opciones detrás de ella). ¡Sueños dulces y proféticos se materializan más tarde!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
