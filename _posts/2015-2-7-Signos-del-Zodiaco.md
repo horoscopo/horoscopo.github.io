@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de mayo 2016
+title: Hóroscopo de hoy 22 de mayo 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-El trígono entre Júpiter y Urano le da un giro positivo pero diferente a las cosas durante los próximos diez días. Y el suertudo Júpiter te da una pequeña ventaja extra. Esta noche, haz uso de tu memoria cuando la Luna y Plutón traigan de vuelta el pasado de una buena manera. ¿No tienes pareja? Una amistad podría ser renovada.
+Las posibilidades imaginativas son deslumbrantes cuando el trígono entre la Luna y Neptuno despierta mentes inventivas e inquietas. Es motivación para crear, crear, ¡y crear! La conjunción de esta noche entre la Luna y Mercurio ofrece una interesante perspectiva de las relaciones íntimas. Por su parte, los solteros deberían sentir más que pensar, lo primero pudiendo cambiar al hacer lo segundo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
