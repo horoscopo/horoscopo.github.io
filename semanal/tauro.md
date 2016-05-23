@@ -1,14 +1,14 @@
 ---
 layout: page
-title: tauro 16-05-2016 al 23-05-2016 
+title: tauro 23-05-2016 al 30-05-2016 
 permalink: /horoscopo-semanal-gratis/tauro/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-16'
+ lastmod: '2016-05-23'
 ---
-Amigos y familiares que no has visto en mucho tiempo podrían aparecerse a tu puerta con Mercurio iniciando su fase retrógrada en tu sector de hogar y familia. Y con Venus entrando al mismo sector más adelante en la semana, disfrutarás mucho de la oportunidad de entretener a tus invitados. Al mismo tiempo, esta es una buena oportunidad para descansar y cuidar de ti. Tu vida ha estado muy ocupada últimamente y tu cuerpo y cerebro necesitan de este tiempo para relajarse y recargar baterías.
+Esta semana hay mucha actividad en tu sector hogareño con cierta cuestión desarrollándose y pudiendo llegar a un punto crítico. La manifestación del Eclipse Solar en ese mismo sector podría despertar sentimientos, animar arrebatos y charlas de corazón a corazón. Cualquiera que sea la situación, es posible que se llegue a un punto en el que algo se tenga que hacer. De hecho, la tensión podría crecer tanto que podría volverse imposible de evitar. Sin embargo, no actúes bajo el calor del momento. Si tienes que tomar una decisión, debe ser una informada.
 
 ##Dinero
 

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: libra 16-05-2016 al 23-05-2016 
+title: libra 23-05-2016 al 30-05-2016 
 permalink: /horoscopo-semanal-gratis/libra/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-16'
+ lastmod: '2016-05-23'
 ---
-Marte en una parte sensible de tu carta sugiere que sentimientos relacionados con el pasado podrían ser liberados esta semana. Si notas enojo o molestia en ti, evita la tentación de actuar bajo impulso, ya que desde luego no ayudará. Habla con una amistad o busca cualquier tipo de asesoramiento si realmente te sientes mal. Es probable que tus amistades más cercanas de todos modos te estén cuidando y te estén apoyando en este momento. Da los primeros pasos hacia un objetivo clave durante o poco después de la Luna Nueva del viernes.
+Con Marte continuando su viaje a través de tu sector de viajes y aventura, tu deseo de nuevas experiencias está muy vivo. Puede que sientas inquietud debido a que no has hecho planes de viaje. Es posible que también tengas más seriedad acerca de tus metas y planes y tengas más ansias de llevarlos a la realidad con Saturno entrando de nuevo a tu signo. Es más probable que te lances a un viaje si es que tiene un propósito distinto a solo diversión. Finalmente, una vieja amistad podría reaparecer en la escena.
 
 ##Dinero
 
-Estás en medio de un replanteamiento serio cuando se trata de gastar. Puede que te estés preguntando cómo proteger a tu familia a largo plazo, lo que te podría llevar a considerar la contratación de un asesor financiero u otro experto. Otros miembros de tu tribu pueden tener ideas sorprendentemente buenas acerca de cómo ahorrar e invertir para un futuro compartido. Escucha.
+Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: piscis 16-05-2016 al 23-05-2016 
+title: piscis 23-05-2016 al 30-05-2016 
 permalink: /horoscopo-semanal-gratis/piscis/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-16'
+ lastmod: '2016-05-23'
 ---
-Tu rutina podría ser afectada conforme Mercurio continúa su danza hacia atrás. Mientras que es un inconveniente, puedes utilizar esta fase a tu ventaja. Opta por reconsiderar tu calendario y la forma en que usas tus días y considera la posibilidad de hacer uno o dos cambios radicales para que tu vida se haga más fácil y más eficiente. Toma las próximas semanas como una oportunidad para experimentar con lo que te funciona. Con varios planetas retrógrados ahora, revisar otros tipos de progreso también puede serle útil a otros ámbitos de tu vida.
+Tus relaciones continúan estando bajo enfoque, con la oportunidad de hacer cambios importantes en su caso. Si estás consciente de las situaciones que necesitan ser clasificadas, este es uno de los mejores momentos para discutir tu situación y ver qué soluciones se te pueden ocurrir. Lo mejor es que lo hagas ahora en vez de ignorar cualquier problema que pudiera resurgir cuando sea más difícil de resolver. Una vez que llegue el jueves, será momento de analizar lo que es más importante para ti con respecto a una relación muy estrecha.
 
 ##Dinero
 
-Esta semana tienes algunos desafíos por delante a medida que tratas de encontrar el mejor enfoque para el mes que viene. Ciertos aspectos afectan tu sector de deuda, animándote para que empieces a pagar y abstenerte de gastar más. Tu vida familiar y romántica será tu principal factor de motivación ahora.
+Esta semana puedes estar tratando de encontrar una manera de obtener tu rebanada de pastel y comértela también. Tu mente está trabajando horas extras para sacarte de cualquier obligación financiera que puedas tener, y el Universo te ayuda a llevar esto al siguiente nivel. Asegúrate de volver a revisar todas las cifras antes de firmar cualquier cosa.

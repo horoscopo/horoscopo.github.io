@@ -1,15 +1,15 @@
 ---
 layout: page
-title: aries 16-05-2016 al 23-05-2016 
+title: aries 23-05-2016 al 30-05-2016 
 permalink: /horoscopo-semanal-gratis/aries/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-16'
+ lastmod: '2016-05-23'
 ---
-Esta no es la mejor semana para asuntos financieros, especialmente si estás considerando comprar o vender artículos caros. De hecho, puede que te sea mejor esperar hasta que Mercurio se torne directo el 11 de Junio para asegurar una transacción sin problemas. El actual enfoque en Géminis podría mantener tu tiempo ocupado en el reino del romance. Pareces ser el alma de la fiesta, así que no deberían de hacerte falta invitaciones. Más ten cuidado con alguien que es demasiado amable o halagador para su propio bien.
+Cultivar tu gusto por las ideas y la gente nueva o exótica puede abrirte a maravillosas nuevas experiencias. Explora oportunidades que puedan ayudarte a promover tus intereses y a ampliar tus horizontes. Mercurio se torna retrógrado el Lunes durante aproximadamente tres semanas, provocando retrasos y mensajes contradictorios. Piensa dos veces antes de firmar documentos importantes, sobre todo si hay mucho dinero de por medio. Esta fase también puede aportarle nuevas perspectivas a problemas actuales, fomentando ingeniosas soluciones.
 
 ##Dinero
 
-Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.
+Esta semana, actividad en tu sector de trabajo indica que es probable que tu trabajo se vuelva más fácil ahora. El Universo te proporciona la energía que necesitas para hacer las cosas y avanzar en la escalera del éxito al lograr que tu trabajo sea notado y apreciado. Al mismo tiempo, tienes que asumir una mayor responsabilidad antes de poder ganar más dinero.

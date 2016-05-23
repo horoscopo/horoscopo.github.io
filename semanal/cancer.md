@@ -1,15 +1,15 @@
 ---
 layout: page
-title: cancer 16-05-2016 al 23-05-2016 
+title: cancer 23-05-2016 al 30-05-2016 
 permalink: /horoscopo-semanal-gratis/cancer/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-16'
+ lastmod: '2016-05-23'
 ---
-Júpiter comienza a avanzar en tu sector financiero desde el lunes. Si has estado sufrido retrasos, deberías notar una mayor actividad pronto. Sin embargo, esta semana mantente alerta a oportunidades que podrían permitirte mejorar tu ingreso o tu estatus. El pasado juega un papel importante en tu presente, por lo que un antiguo jefe podría tener un consejo, un nuevo proyecto para ti o darte el nombre de un contacto que puede serte de ayuda. Además, salir a conocer gente podrían traerte nuevos asociados y también útil información.
+Podrías recibir buenas noticias con respecto a asuntos legales, editoriales, o de educación. Puede que también se te invite a visitar amistades que viven lejos o recibas una visita de alguien que no has visto en mucho tiempo. Poner tu hogar en óptimas condiciones podría ser una de tus principales prioridades. Esta puede ser una oportunidad de oro en cuanto a eliminar el desorden y crear más espacio para actividades creativas. Reorganizar tu hogar podría traerte una mayor tranquilidad y extra vitalidad. Además, el Sol entrando a Cáncer aumenta la posibilidad de romance.  
 
 ##Dinero
 
-Lo más probable es que seas alguien muy organizado con su dinero. Lo llevas en la sangre. Incluso si tu mantenimiento de registros no es el mejor, es probable que lo lleves todo en tu cabeza. Tienes una oportunidad única, aparentemente de la nada, para llevar tu trabajo a casa de algún modo. Es un buen momento para establecer un negocio basado en tu hogar o incluso hacer de la construcción o la decoración de casas tu nuevo trabajo. ¡Usa tus habilidades para obtener los mejores resultados!
+Esta semana hay actividad en tu sector de dinero, la cuál está desacelerando lo que ganas actualmente. Podrías llegar a sentir como si no pudieras hacer que nada avanzara, pero sabe que es sólo temporal. El Universo no restringe por crueldad, sino como una manera de alentarnos a ser más cuidadosos y responsables con el dinero. Acude a tus amigos, conocidos y compañeros de trabajo para ayudarte a salir bien de los raspones.
