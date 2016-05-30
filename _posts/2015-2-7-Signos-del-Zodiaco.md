@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de mayo 2016
+title: Hóroscopo de hoy 30 de mayo 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-¡Feliz cumpleaños a Virgo en los próximos 30 días! Esta es tu ventana de oportunidad para comenzar algo nuevo. Nadie opera de manera más eficiente que tú cuando tienes objetivos en mente. Esta noche, enciende velas para el romance y disfruta de la dulzura y el amor bajo el trígono entre Venus en Leo y la Luna en Sagitario.
+Las respuestas te llegan de manera positiva esta mañana. Esta tarde, algunos se sienten más seguros moviéndose hacia atrás en lugar de hacia adelante mientras el pasado rige debido a la Luna conectando con Saturno. Esta noche, uno puede perder el corazón con tal sólo un inocente beso debido a Venus entrando a Piscis. ¡El reino del amor acaba de volverse interesante!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
