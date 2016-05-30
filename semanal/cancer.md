@@ -1,15 +1,15 @@
 ---
 layout: page
-title: cancer 23-05-2016 al 30-05-2016 
+title: cancer 30-05-2016 al 06-06-2016 
 permalink: /horoscopo-semanal-gratis/cancer/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-23'
+ lastmod: '2016-05-30'
 ---
-Podrías recibir buenas noticias con respecto a asuntos legales, editoriales, o de educación. Puede que también se te invite a visitar amistades que viven lejos o recibas una visita de alguien que no has visto en mucho tiempo. Poner tu hogar en óptimas condiciones podría ser una de tus principales prioridades. Esta puede ser una oportunidad de oro en cuanto a eliminar el desorden y crear más espacio para actividades creativas. Reorganizar tu hogar podría traerte una mayor tranquilidad y extra vitalidad. Además, el Sol entrando a Cáncer aumenta la posibilidad de romance.  
+Marte continúa en tu signo y conecta con el expansivo Júpiter, por lo que podrías recibir gran impulso al conectar con amigos que compartan tus intereses. Si tienes la oportunidad de colaborar en un proyecto que te apasiona, este es el momento perfecto para hacerlo. Alternativamente, unirte a un grupo o club también podría resultar fascinante y liberador. El Sol entrando a Piscis y a tu sector creativo te anima a explorar tus habilidades, y, además, podría motivarte a iniciar una relación romántica.
 
 ##Dinero
 
-Esta semana hay actividad en tu sector de dinero, la cuál está desacelerando lo que ganas actualmente. Podrías llegar a sentir como si no pudieras hacer que nada avanzara, pero sabe que es sólo temporal. El Universo no restringe por crueldad, sino como una manera de alentarnos a ser más cuidadosos y responsables con el dinero. Acude a tus amigos, conocidos y compañeros de trabajo para ayudarte a salir bien de los raspones.
+Con cierta actividad en tu sector de relaciones, puede que sientas como que eres ser más social. Incluso si no estás buscando un favor por parte de alguien, estar en contacto con tus contactos profesionales es una buena idea para recordarles de tus habilidades. Es posible que tengas que preocuparte un poco más por las primeras apariencias e impresiones y asegurarte de poner tu mejor pie  por delante con el fin de mejorar tu futuro financiero.

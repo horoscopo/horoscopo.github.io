@@ -1,15 +1,15 @@
 ---
 layout: page
-title: tauro 23-05-2016 al 30-05-2016 
+title: tauro 30-05-2016 al 06-06-2016 
 permalink: /horoscopo-semanal-gratis/tauro/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-23'
+ lastmod: '2016-05-30'
 ---
-Esta semana hay mucha actividad en tu sector hogareño con cierta cuestión desarrollándose y pudiendo llegar a un punto crítico. La manifestación del Eclipse Solar en ese mismo sector podría despertar sentimientos, animar arrebatos y charlas de corazón a corazón. Cualquiera que sea la situación, es posible que se llegue a un punto en el que algo se tenga que hacer. De hecho, la tensión podría crecer tanto que podría volverse imposible de evitar. Sin embargo, no actúes bajo el calor del momento. Si tienes que tomar una decisión, debe ser una informada.
+Si tu actitud es demasiado relajada esta semana, alguien podría llegar a aprovecharse de ti y hacerte sentir extremo agotamiento como resultado. De la misma manera, si tu actitud es terca, es posible que limites el número de oportunidades abiertas a tu paso. Con el fin de avanzar, se te aconseja encontrar un punto medio. Tal parece que la vibra se vuelve más optimista a partir del sábado con la Luna Nueva en Géminis pudiendo traerte un candente encuentro. ¡Tal podría ser muy agradable!
 
 ##Dinero
 
-Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.
+Este es el momento de centrarte en cómo puedes hacer más cosas como parte de un equipo que como un individuo. Hay tanto sucediendo en tu sector de relaciones que simplemente eres capaz de atraer a ciertos socios de una empresa de nuevos negocios cuyas habilidades se complementen perfectamente con las tuyas. Al mismo tiempo, tus redes sociales, la influencia política y el acceso a tus esperanzas y sueños se amplían. Te manifiestas a un alto nivel ahora. Pide lo que quieras.
