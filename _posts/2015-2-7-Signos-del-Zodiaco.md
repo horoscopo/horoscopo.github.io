@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de mayo 2016
+title: Hóroscopo de hoy 01 de junio 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Las respuestas te llegan de manera positiva esta mañana. Esta tarde, algunos se sienten más seguros moviéndose hacia atrás en lugar de hacia adelante mientras el pasado rige debido a la Luna conectando con Saturno. Esta noche, uno puede perder el corazón con tal sólo un inocente beso debido a Venus entrando a Piscis. ¡El reino del amor acaba de volverse interesante!
+Existe un estado de animación suspendida bajo la Luna saliéndose de su órbita el día de hoy. El presentimiento de que algo está a punto de suceder probablemente no se desvanecerá hasta la noche. La vida se simplifica una vez que la Luna entra al práctico Virgo. Los solteros deberían saber que ahora, una actitud clásica y moderada es la más atractiva románticamente.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
