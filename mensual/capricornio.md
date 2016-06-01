@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Capricornio Mayo 2016 
+title: Capricornio Junio 2016 
 permalink: /horoscopo-mensual/capricornio/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2016, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
-ogimg: /images/zodiac/capricornio.jpg
-description: Tu ansia de diversión pura es iluminada por la Luna Nueva del 6 de mayo. Encuentra alegría en algo nuevo y sorprendente. Algunas de tus amistades podrían no sorprenderse, pero estarán felices por ti. ¡Hazlo y ve hacia dónde te lleva! La Luna Llena del 21 de mayo te otorga poder detrás de escenas en una situación social o familiar. Tú bien sabes cómo restarles importancia a tus ventajas y hacer las cosas a tu manera. No tendrás que aplicar ninguna presión o persuasión para conseguir lo que deseas. La cuadratura entre Júpiter y Saturno del 26 de mayo es una ocurrencia rara, otorgándote más potencia e influencia. Utiliza ambos sabiamente y con cuidado.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-05-01'
+ lastmod: '2016-06-01'
 ---
 
- Tu ansia de diversión pura es iluminada por la Luna Nueva del 6 de mayo. Encuentra alegría en algo nuevo y sorprendente. Algunas de tus amistades podrían no sorprenderse, pero estarán felices por ti. ¡Hazlo y ve hacia dónde te lleva! La Luna Llena del 21 de mayo te otorga poder detrás de escenas en una situación social o familiar. Tú bien sabes cómo restarles importancia a tus ventajas y hacer las cosas a tu manera. No tendrás que aplicar ninguna presión o persuasión para conseguir lo que deseas. La cuadratura entre Júpiter y Saturno del 26 de mayo es una ocurrencia rara, otorgándote más potencia e influencia. Utiliza ambos sabiamente y con cuidado.
+ Tu salud resplandece bajo la Luna Nueva del 4 de junio. Si has estado bajo estrés o sintiéndote mal, esas nubes se están alejando. Adopta una vida más activa sin temor a sufrir de un esfuerzo excesivo o de un comienzo demasiado arrebatado. Puede que no estés pensando conscientemente en ti primero, pero a tu cuerpo le gustaría que así fuese. El tema de la Luna Llena del 20 de junio es amor. Es posible que a veces desees esconderte, pero no te molestes en hacerlo. El amor te está buscando y es más persistente que tú. El trígono entre Venus y Neptuno del 27 de junio trae consigo aún más oportunidades románticas, especialmente con el trígono entre la Luna y Saturno de altas horas de la noche.

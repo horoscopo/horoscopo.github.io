@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Sagitario Mayo 2016 
+title: Sagitario Junio 2016 
 permalink: /horoscopo-mensual/sagitario/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2016, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
-ogimg: /images/zodiac/sagitario.jpg
-description: Vuélvete más saludable y más feliz bajo la Luna Nueva del 6 de mayo. Hazle pequeños cambios a tu dieta u horario de descanso para que tu cuerpo se sienta revitalizado. La gente notará cómo aumenta tu nivel de energía y tus amigos y familiares te apoyarán y animarán. Te vuelves un imán amoroso bajo la manifestación de la Luna Llena del 21 de mayo. Alcanzarás tu momento más sexy y no habrá nada que disminuya tu atractivo. Si el romance no está presente en tu mente consciente, surgirá dentro de tus sueños. Tu vida diaria también podría volverse más encantadora y lujosa. Por último, la cuadratura entre Júpiter y Saturno del 26 de mayo te otorga poder para abordar los problemas más grandes con mayor autoridad.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-05-01'
+ lastmod: '2016-06-01'
 ---
 
- Vuélvete más saludable y más feliz bajo la Luna Nueva del 6 de mayo. Hazle pequeños cambios a tu dieta u horario de descanso para que tu cuerpo se sienta revitalizado. La gente notará cómo aumenta tu nivel de energía y tus amigos y familiares te apoyarán y animarán. Te vuelves un imán amoroso bajo la manifestación de la Luna Llena del 21 de mayo. Alcanzarás tu momento más sexy y no habrá nada que disminuya tu atractivo. Si el romance no está presente en tu mente consciente, surgirá dentro de tus sueños. Tu vida diaria también podría volverse más encantadora y lujosa. Por último, la cuadratura entre Júpiter y Saturno del 26 de mayo te otorga poder para abordar los problemas más grandes con mayor autoridad.
+ El amor brilla en el aire a tu alrededor bajo la Luna Nueva del 4 de junio. Podrías conocer a alguien muy cercano al “demasiado bueno para ser verdad” cuyos encantos necesitarían sólo un día para disminuir a proporciones mortales. Alrededor de la Luna Llena del 20 de junio, alguien podría inesperadamente salir a tu rescate. Puede que incluso no hayas estado conscientes de que algo iba mal o faltaba. Tu superhéroe del momento también podría estar muy bien disfrazado. Anda y disfruta de que alguien te cuide, para variar. Finalmente, el trígono entre Júpiter y la Luna del 30 de junio termina el mes con dulzura; aunque tal vez después de algunos altibajos emocionales.
