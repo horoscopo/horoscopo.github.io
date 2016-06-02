@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de junio 2016
+title: Hóroscopo de hoy 02 de junio 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Existe un estado de animación suspendida bajo la Luna saliéndose de su órbita el día de hoy. El presentimiento de que algo está a punto de suceder probablemente no se desvanecerá hasta la noche. La vida se simplifica una vez que la Luna entra al práctico Virgo. Los solteros deberían saber que ahora, una actitud clásica y moderada es la más atractiva románticamente.  
+¡Abróchate el cinturón de seguridad! Hoy te encuentras en la vía rápida mientras la Luna aspecta al impredecible Urano. Afortunadamente, eres muy eficiente. Esta noche, la misma vieja rutina parece monótona y poco interesante mientras la Luna en Virgo conjunta a Júpiter. ¡Enfréntate a la noche con una nueva, mejorada y emocionante actitud!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
