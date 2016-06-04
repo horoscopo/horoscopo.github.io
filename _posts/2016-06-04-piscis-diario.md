@@ -8,7 +8,7 @@ redirect_from: /p/piscis.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo piscis hoy, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2016, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: Gle8oVs6BfQ
+ video: IJ4dKJmPY1U
 
 ogimg: /images/piscis_char.png
 sitemap:
@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-Existe una fuerza fuerte y lenta en tu vida que trabaja por lo bajo para quizás transformar la manera que piensas acerca de la religión, filosofía y aprendizaje superior. Estos aspectos de tu vida serán movilizados gracias a la configuración planetaria de hoy. Descubrirás que los amigos cercanos y las personas relacionadas a nivel de tu alma efectuarán contribuciones importantes en esta área de tu vida.
+Tienes ansias por realizar un movimiento audaz hacia el amor de tu vida. El amor y el romance sin duda te favorecen en estos momentos. No es de extrañarse que te sientas valiente. Sin embargo, ten cuidado con entusiasmarte tanto que distorsiones la realidad de la situación. Hay un elemento de fantasía operando que está haciendo que sea difícil que puedas ver la imagen completa.
 
 ##Amor
 
-Hoy relájate, ¡y planifica unas vacaciones con ella o con él! Eso sin duda hará cambiar un poco las cosas. La falta de luz solar está teniendo un efecto perjudicial sobre la salud mental de tu amor... y, a su vez, hace que su relación física sea aparentemente inexistente.
+Bueno, se te ha salido de control la lengua, y todo el mundo sabe la verdad, o por lo menos, estás a punto de hacer precisamente eso. ¿Has pensado en las consecuencias? Si no es así, asegúrate de hacerlo. Si tu pareja está involucrada, se merece eso, ¡y tú también!
 
 ##Trabajo
 
-La temperatura en la calle aumenta al tiempo que los temperamentos en tu lugar de trabajo se recalientan. Alguien que ayer mostró una excelente disposición puede convertirse hoy en tu adversario. Muévete con cuidado y trata de no atizar incendios ajenos mientras desempeñas tus tareas diarias.
+Puede que te hagas acreedor/a a una reprimenda por no prestarle atención a ciertos detalles que deberías haber analizado minuciosamente. Acepta estos errores a medida que aparecen en vez de fingir que tú no tienes nada que ver con ellos. La próxima vez, revisa tu trabajo con mucho más cuidado.

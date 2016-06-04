@@ -8,7 +8,7 @@ redirect_from: /p/leo.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo leo hoy, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2016, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: Gle8oVs6BfQ
+ video: SwKpuh5UMwc
 
 ogimg: /images/leo_char.png
 sitemap:
@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-Atrévete a expresar tus ideas sin temor al ridículo. Esto es lo que la configuración planetaria tiene que decirte hoy. Y esto es exactamente lo que necesitas oír, porque el miedo al ridículo suele ser tu talón de Aquiles. El reto para ti es decir claramente lo que piensas sin hacer referencia a las ideas de los demás. ¡Atrévete a hacerlo!
+Reprochas con demasiada frecuencia a tu pareja por no darte la independencia suficiente. Y a la vez tratas de estar tan cerca de ella ¡que eres tú quien crea el dilema! Hoy la energía astral en juego te impulsará a que reclames tu independencia y te liberes de ese miedo constante a que tu pareja te vaya a abandonar. Confía en que no es preciso estar en la misma habitación con la otra persona para que te ame.
 
 ##Amor
 
-¡Intenta esa mirada misteriosa que tienes! Si eso no funciona, reconsidera este enamoramiento. Estás en una situación difícil hoy, ¡no pierdas la calma! Vas a estar bien. La reflexión ayudará a tu actual dilema amoroso; tu nueva noción traerá la paz.
+¡Tu presencia afecta a todos los que están a tu alrededor! ¡Cuidado con lo que dices y haces hoy! Cada acción tuya afecta de manera directa a los que te rodean. Si andas en uno de esos días en los que todos te echan miraditas de coqueteo, ¡cuidado!
 
 ##Trabajo
 
-Tienes la capacidad para liderar de manera práctica y eficaz. Puedes unir a las tropas y fácilmente cumplir con tu misión. Si te ganas el favor de la gente, no dejes que todo termine allí. Una vez que obtengas el apoyo, propone un objetivo común o presenta un proyecto. Los resultados serán increíbles.
+Tu compasión y tu sensibilidad serán un bálsamo para aquellos que recurran a ti escapando de una situación desagradable en el trabajo. Tu capacidad de comprensión ayudará a reducir las llamas que han venido aumentando. Mantente alejado del fuego para que no te queme a ti.

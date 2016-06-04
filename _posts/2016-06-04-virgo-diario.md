@@ -8,7 +8,7 @@ redirect_from: /p/virgo.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo virgo hoy, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2016, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: Gle8oVs6BfQ
+ video: dGgo39kxrkE
 
 ogimg: /images/virgo_char.png
 sitemap:
@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-La energía astral del día te hará sentir nerviosismo e inquietud. Demás, tendrás sensibilidad hacia la energía de otras personas porque estarás con un humor hipersensible. Tus amistades o miembros de la familia posiblemente desearán invitarte a salir a divertirte, pero querrás quedarte en casa y pasar algo de tiempo a solas. Podrás utilizar el tiempo haciendo una introspección o meditando para sentirte mejor.
+La creación de una nueva sociedad de negocios puede requerir de mucho papeleo hoy. Podría ser realmente tedioso tratar de encontrarle sentido al caos, pero es importante para ti, por lo que es probable que seas más persistente de lo habitual. Alguien más familiarizado con estos asuntos podría explicarte los pros y los contras. Es probable que este sea un acontecimiento muy feliz para ti, así que no te desanimes. ¡Ten paciencia!
 
 ##Amor
 
-Hoy la sutileza y los matices de las relaciones reina en los cielos. Si tú y tu pareja están realmente enamorados, entonces él o ella conocerá la sutileza de tus matices y puede que sienta que algo es diferente. La curiosidad, más que la sospecha, es lo que usualmente hace que una pareja busque pistas.
+El amor NO será tranquilo y modesto en tu vida esta semana a partir de hoy, lo cual es saludable. ¡Necesitarás un descanso de toda la pasión para reagruparte después de esta flecha de Cupido! Después de todo, las largas noches reclaman este calibre de pasión. ¡Disfruta de cada minuto!
 
 ##Trabajo
 
-Hoy están sucediendo muchas cosas buenas a tu alrededor. Sin embargo, tú sientes que lo bueno no te sucede a ti. No te esfuerces por ser algo que no eres. Sé paciente. El tren que está partiendo de la estación no es el tuyo. Tú tienes un boleto para otro tren que llegará muy pronto.
+Te llega un dato importante relacionado con el trabajo, ya sea que estés o no en tu lugar de trabajo. Sé cuidadoso/a con esta información. La necesitarás más adelante. Es importante que mantengas tus ojos y oídos bien abiertos.

@@ -8,7 +8,7 @@ redirect_from: /p/escorpio.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo escorpio hoy, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2016, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: Gle8oVs6BfQ
+ video: _wNl-_GagHc
 
 ogimg: /images/escorpio_char.png
 sitemap:
@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-Quizás alguna vez tuviste, o aún tienes, una abuela, abuelo, tía o tío que te maravilló con historias sobre tus antepasados. Las imágenes que sus palabras creaban en tu mente de un antiguo entorno, casas o personajes, aún resuenan en ti. Hoy será un buen día para embarcarte en tu propio viaje hacia el pasado. Sin duda existe aún mucho por descubrir.
+Con la energía astral de hoy en juego, podrías recibir una comunicación interesante a través del correo o email. Sabrás de una vieja amistad con quien no hablas desde hace tiempo. Esta voz del pasado despertará recuerdos de días idos. Sentirás deseos de responder y buscar la forma de reunirte con tal. O tal vez recibas noticias de un descubrimiento financiero. ¡Tu cuenta bancaria podría reflejar un monto mayor al que esperabas!
 
 ##Amor
 
-Quizá sea el momento de una celebración, para ti y para tu pareja, la persona que te ayudó a hacer que sucediese. ¡Háganse un favor y tómense una noche libre! Ya sea que prefieran salir a cenar con amigos o una noche tranquila a solas, haz que suceda.
+Tu primera cita con alguien nuevo podría tener lugar hoy. Haz que esta cita no tenga complicaciones y que tengan la oportunidad de conocerse. No elijas una película, ya que no pueden hablar, o un lugar ruidoso en el que no puedan conversar. Lo mejor sería un escenario íntimo que no sea demasiado provocativo.
 
 ##Trabajo
 
-No hagas de cuenta que todo está bajo control cuando claramente no es así. Cada vez que detectes algún error en el plan, asegúrate de informar a los demás. Si no lo haces, las repercusiones en el futuro serán terribles. Préstale atención a los detalles cada segundo de la partida.
+No logras ponerte de acuerdo con alguien en tu lugar de trabajo. Desafortunadamente, esta situación se prolongará durante las próximas semanas. Recuerda que la comunicación y el entendimiento mutuo deben ser iniciativas compartidas por ambas partes en esta discusión. Haz lo tuyo para fomentarlas.

@@ -8,7 +8,7 @@ redirect_from: /p/capricornio.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo capricornio hoy, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2016, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: Gle8oVs6BfQ
+ video: G7gf6hH4M34
 
 ogimg: /images/capricornio_char.png
 sitemap:
@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-Hoy querrás cambiar algunas de tus rutinas. Si mantienes el mismo plan día con día, todos los días, estos hábitos podrán llegar a hacerte sentir molestia. Trata de variar un poco las cosas. En cambio de ir al gimnasio después del trabajo, sal a correr durante la mañana temprano. O si siempre trabajas hasta tarde, intenta irte a casa más temprano para pasar tiempo con tus seres queridos. Con la ayuda de las influencias astrales de hoy, pronto encontrarás una mejor rutina.
+Es posible que hayas estado triste últimamente, pero hoy estarás de buen ánimo. Puedes embarcarte en tu viaje con plena confianza en sus aspectos astrológicos. Tu atractivo será mayor que de costumbre, y la gente encontrará tu encanto irresistible. ¡Ahí está la promesa de muchas experiencias gratificantes en tu carrera y vida amorosa!
 
 ##Amor
 
-Si no sueñas con el amor, no lo vas a encontrar, así que sueña a menudo y sueña a lo grande. Hoy es el día para dar los primeros pasos en tu búsqueda del amor perfecto. Ya te has escondido lo suficiente y ahora te preparas para dar los primeros pasos hacia un futuro fabuloso.
+Tu nuevo interés amoroso podría acercarse hoy y darte una fecha en la que terminaría con su otra relación. Es muy posible que ahora esté finalmente en disposición de decirle a esa otra persona que ya han terminado y que ha encontrado a alguien nuevo. ¡Deberías tener una razón para celebrar!
 
 ##Trabajo
 
-Las situaciones que enfrentas hoy en el trabajo no se dan a tu favor. Mientras más presionas para tener todo bajo control, más resistencia encuentras. Cálmate y sé paciente. Recuerda que la única persona que realmente puedes controlar es a ti mismo/a.
+Hoy notarás que tu energía física se ha aletargado. Desafortunadamente, esta tendencia se mantendrá durante los próximos meses. Habrá momentos en los que te sentirás fuerte, pero en general es posible que te sientas como si intentaras correr con esposas y cadenas.

@@ -8,7 +8,7 @@ redirect_from: /p/tauro.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo tauro hoy, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2016, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: Gle8oVs6BfQ
+ video: l3TOrU-sKtk
 
 ogimg: /images/tauro_char.png
 sitemap:
@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-Un grupo del que eres parte te puede pedir que cuides de algunas tareas. Esto puede implicar hacer llamadas telefónicas, hacer tareas o ambas cosas. Tu energía y entusiasmo son grandes, por lo que este es un buen día para demostrar lo valioso que es tu trabajo y lo eficiente que eres. Sin embargo, asegúrate de no hacer demasiado. No vas a poder ayudar a nadie si te agotas.
+Con la configuración celestial de hoy, desearás ser más sensible a los sentimientos ajenos. Tiendes a abocarte tanto a tus cosas que no prestas atención al estado de ánimo de los demás. Podría haber un familiar o compañero de trabajo que está atravesando un momento difícil. Si puedes transmitir un tono más alentador y positivo ¡te lo agradecerían! Esfuérzate por crear un ambiente de paz.
 
 ##Amor
 
-El ardiente deseo enciende las estrellas esta noche. En cuanto tú y tu nuevo amor estén solos por primera vez, no serán capaces de quitarse las manos de encima. Puede que toda la frustración y deseo acumulados sean demasiado para ambos. ¡Simplemente, disfruten!
+No niegues o luches contra la verdad hoy. Te hará libre y te abrirá más al amor de esa persona que te admira y a la que has estado evitando, estrictamente por el bien de sus sentimientos. Puede que a esa persona no le importe tanto como piensas.
 
 ##Trabajo
 
-Los temas que tienen que ver con el hogar y la familia son muy importantes hoy. Lograr la seguridad en estas áreas es un aspecto muy importante de tu trabajo. Asegúrate de que la gente a tu alrededor está en sintonía contigo para que tus esfuerzos no entren en conflicto con los de los demás o acaben por anularlos.
+Trata de no dejarte absorber por los dramas de otras personas. Tu trabajo será un torbellino de confusión, y si haces demasiadas preguntas, te enredarás en una difícil situación de la que te costará mucho salir. Mantén una prudente distancia.

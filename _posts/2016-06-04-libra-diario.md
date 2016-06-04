@@ -8,7 +8,7 @@ redirect_from: /p/libra.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo libra hoy, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2016, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: Gle8oVs6BfQ
+ video: Wk0WKn4jVLY
 
 ogimg: /images/libra_char.png
 sitemap:
@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-¿Estás enamorado/a? Puedes descubrir que los pensamientos de tu persona amada te persiguen hoy, incluso aunque estén separados. El deseo y la pasión pueden ser prácticamente obsesivos y van a interferir con tus otros proyectos si no tienes cuidado. Trata de concentrarte en las tareas a mano y haz una cita para reunirte con tu pareja después. Después de todo, ¡deseas mantener todos los departamentos de tu vida en su justa dimensión!
+Un talento para la decoración interior, de la que puedes o no haber sido consciente, te podría inspirar a hacer algún trabajo en tu casa. Es probable que consideres un montón de opciones diferentes y que hagas una larga lista de posibilidades. Las conversaciones con amigos y miembros de la familia pueden aportarte nuevas ideas. Es posible que desees tener una oportunidad de probar algo un poco diferente. Ve por ello, ¡y diviértete!
 
 ##Amor
 
-¡La actitud de hoy consolidará su vínculo! Cultiva un enfoque alegre de esta nueva o posible relación. Si te tornas a la introspección demasiado rápido, impedirás que ésta crezca. Tienes mucho que aprender de tu pareja, y ella de ti.
+Si eso es lo que tu instinto te dice, ¡créelo! El instinto no miente y vaya que ya lo sabes. Pero una cosa es saberlo y otra cosa es seguir tu intuición. ¡No hagas otro movimiento hasta que proceses esto!
 
 ##Trabajo
 
-Un punto de vista flexible y dispuesto a adaptarse te abrirá muchas puertas. Si da la impresión de que eres una persona mandona o alguien que se las sabe todas, la gente no hará el más mínimo esfuerzo para escuchar lo que tengas para decir. Trata de mostrar una actitud abierta y comprensiva para con los demás en todo momento.
+Sentirás una fuerte conexión con la gente a tu alrededor, la cual propiciará mejores relaciones en tu lugar de trabajo. El vínculo generado por la comunicación es muy potente: descubrirás que mientras más hablas, más unido te sientes a los que te rodean.

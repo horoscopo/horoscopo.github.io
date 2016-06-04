@@ -8,7 +8,7 @@ redirect_from: /p/cancer.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo cancer hoy, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2016, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: Gle8oVs6BfQ
+ video: iw4T9tUDYQM
 
 ogimg: /images/cancer_char.png
 sitemap:
@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-Tus colegas pueden estar un poco en el filo. Vas a tener que elegir cuidadosamente tus palabras. Si te sientes como si estuvieras caminando sobre cáscaras de huevo, lo estás. Hay tensión definida en el aire. Y aunque no puedes identificar la fuente, sin duda puedes ver que se manifiesta en los rostros de tus compañeros de trabajo. Hoy no sería un buen día para realizar una crítica constructiva de ningún tipo. No causes problemas.
+¿Tienes previsto asistir a una conferencia o taller? Este es un buen día para ello. Tu mente y emociones están trabajando juntas para darte ideas. Tu sentido común está funcionando a un nivel muy alto, así que este también es un buen día para tomar decisiones prácticas. La comunicación con los que comparten tus intereses debe ser a la vez gratificante y enriquecedora.
 
 ##Amor
 
-Puede que necesites un día de paz y tranquilidad en tu casa si no te sientes sociable. Por supuesto, tener compañía podría ser ideal mientras puedas decidir el momento en que deba irse cuando necesites estar a solas.
+Hoy es un día de autodescubrimiento para las parejas. Esto podría manifestarse en una conciencia introspectiva hacia ti mismo/a. Podrías darte cuenta de que enamorarte te enseña a comprenderte mejor. Al conocer a tu pareja, te conoces también a ti mismo/a y descubres nuevas perspectivas en tus propias motivaciones y personalidad.
 
 ##Trabajo
 
-Ser amigable con los demás te traerá más suerte y prosperidad de lo que tú crees. Mantente abierto/a a la gente nueva y a las ideas nuevas en vez de hacer esfuerzos conscientes para bloquearlas. Algo viene hoy hacia ti que resultará ser muy redituable.
+Te sientes muy sensible y te da la impresión de que todo el mundo te critica. La combinación no es buena. Por eso, baraja con cuidado tus expectativas. Para evitar problemas y desilusiones, mantén un ritmo de trabajo parejo y un perfil bajo.

@@ -8,7 +8,7 @@ redirect_from: /p/sagitario.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo sagitario hoy, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2016, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 horoscopo:
  signo: sagitario
- video: Gle8oVs6BfQ
+ video: SYVDFvBBXGw
 
 ogimg: /images/sagitario_char.png
 sitemap:
@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-Planea tus movimientos cuidadosamente hoy, y ten paciencia con la gente que te rodea. Si estás trabajando con otras personas, cerciórate de que todos estén en la misma onda en relación a tus metas y objetivos y que no estén, de alguna manera, haciendo nada en contra de tus propósitos. Podría ser que alguien esté actuando, reaccionando o desinformando y todo ello esté creando conflictos con tus pensamientos y sentimientos. Date un baño de realidad antes de salir por la puerta.
+Sería conveniente pasar algún tiempo pensando en tus finanzas hoy. ¿Tienes un presupuesto realista o el tuyo no incluye cosas tales como entretenimiento, regalos y lujos ocasionales? Dicho presupuesto no será suficiente, ya que estos son gastos que todo el mundo tiene. Observa detenidamente tus hábitos de gastos y mira dónde puedes recortar sin demasiado dolor.
 
 ##Amor
 
-Los planetas probablemente te confunden hoy un poco. No tienes demasiada seguridad de cuáles son tus sentimientos en cuanto a alguien que acabas de conocer. Es posible que quieras llevar las cosas al siguiente nivel, pero no tienes la seguridad de si quieres cruzar esa línea y arriesgarte a perder una gran amistad.
+Los planetas indican que tu pareja puede tener un regalo especial para ti o estar lista para demostrar la profundidad de sus sentimientos. Los planetas no revelan si se trata de un regalo material o uno hecho con el corazón. Lo que debería quedar claro es la adoración que representa ese amor.
 
 ##Trabajo
 
-Estás en un punto muerto del camino. Un punto de aplazamiento. Mientras más forcejees, más atado te verás a una situación que te incomoda. Renuncia a tus intentos por controlarlo todo y sé paciente. Aprende a esperar. Tu hora llegará.
+Alguien está tratando de convencerte de que te sumes a sus proyectos. Sé prudente. Lo que es bueno para esta persona puede resultar contraproducente para ti. Aunque él o ella muestre un gran entusiasmo, esto no significa que tú tengas que unírtele.

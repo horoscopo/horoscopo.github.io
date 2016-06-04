@@ -8,7 +8,7 @@ redirect_from: /p/geminis.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo geminis hoy, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2016, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: Gle8oVs6BfQ
+ video: viL-3XMzb4Y
 
 ogimg: /images/geminis_char.png
 sitemap:
@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-La necesidad de completar una tarea importante podría hacerte reunir un nivel mucho más elevado de autocontrol del acostumbrado. La perseverancia y la determinación podrían dominar tu estado de ánimo, por lo que podrías lograr maravillas. Sin embargo, asegúrate de tomar descansos, y recuerda relajarte de vez en cuando. Por encima de todo, no te concentres tanto en tu trabajo que se te olvide comer. Tu trabajo sólo se verá afectado si descuidas tu cuerpo. ¡Tómate tu tiempo!
+Tu capacidad de concentración se verá reforzada hoy. Si tienes estudios o trabajo que atender, este será un momento oportuno para ello. Los pasatiempos que requieren mucha concentración también pueden estimular tu cabeza. Incluso si una manada de elefantes en estampida corre a través de tu espacio, es poco probable que pierdas la concentración. Termina tus tareas más intensas y después disfruta del día.
 
 ##Amor
 
-Hoy, los resultados positivos serán inmediatos en el terreno del amor, pero requerirán esfuerzo de tu parte. Por lo tanto, por favor no tomes la opción más sencilla. El camino menos transitado será más gratificante. ¡Sueña a lo grande!
+Es época de cosecha; ¡sin duda estás sintiendo el cambio de temporada y cada centímetro de tu ser lo muestra! ¡Estás volviendo a la vida hoy! Y eso es una gran noticia. ¡En el terreno del amor y la pasión, las cosas están muy calientes! Disfruta.
 
 ##Trabajo
 
-Es tiempo de que una idea sea remplazada por otra. Puede que tu trabajo parta de una premisa anacrónica o desactualizada. Deshazte de esta idea y busca algo nuevo. Pídele a alguien su opinión sobre el asunto. Una perspectiva renovada te hará muy bien. No tengas miedo de buscar asistencia.
+Proyectos que han estado completamente atascados comienzan nuevamente a marchar. Notarás que hoy cuentas con una disciplina mucho mayor, la cual te servirá para terminar cualquiera de esas tareas que vienen acosándote hace tiempo. ¡Avanza a toda máquina!
