@@ -1,15 +1,15 @@
 ---
 layout: page
-title: virgo 30-05-2016 al 06-06-2016 
+title: virgo 06-06-2016 al 13-06-2016 
 permalink: /horoscopo-semanal-gratis/virgo/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-30'
+ lastmod: '2016-06-06'
 ---
-El apoyo que recibes de los demás continúa esta semana, con la posibilidad de que recibas una oferta de la cual tal vez quieras apoderarte. Las oportunidades románticas también se vislumbran muy optimistas, con una amistad desarrollando nueva calidez e intimidad. Tendrás la oportunidad de disfrutar algunos eventos sociales muy especiales, incluyendo encantadoras citas y salidas con tu familia. Las emprendimientos creativos y actividades empresariales se vislumbran muy prometedores. Tu confianza en tus habilidades te ayuda a hacer muy posible el éxito.
+Información oculta y secretos enterrados podrían salir a la luz durante la próxima semana. La razón es que el actual enfoque en tu sector místico y espiritual podría animarte a desahogarte con respecto a eventos que necesitan ser procesados. Si hay algo en tu conciencia que nunca le has dicho a nadie, este podría ser un buen momento para revelarlo siempre y cuando puedas encontrar a alguien que sea de suficiente confianza. En otra nota, darle rienda suelta a tu imaginación podría hacerte llegar lucrativas y creativas ideas.
 
 ##Dinero
 
-Estás mejorando tu vida financiera haciendo grandes avances en tu carrera. Estás cambiando la forma en que haces tu trabajo y haciendo planes para el futuro. Si deseas avanzar con rapidez en este ámbito, date como voluntario/a para representar más a tu organización. Al dar discursos y presentaciones, vences el miedo a hablar en público y avanzas en tu propia causa. Tu ambición no puede ser igualada. Crea heno mientras el Sol brilla.
+Los planetas en tu sector de comunicación esta semana te hacen más parlanchín/a de lo normal. Tanto tu situación económica, así como tu trabajo pueden depender de tu capacidad para transmitir tu mensaje de una manera concisa y poderosa. Pero ya que un aspecto negativo constriñe tu trabajo día a día, lo mejor es encontrar un equilibrio entre tu necesidad de destacar y tu necesidad de ganar dinero. El trabajo en equipo y el equilibrio van de la mano.

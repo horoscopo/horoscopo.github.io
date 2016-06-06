@@ -1,15 +1,15 @@
 ---
 layout: page
-title: sagitario 30-05-2016 al 06-06-2016 
+title: sagitario 06-06-2016 al 13-06-2016 
 permalink: /horoscopo-semanal-gratis/sagitario/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-30'
+ lastmod: '2016-06-06'
 ---
-Aunque puede que sientas que salir con una persona determinada es una buena idea, su práctica actitud hacia la situación podría revelar que no lo es. Es incluso posible que pudieran tener una mejor relación si se mantienen como amigos. La alineación de esta semana sugiere que aunque tienes estrellitas en los ojos, podrías bajar rápidamente a la tierra. El movimiento de Saturno a tu sector financiero podría darte una actitud mucho más empresarial en relación a dinero. El deseo de aumentar tus ingresos podría llevarte a formular planes.   
+Necesitas tomar una decisión clave el Martes. La Luna Nueva de mitad de semana en tu sector hogareño alienta nuevos comienzos, por lo que si te has preparado para empezar un proyecto o seguir con la siguiente fase de un plan, es el momento adecuado para actuar. Lo que sea que comiences ahora podría cambiar tu vida de una manera positiva. Mientras tanto, Marte se une a Venus en Libra el jueves, haciendo de este un momento excelente para anunciar tus productos y servicios y hacerle llegar tu mensaje al mundo. 
 
 ##Dinero
 
-Tanto está pasando en tu vida laboral que puede que tengas que evitar el agobio o el cansancio. Sin embargo, las oportunidades están ahí, para que construyas tu propio pequeño imperio. Tu influencia se amplía sobre los grupos, por lo que asegúrate de que tu mensaje está pulido y listo para atacar. El dinero te sigue cuando eres fiel a lo que eres y lo que quieres decir.
+Es una semana confusa apara ti. Una energía individualista pero impredecible afectando la zona de la familia, los niños, y el romance indica un momento difícil de equilibrio entre tu trabajo y la vida económica con tu necesidad de relajarte con la gente que amas. Es necesario ajustar la forma de pensar sobre el dinero en tu vida. ¿Tienes que trabajar tanto o puedes reducir un poco con el fin de obtener el descanso que necesitas?

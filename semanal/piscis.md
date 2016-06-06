@@ -1,15 +1,15 @@
 ---
 layout: page
-title: piscis 30-05-2016 al 06-06-2016 
+title: piscis 06-06-2016 al 13-06-2016 
 permalink: /horoscopo-semanal-gratis/piscis/
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-05-30'
+ lastmod: '2016-06-06'
 ---
-Durante la semana por delate podría parecer como si estuvieras en un punto caliente al tener que tomar decisiones y ser responsable por ellas. Además, una mezcla especialmente incómoda de energías también podría significar que sientes presión para tomar ciertas acciones. Antes de continuar, asegúrate de evaluar el estado de la situación. Puede que tu plan no sea práctico y es posible que tengas que trabajar más para refinar tu estrategia. En caso de duda, pídele consejos a alguien de confianza. Hacerlo podría ser crucial para tu éxito.
+Con el actual enfoque en tu sector de trabajo y estilo de vida, la burbujeante energía de esta semana podría verte con ganas de llevar las cosas al siguiente nivel. Muéstrales tus nuevas habilidades a posibles empleadores o habla con tu jefe acerca de una promoción; ya que tus habilidades podrían estar en demanda. En cuanto a ejercicio, la alienación actual te anima a hacer todo lo que haya en tu poder para mantenerte lo más flexible posible. Yoga, tai chi, o natación pueden ser útiles para ayudarte a sentirte bien y mantener tus articulaciones flexibles.
 
 ##Dinero
 
-Es una semana confusa apara ti. Una energía individualista pero impredecible afectando la zona de la familia, los niños, y el romance indica un momento difícil de equilibrio entre tu trabajo y la vida económica con tu necesidad de relajarte con la gente que amas. Es necesario ajustar la forma de pensar sobre el dinero en tu vida. ¿Tienes que trabajar tanto o puedes reducir un poco con el fin de obtener el descanso que necesitas?
+Esta semana, te desafía cierto aspecto en tu sector de carrera y autoridad. Aunque puede traer noticias e incentivos adicionales a esta área, puede que no te sientas de lo mejor con lo que está sucediendo. O puede que lo percibas como un golpe a tu ego. Debes saber que lo que sucede no es personal y sólo mejorará tus oportunidades para el futuro.
