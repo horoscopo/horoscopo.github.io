@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de junio 2016
+title: Hóroscopo de hoy 07 de junio 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Júpiter entra al tranquilo, sereno, persuasivo y lógico Virgo. Dado que este astro es beneficioso, una vez que hayas preguntado, guarda silencio y espera recibir una respuesta positiva. Esta noche, es demasiado fácil olvidar la sabiduría y exagerar cuando la bien intencionada Luna cuadre a Urano, el planeta de las consecuencias inesperadas.
+Un cambio en las circunstancias podría resultar en un cambio temporal de dirección cuando la Luna aspectando a Urano te tome por sorpresa el día de hoy. En este sentido, puede que algo surja de aquí. Aprovecha la oportunidad. Esta noche, los mensajes son transmitidos fácil y agradablemente cuando la Luna forma sextil con Mercurio. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
