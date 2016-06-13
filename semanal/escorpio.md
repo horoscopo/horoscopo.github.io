@@ -1,15 +1,24 @@
 ---
-layout: page
-title: escorpio 06-06-2016 al 13-06-2016 
+layout: horoscopos
+title: escorpio 2016-06-13s 
+description: Una sensual combinación de energías te invita a disfrutar de la vida. En general, te percatarás de que los asuntos laborales y profesionales comienzan a verse más prometedores. A partir del viernes, el Sol en Géminis ilumina tu sector de comunicación para hacer de este el momento perfecto para establecer nuevos contactos, explorar nuevas opciones y platicar con nuevas personas. Sin embargo, ten cuidado alrededor de la época de la Luna Llena del sábado, ya que podrías decir algo de lo que te arrepientas más tarde. Ciertas cuestiones financieras podrían comenzar a mejorar una vez que Mercurio avance a partir del domingo.
 permalink: /horoscopo-semanal-gratis/escorpio/
+home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
+horoscopo:
+ signo: escorpio
+ video: 0julK6Ckge4
+
+ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-06'
+ lastmod: '2016-06-13'
 ---
-La Luna Llena en tu sector de bienestar y estilo de vida podría ser la razón por la que te descarriles fuera de pista con respecto a tu dieta o rutina de ejercicios. Si es así, trata de evitar que te detenga por completo. Levántate y comienza de nuevo una vez que te encuentres más estable. Más adelante en la semana, es posible que una discusión te traiga la oportunidad de explorar nuevas ideas y negocios en los que desearás trabajar como parte de un equipo. Este domingo, tu lado soñador podría salir a jugar. 
+
+
+Una sensual combinación de energías te invita a disfrutar de la vida. En general, te percatarás de que los asuntos laborales y profesionales comienzan a verse más prometedores. A partir del viernes, el Sol en Géminis ilumina tu sector de comunicación para hacer de este el momento perfecto para establecer nuevos contactos, explorar nuevas opciones y platicar con nuevas personas. Sin embargo, ten cuidado alrededor de la época de la Luna Llena del sábado, ya que podrías decir algo de lo que te arrepientas más tarde. Ciertas cuestiones financieras podrían comenzar a mejorar una vez que Mercurio avance a partir del domingo.
 
 ##Dinero
 
-Estás con ganas de gastar cierto dinero que sientes que está a punto de hacer un agujero en tu bolsillo, pero el momento no es el adecuado. Debido a un aspecto armonioso ahora, el cambio está llegando a las áreas que rigen las relaciones profesionales, viajes, educación superior, la enseñanza y el aprendizaje. Si trabajas en uno de estos campos, ¡es un buen momento para ti! Si no es así, trata de incorporar alguna faceta de ellos en lo que haces para ganarte la vida.
+Esta semana se trata de la zona de tu gráfico que rige el romance, la familia y la diversión, así que puedes estar pensando más en gastar tu dinero en estas zonas que en guardarlo. Eso está bien por ahora, pero el Universo tiende a provocar cambios bruscos e inoportunos a veces. Asegúrate de guardar algo de dinero para más adelante. Mientras tanto, una buena noticia viene en el sector de empleo. ¡Celébralo!

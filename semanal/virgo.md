@@ -1,15 +1,24 @@
 ---
-layout: page
-title: virgo 06-06-2016 al 13-06-2016 
+layout: horoscopos
+title: virgo 2016-06-13s 
+description: Aunque te has preparado para la acción, tienes que tener cuidado esta semana, ya que hay posibilidad de confusión y malentendidos. Júpiter aspectando a Neptuno sin duda despertará tu imaginación, pero es posible que te resulte difícil concentrarte. Tendrás que prestarle atención a los detalles y administrar tu tiempo para que las cosas salgan según lo planeado. Si eres una persona artística, podrías sentir más inspiración. Y si es que necesitas divertirte un poco, tendrás muchas oportunidades tanto para ello como para romance.
 permalink: /horoscopo-semanal-gratis/virgo/
+home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
+horoscopo:
+ signo: virgo
+ video: FkkmdNXJgpU
+
+ogimg: /images/virgo_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-06'
+ lastmod: '2016-06-13'
 ---
-Información oculta y secretos enterrados podrían salir a la luz durante la próxima semana. La razón es que el actual enfoque en tu sector místico y espiritual podría animarte a desahogarte con respecto a eventos que necesitan ser procesados. Si hay algo en tu conciencia que nunca le has dicho a nadie, este podría ser un buen momento para revelarlo siempre y cuando puedas encontrar a alguien que sea de suficiente confianza. En otra nota, darle rienda suelta a tu imaginación podría hacerte llegar lucrativas y creativas ideas.
+
+
+Aunque te has preparado para la acción, tienes que tener cuidado esta semana, ya que hay posibilidad de confusión y malentendidos. Júpiter aspectando a Neptuno sin duda despertará tu imaginación, pero es posible que te resulte difícil concentrarte. Tendrás que prestarle atención a los detalles y administrar tu tiempo para que las cosas salgan según lo planeado. Si eres una persona artística, podrías sentir más inspiración. Y si es que necesitas divertirte un poco, tendrás muchas oportunidades tanto para ello como para romance.
 
 ##Dinero
 
-Los planetas en tu sector de comunicación esta semana te hacen más parlanchín/a de lo normal. Tanto tu situación económica, así como tu trabajo pueden depender de tu capacidad para transmitir tu mensaje de una manera concisa y poderosa. Pero ya que un aspecto negativo constriñe tu trabajo día a día, lo mejor es encontrar un equilibrio entre tu necesidad de destacar y tu necesidad de ganar dinero. El trabajo en equipo y el equilibrio van de la mano.
+Aunque puede que parezca como si las oportunidades estuvieran saliendo de la nada, lo cuál puede minar un poco tu  natural deseo de seguridad, debes saber que vas por buen camino. Es posible que estés un poco más propenso/a a accidentes de lo normal, así que conduce con cuidado. Trata de pagar lo que debes. No esperes a recibir esa inevitable llamada.

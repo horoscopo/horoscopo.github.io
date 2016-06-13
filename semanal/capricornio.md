@@ -1,15 +1,24 @@
 ---
-layout: page
-title: capricornio 06-06-2016 al 13-06-2016 
+layout: horoscopos
+title: capricornio 2016-06-13s 
+description: Con el actual enfoque en un sector más enclaustrado de tu carta, sentirías contento al pasar tiempo a solas y darte algunos consentimientos. Desafortunadamente, puede que esto no sea posible en práctica, ya que ciertas responsabilidades podrían salir a la superficie, especialmente en la segunda parte de la semana. Si esperabas poder relajarte y descansar, podrías tener que asumir una gran cantidad de trabajo, tal vez a corto plazo. Pareces estar bajo presión, por lo que tendrás que mantenerte a buen ritmo para terminarlo todo. 
 permalink: /horoscopo-semanal-gratis/capricornio/
+home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
+horoscopo:
+ signo: capricornio
+ video: EmNeHnWlNl4
+
+ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-06'
+ lastmod: '2016-06-13'
 ---
-Si pareciera como si hubieras llegado a un punto muerto en relación con un área de tu vida, puede que tengas más margen de maniobra del que parece. La mezcla de energías de esta semana sugiere que si no tienes seguridad de cuál debería debe tu siguiente paso, podría ser aconsejable reducir tu velocidad durante un tiempo. De hecho, puede ser que necesites más información o la oportunidad de mejorar ciertas habilidades con el fin de poder hacerle frente a los retos actuales.
+
+
+Con el actual enfoque en un sector más enclaustrado de tu carta, sentirías contento al pasar tiempo a solas y darte algunos consentimientos. Desafortunadamente, puede que esto no sea posible en práctica, ya que ciertas responsabilidades podrían salir a la superficie, especialmente en la segunda parte de la semana. Si esperabas poder relajarte y descansar, podrías tener que asumir una gran cantidad de trabajo, tal vez a corto plazo. Pareces estar bajo presión, por lo que tendrás que mantenerte a buen ritmo para terminarlo todo. 
 
 ##Dinero
 
-Le estás dando nueva vida a algo por lo que perdiste interés hace mucho tiempo, gran parte de tu energía se está moviendo en esta dirección. De hecho, puedes hasta disfrutar de un golpe de suerte que lo haga suceder esta vez y de verdad. Asegúrate de que tu flujo de efectivo se mantenga estable al gastarlo proporcionalmente. Podrías estar viendo tu situación financiera a través de lentes de color de rosa.
+Tal vez tengas que revisar una y otra vez tu grado de comunicación. Algunas ideas pueden ser el punto de inicio para nuevos proyectos, pero habría la posibilidad de que el mensaje se quede a medias. El utilizar tu energía creativa para aprender otro idioma (el cuál posiblemente te serviría en el trabajo) o mejorar tu educación, podría hacer la diferencia.

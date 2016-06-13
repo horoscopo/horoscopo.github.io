@@ -1,15 +1,24 @@
 ---
-layout: page
-title: sagitario 06-06-2016 al 13-06-2016 
+layout: horoscopos
+title: sagitario 2016-06-13s 
+description: Ciertas cuestiones sin resolver podrían ser la razón por la que te abstengas de hacer un movimiento o de comenzar una nueva fase o proyecto. Si cierto asunto ha sido causa de tu pérdida de energía y de que te hayas estado sintiendo mal por un tiempo, vale la pena tomarte el tiempo para resolverlo. Una vez que lo hagas, tendrás mucha más vitalidad que invertirle a tu vida cotidiana y todos esos nuevos planes a los que les has estado dando vueltas. La alineación del sábado sugiere que hablar las cosas con un entrenador de vida o una persona de confianza podría ayudarte a progresar considerablemente. 
 permalink: /horoscopo-semanal-gratis/sagitario/
+home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
+horoscopo:
+ signo: sagitario
+ video: bR5SxtxA5AU
+
+ogimg: /images/sagitario_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-06'
+ lastmod: '2016-06-13'
 ---
-Necesitas tomar una decisión clave el Martes. La Luna Nueva de mitad de semana en tu sector hogareño alienta nuevos comienzos, por lo que si te has preparado para empezar un proyecto o seguir con la siguiente fase de un plan, es el momento adecuado para actuar. Lo que sea que comiences ahora podría cambiar tu vida de una manera positiva. Mientras tanto, Marte se une a Venus en Libra el jueves, haciendo de este un momento excelente para anunciar tus productos y servicios y hacerle llegar tu mensaje al mundo. 
+
+
+Ciertas cuestiones sin resolver podrían ser la razón por la que te abstengas de hacer un movimiento o de comenzar una nueva fase o proyecto. Si cierto asunto ha sido causa de tu pérdida de energía y de que te hayas estado sintiendo mal por un tiempo, vale la pena tomarte el tiempo para resolverlo. Una vez que lo hagas, tendrás mucha más vitalidad que invertirle a tu vida cotidiana y todos esos nuevos planes a los que les has estado dando vueltas. La alineación del sábado sugiere que hablar las cosas con un entrenador de vida o una persona de confianza podría ayudarte a progresar considerablemente. 
 
 ##Dinero
 
-Es una semana confusa apara ti. Una energía individualista pero impredecible afectando la zona de la familia, los niños, y el romance indica un momento difícil de equilibrio entre tu trabajo y la vida económica con tu necesidad de relajarte con la gente que amas. Es necesario ajustar la forma de pensar sobre el dinero en tu vida. ¿Tienes que trabajar tanto o puedes reducir un poco con el fin de obtener el descanso que necesitas?
+Probablemente tienes un fuerte deseo de seguridad financiera. Para algunos esto puede traducirse en el deseo de controlar, mientras que para otros es sólo un deseo. Es hora de expresar lo que quieres y dejar que tus necesidades sean conocidas dentro de las alianzas empresariales y la oficina. Tienes la capacidad de comunicación y la creatividad para alcanzarlo.

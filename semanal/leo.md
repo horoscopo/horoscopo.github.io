@@ -1,15 +1,24 @@
 ---
-layout: page
-title: leo 06-06-2016 al 13-06-2016 
+layout: horoscopos
+title: leo 2016-06-13s 
+description: A donde quiera que mires podría haber tentaciones de gastar tu dinero arduamente ganado. Sin embargo, debido a tu presente situación animándote a ser un poco más frugal, podría en ti surgir el sentimiento de exclusión. De hecho, ciertas amistades podrían estar activamente alentándote a gastar de más. ¿Qué hacer? La respuesta podría estar en adoptar un enfoque creativo con tu dinero. Puede haber maneras de conseguir lo que quieres sin tener que gastar dinero en efectivo. Intercambiar podría ser una útil idea.
 permalink: /horoscopo-semanal-gratis/leo/
+home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
+horoscopo:
+ signo: leo
+ video: _Ao7rg13VA8
+
+ogimg: /images/leo_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-06'
+ lastmod: '2016-06-13'
 ---
-Si no has salido de vacaciones este año, o si te apetece tomar otro descanso, este es un excelente momento para hacer planes de viaje. Podrías tener mucha emoción y anticipación en tu deseo de visitar países que nunca has visto o en tomar una ruta más aventurera hacia cierto destino. Posibilidades románticas también podrían revelársete cuando salgas de tu zona de confort. Tu vida social se vuelve más viva desde el viernes, animándote a ponerte en contacto con amigos y salir a socializar. 
+
+
+A donde quiera que mires podría haber tentaciones de gastar tu dinero arduamente ganado. Sin embargo, debido a tu presente situación animándote a ser un poco más frugal, podría en ti surgir el sentimiento de exclusión. De hecho, ciertas amistades podrían estar activamente alentándote a gastar de más. ¿Qué hacer? La respuesta podría estar en adoptar un enfoque creativo con tu dinero. Puede haber maneras de conseguir lo que quieres sin tener que gastar dinero en efectivo. Intercambiar podría ser una útil idea.
 
 ##Dinero
 
-Para ti esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes una ventana de tiempo para hacerte cargo de viejos asuntos y para investigar si es mejor mantener, comprar o vender inversiones compartidas. Sin embargo, sabes bien lo que quieres y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.
+La actividad en tu sector de dinero y valores de esta semana indica que algo del pasado tiene que ser aclarado y ajustado antes de poder avanzar de nuevo. Añade a esto los ingredientes para un futuro monetario interesante. Eres capaz de aportar más a la mesa cuando le prestas más atención a tu sector de deuda o el dinero de otros.
