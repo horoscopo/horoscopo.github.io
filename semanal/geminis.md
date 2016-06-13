@@ -1,15 +1,24 @@
 ---
-layout: page
-title: geminis 06-06-2016 al 13-06-2016 
+layout: horoscopos
+title: geminis 2016-06-13s 
+description: Si tienes la oportunidad de ganar algo de dinero extra o de un aumento de sueldo, tómala. La prometedora alineación de principios de semana insinúa que, si tienes disposición a trabajar más, podrías cosechar las recompensas. Más adelante, Mercurio forma un delicioso aspecto en tu sector de relaciones, días que serían perfectos para hablar de negocios, colaborar en un plan o conversar con una persona especial. A partir del domingo, te beneficiarás económicamente si recortas tus gastos.
 permalink: /horoscopo-semanal-gratis/geminis/
+home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
+horoscopo:
+ signo: geminis
+ video: T6HOiOBPHac
+
+ogimg: /images/geminis_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-06'
+ lastmod: '2016-06-13'
 ---
-Puede ser fácil involucrarte en un enredo esta semana, ya que existe la posibilidad de mensajes contradictorios y malentendidos en general. Pero también hay muchas cosas emocionantes y optimistas sucediendo en los próximos días. Venus regresa de nuevo a Virgo el jueves, dándote mucho atractivo. Tus asuntos monetarios sufrirán menos retrasos y frustración una vez que Mercurio se torne directo el viernes. Entonces ya puedes comenzar a comprar artículos caros. Por último, puede que te beneficies romántica y financieramente este fin de semana.
+
+
+Si tienes la oportunidad de ganar algo de dinero extra o de un aumento de sueldo, tómala. La prometedora alineación de principios de semana insinúa que, si tienes disposición a trabajar más, podrías cosechar las recompensas. Más adelante, Mercurio forma un delicioso aspecto en tu sector de relaciones, días que serían perfectos para hablar de negocios, colaborar en un plan o conversar con una persona especial. A partir del domingo, te beneficiarás económicamente si recortas tus gastos.
 
 ##Dinero
 
-Te enfrentas a un momento emocionante ahora. Con tantas oportunidades adicionales de ganar dinero y aumentar tu salario, puede ser tentador gastar más también. Tu sector de empleo es la clave. ¿Por qué no aprovechar las ventajas de un programa de ahorro que se te ofrezca a través del trabajo? En algunos casos, tu compañía igualará la misma cantidad que decidas ahorrar. No está mal.
+Esta semana es acerca de los aspectos afectando tu casa del karma, vidas pasadas, sueños y el sector de amor. Tus sueños podrían estar llenos de ideas de cómo atraer más dinero, así que pon atención a lo que dicen. Al mismo tiempo, tu sector del hogar es todo menos claro. Ponte a pensar si tiene sentido el continuar pagando la misma renta o si deberías mudarte a un nuevo lugar.

@@ -1,15 +1,24 @@
 ---
-layout: page
-title: tauro 06-06-2016 al 13-06-2016 
+layout: horoscopos
+title: tauro 2016-06-13s 
+description: Podrías sentir como si te jalaran hacia dos direcciones diferentes, sobre todo si tienes ansias por invertirle recursos a una nueva idea empresarial. Otros planes o proyectos podrían afectar tu capacidad para seguir adelante. Es posible que tengas que elegir entre ambos si te es imposible manejar ambas opciones a la vez. Esta semana, todavía hay un intenso enfoque en las relaciones, y con esta siendo la semana del Día de San Valentín, la pasión podría crecer dentro de una relación. Sin embargo, los días más románticamente intensos podrían ser los de principios de semana.
 permalink: /horoscopo-semanal-gratis/tauro/
+home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
+horoscopo:
+ signo: tauro
+ video: 1QqIaz7hObI
+
+ogimg: /images/tauro_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-06'
+ lastmod: '2016-06-13'
 ---
-Si sientes una punzada de pánico en cuanto a dinero u otra cuestión, lo más probable es que sea porque tu seguridad se ve amenazada de alguna manera. Lo que no debes hacer es actuar de forma irracional en el calor del momento. Haz lo que tengas que hacer y posteriormente busca consejo - sólo asegúrate de que la fuente sea confiable. En momentos se pudiera sentir como si estuvieras navegando a través de un nebuloso río. Si mantienes la calma, eventualmente encontrarás la claridad que buscas.
+
+
+Podrías sentir como si te jalaran hacia dos direcciones diferentes, sobre todo si tienes ansias por invertirle recursos a una nueva idea empresarial. Otros planes o proyectos podrían afectar tu capacidad para seguir adelante. Es posible que tengas que elegir entre ambos si te es imposible manejar ambas opciones a la vez. Esta semana, todavía hay un intenso enfoque en las relaciones, y con esta siendo la semana del Día de San Valentín, la pasión podría crecer dentro de una relación. Sin embargo, los días más románticamente intensos podrían ser los de principios de semana.
 
 ##Dinero
 
-Normalmente tienes facilidad para generar e invertir dinero simplemente porque eres consciente de la seguridad como regla. Ahora, tu seguridad radica en la forma de vestir, hablar con los demás, y crear tu imagen. A partir de ahí, puedes llegar muy lejos. Puedes conocer a la gente adecuada, obtener la posición adecuada, y finalmente ganar lo que vales. Velar por tu seguridad no se queda atrás conforme creas la vida que siempre has querido.
+Eres uno de los mejores Signos del Zodíaco para manifestar cosas. Con un énfasis en tu sector de dinero, las habilidades que pensaste haber dejado atrás, traen la mayor cantidad de efectivo. Piensa en las personas o los trabajos de una época anterior de tu vida y tendrás la respuesta financiera a tu dilema actual. Un aspecto de apoyo hace que tu trabajo diario sea mucho más fácil de digerir. Si has logrado dar una gran impresión últimamente, pide ese aumento. Ellos te necesitan.

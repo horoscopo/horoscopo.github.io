@@ -1,15 +1,24 @@
 ---
-layout: page
-title: aries 06-06-2016 al 13-06-2016 
+layout: horoscopos
+title: aries 2016-06-13s 
+description: Por mucho que deseas que todo sea perfecto, puede que tal no sea el caso en los próximos días. Sueña todo lo que quieras, pero es posible que tengas que hacerles frente a demandas que requieran de una respuesta. Es posible que te estés presionando demasiado cuando no es realmente necesario. En lugar de tratar de encargarte de todo, considera la posibilidad de delegar algunas tareas para que tu semana sea más manejable. La Luna Nueva del sábado te anima a ser audaz y a ampliar tus horizontes sociales.
 permalink: /horoscopo-semanal-gratis/aries/
+home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
+horoscopo:
+ signo: aries
+ video: Ky7v_jDL-5M
+
+ogimg: /images/aries_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-06'
+ lastmod: '2016-06-13'
 ---
-La semana comienza con la Luna Llena en Tauro, pudiendo hacer hervir tus sentimientos, sobre todo si han estado reprimidos por algún tiempo. Te ayudará cuidar tus palabras el martes, especialmente si sientes molestia o frustración. Trata de evitar hacer cualquier cosa que pudieras llegar a lamentar más tarde. ¡Opta por mantener la calma si te es posible! Tu vida social podría compensar cualquier decepción que sufras en otras áreas, trayendo consigo un posible romance y muy buena compañía.
+
+
+Por mucho que deseas que todo sea perfecto, puede que tal no sea el caso en los próximos días. Sueña todo lo que quieras, pero es posible que tengas que hacerles frente a demandas que requieran de una respuesta. Es posible que te estés presionando demasiado cuando no es realmente necesario. En lugar de tratar de encargarte de todo, considera la posibilidad de delegar algunas tareas para que tu semana sea más manejable. La Luna Nueva del sábado te anima a ser audaz y a ampliar tus horizontes sociales.
 
 ##Dinero
 
-Le estás dando nueva vida a algo por lo que perdiste interés hace mucho tiempo, gran parte de tu energía se está moviendo en esta dirección. De hecho, puedes hasta disfrutar de un golpe de suerte que lo haga suceder esta vez y de verdad. Asegúrate de que tu flujo de efectivo se mantenga estable al gastarlo proporcionalmente. Podrías estar viendo tu situación financiera a través de lentes de color de rosa.
+Mirando a tu sector de relaciones significativas, todo está bien en ese frente, pero no estaría de más revisar las finanzas compartidas para asegurarse de que ambos están al tanto del ahorro y el pago de la deuda o las cuentas. Mientras tanto, tu sector de comunicación está haciendo la pregunta, ¿cómo puede usar tus habilidades comunicativas para atraer más dinero? La escritura, en particular, puede ser lucrativa.
