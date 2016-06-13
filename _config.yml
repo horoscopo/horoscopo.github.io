@@ -81,7 +81,7 @@ compress_html:
   profile: false
   startings: [html, head, body]
 
-kramdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 
