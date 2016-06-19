@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de junio 2016
+title: Hóroscopo de hoy 19 de junio 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Es demasiado fácil olvidar que hay algo que tienes que hacer. Lo comienzas y no lo terminas (una vez más) bajo la Luna saliéndose de su curso. Para los solteros, esta noche, es aconsejable evitar algo nuevo cuando la Luna cuadra a Venus y se opone a Marte. Las parejas podrían rápidamente caer en la ira, pero ojalá que todo sea pronto olvidado.
+Mantén tu sentido del humor el día de hoy mientras las emociones sean la norma bajo la Luna en Cáncer saliéndose de su órbita. Esta noche, personas con buenas técnicas de coqueteo salen a jugar bajo la Luna en Leo. Sin embargo, ¡es casi puro espectáculo! Si ya tienes pareja, recuerda que tienes a alguien que te aprecia en toda forma posible.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
