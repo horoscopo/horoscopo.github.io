@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 19 de junio 2016
+title: Hóroscopo de hoy 20 de junio 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Mantén tu sentido del humor el día de hoy mientras las emociones sean la norma bajo la Luna en Cáncer saliéndose de su órbita. Esta noche, personas con buenas técnicas de coqueteo salen a jugar bajo la Luna en Leo. Sin embargo, ¡es casi puro espectáculo! Si ya tienes pareja, recuerda que tienes a alguien que te aprecia en toda forma posible.
+Esta mañana, anota las cosas mientras una cuadratura fija entre la Luna y Mercurio jueguen trucos con tu mente. Deja que tu imaginación vuele cuando la Luna forme trígono con Neptuno por la tarde. Más tarde, tienes poder de persuasión con el sextil de esta noche entre la Luna y Plutón. ¿Hay alguna pregunta en tu mente que requiera de respuesta?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
