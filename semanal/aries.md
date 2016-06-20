@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: aries 2016-06-13s 
-description: Por mucho que deseas que todo sea perfecto, puede que tal no sea el caso en los próximos días. Sueña todo lo que quieras, pero es posible que tengas que hacerles frente a demandas que requieran de una respuesta. Es posible que te estés presionando demasiado cuando no es realmente necesario. En lugar de tratar de encargarte de todo, considera la posibilidad de delegar algunas tareas para que tu semana sea más manejable. La Luna Nueva del sábado te anima a ser audaz y a ampliar tus horizontes sociales.
+title: aries 2016-06-20s 
+description: Puede que la actitud de alguien te haga sentir confusión, sobre todo si has hecho un gran esfuerzo para ayudar o acercarte a tal persona. Trata de no tomártelo como algo personal, ya que hay una buena probabilidad de que él o ella tenga problemas con los que lidiar. Por ahora, enfócate en tus propios asuntos. Cuando esta persona esté lista para conectar de nuevo contigo, lo más probable es que te llame - más no lo hará si haces drama. La Luna Nueva del sábado podría poner románticas opciones en tu camino si tienes apertura a ellas.   
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: Ky7v_jDL-5M
+ video: YfVEoOC3quY
 
 ogimg: /images/aries_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-13'
+ lastmod: '2016-06-20'
 ---
 
 
-Por mucho que deseas que todo sea perfecto, puede que tal no sea el caso en los próximos días. Sueña todo lo que quieras, pero es posible que tengas que hacerles frente a demandas que requieran de una respuesta. Es posible que te estés presionando demasiado cuando no es realmente necesario. En lugar de tratar de encargarte de todo, considera la posibilidad de delegar algunas tareas para que tu semana sea más manejable. La Luna Nueva del sábado te anima a ser audaz y a ampliar tus horizontes sociales.
+Puede que la actitud de alguien te haga sentir confusión, sobre todo si has hecho un gran esfuerzo para ayudar o acercarte a tal persona. Trata de no tomártelo como algo personal, ya que hay una buena probabilidad de que él o ella tenga problemas con los que lidiar. Por ahora, enfócate en tus propios asuntos. Cuando esta persona esté lista para conectar de nuevo contigo, lo más probable es que te llame - más no lo hará si haces drama. La Luna Nueva del sábado podría poner románticas opciones en tu camino si tienes apertura a ellas.   
 
 ##Dinero
 
-Mirando a tu sector de relaciones significativas, todo está bien en ese frente, pero no estaría de más revisar las finanzas compartidas para asegurarse de que ambos están al tanto del ahorro y el pago de la deuda o las cuentas. Mientras tanto, tu sector de comunicación está haciendo la pregunta, ¿cómo puede usar tus habilidades comunicativas para atraer más dinero? La escritura, en particular, puede ser lucrativa.
+Ahora estás en un período de redefinición de lo que eres y cómo te proyectas al mundo. El Universo te está pidiendo que prestes mucha atención a tu carrera. Si no es la que deseas tener, este es el momento de cambiarlo. No vas a conseguir mucho más apoyo del que ya tienes.

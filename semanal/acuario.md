@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 2016-06-13s 
-description: Puede que tengas una visión poco realista sobre cierta persona o situación, sobre todo a principios de la semana, cuando podrías sentir tentación a poner a alguien en un pedestal. Pero para cuando llegue el viernes podrías llegar a pensar de manera muy diferente debido a una frustrante mezcla de energías sacando lo peor ya sea de ti o esa persona. Es posible que ni siquiera una conversación sea suficiente para mejorar la situación entre ustedes, pero puede que sean capaz de llegar a alguna parte si utilizas los hechos como vehículo. 
+title: acuario 2016-06-20s 
+description: Es posible que estés de ánimo para redecorar y en general lograr que tu hogar se vea de lujo. Con Venus entrando a tu sector hogareño y familiar, esta es la perfecta oportunidad para embellecer tu entorno y hacerlo más acogedor. Sin embargo, con Marte regresando a Escorpión y a tu sector de viaje y aventura el viernes, puede que tengas que hacerle frente a un problema que pensabas se había terminado. No es el caso. Pero esta es tu segunda oportunidad para ponerlo a dormir.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: BgMghU-JAzI
+ video: ozVeObrkJNY
 
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-13'
+ lastmod: '2016-06-20'
 ---
 
 
-Puede que tengas una visión poco realista sobre cierta persona o situación, sobre todo a principios de la semana, cuando podrías sentir tentación a poner a alguien en un pedestal. Pero para cuando llegue el viernes podrías llegar a pensar de manera muy diferente debido a una frustrante mezcla de energías sacando lo peor ya sea de ti o esa persona. Es posible que ni siquiera una conversación sea suficiente para mejorar la situación entre ustedes, pero puede que sean capaz de llegar a alguna parte si utilizas los hechos como vehículo. 
+Es posible que estés de ánimo para redecorar y en general lograr que tu hogar se vea de lujo. Con Venus entrando a tu sector hogareño y familiar, esta es la perfecta oportunidad para embellecer tu entorno y hacerlo más acogedor. Sin embargo, con Marte regresando a Escorpión y a tu sector de viaje y aventura el viernes, puede que tengas que hacerle frente a un problema que pensabas se había terminado. No es el caso. Pero esta es tu segunda oportunidad para ponerlo a dormir.
 
 ##Dinero
 
-Lo más importante ahora no es cuánto tienes, sino la calidad de tu vida a medida que estudias la forma de hacer algunos cambios importantes. El amor y el afecto se unen a la acción y al tino para ayudarte a participar en actividades creativas como proyectos de escritura, cine, radio y televisión. Si secretamente has abrigado el deseo de participar en esto, toma una clase o un seminario.
+Puede que ésta semana des un paso hacia adelante y dos pasos atrás. Es posible que hayas estado pensando acerca de tu propósito en el mundo y te encuentres cerca de averiguarlo. Los consejos vienen de tus familiares, escucha la sabiduría que recibes de tu gente de confianza. Sólo asegúrate de prestar atención a los hechos ya que los resultados podrían afectar tu sector de trabajo y potencialmente ¡tu cheque!

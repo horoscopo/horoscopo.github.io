@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 2016-06-13s 
-description: Esta semana, trata de evitar conflictos siempre que te sea posible. La Luna Creciente del martes podría destacar ciertos problemas familiares entre tú y tu pareja. Si puedes lograr llegar a un compromiso, todo te será mucho más fácil. Lo mismo ocurre con cualquier otro tema que resurja más adelante en la semana. Puede que te resulte más fácil catalogar tus sentimientos una vez que Mercurio entre a Piscis el sábado, haciendo de este un buen momento para una charla de corazón a corazón. También querrás eliminar el desorden en tu hogar, sobre todo a partir del sábado.
+title: cancer 2016-06-20s 
+description: Las dificultades podrían comenzar a desaparecer con Mercurio ahora avanzando en tu sector de carrera y propósito de vida. Planes que fueron retrasados ahora pueden ser puestos en acción con una buena probabilidad de que vayan a empezar a materializarse. Es posible que desees analizar más profundamente cierta oportunidad, ya que puede que no sea lo que parece. Pregúntate cuales son tus motivos para involucrarte. La respuesta podría ser muy reveladora. El fin de semana trae la posibilidad de una cita amorosa, junto con una muy útil información.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: GYRzSRIAnYY
+ video: 9pm2aSbFbl4
 
 ogimg: /images/cancer_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-13'
+ lastmod: '2016-06-20'
 ---
 
 
-Esta semana, trata de evitar conflictos siempre que te sea posible. La Luna Creciente del martes podría destacar ciertos problemas familiares entre tú y tu pareja. Si puedes lograr llegar a un compromiso, todo te será mucho más fácil. Lo mismo ocurre con cualquier otro tema que resurja más adelante en la semana. Puede que te resulte más fácil catalogar tus sentimientos una vez que Mercurio entre a Piscis el sábado, haciendo de este un buen momento para una charla de corazón a corazón. También querrás eliminar el desorden en tu hogar, sobre todo a partir del sábado.
+Las dificultades podrían comenzar a desaparecer con Mercurio ahora avanzando en tu sector de carrera y propósito de vida. Planes que fueron retrasados ahora pueden ser puestos en acción con una buena probabilidad de que vayan a empezar a materializarse. Es posible que desees analizar más profundamente cierta oportunidad, ya que puede que no sea lo que parece. Pregúntate cuales son tus motivos para involucrarte. La respuesta podría ser muy reveladora. El fin de semana trae la posibilidad de una cita amorosa, junto con una muy útil información.
 
 ##Dinero
 
-Con el Universo afectando tu sector profesional, puede que se trate sobre el pasado, trabajos anteriores, las elecciones pasadas de carrera, o incluso empleadores anteriores. Sin embargo, un aspecto armonioso afecta a tu sector de vidas pasadas, karma, e instituciones, por lo que puede que no sea una mala idea prestarle atención a los aspectos más esotéricos de tu vida. Lo que haces para ganarte la vida afecta a los demás, no importa cuánto dinero ganes. Asegúrate de que es algo que no te genere consecuencias kármicas más tarde.
+Las obras creativas y la acción se unen ahora. Esto va a cambiar la forma en la que conectas con grupos sociales, y es posible que empiece a hacerte pensar en cómo trabajar por cuenta propia en un futuro próximo. Este aspecto afirme que tus ideas son sólidas. Todo lo que necesitas es el coraje para hacer esta transición y ver a través de ella. El dinero viene cuando le das seguimiento a lo que has tenido la suerte de crear.

@@ -1,23 +1,23 @@
 ---
 layout: horoscopos
-title: capricornio 2016-06-13s 
-description: Con el actual enfoque en un sector más enclaustrado de tu carta, sentirías contento al pasar tiempo a solas y darte algunos consentimientos. Desafortunadamente, puede que esto no sea posible en práctica, ya que ciertas responsabilidades podrían salir a la superficie, especialmente en la segunda parte de la semana. Si esperabas poder relajarte y descansar, podrías tener que asumir una gran cantidad de trabajo, tal vez a corto plazo. Pareces estar bajo presión, por lo que tendrás que mantenerte a buen ritmo para terminarlo todo. 
+title: capricornio 2016-06-20s 
+description: Aunque habrá diversión, esta semana tendrá sus momentos. Cierta tensión desarrollándose podría llegar a su punto máximo a mitad de semana, pudiendo resultar ya sea en un avance o un colapso. Debido a que una nerviosa combinación de energías fomentará un choque de opiniones, tendrás que defender tu posición con el fin de sacarle el máximo provecho a la situación. También hay Luna Nueva el Miércoles, pudiendo favorecer un nuevo comienzo al tener que tomar una o dos decisiones clave. Más tarde, las cuestiones de estilo de vida desarrollan importancia.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: EmNeHnWlNl4
+ video: dB43SoJOd_Q
 
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-13'
+ lastmod: '2016-06-20'
 ---
 
 
-Con el actual enfoque en un sector más enclaustrado de tu carta, sentirías contento al pasar tiempo a solas y darte algunos consentimientos. Desafortunadamente, puede que esto no sea posible en práctica, ya que ciertas responsabilidades podrían salir a la superficie, especialmente en la segunda parte de la semana. Si esperabas poder relajarte y descansar, podrías tener que asumir una gran cantidad de trabajo, tal vez a corto plazo. Pareces estar bajo presión, por lo que tendrás que mantenerte a buen ritmo para terminarlo todo. 
+Aunque habrá diversión, esta semana tendrá sus momentos. Cierta tensión desarrollándose podría llegar a su punto máximo a mitad de semana, pudiendo resultar ya sea en un avance o un colapso. Debido a que una nerviosa combinación de energías fomentará un choque de opiniones, tendrás que defender tu posición con el fin de sacarle el máximo provecho a la situación. También hay Luna Nueva el Miércoles, pudiendo favorecer un nuevo comienzo al tener que tomar una o dos decisiones clave. Más tarde, las cuestiones de estilo de vida desarrollan importancia.
 
 ##Dinero
 
