@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de junio 2016
+title: Hóroscopo de hoy 22 de junio 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Espera cambios de planes cuando la Luna conecte con el sorpresivo Urano y un tono escandaloso sea la nueva norma de forma temporal. Esta noche, la Luna en Libra insinúa una idea de lo que (eventualmente) vendrá a la luz de una relación con futuro. Por su parte, las parejas se ponen de acuerdo en un tema en el que anteriormente no lo estaban.    
+Trata de avanzar durante los próximos diez días, grandes sorpresas te esperan cuando Júpiter aspecta a Urano. Las cosas se desarrollan a tu favor cuando el Sol forma sextil con Plutón, momento en el que es aconsejable invertir en tu futuro. Esta noche, podría haber gran pasión para ambos, parejas y solteros, mientras la Luna también aspecte a Plutón.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
