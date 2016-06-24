@@ -5,4 +5,16 @@
 		  {% include adsense.html %}
 		  </div>
 		</div>
+            <div class="row panel panel-default">
+		  <!--Cuerpo del panel -->
+		  <div class="panel-body">
+		  <ul>
+		  {% for page in site.pages %}
+               {% if page.sidebar %}
+                <li><a href='{{ site.url }}{{ page.url | remove: "index.html" }}'>{{ page.title }}</a></li>  
+               {% endif %}
+              {% endfor %}
+              </ul>
+		  </div>
+		</div>
 	      </div> 
