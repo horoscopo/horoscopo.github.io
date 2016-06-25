@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de junio 2016
+title: Hóroscopo de hoy 25 de junio 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Ves miles de cosas a tu alrededor bajo la repentina iluminación del Eclipse Lunar de hoy. A medida que el Sol conjunta a Mercurio, todos se quieren poner a trabajar para producir algo inmediatamente. Tu agenda es lo primero. Esta noche, la Luna en Libra estimula el deseo de compartir y mientras más te acercas a alguien, más sentimientos reprimidos salen a la superficie.
+¡Feliz cumpleaños a Sagitario en los próximos 30 días! El tema de este año son nuevas oleadas de interés. La exploración dirige el curso de la vida hacia una nueva dirección. Los corazones son tan puros como el oro cuando la Luna aspecta a Júpiter esta noche. Una buena manera de comenzar una relación, ¿no te parece?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
