@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: aries 2016-06-20s 
-description: Puede que la actitud de alguien te haga sentir confusión, sobre todo si has hecho un gran esfuerzo para ayudar o acercarte a tal persona. Trata de no tomártelo como algo personal, ya que hay una buena probabilidad de que él o ella tenga problemas con los que lidiar. Por ahora, enfócate en tus propios asuntos. Cuando esta persona esté lista para conectar de nuevo contigo, lo más probable es que te llame - más no lo hará si haces drama. La Luna Nueva del sábado podría poner románticas opciones en tu camino si tienes apertura a ellas.   
+title: aries 2016-06-27s 
+description: Esta semana, es posible que sientas inspiración a buscar una solución diplomática en lugar de decir las cosas como son. Sin embargo, podría ser tentador discutir con alguien, especialmente si tal se niega a ver tu punto de vista. La Luna Nueva en tu signo podría animarte a adoptar una perspectiva diferente. El jueves, puede que sientas motivación a tomar medidas para resolver este asunto de una vez por todas. Mercurio en Tauro podría ayudarte, permitiéndote actuar desde un punto de vista práctico.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: YfVEoOC3quY
+ video: sqG8W6ZfclM
 
 ogimg: /images/aries_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-20'
+ lastmod: '2016-06-27'
 ---
 
 
-Puede que la actitud de alguien te haga sentir confusión, sobre todo si has hecho un gran esfuerzo para ayudar o acercarte a tal persona. Trata de no tomártelo como algo personal, ya que hay una buena probabilidad de que él o ella tenga problemas con los que lidiar. Por ahora, enfócate en tus propios asuntos. Cuando esta persona esté lista para conectar de nuevo contigo, lo más probable es que te llame - más no lo hará si haces drama. La Luna Nueva del sábado podría poner románticas opciones en tu camino si tienes apertura a ellas.   
+Esta semana, es posible que sientas inspiración a buscar una solución diplomática en lugar de decir las cosas como son. Sin embargo, podría ser tentador discutir con alguien, especialmente si tal se niega a ver tu punto de vista. La Luna Nueva en tu signo podría animarte a adoptar una perspectiva diferente. El jueves, puede que sientas motivación a tomar medidas para resolver este asunto de una vez por todas. Mercurio en Tauro podría ayudarte, permitiéndote actuar desde un punto de vista práctico.
 
 ##Dinero
 
-Ahora estás en un período de redefinición de lo que eres y cómo te proyectas al mundo. El Universo te está pidiendo que prestes mucha atención a tu carrera. Si no es la que deseas tener, este es el momento de cambiarlo. No vas a conseguir mucho más apoyo del que ya tienes.
+Esta semana se trata de la zona de tu gráfico que rige el romance, la familia y la diversión, así que puedes estar pensando más en gastar tu dinero en estas zonas que en guardarlo. Eso está bien por ahora, pero el Universo tiende a provocar cambios bruscos e inoportunos a veces. Asegúrate de guardar algo de dinero para más adelante. Mientras tanto, una buena noticia viene en el sector de empleo. ¡Celébralo!

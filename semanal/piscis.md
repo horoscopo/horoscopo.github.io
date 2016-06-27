@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 2016-06-20s 
-description: Con Mercurio aún retrógrado en tu sector mental y de expresión, asegúrate de hacer copias de los archivos importantes en tu computadora y coloca tus documentos importantes en un lugar seguro. Disfruta de la oportunidad de reunirte con viejos amigos o pasar tiempo con miembros de tu familia que no has visto en mucho tiempo. Si tuviste un percance de menor importancia con un vecino, la alineación astral actual hace de este el momento perfecto para suavizar las cosas y volver a buenos términos. También debes mantenerte alerta a señales confusas dentro de tus relaciones.
+title: piscis 2016-06-27s 
+description: Un dinámico aspecto entre Venus y Urano sugiere que una llamada o mensaje surgirá de la nada y podría ser una grata sorpresa. Si alguien te invita a salir, prepárate para aceptar, ya que podría resultar ser algo muy bueno. Sin embargo, también te encuentras en una fase natural en la que te ayuda tomarte un descanso del estrés y las tensiones de la vida cotidiana. Aprovecha esta oportunidad para deshacerte de cualquier carga emocional que te esté impidiendo avanzar. Al hacerlo, notarás que tu energía aumenta. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: QR1YojR6mNc
+ video: 44kxUrG9RWE
 
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-20'
+ lastmod: '2016-06-27'
 ---
 
 
-Con Mercurio aún retrógrado en tu sector mental y de expresión, asegúrate de hacer copias de los archivos importantes en tu computadora y coloca tus documentos importantes en un lugar seguro. Disfruta de la oportunidad de reunirte con viejos amigos o pasar tiempo con miembros de tu familia que no has visto en mucho tiempo. Si tuviste un percance de menor importancia con un vecino, la alineación astral actual hace de este el momento perfecto para suavizar las cosas y volver a buenos términos. También debes mantenerte alerta a señales confusas dentro de tus relaciones.
+Un dinámico aspecto entre Venus y Urano sugiere que una llamada o mensaje surgirá de la nada y podría ser una grata sorpresa. Si alguien te invita a salir, prepárate para aceptar, ya que podría resultar ser algo muy bueno. Sin embargo, también te encuentras en una fase natural en la que te ayuda tomarte un descanso del estrés y las tensiones de la vida cotidiana. Aprovecha esta oportunidad para deshacerte de cualquier carga emocional que te esté impidiendo avanzar. Al hacerlo, notarás que tu energía aumenta. 
 
 ##Dinero
 
-Tienes una situación muy interesante esta semana conforme aspectos celestiales te presionan a tener una mayor productividad. La actividad en tu sector asociado con viajes al extranjero, la metafísica y la educación superior te empuja a ampliar tu negocio en territorio desconocido. Haz que ocurra este año y estarás cosechando los beneficios el próximo año.
+Esta semana se trata del choque de energías que puede hacer que sientas tensión o abandono. Estás construyendo estructuras tanto en tu vida familiar como romántica. Tu trabajo puede estarte llamando en medida de que un cambio es claramente necesario. La pregunta es, ¿qué debería cambiar?

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: escorpio 2016-06-20s 
-description: Esta podría ser una emocionante semana para ti con el Eclipse Solar en tu signo animándote a dar un salto de fe. Pero antes de hacerlo, asegúrate de que lo que estás considerando hacer de verdad te convenga. Sintoniza con tus instintos, analiza tus sueños y préstale atención a tu guía interior. Sé consciente de las señales que la vida te está enviando y nota si te está animando o desanimando. Si estás en el camino correcto, lo sentirás.
+title: escorpio 2016-06-27s 
+description: Fuertes deseos aumentan tus sentimientos hacia alguien que podría estar relacionado con tu pasado. Un repentino estallido de entusiasmo podría atraerle rápidamente a tu círculo social o llevarles a tener un encuentro secreto. Sin embargo, la intensidad que sientes podría disminuir más adelante, permitiendo que la atracción entre ustedes se cocine a fuego lento. Tu sector profesional es iluminado por el Sol a mitad de semana, animándote a analizar tus objetivos y prioridades. No permitas que tu vida se vuelva tan ocupada que termines perdiendo el equilibrio entre tu vida profesional y privada.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: UYll8ksKxDw
+ video: 8vKTTwDMdfs
 
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-20'
+ lastmod: '2016-06-27'
 ---
 
 
-Esta podría ser una emocionante semana para ti con el Eclipse Solar en tu signo animándote a dar un salto de fe. Pero antes de hacerlo, asegúrate de que lo que estás considerando hacer de verdad te convenga. Sintoniza con tus instintos, analiza tus sueños y préstale atención a tu guía interior. Sé consciente de las señales que la vida te está enviando y nota si te está animando o desanimando. Si estás en el camino correcto, lo sentirás.
+Fuertes deseos aumentan tus sentimientos hacia alguien que podría estar relacionado con tu pasado. Un repentino estallido de entusiasmo podría atraerle rápidamente a tu círculo social o llevarles a tener un encuentro secreto. Sin embargo, la intensidad que sientes podría disminuir más adelante, permitiendo que la atracción entre ustedes se cocine a fuego lento. Tu sector profesional es iluminado por el Sol a mitad de semana, animándote a analizar tus objetivos y prioridades. No permitas que tu vida se vuelva tan ocupada que termines perdiendo el equilibrio entre tu vida profesional y privada.
 
 ##Dinero
 
-Esta semana estás pensando en la manera de expresar tu lado serio. Tienes algunas cosas pesadas en la mente, y mantenerlas dentro  no le hace bien a nadie. En vez de eso, encuentra a tu locutor interno, y dale la noticia de una manera neutral e imparcial. Al menos tu sector de trabajo es un lugar seguro en el que puedes dejar que tu nuevo “yo” salga. La gente quiere escuchar lo que tienes que decir, sobre todo tus ideas sobre cómo ahorrarle dinero a la empresa.
+Puede que estés sintiendo presión para hacerle frente a tu situación de deuda. Es necesario prestar atención a lo que debes. Al asumir una mayor responsabilidad, ayudas a los problemas a desaparecer mucho más rápidamente que si se hicieses caso omiso de los avisos y mensajes telefónicos. Mientras tanto, el énfasis en tu sector de vidas pasadas e instituciones te ayuda a recuperar las habilidades olvidadas que se pueden utilizar para ganar más a largo plazo.

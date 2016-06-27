@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 2016-06-20s 
-description: Las dificultades podrían comenzar a desaparecer con Mercurio ahora avanzando en tu sector de carrera y propósito de vida. Planes que fueron retrasados ahora pueden ser puestos en acción con una buena probabilidad de que vayan a empezar a materializarse. Es posible que desees analizar más profundamente cierta oportunidad, ya que puede que no sea lo que parece. Pregúntate cuales son tus motivos para involucrarte. La respuesta podría ser muy reveladora. El fin de semana trae la posibilidad de una cita amorosa, junto con una muy útil información.
+title: cancer 2016-06-27s 
+description: Una idea o inspiración podría llevarte a actuar y podría resultar en un plan que te traiga satisfacción y plenitud. Escucha a tu intuición el Lunes, hacerlo puede ser crucial al poner una oportunidad especial en tu camino. Mientras tanto, te ayudaría encargarte de tus asuntos personales importantes, particularmente si una situación requiere de un toque delicado para ser resuelta. Afortunadamente, el actual enfoque en tu sector espiritual podría instarte a comportarte cálida, amablemente y evitar discusiones innecesarias.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: 9pm2aSbFbl4
+ video: 8RtvfUDfIxs
 
 ogimg: /images/cancer_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-20'
+ lastmod: '2016-06-27'
 ---
 
 
-Las dificultades podrían comenzar a desaparecer con Mercurio ahora avanzando en tu sector de carrera y propósito de vida. Planes que fueron retrasados ahora pueden ser puestos en acción con una buena probabilidad de que vayan a empezar a materializarse. Es posible que desees analizar más profundamente cierta oportunidad, ya que puede que no sea lo que parece. Pregúntate cuales son tus motivos para involucrarte. La respuesta podría ser muy reveladora. El fin de semana trae la posibilidad de una cita amorosa, junto con una muy útil información.
+Una idea o inspiración podría llevarte a actuar y podría resultar en un plan que te traiga satisfacción y plenitud. Escucha a tu intuición el Lunes, hacerlo puede ser crucial al poner una oportunidad especial en tu camino. Mientras tanto, te ayudaría encargarte de tus asuntos personales importantes, particularmente si una situación requiere de un toque delicado para ser resuelta. Afortunadamente, el actual enfoque en tu sector espiritual podría instarte a comportarte cálida, amablemente y evitar discusiones innecesarias.
 
 ##Dinero
 
-Las obras creativas y la acción se unen ahora. Esto va a cambiar la forma en la que conectas con grupos sociales, y es posible que empiece a hacerte pensar en cómo trabajar por cuenta propia en un futuro próximo. Este aspecto afirme que tus ideas son sólidas. Todo lo que necesitas es el coraje para hacer esta transición y ver a través de ella. El dinero viene cuando le das seguimiento a lo que has tenido la suerte de crear.
+Esta semana trae un positivo suspiro de alivio entre la comunicación y las ideas, y la individualidad y el cambio repentino. Ciertos aspectos afectan a la familia, el romance y la creatividad mientras que amplificas tus esfuerzos para llevar tu producto o servicio a una audiencia global. Tienes confianza en tus capacidades, lo cual es genial. ¡Tienes mucho poder para lograr lo que quieres!

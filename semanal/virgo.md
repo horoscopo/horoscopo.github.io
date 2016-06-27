@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 2016-06-20s 
-description: Debido al actual fuerte enfoque en tu sector espiritual, es momento de enfocarte en esta parte de tu vida. Tienes la oportunidad de fungir como tu propio mentor mientras te encuentras en camino hacia un futuro exitoso. Sin embargo, con el fin de salir adelante, es posible que tengas que cambiar tu actitud y creencias, lo cual sólo podrás hacer una vez que sepas cuales son. Reflexionar y meditar con regularidad puede ayudarte a localizar esas áreas cruciales, así como también inspirarte a avanzar con tal de hacer los cambios que consideres necesarios.
+title: virgo 2016-06-27s 
+description: Hay mucha actividad en el frente doméstico, lo que podría significar que tendrás ganas de invitar a nuevas y viejas amistades a tu casa, impresionar a personas clave o simplemente pasar el rato con amistades cercanas. No te niegues esta oportunidad, ya que te vendría bien la oportunidad de relajarte e incluso mimarte un poco. Si recibes una invitación a una fiesta, definitivamente deberías aceptarla. También te vendría muy bien darte algunos tratamientos o pasar un día en el spa. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: jvWfKULzRck
+ video: s6tzlY3a5xo
 
 ogimg: /images/virgo_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-20'
+ lastmod: '2016-06-27'
 ---
 
 
-Debido al actual fuerte enfoque en tu sector espiritual, es momento de enfocarte en esta parte de tu vida. Tienes la oportunidad de fungir como tu propio mentor mientras te encuentras en camino hacia un futuro exitoso. Sin embargo, con el fin de salir adelante, es posible que tengas que cambiar tu actitud y creencias, lo cual sólo podrás hacer una vez que sepas cuales son. Reflexionar y meditar con regularidad puede ayudarte a localizar esas áreas cruciales, así como también inspirarte a avanzar con tal de hacer los cambios que consideres necesarios.
+Hay mucha actividad en el frente doméstico, lo que podría significar que tendrás ganas de invitar a nuevas y viejas amistades a tu casa, impresionar a personas clave o simplemente pasar el rato con amistades cercanas. No te niegues esta oportunidad, ya que te vendría bien la oportunidad de relajarte e incluso mimarte un poco. Si recibes una invitación a una fiesta, definitivamente deberías aceptarla. También te vendría muy bien darte algunos tratamientos o pasar un día en el spa. 
 
 ##Dinero
 
-El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.
+Para ti el dinero suele ser un medio para alcanzar un fin. Prefieres pensar en otras cosas que preocuparte acerca de cómo hacer más dinero. Pero ahora, con la actividad en tu sector de efectivo y valores, tienes tantas oportunidades que es difícil manejarlas todas. Si sientes agobio, mantén una lista de posibilidades y redúcela gradualmente hasta que solamente dejes las que son realistas. El dinero será abundante.

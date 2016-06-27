@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 2016-06-20s 
-description: Es posible que estés de ánimo para redecorar y en general lograr que tu hogar se vea de lujo. Con Venus entrando a tu sector hogareño y familiar, esta es la perfecta oportunidad para embellecer tu entorno y hacerlo más acogedor. Sin embargo, con Marte regresando a Escorpión y a tu sector de viaje y aventura el viernes, puede que tengas que hacerle frente a un problema que pensabas se había terminado. No es el caso. Pero esta es tu segunda oportunidad para ponerlo a dormir.
+title: acuario 2016-06-27s 
+description: Gran parte de tu energía podría ser empleada en resolver ciertos asuntos hogareños o familiares. Estarás funcionando a toda máquina y tendrás ganas de hacer cambios. Como resultado, los asuntos hogareños deberían mejorar conforme tu pareja y otros miembros de tu familia comparten tu entusiasmo por proyectos creativos u otros eventos familiares. Si disfrutas de hacer artesanías, la entrada de Júpiter a Virgo podría hacerte disfrutar de esta afición. No sólo sería terapéutico, sino que también podría tener potencial empresarial.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: ozVeObrkJNY
+ video: -TazLdDz1As
 
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-20'
+ lastmod: '2016-06-27'
 ---
 
 
-Es posible que estés de ánimo para redecorar y en general lograr que tu hogar se vea de lujo. Con Venus entrando a tu sector hogareño y familiar, esta es la perfecta oportunidad para embellecer tu entorno y hacerlo más acogedor. Sin embargo, con Marte regresando a Escorpión y a tu sector de viaje y aventura el viernes, puede que tengas que hacerle frente a un problema que pensabas se había terminado. No es el caso. Pero esta es tu segunda oportunidad para ponerlo a dormir.
+Gran parte de tu energía podría ser empleada en resolver ciertos asuntos hogareños o familiares. Estarás funcionando a toda máquina y tendrás ganas de hacer cambios. Como resultado, los asuntos hogareños deberían mejorar conforme tu pareja y otros miembros de tu familia comparten tu entusiasmo por proyectos creativos u otros eventos familiares. Si disfrutas de hacer artesanías, la entrada de Júpiter a Virgo podría hacerte disfrutar de esta afición. No sólo sería terapéutico, sino que también podría tener potencial empresarial.
 
 ##Dinero
 
-Puede que ésta semana des un paso hacia adelante y dos pasos atrás. Es posible que hayas estado pensando acerca de tu propósito en el mundo y te encuentres cerca de averiguarlo. Los consejos vienen de tus familiares, escucha la sabiduría que recibes de tu gente de confianza. Sólo asegúrate de prestar atención a los hechos ya que los resultados podrían afectar tu sector de trabajo y potencialmente ¡tu cheque!
+Tu situación en el hogar y las emociones internas indican un posible cambio para ti ahora mismo. ¿Has estado pensando en la creación de más espacio para ti mismo/a? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener que los jugos que fluyan hacia un nuevo trabajo o fuente de ingresos. El truco estará en no irse por la borda con este esfuerzo. Busca un balance entre el gasto y el ahorro.
