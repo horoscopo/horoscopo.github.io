@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Libra Junio 2016 
+title: Libra Julio 2016 
 permalink: /horoscopo-mensual/libra/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2016, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-06-01'
+ lastmod: '2016-07-01'
 ---
 
- El mundo es hermoso ante tus ojos bajo la Luna Nueva del 4 de junio. Pasa tiempo con gente interesante y disfruta de algo artístico que normalmente no harías o verías. Es el tipo de día en el que todas tus orquídeas comienzan a florecer. La Luna Llena del 20 de junio brilla sobre tus preocupaciones profesionales. Si has estado cultivando amigos o aliados en el trabajo, tales te apoyarán ahora. Ten generosidad con tu tiempo y energía (sin descuidar tus deberes) y todos a tu alrededor se beneficiarán. Venus, tu planeta regente, se opone a Plutón el 30 de junio, cuando el romance podría tomar un giro extraño o sorprendente.
+ La Luna Nueva del 4 de julio te hace la estrella en tu trabajo durante la segunda semana del mes. Disfruta de tener una gran química con compañeros de trabajo y todos los demás. Algo que gratamente podría mejorar tus finanzas hogareñas también. La Luna Llena del 19 de julio emana su brillo en tu entorno hogareño y familiar. Los sentimientos serán profundos, y puede que imagines fricción donde no la hay. Una gran cantidad de personas están distraídas ahora, algunas cercanas a ti. Siéntete bien en tu propia piel y tu propio espacio, y deja que la charla de fondo se desvanezca. El sextil entre la Luna y Venus del 30 de julio marca el comienzo de un fin de semana social y deliciosamente divertido. 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sagitario Junio 2016 
+title: Sagitario Julio 2016 
 permalink: /horoscopo-mensual/sagitario/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2016, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-06-01'
+ lastmod: '2016-07-01'
 ---
 
- El amor brilla en el aire a tu alrededor bajo la Luna Nueva del 4 de junio. Podrías conocer a alguien muy cercano al “demasiado bueno para ser verdad” cuyos encantos necesitarían sólo un día para disminuir a proporciones mortales. Alrededor de la Luna Llena del 20 de junio, alguien podría inesperadamente salir a tu rescate. Puede que incluso no hayas estado conscientes de que algo iba mal o faltaba. Tu superhéroe del momento también podría estar muy bien disfrazado. Anda y disfruta de que alguien te cuide, para variar. Finalmente, el trígono entre Júpiter y la Luna del 30 de junio termina el mes con dulzura; aunque tal vez después de algunos altibajos emocionales.
+ Las personas estarán de tu lado durante la Luna Nueva del 4 de julio. Simplemente sentirán inspiración para estar contigo. Es probable que no se te pida que hagas o digas algo, pero puede haber muy poco tiempo de inactividad. Disfruta de ser popular. Los asuntos monetarios y financieros podrían ser importantes durante la Luna Llena del 19 de julio. Si tienes que tomar una decisión financiera, adopta un método y confía en tu juicio. Eres alguien que bien sabe cómo cuidar de sus propios intereses sin hacerle mal a cualquier otra persona. El trígono entre la Luna y Júpiter del 27 de julio hará que sea te haga más fácil lidiar con todas las cuestiones prácticas.

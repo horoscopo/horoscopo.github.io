@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Capricornio Junio 2016 
+title: Capricornio Julio 2016 
 permalink: /horoscopo-mensual/capricornio/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2016, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-06-01'
+ lastmod: '2016-07-01'
 ---
 
- Tu salud resplandece bajo la Luna Nueva del 4 de junio. Si has estado bajo estrés o sintiéndote mal, esas nubes se están alejando. Adopta una vida más activa sin temor a sufrir de un esfuerzo excesivo o de un comienzo demasiado arrebatado. Puede que no estés pensando conscientemente en ti primero, pero a tu cuerpo le gustaría que así fuese. El tema de la Luna Llena del 20 de junio es amor. Es posible que a veces desees esconderte, pero no te molestes en hacerlo. El amor te está buscando y es más persistente que tú. El trígono entre Venus y Neptuno del 27 de junio trae consigo aún más oportunidades románticas, especialmente con el trígono entre la Luna y Saturno de altas horas de la noche.
+ ¿Está tu corazón listo para un romance torbellino? ¿Y qué tal un romance más lento y dulce? Cualquiera de los dos podría ser posible en este mes bajo la Luna Nueva del 4 de julio. Incluso si estás en una relación estable, prepárate para un cambio en tu actitud hacia el amor. Es posible que tu corazón experimente un repentino cambio alrededor de la Luna Llena del 19 de julio. Alternativamente, tu pareja o una amistad cercana podría experimentar un cambio de opinión acerca de algo importante. Apóyense el uno al otro y no duden en hablar en confianza. La Luna se opone a Saturno el 29 de julio, cuando es posible que desees reservarte tus juicios acerca de casi todo.

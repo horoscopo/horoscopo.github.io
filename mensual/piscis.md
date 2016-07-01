@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Piscis Junio 2016 
+title: Piscis Julio 2016 
 permalink: /horoscopo-mensual/piscis/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2016, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-06-01'
+ lastmod: '2016-07-01'
 ---
 
- Serás el héroe dentro de tu familia o grupo de amigos bajo la Luna Nueva del 4 de junio. Cualquier cosa que digas o hagas inconscientemente puede ser precisamente lo que un pariente o compañero de casa necesite. No te preocupes porque nada sea exagerado, requerido de tu parte, o de que se te pida más de lo que puedes ofrecer. Todo esto estará bajo control. La Luna Llena del 20 de junio se trata de tener creatividad y de disfrutar de todo tu tiempo y lo que haces con él. También habrá un montón de gente a tu alrededor para disfrutar todo esto contigo. ¡Hazlo divertido! Finalmente, el trígono entre Venus y Neptuno del 27 de junio comienza una semana con tintes románticos que podrían durar por días.
+ Tu fin de semana del 4 de julio podía estar lleno de gente, diversión y fiestas. Compórtate segura y razonablemente en los días anteriores a la Luna Nueva, especialmente en público. Posteriormente, relájate y deja que la fiesta arremoline a tu alrededor. Tu vida social será alegre y candente bajo la luz de la Luna Llena del 19 de julio, cuando podrías sorprender a mucha gente que no está esperando que te permitas disfrutar de mucho. Aprovecha al máximo todos los buenos momentos. El trígono entre la Luna y Neptuno del 31 de julio podría traer consigo románticos días llenos de sueños y deseos, de los cuales, pocos podrían hacerse realidad; lo cual no está nada mal.
