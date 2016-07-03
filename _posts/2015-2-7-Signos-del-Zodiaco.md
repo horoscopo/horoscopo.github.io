@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 02 de julio 2016
+title: Hóroscopo de hoy 03 de julio 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Dirige e influye con asertividad, ya que recibes ayuda del Sol y Plutón. El trígono entre Marte y Saturno señala un curso definido de acción. Si es que buscas romance, espera un mejor momento al de esta noche. Las conversaciones podrían terminar incluso antes de haber comenzado con Mercurio a punto de cambiar de signo.
+Tienes encanto gracias a tu ingenio y porque estás al tanto, además de que dejarás a todos con la duda bajo la Luna Nueva en Géminis. Algunas personas podrían salir de su concha bajo la Luna en Cáncer de esta noche mientras que otras inhibidas podrían estar preparándose para hacerlo. Puede que seas tú quien tenga que dar el primer paso.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
