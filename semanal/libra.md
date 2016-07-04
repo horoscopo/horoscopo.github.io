@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 2016-06-27s 
-description: Puede que la razón por la que brilles esta semana no sea gracias a alguien, sino por la razón de haber ignorado a alguien. De hecho, una positiva mezcla de energías en la parte superior de tu carta podía verte haciendo un gran esfuerzo por alcanzar un objetivo o un sueño. Y aunque otros refuten, tendrás la fe para seguir adelante. Por otro lado, una positiva alineación entre semana podía llevarte a invertir en bienes, beneficiarte de la generosidad de tu familia o a compartir un golpe de suerte.
+title: libra 2016-07-04s 
+description: Cierta información o nuevas perspectivas podrían inspirarte a tomar un nuevo camino. Ya sea que este sea el resultado de leer un libro o escuchar un discurso, puedes descubrir nuevas herramientas que le den forma a tu destino. Entre semana, el enfoque cambia a tu sector de finanzas compartidas, despertando tu interés en tomar medidas para resolver tus dificultades monetarias. No optes por ignorar esto por demasiado tiempo, es mejor hacerle frente ahora con tal de disfrutar de una mayor tranquilidad.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: yERP7Cb9l9M
+ video: E6LzmseYDCw
 
 ogimg: /images/libra_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-27'
+ lastmod: '2016-07-04'
 ---
 
 
-Puede que la razón por la que brilles esta semana no sea gracias a alguien, sino por la razón de haber ignorado a alguien. De hecho, una positiva mezcla de energías en la parte superior de tu carta podía verte haciendo un gran esfuerzo por alcanzar un objetivo o un sueño. Y aunque otros refuten, tendrás la fe para seguir adelante. Por otro lado, una positiva alineación entre semana podía llevarte a invertir en bienes, beneficiarte de la generosidad de tu familia o a compartir un golpe de suerte.
+Cierta información o nuevas perspectivas podrían inspirarte a tomar un nuevo camino. Ya sea que este sea el resultado de leer un libro o escuchar un discurso, puedes descubrir nuevas herramientas que le den forma a tu destino. Entre semana, el enfoque cambia a tu sector de finanzas compartidas, despertando tu interés en tomar medidas para resolver tus dificultades monetarias. No optes por ignorar esto por demasiado tiempo, es mejor hacerle frente ahora con tal de disfrutar de una mayor tranquilidad.
 
 ##Dinero
 
-Estás buscando una nueva manera de ganar dinero extra ahora, y puede que todavía no tengas la solución perfecta. Pero con los aspectos afectando tu sector de trabajo, te percatarás de que hay más oportunidades de las que piensas. Como por ejemplo trabajar más horas, o encontrar un trabajo de fin de semana. Tu carrera se verá afectada positivamente por cualquier acción que tomes.
+Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 2016-06-27s 
-description: Gran parte de tu energía podría ser empleada en resolver ciertos asuntos hogareños o familiares. Estarás funcionando a toda máquina y tendrás ganas de hacer cambios. Como resultado, los asuntos hogareños deberían mejorar conforme tu pareja y otros miembros de tu familia comparten tu entusiasmo por proyectos creativos u otros eventos familiares. Si disfrutas de hacer artesanías, la entrada de Júpiter a Virgo podría hacerte disfrutar de esta afición. No sólo sería terapéutico, sino que también podría tener potencial empresarial.
+title: acuario 2016-07-04s 
+description: Aunque puede que tengas gran interés en un emocionante proyecto creativo o posible romance, no tengas demasiada prisa al respecto. La influencia planetaria de esta semana sugiere que el deseo de obtener resultados casi instantáneos podría trabajar en tu contra a la larga. Si esto es algo que realmente te emociona, te beneficiarás de tomarte tu tiempo. Una encantadora alineación astral podría hacerte sentir confianza de que, con el tiempo, las cosas podrían funcionar mejor de lo que imaginas. El domingo, un maravilloso encuentro podría hacer una salida social valer mucho la pena.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: -TazLdDz1As
+ video: iYgzvboMH1U
 
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-27'
+ lastmod: '2016-07-04'
 ---
 
 
-Gran parte de tu energía podría ser empleada en resolver ciertos asuntos hogareños o familiares. Estarás funcionando a toda máquina y tendrás ganas de hacer cambios. Como resultado, los asuntos hogareños deberían mejorar conforme tu pareja y otros miembros de tu familia comparten tu entusiasmo por proyectos creativos u otros eventos familiares. Si disfrutas de hacer artesanías, la entrada de Júpiter a Virgo podría hacerte disfrutar de esta afición. No sólo sería terapéutico, sino que también podría tener potencial empresarial.
+Aunque puede que tengas gran interés en un emocionante proyecto creativo o posible romance, no tengas demasiada prisa al respecto. La influencia planetaria de esta semana sugiere que el deseo de obtener resultados casi instantáneos podría trabajar en tu contra a la larga. Si esto es algo que realmente te emociona, te beneficiarás de tomarte tu tiempo. Una encantadora alineación astral podría hacerte sentir confianza de que, con el tiempo, las cosas podrían funcionar mejor de lo que imaginas. El domingo, un maravilloso encuentro podría hacer una salida social valer mucho la pena.
 
 ##Dinero
 
-Tu situación en el hogar y las emociones internas indican un posible cambio para ti ahora mismo. ¿Has estado pensando en la creación de más espacio para ti mismo/a? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener que los jugos que fluyan hacia un nuevo trabajo o fuente de ingresos. El truco estará en no irse por la borda con este esfuerzo. Busca un balance entre el gasto y el ahorro.
+Esta semana ilumina las áreas de tu carta que quieren salir y explorar todo lo que la vida tiene que ofrecer; desde lo emocional, a lo físico, a lo espiritual. Es imprescindible ir con la corriente cuando se trata de los cambios en el frente monetario. Estos no son malos, pero van a requerir de un poco de paciencia.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 2016-06-27s 
-description: Invitar a una amistad a que te acompañe a un viaje corto o unas vacaciones puede ser una buena idea, sobre todo si se llevan muy bien. Esta semana podrías percatarte de que su relación se hace más profunda y se convierte en el tipo de apoyo amistoso que has estado buscando desde hace algún tiempo. El martes podría traer consigo una oportunidad de empleo que no deberías perderte. Si se te ofrece la oportunidad de una nueva posición o un contrato, ¡no la rechaces!
+title: geminis 2016-07-04s 
+description: ¿Sientes el llamado de nuevas experiencias o lugares lejanos? Puede que de verdad esté ocurriendo, ya que el Eclipse Solar de esta semana manifestándose en tu sector de viajes y aventuras podría verte con ganas de salirte fuera de tu zona de confort o de asumir un reto. Sin embargo, debes pensar en ello primero, ya que actuar en el calor del momento podría no ser la mejor opción. Cuanto más detallada sea la planificación, más posibilidades tendrás de hacer uso de las nuevas oportunidades sin sufrir contratiempos.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: r6qVIwLwVCM
+ video: vLXZpTR2zRw
 
 ogimg: /images/geminis_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-27'
+ lastmod: '2016-07-04'
 ---
 
 
-Invitar a una amistad a que te acompañe a un viaje corto o unas vacaciones puede ser una buena idea, sobre todo si se llevan muy bien. Esta semana podrías percatarte de que su relación se hace más profunda y se convierte en el tipo de apoyo amistoso que has estado buscando desde hace algún tiempo. El martes podría traer consigo una oportunidad de empleo que no deberías perderte. Si se te ofrece la oportunidad de una nueva posición o un contrato, ¡no la rechaces!
+¿Sientes el llamado de nuevas experiencias o lugares lejanos? Puede que de verdad esté ocurriendo, ya que el Eclipse Solar de esta semana manifestándose en tu sector de viajes y aventuras podría verte con ganas de salirte fuera de tu zona de confort o de asumir un reto. Sin embargo, debes pensar en ello primero, ya que actuar en el calor del momento podría no ser la mejor opción. Cuanto más detallada sea la planificación, más posibilidades tendrás de hacer uso de las nuevas oportunidades sin sufrir contratiempos.
 
 ##Dinero
 
-Esta semana se trata de aspectos que afectan tus áreas de romance, niños, familia y diversión. Mientras que puedes tener la tentación de no ir al trabajo para darte una corta escapada, ¡tratar de resistirte! Es mejor aplicar tu energía a resolver un problema que es común en tu área. Ganar más dinero va a ser fácil cuando lo hagas.
+Se indica un tiempo de cambio con respecto a los asuntos de carrera y figuras de autoridad. El Universo apoya nuevos cambios que deseas hacer en tu carrera y te ofrece un impulso. Sin embargo, las influencias pueden ya sea ser creativas o confusas, dependiendo de cómo se usan. Elige tu camino con cuidado y con intención.

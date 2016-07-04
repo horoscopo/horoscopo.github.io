@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 2016-06-27s 
-description: Una idea o inspiración podría llevarte a actuar y podría resultar en un plan que te traiga satisfacción y plenitud. Escucha a tu intuición el Lunes, hacerlo puede ser crucial al poner una oportunidad especial en tu camino. Mientras tanto, te ayudaría encargarte de tus asuntos personales importantes, particularmente si una situación requiere de un toque delicado para ser resuelta. Afortunadamente, el actual enfoque en tu sector espiritual podría instarte a comportarte cálida, amablemente y evitar discusiones innecesarias.
+title: cancer 2016-07-04s 
+description: El Sol en Piscis indica que tomarte tiempo para resolver problemas emocionales y liberar cualquier carga emocional podría serte muy útil. Aprovecha esta oportunidad para sumergirte profundamente y descubrir dónde realmente reside el problema. De esta manera saldrás de ello con más energía y alegría de vivir. Mantente alerta a conflictos que pudieran surgir el viernes. Evita expresarte demasiado contundentemente, ya que puede que llegues a lamentar tu actitud más tarde. Aun así, puede que se te haga difícil contenerte una vez que Marte entre a Sagitario el sábado.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: 8RtvfUDfIxs
+ video: pPShashxnY4
 
 ogimg: /images/cancer_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-06-27'
+ lastmod: '2016-07-04'
 ---
 
 
-Una idea o inspiración podría llevarte a actuar y podría resultar en un plan que te traiga satisfacción y plenitud. Escucha a tu intuición el Lunes, hacerlo puede ser crucial al poner una oportunidad especial en tu camino. Mientras tanto, te ayudaría encargarte de tus asuntos personales importantes, particularmente si una situación requiere de un toque delicado para ser resuelta. Afortunadamente, el actual enfoque en tu sector espiritual podría instarte a comportarte cálida, amablemente y evitar discusiones innecesarias.
+El Sol en Piscis indica que tomarte tiempo para resolver problemas emocionales y liberar cualquier carga emocional podría serte muy útil. Aprovecha esta oportunidad para sumergirte profundamente y descubrir dónde realmente reside el problema. De esta manera saldrás de ello con más energía y alegría de vivir. Mantente alerta a conflictos que pudieran surgir el viernes. Evita expresarte demasiado contundentemente, ya que puede que llegues a lamentar tu actitud más tarde. Aun así, puede que se te haga difícil contenerte una vez que Marte entre a Sagitario el sábado.
 
 ##Dinero
 
-Esta semana trae un positivo suspiro de alivio entre la comunicación y las ideas, y la individualidad y el cambio repentino. Ciertos aspectos afectan a la familia, el romance y la creatividad mientras que amplificas tus esfuerzos para llevar tu producto o servicio a una audiencia global. Tienes confianza en tus capacidades, lo cual es genial. ¡Tienes mucho poder para lograr lo que quieres!
+Es un momento interesante. Nadie te puede pasar por alto, así que trata de usar este tiempo a tu favor. Expón tus atributos. Ofrécete para dar una presentación si la hay y prueba un nuevo estilo para darla. Tu sector de diversión, romanticismo, niños y miembros de la familia entra en juego. ¿Cómo puedes usar tus conexiones familiares para avanzar en cuanto a dinero se refiere?
