@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de julio 2016
+title: Hóroscopo de hoy 11 de julio 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Ten un gran día al reciclar o encontrarle un nuevo uso a algo viejo bajo la Luna en el creativo Leo. Además, disfrutas de tener suerte y buena sincronización gracias a la conjunción con Júpiter. Esta noche, es fácil darte cuenta de las pequeñas señales, anomalías y cosas dichas y hechas para desviar tu atención con Venus encontrándose en Virgo.
+Hay momentos en los que tenemos que decidir, y el Sol formando trígono con Saturno a punto de cambiar de signo hace de este un día auspicioso. No es un punto de energía para que actúes, simplemente toma una decisión. Las vidas amorosas son puestas bajo enfoque con la Luna en Libra de esta noche. Por su parte, los solteros podrían conocer a alguien especial a través de amigos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
