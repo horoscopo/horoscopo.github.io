@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: aries 2016-07-04s 
-description: A medida que la actual alineación planetaria en tu signo se enfrenta con Neptuno, prepárate para que las cosas no salgan según lo planeado, sobre todo cuando se trate de reuniones o cenas programadas para el final de la semana. Puede que ir con la corriente sea tu mejor opción en los próximos días; sobre todo si la alternativa es frustración e irritabilidad. Aunque es posible que trates de mantener todo bajo control, hay una buena probabilidad de que eso no vaya a funcionar. Si te dispones a tomar las cosas como vengan, es posible que logres divertirte.
+title: aries 2016-07-11s 
+description: La organización de una fiesta sugiere que sería mejor que bajaras tu ritmo, ya que aún tienes que cumplir con todas tus responsabilidades. Además, el deseo de gastar en regalos navideños podría verte aprovechando al máximo gangas de última hora. Para el 25 de diciembre ya te habrás preparado para quitar el pie del acelerador y dejarles algo del trabajo arduo a los demás. Además, con la Luna Llena manifestándose ese día, ciertamente sería prudente reducir tu horario y darte la oportunidad de recargar baterías. ¿Qué tal un masaje o algo relajante?
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: tDeiGo7cS1A
+ video: AA7OD6Y30QU
 
 ogimg: /images/aries_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-04'
+ lastmod: '2016-07-11'
 ---
 
 
-A medida que la actual alineación planetaria en tu signo se enfrenta con Neptuno, prepárate para que las cosas no salgan según lo planeado, sobre todo cuando se trate de reuniones o cenas programadas para el final de la semana. Puede que ir con la corriente sea tu mejor opción en los próximos días; sobre todo si la alternativa es frustración e irritabilidad. Aunque es posible que trates de mantener todo bajo control, hay una buena probabilidad de que eso no vaya a funcionar. Si te dispones a tomar las cosas como vengan, es posible que logres divertirte.
+La organización de una fiesta sugiere que sería mejor que bajaras tu ritmo, ya que aún tienes que cumplir con todas tus responsabilidades. Además, el deseo de gastar en regalos navideños podría verte aprovechando al máximo gangas de última hora. Para el 25 de diciembre ya te habrás preparado para quitar el pie del acelerador y dejarles algo del trabajo arduo a los demás. Además, con la Luna Llena manifestándose ese día, ciertamente sería prudente reducir tu horario y darte la oportunidad de recargar baterías. ¿Qué tal un masaje o algo relajante?
 
 ##Dinero
 
-Estás pensando en maneras de atraer más dinero a la semana para poder disfrutar de un estilo de vida más cómodo. No es un mal plan, considerando todo. El reto será equilibrar tu deseo de divertirte con tu familia y pareja romántica con tu necesidad de establecer tu propia creatividad. Tu impulso de escribir, reproducir y crear, construye recompensas emocionales y rendimientos monetarios.
+Es una semana difícil para ti. Es tu responsabilidad decir lo que necesitas decir de una forma amable y gentil. Pero cuando se trata de tu vida hogareña y emociones internas, puede ser difícil reunir ese tipo de paciencia. En vez, puede que sientas presión y falta de respeto al tratar de salir adelante. La semana que viene será mejor en general.

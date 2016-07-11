@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 2016-07-04s 
-description: ¿Sientes el llamado de nuevas experiencias o lugares lejanos? Puede que de verdad esté ocurriendo, ya que el Eclipse Solar de esta semana manifestándose en tu sector de viajes y aventuras podría verte con ganas de salirte fuera de tu zona de confort o de asumir un reto. Sin embargo, debes pensar en ello primero, ya que actuar en el calor del momento podría no ser la mejor opción. Cuanto más detallada sea la planificación, más posibilidades tendrás de hacer uso de las nuevas oportunidades sin sufrir contratiempos.
+title: geminis 2016-07-11s 
+description: Actualmente tienes la oportunidad de pasar más tiempo con familiares o amigos cercanos y nutrir esas conexiones en el proceso. Además, con Mercurio y Júpiter actualmente retrógrados, las reuniones podrían ser parte de la acción de esta y las próximas semanas. Ya se trate de un pariente que no has visto en mucho tiempo o tal vez un viejo amor con el que deseas hacer las paces, ponte en contacto con tal y trata de sanar las viejas heridas. Hacerlo puede ser muy positivo para tu vida. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: vLXZpTR2zRw
+ video: f-MXGb8kids
 
 ogimg: /images/geminis_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-04'
+ lastmod: '2016-07-11'
 ---
 
 
-¿Sientes el llamado de nuevas experiencias o lugares lejanos? Puede que de verdad esté ocurriendo, ya que el Eclipse Solar de esta semana manifestándose en tu sector de viajes y aventuras podría verte con ganas de salirte fuera de tu zona de confort o de asumir un reto. Sin embargo, debes pensar en ello primero, ya que actuar en el calor del momento podría no ser la mejor opción. Cuanto más detallada sea la planificación, más posibilidades tendrás de hacer uso de las nuevas oportunidades sin sufrir contratiempos.
+Actualmente tienes la oportunidad de pasar más tiempo con familiares o amigos cercanos y nutrir esas conexiones en el proceso. Además, con Mercurio y Júpiter actualmente retrógrados, las reuniones podrían ser parte de la acción de esta y las próximas semanas. Ya se trate de un pariente que no has visto en mucho tiempo o tal vez un viejo amor con el que deseas hacer las paces, ponte en contacto con tal y trata de sanar las viejas heridas. Hacerlo puede ser muy positivo para tu vida. 
 
 ##Dinero
 
-Se indica un tiempo de cambio con respecto a los asuntos de carrera y figuras de autoridad. El Universo apoya nuevos cambios que deseas hacer en tu carrera y te ofrece un impulso. Sin embargo, las influencias pueden ya sea ser creativas o confusas, dependiendo de cómo se usan. Elige tu camino con cuidado y con intención.
+Esta semana tienes una gran cantidad de impulso para atraer más lana. Es posible que solo se trate de que tu ambición esté llegando a la superficie conforme los demás te ven como la persona exitosa en la que estás en proceso de convertirte. Podría haber cierta tensión con colegas o conocidos sociales. Sólo asegúrate de que no apostar la granja.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 2016-07-04s 
-description: Es hora de tratar de salir adelante, explorar nuevas opciones y considerar estudiar o viajar como forma de ampliar tus horizontes. Con Júpiter ahora en Virgo, puede que sientas motivación a convertirte en mentor o entrenador en un tema que te interesa. Esto podría proporcionarte un lucrativo ingreso, ya que existe una buena probabilidad de que tu reputación pase de boca en boca. También estarás alerta cuando se trate de asuntos comerciales. Tu determinación a tener éxito sugiere que los obstáculos se disolverán a medida que avanzas.
+title: leo 2016-07-11s 
+description: Esta es una de esas semanas en las que es esencial que te tomes algo de tiempo para ti. Con Saturno ocultándose en una parte más privada de tu carta, podrías percatarte de que el tiempo que pasas a solas te sirve para pensar y resolver cualquier problema con el que hayas estado tendiendo dificultades. Lo mejor sería que no te programaras un horario agitado, sino más bien cortar lo más posible el número de actividades; incluso aunque otros te las estén demandando. La Luna Nueva del sábado podría ser una llamada a revisar tu horario y hacerlo más manejable.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: PR9_BJ_LrDM
+ video: 484G88vyFCg
 
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-04'
+ lastmod: '2016-07-11'
 ---
 
 
-Es hora de tratar de salir adelante, explorar nuevas opciones y considerar estudiar o viajar como forma de ampliar tus horizontes. Con Júpiter ahora en Virgo, puede que sientas motivación a convertirte en mentor o entrenador en un tema que te interesa. Esto podría proporcionarte un lucrativo ingreso, ya que existe una buena probabilidad de que tu reputación pase de boca en boca. También estarás alerta cuando se trate de asuntos comerciales. Tu determinación a tener éxito sugiere que los obstáculos se disolverán a medida que avanzas.
+Esta es una de esas semanas en las que es esencial que te tomes algo de tiempo para ti. Con Saturno ocultándose en una parte más privada de tu carta, podrías percatarte de que el tiempo que pasas a solas te sirve para pensar y resolver cualquier problema con el que hayas estado tendiendo dificultades. Lo mejor sería que no te programaras un horario agitado, sino más bien cortar lo más posible el número de actividades; incluso aunque otros te las estén demandando. La Luna Nueva del sábado podría ser una llamada a revisar tu horario y hacerlo más manejable.
 
 ##Dinero
 
-Puede que tengas las manos llenas ahora con cuestiones relacionadas con el empleo y la salud. Puede que tu carga de trabajo de repente se duplique, o puede que recibas más proyectos independientes que son demasiado buenos para dejarlos pasar. Tu red de fuentes de empleo se expande, lo que indica que también podrías enterarte de un trabajo en tu campo que realmente te interese. Con toda tu suerte en efecto, lo mejor es que trates de entrar a esta compañía.
+Recibes ayuda con tu vida emocional ahora. El Universo afecta la manera en la que procesas y expresas emociones, sobre todo cuando se trata de la forma en la que enseñas y aprendes nuevas habilidades. ¡Ahora recibes una gran cantidad de apoyo para el uso de redes sociales para estar en contacto con nuevas formas de compartir tus habilidades y ganar dinero en el proceso!

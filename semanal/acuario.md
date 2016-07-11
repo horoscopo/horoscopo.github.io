@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 2016-07-04s 
-description: Aunque puede que tengas gran interés en un emocionante proyecto creativo o posible romance, no tengas demasiada prisa al respecto. La influencia planetaria de esta semana sugiere que el deseo de obtener resultados casi instantáneos podría trabajar en tu contra a la larga. Si esto es algo que realmente te emociona, te beneficiarás de tomarte tu tiempo. Una encantadora alineación astral podría hacerte sentir confianza de que, con el tiempo, las cosas podrían funcionar mejor de lo que imaginas. El domingo, un maravilloso encuentro podría hacer una salida social valer mucho la pena.
+title: acuario 2016-07-11s 
+description: La comunicación es clave esta semana, así que asegúrate de mantenerlos a todos informados, ya que ayudará a evitar malentendidos y errores innecesarios. Si tienes una situación en particular con la cual lidiar, los próximos días podría ser perfectos para ayudarte a resolverla. Disponte a sentarte a discutir los problemas a fondo. Podrías percatarte de que una conversación podría impulsarte hacia un mayor éxito en el futuro. Si se te invita a una reunión, debería ser muy cálida y acogedora.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: iYgzvboMH1U
+ video: NTHABdy0fVQ
 
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-04'
+ lastmod: '2016-07-11'
 ---
 
 
-Aunque puede que tengas gran interés en un emocionante proyecto creativo o posible romance, no tengas demasiada prisa al respecto. La influencia planetaria de esta semana sugiere que el deseo de obtener resultados casi instantáneos podría trabajar en tu contra a la larga. Si esto es algo que realmente te emociona, te beneficiarás de tomarte tu tiempo. Una encantadora alineación astral podría hacerte sentir confianza de que, con el tiempo, las cosas podrían funcionar mejor de lo que imaginas. El domingo, un maravilloso encuentro podría hacer una salida social valer mucho la pena.
+La comunicación es clave esta semana, así que asegúrate de mantenerlos a todos informados, ya que ayudará a evitar malentendidos y errores innecesarios. Si tienes una situación en particular con la cual lidiar, los próximos días podría ser perfectos para ayudarte a resolverla. Disponte a sentarte a discutir los problemas a fondo. Podrías percatarte de que una conversación podría impulsarte hacia un mayor éxito en el futuro. Si se te invita a una reunión, debería ser muy cálida y acogedora.
 
 ##Dinero
 
-Esta semana ilumina las áreas de tu carta que quieren salir y explorar todo lo que la vida tiene que ofrecer; desde lo emocional, a lo físico, a lo espiritual. Es imprescindible ir con la corriente cuando se trata de los cambios en el frente monetario. Estos no son malos, pero van a requerir de un poco de paciencia.
+Tu sector de dinero se destaca esta semana. La forma en la que ves el dinero en tu vida entra en cuestión, así como la sabiduría de tus planes monetarios más recientes. Este es el momento de cuestionar todo - incluso lo que decidiste que fue bueno hace unos meses. Alentar las señales del Universo se relacionan con tu capacidad de obtener ingresos, mientras que los detalles de cualquier noticia negativa se suavizan. Estás en el camino correcto en ambos sentidos.

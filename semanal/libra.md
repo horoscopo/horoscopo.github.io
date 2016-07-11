@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 2016-07-04s 
-description: Cierta información o nuevas perspectivas podrían inspirarte a tomar un nuevo camino. Ya sea que este sea el resultado de leer un libro o escuchar un discurso, puedes descubrir nuevas herramientas que le den forma a tu destino. Entre semana, el enfoque cambia a tu sector de finanzas compartidas, despertando tu interés en tomar medidas para resolver tus dificultades monetarias. No optes por ignorar esto por demasiado tiempo, es mejor hacerle frente ahora con tal de disfrutar de una mayor tranquilidad.
+title: libra 2016-07-11s 
+description: Si sientes como si últimamente algo te hubiera estado evitando lograr algo, esto debe terminar a partir del lunes conforme Júpiter comienza a avanzar en tu signo. Cosas buenas podrían comenzar a sucederte como resultado, y te darás cuenta de que todas esas oportunidades que pensaste que te habías perdido todavía son alcanzables. Mantente alerta, ¡ya que podrían comenzar a llegar pronto! El actual enfoque en tu sector de viajes sugiere que cualquier desvío o impertinencia con la que te topes a lo largo del camino podría dar lugar a nuevos y emocionantes encuentros y descubrimientos.   
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: E6LzmseYDCw
+ video: D3hdIrhMkD0
 
 ogimg: /images/libra_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-04'
+ lastmod: '2016-07-11'
 ---
 
 
-Cierta información o nuevas perspectivas podrían inspirarte a tomar un nuevo camino. Ya sea que este sea el resultado de leer un libro o escuchar un discurso, puedes descubrir nuevas herramientas que le den forma a tu destino. Entre semana, el enfoque cambia a tu sector de finanzas compartidas, despertando tu interés en tomar medidas para resolver tus dificultades monetarias. No optes por ignorar esto por demasiado tiempo, es mejor hacerle frente ahora con tal de disfrutar de una mayor tranquilidad.
+Si sientes como si últimamente algo te hubiera estado evitando lograr algo, esto debe terminar a partir del lunes conforme Júpiter comienza a avanzar en tu signo. Cosas buenas podrían comenzar a sucederte como resultado, y te darás cuenta de que todas esas oportunidades que pensaste que te habías perdido todavía son alcanzables. Mantente alerta, ¡ya que podrían comenzar a llegar pronto! El actual enfoque en tu sector de viajes sugiere que cualquier desvío o impertinencia con la que te topes a lo largo del camino podría dar lugar a nuevos y emocionantes encuentros y descubrimientos.   
 
 ##Dinero
 
-Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.
+Es posible que tengas que pensar seriamente esta semana sobre el dinero de otras personas, o la deuda. La adopción de una actitud responsable es la mejor mientras haces el balance de la deuda, llega a una negociación realista de rentabilidad y apégate a ella. Ciertos aspectos indican que tu familia o niños pueden ser la mayor fuga de tu dinero por ahora. Esfuérzate para mantener el equilibrio a medida que te apegas a tu presupuesto.

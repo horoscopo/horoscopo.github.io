@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 2016-07-04s 
-description: El Sol en Piscis indica que tomarte tiempo para resolver problemas emocionales y liberar cualquier carga emocional podría serte muy útil. Aprovecha esta oportunidad para sumergirte profundamente y descubrir dónde realmente reside el problema. De esta manera saldrás de ello con más energía y alegría de vivir. Mantente alerta a conflictos que pudieran surgir el viernes. Evita expresarte demasiado contundentemente, ya que puede que llegues a lamentar tu actitud más tarde. Aun así, puede que se te haga difícil contenerte una vez que Marte entre a Sagitario el sábado.
+title: cancer 2016-07-11s 
+description: El Sol continúa su viaje a través de un sector más sensible de tu carta, por lo que incluso pequeñas decisiones podrían tener un impacto en áreas clave de tu vida. Esta es una buena oportunidad para dejar de lado el resentimiento, el miedo y otras emociones similares que te impidan ser la mejor versión de ti. Una vez que Venus y Mercurio entren a tu sector de viajes y aventura, también querrás ampliar tus horizontes. Planes de viaje podrían estar en tus cartas este fin de semana.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: pPShashxnY4
+ video: 4h8vRsDqiuQ
 
 ogimg: /images/cancer_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-04'
+ lastmod: '2016-07-11'
 ---
 
 
-El Sol en Piscis indica que tomarte tiempo para resolver problemas emocionales y liberar cualquier carga emocional podría serte muy útil. Aprovecha esta oportunidad para sumergirte profundamente y descubrir dónde realmente reside el problema. De esta manera saldrás de ello con más energía y alegría de vivir. Mantente alerta a conflictos que pudieran surgir el viernes. Evita expresarte demasiado contundentemente, ya que puede que llegues a lamentar tu actitud más tarde. Aun así, puede que se te haga difícil contenerte una vez que Marte entre a Sagitario el sábado.
+El Sol continúa su viaje a través de un sector más sensible de tu carta, por lo que incluso pequeñas decisiones podrían tener un impacto en áreas clave de tu vida. Esta es una buena oportunidad para dejar de lado el resentimiento, el miedo y otras emociones similares que te impidan ser la mejor versión de ti. Una vez que Venus y Mercurio entren a tu sector de viajes y aventura, también querrás ampliar tus horizontes. Planes de viaje podrían estar en tus cartas este fin de semana.
 
 ##Dinero
 
-Es un momento interesante. Nadie te puede pasar por alto, así que trata de usar este tiempo a tu favor. Expón tus atributos. Ofrécete para dar una presentación si la hay y prueba un nuevo estilo para darla. Tu sector de diversión, romanticismo, niños y miembros de la familia entra en juego. ¿Cómo puedes usar tus conexiones familiares para avanzar en cuanto a dinero se refiere?
+Esta semana tienes una situación única en tus manos con respecto a tu deuda y el dinero de otras personas. Aunque parte de ti quiere progresar en el frente de pago de deuda, otra parte puede contenerte de hacer mucho. Una cosa es segura – tener una actitud proactiva y la aceptación de todas tus responsabilidades te obtendrá los mejores resultados a largo plazo.
