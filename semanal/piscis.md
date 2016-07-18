@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 2016-07-11s 
-description: Es posible que te estés presionando demasiado, lo que podría llevarte a perder la fe en tus capacidades. No tiene por qué ser así. La energía de esta semana ilumina áreas en las que podrías estar esforzándote demasiado. Esto no es una crítica, es sólo un consejo para animarte a darte un poco de espacio. Otra razón para ser amable con tu persona es el Eclipse Lunar en tu sector social. Tal podría significar cambios dentro de ciertas amistades o grupos con los que tienes afiliación.
+title: piscis 2016-07-18s 
+description: ¿Deberías aceptar una invitación o no? Este podría ser el dilema al que te enfrentes al comienzo de la semana, pero es uno con el que tus amistades pudrían ser capaces de ayudarte. Sin embargo, el enfoque se desplaza una vez que Venus y Mercurio entran a Leo y a un sector más aislado de tu carta. Como resultado, es posible que sientas más inclinación a tomarte algo de tiempo para reflexionar sobre tu vida y tus prioridades. ¡También tomate tiempo para recargar baterías!
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: -rxG8GinvVE
+ video: 6AMT1XZkym8
 
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-11'
+ lastmod: '2016-07-18'
 ---
 
 
-Es posible que te estés presionando demasiado, lo que podría llevarte a perder la fe en tus capacidades. No tiene por qué ser así. La energía de esta semana ilumina áreas en las que podrías estar esforzándote demasiado. Esto no es una crítica, es sólo un consejo para animarte a darte un poco de espacio. Otra razón para ser amable con tu persona es el Eclipse Lunar en tu sector social. Tal podría significar cambios dentro de ciertas amistades o grupos con los que tienes afiliación.
+¿Deberías aceptar una invitación o no? Este podría ser el dilema al que te enfrentes al comienzo de la semana, pero es uno con el que tus amistades pudrían ser capaces de ayudarte. Sin embargo, el enfoque se desplaza una vez que Venus y Mercurio entran a Leo y a un sector más aislado de tu carta. Como resultado, es posible que sientas más inclinación a tomarte algo de tiempo para reflexionar sobre tu vida y tus prioridades. ¡También tomate tiempo para recargar baterías!
 
 ##Dinero
 
-Puede que tenga que haber algunos gastos relacionados con tu hogar esta semana. Podrías necesitar hacer algunos ajustes a tu presupuesto a medida que descubres que las reparaciones cuestan más o que alguien ha hecho una oferta más alta en una propiedad de inversión que la que tú hiciste. En lugar de abrumarte o enojarte, recuerda que un aspecto armonioso te ayudará a pagar las deudas existentes, aclarar cualquier cabo suelto en tu vida financiera y a sentirte más a gusto.
+Ahora tienes una situación de buenas noticias/malas noticias en tus manos. La buena noticia es que tu sector de carrera y figuras de autoridad se ve afectado positivamente, lo que indica un tiempo de mejores oportunidades y un mayor acceso a flujos de efectivo. La mala noticia es que puede que creas que no necesitas cambiar. Trata de salir adelante mediante la cooperación, no la lucha.

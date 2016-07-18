@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 2016-07-11s 
-description: Justo cuando estabas agarrando vuelo en relación a un movimiento profesional, Mercurio se torna retrógrado en tu sector profesional. Esto no significa que deberías abandonarlo todo y esperar hasta que se vuelva directo de nuevo. Haz lo que tengas que hacer, pero ten en cuenta que tu plan original podría cambiar en las próximas semanas. Lograrás atravesar fácilmente esta fase si logras ir con la corriente. También serás capaz de montar una ofensiva e impresionar a tus superiores, por lo que utiliza esté tránsito a tu ventaja.   
+title: virgo 2016-07-18s 
+description: Aunque ciertos aspectos de tu vida no se estén moviendo tan rápido como desearías, esta semana sigue mostrando promesa. De hecho, debido a la gran cantidad de planetas actualmente retrocediendo, sería bueno que te centraras en proyectos más pequeños y más fácilmente manejables o dividir los más grandes en partes más pequeñas. Existe la posibilidad de que tu confianza sea más baja de lo normal, pero no permitas que eso te impide seguir adelante. La Luna Nueva del viernes podría ser un llamado a continuar tus esfuerzos incluso tomando pasos pequeños.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: cDS_Lxgp4Oo
+ video: QTBYBpa7asg
 
 ogimg: /images/virgo_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-11'
+ lastmod: '2016-07-18'
 ---
 
 
-Justo cuando estabas agarrando vuelo en relación a un movimiento profesional, Mercurio se torna retrógrado en tu sector profesional. Esto no significa que deberías abandonarlo todo y esperar hasta que se vuelva directo de nuevo. Haz lo que tengas que hacer, pero ten en cuenta que tu plan original podría cambiar en las próximas semanas. Lograrás atravesar fácilmente esta fase si logras ir con la corriente. También serás capaz de montar una ofensiva e impresionar a tus superiores, por lo que utiliza esté tránsito a tu ventaja.   
+Aunque ciertos aspectos de tu vida no se estén moviendo tan rápido como desearías, esta semana sigue mostrando promesa. De hecho, debido a la gran cantidad de planetas actualmente retrocediendo, sería bueno que te centraras en proyectos más pequeños y más fácilmente manejables o dividir los más grandes en partes más pequeñas. Existe la posibilidad de que tu confianza sea más baja de lo normal, pero no permitas que eso te impide seguir adelante. La Luna Nueva del viernes podría ser un llamado a continuar tus esfuerzos incluso tomando pasos pequeños.
 
 ##Dinero
 
-Puedes tener la tentación de ir a por un trabajo que no pensabas que podrías conseguir hace una semana. Estás ganando seguridad, no sólo acerca de tus habilidades innatas, sino también acerca de cómo te expones al mundo con tu discurso, gestos y forma de vestir. Ciertos aspectos indican un tiempo de resolución de problemas a nivel familiar o con tu pareja romántica. Dos o tres mentes piensan mejor que una cuando se trata de la construcción de tu nueva imagen.
+Cierta actividad en tu sector de ganancias hace que sea más difícil ganar la cantidad de dinero a la que te has acostumbrado ganar. El Universo está restringiendo tus oportunidades y el dinero que se puede obtener de ello, pero no te preocupes demasiado. Son tus redes sociales las que te ayudarán a salir adelante en cualquier problema al referirte a nuevos clientes, alertándote sobre nuevos puestos de trabajo, y prestándote dinero.

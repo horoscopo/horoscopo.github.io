@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 2016-07-11s 
-description: Actualmente tienes la oportunidad de pasar más tiempo con familiares o amigos cercanos y nutrir esas conexiones en el proceso. Además, con Mercurio y Júpiter actualmente retrógrados, las reuniones podrían ser parte de la acción de esta y las próximas semanas. Ya se trate de un pariente que no has visto en mucho tiempo o tal vez un viejo amor con el que deseas hacer las paces, ponte en contacto con tal y trata de sanar las viejas heridas. Hacerlo puede ser muy positivo para tu vida. 
+title: geminis 2016-07-18s 
+description: Prepárate para encantarle ya sea a un jefe o superior o sonreírle con dulzura y persuadir a una persona de autoridad con el fin de salirte con la tuya. Venus en la parte más superior de tu carta te presta una gran cantidad de carisma, facilitando que las cosas salgan a tu favor. Aun así, una conexión incómoda entre Júpiter y Saturno sugiere que es posible que sientas restricción debido a responsabilidades hogareñas. Delega lo más que puedas y también debes saber que lo más seguro es que tal situación se calme durante las próximas semanas.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: f-MXGb8kids
+ video: ap_BceHsoCs
 
 ogimg: /images/geminis_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-11'
+ lastmod: '2016-07-18'
 ---
 
 
-Actualmente tienes la oportunidad de pasar más tiempo con familiares o amigos cercanos y nutrir esas conexiones en el proceso. Además, con Mercurio y Júpiter actualmente retrógrados, las reuniones podrían ser parte de la acción de esta y las próximas semanas. Ya se trate de un pariente que no has visto en mucho tiempo o tal vez un viejo amor con el que deseas hacer las paces, ponte en contacto con tal y trata de sanar las viejas heridas. Hacerlo puede ser muy positivo para tu vida. 
+Prepárate para encantarle ya sea a un jefe o superior o sonreírle con dulzura y persuadir a una persona de autoridad con el fin de salirte con la tuya. Venus en la parte más superior de tu carta te presta una gran cantidad de carisma, facilitando que las cosas salgan a tu favor. Aun así, una conexión incómoda entre Júpiter y Saturno sugiere que es posible que sientas restricción debido a responsabilidades hogareñas. Delega lo más que puedas y también debes saber que lo más seguro es que tal situación se calme durante las próximas semanas.
 
 ##Dinero
 
-Esta semana tienes una gran cantidad de impulso para atraer más lana. Es posible que solo se trate de que tu ambición esté llegando a la superficie conforme los demás te ven como la persona exitosa en la que estás en proceso de convertirte. Podría haber cierta tensión con colegas o conocidos sociales. Sólo asegúrate de que no apostar la granja.
+El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.

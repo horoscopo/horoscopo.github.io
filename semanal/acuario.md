@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 2016-07-11s 
-description: La comunicación es clave esta semana, así que asegúrate de mantenerlos a todos informados, ya que ayudará a evitar malentendidos y errores innecesarios. Si tienes una situación en particular con la cual lidiar, los próximos días podría ser perfectos para ayudarte a resolverla. Disponte a sentarte a discutir los problemas a fondo. Podrías percatarte de que una conversación podría impulsarte hacia un mayor éxito en el futuro. Si se te invita a una reunión, debería ser muy cálida y acogedora.
+title: acuario 2016-07-18s 
+description: ¿En qué es lo que más quieres invertir? Sea lo que sea, la Luna Nueva del lunes te anima a moverte hacia la dirección que te traiga el mejor resultado posible. Podrías tener más recursos a tu disposición de los que crees tener, lo que incluye tener fe en ti y en lo que estás esperando alcanzar. Si te preocupa lo que podrías acabar perdiendo, podría ser debido a que ciertos temores están bloqueando el proceso. Puede que tales comiencen a disiparse cuando des el primer paso.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: NTHABdy0fVQ
+ video: PvMXX4IWpDA
 
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-11'
+ lastmod: '2016-07-18'
 ---
 
 
-La comunicación es clave esta semana, así que asegúrate de mantenerlos a todos informados, ya que ayudará a evitar malentendidos y errores innecesarios. Si tienes una situación en particular con la cual lidiar, los próximos días podría ser perfectos para ayudarte a resolverla. Disponte a sentarte a discutir los problemas a fondo. Podrías percatarte de que una conversación podría impulsarte hacia un mayor éxito en el futuro. Si se te invita a una reunión, debería ser muy cálida y acogedora.
+¿En qué es lo que más quieres invertir? Sea lo que sea, la Luna Nueva del lunes te anima a moverte hacia la dirección que te traiga el mejor resultado posible. Podrías tener más recursos a tu disposición de los que crees tener, lo que incluye tener fe en ti y en lo que estás esperando alcanzar. Si te preocupa lo que podrías acabar perdiendo, podría ser debido a que ciertos temores están bloqueando el proceso. Puede que tales comiencen a disiparse cuando des el primer paso.
 
 ##Dinero
 
-Tu sector de dinero se destaca esta semana. La forma en la que ves el dinero en tu vida entra en cuestión, así como la sabiduría de tus planes monetarios más recientes. Este es el momento de cuestionar todo - incluso lo que decidiste que fue bueno hace unos meses. Alentar las señales del Universo se relacionan con tu capacidad de obtener ingresos, mientras que los detalles de cualquier noticia negativa se suavizan. Estás en el camino correcto en ambos sentidos.
+Este periodo es acerca de los aspectos armoniosos trayéndole amor a tu vida hogareña y permitiendo que los sentimientos y recuerdos cálidos emerjan. Al mismo tiempo, se te recomienda abrirte a ellos y tal vez incluso utilizarlos en tu trabajo. Deja que tu imaginación vuele y puede que te percates de que tienes grandes ideas para generar más dinero.
