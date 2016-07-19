@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de julio 2016
+title: Hóroscopo de hoy 19 de julio 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Cualquiera que sea lo que cierta persona sabe, tiene propensión a guardárselo cuando Mercurio entre a Escorpión el día de hoy. Desde hoy hasta el 20 de noviembre se requerirá de mucha energía para poder guardar secretos. Esta noche, escucha y espera o las cosas se complicarán. Las relaciones están sujetas a las reglas básicas bajo la conjunción entre Marte y Venus en Virgo.
+Mercurio cambia su curso actual, llevándote a cambiar de marcha y adoptar un enfoque directo. Si no tienes pareja, esta noche se te aconseja no tratar de crear algo en apuro. La Luna en Virgo es acerca de lo ya intentado, ya probado, lo lúcido y el análisis completo. Se requiere de tiempo para lograr que la magia funcione.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
