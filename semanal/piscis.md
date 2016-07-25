@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 2016-07-18s 
-description: ¿Deberías aceptar una invitación o no? Este podría ser el dilema al que te enfrentes al comienzo de la semana, pero es uno con el que tus amistades pudrían ser capaces de ayudarte. Sin embargo, el enfoque se desplaza una vez que Venus y Mercurio entran a Leo y a un sector más aislado de tu carta. Como resultado, es posible que sientas más inclinación a tomarte algo de tiempo para reflexionar sobre tu vida y tus prioridades. ¡También tomate tiempo para recargar baterías!
+title: piscis 2016-07-25s 
+description: Esta semana estarás consciente del poder de las palabras y el conocimiento. Este es un excelente momento para ponerte en contacto con personas que no hayas visto o de las que no hayas escuchado desde hace tiempo. Puede que recibas una llamada sorpresa o incluso una visita de un amigo o familiar perdido el 25 de diciembre. Además, esta semana de festividades no sólo mejora la pasión, también puede verte involucrarte en proyectos que son exigentes pero a la vez emocionantes. Por último, tu salud y estilo de vida parecen volverse más predecibles.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: 6AMT1XZkym8
+ video: CHfEykQoOrQ
 
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-18'
+ lastmod: '2016-07-25'
 ---
 
 
-¿Deberías aceptar una invitación o no? Este podría ser el dilema al que te enfrentes al comienzo de la semana, pero es uno con el que tus amistades pudrían ser capaces de ayudarte. Sin embargo, el enfoque se desplaza una vez que Venus y Mercurio entran a Leo y a un sector más aislado de tu carta. Como resultado, es posible que sientas más inclinación a tomarte algo de tiempo para reflexionar sobre tu vida y tus prioridades. ¡También tomate tiempo para recargar baterías!
+Esta semana estarás consciente del poder de las palabras y el conocimiento. Este es un excelente momento para ponerte en contacto con personas que no hayas visto o de las que no hayas escuchado desde hace tiempo. Puede que recibas una llamada sorpresa o incluso una visita de un amigo o familiar perdido el 25 de diciembre. Además, esta semana de festividades no sólo mejora la pasión, también puede verte involucrarte en proyectos que son exigentes pero a la vez emocionantes. Por último, tu salud y estilo de vida parecen volverse más predecibles.
 
 ##Dinero
 
-Ahora tienes una situación de buenas noticias/malas noticias en tus manos. La buena noticia es que tu sector de carrera y figuras de autoridad se ve afectado positivamente, lo que indica un tiempo de mejores oportunidades y un mayor acceso a flujos de efectivo. La mala noticia es que puede que creas que no necesitas cambiar. Trata de salir adelante mediante la cooperación, no la lucha.
+Tus poderes psíquicos están a todo lo que da. Podrías hacer algo de dinero a través de la intuición pura. Estate en el lugar correcto en el momento adecuado para obtener información sobre una oportunidad nueva y excitante, como el tener cierto sentido sobre lo que pasará en la bolsa de valores o el soñar con la idea de un nuevo negocio. Tu creatividad también esta en un punto muy alto, sólo asegúrate de pagar cualquier deuda grande que tengas.

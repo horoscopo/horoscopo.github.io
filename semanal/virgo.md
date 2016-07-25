@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 2016-07-18s 
-description: Aunque ciertos aspectos de tu vida no se estén moviendo tan rápido como desearías, esta semana sigue mostrando promesa. De hecho, debido a la gran cantidad de planetas actualmente retrocediendo, sería bueno que te centraras en proyectos más pequeños y más fácilmente manejables o dividir los más grandes en partes más pequeñas. Existe la posibilidad de que tu confianza sea más baja de lo normal, pero no permitas que eso te impide seguir adelante. La Luna Nueva del viernes podría ser un llamado a continuar tus esfuerzos incluso tomando pasos pequeños.
+title: virgo 2016-07-25s 
+description: Tu sector de finanzas está bajo enfoque esta semana con el día lunes pudiendo traerte una oportunidad para gastar tu dinero. Si has tenido tu ojo en un determinado objeto, este podría ser el momento en el que decidas comprarlo sin importa cuánto cueste. Por otro lado, ser sensible a los sentimientos de alguien podría alentar a una charla sincera con el fin de prevenir un desacuerdo. El fin de semana podía verte saliendo a cazar gangas, con la opción de un descuento que sea demasiado bueno como para dejarlo pasar. ¡Mantente alerta!
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: QTBYBpa7asg
+ video: TBZ4HuzFbX8
 
 ogimg: /images/virgo_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-18'
+ lastmod: '2016-07-25'
 ---
 
 
-Aunque ciertos aspectos de tu vida no se estén moviendo tan rápido como desearías, esta semana sigue mostrando promesa. De hecho, debido a la gran cantidad de planetas actualmente retrocediendo, sería bueno que te centraras en proyectos más pequeños y más fácilmente manejables o dividir los más grandes en partes más pequeñas. Existe la posibilidad de que tu confianza sea más baja de lo normal, pero no permitas que eso te impide seguir adelante. La Luna Nueva del viernes podría ser un llamado a continuar tus esfuerzos incluso tomando pasos pequeños.
+Tu sector de finanzas está bajo enfoque esta semana con el día lunes pudiendo traerte una oportunidad para gastar tu dinero. Si has tenido tu ojo en un determinado objeto, este podría ser el momento en el que decidas comprarlo sin importa cuánto cueste. Por otro lado, ser sensible a los sentimientos de alguien podría alentar a una charla sincera con el fin de prevenir un desacuerdo. El fin de semana podía verte saliendo a cazar gangas, con la opción de un descuento que sea demasiado bueno como para dejarlo pasar. ¡Mantente alerta!
 
 ##Dinero
 
-Cierta actividad en tu sector de ganancias hace que sea más difícil ganar la cantidad de dinero a la que te has acostumbrado ganar. El Universo está restringiendo tus oportunidades y el dinero que se puede obtener de ello, pero no te preocupes demasiado. Son tus redes sociales las que te ayudarán a salir adelante en cualquier problema al referirte a nuevos clientes, alertándote sobre nuevos puestos de trabajo, y prestándote dinero.
+Hay una sorpresa muy especial para ti ahora. Un aspecto armonioso te ofrece un montón de ideas creativas, por no mencionar el talento para lograrlas. Mientras tanto, también recibes el impulso para tomar medidas sobre todo lo que quieres lograr. Dado que tu sentido de auto-expresión se ve afectado, es un buen momento para vender tus productos o servicios. Formula una lluvia de ideas para lograr llegar a un plan.

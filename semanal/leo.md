@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 2016-07-18s 
-description: Podrías sentirte muy entusiasta con la Luna Llena del lunes en tu signo animándote a expresarte libre y abiertamente. Sin embargo, trata de tener cuidado con las personas más sensibles que podrían encontrar tu honestidad un tanto desconcertante. La entrada del Sol a tu sector de finanzas compartidas e intimidad podría ser una llamada a pensar cuidadosamente acerca de tus gastos, ingresos y la forma de sacarle el máximo provecho a tu dinero. Por último, el fin de semana está lleno de oportunidades. No te pierdas de una oferta potencialmente fabulosa.
+title: leo 2016-07-25s 
+description: El lunes es el día para firmar acuerdos, colaborar en proyectos o iniciar una campaña publicitaria. ¡La Luna Nueva de esta semana puede ayudar a que las cosas tomen forma! En referente a fechas importantes o citas empresariales, tendrás que obligar a la gente a presentarse a una determinada hora y lugar o puede que no aparezcan. Es posible que tengas la oportunidad de aumentar considerablemente tus ingresos. Si es así, tómala. Los asuntos monetarios se vislumbran prometedores. Mientas más esfuerzo le inviertas al desarrollo de otras fuentes de ingresos, mejor.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: t0OSiczN5E8
+ video: 2vhm43IvCtY
 
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-18'
+ lastmod: '2016-07-25'
 ---
 
 
-Podrías sentirte muy entusiasta con la Luna Llena del lunes en tu signo animándote a expresarte libre y abiertamente. Sin embargo, trata de tener cuidado con las personas más sensibles que podrían encontrar tu honestidad un tanto desconcertante. La entrada del Sol a tu sector de finanzas compartidas e intimidad podría ser una llamada a pensar cuidadosamente acerca de tus gastos, ingresos y la forma de sacarle el máximo provecho a tu dinero. Por último, el fin de semana está lleno de oportunidades. No te pierdas de una oferta potencialmente fabulosa.
+El lunes es el día para firmar acuerdos, colaborar en proyectos o iniciar una campaña publicitaria. ¡La Luna Nueva de esta semana puede ayudar a que las cosas tomen forma! En referente a fechas importantes o citas empresariales, tendrás que obligar a la gente a presentarse a una determinada hora y lugar o puede que no aparezcan. Es posible que tengas la oportunidad de aumentar considerablemente tus ingresos. Si es así, tómala. Los asuntos monetarios se vislumbran prometedores. Mientas más esfuerzo le inviertas al desarrollo de otras fuentes de ingresos, mejor.
 
 ##Dinero
 
-Podrías estar mas ocupado/a en el trabajo que de costumbre cuando las responsabilidades de ciertas personas caigan en tus manos. En la cumbre de la locura, ponte a tono con tus más crudas ambiciones y pregúntate: ¿Qué tan alto quieres llegar en esta empresa? Si la respuesta es no, sabes que tienes muchas ideas propias. Tal vez prefieras invertir un poco de dinero en comenzar un negocio nuevo. Los viajes, la educación, la metafísica, la publicación, la ley, son algunos de los campos que te pudieran interesar.
+Es una semana emocionante. Las invitaciones sociales y profesionales son la norma actual, por lo que acostúmbrate a hacer malabares con más de una al día. No esperes que tus sentimientos estén en silencio. Puedes tener problemas al tratar de equilibrar el trabajo y el hogar, o simplemente te encuentras harto/a de la misma vieja rutina. No es suficiente con simplemente ganar dinero ahora. Tienes que experimentar lo que éste puede hacer por ti en términos de tiempo.
