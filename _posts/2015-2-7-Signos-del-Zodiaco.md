@@ -1,9 +1,9 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de julio 2016
+title: Hóroscopo de hoy 31 de julio 2016
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-¡Mantén la calma! La cuadratura entre la Luna y Plutón de esta mañana puede elevarse a alturas vertiginosas como un tornado - temporal - de emociones. La calma vuelve después y las intenciones románticas decisivas iluminan vidas conforme Venus se acomoda en Libra. Las parejas se sienten particularmente apreciadas porque, después de todo, la Luna también se encuentra en Libra esta noche.
+Hoy, el ruido tiene un tinte empresarial y la Luna en Capricornio les da una ventaja adicional a los equipos de personas ambiciosas y responsables. Esta noche es sobre cumplir las promesas que uno hizo, ya que no hay mejor momento para hacerlo. Solteros, Venus conecta con Júpiter retrógrado, por lo que no se sorprendan si la noche se siente un poco fuera de sincronización.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.

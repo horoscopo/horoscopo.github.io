@@ -2,6 +2,8 @@
 layout: page
 title: Aviso Legal y politicas de privacidad
 permalink: /aviso-legal-privacidad/
+sitemap:
+ exclude: yes
 ---
  
 ##Politicas de privacidad: 

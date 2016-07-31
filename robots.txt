@@ -1,4 +1,9 @@
 User-agent:  *
 Disallow:  /aviso-legal-privacidad/
- 
+Disallow:  /404/
+Disallow:  //css/bootstrap.css
+Disallow:  //css/main.css
+Disallow:  //css/font-awesome.css
+Disallow:  //instant-articles.xml
+
 Sitemap: http://horoscopo-del-dia.com/sitemap.xml
