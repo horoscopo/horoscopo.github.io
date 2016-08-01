@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Virgo Julio 2016 
+title: Virgo Agosto 2016 
 permalink: /horoscopo-mensual/virgo/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2016, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-07-01'
+ lastmod: '2016-08-01'
 ---
 
- Diviértete en grande con los tuyos bajo la Luna Nueva de julio. Si la fiesta o la multitud se vuelven demasiado grandes, escápate con alguien y disfruta de una charla más seria, privada y amena. Con la llegada de la Luna Llena del 19 de julio podrías sentir que la gente a tu alrededor no te aprecia, pero ese sentimiento pasará. Hacer aquello que más te agrade te ayudará a sentir total satisfacción y felicidad. Nadie más puede hacer las cosas que tú haces, y las personas adecuadas lo notarán. Mercurio entra a Virgo el 30 de julio, facilitando más que nunca atender cualquier pequeña molestia.
+ Tu situación monetaria será positiva bajo la Luna Nueva del 2 de agosto. Una ingeniosa idea podría llegar a ser más inteligente y rentable de lo que inicialmente esperabas. Confía en tu propio juicio, pero no analices demasiado. Bajo la Luna Llena del 18 de agosto podrás terminar un sinfín de numerosos pequeños proyectos que han estado en pausa. La mayoría de ellos serán pequeñas divertidas tareas que te harán sonreír y sentir satisfacción. El 30 de agosto, Mercurio comienza su período retrógrado en Virgo. Relájate y no te estreses por nada. Eres el signo más organizado de todos. Si hay algo que acabas de terminar pero que te gustaría mejorar, este es el momento adecuado para ello.

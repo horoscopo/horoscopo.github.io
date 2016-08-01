@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Piscis Julio 2016 
+title: Piscis Agosto 2016 
 permalink: /horoscopo-mensual/piscis/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2016, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-07-01'
+ lastmod: '2016-08-01'
 ---
 
- Tu fin de semana del 4 de julio podía estar lleno de gente, diversión y fiestas. Compórtate segura y razonablemente en los días anteriores a la Luna Nueva, especialmente en público. Posteriormente, relájate y deja que la fiesta arremoline a tu alrededor. Tu vida social será alegre y candente bajo la luz de la Luna Llena del 19 de julio, cuando podrías sorprender a mucha gente que no está esperando que te permitas disfrutar de mucho. Aprovecha al máximo todos los buenos momentos. El trígono entre la Luna y Neptuno del 31 de julio podría traer consigo románticos días llenos de sueños y deseos, de los cuales, pocos podrían hacerse realidad; lo cual no está nada mal.
+ La Luna Nueva del 2 de agosto resalta la importancia de tener buena salud. Te verás muy bien sin importar cómo te sientas. Felicítate por todos tus buenos hábitos y difunde tu buena vibra. Alguien que es importante para ti te va a escuchar. La Luna Llena del 18 de agosto te traerá buenos momentos de tranquilidad. Busca privacidad si eso es lo que quieres o compártelos con ese alguien especial. Si es que prefieres descansar, hazlo. Aquello que elijas hacer será muy gratificante. El 27 de agosto podría ser un día rico en romance con Venus y Júpiter conectando en Virgo. Es posible que sientas un poco de duda al respecto al principio, pero eso puede cambiar.

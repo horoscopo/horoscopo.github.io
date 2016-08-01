@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Capricornio Julio 2016 
+title: Capricornio Agosto 2016 
 permalink: /horoscopo-mensual/capricornio/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2016, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-07-01'
+ lastmod: '2016-08-01'
 ---
 
- ¿Está tu corazón listo para un romance torbellino? ¿Y qué tal un romance más lento y dulce? Cualquiera de los dos podría ser posible en este mes bajo la Luna Nueva del 4 de julio. Incluso si estás en una relación estable, prepárate para un cambio en tu actitud hacia el amor. Es posible que tu corazón experimente un repentino cambio alrededor de la Luna Llena del 19 de julio. Alternativamente, tu pareja o una amistad cercana podría experimentar un cambio de opinión acerca de algo importante. Apóyense el uno al otro y no duden en hablar en confianza. La Luna se opone a Saturno el 29 de julio, cuando es posible que desees reservarte tus juicios acerca de casi todo.
+ El problema de un amigo podría atraer tu atención, más no le ofrezcas asesoramiento o te involucres instantáneamente. Puedes darle buen ejemplo, pero es el papel de tu amistad el venir a buscarte a ti. La Luna Llena del 18 de agosto acentúa temas financieros. Aclara una situación confusa al determinar que ya has pagado cierta factura o deuda o hacer que alguien te devuelva un favor monetario. Puede que no sea nada grande, pero se sentirá como algo real. No gastes demasiado dinero en un solo lugar. Deja los grandes gastos para más adelante. El 24 de agosto podría ser un día importante con Marte conjuntando a Saturno. Prevenir un posible error podría ganarte mucho respeto.

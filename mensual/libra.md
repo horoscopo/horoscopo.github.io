@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Libra Julio 2016 
+title: Libra Agosto 2016 
 permalink: /horoscopo-mensual/libra/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2016, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-07-01'
+ lastmod: '2016-08-01'
 ---
 
- La Luna Nueva del 4 de julio te hace la estrella en tu trabajo durante la segunda semana del mes. Disfruta de tener una gran química con compañeros de trabajo y todos los demás. Algo que gratamente podría mejorar tus finanzas hogareñas también. La Luna Llena del 19 de julio emana su brillo en tu entorno hogareño y familiar. Los sentimientos serán profundos, y puede que imagines fricción donde no la hay. Una gran cantidad de personas están distraídas ahora, algunas cercanas a ti. Siéntete bien en tu propia piel y tu propio espacio, y deja que la charla de fondo se desvanezca. El sextil entre la Luna y Venus del 30 de julio marca el comienzo de un fin de semana social y deliciosamente divertido. 
+ Prepárate para iniciar un mes de fiestas a partir de la Luna Nueva del 2 de agosto. Bien puedes bajarle de tono a tu propia participación, pero grupos de amigos e invitaciones seguirán llegando. Encárgate de tus asuntos cotidianos y después decide si quieres salir o no. Compórtate valiente y creativamente bajo la Luna Llena del 18 de agosto. Tu vida diaria podría mantener tu tiempo demasiado ocupado, sin embargo, no te descuides a ti. El tratar de ser feliz y hacer lo que te dicte tu corazón no es algo egoísta. Venus entra a Libra el 29 de agosto, aumentando enormemente tus habilidades sociales y talentos diplomáticos. Momento ideal para películas, música, salidas culturales y romance.

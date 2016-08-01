@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Julio 2016 
+title: Leo Agosto 2016 
 permalink: /horoscopo-mensual/leo/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2016, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-07-01'
+ lastmod: '2016-08-01'
 ---
 
- Relájate con tus personas preferidas durante la Luna Nueva del 4 de julio. Sin embargo, mantén un ojo puesto en tus mascotas para evitar cualquier pequeño y tonto contratiempo alrededor de tu hogar. Ese mismo fin de semana podría ser espectacular, pero a la vez seguro y sin problemas. Date un capricho, consiéntete más y vuélvete más saludable durante el periodo de la Luna Llena del 19 de julio. Duerme más, come mejor y trata de no trabajar demasiado todo el tiempo. Te sentirás y verás muy bien, además de que tendrás mucha más energía. Lidia con cualquier problema de salud inmediatamente y no pierdas tu energía en preocuparte. El Sol entra a Leo el 22 de julio. Si es que has sentido cualquier tipo de apatía, puede que entonces ¡regreses de nuevo a la vida!   
+ La gloriosa Luna Nueva del 2 de agosto se manifiesta en tu signo. Tu característico encanto podría ser lo suficientemente deslumbrante como para sorprenderte a ti y cegar a una persona muy especial. Durante esos días, tienes todo el control de las chispas románticas que emanas, así que envíalas con calma. El amor es elegante y amable bajo la Luna Llena del 18 de agosto. Los buenos modales y el comportamiento refinado nunca han sido más dulces o mejores. Siéntete como la realeza que eres y permite que la gente vea tu lado cálido y generoso. La Luna se encontrará en Leo el 30 de agosto, el mismo día que Mercurio se torna retrógrado. Compórtate valiente y organizadamente y presta atención a los detalles de inmediato y este período retrógrado no te afectará.

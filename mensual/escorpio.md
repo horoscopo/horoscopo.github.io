@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Escorpio Julio 2016 
+title: Escorpio Agosto 2016 
 permalink: /horoscopo-mensual/escorpio/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2016, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-07-01'
+ lastmod: '2016-08-01'
 ---
 
- Prepárate para días de gran y loca diversión bajo la Luna Nueva del 4 de julio. Tus amigos y vecinos podrían ser los que la inicien y el entretenimiento será cualquier cosa menos que ordinario. ¡Disfruta de lo exótico! Puede que no quieras ir muy lejos o hacer mucho bajo la Luna Llena del 19 de julio, aunque serán días ocupados y bien entretenidos de todos modos. Una modesta actividad puede resultar más agradable y gratificante que cualquier ambicioso plan. Pasar agradables momentos con uno o dos amigos podría ser preferible a correr de un lado u otro con el fin de estar en una escena social grande. La Luna se opone a Marte el 28 de julio. Si no tienes ganas de hacer algo, no lo hagas.
+ Un proyecto laboral nuevo podría mantener tu tiempo ocupado alrededor de la Luna Nueva del 2 de agosto. Ponte de pie, intervén y toma el control. Asume bien la autoridad y delega con estilo. La gente va a querer trabajar contigo. La Luna Llena del 18 de agosto ilumina tu vida hogareña y espacio personal. Piensa más audazmente y disponte a hacer exactamente lo que quieres sin importar lo que piensen los demás. El confort y el gusto personal son subjetivos y tú tienes derecho a expresarte y complacerte. Marte conjunta a Saturno el 24 de agosto. Reduce tu velocidad, mantén el control de una situación desafiante y obtén el respeto que te mereces.
