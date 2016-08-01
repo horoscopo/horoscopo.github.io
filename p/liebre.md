@@ -2,6 +2,7 @@
 layout: page
 title: Liebre Horóscopo Chino 2015
 permalink: /p/horoscopo-chino-liebre-2015.html
+description: Horoscopo chino 2015 libre
 sitemap:
  priority: 1
  changefreq: 'yearly'

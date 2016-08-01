@@ -2,6 +2,7 @@
 layout: page
 title: Caballo Horoscopo Chino 2015
 permalink: /p/caballo-horoscopo-chino-2015.html
+description: Horoscopo chino 2015 caballo
 sitemap:
  priority: 1
  changefreq: 'yearly'

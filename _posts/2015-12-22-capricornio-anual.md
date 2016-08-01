@@ -1,7 +1,7 @@
 ---
 layout: page
 title: capricornio Horóscopo año nuevo 2016 
-description: capricornio horoscopo del &ANIO, amor, trabajo, vida personal. Todas las predicciones para capricornio gratis. Disfruta este año nuevo.
+description: capricornio horoscopo del 2016, amor, trabajo, vida personal. Todas las predicciones para capricornio gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/capricornio/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2016, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2016, horóscopo esperanza gracia, horoscopo capricornio 2016, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2016 gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis

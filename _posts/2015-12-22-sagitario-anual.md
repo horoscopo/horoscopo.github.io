@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sagitario Horóscopo año nuevo 2016 
-description: sagitario horoscopo del &ANIO, amor, trabajo, vida personal. Todas las predicciones para sagitario gratis. Disfruta este año nuevo.
+description: sagitario horoscopo del 2016, amor, trabajo, vida personal. Todas las predicciones para sagitario gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/sagitario/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2016, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2016, horóscopo esperanza gracia, horoscopo sagitario 2016, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2016 gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis

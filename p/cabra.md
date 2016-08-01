@@ -2,6 +2,7 @@
 layout: page
 title: Cabra Horóscopo Chino 2015
 permalink: /p/cabra-horoscopo-chino-2015.html
+description: Horoscopo chino 2015 cabra
 sitemap:
  priority: 1
  changefreq: 'yearly'

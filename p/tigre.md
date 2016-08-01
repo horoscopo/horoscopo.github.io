@@ -2,6 +2,7 @@
 layout: page
 title: Tigre Horoscopo Chino 2015
 permalink: /p/horoscopo-chino-2015-tigre.html
+description: Horoscopo chino 2015 tigre
 sitemap:
  priority: 1
  changefreq: 'yearly'

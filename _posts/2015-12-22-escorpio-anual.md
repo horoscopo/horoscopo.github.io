@@ -1,7 +1,7 @@
 ---
 layout: page
 title: escorpio Horóscopo año nuevo 2016 
-description: escorpio horoscopo del &ANIO, amor, trabajo, vida personal. Todas las predicciones para escorpio gratis. Disfruta este año nuevo.
+description: escorpio horoscopo del 2016, amor, trabajo, vida personal. Todas las predicciones para escorpio gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/escorpio/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2016, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2016, horóscopo esperanza gracia, horoscopo escorpio 2016, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2016 gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis

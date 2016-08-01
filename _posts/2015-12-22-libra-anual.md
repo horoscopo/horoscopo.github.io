@@ -1,7 +1,7 @@
 ---
 layout: page
 title: libra Horóscopo año nuevo 2016 
-description: libra horoscopo del &ANIO, amor, trabajo, vida personal. Todas las predicciones para libra gratis. Disfruta este año nuevo.
+description: libra horoscopo del 2016, amor, trabajo, vida personal. Todas las predicciones para libra gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/libra/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2016, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2016, horóscopo esperanza gracia, horoscopo libra 2016, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2016 gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis

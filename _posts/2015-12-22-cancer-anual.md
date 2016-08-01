@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cancer Horóscopo año nuevo 2016 
-description: cancer horoscopo del &ANIO, amor, trabajo, vida personal. Todas las predicciones para cancer gratis. Disfruta este año nuevo.
+description: cancer horoscopo del 2016, amor, trabajo, vida personal. Todas las predicciones para cancer gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/cancer/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2016, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2016, horóscopo esperanza gracia, horoscopo cancer 2016, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2016 gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis

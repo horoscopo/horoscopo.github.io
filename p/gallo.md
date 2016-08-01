@@ -2,6 +2,7 @@
 layout: page
 title: Gallo Horoscopo Chino 2015
 permalink: /p/gallo-horoscopo-chino-2015.html
+description: Horoscopo chino 2015 gallo
 sitemap:
  priority: 1
  changefreq: 'yearly'

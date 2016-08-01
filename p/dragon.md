@@ -2,6 +2,7 @@
 layout: page
 title: Dragon Horóscopo Chino 2015
 permalink: /p/dragon-horoscopo-chino-2015.html
+description: Horoscopo chino 2015 dragon
 sitemap:
  priority: 1
  changefreq: 'yearly'

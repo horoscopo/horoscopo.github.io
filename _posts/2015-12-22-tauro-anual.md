@@ -1,7 +1,7 @@
 ---
 layout: page
 title: tauro Horóscopo año nuevo 2016 
-description: tauro horoscopo del &ANIO, amor, trabajo, vida personal. Todas las predicciones para tauro gratis. Disfruta este año nuevo.
+description: tauro horoscopo del 2016, amor, trabajo, vida personal. Todas las predicciones para tauro gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/tauro/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2016, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2016, horóscopo esperanza gracia, horoscopo tauro 2016, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2016 gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis

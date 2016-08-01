@@ -2,6 +2,7 @@
 layout: page
 title: Horoscopo Chino Rata
 permalink: /p/horoscopo-chino-rata.html
+description: Horoscopo chino 2015 rata
 sitemap:
  priority: 1
  changefreq: 'yearly'

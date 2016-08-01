@@ -2,6 +2,7 @@
 layout: page
 title: Perro Horóscopo Chino 2015
 permalink: /p/perro-horoscopo-chino-2015.html
+description: Horoscopo chino 2015 perro
 sitemap:
  priority: 1
  changefreq: 'yearly'

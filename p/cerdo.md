@@ -2,6 +2,7 @@
 layout: page
 title: Cerdo Horóscopo Chino 2015
 permalink: /p/cerdo-horoscopo-chino-2015.html
+description: Horoscopo chino 2015 cerdo
 sitemap:
  priority: 1
  changefreq: 'yearly'

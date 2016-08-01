@@ -1,7 +1,7 @@
 ---
 layout: page
 title: aries Horóscopo año nuevo 2016 
-description: aries horoscopo del &ANIO, amor, trabajo, vida personal. Todas las predicciones para aries gratis. Disfruta este año nuevo.
+description: aries horoscopo del 2016, amor, trabajo, vida personal. Todas las predicciones para aries gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/aries/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2016, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2016, horóscopo esperanza gracia, horoscopo aries 2016, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2016 gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis

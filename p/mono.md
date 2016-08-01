@@ -2,6 +2,7 @@
 layout: page
 title: Horóscopo Chino 2015 Mono
 permalink: /p/horoscopo-chino-2015-mono.html
+description: Horoscopo chino 2015 mono
 sitemap:
  priority: 1
  changefreq: 'yearly'

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: acuario Horóscopo año nuevo 2016 
-description: acuario horoscopo del &ANIO, amor, trabajo, vida personal. Todas las predicciones para acuario gratis. Disfruta este año nuevo.
+description: acuario horoscopo del 2016, amor, trabajo, vida personal. Todas las predicciones para acuario gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/acuario/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2016, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2016, horóscopo esperanza gracia, horoscopo acuario 2016, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2016 gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis

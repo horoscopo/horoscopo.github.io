@@ -2,6 +2,7 @@
 layout: page
 title: Serpiente Horoscopo Chino 2015
 permalink: /p/serpiente-horoscopo-chino-2015.html
+description: Horoscopo chino 2015 serpiente
 sitemap:
  priority: 1
  changefreq: 'yearly'

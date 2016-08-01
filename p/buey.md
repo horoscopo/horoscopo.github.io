@@ -2,6 +2,7 @@
 layout: page
 title: Buey Horóscopo Chino 2015
 permalink: /p/horoscopo-chino-buey.html
+description: Horoscopo chino 2015 buey
 sitemap:
  priority: 1
  changefreq: 'yearly'
