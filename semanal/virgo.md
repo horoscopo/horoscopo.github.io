@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 2016-07-25s 
-description: Tu sector de finanzas está bajo enfoque esta semana con el día lunes pudiendo traerte una oportunidad para gastar tu dinero. Si has tenido tu ojo en un determinado objeto, este podría ser el momento en el que decidas comprarlo sin importa cuánto cueste. Por otro lado, ser sensible a los sentimientos de alguien podría alentar a una charla sincera con el fin de prevenir un desacuerdo. El fin de semana podía verte saliendo a cazar gangas, con la opción de un descuento que sea demasiado bueno como para dejarlo pasar. ¡Mantente alerta!
+title: virgo 01-08-2016 al 08-08-2016 
+description: Horóscopo semanal virgo. Horoscopo 01-08-2016 al 08-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: TBZ4HuzFbX8
+ video: OvGd2f-zhxk
 
-ogimg: /images/virgo_char.png
+ogimg: /images/zodiac/virgo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-25'
+ lastmod: '2016-08-01'
 ---
 
 
-Tu sector de finanzas está bajo enfoque esta semana con el día lunes pudiendo traerte una oportunidad para gastar tu dinero. Si has tenido tu ojo en un determinado objeto, este podría ser el momento en el que decidas comprarlo sin importa cuánto cueste. Por otro lado, ser sensible a los sentimientos de alguien podría alentar a una charla sincera con el fin de prevenir un desacuerdo. El fin de semana podía verte saliendo a cazar gangas, con la opción de un descuento que sea demasiado bueno como para dejarlo pasar. ¡Mantente alerta!
+Tu sector de secretos, gastos compartidos e intimidad está bajo gran enfoque esta semana. Y con el Sol y Mercurio retrógrado aquí, este es definitivamente el momento de analizar y considerar cómo podrías lograr poner en marcha de nuevo tu vida íntima y monetaria. La Luna Nueva del viernes puede ser la oportunidad perfecta para empezar de nuevo, pero sería prudente que no te precipitaras a nada. Espera hasta que Mercurio comience a avanzar de nuevo el 22 de mayo. Mientras tanto, investiga tus opciones.
 
 ##Dinero
 
-Hay una sorpresa muy especial para ti ahora. Un aspecto armonioso te ofrece un montón de ideas creativas, por no mencionar el talento para lograrlas. Mientras tanto, también recibes el impulso para tomar medidas sobre todo lo que quieres lograr. Dado que tu sentido de auto-expresión se ve afectado, es un buen momento para vender tus productos o servicios. Formula una lluvia de ideas para lograr llegar a un plan.
+Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.

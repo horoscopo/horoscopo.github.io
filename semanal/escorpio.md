@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: escorpio 2016-07-25s 
-description: Con Júpiter todavía conectando con Neptuno, te ayudaría mantener tus pies en el suelo. Mientras que sueles ser una persona práctica, podías dejarte llevar por el discurso de ventas o el tono persuasivo de alguien. En caso de duda, pregúntale a una de tus amistades su opinión al respecto. Más tarde, la entrada del Sol a Libra ilumina tu sector financiero, animándote a fijarte metas y considerar tus planes para los próximos meses. ¡Toma nota de todo ello! Tu vitalidad recibe un impulso con Marte inspirándote a progresar.
+title: escorpio 01-08-2016 al 08-08-2016 
+description: Horóscopo semanal escorpio. Horoscopo 01-08-2016 al 08-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: yQvS5FH6g-k
+ video: s_dZ0Z6rJec
 
-ogimg: /images/escorpio_char.png
+ogimg: /images/zodiac/escorpio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-25'
+ lastmod: '2016-08-01'
 ---
 
 
-Con Júpiter todavía conectando con Neptuno, te ayudaría mantener tus pies en el suelo. Mientras que sueles ser una persona práctica, podías dejarte llevar por el discurso de ventas o el tono persuasivo de alguien. En caso de duda, pregúntale a una de tus amistades su opinión al respecto. Más tarde, la entrada del Sol a Libra ilumina tu sector financiero, animándote a fijarte metas y considerar tus planes para los próximos meses. ¡Toma nota de todo ello! Tu vitalidad recibe un impulso con Marte inspirándote a progresar.
+La mejor manera de lidiar con la Luna Llena del martes podría ser al relajar tu horario desde inicio de semana. Si te tomas tiempo para descansar, puedes percatarte de que relajarte y recargar baterías hará que te sientas más optimista y con más energía. Evita tareas complejas si es que puedes. Además, algunas amistades podrían ayudarte con cierto proyecto. Por otro lado, un evento formal podría poner fabulosas oportunidades en tu camino, haciendo que valga la pena que acudas incluso si tienes dudas.    
 
 ##Dinero
 
-Hay una interesante energía concentrándose alrededor de tu trabajo y dinero. Un aspecto favorable indica que ciertas instituciones como compañías de tarjetas de crédito o bancos están tratando de trabajar contigo para desarrollar un amplio plan de pago de deuda. Es un momento positivo para la recaudación de fondos también. Si estás tratando de deshacerte de tu deuda, este es un gran momento para intentarlo.
+Ahora tienes cierta actividad en tu sector de ganancias que con el tiempo va a cambiar radicalmente la forma en la que ganas dinero. Aunque parezca que algunas fuentes de ingresos están siendo alejadas de tu vida, a fin de cuentas, será para bien. Analiza tu sector de deuda para poder identificar lo que hay que pagar primero.

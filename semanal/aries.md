@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: aries 2016-07-25s 
-description: Hay tanto por explorar que hasta podrías ocuparte durante horas con toda la información y las oportunidades que te son reveladas. Aun así, sigue habiendo responsabilidades que tienes que atender, ya que te ayudarán a mantener los pies en el suelo. Durante los próximos días podría haber muchas razones por las que sientas tentación a abandonar lo mundano en búsqueda de lo misterioso y seductor. Sin embargo, mantén los ojos bien abiertos, ya que una opción más práctica y tal vez lucrativa podría aparecérsete.
+title: aries 01-08-2016 al 08-08-2016 
+description: Horóscopo semanal aries. Horoscopo 01-08-2016 al 08-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: 9XcdD0hi4nQ
+ video: YHrghtu6CKo
 
-ogimg: /images/aries_char.png
+ogimg: /images/zodiac/aries.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-25'
+ lastmod: '2016-08-01'
 ---
 
 
-Hay tanto por explorar que hasta podrías ocuparte durante horas con toda la información y las oportunidades que te son reveladas. Aun así, sigue habiendo responsabilidades que tienes que atender, ya que te ayudarán a mantener los pies en el suelo. Durante los próximos días podría haber muchas razones por las que sientas tentación a abandonar lo mundano en búsqueda de lo misterioso y seductor. Sin embargo, mantén los ojos bien abiertos, ya que una opción más práctica y tal vez lucrativa podría aparecérsete.
+Marte entra de nuevo a Sagitario y a tu sector monetario esta semana, lo que podría animarte a comportarte más proactivamente con respecto a ganar dinero extra o reorganizar tus asuntos financieros. La Luna Nueva en la parte superior de tu carta puede ser perfecta para dar el siguiente paso en un plan profesional o iniciar un nuevo trabajo. Tu vida social brilla aún más como Venus entrando a este sector de tu carta el viernes. Sin embargo, no tomes a la gente por lo que parezca ser durante el fin de semana, ya que las cosas podrían no ser lo que parecen.
 
 ##Dinero
 
-Hay una interesante energía concentrándose alrededor de tu trabajo y dinero. Un aspecto favorable indica que ciertas instituciones como compañías de tarjetas de crédito o bancos están tratando de trabajar contigo para desarrollar un amplio plan de pago de deuda. Es un momento positivo para la recaudación de fondos también. Si estás tratando de deshacerte de tu deuda, este es un gran momento para intentarlo.
+Esta semana la vida será cualquier cosa menos que aburrida con tu eléctrica personalidad ganándose a algunos, pero dejando a otros preguntándose de qué planeta viniste. Quieres salir a divertirte con amantes, amigos y familiares, pero el Universo quiere que te encargues del cambio en el frente de carrera. Si te está empezando a costar demasiado, piensa en cómo trabajar desde casa tiempo parcial para ahorrarte el dinero gastado en transportación.

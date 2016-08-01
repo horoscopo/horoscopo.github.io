@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 2016-07-25s 
-description: El lunes es el día para firmar acuerdos, colaborar en proyectos o iniciar una campaña publicitaria. ¡La Luna Nueva de esta semana puede ayudar a que las cosas tomen forma! En referente a fechas importantes o citas empresariales, tendrás que obligar a la gente a presentarse a una determinada hora y lugar o puede que no aparezcan. Es posible que tengas la oportunidad de aumentar considerablemente tus ingresos. Si es así, tómala. Los asuntos monetarios se vislumbran prometedores. Mientas más esfuerzo le inviertas al desarrollo de otras fuentes de ingresos, mejor.
+title: leo 01-08-2016 al 08-08-2016 
+description: Horóscopo semanal leo. Horoscopo 01-08-2016 al 08-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: 2vhm43IvCtY
+ video: FPtm0kti9G8
 
-ogimg: /images/leo_char.png
+ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-25'
+ lastmod: '2016-08-01'
 ---
 
 
-El lunes es el día para firmar acuerdos, colaborar en proyectos o iniciar una campaña publicitaria. ¡La Luna Nueva de esta semana puede ayudar a que las cosas tomen forma! En referente a fechas importantes o citas empresariales, tendrás que obligar a la gente a presentarse a una determinada hora y lugar o puede que no aparezcan. Es posible que tengas la oportunidad de aumentar considerablemente tus ingresos. Si es así, tómala. Los asuntos monetarios se vislumbran prometedores. Mientas más esfuerzo le inviertas al desarrollo de otras fuentes de ingresos, mejor.
+El Eclipse Solar de esta semana manifestándose en tu sector de comunicación podría poner en tu camino una interesante oportunidad. O bien, se te podría ofrecer la oportunidad de colaborar en un proyecto o cerrar un trato. Pero hay que ir con cuidado a menos que tengas completa seguridad de los hechos. Lo que se te está ofreciendo podría ser perfectamente válido y potencialmente lucrativo, pero no está exento de dificultades. Todo ello necesita ser investigado a fondo antes de que aceptes cualquier cosa. Además, asegúrate de leer las cláusulas y condiciones si hay dinero involucrado.
 
 ##Dinero
 
-Es una semana emocionante. Las invitaciones sociales y profesionales son la norma actual, por lo que acostúmbrate a hacer malabares con más de una al día. No esperes que tus sentimientos estén en silencio. Puedes tener problemas al tratar de equilibrar el trabajo y el hogar, o simplemente te encuentras harto/a de la misma vieja rutina. No es suficiente con simplemente ganar dinero ahora. Tienes que experimentar lo que éste puede hacer por ti en términos de tiempo.
+Normalmente tienes facilidad para generar e invertir dinero simplemente porque eres consciente de la seguridad como regla. Ahora, tu seguridad radica en la forma de vestir, hablar con los demás, y crear tu imagen. A partir de ahí, puedes llegar muy lejos. Puedes conocer a la gente adecuada, obtener la posición adecuada, y finalmente ganar lo que vales. Velar por tu seguridad no se queda atrás conforme creas la vida que siempre has querido.

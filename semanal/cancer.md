@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 2016-07-25s 
-description: Tus relaciones podrían ser muy gratificantes esta semana, sobre todo con la Luna Nueva en tu sector de conexiones y compañerismo poniendo nuevas posibilidades en tu camino. Este es sin duda un buen momento para negociar en lugar de tratar de forzar el ritmo o cambiar una situación para satisfacer tus necesidades. Ganarte la cooperación de los demás podría significar que puedes lograr mucho más de lo que podrías a solas. Si tienes amistades influyentes, pueden que tengan disposición a ayudarte.
+title: cancer 01-08-2016 al 08-08-2016 
+description: Horóscopo semanal cancer. Horoscopo 01-08-2016 al 08-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: nEYMTnFnSdM
+ video: e-yvbn9jkLs
 
-ogimg: /images/cancer_char.png
+ogimg: /images/zodiac/cancer.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-25'
+ lastmod: '2016-08-01'
 ---
 
 
-Tus relaciones podrían ser muy gratificantes esta semana, sobre todo con la Luna Nueva en tu sector de conexiones y compañerismo poniendo nuevas posibilidades en tu camino. Este es sin duda un buen momento para negociar en lugar de tratar de forzar el ritmo o cambiar una situación para satisfacer tus necesidades. Ganarte la cooperación de los demás podría significar que puedes lograr mucho más de lo que podrías a solas. Si tienes amistades influyentes, pueden que tengan disposición a ayudarte.
+Acostúmbrate a la luz de los reflectores, ya que podrías encontrarte siendo el centro de atención una vez que el Sol entre a la parte superior de tu carta a partir del viernes. La Luna Llena del martes se manifiesta en tu sector de comunicación, así que ten cuidado con lo que dices. Si te has sentido emocional, es posible que disgustes a alguien. Adoptar un enfoque discreto podría evitar esto. Además, la oportunidad de mejorar tus finanzas podría aparecerte.  
 
 ##Dinero
 
-Esta semana tienes aspectos que te dan más magnetismo. La parte difícil es que tu sector de profesión requiere de más atención ahora para que puedas hacer tu trabajo más sostenible, rentable y seguro. No dejes nada al azar por ahora. Construye lo que quieres ver.
+Tienes algo en que pensar con respecto a tu empleo. Debido a que ciertos aspectos afectan tu trabajo, ambiente de trabajo, jefe, y compañeros de trabajo, es el momento de prestar atención a cada una de estas áreas. Pregúntate si eres feliz en la situación en la que estás. ¿Quieres permanecer ahí o cambiar de trabajo?

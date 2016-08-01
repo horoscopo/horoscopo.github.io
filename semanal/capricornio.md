@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 2016-07-25s 
-description: Con el Sol en tu signo, tu vitalidad probablemente a aumentado y el mundo es tu ostra. Teniendo esto en cuenta, aprovecha esta oportunidad para poder avanzar con aquellos proyectos con los que has estado soñando recientemente. Si tienes que tomarte un descanso de tus responsabilidades para hacerlo, puede que te resulte útil hacerlo. El actual enlace con Urano y el hecho de que se torna retrógrado esta semana también podría verte con ganas de salirte de tu usual camino y buscar emocionantes experiencias.
+title: capricornio 01-08-2016 al 08-08-2016 
+description: Horóscopo semanal capricornio. Horoscopo 01-08-2016 al 08-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: 0KC8Bo7mmvM
+ video: ycarW5Ouxaw
 
-ogimg: /images/capricornio_char.png
+ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-25'
+ lastmod: '2016-08-01'
 ---
 
 
-Con el Sol en tu signo, tu vitalidad probablemente a aumentado y el mundo es tu ostra. Teniendo esto en cuenta, aprovecha esta oportunidad para poder avanzar con aquellos proyectos con los que has estado soñando recientemente. Si tienes que tomarte un descanso de tus responsabilidades para hacerlo, puede que te resulte útil hacerlo. El actual enlace con Urano y el hecho de que se torna retrógrado esta semana también podría verte con ganas de salirte de tu usual camino y buscar emocionantes experiencias.
+Un conflicto entre guardarte un secreto o permitir que todos se enteren de él podría surgir el martes. El enfoque en tu sector de comunicación sugiere que podría haber una manera de ceder para que puedas guardarte parte de la información si se sientes que sería lo más fácil. La inagotable energía de esta semana podría verte en busca de algo nuevo y estableciendo contactos laborales. Tu vida social podría conectarte con fascinantes personas al final de la semana.
 
 ##Dinero
 
-Para ti, esta semana es sobre el hecho de que parte de ti quiere sumergirse en la belleza y la creatividad, pero las fuerzas quieren que pases tiempo al cuidado de cualquier deuda que pueda haberse acumulado. De nada sirve entrar en pánico o reprenderse a sí mismo por un gasto excesivo. A partir de este punto en adelante, haz una promesa para cambiar la forma de hacer negocios en tu vida monetaria, puedes hacerlo.
+Como genio de creación de redes, bien sabes cómo hacerlo. Tus relaciones son importantes no sólo por motivos de negocios, sino también para desahogarte después del trabajo. Con un aspecto armonioso en tu sector social, estás haciendo más amigos e incluso sentando las bases para futuras colaboraciones. Has estado haciendo considerables acuerdos, así que no es mal momento para sacar la cuenta final. Cuidado con gastar excesivamente en tus amistades.

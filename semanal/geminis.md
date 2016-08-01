@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 2016-07-25s 
-description: Con una deliciosa mezcla de energías surgiendo en tu sector de viajes y aprendizaje, esta es una semana en la que podrías tener la tentación de reservar una corta escapada o incluso unas vacaciones más largas. El contexto astral actual revela que te beneficiarías enormemente de la oportunidad de ver tu situación actual desde una nueva perspectiva. Incluso una reunión familiar o fuera de la ciudad podría darte la oportunidad de dar un paso fuera de tu rutina y tal vez adoptar algunas ideas como resultado.
+title: geminis 01-08-2016 al 08-08-2016 
+description: Horóscopo semanal geminis. Horoscopo 01-08-2016 al 08-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: Fmjt5Xx87ks
+ video: -5PXvRvpIr0
 
-ogimg: /images/geminis_char.png
+ogimg: /images/zodiac/geminis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-07-25'
+ lastmod: '2016-08-01'
 ---
 
 
-Con una deliciosa mezcla de energías surgiendo en tu sector de viajes y aprendizaje, esta es una semana en la que podrías tener la tentación de reservar una corta escapada o incluso unas vacaciones más largas. El contexto astral actual revela que te beneficiarías enormemente de la oportunidad de ver tu situación actual desde una nueva perspectiva. Incluso una reunión familiar o fuera de la ciudad podría darte la oportunidad de dar un paso fuera de tu rutina y tal vez adoptar algunas ideas como resultado.
+La inspiración podría llegarte, pudiendo animarte a contratar a un asesor de vida o tomar un curso que pueda ayudarte a utilizar ciertas habilidades y capacidades. Eres una persona psíquica por naturaleza, por lo que si quieres desarrollar tal habilidad, este es definitivamente el momento de comenzar a hacerlo. Esta semana, el Sol entra a Acuario y a tu sector de recursos compartidos. Ten cuidado alrededor de los días de la manifestación de la Luna Llena  de este fin de semana, especialmente si piensas salir de compras. Podrías regresar a casa con más de lo que esperabas.
 
 ##Dinero
 
-Esta semana podría ser considerada como un cese al fuego. Los aspectos en tu casa de vidas pasadas, sueños y karma estresan la importancia del ser amable con los demás. ¿Recuerdas los modales que te enseño mamá? También recuerda que atraes más abejas con miel. Todo mejorará con el tiempo, ten paciencia.
+Esta semana, te rodeas de gente que quiere verte tener éxito, lo cual no es algo malo en lo absoluto. Con expansión y suerte en tu sector de trabajo combinado con una visión súbita y cambios, es el momento de lanzar la precaución al viento y conseguir que tu trabajo sea visto por los más altos en la cadena alimenticia. Es un momento de suerte para ti, en el que se te protege casi divinamente. Así que, dale una oportunidad y ve qué sale de nuevo en términos de dinero.
