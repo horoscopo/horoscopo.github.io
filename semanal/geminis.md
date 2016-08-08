@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 01-08-2016 al 08-08-2016 
-description: Horóscopo semanal geminis. Horoscopo 01-08-2016 al 08-08-2016. Horoscopos univision gratis
+title: geminis 08-08-2016 al 15-08-2016 
+description: Horóscopo semanal geminis. Horoscopo 08-08-2016 al 15-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: -5PXvRvpIr0
+ video: Nn_gCwBT1TQ
 
 ogimg: /images/zodiac/geminis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-01'
+ lastmod: '2016-08-08'
 ---
 
 
-La inspiración podría llegarte, pudiendo animarte a contratar a un asesor de vida o tomar un curso que pueda ayudarte a utilizar ciertas habilidades y capacidades. Eres una persona psíquica por naturaleza, por lo que si quieres desarrollar tal habilidad, este es definitivamente el momento de comenzar a hacerlo. Esta semana, el Sol entra a Acuario y a tu sector de recursos compartidos. Ten cuidado alrededor de los días de la manifestación de la Luna Llena  de este fin de semana, especialmente si piensas salir de compras. Podrías regresar a casa con más de lo que esperabas.
+Podrías sentir decepción por la forma en que cierta idea o proyecto creativo sufre retrasos. Con Mercurio y Júpiter retrógrados, pueden que ciertas cosas no estén sucediendo tan rápido como te gustaría. Sin embargo, tal parece que esta situación va a continuar durante algún tiempo, por lo que tendrás que verle el lado bueno. Revisa tus planes y analiza si pueden ser cambiados de manera positiva. En materia de romance, una conexión amorosa podría estar moviéndose más lento de lo esperado. Si es así, paciencia es la clave.
 
 ##Dinero
 
-Esta semana, te rodeas de gente que quiere verte tener éxito, lo cual no es algo malo en lo absoluto. Con expansión y suerte en tu sector de trabajo combinado con una visión súbita y cambios, es el momento de lanzar la precaución al viento y conseguir que tu trabajo sea visto por los más altos en la cadena alimenticia. Es un momento de suerte para ti, en el que se te protege casi divinamente. Así que, dale una oportunidad y ve qué sale de nuevo en términos de dinero.
+Tienes emoción de hacer nuevos y grandes contactos. Hagas lo que hagas para ganarte la vida, verás que es mucho más fácil el llevarse con amigos. El pedir ayuda a un mentor de confianza o simplemente presentarte a alguien que siempre ha sido una inspiración para ti es un gran uso de la energía actual. Algunos de estos mentores se pueden encontrar entre tus hijos, familiares y socios creativos.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 01-08-2016 al 08-08-2016 
-description: Horóscopo semanal virgo. Horoscopo 01-08-2016 al 08-08-2016. Horoscopos univision gratis
+title: virgo 08-08-2016 al 15-08-2016 
+description: Horóscopo semanal virgo. Horoscopo 08-08-2016 al 15-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: OvGd2f-zhxk
+ video: 9JQRUf5nj5o
 
 ogimg: /images/zodiac/virgo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-01'
+ lastmod: '2016-08-08'
 ---
 
 
-Tu sector de secretos, gastos compartidos e intimidad está bajo gran enfoque esta semana. Y con el Sol y Mercurio retrógrado aquí, este es definitivamente el momento de analizar y considerar cómo podrías lograr poner en marcha de nuevo tu vida íntima y monetaria. La Luna Nueva del viernes puede ser la oportunidad perfecta para empezar de nuevo, pero sería prudente que no te precipitaras a nada. Espera hasta que Mercurio comience a avanzar de nuevo el 22 de mayo. Mientras tanto, investiga tus opciones.
+Continuarás disfrutando de una alegre vida social, con oportunidades para romance, diversión y relajación. Una vez que el Sol entre a Géminis el viernes, vas a entrar a una fase de cuatro semanas en la que te beneficiarás de invertir parte de tu tiempo en ti. Utiliza las semanas por delante para hacerte una limpieza espiritual con el fin de liberar asuntos y a personas que ya no tienen ningún propósito en tu vida - y recargar tus pilas, por supuesto. Aún te divertirás, pero tal vez sea de una manera un poco más discreta.
 
 ##Dinero
 
-Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.
+Es probable que un aspecto armonioso te haga sentir más comodidad y respeto esta semana. La gente está tratando de comunicarse contigo acerca de todo tipo de cosas, incluyendo tu trabajo y el dinero que se te paga por hacerlo. Mira a tu sector de profesión en busca de inspiración e ideas nuevas.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: escorpio 01-08-2016 al 08-08-2016 
-description: Horóscopo semanal escorpio. Horoscopo 01-08-2016 al 08-08-2016. Horoscopos univision gratis
+title: escorpio 08-08-2016 al 15-08-2016 
+description: Horóscopo semanal escorpio. Horoscopo 08-08-2016 al 15-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: s_dZ0Z6rJec
+ video: i6JfnT-Svs8
 
 ogimg: /images/zodiac/escorpio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-01'
+ lastmod: '2016-08-08'
 ---
 
 
-La mejor manera de lidiar con la Luna Llena del martes podría ser al relajar tu horario desde inicio de semana. Si te tomas tiempo para descansar, puedes percatarte de que relajarte y recargar baterías hará que te sientas más optimista y con más energía. Evita tareas complejas si es que puedes. Además, algunas amistades podrían ayudarte con cierto proyecto. Por otro lado, un evento formal podría poner fabulosas oportunidades en tu camino, haciendo que valga la pena que acudas incluso si tienes dudas.    
+A pesar de que tu poder mental es fuerte ahora y durante las próximas semanas, podrías experimentar algunos contratiempos como Mercurio, el planeta que te rige, y Júpiter en tu signo retrocediendo. De hecho, puede que hasta llegues a  sentir como si fuera algo personal debido a que proyectos e ideas importantes sufren complicaciones y retrasos. Sin embargo, la Luna Nueva en Capricornio puede ser útil para hacer el trabajo preliminar asociado con un proyecto creativo. Una vez que Mercurio comience a avanzar de nuevo a finales de mes, será buen momento para un nuevo comienzo.   
 
 ##Dinero
 
-Ahora tienes cierta actividad en tu sector de ganancias que con el tiempo va a cambiar radicalmente la forma en la que ganas dinero. Aunque parezca que algunas fuentes de ingresos están siendo alejadas de tu vida, a fin de cuentas, será para bien. Analiza tu sector de deuda para poder identificar lo que hay que pagar primero.
+Normalmente eres capaz de resolver cualquier dilema de dinero con inteligencia y tenacidad, y esta semana no es diferente. Los aspectos indican el éxito a través de propiedad compartida y las inversiones, así como las herencias que provienen de fuentes inesperadas. Tu trabajo y la salud se ven afectados. Pon un esfuerzo adicional en los proyectos de trabajo que impresionen a los de arriba para que seas el próximo en la línea de promoción. Sin embargo, protégete contra el cansancio extremo.
