@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: aries 08-08-2016 al 15-08-2016 
-description: Horóscopo semanal aries. Horoscopo 08-08-2016 al 15-08-2016. Horoscopos univision gratis
+title: aries 15-08-2016 al 22-08-2016 
+description: Horóscopo semanal aries. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: DqO3xVRfmO0
+ video: z_uYUDfBxoA
 
 ogimg: /images/zodiac/aries.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-08'
+ lastmod: '2016-08-15'
 ---
 
 
-Con el 2016 ya en marcha, es posible que tengas que dar uno o dos pasos hacia atrás con el fin de poder avanzar. Esto se debe tanto a Mercurio como Júpiter entrando a su fase retrógrada esta semana, pudiendo descarrilar ciertos planes. Si sientes decepción debido a la falta de progreso, ¡no cedas ante ella! Esta puede ser una excelente oportunidad para revisar tus metas y objetivos para el año por venir. Si sientes menos entusiasmo acerca de una de tus ideas, este es el momento de hacer cambios.
+Brillarás siendo el centro de atención esta semana, sobre todo si exhibes tus productos y habilidades. Este no es buen momento para ocultar tu luz. Puede que te topes con una gran cantidad de trámites burocráticos al perseguir la realización de cierto plan, lo que puede causar obstáculos y frustración. Tendrás que tener determinación si es que vas a resolverlo, sobre todo si se demora hasta mitad de semana. La Luna Nueva puede ser una excelente oportunidad para iniciar un curso o viajar con el fin de ampliar tus horizontes.
 
 ##Dinero
 
-Para ti, esta semana es sobre la necesidad imperiosa de comunicar tu experiencia al escribir, enviar mensajes de texto, enviar correos electrónicos o para hablar. Todos estos esfuerzos pueden dar dinero en efectivo en el futuro. Pero esta semana, un fuerte campo de energía requiere que cuides de los problemas en el trabajo. Tu trabajo puede estar pasando por enormes cambios ahora. El luchar contra ellos, o decidir abandonar el barco no dará los resultados que buscas. Ve con los cambios lo mejor que puedas.
+Te muerdes las uñas para empezar a trabajar en un nuevo proyecto creativo. Esto pasará, y tu mente será estimulada en todo tipo de interesantes direcciones. Esto también afectará a los niños, parejas románticas, miembros de familia y diversión. Gastar tu dinero en efectivo en estas áreas afirma tu lugar en el mundo y todos los beneficios de tu arduo trabajo.

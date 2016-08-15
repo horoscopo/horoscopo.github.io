@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 08-08-2016 al 15-08-2016 
-description: Horóscopo semanal leo. Horoscopo 08-08-2016 al 15-08-2016. Horoscopos univision gratis
+title: leo 15-08-2016 al 22-08-2016 
+description: Horóscopo semanal leo. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: QR2fp15uPCY
+ video: 7djjFJopfWI
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-08'
+ lastmod: '2016-08-15'
 ---
 
 
-El manejo de tu tiempo podría ser de suma importancia esta semana, permitiéndote lograr mucho más de lo que normalmente finalizarías. Si encuentras esta forma de trabajar útil, es posible que desees mantener el mismo ritmo en el futuro. La Luna Llena del martes en tu sector de relaciones podría destacar una relación y sentimientos asociados a ella. Si tú y alguien más están lidiando con un problema, es ahora cuando tal podría llegar a un punto crítico. Evita hacer o decir cualquier cosa que pudieras lamentar más adelante.
+Aunque la próxima semana es optimista, aligera tu horario entre semana, cuando la Luna Llena pudiera llevar tus sentimientos a un punto crítico, acelerando así el ritmo que lleve al desarrollo de ciertos acontecimientos. Tampoco cedas a la tentación de actuar bajo impulso. Espera hasta que sientas más equilibrio y tranquilidad. En cuanto a dinero, las cosas parecen ir bien para ti, con varias oportunidades para mejorar tu ingreso. Puestos laborales podrían abrirse, siendo tu intuición la que te anime a aplicar para uno.
 
 ##Dinero
 
-Tienes algo en que pensar con respecto a tu empleo. Debido a que ciertos aspectos afectan tu trabajo, ambiente de trabajo, jefe, y compañeros de trabajo, es el momento de prestar atención a cada una de estas áreas. Pregúntate si eres feliz en la situación en la que estás. ¿Quieres permanecer ahí o cambiar de trabajo?
+Tienes una gran cantidad de aspectos astrológicos afectándote esta semana, muchos de los cuales afectan tu trabajo y dinero. En primer lugar, tus relaciones podrían ser menos que estables. Puede que tengas que contar con alguien más para ese préstamo que habías esperado. Los aspectos en tu sector de grandes instituciones como bancos e impuestos indican que debes tener cuidado con lo que dices y cómo lo dices.

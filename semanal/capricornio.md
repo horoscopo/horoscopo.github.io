@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 08-08-2016 al 15-08-2016 
-description: Horóscopo semanal capricornio. Horoscopo 08-08-2016 al 15-08-2016. Horoscopos univision gratis
+title: capricornio 15-08-2016 al 22-08-2016 
+description: Horóscopo semanal capricornio. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: SjFkoQNiVyQ
+ video: dxNZxFBL32o
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-08'
+ lastmod: '2016-08-15'
 ---
 
 
-La Luna Nueva en Leo del 2 de agosto le otorga al mes y al resto del año un comienzo optimista. Comenzarás a sentirte en tu elemento con Marte entrado a tu sector creativo, generando inspiradoras ideas y animándote a ponerlas en acción. Si hay un plan que ha estado en un segundo plano durante algún tiempo, podría tener un rápido progreso a partir de esta semana. Además, Venus entrando a tu sector financiero el viernes podría tentarte a darte algunos lujos.
+El continuo enfoque en tu sector de placer podría acelerar el desarrollo de un nuevo romance. Durante los días por venir podrías encontrarte tomando una decisión sobre si deberías acercarte o no a la persona. Tu sector de estilo de vida estará bajo enfoque a partir del viernes, animándote a hacer un análisis y considerar cómo podrías mejorar tu salud y vida en general. Ten cuidado este fin de semana, ya que la Luna Llena podría resultar agotadora. Aprovecha esta oportunidad para mimarte.
 
 ##Dinero
 
-Es una semana que requiere de mucha más búsqueda. Los aspectos son maravillosos para manifestar más dinero y aplicarlos a tus sueños, pero también puede oscurecer o nublar tu visión, a tu perjuicio. Incluso aunque pienses que no tienes tiempo para supervisar tu dinero, haz tiempo. Otros no son propensos a tener tus mejores intereses en el corazón. No es que haya malicia – simplemente no es su problema.
+Esta semana tienes una situación única en tus manos con respecto a tu deuda y el dinero de otras personas. Aunque parte de ti quiere progresar en el frente de pago de deuda, otra parte puede contenerte de hacer mucho. Una cosa es segura – tener una actitud proactiva y la aceptación de todas tus responsabilidades te obtendrá los mejores resultados a largo plazo.

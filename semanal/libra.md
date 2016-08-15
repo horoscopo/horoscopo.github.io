@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 08-08-2016 al 15-08-2016 
-description: Horóscopo semanal libra. Horoscopo 08-08-2016 al 15-08-2016. Horoscopos univision gratis
+title: libra 15-08-2016 al 22-08-2016 
+description: Horóscopo semanal libra. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: 7quhGYp27x4
+ video: rVaBogh_0WE
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-08'
+ lastmod: '2016-08-15'
 ---
 
 
-Este puede ser un momento emocionante dentro de tus relaciones, con nuevas ideas y oportunidades ayudándote a reforzar tus lazos. Habrá mucho de qué hablar durante los próximos días y algo de ello podría ser un poco incómodo; sobre todo a mitad de semana. Es muy importante que mantengas tu posición. Y no pienses que tienes que cooperar si no quieres hacerlo. Además, también tienes una gran oportunidad para aclarar las cosas y volver a escribir tu historia de amor con un interés romántico.  
+Apasionados sentimientos parecen estar presentes en la arena romántica. Puede que algunos juegos estén en acción aquí también, con la esperanza de conseguir una mayor influencia en un encuentro amoroso. Confía en tus instintos. Si algo no se siente bien, puede que sea mejor pasar a una mejor situación. Generalmente tienes mucha comprensión hacia los problemas de la gente, pero tampoco te excedas demasiado tratando de ayudar alguien. Disfruta de este fin de semana, bajo tus propios términos.
 
 ##Dinero
 
-Esta semana, los aspectos afectan tu sector de instituciones, vidas pasadas, y karma. Lo que pones en tu trabajo y dinero es lo que recibes, dice el Universo. Si te has negado a planificar para la jubilación o el ahorro en general, esta es la semana para escuchar a tu intuición y poner manos a la obra.
+Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.

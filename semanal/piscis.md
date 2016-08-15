@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 08-08-2016 al 15-08-2016 
-description: Horóscopo semanal piscis. Horoscopo 08-08-2016 al 15-08-2016. Horoscopos univision gratis
+title: piscis 15-08-2016 al 22-08-2016 
+description: Horóscopo semanal piscis. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: 5SlzEm-SSn4
+ video: ujArvspqQgU
 
 ogimg: /images/zodiac/piscis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-08'
+ lastmod: '2016-08-15'
 ---
 
 
-Mercurio en se une al Sol y a Venus en tu sector de recursos compartidos, lo que podría ponerte a buscar maneras de hacer que tu dinero te rinda más. Cuando el tema sea inversiones, podría ser aconsejable obtener consejos profesionales debido a que la presencia de Neptuno sugiere que una oferta podría no ser tan buena como aparenta ser. Desde mediados de semana, Marte, el astro de la acción, avanza en tu sector kármico, pudiendo permitirte darle cierre a un tema incómodo.
+La Luna Creciente del lunes podría hacerte dudar si deberías discutir un tema o guardar silencio al respecto. Sin embargo, para cuando llegue el miércoles, tu enfoque podía estar en otras cosas, como cuestiones financieras y compras. Las próximas semanas podrían animarte a buscar formas de aumentar tus ingresos y comercializar una habilidad o talento que has estado descuidando hasta ahora. También es un buen momento para formular un presupuesto y ahorrar para una emergencia. 
 
 ##Dinero
 
-Para  ti, ésta semana se trata de tomar ventaja de las circunstancias que se presenten en tu vida laboral. Tienes suerte, así que puedes encontrar la oportunidad de impresionar a alguien que tiene el poder de tomar decisiones financieras. Estas oportunidades afectarán positivamente tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personal y financiera, incorporarlas en tu vida cotidiana te hará más fuerte.
+Tienes emoción y ganas de hacer nuevos contactos. Cualquiera que sea tu profesión, encontrarás que es más fácil hacerla con amigos. El pedirle ayuda a un mentor o el simple hecho de presentarte ante alguien que te inspira, es el mejor uso que le puedes dar a tu energía. Algunos de esos mentores podrían ser tus hijos, familiares o socios.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: sagitario 08-08-2016 al 15-08-2016 
-description: Horóscopo semanal sagitario. Horoscopo 08-08-2016 al 15-08-2016. Horoscopos univision gratis
+title: sagitario 15-08-2016 al 22-08-2016 
+description: Horóscopo semanal sagitario. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 horoscopo:
  signo: sagitario
- video: DdCOpesahEQ
+ video: oaFupHPwJH0
 
 ogimg: /images/zodiac/sagitario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-08'
+ lastmod: '2016-08-15'
 ---
 
 
-Con el Sol en la parte superior de tu carta, te prepararás para brillar. Sin embargo, es posible que debas tomar en cuenta tus prioridades antes de intentar pedir un ascenso o lograr una meta. Ciertos asuntos en tu hogar podrían restarle valor a tus planes, y es posible que tengas que esforzarte para lograr que ciertos asuntos se solucionen. Cuidar de tu salud también podría valer la pena esta semana con Saturno entrando a su fase retrógrada. Tómate tu tiempo y disponte a asumir plena responsabilidad por tu bienestar.
+Buenas noticias podrían hacer toda la diferencia en tu situación familiar, especialmente si has estado esperando información o una decisión. ¡Tal parece que tienes razones para celebrar! También hay un poderoso enfoque en tu sector de comunicación, animándote a tener compasión y perdonar con respecto a heridas del pasado. Este no es un buen momento para guardar rencores. Contacta a esa persona y haz las paces. Incluso si cierto malentendido no fue tu culpa, dar el primer paso muestra madurez. Más adelante, un nuevo dispositivo podría ser la herramienta perfecta de ahorro de tiempo.
 
 ##Dinero
 
-Tus poderes psíquicos están a todo lo que da. Podrías hacer algo de dinero a través de la intuición pura. Estate en el lugar correcto en el momento adecuado para obtener información sobre una oportunidad nueva y excitante, como el tener cierto sentido sobre lo que pasará en la bolsa de valores o el soñar con la idea de un nuevo negocio. Tu creatividad también esta en un punto muy alto, sólo asegúrate de pagar cualquier deuda grande que tengas.
+De verdad tienes ganas de hacer algo esta semana, podría ser de  viajar, aprender algo nuevo, hacer un amigo en el extranjero, o aprender a hablar un nuevo idioma. Cada uno de éstos tendría algún efecto en tu vida monetaria futura, así que lo mejor sería investigar cuál sería más interesante. De todos modos puede que no seas capaz de resistir tus ganas, así que estarías dispuesto/a a sacrificar algunas facetas de tu vida social para poder hacerlo.

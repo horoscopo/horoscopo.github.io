@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 08-08-2016 al 15-08-2016 
-description: Horóscopo semanal acuario. Horoscopo 08-08-2016 al 15-08-2016. Horoscopos univision gratis
+title: acuario 15-08-2016 al 22-08-2016 
+description: Horóscopo semanal acuario. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: UMXLq10bFOU
+ video: XAxolMaFpKI
 
 ogimg: /images/zodiac/acuario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-08'
+ lastmod: '2016-08-15'
 ---
 
 
-¿Qué significa cuando el planeta de la buena fortuna se torna directo en tu sector psicológico? Podría ser que comiences a confiar en tu intuición y tengas más receptividad a sus mensajes y sutiles toques. El arduo esfuerzo que has puesto en cierta disciplina espiritual como la mediación, yoga o terapia podría comenzar a mostrar resultados. Difíciles situaciones en tu vida social también podrían mejorar considerablemente. En cuanto a finanzas se refiere, un aparente retraso podría venir con ventajas ocultas. ¡Mantente alerta!
+Si tienes decisiones importantes que tomar, puede que sea buena idea evitar hacerlo por el momento. Lo mismo ocurre con la firma de contratos o el cierre de ofertas. De hecho, comprometerte a cualquier cosa podría ser un poco riesgoso mientras Mercurio continúa retrocediendo en tu sector de léxico y pensamiento. Además, ciertos planes o proyectos podrían retrasarse. Sin embargo, tienes una muy buena oportunidad para estudiarlos con más detalle y detectar cualquier potencial defecto. En referente a tu vida social, alguien del pasado podría reaparecer.
 
 ##Dinero
 
-Por lo general te gusta hacer las cosas a tu manera, pero también sabes trabajar bien en equipo. Con un aspecto favorable afectando tu sector de relaciones serias y matrimoniales, puede que se trate de cosas personales ahora, o puede ser el momento para una fusión muy seria. Los planetas traen un equilibrio perfecto entre la acción y la creatividad. No es un mal momento para lanzar un nuevo negocio, así que si lo estabas pensando, ¡hazlo!
+Estás en una fase de redefinición ahora. Puede que la gente esté acostumbrada a que juegues cierto tipo de papel en sus vidas, lo cuál no ha sido lo mejor para tu vida financiera. No importa. Eres una persona magnética y hay mucha suerte en tu sector de comunicaciones. Podrías percatarte de que mientras más se te vea y se te escuche, puedes conseguir que tus necesidades financieras se cumplan.
