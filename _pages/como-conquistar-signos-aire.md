@@ -6,7 +6,7 @@ permalink: /como-conquistar-los-signos-de-aire/
 home: FALSE
 sidebar: true
 keywords: conquistar signo de aire, horoscopo, conquistar libra, conquistar acuario, conquistar géminis, amor, como conquistar un signo, zodiaco
-ogimg: /images/esoteric_180.jpg
+ogimg: /images/conquistar-aire.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

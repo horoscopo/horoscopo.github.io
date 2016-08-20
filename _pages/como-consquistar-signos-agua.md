@@ -6,7 +6,7 @@ permalink: /como-conquistar-los-signos-de-agua/
 home: FALSE
 sidebar: true
 keywords: conquistar signo de agua, horoscopo, conquistar piscis, conquistar escorpio, conquistar cancer, amor, como conquistar un signo, zodiaco
-ogimg: /images/esoteric_180.jpg
+ogimg: /images/conquistar-agua.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

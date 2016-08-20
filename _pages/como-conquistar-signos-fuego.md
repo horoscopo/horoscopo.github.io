@@ -6,7 +6,7 @@ permalink: /como-conquistar-los-signos-de-fuego/
 home: FALSE
 sidebar: true
 keywords: conquistar signo de fuego, horoscopo, conquistar aries, conquistar leo, conquistar sagitario, amor, como conquistar un signo, zodiaco
-ogimg: /images/esoteric_180.jpg
+ogimg: /images/conquistar-fuego.png
 sitemap:
  priority: 1
  changefreq: 'monthly'
@@ -26,7 +26,7 @@ poco más y utiliza estas herramientas para cautivar a esa persona**
 regida bajo este elemento.
 
 Signos fuego: Aries (21 de marzo al 20 de abril) 
-============================================================
+----------------------------------------------------------
 ![conquistar a Aries](http://horoscopo-del-dia.com/images/aries.png "Como conquistar a aries")
 
 
@@ -45,7 +45,7 @@ sus gustos o realiza una cena bajo la luz de la luna, donde el misterio
 y la intimidad sean los platos principales de la noche.
 
 Signos fuego: Leo (21 de julio al 21 de agosto) 
-============================================================
+----------------------------------------------------------
 ![conquistar a Leo](http://horoscopo-del-dia.com/images/leo.png "Como conquistar a Leo")
 
 Para los signos leo, la admiración hacia su persona, es clave para
@@ -61,7 +61,8 @@ Su cita ideal: para conquistarlo, llévalo a un parque de diversiones y
 rétalo a ver quien obtiene la mejor puntación. Muéstrate atento ante sus
 problemas y dispuesto ayudarlo.
 
-Signos fuego: Sagitario (23 de noviembre – 20 de diciembre) 
+Signos fuego: Sagitario (23 de noviembre – 20 de diciembre)
+----------------------------------------------------------
 ![conquistar a Sagitario](http://horoscopo-del-dia.com/images/sagitario.png "Como conquistar a Sagitario")
 
 Amantes del peligro y la aventura, el signo de sagitario busca intimidad
