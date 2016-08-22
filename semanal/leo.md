@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 15-08-2016 al 22-08-2016 
-description: Horóscopo semanal leo. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
+title: leo 22-08-2016 al 29-08-2016 
+description: Horóscopo semanal leo. Horoscopo 22-08-2016 al 29-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: 7djjFJopfWI
+ video: w7jFrButc7I
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-15'
+ lastmod: '2016-08-22'
 ---
 
 
-Aunque la próxima semana es optimista, aligera tu horario entre semana, cuando la Luna Llena pudiera llevar tus sentimientos a un punto crítico, acelerando así el ritmo que lleve al desarrollo de ciertos acontecimientos. Tampoco cedas a la tentación de actuar bajo impulso. Espera hasta que sientas más equilibrio y tranquilidad. En cuanto a dinero, las cosas parecen ir bien para ti, con varias oportunidades para mejorar tu ingreso. Puestos laborales podrían abrirse, siendo tu intuición la que te anime a aplicar para uno.
+El cambio está en el aire esta semana con Venus animándote a darte un par de mimos o una sesión de spa. También es una semana astrológicamente ocupada de otras maneras con Marte entrando a tu sector de placer para aumentar el ritmo de la escena social justo para la fabulosa celebración de Año Nuevo. También es una oportunidad para mostrar algunas de tus mejores habilidades - aquellas en las que sobresales pero que has mantenido escondidas. La entrada de Mercurio a tu sector monetario podría ayudarte a planear un poco mejor en esta área.
 
 ##Dinero
 
-Tienes una gran cantidad de aspectos astrológicos afectándote esta semana, muchos de los cuales afectan tu trabajo y dinero. En primer lugar, tus relaciones podrían ser menos que estables. Puede que tengas que contar con alguien más para ese préstamo que habías esperado. Los aspectos en tu sector de grandes instituciones como bancos e impuestos indican que debes tener cuidado con lo que dices y cómo lo dices.
+A veces puedes tener demasiada timidez para la confrontación. Es posible que ésta semana sientas aún más preocupación por llevarte bien con todos. Tu situación financiera florece positivamente. Con tanta energía concentrada allí, estás logrando todo tipo de avances en la obtención de ingresos, el pago de deudas,  y el ahorro. Ves que es más valioso compartir momentos de amor con tus hijos y miembros de tu familia que gastar.

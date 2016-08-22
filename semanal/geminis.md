@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 15-08-2016 al 22-08-2016 
-description: Horóscopo semanal geminis. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
+title: geminis 22-08-2016 al 29-08-2016 
+description: Horóscopo semanal geminis. Horoscopo 22-08-2016 al 29-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: HnmFKVLl2Ks
+ video: T3HBrsPaaVE
 
 ogimg: /images/zodiac/geminis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-15'
+ lastmod: '2016-08-22'
 ---
 
 
-Este podría ser un momento decisivo en relación a un deseo de ampliar tus horizontes. Si has estado investigando tus opciones, es posible que tomar una clase te interese como forma de mejorar tus posibilidades en el mercado laboral. Las aventuras de viaje podrían darte una nueva perspectiva de vida que afecte tus opciones y personalidad. Mercurio entra a Libra el Jueves, significando que podrías estar reflexionando sobre ciertos objetivos profesionales de una nueva y fresca manera, junto con lo que tienes que hacer para alcanzarlos. Sin embargo, ¡la Luna Llena del Sábado podría confundirte!
+El inicio de la semana podría ser excelente para una fiesta, celebración, o una reunión en tu lugar conforme la Luna Llena te invita a relajarte y pasar un buen rato. Además, el Sol entra a tu sector de espiritualidad e introspección ese mismo día, lo que sugiere que las siguientes cuatro semanas podrían marcar el comienzo de un tiempo de reflexión y meditación. De hecho, puede que tengas la oportunidad de darle cierre a un tema con el que has tenido dificultades durante algún tiempo.
 
 ##Dinero
 
-Tienes el apoyo del Universo esta semana, el cuál afecta a tu área asociada con los viajes al extranjero y la educación superior. Aunque pueda parecer contradictorio, es posible que tengas que mirar muy lejos de donde estás con el fin de ganar más dinero. El explorar mercados extranjeros para productos e inversiones extranjeras de ahorro ayudará a diversificar tu cartera y ganar más a largo plazo. Y aprender un nuevo idioma te ayudará con la comunicación.
+Cierta actividad en tu sector de herencias y de deuda esta semana muestra que es posible que estés en el extremo receptor de uno u otro. Uno, por supuesto, no puedes controlar. Pero si te percatas de que necesitas poner más energía en un plan de pago de deuda, el Universo puede ayudarte a lograr una mayor responsabilidad en esa área. Sonríe, las cosas están mejorando.

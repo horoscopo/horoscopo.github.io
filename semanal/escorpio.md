@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: escorpio 15-08-2016 al 22-08-2016 
-description: Horóscopo semanal escorpio. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
+title: escorpio 22-08-2016 al 29-08-2016 
+description: Horóscopo semanal escorpio. Horoscopo 22-08-2016 al 29-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: c2B21f3ouyM
+ video: nbTjjj256Rw
 
 ogimg: /images/zodiac/escorpio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-15'
+ lastmod: '2016-08-22'
 ---
 
 
-La semana por delante podría traerte tanto algunas optimistas sorpresas como también interrupciones, las que tendrás que tomar con calma. Además, trata de tener especial cuidado en tu vida social, ya que impulsivas palabras o acciones podrían perturbar una buena amistad o incluso un nuevo romance. Es mejor optar por tener tacto y diplomacia en lugar de total honestidad. La Luna Nueva en tu signo del viernes es perfecta para hacer cambios, particularmente en áreas donde es posible que hayas sentido retraso.
+Todos los sistemas en el frente hogareño comienzan a avanzar con Mercurio moviéndose hacia adelante a partir del lunes. ¡Comienza a trabajar en todos esos proyectos hogareños! Si has estado considerando comprar o vender propiedad, también recibes luz verde para hacerlo. Con el Sol ahora en tu sector de ocio y placer, es buen momento para quitar el pie del acelerador un poco, relajarte y disfrutar de la vida. Si tu vida amorosa requiere de un poco de brillo, es hora de planear un par de citas candentes. 
 
 ##Dinero
 
-Puede que estés pensando en grande esta semana. Puede que sientas tentación de buscar profesionales calificados para que te ayuden a poner tus finanzas en orden. O puede ser que finalmente hayas decidido el no vivir día al día. Utiliza tu inteligencia nativa y tu poder organizacional para lograr un plan que te asegure el tener lo que quieres lograr. Mantén un claro enfoque en alcanzar tus metas.
+Puede parecer que tu situación monetaria va hacia atrás en lugar de ir hacia adelante. Pareciera que algunas influencias te están restringiendo pero puede que sea solo una ilusión. Eleva tu nivel de madurez y responsabilidad,  esto podría finalmente determinar de una vez por todas, el significado del dinero en tu vida. ¿Sientes comodidad con tu situación actual, o crees necesitar más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 15-08-2016 al 22-08-2016 
-description: Horóscopo semanal capricornio. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
+title: capricornio 22-08-2016 al 29-08-2016 
+description: Horóscopo semanal capricornio. Horoscopo 22-08-2016 al 29-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: dxNZxFBL32o
+ video: RkGj50r9Z94
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-15'
+ lastmod: '2016-08-22'
 ---
 
 
-El continuo enfoque en tu sector de placer podría acelerar el desarrollo de un nuevo romance. Durante los días por venir podrías encontrarte tomando una decisión sobre si deberías acercarte o no a la persona. Tu sector de estilo de vida estará bajo enfoque a partir del viernes, animándote a hacer un análisis y considerar cómo podrías mejorar tu salud y vida en general. Ten cuidado este fin de semana, ya que la Luna Llena podría resultar agotadora. Aprovecha esta oportunidad para mimarte.
+Si alguien te ofrece la oportunidad de tomar un viaje improvisado, es posible que la tomes por el puro placer de hacer algo en el calor del momento. Tu agenda diaria parece bastante ocupada también, así que evita perderte de una oportunidad que podría funcionarte bien a largo plazo. Tus relaciones pueden ser propensas a contratiempos debido a que la Luna Llena del jueves sugiere que ciertos sentimientos podrían eliminar el sentido común. Evita reaccionar exageradamente en el calor del momento.
 
 ##Dinero
 
-Esta semana tienes una situación única en tus manos con respecto a tu deuda y el dinero de otras personas. Aunque parte de ti quiere progresar en el frente de pago de deuda, otra parte puede contenerte de hacer mucho. Una cosa es segura – tener una actitud proactiva y la aceptación de todas tus responsabilidades te obtendrá los mejores resultados a largo plazo.
+Esta semana puedes estar tratando de encontrar una manera de obtener tu rebanada de pastel y comértela también. Tu mente está trabajando horas extras para sacarte de cualquier obligación financiera que puedas tener, y el Universo te ayuda a llevar esto al siguiente nivel. Asegúrate de volver a revisar todas las cifras antes de firmar cualquier cosa.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 15-08-2016 al 22-08-2016 
-description: Horóscopo semanal libra. Horoscopo 15-08-2016 al 22-08-2016. Horoscopos univision gratis
+title: libra 22-08-2016 al 29-08-2016 
+description: Horóscopo semanal libra. Horoscopo 22-08-2016 al 29-08-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: rVaBogh_0WE
+ video: eUpN9imKnj4
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-15'
+ lastmod: '2016-08-22'
 ---
 
 
-Apasionados sentimientos parecen estar presentes en la arena romántica. Puede que algunos juegos estén en acción aquí también, con la esperanza de conseguir una mayor influencia en un encuentro amoroso. Confía en tus instintos. Si algo no se siente bien, puede que sea mejor pasar a una mejor situación. Generalmente tienes mucha comprensión hacia los problemas de la gente, pero tampoco te excedas demasiado tratando de ayudar alguien. Disfruta de este fin de semana, bajo tus propios términos.
+Esta parece una semana con un rápido ritmo en la que deberías esperar lo inesperado. Mientras que una positiva sorpresa podría mejorar tu estado de ánimo, ten cuidado cuando te encuentres en conversaciones importantes. Si terminas enojándote y molestándote en lugar de mantener la calma, podrías terminar perdiendo una amistad en el proceso. Y a pesar de que pueden solucionarlo, podría tomar tiempo para que puedan confiar el uno en el otro de nuevo. Sin embargo, moverte hacia nuevos círculos podría valer la pena.
 
 ##Dinero
 
-Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.
+Estás atrapado/a en un dilema. Hay acción en el frente interno y oportunidades en el frente de profesión. Sin embargo, te estás conduciendo por un estrecho sendero hacia tu situación de relación. Sólo puedes estar a solas por un determinado tiempo. Haz un esfuerzo por busca a personas que te puedan ser de ayuda.
