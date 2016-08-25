@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de agosto 2016
-description: Horóscopos del dia de hoy 24 de agosto 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de agosto 2016
+description: Horóscopos del dia de hoy 25 de agosto 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-¡Ha llegado la hora de enfocarte! De esa manera no perderás interés cuando la Luna en Aries forme trígono con el Sol. A diferencia de ayer por la noche, esta noche brilla  al traer la promesa de calidez. No sería inusual conseguir todo lo que tu pequeño corazón desea o añora mientras Venus conjunte a Júpiter.
+¡Feliz cumpleaños a Sagitario en los próximos 30 días! El tema de este año son nuevas oleadas de interés. La exploración dirige el curso de la vida hacia una nueva dirección. Los corazones son tan puros como el oro cuando la Luna aspecta a Júpiter esta noche. Una buena manera de comenzar una relación, ¿no te parece?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
