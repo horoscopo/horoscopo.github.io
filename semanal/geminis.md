@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 22-08-2016 al 29-08-2016 
-description: Horóscopo semanal geminis. Horoscopo 22-08-2016 al 29-08-2016. Horoscopos univision gratis
+title: geminis 29-08-2016 al 05-09-2016 
+description: Horóscopo semanal geminis. Horoscopo 29-08-2016 al 05-09-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: T3HBrsPaaVE
+ video: Rm4JRdhPw2o
 
 ogimg: /images/zodiac/geminis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-22'
+ lastmod: '2016-08-29'
 ---
 
 
-El inicio de la semana podría ser excelente para una fiesta, celebración, o una reunión en tu lugar conforme la Luna Llena te invita a relajarte y pasar un buen rato. Además, el Sol entra a tu sector de espiritualidad e introspección ese mismo día, lo que sugiere que las siguientes cuatro semanas podrían marcar el comienzo de un tiempo de reflexión y meditación. De hecho, puede que tengas la oportunidad de darle cierre a un tema con el que has tenido dificultades durante algún tiempo.
+El Sol está ahora en una sección dinámica de tu carta y te anima a seguir adelante con tus planes. Es posible incluso que te topes con una inesperada oportunidad que te lleve a hacer nuevos planes en el calor del momento. Si esto ocurre, es probable que involucre salirte de tu zona de confort. Puede que tengas que superar ciertos sentimientos de resistencia con el fin de tomar ventaja de ella. Las cosas realmente podrían funcionarte bien si lo haces.
 
 ##Dinero
 
-Cierta actividad en tu sector de herencias y de deuda esta semana muestra que es posible que estés en el extremo receptor de uno u otro. Uno, por supuesto, no puedes controlar. Pero si te percatas de que necesitas poner más energía en un plan de pago de deuda, el Universo puede ayudarte a lograr una mayor responsabilidad en esa área. Sonríe, las cosas están mejorando.
+Hay una interesante energía concentrándose alrededor de tu trabajo y dinero. Un aspecto favorable indica que ciertas instituciones como compañías de tarjetas de crédito o bancos están tratando de trabajar contigo para desarrollar un amplio plan de pago de deuda. Es un momento positivo para la recaudación de fondos también. Si estás tratando de deshacerte de tu deuda, este es un gran momento para intentarlo.

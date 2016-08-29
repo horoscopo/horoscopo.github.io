@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 22-08-2016 al 29-08-2016 
-description: Horóscopo semanal libra. Horoscopo 22-08-2016 al 29-08-2016. Horoscopos univision gratis
+title: libra 29-08-2016 al 05-09-2016 
+description: Horóscopo semanal libra. Horoscopo 29-08-2016 al 05-09-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: eUpN9imKnj4
+ video: OwhwWpZ6Io8
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-22'
+ lastmod: '2016-08-29'
 ---
 
 
-Esta parece una semana con un rápido ritmo en la que deberías esperar lo inesperado. Mientras que una positiva sorpresa podría mejorar tu estado de ánimo, ten cuidado cuando te encuentres en conversaciones importantes. Si terminas enojándote y molestándote en lugar de mantener la calma, podrías terminar perdiendo una amistad en el proceso. Y a pesar de que pueden solucionarlo, podría tomar tiempo para que puedan confiar el uno en el otro de nuevo. Sin embargo, moverte hacia nuevos círculos podría valer la pena.
+Trabajo, finanzas, así como progreso pueden ocupar tu mente. Sin embargo, si escuchas a amigos o supuestos expertos, puede que te preguntes si estás haciendo lo correcto. Lo mejor es escuchar lo que tu corazón te diga y avanzar acorde a ello. Las cosas podrían funcionar incluso mejor de lo esperado. Ten cuidado si estás a cargo de grandes cantidades de dinero, ya que Venus retrógrado podría causar retrasos imprevistos. Guarda bien tu papeleo y recibos en caso de que los necesites más adelante.
 
 ##Dinero
 
-Estás atrapado/a en un dilema. Hay acción en el frente interno y oportunidades en el frente de profesión. Sin embargo, te estás conduciendo por un estrecho sendero hacia tu situación de relación. Sólo puedes estar a solas por un determinado tiempo. Haz un esfuerzo por busca a personas que te puedan ser de ayuda.
+Tienes un montón de amor y suerte aproximándose a tu sector de relaciones, así como algunas sorpresas y un poco de inestabilidad. El Universo indica  un momento de cambio en tu hogar. Es posible que decidas trabajar por tu propia cuenta ahora si es que encuentras la manera de ganar la misma cantidad que te pagaba tu última posición. Se puede hacer.

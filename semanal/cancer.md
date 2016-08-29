@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 22-08-2016 al 29-08-2016 
-description: Horóscopo semanal cancer. Horoscopo 22-08-2016 al 29-08-2016. Horoscopos univision gratis
+title: cancer 29-08-2016 al 05-09-2016 
+description: Horóscopo semanal cancer. Horoscopo 29-08-2016 al 05-09-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: vUr3l613tH8
+ video: -TK67zZCDH0
 
 ogimg: /images/zodiac/cancer.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-22'
+ lastmod: '2016-08-29'
 ---
 
 
-El Sol en tu signo te invita a empezar a trabajar en ideas y proyectos que tienen un significado personal para ti. Es una oportunidad para expresar tu individualidad y obtener apoyo para los planes que no puedas manejar a solas. Además, colaborar con buenos amigos puede ser divertido, especialmente si están en la misma frecuencia que tú. Si recibes una intuitiva corazonada para invitar a salir a alguien o llamarle a un amigo el fin de semana, presta atención, ¡podría convenirte!
+Mientras más creativa y comunicativamente te comportes esta semana, más lograrás impresionar a los de arriba. Podrías percatarte de que puedes avanzar con un plan de una manera que es muy agradable. Con un poco de enfoque y encanto, los obstáculos pueden desvanecerse; despejando tu camino hacia el éxito. La Luna Llena del martes puede ser excelente para una fiesta u otra celebración, incluso si resulta ser demasiado bulliciosa. ¡No hay duda que será divertida!
 
 ##Dinero
 
-Tu sector del hogar está bajo escrutinio. Aunque la energía colocada aquí es bastante favorable y apacible, es posible que desees ver cuánto te estás gastando en tu casa cada mes. Si necesitas un ajuste, éste es el momento de hacerlo, no cuando estás bajo presión. Hay todo tipo de buenas noticias en el frente de trabajo. Una mejor situación está por venir si eres lo suficientemente paciente para dejar que suceda.
+Esta semana se trata de tu dinero y tus valores. Algunos aspectos te traerán suerte y ampliarán tus oportunidades, mientras que otros lograrán un cambio repentino, a veces violento. Si has estado tratando de eliminar ciertas ideas anticuadas con respecto al dinero (o la cantidad que se te permite tener), este es el momento de dejarlas ir. Tu comunicación anda en alto y eso vale la pena.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: escorpio 22-08-2016 al 29-08-2016 
-description: Horóscopo semanal escorpio. Horoscopo 22-08-2016 al 29-08-2016. Horoscopos univision gratis
+title: escorpio 29-08-2016 al 05-09-2016 
+description: Horóscopo semanal escorpio. Horoscopo 29-08-2016 al 05-09-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: nbTjjj256Rw
+ video: KIIXlVCUL20
 
 ogimg: /images/zodiac/escorpio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-22'
+ lastmod: '2016-08-29'
 ---
 
 
-Todos los sistemas en el frente hogareño comienzan a avanzar con Mercurio moviéndose hacia adelante a partir del lunes. ¡Comienza a trabajar en todos esos proyectos hogareños! Si has estado considerando comprar o vender propiedad, también recibes luz verde para hacerlo. Con el Sol ahora en tu sector de ocio y placer, es buen momento para quitar el pie del acelerador un poco, relajarte y disfrutar de la vida. Si tu vida amorosa requiere de un poco de brillo, es hora de planear un par de citas candentes. 
+Tu vida social se ve lista para rockear esta semana con mucha acción en este sector de tu carta. Mercurio se torna retrógrado el martes, por lo que es posible que viejos amigos o incluso viejos amantes regresen de nuevo a tu vida. Las próximas tres semanas podrían traer oportunidades para reuniones y así hacer las paces. El Eclipse Solar del jueves podría traer cambios con respecto a tu situación social actual. Pase lo que pase, es posible que hagas nuevas amistades que podrían catapultarte al éxito. 
 
 ##Dinero
 
-Puede parecer que tu situación monetaria va hacia atrás en lugar de ir hacia adelante. Pareciera que algunas influencias te están restringiendo pero puede que sea solo una ilusión. Eleva tu nivel de madurez y responsabilidad,  esto podría finalmente determinar de una vez por todas, el significado del dinero en tu vida. ¿Sientes comodidad con tu situación actual, o crees necesitar más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.
+Esta semana, el Universo está mejorando tu creatividad, pero también haciéndote trabajar un poco más duro de lo que debería. Al mismo tiempo, tus sectores de comunicación, instituciones, karma y vidas pasadas se ven afectados. No es el momento de enfadar a tu jefe o de demostrar llamativamente tu independencia. Trata de llevarte bien.
