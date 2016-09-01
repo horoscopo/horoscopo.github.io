@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Escorpio Agosto 2016 
+title: Escorpio Septiembre 2016 
 permalink: /horoscopo-mensual/escorpio/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2016, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-08-01'
+ lastmod: '2016-09-01'
 ---
 
- Un proyecto laboral nuevo podría mantener tu tiempo ocupado alrededor de la Luna Nueva del 2 de agosto. Ponte de pie, intervén y toma el control. Asume bien la autoridad y delega con estilo. La gente va a querer trabajar contigo. La Luna Llena del 18 de agosto ilumina tu vida hogareña y espacio personal. Piensa más audazmente y disponte a hacer exactamente lo que quieres sin importar lo que piensen los demás. El confort y el gusto personal son subjetivos y tú tienes derecho a expresarte y complacerte. Marte conjunta a Saturno el 24 de agosto. Reduce tu velocidad, mantén el control de una situación desafiante y obtén el respeto que te mereces.
+ El Eclipse Solar de Luna Nueva del 1 de septiembre vigoriza tu vida social y trae consigo una gran cantidad de personas fiesteras. Si no estás de humor para toda esa alegría, sé amable pero firme. Unas pocas palabras harán más de lo que ayudaría causar una escena. El Eclipse de Luna Llena del 16 de septiembre quiere que salgas a pasar un buen rato. Si no permites que las cosas se vuelvan demasiado intensas o te dejas dominar por demasiadas locas fantasías, te la pasarás increíblemente y tal vez hasta hagas algunos nuevos amigos. Por último, la Luna Nueva del 30 de septiembre podría traer consigo una serie de sueños psíquicos y revelar información afiliada a una estresante relación.

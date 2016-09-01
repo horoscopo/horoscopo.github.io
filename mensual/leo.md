@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Agosto 2016 
+title: Leo Septiembre 2016 
 permalink: /horoscopo-mensual/leo/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2016, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-08-01'
+ lastmod: '2016-09-01'
 ---
 
- La gloriosa Luna Nueva del 2 de agosto se manifiesta en tu signo. Tu característico encanto podría ser lo suficientemente deslumbrante como para sorprenderte a ti y cegar a una persona muy especial. Durante esos días, tienes todo el control de las chispas románticas que emanas, así que envíalas con calma. El amor es elegante y amable bajo la Luna Llena del 18 de agosto. Los buenos modales y el comportamiento refinado nunca han sido más dulces o mejores. Siéntete como la realeza que eres y permite que la gente vea tu lado cálido y generoso. La Luna se encontrará en Leo el 30 de agosto, el mismo día que Mercurio se torna retrógrado. Compórtate valiente y organizadamente y presta atención a los detalles de inmediato y este período retrógrado no te afectará.
+ Espera recibir invitaciones, regalos y otras muestras de amistad a principios de este mes. El Eclipse Solar de Luna Nueva el 1 de septiembre podría poner dinero y favores en tu camino. La mayor parte de esto es paga por favores que tú has hecho recientemente. Da las gracias y sigue haciendo lo mismo. La vida podría adoptar un tono confuso con la llegada del Eclipse de Luna Llena del 16 de septiembre. Tómate tu tiempo y analiza las situaciones bien y prácticamente. Realmente no habrá nada malo y podrás manejar cualquier cosa. Rodéate de tus hermanos y vecinos a finales de mes bajo la Luna Nueva del 30 de septiembre. Pasen tiempo juntos y apóyense mutuamente.
