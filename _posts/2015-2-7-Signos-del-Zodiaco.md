@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 31 de agosto 2016
-description: Horóscopos del dia de hoy 31 de agosto 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de septiembre 2016
+description: Horóscopos del dia de hoy 01 de septiembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Pocos hacen lo que los demás esperan bajo la Luna Llena en Acuario de hoy. La vida trae consigo rareza y sorpresa. En una nota positiva, Venus regresa a Leo, pudiendo darle a alguien una excusa para volver. Sin embargo, no podrán reanudar la relación donde la dejaron - ya que ambos cambiaron durante el intermedio.
+Hoy, los sentidos son agudos de manera decidida y responsable bajo la Luna en Capricornio. Por la tarde, el trígono con Venus añade toques de luz y dulzura. Esta noche, los halagos no le consiguen nada a uno más que problemas cuando el Sol y la Luna están un poco en desacuerdo y la gente simplemente no está de humor.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
