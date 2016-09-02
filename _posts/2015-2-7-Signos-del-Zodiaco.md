@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de septiembre 2016
-description: Horóscopos del dia de hoy 01 de septiembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de septiembre 2016
+description: Horóscopos del dia de hoy 02 de septiembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Hoy, los sentidos son agudos de manera decidida y responsable bajo la Luna en Capricornio. Por la tarde, el trígono con Venus añade toques de luz y dulzura. Esta noche, los halagos no le consiguen nada a uno más que problemas cuando el Sol y la Luna están un poco en desacuerdo y la gente simplemente no está de humor.  
+Es posible que el tiempo esté tomando una decisión por ti, en el buen sentido, cuando la Luna en Tauro aspecta tanto a Júpiter como a Saturno. A medida que la Luna se opone a Marte esta noche, si uno mira cuidadosamente, señales y símbolos acerca de la personalidad de alguien están por todas partes.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
