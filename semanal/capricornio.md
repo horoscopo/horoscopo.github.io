@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 29-08-2016 al 05-09-2016 
-description: Horóscopo semanal capricornio. Horoscopo 29-08-2016 al 05-09-2016. Horoscopos univision gratis
+title: capricornio 05-09-2016 al 12-09-2016 
+description: Horóscopo semanal capricornio. Horoscopo 05-09-2016 al 12-09-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: fPP679tS8fw
+ video: Haj-QH5_pgc
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-29'
+ lastmod: '2016-09-05'
 ---
 
 
-A pesar de que siempre es bueno actuar con inspiración, no actúes impulsivamente en referente a una idea financiera. En esta ocasión podías estar induciéndote a un error. Hay un delicioso trígono entre Venus en tu signo y Marte en Sagitario, sugiriendo que el romance es posible si te sales de tu zona de confort. Este fin de semana, mantén los ojos bien abiertos a una oportunidad que podría dar lugar a un nuevo y emocionante desarrollo profesional. Por último, se te podría obligar a posponer algunos planes de viaje.
+Ya sea que la idea de una amistad deba ser escuchada o deba ser evitada es algo que tendrás que investigar. El Eclipse Solar de esta semana manifestándose el martes podría destacar la oportunidad de relacionarte con una persona, un grupo o un proyecto interesante. Sin embargo, no bajes la guardia y te comprometas a nada sin antes hacer tu tarea - ya que hacerlo podría hacerte perder en el futuro. Mientras que pudieras sentirte descortés por cuestionar los motivos de los demás, es mejor prevenir que lamentar.
 
 ##Dinero
 
-Esta semana se trata de tu dinero y tus valores. Algunos aspectos te traerán suerte y ampliarán tus oportunidades, mientras que otros lograrán un cambio repentino, a veces violento. Si has estado tratando de eliminar ciertas ideas anticuadas con respecto al dinero (o la cantidad que se te permite tener), este es el momento de dejarlas ir. Tu comunicación anda en alto y eso vale la pena.
+Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.

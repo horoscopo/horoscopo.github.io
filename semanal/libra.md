@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 29-08-2016 al 05-09-2016 
-description: Horóscopo semanal libra. Horoscopo 29-08-2016 al 05-09-2016. Horoscopos univision gratis
+title: libra 05-09-2016 al 12-09-2016 
+description: Horóscopo semanal libra. Horoscopo 05-09-2016 al 12-09-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: OwhwWpZ6Io8
+ video: g3kz_EEYv2Y
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-08-29'
+ lastmod: '2016-09-05'
 ---
 
 
-Trabajo, finanzas, así como progreso pueden ocupar tu mente. Sin embargo, si escuchas a amigos o supuestos expertos, puede que te preguntes si estás haciendo lo correcto. Lo mejor es escuchar lo que tu corazón te diga y avanzar acorde a ello. Las cosas podrían funcionar incluso mejor de lo esperado. Ten cuidado si estás a cargo de grandes cantidades de dinero, ya que Venus retrógrado podría causar retrasos imprevistos. Guarda bien tu papeleo y recibos en caso de que los necesites más adelante.
+Trata de evitar un malentendido el lunes. Tú, tu pareja o una amistad podría terminar malentendiendo cierta situación. Tomarte tiempo para lidiar con esto debería aclarar todo en pocos días. Aunque tienes ansias de progresar en tu trabajo, no te apresures a tomar ninguna decisión, ya que cualquier nueva información que surja podría cambiarlo todo. A pesar de algunos contratiempos, la positiva actitud de alguien podría ayudarte a relajarte y sentirte mejor. Y no te preocupes por pedir exactamente lo que quieres, ¡ya que hay una muy buena posibilidad de que lo consigas!
 
 ##Dinero
 
-Tienes un montón de amor y suerte aproximándose a tu sector de relaciones, así como algunas sorpresas y un poco de inestabilidad. El Universo indica  un momento de cambio en tu hogar. Es posible que decidas trabajar por tu propia cuenta ahora si es que encuentras la manera de ganar la misma cantidad que te pagaba tu última posición. Se puede hacer.
+Puede que te sientas un poco más hablador/a de lo habitual esta semana. Por lo general no puedes esperar mucho a recibir historias de los demás, pero esta semana estás feliz de compartir tus experiencias también. Conforme toda esta comunicación ocurre a tu alrededor, asegúrate de pasar tiempo y gastar dinero en ti mismo/a. El tener cuidado personal extremo puede parecer demasiado lujoso ahora, pero es una gran inversión en tu futuro a largo plazo. Descansa, rejuvenece y di lo que piensas.
