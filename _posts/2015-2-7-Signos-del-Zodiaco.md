@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 04 de septiembre 2016
-description: Horóscopos del dia de hoy 04 de septiembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 05 de septiembre 2016
+description: Horóscopos del dia de hoy 05 de septiembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Mercurio a punto de salir de Libra te empuja a tomar decisiones y hacer elecciones finales. Las cosas serán vistas desde una manera completamente nueva a partir de mañana. Una imagen se ve diferente cuando le pones un nuevo marco. Relájate y disfruta de la tranquilidad creada por la Luna en Cáncer de esta noche mientras aspecta a Venus y Marte.
+La intuición tiene importancia esta mañana. Escúchala. También te ayuda elegir el momento adecuado, y no es éste. La cuadratura entre la Luna y Júpiter suma a todo esto tanto impaciencia, como el deseo de gratificación instantánea. Además, la Luna en Sagitario de esta noche convierte estos grandes deseos en una sobrecarga emocional.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
