@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 12-09-2016 al 19-09-2016 
-description: Horóscopo semanal cancer. Horoscopo 12-09-2016 al 19-09-2016. Horoscopos univision gratis
+title: cancer 19-09-2016 al 26-09-2016 
+description: Horóscopo semanal cancer. Horoscopo 19-09-2016 al 26-09-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: vdeF2WAgq10
+ video: 4Z-rw3t46DE
 
 ogimg: /images/zodiac/cancer.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-09-12'
+ lastmod: '2016-09-19'
 ---
 
 
-La semana por delante tiene un tono muy social, con una gran cantidad de oportunidades para conocer gente. Es posible que te involucres en ambos, eventos formales e informales. Tus conexiones con la gente deberían de estar cargadas con una gran cantidad de energía, animándote a intercambiar ideas empresariales, formular audaces planes o tal vez disfrutar de un poco de romance. En el frente hogareño, organizar una reunión puede ser divertido, en cuyo caso sería bueno que eligieras bien a tus invitados.
+Es esa época del año en que te beneficiarías de tomarte un año sabático. Aunque es muy probable que ciertas áreas clave de tu vida estén muy ocupadas, el cosmos te invita a pasar un tiempo a solas reflexionando, recargando baterías y cosechando puntos de vista que te puedan ayudar a tomar las decisiones correctas. Mercurio entra a Libra el Jueves, motivándote a expresar tus sentimientos y compartir ideas personales. Trata de despejar tu horario alrededor de la Luna Llena del Sábado con tal de hacer tiempo para un relajante masaje o tratamiento de spa.
 
 ##Dinero
 
-Algunos aspectos en tu sector de profesión te ponen de nuevo en contacto con la gente y los proyectos de tu pasado. Tienes tanta suerte en esta área de tu vida que te verás en la obligación de rechazar algunos de los trabajos que se te presenten. Evita el exceso de estrés mediante la adopción de algún tiempo de inactividad necesario. Un aspecto feliz muestra que tu lugar de trabajo está inundado de creatividad y buena voluntad. ¿Está detrás de todos estos cambios positivos? Sólo tú sabes a ciencia cierta.
+Esta semana se trata de un aspecto tenso que afecta a tu sector de deuda o el dinero de otros. Es imperativo que adoptes una nueva forma de ver la deuda en tu vida. Si puedes, págala por completo o comienza a usar tu tarjeta con menos frecuencia.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 12-09-2016 al 19-09-2016 
-description: Horóscopo semanal acuario. Horoscopo 12-09-2016 al 19-09-2016. Horoscopos univision gratis
+title: acuario 19-09-2016 al 26-09-2016 
+description: Horóscopo semanal acuario. Horoscopo 19-09-2016 al 26-09-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: c6w2XpvvgRk
+ video: SXyEe21xK80
 
 ogimg: /images/zodiac/acuario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-09-12'
+ lastmod: '2016-09-19'
 ---
 
 
-¿Sería prudente comprometerme con una relación? Esta pregunta podría estar en tu mente durante la próxima semana y podría ser destacada por el Eclipse Lunar del viernes. Si te encuentras cayendo en enamoramiento, podría ser mejor contenerte durante una semana para asegurarte de que sea real. Las relaciones iniciadas durante Eclipses a menudo pueden tomar un rumbo inesperado. No te apresures a llamar a esta persona “tu pareja” por el momento.
+Puede que tu cuerpo comience a sentirse más relajado y menos cansado cuando el Sol salga de tu sector profesional y entre a tu sector social. Has estado pasado por una fase bastante agitada recientemente, pero con el actual enfoque en el Signo de Tauro, es momento de relajarte y pasar un buen rato. En otra nota, no le prestes demasiada atención a la opinión de alguien, sobre todo si te parece un tanto negativa. Además, la Luna Llena del jueves podría verte teniendo mucha pasión hacia la persona que amas. 
 
 ##Dinero
 
-Estás saliendo con una banda completamente nueva, y esto no puede hacerle daño a tu vida monetaria. Esta gente nueva sabe acerca de la buena comida y el vino, pero también saben cómo traer una cantidad seria de dinero. Estudia sus formas y puedes aprender los trucos que llevan utilizando por años. Al mismo tiempo, crea un plan de ahorros viables y con planes de inversión. Es ahora o nunca.
+Para ti, esta semana es sobre la energía acumulada en el sector del hogar, lo que te ha llevado a pensar en términos completamente diferentes. Más vida en esta zona significa que puede que tengas que recibir a más clientes en tu oficina o hacer muchos nuevos negocios desde ese espacio. Del mismo modo, tu creatividad está en alza. Si sientes esa inclinación, un negocio desde casa como decoración o construcción podría ser de gran beneficio.

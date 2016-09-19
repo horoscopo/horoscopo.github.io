@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: escorpio 12-09-2016 al 19-09-2016 
-description: Horóscopo semanal escorpio. Horoscopo 12-09-2016 al 19-09-2016. Horoscopos univision gratis
+title: escorpio 19-09-2016 al 26-09-2016 
+description: Horóscopo semanal escorpio. Horoscopo 19-09-2016 al 26-09-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: or4Kvqts5L4
+ video: 5KTzrtFFRFQ
 
 ogimg: /images/zodiac/escorpio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-09-12'
+ lastmod: '2016-09-19'
 ---
 
 
-Mercurio se torna retrógrado en tu sector de finanzas personales el jueves, así que sé muy consciente al comprar cualquier objeto en línea o que sea costoso. Guarda bien tus recibos y otros detalles importantes por si acaso. Venus entra a Tauro el viernes, haciendo tu sector de dinero un área de interés. A pesar de que podrías tener tentación a gastar de más, sería mejor que optaras por pequeños lujos en vez de algo exorbitantemente caro. Trata de invertir más de tu dinero en lugar de gastarlo.
+Es posible que tengas que solucionar algunas cuestiones antes de poder realizar el tipo de progreso que imaginas. Cualquier conflicto con el que te topes podría ser debido a un deseo de mayor libertad. Sin embargo, si le has hecho una promesa a alguien, deberías tratar de mantenerla incluso si hacerlo te resulta un poco difícil o incómodo. Te sentirás mejor al haber hecho el esfuerzo y la persona en cuestión estará satisfecha. Puede que tu vida social comience a brillar una vez que Marte entre a Sagitario el sábado.
 
 ##Dinero
 
-Estás pensando en grande esta semana. Puede que tengas la tentación de ponerte en contacto con los profesionales calificados que te ayudarán a poner tus finanzas en orden o bien decidir de una vez por todas el dejar de vivir esperando cheque tras cheque. Usa tu inteligencia innata y el poder de organización para hablar a favor de lo que quieres, y haz un plan infalible para lograr que se haga. Mantén enfoque y claridad acerca de  lo que quieres lograr.
+Esta semana se trata de la zona de tu gráfico que rige el romance, la familia y la diversión, así que puedes estar pensando más en gastar tu dinero en estas zonas que en guardarlo. Eso está bien por ahora, pero el Universo tiende a provocar cambios bruscos e inoportunos a veces. Asegúrate de guardar algo de dinero para más adelante. Mientras tanto, una buena noticia viene en el sector de empleo. ¡Celébralo!

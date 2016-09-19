@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 12-09-2016 al 19-09-2016 
-description: Horóscopo semanal geminis. Horoscopo 12-09-2016 al 19-09-2016. Horoscopos univision gratis
+title: geminis 19-09-2016 al 26-09-2016 
+description: Horóscopo semanal geminis. Horoscopo 19-09-2016 al 26-09-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: dEkZa46RFX4
+ video: SWZhdnLavbk
 
 ogimg: /images/zodiac/geminis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-09-12'
+ lastmod: '2016-09-19'
 ---
 
 
-Tu trabajo y salud son temas importantes esta semana, por lo que, si tienes ganas de avanzar, puede que tengas que cambiar tu forma de pensar. La Luna Nueva del 7 de abril destaca una perspectiva que ya no te funciona y que podría activamente estarte impidiendo avanzar. Es hora de un cambio, uno que también podría ayudarte a revitalizar otras áreas de tu vida. El consejo que una amistad te otorgue durante el fin de semana podría ser el catalizador que te empuje a empezar de nuevo.
+La fiebre de salir a gastar podría apoderarse de ti al comienzo de la semana conforme la Luna Llena te anima a gastar en objetos que has codiciado desde hace algún tiempo. Puede que decidas que los quieres comprar sin importar qué suceda, y si es así, pues no te queda más que también disfrutar de ellos. La comunicación es la clave mientras el Sol se une a Venus en tu sector de conversación y pensamiento, lo que podría inspirarte a ponerte en contacto con miembros de tu familia o cualquier otra persona que no hayas visto en mucho tiempo.
 
 ##Dinero
 
-Un aspecto positivo le trae suerte a tu sector de educación, idiomas y espiritualidad. Últimamente has tenido tus ojos puestos en el horizonte, preguntándote cómo hacer que tus productos y servicios le lleguen a una audiencia internacional más amplia. Al considerar las medidas necesarias para ello, no descartes las ideas que parezcan locas. Puede que encuentres apoyo hasta en los lugares más extraños.
+Tu sector social está iluminado, trayendo gente nueva que es absolutamente necesario que conozcas y ayudándote a formar uniones estratégicas beneficiosas para tus planes profesionales a largo plazo. Sin embargo, es momento de que te vuelvas más responsable con las deudas de tu vida. El no pagar las facturas pendientes solo agrava las cosas, ya que los planetas a veces pueden traer pena y pérdida.
