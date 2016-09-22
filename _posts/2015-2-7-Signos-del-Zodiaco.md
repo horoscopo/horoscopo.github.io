@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de septiembre 2016
-description: Horóscopos del dia de hoy 21 de septiembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 22 de septiembre 2016
+description: Horóscopos del dia de hoy 22 de septiembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Halloween de sábado por la noche cierra el mes con broche de oro. Y con Mercurio encontrándose a punto de salir de Libra, ¡es difícil decidir a qué fiesta asistir! Ponte tu disfraz y sal a divertirte. Sin embargo, los solteros deber recordar que más allá de los disfraces, las apariencias realmente engañan. 
+Vive tu vida con mayor tranquilidad y disfruta de un día de agradables interacciones durante el trígono entre la Luna y Venus. Los pulsos se aceleran esta noche cuando la terrenal Luna forma trígono con la fuerte naturaleza de Marte. Muestra esa irresistible sonrisa, porque la magnética ley de atracción está en vigor.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
