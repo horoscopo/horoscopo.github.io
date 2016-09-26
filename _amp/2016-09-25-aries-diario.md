@@ -1,11 +1,8 @@
 ---
 layout: horoscopos
 title: aries hoy gratis 25 de septiembre del 2016 
-description: Horóscopo del dia de hoy para aries. Horoscopo de hoy 25 de septiembre del 2016. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-diario-gratis/aries/
+permalink: /horoscopo-diario-gratis/amp/aries/
 home: FALSE
-redirect_from: /p/aries.html
-keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo aries hoy, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2016, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
  video: aVcD36pAKV8
