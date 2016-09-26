@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 19-09-2016 al 26-09-2016 
-description: Horóscopo semanal leo. Horoscopo 19-09-2016 al 26-09-2016. Horoscopos univision gratis
+title: leo 26-09-2016 al 03-10-2016 
+description: Horóscopo semanal leo. Horoscopo 26-09-2016 al 03-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: phKfocly9L8
+ video: Gixt3xHqIn4
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-09-19'
+ lastmod: '2016-09-26'
 ---
 
 
-A medida que el Sol entra a tu sector de metas y ambiciones, las próximas cuatro semanas te traen la oportunidad de explorar maneras de lograr tus planes. De hecho, podrías sentir bastante ánimo por el potencial que ahora se te está mostrando. Sin embargo, no te dejes llevar por el ansia de avanzar demasiado desde mediados de la semana, ya que podrías enfrentarte a algunos retrasos. Este podría ser el mejor momento para hacer una investigación y así realizar los cambios necesarios. El sábado se muestra prometedor en más de un sentido.
+Te sentirás más en tu elemento como Marte entrando de nuevo a tu signo el martes. Tendrás energía para hacerle frente a cualquier desafío y es probable que sientas más confianza con el resultado. La Luna Nueva en tu sector de aventura podría ser un llamado a probar tu suerte en algo diferente o tal vez tomar un curso que te enseñe una nueva habilidad. Explorar nuevas opciones puede ser muy valioso en las próximas semanas. Además, tu encanto también puede ayudarte a salir adelante en tu carrera.
 
 ##Dinero
 
-Hay una nueva y emocionante energía en tu sector de relaciones. Si has tenido demasiada pasividad, el Universo te da un impulso para establecer límites. Si has tenido demasiada agresividad, te suaviza un poco. Esto es bueno para el dinero también, ya que todos cuentan con los otros para comprar y vender los bienes y servicios que proveen los demás. Comprométete y es posible que tengas más negocio del que necesitas tener.
+El dinero es una forma de encontrar la seguridad que buscas. Es probable que notes que ahora, tus lados masculino y femenino están bastante equilibrados. ¡Buen trabajo! Dado que esto afecta a tu empleo, salud, y actividades cotidianas, es probable que todo en el trabajo vaya bien. Les estás dando una buena  impresión a los jefes. Si quieres llevar esto un paso más allá, proponte para voluntariamente encabezar un proyecto especial. ¡Generarás una increíble opinión en tus jefes!

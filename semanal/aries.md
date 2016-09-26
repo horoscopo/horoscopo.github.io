@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: aries 19-09-2016 al 26-09-2016 
-description: Horóscopo semanal aries. Horoscopo 19-09-2016 al 26-09-2016. Horoscopos univision gratis
+title: aries 26-09-2016 al 03-10-2016 
+description: Horóscopo semanal aries. Horoscopo 26-09-2016 al 03-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: yBdD2ZJ0PKM
+ video: zpvPh6WlESM
 
 ogimg: /images/zodiac/aries.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-09-19'
+ lastmod: '2016-09-26'
 ---
 
 
-A medida que Mercurio, tu planeta personal, entra en su fase retrógrada en tu sector espiritual, puedes utilizar esta oportunidad para conectar con tu ser más profundamente. Este tránsito puede ser particularmente útil para llevar un diario de sueños. Mientras más familiaridad tengas con los mensajes de tu mente subconsciente, mejor comprenderás la orientación que pueden ofrecerte. Cuando Venus entre a este mismo sector al final de la semana, la oportunidad de ofrecer tu tiempo para ayudar a los demás podría ser muy gratificante.
+Con el Sol, Mercurio y Venus moviéndose a través de la parte superior de tu carta, este es un buen momento para analizar y explorar nuevas posibilidades asociadas con tu carrera y principales ambiciones. Con Luna Nueva del viernes en este sector, te situarás bien para empezar un nuevo trabajo o contrato, o disfrutar de ser el centro de atención y sacarle el máximo provecho a ello. Ten un poco de cuidado en relación a tus finanzas, ya que la alineación actual podría llevarte a comprar artículos que, si bien deseas obtener, podrían no ser necesarios.
 
 ##Dinero
 
-Es posible que hayas estado tratando de encontrar la manera de recaudar dinero para un nuevo negocio, y ahora podría ser posible. Este es un buen momento para hacer cualquier pago final que tengas que hacer al mismo tiempo que buscas maneras de conectar con posibles inversionistas. Los esfuerzos de recaudación de fondos deben incluir un componente de marketing en línea.
+Le estás dando nueva vida a algo por lo que perdiste interés hace mucho tiempo, gran parte de tu energía se está moviendo en esta dirección. De hecho, puedes hasta disfrutar de un golpe de suerte que lo haga suceder esta vez y de verdad. Asegúrate de que tu flujo de efectivo se mantenga estable al gastarlo proporcionalmente. Podrías estar viendo tu situación financiera a través de lentes de color de rosa.
