@@ -4,8 +4,7 @@
 <html amp lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ title | xml_escape }}</title>
-    <link rel="canonical" href="{{ site.url }}{{ permalink }}">
+    <title>{{ page.title | xml_escape }}</title>
     <link rel="canonical" href="{{ site.url }}horoscopo-diario-gratis/{{ page.horoscopo.signo }}/" />
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
@@ -14,16 +13,16 @@
     {% include schema.html %}
   </head>
   <body>
-     <h1>{{ title }}</h1>
+     <h1>{{ page.title }}</h1>
 
-     <amp-img src="{{ site.url }}images/zodiac/{{ horoscopo.signo }}.jpg" width=527 height=193 layout="responsive"></amp-img>
+     <amp-img src="{{ site.url }}images/zodiac/{{ page.horoscopo.signo }}.jpg" width=527 height=193 layout="responsive"></amp-img>
       
-      {% if horoscopo.video %}
+      {% if page.horoscopo.video %}
       <amp-iframe width=300 height=300
          sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
          layout="responsive"
          frameborder="0"
-         src="http://www.youtube.com/embed/{{ horoscopo.video }}">
+         src="http://www.youtube.com/embed/{{ page.horoscopo.video }}">
       </amp-iframe>  
 
       {% endif %}
@@ -31,7 +30,7 @@
       {{ content }}
 
       {% if ogimg %}
-      <amp-img src="{{ site.url }}{{ ogimg }}" width=527 height=193 layout="responsive"></amp-img>
+      <amp-img src="{{ site.url }}{{ page.ogimg }}" width=527 height=193 layout="responsive"></amp-img>
       {% endif %}                  
 
    
