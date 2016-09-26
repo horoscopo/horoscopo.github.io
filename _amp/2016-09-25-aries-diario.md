@@ -1,5 +1,5 @@
 ---
-layout: horoscopos
+layout: amp
 title: aries hoy gratis 25 de septiembre del 2016 
 permalink: /horoscopo-diario-gratis/amp/aries/
 home: FALSE
