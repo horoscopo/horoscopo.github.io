@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de septiembre 2016
-description: Horóscopos del dia de hoy 27 de septiembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de septiembre 2016
+description: Horóscopos del dia de hoy 28 de septiembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-La mutable cuadratura entre la Luna y Neptuno de hoy hace que las personas estén muy distraídas en el trabajo. Esto da paso a la Luna en Sagitario de esta noche, cuando puede que consigas lo que quieres para luego darte cuenta de que no lo deseas. ¡Mantenlo en la mente! Tendrás una mejor idea de lo que es un poco más tarde.
+Todos ponen sus propias agendas primero bajo la Luna en Aries. La salida es tomar caminos separados y reunirse más tarde en lugar de discutir sobre ello. Esta noche, el Eclipse Lunar borra los recuerdos de aquello de lo que la gente huye o hacia dónde se dirige. ¡Deja de vivir en el pasado y permítete tener nuevos intereses y desafíos!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
