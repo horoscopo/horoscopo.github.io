@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Aries Septiembre 2016 
+title: Aries Octubre 2016 
 permalink: /horoscopo-mensual/aries/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2016, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-09-01'
+ lastmod: '2016-10-01'
 ---
 
- La primera semana del mes podría estar repleta de los detalles y aquellas distracciones que has estado evitando. El Eclipse Solar de Luna Nueva el 1 de septiembre te muestra lo fácil que todas ellas en realidad son. Además, un ser querido te admirará y deseará aún más. El Eclipse de Luna Llena del 16 de septiembre enciende tu instinto e intuición. Ve a través de la cortina de humo de alguien para entender por qué está ahí. También detecta una oportunidad para salir adelante en la vida. Sé paciente, prepárate y permite que las cosas se desarrollen. El amor entra a tu mundo bajo la Luna Nueva del 30 de septiembre. Siente tu gran fortuna y prepárate para mostrar tu sorpresiva sonrisa.
+ Resuelve diferencias diplomáticamente en vez de acudir a la fuerza bruta de tu voluntad en los días alrededor del 5 de octubre. Incluso si tienes razón y ganas, la discordia volverá. El romance le da brillo a tu mundo bajo la Luna Llena del 15 de octubre. Puede que tu sangre se sienta ardiente y lista para un gran cambio, pero no te apresures tanto como para ahuyentar a alguien que no sólo es brillante y generoso, pero a quien realmente le importas. La Luna Nueva del 30 de octubre enciende tus habilidades para resolver problemas. Tu instinto será tan útil como tu lógica, por lo que no pongas toda tu energía en pensar de manera racional. Sabrás cómo saltarle a una solución una vez que la detectes.

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Libra Septiembre 2016 
+title: Libra Octubre 2016 
 permalink: /horoscopo-mensual/libra/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2016, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-09-01'
+ lastmod: '2016-10-01'
 ---
 
- La Luna Nueva y el Eclipse Solar del 1 de septiembre te otorgan secretos súper poderes de encanto y persuasión. Con mucho tacto, endereza una cuestión financiera o algún otro problema financiero que te ha estado molestando. Trata de verte de lo mejor sin importar lo que hagas. A mediados de mes, préstale más atención a tu salud. Si no te sientes bien, ve al doctor. Come bien y descansa. Abstente de hacer esfuerzos heroicos las 24 horas del día siete días a la semana, sobre todo socialmente. La Luna Nueva del 30 de septiembre es afortunada en un trillón de maneras inesperadas. Mantén tus expectativas bajas y recibirás una grata sorpresa. Controla el impulso de mostrar excesiva generosidad y practica el arte de saber recibir amablemente.
+ Las interacciones sociales aumentan a medida que Mercurio entra a Libra el 7 de octubre. Podrías empezar a recibir una gran cantidad de invitaciones más interesantes. Tu vida amorosa podría parecerse a una canción de rock bajo la Luna Llena del 15 de octubre. Cuando puede que también desees emoción y distracción. Haz que sea entretenido y date crédito por ello. Eres una persona divertida, después de todo. El amor y el dinero van de la mano para ti bajo la Luna Nueva del 30 de octubre. Un loco comentario por parte de un amigo o un ser querido podría desatar una línea de pensamiento que te conduzca a un lucrativo pasatiempo o pequeño servicio que te gustaría proporcionar a pequeña escala.
