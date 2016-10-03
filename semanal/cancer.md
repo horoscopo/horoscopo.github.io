@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 26-09-2016 al 03-10-2016 
-description: Horóscopo semanal cancer. Horoscopo 26-09-2016 al 03-10-2016. Horoscopos univision gratis
+title: cancer 03-10-2016 al 10-10-2016 
+description: Horóscopo semanal cancer. Horoscopo 03-10-2016 al 10-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: 5XkwyzBcADQ
+ video: 2F66gRO_Y-8
 
 ogimg: /images/zodiac/cancer.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-09-26'
+ lastmod: '2016-10-03'
 ---
 
 
-Un toque de realismo no te vendría mal esta semana, sobre todo cuando se trata de crear un plan de negocios o discutir un tema clave. Si bien es bueno tener una visión que todo lo abarca, podrás tener más éxito si puedes demostrar que has hecho tu tarea y tienes una buena comprensión de los hechos. Mientras tanto, con Marte avanzando desde mitad de semana, ciertas cuestiones monetarias podrían empezar a mejorar. Podrías incluso percatarte de que tu flujo de efectivo mejora y también que ciertas relaciones se vuelven más estables como resultado.
+No hay duda de que tu tiempo está muy ocupado ahora y lo seguirá estando en el futuro previsible. Sin embargo, puede que cedas a la tentación de saltarte horas de arduo trabajo si alguien te invita a una divertida actividad u otra forma de distracción, sobre todo el martes. El miércoles se vislumbra un día intenso debido al vínculo Venus/Plutón llevándote a negociar para mejorar tu situación actual. Sin embargo, no demuestres tener demasiada ansia, ya que hacerlo podría ser contraproducente. La Luna Llena del jueves podría causarte problemas con una amistad a menos que tengas cuidado y evites reaccionar exageradamente.
 
 ##Dinero
 
-Esta semana se le puede considerar un cese al fuego de todo tipo. Los aspectos en tu casa de vidas pasadas, sueños y karma significan que es extremadamente importante el ser amable y cortés con los demás. Recuerda los modales que te enseñó tu madre. Así como ella dijo, una cucharada de azúcar ayuda a mejorar incluso hasta las noticias financieras más desagradables. Todo mejorará en poco tiempo. Hasta entonces, lucha por tener paciencia.
+Te encanta hacer que tu lugar de trabajo sea tan cómodo como tu casa, y esto podría implicar hacer que los demás en el trabajo se sientan como en familia. Con un aspecto armonioso ahora, es muy probable que lleves esto un paso más allá debido a que afecta la zona de tu gráfico que rige los niños, familia, romance y diversión. Suena como si organizar un evento para la empresa no fuera una mala idea para mantener la moral alta. Organizar juegos para entretener a todos será más que bueno.

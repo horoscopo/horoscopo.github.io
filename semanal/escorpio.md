@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: escorpio 26-09-2016 al 03-10-2016 
-description: Horóscopo semanal escorpio. Horoscopo 26-09-2016 al 03-10-2016. Horoscopos univision gratis
+title: escorpio 03-10-2016 al 10-10-2016 
+description: Horóscopo semanal escorpio. Horoscopo 03-10-2016 al 10-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: 5xlq5l3BzR0
+ video: hvcQtGNTgk8
 
 ogimg: /images/zodiac/escorpio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-09-26'
+ lastmod: '2016-10-03'
 ---
 
 
-Definitivamente deberías considerar tomarte un descanso y hacer algo que te guste. Y si crees que tu tiempo está demasiado ocupado para el romance, es posible que tengas que reconsiderar esa opinión. El muy optimista aspecto del martes podría deslumbrarte con un encuentro especial. ¿Llegará a algo? ¡Eso depende de ti! Sin embargo, debido a que Marte retrocede en tu signo a partir del domingo, sería mejor no precipitarte a nada. Toma cada día como venga y ver cómo se desarrolla la relación.
+¿Deberías o no gastar en algo? Este podría ser tu dilema al principio de semana, cuando podrías sentir ganas de darte gusto con un par de experiencias o pequeños lujos que mejoren tu estado de ánimo. Estarás en tu elemento una vez que Venus y Mercurio entren a Leo y a tu sector de comunicación. Esta es tu oportunidad para compartir tus planes con aquellos que pudieran ser capaces de ayudarte a llevarlos a cabo. Es, también, una oportunidad para formular soluciones creativas hacia algunos de tus problemas actuales.
 
 ##Dinero
 
-Puede parecer que tu situación monetaria va hacia atrás en lugar de ir hacia adelante. Pareciera que algunas influencias te están restringiendo pero puede que sea solo una ilusión. Eleva tu nivel de madurez y responsabilidad,  esto podría finalmente determinar de una vez por todas, el significado del dinero en tu vida. ¿Sientes comodidad con tu situación actual, o crees necesitar más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.
+Te encuentras ahora en una situación interesante con cierta actividad en tu sector de vidas pasadas, sueños e instituciones. Puede que sientas que tu vida laboral no está haciendo todo lo posible por ti. Puede que tengas más suerte trabajando para una entidad mayor. Gracias a tu sector de grupos, tus amistades te conectarán a una nueva compañía con más capacidad de pagarte lo que vales. Sueña en grande.

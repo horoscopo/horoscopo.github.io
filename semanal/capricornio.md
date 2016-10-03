@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 26-09-2016 al 03-10-2016 
-description: Horóscopo semanal capricornio. Horoscopo 26-09-2016 al 03-10-2016. Horoscopos univision gratis
+title: capricornio 03-10-2016 al 10-10-2016 
+description: Horóscopo semanal capricornio. Horoscopo 03-10-2016 al 10-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: 5RODGf-sYdk
+ video: pZDGH-p6kvc
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-09-26'
+ lastmod: '2016-10-03'
 ---
 
 
-Prepárate para una semana interesante en la que tendrás el deseo de ampliar tus horizontes. Lo único que podría impedírtelo sería cualquier duda que pudieras estar albergando. Alguien podría intervenir como tutor, animándote a expandir tu zona de confort y probar. La Luna Nueva del lunes es el momento perfecto para anotar tus objetivos para ésta y la próxima semana y emocionarte enormemente para alcanzarlos. ¡Todo lo que se necesita es que des el primer paso!
+Si te has sentido un tanto impotente para cambiar una situación determinada, los cambios planetarios de esta semana podrían ayudarte a reescribir la historia. Tal vez te hayas estado culpando o sintiendo remordimiento por la forma en que ciertos eventos hayan sucedido, pero podrías darte cuenta de que no hay necesidad de hacer esto. La clave podría consistir en asumir la responsabilidad de lo que puedes controlar y deshacerte del resto. Una vez que Venus entre a Cáncer el viernes, te vendría muy bien consentirte tanto a ti como a tu cuerpo. 
 
 ##Dinero
 
-Esta semana, el Universo es de apoyo. Tu mente está enfocada en poner los planes de ahorro e inversión en su lugar, sobre todo para tu familia. Quieres llegar a ser más responsables en este ámbito y reducir los gastos impulsivos. Piensa en cómo tus necesidades son atendidas al trabajar para una gran institución. ¿Tal vez es hora de pensar en cómo iniciar tu propio negocio?
+Es una semana un poco difícil. Probablemente quieres tomar medidas, sobre todo cuando se trata de gastar en tu casa. Sin embargo, los aspectos restringen tal para tu disgusto. El hacer las cosas de la manera más tradicional o conservadora trae los mejores resultados cuando se trata de la línea de fondo. Es probable que el presionar demasiado fuerte para lo que quieres sea rechazado por las energías más fuertes.
