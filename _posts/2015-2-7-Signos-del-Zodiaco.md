@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 09 de octubre 2016
-description: Horóscopos del dia de hoy 09 de octubre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 10 de octubre 2016
+description: Horóscopos del dia de hoy 10 de octubre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Es un poco más fácil impresionar a otros con tu experiencia ahora que Marte está en Capricornio. Seguro que no puedes esperar a empezar a cosechar las recompensas de varias semanas de trabajo. El romance es una apuesta segura cuando la Luna en Virgo forma trígono con Marte esta noche. Parejas, saboreen los momentos tranquilos que pasan juntos.
+Las personas son persuadidas fácilmente. De hecho, podrías inclusive regresar con cierta persona y volver a pedir algo mientras Mercurio retrógrado aspecte a Plutón. Podrías recibir un sí a la primera. Esta noche, las conversaciones desatan incómodos silencios debido a Venus a punto de cambiar de signo. Podría ser que no haya nada más qué decir.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
