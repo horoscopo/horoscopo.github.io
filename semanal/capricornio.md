@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 03-10-2016 al 10-10-2016 
-description: Horóscopo semanal capricornio. Horoscopo 03-10-2016 al 10-10-2016. Horoscopos univision gratis
+title: capricornio 10-10-2016 al 17-10-2016 
+description: Horóscopo semanal capricornio. Horoscopo 10-10-2016 al 17-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: pZDGH-p6kvc
+ video: GlzxaLvcLxA
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-03'
+ lastmod: '2016-10-10'
 ---
 
 
-Si te has sentido un tanto impotente para cambiar una situación determinada, los cambios planetarios de esta semana podrían ayudarte a reescribir la historia. Tal vez te hayas estado culpando o sintiendo remordimiento por la forma en que ciertos eventos hayan sucedido, pero podrías darte cuenta de que no hay necesidad de hacer esto. La clave podría consistir en asumir la responsabilidad de lo que puedes controlar y deshacerte del resto. Una vez que Venus entre a Cáncer el viernes, te vendría muy bien consentirte tanto a ti como a tu cuerpo. 
+Una preciosa conexión entre Venus y Marte sugiere una interacción positiva con un amigo o tal vez un nuevo romance. Podrías sentir atracción hacia alguien simplemente porque la persona es interesante y tiene muchas historias que compartir. Si estás considerando pedir un aumento o hacerle frente a cuestiones relacionadas con el pago de un proyecto, espera hasta la próxima semana. Analiza los detalles, pero también tienta que tan firme es la tierra. Otra (posiblemente mejor) oferta podría llegarte.
 
 ##Dinero
 
-Es una semana un poco difícil. Probablemente quieres tomar medidas, sobre todo cuando se trata de gastar en tu casa. Sin embargo, los aspectos restringen tal para tu disgusto. El hacer las cosas de la manera más tradicional o conservadora trae los mejores resultados cuando se trata de la línea de fondo. Es probable que el presionar demasiado fuerte para lo que quieres sea rechazado por las energías más fuertes.
+Hay algunos problemas en tu hogar, en los que te estás muriendo por gastar. Desde querer un espacio más amplio a comprometerte en hacer mejoras, es crucial determinar de antemano lo que puedes gastarte. Querrás entretener e impresionar a aquellos con quienes haces negocios. No te preocupes. Todo viene a su debido tiempo. Primero trabaja y luego recoge los frutos.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 03-10-2016 al 10-10-2016 
-description: Horóscopo semanal piscis. Horoscopo 03-10-2016 al 10-10-2016. Horoscopos univision gratis
+title: piscis 10-10-2016 al 17-10-2016 
+description: Horóscopo semanal piscis. Horoscopo 10-10-2016 al 17-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: vZsUcYSbIxU
+ video: eoTA6Jbh8q8
 
 ogimg: /images/zodiac/piscis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-03'
+ lastmod: '2016-10-10'
 ---
 
 
-A principios de la semana, el llamado de la selva podría ser el motivo por el que sientas atracción a explorar nuevos territorios o tomar una clase. La Luna Llena se manifestará entonces , así que trata de evitar actuar bajo impulso. Lo mejor sería que pensaras bien tus acciones para que no tengas que lamentarlas más tarde. Disfrutarás de las alegres discusiones que posiblemente surgirán jueves y viernes, las cuales podrían conducir a una profunda comprensión de cierto tema emocional en curso. Escucha a tu intuición el domingo.
+Quizás le estés dándole vueltas a los beneficios de seguir un determinado curso de acción. Con Mercurio desacelerando antes de comenzar a avanzar, podrías toparte con que cualquier plan que hagas esté sujeto a cambios o retrasos. Si es así, tal podría resultar a tu favor. La entrada del Sol a Libra pone el enfoque firmemente en la parte superior de tu carta, animándote a seguir adelante con aquellas metas y planes que has estado investigando. Este fin de semana, mantente alerta a una posible oportunidad.
 
 ##Dinero
 
-Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.
+Esta semana es como una bolsa mixta de tu “yo”. Por un lado, tienes una energía repentina y expansiva afectando a tu sector de grupos y negocios propios, lo que sugiere que puede que estés pensando en convertir una habilidad en un negocio rentable. Por otro lado, tu sector de deuda y el dinero de otras personas entran en juego. No pidas prestado más de lo que te puedes permitir con el fin de lograr que este negocio entre en marcha.
