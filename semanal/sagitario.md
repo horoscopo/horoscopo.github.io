@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: sagitario 10-10-2016 al 17-10-2016 
-description: Horóscopo semanal sagitario. Horoscopo 10-10-2016 al 17-10-2016. Horoscopos univision gratis
+title: sagitario 17-10-2016 al 24-10-2016 
+description: Horóscopo semanal sagitario. Horoscopo 17-10-2016 al 24-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 horoscopo:
  signo: sagitario
- video: vb2Ow94sCBs
+ video: CS5Wp19O38M
 
 ogimg: /images/zodiac/sagitario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-10'
+ lastmod: '2016-10-17'
 ---
 
 
-Otras personas podrían tener un efecto dinámico en tu vida esta semana, tal vez más de lo habitual. Esto será debido al Eclipse Solar en este sector, lo que podría coincidir con una historia o propuesta de amor. Del mismo modo, podrías tener la tentación de unirte a una asociación de negocios u alguna otra colaboración. Pase lo que pase, no te apresures a involucrarte. Piensa en ello cuidadosamente durante las próximas tres semanas antes de tomar una decisión. 
+Cuando Marte cambia de signo, tú tiendes a responder acordemente. Esta semana, Marte entra a Capricornio y al sector superior de tu carta. Podrías percatarte de que tienes más ambición de la habitual, así como más ganas de obtener un poco más de reconocimiento por tu trabajo. Marte estará aquí durante seis semanas, por lo que utiliza esta oportunidad para promover tus planes. En una nota positiva, la Luna Nueva del viernes puede ser útil para llevar una relación al siguiente nivel, ¡o una primera cita si se trata de un nuevo romance!
 
 ##Dinero
 
-Esta semana hay aspectos afectando tu profesión y autoridad. Es posible que recientemente, cierta persona sin escrúpulos te haya hecho retrasarte en el trabajo o tuvieras que haber puesto un proyecto en espera mientras tratas con problemas de comunicación y problemas técnicos. Durante las próximas semanas, piensa en cómo sentar las bases para futuros acuerdos. El Universo te muestra cómo hacerlo.
+Estudiando tu sector de profesión, estás disfrutando de un poco de impulso en esta área. Nuevos proyectos pueden aterrizar en tus manos. Si juegas bien tus cartas, podrías llegar a obtener un ascenso o promoción si muestras lo mucho que puedes llegar a hacer. Se indica que viene un cambio repentino, tal vez una transformación en tu rutina diaria. Si no tienes seguridad acerca de tu trabajo actual, piensa en qué más podrías hacer para ganar más dinero.

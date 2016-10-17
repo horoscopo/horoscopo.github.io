@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: aries 10-10-2016 al 17-10-2016 
-description: Horóscopo semanal aries. Horoscopo 10-10-2016 al 17-10-2016. Horoscopos univision gratis
+title: aries 17-10-2016 al 24-10-2016 
+description: Horóscopo semanal aries. Horoscopo 17-10-2016 al 24-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: BdxZNpc5wqo
+ video: 1uJpEWTutgI
 
 ogimg: /images/zodiac/aries.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-10'
+ lastmod: '2016-10-17'
 ---
 
 
-Podrías sentir inspiración a hacer algo desde principios de semana, pero antes de actuar, asegúrate de que embone con los hechos. Si no es así, puede que desees investigar un poco al respecto primero. La entrada de Venus a una parte más privada de tu carta sugiere que es hora de analizar a tu propia persona y averiguar qué es lo que te funciona, sobre todo en áreas problemáticas. La entrada de Marte a tu sector social da inicio a una fase activa en la que te conviene moverte hacia nuevos círculos.
+En tu carta hay potencial para que cierto cambio surja, pero tendrás que realmente quererlo para que de verdad puedas aprovecharlo. El Sol entra a tu sector de creencias y aventuras el viernes. Ya sea que se trate de atravesar pasajes interiores o exteriores, puede que estés tras la búsqueda del significado más profundo de tu vida y analices tus planes para el futuro. La Luna Llena del sábado podría cambiar tu perspectiva, lo que sugiere que podrías sacar una conversación fuera de contexto. Asegúrate de entender bien la situación antes de responder o comentar.
 
 ##Dinero
 
-Es un momento tenso para ti. Tus relaciones más cercanas apoyan plenamente los objetivos que te has fijado para ti mismo/a, en particular las que involucran tu situación financiera, y tu carrera está en expansión. Hay tantas cosas pasando en tu vida ahora que puede que sientas agobio, falta de apreciación y que no te pagan lo suficiente. Descansa lo más que puedas.
+Puede que tengas las manos llenas ahora con cuestiones relacionadas con el empleo y la salud. Puede que tu carga de trabajo de repente se duplique, o puede que recibas más proyectos independientes que son demasiado buenos para dejarlos pasar. Tu red de fuentes de empleo se expande, lo que indica que también podrías enterarte de un trabajo en tu campo que realmente te interese. Con toda tu suerte en efecto, lo mejor es que trates de entrar a esta compañía.

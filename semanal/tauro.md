@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: tauro 10-10-2016 al 17-10-2016 
-description: Horóscopo semanal tauro. Horoscopo 10-10-2016 al 17-10-2016. Horoscopos univision gratis
+title: tauro 17-10-2016 al 24-10-2016 
+description: Horóscopo semanal tauro. Horoscopo 17-10-2016 al 24-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: C7lgjn6Afuw
+ video: RoFvBrjI5tI
 
 ogimg: /images/zodiac/tauro.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-10'
+ lastmod: '2016-10-17'
 ---
 
 
-Actualmente estás agarrando tu paso y comenzando a tener un sentimiento más aventurero en relación a ciertas ideas clave. Las cosas toman un giro más positivo a finales de esta semana con Mercurio terminando su fase retrógrada. Te percatarás de que el viajar se vuelve más fácil, las cuestiones legales más simples y el estudiar menos exigente. Otro cambio se da el viernes conforme el Sol entra a tu sector profesional de ambiciones, animándote a formar valiosas conexiones. Una vez que hagas esto, tus planes comenzarán a funcionar. 
+¿Será que el romance podría estar en el aire? La alineación cósmica del martes sugiere que es posible. El delicioso lazo entre Venus y Marte podría verte en la fascinante compañía de alguien. Marte inicia su fase retrógrada al final de esta semana, por lo que sería mejor no tener demasiadas expectativas acerca de cómo esto podría resultar. Toma cada día como venga, ya que es tu mejor opción por ahora. Con respecto a una decisión profesional, a partir del jueves podrías obtener una segunda oportunidad en una posibilidad que pensabas que habías perdido.
 
 ##Dinero
 
-Estás a punto de tomar ventaja de nuevas oportunidades. Tus energías masculinas y femeninas están trabajando en conjunto, lo que tiene un efecto positivo en tu balance final. Tus inversiones y propiedad compartida pueden requerir alguna acción de tu parte. Espera unos días antes de firmar cualquier documento o convenio. Tú y tu pareja deben de estar en la misma frecuencia.
+Esta semana estas atrapada/o en medio. Podrías sentirte como si estuvieras siendo dirigida/o (tal vez en contra de su voluntad) hacia una determinada persona o situación. Tu sector profesional es el área que necesita más de tu atención por ahora. Elabora un plan de cinco años para avanzar en tu posición y la compensación.

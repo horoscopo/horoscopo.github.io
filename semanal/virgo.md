@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 10-10-2016 al 17-10-2016 
-description: Horóscopo semanal virgo. Horoscopo 10-10-2016 al 17-10-2016. Horoscopos univision gratis
+title: virgo 17-10-2016 al 24-10-2016 
+description: Horóscopo semanal virgo. Horoscopo 17-10-2016 al 24-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: afkECIAOuig
+ video: 29VGks07fNY
 
 ogimg: /images/zodiac/virgo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-10'
+ lastmod: '2016-10-17'
 ---
 
 
-Esta semana podría traer consigo uno o dos cambios en tu vida que podrían darte mucho gusto. Podrías notar algo de turbulencia al principio debido al Eclipse Solar, el cual culmina el jueves, agitando tus sentimientos. Al mismo tiempo, tu regente Mercurio comienza a retroceder durante tres semanas. Teniendo esto en cuenta, podría ser bueno tomarte cada día como venga. Tratar de planificar a futuro podría ser difícil, especialmente si suceden eventos a los que tengas que responder inmediatamente.
+Tus amistades pueden ser de gran apoyo al animarte a salirte de tu zona de confort. El martes, una persona en particular podría tener éxito al lograr que tomes un tentativo primer paso. Es probable que la razón de esto sea que sientes atracción hacia ella y por tal tienes disposición a prestar atención a lo que tenga que decir. Sin embargo, no sería prudente esperar demasiado de esta relación por ahora. Permite que se desarrolle orgánicamente y obtendrás mejores resultados.
 
 ##Dinero
 
-Recibes ayuda con tu vida emocional ahora. El Universo afecta la manera en la que procesas y expresas emociones, sobre todo cuando se trata de la forma en la que enseñas y aprendes nuevas habilidades. ¡Ahora recibes una gran cantidad de apoyo para el uso de redes sociales para estar en contacto con nuevas formas de compartir tus habilidades y ganar dinero en el proceso!
+Todavía necesitas ser un poco más específico/a. Puede que tengas que hacerle a otros saber lo mucho que difieres de ellos en sus necesidades, deseos y metas. A veces, el hacer esto funciona más de lo que se espera. Se te está pidiendo tener un poco más de seriedad en el desarrollo de tus relaciones profesionales. Quieres aprender de ellas y aportar esta experiencia a tu vida monetaria.

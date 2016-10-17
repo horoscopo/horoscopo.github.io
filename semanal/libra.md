@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 10-10-2016 al 17-10-2016 
-description: Horóscopo semanal libra. Horoscopo 10-10-2016 al 17-10-2016. Horoscopos univision gratis
+title: libra 17-10-2016 al 24-10-2016 
+description: Horóscopo semanal libra. Horoscopo 17-10-2016 al 24-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: 3YTL_EujFWs
+ video: yIQe2NGtF2Y
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-10'
+ lastmod: '2016-10-17'
 ---
 
 
-Desde principios de semana, tu vida adopta un tono romántico que podría darle un especial brillo a tu relación de pareja. Sin embargo, si es que tienen que colaborar en un proyecto, asegúrate de que ambos estén en la misma frecuencia. El Sol entra a Acuario y a tu sector personal financiero a mitad de semana, animándote a analizar tu situación económica y encontrar inventivas maneras de ganar dinero extra o aumentar tus ingresos. La Luna Llena del sábado podría traer consigo el deseo de gastar de más, por lo que ten cuidado.
+Muy dentro de ti, sabes cuál curso de acción deberías tomar y sin embargo podrías resistirte a aceptarlo. El contexto planetario actual te anima a hacerle frente a tal situación. Tu intuición es correcta ahora, y lo mejor sería que la escucharas. Si lo haces, te percatarás de que un asunto familiar u otra situación incómoda se resuelve sin demasiados problemas. Si no lo haces, sólo se prolongará. Sin embargo, alguien más podría mostrar iniciativa al respecto durante el fin de semana.
 
 ##Dinero
 
-Esta semana hay un énfasis en la mente, el pensar y el expresar ideas. Podrías sentir la tentación de gastar en clases o talleres esta semana, sobre todo si te llevan a pasar más tiempo fuera de tus pensamientos y en búsqueda interna o externa. Sólo asegúrate de que es algo que tiene la capacidad de responder a las grandes preguntas de la vida.
+Puede que tengas las manos llenas ahora con cuestiones relacionadas con el empleo y la salud. Puede que tu carga de trabajo de repente se duplique, o puede que recibas más proyectos independientes que son demasiado buenos para dejarlos pasar. Tu red de fuentes de empleo se expande, lo que indica que también podrías enterarte de un trabajo en tu campo que realmente te interese. Con toda tu suerte en efecto, lo mejor es que trates de entrar a esta compañía.
