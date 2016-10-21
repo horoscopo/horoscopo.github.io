@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de octubre 2016
-description: Horóscopos del dia de hoy 20 de octubre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de octubre 2016
+description: Horóscopos del dia de hoy 21 de octubre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Qué bueno es poder hablar con confianza, hacer uso del buen juicio y actuar acordemente mientras Mercurio aspecta a Júpiter el día de hoy. La noche continúa con una nota positiva. Mientras que los malentendidos son una forma de vida en las telenovelas, en la vida real, pueden ser aclarados bajo el trígono entre la Luna en Escorpión y Neptuno. 
+La Luna Nueva en Libra de esta mañana simboliza una buena forma de ser que no presiona a nadie. Al iniciar la tarde, disfruta de la sensación de estar con vida y sintiendo las felices emociones que sientes. ¿Se te antoja aventura? Esta noche, una sugerencia podría convertirse en realidad cuando la Luna aspecta a ambos, Marte y Saturno. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
