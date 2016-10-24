@@ -6,7 +6,7 @@ permalink: /como-conquistar-los-signos-de-agua/
 home: FALSE
 sidebar: true
 keywords: conquistar signo de agua, horoscopo, conquistar piscis, conquistar escorpio, conquistar cancer, amor, como conquistar un signo, zodiaco
-ogimg: /images/conquistar-agua.png
+ogimg: /images/esoteric_180.jpg
 sitemap:
  priority: 1
  changefreq: 'monthly'
@@ -25,7 +25,7 @@ Considerado el signo más maternal del zodiaco, **los cánceres son personas pro
 Su cita ideal: una escapada romántica es lo ideal para enamorarlos. También puedes optar por pequeños detalles, seguramente les alegrarás el día.
 
 ##Signo agua: Escorpio (24 de octubre al 22 de noviembre)
-![conquistar a escorpio](http://horoscopo-del-dia.com/images/escorpio.png "Como conquistar a Escorpio")
+![conquistar a escorpio](http://horoscopo-del-dia.com/images/escorpio.png "Como conquistar a Escorcio")
 
 Los escorpianos tienen una fascinación hacia el misterio y lo oculto, por lo cual, deberás mostrar intriga y suspenso al conocerlo. Al mismo tiempo, **mantienen relaciones con aquellas personas que lo incitan hacia la aventura y lo diferente**. Para este signo, el sexo es parte fundamental en su vida y deberás mostrar todos tus dones en la cama. 
 
