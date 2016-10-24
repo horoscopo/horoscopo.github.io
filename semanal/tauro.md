@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: tauro 17-10-2016 al 24-10-2016 
-description: Horóscopo semanal tauro. Horoscopo 17-10-2016 al 24-10-2016. Horoscopos univision gratis
+title: tauro 24-10-2016 al 31-10-2016 
+description: Horóscopo semanal tauro. Horoscopo 24-10-2016 al 31-10-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: RoFvBrjI5tI
+ video: c67dL5ydl68
 
 ogimg: /images/zodiac/tauro.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-17'
+ lastmod: '2016-10-24'
 ---
 
 
-¿Será que el romance podría estar en el aire? La alineación cósmica del martes sugiere que es posible. El delicioso lazo entre Venus y Marte podría verte en la fascinante compañía de alguien. Marte inicia su fase retrógrada al final de esta semana, por lo que sería mejor no tener demasiadas expectativas acerca de cómo esto podría resultar. Toma cada día como venga, ya que es tu mejor opción por ahora. Con respecto a una decisión profesional, a partir del jueves podrías obtener una segunda oportunidad en una posibilidad que pensabas que habías perdido.
+Tu vida social sigue alegre debido a una activa presencia en tu sector social trayéndote oportunidades para conocer gente. Con Mercurio recientemente en ese sector, puede que sientas motivación a unirte a grupos que te pongan en contacto con personas nuevas y potencialmente fascinantes. Durante el martes existe incluso la posibilidad de una atracción inmediata que podría resultar muy interesante. Y a pesar de que la tensa mezcla de energías del viernes podría hacerte sentir agobio, el movimiento retrogrado de Neptuno podría ayudarte a identificar el por qué.
 
 ##Dinero
 
-Esta semana estas atrapada/o en medio. Podrías sentirte como si estuvieras siendo dirigida/o (tal vez en contra de su voluntad) hacia una determinada persona o situación. Tu sector profesional es el área que necesita más de tu atención por ahora. Elabora un plan de cinco años para avanzar en tu posición y la compensación.
+Esta semana tienes un aspecto favorable, una explosión muy poderosa de energía, lo que va a afectar tu rutina diaria positivamente. Tu lugar de trabajo podría no ser del todo estable o puede estarte dando señales contradictorias acerca de tu trabajo de un día para otro. Ten cuidado con las promesas vacías de alguien dentro de tu red social. Tales no son como pretenden ser.
