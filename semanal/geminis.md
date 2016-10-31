@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 24-10-2016 al 31-10-2016 
-description: Horóscopo semanal geminis. Horoscopo 24-10-2016 al 31-10-2016. Horoscopos univision gratis
+title: geminis 31-10-2016 al 07-11-2016 
+description: Horóscopo semanal geminis. Horoscopo 31-10-2016 al 07-11-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: E4LTdX-ANXo
+ video: y8Qn-clsgI8
 
 ogimg: /images/zodiac/geminis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-24'
+ lastmod: '2016-10-31'
 ---
 
 
-Si sientes que un cambio de estilo de vida está en orden, ésta podría ser una semana muy positiva para ponerlo en práctica. De hecho, es posible que desees hacer borrón y cuenta nueva, sobre todo si no lograste hacerlo el mes pasado. Pon en marcha tus resoluciones de Año Nuevo - lograrás un mayor progreso en esta ocasión. Finalmente, podría haber un choque de ideas entre tú y tu pareja o un interés romántico sobre varios asuntos y cuestiones de libertad personal. Esto tendrá que ser discutido para que su relación siga avanzando.
+Con ingenio, encanto, y una alegre actitud, de alguna manera te las arreglas para decir las cosas más difíciles y al mismo tiempo salirte con la tuya. Con Venus felizmente acomodado en tu sector de relaciones, es un buen momento para convencer a alguien de que eres el candidato adecuado para una asignación laboral o nueva relación. Sin embargo, puede que no todo sea tan fácil esta semana, ya que la obstinada perspectiva de alguien podría ponerle pausa a cierta situación. Sin embargo, todo estará bien si te niegas a tomarlo como algo personal y sabes ir con la corriente.
 
 ##Dinero
 
-Los planetas quieren hacer de ti una persona hermosa y magnética, un imán de gente, situaciones y oportunidades para que puedas cumplir con tus metas y sueños esta semana. Te piden que construyas confianza en ti mismo/a y que ajustes la manera en la que te expones al mundo. Cuanto más te abras a aprender de las experiencias nuevas, más fácil será tener acceso a oportunidades. Piensa en ello.
+Podrías sentir el deseo de poner algo en marcha esta semana. Tus habilidades de comunicación están aumentando, mostrando que podrás salir adelante a través del solicitar fuerte y claramente a quienes te rodean. Pide lo que quieres en el trabajo y en tu vida monetaria y podrás conseguirlo. Aunque también deberías saber que las cosas podrían ponerse tensas, así que es mejor mantenerse limpios kármicamente hablando. No seas malo/a o utilices tus palabras para herir a los demás.
