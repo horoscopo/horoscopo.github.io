@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sagitario Octubre 2016 
+title: Sagitario Noviembre 2016 
 permalink: /horoscopo-mensual/sagitario/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2016, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-10-01'
+ lastmod: '2016-11-01'
 ---
 
- Tienes la ventaja en cualquier disputa conforme la Luna entra a Sagitario y forma sextil con Júpiter el 5 de octubre. Pero trata de tener bondad. Tu vida social se anima con la llegada de la Luna Nueva del 15 de octubre. Podías recibir invitaciones por parte de una sorprendente organización o grupo. Si suena divertido sin ser demasiado imprudente, considerarlo. Tu mente está llena de brillantes ideas durante los días que rodean a la Luna Nueva del 30 de octubre. Toma notas o discútelas con alguien especial y de confianza para encontrar que la vida de repente tiene mucho más sentido. En ello podría haber una visión espiritual que te abra los ojos y el corazón a una preocupante contradicción.
+ Una situación laboral se resuelve a tu favor cuando la Luna forma sextil con Júpiter el 2 de noviembre. Suavemente habla sobre una oportunidad que haga avanzar o expanda tu posición. La Luna Llena del 14 de noviembre favorece las finanzas hogareñas y tu presupuesto personal. Descubre algo útil que ha sido pasado por alto, pero ahora, resuelve un pequeño misterio monetario. Haz un cambio sin mucho esfuerzo (compra marcas o en tiendas diferentes) que pudieran ahorrarte dinero todos los días. La Luna Nueva del 29 de noviembre es positiva para ti y está llanea de inteligencia y sentido común. Cualquier nueva idea será tanto adecuada como exitosa. Las interacciones sociales también te beneficiarán. Anda y sal a mostrar toda esa gran energía.

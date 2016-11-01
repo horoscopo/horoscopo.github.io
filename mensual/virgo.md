@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Virgo Octubre 2016 
+title: Virgo Noviembre 2016 
 permalink: /horoscopo-mensual/virgo/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2016, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-10-01'
+ lastmod: '2016-11-01'
 ---
 
- Puede que te encuentres queriendo tener más actividad social conforme Mercurio entra a Libra el 7 de octubre. Rodéate de amigos. La Luna Llena del 15 de octubre ilumina tu situación financiera. Otra persona podría descubrir o aprender un detalle que tú necesitas con el fin de aclarar un pequeño misterio monetario. Alternativamente podrías recibir un regalo. Tus amigos y familia cercana significan mucho en torno a los días de la Luna Nueva del 30 de octubre. Puede que pienses globalmente, pero las preocupaciones y placeres de tu vecindario merecen más atención y serán más satisfactorios. Encuentra algo - o a alguien - nuevo qué amar que tal vez se encuentre a la vuelta de la esquina. Esta podría ser la respuesta a un modesto sueño.
+ El 2 de noviembre, una oferta romántica puede parecer rara al principio, pero el verdadero afecto podría estar allí. Sé amable. La Luna Nueva del 14 de noviembre alienta un mayor sentido de diversión y aventura. Permite que un amigo - o el hijo de un amigo - sugiera un nuevo lugar para visitar y algo nuevo que ver y hacer. No tienes que hacerlo de nuevo si no quieres y hasta puede que te guste. Bajo la Luna Nueva del 29 de noviembre, algunos familiares podrían recurrir a ti, o puede que simplemente todos se aparezcan en tu casa, con buenas intenciones, por supuesto. Relájate. Tú bien sabes cómo reservar tu propio espacio personal.

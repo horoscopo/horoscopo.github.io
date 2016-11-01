@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Tauro Octubre 2016 
+title: Tauro Noviembre 2016 
 permalink: /horoscopo-mensual/tauro/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2016, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-10-01'
+ lastmod: '2016-11-01'
 ---
 
- El 3 octubre es un día serio y romántico conforme la Luna conjunta a Venus. Si es que resultas estar en la misma frecuencia con una persona especial ahora, ese sentimiento podría resultar ser a la larga. ¡La Luna Llena del 15 de octubre es vigorizante! Te sentirás más saludable, con más energía y tendrás más interés en tareas pequeñas, pero más constructivas. Riega tus plantas, cuida a tu mascota, lava el coche - haz exactamente lo que te haga feliz. La Luna Nueva del 30 de octubre pone un gran romance en tu camino. Si secretamente estás en busca de una relación más audaz y aventurera, podrías encontrarla ahora. Ambos serán inteligentes al respecto, y si no dura para siempre, ambos lo entenderán.
+ El 2 de noviembre, cuando la Luna conjunta a Venus, puede que te empieces a emocionar por un romántico fin de semana que tienes planeado, pero recuerda que, a veces, los planes cambian. La Luna Llena del 14 de noviembre es toda tuya para hacer cualquier cambio que haga feliz a tu corazón. Sin embargo, no tengas demasiada rigidez en tu pensamiento o planificación, porque es posible que desees hacer aún más cambios más adelante. Trata de saber perdonar también. La Luna Nueva del 29 de noviembre podría marcar el comienzo de un período de confusión en el que querrás ayudar, pero sin saber por qué. Ten paciencia contigo y no busques respuestas fáciles que podrían ser malentendidas de todos modos.

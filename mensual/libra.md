@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Libra Octubre 2016 
+title: Libra Noviembre 2016 
 permalink: /horoscopo-mensual/libra/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2016, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-10-01'
+ lastmod: '2016-11-01'
 ---
 
- Las interacciones sociales aumentan a medida que Mercurio entra a Libra el 7 de octubre. Podrías empezar a recibir una gran cantidad de invitaciones más interesantes. Tu vida amorosa podría parecerse a una canción de rock bajo la Luna Llena del 15 de octubre. Cuando puede que también desees emoción y distracción. Haz que sea entretenido y date crédito por ello. Eres una persona divertida, después de todo. El amor y el dinero van de la mano para ti bajo la Luna Nueva del 30 de octubre. Un loco comentario por parte de un amigo o un ser querido podría desatar una línea de pensamiento que te conduzca a un lucrativo pasatiempo o pequeño servicio que te gustaría proporcionar a pequeña escala.
+ Ten más encanto y siente tu gran atractivo cuando la Luna conjunte a Venus el 3 de noviembre. El romance es una distinta posibilidad. La Luna Llena del 14 de noviembre sugiere que sostendrás la clave para el problema de alguien más, pero tal tiene que darse cuenta de ello. Hazte disponible y ten generosidad con tu tiempo, si puedes, pero también recuerda que tienes tus propias responsabilidades. No te ofrezcas al instante. Es tiempo de fiesta en tu hogar y en tu propio barrio bajo la Luna Nueva del 29 de noviembre. Sin embargo, no es necesario que organices una tú. Tus habilidades sociales deberían atraer suficientes amigos como para organizar una espontánea y festiva reunión que nadie querrá que termine.
