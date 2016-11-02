@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de noviembre 2016
-description: Horóscopos del dia de hoy 01 de noviembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de noviembre 2016
+description: Horóscopos del dia de hoy 02 de noviembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Si te topas con retrasos, vienen por cortesía del Sol y Saturno. No es  como si el mundo estuviera en tu contra personalmente - tales retrasos son buenos para ti. En el lado positivo, la Luna en Leo de esta noche centra su atención en ti y te baña de calor. Solteros, disfruten de la atención - y tal vez incluso de una conexión amorosa.
+¡No tengas timidez! Explora, diviértete, crea y exprésate mientras Marte transite en Leo. Esta noche, las personas se enfrentan las unas a las otras y se cuentan secretos cuando la Luna en Géminis aspecta a Plutón. Las cosas se pondrán muy interesantes si conoces a alguien que no cree en decir más de lo necesario.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
