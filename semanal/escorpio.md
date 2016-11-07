@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: escorpio 31-10-2016 al 07-11-2016 
-description: Horóscopo semanal escorpio. Horoscopo 31-10-2016 al 07-11-2016. Horoscopos univision gratis
+title: escorpio 07-11-2016 al 14-11-2016 
+description: Horóscopo semanal escorpio. Horoscopo 07-11-2016 al 14-11-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: jdMKHG51u98
+ video: JT9DEFqkZGc
 
 ogimg: /images/zodiac/escorpio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-31'
+ lastmod: '2016-11-07'
 ---
 
 
-Al inicio de la semana, una situación social puede ser muy divertida y darte un impulso, así como ayudarte a hacer nuevos amigos que te apoyen. Sin embargo, aún sigue habiendo momentos en los que sientes que tus valores son tan diferentes de los de tu grupo social como lo son la tiza y el queso. Puede que también sientas que nadie te entiende. Sin embargo, no hagas ningún movimiento impulsivo. Si logras mantener tu mente abierta, puede que las cosas terminen mejorando. 
+Tus oportunidades hogareñas continúan vislumbrándose buenas, incluyendo muchas opciones para expandirte. Esto podría significar abrir tu propio negocio desde tu hogar o mudarte a un lugar con más espacio. Sin embargo, es posible que tengas algunos problemas en el trabajo debido a que algunas personas podrían presionar para establecer su propia agenda. Requerirás de mucho tacto y diplomacia si quieres eludir cualquier demanda y mantenerte en buenos términos. Además, ¡una noticia inesperada con respecto a un plan o meta también podría ser de tu interés!
 
 ##Dinero
 
-Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.
+Tu sector del hogar está bajo escrutinio. Aunque la energía colocada aquí es bastante favorable y apacible, es posible que desees ver cuánto te estás gastando en tu casa cada mes. Si necesitas un ajuste, éste es el momento de hacerlo, no cuando estás bajo presión. Hay todo tipo de buenas noticias en el frente de trabajo. Una mejor situación está por venir si eres lo suficientemente paciente para dejar que suceda.

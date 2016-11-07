@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: aries 31-10-2016 al 07-11-2016 
-description: Horóscopo semanal aries. Horoscopo 31-10-2016 al 07-11-2016. Horoscopos univision gratis
+title: aries 07-11-2016 al 14-11-2016 
+description: Horóscopo semanal aries. Horoscopo 07-11-2016 al 14-11-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: oDWVCCZsFhs
+ video: 0FlPHebr6DQ
 
 ogimg: /images/zodiac/aries.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-31'
+ lastmod: '2016-11-07'
 ---
 
 
-Podrías encontrarte a merced de fuerzas que te saquen fuera de equilibrio. A principios de la semana, un confuso enlace producido por Neptuno podría llevarte a tratar de apuntar hacia objetivos profesionales inalcanzables. Desafortunadamente, Venus y el Sol enfrentándose a Saturno podrían bajarte a la tierra de golpe si alguien decide desilusionarte. Si deseas avanzar, utiliza la Nueva Luna en tu signo del sábado para obtener un buen consejo y formular a un plan práctico de acción.
+Una amistad o socio empresarial podría estar tratando de atraer tu atención. Tal vez algunos de tus planes parecen ser un tanto irrealistas o incorrectos y tal persona está deseosa de darte algunos consejos. Sin embargo, Marte entrando a Virgo a partir del jueves podría inspirarte a ver las cosas desde un punto de vista más práctico. Tal vez detectes defectos que no habías notado antes, ayudándote a armar una estrategia que pueda llevarte al éxito. Este fin de semana, descansar en casa puede ser restaurador para tu cuerpo y espíritu.
 
 ##Dinero
 
-Esta semana recibirás un mensaje diciéndote que es tiempo de darle seriedad a tu carrera y a algunas figuras importantes en tu vida. Si estás tratando de salir adelante, puede que sea mejor que tomes una pausa de unos meses, prepararte para asumir una nueva posición, y así lograr un cambio. Aunque usualmente estás listo/a para la acción, tendrás que esperar un poco ésta vez.
+Para ti esta semana es sobre las redes sociales, las cuáles son cada vez más importantes. Tus amigos de verdad te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo un montón de cambios, los cuáles podrían afectar la forma en la que te ves y presentas. Puede que algunos de tus amigos no aprecien este proceso. Sé amable con ellos ya que todavía no entienden a dónde vas y que ellos pueden venir también.

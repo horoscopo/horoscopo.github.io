@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 31-10-2016 al 07-11-2016 
-description: Horóscopo semanal leo. Horoscopo 31-10-2016 al 07-11-2016. Horoscopos univision gratis
+title: leo 07-11-2016 al 14-11-2016 
+description: Horóscopo semanal leo. Horoscopo 07-11-2016 al 14-11-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: LkQbJ5pOPQ8
+ video: NHncEP0uwxE
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-31'
+ lastmod: '2016-11-07'
 ---
 
 
-Controla tu impaciencia cuando las demandas sean mayores a lo que honestamente puedas realizar. En lugar de tratar de hacerlo todo, considera delegar parte del trabajo como una forma de lidiar con el problema. Más adelante en la semana, tu enfoque pasa de diversión al trabajo cuando Marte entra a Virgo. Tu atención se centrará en asuntos empresariales y de estilo de vida. Puede que te percates de que te comportas mucho más competitivamente de lo que lo has hecho últimamente y que tienes intención de mejorar tu eficiencia. Este fin de semana, podrías sufrir de retrasos, por lo que mantén la calma.
+Este podría ser un periodo de puro hablar, cuando es poco probable que te andes sin rodeos. La energía de esta semana podría verte tener dureza con alguien, sobre todo si sientes que tal persona te ha afectado de alguna manera. Sin embargo, las cualidades más sensibles de Venus y Neptuno en Piscis te permiten ponerte en sus zapatos; claro, si es que tienes disposición a ello. Si logras hacer esto, vas a entender por qué tal persona hizo lo que hizo y cuál debería ser tu reacción a ello. 
 
 ##Dinero
 
-Esta semana puedes estar tratando de encontrar una manera de obtener tu rebanada de pastel y comértela también. Tu mente está trabajando horas extras para sacarte de cualquier obligación financiera que puedas tener, y el Universo te ayuda a llevar esto al siguiente nivel. Asegúrate de volver a revisar todas las cifras antes de firmar cualquier cosa.
+Estás pensando en hacer algunos cambios en tu forma de trabajar y cómo exponerle tus ideas al mundo. Un aspecto favorable indica que podrías fácilmente llevarte tu trabajo a casa, comenzar un nuevo negocio en tu hogar, o comenzar a trabajar en hacerle mejoras a tu hogar; como por ejemplo construcción o decoración. El único problema radica en el hecho de que a tu ego le puede resultar difícil adaptarse a los cambios.

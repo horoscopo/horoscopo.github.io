@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 31-10-2016 al 07-11-2016 
-description: Horóscopo semanal libra. Horoscopo 31-10-2016 al 07-11-2016. Horoscopos univision gratis
+title: libra 07-11-2016 al 14-11-2016 
+description: Horóscopo semanal libra. Horoscopo 07-11-2016 al 14-11-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: RIE-dTbZaHc
+ video: NUTZm4P7B-c
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-10-31'
+ lastmod: '2016-11-07'
 ---
 
 
-El enfoque cambia a tu sector de estilo de vida, trabajo y cuestiones de bienestar, por lo que esta puede ser una buena oportunidad para considerar qué tan bien te está yendo en esa área. De hecho, si no sientes satisfacción con el progreso que has hecho hasta ahora, la actual presencia de Mercurio te anima a buscar más opciones. Es posible que un libro, un entrenador de vida o una clase te provean la información y la motivación que necesitas. Sin embargo, analiza bien los precios antes de comprometerte, ya que lo más caro no es necesariamente lo mejor.
+Evita volverte demasiado inflexible, sobre todo si una cuestión llama tu atención más que cualquier otra cosa. Existe la posibilidad de que estés pensando en una proposición o planeando un viaje y te estanques en los detalles. Si esperas hasta el final de la semana, es posible que el proceso se vuelva mucho más fácil, ya que Mercurio estará moviéndose hacia adelante. Hasta entonces, toma las ofertas u opciones con escepticismo. Finalmente, con Venus danzando hacia Escorpión, una relación puede volverse más apasionante.
 
 ##Dinero
 
-Puede que tengas las manos llenas ahora con cuestiones relacionadas con el empleo y la salud. Puede que tu carga de trabajo de repente se duplique, o puede que recibas más proyectos independientes que son demasiado buenos para dejarlos pasar. Tu red de fuentes de empleo se expande, lo que indica que también podrías enterarte de un trabajo en tu campo que realmente te interese. Con toda tu suerte en efecto, lo mejor es que trates de entrar a esta compañía.
+Ahora tienes ventaja en tu sector profesional. Tus metas profesionales a largo plazo se han estado poniendo en enfoque durante cierto tiempo. Pero ahora tienes la creatividad, la capacidad intelectual, el hambre y la inventiva para hacer las cosas. El único inconveniente es que los cambios de carrera que realices no siempre le sienten bien a tu ego. Debes saber que al final, son por tu bien.
