@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de noviembre 2016
-description: Horóscopos del dia de hoy 11 de noviembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de noviembre 2016
+description: Horóscopos del dia de hoy 12 de noviembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Hoy, la tendencia es actuar repentinamente durante la oposición entre la Luna y Urano. Siéntate, respira profundamente y espera hasta que el impulso pase. Hay un tremendo poder en las palabras cuando Mercurio conjunta a Plutón esta noche. Ciertamente, tu modo de comunicarte inspira respeto. ¿Qué es lo que vas a decir?
+Tienes encanto gracias a tu ingenio y porque estás al tanto, además de que dejarás a todos con la duda bajo la Luna Nueva en Géminis. Algunas personas podrían salir de su concha bajo la Luna en Cáncer de esta noche mientras que otras inhibidas podrían estar preparándose para hacerlo. Puede que seas tú quien tenga que dar el primer paso.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
