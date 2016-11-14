@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 07-11-2016 al 14-11-2016 
-description: Horóscopo semanal leo. Horoscopo 07-11-2016 al 14-11-2016. Horoscopos univision gratis
+title: leo 14-11-2016 al 21-11-2016 
+description: Horóscopo semanal leo. Horoscopo 14-11-2016 al 21-11-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: NHncEP0uwxE
+ video: ud5ulNcXDD0
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-07'
+ lastmod: '2016-11-14'
 ---
 
 
-Este podría ser un periodo de puro hablar, cuando es poco probable que te andes sin rodeos. La energía de esta semana podría verte tener dureza con alguien, sobre todo si sientes que tal persona te ha afectado de alguna manera. Sin embargo, las cualidades más sensibles de Venus y Neptuno en Piscis te permiten ponerte en sus zapatos; claro, si es que tienes disposición a ello. Si logras hacer esto, vas a entender por qué tal persona hizo lo que hizo y cuál debería ser tu reacción a ello. 
+Un encuentro con una vieja amistad podría resultar muy agradable, sobre todo si no se han visto en algún tiempo. Es muy probable que ambos hayan cambiado y es posible que se lleven mejor ahora de lo que se llevaban en el pasado. Además, con Júpiter avanzado en tu sector de conversación y pensamiento, la comunicación se vislumbra más prometedora en general. Si has estado esperando noticias sobre algo, podrías escucharlas muy pronto. Si trabajas en medios de comunicación, podrías recibir oportunidades para más proyectos.
 
 ##Dinero
 
-Estás pensando en hacer algunos cambios en tu forma de trabajar y cómo exponerle tus ideas al mundo. Un aspecto favorable indica que podrías fácilmente llevarte tu trabajo a casa, comenzar un nuevo negocio en tu hogar, o comenzar a trabajar en hacerle mejoras a tu hogar; como por ejemplo construcción o decoración. El único problema radica en el hecho de que a tu ego le puede resultar difícil adaptarse a los cambios.
+Esta semana podría ser tensa para ti. Considera seriamente la posibilidad  de hacerle caso a los mensajes que estás recibiendo de tus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están en lo correcto y dándole al tino. Al mismo tiempo, sigue añadiendo habilidades al asistir a clases, talleres y seminarios. Tienes lo que se necesitas, pero sería bueno el tener un poco más.

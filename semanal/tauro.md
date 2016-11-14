@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: tauro 07-11-2016 al 14-11-2016 
-description: Horóscopo semanal tauro. Horoscopo 07-11-2016 al 14-11-2016. Horoscopos univision gratis
+title: tauro 14-11-2016 al 21-11-2016 
+description: Horóscopo semanal tauro. Horoscopo 14-11-2016 al 21-11-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: d1FnxQbEGfY
+ video: J2lcAnfZO5Q
 
 ogimg: /images/zodiac/tauro.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-07'
+ lastmod: '2016-11-14'
 ---
 
 
-La Luna Nueva en tu sector de recursos compartidos podría ser un llamado a resolver cualquier problema en esta área, ya sea de negocios o asuntos financieros. Actuar ahora puede permitirte resolver dificultades antes de empezar a trabajar en proyectos más ambiciosos. Marte entra a tu sector espiritual el martes, pudiendo ser un llamado a resolver asuntos más personales, sobre todo si están drenando tu energía. Inclusive dar pasos pequeños para arreglar las cosas puede ser muy beneficioso.
+Estás en esa época del año en la que es bueno relajarte y recargar baterías. Aprovecha esta oportunidad para sintonizar con el deseo de tu corazón e ignorar las distracciones del mundo exterior. Conforme Venus entra a Leo estarás más en contacto con tus valores fundamentales, lo que podría ayudarte a tomar una decisión clave. Aun así, te ayuda mantenerte a un ritmo lento, sobre todo si tu vida social o profesional es altamente activa ahora. Lograrás hacer más cosas si aligeras tu horario y te centras en lo que requieres hacer.
 
 ##Dinero
 
-Eres genial al hacer que los asuntos de dinero sucedan de la nada porque eres una persona social y siempre sabes la primicia antes de que otras personas la sepan. Con un aspecto positivo ahora, es muy probable que te arrolle una repentina oportunidad para avanzar en tu carrera que puedes no ser capaz de concentrarte en nada más. Se deriva de algo que empezaste hace años, pero que finalmente despega. Algo de dinero seguro vendrá de ello.
+Te estás preparando para hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Una energía madura y  sensible entra a tu sector del trabajo. Mientras más puedas aprender a aceptar las responsabilidades y demostrar que los demás pueden contar contigo, más recompensa económica vendrá. No te alejes de lo que podría hacerte avanzar potencialmente.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 07-11-2016 al 14-11-2016 
-description: Horóscopo semanal acuario. Horoscopo 07-11-2016 al 14-11-2016. Horoscopos univision gratis
+title: acuario 14-11-2016 al 21-11-2016 
+description: Horóscopo semanal acuario. Horoscopo 14-11-2016 al 21-11-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: gQaFZLuq8nQ
+ video: eNPOnvh8xyY
 
 ogimg: /images/zodiac/acuario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-07'
+ lastmod: '2016-11-14'
 ---
 
 
-Las cuestiones relacionadas con tu trabajo y los problemas de bienestar siguen dominando. Con Mercurio retrógrado hasta el 21 de septiembre, vale la pena poner atención, especialmente si se trata de documentos importantes. Júpiter entra a tu sector de relaciones, por lo que todo este tipo de situaciones recibirán un impulso durante los próximos doce meses. Las relaciones a largo plazo, un nuevo romance y todos los asuntos de negocios pueden beneficiarse en gran medida. Mientras tanto, el hambre de poder que cierta persona tiene necesita ser cortada de raíz. Evita estancarte con él o ella durante el fin de semana.
+Mercurio se une al Sol en el sector superior de tu carta, por lo que durante las próximas semanas podrías emocionarte con respecto a ciertos planes laborales u otro tipo de ambiciones. Esta es tu oportunidad para impresionar a personas clave al mostrarles tus muchos talentos. Con Marte formando un incómodo ángulo con Urano más adelante en la semana, podrías hacer un movimiento que te sorprenda incluso a ti. Si bien esto puede ser liberador, evita espantar a tus amistades cercanas. Por último, unirte a un nuevo club o grupo podría ser beneficioso.
 
 ##Dinero
 
-Este período tiene algunos aspectos favorables para ti. Un Universo equilibrado y pacífico te trae un montón de coraje para enfrentarte al problema de una deuda existente, así como para obtener la capacidad de negociar el tipo de plan de pago que puedas pagar. Parte de ti puede preocuparse de que nunca lograrás pagarlo, pero los aspectos muestran que sí lo harás si aplicas tu sabiduría interior.
+Lo más importante ahora no es cuánto tienes, sino la calidad de tu vida a medida que estudias la forma de hacer algunos cambios importantes. El amor y el afecto se unen a la acción y al tino para ayudarte a participar en actividades creativas como proyectos de escritura, cine, radio y televisión. Si secretamente has abrigado el deseo de participar en esto, toma una clase o un seminario.
