@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de noviembre 2016
-description: Horóscopos del dia de hoy 15 de noviembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de noviembre 2016
+description: Horóscopos del dia de hoy 16 de noviembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Con suerte, dos personas con ideas opuestas logran trabajar juntas mientras la Luna aspecta a Saturno esta mañana. Por la tarde, prepárate para cambios (positivos) de última hora. Esta noche, la amistad y la popularidad florecen cuando Venus comienza su viaje a través de la constelación de Acuario. Solteros, salgan a hacer nuevos contactos.
+Si decides posponer algo y dices que volverás a ello en un minuto mientras Mercurio está a punto de cambiar de signo, ese minuto es ahora. La noche de hoy es el epicentro de un circo con su laberinto de pasiones y conflictivos deseos. Pista: Contar hasta diez te da diez segundos para calmarte y pensar en ello.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
