@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de noviembre 2016
-description: Horóscopos del dia de hoy 18 de noviembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de noviembre 2016
+description: Horóscopos del dia de hoy 19 de noviembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Los resultados podrían ser alucinantes bajo el trígono entre Mercurio y Plutón de hoy. Esta noche, en una optimista analogía, la Luna fuera de curso podría simbolizar la posibilidad de guardar lo mejor para el final. Este aspecto le aplica una enfocada importancia a algo (o alguien). Si suena como un eco del tema de hoy, tienes razón.
+Las personas andan un poco distraídas y mantienen sus respuestas vagas cuando Mercurio cuadra a Neptuno esta mañana. La buena noticia es que las telarañas se despejan por la tarde. Espera y hazle la pregunta correcta a la persona adecuada en el momento preciso. Durante la noche, muestra esa enorme y linda sonrisa y ve cómo te suceden cosas positivas bajo la Luna en Leo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
