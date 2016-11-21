@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 14-11-2016 al 21-11-2016 
-description: Horóscopo semanal acuario. Horoscopo 14-11-2016 al 21-11-2016. Horoscopos univision gratis
+title: acuario 21-11-2016 al 28-11-2016 
+description: Horóscopo semanal acuario. Horoscopo 21-11-2016 al 28-11-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: eNPOnvh8xyY
+ video: VCbu8uMCDek
 
 ogimg: /images/zodiac/acuario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-14'
+ lastmod: '2016-11-21'
 ---
 
 
-Mercurio se une al Sol en el sector superior de tu carta, por lo que durante las próximas semanas podrías emocionarte con respecto a ciertos planes laborales u otro tipo de ambiciones. Esta es tu oportunidad para impresionar a personas clave al mostrarles tus muchos talentos. Con Marte formando un incómodo ángulo con Urano más adelante en la semana, podrías hacer un movimiento que te sorprenda incluso a ti. Si bien esto puede ser liberador, evita espantar a tus amistades cercanas. Por último, unirte a un nuevo club o grupo podría ser beneficioso.
+Tu sector social se vuelve aún más vibrante el lunes, en particular con el Sol añadiéndole un brillo especial a este sector. Esta es la oportunidad perfecta para una celebración debido a un alegre vínculo entre Mercurio y Júpiter que es perfecto para reuniones familiares y buenos momentos con buenos amigos. Tus finanzas podrían ser un motivo de preocupación, sobre todo a partir de mitad de semana. Esto podría hacer que te preguntes si algún día volverás a la pista. No temas - ¡volverás! Las cosas deberían de vislumbrarse mucho más positivas la próxima semana.
 
 ##Dinero
 
-Lo más importante ahora no es cuánto tienes, sino la calidad de tu vida a medida que estudias la forma de hacer algunos cambios importantes. El amor y el afecto se unen a la acción y al tino para ayudarte a participar en actividades creativas como proyectos de escritura, cine, radio y televisión. Si secretamente has abrigado el deseo de participar en esto, toma una clase o un seminario.
+El Universo te está dando una increíble fuerza creativa ahora. Puede que tengas muchas ideas sobre cómo hacer más dinero, invertirlo y usarlo para mejorar tu vida. Ciertos aspectos afectan tu sector de  deuda y el dinero de otros. Prepárate para lo mejor y lo peor, y paga lo que puedas.

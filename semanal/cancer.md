@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 14-11-2016 al 21-11-2016 
-description: Horóscopo semanal cancer. Horoscopo 14-11-2016 al 21-11-2016. Horoscopos univision gratis
+title: cancer 21-11-2016 al 28-11-2016 
+description: Horóscopo semanal cancer. Horoscopo 21-11-2016 al 28-11-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: H1kBESFirSM
+ video: qPtq0SCBaOo
 
 ogimg: /images/zodiac/cancer.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-14'
+ lastmod: '2016-11-21'
 ---
 
 
-Si no has tenido ninguna suerte con respecto a un caso judicial u otro asunto legal, las cosas podrían mejorar una vez que Júpiter comience a avanzar a partir del lunes. Si estás viajando o trabajando en el extranjero, mantente alerta a oportunidades que podrían ampliar tus opciones. Este puede ser un momento de mágicos encuentros. Tu vida romántica se vislumbra muy dulce con la alineación de esta semana volviendo a encender la llama del amor en una existente relación o al iniciarla en un nuevo romance. Si tu tiempo ha estado ocupado, es sin duda momento para relajarte.
+Las relaciones de todo tipo siguen estando bajo enfoque con un montón de oportunidades para interactuar y socializar. Además, con Mercurio aun girando hacia atrás, es posible que personas del pasado vuelven a aparecer. Esta puede ser una oportunidad para ponerte al día con noticias o incluso curar viejas heridas. Hay aún más noticias con Júpiter, el planeta de la buena fortuna, entrando a tu sector de recursos compartidos para permanecer allí durante los próximos doce meses. Este suertudo aspecto podría hacerte llegar un golpe de suerte o herencia.
 
 ##Dinero
 
-Te beneficiarás de dos maneras cruciales en estos momentos. Dado que ciertos aspectos están afectando a tu sector de grupos, política y trabajo por cuenta propia, puede que estés considerando trabajar desde casa o iniciar un nuevo negocio desde la comodidad de tu habitación. La suerte se combina con repentinas ideas brillantes. Puede parecer una broma, pero puede que de verdad funcione.
+Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 14-11-2016 al 21-11-2016 
-description: Horóscopo semanal leo. Horoscopo 14-11-2016 al 21-11-2016. Horoscopos univision gratis
+title: leo 21-11-2016 al 28-11-2016 
+description: Horóscopo semanal leo. Horoscopo 21-11-2016 al 28-11-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: ud5ulNcXDD0
+ video: NIioauAnjHA
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-14'
+ lastmod: '2016-11-21'
 ---
 
 
-Un encuentro con una vieja amistad podría resultar muy agradable, sobre todo si no se han visto en algún tiempo. Es muy probable que ambos hayan cambiado y es posible que se lleven mejor ahora de lo que se llevaban en el pasado. Además, con Júpiter avanzado en tu sector de conversación y pensamiento, la comunicación se vislumbra más prometedora en general. Si has estado esperando noticias sobre algo, podrías escucharlas muy pronto. Si trabajas en medios de comunicación, podrías recibir oportunidades para más proyectos.
+Si alguna vez has pensado en contratar a un entrenador personal, este podría ser el momento ideal para hacerlo. Marte en tu sector de salud y estilo de vida podría animarte a ponerte en forma y tonificar tu cuerpo. Esta es una gran oportunidad para perder unas cuantas libras y sentirte mejor como resultado. Tus relaciones se vislumbran floreciendo con Júpiter en Virgo durante aproximadamente un año. Este aspecto podría traerle cambios positivos a tu estado civil, tal vez ayudándote a encontrar a tu alma gemela si es que andas en busca de amor.
 
 ##Dinero
 
-Esta semana podría ser tensa para ti. Considera seriamente la posibilidad  de hacerle caso a los mensajes que estás recibiendo de tus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están en lo correcto y dándole al tino. Al mismo tiempo, sigue añadiendo habilidades al asistir a clases, talleres y seminarios. Tienes lo que se necesitas, pero sería bueno el tener un poco más.
+El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.
