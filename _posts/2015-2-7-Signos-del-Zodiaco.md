@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 22 de noviembre 2016
-description: Horóscopos del dia de hoy 22 de noviembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 23 de noviembre 2016
+description: Horóscopos del dia de hoy 23 de noviembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Mantente alerta a un persuasor oculto con un mensaje misterioso mientras la Luna aspecte a Plutón esta mañana. Primera pista: ¡Su mensaje no es el correcto bajo las circunstancias adecuadas tampoco! ¿Qué tanto puede ser tomado en serio bajo la Luna en Leo de esta noche? Probablemente no mucho.
+Con Mercurio y Neptuno, la imaginación trabaja horas extras y podría dar lugar a decisiones equivocadas. Piensa en ello. Esta noche, las interrupciones momentáneas pueden venir de la nada y tomarte por sorpresa cuando la Luna aspecta tanto a Marte como Urano. Ciertamente no será ni aburrido, ni lo mismo de siempre.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
