@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 21-11-2016 al 28-11-2016 
-description: Horóscopo semanal leo. Horoscopo 21-11-2016 al 28-11-2016. Horoscopos univision gratis
+title: leo 28-11-2016 al 05-12-2016 
+description: Horóscopo semanal leo. Horoscopo 28-11-2016 al 05-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: NIioauAnjHA
+ video: 9-I_TxlBxZc
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-21'
+ lastmod: '2016-11-28'
 ---
 
 
-Si alguna vez has pensado en contratar a un entrenador personal, este podría ser el momento ideal para hacerlo. Marte en tu sector de salud y estilo de vida podría animarte a ponerte en forma y tonificar tu cuerpo. Esta es una gran oportunidad para perder unas cuantas libras y sentirte mejor como resultado. Tus relaciones se vislumbran floreciendo con Júpiter en Virgo durante aproximadamente un año. Este aspecto podría traerle cambios positivos a tu estado civil, tal vez ayudándote a encontrar a tu alma gemela si es que andas en busca de amor.
+Puede que sientas más relajación a partir de que el Sol entre al sensual Tauro. A pesar de que tu tiempo estará ocupado, deberías sentir menos ansiedad y mucha más tranquilidad al realizar tus tareas diarias. Sin embargo, puede que tengas que desprenderte de una situación familiar que pudiera estar tomando demasiado de tu tiempo y energía. Plutón se torna retrógrado el lunes, haciendo que te des cuenta de que tal situación se ha prolongado durante demasiado tiempo. Esta es tu oportunidad de hacer algo al respecto.
 
 ##Dinero
 
-El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.
+Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.

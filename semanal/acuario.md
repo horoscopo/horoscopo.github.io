@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 21-11-2016 al 28-11-2016 
-description: Horóscopo semanal acuario. Horoscopo 21-11-2016 al 28-11-2016. Horoscopos univision gratis
+title: acuario 28-11-2016 al 05-12-2016 
+description: Horóscopo semanal acuario. Horoscopo 28-11-2016 al 05-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: VCbu8uMCDek
+ video: 9bOzLovXzxM
 
 ogimg: /images/zodiac/acuario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-21'
+ lastmod: '2016-11-28'
 ---
 
 
-Tu sector social se vuelve aún más vibrante el lunes, en particular con el Sol añadiéndole un brillo especial a este sector. Esta es la oportunidad perfecta para una celebración debido a un alegre vínculo entre Mercurio y Júpiter que es perfecto para reuniones familiares y buenos momentos con buenos amigos. Tus finanzas podrían ser un motivo de preocupación, sobre todo a partir de mitad de semana. Esto podría hacer que te preguntes si algún día volverás a la pista. No temas - ¡volverás! Las cosas deberían de vislumbrarse mucho más positivas la próxima semana.
+Hay mucha actividad en tu sector social esta semana, sobre todo al principio, cuando tendrás la oportunidad de organizar eventos, y, además, hacerlo fabulosamente bien. El martes, la Luna Nueva en este sector te invita a suscribirte a nuevas actividades, moverte a nuevos círculos y conectar con genta tanto como te sea posible. Obtendrás recompensas si lo haces. Con un importante enfoque en tu sector espiritual, haz tiempo para meditar y otras actividades relajantes que pueden ayudarte a aumentar tu calma interior.
 
 ##Dinero
 
-El Universo te está dando una increíble fuerza creativa ahora. Puede que tengas muchas ideas sobre cómo hacer más dinero, invertirlo y usarlo para mejorar tu vida. Ciertos aspectos afectan tu sector de  deuda y el dinero de otros. Prepárate para lo mejor y lo peor, y paga lo que puedas.
+Esta semana tiene algunos cambios importantes para ti en las áreas de niños, romance y diversión. Si tu profesión es la enseñanza,  el romance de algún tipo o proveer risa de algún tipo, te ganarás mucho dinero en efectivo. Las profesiones que involucran hablar y escribir te enviarán a buenas situaciones.
