@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Capricornio Noviembre 2016 
+title: Capricornio Diciembre 2016 
 permalink: /horoscopo-mensual/capricornio/
 keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2016, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-11-01'
+ lastmod: '2016-12-01'
 ---
 
  El 4 noviembre es productivo, divertido y a veces emocionante conforme Venus forma trígono con Urano. La Luna Llena del 14 de noviembre cree que necesitas más diversión en tu vida. Y vaya que te también la mereces. Elige algo que sea cómodo, delicioso y que sea calmante para tu ser interior. Puede ser el más simple de los placeres. Emociónate al mirar hacia futuro y por tener una vida privada más vibrante bajo la llegada de la Luna Nueva del 29 de noviembre. A pesar de tener más tiempo a solas y en silencio, más personas podrían unirse a tu círculo íntimo de confianza; pero no todas al mismo tiempo, por supuesto. Además, es probable que no quieras estar a solas tanto como originalmente pensabas.
