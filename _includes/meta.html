@@ -5,6 +5,11 @@
 
     <meta name="msvalidate.01" content="C41371E1ABEAE7BCC0EE15AF51B82D47" />
     
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    {% if page.amplink %}
+    <link rel="amphtml" href="{{ site.url }}{{ page.amplink }}" />
+    {% endif %}
+    
     {% if site.facebook_app %}
     <meta property="fb:app_id" content="{{ site.facebook_app }}" />
     {% endif %}
