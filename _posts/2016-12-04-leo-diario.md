@@ -3,6 +3,7 @@ layout: horoscopos
 title: leo hoy gratis 04 de diciembre del 2016 
 description: Horóscopo del dia de hoy para leo. Horoscopo de hoy 04 de diciembre del 2016. Las predicciones de amor, trabajo, vida personal gratis.
 permalink: /horoscopo-diario-gratis/leo/
+amplink: /horoscopo-diario-gratis/amp/leo/
 home: FALSE
 redirect_from: /p/leo.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo leo hoy, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2016, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis

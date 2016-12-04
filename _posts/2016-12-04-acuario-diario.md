@@ -3,6 +3,7 @@ layout: horoscopos
 title: acuario hoy gratis 04 de diciembre del 2016 
 description: Horóscopo del dia de hoy para acuario. Horoscopo de hoy 04 de diciembre del 2016. Las predicciones de amor, trabajo, vida personal gratis.
 permalink: /horoscopo-diario-gratis/acuario/
+amplink: /horoscopo-diario-gratis/amp/acuario/
 home: FALSE
 redirect_from: /p/acuario.html
 keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2016, horóscopo esperanza gracia, horoscopo acuario hoy, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2016, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
