@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: aries 28-11-2016 al 05-12-2016 
-description: Horóscopo semanal aries. Horoscopo 28-11-2016 al 05-12-2016. Horoscopos univision gratis
+title: aries 05-12-2016 al 12-12-2016 
+description: Horóscopo semanal aries. Horoscopo 05-12-2016 al 12-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: cQWKJiKOcGw
+ video: CxGnAeXH2Eo
 
 ogimg: /images/zodiac/aries.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-28'
+ lastmod: '2016-12-05'
 ---
 
 
-Si una inesperada oportunidad se te presenta, puede que te dispongas a ver a dónde te conduce, incluso si no sabes mucho sobre ella. Existe la posibilidad de que pueda abrirle la puerta a un beneficio inesperado. Los días de entre semana traen consigo un poderoso aspecto que podría animarte a obtener lo que quieres. Sólo que primero asegúrate de que sea adecuado para ti. La Luna Llena en tu sector empresarial sugiere que debes tener mucho cuidado con ofertas, especialmente las que implican una gran cantidad de dinero.
+Tanto los recursos compartidos, los asuntos de negocios y la transformación son parte de la agenda conforme Mercurio se une al Sol en Escorpión. Esta puede ser una oportunidad para analizar por debajo de la superficie una situación o relación clave y quizás cambiar tu forma de pensar o creencias con el fin de influir positivamente en ella. Al mismo tiempo, una fuente profunda de inquietud podría inspirarte a desatender tus responsabilidades y centrarte más en el placer. Esto podría ser un error. Sería mejor tener un enfoque más prudente hacia el cambio.
 
 ##Dinero
 
-Estás conectando con los demás de una manera importante con respecto a vida laboral y dinero ahora. Con actividad en tu sector de grupo, política y trabajo por cuenta propia, puedes estar pensando en cómo aumentar tus ingresos con un negocio secundario o hacer la transición de una carrera a otra. El Universo expande tus oportunidades, así que mantén los ojos abiertos. Vas a tener un repentino destello de intuición cuando veas pasar el signo de dinero oculto en la obra.
+El Universo está pidiendo que te impongas en el sector de deuda, haciendo arreglos de pago, enviando cheques y destruyendo viejas tarjetas de crédito. Mientras tanto, hay mensajes importantes en tus sueños y flashes psíquicos. Conforme muestras tu formidable ambición, no te olvides de la justicia kármica. Trata a los demás en la forma en la que te gustaría ser tratado/a en la misma posición.
