@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 28-11-2016 al 05-12-2016 
-description: Horóscopo semanal virgo. Horoscopo 28-11-2016 al 05-12-2016. Horoscopos univision gratis
+title: virgo 05-12-2016 al 12-12-2016 
+description: Horóscopo semanal virgo. Horoscopo 05-12-2016 al 12-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: WiCR3ZGZQWQ
+ video: GpuW9btKiqg
 
 ogimg: /images/zodiac/virgo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-28'
+ lastmod: '2016-12-05'
 ---
 
 
-Si entablas una nueva amistad esta semana, es posible que dure mucho tiempo. Esto se debe a que la Luna Nueva puede propiciar la mejor combinación emocional posible, en la cual ambos podrán apoyarse. Sin embargo, la entrada de Mercurio a Capricornio puede ser un llamado de atención para que escuches a tus sentimientos. Pueden estar tratando de decirte algo. Si tuviste problemas para tomar una decisión, seguir tus instintos puede ayudarte a decidir qué hacer. 
+Plutón se torna directo en tu sector de relaciones, por lo que podrías percatarte de que cambios positivos se hacen más posibles de una manera muy notable. Además, con Marte entrando a esta misma zona, sus agitadas cualidades podrían animarte a solucionar ciertos problemas, empezar a trabajar en ciertos proyectos y aumentar tu nivel de interacción con alguien. Es posible que desees hacer uso de la Luna Nueva del viernes en tu sector hogareño para poner en marcha un proyecto manual o doméstico. La compra o venta de bienes raíces también podría funcionar bien.
 
 ##Dinero
 
-Esta semana puede traer algunas sensaciones extrañas de tu pasado (o tal vez las vidas pasadas). Podrías sentirte de alguna manera en una caja o forzado/a hacia una conclusión determinada. Los aspectos que afectan a tu sector de empleo significan que necesitas prestar más atención aquí para hacer tu trabajo con mayor sentido lucrativo.
+Esta semana disfrutas de un impulso amistoso en tus relaciones. Tienes un gran equipo detrás de ti, especialmente cuando se trata de tu vida monetaria. Tienes una concurrencia de ideas y el poder de la gente, así que si estás trabajando en un proyecto que necesita todas las manos a la obra, es el momento de reclutar desde el interior. Los aspectos de apoyo resaltan las actividades relacionadas con el romance, la familia y la diversión. Comenzar un negocio de citas amorosas por internet podría estar en tu futuro.

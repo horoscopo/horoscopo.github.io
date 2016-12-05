@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 28-11-2016 al 05-12-2016 
-description: Horóscopo semanal capricornio. Horoscopo 28-11-2016 al 05-12-2016. Horoscopos univision gratis
+title: capricornio 05-12-2016 al 12-12-2016 
+description: Horóscopo semanal capricornio. Horoscopo 05-12-2016 al 12-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: ONLf-ViuCHk
+ video: hkUGGnogkDs
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-28'
+ lastmod: '2016-12-05'
 ---
 
 
-Ciertas personas podrían estarte empujando a avanzar con una meta o plan, sobre todo si tiene algún beneficio. Mientras que todo esto es muy bueno, asegúrate de no ser quién esté haciendo todo el esfuerzo. Si es así, tendrás que tener una plática al respecto. Una escena social activa podría verte felizmente involucrándote en planear una fiesta o cualquier otro evento especial. Con la Luna Llena del Viernes en el tolerante Acuario, este podría ser uno de los mejores momentos para tener esa divertida reunión.  
+Cuando tengas tiempo de relajarte y reflexionar, vendrá a ti una idea que te ha costado definir. Quizá sea importante para un proyecto o una situación a la que te enfrentas actualmente y te resulte útil. Sin embargo, no es necesario que lo hables con un familiar o con amistades cercanas, ya que pueden tener puntos de vista diferentes y sus opiniones tal vez te hagan sentir dudas. Sigue tus instintos. Si se siente bien, ¡adelante!
 
 ##Dinero
 
-Es probable que busques maneras de hacer que tu creatividad fluya. Tienes que usar tus emociones para ganarte la vida de alguna manera. Puesto que los aspectos presentes afectan tu sector de romance, niños y familia; buscar productos que todos disfruten te rendirá los mejores resultados. Planea cómo entretener, o como servir a tu demográfico elegido y verás la mayor cantidad de dinero al final.
+Para ti, esta semana se trata de llevar un cambio muy necesario a tu familia, los niños, el romance y la diversión, revelando formas inteligentes para desahogarse sin tener que gastar un montón de dinero. Pero el Universo está sacudiendo las cosas de maneras que pudieras no haber previsto. Puede ser difícil el sentirse estable o algún grado de apoyo. Evita cualquier gasto nuevo.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: sagitario 28-11-2016 al 05-12-2016 
-description: Horóscopo semanal sagitario. Horoscopo 28-11-2016 al 05-12-2016. Horoscopos univision gratis
+title: sagitario 05-12-2016 al 12-12-2016 
+description: Horóscopo semanal sagitario. Horoscopo 05-12-2016 al 12-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 horoscopo:
  signo: sagitario
- video: TCuvaw_Mfd4
+ video: UU6kQ6jnwF0
 
 ogimg: /images/zodiac/sagitario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-28'
+ lastmod: '2016-12-05'
 ---
 
 
-Mientras que es genial ser alguien generoso, es posible que te percates de que ciertas personas están empezando a tomar ventaja de tu afable carácter, lo que podría hacer que te preguntes cómo responder. No te sientas culpable por cortar esta rama de raíz, te sentirás mucho mejor si lo haces. Además, es posible que te estés quemando en tu interior por aprovechar una oportunidad que podría ser buena para ti, pero puede que el momento no sea el adecuado por el momento. Tal posibilidad debería estar a tu disposición por un tiempo, así que no hay necesidad de preocuparte.
+Con la continua conexión entre Júpiter y Plutón en tu signo, podrías encontrar en ti una fuerte motivación para salirte de tu zona de confort y hacer un movimiento audaz. Hay una buena probabilidad de que ya te hayas estado preparando para esto durante algún tiempo, en cuyo caso deberías lanzarte a ello. Por otro lado, una mezcla más etérea de energías sugiere que las personas que te rodearán durante los próximos días podrían no ser del todo fiables. Si quieres algo bien hecho, puede que sea mejor hacerlo tú que confiar en alguien más. 
 
 ##Dinero
 
-Este período tiene que ver con los opuestos. Puede que estés tratando de manifestar una nueva relación en tu vida con un mentor, empleador o socio de negocios. Y con cierta actividad en el área que rige las relaciones serias, podrías conocer a la persona adecuada en el momento adecuado. Juntos, pueden mover montañas en el mundo de los negocios, ¡por lo que definan parámetros y manos a la obra! Más deben actuar con rapidez.
+Esta semana es acerca de los aspectos afectando tu casa del karma, vidas pasadas, sueños y el sector de amor. Tus sueños podrían estar llenos de ideas de cómo atraer más dinero, así que pon atención a lo que dicen. Al mismo tiempo, tu sector del hogar es todo menos claro. Ponte a pensar si tiene sentido el continuar pagando la misma renta o si deberías mudarte a un nuevo lugar.

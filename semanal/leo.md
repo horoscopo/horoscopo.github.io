@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 28-11-2016 al 05-12-2016 
-description: Horóscopo semanal leo. Horoscopo 28-11-2016 al 05-12-2016. Horoscopos univision gratis
+title: leo 05-12-2016 al 12-12-2016 
+description: Horóscopo semanal leo. Horoscopo 05-12-2016 al 12-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: 9-I_TxlBxZc
+ video: JMcJHPbL2p8
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-28'
+ lastmod: '2016-12-05'
 ---
 
 
-Puede que sientas más relajación a partir de que el Sol entre al sensual Tauro. A pesar de que tu tiempo estará ocupado, deberías sentir menos ansiedad y mucha más tranquilidad al realizar tus tareas diarias. Sin embargo, puede que tengas que desprenderte de una situación familiar que pudiera estar tomando demasiado de tu tiempo y energía. Plutón se torna retrógrado el lunes, haciendo que te des cuenta de que tal situación se ha prolongado durante demasiado tiempo. Esta es tu oportunidad de hacer algo al respecto.
+El enfoque se mantiene en tu hogar y en tu sector de familia y puede alimentar el deseo de mudarte, y más si lo has considerado últimamente. A la vez, sientes ganas de remodelar tu hogar para que haya más espacio y más opciones. Descubres que hablar con alguien que se encuentra en tu misma sintonía te dará ideas que antes no tenías y algunas de ellas pueden ser útiles para lo que deseas. Antes de comprometerte con un proyecto, analiza bien los detalles.
 
 ##Dinero
 
-Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.
+Puede que ésta semana des un paso hacia adelante y dos pasos atrás. Es posible que hayas estado pensando acerca de tu propósito en el mundo y te encuentres cerca de averiguarlo. Los consejos vienen de tus familiares, escucha la sabiduría que recibes de tu gente de confianza. Sólo asegúrate de prestar atención a los hechos ya que los resultados podrían afectar tu sector de trabajo y potencialmente ¡tu cheque!

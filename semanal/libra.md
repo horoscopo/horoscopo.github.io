@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 28-11-2016 al 05-12-2016 
-description: Horóscopo semanal libra. Horoscopo 28-11-2016 al 05-12-2016. Horoscopos univision gratis
+title: libra 05-12-2016 al 12-12-2016 
+description: Horóscopo semanal libra. Horoscopo 05-12-2016 al 12-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: 6d1IAhPfH_k
+ video: 5ZmFLtC-ywQ
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-11-28'
+ lastmod: '2016-12-05'
 ---
 
 
-Un encuentro podría alegrar tu semana. Si bien esto podría ser el comienzo de una relación romántica, también podría resultar ser el comienzo de una buena amistad; una que podrías apreciar profundamente. Marte se torna retrógrado al final de la semana, por lo que no te sientas mal si una nueva amistad parece perder interés en ti. No es así en lo absoluto. Más bien, tal podría tener problemas que atender. Si logras ser paciente, todo saldrá bien al final.
+Con el actual enfoque en un sector más introspectivo de tu carta, la mezcla de energías de esta semana podría verte tomarte algo de tiempo para relajarte y poner un poco de distancia con tu rutina diaria. Con Saturno girando hacia atrás en áreas clave de tu carta, puede que estés sintiendo mucha presión. El truco para manejar esto podría ser no sobrecargarte con tareas innecesarias, sino permitirte suficiente margen de maniobra. Esto te hará la vida mucho más fácil. 
 
 ##Dinero
 
-Un sentimiento de expansión y repentina revelación podría darte una idea que simplemente no puedas contener. Ya que hay cierta actividad en tu sector de relaciones serias y matrimonio, las mejores nociones de hacer dinero pueden provenir de estas áreas. Crea una lluvia de ideas con respecto al matrimonio y la familia y puede que formules una idea para un libro, programa de entrenamiento, o un producto de mucho interés. Venderlo no va a ser difícil.
+Este período tiene que ver con los opuestos. Puede que estés tratando de manifestar una nueva relación en tu vida con un mentor, empleador o socio de negocios. Y con cierta actividad en el área que rige las relaciones serias, podrías conocer a la persona adecuada en el momento adecuado. Juntos, pueden mover montañas en el mundo de los negocios, ¡por lo que definan parámetros y manos a la obra! Más deben actuar con rapidez.
