@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de diciembre 2016
-description: Horóscopos del dia de hoy 06 de diciembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de diciembre 2016
+description: Horóscopos del dia de hoy 07 de diciembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Esta es tu última oportunidad durante las pocas horas restantes de disponibilidad en las que Marte se encontrará en Géminis. No ignores los puntos esenciales. El reloj está avanzando. Los solteros entran al mundo de la regla de los 30 segundos bajo la Luna fuera de órbita en Virgo de esta noche, ofreciéndoles poca oportunidad de defenderse a aquellos que sean plásticos o falsos.
+El oportuno aspecto entre Mercurio y Júpiter te ofrece un único, práctico y optimista estilo. Tener éxito te queda bien, por lo que encuentra tu camino y dirígete hacia él. Las parejas expresan sus sentimientos con gran pasión cuando la Luna aspecta a Marte esta noche. Los solteros disfrutan de simpatía social, nuevos amigos, nuevos intereses amorosos, e incluso nuevas trayectorias bajo la Luna en Acuario.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
