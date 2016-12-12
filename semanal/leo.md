@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 05-12-2016 al 12-12-2016 
-description: Horóscopo semanal leo. Horoscopo 05-12-2016 al 12-12-2016. Horoscopos univision gratis
+title: leo 12-12-2016 al 19-12-2016 
+description: Horóscopo semanal leo. Horoscopo 12-12-2016 al 19-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: JMcJHPbL2p8
+ video: obcyU1O2wsU
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-12-05'
+ lastmod: '2016-12-12'
 ---
 
 
-El enfoque se mantiene en tu hogar y en tu sector de familia y puede alimentar el deseo de mudarte, y más si lo has considerado últimamente. A la vez, sientes ganas de remodelar tu hogar para que haya más espacio y más opciones. Descubres que hablar con alguien que se encuentra en tu misma sintonía te dará ideas que antes no tenías y algunas de ellas pueden ser útiles para lo que deseas. Antes de comprometerte con un proyecto, analiza bien los detalles.
+Con la alineación entre el Sol y Júpiter, el inicio de la semana podría coincidir con una buena noticia o una oferta que no puedas rechazar. ¡Y es seguro que hay más por venir! Mientras más trabajes para el establecimiento de tus metas y lograrlas, más grande será tu recompensa. Marte entra a tu signo esta semana también, lo que podría llevarte a la acción con respecto a planes personales que fueron puestos en pausa. Además, la Luna Nueva del viernes puede ser útil para poner en marcha un importante proyecto.
 
 ##Dinero
 
-Puede que ésta semana des un paso hacia adelante y dos pasos atrás. Es posible que hayas estado pensando acerca de tu propósito en el mundo y te encuentres cerca de averiguarlo. Los consejos vienen de tus familiares, escucha la sabiduría que recibes de tu gente de confianza. Sólo asegúrate de prestar atención a los hechos ya que los resultados podrían afectar tu sector de trabajo y potencialmente ¡tu cheque!
+Para ti, esta semana es sobre la necesidad imperiosa de comunicar tu experiencia al escribir, enviar mensajes de texto, enviar correos electrónicos o para hablar. Todos estos esfuerzos pueden dar dinero en efectivo en el futuro. Pero esta semana, un fuerte campo de energía requiere que cuides de los problemas en el trabajo. Tu trabajo puede estar pasando por enormes cambios ahora. El luchar contra ellos, o decidir abandonar el barco no dará los resultados que buscas. Ve con los cambios lo mejor que puedas.

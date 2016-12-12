@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 05-12-2016 al 12-12-2016 
-description: Horóscopo semanal virgo. Horoscopo 05-12-2016 al 12-12-2016. Horoscopos univision gratis
+title: virgo 12-12-2016 al 19-12-2016 
+description: Horóscopo semanal virgo. Horoscopo 12-12-2016 al 19-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: GpuW9btKiqg
+ video: Jk9QojX7_3U
 
 ogimg: /images/zodiac/virgo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-12-05'
+ lastmod: '2016-12-12'
 ---
 
 
-Plutón se torna directo en tu sector de relaciones, por lo que podrías percatarte de que cambios positivos se hacen más posibles de una manera muy notable. Además, con Marte entrando a esta misma zona, sus agitadas cualidades podrían animarte a solucionar ciertos problemas, empezar a trabajar en ciertos proyectos y aumentar tu nivel de interacción con alguien. Es posible que desees hacer uso de la Luna Nueva del viernes en tu sector hogareño para poner en marcha un proyecto manual o doméstico. La compra o venta de bienes raíces también podría funcionar bien.
+El positivo y continuo enlace que Júpiter forma con Plutón en tu sector de creatividad significa que este es uno de los mejores momentos para exhibir una habilidad o charlar con alguien que tenga influencia en uno de tus proyectos. Si perseveras, grandes cosas podrían sucederte como resultado. Mientras tanto, si estás fuera de casa con amigos, puede que sientas ganas de ayudar con una fiesta de caridad o donar tu tiempo de otras maneras; algo que de verdad podrías disfrutar.
 
 ##Dinero
 
-Esta semana disfrutas de un impulso amistoso en tus relaciones. Tienes un gran equipo detrás de ti, especialmente cuando se trata de tu vida monetaria. Tienes una concurrencia de ideas y el poder de la gente, así que si estás trabajando en un proyecto que necesita todas las manos a la obra, es el momento de reclutar desde el interior. Los aspectos de apoyo resaltan las actividades relacionadas con el romance, la familia y la diversión. Comenzar un negocio de citas amorosas por internet podría estar en tu futuro.
+Ciertos aspectos en tu sector que gobierna el flujo de efectivo, indican un tiempo de renovación de tu cuenta bancaria. Podrías utilizar un poco de suerte por ahora, pero tal vez te conformes con un poco de energía concentrada aquí. Tendrás mucha más energía para la planificación de tu vida monetaria y una actitud entusiasta sobre la realización de tus metas. Un aspecto armonioso llega cuando buscas pistas para hacer tus sueños realidad.

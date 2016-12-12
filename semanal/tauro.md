@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: tauro 05-12-2016 al 12-12-2016 
-description: Horóscopo semanal tauro. Horoscopo 05-12-2016 al 12-12-2016. Horoscopos univision gratis
+title: tauro 12-12-2016 al 19-12-2016 
+description: Horóscopo semanal tauro. Horoscopo 12-12-2016 al 19-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: tkPHMoN8yys
+ video: -9TTrFwFfks
 
 ogimg: /images/zodiac/tauro.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-12-05'
+ lastmod: '2016-12-12'
 ---
 
 
-Ciertos asuntos profesionales dan paso a opciones más sociables conforme Venus sale de Capricornio y entra a Acuario. Esta semana trae consigo uno o dos cambios astrológicos que sin duda cambiarán tu enfoque. Sin embargo, si se te presenta la oportunidad de seguir adelante con una idea empresarial, o consigues financiación para un negocio, tendrás ansias de analizarla. El Sol entra a Piscis el jueves, trayéndote la oportunidad de dejar de lado todo lo que ya no te sirve con el fin de hacer espacio para que cosas nuevas entren a tu vida.
+Ten mucho cuidado si estás negociando un contrato o intentando cerrar un acuerdo esta semana. Con Mercurio retrógrado en tu sector de relaciones y el Eclipse Lunar en tu signo, podría ser conveniente abstenerte de hacer cualquier compromiso por ahora. La próxima semana podría mostrar las razones por las que sería mejor esperar. Esto no significa el final de un acuerdo, más bien te ofrece la oportunidad de continuar los debates y negociaciones que podrían trabajar a tu favor.
 
 ##Dinero
 
-Esta semana podría ser considerada como un cese al fuego. Los aspectos en tu casa de vidas pasadas, sueños y karma estresan la importancia del ser amable con los demás. ¿Recuerdas los modales que te enseño mamá? También recuerda que atraes más abejas con miel. Todo mejorará con el tiempo, ten paciencia.
+Esta semana es acerca de visibilidad. Si te has sentido invisible en los últimos meses, definitivamente te encuentras a la vista ahora. Los demás no pueden dejar de escuchar todo lo que dices y respetar tus opiniones. Esto es especialmente cierto dado que los aspectos están afectando a tus redes sociales. Parece que todo el mundo sabe acerca del buen trabajo que haces. Agasájales con historias de tus recientes payasadas y futuros planes. El dinero es una cosa segura.
