@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de diciembre 2016
-description: Horóscopos del dia de hoy 12 de diciembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de diciembre 2016
+description: Horóscopos del dia de hoy 13 de diciembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-El trígono entre la Luna en Acuario y Mercurio en Libra llena la mente de pensamientos. Añade Júpiter a la ecuación y el jovial planeta aumenta la expansión y el optimismo. Las cosas no podían ser más dulces. Los sentimientos son apropiados cuando la Luna forma sextil Saturno. ¡Qué paseo tan rápido y frenético! Si bajas tu ritmo esta noche, aterrizarás en tierra firme.
+¿Tienes un espíritu de aventura? La vida tiene una gran cantidad de nuevas experiencias cuando Mercurio forma trígono con Urano el día de hoy. Muestra tu lado salvaje y disfrútalo. Esta noche, el trígono entre la Luna y Neptuno ofrece el don de percibir los pensamientos de las personas o de encontrarle importancia a las sutilezas. Usa esta energía con sabiduría.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
