@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de diciembre 2016
-description: Horóscopos del dia de hoy 16 de diciembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de diciembre 2016
+description: Horóscopos del dia de hoy 17 de diciembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Ve con la corriente. La vida todavía está llena de dudas debido a que el trígono de ayer entre el Sol y Urano, el planeta de las sorpresas, sigue en vigor con su gran y mágico potencial. Esta noche, la cuadratura entre la Luna y Neptuno borra la línea entre el hecho y la ficción, con ésta última teniendo la ventaja.
+Prepárate para tener que pensar rápidamente, porque siempre existe la posibilidad de que haya cambios dramáticos o noticias importantes cuando Mercurio cuadra a Urano como lo hace hoy. No puedes operar en piloto automático. El mismo ritmo continúa por la noche cuando las emociones son más intensas y no pueden ser manipuladas bajo la Luna en Escorpión.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
