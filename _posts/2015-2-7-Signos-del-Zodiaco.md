@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de diciembre 2016
-description: Horóscopos del dia de hoy 17 de diciembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de diciembre 2016
+description: Horóscopos del dia de hoy 18 de diciembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Prepárate para tener que pensar rápidamente, porque siempre existe la posibilidad de que haya cambios dramáticos o noticias importantes cuando Mercurio cuadra a Urano como lo hace hoy. No puedes operar en piloto automático. El mismo ritmo continúa por la noche cuando las emociones son más intensas y no pueden ser manipuladas bajo la Luna en Escorpión.
+Si algo no está funcionando, intenta lo contrario u opta por una posición menos política. Recuerda el principio. Analiza la meta. Rellena el centro, donde el error surgió originalmente. Esta noche, las parejas comparten felicidad. Los solteros podrían experimentar una interesante atracción romántica cuando la Luna forma trígono con Júpiter, el planeta de la radiante expectativa.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
