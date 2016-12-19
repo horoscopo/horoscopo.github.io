@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 12-12-2016 al 19-12-2016 
-description: Horóscopo semanal libra. Horoscopo 12-12-2016 al 19-12-2016. Horoscopos univision gratis
+title: libra 19-12-2016 al 26-12-2016 
+description: Horóscopo semanal libra. Horoscopo 19-12-2016 al 26-12-2016. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: 3rZYCIzt4jY
+ video: 8TbZoPP3pqY
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-12-12'
+ lastmod: '2016-12-19'
 ---
 
 
-Tus amistades parecen unirse a tu causa. Este es un excelente momento para colaborar con una persona o grupo en una idea que es importante para ti. En cuanto a tu vida familiar, podrías estar experimentando un poco de fricción. Para sacarle el máximo provecho a la semana por venir, considera si es posible que obstinadamente te estés negando a cambiar tu perspectiva. Si bien no es agradable tener que admitirlo, es posible que te percates de que cambiar tu postura, aunque sea un poco, puede hacer una diferencia positiva.
+Hay mucha actividad en tu sector de ocio, por lo que este es el momento de explorar posibilidades relacionadas con tus dones y talentos naturales. Si tienes la oportunidad de mostrar tus habilidades, tómala. El romance también podría ser parte de la ecuación, con Venus aumentando tu carisma y tal vez conduciéndote a una nueva y emocionante conexión. Además, con Saturno ahora avanzando en tu sector financiero, es posible que tengas más libertad de acción con respecto a dinero. Este fin de semana, toma las palabras de alguien con escepticismo.
 
 ##Dinero
 
-Esta semana tiene algunos cambios importantes para ti en las áreas de niños, romance y diversión. Si tu profesión es la enseñanza,  el romance de algún tipo o proveer risa de algún tipo, te ganarás mucho dinero en efectivo. Las profesiones que involucran hablar y escribir te enviarán a buenas situaciones.
+Esta semana es acerca de visibilidad. Si te has sentido invisible en los últimos meses, definitivamente te encuentras a la vista ahora. Los demás no pueden dejar de escuchar todo lo que dices y respetar tus opiniones. Esto es especialmente cierto dado que los aspectos están afectando a tus redes sociales. Parece que todo el mundo sabe acerca del buen trabajo que haces. Agasájales con historias de tus recientes payasadas y futuros planes. El dinero es una cosa segura.
