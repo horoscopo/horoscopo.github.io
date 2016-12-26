@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 19-12-2016 al 26-12-2016 
-description: Horóscopo semanal cancer. Horoscopo 19-12-2016 al 26-12-2016. Horoscopos univision gratis
+title: cancer 26-12-2016 al 02-01-2017 
+description: Horóscopo semanal cancer. Horoscopo 26-12-2016 al 02-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: TS8zC9Eeiaw
+ video: hpQzALAHo9w
 
 ogimg: /images/zodiac/cancer.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-12-19'
+ lastmod: '2016-12-26'
 ---
 
 
-Si vas a aprovechar esta semana al máximo, podrías percatarte de que se desarrolla más fácilmente si mantienes una mente abierta y te dispones a ponerte en los zapatos de otra persona, especialmente si estás experimentando un grado de conflicto con ella. Fomentar nuevas ideas y permitirte ver las cosas desde una nueva perspectiva incluso podría añadirle más brillo a la relación. Además, es posible que durante el fin de semana no tengas otra opción que ceder.
+Tus sociedades y relaciones podrían mantener tu tiempo ocupado. Tienes muchas opciones para una vida social alegre, aunque te ayudaría andarte con cuidado en referente a romance. Debido a que Venus continúa retrógrado, este no es el mejor momento para comprometerte o tomar decisiones importantes. Por ahora, trata de ir con la corriente. Con Mercurio entrando a Virgo, es momento de planificar tu futuro financiero. Si recientemente has experimentado algunos retrasos, una buena estrategia podría ser justo lo que necesites.
 
 ##Dinero
 
-Es posible que tengas que pensar seriamente esta semana sobre el dinero de otras personas, o la deuda. La adopción de una actitud responsable es la mejor mientras haces el balance de la deuda, llega a una negociación realista de rentabilidad y apégate a ella. Ciertos aspectos indican que tu familia o niños pueden ser la mayor fuga de tu dinero por ahora. Esfuérzate para mantener el equilibrio a medida que te apegas a tu presupuesto.
+Tienes algunos retos esta semana. Aunque te sientas con energía para tenerlo todo listo, puede que tengas algunos problemas en tu lugar de trabajo o cuando se trata de tus grandes metas profesionales. Este pequeño contratiempo es sólo eso. Se moverá hacia el pasado casi tan pronto como suceda. El Universo te pide que seas audaz y te enfoques ahora.

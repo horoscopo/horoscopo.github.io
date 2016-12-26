@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 19-12-2016 al 26-12-2016 
-description: Horóscopo semanal piscis. Horoscopo 19-12-2016 al 26-12-2016. Horoscopos univision gratis
+title: piscis 26-12-2016 al 02-01-2017 
+description: Horóscopo semanal piscis. Horoscopo 26-12-2016 al 02-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: UkzEViQIRe4
+ video: i0glonDLPdM
 
 ogimg: /images/zodiac/piscis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-12-19'
+ lastmod: '2016-12-26'
 ---
 
 
-Conforme tu planeta personal, Plutón, entra a su fase retrógrada el lunes, sería útil que no te obsesionaras demasiado con una determinada situación. Cuanto más puedas permitir que las cosas sigan su curso, más pronto encontrarás la solución. El movimiento del Sol a Tauro y a tu sector de relaciones te permite hacer un balance de tus relaciones clave, amistades y una conexión romántica para considerar cómo puedes mejorar ciertas situaciones. Este viernes, ¡espera lo inesperado!
+La entrada del Sol a un sector más sensible de tu carta puede hacer que logres ver el otro lado de las cosas. Lo que descubras puede ser muy revelador. Hay mucha actividad en tu sector de recursos compartidos, negocios e intimidad. Las conversaciones honestas te ayudan a entender mejor y a resolver cualquier dificultad de una vez por todas. Finalmente, una oportunidad para que salgas de tu zona de confort te permite prosperar.
 
 ##Dinero
 
-Es posible que hayas estado tratando de encontrar la manera de recaudar dinero para un nuevo negocio, y ahora podría ser posible. Este es un buen momento para hacer cualquier pago final que tengas que hacer al mismo tiempo que buscas maneras de conectar con posibles inversionistas. Los esfuerzos de recaudación de fondos deben incluir un componente de marketing en línea.
+Esta semana se trata de tu dinero y valores. Puede ser una buena semana con más oportunidades de ganar dinero en el camino que aparentemente surgen de la nada. Esto significa que por el momento es posible que tengas que pasar más tiempo en el trabajo y menos tiempo socializando. Es posible que tus grupos sociales te estén drenando al pedir demasiado de ti, creando mucha tensión y fatiga.

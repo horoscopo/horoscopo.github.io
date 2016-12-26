@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 19-12-2016 al 26-12-2016 
-description: Horóscopo semanal capricornio. Horoscopo 19-12-2016 al 26-12-2016. Horoscopos univision gratis
+title: capricornio 26-12-2016 al 02-01-2017 
+description: Horóscopo semanal capricornio. Horoscopo 26-12-2016 al 02-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: Gm0mxf1FlW0
+ video: yxIS-nX5YF8
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-12-19'
+ lastmod: '2016-12-26'
 ---
 
 
-El Sol está en tu sector hogareño, por lo que disfruta de cuidar de ti y de poder consentir a tu cuerpo. Aprovecha al máximo esta oportunidad de pasar tiempo con tus personas más cercanas y también de darte gustos. Lo que puede ser particularmente importante son los conocimientos adquiridos como resultado de tomarte más tiempo para ti. A un nivel romántico, podrías decidir llevar una relación más lejos, aunque podría ser necesario volver a evaluar la situación entre ustedes dos para cuando llegue el final de la semana. 
+El Eclipse Lunar de esta semana podría afectar tanto a cuestiones hogareñas como profesionales e inclusive destacar una situación que involucre a ambos. Si sientes que alguien te impide perseguir una meta o un sueño, tu frustración podría hacerse evidente esta semana. Sin embargo, sería mejor no actuar sin pensar las cosas. Si te tomas el tiempo para explicar tu punto de vista, esta persona podría entrar en razón. Si no, podrías decidir seguir adelante de todos modos.
 
 ##Dinero
 
-Por lo general tienes bastante equilibrio con tu dinero, pero puede que estés pensando lanzarte en una búsqueda global de sentido. Si logras hacer que funcione, más poder para ti. Sin embargo, los aspectos que afectan tu sector de política y grupos pueden significar que tus obligaciones requieren que dejes detrás cualquier viaje con el fin de estar ahí para cuando alguien te necesite. Ahorra dinero al cambiar este viaje por un fin de semana en el campo.
+Esta semana es sobre la comunicación y tu sector de empleo. Las cosas son propensas a dejar de romperse, lo que hará más fácil tu trabajo, pero el dinero se ve afectado también. ¿Has tenido demasiada timidez como para pedir lo que vales? Busca una abertura para demostrar el valor que aportas a la empresa. A continuación, solicita una reunión y haz valer tu caso, el éxito sigue.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 19-12-2016 al 26-12-2016 
-description: Horóscopo semanal acuario. Horoscopo 19-12-2016 al 26-12-2016. Horoscopos univision gratis
+title: acuario 26-12-2016 al 02-01-2017 
+description: Horóscopo semanal acuario. Horoscopo 26-12-2016 al 02-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: ST8q0fDjkfA
+ video: 4gjsZ78dNZw
 
 ogimg: /images/zodiac/acuario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-12-19'
+ lastmod: '2016-12-26'
 ---
 
 
-Una idea, un negocio en línea o una oportunidad para ganar dinero te llaman la atención, mientras Marte entra a Acuario y a tu zona financiera. También descubres que con un negocio en curso puedes aumentar tu productividad y ganar más dinero si deseas utilizar los últimos avances tecnológicos. La entrada de Venus a tu sector de relaciones te ayuda a resolver dificultades y a estar más en armonía. Evaluar tus opciones de salud y bienestar también da buenos resultados.
+Mejorar tus habilidades puede ser una manera de conseguir nuevas oportunidades en tu vida. La Luna Nueva del martes puede ser el mejor momento para ver qué te ofrece el mundo y así aumentar tus opciones. ¿Quieres empezar un taller de escritura creativa, diseño de interiores o de marketing en línea? Cualquiera de estas opciones es posible si te dispones a asumir el trabajo que implica tu decisión. El romance puede llegar durante un evento especial de la época de fiestas si no estás con nadie y buscas amor.
 
 ##Dinero
 
-Esta semana tienes una gran cantidad de impulso para atraer más dinero. No es sólo que tu ambición esta saliendo a la superficie. Es también la manera positiva en como te ven los demás como la persona exitosa que está en proceso de crecimiento. Podría haber cierta tensión con compañeros de trabajo o conocidos. Asegúrate de no apostar demasiado.
+Todas las cosas buenas les vienen a aquellos que esperan, pero tú no tienes que esperar mucho tiempo para las cosas buenas. Ciertos aspectos afectan tu sector de vidas pasadas, karma e instituciones, por lo que estás recibiendo todo tipo de información valiosa en tus sueños y destellos psíquicos. Asegúrate de prestarles atención. Es posible que dudes de tus pensamientos demasiado. A partir de esta semana, confía en ellos para lograr todo lo que quieres lograr.

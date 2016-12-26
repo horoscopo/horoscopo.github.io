@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: sagitario 19-12-2016 al 26-12-2016 
-description: Horóscopo semanal sagitario. Horoscopo 19-12-2016 al 26-12-2016. Horoscopos univision gratis
+title: sagitario 26-12-2016 al 02-01-2017 
+description: Horóscopo semanal sagitario. Horoscopo 26-12-2016 al 02-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 horoscopo:
  signo: sagitario
- video: M5SZm6YOkLU
+ video: KjR9zrZhC-c
 
 ogimg: /images/zodiac/sagitario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-12-19'
+ lastmod: '2016-12-26'
 ---
 
 
-No estás de humor para que nadie se meta contigo esta semana. De hecho, podrías ser una fuerza a tener en cuenta debido a la conexión que Marte y Plutón forman en tu signo. Si tienes tu mente puesta en una idea, nada hará que cambies de opinión. La pregunta es si lo que estás intentando hacer es útil para ti y bueno para tu vida. Es posible que algunas personas pudieran tener una visión diferente de tu plan y traten de convencerte de lo contrario.
+Una vez que el Sol haya ingresado a tu zona de relaciones, te resulta más fácil pensar las cosas con calma y analizar qué quieres hacer. A veces debes alejarte de una persona para volver a acercarte de la forma correcta. Si has tenido ilusiones sobre una persona que te interesa, el vínculo de Mercurio con Saturno te ayuda a ver a esa persona con mayor claridad. Aun así, hay una buena probabilidad de que te encuentres con una posible alma gemela.
 
 ##Dinero
 
-Es importante que ésta semana comuniques tus ideas y necesidades lo más claramente posible. Notifica las cosas difíciles en reuniones con mentores y profesores. Mientras más pronto lo hagas, más pronto regresarás a la normalidad. Mientras tanto tus sueños pueden ser un poco borrosos. Tomate el tiempo necesario para enfocarte en tus metas personales y financieras.
+Puede que sientas  como que el Universo apoya tus proyectos y metas esta semana. Pero puede que tengas que acceder a tus poderes de comunicación para expresar tu opinión y obtener lo que viene a ti financiera y de otras formas. En otras noticias, las indicaciones muestran que tu panorama de deuda está a punto de mejorar muchísimo. Has hecho un buen trabajo, por lo que disfruta de las recompensas.
