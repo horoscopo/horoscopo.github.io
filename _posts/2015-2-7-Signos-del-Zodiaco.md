@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 26 de diciembre 2016
-description: Horóscopos del dia de hoy 26 de diciembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 27 de diciembre 2016
+description: Horóscopos del dia de hoy 27 de diciembre 2016 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Dale la bienvenida a las nuevas sorpresas y nuevas posibilidades en la vida con exuberancia y los brazos abiertos. Cualquier cosa que pudiera sacudir las cosas puede suceder cuando Saturno forma trígono con Urano. Esta noche, los encuentros entre solteros no ocurren por casualidad. Alguien hizo planes previos para poder conocerte. Las parejas encuentran un cálido oasis en su morada durante esta noche de diciembre.
+La cooperación y la productividad inundan el día cuando el Sol conjunta a Marte. Saturno retrógrado en Escorpión ofrece una segunda oportunidad para resolver un problema o mejorar la que pensaste que era la solución correcta. Presta atención a tu intuición esta noche y sabrás qué es lo que alguien necesita escuchar - luego dilo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
