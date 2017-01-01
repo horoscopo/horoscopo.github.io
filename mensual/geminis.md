@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Geminis Diciembre 2016 
+title: Geminis Enero 2017 
 permalink: /horoscopo-mensual/geminis/
-keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2016, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2017, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-12-01'
+ lastmod: '2017-01-01'
 ---
 
- El amor podría encontrarte el 2 de noviembre, cuando Mercurio forme sextil con Plutón y la Luna conjunte a Venus. Acurrúcate y lee un buen libro o ve una buena película durante la manifestación de la Luna Llena del 14 de noviembre. Date un capricho y no sientas soledad. La gente está a sólo un texto, después de todo. Invita a alguien a acompañarte, si es necesario. La Luna Nueva del 29 de noviembre te traerá fantásticas posibilidades románticas. Y vaya que no serán posibilidades aburridas. Es hora de encontrar un romance real, práctico y sólido con alguien inteligente y nunca aburrido. Esto incluye la posibilidad de revivir una relación actual o anterior. Puedes ser tú quien dé el primer paso, pero después, déjate romancear.
+ Mercurio entra a Capricornio el 2 de diciembre y tu lado inteligente y práctico entra a un estado de saturación. Logra todo lo que te has propuesto hacer, y aún más. La Luna Llena del 13 de diciembre se manifiesta en tu signo. Tu vida social se moverá a la velocidad de un torbellino, lo que podría hacer difícil que dejes de hablar. Esto está bien porque las personas están fascinadas contigo y con cada una de tus palabras. No las decepciones. El 28 de diciembre trae consigo una intensa Luna Nueva junto con Mercurio retrógrado. Para variar, permite que la gente venga a ti en lugar de perseguirles tanto. No tengas miedo - no terminarás en soledad. 

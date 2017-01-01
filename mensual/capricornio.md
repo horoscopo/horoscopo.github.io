@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Capricornio Diciembre 2016 
+title: Capricornio Enero 2017 
 permalink: /horoscopo-mensual/capricornio/
-keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2016, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2017, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-12-01'
+ lastmod: '2017-01-01'
 ---
 
- El 4 noviembre es productivo, divertido y a veces emocionante conforme Venus forma trígono con Urano. La Luna Llena del 14 de noviembre cree que necesitas más diversión en tu vida. Y vaya que te también la mereces. Elige algo que sea cómodo, delicioso y que sea calmante para tu ser interior. Puede ser el más simple de los placeres. Emociónate al mirar hacia futuro y por tener una vida privada más vibrante bajo la llegada de la Luna Nueva del 29 de noviembre. A pesar de tener más tiempo a solas y en silencio, más personas podrían unirse a tu círculo íntimo de confianza; pero no todas al mismo tiempo, por supuesto. Además, es probable que no quieras estar a solas tanto como originalmente pensabas.
+ El Sol conjunta a Saturno el 10 de diciembre. Acepta la autoridad que tienes y compórtate justamente con la gente. Todo lo que digas y hagas será respetado. Los días alrededor de la Luna Llena del 13 de diciembre serán totalmente ocupados y es posible que te surja un sentimiento de olvido o abandono. Tal no es real. Alguien está notando lo importante que eres para todo lo que está sucediendo ahora. Simplemente no lo dice. Durante la Luna Nueva del 28 de diciembre, recibirás un cuidado mágico, tierno y amoroso por parte de amigos y familiares. Tal será intenso, estará enfocado en ti y será un tremendo apoyo. Se te ama y atesora mucho más de lo que te das cuenta. ¡Lleva ese sentimiento contigo hacia el nuevo año!

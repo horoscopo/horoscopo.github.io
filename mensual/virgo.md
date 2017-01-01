@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Virgo Diciembre 2016 
+title: Virgo Enero 2017 
 permalink: /horoscopo-mensual/virgo/
-keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2016, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2017, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-12-01'
+ lastmod: '2017-01-01'
 ---
 
- El 2 de noviembre, una oferta romántica puede parecer rara al principio, pero el verdadero afecto podría estar allí. Sé amable. La Luna Nueva del 14 de noviembre alienta un mayor sentido de diversión y aventura. Permite que un amigo - o el hijo de un amigo - sugiera un nuevo lugar para visitar y algo nuevo que ver y hacer. No tienes que hacerlo de nuevo si no quieres y hasta puede que te guste. Bajo la Luna Nueva del 29 de noviembre, algunos familiares podrían recurrir a ti, o puede que simplemente todos se aparezcan en tu casa, con buenas intenciones, por supuesto. Relájate. Tú bien sabes cómo reservar tu propio espacio personal.
+ La cuadratura entre la Luna y Mercurio del 8 de diciembre podría hacerte dudar una decisión anterior. Nunca está de más comprobar en caso de que algo haya cambiado. Tu carrera y presencia pública son destacadas bajo la Luna Llena del 13 de diciembre. Si tu oficina o interacciones con clientes requieren de un poco más de alegría y atención, te habrás preparado para ello. Expón tu lado creativo con la Luna Nueva del 28 de diciembre. Tus obligaciones serán cumplidas, las festividades estarán bajo control y tú te mereces algo de diversión sólo para ti. Prueba algo fuera de lo común y no te preocupes por cómo resulta. Para variar, haz lo que te haga intensamente feliz.

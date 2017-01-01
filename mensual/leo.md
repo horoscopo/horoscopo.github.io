@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Diciembre 2016 
+title: Leo Enero 2017 
 permalink: /horoscopo-mensual/leo/
-keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2016, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-12-01'
+ lastmod: '2017-01-01'
 ---
 
- El Sol forma trígono con Neptuno el 1 de noviembre, abriendo los corazones de las personas y haciendo algunos de ellos hipersensibles. Pisa con cuidado. La Luna Llena del 14 de noviembre ilumina tu sector profesional e imagen pública. Incluso si entonces sientes ganas de quedarte en casa, la gente te va a encontrar, por lo que puede que también participen plenamente en lo que estás haciendo. En tu trabajo, hazte visible y brilla. La Luna Nueva del 29 de noviembre te promete gran diversión sin tener que cruzar el límite de la imprudencia o la extravagancia. Tómate tu tiempo y elige bien tus diversiones. Lo que te parezca bien al principio podría dejarte un amargo sabor de boca más tarde. Sé exigente.
+ El Sol conjunta a Saturno el 10 de diciembre, cuando una figura de autoridad podría proyectar una sombra sobre uno de tus más traviesos planes. Muestra respeto. Tu vida social vibra bajo la Luna Llena del 13 de diciembre. Es posible que no sepas a dónde ir primero o con quién. Simplemente ve, visita un lugar nuevo y luego acude a otro de nuevo. Sólo asegúrate de que puedas levantarte para trabajar al día siguiente. La Luna Nueva del 28 de diciembre te hará preguntarte si es que has estado fiesteando de más durante la época de festividades. Incluso si la respuesta es no, te mereces más tiempo para ti, invirtiendo más de tu saludable energía en ti. Increíblemente, hay más en la vida que simple diversión.

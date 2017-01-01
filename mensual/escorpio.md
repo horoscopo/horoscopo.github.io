@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Escorpio Diciembre 2016 
+title: Escorpio Enero 2017 
 permalink: /horoscopo-mensual/escorpio/
-keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2016, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2017, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-12-01'
+ lastmod: '2017-01-01'
 ---
 
- Podías sentir hiperactividad cuando la Luna conjunte a Marte el 6 de noviembre. Haz algo que sea físicamente más activo o gasta toda esa energía preparándote para la siguiente semana de trabajo. La Luna Llena del 14 de noviembre emana su brillo directamente en tu mundo del amor y el romance. Una amistad podría expresar el deseo de ser más íntimos, o podrías de repente notar a una gran persona que ha estado cerca de ti todo este tiempo. La Luna Nueva del 29 de noviembre inicia un mes lunar de buenas oportunidades financieras y debilita cualquier viejo hechizo que te haya llevado a gastar de más. Bien sabrás cuándo actuar en relación a algo bueno y cuándo esperar.
+ La Luna conjunta a Plutón el 2 de diciembre, en caso de que las festividades y las demandas de trabajo no fueran suficientemente estresantes. Mantén la calma, pero insiste en hacer aquello que necesites hacer. Podrías ser el ancla de muchas personas que sostenga todo en su lugar bajo la Luna Llena del 13 de diciembre. Y vaya que ellos lo saben. Disfruta de recibir el respeto que te mereces y sé humilde al recibir cumplidos. La intensa Luna Nueva del 28 de diciembre atrae a amigos y vecinos a tu alrededor, ya sea que los quieras o no. Alégrate por el compañerismo. Si algunos tienen preocupaciones o historias dramáticas qué compartir, escúchalos y permite que se desahoguen. ¿Para qué son los amigos?

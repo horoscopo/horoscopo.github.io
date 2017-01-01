@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Cancer Diciembre 2016 
+title: Cancer Enero 2017 
 permalink: /horoscopo-mensual/cancer/
-keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2016, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2017, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-12-01'
+ lastmod: '2017-01-01'
 ---
 
- El 1 de noviembre puede ser un día muy emocional debido al Sol formando trígono con Neptuno. Sé consciente de cualquier grande sueño o expectativa que sea poco razonable. Las tensiones sociales deberían suavizarse con la llegada de la Luna Llena del 14 de noviembre. Relájate, siente más comodidad con tus nuevos conocidos y rodéate de algunas de tus de cosas más preferidas. Ordena lo que más te gusta del menú (respetando tu presupuesto, por supuesto) y olvídate de las apariencias. La Luna Nueva del 29 de noviembre te anima a ponerte en primer lugar. Come bien, descansa, ten una vida activa y una rutina saludable. Después, salta a tus asuntos familiares y sociales. Es posible que hasta la gente te diga lo bien que te ves. 
+ Podrías sentir agobio cuando la Luna entre a Piscis el 5 de diciembre. Realmente no tienes el peso del mundo sobre tus hombros, aunque así se sienta. Durante la Luna Llena del 13 de diciembre, disfruta de un bien merecido tiempo en privado. Probablemente has estado trabajando horas extras en planes de vacaciones, en casa y en los placeres de otras personas. Descansa, recupérate y relájate. La Luna Nueva del 28 de diciembre sugiere que te relajes en los brazos del amor. Sin embargo, es una Luna Nueva extremadamente intensa. Es posible que necesites de un intenso y nuevo amor para distraerte de tus preocupaciones. Alternativamente, podría ser alguien que ya conoces con un afecto más fuerte y nuevo hacia ti.

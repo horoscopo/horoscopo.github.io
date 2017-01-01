@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sagitario Diciembre 2016 
+title: Sagitario Enero 2017 
 permalink: /horoscopo-mensual/sagitario/
-keywords: horóscopo, horóscopo 2016, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2016, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2017, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2016-12-01'
+ lastmod: '2017-01-01'
 ---
 
- Una situación laboral se resuelve a tu favor cuando la Luna forma sextil con Júpiter el 2 de noviembre. Suavemente habla sobre una oportunidad que haga avanzar o expanda tu posición. La Luna Llena del 14 de noviembre favorece las finanzas hogareñas y tu presupuesto personal. Descubre algo útil que ha sido pasado por alto, pero ahora, resuelve un pequeño misterio monetario. Haz un cambio sin mucho esfuerzo (compra marcas o en tiendas diferentes) que pudieran ahorrarte dinero todos los días. La Luna Nueva del 29 de noviembre es positiva para ti y está llanea de inteligencia y sentido común. Cualquier nueva idea será tanto adecuada como exitosa. Las interacciones sociales también te beneficiarán. Anda y sal a mostrar toda esa gran energía.
+ El trígono entre Marte y Júpiter del 1 de diciembre te da el impulso adicional de energía y los contactos sociales que necesitas para hacer las cosas. El amor alcanza su punto más brillante con la Luna Llena del 13 de diciembre. Si no es tu cumpleaños, puede que se te trate como si lo fuera. Celebra y déjate amar. Alguien especial querrá mimarte. La Luna Nueva del 28 de diciembre apunta a asuntos de dinero y posesiones materiales. Puede que hayas respetado tu presupuesto hasta ahora, pero la época de festividades no ha terminado todavía. Compórtate seguramente, permanece cerca de casa y ten un emocionante año nuevo de la mejor manera.
