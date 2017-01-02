@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: escorpio 26-12-2016 al 02-01-2017 
-description: Horóscopo semanal escorpio. Horoscopo 26-12-2016 al 02-01-2017. Horoscopos univision gratis
+title: escorpio 02-01-2017 al 09-01-2017 
+description: Horóscopo semanal escorpio. Horoscopo 02-01-2017 al 09-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: zC-IBqCFn4w
+ video: J8qn2ymeZBM
 
 ogimg: /images/zodiac/escorpio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-12-26'
+ lastmod: '2017-01-02'
 ---
 
 
-Podrías estar buscando estabilizar una situación determinada y mantenerla bajo control lo mejor que puedas. Sin embargo, conforme Mercurio desacelera para luego volverse directo a mitad de semana, tus planes podrían estar sujetos a cambios inesperados. Dicho esto, prepárate para analizar varias alternativas. Es posible que la menos atractiva pueda llegar a ser la mejor oferta. Además, con el Sol uniéndose a Júpiter en tu sector financiero personal, un pequeño golpe de suerte podría llegarte este fin de semana.
+Podrías chocar con algunas de tus amistades a lo largo de la próxima semana, posiblemente con una persona en particular demostrando ser muy terca. Tal vez sea mejor no intentar desafiarle directamente, sino dejar de lado cuestiones fundamentales y, además, hacerlo con gran sensibilidad y tacto. Debido a que la persona podría estar sintiéndose muy emocional, tratar de hablar lógicamente tal vez no funcione. De hecho, si puedes evitar a este tipo de personas, la vibra debería ser mejor a lo largo de la semana.
 
 ##Dinero
 
-Aspectos en tu sector de apariencia personal y autoexpresión muestran que, si bien es posible que te centres en la búsqueda de un nuevo trabajo o una nueva posición con tu empleador actual, el dinero real puede estar en la mejora de tu aspecto para que se te perciba de una manera diferente. Conseguir tener la ropa y el peinado adecuado puede hacer toda la diferencia del mundo.
+Esta semana, los planetas están cambiando la manera en la que otros te ven, lo cual es positivo a largo plazo. Pero, dado a que en la actualidad afecta a tu carrera y tu vida hogareña, lo mejor es acudir a tus relaciones serias en busca de asistencia. Aquellos que pueden sostenerse en medio de una tormenta son aquellos que deseas mantener cerca.

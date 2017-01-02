@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 26-12-2016 al 02-01-2017 
-description: Horóscopo semanal acuario. Horoscopo 26-12-2016 al 02-01-2017. Horoscopos univision gratis
+title: acuario 02-01-2017 al 09-01-2017 
+description: Horóscopo semanal acuario. Horoscopo 02-01-2017 al 09-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: 4gjsZ78dNZw
+ video: tlNrINZu5w8
 
 ogimg: /images/zodiac/acuario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2016-12-26'
+ lastmod: '2017-01-02'
 ---
 
 
-Mejorar tus habilidades puede ser una manera de conseguir nuevas oportunidades en tu vida. La Luna Nueva del martes puede ser el mejor momento para ver qué te ofrece el mundo y así aumentar tus opciones. ¿Quieres empezar un taller de escritura creativa, diseño de interiores o de marketing en línea? Cualquiera de estas opciones es posible si te dispones a asumir el trabajo que implica tu decisión. El romance puede llegar durante un evento especial de la época de fiestas si no estás con nadie y buscas amor.
+Los asuntos hogareños y familiares, asuntos de bienes raíces y proyectos de manualidades son clave esta semana conforme el enfoque te anima a seguir adelante con planes que has estado alimentando. Es posible que se te empuje a tomar medidas más pronto que tarde, ya que el Eclipse Solar puede coincidir con eventos que aumenten tu ritmo. Si bien esto puede parecerte incómodo al principio, pronto te darás cuenta de que tienes más oportunidades y libertad de la que pensaste que tenías antes. Sin embargo, Mercurio se torna retrógrado, por lo que sufrir retrasos podría ser inevitable.
 
 ##Dinero
 
-Todas las cosas buenas les vienen a aquellos que esperan, pero tú no tienes que esperar mucho tiempo para las cosas buenas. Ciertos aspectos afectan tu sector de vidas pasadas, karma e instituciones, por lo que estás recibiendo todo tipo de información valiosa en tus sueños y destellos psíquicos. Asegúrate de prestarles atención. Es posible que dudes de tus pensamientos demasiado. A partir de esta semana, confía en ellos para lograr todo lo que quieres lograr.
+Estás a punto de tomar ventaja de algunas nuevas oportunidades en el trabajo y los negocios. El Universo destaca tu sector que rige el dinero y los valores, por lo que no sólo vas a ser capaz de ganar más, sino que también lo usarás racionalmente. Esto puede significar que inviertas en tu futuro mediante la financiación de un nuevo negocio, o encuentres un millón de nuevas formas de recaudar más dinero.
