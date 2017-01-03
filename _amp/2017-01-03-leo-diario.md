@@ -1,0 +1,26 @@
+---
+layout: amp
+title: leo hoy gratis 03 de enero del 2017 
+permalink: /horoscopo-diario-gratis/amp/leo/
+normallink: /horoscopo-diario-gratis/leo/
+home: FALSE
+horoscopo:
+ signo: leo
+ video: VFaOJQ-u8GY
+
+ogimg: /images/leo_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Hoy puede que realices un trabajo de rutina, tal vez voluntario, con una persona interesante cuya compañía te gusta. Las conversaciones animadas deben hacer que el día vaya más rápido. Podrías terminar el día deseando ver a esa persona otra vez. A través de tu nueva amistad y el trabajo, debes tener un montón de información sobre las mentes de los demás, ¡por no hablar de la tuya propia!
+
+##Amor
+
+Si no sueñas con el amor, no lo vas a encontrar, así que sueña a menudo y sueña a lo grande. Hoy es el día para dar los primeros pasos en tu búsqueda del amor perfecto. Ya te has escondido lo suficiente y ahora te preparas para dar los primeros pasos hacia un futuro fabuloso.
+
+##Trabajo
+
+Ten en cuenta el espacio que te rodea. Puedes aprender mucho con solo prestarle atención al mundo a tu alrededor. La información puede llegarte de las fuentes más inesperadas. Todo lo que tienes que hacer es mirar, observar las cosas atentamente. Y escuchar a los demás.
