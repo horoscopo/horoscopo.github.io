@@ -1,0 +1,29 @@
+---
+layout: horoscopos
+title: escorpio hoy gratis 05 de enero del 2017 
+description: Horóscopo del dia de hoy para escorpio. Horoscopo de hoy 05 de enero del 2017. Las predicciones de amor, trabajo, vida personal gratis.
+permalink: /horoscopo-diario-gratis/escorpio/
+amplink: /horoscopo-diario-gratis/amp/escorpio/
+home: FALSE
+redirect_from: /p/escorpio.html
+keywords: horóscopo de hoy, horóscopo diario, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo 2017, horóscopo esperanza gracia, horoscopo escorpio hoy, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2017, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
+horoscopo:
+ signo: escorpio
+ video: ZxB8d-vnK1I
+
+ogimg: /images/escorpio_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Un evento celestial ha comenzado en el cual tendrás la oportunidad de descartar viejo equipaje para poder incorporar nuevas ideas. Hay mucha intensidad emocional en el aire, y deberías utilizar esta energía para profundizar tus relaciones con los demás. En lo que respecta a ti, la energía astral te incentivará a concentrarte en tu conexión con aquellos cercanos a ti en un plano intelectual. Están altamente favorecidas todas las actividades grupales.
+
+##Amor
+
+Recuerda que los planetas quieren que encuentres el amor, pero tendrás que esforzarte. Hoy necesitas pensar de verdad en qué funcionará y qué no para ambos. No analices demasiado. Todo esto podría cambiar en un minuto pero necesitas un lugar en el que comenzar.
+
+##Trabajo
+
+Los objetivos profesionales que te fijaste hace algunos meses deben implementarse ahora. Comienza a investigar y pídele consejos a la gente que tú sabes te puede ayudar a transitar este camino. En este momento todos están dispuestos a ayudarte.
