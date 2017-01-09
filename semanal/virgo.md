@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 02-01-2017 al 09-01-2017 
-description: Horóscopo semanal virgo. Horoscopo 02-01-2017 al 09-01-2017. Horoscopos univision gratis
+title: virgo 09-01-2017 al 16-01-2017 
+description: Horóscopo semanal virgo. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: IA22w1lAu3w
+ video: 4theBZ6Fsjw
 
 ogimg: /images/zodiac/virgo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-02'
+ lastmod: '2017-01-09'
 ---
 
 
-Una positiva conexión entre Venus y Marte en tu signo al principio de semana puede ser perfecta para una cita especial o un evento social un tanto interesante. Una cuestión relativa a una meta o un negocio creativo podría dominar tu conciencia, y esto podría significar que te pierdas de un par de oportunidades en otros lugares. Dale tu atención, pero sé consciente de que hay una alta probabilidad de que lo que decidas llegue a cambiar la próxima semana. Por último, si vas a acudir a un evento este fin de semana, tal debería ser estupendo.
+La presente se vislumbra una semana de mucho trabajo, pero podría volverse aún más ocupada una vez que Mercurio entre a tu sector profesional y de responsabilidades. Con un enfoque muy positivo en la parte superior de tu carta, es posible que te estés preparando para lograr un objetivo o hacer un cambio de carrera. Para ello tendrás que mostrar cooperación, diplomacia y encanto. Si te comportas demasiado egoístamente, podías cerrarle la puerta a una oportunidad que podría ser muy buena para ti.
 
 ##Dinero
 
-Es un buen momento para ti, queriendo más que nada iniciar una nueva cuenta de ahorro y plan de inversiones para asegurar tu futuro. Pero hay tentaciones por todas partes debido a cierta actividad en tu sector de viajes, educación y espiritualidad. La necesidad de viajar y aprender tiene mucho poder sobre ti, y el dinero constantemente se sale de ese agujero en tu bolsillo. Trata de resistirte a la tentación de derrochar. Siempre se puede aprender de los acontecimientos de la vida.
+Podrías llegar a tener sueños extraños y flashes psíquicos esta semana debido a los aspectos particulares de tu carta. Lo maternal, el hogar y las emociones internas son lo más afectado. ¿Estás pensando en tener o adoptar a un ser bajo tu alá (las mascotas cuentan también)? La adopción de una nueva compañía puede costar un poco, pero todos los placeres que tal ofrece hacen que valga la pena al final.

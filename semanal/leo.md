@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 02-01-2017 al 09-01-2017 
-description: Horóscopo semanal leo. Horoscopo 02-01-2017 al 09-01-2017. Horoscopos univision gratis
+title: leo 09-01-2017 al 16-01-2017 
+description: Horóscopo semanal leo. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: 2DreP-dpvf8
+ video: 25GpT63ZFJA
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-02'
+ lastmod: '2017-01-09'
 ---
 
 
-Puede que te des cuenta de que te llevas mucho mejor con cierta persona, quizá porque comparten una pasión o un interés. Tener esto en común puede alentarte a que se conviertan en buenos amigos por un largo tiempo. Al mismo tiempo, otro enfoque fundamental podría motivarte para ayudar a otras personas y apoyar a quienes lo necesiten. Sin embargo, no te excedas con este plan si ya tienes muchos asuntos personales pendientes. Saber cuándo poner el freno te puede ayudar a conservar tu energía.
+Marte, tu planeta personal, ingresa a Piscis y a un sector más alejado de tu carta astral, por lo cual podrías comenzar a dirigir tu enfoque hacia ti. Esto quizá no sea tan malo. Con algunos aspectos cruciales a la vista que fomentan un cambio positivo en tu vida, si das un paso atrás puedes aprovecharlo al máximo, especialmente si usas este momento para evaluar tus prioridades. Mercurio se vuelve retrógrado el 19 de diciembre, así que evita comprometerte con asuntos legales o cualquier asunto que implique invertir grandes cantidades de dinero.
 
 ##Dinero
 
-Aspectos en tu gráfico asociado con el empleo y la salud te exhortan a hacer los cambios necesarios y hacerte chequeos médicos. Debido a que el Universo revela lo anteriormente enterrado bajo la superficie, puedes encontrarte con que alguien tiene la intención de bloquear tu camino hacia el éxito. Un vistazo a tu sector de vidas pasadas y karma te mostrará que ahora cosecharás lo que has sembrado.
+Te encuentras ahora en una situación interesante con cierta actividad en tu sector de vidas pasadas, sueños e instituciones. Puede que sientas que tu vida laboral no está haciendo todo lo posible por ti. Puede que tengas más suerte trabajando para una entidad mayor. Gracias a tu sector de grupos, tus amistades te conectarán a una nueva compañía con más capacidad de pagarte lo que vales. Sueña en grande.

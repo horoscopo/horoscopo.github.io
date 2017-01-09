@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 02-01-2017 al 09-01-2017 
-description: Horóscopo semanal libra. Horoscopo 02-01-2017 al 09-01-2017. Horoscopos univision gratis
+title: libra 09-01-2017 al 16-01-2017 
+description: Horóscopo semanal libra. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: 0wwNCn7Lkpw
+ video: 7F9YkO94YEU
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-02'
+ lastmod: '2017-01-09'
 ---
 
 
-Si tienes que comprar artículos para tu hogar, no aceptes la primera oferta que encuentres. Las influencias actuales sugieren que podrías encontrar uno mejor en otro lugar - de hecho, uno que realmente podría satisfacerte. Por otro lado, una tendencia a disfrutar de algunos gustos podría hacer que gastes más en actividades de ocio de lo que es necesario. Sin embargo, si estás invirtiendo tu dinero en efectivo en un proyecto creativo o un romance que florece, puede que sientas que es dinero bien gastado.
+Pareces tener mucho involucramiento social en este momento, lo que puede ser muy satisfactorio. Aun así, a mitad de semana, podías tener una ligera obsesión con una cierta persona o con su carácter o intereses. Puede que lo mejor sea que te detengas, si te es posible. La Luna Llena del jueves podría actuar como un factor desestabilizador, provocando que tomes una decisión que podrías lamentar más adelante. Trata de no hacer ningún movimiento hasta mediados de la próxima semana si te es posible.
 
 ##Dinero
 
-Hay nuevas oportunidades para trabajar horas extras o encontrar un nuevo empleo con mejor salario y beneficios. Cierta actividad en tu sector de romance, familia y diversión, infiere que se te está forzado a encontrar ese delicado equilibrio entre trabajo y vida que todos se esfuerzan por tener cada día. Tú puedes encontrarlo.
+Puede que estés experimentando algunos cambios no deseados en el trabajo esta semana. Las grandes ideas pueden estar ocurriendo a un ritmo rápido, pero puede que otras personas no estén en el lugar adecuado para escucharlas por el momento. Es como un zapato demasiado ajustado - no se le puede forzar. En vez, ajusta la forma en como tratas con los demás, esto hará toda la diferencia en el mundo. Relájate y deje que esto ocurra.

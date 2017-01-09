@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 02-01-2017 al 09-01-2017 
-description: Horóscopo semanal capricornio. Horoscopo 02-01-2017 al 09-01-2017. Horoscopos univision gratis
+title: capricornio 09-01-2017 al 16-01-2017 
+description: Horóscopo semanal capricornio. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: BeixNi61RQE
+ video: fiUaSgdpbbA
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-02'
+ lastmod: '2017-01-09'
 ---
 
 
-Puede que te preguntes si deberías jugar a lo seguro o comprar un costoso artículo o experiencia. Con Mercurio retrógrado en tu sector financiero, puede que sea mejor esperar hasta después de 21 de septiembre, ya que darte un pequeño lujo o capricho podría atarte a algo. Además, ciertas emociones podrían salir a la superficie con el Eclipse Lunar en tu sector de bienes compartidos. Teniendo esto en cuenta, podría ser prudente irte a lo seguro si sientes preocupación debido a gastos inesperados.    
+Te cuesta tomar una decisión cuando aparecen oportunidades de oro. Ya sea que busques más opciones de recreación, una forma de acercarte a la persona que te interesa o una oportunidad de viajar, elige lo que más te convenga. Es posible que no estés de acuerdo con tu jefe o una figura de autoridad y debas cuidar el modo en que interactúas con él o ella. Es mejor buscar la honestidad antes que decir una mentira inocente, porque podrían descubrirte. Más allá de eso, el mundo es tu ostra.   
 
 ##Dinero
 
-Es posible  que esta semana necesites obtener una segunda opinión sobre tus planes acerca de dinero. Tienes un montón de ideas creativas acerca de cómo maximizar tu dinero, pero la verdad también podría ser empañada o se ve mejor de lo que realmente es. Asegúrate de checar doble y triplemente todo antes de firmar. Tu vida social es cálida y amorosa. Solo trata de no gastar de más en las noches de farra.
+Es crucial no aceptar la palabra de todos por ahora, sino más bien descubrir por ti cuál podría ser el mejor plan para tu dinero. Los vehículos de inversión pueden ser confusos, por lo que cuenta con la ayuda de un asesor financiero calificado que pueda ayudarte a solucionar las ecuaciones numéricas y lograr que todo se haga. Mientras tanto, el Universo añade un poco de emoción.
