@@ -1,0 +1,26 @@
+---
+layout: amp
+title: escorpio hoy gratis 11 de enero del 2017 
+permalink: /horoscopo-diario-gratis/amp/escorpio/
+normallink: /horoscopo-diario-gratis/escorpio/
+home: FALSE
+horoscopo:
+ signo: escorpio
+ video: 3uPpicYTUt0
+
+ogimg: /images/escorpio_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Es tiempo de remangarse y ponerse a trabajar. Ya has tenido suficiente con toda esa teoría. La energía celestial de este día realmente pondrá tu motor a funcionar. Te sentirás bastante feliz por la gran productividad que puedes tener, terminarás con todas las pilas de papeles que hay sobre tu escritorio y finalmente harás todas las cosas que tenías que hacer. ¡Esta noche sentirás la suficiente tranquilidad como para disfrutar de un reparador sueño!
+
+##Amor
+
+Si la posibilidad de un nuevo romance surge hoy, pasa por los preliminares pero espera hasta que los planetas se muevan antes de involucrarte realmente. Esta pequeña demora también te dará la oportunidad de pensar antes de lanzarte. Eso sí, no pases demasiado tiempo pensando.
+
+##Trabajo
+
+Analiza la posibilidad de anotarte en algún curso o estudiar para obtener un título. Hoy, las ideas relacionadas con la educación universitaria ocupan tu mente, y está muy bien que así sea. Puedes lograr grandes avances en el trabajo si te comprometes a llevar adelante algún plan de estudios. Por eso, trata de barajar sin apuro todas las opciones que se presenten.
