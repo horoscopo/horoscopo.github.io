@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de enero 2017
-description: Horóscopos del dia de hoy 13 de enero 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de enero 2017
+description: Horóscopos del dia de hoy 14 de enero 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Es difícil tener una perspectiva clara desde la mañana hasta la tarde. Concentrarse sólo en una cosa no funciona - hay que enfocarse en un contexto más amplio. Esta noche, la ley de la atracción funciona bajo el sextil entre la Luna y Marte. El desafío viene con la cuadratura formada por Saturno que sugiere inicios con nada más que química física.
+No es raro encontrar la vida llena de propósitos más específicos y la motivación para descubrir maneras de lograrlos cuando Mercurio transita en Capricornio. Las parejas encuentran increíble lo que puede hacer el poder transformador del amor. Los solteros se percatan de que la química con alguien es algo especial conforme sienten cómo se sobrecalienta el aire.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
