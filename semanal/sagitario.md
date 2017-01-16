@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: sagitario 09-01-2017 al 16-01-2017 
-description: Horóscopo semanal sagitario. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
+title: sagitario 16-01-2017 al 23-01-2017 
+description: Horóscopo semanal sagitario. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 horoscopo:
  signo: sagitario
- video: 2WpoLn4SUsA
+ video: ELsTucF8u8g
 
 ogimg: /images/zodiac/sagitario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-09'
+ lastmod: '2017-01-16'
 ---
 
 
-Tu vida social está bajo un gran enfoque, pudiendo poner oportunidades en tu camino que de lo contrario no tendrías. Puede que hasta incluso te percates de que una creativa idea te conduce a un proyecto en el que te gustaría colaborar, uno que rápidamente podría convertirse en un hecho. En el frente doméstico, un plan para cambiar tus hábitos alimenticios puede tener éxito si tienes las suficientes razones para verte y sentirte mejor. Si no es así, es posible que requieras de más energía para seguir adelante.
+Te sientes con energía para entrar en acción cuando el Sol entra a tu signo esta semana. Prepárate para modificar tus planes festivos, ya que todo podría cambiar a último momento. Sin embargo, el plan alternativo podría ser igual de divertido o incluso más. Los planes sociales te mantienen en constante movimiento entre invitados y eventos y también son una buena oportunidad para establecer contactos y conocer gente nueva. Con Mercurio retrógrado en tu signo, es prudente no apurarse a hacer nada hasta después del 8 de enero.
 
 ##Dinero
 
-Estás pensando en maneras de atraer más dinero a la semana para poder disfrutar de un estilo de vida más cómodo. No es un mal plan, considerando todo. El reto será equilibrar tu deseo de divertirte con tu familia y pareja romántica con tu necesidad de establecer tu propia creatividad. Tu impulso de escribir, reproducir y crear, construye recompensas emocionales y rendimientos monetarios.
+No eres el ser más paciente de la faz del planeta, pero tu suerte es grande y está a cargo por ahora, así que no te preocupes. Los aspectos están avivando el aprendizaje, incrementando tus oportunidades para incorporar nuevas habilidades. Pueden surgir oportunidades repentinas para divertirte con amigos, familiares y parejas románticas. El dinero se hizo para gastarse, ¿cierto?

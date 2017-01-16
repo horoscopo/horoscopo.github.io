@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 09-01-2017 al 16-01-2017 
-description: Horóscopo semanal virgo. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
+title: virgo 16-01-2017 al 23-01-2017 
+description: Horóscopo semanal virgo. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: 4theBZ6Fsjw
+ video: INP8wEYoq2A
 
 ogimg: /images/zodiac/virgo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-09'
+ lastmod: '2017-01-16'
 ---
 
 
-La presente se vislumbra una semana de mucho trabajo, pero podría volverse aún más ocupada una vez que Mercurio entre a tu sector profesional y de responsabilidades. Con un enfoque muy positivo en la parte superior de tu carta, es posible que te estés preparando para lograr un objetivo o hacer un cambio de carrera. Para ello tendrás que mostrar cooperación, diplomacia y encanto. Si te comportas demasiado egoístamente, podías cerrarle la puerta a una oportunidad que podría ser muy buena para ti.
+Si escuchas cualquier chisme a principios de la semana, lo mejor sería adoptar un punto de vista imparcial en lugar de creer lo que oigas o tomar partido. De esa manera puedes mantenerte al margen de cualquier problema. El énfasis cambia cuando tu sector doméstico es puesto bajo enfoque, lo que podría animarte a disfrutar de estar en casa y tal vez tomarte algo de tiempo para recargar baterías. A lo largo del fin de semana, una conversación podría resultar muy productiva y podría ser parte de la razón por la que te sientas tan optimista.
 
 ##Dinero
 
-Podrías llegar a tener sueños extraños y flashes psíquicos esta semana debido a los aspectos particulares de tu carta. Lo maternal, el hogar y las emociones internas son lo más afectado. ¿Estás pensando en tener o adoptar a un ser bajo tu alá (las mascotas cuentan también)? La adopción de una nueva compañía puede costar un poco, pero todos los placeres que tal ofrece hacen que valga la pena al final.
+Lo más probable es que seas alguien muy organizado con su dinero. Lo llevas en la sangre. Incluso si tu mantenimiento de registros no es el mejor, es probable que lo lleves todo en tu cabeza. Tienes una oportunidad única, aparentemente de la nada, para llevar tu trabajo a casa de algún modo. Es un buen momento para establecer un negocio basado en tu hogar o incluso hacer de la construcción o la decoración de casas tu nuevo trabajo. ¡Usa tus habilidades para obtener los mejores resultados!

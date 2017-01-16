@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 09-01-2017 al 16-01-2017 
-description: Horóscopo semanal acuario. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
+title: acuario 16-01-2017 al 23-01-2017 
+description: Horóscopo semanal acuario. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: ie4OolvW27o
+ video: qVEPPcEGJvg
 
 ogimg: /images/zodiac/acuario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-09'
+ lastmod: '2017-01-16'
 ---
 
 
-Deberías sentirte en tu elemento con Venus y Marte en tu signo aumentando tu vitalidad y elevando tu confianza. Y con tu vida social todavía muy activa, podrías ser el centro de atención en cualquier evento, ya que tu carisma brilla más de lo normal. No derroches tu dinero si sales en los próximos días, ya que, al sentirte bien, podrías fácilmente gastar más dinero del que puedes permitirte, especialmente después de una época festiva costosa.
+Si has estado buscando una forma de librarte de demasiadas responsabilidades, esta podría ser tu oportunidad. Con Saturno en tu signo y vinculándose con Urano, una idea de negocios podría cambiar tu vida de manera positiva y darte también la libertad que tanto deseas. La Luna Nueva del 28 de diciembre podría ser una señal para que reestructures tus finanzas y planifiques un presupuesto estructurado para el 2017. Si has estado posponiéndolo, ahora es el momento de hacerlo.
 
 ##Dinero
 
-Es una semana complicada para ti aunque las cosas parezcan estar bien, sobre todo cuando se trata de tu relación. Vas avanzando en tus uniones con los sindicatos profesionales y personales y todo es bueno en ese frente. Sin embargo, los aspectos que afectan a tu carrera hacen que sea difícil ver el bosque por los árboles. Tómate el tiempo necesario para establecer un camino claro hacia tus metas.
+Esta semana es acerca de tus relaciones y te hace mucho más comunicativo/a sobre lo que necesitas. Te estableces ahora así con el fin de hacer que tus objetivos sean fuertes y claros. Estás cambiando las personas con las que pasas tiempo, y tales te están cambiando de una buena manera. Ganarás más dinero si tomas sus consejos en lugar de luchar contra ellos.

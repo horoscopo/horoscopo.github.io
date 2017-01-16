@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 09-01-2017 al 16-01-2017 
-description: Horóscopo semanal capricornio. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
+title: capricornio 16-01-2017 al 23-01-2017 
+description: Horóscopo semanal capricornio. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: fiUaSgdpbbA
+ video: knlIdDYpuDs
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-09'
+ lastmod: '2017-01-16'
 ---
 
 
-Te cuesta tomar una decisión cuando aparecen oportunidades de oro. Ya sea que busques más opciones de recreación, una forma de acercarte a la persona que te interesa o una oportunidad de viajar, elige lo que más te convenga. Es posible que no estés de acuerdo con tu jefe o una figura de autoridad y debas cuidar el modo en que interactúas con él o ella. Es mejor buscar la honestidad antes que decir una mentira inocente, porque podrían descubrirte. Más allá de eso, el mundo es tu ostra.   
+No sería sorprendente que llegaras a sentirte inestable al inicio de esta semana, lo que puede deberse a la Luna Llena del jueves en tu signo. Como resultado, puede que sea mejor no comprometerte con nuevos planes o ideas hasta mediados de la próxima semana, cuando los sentimientos generados por este aspecto hayan tenido la oportunidad de calmarse. Tal podría coincidir con una oportunidad que te lleve hacia una dirección completamente nueva, una que puede que no hayas considerado anteriormente.
 
 ##Dinero
 
-Es crucial no aceptar la palabra de todos por ahora, sino más bien descubrir por ti cuál podría ser el mejor plan para tu dinero. Los vehículos de inversión pueden ser confusos, por lo que cuenta con la ayuda de un asesor financiero calificado que pueda ayudarte a solucionar las ecuaciones numéricas y lograr que todo se haga. Mientras tanto, el Universo añade un poco de emoción.
+Te enfrentas a un período maravilloso y prometedor con el apoyo de tu sector de viajes, educación superior, y metafísica. La suerte sumada a grandes ideas y transformación significa que eres capaz de hacer mucho más dinero en campos como el derecho, la edición, la escritura, y hacerte de renombre en el extranjero también. Piensa cómo podrías llevar tu mensaje a un público más amplio y el dinero te llegará.

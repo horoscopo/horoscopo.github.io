@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 09-01-2017 al 16-01-2017 
-description: Horóscopo semanal leo. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
+title: leo 16-01-2017 al 23-01-2017 
+description: Horóscopo semanal leo. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: 25GpT63ZFJA
+ video: lBtYGctgpBI
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-09'
+ lastmod: '2017-01-16'
 ---
 
 
-Marte, tu planeta personal, ingresa a Piscis y a un sector más alejado de tu carta astral, por lo cual podrías comenzar a dirigir tu enfoque hacia ti. Esto quizá no sea tan malo. Con algunos aspectos cruciales a la vista que fomentan un cambio positivo en tu vida, si das un paso atrás puedes aprovecharlo al máximo, especialmente si usas este momento para evaluar tus prioridades. Mercurio se vuelve retrógrado el 19 de diciembre, así que evita comprometerte con asuntos legales o cualquier asunto que implique invertir grandes cantidades de dinero.
+Es hora de quitar el pie del acelerador y relajarte conforme el Sol se mueve a una parte más aislada de tu carta. Aunque puede que te ocupes explorando nuevas opciones o al cerrar interesantes tratos, es necesario mantener un ritmo ligero con el fin de tomar la oportunidad de recargar baterías. Esto es particularmente cierto en torno al 25 de diciembre, cuando sería prudente que no te sumergieras de lleno en preparaciones navideñas, sino más bien que delegues parte del trabajo si te es posible. Relajarte con regularidad puede aumentar tu productividad en general.
 
 ##Dinero
 
-Te encuentras ahora en una situación interesante con cierta actividad en tu sector de vidas pasadas, sueños e instituciones. Puede que sientas que tu vida laboral no está haciendo todo lo posible por ti. Puede que tengas más suerte trabajando para una entidad mayor. Gracias a tu sector de grupos, tus amistades te conectarán a una nueva compañía con más capacidad de pagarte lo que vales. Sueña en grande.
+Esta semana tienes un nuevo enfoque en tu sector del hogar y las emociones internas. Si has estado pensando en el concepto del hogar y lo que éste significa para ti, es posible que desees echar raíces, tal vez por primera vez en tu vida. Conforme estás tratando de tomar el control de tu vida hogareña, asegúrate de también proyectar tu presupuesto de gastos de manutención durante el resto del año. Lo que quieres tiene la posibilidad de hacerse real si lo planeas con anticipación.

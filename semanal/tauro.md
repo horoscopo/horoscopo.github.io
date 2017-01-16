@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: tauro 09-01-2017 al 16-01-2017 
-description: Horóscopo semanal tauro. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
+title: tauro 16-01-2017 al 23-01-2017 
+description: Horóscopo semanal tauro. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: Gokf_0M5TRM
+ video: awyHQunW7R8
 
 ogimg: /images/zodiac/tauro.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-09'
+ lastmod: '2017-01-16'
 ---
 
 
-A pesar de que puede que tengas disposición a perder peso y tonificar tu cuerpo tanto como te sea posible, puede que hacerlo no sea fácil en práctica. La tentación de darte gustos podría interferir con tus planes. Sin embargo, puede que seas capaz de superar estos obstáculos si contratas los servicios de un entrenador personal. Aun así, el impulso de comer en exceso podría ser casi imposible de resistir una vez Venus entre a Tauro más adelante en la semana. Es posible que tengas que ceder y simplemente disfrutar.
+Con Venus entrando a Géminis el martes, puede que estés buscando una aventura amorosa o tengas deseos de explorar horizontes lejanos y conocer gente nueva. Cualquier cosa exótica, nueva y diferente podría llamarte la atención y podría abarcar tu gusto por alimentos, ropa o artículos. Una vez que Marte se sumerja de nuevo en Escorpión y tu sector de finanzas, tendrás una segunda oportunidad para poner tus finanzas en orden y resolver cualquier deuda. También podría interesarte reusar y reciclar en este momento.
 
 ##Dinero
 
-Es una gran semana para ti. Una gran cantidad de energía te rodea, y ahora podrás atraer lo que quieres y necesitas. En cuanto a dinero, vas en la dirección correcta y habrá más comunicación al respecto. Los aspectos demuestran que tu deuda actual está en descenso, gracias a tu esfuerzo diligente y la planificación. ¡Buen trabajo!
+Es posible que te enfrentes al reto de hacer que ciertas relaciones personales funcionen, sobre todo en tu vida laboral y monetaria. Puede que alguien no esté cooperando ahora, pero si te mantienes con calma y diplomacia (no con estrés o confrontación), puedes establecer un maravilloso compromiso en el que todos ganen. Adopta una postura de negociación en todos los asuntos comerciales.

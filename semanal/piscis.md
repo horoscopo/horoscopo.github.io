@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 09-01-2017 al 16-01-2017 
-description: Horóscopo semanal piscis. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
+title: piscis 16-01-2017 al 23-01-2017 
+description: Horóscopo semanal piscis. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: 4qAJfqdYuw4
+ video: aZw9wHkw7AM
 
 ogimg: /images/zodiac/piscis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-09'
+ lastmod: '2017-01-16'
 ---
 
 
-Con la temporada de festividades a toda marcha, sientes mucha inquietud como para poder concentrarte en lo importante. Los viajes y las oportunidades para probar otro tipo de diversiones te atraen más. Y con la probabilidad de disfrutar una vida social más activa, tus tareas diarias pueden parecerte un poco aburridas. Sin embargo, una conversación o una idea te impulsará a entrar en acción nuevamente y te motivará para progresar.
+Es posible que aún tengas el deseo de tomarte tiempo para reflexionar y recargar baterías. Si es así, entonces te encuentras por buen camino debido a que un fuerte enfoque continúa en tu sector espiritual. Y con Mercurio girando hacia atrás, este también puede ser el momento perfecto para resolver ciertos problemas que has estado arrastrado desde hace algún tiempo. También hay una excelente noticia para ti con Júpiter entrando a tu signo el viernes y permaneciendo ahí durante doce meses. ¡Una oportunidad que has anhelado podría estarte pisando los talones!
 
 ##Dinero
 
-Puede que no seas el miembro más paciente del Zodíaco, pero esta semana puedes ganarte algunos problemas con esa manera de pensar. Los aspectos afectan a tu sector de relaciones y del hogar significando que estas áreas de tu vida no son exactamente llevadas muy bien que digamos. Lo mejor es jugar como pacificador, incluso en tu mismo interior. Por cada concesión que hagas hacia los demás, pasa algo de tiempo y dinero haciendo de tu espacio uno más acogedor.
+Este período tiene algunos aspectos favorables para ti. Un Universo equilibrado y pacífico te trae un montón de coraje para enfrentarte al problema de una deuda existente, así como para obtener la capacidad de negociar el tipo de plan de pago que puedas pagar. Parte de ti puede preocuparse de que nunca lograrás pagarlo, pero los aspectos muestran que sí lo harás si aplicas tu sabiduría interior.

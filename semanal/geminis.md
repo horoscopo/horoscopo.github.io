@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 09-01-2017 al 16-01-2017 
-description: Horóscopo semanal geminis. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
+title: geminis 16-01-2017 al 23-01-2017 
+description: Horóscopo semanal geminis. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: G01ah9WsIgM
+ video: SY5GZ6-2fxU
 
 ogimg: /images/zodiac/geminis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-09'
+ lastmod: '2017-01-16'
 ---
 
 
-El dinero, o la falta de él podría ser la razón por la que sea necesario que recortes ciertas actividades o eventos sociales. Con Saturno en el ápice, una apretada mezcla de energías podría hacerte reducir tus gastos y aprovechar al máximo tus recursos. Pero no tienes que dejar de divertirte o socializar por completo. Si analizas bien tus finanzas, es posible que te des cuenta de que con un poco de ajuste podrás seguir disfrutando de la vida sin llegar a la bancarrota. 
+Si tienes algo importante que firmar, lee los términos y condiciones con tal de entender lo que se te está ofrecido. La mezcla de energías de esta semana insinúa que puede que sientas tanto enamoramiento hacia una idea que se te olvide notar aspectos prácticos que pudieran ser vitales. Te irá mejor si pides una segunda opinión o investigas más al respecto. Mercurio inicia su fase retrógrada en tu sector profesional el jueves, pudiendo traer retrasos. Sin embargo, puede que éstos funcionen a tu favor.
 
 ##Dinero
 
-Esta semana hay un énfasis en la mente, el pensar y el expresar ideas. Podrías sentir la tentación de gastar en clases o talleres esta semana, sobre todo si te llevan a pasar más tiempo fuera de tus pensamientos y en búsqueda interna o externa. Sólo asegúrate de que es algo que tiene la capacidad de responder a las grandes preguntas de la vida.
+Tienes algo en que pensar con respecto a tu empleo. Debido a que ciertos aspectos afectan tu trabajo, ambiente de trabajo, jefe, y compañeros de trabajo, es el momento de prestar atención a cada una de estas áreas. Pregúntate si eres feliz en la situación en la que estás. ¿Quieres permanecer ahí o cambiar de trabajo?

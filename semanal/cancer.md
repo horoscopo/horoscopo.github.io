@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 09-01-2017 al 16-01-2017 
-description: Horóscopo semanal cancer. Horoscopo 09-01-2017 al 16-01-2017. Horoscopos univision gratis
+title: cancer 16-01-2017 al 23-01-2017 
+description: Horóscopo semanal cancer. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: VYALORm-TrA
+ video: PfTbhgczHvs
 
 ogimg: /images/zodiac/cancer.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-09'
+ lastmod: '2017-01-16'
 ---
 
 
-Te puede entusiasmar la posibilidad de un proyecto que tiene efecto a largo plazo. Una variedad dinámica de energías se pone en marcha al comienzo del mes y sigue en movimiento durante todo el mes. Y como te afecta personalmente, puedes disfrutar de muchos beneficios si sigues la corriente. La importancia está en el cambio constructivo y en progresar lento pero firmemente hacia una meta que puede revolucionar un aspecto clave de tu vida. Un evento de negocios también puede ser una buena oportunidad.
+Una sensación de bienestar podría darle a tu semana un buen comienzo. Con la positiva alineación entre el Sol y Júpiter, es posible que sientas agradecimiento y felicidad por el simple hecho de tener vida sin importar lo que esté pasando. Hay un amplio margen para positiva actividad en relación a contratos, ofertas y el establecimiento de contactos. Cuando tener ambición y mostrar un poco de agresividad podría ayudarte a obtener el mejor resultado. La Luna Nueva del viernes podría ser un buen momento para aprender a meditar o practicar la disciplina espiritual de tu elección.
 
 ##Dinero
 
-Una energía de suerte con respecto al dinero de otras personas significa que puedes beneficiarte de la propiedad compartida, las inversiones, o una herencia inesperada. Esto da rienda suelta a todo tipo de cosas buenas en esta área de tu vida. Otros aspectos afectan las vidas pasadas, los sueños y el karma. Otórgales a los demás lo que quisieras que te dieran a ti, financieramente hablando.
+Ahora tienes un aspecto armonioso afectando a tu sector de hogar y emociones. Si trabajas en un campo creativo o de diseño, piensa en cómo ampliar tu línea para incluir el diseño de interiores. Dado a que tantos de tus propios recuerdos y sentimientos están siendo despertados, puedes percatarte de que tu vida puede servir de base para nuevas y maravillosas ideas. El dinero viene cuando se combina lo personal con lo profesional.
