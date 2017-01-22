@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de enero 2017
-description: Horóscopos del dia de hoy 21 de enero 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 22 de enero 2017
+description: Horóscopos del dia de hoy 22 de enero 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Hoy, la vida es muy ordenada bajo la increíblemente eficiente Luna en Virgo. Venus, el astro del amor, también se encuentra en Virgo, dándonos tendencia a juzgar a las personas a tan sólo unos minutos de haberlas conocido. A veces es bueno aplicar la prueba del tiempo cuando los veredictos son firmes y la información es escasa.
+Puede que esta mañana descubras una manera de resolver problemas. La gente estará consciente (tan pronto como esta tarde) de que estás firmemente a cargo de la situación. Esta noche, la Luna aspecta al planeta del amor encontrándose retrógrado. Venus no se anda con juegos, pero sí podría estar tratando de ganarte tiempo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
