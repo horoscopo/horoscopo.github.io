@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 16-01-2017 al 23-01-2017 
-description: Horóscopo semanal piscis. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
+title: piscis 23-01-2017 al 30-01-2017 
+description: Horóscopo semanal piscis. Horoscopo 23-01-2017 al 30-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: aZw9wHkw7AM
+ video: Byjxs7XZ9_k
 
 ogimg: /images/zodiac/piscis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-16'
+ lastmod: '2017-01-23'
 ---
 
 
-Es posible que aún tengas el deseo de tomarte tiempo para reflexionar y recargar baterías. Si es así, entonces te encuentras por buen camino debido a que un fuerte enfoque continúa en tu sector espiritual. Y con Mercurio girando hacia atrás, este también puede ser el momento perfecto para resolver ciertos problemas que has estado arrastrado desde hace algún tiempo. También hay una excelente noticia para ti con Júpiter entrando a tu signo el viernes y permaneciendo ahí durante doce meses. ¡Una oportunidad que has anhelado podría estarte pisando los talones!
+Salir con amigos a ver una película o asistir a algún evento cultural podría ser muy interesante, especialmente si te lleva a explorar tu creatividad. Y con Venus actualmente en tu signo, esta puede ser una oportunidad de oro para experimentar con una habilidad o un talento que podría ser muy enriquecedor en el futuro. Más adelante, Marte se desplaza hacia tu sector de finanzas personales para fomentar una actitud más proactiva para resolver problemas. Puede que necesites juntar coraje para solucionar ciertos asuntos de dinero.
 
 ##Dinero
 
-Este período tiene algunos aspectos favorables para ti. Un Universo equilibrado y pacífico te trae un montón de coraje para enfrentarte al problema de una deuda existente, así como para obtener la capacidad de negociar el tipo de plan de pago que puedas pagar. Parte de ti puede preocuparse de que nunca lograrás pagarlo, pero los aspectos muestran que sí lo harás si aplicas tu sabiduría interior.
+Para ti, esta semana se trata de tomar ventaja de las circunstancias que se presentan en tu vida laboral. Tienes suerte, así que puede que encuentres que tienes la oportunidad de impresionar a alguien que tiene poder para tomar decisiones financieras. Estas afectarán de manera positiva tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personales y financieras, el incorporarlas a tu vida cotidiana te hace más fuerte.

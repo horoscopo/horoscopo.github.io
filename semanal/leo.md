@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 16-01-2017 al 23-01-2017 
-description: Horóscopo semanal leo. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
+title: leo 23-01-2017 al 30-01-2017 
+description: Horóscopo semanal leo. Horoscopo 23-01-2017 al 30-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: lBtYGctgpBI
+ video: j0OeuaBm19Y
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-16'
+ lastmod: '2017-01-23'
 ---
 
 
-Es hora de quitar el pie del acelerador y relajarte conforme el Sol se mueve a una parte más aislada de tu carta. Aunque puede que te ocupes explorando nuevas opciones o al cerrar interesantes tratos, es necesario mantener un ritmo ligero con el fin de tomar la oportunidad de recargar baterías. Esto es particularmente cierto en torno al 25 de diciembre, cuando sería prudente que no te sumergieras de lleno en preparaciones navideñas, sino más bien que delegues parte del trabajo si te es posible. Relajarte con regularidad puede aumentar tu productividad en general.
+Venus entra a Sagitario y a tu sector social el martes, por lo que las próximas semanas podrían ser algunas de los mejores para el romance. Es igualmente útil si quieres hacer nuevos amigos o moverte hacia nuevos círculos. También podrías sentir mucha inquietud y emoción sin saber muy bien por qué. Una poderosa influencia en tu sector psicológico sugiere que ciertos sentimientos pueden salir a la superficie y necesitan ser reconocido y liberados. Si logras hacer esto, ¡te sentirás mucho mejor!
 
 ##Dinero
 
-Esta semana tienes un nuevo enfoque en tu sector del hogar y las emociones internas. Si has estado pensando en el concepto del hogar y lo que éste significa para ti, es posible que desees echar raíces, tal vez por primera vez en tu vida. Conforme estás tratando de tomar el control de tu vida hogareña, asegúrate de también proyectar tu presupuesto de gastos de manutención durante el resto del año. Lo que quieres tiene la posibilidad de hacerse real si lo planeas con anticipación.
+Aspectos en tu gráfico asociado con el empleo y la salud te exhortan a hacer los cambios necesarios y hacerte chequeos médicos. Debido a que el Universo revela lo anteriormente enterrado bajo la superficie, puedes encontrarte con que alguien tiene la intención de bloquear tu camino hacia el éxito. Un vistazo a tu sector de vidas pasadas y karma te mostrará que ahora cosecharás lo que has sembrado.

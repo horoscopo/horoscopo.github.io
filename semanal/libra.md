@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 16-01-2017 al 23-01-2017 
-description: Horóscopo semanal libra. Horoscopo 16-01-2017 al 23-01-2017. Horoscopos univision gratis
+title: libra 23-01-2017 al 30-01-2017 
+description: Horóscopo semanal libra. Horoscopo 23-01-2017 al 30-01-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: T72yFXR9QZI
+ video: w7d5UXx-jOI
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-16'
+ lastmod: '2017-01-23'
 ---
 
 
-¿Debes empezar a cumplir tu meta o tu plan profesional? Si lo estás considerando, la Luna Nueva del martes puede ser el momento del año para que lo hagas. Es posible que te encuentres en el lugar indicado en el momento correcto para dar ese paso. Además, tu vida social se ve más activa, ya que Mercurio te motiva a moverte y a irte de fiesta durante la época festiva. Allí surgen nuevas conexiones que serán útiles a largo plazo, así que no pierdas la infomación de contacto.    
+La Luna Nueva del martes podría ser un llamado a reorganizar ciertos hábitos clave. Si has estado considerando iniciar una rutina de dieta o ejercicio, este es el momento de hacerla avanzar. Además, con Marte reingresando a tu sector profesional, tendrás ganas de jugar un papel importante en los asuntos de tu comunidad; o puede que sientas entusiasmo acerca de un objetivo que habías puesto en un segundo plano. El fin de semana requiere de un poco de cuidado, ya que podría haber un malentendido.
 
 ##Dinero
 
-Para ti, ésta semana es acerca de los aspectos que te dan una conexión con la tierra para evitar que tu cabeza se eleve demasiado sobre tu situación económica actual. Tu sector del trabajo se activa, por lo que podrías traer más trabajo a tu charola y así tener más responsabilidades. Al mismo tiempo, el gastar disminuirá  para que puedas pagar tus deudas. Mantén el rumbo. Vas en la dirección correcta.
+Es una semana difícil para ti. Es tu responsabilidad decir lo que necesitas decir de una forma amable y gentil. Pero cuando se trata de tu vida hogareña y emociones internas, puede ser difícil reunir ese tipo de paciencia. En vez, puede que sientas presión y falta de respeto al tratar de salir adelante. La semana que viene será mejor en general.
