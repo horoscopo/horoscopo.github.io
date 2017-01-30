@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 23-01-2017 al 30-01-2017 
-description: Horóscopo semanal capricornio. Horoscopo 23-01-2017 al 30-01-2017. Horoscopos univision gratis
+title: capricornio 30-01-2017 al 06-02-2017 
+description: Horóscopo semanal capricornio. Horoscopo 30-01-2017 al 06-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: J2rIFQ-qacY
+ video: YpHwIGbQZLg
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-23'
+ lastmod: '2017-01-30'
 ---
 
 
-Con Marte en Piscis y en un sector más tranquilo de tu carta astral, podría resultarte difícil sentir la motivación que sueles sentir. Si lo vinculas con el ejemplar Saturno, podrías decidir quedarte donde estás y no alejarte de tu zona de confort. Sin embargo, puede que otras influencias te inspiren a que hagas exactamente eso. La curiosidad podría ser lo que finalmente te alienta a dar un paso adelante a costa de cualquier cosa. Por otra parte, el deseo podría abrir camino a una intensa conversación.
+Los asuntos familiares siguen siendo importantes, tal vez con la necesidad de desentrañar una cuestión clave que ha sido molesta recientemente. A mediados de semana, tendrás que hacer algo al respecto a pesar de que podría implicar un grado de conflicto. Tal parece que vas a elegir un cambio en el estatus quo. Por otro lado, cualquier relación problemática podría hacerse más fácil una vez que Saturno comience a avanzar a mitad de semana. Es posible que aún requieras de paciencia, pero te será recompensada.
 
 ##Dinero
 
-Esta semana hay aspectos afectando tu profesión y autoridad. Es posible que recientemente, cierta persona sin escrúpulos te haya hecho retrasarte en el trabajo o tuvieras que haber puesto un proyecto en espera mientras tratas con problemas de comunicación y problemas técnicos. Durante las próximas semanas, piensa en cómo sentar las bases para futuros acuerdos. El Universo te muestra cómo hacerlo.
+Esta semana tienes luz verde por parte del Universo para expandir tu búsqueda de empleo. Esto se aplica si estás en busca de trabajo o incluso pensando en cambiar de trabajo si lo que has estado haciendo ahora no tiene ningún significado real para ti. También es el momento de considerar pedir un préstamo.

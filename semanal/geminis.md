@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 23-01-2017 al 30-01-2017 
-description: Horóscopo semanal geminis. Horoscopo 23-01-2017 al 30-01-2017. Horoscopos univision gratis
+title: geminis 30-01-2017 al 06-02-2017 
+description: Horóscopo semanal geminis. Horoscopo 30-01-2017 al 06-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: _hqDl-EBndE
+ video: X72DXQ5jIQM
 
 ogimg: /images/zodiac/geminis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-23'
+ lastmod: '2017-01-30'
 ---
 
 
-Marte en Leo da a entender que estás en modalidad de gerente, con ansias de hacer despejar proyectos y delegar cuando sea necesario. Tu determinación para proceder podría significar que te estás presionando para tener éxito. Este es absolutamente el momento para hacerlo. Tu vida social también brilla, con muchas posibilidades para asistir a emocionantes eventos. Si quieres salir a citas, puede que sientas más confianza con el resultado de la que has sentido en mucho tiempo. La Luna Llena del Sábado podría traerte gran romance y pasión.
+Esta semana, tu actitud podría volverse menos idealista y más materialista, sobre todo cuando se trate de asuntos profesionales, monetarios y de seguridad. Plutón se torna retrógrado en la parte superior de tu carta, por lo que podrías centrarte aún más profundamente en una meta o plan que estás tratando de lograr. Existe el peligro de que llegues a obsesionarte, así que ten cuidado con esa tendencia. La emocional Luna Llena del jueves podría encontrarte compartiendo sentimientos que has guardado durante algún tiempo. ¡El viernes es ideal para irte de fiesta!
 
 ##Dinero
 
-Esta semana tienes actividad en tu sector de dinero en efectivo. Eres capaz de cambiar la manera en la que ganas dinero, así como la cantidad. Pensar un poco más en lo que tu tiempo vale te ayudará a decidir cuánto cobrarle a tus clientes ahora. Al mismo tiempo, tu carrera está cambiando. Es hora de emplear nuevas técnicas de reducción de estrés.
+Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.

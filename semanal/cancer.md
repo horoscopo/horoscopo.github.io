@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 23-01-2017 al 30-01-2017 
-description: Horóscopo semanal cancer. Horoscopo 23-01-2017 al 30-01-2017. Horoscopos univision gratis
+title: cancer 30-01-2017 al 06-02-2017 
+description: Horóscopo semanal cancer. Horoscopo 30-01-2017 al 06-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: QOQ_NOIOknw
+ video: uOWLPjDzuJM
 
 ogimg: /images/zodiac/cancer.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-23'
+ lastmod: '2017-01-30'
 ---
 
 
-A pesar de que podrías enfrentarte a las demandas que te dejan una sensación abrumada, aún sigues navegando la nave de tu propio destino. No tienes que hacer todo lo que se te pide, en particular durante la última parte de la semana. Si pareciera como si estuvieras bajo presión, tienes la opción de negociar más tiempo o delegar cuando te sea posible. Con Venus ahora atravesando tu sector hogareño y familiar, encontrar el tiempo para mimarte y consentirte podría ayudarte a restaurar tu vitalidad.
+Si bien disfrutar la vida y pasar tiempo con amigos y familia puede estar en el centro de tus actividades, te convendría enfocarte en tareas más prácticas. Con Marte moviéndose hacia Aries y tu sector de estilo de vida, es posible que quieras aplicarte con mayor entusiasmo. Sin embargo, trata de no agotarte y establécete un buen ritmo desde un principio. Además, la Luna Nueva del viernes puede ser perfecta para realizar tareas domésticas o traer una mascota nueva al hogar.
 
 ##Dinero
 
-Estás interactuando con miembros de la familia, niños, pareja y socios creativos. Te estás divirtiendo tanto que puede que no se te ocurra verificar tu saldo bancario. ¡Caramba! Ciertos aspectos favorables se aseguran de que seas capaz de sentirte bien contigo mismo/a, incluso sin tener que gastar tanto. Escucha, es lo mejor.
+Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.

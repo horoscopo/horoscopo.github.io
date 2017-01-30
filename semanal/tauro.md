@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: tauro 23-01-2017 al 30-01-2017 
-description: Horóscopo semanal tauro. Horoscopo 23-01-2017 al 30-01-2017. Horoscopos univision gratis
+title: tauro 30-01-2017 al 06-02-2017 
+description: Horóscopo semanal tauro. Horoscopo 30-01-2017 al 06-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: oEmtCYx5XNg
+ video: GctIcuTtvjM
 
 ogimg: /images/zodiac/tauro.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-23'
+ lastmod: '2017-01-30'
 ---
 
 
-Con Júpiter recientemente en tu sector de viajes y estudio, el mundo es tu ostra. Nuevas posibilidades te pueden ser abiertas, con la oportunidad de ampliar tus horizontes. Debido al Eclipse Lunar manifestándose esta semana y llegando a su máximo el viernes, toma con calma las cuestiones relacionadas con tus finanzas y cuentas personales. Puede que sea conveniente controlar tus gastos, ya que cuentas o facturas inesperadas podrían surgir. Además, el fin de semana podría traer consigo un alegre encuentro que se sienta como un soplo de aire fresco.
+Este puede ser buen momento para invitar a tus amigos a una fiesta en tu lugar. Con Venus actualmente en tu sector hogareño y familiar, es seguro que tus fabulosas habilidades culinarias les impresionarán. Pero si te das demasiados gustos, puede que termines subiendo de peso un poco. Aun así, el fin de semana se vislumbra muy divertido con la Luna Llena animándote a salir de casa. Finalmente, reflexiona sobre cualquier promesa que hagas, ya que es posible que veas las cosas de manera diferente unos días más tarde.
 
 ##Dinero
 
-Para ti, esta semana es sobre la auto-expresión. Puedes ser una persona muy creativa, por lo que puedes tener la tentación de tratar de mejorar tu vestuario o dar un cambio radical de look. Ciertos aspectos que afectan la belleza y el afecto dicen que tu familia, pareja romántica o niños te apoyan en tus metas financieras y personales. Es bueno saber que tienes un equipo de apoyo.
+Esta semana se trata de los aspectos afortunados que te dan una fuerza de conexión con la tierra para evitar que tu situación económica actual se te suba mucho a la cabeza. Tu sector de trabajo se activa, por lo que podrías tener más trabajo (especialmente si has estado desempleado) y adición a tus responsabilidades. Al mismo tiempo, el gasto se reducirá para que pueda ponerte al día con la deuda. Mantén el rumbo, vas en la dirección correcta.

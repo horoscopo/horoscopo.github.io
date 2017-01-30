@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 23-01-2017 al 30-01-2017 
-description: Horóscopo semanal piscis. Horoscopo 23-01-2017 al 30-01-2017. Horoscopos univision gratis
+title: piscis 30-01-2017 al 06-02-2017 
+description: Horóscopo semanal piscis. Horoscopo 30-01-2017 al 06-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: Byjxs7XZ9_k
+ video: imJy8AT9KjY
 
 ogimg: /images/zodiac/piscis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-23'
+ lastmod: '2017-01-30'
 ---
 
 
-Salir con amigos a ver una película o asistir a algún evento cultural podría ser muy interesante, especialmente si te lleva a explorar tu creatividad. Y con Venus actualmente en tu signo, esta puede ser una oportunidad de oro para experimentar con una habilidad o un talento que podría ser muy enriquecedor en el futuro. Más adelante, Marte se desplaza hacia tu sector de finanzas personales para fomentar una actitud más proactiva para resolver problemas. Puede que necesites juntar coraje para solucionar ciertos asuntos de dinero.
+Un agradable vínculo al comienzo de la semana sugiere que una película o novela podría inspirarte a soñar a lo grande. Si algunos aspectos de tu vida fueron difíciles últimamente, leer sobre las aventuras y los triunfos de otra persona o verlos en pantalla puede motivarte para seguir adelante. Por otra parte, Marte entrará a tu sector doméstico más tarde en la semana y esto podría ser una indicación para que liberes espacio y tengas más lugar para pensar.
 
 ##Dinero
 
-Para ti, esta semana se trata de tomar ventaja de las circunstancias que se presentan en tu vida laboral. Tienes suerte, así que puede que encuentres que tienes la oportunidad de impresionar a alguien que tiene poder para tomar decisiones financieras. Estas afectarán de manera positiva tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personales y financieras, el incorporarlas a tu vida cotidiana te hace más fuerte.
+Algunos aspectos en tu sector de profesión te ponen de nuevo en contacto con la gente y los proyectos de tu pasado. Tienes tanta suerte en esta área de tu vida que te verás en la obligación de rechazar algunos de los trabajos que se te presenten. Evita el exceso de estrés mediante la adopción de algún tiempo de inactividad necesario. Un aspecto feliz muestra que tu lugar de trabajo está inundado de creatividad y buena voluntad. ¿Está detrás de todos estos cambios positivos? Sólo tú sabes a ciencia cierta.

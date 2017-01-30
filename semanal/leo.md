@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 23-01-2017 al 30-01-2017 
-description: Horóscopo semanal leo. Horoscopo 23-01-2017 al 30-01-2017. Horoscopos univision gratis
+title: leo 30-01-2017 al 06-02-2017 
+description: Horóscopo semanal leo. Horoscopo 30-01-2017 al 06-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: j0OeuaBm19Y
+ video: uVYERqA49XY
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-01-23'
+ lastmod: '2017-01-30'
 ---
 
 
-Venus entra a Sagitario y a tu sector social el martes, por lo que las próximas semanas podrían ser algunas de los mejores para el romance. Es igualmente útil si quieres hacer nuevos amigos o moverte hacia nuevos círculos. También podrías sentir mucha inquietud y emoción sin saber muy bien por qué. Una poderosa influencia en tu sector psicológico sugiere que ciertos sentimientos pueden salir a la superficie y necesitan ser reconocido y liberados. Si logras hacer esto, ¡te sentirás mucho mejor!
+Esta semana sin duda se vislumbra más fácil que las semanas anteriores, permitiéndote disminuir tu ritmo para disfrutar de un poco más de relajación. Con tu vida social brillando, no te sorprendas si recibes más invitaciones y oportunidades para pasar el rato en buena compañía. Todo esto puede hacerte muy bien. No ignores cualquier sentimiento que tengas acerca de una relación que pueda estar pasando por un complicado momento. Puede que lo mejor sea tener una charla de corazón a corazón, ya que positivos puntos de vista pueden surgir como resultado.
 
 ##Dinero
 
-Aspectos en tu gráfico asociado con el empleo y la salud te exhortan a hacer los cambios necesarios y hacerte chequeos médicos. Debido a que el Universo revela lo anteriormente enterrado bajo la superficie, puedes encontrarte con que alguien tiene la intención de bloquear tu camino hacia el éxito. Un vistazo a tu sector de vidas pasadas y karma te mostrará que ahora cosecharás lo que has sembrado.
+Estás con ganas de gastar cierto dinero que sientes que está a punto de hacer un agujero en tu bolsillo, pero el momento no es el adecuado. Debido a un aspecto armonioso ahora, el cambio está llegando a las áreas que rigen las relaciones profesionales, viajes, educación superior, la enseñanza y el aprendizaje. Si trabajas en uno de estos campos, ¡es un buen momento para ti! Si no es así, trata de incorporar alguna faceta de ellos en lo que haces para ganarte la vida.
