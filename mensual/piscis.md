@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Piscis Enero 2017 
+title: Piscis Febrero 2017 
 permalink: /horoscopo-mensual/piscis/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2017, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-01-01'
+ lastmod: '2017-02-01'
 ---
 
- Venus ingresa a Piscis el 2 de enero y el amor te buscará todo el mes. Para la Luna Llena del 12 de enero, libera tu creatividad y trata de ser más audaz. Haz algo fuera de lo común. No tengas miedo de salir de tu zona de confort. Y no permitas que una vida social ocupada te dicte lo que debes hacer. La Luna Nueva del 27 de enero está repleta de sueños grandes y pensamientos profundos. Quizás te preocupes tanto por los problemas y las necesidades del mundo que puedes olvidarte de tus propios cuidados. No tienes por qué hacer eso. Tú ya eres una parte importante del mundo.
+ Ataca tu larga lista de tareas durante el Eclipse de Luna Llena del 10 de febrero. Organízate uno o dos días antes para así finalizar cosas que has tenido pendientes durante semanas. El Sol entra a Piscis el 18 de febrero. Puede que te sientas más vulnerable debido a que tu persona estará expuesta, pero tu sensibilidad es tu mayor fortaleza. El Eclipse Solar de Luna Nueva del 26 de febrero te permite soñar con tu sueño más grande y salvaje. Haz que sea constructivo y positivo. La gente saldrá de todas partes para apoyarte. Sin embargo, no tengas prisa al promulgar tu visión. Mientras mayor sea el sueño, mayor será el riesgo de las consecuencias imprevistas.

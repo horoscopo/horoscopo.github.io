@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Virgo Enero 2017 
+title: Virgo Febrero 2017 
 permalink: /horoscopo-mensual/virgo/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2017, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-01-01'
+ lastmod: '2017-02-01'
 ---
 
- La cuadratura entre la Luna y Mercurio del 8 de diciembre podría hacerte dudar una decisión anterior. Nunca está de más comprobar en caso de que algo haya cambiado. Tu carrera y presencia pública son destacadas bajo la Luna Llena del 13 de diciembre. Si tu oficina o interacciones con clientes requieren de un poco más de alegría y atención, te habrás preparado para ello. Expón tu lado creativo con la Luna Nueva del 28 de diciembre. Tus obligaciones serán cumplidas, las festividades estarán bajo control y tú te mereces algo de diversión sólo para ti. Prueba algo fuera de lo común y no te preocupes por cómo resulta. Para variar, haz lo que te haga intensamente feliz.
+ Quizás sientas algo de aburrimiento cerca de la Luna Llena del 12 de enero. O probablemente solo necesites salir y compartir algo de tiempo con más personas. También existe todo un mundo de diversión social que quizás no hayas notado. Libérate y diviértete un poco. Durante el 23 de enero te resultará más fácil pensar sobre el amor cuando Mercurio entre en sextil con Neptuno. Apela a tu sensibilidad y disponte a ser una persona receptiva. Un asunto de salud podría aclararse con la Luna Nueva del 27 de enero. No esperes un cambio o una mejora rotundos. O quizás simplemente notes que una preocupación que tenías ha desaparecido.

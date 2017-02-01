@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Enero 2017 
+title: Leo Febrero 2017 
 permalink: /horoscopo-mensual/leo/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-01-01'
+ lastmod: '2017-02-01'
 ---
 
- El Sol conjunta a Saturno el 10 de diciembre, cuando una figura de autoridad podría proyectar una sombra sobre uno de tus más traviesos planes. Muestra respeto. Tu vida social vibra bajo la Luna Llena del 13 de diciembre. Es posible que no sepas a dónde ir primero o con quién. Simplemente ve, visita un lugar nuevo y luego acude a otro de nuevo. Sólo asegúrate de que puedas levantarte para trabajar al día siguiente. La Luna Nueva del 28 de diciembre te hará preguntarte si es que has estado fiesteando de más durante la época de festividades. Incluso si la respuesta es no, te mereces más tiempo para ti, invirtiendo más de tu saludable energía en ti. Increíblemente, hay más en la vida que simple diversión.
+ Un deseo secreto podría salirse de control cuando la Luna Llena se eleve brillante el 12 de enero. Quizás te sientas rebosante de energía y avidez, ¿pero para hacer qué? Puede resultar difícil identificar el propósito. Solo intenta no perder demasiado el control. El Sol ingresa a Acuario el 19 de enero y el mundo podría convertirse de repente en un lugar más grande y más paciente. Relájate y libérate un poco de esas tendencias de adicción al trabajo. La Luna Nueva del 27 de enero electriza tu vida romántica y abre tu corazón. Sé más altruista y observa quién responde a ello. Podrías sorprenderte. Una mayor cuota de afecto y admiración se abre camino en tu vida.
