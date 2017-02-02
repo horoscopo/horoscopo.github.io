@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de febrero 2017
-description: Horóscopos del dia de hoy 01 de febrero 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de febrero 2017
+description: Horóscopos del dia de hoy 02 de febrero 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Una mente cansada se despierta refrescada después de la dosis masiva de preocupación de ayer. El día de hoy, Mercurio en Sagitario te prepara para la aventura y te ayuda a planear el futuro. Por la noche, la Luna en Aries agita el amable fuego de este signo, creando una atmósfera más amable y amistosa. Disfruta. Para los solteros, podría ser el comienzo de algo nuevo.
+Hoy, las personas practican el arte de saber guardar silencio, sobre todo al responder a preguntas de una manera inusualmente directa mientras la Luna en Aries se sale de su órbita. Venus conjunta a Marte y trae consigo una sensación de déjà vu. Cierta situación podría regresar incluso si se creía que una oportunidad anterior ya había sido desechada.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
