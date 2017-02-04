@@ -37,7 +37,7 @@ sitemap:
                      <time class="op-modified" dateTime='{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}' />
                      
                      <figure>
-                        <img src="{{ site.url }}images/zodiac/{{ post.horoscopo.signo }}.jpg" />
+                        <img src="{{ site.url }}/images/zodiac/{{ post.horoscopo.signo }}.jpg" />
                         <figcaption>{{ post.title | xml_escape }}</figcaption>
                      </figure>   
                   </header>
