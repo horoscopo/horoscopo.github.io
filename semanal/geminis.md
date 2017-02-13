@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 06-02-2017 al 13-02-2017 
-description: Horóscopo semanal geminis. Horoscopo 06-02-2017 al 13-02-2017. Horoscopos univision gratis
+title: geminis 13-02-2017 al 20-02-2017 
+description: Horóscopo semanal geminis. Horoscopo 13-02-2017 al 20-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: LP7UK0-3TlA
+ video: lhVUZBmxZdE
 
 ogimg: /images/zodiac/geminis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-06'
+ lastmod: '2017-02-13'
 ---
 
 
-La aventura te hace señas, así que prepárate para salirte de tu zona de confort y considerar ampliar tus horizontes. De hecho, si estás teniendo dificultades para avanzar en áreas clave de la vida, enfoca tu atención hacia explorar nuevas opciones que podrían permitirte canalizar tu energía en otra parte. Podrías experimentar este tipo de retrasos en el frente doméstico si es que ciertas responsabilidades familiares te impiden realizar tanto como deseas. Aun así, pequeñas incursiones en nuevo territorio pueden dejarte sintiendo optimista.
+El actual enfoque en horizontes lejanos puede llevarte a hacer planes de viaje y considerar opciones de estudio. Y cuanto más te dispongas a salirte de su zona de confort, más interesantes serán las puertas que se abrirán a tu paso. En cuanto a un cambio de carrera, sería prudente confiar en tus instintos. Puede que un puesto de trabajo parezca ser perfecto, pero si sospechas que no lo es, investiga más a fondo. También es posible que un patrón de creencias te esté evitando intentar algo nuevo.
 
 ##Dinero
 
-Tienes toneladas de nueva energía para darles una impresión positiva a todos los que conoces. Es un buen momento para programar una entrevista de trabajo o hacer presentaciones para hacerle más publicidad a tus productos y servicios. El Universo pone más atención en el romance, los niños y la familia. Mientras más utilices tu personalidad para impresionar a los demás, mejor será la situación financiera de la gente que realmente te importa.
+Esta semana te trae poca ventaja. Tu personalidad nunca es sutil sino voluptuosa y podría inclusive estar a cargo en este momento, lo cuál no les parece a todos. Si vas a una entrevista o quieres impresionar a un cliente nuevo, tu acto súper poderoso puede no ser tu mejor apuesta. En cambio, sería mejor que jugaras la carta del misterio. El atraerlos a ti podría traerte mejores resultados financieros.

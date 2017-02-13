@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 06-02-2017 al 13-02-2017 
-description: Horóscopo semanal leo. Horoscopo 06-02-2017 al 13-02-2017. Horoscopos univision gratis
+title: leo 13-02-2017 al 20-02-2017 
+description: Horóscopo semanal leo. Horoscopo 13-02-2017 al 20-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: k4jz1JyK39E
+ video: CxEAB_gWgGc
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-06'
+ lastmod: '2017-02-13'
 ---
 
 
-La Luna Llena del lunes podría torcer las conversaciones relacionadas a una oferta u otras importantes oportunidades. Puede que lo mejor sea aplazar dichas conversaciones unos cuantos días, posiblemente para el jueves o el viernes, cuando las influencias sean más favorables. Además, estos dos días podrían ser útiles para tratar asuntos de negocios y cuestiones profesionales, particularmente en términos de sus respectivas realidades financieras. Alguien podría tener una idea brillante sobre cómo aumentar tus ingresos. El domingo, es posible que sientas atracción a explorar un misterio.
+Con Marte en el sector transformador de tu carta astral, podrías descubrir que revoluciona tu paisaje interior de patrones y obsesiones y esto quizá te lleve a tomar ciertas medidas. ¿Sería prudente ceder ante la tentación? Podría no serlo si sabotean todo tu último esfuerzo. La otra manera de lidiar con esta situación es observarlos y no permitir que estos deseos influyan en ti. Al hacer esto todos los días, podrías ser libre de ellos de una vez por todas. 
 
 ##Dinero
 
-De verdad tienes ganas de hacer algo esta semana, podría ser de  viajar, aprender algo nuevo, hacer un amigo en el extranjero, o aprender a hablar un nuevo idioma. Cada uno de éstos tendría algún efecto en tu vida monetaria futura, así que lo mejor sería investigar cuál sería más interesante. De todos modos puede que no seas capaz de resistir tus ganas, así que estarías dispuesto/a a sacrificar algunas facetas de tu vida social para poder hacerlo.
+La atención se centra en las relaciones serias y matrimoniales esta semana. No es el momento de concentrarse en el dinero – por lo menos no al principio. Podrías darte cuenta de que los problemas de dinero surgen mientras que te acercas más a esa persona especial. Es importante asegurarte de que ambos estén en la misma frecuencia en el futuro. Los planetas te ayudan con calma y explican con claridad tu posición en cuestiones de dinero para rápidamente llegar a una solución mutuamente beneficiosa.

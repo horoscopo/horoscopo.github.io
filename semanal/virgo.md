@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 06-02-2017 al 13-02-2017 
-description: Horóscopo semanal virgo. Horoscopo 06-02-2017 al 13-02-2017. Horoscopos univision gratis
+title: virgo 13-02-2017 al 20-02-2017 
+description: Horóscopo semanal virgo. Horoscopo 13-02-2017 al 20-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: R6LssU1ad6E
+ video: I-Myii3lOdA
 
 ogimg: /images/zodiac/virgo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-06'
+ lastmod: '2017-02-13'
 ---
 
 
-Puede que tus hábitos cotidianos se vean afectados, ¿pero es eso algo malo? En ocasiones, no puedes escapar de la rutina y esto afecta tu energía y determinación. Nuevas influencias energéticas que aparecen en tu carta solar de esta semana te ayudan a comenzar de nuevo. Buscas dejar hábitos que se han convertido en reacciones casi instintivas y adoptar aquellos que te den mejores resultados. ¿Llegará el romance a tu vida? La entrada de Venus a tu sector de citas y romance parece indicar que sí.
+Si has sentido confusión acerca de lo que quieres en la vida, las cosas podrían empezar a caer en su lugar durante las próximas semanas. De hecho, con Júpiter posicionado al comienzo de tu sector de ambiciones profesionales, podrías toparte con que tu confianza aumenta y con ella tu capacidad de confiar en que estás tomando decisiones sabias. Bajo el Eclipse Lunar de este viernes, piensa muy cuidadosamente con respecto a asumir un reto u oportunidad. Investiga los detalles en profundidad antes de comprometerte.
 
 ##Dinero
 
-Tienes actividad en tu sector de dinero y valores. Podría significar fortuna extrema que podría ya ser inestable o de corta duración. Si eres del tipo que arriesga, no es una mala semana para darle un giro a la rueda de la ruleta, pero guárdate la mitad de lo que ganes en el bolsillo - y no lo toques. Debido a que tu sector  de relaciones se ve afectado, puedes irritar a alguien si no tienes el suficiente cuidado.
+Ciertos aspectos indican una época de restricción y limitación a la hora de expresarse. Puede que te sientas incapaz de compartir todas las fascinantes partes de tu personalidad ahora, pero el Universo te está pidiendo que tomes medidas drásticas temporalmente para lograr algo. El hacerse el payaso de la fiesta o el que complace a todos ya no servirá. Sólo una actitud confidente y profesional te dará el dinero que deseas. Profesión es la razón para seguir adelante.

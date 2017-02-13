@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: aries 06-02-2017 al 13-02-2017 
-description: Horóscopo semanal aries. Horoscopo 06-02-2017 al 13-02-2017. Horoscopos univision gratis
+title: aries 13-02-2017 al 20-02-2017 
+description: Horóscopo semanal aries. Horoscopo 13-02-2017 al 20-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: 61pztTkphVg
+ video: qZsXA8kcQAU
 
 ogimg: /images/zodiac/aries.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-06'
+ lastmod: '2017-02-13'
 ---
 
 
-Puede que te preguntarse si deberías ser amable y hacer todo lo que esté en tu poder para ayudar a otros o apegarte a tu propia agenda. La mezcla actual de energías insinúa que podrías fluctuar entre estas opciones e incluso terminar no haciendo nada si no puedes decidir qué camino tomar. Sin embargo, puede que encuentres la manera de ceder incluso si tienes dudas acerca de ello. Si el resultado te ahorra un choque con los demás y malos sentimientos, podría valer la pena.
+Te mereces de un tiempo para disfrutar de la vida, pero puede que te sientas culpable por ello. Es muy posible que últimamente hayas estado trabajando mucho más duro de lo habitual y de que estés muy consciente de tus responsabilidades hacia los demás. Todo esto puede ser agotador a menos que aprendas a controlar tu propio ritmo. Es importante que te tomes un poco de tiempo para descansar y relajarte; ya que el exceso de trabajo puede opacar tu capacidad creativa. Por otro lado, el fin de semana podría traer consigo una oportunidad romántica.    
 
 ##Dinero
 
-Cierta actividad en tu sector de ganancias hace que sea más difícil ganar la cantidad de dinero a la que te has acostumbrado ganar. El Universo está restringiendo tus oportunidades y el dinero que se puede obtener de ello, pero no te preocupes demasiado. Son tus redes sociales las que te ayudarán a salir adelante en cualquier problema al referirte a nuevos clientes, alertándote sobre nuevos puestos de trabajo, y prestándote dinero.
+Estás atrapado/a en un dilema. Hay acción en el frente interno y oportunidades en el frente de profesión. Sin embargo, te estás conduciendo por un estrecho sendero hacia tu situación de relación. Sólo puedes estar a solas por un determinado tiempo. Haz un esfuerzo por busca a personas que te puedan ser de ayuda.

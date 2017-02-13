@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: tauro 06-02-2017 al 13-02-2017 
-description: Horóscopo semanal tauro. Horoscopo 06-02-2017 al 13-02-2017. Horoscopos univision gratis
+title: tauro 13-02-2017 al 20-02-2017 
+description: Horóscopo semanal tauro. Horoscopo 13-02-2017 al 20-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: qIyw4c_f48s
+ video: ieklWVlOK3g
 
 ogimg: /images/zodiac/tauro.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-06'
+ lastmod: '2017-02-13'
 ---
 
 
-No sientas que debes exigirte más de la cuenta para cumplir con tus metas y objetivos. Tienes una actitud competitiva que puede durar varias semanas, pero es mejor ir despacio. Te conviene tener un plan en mente, así logras un equilibrio sano que te permita trabajar y divertirte. Las conversaciones con una pareja o un miembro de la familia pueden generar confusión en vez de dejarte ver las cosas con claridad si te desvías del tema principal.
+La Luna Nueva en tu signo del lunes es la mejor del año para ti, ya que te sirve de plataforma para lograr un nuevo comienzo. Esta Luna Nueva es como tener otro cumpleaños - cuando existe la posibilidad de que tus deseos sean concedidos. Valdría la pena pasar tiempo pensando en cuales son las cosas que quieres lograr en los próximos meses y escribirlas. Puede que te sorprendas de cuántas se vuelven realidad como resultado. Además, un nuevo romance también podría florecer.
 
 ##Dinero
 
-Es una semana complicada para ti aunque las cosas parezcan estar bien, sobre todo cuando se trata de tu relación. Vas avanzando en tus uniones con los sindicatos profesionales y personales y todo es bueno en ese frente. Sin embargo, los aspectos que afectan a tu carrera hacen que sea difícil ver el bosque por los árboles. Tómate el tiempo necesario para establecer un camino claro hacia tus metas.
+Destaca esta semana la necesidad de actualizar tu conjunto de habilidades. El fomentar tu educación no sólo te hace sentir más confianza en lo que puedes hacer, pero también recibe a otros en el hábito de percibirte como un/a experto/a en tu campo. Es posible que necesites incorporar conocimientos de vidas pasadas. No tienes que saber por qué eres bueno/a en algo, simplemente lo eres.

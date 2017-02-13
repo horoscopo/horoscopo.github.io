@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: cancer 06-02-2017 al 13-02-2017 
-description: Horóscopo semanal cancer. Horoscopo 06-02-2017 al 13-02-2017. Horoscopos univision gratis
+title: cancer 13-02-2017 al 20-02-2017 
+description: Horóscopo semanal cancer. Horoscopo 13-02-2017 al 20-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: ACsaTkJ3Cak
+ video: c0r5GbDue8c
 
 ogimg: /images/zodiac/cancer.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-06'
+ lastmod: '2017-02-13'
 ---
 
 
-Durante los días de principios de semana podías verte colaborar seriamente en un proyecto que es profundamente significativo para ti. De hecho, este colaborador podría ser la fuerza impulsora que te anime a probar, ya que tal podría llegar a distinguir deslumbrantes posibilidades dentro de tu idea. Pero trata de no pensar demasiado en esto, ya que hacerlo podría retrasar todo. Si intentas perfeccionarlo todo a la primera, todo podría no funcionar tan bien como adoptar un enfoque más espontáneo.
+Este sigue siendo un tiempo de aprendizaje y oportunidad para ti, y tu deseo de dar un paso adelante puede intensificarse a medida que pasan las semanas. Te encuentras en una posición donde puedes usar tu experiencia y tu conocimiento para explorar territorio nuevo. La Luna Llena el 13 de diciembre puede intensificar este deseo de viajar hacia una nueva dirección. Si sientes que el plan ya está listo para ponerlo en marcha, es hora de que des un salto de fe.
 
 ##Dinero
 
-Tienes un montón de creatividad ahora, así como un deseo de mejorar tu apariencia y prestar más atención a la forma en la que te proyectas al mundo. Hay impulso a que acudas a las relaciones personales y profesionales que te ayudarán a avanzar en tu trabajo y vida monetaria.
+Todavía hay aspectos restrictivos desacelerando tu sector de dinero, lo cual puede ser frustrante a veces. Pero también se te están dando algunas nuevas órdenes. Lo más afectado es tu principal empleo, el cuál está experimentando un gran cambio. Puede que incluso cambies de carrera o la forma en la que ganas efectivo. Cuida tu salud, la cuál podría llegar a deteriorarse como resultado del estrés. Es mejor prevenir que lamentar.
