@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: tauro 13-02-2017 al 20-02-2017 
-description: Horóscopo semanal tauro. Horoscopo 13-02-2017 al 20-02-2017. Horoscopos univision gratis
+title: tauro 20-02-2017 al 27-02-2017 
+description: Horóscopo semanal tauro. Horoscopo 20-02-2017 al 27-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: ieklWVlOK3g
+ video: tIBW51kOk_8
 
 ogimg: /images/zodiac/tauro.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-13'
+ lastmod: '2017-02-20'
 ---
 
 
-La Luna Nueva en tu signo del lunes es la mejor del año para ti, ya que te sirve de plataforma para lograr un nuevo comienzo. Esta Luna Nueva es como tener otro cumpleaños - cuando existe la posibilidad de que tus deseos sean concedidos. Valdría la pena pasar tiempo pensando en cuales son las cosas que quieres lograr en los próximos meses y escribirlas. Puede que te sorprendas de cuántas se vuelven realidad como resultado. Además, un nuevo romance también podría florecer.
+Ciertas cuestiones relacionadas con tu vida social podrían llegar a un punto crítico esta semana, sobre todo porque el Eclipse Lunar podría suscitar sentimientos. Si no lidiaste con una situación cuando sucedió, ahora podrías querer sacarla al tema. Sin embargo, ten cuidado. Podría haber en ti una tendencia a reaccionar de forma exagerada, lo que podría arruinar una relación o buena amistad. También evita involucrarte en una romance con demasiada rapidez. Tómate al menos una semana antes de tomar una decisión crítica.
 
 ##Dinero
 
-Destaca esta semana la necesidad de actualizar tu conjunto de habilidades. El fomentar tu educación no sólo te hace sentir más confianza en lo que puedes hacer, pero también recibe a otros en el hábito de percibirte como un/a experto/a en tu campo. Es posible que necesites incorporar conocimientos de vidas pasadas. No tienes que saber por qué eres bueno/a en algo, simplemente lo eres.
+Esta semana hay actividad en tu sector de dinero, la cuál está desacelerando lo que ganas actualmente. Podrías llegar a sentir como si no pudieras hacer que nada avanzara, pero sabe que es sólo temporal. El Universo no restringe por crueldad, sino como una manera de alentarnos a ser más cuidadosos y responsables con el dinero. Acude a tus amigos, conocidos y compañeros de trabajo para ayudarte a salir bien de los raspones.

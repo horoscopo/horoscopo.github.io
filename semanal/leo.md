@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 13-02-2017 al 20-02-2017 
-description: Horóscopo semanal leo. Horoscopo 13-02-2017 al 20-02-2017. Horoscopos univision gratis
+title: leo 20-02-2017 al 27-02-2017 
+description: Horóscopo semanal leo. Horoscopo 20-02-2017 al 27-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: CxEAB_gWgGc
+ video: Dcx43ZNHWEE
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-13'
+ lastmod: '2017-02-20'
 ---
 
 
-Con Marte en el sector transformador de tu carta astral, podrías descubrir que revoluciona tu paisaje interior de patrones y obsesiones y esto quizá te lleve a tomar ciertas medidas. ¿Sería prudente ceder ante la tentación? Podría no serlo si sabotean todo tu último esfuerzo. La otra manera de lidiar con esta situación es observarlos y no permitir que estos deseos influyan en ti. Al hacer esto todos los días, podrías ser libre de ellos de una vez por todas. 
+Tu relación con cierta persona puede hacerse más profunda, pero no parece ser de modo romántico. El panorama actual indica un encuentro de mentes que puede fortalecer el vínculo entre ustedes o al menos fomentar el respeto mutuo. Esta persona puede ser la influencia necesaria para que elijas un camino a seguir, pero no te dejes guiar solo por sus palabras. Piensa en si es conveniente antes de comprometerte. Despeja un poco tu calendario alrededor de la Luna Llena del 13 de diciembre.
 
 ##Dinero
 
-La atención se centra en las relaciones serias y matrimoniales esta semana. No es el momento de concentrarse en el dinero – por lo menos no al principio. Podrías darte cuenta de que los problemas de dinero surgen mientras que te acercas más a esa persona especial. Es importante asegurarte de que ambos estén en la misma frecuencia en el futuro. Los planetas te ayudan con calma y explican con claridad tu posición en cuestiones de dinero para rápidamente llegar a una solución mutuamente beneficiosa.
+Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.

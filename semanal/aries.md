@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: aries 13-02-2017 al 20-02-2017 
-description: Horóscopo semanal aries. Horoscopo 13-02-2017 al 20-02-2017. Horoscopos univision gratis
+title: aries 20-02-2017 al 27-02-2017 
+description: Horóscopo semanal aries. Horoscopo 20-02-2017 al 27-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: qZsXA8kcQAU
+ video: aX_plHfGp2M
 
 ogimg: /images/zodiac/aries.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-13'
+ lastmod: '2017-02-20'
 ---
 
 
-Te mereces de un tiempo para disfrutar de la vida, pero puede que te sientas culpable por ello. Es muy posible que últimamente hayas estado trabajando mucho más duro de lo habitual y de que estés muy consciente de tus responsabilidades hacia los demás. Todo esto puede ser agotador a menos que aprendas a controlar tu propio ritmo. Es importante que te tomes un poco de tiempo para descansar y relajarte; ya que el exceso de trabajo puede opacar tu capacidad creativa. Por otro lado, el fin de semana podría traer consigo una oportunidad romántica.    
+Aparece una oportunidad que te entusiasma y usas las próximas seis semanas para evaluarla en profundidad. En esta primera semana, buscas conectar con quienes comparten tu visión y están en tu misma sintonía. Te apoyas en consejos, sugerencias y cualquier otro tipo de opinión que te ayude a progresar. En un plano más personal, es posible que sientas un deseo intenso de salir de tu zona de confort. ¿Será bueno para ti? ¡Parece que sí!
 
 ##Dinero
 
-Estás atrapado/a en un dilema. Hay acción en el frente interno y oportunidades en el frente de profesión. Sin embargo, te estás conduciendo por un estrecho sendero hacia tu situación de relación. Sólo puedes estar a solas por un determinado tiempo. Haz un esfuerzo por busca a personas que te puedan ser de ayuda.
+Es una semana de dificultades conforme ciertos aspectos facilitan las cosas en tu sector de trabajo (esta es la buena noticia), pero las dificultan en otras áreas (la mala noticia). Se te está empujando a acceder a tu intuición en los asuntos de dinero y negocios y considerar trabajar para una institución más grande. Podrías recibir más dinero si piensas en grande.

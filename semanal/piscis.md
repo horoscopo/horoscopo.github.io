@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 13-02-2017 al 20-02-2017 
-description: Horóscopo semanal piscis. Horoscopo 13-02-2017 al 20-02-2017. Horoscopos univision gratis
+title: piscis 20-02-2017 al 27-02-2017 
+description: Horóscopo semanal piscis. Horoscopo 20-02-2017 al 27-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: lsVok6xoZiM
+ video: tAjTeAPGp-8
 
 ogimg: /images/zodiac/piscis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-13'
+ lastmod: '2017-02-20'
 ---
 
 
-Es posible que esta semana festiva no sea como la esperabas, pero eso no quiere decir que deje de ser entretenida. Si te invitan a la casa de alguien para una comida de celebración, puede que asistas con gusto. Con la entrada de Marte a tu sector doméstico y al signo de Piscis, puede que sientas deseos de relajarte y de tomarte tiempo para ti. Esta puede ser una oportunidad para que analices una idea que te despierta una gran inspiración.
+Aunque el Sol en tu signo mantiene tu enfoque en ideas e intereses personales, tu mente también podría estar enfocándose en temas financieros. Como resultado, podrías descubrir muchas maneras en las que puedes ahorrar mediante la reducción de elementos innecesarios. De hecho, es posible que te resistas a la tentación de gastar con el fin de ahorrar dinero para algo que realmente vale la pena. Tu energía creativa podría ser desatada aún más a partir de mitad de semana, permitiéndote avanzar con una empresa o plan.
 
 ##Dinero
 
-Estás mejorando tu vida financiera haciendo grandes avances en tu carrera. Estás cambiando la forma en que haces tu trabajo y haciendo planes para el futuro. Si deseas avanzar con rapidez en este ámbito, date como voluntario/a para representar más a tu organización. Al dar discursos y presentaciones, vences el miedo a hablar en público y avanzas en tu propia causa. Tu ambición no puede ser igualada. Crea heno mientras el Sol brilla.
+Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.

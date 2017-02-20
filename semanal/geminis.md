@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 13-02-2017 al 20-02-2017 
-description: Horóscopo semanal geminis. Horoscopo 13-02-2017 al 20-02-2017. Horoscopos univision gratis
+title: geminis 20-02-2017 al 27-02-2017 
+description: Horóscopo semanal geminis. Horoscopo 20-02-2017 al 27-02-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: lhVUZBmxZdE
+ video: ga1k5h87DCI
 
 ogimg: /images/zodiac/geminis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-13'
+ lastmod: '2017-02-20'
 ---
 
 
-El actual enfoque en horizontes lejanos puede llevarte a hacer planes de viaje y considerar opciones de estudio. Y cuanto más te dispongas a salirte de su zona de confort, más interesantes serán las puertas que se abrirán a tu paso. En cuanto a un cambio de carrera, sería prudente confiar en tus instintos. Puede que un puesto de trabajo parezca ser perfecto, pero si sospechas que no lo es, investiga más a fondo. También es posible que un patrón de creencias te esté evitando intentar algo nuevo.
+Tu corazón está enfocado en tu hogar cuando Marte entra a Géminis esta semana, animándote a poner en marcha tareas hogareñas y eliminar el desorden. Si has estado sintiendo agobio debido a tantas cosas, puede que sientas motivación a deshacerte de ellas; creando así más espacio para otros planes y proyectos. En el romance, Venus emana sus tiernos rayos sobre un especial encuentro amoroso. El Sábado es el mejor día para conectar con tu último amor. Un suave y seductor estado de ánimo podría tentarte a disfrutar al máximo.
 
 ##Dinero
 
-Esta semana te trae poca ventaja. Tu personalidad nunca es sutil sino voluptuosa y podría inclusive estar a cargo en este momento, lo cuál no les parece a todos. Si vas a una entrevista o quieres impresionar a un cliente nuevo, tu acto súper poderoso puede no ser tu mejor apuesta. En cambio, sería mejor que jugaras la carta del misterio. El atraerlos a ti podría traerte mejores resultados financieros.
+A veces puedes  ser muy conformista, y esta semana, podrías tener todo lo necesario para seguir siéndolo. Una nueva energía inunda tu casa del dinero y los valores, facilitando una especia de pausa para ti. En este momento de paz, podrías estar preguntándote que es lo que harías y no harías por dinero y cuánto tiempo más de descanso necesitas para mantenerte sano/a y productivo/a. Esto será muy sano para ti a la larga.
