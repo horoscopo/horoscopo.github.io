@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de febrero 2017
-description: Horóscopos del dia de hoy 20 de febrero 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de febrero 2017
+description: Horóscopos del dia de hoy 21 de febrero 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Te gustaría pensar que has logrado un éxito reciente por tu cuenta, pero requirió de una red de interconexión. Ahora, los involucrados esperan un humilde agradecimiento de tu parte. Esta noche, las relaciones íntimas con fuertes sentimientos y diferencias de opinión abundan. Para convertir esto en algo positivo, trata de ver todas las distintas posibilidades que hay en la vida.
+Tus originales ideas reciben una buena reacción cuando las compartes mientras Mercurio se encuentre en Acuario durante las próximas semanas. Con Júpiter retrógrado, presenta de nuevo aquellos conceptos en los que firmemente crees. Esta noche, escucha a tu intuición mientras la Luna en Cáncer forma trígono con Neptuno. Te dirige hacia la dirección correcta.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
