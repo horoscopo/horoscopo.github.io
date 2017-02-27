@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 20-02-2017 al 27-02-2017 
-description: Horóscopo semanal capricornio. Horoscopo 20-02-2017 al 27-02-2017. Horoscopos univision gratis
+title: capricornio 27-02-2017 al 06-03-2017 
+description: Horóscopo semanal capricornio. Horoscopo 27-02-2017 al 06-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: 8YmWHiV5rwI
+ video: f11AxOCpFOw
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-20'
+ lastmod: '2017-02-27'
 ---
 
 
-¿Tienes un secreto? Con un enfoque en un sector más apartado de tu carta, es posible que no quieras que nadie se entere de cierta relación. Y no hay razón por la cual debas de hablar hasta que sientas que es el momento adecuado. San Valentín es el día martes, y es posible que para celebrar elijas preparar una comida saludable pero seductora para la persona que amas. Si la comida es algo que le gusta a tu amor tanto como a ti, la pasarán fenomenal.
+Conforme Júpiter continúa su fase retrógrada en tu sector de amistades, las conexiones del pasado podrían volver a aparecer y tener un rol protagónico durante las próximas semanas y los próximos meses. Además, cierta información podría hacer que explores algunas oportunidades fascinantes, pero antes de meterte de lleno, asegúrate de que sean sólidas y reales y no un simple espejismo. Además, puede que debas dejar algo atrás para poder aprovechar la oportunidad, así que asegúrate de hacer lo correcto desde el principio.
 
 ##Dinero
 
-Esta semana trae actividad a tu sector de dinero. Mientras que orientas tu vida en torno a ganar más dinero, también es necesario construir una base que sea sólida. Asegurarte de que tu ingreso sea estable y consistente es de primordial importancia. A medida que tu empleo y tu lugar de trabajo puedan estar cambiando, hay un gran potencial sin explotar en el extranjero. Explora otras posibilidades de trabajo y de ganar dinero en línea o en los crecientes mercados extranjeros.
+Esta semana tienes aspectos que te dan más magnetismo. La parte difícil es que tu sector de profesión requiere de más atención ahora para que puedas hacer tu trabajo más sostenible, rentable y seguro. No dejes nada al azar por ahora. Construye lo que quieres ver.

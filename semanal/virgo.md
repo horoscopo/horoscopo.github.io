@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 20-02-2017 al 27-02-2017 
-description: Horóscopo semanal virgo. Horoscopo 20-02-2017 al 27-02-2017. Horoscopos univision gratis
+title: virgo 27-02-2017 al 06-03-2017 
+description: Horóscopo semanal virgo. Horoscopo 27-02-2017 al 06-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: m5ft89CaHWg
+ video: LzDCGpNj8qQ
 
 ogimg: /images/zodiac/virgo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-20'
+ lastmod: '2017-02-27'
 ---
 
 
-Tómate tu tiempo en relación a tus finanzas y recursos compartidos, ya que la fase retrógrada de Mercurio puede coincidir con retrasos o contratiempos inesperados. Espera hasta después del 21 de septiembre para comprar artículos caros si te es posible. De lo contrario, podías encontrar algunas fallas.  Si no tienes otra opción, guarda tus recibos y documentos en caso de que necesites un reembolso. En una nota positiva, la entrada de Júpiter a tu sector de exploración podía verte asumir un reto u oportunidad que expanda tus horizontes.
+Aunque tienes un montón de oportunidades para socializar y establecer contactos, el continuo enfoque en un sector más aislado de tu carta sugiere que te beneficiarás de tomarte tiempo para estar a solas. Necesitarás este tiempo en silencio para poder escuchar a tu voz interior, sobre todo si te has estado ahogando en las necesidades y demandas de otras personas últimamente. Si tus tareas y quehaceres te han abrumado recientemente, tal es una razón más para obligarte a tener la oportunidad de descansar y recargar baterías.
 
 ##Dinero
 
-Esta semana estás entrando a un torbellino social en grande. Estás saliendo de tu caparazón poco a poco y con cada vez más confianza en la manera de comunicar tus ideas. Esto es bueno para atraer a la gente significativa en tu vida y positivo para la promoción de tus sueños. Asegúrate de estar al corriente con el pago de tu deuda. Podría haber problemas si hay algo que permanece oculto.
+Es una temporada muy ocupada conforme pasas de una tarea a otra. Te estás reuniendo con compañeros de trabajo y superiores con el fin de consolidar tu participación en la jerarquía, pero eso no es todo. Tu sentido psíquico da justo en el blanco con respecto a tu trabajo y dinero. Si tienes una corazonada con respecto a inversiones, ándate con cuidado. El aspecto astrológico presente es afortunado para los aumentos repentinos de riqueza.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 20-02-2017 al 27-02-2017 
-description: Horóscopo semanal libra. Horoscopo 20-02-2017 al 27-02-2017. Horoscopos univision gratis
+title: libra 27-02-2017 al 06-03-2017 
+description: Horóscopo semanal libra. Horoscopo 27-02-2017 al 06-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: ulkwFjGbc5s
+ video: vKa_mr6VpdQ
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-20'
+ lastmod: '2017-02-27'
 ---
 
 
-Tu sector social entra en acción a partir del 19 de diciembre y podrías tener más actividades que antes, ya que habrá eventos importantes y ocasiones festivas. Podrías organizar una gran fiesta o un acto benéfico y con tu capacidad para organizar eventos, todo saldrá a la perfección. Mercurio se vuelve retrógrado esta semana, por lo que debes ser prudente al firmar un contrato que te involucre a largo plazo. Es mejor que esperes hasta que Mercurio vuelva a avanzar el 8 de enero.
+Aunque te conoce por tu tacto y discreción, admiras a las personas que dicen lo que piensan. Podrías conocer a alguien así al comienzo de la semana, una persona que no teme decir exactamente lo que siente. ¿Te molestará? La presente mezcla de energías indica que esto podría parecerte algo nuevo y distinto, especialmente si estás de acuerdo con lo que dice. De hecho, podría incluso ser el desencadenante de una decisión que cambie todo. Mientras tanto, si deseas darte el gusto de comer lo que quieras este fin de semana, ¡adelante!
 
 ##Dinero
 
-Tienes una situación interesante en tus manos esta semana. Se te está pidiendo prestar más atención a cómo te ves, actúas y te proyectar hacia el mundo. Esto es especialmente importante si estás buscando un nuevo trabajo o simplemente quieres cambiar tu imagen en tu empleo actual.
+Esta semana es posible que tengas que ajustar tu forma de pensar acerca del dinero y su papel en tu vida, así como la forma en la que manejas el dinero. Es posible que hayas crecido acostumbrado/a a pensar en ti mismo/a como un protector o un derrochador. Tal vez puedes ser ambos. Ahora, vas a decir lo que piensas con respecto a asuntos financieros. La esperanza es puedas hacer esto de una manera diplomática y tolerante e incluir la perspectiva de todo el mundo.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: tauro 20-02-2017 al 27-02-2017 
-description: Horóscopo semanal tauro. Horoscopo 20-02-2017 al 27-02-2017. Horoscopos univision gratis
+title: tauro 27-02-2017 al 06-03-2017 
+description: Horóscopo semanal tauro. Horoscopo 27-02-2017 al 06-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: tIBW51kOk_8
+ video: tSJ1bv5RJIU
 
 ogimg: /images/zodiac/tauro.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-20'
+ lastmod: '2017-02-27'
 ---
 
 
-Ciertas cuestiones relacionadas con tu vida social podrían llegar a un punto crítico esta semana, sobre todo porque el Eclipse Lunar podría suscitar sentimientos. Si no lidiaste con una situación cuando sucedió, ahora podrías querer sacarla al tema. Sin embargo, ten cuidado. Podría haber en ti una tendencia a reaccionar de forma exagerada, lo que podría arruinar una relación o buena amistad. También evita involucrarte en una romance con demasiada rapidez. Tómate al menos una semana antes de tomar una decisión crítica.
+Puede resultar útil que sepas reconocer tus intuiciones en cuanto a finanzas y a cómo puedes aprovechar mejor tu dinero. Como eres una persona naturalmente generosa, puedes excederte un poco con los regalos que das, a menos que te ocupes de establecer un límite. Un aspecto clave esta semana hará que lo tengas en cuenta. Con Venus asentándose en tu hogar y en tu sector familiar, comenzarás a relajarte y a adoptar el espíritu festivo, disfrutando de ordenar tu hogar para recibir visitas.
 
 ##Dinero
 
-Esta semana hay actividad en tu sector de dinero, la cuál está desacelerando lo que ganas actualmente. Podrías llegar a sentir como si no pudieras hacer que nada avanzara, pero sabe que es sólo temporal. El Universo no restringe por crueldad, sino como una manera de alentarnos a ser más cuidadosos y responsables con el dinero. Acude a tus amigos, conocidos y compañeros de trabajo para ayudarte a salir bien de los raspones.
+Para ti, esta semana es sobre el sector de tus sueños y vidas pasadas que de repente pueden revelar un talento que no sabías que tenías. Pon un poco de acción e intención en donde se encuentre tu atención ahora y verás que el dinero inmediatamente te seguirá. Mientras que escuches a tu juicio interior, te será difícil imaginar un momento más afortunado.

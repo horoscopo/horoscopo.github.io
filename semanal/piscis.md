@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 20-02-2017 al 27-02-2017 
-description: Horóscopo semanal piscis. Horoscopo 20-02-2017 al 27-02-2017. Horoscopos univision gratis
+title: piscis 27-02-2017 al 06-03-2017 
+description: Horóscopo semanal piscis. Horoscopo 27-02-2017 al 06-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: tAjTeAPGp-8
+ video: wfGUZlaxSHM
 
 ogimg: /images/zodiac/piscis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-02-20'
+ lastmod: '2017-02-27'
 ---
 
 
-Aunque el Sol en tu signo mantiene tu enfoque en ideas e intereses personales, tu mente también podría estar enfocándose en temas financieros. Como resultado, podrías descubrir muchas maneras en las que puedes ahorrar mediante la reducción de elementos innecesarios. De hecho, es posible que te resistas a la tentación de gastar con el fin de ahorrar dinero para algo que realmente vale la pena. Tu energía creativa podría ser desatada aún más a partir de mitad de semana, permitiéndote avanzar con una empresa o plan.
+Aunque tengas ansias de avanzar, otra parte de ti podría estar deseando tener más libertad y la oportunidad de hacer lo que te venga en gana. Esto es algo que necesitarás trabajar, sobre todo si tienes grandes planes para el futuro. Ciertamente vale la pena alinear todo tu ser con tus sueños y metas. No lograrás alcanzarlos si otros aspectos de tu ser no están sincronizados. Con el actual enfoque en tu sector espiritual, serías prudente al tomarte algo de tiempo para considerar lo que realmente quieres.
 
 ##Dinero
 
-Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.
+Este período se trata de las nuevas oportunidades que le llegan a tu vida laboral. El cielo es el límite en términos de lo que puedes esperar, pero el Universo no lo hará por ti. Debes estar a la búsqueda de maneras de aumentar tus ingresos, ya sea mediante la adición de un negocio secundario o aceptar trabajos independientes. Utiliza tu educación y tus viajes para salir con ideas para productos o servicios que vender.
