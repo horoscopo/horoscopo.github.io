@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Libra Febrero 2017 
+title: Libra Marzo 2017 
 permalink: /horoscopo-mensual/libra/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2017, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-02-01'
+ lastmod: '2017-03-01'
 ---
 
- La Luna Llena del 12 de enero podría encontrarte más sensible sobre un asunto laboral o profesional. Quizás debas trabajar unas horas adicionales o hacer algún sacrificio personal, como aceptar un viaje de negocios corto. O tal vez debas dar una presentación sin mucha preparación. Siéntete con suerte en el amor el 18 de enero, cuando la Luna conecte con Júpiter en Libra. Cualquier sentimiento de soledad se irá con el viento. Para la Luna Nueva del 27 de enero, diviértete más con solo espiar y escuchar a los demás disfrutar de su tiempo. Siéntete parte de un grupo más numeroso sin hacer nada más que unirte a él.
+ Un atrevido amante puede ponerse más atrevido cuando Venus entre en Aries el 3 de febrero. La Luna Llena del 10 de febrero hace que un mundo grande parezca aún más grande. Adopta interés y haz amistades que sean de culturas vastamente diferentes. Elige una actividad o comida que te parezca exótica a tus nuevos amigos. O puede alternativamente descubras y disfrutes de un nuevo servicio de noticias extranjeras. El Eclipse Solar de Luna Nueva del 26 de febrero te llevará a reestructurar tu rutina diaria y tal vez agregar o eliminar algo pequeño que ocupe mucho de tu tiempo o esfuerzo. Puede que también alteres tus prioridades y decidas que algo que parecía urgente, ya no lo es.

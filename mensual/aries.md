@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Aries Febrero 2017 
+title: Aries Marzo 2017 
 permalink: /horoscopo-mensual/aries/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2017, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-02-01'
+ lastmod: '2017-03-01'
 ---
 
- La conjunción entre la Luna y Urano el 5 de enero aporta energía renovada a un ánimo decaído si estás padeciendo los efectos del desgaste después de la época de fiestas. La Luna Llena del 12 de enero brilla directo sobre tu vida hogareña y familiar. Quizás consideres que una preocupación laboral es más importante. ¿Es importante? Sí. ¿Es más importante que lo demás? No. Haz lo que sea necesario y regresa a la felicidad de tu hogar. Tu vida social se expande y florece con la Luna Nueva del 27 de enero. Podrías hacer varios nuevos amigos casuales que te integrarán en un círculo social mucho más amplio. No obstante, no tienes la obligación de dejar que esto consuma tu vida o dure para siempre.
+ Sientes una increíble energía bajo el Eclipse de Luna Llena del 10 de febrero. Asegúrate de ser un poco realista para así no tomar más trabajo del que realmente puedas manejar. Tu salud merece respeto, al igual que las numerosas y aburridas tareas que son necesarias. El 22 de febrero, la cuadratura entre Marte y Plutón podría encender tu temperamento. Es posible que necesites más paz y tranquilidad bajo el Eclipse Solar de Luna Nueva del 26 de febrero. Hay elementos en tu vida que merecen de tu atención y meditación profunda. Es posible que incluso desees discutir algo con una amistad de confianza que desde el inicio entienda que, en última instancia, será tu decisión y de nadie más.

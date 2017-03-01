@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Tauro Febrero 2017 
+title: Tauro Marzo 2017 
 permalink: /horoscopo-mensual/tauro/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2017, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-02-01'
+ lastmod: '2017-03-01'
 ---
 
- Durante la intensa conjunción entre el Sol y Plutón el 6 de enero, la Luna se encontrará en el imperturbable Tauro. Sea lo que sea que el mundo te eche encima, puedes convertirlo en algo maravilloso. Durante la Luna Llena del 12 de enero, nada resulta mejor que estar con amistades especiales. Quizás te dispongas a ocuparte de todo por tu cuenta, pero no te dejarán hacerlo. La Luna Nueva del 27 de enero enciende tu situación profesional y laboral. Podría abrirse una puerta a un nuevo proyecto importante y excitante. O quizás te asignen una posición sobresaliente en un proyecto que te permitirá demostrar todas tus mejores habilidades.   
+ Puede que veas amor por todas partes una vez que Venus entre a Aries el 3 de febrero. Haz algo divertido y creativo bajo el Eclipse de Luna Llena del 10 de febrero. Es probablemente lo más saludable que puedes hacer. Ten bondad con tu cuerpo y no te dejes llevar por los dulces o alimentos grasosos. Podrías volverte la persona favorita de todos bajo el Eclipse Solar de Luna Nueva del 26 de febrero. Hay un poderoso encanto rodeándote ahora y todo el mundo quiere tu aprobación y atención. Si tienes interés en unirte a un nuevo grupo o hacerle cambios a tu círculo social, ahora es el momento. Todos entenderán y estarán satisfechos con lo que quieras.

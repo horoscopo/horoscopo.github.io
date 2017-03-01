@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Febrero 2017 
+title: Leo Marzo 2017 
 permalink: /horoscopo-mensual/leo/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-02-01'
+ lastmod: '2017-03-01'
 ---
 
- Un deseo secreto podría salirse de control cuando la Luna Llena se eleve brillante el 12 de enero. Quizás te sientas rebosante de energía y avidez, ¿pero para hacer qué? Puede resultar difícil identificar el propósito. Solo intenta no perder demasiado el control. El Sol ingresa a Acuario el 19 de enero y el mundo podría convertirse de repente en un lugar más grande y más paciente. Relájate y libérate un poco de esas tendencias de adicción al trabajo. La Luna Nueva del 27 de enero electriza tu vida romántica y abre tu corazón. Sé más altruista y observa quién responde a ello. Podrías sorprenderte. Una mayor cuota de afecto y admiración se abre camino en tu vida.
+ El Eclipse de Luna Llena del 10 de febrero está dirigido hacia tu vida amorosa y deseos románticos. Alguien que parece un tanto frío, distante y sin interés de comprometerse puede llegar a tener una gran pasión en todo lo relacionado contigo. El Sol entra a Piscis el 18 de febrero, y tus sueños podrían volverse más vividos y más idealistas. Puede que sea difícil mantener tus pies sobre la tierra durante el Eclipse Solar de Luna Nueva del 26 de febrero, cuando tus deseos o expectativas no sean muy realistas. Piensa dos veces antes de actuar y luego confía en que tienes las cosas bajo control. Esa es la realidad. Sin embargo, puede que sientas más comodidad si es que puedes posponer hacer algo de gran importancia.

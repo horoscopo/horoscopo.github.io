@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Virgo Febrero 2017 
+title: Virgo Marzo 2017 
 permalink: /horoscopo-mensual/virgo/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2017, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-02-01'
+ lastmod: '2017-03-01'
 ---
 
- Quizás sientas algo de aburrimiento cerca de la Luna Llena del 12 de enero. O probablemente solo necesites salir y compartir algo de tiempo con más personas. También existe todo un mundo de diversión social que quizás no hayas notado. Libérate y diviértete un poco. Durante el 23 de enero te resultará más fácil pensar sobre el amor cuando Mercurio entre en sextil con Neptuno. Apela a tu sensibilidad y disponte a ser una persona receptiva. Un asunto de salud podría aclararse con la Luna Nueva del 27 de enero. No esperes un cambio o una mejora rotundos. O quizás simplemente notes que una preocupación que tenías ha desaparecido.
+ Puede que pienses en asuntos más grandes y más globales una vez que Mercurio entre a Acuario el 7 de febrero. Una vez que el Eclipse de Luna Llena se manifieste el 10 de febrero, una palabra o acción podría intentar desalentarte, pero no tendrá ningún efecto. Tienes completa seguridad con tu conocimiento, experiencia y perspectiva si un asunto difícil surge ya sea en tu trabajo o vida social. Nadie va a ser capaz de persuadirte o disuadirte sobre algo importante. El amor y el romance brillan para ti bajo el Eclipse Solar del 26 de febrero. Pon de lado las preocupaciones puramente prácticas y disfruta de un sueño intensamente romántico; aunque sólo sea por un tiempo.
