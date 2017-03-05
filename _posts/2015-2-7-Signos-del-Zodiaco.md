@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 04 de marzo 2017
-description: Horóscopos del dia de hoy 04 de marzo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 05 de marzo 2017
+description: Horóscopos del dia de hoy 05 de marzo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-No digas que sí demasiado rápido esta mañana. Tú o alguien podría prometer más de lo que puede cumplir. Esta tarde, lee cuidadosamente cualquier documento que forme parte de un acuerdo y expresa tus ideas al respecto. Esta noche es sublime cuando la Luna forma trígono con Neptuno. Hay placer en ambientes pacíficos, tranquilos y solitarios.
+El día de hoy relájate y aléjate de los muchos problemas del mundo. Disfruta de una amplia gama de fantasías mientras Júpiter aspecta a Neptuno. Ten visión y luego planifica cómo llevar a cabo la esencia de tus sueños. Esta noche, la impresionante Luna en Leo agrega drama y emoción. Sal a ser el centro de atención.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
