@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de marzo 2017
-description: Horóscopos del dia de hoy 08 de marzo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de marzo 2017
+description: Horóscopos del dia de hoy 09 de marzo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Marte aspectando a Saturno el día de hoy te da deseos de salir a hacer cosas. Por su parte, Saturno está listo para defender cierta posición. Y juntos: La mejor defensa es tener una buena ofensa. La noche está llena de sorpresas cuando la Luna aspecta a Urano. Dale la bienvenida el sentimiento. Anticipa que alguien se robe tu corazón.
+Los recuerdos pueden ser engañosos cuando Mercurio cuadra a Neptuno, el planeta de los errores, malentendidos y la confusión. Hay una larga noche por delante que saca las cosas de equilibrio bajo la Luna fuera de curso en Libra. Esta podría arruinar la diversión de algunas personas - algo no inalcanzable, sólo difícil.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
