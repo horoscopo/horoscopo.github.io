@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 06-03-2017 al 13-03-2017 
-description: Horóscopo semanal capricornio. Horoscopo 06-03-2017 al 13-03-2017. Horoscopos univision gratis
+title: capricornio 13-03-2017 al 20-03-2017 
+description: Horóscopo semanal capricornio. Horoscopo 13-03-2017 al 20-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: c_F6SpR4P5E
+ video: fE-OY8wW33Y
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-06'
+ lastmod: '2017-03-13'
 ---
 
 
-A medida que Mercurio se acerca a Plutón en tu signo, puede que estés buscando una manera de doblar una oportunidad a tu ventaja. ¿Pero realmente vale la pena? Es posible que busques llegar a cierto resultado, pero hacer todo lo posible para obtenerlo es bastante estresante. Sería mejor que hagas tu mejor intento y olvidarte del asunto. Por otro lado, este es un gran momento para que dejes atrás toda la carga emocional que te está evitando avanzar.
+Amorosas vibraciones podrían estarte llamando fuerte y claramente cuando Venus entre a tu sector de relaciones el martes y le traiga a tu vida romántica un tono coqueto. El mismo aspecto es igual de útil para el cierre de ofertas y la organización de reuniones de negocios. Sin embargo, con una potente mezcla de energías llegando a un punto crítico el jueves, podrías sentir como si tu progreso estuviera siendo bloqueado. La buena noticia es que las cosas irán mejor a partir de ahora, sobre todo durante las próximas semanas.
 
 ##Dinero
 
-Tu sector de relaciones se pone de relieve, lo que significa que puedes tener la tentación de socializar más, conocer gente nueva y cultivar uniones existentes con los demás. Sin embargo, también puedes tener la tentación de mudarte o vender una propiedad por un pequeño margen de ganancia por el simple hecho de salirte. Muévete lentamente para que no te arrepientas de tu decisión después.
+Para ti esta semana es sobre las redes sociales, las cuáles son cada vez más importantes. Tus amigos de verdad te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo un montón de cambios, los cuáles podrían afectar la forma en la que te ves y presentas. Puede que algunos de tus amigos no aprecien este proceso. Sé amable con ellos ya que todavía no entienden a dónde vas y que ellos pueden venir también.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: tauro 06-03-2017 al 13-03-2017 
-description: Horóscopo semanal tauro. Horoscopo 06-03-2017 al 13-03-2017. Horoscopos univision gratis
+title: tauro 13-03-2017 al 20-03-2017 
+description: Horóscopo semanal tauro. Horoscopo 13-03-2017 al 20-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: VdlkYRwRHoM
+ video: dpFni3ZGlHY
 
 ogimg: /images/zodiac/tauro.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-06'
+ lastmod: '2017-03-13'
 ---
 
 
-Tu sector social sigue vislumbrándose optimista, animándote a hacer algunos cambios y a avanzar hacia nuevos círculos. Con Mercurio retrógrado, podrías percatarte de que ciertas amistades regresan de nuevo a tu vida con la oportunidad de continuar donde anteriormente se quedaron. Júpiter entra a tu sector espiritual, aspecto que podría coincidir con el deseo de superación. No sería una sorpresa que decidieras contratar a un entrenador o conectar con un maestro con el fin de alcanzar tu verdadero potencial.
+Por un lado, el Sol en un sector más intenso de tu carta astral puede dirigir tu enfoque hacia adentro y llevarte a explorar las capas más profundas de tu personalidad. Por otro lado, una mezcla dinámica de energías podría atraer tu mirada hacia afuera para que puedas aprovechar nuevas oportunidades y descubrir nuevos territorios. Tu perspectiva cambiará de forma radical en cualquier rumbo que sigas. El sábado, Venus, el planeta del amor, se vuelve retrógrado y esta puede ser la oportunidad para que te reencuentres con una persona que conociste hace tiempo.
 
 ##Dinero
 
-Esta semana estás pensando en cómo poner en marcha tu creatividad. Ciertos aspectos afectan tu sector de comunicación e ideas, así como también las relaciones. El Universo exige que cada vez tengas más madurez en tu pensamiento y en la manera de expresar tus ideas. Al mismo tiempo, hay una especie de ensueño de confusión acerca de con quién trabajar y cuándo. Cuando asumes nueva seriedad, el dinero te sigue inevitablemente.
+Esta semana tienes toneladas de nuevas oportunidades para ganar más dinero. Prepárate para poner un viejo plan en movimiento. Tus sueños tienen una muy buena oportunidad de convertirse en realidad, siempre y cuando tomes acción sobre cualquier cosa que se te presente. La actividad astral en tu sector de deuda advierte en contra de añadir más a ese balance.

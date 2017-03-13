@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 06-03-2017 al 13-03-2017 
-description: Horóscopo semanal libra. Horoscopo 06-03-2017 al 13-03-2017. Horoscopos univision gratis
+title: libra 13-03-2017 al 20-03-2017 
+description: Horóscopo semanal libra. Horoscopo 13-03-2017 al 20-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: 0nrV9A_qENU
+ video: 0cAYutA_1XM
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-06'
+ lastmod: '2017-03-13'
 ---
 
 
-Tu intuición quiere decirte algo, así que te conviene prestarle atención. Puedes ahorrar tiempo o incluso dinero en cuanto a un proyecto clave o un negocio. Puede que también te encuentres evaluando el impacto de un nuevo hábito o de una rutina de ejercicio y cómo influye en tu manera de pensar. Hay una gran probabilidad de que sientas más energía o te sientas mejor y esta es una actitud que puedes mantener durante todo el mes.
+El cambio de enfoque en tu sector de relaciones fomenta el trabajo en equipo y la cooperación. Si sientes deseos de trabajar de manera individual en un proyecto clave, el cosmos sugiere que lo reconsideres. Trabajar con otras personas puede facilitar la tarea y ser además mucho más divertido. La presencia continua de Júpiter en tu zona de comunicación puede brindarte optimismo en cuanto a planes futuros. Pero si surge una discusión sobre un proyecto de negocios, presta especial atención a los posibles costos.
 
 ##Dinero
 
-Te diriges a un momento interesante. La gente se siente atraída hacia ti y a tu mensaje, así que si tienes que dar una presentación o formular un argumento con respecto a ventas, prográmalo para esta semana. Con el apoyo del Universo, tu sector de comunicación es el más afectado. ¿Cómo puedes llevar ese compromiso que recibiste al siguiente nivel y convertirlo en una promoción?
+Esta semana tienes la base sobre la cual construir una seguridad adicional. La actividad en tu sector de  deuda hace que sea más fácil pagar las tarjetas y líneas de crédito. Eres capaz de ganar más dinero ahora y asignarlo como mejor te parezca.
