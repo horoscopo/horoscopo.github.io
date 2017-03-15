@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de marzo 2017
-description: Horóscopos del dia de hoy 14 de marzo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de marzo 2017
+description: Horóscopos del dia de hoy 15 de marzo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Cuando Mercurio retrógrado aspecta a Neptuno retrógrado, retrocede un par de pasos para obtener una mejor visión de algo (o alguien). Un par de cosas requieren de más explicación. Los solteros están sujetos a caprichosos coqueteos cuando nadie se comporta seriamente esta noche, por lo que no se te olvide llevar contigo tu sentido del humor.
+Ten un gran día al reciclar o encontrarle un nuevo uso a algo viejo bajo la Luna en el creativo Leo. Además, disfrutas de tener suerte y buena sincronización gracias a la conjunción con Júpiter. Esta noche, es fácil darte cuenta de las pequeñas señales, anomalías y cosas dichas y hechas para desviar tu atención con Venus encontrándose en Virgo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
