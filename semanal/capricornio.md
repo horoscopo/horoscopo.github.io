@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 13-03-2017 al 20-03-2017 
-description: Horóscopo semanal capricornio. Horoscopo 13-03-2017 al 20-03-2017. Horoscopos univision gratis
+title: capricornio 20-03-2017 al 27-03-2017 
+description: Horóscopo semanal capricornio. Horoscopo 20-03-2017 al 27-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: fE-OY8wW33Y
+ video: V2y8NPGApOg
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-13'
+ lastmod: '2017-03-20'
 ---
 
 
-Amorosas vibraciones podrían estarte llamando fuerte y claramente cuando Venus entre a tu sector de relaciones el martes y le traiga a tu vida romántica un tono coqueto. El mismo aspecto es igual de útil para el cierre de ofertas y la organización de reuniones de negocios. Sin embargo, con una potente mezcla de energías llegando a un punto crítico el jueves, podrías sentir como si tu progreso estuviera siendo bloqueado. La buena noticia es que las cosas irán mejor a partir de ahora, sobre todo durante las próximas semanas.
+Con tu planeta personal Mercurio en fase retrógrada a partir del 19 de diciembre, podría haber demoras en las próximas tres semanas, pero podrías encontrar respuestas a asuntos que vienen siendo problemáticos. Marte también entra a tu sector de relaciones, lo que podría alentar la negociación y traer una oportunidad para despejar el aire. Con el Sol actualmente encontrándose en tu sector de recreación durante la semana de festividades, este período parece ser agradable y divertido para todas las personas involucradas. Tienes grandes ideas en mente.
 
 ##Dinero
 
-Para ti esta semana es sobre las redes sociales, las cuáles son cada vez más importantes. Tus amigos de verdad te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo un montón de cambios, los cuáles podrían afectar la forma en la que te ves y presentas. Puede que algunos de tus amigos no aprecien este proceso. Sé amable con ellos ya que todavía no entienden a dónde vas y que ellos pueden venir también.
+Esta semana es sobre el choque de energías en el cielo conforme varios planetas luchan por tu atención. Algunos te ayudarán a acomodarte en tu trabajo y desarrollar un plan para el avance. Pero también tienes un dilema en sus manos. ¿Deberías de estar de acuerdo con el statu quo, o luchar por tu individualidad? El primero es mejor por ahora.

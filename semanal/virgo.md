@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: virgo 13-03-2017 al 20-03-2017 
-description: Horóscopo semanal virgo. Horoscopo 13-03-2017 al 20-03-2017. Horoscopos univision gratis
+title: virgo 20-03-2017 al 27-03-2017 
+description: Horóscopo semanal virgo. Horoscopo 20-03-2017 al 27-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: Ofrh40r9FeY
+ video: UITJHnguU3Q
 
 ogimg: /images/zodiac/virgo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-13'
+ lastmod: '2017-03-20'
 ---
 
 
-Hay ciertas cosas que preferirías mantener en secreto en este momento, así que no te sientas culpable de hacerlo. Aun si tus mejores amigos te insisten en que les cuentes, no hay razón por la que debas. Sabrás cuándo será el momento de ponerlos al tanto, pero hasta entonces, el silencio puede ser algo muy preciado. Aun así, con Marte en tu signo, tus acciones pueden valer más que las palabras. Esto sugiere que podrías dejarte en evidencia sin darte cuenta. 
+Pueden surgir problemas en tu bienestar en los próximos días. Podrías reunirte con una amistad o quizá con un grupo de amigos para mejorar tu estado general de salud. Puede que tengas ganas de cambiar de dieta, ya que una influencia clave quizá te haga considerar distintas maneras de eliminar toxinas de tu cuerpo. Desde un punto de vista más íntimo, la presencia de Marte en Tauro puede estimular tus sentidos, lo que hace que las próximas semanas sean perfectas para el romance con todo tipo de adornos.
 
 ##Dinero
 
-Esta semana estás en el meollo de las cosas con ciertos aspectos afectando tu sector de dinero y valores. Se te está forzando hacia cierta área de tu vida que ha sido desatendida durante demasiado tiempo. Pon un poco más de tu pensamiento y acción en cómo ganar dinero y cuánto quieres ganar en el futuro.
+Esta semana tienes actividad en tu sector de dinero y valores, trayendo de vuelta una habilidad del pasado cuando se trata de ganar dinero en efectivo. Otros aspectos afectan tu sector de deuda o el dinero de otros. Si necesitas mejorar tu calificación de crédito, pide un poco de dinero prestado de una institución de dinero o banco y págalo antes del tiempo estimado.

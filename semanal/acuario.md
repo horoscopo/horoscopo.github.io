@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 13-03-2017 al 20-03-2017 
-description: Horóscopo semanal acuario. Horoscopo 13-03-2017 al 20-03-2017. Horoscopos univision gratis
+title: acuario 20-03-2017 al 27-03-2017 
+description: Horóscopo semanal acuario. Horoscopo 20-03-2017 al 27-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: YZocLgtKsss
+ video: HpbWIoyeQDk
 
 ogimg: /images/zodiac/acuario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-13'
+ lastmod: '2017-03-20'
 ---
 
 
-Un deseo de renovar tu hogar podría hacerte tomar decisiones radicales. Con la poderosa entrada de Marte a tu sector doméstico, puede que sea una buena oportunidad para ordenar el desorden y realizar grandes cambios en tu casa. En los próximos días, podría aparecer una oportunidad aun más grande que implique una mudanza o quizá agrandar o remodelar tu casa de alguna manera, para bien. Además, el Eclipse Solar en tu sector de comunicaciones podría traerte interesantes novedades.
+Puede que los cambios sean rápidos y pueden ser una consecuencia del Eclipse Solar que tendrá lugar el domingo. Puede que sientas ganas de moverte con independencia. Si bien esto puede ser emocionante, también podría causar problemas a la larga. Puede también que quieras olvidarte de tus responsabilidades, pero las demás personas te las recordarán. Te convendría quedar en buenos términos y hacer lo que esperan que hagas. Con el Eclipse en Piscis, tendrás una revelación espiritual que podría fortalecerte.
 
 ##Dinero
 
-Esta semana se trata de aspectos que afectan tus áreas de romance, niños, familia y diversión. Mientras que puedes tener la tentación de no ir al trabajo para darte una corta escapada, ¡tratar de resistirte! Es mejor aplicar tu energía a resolver un problema que es común en tu área. Ganar más dinero va a ser fácil cuando lo hagas.
+Esta es una buena semana para ti. Tu belleza se denota por dentro y por fuera, y tienes los medios y la inspiración para cambiar lo que hay que abordar. En resumen, tienes cierto magnetismo. Atraerás oportunidades para ganar más, influir en los demás, y lograr que tus necesidades financieras se solucionen de una gran forma. Aprovecha esta energía mientras te apoya.

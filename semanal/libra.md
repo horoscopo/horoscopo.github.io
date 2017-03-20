@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: libra 13-03-2017 al 20-03-2017 
-description: Horóscopo semanal libra. Horoscopo 13-03-2017 al 20-03-2017. Horoscopos univision gratis
+title: libra 20-03-2017 al 27-03-2017 
+description: Horóscopo semanal libra. Horoscopo 20-03-2017 al 27-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: 0cAYutA_1XM
+ video: UawMw6ft4us
 
 ogimg: /images/zodiac/libra.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-13'
+ lastmod: '2017-03-20'
 ---
 
 
-El cambio de enfoque en tu sector de relaciones fomenta el trabajo en equipo y la cooperación. Si sientes deseos de trabajar de manera individual en un proyecto clave, el cosmos sugiere que lo reconsideres. Trabajar con otras personas puede facilitar la tarea y ser además mucho más divertido. La presencia continua de Júpiter en tu zona de comunicación puede brindarte optimismo en cuanto a planes futuros. Pero si surge una discusión sobre un proyecto de negocios, presta especial atención a los posibles costos.
+Los deportes competitivos o el ejercicio aeróbico pueden ser realmente buenos para ti ahora y en las próximas semanas. Si sientes la frustración que conlleva cumplir con grandes responsabilidades, esta puede ser una buena manera de desahogarte y aumentar tu energía. Júpiter, tu planeta personal, se vuelve retrógrado en tu sector social al final de la semana, por lo que puede que tengas que obligarte a moverte hacia nuevos círculos, pero puede que valga la pena.
 
 ##Dinero
 
-Esta semana tienes la base sobre la cual construir una seguridad adicional. La actividad en tu sector de  deuda hace que sea más fácil pagar las tarjetas y líneas de crédito. Eres capaz de ganar más dinero ahora y asignarlo como mejor te parezca.
+Los aspectos activan tu sector de efectivo y valores. Hay tanta actividad ahí, que puede que tengas que establecer un tiempo para organizar tus finanzas o regresar las llamadas de tus muchos pretendientes financieros. Mientras clasificas las nuevas ofertas de empleo y las oportunidades para ganar dinero extra, no te olvides de la planificación de tu carrera. Por supuesto, trabajas para recibir un cheque, pero ¿qué otra recompensa se puede derivar de tu trabajo?

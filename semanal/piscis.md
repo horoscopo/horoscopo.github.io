@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: piscis 13-03-2017 al 20-03-2017 
-description: Horóscopo semanal piscis. Horoscopo 13-03-2017 al 20-03-2017. Horoscopos univision gratis
+title: piscis 20-03-2017 al 27-03-2017 
+description: Horóscopo semanal piscis. Horoscopo 20-03-2017 al 27-03-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: phj6IKNq6Iw
+ video: UTSB-rerSdg
 
 ogimg: /images/zodiac/piscis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-13'
+ lastmod: '2017-03-20'
 ---
 
 
-El Sol entra a un sector más tranquilo y alejado de tu carta astral justo cuando comienza esta semana festiva. Esto marca un período del año donde prefieres tomarte tu tiempo para reflexionar sobre tus prioridades. No te niegues esta oportunidad, ya que te rodean influencias que fomentan el cambio progresivo y constructivo. Te conviene pensar cómo se aplica esto a tu vida y cómo podría cambiarla por completo. La semana festiva se ve muy divertida y esto es algo que disfrutas al máximo.
+¿No es tiempo de que te relajes? Descubres que buscas decir lo que piensas cuando Marte ingresa en tu sector de relaciones. Aunque una estrategia más diplomática siempre es útil, hay momentos en los que es mejor buscar la honestidad y sinceridad. Aquellos proyectos o relaciones que no han progresado empiezan a moverse en la dirección correcta. La entrada de Venus a tu sector de estilo de vida genera relaciones positivas con colegas y superiores. En cuanto a diversión, los deportes de competencia ayudan a canalizar tu energía.
 
 ##Dinero
 
-Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.
+Ahora tienes una situación de buenas noticias/malas noticias en tus manos. La buena noticia es que tu sector de carrera y figuras de autoridad se ve afectado positivamente, lo que indica un tiempo de mejores oportunidades y un mayor acceso a flujos de efectivo. La mala noticia es que puede que creas que no necesitas cambiar. Trata de salir adelante mediante la cooperación, no la lucha.
