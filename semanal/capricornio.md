@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: capricornio 20-03-2017 al 27-03-2017 
-description: Horóscopo semanal capricornio. Horoscopo 20-03-2017 al 27-03-2017. Horoscopos univision gratis
+title: capricornio 27-03-2017 al 03-04-2017 
+description: Horóscopo semanal capricornio. Horoscopo 27-03-2017 al 03-04-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: V2y8NPGApOg
+ video: R19xOkC5xeU
 
 ogimg: /images/zodiac/capricornio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-20'
+ lastmod: '2017-03-27'
 ---
 
 
-Con tu planeta personal Mercurio en fase retrógrada a partir del 19 de diciembre, podría haber demoras en las próximas tres semanas, pero podrías encontrar respuestas a asuntos que vienen siendo problemáticos. Marte también entra a tu sector de relaciones, lo que podría alentar la negociación y traer una oportunidad para despejar el aire. Con el Sol actualmente encontrándose en tu sector de recreación durante la semana de festividades, este período parece ser agradable y divertido para todas las personas involucradas. Tienes grandes ideas en mente.
+¿Sería posible que abandones tu rutina de estilo de vida esta semana? Es posible, sobre todo si te has hartado de tu trabajo, rutina de ejercicio o de tu estilo de vida en general. El Eclipse Solar de esta semana podría hacer que renuncies a tus intentos, sobre todo si se trata de algo en lo que realmente no tienes ningún interés. Sin embargo, también es una oportunidad bastante significativa para un nuevo comienzo. Si algo te llama la atención, no lo persigas. Espera un poco y algo aún más sorprendente podría llegar para llenar ese vacío.
 
 ##Dinero
 
-Esta semana es sobre el choque de energías en el cielo conforme varios planetas luchan por tu atención. Algunos te ayudarán a acomodarte en tu trabajo y desarrollar un plan para el avance. Pero también tienes un dilema en sus manos. ¿Deberías de estar de acuerdo con el statu quo, o luchar por tu individualidad? El primero es mejor por ahora.
+Esta semana recibirás un mensaje diciéndote que es tiempo de darle seriedad a tu carrera y a algunas figuras importantes en tu vida. Si estás tratando de salir adelante, puede que sea mejor que tomes una pausa de unos meses, prepararte para asumir una nueva posición, y así lograr un cambio. Aunque usualmente estás listo/a para la acción, tendrás que esperar un poco ésta vez.

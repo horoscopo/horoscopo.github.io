@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: escorpio 20-03-2017 al 27-03-2017 
-description: Horóscopo semanal escorpio. Horoscopo 20-03-2017 al 27-03-2017. Horoscopos univision gratis
+title: escorpio 27-03-2017 al 03-04-2017 
+description: Horóscopo semanal escorpio. Horoscopo 27-03-2017 al 03-04-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: Y_NJzJTYiU0
+ video: jQn7cggNIE0
 
 ogimg: /images/zodiac/escorpio.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-20'
+ lastmod: '2017-03-27'
 ---
 
 
-Con Marte entrando al sensual signo Tauro y a tu sector de hogar y familia esta semana, puede que sea tiempo de bajar el ritmo y disfrutar la cocina hogareña. Si puedes tomarte un descanso en las próximas semanas, trata de hacerlo. Esta podría ser una oportunidad de oro para recargar toda tu energía. También puede que te interese salir de compras y es muy posible que encuentres una oferta especial. Puede que quieras derrochar dinero este fin de semana, así que no te excedas.
+Si tu tiempo ha estado ocupado últimamente, disfrutarás de la oportunidad de pasar tiempo en casa. Podría incluso sentirse como un retiro personal, ayudándote a relajarte y recargar baterías. Aunque tu agenda esté ocupada, también apreciarás de estar lejos del ajetreo y bullicio del mundo y sentir seguridad en tu propio capullo privado. Esta semana y durante las próximas semanas, te beneficiarás de pasar tiempo reflexionando y adquiriendo nuevas perspectivas. También podría ser divertido invitar a amigos y familia a tu morada.
 
 ##Dinero
 
-Puede que los aspectos en tu sector de dinero y valores te molesten más que a la mayoría. Justo cuando estás a punto de cerrar el trato, las cosas se te escapan de las manos o simplemente se retrasan. No importa, ya que se pondrán mejor. Hasta entonces, haz negocios o trabaja para instituciones y corporaciones más grandes. Esto mejorará tu presupuesto anual.
+Esta semana hay aspectos afectando tu profesión y autoridad. Es posible que recientemente, cierta persona sin escrúpulos te haya hecho retrasarte en el trabajo o tuvieras que haber puesto un proyecto en espera mientras tratas con problemas de comunicación y problemas técnicos. Durante las próximas semanas, piensa en cómo sentar las bases para futuros acuerdos. El Universo te muestra cómo hacerlo.

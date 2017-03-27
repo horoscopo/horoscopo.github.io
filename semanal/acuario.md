@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: acuario 20-03-2017 al 27-03-2017 
-description: Horóscopo semanal acuario. Horoscopo 20-03-2017 al 27-03-2017. Horoscopos univision gratis
+title: acuario 27-03-2017 al 03-04-2017 
+description: Horóscopo semanal acuario. Horoscopo 27-03-2017 al 03-04-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: HpbWIoyeQDk
+ video: rrFxHdRvfwI
 
 ogimg: /images/zodiac/acuario.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-20'
+ lastmod: '2017-03-27'
 ---
 
 
-Puede que los cambios sean rápidos y pueden ser una consecuencia del Eclipse Solar que tendrá lugar el domingo. Puede que sientas ganas de moverte con independencia. Si bien esto puede ser emocionante, también podría causar problemas a la larga. Puede también que quieras olvidarte de tus responsabilidades, pero las demás personas te las recordarán. Te convendría quedar en buenos términos y hacer lo que esperan que hagas. Con el Eclipse en Piscis, tendrás una revelación espiritual que podría fortalecerte.
+La semana que se aproxima puede darte la oportunidad de que empieces un pasatiempo que disfrutas mucho. Los pequeños comienzos podrían resultar en un negocio y un futuro rentable si juegas bien tus cartas. El deseo de ser una persona más creativa y explorar tu potencial en esta área podría prepararte para grandes cosas si esto es algo que realmente te apasiona. La entrada de Venus a tu sector de hogar y familia sugiere que tienes grandes posibilidades de tener invitados en tu casa.
 
 ##Dinero
 
-Esta es una buena semana para ti. Tu belleza se denota por dentro y por fuera, y tienes los medios y la inspiración para cambiar lo que hay que abordar. En resumen, tienes cierto magnetismo. Atraerás oportunidades para ganar más, influir en los demás, y lograr que tus necesidades financieras se solucionen de una gran forma. Aprovecha esta energía mientras te apoya.
+Esta semana es perfecta para tener una mentalidad transformadora. Los aspectos astrales agitan tu sector hogareño y despiertan algunos sentimientos internos. Podrías sentir algo de inestabilidad en estas áreas y tal vez necesites pasar algo de tiempo curándote y desarrollando un plan de recuperación. Tómate todo el tiempo que necesites para hacer que suceda.

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: leo 20-03-2017 al 27-03-2017 
-description: Horóscopo semanal leo. Horoscopo 20-03-2017 al 27-03-2017. Horoscopos univision gratis
+title: leo 27-03-2017 al 03-04-2017 
+description: Horóscopo semanal leo. Horoscopo 27-03-2017 al 03-04-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: GquZqxNyb0Y
+ video: eVGbsDgAjNQ
 
 ogimg: /images/zodiac/leo.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-20'
+ lastmod: '2017-03-27'
 ---
 
 
-La presencia de Marte en tu signo puede indicar que sientes más inquietud de lo normal. Esto puede significar que buscas emociones y oportunidades para explorar nuevas ideas. Lo mismo sucede con las relaciones. Es decir, sientes atracción por personas que tienen ideas originales. Lo mismo de siempre puede ser aburrido a menos que encuentres una forma de volverlo interesante. Cuando encuentres una idea que te emocione, la llevarás a cabo hasta el final.    
+Esta podría ser una semana en la que las poderosas vibraciones del Eclipse Lunar movilicen el sector superior de tu carta astral. Esta es una oportunidad para que pienses qué es lo más importante para ti, no solo para las siguientes semanas pero también para el resto del año. ¿Qué esperas lograr? Los próximos días podrían hacerte reflexionar sobre ciertas cosas que te sorprenderán con su frescura y su chispa. Es posible que una trayectoria profesional que nunca consideraste se vuelva repentinamente atractiva.
 
 ##Dinero
 
-Te encuentras en un momento de aumento de actividad social, lo que puede ayudar a cualquier empresa de negocios puesta en marcha recientemente. Con cierto enfoque en grupos, política y negocios personales, estás a punto de hacer un gran cambio en tu vida; uno que puede acabar afectando la forma en la que vives. Es más fácil comunicarse con grupos acerca de tus ideas y de influir en la opinión pública a tu favor.
+Puede ser que aspectos en tu sector del dinero te traigan pánico acerca de dónde vendrá tu dinero. En lugar de entrar en modo de supervivencia, piensa en donde se puede construir o en dónde has construido en el pasado. El Universo recompensa el trabajo duro realizado durante un largo período de tiempo. Dicho esto, cierto aspecto positivo de esta semana indica que algo que ver con el hogar en general, podría darte acceso a un dinero que no sabías que existía.

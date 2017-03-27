@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: geminis 20-03-2017 al 27-03-2017 
-description: Horóscopo semanal geminis. Horoscopo 20-03-2017 al 27-03-2017. Horoscopos univision gratis
+title: geminis 27-03-2017 al 03-04-2017 
+description: Horóscopo semanal geminis. Horoscopo 27-03-2017 al 03-04-2017. Horoscopos univision gratis
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: Xvsapz3WkkU
+ video: jdQh-C1P0ck
 
 ogimg: /images/zodiac/geminis.jpg
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-20'
+ lastmod: '2017-03-27'
 ---
 
 
-Si estuviste haciendo proyectos artísticos o domésticos o limpiando tu hogar, deberías felicitarte. Lo hiciste bien. Venus permanece en el mismo sector, lo cual puede ser una buena influencia para decorar y darle un ambiente más sutil a tu hogar, pero también es posible que te comportes como una persona muy inquieta. Marte entra a tu sector de recreación el viernes y esta dinámica influencia puede coincidir con el deseo de tener nuevas aventuras y una nueva oportunidad para divertirte.
+El Sol se une a Venus, Mercurio y Júpiter en tu sector espiritual el lunes, haciendo de este un buen momento para relajarte y ver tu vida desde otra perspectiva. Si hay aspectos de tu vida que no te satisfacen, utiliza este tiempo para considerar la razón de esto y lo que puedes hacer al respecto. Ciertos nerviosos aspectos provenientes de Marte pueden crear frustrantes retrasos, lo cual es otra razón por la cual es posible que desees calmarte y relajarte esta semana. Circunnavega los obstáculos, si es posible.
 
 ##Dinero
 
-Te beneficiarás de dos maneras cruciales en estos momentos. Dado que ciertos aspectos están afectando a tu sector de grupos, política y trabajo por cuenta propia, puede que estés considerando trabajar desde casa o iniciar un nuevo negocio desde la comodidad de tu habitación. La suerte se combina con repentinas ideas brillantes. Puede parecer una broma, pero puede que de verdad funcione.
+Puede que tus alas sean recortadas en cuanto a progreso profesional se refiere. Si tu comportamiento no ha sido el apropiado con tus compañeros de trabajo o clientes recientemente, es posible que encuentres una desagradable sorpresa en tu bandeja de entrada. Es karma. Si tienes que pedir disculpas, hazlo y regresa a una relación productiva. El efectivo sigue a tu voluntad de ser un jugador de equipo.
