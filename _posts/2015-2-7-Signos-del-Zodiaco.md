@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de marzo 2017
-description: Horóscopos del dia de hoy 29 de marzo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 31 de marzo 2017
+description: Horóscopos del dia de hoy 31 de marzo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-El día de hoy, el tema es trabajo, trabajo y más trabajo cuando la Luna aspecta a Saturno, Plutón y Marte. ¿Sería posible que el problema sea la diferencia en valores cuando se está tratando de rehacer y cambiar a alguien? Esta noche es oportuna para el desarrollo de una mayor conciencia de sí mismos y los deseos, expectativas y puntos de vista de otras personas. 
+Hay pequeños cambios en todas partes cuando Júpiter se opone a Urano. Este tránsito, que sólo ocurre una vez cada 14 años, se trata de pensar lo contrario a una perspectiva anterior. Esta noche, obtienes una idea sobre lo que alguien está contemplando hace en el futuro y tienes una extremadamente buena habilidad al leer mentes. Hasta tú te sorprenderás agradablemente también.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
