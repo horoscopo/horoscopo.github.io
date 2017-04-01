@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Geminis Marzo 2017 
+title: Geminis Abril 2017 
 permalink: /horoscopo-mensual/geminis/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2017, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-03-01'
+ lastmod: '2017-04-01'
 ---
 
- Tus amistades te levantan el ánimo considerablemente alrededor del Eclipse de Luna Llena del 10 de febrero, y tú mejoras sus ánimos también. No tienes que sacrificar todo tu tiempo, pero ahora no es el momento de esconderte o pasar tiempo a solas. Resuelve un difícil problema cuando Mercurio forme sextil con Marte el 16 de febrero. Actúa inteligentemente y con prontitud. Ciertas preocupaciones laborales son destacadas durante el Eclipse Solar de Luna Nueva del 26 de febrero. Si se te presenta una nueva oferta o una posición diferente, no la descartes. Tómate tu tiempo y pesa bien las posibilidades. Los poderes al mando podrían estar haciendo grandiosos planes sin darse cuenta de que son poco realistas.
+ La Luna Llena del 10 de abril te anima a divertirte más. La gente apreciará tu alegría y el encanto de tu niño interior, aunque no lo estás haciendo por ellos, sino por ti. ¡Anímate a sonreír! Haz una pausa bajo la Luna Nueva del 26 de abril para darte un tiempo a solas para reflexionar sobre lo que quieres hacer que todavía no has comenzado. No des el salto, pero deja que todas esas zumbantes ideas se establezcan en tu mente. Cuando llegue el momento las sabrás elegir sabiamente. El 28 de abril, la conjunción entre Mercurio y Urano enciende tu mente en llamas con un millón de ideas. Anótalas para usarlas más tarde.

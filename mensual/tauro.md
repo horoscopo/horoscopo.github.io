@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Tauro Marzo 2017 
+title: Tauro Abril 2017 
 permalink: /horoscopo-mensual/tauro/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2017, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-03-01'
+ lastmod: '2017-04-01'
 ---
 
- Puede que veas amor por todas partes una vez que Venus entre a Aries el 3 de febrero. Haz algo divertido y creativo bajo el Eclipse de Luna Llena del 10 de febrero. Es probablemente lo más saludable que puedes hacer. Ten bondad con tu cuerpo y no te dejes llevar por los dulces o alimentos grasosos. Podrías volverte la persona favorita de todos bajo el Eclipse Solar de Luna Nueva del 26 de febrero. Hay un poderoso encanto rodeándote ahora y todo el mundo quiere tu aprobación y atención. Si tienes interés en unirte a un nuevo grupo o hacerle cambios a tu círculo social, ahora es el momento. Todos entenderán y estarán satisfechos con lo que quieras.
+ La Luna Llena del 10 de abril derrama sobre ti el poder necesario para mejorar tu rutina diaria. Sin tener que hacer un gran esfuerzo, organízate y logra terminar un montón te proyectos que tienes a medias. Obtendrás mucha ayuda sin tener que pedirla. Aprovéchala al máximo y recuerda demostrar tu gratitud. El período retrógrado de Venus termina el 15 de abril. Busca corazones más tiernos y tal vez un símbolo de amor o dulce reconciliación. La del 26 de abril es una Luna Nueva que te permite volverte una nueva versión de ti. Crea un mundo más hermoso y sé consciente de que puedes hacer que dure. Siente seguridad sobre todo lo que realmente amas.

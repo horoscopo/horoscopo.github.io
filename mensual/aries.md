@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Aries Marzo 2017 
+title: Aries Abril 2017 
 permalink: /horoscopo-mensual/aries/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2017, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-03-01'
+ lastmod: '2017-04-01'
 ---
 
- Sientes una increíble energía bajo el Eclipse de Luna Llena del 10 de febrero. Asegúrate de ser un poco realista para así no tomar más trabajo del que realmente puedas manejar. Tu salud merece respeto, al igual que las numerosas y aburridas tareas que son necesarias. El 22 de febrero, la cuadratura entre Marte y Plutón podría encender tu temperamento. Es posible que necesites más paz y tranquilidad bajo el Eclipse Solar de Luna Nueva del 26 de febrero. Hay elementos en tu vida que merecen de tu atención y meditación profunda. Es posible que incluso desees discutir algo con una amistad de confianza que desde el inicio entienda que, en última instancia, será tu decisión y de nadie más.
+ El 5 de abril, el trígono entre Marte y Plutón podría ayudarte a lograr una meta muy añorada. El dulce amor y el romance se ponen en tu camino bajo la Luna Llena del 10 de abril. Si te sientes un poco egoísta, está bien, es parte de tu encanto. Relájate y haz lo que se te antoje. No hay que moverse con prisa cuando Venus está retrógrado como lo está ahora. La Luna Nueva del 26 de abril podría traerte una ganancia monetaria, o tal vez, una deseada adquisición podría volverse más fácil de conseguir ahora. Una decisión financiera que te parece obvia a ti podría sorprender a otros, pero tus instintos superarán cualquier tipo de consejo que tales te den. Sin embargo, sé inteligente y no te apresures.
