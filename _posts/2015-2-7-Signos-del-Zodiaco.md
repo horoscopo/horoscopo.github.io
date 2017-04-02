@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de abril 2017
-description: Horóscopos del dia de hoy 01 de abril 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de abril 2017
+description: Horóscopos del dia de hoy 02 de abril 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Prepárate para tener profundos pensamientos y que tu mente sea activada místicamente cuando Mercurio en Piscis conjunte a Neptuno. Esta noche, la Luna conectando con Marte intensifica una dulce urgencia de emociones, pero con Venus a 29 grados, uno espera que sea la otra persona quien dé el primer paso... sin embargo, no lo da. Es en momentos como éste cuando las atracciones no llegan a ninguna parte, de manera temporal.
+Escucha a tu intuición cuando te apunte en la dirección correcta el día de hoy. También es una gran guía para la planificación futura, por cierto. Esta noche, súbete a la máquina del tiempo y deshazte de tu viejo equipaje con el fin de que nuevos recuerdos puedan desarrollarse. Es hora de que la metamorfosis tome efecto cuando la Luna aspecta tanto a Saturno como a Plutón.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
