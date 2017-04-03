@@ -1,24 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 27-03-2017 al 03-04-2017 
-description: Horóscopo semanal escorpio. Horoscopo 27-03-2017 al 03-04-2017. Horoscopos univision gratis
+title: escorpio 03 de abril 2017 al 09 de abril 2017 
+description: Horóscopo semanal escorpio 03 de abril 2017 al 09 de abril 2017. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: jQn7cggNIE0
+ video: 8Islygsab4c
 
-ogimg: /images/zodiac/escorpio.jpg
+ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-03-27'
+ lastmod: '2017-04-03'
 ---
 
 
-Si tu tiempo ha estado ocupado últimamente, disfrutarás de la oportunidad de pasar tiempo en casa. Podría incluso sentirse como un retiro personal, ayudándote a relajarte y recargar baterías. Aunque tu agenda esté ocupada, también apreciarás de estar lejos del ajetreo y bullicio del mundo y sentir seguridad en tu propio capullo privado. Esta semana y durante las próximas semanas, te beneficiarás de pasar tiempo reflexionando y adquiriendo nuevas perspectivas. También podría ser divertido invitar a amigos y familia a tu morada.
+
+##No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+
+Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí $SIGNO, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
+La Luna Nueva en tu sector de estilo de vida podría motivarte para que veas cómo se está desenvolviendo tu vida actual. ¿Será que es momento de hacer un cambio? La mezcla actual de energías sugiere que lo es. Si empiezas con los asuntos de salud y bienestar, puede que vayas por un camino más optimista. Además, puede que debas hacerle unos ajustes a un plan que significa mucho para ti a nivel personal antes de comenzar.
 
 ##Dinero
 
-Esta semana hay aspectos afectando tu profesión y autoridad. Es posible que recientemente, cierta persona sin escrúpulos te haya hecho retrasarte en el trabajo o tuvieras que haber puesto un proyecto en espera mientras tratas con problemas de comunicación y problemas técnicos. Durante las próximas semanas, piensa en cómo sentar las bases para futuros acuerdos. El Universo te muestra cómo hacerlo.
+Ciertos aspectos están alentando tu capacidad de ganar la cantidad de dinero a la que puedes haberte acostumbrado y te piden que seas más responsable acerca de cómo gastas tu dinero en efectivo. Establece límites para que puedas ahorrar para tu jubilación u otros objetivos. Tu sector de creatividad, familia y diversión se ven afectados. Si estás teniendo problemas para encontrar motivación, sólo piensa en cómo lo que hagas ahora, beneficiará a tu familia en el futuro.
