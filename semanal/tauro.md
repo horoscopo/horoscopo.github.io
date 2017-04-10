@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 03 de abril 2017 al 09 de abril 2017 
-description: Horóscopo semanal tauro 03 de abril 2017 al 09 de abril 2017. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: tauro 10 de abril 2017 al 16 de abril 2017 
+description: Horóscopo semanal tauro 10 de abril 2017 al 16 de abril 2017. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: 8wxgCgPrqHY
+ video: B0Lm_iFLiS4
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-03'
+ lastmod: '2017-04-10'
 ---
 
 
 
-##Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+##Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 
-Al final, sólo te lamentarás de las posibilidades que no tomaste $SIGNO así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo $SIGNO. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
-A medida que Venus entra a tu sector de valores y autoestima, considera darte un gusto de la manera que más te parezca. Quizá te sientas en todo tu esplendor con nueva ropa o un nuevo corte de pelo. Lo que sea que hagas por ti puede ayudarte a tener más confianza, especialmente cuando sientes el cansancio generado por todo el arduo trabajo que has hecho. Y si sientes que los demás no agradecen todo lo que das, es tiempo de que te enfoques en ti.
+Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca $SIGNO. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder $SIGNO pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias $SIGNO, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
+Trabajar con un equipo de confianza puede resultar más provechoso que trabajar individualmente. Sin embargo, puede que quieras abrirte nuevos caminos con una idea que te lleva a territorio desconocido. Las influencias actuales sugieren que trabajar con otras personas es lo mejor que puedes hacer, ya que podría tener grandes resultados. La Luna Nueva en tu sector espiritual puede ser una señal para que comiences a meditar o inicies otro tipo de práctica espiritual que eleve tu nivel de consciencia. Una persona que conozcas en Víspera de Año Nuevo podría ser o no de confianza.
 
 ##Dinero
 
-Este período se trata de encontrar ese perfecto equilibrio entre trabajo y vida personal. El amor y la creatividad se unen a la acción para afectar tu empleo y asuntos de salud. Esto puede significar que por primera vez estás dando en el tino – ni te estás cansando demasiado ni tampoco vagando. Es probable que recibas elogios por el trabajo que has terminado y se te encarguen tareas aún más difíciles en el futuro.
+Cierta actividad en tu sector de herencias y de deuda esta semana muestra que es posible que estés en el extremo receptor de uno u otro. Uno, por supuesto, no puedes controlar. Pero si te percatas de que necesitas poner más energía en un plan de pago de deuda, el Universo puede ayudarte a lograr una mayor responsabilidad en esa área. Sonríe, las cosas están mejorando.

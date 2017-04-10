@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 03 de abril 2017 al 09 de abril 2017 
-description: Horóscopo semanal libra 03 de abril 2017 al 09 de abril 2017. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: libra 10 de abril 2017 al 16 de abril 2017 
+description: Horóscopo semanal libra 10 de abril 2017 al 16 de abril 2017. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca libra.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: U_K2rsWw5ZY
+ video: heGFxYfn0Dc
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-03'
+ lastmod: '2017-04-10'
 ---
 
 
 
-##Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+##Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca $SIGNO.
 
-Nadie se cura por herir a otro $SIGNO. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
-Podrías sentir la tentación de gastar en planes, eventos sociales y buenos momentos con amigos. Sin embargo, te irá mejor si puedes limitar la cantidad de dinero que gastas. Incómodos aspectos que surgen durante la semana sugieren que cuanto menos gastes, más fáciles serán las cosas para ti. Esto no quiere decir que no puedas divertirte, simplemente no serás capaz de elegir las opciones más caras. No hay garantía de que tales serán más divertidas, así que relájate y disfruta de lo que puedes pagar.
+Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte $SIGNO, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo $SIGNO, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande $SIGNO pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+El comienzo de la semana puede ser un momento excelente para una fiesta, una celebración o una reunión. Invita a amistades, ofrece buena comida y diviértete. Por otro lado, sigues trabajando sin parar, lo cual te hace sentir mucha presión. Es posible que aceptes condiciones o exigencias que no te hacen bien. De ser así, habla al respecto con alguien que pueda ayudarte y brindarte apoyo. Las opciones para divertirte y relajarte también parecen divertidas y pueden ser terapéuticas.
 
 ##Dinero
 
-Aspectos en tu gráfico asociado con el empleo y la salud te exhortan a hacer los cambios necesarios y hacerte chequeos médicos. Debido a que el Universo revela lo anteriormente enterrado bajo la superficie, puedes encontrarte con que alguien tiene la intención de bloquear tu camino hacia el éxito. Un vistazo a tu sector de vidas pasadas y karma te mostrará que ahora cosecharás lo que has sembrado.
+Esta semana tienes aspectos afectando a tu sector de relaciones. Alguien de quien no has oído en mucho tiempo puede tratar de comunicarse contigo en forma personal o profesional. ¡Te sorprenderá lo lejos que esta persona ha llegado en el terreno profesional! La comunicación es crucial ahora, especialmente en lo que se refiere a la situación de empleo.

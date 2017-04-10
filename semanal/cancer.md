@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 03 de abril 2017 al 09 de abril 2017 
-description: Horóscopo semanal cancer 03 de abril 2017 al 09 de abril 2017. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+title: cancer 10 de abril 2017 al 16 de abril 2017 
+description: Horóscopo semanal cancer 10 de abril 2017 al 16 de abril 2017. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: mGcL9Ckq3yM
+ video: uaanHklT1N0
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-03'
+ lastmod: '2017-04-10'
 ---
 
 
 
-##No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+##No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 
-A veces, no es fácil vivir la vida $SIGNO, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera $SIGNO. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-Saturno se vuelve retrógrado en el sector más alto de tu carta, de modo que podrías tener que reconsiderar un plan o analizar los detalles de un trato, lo que podría ocuparte durante todo el mes. Pero considéralo una oportunidad para confirmar que vas por el camino correcto. Con la Luna Llena desenvolviéndose durante el fin de semana, podrías sentirte con ánimos de comprar. Si lo haces, guarda los recibos y documentos en caso de que necesites devolver algo.
+Tienes que motivarte $SIGNO. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino $SIGNO. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro $SIGNO, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa $SIGNO, ¿tu tiempo no vale nada o qué?
+El comienzo de la semana trae una vivaz Luna Llena manifestándose en tu signo, lo cual intensifica tus sentimientos. Es posible que reveles más información de lo necesario, pero esto puede ser algo bueno. Aun así, es mejor pensar antes de hablar para evitar decir algo de lo que te puedas arrepentir. En cuanto a asuntos de dinero, tómate tu tiempo para realizar una compra o firmar un contrato. Si tienes alguna duda, es prudente que pidas más tiempo para pensar mejor en los detalles.
 
 ##Dinero
 
-Esta semana, actividad en tu sector de trabajo indica que es probable que tu trabajo se vuelva más fácil ahora. El Universo te proporciona la energía que necesitas para hacer las cosas y avanzar en la escalera del éxito al lograr que tu trabajo sea notado y apreciado. Al mismo tiempo, tienes que asumir una mayor responsabilidad antes de poder ganar más dinero.
+Estás poniendo tus metas profesionales en buen estado esta semana. Tu visibilidad laboral en el trabajo aumenta y tienes las herramientas necesarias para construir mensajes fuertes y claros. Mientras tanto, tienes la capacidad de hacer que tu caso sea convincente. Desde la creación de publicidad a la fabricación de folletos para atraer más clientes, haz que tu alcance sea persuasivo. No hay nada que no se pueda hacer ahora.

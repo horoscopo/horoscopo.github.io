@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 03 de abril 2017 al 09 de abril 2017 
-description: Horóscopo semanal acuario 03 de abril 2017 al 09 de abril 2017. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza acuario. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+title: acuario 10 de abril 2017 al 16 de abril 2017 
+description: Horóscopo semanal acuario 10 de abril 2017 al 16 de abril 2017. Quita importancia a las cosas acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: 603ROBbVS7E
+ video: OsENIw5pxnk
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-03'
+ lastmod: '2017-04-10'
 ---
 
 
 
-##Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza $SIGNO. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+##Quita importancia a las cosas $SIGNO, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace $SIGNO… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas $SIGNO, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
-El enfoque actual te invita a cuidarte y a enfocar tu atención hacia cosas para tu hogar, por lo que las próximas semanas y meses podrían ser muy agradables. El lunes y martes marcan un punto alto al ser días muy optimistas, pero puede que durante esta semana sea posible que necesites manejar algunas diferencias de opinión. Tomar la posición adecuada con alguien que es contrario a tus planes es importante. Ceder no es una opción, pero tener una charla sincera y tu mente abierta podrían ayudarte a encontrar una solución de compromiso sin hacer que la situación se vuelva demasiado emocional.
+Tómate un minuto par ti $SIGNO, tómate un minuto para dar gracias por lo que tienes, por la gente que está a tu lado, por todas esas situaciones de las que al final has salido airoso, por tener la vida que tienes, porque al final, todo acaba por salir bien. Eso es lo que necesitas para despegar con fuerza, con una fuerza que a veces escasea… Tienes que pararte a pensar que todo pasa por alguna razón pero que también de todo se sale. Que sólo son lecciones y no errores. Que no pierdes, al revés, aprendes. La vida te ha puesto al límite en muchas ocasiones pero has sabido reaccionar en el último momento aunque no pudieras más, aunque TÚ creyeras que no podías más… Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas. Y te levantarás, y volverás a pelear y a darlo todo. Exprésate con los tuyos $SIGNO, no te guardes sentimientos ni emociones, llora si tienes que hacerlo, y di más “te quiero”, la vida es muy corta y sólo tenemos asegurados el hoy. Siempre hay algo por lo que estar agradecido. Quédate sólo con eso, y sé feliz…
+Aunque el Sol en un sector espiritual de tu carta astral puede motivarte para que cierres puertas y dejes atrás situaciones que ya no te hacen bien, tienes muchas oportunidades para abrir nuevas puertas. La idea de saber cuándo dejar algo atrás y cuándo dejarlo entrar puede ser un poderoso concepto en este momento. Venus entra en fase retrógrada en tu signo, lo cual te inspira a buscar una relación con tu propio ser. Aprende a perdonar y aceptar tus errores.
 
 ##Dinero
 
-Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.
+Esta semana podría ser considerada como un cese al fuego. Los aspectos en tu casa de vidas pasadas, sueños y karma estresan la importancia del ser amable con los demás. ¿Recuerdas los modales que te enseño mamá? También recuerda que atraes más abejas con miel. Todo mejorará con el tiempo, ten paciencia.
