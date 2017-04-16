@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de abril 2017
-description: Horóscopos del dia de hoy 15 de abril 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de abril 2017
+description: Horóscopos del dia de hoy 16 de abril 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-No tomar una decisión es una opción para no tomar ninguna acción. Hoy tienes que tomar una ya sea que quieras o no. Esta noche, el romanticismo está en el aire. Podría haber una reunión casual con alguien nuevo para aquellos solteros que se encuentren con una lista de espera de potenciales parejas.
+Disfruta de una armonía cooperativa bajo la Luna en Libra de hoy, sin duda un beneficio al reaccionar a lo que otros quieren. Un trígono es considerado como un regalo muy afortunado, y el de esta noche entre Venus y Urano está lleno de sorpresas. Solteros, ¡éste podría incitar una magnética atracción!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
