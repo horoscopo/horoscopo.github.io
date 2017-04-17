@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 10 de abril 2017 al 16 de abril 2017 
-description: Horóscopo semanal aries 10 de abril 2017 al 16 de abril 2017. Fuera las preocupaciones. Tira del carro aries, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+title: aries 17 de abril 2017 al 23 de abril 2017 
+description: Horóscopo semanal aries 17 de abril 2017 al 23 de abril 2017. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: cHbQOZAsQ7g
+ video: Sh2u3jyJNQg
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-10'
+ lastmod: '2017-04-17'
 ---
 
 
 
-##Fuera las preocupaciones. Tira del carro $SIGNO, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+##Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada $SIGNO. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No $SIGNO, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres $SIGNO, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas $SIGNO pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-La vida sigue avanzando para ti con una renovada determinación para alcanzar tus metas y mejorar tanto tus ingresos como tu situación laboral. Sin embargo, hay un cambio de enfoque a partir del viernes, cuando el Sol entra a tu sector social para animarte a pensar acerca del equilibrio entre tu vida personal y laboral. Si no has tenido la oportunidad de divertirte últimamente, ahora es el momento de hacerlo. Sin embargo, ten cuidado el sábado, ya que la Luna Llena podría hacerte decir o hacer algo que podrías lamentar más adelante.
+A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez aries. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona aries, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
+Con la Luna Llena del lunes en tu signo, que no te sorprenda sentirte más emocional de lo habitual. Trata de darte más margen y de eliminar las tareas innecesarias. Evita tomar decisiones espontáneas hasta que sientas más calma y tranquilidad. Las relaciones parecen ser un tema recurrente. Alguien cercano a ti podría sorprenderte. Con Venus, tu planeta regente, ahora avanzando, podrías descubrir que cualquier problema reciente comienza a resolverse, lo que te permitirá progresar.
 
 ##Dinero
 
-Esta semana trae un gran suspiro de alivio a medida que eres capaz de ser más productivo/a. Podrías estar considerando  mover tu oficina o base de operaciones, la cuál vendría con menos distracciones con las que has estado trabajando recientemente. Mientras tanto, prepárate para el cambio en el frente de la deuda. Los planetas tienen sorpresas con cambios en tasas de interés y plazos. Lee las clausulas con cuidado.
+Tienes una semana llena de tensión por delante. Es posible que tengas que comprometer más de lo que quisieras. Tu vida hogareña, más que tu carrera o cartera de inversiones es donde debes buscar si quieres ganar más plata.

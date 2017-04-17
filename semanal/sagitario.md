@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 10 de abril 2017 al 16 de abril 2017 
-description: Horóscopo semanal sagitario 10 de abril 2017 al 16 de abril 2017. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+title: sagitario 17 de abril 2017 al 23 de abril 2017 
+description: Horóscopo semanal sagitario 17 de abril 2017 al 23 de abril 2017. No más paciencia Capri. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 horoscopo:
  signo: sagitario
- video: 1OGSCNzeMCE
+ video: vV7z-x_IVhw
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-10'
+ lastmod: '2017-04-17'
 ---
 
 
 
-##Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+##No más paciencia Capri. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 
-Quita importancia a las cosas Sagitario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Sagitario. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
-
+A veces sientes como si no avanzaras sagitario, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba sagitario, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo sagitario, feliz semana.
+La semana que se aproxima puede darte la oportunidad de que empieces un pasatiempo que disfrutas mucho. Los pequeños comienzos podrían resultar en un negocio y un futuro rentable si juegas bien tus cartas. El deseo de ser una persona más creativa y explorar tu potencial en esta área podría prepararte para grandes cosas si esto es algo que realmente te apasiona. La entrada de Venus a tu sector de hogar y familia sugiere que tienes grandes posibilidades de tener invitados en tu casa.
 
 ##Dinero
 
-El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.
+Puede que te encuentres expandiendo un negocio establecido desde tu casa en este momento debido a un afortunado aspecto en esta área de tu carta. Si es necesario, convierte una habitación extra en una oficina para que puedas cerrarle la puerta a tu trabajo al final del día. Cierto aspecto ahora te da todo lo que necesitas y mucho más para poner en marcha un nuevo negocio si quieres más libertad en tu vida laboral o para llevar una ya existente a un nivel superior.

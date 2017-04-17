@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 10 de abril 2017 al 16 de abril 2017 
-description: Horóscopo semanal escorpio 10 de abril 2017 al 16 de abril 2017. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+title: escorpio 17 de abril 2017 al 23 de abril 2017 
+description: Horóscopo semanal escorpio 17 de abril 2017 al 23 de abril 2017. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: mvZG7-an-Oo
+ video: 7g1aiH4otUk
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-10'
+ lastmod: '2017-04-17'
 ---
 
 
 
-##No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+##Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 
-Necesitas tener un objetivo en la vida Escorpio, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada Escorpio, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
-A pesar de que podrías estar feliz de disfrutar de más tiempo libre y más opciones sociales, también es posible que anheles una experiencia más profunda. Si es así, parece que tu deseo podría serte concedido esta semana. Un potente enfoque en tu sector de transformación alude a una decisión que podría tener importantes consecuencias y llevar tu vida hacia un nuevo nivel. Incluso podría sentirse como un renacimiento. Mantén tu guardia en alto contra aquellos que utilizan el dinero como una forma de manipularte. ¡Mantente firme!
+Tienes que plantarte escorpio, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana escorpio.
+Puede que un pulso interno más profundo sea la razón por la que contemplas situaciones clave y las razones que puede haber detrás. Un enfoque en un área más sensible de tu carta astral sugiere que las próximas semanas podrían ser tiempos de cambio, donde puede ser importante que dejes atrás aquellas cosas que no te hacen bien. Esto podría ser de gran ayuda si tienes un plan ambicioso en mente, ya que mientras menos bagaje emocional cargues, mejor para ti.
 
 ##Dinero
 
-Tienes una calidad de ideas y de ensueño que es muy atractiva para los demás en este momento. Sin embargo, ten cuidado con parecer como que saliste de un cuento de hadas o con parecer excesivamente intelectual. Puede que tu mensaje no sea entendido por las cabezas de algunas personas que necesites a bordo en tus planes personales y económicos. Al mismo tiempo, un aspecto de apoyo muestra que eres maestro/a por naturaleza. Considera cómo puedes compartir tus conocimientos con los demás por algo extra de dinero.
+Tienes una situación muy interesante esta semana conforme aspectos celestiales te presionan a tener una mayor productividad. La actividad en tu sector asociado con viajes al extranjero, la metafísica y la educación superior te empuja a ampliar tu negocio en territorio desconocido. Haz que ocurra este año y estarás cosechando los beneficios el próximo año.

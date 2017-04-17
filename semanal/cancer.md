@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 10 de abril 2017 al 16 de abril 2017 
-description: Horóscopo semanal cancer 10 de abril 2017 al 16 de abril 2017. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: cancer 17 de abril 2017 al 23 de abril 2017 
+description: Horóscopo semanal cancer 17 de abril 2017 al 23 de abril 2017. A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: uaanHklT1N0
+ video: yeoDPwpVSjg
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-10'
+ lastmod: '2017-04-17'
 ---
 
 
 
-##No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+##A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 
-Tienes que motivarte $SIGNO. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino $SIGNO. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro $SIGNO, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa $SIGNO, ¿tu tiempo no vale nada o qué?
-El comienzo de la semana trae una vivaz Luna Llena manifestándose en tu signo, lo cual intensifica tus sentimientos. Es posible que reveles más información de lo necesario, pero esto puede ser algo bueno. Aun así, es mejor pensar antes de hablar para evitar decir algo de lo que te puedas arrepentir. En cuanto a asuntos de dinero, tómate tu tiempo para realizar una compra o firmar un contrato. Si tienes alguna duda, es prudente que pidas más tiempo para pensar mejor en los detalles.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos cancer así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar cancer, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+A medida que el Sol entra a tu sector doméstico hoy, puede ser una oportunidad para que te tomes un descanso. Si bien pasan muchas cosas en distintas áreas, darte tiempo para reflexionar y evaluar tus prioridades puede ser muy útil en este momento. También notas un enfoque definido en el desarrollo de tus habilidades creativas, aunque podrías preguntarte si vale la pena. No dejes que la duda te desanime. Los beneficios que podrías obtener no tienen precio.
 
 ##Dinero
 
-Estás poniendo tus metas profesionales en buen estado esta semana. Tu visibilidad laboral en el trabajo aumenta y tienes las herramientas necesarias para construir mensajes fuertes y claros. Mientras tanto, tienes la capacidad de hacer que tu caso sea convincente. Desde la creación de publicidad a la fabricación de folletos para atraer más clientes, haz que tu alcance sea persuasivo. No hay nada que no se pueda hacer ahora.
+Te encanta fraccionar tu vida, con el dinero en un lado y el trabajo en el otro. Pero ahora algunos de tus compartimentos posiblemente tengan que ser combinados un poco con el fin de tener todo listo. Puede ser que estés pensando en volverte cada vez más responsables con tus finanzas en general. También estás combatiendo el hecho de que la caja que guarda el dinero en efectivo está un poco más seca que de costumbre. Cultiva otros recursos financieros adicionales a través de cambios o un trabajo extra de tiempo parcial.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 10 de abril 2017 al 16 de abril 2017 
-description: Horóscopo semanal capricornio 10 de abril 2017 al 16 de abril 2017. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo capricornio.
+title: capricornio 17 de abril 2017 al 23 de abril 2017 
+description: Horóscopo semanal capricornio 17 de abril 2017 al 23 de abril 2017. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: zErWk0GN1TQ
+ video: QStKPDcb2xY
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-10'
+ lastmod: '2017-04-17'
 ---
 
 
 
-##No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo $SIGNO.
+##No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 
-Cada día que pasa te das más cuenta de que mereces cosas buenas $SIGNO, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana $SIGNO.
-La Luna Nueva de hoy podría darte la oportunidad de explorar una idea para un negocio o un plan financiero, especialmente si esto sugiere un nuevo comienzo. Esto te vendría bien, ya que la idea de darle la vuelta a la hoja es algo que podría atraete mucho en este momento. Solo debes dar los primeros pasos pronto y poner el plan en marcha. En los últimos días de la semana, una idea que tiene un gran significado para ti podría convertirse en tu prioridad más importante de una manera impresionante.
+¿Cómo quieres gastar tu vida capricornio? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente capricornio, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida capricornio, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro capricornio. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana capricornio.
+Con Mercurio continuando su fase retrógrada, puede que tengas ganas de retomar un curso o el estudio de una materia en particular. Esto podría tener más ventajas de las que te imaginas. Aunque por lo general prefieres evitar los cambios, podrías aceptarlos con entusiasmo hoy y en las próximas semanas. Al hacerlo, tus creencias y tu perspectiva con respecto a la vida pueden cambiar y esto te lleva a desafiar tus límites y alcanzar tu máximo potencial.
 
 ##Dinero
 
-Esta semana tienes una base sólida para construir sobre tu existente riqueza. Quieres hacer cosas poco convencionales con tu dinero, pero es mejor ser un poco más conservador/a debido a las proyecciones de ahora. Sin embargo, es un buen momento para la investigación de aspectos más salvajes relacionados con la inversión.
+Con ciertos aspectos afectando tu vida hogareña y emociones internas, puede que desees regresar el tiempo en tu vida para poder volver atrás y corregir los errores del pasado. Pero estamos aquí para aprender, no para controlar. Cierta actividad en tu sector de viajes, idiomas y educación superior afirma que puedes encontrar un mayor acceso a dinero si logras exponer tus habilidades en mercados fuera de tu país. Enfoca tus esfuerzos en Internet para conectar con nuevos clientes.
