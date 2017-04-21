@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de abril 2017
-description: Horóscopos del dia de hoy 20 de abril 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de abril 2017
+description: Horóscopos del dia de hoy 21 de abril 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Mantente alerta a las cosas que necesitan ser cambiadas. El proceso también incluye cambiar la opinión ya sea de uno mismo o de alguien más cuando la Luna en Cáncer se opone a Plutón. Esta noche, tu actitud es elusiva e incluso reclusa, cuando el deseo de cerrarte al mundo existe. En realidad, la tranquilidad es muy placentera.
+El trígono entre el Sol y Neptuno de hoy crea grandes expectativas, y bajo esa promesa puedes esperar el éxito. Esta noche, con otro trígono entre la Luna y Mercurio, uno puede comunicar mucho con sólo una mirada. Sin embargo, las cosas no llegan más lejos esta noche debido a la Luna saliéndose de su órbita.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
