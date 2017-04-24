@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 17 de abril 2017 al 23 de abril 2017 
-description: Horóscopo semanal sagitario 17 de abril 2017 al 23 de abril 2017. No más paciencia Capri. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: sagitario 24 de abril 2017 al 30 de abril 2017 
+description: Horóscopo semanal sagitario 24 de abril 2017 al 30 de abril 2017. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 horoscopo:
  signo: sagitario
- video: vV7z-x_IVhw
+ video: 8ZmYc8jubM8
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-17'
+ lastmod: '2017-04-24'
 ---
 
 
 
-##No más paciencia Capri. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+##A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 
-A veces sientes como si no avanzaras sagitario, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba sagitario, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo sagitario, feliz semana.
-La semana que se aproxima puede darte la oportunidad de que empieces un pasatiempo que disfrutas mucho. Los pequeños comienzos podrían resultar en un negocio y un futuro rentable si juegas bien tus cartas. El deseo de ser una persona más creativa y explorar tu potencial en esta área podría prepararte para grandes cosas si esto es algo que realmente te apasiona. La entrada de Venus a tu sector de hogar y familia sugiere que tienes grandes posibilidades de tener invitados en tu casa.
+La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón sagitario, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
+Después de la intensidad de la semana pasada, puede que aún siga habiendo un residuo del conflicto entre tú y un familiar. Este podría desarrollarse conforme avanza la semana. En lugar de ponerte emocional sobre las cosas, céntrate en los hechos de la situación. Una vez que los hayas investigado, estarás en una mejor posición para negociar o llegar a un compromiso. Si sientes que se te ha tratado injustamente, tener una charla puede ayudarte a resolver esto. Por último, tu vida social se vislumbra mucho más positiva.
 
 ##Dinero
 
-Puede que te encuentres expandiendo un negocio establecido desde tu casa en este momento debido a un afortunado aspecto en esta área de tu carta. Si es necesario, convierte una habitación extra en una oficina para que puedas cerrarle la puerta a tu trabajo al final del día. Cierto aspecto ahora te da todo lo que necesitas y mucho más para poner en marcha un nuevo negocio si quieres más libertad en tu vida laboral o para llevar una ya existente a un nivel superior.
+Tienes una semana monetaria interesante por delante. Esto puede ser extremadamente afortunado, así que mantén los ojos bien abiertos para todo tipo de nuevas oportunidades de ganar y recibir el dinero que ya se encuentre en camino. El Universo afecta la forma en la que actualmente estás pagando tu pendiente deuda. Un ritmo lento pero constante gana la carrera en todo momento.
