@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 17 de abril 2017 al 23 de abril 2017 
-description: Horóscopo semanal cancer 17 de abril 2017 al 23 de abril 2017. A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+title: cancer 24 de abril 2017 al 30 de abril 2017 
+description: Horóscopo semanal cancer 24 de abril 2017 al 30 de abril 2017. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: yeoDPwpVSjg
+ video: 7LFVlbcjo_s
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-17'
+ lastmod: '2017-04-24'
 ---
 
 
 
-##A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+##Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos cancer así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar cancer, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
-A medida que el Sol entra a tu sector doméstico hoy, puede ser una oportunidad para que te tomes un descanso. Si bien pasan muchas cosas en distintas áreas, darte tiempo para reflexionar y evaluar tus prioridades puede ser muy útil en este momento. También notas un enfoque definido en el desarrollo de tus habilidades creativas, aunque podrías preguntarte si vale la pena. No dejes que la duda te desanime. Los beneficios que podrías obtener no tienen precio.
+Fíate de ti mismo cancer, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando cancer y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
+Suceden cosas emocionantes con respecto a tu profesión. Ya sea que sigas una carrera profesional, tengas tu propio negocio, o busques un nuevo trabajo, tienes grandes cosas por delante. Quien arriesga gana, y esta semana, podrías volverte muy audaz y sin duda puedes ganar. Con Venus entrando en fase retrógrada en este mismo sector, ten cuidado cuando firmes un contrato. De hecho, quizá debas esperar a que Venus se vuelva directo el 15 de abril.
 
 ##Dinero
 
-Te encanta fraccionar tu vida, con el dinero en un lado y el trabajo en el otro. Pero ahora algunos de tus compartimentos posiblemente tengan que ser combinados un poco con el fin de tener todo listo. Puede ser que estés pensando en volverte cada vez más responsables con tus finanzas en general. También estás combatiendo el hecho de que la caja que guarda el dinero en efectivo está un poco más seca que de costumbre. Cultiva otros recursos financieros adicionales a través de cambios o un trabajo extra de tiempo parcial.
+¡Puede que tengas que hacer muchos ajustes con todos los aspectos astrológicos de esta semana! El Universo puede traer un montón de noticias y ofertas, lo cuál es genial, pero se quedarán cortas, por lo que prepárate y alístate para entrar en acción. Si recibes malas noticias, asegúrate de tomar un descanso para recuperarte.

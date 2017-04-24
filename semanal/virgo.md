@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 17 de abril 2017 al 23 de abril 2017 
-description: Horóscopo semanal virgo 17 de abril 2017 al 23 de abril 2017. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+title: virgo 24 de abril 2017 al 30 de abril 2017 
+description: Horóscopo semanal virgo 24 de abril 2017 al 30 de abril 2017. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: 2HIaVbscLLM
+ video: HERljR9kovk
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-17'
+ lastmod: '2017-04-24'
 ---
 
 
 
-##Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+##Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 
-Siempre has tenido un fuerte instinto de supervivencia virgo, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces cangrejo y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
-Cuida tus finanzas esta semana, ya que quizás quieras gastar de más en algo que podría darle un giro radical a tu vida. Sin embargo, si gastas mucho dinero, podrías perjudicar tu seguridad financiera, así que piensa bien antes de gastar una gran cantidad de dinero; especialmente si te dejas llevar por el momento. Sería mejor que esperes unas semanas, hasta que Venus se vuelva directo el 15 de abril, antes de gastar una fortuna. Tienes tiempo de sobra para pensar si esta es una buena decisión.
+La zona de confort es un sitio bonito virgo, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más virgo, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto virgo, y tú mismo te lo notas, no la cagues por nada ni por nadie.
+Ten cuidado al tratar con las autoridades, sobre todo al comienzo de la semana. La Luna Llena podría alentarte a responder mal o a revelarte por completo. Puede ser que lo mejor sea tener cuidado si quieres evitarte problemas. Aparte de esto, la entrada del Sol a tu sector de ocio y placer es el momento perfecto para estimular tus sentidos. Si has sentido agotamiento debido a un estilo de vida demasiado agitado, date un chapuzón en la tina con una copa de champán y relájate. 
 
 ##Dinero
 
-Esta semana ilumina las áreas de tu carta que quieren salir y explorar todo lo que la vida tiene que ofrecer; desde lo emocional, a lo físico, a lo espiritual. Es imprescindible ir con la corriente cuando se trata de los cambios en el frente monetario. Estos no son malos, pero van a requerir de un poco de paciencia.
+Este período se trata de encontrar ese perfecto equilibrio entre trabajo y vida personal. El amor y la creatividad se unen a la acción para afectar tu empleo y asuntos de salud. Esto puede significar que por primera vez estás dando en el tino – ni te estás cansando demasiado ni tampoco vagando. Es probable que recibas elogios por el trabajo que has terminado y se te encarguen tareas aún más difíciles en el futuro.

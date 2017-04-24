@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 17 de abril 2017 al 23 de abril 2017 
-description: Horóscopo semanal leo 17 de abril 2017 al 23 de abril 2017. El mundo puede esperar Sagi, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: leo 24 de abril 2017 al 30 de abril 2017 
+description: Horóscopo semanal leo 24 de abril 2017 al 30 de abril 2017. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: OENzoinHo-0
+ video: wBQux4oOK7c
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-17'
+ lastmod: '2017-04-24'
 ---
 
 
 
-##El mundo puede esperar Sagi, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+##No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 
-No desperdicies ni un solo día de tu vida leo porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio leo, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la leo de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida leo. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
-Un cambio de creencias podría ser liberador para ti y puede ser algo que vienes pensando hace tiempo. Buscar un nuevo sistema de creencias o de inspiradores valores podría hacerte sentir que te quitaste un peso de encima. Esto también podría cambiar tu perspectiva y, de esta manera, te enfrentarías al futuro con nuevas esperanzas. La Luna Nueva en tu signo el 28 de diciembre podría ser el momento para poner en marcha nuevos planes, incluso si empiezas de a poco.
+Son muchos los que quieren arruinar tu vida leo, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa leo, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega leo. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos leo. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida leo. Ahora brillas así que, aprovecha. Aprovecha todo.
+A partir de esta semana, el cosmos te animará a tomarte un tiempo para el cuidado de tu persona y la relajación. Aprovecha el enfoque en tu sector doméstico para pasar tiempo con quienes te importan y cuidarte con buena comida y mucho descanso. Al mismo tiempo, las opciones de ocio pueden parecerte atractivas y podrías sentir curiosidad acerca de un determinado pasatiempo, deporte o habilidad nueva sobre la que te gustaría aprender más. El romance también podría florecer.
 
 ##Dinero
 
-Esta semana, los planetas están cambiando la manera en la que otros te ven, lo cual es positivo a largo plazo. Pero, dado a que en la actualidad afecta a tu carrera y tu vida hogareña, lo mejor es acudir a tus relaciones serias en busca de asistencia. Aquellos que pueden sostenerse en medio de una tormenta son aquellos que deseas mantener cerca.
+El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.
