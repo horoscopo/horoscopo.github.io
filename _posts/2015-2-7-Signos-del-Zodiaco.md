@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de abril 2017
-description: Horóscopos del dia de hoy 24 de abril 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de abril 2017
+description: Horóscopos del dia de hoy 25 de abril 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Te encuentras bajo una impredecible Luna en Acuario. Sé flexible y adáptate rápido a las nuevas oportunidades. ¡Piensa en ello como diversión no anunciada! Venus y Saturno todavía tienen influencia cuando se trata de responsable placer. Es la noche adecuada  para las buenas acciones y las conexiones igual de positivas.
+Canaliza tu energía mental mientras Mercurio transita en Cáncer. Ahora es el momento adecuado para permitirte aceptar nuevos pensamientos y sentimientos. Las grandes ideas echan raíces en condiciones fértiles como éstas. ¿Podría la noche volverse un poco loca cuando la Luna conjunte al impredecible Urano? Sal a echarle un vistazo a la locura (o tal vez no).
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
