@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de abril 2017
-description: Horóscopos del dia de hoy 29 de abril 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 30 de abril 2017
+description: Horóscopos del dia de hoy 30 de abril 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Planea proyectos esta mañana, como la reparación de ciertas situaciones en más de un sentido. Ten apertura a nuevas ideas cuando la Luna forme trígono con Plutón esta tarde. Esta es la oportunidad de volver a examinar lecciones que de otra manera no hubieras aprendido. Tales pudiéndote servir esta noche. También hay mucho qué decir sobre el beneficio de la duda.
+Piensa bien primero cuando el sextil entre Marte y el rebelde Urano te dé tanto ganas de hacer algo travieso como tentación a hacer algo escandaloso. Esta noche, puede que tengas que retomar el hilo de una conversación perdida cuando la Luna en Piscis se salga de su órbita. Pero de todos modos, es posible que ni siquiera desees hacerlo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
