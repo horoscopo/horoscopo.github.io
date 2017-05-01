@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 24 de abril 2017 al 30 de abril 2017 
-description: Horóscopo semanal tauro 24 de abril 2017 al 30 de abril 2017. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida tauro. Ahora brillas así que, aprovecha. Aprovecha todo.
+title: tauro 01 de mayo 2017 al 07 de mayo 2017 
+description: Horóscopo semanal tauro 01 de mayo 2017 al 07 de mayo 2017. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza tauro. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
 horoscopo:
  signo: tauro
- video: 5E3ffic3SCE
+ video: S6yb1tGTGuc
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-24'
+ lastmod: '2017-05-01'
 ---
 
 
 
-##Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida tauro. Ahora brillas así que, aprovecha. Aprovecha todo.
+##Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza tauro. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 
-Es muy importante que eches la vista atrás tauro, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
-Puedes ser una persona muy práctica y realista, por lo que vas a disfrutar de la actual mezcla de energías ahora enfocadas en Virgo y en tu sector de romance y creatividad. Si te gusta crear cosas, estarás en el séptimo cielo, sobre todo si sientes ansias de adquirir nuevas habilidades. Actualizar tu técnica y darle a tu negocio un profesional cambio de imagen podría llevarte a ganar mucho más dinero. En referente a tu hogar, Marte te anima a deshacerte del desorden con tal de hacer espacio para expandirte.
+Ojalá pudiéramos tener un botón de reinicio en la vida tauro, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
+¿Deberías gastar o no gastar? Si bien puede que quieras hacer exactamente eso al inicio de la semana, podría ser mejor ahorrar tu dinero en vez de derrocharlo. La razón es que inestables influencias sugieren que una factura o gasto inesperado podrían aparecer. Es posible que este mismo fin de semana tengas que gastar más de lo previsto, lo que podría ser un problema si ya te gastaste todo tu presupuesto. Saber administrar tu dinero puede ser muy gratificante si te apegas a ello.
 
 ##Dinero
 
-Tienes una gran cantidad de aspectos astrológicos afectándote esta semana, muchos de los cuales afectan tu trabajo y dinero. En primer lugar, tus relaciones podrían ser menos que estables. Puede que tengas que contar con alguien más para ese préstamo que habías esperado. Los aspectos en tu sector de grandes instituciones como bancos e impuestos indican que debes tener cuidado con lo que dices y cómo lo dices.
+La actividad en tu sector de dinero y valores de esta semana indica que algo del pasado tiene que ser aclarado y ajustado antes de poder avanzar de nuevo. Añade a esto los ingredientes para un futuro monetario interesante. Eres capaz de aportar más a la mesa cuando le prestas más atención a tu sector de deuda o el dinero de otros.
