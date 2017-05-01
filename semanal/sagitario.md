@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 24 de abril 2017 al 30 de abril 2017 
-description: Horóscopo semanal sagitario 24 de abril 2017 al 30 de abril 2017. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+title: sagitario 01 de mayo 2017 al 07 de mayo 2017 
+description: Horóscopo semanal sagitario 01 de mayo 2017 al 07 de mayo 2017. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
 horoscopo:
  signo: sagitario
- video: 8ZmYc8jubM8
+ video: mhCcp7RV1dk
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-24'
+ lastmod: '2017-05-01'
 ---
 
 
 
-##A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+##Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón sagitario, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
-Después de la intensidad de la semana pasada, puede que aún siga habiendo un residuo del conflicto entre tú y un familiar. Este podría desarrollarse conforme avanza la semana. En lugar de ponerte emocional sobre las cosas, céntrate en los hechos de la situación. Una vez que los hayas investigado, estarás en una mejor posición para negociar o llegar a un compromiso. Si sientes que se te ha tratado injustamente, tener una charla puede ayudarte a resolver esto. Por último, tu vida social se vislumbra mucho más positiva.
+Quizás deberías dejar de planear todo ahora sagitario, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien sagitario, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
+Puede que una relación clave experimente un nuevo comienzo, especialmente con la Luna Nueva de hoy alentándote o alentando a la otra persona a dar el primer paso. Ya se trate de un nuevo romance o de una relación a largo plazo, la mezcla actual de energías genera un cambio de marcha, el cual podría profundizar la relación o presentar un desafío que ambos disfruten. Por otro lado, puede que debas llegar a un punto medio con respecto a un asunto familiar, pero esto podría implicar hacer un mayor sacrificio.
 
 ##Dinero
 
-Tienes una semana monetaria interesante por delante. Esto puede ser extremadamente afortunado, así que mantén los ojos bien abiertos para todo tipo de nuevas oportunidades de ganar y recibir el dinero que ya se encuentre en camino. El Universo afecta la forma en la que actualmente estás pagando tu pendiente deuda. Un ritmo lento pero constante gana la carrera en todo momento.
+Esta semana es acerca de romance, niños y diversión; así como viajes, educación y espiritualidad. Cualquiera de estas áreas puede ser explotada por obtener un trabajo extra o construir un negocio completamente nuevo ahora. Tú tienes la capacidad de hacer que suceda. Con un poco de arduo trabajo y verdadero enfoque, puedes empezar a ganar más dinero en el futuro.

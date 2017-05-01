@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 24 de abril 2017 al 30 de abril 2017 
-description: Horóscopo semanal escorpio 24 de abril 2017 al 30 de abril 2017. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: escorpio 01 de mayo 2017 al 07 de mayo 2017 
+description: Horóscopo semanal escorpio 01 de mayo 2017 al 07 de mayo 2017. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: adDHJByE75k
+ video: lQhp7EdNIxM
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-04-24'
+ lastmod: '2017-05-01'
 ---
 
 
 
-##Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+##Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace escorpio… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas escorpio, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
-Tu curiosidad podría despertar. Tantas cosas parecen fascinarte que no puedes evitar involucrarte. Tener demasiadas opciones puede ser tan malo como no tener ninguna, de modo que puede ser útil limitarte a algunos proyectos significativos. Parte de tu energía también podría dirigirse hacia problemas más profundos y conmovedores, ya que el Sol en tu sector espiritual te ayuda a procesar y liberar emociones complicadas. Sin embargo, ¡tus amistades te animarán a salir!
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega escorpio. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+Tu vida social parece estar bajo enfoque ahora, ofreciéndote muchas oportunidades para positivos encuentros. De hecho, una reunión bastante intensa podría alentarte a ti y alguien más a colaborar en una intrigante idea. También hay buenas noticias en el frente financiero con Saturno ahora avanzando en tu sector monetario a partir de este fin de semana. Esto, junto con Marte, podría verte dando pasos positivos con respecto a retos financieros que has sufrido recientemente. En cuanto a romance, ¡llévate las cosas con calma!  
 
 ##Dinero
 
-Esta semana, tu sensible naturaleza puede desear dinero para las cosas más suaves de la vida, como la búsqueda de la belleza y la verdad. Pero tu atención se dirige a tus vidas pasadas y el karma, donde es posible que tengas que hacer un poco de curación. Mientras tanto, tu medio de subsistencia es mucho más comunicativo. Cuanto más digas, sobre todo de la manera correcta, más serás capaz de ganar.
+Puede parecer que esta semana las cosas que se mueve en cámara lenta o incluso que se estén moviendo hacia atrás, sobre todo cuando se trata de tu capacidad de viajar, asistir a la escuela, o buscar las verdades más amplias de la vida. No te preocupes que al final las encontrarás. Mientras tanto, lo mejor es mantener tu dinero en efectivo guardado en un lugar seguro. En pocos meses, será más fácil el mover tus metas más cerca de la finalización.
