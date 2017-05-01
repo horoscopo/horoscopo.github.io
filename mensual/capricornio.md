@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Capricornio Abril 2017 
+title: Capricornio Mayo 2017 
 permalink: /horoscopo-mensual/capricornio/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2017, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-04-01'
+ lastmod: '2017-05-01'
 ---
 
- La Luna Llena del 10 de abril ilumina tu carrera u oportunidades laborales. Buenas noticias podrían estar en camino si has estado compitiendo por una nueva posición o proyecto. Espera formar parte de un equipo más grande y más cooperativo. El 17 de abril, el trígono entre el Sol y Saturno te concede más respeto y autoridad. Para cuando llegue la Luna Nueva del 26 de abril, encuentra más placer en algo que hasta ahora no ha sido divertido. Trata de verle el valor a una cosa o acción que podrías haber descartado porque la juzgaste como frívola. No es que hayas cometido un error. Es probable que hayas tenido demasiada prisa como para analizarla cuidadosamente. Reduce tu ritmo y aprecia más.
+ Mercurio se torna directo el 3 de mayo, y tu ambición retoma su rumbo. Tendrás más energía para socializar bajo la Luna Llena del 10 de mayo. También podrían gustarte más los grupos más grandes o un círculo social más amplio. Una salida cultural, un concierto o un evento con música en vivo podrían ser justo lo que necesitas. La Luna Nueva del 25 de mayo podría introducir una fase en la que es demasiado fácil discutir por cualquier cosa. Si una persona está celosa de ti o quiere competir contigo, habrá muy poco o nada que ambos pudieran ganar. Deja que esta energía desaparezca y no te involucres.

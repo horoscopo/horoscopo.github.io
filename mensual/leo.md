@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Abril 2017 
+title: Leo Mayo 2017 
 permalink: /horoscopo-mensual/leo/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-04-01'
+ lastmod: '2017-05-01'
 ---
 
- Evita un argumento cuando la Luna en Leo cuadre a Marte y forme trígono con Saturno el 6 de abril. Sí, requerirás de autocontrol. La Luna Llena del 10 de abril podría recordarte a cuántas personas les caes bien. Tanto amigos, como vecinos o hermanos podrían sorprenderte con una muestra de amistad. Puede que no sean flores, pero podrían venir tanto en forma material como también en elogios. Busca oportunidades profesionales en torno a la Luna Nueva del 26 de abril. Incluso si tu posición no recibe un impulso importante al instante, todas tus acciones serán visibles. Tú bien conoces tu propia mente, por lo que compórtate autoritaria pero no mandonamente.
+ El ciclo retrógrado de Mercurio termina el 3 de mayo en Aries. Si has sentido ganas de hacer algo nuevo, este es el momento. Los asuntos familiares te tocan más profundamente que nunca con la Luna Llena del 10 de mayo. Puede que tengas un pedido de último minuto relacionado con el trabajo, y los compromisos sociales podrían interferir, pero nada te distraerá de un evento familiar o de reunirte con un pariente. Tu vida social resplandece a medida que se acerca la Luna Nueva del 25 de mayo. Prepárate para una época de muchas actividades. Todo lo que te rodea puede despertar tu interés y estimular tu apetito por algo deslumbrante y nuevo para ver, hacer o visitar.

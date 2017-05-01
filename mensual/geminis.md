@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Geminis Abril 2017 
+title: Geminis Mayo 2017 
 permalink: /horoscopo-mensual/geminis/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2017, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-04-01'
+ lastmod: '2017-05-01'
 ---
 
- La Luna Llena del 10 de abril te anima a divertirte más. La gente apreciará tu alegría y el encanto de tu niño interior, aunque no lo estás haciendo por ellos, sino por ti. ¡Anímate a sonreír! Haz una pausa bajo la Luna Nueva del 26 de abril para darte un tiempo a solas para reflexionar sobre lo que quieres hacer que todavía no has comenzado. No des el salto, pero deja que todas esas zumbantes ideas se establezcan en tu mente. Cuando llegue el momento las sabrás elegir sabiamente. El 28 de abril, la conjunción entre Mercurio y Urano enciende tu mente en llamas con un millón de ideas. Anótalas para usarlas más tarde.
+ Cuando Mercurio se torne directo el 3 de mayo, estarás en una mejor posición y en mucha mejor forma para tener ambición en tu trabajo. Cuida bien de tu persona alrededor de la Luna Llena del 10 de mayo. Si una amistad de más edad que tú te fastidia con esto, no te ofendas. Más personas se preocupan por ti de lo que te das cuenta. Deja que alguien te mime y entretenga. Además, tus amistades disfrutan de tu compañía. La Luna Nueva del 25 de mayo es toda tuya para que seas el centro de atención. Puede que haya demasiadas personas a tu alrededor, y tal vez sientas un poco de desconexión, pero todo se desmoronará si no estás ahí.

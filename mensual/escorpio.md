@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Escorpio Abril 2017 
+title: Escorpio Mayo 2017 
 permalink: /horoscopo-mensual/escorpio/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2017, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-04-01'
+ lastmod: '2017-05-01'
 ---
 
- La Luna Llena del 10 de abril es rica en misterio y secretos recién revelados. Desde tu tranquilo y objetivo punto de vista, podrías enterarte de más de lo que desearías saber, posiblemente sobre un largo grupo de personas. Marte entra a Géminis el 21 de abril, haciendo que las personas se pongan habladoras. Sé paciente y tómate algo de tiempo a solas si las cosas se vuelven demasiado intensas. La Luna Nueva del 26 de abril te trae una gran cantidad de nuevo amor. Podría ser un nuevo romance o una visión fresca y poderosa que enriquezca tu relación actual. Encuentren una nueva manera de hacer su amor más estable y confiable.
+ El ciclo retrógrado de Mercurio termina el 3 de mayo, y ya era hora. La impaciencia desaparece a medida que progresas en una relación o un proyecto. La Luna Llena del 10 de mayo es intensa y apasionada. Un amante ideal podría buscarte entre la multitud. Puede que no dure para siempre, pero podría ser genial mientras dure. Deléitate con la atención, pero no alientes la situación más de lo que te gustaría. La Luna Nueva del 25 de mayo te brinda recursos que no sabías que existían. Úsalos para ganar más fuerza y resiliencia. Algunas personas que casi no conoces pueden revelarse como aliados poderosos y en quienes puedes apoyarte. No permitas que la duda instantánea se apodere de ti. 

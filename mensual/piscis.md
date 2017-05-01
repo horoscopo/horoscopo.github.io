@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Piscis Abril 2017 
+title: Piscis Mayo 2017 
 permalink: /horoscopo-mensual/piscis/
 keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2017, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-04-01'
+ lastmod: '2017-05-01'
 ---
 
- Durante la Luna Llena del 10 de abril, puedes lograr que casi cualquier persona coopere y trabaje contigo para hacer tu vida un poco más relajada. No esperes de más o tengas demasiada ambición, pero es probablemente que la gente realmente te siga ahora. La conjunción entre la Luna y Neptuno del 22 de abril se asegurará de que tengas un fin de semana romántico y soñador, alternativamente podrías recibir un fuerte mensaje espiritual. La Luna Nueva del 26 de abril une a tus vecinos, lo que podría comerse tu tiempo privado. La paz y la tranquilidad pueden ser escasas, pero apreciarás cada momento. Escuchar más música o meditar pueden ayudarle a mantener tu equilibrio.
+ Mercurio se torna directo el 3 de mayo. Puede que las personas aparezcan de la nada y quieran socializar. Pero podrás mantenerte en postura. La Luna Llena del 10 de mayo ilumina tu mundo justo cuando pensabas que no podría ser más grande o más brillante. Podrías atraer algunas exóticas personas que casi no conoces, que se verán atraídas instantáneamente por tu gran corazón. No te preocupes. No te invadirán demasiado. La Luna Nueva del 25 de mayo colocavv la atención en tu familia y vida hogareña. Disfruta con tus parientes del entretenimiento, las conversaciones casuales o tal vez de salir de compras. Los mercados de agricultores o las ferias de artesanías también pueden ser divertidas y relajantes. Mantén las cosas sencillas.
