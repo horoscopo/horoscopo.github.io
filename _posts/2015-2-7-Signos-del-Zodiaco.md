@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de abril 2017
-description: Horóscopos del dia de hoy 30 de abril 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de mayo 2017
+description: Horóscopos del dia de hoy 01 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Piensa bien primero cuando el sextil entre Marte y el rebelde Urano te dé tanto ganas de hacer algo travieso como tentación a hacer algo escandaloso. Esta noche, puede que tengas que retomar el hilo de una conversación perdida cuando la Luna en Piscis se salga de su órbita. Pero de todos modos, es posible que ni siquiera desees hacerlo.
+Resuelve asuntos importantes esta mañana y después dedícale la tarde a un leve empuje de relaciones públicas. Presume un poco - de una manera humilde y amable, por supuesto. ¿Estás a punto de tomar una decisión? Pues Venus está a punto de cambiar de signo, así que espera un mejor momento.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
