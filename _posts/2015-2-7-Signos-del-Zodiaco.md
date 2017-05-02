@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de mayo 2017
-description: Horóscopos del dia de hoy 01 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de mayo 2017
+description: Horóscopos del dia de hoy 02 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Resuelve asuntos importantes esta mañana y después dedícale la tarde a un leve empuje de relaciones públicas. Presume un poco - de una manera humilde y amable, por supuesto. ¿Estás a punto de tomar una decisión? Pues Venus está a punto de cambiar de signo, así que espera un mejor momento.
+¡Feliz cumpleaños a Leo! Es un nuevo año en el que presumes lo que tienes y lo haces de una manera más brillante y más audaz. Si hay algo que todos debemos hacer hoy es encargarnos de situaciones sin resolver con Mercurio a punto de cambiar de signo. Esta noche, la tensión entra eléctricamente a la escena cuando la Luna cuadra a Marte.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
