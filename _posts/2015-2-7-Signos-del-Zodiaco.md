@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de mayo 2017
-description: Horóscopos del dia de hoy 05 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 06 de mayo 2017
+description: Horóscopos del dia de hoy 06 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Ciertas sorpresas son ligeramente retrasadas por la Luna saliéndose de su órbita. ¡Pero llegan esta noche! La Luna en Cáncer aspecta a ambos, tanto a Mercurio como a Saturno retrógrados, haciendo que personas o eventos del pasado reaparezcan. ¡Es posible creer que el pasado no es más que el comienzo de un principio! 
+El Sol conjuntando a Neptuno hace que las cosas parezcan ser lo mismo, pero no lo son. No desearás conservar esa ilusión tanto como llegar al fondo de la misma. Esta noche, las circunstancias mejoran cuando la Luna forma sextil con el afortunado Júpiter. Tener suerte en el amor se ve favorecido. Parejas, ¿será que uno de ustedes hizo una promesa que necesita cumplir?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
