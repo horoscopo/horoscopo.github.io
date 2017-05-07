@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de mayo 2017
-description: Horóscopos del dia de hoy 06 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de mayo 2017
+description: Horóscopos del dia de hoy 07 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-El Sol conjuntando a Neptuno hace que las cosas parezcan ser lo mismo, pero no lo son. No desearás conservar esa ilusión tanto como llegar al fondo de la misma. Esta noche, las circunstancias mejoran cuando la Luna forma sextil con el afortunado Júpiter. Tener suerte en el amor se ve favorecido. Parejas, ¿será que uno de ustedes hizo una promesa que necesita cumplir?
+¡Feliz cumpleaños a Virgo en los próximos 30 días! Esta es tu ventana de oportunidad para comenzar algo nuevo. Nadie opera de manera más eficiente que tú cuando tienes objetivos en mente. Esta noche, enciende velas para el romance y disfruta de la dulzura y el amor bajo el trígono entre Venus en Leo y la Luna en Sagitario.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
