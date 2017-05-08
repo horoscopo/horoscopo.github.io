@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 01 de mayo 2017 al 07 de mayo 2017 
-description: Horóscopo semanal leo 01 de mayo 2017 al 07 de mayo 2017. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón leo, no hay casualidades ni coincidencias.
+title: leo 08 de mayo 2017 al 14 de mayo 2017 
+description: Horóscopo semanal leo 08 de mayo 2017 al 14 de mayo 2017. De verdad leo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis
 horoscopo:
  signo: leo
- video: 1syZ1bMpTVo
+ video: EZs1QoFnnrI
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-01'
+ lastmod: '2017-05-08'
 ---
 
 
 
-##Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón leo, no hay casualidades ni coincidencias.
+## De verdad leo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 
-A veces, no es fácil vivir la vida leo, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera leo. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-Una amistad o un ser amado podría darte una sorpresa, en particular a mitad de semana. Si un plan parecía ser inamovible, las cosas podrían cambiar en los próximos días y requerir que seas flexible. Con Mercurio avanzando en tu sector de relaciones, probablemente habrá menos malentendidos y más chances de tener intercambios constructivos. Por mucho que desees conectarte con otras personas y ayudarlas, necesitarás mantenerte firme si necesitas tiempo para recargar tus baterías.
+En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien leo…
+El cosmos sugiere que no hay nada a que temer si se trata de entrar a territorios desconocidos. Sin embargo, como una persona a la que le gusta lo seguro y disfruta los placeres de la comodidad del hogar y la rutina estable, la situación actual podría parecerte desconcertante. Al mismo tiempo, podrían emocionarte las posibilidades que la misma te presenta. Con el objetivo fijo en expandir tus horizontes, los acontecimientos podrían conspirar para llevarte hacia una nueva dirección. Sin embargo, no tienes por qué apurarte. Está bien ir sin prisa.
 
-##Dinero
+## Dinero
 
-Para ti esta semana es sobre las redes sociales, las cuáles son cada vez más importantes. Tus amigos de verdad te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo un montón de cambios, los cuáles podrían afectar la forma en la que te ves y presentas. Puede que algunos de tus amigos no aprecien este proceso. Sé amable con ellos ya que todavía no entienden a dónde vas y que ellos pueden venir también.
+Este es un período importante para ti porque la expansión y la suerte a menudo se combinan con ideas repentinas y creativas. Esto indica una época de gran fortuna cuando se trata de atraer a personas y oportunidades hacia ti. Tu energía es magnética ahora. Úsala a tu ventaja al realizar llamadas, aplicar para puestos de trabajo, y al usar tus conexiones sociales para conocer gente nueva e interesante. Hay posibilidades de que surja una maravillosa colaboración.

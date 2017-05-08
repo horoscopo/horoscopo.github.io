@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 01 de mayo 2017 al 07 de mayo 2017 
-description: Horóscopo semanal geminis 01 de mayo 2017 al 07 de mayo 2017. Todo acaba cicatrizando, pero tienes que dejar que cicatrice geminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: geminis 08 de mayo 2017 al 14 de mayo 2017 
+description: Horóscopo semanal geminis 08 de mayo 2017 al 14 de mayo 2017. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada geminis. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis
 horoscopo:
  signo: geminis
- video: Vn4XfXOyvd4
+ video: 0sODUgZlfJ4
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-01'
+ lastmod: '2017-05-08'
 ---
 
 
 
-##Todo acaba cicatrizando, pero tienes que dejar que cicatrice geminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada geminis. 
 
-geminis, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo geminis. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
-Si hay un problema que persiste, es posible que necesites más tiempo para resolverlo. Puede que un amigo salga a tu rescate con una novedosa perspectiva que te reafirma y te da más seguridad sobre el futuro. Además, una mezcla social de energías podría mejorar tus opciones tanto empresariales, como también románticas. Esta semana, puedes disfrutar de lo mejor de ambos mundos si así lo quieres. Aun así, con el Sol formando un atrevido ángulo con Saturno, ser firme puede evitar que se aprovechen de ti.
+Tienes conversaciones pendientes geminis, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad geminis, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas geminis, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
+La Luna Nueva en Aries del lunes es la mejor del año para ti. Es hora de que empieces de nuevo en las áreas que lo creas necesario. Esta es una gran oportunidad para que escribas tus planes para el año que se aproxima lo más detalladamente posible, los visualices y los consultes con frecuencia. Al mismo tiempo, en esta semana podrías avanzar con una idea que realmente te apasiona. Si hay otras personas involucradas, puede que sea necesario negociar con prudencia.
 
-##Dinero
+## Dinero
 
-Con actividad en el área de tu carta que rige las vidas pasadas, el karma y las instituciones, es muy probable que estés reevaluando tus planes de trabajo para el futuro. Empresas o personas con las que pensaste que no te gustaría trabajar parecen tener todo lo que quieres y necesitas ahora; desde la distribución de redes, a acceso a acaudalados donantes. Para ganar más, encuentra la manera de trabajar dentro del sistema. Te percatarás de que no es tan malo como piensas.
+Estás pensando en maneras de atraer más dinero a la semana para poder disfrutar de un estilo de vida más cómodo. No es un mal plan, considerando todo. El reto será equilibrar tu deseo de divertirte con tu familia y pareja romántica con tu necesidad de establecer tu propia creatividad. Tu impulso de escribir, reproducir y crear, construye recompensas emocionales y rendimientos monetarios.

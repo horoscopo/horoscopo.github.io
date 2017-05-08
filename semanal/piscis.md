@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 01 de mayo 2017 al 07 de mayo 2017 
-description: Horóscopo semanal piscis 01 de mayo 2017 al 07 de mayo 2017. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: piscis 08 de mayo 2017 al 14 de mayo 2017 
+description: Horóscopo semanal piscis 08 de mayo 2017 al 14 de mayo 2017. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
 horoscopo:
  signo: piscis
- video: hij8lNQzqaI
+ video: MoKwaOboMlw
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-01'
+ lastmod: '2017-05-08'
 ---
 
 
 
-##Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 
-Parece que no todo va tan mal, no ¿piscis? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-El deseo de explorar un nuevo territorio y expandir tus horizontes puede intensificarse esta semana a medida que el Sol entra a tu sector de horizontes lejanos. Si tienes ganas de tomarte una vacaciones de primavera, este es el momento de hacerlo. El cosmos te incentiva para que dejes atrás tu entorno diario y te sumerjas en nuevas experiencias. Puede que te sientas un poco culpable por no encargarte de ciertas responsabilidades, pero no dejes que esto te agobie. Solo haz lo que debes hacer.
+Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas piscis. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva piscis. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien piscis, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+Tal vez has entrado en acción con respecto a algún objetivo o aspiración, y has hecho bastante progreso últimamente. Sin embargo, vale la pena andar con cuidado los próximos días. Una poderosa mezcla de energías podría distraerte y evitar que sigas avanzando. Si sientes que te estás enamorando cuando se manifiesta la Luna Llena a mitad de semana, intenta contenerte. Otros factores podrían causar que actúes de manera impulsiva y juzgues mal una situación. Recibir el consejo de una amistad cercana puede ser crucial.
 
-##Dinero
+## Dinero
 
-Es posible que tu trabajo cambie a lo largo de los próximos meses. La expansión de oportunidades indica un buen momento para cambiar de trabajo si has tenido esa intención, o hacer de tu trabajo existente uno más lucrativo. Puedes incluso tomar medidas para hacer que tu lugar de trabajo sea más favorable a tus necesidades mediante la negociación de horarios flexibles o beneficios adicionales. Hacer un plan concreto para pagar tu deuda aumenta tu tranquilidad.
+Eres uno de los mejores Signos del Zodíaco para manifestar cosas. Con un énfasis en tu sector de dinero, las habilidades que pensaste haber dejado atrás, traen la mayor cantidad de efectivo. Piensa en las personas o los trabajos de una época anterior de tu vida y tendrás la respuesta financiera a tu dilema actual. Un aspecto de apoyo hace que tu trabajo diario sea mucho más fácil de digerir. Si has logrado dar una gran impresión últimamente, pide ese aumento. Ellos te necesitan.

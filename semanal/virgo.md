@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 01 de mayo 2017 al 07 de mayo 2017 
-description: Horóscopo semanal virgo 01 de mayo 2017 al 07 de mayo 2017. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: virgo 08 de mayo 2017 al 14 de mayo 2017 
+description: Horóscopo semanal virgo 08 de mayo 2017 al 14 de mayo 2017. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: R_w0vG994Zc
+ video: Ah5MPn59A6Y
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-01'
+ lastmod: '2017-05-08'
 ---
 
 
 
-##Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto virgo? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito virgo. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-Si has estado buscando el trabajo perfecto, uno que te permita ganar dinero y tener la libertad de ser tu propio jefe, podrías estar a punto de descubrirlo. Durante las siguientes semanas, analiza tus opciones y desarrolla un plan. Si lo haces de forma práctica y metódica, la experiencia puede resultar provechosa y lucrativa. Con la Luna Llena en tu sector de finanzas, podrías gastar dinero en objetos que te hagan sentir bien pero que en realidad no necesitas.
+El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
+Al comienzo de la semana, una preciosa alineación hace alusión a una positiva conversación o relación que parece estar moviéndose hacia una optimista dirección. Y con el Sol entrando a tu signo el jueves, te sentirás mucho más en tu elemento y con ganas de poner en acción planes y proyectos que han estado en un segundo plano. Venus, tu planeta personal, entra a Escorpión y a tu sector monetario el viernes, pudiendo alentarte a darte un par de pequeños lujos.
 
-##Dinero
+## Dinero
 
-Tienes el tipo de confianza que el dinero no puede comprar. Tu risa parece más enérgica, y tu personalidad es tan fuerte que fácilmente puede tomar control de una habitación. Sin embargo, es posible que tengas que atender ciertos asuntos en tu hogar. Esto podría significar reparaciones costosas o incluso tener que mudarte para evitar unos vecinos ruidosos. Cualquiera que sea el caso, es probable que tengas que recurrir a tus ahorros para cubrirlo.
+Puede que no seas el miembro más paciente del Zodíaco, pero esta semana puedes ganarte algunos problemas con esa manera de pensar. Los aspectos afectan a tu sector de relaciones y del hogar significando que estas áreas de tu vida no son exactamente llevadas muy bien que digamos. Lo mejor es jugar como pacificador, incluso en tu mismo interior. Por cada concesión que hagas hacia los demás, pasa algo de tiempo y dinero haciendo de tu espacio uno más acogedor.

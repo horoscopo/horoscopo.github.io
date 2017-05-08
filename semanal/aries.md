@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 01 de mayo 2017 al 07 de mayo 2017 
-description: Horóscopo semanal aries 01 de mayo 2017 al 07 de mayo 2017. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+title: aries 08 de mayo 2017 al 14 de mayo 2017 
+description: Horóscopo semanal aries 08 de mayo 2017 al 14 de mayo 2017. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
 horoscopo:
  signo: aries
- video: vCwQoDcPlnY
+ video: 6tJCJdZQKsE
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-01'
+ lastmod: '2017-05-08'
 ---
 
 
 
-##No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 
-Tienes que motivarte aries. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino aries. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro aries, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa aries, ¿tu tiempo no vale nada o qué?
-Si has estado pensando en realizar una práctica espiritual, como meditar, hacer yoga o escribir un diario, esta es la semana para comenzar. Puede que la Luna Nueva en un sector alejado de tu carta te motive para hacer un viaje introspectivo y llegar a profundidades desconocidas. Aunque hay algo más, ya que sientes la inquietud de comenzar un proyecto que se quedó a medio camino. Después de analizarlo detenidamente, puede que te des cuenta de que tienes más potencial del que creías.
+Llega una etapa buena aries, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no aries. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea…
+Una amistad o un ser amado podría darte una sorpresa, en particular a mitad de semana. Si un plan parecía ser inamovible, las cosas podrían cambiar en los próximos días y requerir que seas flexible. Con Mercurio avanzando en tu sector de relaciones, probablemente habrá menos malentendidos y más chances de tener intercambios constructivos. Por mucho que desees conectarte con otras personas y ayudarlas, necesitarás mantenerte firme si necesitas tiempo para recargar tus baterías.
 
-##Dinero
+## Dinero
 
-Ahora estás pensando no sólo en cómo hacer más dinero y establecer una mayor seguridad en tu vida, sino también en la manera de hacer que tu vida laboral sea más gratificante. Con un aspecto armonioso afectando tu sector laboral,  es probable que se note aún más. Esto te permitirá ascender de posición sin demasiados problemas. Asegúrate de pedir lo que vales en lugar de aceptar lo que sea que el jefe te ofrezca.
+Hay algunas restricciones y limitaciones en tu capacidad para aprender y enseñar, así como también los viajes. Aunque es posible que te estés mordiendo las uñas para poner las cosas en marcha, no hay caso en luchar contra esta influencia. La buena noticia es que también hay aspectos favorables. Son tus amigos, contactos sociales, conocidos y colegas los que apoyarán tus esfuerzos en el trabajo y en tu vida monetaria. Ellos proporcionarán una muy bienvenida distracción hasta que las cosas se abran o mejoren.
