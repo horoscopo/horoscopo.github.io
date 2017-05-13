@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de mayo 2017
-description: Horóscopos del dia de hoy 12 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de mayo 2017
+description: Horóscopos del dia de hoy 13 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Mira hacia futuro mientras Marte en Piscis conjunta a Neptuno. El futuro se desenrolla ante tus ojos. De verdad es posible comenzar de nuevo y construir una nueva vida basada en resoluciones. La energía lunar de esta noche se trata de esperar y necesitar de un pequeño empujón para revelar algo importante (si no fue revelado anoche).
+Los poderosos temas de hoy incluyen la transición, la transformación y dejar de lado los valores antiguos con el fin de encontrarle a la vida un nuevo significado con el acelerado impulso. Esta noche, el compromiso no es el problema para los solteros. Es más bien mantenerlo mientras la Luna conjunta a Plutón. Pospón tu búsqueda de amor ahora que estás consciente de los efectos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
