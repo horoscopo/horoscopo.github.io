@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 08 de mayo 2017 al 14 de mayo 2017 
-description: Horóscopo semanal acuario 08 de mayo 2017 al 14 de mayo 2017. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+title: acuario 15 de mayo 2017 al 21 de mayo 2017 
+description: Horóscopo semanal acuario 15 de mayo 2017 al 21 de mayo 2017. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
 horoscopo:
  signo: acuario
- video: IyJAixyKKls
+ video: L_G86-elZwE
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-08'
+ lastmod: '2017-05-15'
 ---
 
 
 
-## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 
-Está bien hacerse ilusiones acuario, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas acuario, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada acuario. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
-Si bien puede que tengas muchas ocupaciones, podrías sentir un deseo fuerte de descansar y relajarte al comienzo de la semana. También podrías descubrir que se presentan tareas o plazos inesperados. Si puedes liberar tu agenda de actividades innecesarias por adelantado, esto podría ayudarte a transitar el período de Luna Llena de forma positiva. La otra gran noticia es que tu planeta personal, Venus, se dirige hacia adelante, llevándote a tomar algunas decisiones clave con respecto de tu vida social.
+No puedes poner piezas en lugares que no corresponden acuario, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo acuario, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso acuario, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte acuario, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho acuario, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
+Puede que conectes telepáticamente con alguien, sobre todo al comienzo de la semana. Tal vez podrías sentir la necesidad de llamar a esta persona para preguntarle si necesita ayuda. Además, una relación amorosa podría volverse más apasionada cuando Venus conecte con Plutón. Pero si terminas forzar las cosas, podrías estar emitiendo la vibra equivocada. Es mejor dejar que las cosas se desarrollen orgánicamente en vez de presionar cuando el momento no es el adecuado. Mantén tu horario ligero este fin de semana.
 
 ## Dinero
 
-Esta semana tienes un tipo especial de energía en el frente de trabajo. Parece que no puedes hacer nada mal, lo cuál es una buena cosa que mostrarle a tus superiores. Mientras que tu creatividad es fuerte y los sueños son fuente de inspiración, no elimines ciertos aspectos con tal de llegar a la meta más rápido. ¡So lo haces esta semana, sólo quedaras atrapado/a!
+Esta semana, ciertos aspectos afectan tu sector de dinero y valores. Esta área de tu vida está siendo afectada ahora, y es posible que se te esté obligando a centrarte en tal casi en contra de tu voluntad. Tu forma de ahorrar y ganar será puesta bajo microscopio en este momento. Puede que tengas que encontrar la manera de hacer las dos cosas mejor.

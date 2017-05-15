@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 08 de mayo 2017 al 14 de mayo 2017 
-description: Horóscopo semanal capricornio 08 de mayo 2017 al 14 de mayo 2017. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+title: capricornio 15 de mayo 2017 al 21 de mayo 2017 
+description: Horóscopo semanal capricornio 15 de mayo 2017 al 21 de mayo 2017. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: S6LUJxus_ro
+ video: eJp80hg_q24
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-08'
+ lastmod: '2017-05-15'
 ---
 
 
 
-## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 
-No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse capricornio, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo capricornio, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
-De muchos modos distintos, la mezcla actual de energías es excelente para manifestar tus sueños, ya que estás profundamente al tanto de los niveles más sutiles en los que existen. También tienes la habilidad de planificar con tiempo y entrar en acción para convertir tus sueños en realidad. Si puedes evitar aburrirte de una idea antes de que se ponga en marcha, puede que algo hermoso florezca en los días y las semanas que se aproximan. Por otro lado, una conversación podría terminar en una emocionante noche de cita.
+Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande capricornio, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. capricornio, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
+¿Deberías divertirte o guardar tu dinero? Si lo que sugiere la alineación de esta semana es lo correcto, puede que haya manera de hacer ambas cosas. El actual enfoque en tu sector financiero te anima a ahorrar tu dinero, pero hay momentos en los que divertirte es mucho más importante que tener precaución. A partir del viernes, puede que tengas ganas de hacer lo que te venga en gana con respecto a tu carrera, lo que podría ser muy creativo y emocionante. Eso sí, no dejes tu trabajo actual hasta que hayas encontrado algo nuevo. 
 
 ## Dinero
 
-Para ti, esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes la suerte de tener una ventana de tiempo para saldar cuentas viejas o investigar si es mejor comprar, mantener o vender inversiones compartidas. Sin embargo, sabes lo que quieres, y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.
+Se te está dando una oportunidad importante esta semana. Esto te da tiempo a tomar cargo de lo que debes y encontrar una manera amistosa para pagarlo. Sin embargo, tus amigos y grupos sociales no pueden ser el mejor lugar para encontrar información financiera confiable. Sin ofenderlos, tienen objetivos diferentes a los tuyos. Es posible que debas seguir tu propio camino.

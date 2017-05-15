@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 08 de mayo 2017 al 14 de mayo 2017 
-description: Horóscopo semanal cancer 08 de mayo 2017 al 14 de mayo 2017. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no cancer, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+title: cancer 15 de mayo 2017 al 21 de mayo 2017 
+description: Horóscopo semanal cancer 15 de mayo 2017 al 21 de mayo 2017. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos cancer. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: An1MR5MFobs
+ video: dac9-yaPPmI
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-08'
+ lastmod: '2017-05-15'
 ---
 
 
 
-## Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no cancer, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos cancer. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
 
-Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás cancer. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
-Los asuntos familiares pueden ser tu prioridad, lo cual puede que no sea nada malo. Reunirte con la familia puede invitar al intercambio de opiniones. Si cierta situación está generando malos sentimientos, puede que una conversación íntima sea todo lo que se necesita para resolver las cosas. Por otro lado, un enfoque positivo en tu sector de ocio y placer podría hacer que disfrutes de una sesión de spa o un masaje que te ayude a relajarte después de período atareado. Un poco de descanso te vendría bien.
+Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda cancer, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
+¿Hay alguien que quiere sacarte de tu cómoda rutina? Parecería que sí en los próximos días. Con una poderosa influencia vislumbrándose, puede que resientas la presencia de alguien que parece generar sentimientos que preferirías evitar. Pero mientras más te resistas, más difícil será captar su atención. Si te dejas llevar, puede que se abran nuevas puertas y sientas nuevas emociones.   
 
 ## Dinero
 
-Esta semana se trata de tu dinero y tus valores. Algunos aspectos te traerán suerte y ampliarán tus oportunidades, mientras que otros lograrán un cambio repentino, a veces violento. Si has estado tratando de eliminar ciertas ideas anticuadas con respecto al dinero (o la cantidad que se te permite tener), este es el momento de dejarlas ir. Tu comunicación anda en alto y eso vale la pena.
+Es posible que debas prepararte para una decepcionante noticia esta semana. A pesar de que se te invita a compartir tus conocimientos y habilidades con los demás, preferiblemente para la diversión y la ganancia, tu vida laboral está siendo golpeada con más reglas, regulaciones y papeleo. Hay. Y a pesar de que la monotonía puede  nos ser de tu agrado, es mejor que otras alternativas. Ábrete a sugerencias y ganarás más a largo plazo.

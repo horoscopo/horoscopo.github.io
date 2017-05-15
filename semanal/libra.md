@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 08 de mayo 2017 al 14 de mayo 2017 
-description: Horóscopo semanal libra 08 de mayo 2017 al 14 de mayo 2017. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+title: libra 15 de mayo 2017 al 21 de mayo 2017 
+description: Horóscopo semanal libra 15 de mayo 2017 al 21 de mayo 2017. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. libra, esta semana has de cerrar algunos ciclos de verdad.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: LlIh_W0TZAs
+ video: Aoqz9lyX2_Q
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-08'
+ lastmod: '2017-05-15'
 ---
 
 
 
-## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. libra, esta semana has de cerrar algunos ciclos de verdad.
 
-Deberían valorarte más libra, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para libra, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
-Los planes de invertir en tu hogar, ya sea redecorando o comprando adornos festivos coloridos y alegres, te pueden poner de buen humor. Puede haber buenas intenciones detrás de dicho plan, como buscar tener un lugar cálido y alegre para que los demás lo disfruten. Venus entra a tu sector de estilo de vida, por lo que puede resultarte más fácil darte gustos más que en otras ocasiones. Disfrutar de alguna golosinas saludables puede ser una manera de hacerlo.
+Empieza a cambiar la mentalidad libra, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado libra, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+El ingrediente alegre de la semana se vuelve más intenso cuando el animado Mercurio entra al eléctrico Acuario. La semana podría traer invitaciones inesperadas y oportunidades para conectar con amigos y hacer contactos por placer y trabajo. La gran noticia es el Eclipse Lunar, el cual podría causar una pequeña revolución, particularmente cuando se trata de tus intereses personales y tus momentos de recreación. Un deporte o un tema nuevo podría resultar fascinante y marcar el camino hacia nuevas actividades y amistades.
 
 ## Dinero
 
-Este período es de los aspectos que afectan a las vidas pasadas, karma y las instituciones. De repente puedes ser presa de un deseo de cambiar de trabajo, iniciar una obra de caridad, o desarrollar un nuevo negocio. Hacer una investigación cuando puedas y luego crear un plan de negocios que se ve por lo menos cinco años en el futuro. Es posible hacer que funcione.
+Tu personalidad está más suave que de costumbre y es posible que desees probar diferentes sombreros. Esto puede ser literal o metafórico, pero piensa en cómo proyectas lo que eres en este momento. Con nueva vida en tu sector de estudios, viajes, metafísica y psicología, tus ideas son importantes con respecto a cómo hacer tu trabajo. Las habilidades que traes a la mesa son de vital importancia también. Si quieres más, aprende más.

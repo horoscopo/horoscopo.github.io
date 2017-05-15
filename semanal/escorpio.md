@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 08 de mayo 2017 al 14 de mayo 2017 
-description: Horóscopo semanal escorpio 08 de mayo 2017 al 14 de mayo 2017. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+title: escorpio 15 de mayo 2017 al 21 de mayo 2017 
+description: Horóscopo semanal escorpio 15 de mayo 2017 al 21 de mayo 2017. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis
 horoscopo:
  signo: escorpio
- video: moJregftWJg
+ video: diQDgVP4EmI
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-08'
+ lastmod: '2017-05-15'
 ---
 
 
 
-## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 
-Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capri, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
-Aunque no lo quieres admitir, tal vez tengas ganas de asegurarte un primer lugar relacionado con una aspiración o jugada profesional. Esta semana, emocionantes influencias podrían llevarte a hacer una movida audaz, sea prudente o no. Además, con la Luna Llena del miércoles en un sector superior de tu carta astral, podrías encontrarte en el centro de atención. Por este motivo, ayuda estar consciente de tus decisiones y de cualquier posible consecuencia.    
+A veces las cosas tienen que ser a tu manera o a ninguna escorpio, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada escorpio. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
+Es mejor evitar involucrarte en planes que prometen mucho pero retribuyen poco. Tu carta astral sugiere que seas paciente con los resultados, ya que disfrutarás de grandes beneficios si buscas el éxito con calma y firmeza. Tu vida social podría dirigirse hacia otra dirección, con la Luna Nueva alentándote a moverte hacia nuevos círculos y a entablar nuevas amistades. En la víspera de Año Nuevo podrías disfrutar de una maratón de películas o una cita romántica que resplandece de promesas.
 
 ## Dinero
 
-Por lo general tienes bastante equilibrio con tu dinero, pero puede que estés pensando lanzarte en una búsqueda global de sentido. Si logras hacer que funcione, más poder para ti. Sin embargo, los aspectos que afectan tu sector de política y grupos pueden significar que tus obligaciones requieren que dejes detrás cualquier viaje con el fin de estar ahí para cuando alguien te necesite. Ahorra dinero al cambiar este viaje por un fin de semana en el campo.
+Para ti esta semana es sobre nueva energía en el sector del hogar, donde el hambre de creatividad puede estarte haciendo querer gastar más de lo que tienes en restauración y redecoración. Sin embargo no se trata de lo que gastas. Algunos aspectos pueden servir como medida provisional para evitar que lo hagas. Después de todo cambiarás de opinión de lo que te gusta dentro de unos años de todos modos.
