@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de mayo 2017
-description: Horóscopos del dia de hoy 20 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de mayo 2017
+description: Horóscopos del dia de hoy 21 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-No se puede tener demasiada información cuando la Luna aspecta tanto a Júpiter como a Saturno. Siempre y cuando sea la información correcta, tu decisión da justo en el tino. Esta noche, el corazón es un poco complicado. Es importante mirar más allá de lo externo, pero incluso entonces, se necesita conocer a alguien mucho mejor.
+Los problemas le juegan trucos a tu mente con Mercurio a punto de cambiar de signo. Termina los asuntos pendientes - no dejes las cosas a medias. Venus entra a Capricornio. El planeta del amor en un signo serio sugiere que cosas importantes se acercan de manera madura y responsable durante las próximas semanas. No está nada mal, ya que no se trata de apuestas, sino de cosas seguras.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
