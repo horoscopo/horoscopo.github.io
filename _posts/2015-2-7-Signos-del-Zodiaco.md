@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de mayo 2017
-description: Horóscopos del dia de hoy 21 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 22 de mayo 2017
+description: Horóscopos del dia de hoy 22 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Los problemas le juegan trucos a tu mente con Mercurio a punto de cambiar de signo. Termina los asuntos pendientes - no dejes las cosas a medias. Venus entra a Capricornio. El planeta del amor en un signo serio sugiere que cosas importantes se acercan de manera madura y responsable durante las próximas semanas. No está nada mal, ya que no se trata de apuestas, sino de cosas seguras.
+Con Mercurio cuadrando a Saturno, las personas podrían quedarse sin palabras hoy. Lo cual puede que sea algo bueno. Sí, a veces el silencio es oro. Las chispas vuelan mientras Venus cuadra a Marte esta noche. El amor se desarrolla más fácil con ciertas personas. Solteros, algunas personas con las que se topan son peores que otras. Confíen en su instinto.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
