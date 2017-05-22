@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 15 de mayo 2017 al 21 de mayo 2017 
-description: Horóscopo semanal libra 15 de mayo 2017 al 21 de mayo 2017. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. libra, esta semana has de cerrar algunos ciclos de verdad.
+title: libra 22 de mayo 2017 al 28 de mayo 2017 
+description: Horóscopo semanal libra 22 de mayo 2017 al 28 de mayo 2017. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate libra, que no te entre la locura.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis
 horoscopo:
  signo: libra
- video: Aoqz9lyX2_Q
+ video: U2G2JrGJamM
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-15'
+ lastmod: '2017-05-22'
 ---
 
 
 
-## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. libra, esta semana has de cerrar algunos ciclos de verdad.
+## “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate libra, que no te entre la locura.
 
-Empieza a cambiar la mentalidad libra, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado libra, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
-El ingrediente alegre de la semana se vuelve más intenso cuando el animado Mercurio entra al eléctrico Acuario. La semana podría traer invitaciones inesperadas y oportunidades para conectar con amigos y hacer contactos por placer y trabajo. La gran noticia es el Eclipse Lunar, el cual podría causar una pequeña revolución, particularmente cuando se trata de tus intereses personales y tus momentos de recreación. Un deporte o un tema nuevo podría resultar fascinante y marcar el camino hacia nuevas actividades y amistades.
+Hay gente que no respeta que puedas crecer Sagi, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los libra pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Sagi, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+Si alguna vez quisiste aprender a meditar o empezar una disciplina espiritual, la Luna Nueva del martes puede ser uno de los mejores momentos para comenzar. También puede ser igual de útil para comenzar el proceso de visualizar tus deseos todos los días, ya que la práctica hace que la ley de atracción funcione mejor. Venus en tu signo puede coincidir con el deseo de renovar tu imagen durante las festividades para aumentar tu confianza.
 
 ## Dinero
 
-Tu personalidad está más suave que de costumbre y es posible que desees probar diferentes sombreros. Esto puede ser literal o metafórico, pero piensa en cómo proyectas lo que eres en este momento. Con nueva vida en tu sector de estudios, viajes, metafísica y psicología, tus ideas son importantes con respecto a cómo hacer tu trabajo. Las habilidades que traes a la mesa son de vital importancia también. Si quieres más, aprende más.
+Con un enfoque en los viajes, la educación superior y las culturas extranjeras, es un buen momento para considerar cómo se puede ganar dinero extra apelando a los compradores extranjeros. Si tu empresa no está haciendo negocios en línea, tal vez es hora de recomendarlo. También podrías decidir continuar tu educación para profundizar tus habilidades. Es el momento de considerar otras opciones de trabajo. Tu trabajo actual no está funcionando.

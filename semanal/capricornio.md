@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 15 de mayo 2017 al 21 de mayo 2017 
-description: Horóscopo semanal capricornio 15 de mayo 2017 al 21 de mayo 2017. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+title: capricornio 22 de mayo 2017 al 28 de mayo 2017 
+description: Horóscopo semanal capricornio 22 de mayo 2017 al 28 de mayo 2017. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis
 horoscopo:
  signo: capricornio
- video: eJp80hg_q24
+ video: 7MemLnDsdwc
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-15'
+ lastmod: '2017-05-22'
 ---
 
 
 
-## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 
-Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande capricornio, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. capricornio, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
-¿Deberías divertirte o guardar tu dinero? Si lo que sugiere la alineación de esta semana es lo correcto, puede que haya manera de hacer ambas cosas. El actual enfoque en tu sector financiero te anima a ahorrar tu dinero, pero hay momentos en los que divertirte es mucho más importante que tener precaución. A partir del viernes, puede que tengas ganas de hacer lo que te venga en gana con respecto a tu carrera, lo que podría ser muy creativo y emocionante. Eso sí, no dejes tu trabajo actual hasta que hayas encontrado algo nuevo. 
+No pienses tanto capricornio, deja que la vida te vaya sorprendiendo. Últimamente estás como muy nostálgico ¿no? No es que estés deprimido pero sí se te ha pasado por la cabeza eso de que algunos momentos del pasado fueron mejores que en el que estás ahora. No te agobies capricornio, ni te estreses. Quizás estás pensando demasiado en el futuro, en cómo van a ir las cosas, en si saldrá bien. Has arriesgado mucho para estar donde estás y con quien estás, y ya lo decidiste así que, no puedes pasarte la vida pensando si has hecho bien o no. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro capricornio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo. Eres firme con las decisiones que tomas, siempre lo has sido pero, probablemente por momentos se te haga cuesta arriba en muchos aspectos. Deja la nostalgia a un lado y esfuérzate en pensar que todo tiene un principio y un fin y que la vida son ciclos que empiezan y que acaban, y que después llega otro ciclo de la misma manera. No tengas miedo a lo que es desconocido para ti, al revés, enfréntalo como algo nuevo que, quien sabe, puede traerte cosas que duren para toda la vida. Ten mucha paciencia en estos días y aprende a tomarte las cosas como lo que son, ni más ni menos, no puedes dar mucha importancia a cosas que no la tienen pero tampoco quitársela a otras muchas que SI la tienen. Y lo sabes. Mantente hábil para descubrir todo. Ya hace un tiempo te planteaste que ser positiv@ sería probablemente el único camino para que las cosas salieran bien y sí, en el fondo sabes que gracias a eso estás aquí, así que, no lo pierdas por nada del mundo, aunque se caiga todo a pedazos, aunque nada tenga sentido, mantente fuerte, eso será lo que necesitas para que tu cabeza no decaiga por pensamientos negativos. Vas a darte cuenta de tantas cosas…
+Podrías volver a viejo terreno nuevamente a medida que Saturno se vuelve retrógrado el miércoles. Debido a que esta fase durará algunos meses, el progreso podría retrasarse. Sin embargo, hacer el trabajo necesario ahora y crear una estructura sólida para un mayor desarrollo pueden garantizar el éxito futuro. Mercurio también se vuelve retrógrado esta semana, de modo que recuerda hacer una copia de seguridad en tu computadora y tener cuidado al cerrar tratos clave. ¡La Luna Llena que se desenvuelve durante el fin de semana puede ser excelente para salir de fiesta!
 
 ## Dinero
 
-Se te está dando una oportunidad importante esta semana. Esto te da tiempo a tomar cargo de lo que debes y encontrar una manera amistosa para pagarlo. Sin embargo, tus amigos y grupos sociales no pueden ser el mejor lugar para encontrar información financiera confiable. Sin ofenderlos, tienen objetivos diferentes a los tuyos. Es posible que debas seguir tu propio camino.
+Esta semana se trata del dinero de otras personas y de la deuda, así como la política, los grupos sociales, esperanzas y sueños. Puede que el dinero no esté allí para poder llevar un viejo sueño a la realidad, pero eso no significa que te debas olvidar de él. Las actividades en redes, incluso en línea, pueden ayudarte a atraer a los donantes que necesitas para hacer que esto suceda. Esfuérzate para mantener el equilibrio y la paciencia a medida que avanzas.

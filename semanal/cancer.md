@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 15 de mayo 2017 al 21 de mayo 2017 
-description: Horóscopo semanal cancer 15 de mayo 2017 al 21 de mayo 2017. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos cancer. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+title: cancer 22 de mayo 2017 al 28 de mayo 2017 
+description: Horóscopo semanal cancer 22 de mayo 2017 al 28 de mayo 2017. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis
 horoscopo:
  signo: cancer
- video: dac9-yaPPmI
+ video: Hz9FfUku5_w
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-15'
+ lastmod: '2017-05-22'
 ---
 
 
 
-## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos cancer. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 
-Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda cancer, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
-¿Hay alguien que quiere sacarte de tu cómoda rutina? Parecería que sí en los próximos días. Con una poderosa influencia vislumbrándose, puede que resientas la presencia de alguien que parece generar sentimientos que preferirías evitar. Pero mientras más te resistas, más difícil será captar su atención. Si te dejas llevar, puede que se abran nuevas puertas y sientas nuevas emociones.   
+Vives tanto con tantísima intensidad que a veces te olvidas de la realidad, de lo que aún tienes pendiente, de lo que necesitas conseguir y sobretodo de lo que necesitas cerrar y zanjar. Y es que cancer, cuando las cosas empiezan a ir un poquito mejor se te olvida todo lo malo por lo que has pasado, por lo que te han hecho pasar. Y estás bien, porque así es como vives el presente, el minuto, el momento, pero a la vez si después viene otra golpe, vuelve a doler. Lo que pasa es que ya no duele igual, ya duele menos, porque te insensibilizas, y eso en realidad no es del todo bueno. Es como si lo esperaras, como si ya supieras que después de una discusión vendrá una reconciliación, con todo, con la gente que está a tu alrededor, con tu vida. Y todo se repite, una y otra vez, y no sales de ese círculo, y lo que antes te rompía el corazón ya no te rompe, porque sabes lo que vendrá después, y así todo el tiempo. Y eso se llama conformismo cancer. ¿Hace cuanto no te paras a pensar solo si realmente eres feliz con lo que tienes? En la vida puedes estar contento con muchas cosas que no van mal a tu alrededor, pero también tienes que saber cuáles son las que van mal para cambiarlas. Porque aunque no lo creas, una manzana podrida en el cesto puede pudrir las demás si no se saca a tiempo. Y es que, tienes que hacer una limpia en tu vida, no puedes pensar que “bueno, en la vida hay cosas buenas y cosas malas”, claro que es así, pero ahí estás tu para poder cambiar las malas. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes cancer.
+Las oportunidades abundan en los próximos días, pero una en particular podría ser muy buena noticia para ti, especialmente si trae consigo un nuevo comienzo. Puede que sea buena idea ser paciente al respecto, ya que con Venus retrógrado pueden surgir algunos cambios en las próximas semanas. Sácate tus dudas y da pasos tentativos, pero prepárate para adaptarte por si acaso. La entrada de Mercurio a tu sector de hogar y familia puede ser una oportunidad para que tengas conversaciones importantes.
 
 ## Dinero
 
-Es posible que debas prepararte para una decepcionante noticia esta semana. A pesar de que se te invita a compartir tus conocimientos y habilidades con los demás, preferiblemente para la diversión y la ganancia, tu vida laboral está siendo golpeada con más reglas, regulaciones y papeleo. Hay. Y a pesar de que la monotonía puede  nos ser de tu agrado, es mejor que otras alternativas. Ábrete a sugerencias y ganarás más a largo plazo.
+Tienes emoción de hacer nuevos y grandes contactos. Hagas lo que hagas para ganarte la vida, verás que es mucho más fácil el llevarse con amigos. El pedir ayuda a un mentor de confianza o simplemente presentarte a alguien que siempre ha sido una inspiración para ti es un gran uso de la energía actual. Algunos de estos mentores se pueden encontrar entre tus hijos, familiares y socios creativos.

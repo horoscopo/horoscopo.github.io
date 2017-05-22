@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 15 de mayo 2017 al 21 de mayo 2017 
-description: Horóscopo semanal virgo 15 de mayo 2017 al 21 de mayo 2017. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+title: virgo 22 de mayo 2017 al 28 de mayo 2017 
+description: Horóscopo semanal virgo 22 de mayo 2017 al 28 de mayo 2017. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro virgo, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis
 horoscopo:
  signo: virgo
- video: Ok89TYdwDaE
+ video: c88tsCZaFDc
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-15'
+ lastmod: '2017-05-22'
 ---
 
 
 
-## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro virgo, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 
-Te estás dando cuenta de quien sí y quien no virgo. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo virgo pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope virgo, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente virgo, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar virgo, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
-A medida que Mercurio, tu planeta regente, se vuelve retrógrado esta semana durante un período de tres semanas, podrías necesitar revisar tu postura. Pero ¿sería esto tan malo? Si siguen surgiendo obstáculos en un área clave, esto podría ser un indicio de que algo no está funcionando. Al volver a revisar tus planes, podrías lograr mucho más en el transcurso. Además, esta semana podría haber un motivo de celebración o una cita muy romántica.
+Ommmm… Ommmm… Relax virgo, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira virgo, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas virgo, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+Hay motivos por los cuales sería mejor buscar el equilibrio esta semana. Poderosas fuerzas celestiales podrían llevarte a los extremos, y es mejor evitarlo. De hecho, la Luna Llena a mitad de semana podría hacer que tomes una decisión espontánea de la que te arrepientes luego. Tal vez sea mejor esperar hasta el final de la semana, o incluso después, antes de tomar una decisión importante. Sin embargo, el fin de semana ofrece algo de diversión y animadas salidas que deberías disfrutar en grande.
 
 ## Dinero
 
-Esta semana tienes aspectos que te dan más magnetismo. La parte difícil es que tu sector de profesión requiere de más atención ahora para que puedas hacer tu trabajo más sostenible, rentable y seguro. No dejes nada al azar por ahora. Construye lo que quieres ver.
+Esta semana tienes un poco de ventaja. Tu personalidad, nunca conocida por la sutileza, puede ser muy fuerte en este momento y puede que no sea del todo bueno para algunas personas. Si vas a una entrevista o quieres impresionar a un cliente nuevo, el acto irresistible no puede ser tu mejor apuesta. En lugar de eso, envuélvelos en un poco de misterio. El hacer que ellos vengan a ti puede producir mejores resultados financieros.
