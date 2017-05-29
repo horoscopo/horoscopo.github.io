@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 22 de mayo 2017 al 28 de mayo 2017 
-description: Horóscopo semanal acuario 22 de mayo 2017 al 28 de mayo 2017. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+title: acuario 29 de mayo 2017 al 04 de junio 2017 
+description: Horóscopo semanal acuario 29 de mayo 2017 al 04 de junio 2017. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
-keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis
+keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: hl4IGL4Za_w
+ video: gMyTB7tWJ3I
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-22'
+ lastmod: '2017-05-29'
 ---
 
 
 
-## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 
-Llevabas un ritmo un poco alocado acuario, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate acuario, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más acuario, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
-Podría emocionarte un encuentro que parece ser un poco fuera de lo normal. Si esta persona tiene magnetismo y carisma, tal vez no puedas resistirte, pero... ¿por qué deberías hacerlo? Podrías descubrir que seguir la corriente y buscar una conexión más profunda es muy excitante. Puede ser mejor si tienen ciertas experiencias o ciertos intereses en común. De ser así, puede que sea muy especial y esta persona podría ser tu alma gemela.
+Te crees que eres débil acuario, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos acuario, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior acuario… Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+Sabrás exactamente lo que una amistad está pensando incluso si se queda en silencio. Si tu mente está enfocada en un determinado curso de acción, puede que optes por ignorar las sutiles pistas. Esta semana activamente te invita a hacer lo que quieras en lugar de lo que les parezca agradable a los demás. Lograrás progresar más si actúas acorde a un plan profundamente significativo en lugar de involucrarte en los proyectos de otras personas. A partir de este fin de semana, te beneficiarás de ahorrar en lugar de gastar.
 
 ## Dinero
 
-Esta semana es sobre la comunicación y tu sector de empleo. Las cosas son propensas a dejar de romperse, lo que hará más fácil tu trabajo, pero el dinero se ve afectado también. ¿Has tenido demasiada timidez como para pedir lo que vales? Busca una abertura para demostrar el valor que aportas a la empresa. A continuación, solicita una reunión y haz valer tu caso, el éxito sigue.
+Es posible que esta semana te rebeles en contra de las figuras de autoridad, al menos en tu mente. Algunos aspectos indican que necesitarás de ayuda para mantener la calma. Seguro que andas muy comunicativo/a, pero trata de no expresar demasiada agresión en cuanto a lo que quieres y necesitas. Los demás tienen que ser considerados también. Algunas restricciones y limitaciones pueden hacerte sentir como que todo es personal, pero lo más probable es que realmente no lo sea.

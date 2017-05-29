@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 22 de mayo 2017 al 28 de mayo 2017 
-description: Horóscopo semanal aries 22 de mayo 2017 al 28 de mayo 2017. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+title: aries 29 de mayo 2017 al 04 de junio 2017 
+description: Horóscopo semanal aries 29 de mayo 2017 al 04 de junio 2017. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
-keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis
+keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: USk19EEj6Io
+ video: 7sfD7Oz51Zo
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-22'
+ lastmod: '2017-05-29'
 ---
 
 
 
-## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-Madura aries, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte aries, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu aries, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-Aunque puede que te resulte difícil apegarte a un plan relacionado a dieta o rutina de ejercicio, podrías beneficiarte al hacer un poco de esfuerzo. La presencia de Venus en tu sector de estilo de vida podría animarte a darte gustos a pesar de que sabes que no debes. El fin de semana trae consigo una Luna Llena en tu signo, pudiendo ponerte en un estado de ánimo muy emocional y quizás llevándote a impulsivamente decir una o dos cosas que no deberías. Cuando te encuentres en una situación social o íntima, piensa antes de hablar.
+Empieza a cambiar la mentalidad aries, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado aries, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+Algo que has estado construyendo durante mucho tiempo podría necesitar desmantelarse parcialmente si las cosas no continúan como deberían hacerlo. Hacerlo ahora puede ser mejor que dejar pasar demasiado tiempo. La Luna Nueva de mediados de la semana puede ser una oportunidad para seguir adelante con un plan para ganar un dinero extra. Comienza ahora y, probablemente, pronto tendrás una verdadera máquina de dinero en tus manos. Más adelante en la semana, una información nueva podría darte una ventaja. Y socializar también podría impulsar tu progreso.
 
 ## Dinero
 
-Esta semana tiene que ver con el Universo poniendo nuevas ofertas sobre la mesa y más maniobras en tus inversiones. Puede que te preocupe el que no hayas avanzado lo suficiente con tu dinero o que no hayas escalado más en la escalera corporativa. Pero tus relaciones profesionales en tu sector de carrera están a punto de hacer una transformación positiva muy grande. ¡Celebra tu buena fortuna!
+Es hora de pensar en cómo pudiste haber tomado la palabra de otras personas en asuntos de dinero o hayas tomado cierto esquema de inversión que es demasiado bueno para ser verdad. Puede ser que alguien te haya estado vendiendo difícilmente algo relacionado con las inversiones. Necesitas más tiempo para considerar el mejor camino para ti. Sé firme pero amable y asegúrate de que tienes el tiempo que necesitas. Tú sabes que es lo mejor para ti.

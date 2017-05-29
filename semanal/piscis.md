@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 15 de mayo 2017 al 21 de mayo 2017 
-description: Horóscopo semanal piscis 15 de mayo 2017 al 21 de mayo 2017. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar piscis, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: piscis 29 de mayo 2017 al 04 de junio 2017 
+description: Horóscopo semanal piscis 29 de mayo 2017 al 04 de junio 2017. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor piscis, sin remordimientos.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
-keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis
+keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: csnSZ_oz1z0
+ video: 85p5qTJXOzA
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-15'
+ lastmod: '2017-05-29'
 ---
 
 
 
-## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar piscis, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+## Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor piscis, sin remordimientos.
 
-Vamos piscis, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida piscis, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie piscis pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás piscis. Así, tal cual.
-Así como puedes estar de acuerdo con amistades cercanas, podría haber otras personas con quien no puedes coincidir en un asunto importante. Aunque puede ser tentador decir exactamente lo que piensas, tal vez sea mejor no hacerlo, ya que la Luna Llena en tu signo sólo podría empeorar las cosas. Si puedes evitar tales conflictos esta semana, tal vez seas capaz de llegar a un acuerdo la próxima. Por otro lado, disfrutar de una sesión de spa podría hacerte muy bien.
+Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda piscis, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
+Una conversación con una amistad podría resultar en que colaboren en una idea o un proyecto que te llama mucho la atención. Aunque esto podría parecer poco importante en el momento, podría convertirse luego en algo que vale la pena. En los últimos días de la semana, el enfoque se desplaza a tu sector de comunicaciones, cuando puede que llegues a pasar más tiempo con tus seres queridos. Llamarlos o enviarles un correo electrónico para hacerles saber que estás pesando en ellos puede ayudar a fortalecer los vínculos más íntimos.
 
 ## Dinero
 
-Esta semana, te rodeas de gente que quiere verte tener éxito, lo cual no es algo malo en lo absoluto. Con expansión y suerte en tu sector de trabajo combinado con una visión súbita y cambios, es el momento de lanzar la precaución al viento y conseguir que tu trabajo sea visto por los más altos en la cadena alimenticia. Es un momento de suerte para ti, en el que se te protege casi divinamente. Así que, dale una oportunidad y ve qué sale de nuevo en términos de dinero.
+Ya eres más social de lo que eras antes. Tienes una semana de sorpresas agradables. Tienes que aprender algo que pensaste que ya sabías, o de repente puedes tener la tentación de ampliar tu educación con nuevos cursos y talleres. Esto es positivo para reforzar tu balance y ganar más dinero a través de las ventas al exterior.

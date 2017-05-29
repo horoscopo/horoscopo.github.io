@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 22 de mayo 2017 al 28 de mayo 2017 
-description: Horóscopo semanal tauro 22 de mayo 2017 al 28 de mayo 2017. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+title: tauro 29 de mayo 2017 al 04 de junio 2017 
+description: Horóscopo semanal tauro 29 de mayo 2017 al 04 de junio 2017. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
-keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis
+keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: yO7rzNnydd0
+ video: S2aUfrXreHw
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-22'
+ lastmod: '2017-05-29'
 ---
 
 
 
-## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 
-Disfruta de la vida Capri, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Capri. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana tauro.
-Una invitación sorpresa podría llevarte a explorar nuevas opciones para pasar el tiempo y, si incluyen un poco de peligro y emoción, el entusiasmo será aún mayor. Con Mercurio avanzando a partir del 3 de mayo podrías ver que una relación que parecía haberse estancado ahora comienza a verse más animada. Podrías tener mucha química con otra persona, pero en esta etapa tal vez sea mejor tomarte las cosas con calma. Finalmente, podrías tener antojos de comida reconfortante, así que no te pases.
+Tienes que esforzarte tauro, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien tauro, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti tauro, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo tauro, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Has estado buscando los significados más profundos de la vida y de las relaciones. Cualquier conclusión que saques puede ser liberadora, pero también podría animarte a buscar otras posibilidades dentro de tus vínculos más cercanos. Puede que haya más opciones de las que sepas. Venus, el planeta que rige tus relaciones, entra a Aries esta semana, lo que podría hacerte pensar sobre una conexión en particular que es muy especial para ti. La respuesta podría no ser la que esperas.
 
 ## Dinero
 
-Para ti, esta semana es sobre la energía acumulada en el sector del hogar, lo que te ha llevado a pensar en términos completamente diferentes. Más vida en esta zona significa que puede que tengas que recibir a más clientes en tu oficina o hacer muchos nuevos negocios desde ese espacio. Del mismo modo, tu creatividad está en alza. Si sientes esa inclinación, un negocio desde casa como decoración o construcción podría ser de gran beneficio.
+Es una semana emocionante. Las invitaciones sociales y profesionales son la norma actual, por lo que acostúmbrate a hacer malabares con más de una al día. No esperes que tus sentimientos estén en silencio. Puedes tener problemas al tratar de equilibrar el trabajo y el hogar, o simplemente te encuentras harto/a de la misma vieja rutina. No es suficiente con simplemente ganar dinero ahora. Tienes que experimentar lo que éste puede hacer por ti en términos de tiempo.

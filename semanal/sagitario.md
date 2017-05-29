@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 22 de mayo 2017 al 28 de mayo 2017 
-description: Horóscopo semanal sagitario 22 de mayo 2017 al 28 de mayo 2017. Toma decisiones YA, AQUÍ y AHORA sagitario. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+title: sagitario 29 de mayo 2017 al 04 de junio 2017 
+description: Horóscopo semanal sagitario 29 de mayo 2017 al 04 de junio 2017. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
-keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis
+keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: RPuAOQon24A
+ video: zHj3cwp_DXA
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-22'
+ lastmod: '2017-05-29'
 ---
 
 
 
-## Toma decisiones YA, AQUÍ y AHORA sagitario. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 
-Y de repente cambias sagitario, y nadie lo entiende. Pues sí, de vez en cuando hasta tu cuerpo te pide dar un giro que, aunque no sea del todo radical si te permita cerrar algunos asuntos pendientes que parecía que no iban a llegar nunca. Hay personas que no lo entienden, que piensan cómo es posible que llevaras un camino tan inestable en tu vida y de repente la enderezaras para tomar otro rumbo diferente… Pues sí, no eres imbécil, y sabes que si algo no te conviene, no te conviene, y aunque te des cuenta tarde, lo importante es que sabes corregirlo. La cuestión es que los que estaban a tu alrededor y creían conocerte se echan las manos a la cabeza y piensan cómo puede ser que de repente hagas todo lo contrario a lo que parecía que ibas a hacer. Pues es sencillo, porque todo tiene un límite, y por mucha paciencia que sagitario pueda tener, lo siento, también tiene amor propio, que a veces no saca, que a veces parece que está escondido, pero lo tiene, aunque a muchos les joda y les fastidie sus planes. Ya te han hecho daño, y estuviste solo, y te sentiste más inseguro que nunca, y el mundo parecía romperse en dos, y ahí nada importaba pero ahora, ahora es todo diferente. Ahora sólo darás tu mejor cara, la buena, la dialogante, la amable, a quien se lo merece. Porque antes lo entregabas todo aunque nadie te lo pidiese, y te quedaste muchas veces sin nada, pero te daba igual, porque eras leal a tu palabra sagitario, pero ahora ya sólo quieres ser leal a ti mismo. Sigue así, de verdad, no hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
-Un movimiento de negocios podría resultar muy lucrativo a principios de esta semana, alternativamente podrías recibir un pequeño golpe de suerte que te haga sonreír. Solo trata de no gastar en exceso, ya que puede que necesites más dinero del que pensabas, sobre todo durante el fin de semana. Si recibes una cantidad de dinero extra, tu mejor opción sería guardarla, ya que puede que tengas que pagar una factura u otros gastos inesperados. Por otro lado, ¡tu vida amorosa podría ser sensacional!
+No pienses tanto sagitario, deja que la vida te vaya sorprendiendo. Últimamente estás como muy nostálgico ¿no? No es que estés deprimido pero sí se te ha pasado por la cabeza eso de que algunos momentos del pasado fueron mejores que en el que estás ahora. No te agobies sagitario, ni te estreses. Quizás estás pensando demasiado en el futuro, en cómo van a ir las cosas, en si saldrá bien. Has arriesgado mucho para estar donde estás y con quien estás, y ya lo decidiste así que, no puedes pasarte la vida pensando si has hecho bien o no. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro sagitario, pero no trates de sujetarlo por todos lados cuando su destino es el suelo. Eres firme con las decisiones que tomas, siempre lo has sido pero, probablemente por momentos se te haga cuesta arriba en muchos aspectos. Deja la nostalgia a un lado y esfuérzate en pensar que todo tiene un principio y un fin y que la vida son ciclos que empiezan y que acaban, y que después llega otro ciclo de la misma manera. No tengas miedo a lo que es desconocido para ti, al revés, enfréntalo como algo nuevo que, quien sabe, puede traerte cosas que duren para toda la vida. Ten mucha paciencia en estos días y aprende a tomarte las cosas como lo que son, ni más ni menos, no puedes dar mucha importancia a cosas que no la tienen pero tampoco quitársela a otras muchas que SI la tienen. Y lo sabes. Mantente hábil para descubrir todo. Ya hace un tiempo te planteaste que ser positiv@ sería probablemente el único camino para que las cosas salieran bien y sí, en el fondo sabes que gracias a eso estás aquí, así que, no lo pierdas por nada del mundo, aunque se caiga todo a pedazos, aunque nada tenga sentido, mantente fuerte, eso será lo que necesitas para que tu cabeza no decaiga por pensamientos negativos. Vas a darte cuenta de tantas cosas…
+Si has tenido problemas con tus finanzas o ciertos asuntos empresariales, las cosas podrían empezar a mejorar cuando Júpiter comience a avanzar desde el lunes. Si cierto monto de dinero se ha retrasado por la razón que sea, deberías escuchar noticias que confirmen que se encuentra en camino. También te percatarás de que cierto enfoque en tu sector hogareño te anima a decorar, eliminar el desorden y poner tu lugar en óptimas condiciones. Tu vida social debería ser divertida y un secreto deseado que has albergado por un tiempo podría hacerse realidad.    
 
 ## Dinero
 
-Puede que esta semana sientas un poco más de despiste y menos conexión de lo normal. Hay un poco de pesadez añadida a tu sector de familia y romance. Puede que el impulso lleve a esto de nuevo, sobre todo cuando se trate de gasto. Sin embargo, el divertirte con tu presupuesto puede ser tan simple como usar tu imaginación. Ten tanta creatividad como te sea posible bajo las circunstancias.
+Hay algunos problemas en tu hogar, en los que te estás muriendo por gastar. Desde querer un espacio más amplio a comprometerte en hacer mejoras, es crucial determinar de antemano lo que puedes gastarte. Querrás entretener e impresionar a aquellos con quienes haces negocios. No te preocupes. Todo viene a su debido tiempo. Primero trabaja y luego recoge los frutos.
