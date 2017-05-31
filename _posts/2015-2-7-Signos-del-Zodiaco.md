@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de mayo 2017
-description: Horóscopos del dia de hoy 30 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 31 de mayo 2017
+description: Horóscopos del dia de hoy 31 de mayo 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Uno aprende las cosas a la primera cuando le son explicadas bajo la Luna en Sagitario. Si pides consejos, lo mejor será que los escuches. Esta noche, lánzate a la acción y sácale el máximo provecho a una agradable situación. Los solteros prefieren tener buenas conversaciones con amigos en lugar de amoríos intensos. Déjalo así - no trates de idealizar tal noción.
+Todo en la vida es una inspiración, incluyendo la información entrante bajo la Luna en Piscis de hoy. Más tarde, las parejas están en sintonía con sus sentimientos mutuos. Los solteros podrían tener estrellas en los ojos al encontrarse con alguien nuevo. Esta noche está hecha del mismo material que las películas románticas, las novelas y los sueños gracias a la conexión entre la Luna y Neptuno.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
