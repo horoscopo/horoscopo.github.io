@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Escorpio Mayo 2017 
+title: Escorpio Junio 2017 
 permalink: /horoscopo-mensual/escorpio/
-keywords: horóscopo, horóscopo 2017, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2017, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Junio, horoscopo Junio,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2017, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-05-01'
+ lastmod: '2017-06-01'
 ---
 
- El ciclo retrógrado de Mercurio termina el 3 de mayo, y ya era hora. La impaciencia desaparece a medida que progresas en una relación o un proyecto. La Luna Llena del 10 de mayo es intensa y apasionada. Un amante ideal podría buscarte entre la multitud. Puede que no dure para siempre, pero podría ser genial mientras dure. Deléitate con la atención, pero no alientes la situación más de lo que te gustaría. La Luna Nueva del 25 de mayo te brinda recursos que no sabías que existían. Úsalos para ganar más fuerza y resiliencia. Algunas personas que casi no conoces pueden revelarse como aliados poderosos y en quienes puedes apoyarte. No permitas que la duda instantánea se apodere de ti. 
+ Una preocupación monetaria o material podría surgir cerca de la Luna Nueva del 9 de junio. No se verá ni sonará simple, pero lo será. No dejes que las opiniones de otras personas enturbien tus aguas mentales. Puedes hacerlo. La Luna Nueva del 23 de junio te abre la puerta a un rol mucho más grande en un mundo mucho más grande. Puede que estés reticente a avanzar y tomar tu lugar, pero podrás hacer y decir cosas fantásticas e impresionantes para ti y para los demás. El 29 de junio, la oposición Mercurio/Plutón podría revelar la agenda oculta o las verdaderas intenciones de una persona.<br><br><b>Mejores días:</b> 1, 11, 20<b>Peores días:</b> 8, 22
