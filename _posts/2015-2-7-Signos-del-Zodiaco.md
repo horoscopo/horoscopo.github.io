@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de junio 2017
-description: Horóscopos del dia de hoy 01 de junio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de junio 2017
+description: Horóscopos del dia de hoy 02 de junio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Mercurio en Leo mejora las negociaciones, la investigación y la capacidad para formular ideas. Contribuye con tu talento y haz que sea reconocido en las próximas semanas. Esta noche, espera un montón de pensamientos provenientes del corazón, permitiendo que tiernos sentimientos sean revelados cuando la Luna aspecte tanto a Mercurio (pensamiento) como a Venus (amor).
+A partir de hoy y durante los próximos días adquieres perspectivas completamente nuevas sobre ciertas cosas mientras el Sol forma un aspecto oportuno con Plutón. Las oportunidades golpean a tu puerta, pero trata de evitar tomar decisiones espontáneas impulsivas. Esta noche, Marte está a punto de cambiar de signo. Dándole seguimiento a la vibra anterior, deja pasar más tiempo hasta decir que sí. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
