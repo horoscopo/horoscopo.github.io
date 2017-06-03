@@ -1,0 +1,26 @@
+---
+layout: amp
+title: aries hoy gratis 03 de junio del 2017 
+permalink: /horoscopo-diario-gratis/amp/aries/
+normallink: /horoscopo-diario-gratis/aries/
+home: FALSE
+horoscopo:
+ signo: aries
+ video: FBCAgLksAnk
+
+ogimg: /images/aries_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Los proyectos personales o profesionales en los que has estado trabajando podrían avanzar un poco más lentamente de lo que te gustaría hoy. Puedes preguntarte si esto se debe a que no estás haciendo algo bien. Probablemente no es el caso. Es, sin duda, un retraso normal en la energía que debe recuperarse de nuevo mañana. Persiste en ello, haz lo que tengas que hacer, y no te vuelvas a la locura por ello. Déjate llevar por la corriente.
+
+## Amor
+
+¿Tuviste un sueño extraño la noche pasada? ¿Tienes sensaciones de déjà vu hoy? No es ninguna sorpresa, ya que la configuración planetaria hoy habla a gritos sobre la influencia de la vida pasada. ¿Hizo esa persona especial que tu corazón se sobresaltase? ¿Te sorprende esto? Viejos amantes vuelven a aparecer de forma misteriosa.
+
+## Trabajo
+
+Disfrutas mucho trabajar en pos de un objetivo importante. Pero el día de hoy marca el inicio de un período en el que sientes que te alejas de ese objetivo. No te preocupes. El conocimiento que adquirirás durante este período te ayudará muchísimo a largo plazo.
