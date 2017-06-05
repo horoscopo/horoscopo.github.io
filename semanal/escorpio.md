@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 29 de mayo 2017 al 04 de junio 2017 
-description: Horóscopo semanal escorpio 29 de mayo 2017 al 04 de junio 2017. Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+title: escorpio 05 de junio 2017 al 11 de junio 2017 
+description: Horóscopo semanal escorpio 05 de junio 2017 al 11 de junio 2017. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche escorpio, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: zi-ULTf7eZo
+ video: ZtehIc5uXKU
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-29'
+ lastmod: '2017-06-05'
 ---
 
 
 
-## Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche escorpio, abre las puertas y ciao. No tienes que mantener nada…
 
-Organízate escorpio, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres escorpio, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
-Mercurio ingresa lentamente a tu sector de relaciones para motivarte a tener más conversaciones e interacciones. Medir las reacciones de otras personas antes de tomar decisiones clave puede ser crucial si todo funciona de acuerdo al plan. También, otros factores podrían promover ideas que tienen un impacto en tus ingresos y habilidad para ganar dinero. Si has experimentado algunas dificultades en esta área últimamente, una mezcla clave de energías podría coincidir con una oferta laboral o propuesta de negocios muy buena para ti.
+La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón escorpio, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
+La semana por delante puede ser excelente para los negocios siempre y cuando tengas disposición a investigar los hechos y no asumir absolutamente nada. Con Venus conectando con Saturno y Neptuno, tener un enfoque realista es esencial si es que vas a sacarle el mayor provecho a ciertas discusiones u ofertas. Es posible que tengas que andarte con cuidado en relación a un conflicto con tu pareja o un miembro de tu familia. Las cosas podrían estallar el viernes, por lo que acude al tacto y la diplomacia para mantener las cosas en calma.
 
 ## Dinero
 
-Tienes el apoyo del Universo esta semana, el cuál afecta a tu área asociada con los viajes al extranjero y la educación superior. Aunque pueda parecer contradictorio, es posible que tengas que mirar muy lejos de donde estás con el fin de ganar más dinero. El explorar mercados extranjeros para productos e inversiones extranjeras de ahorro ayudará a diversificar tu cartera y ganar más a largo plazo. Y aprender un nuevo idioma te ayudará con la comunicación.
+Esta semana te enfrentas un momento de aumento de energía cuando se trata de auto-expresión. Alguien en tu lugar de trabajo tiene celos de ti y no puede ser capaz de manejar tu naturaleza poderosa. No importa. Te estás exponiendo hacia el mundo, lo cuál sólo puede ser positivo. Di tu verdad. Aparentemente estás destinado/a a mostrar tu profundidad y madurez, aunque otros necesiten oírlo.

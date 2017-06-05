@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 29 de mayo 2017 al 04 de junio 2017 
-description: Horóscopo semanal capricornio 29 de mayo 2017 al 04 de junio 2017. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: capricornio 05 de junio 2017 al 11 de junio 2017 
+description: Horóscopo semanal capricornio 05 de junio 2017 al 11 de junio 2017. Empieza a hacerte promesas a ti mismo capricornio, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: -VT5qDfBtNk
+ video: zWrCwfNj1Dg
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-29'
+ lastmod: '2017-06-05'
 ---
 
 
 
-## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+## Empieza a hacerte promesas a ti mismo capricornio, empieza a prometerte amor propio, hoy y siempre. 
 
-Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio capricornio, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
-A medida que Venus continúa su viaje por tu sector social, este primer mes de 2017 podría ser clave para hacer nuevas amistades y conocer gente. Ya sea que quieras divertirte más, encontrar el amor o establecer contactos por otras razones, es posible que haya sido un mes muy productivo. Sin embargo, podría haber cambios este viernes a medida que Marte entra a un sector más tranquilo de tu carta astral. Esto podría revolucionar tu mente y darte la fuerza y determinación para dejar atrás cualquier problema que haya sido un lastre.
+Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien capricornio pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
+Los planes de diversión pueden tropezarse con tu trabajo o tus obligaciones laborales. Pero si puedes encontrar la forma de delegar algunas tareas, tal vez sea posible escapar. El cosmos te apresura a que encuentres formas creativas de divertirte sin que sea muy costoso. Puedes ver que, al pensar de manera diferente, puedes disfrutar una experiencia de forma gratuita o con poco dinero. Todo lo que se necesita es la habilidad de adoptar una perspectiva diferente que ponga nuevas posibilidades en el centro de atención.
 
 ## Dinero
 
-Estás en el cielo con respecto a tu carrera esta semana. Estás asumiendo una posición más poderosa en el trabajo y disfrutas de los salarios y beneficios que van junto con ella. Tu sector de vidas pasadas y sueños se acentúa. Hay tantas cosas pasando por tu mente inconsciente que puedes hasta sorprenderte de la cantidad de buenas ideas que tienes una vez que éstas alcancen la superficie.
+Tienes la posibilidad de recibir mucho apoyo por parte de viajes al extranjero, aprender un nuevo idioma, o asistir a una clase o un seminario para reforzar tu educación. Cualquier cosa que puedas hacer para que tu conjunto de habilidades sea más formidable ayudará ahora, especialmente cuando se trata de pedir más dinero. Mientras tanto, analizando el área de tu carta relacionada con tu trabajo, ¿será que es hora de cambiar de profesión?

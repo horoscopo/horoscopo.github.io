@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 29 de mayo 2017 al 04 de junio 2017 
-description: Horóscopo semanal piscis 29 de mayo 2017 al 04 de junio 2017. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor piscis, sin remordimientos.
+title: piscis 05 de junio 2017 al 11 de junio 2017 
+description: Horóscopo semanal piscis 05 de junio 2017 al 11 de junio 2017. piscis, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: 85p5qTJXOzA
+ video: 8BK8bI06OJ0
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-05-29'
+ lastmod: '2017-06-05'
 ---
 
 
 
-## Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor piscis, sin remordimientos.
+## piscis, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 
-Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda piscis, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
-Una conversación con una amistad podría resultar en que colaboren en una idea o un proyecto que te llama mucho la atención. Aunque esto podría parecer poco importante en el momento, podría convertirse luego en algo que vale la pena. En los últimos días de la semana, el enfoque se desplaza a tu sector de comunicaciones, cuando puede que llegues a pasar más tiempo con tus seres queridos. Llamarlos o enviarles un correo electrónico para hacerles saber que estás pesando en ellos puede ayudar a fortalecer los vínculos más íntimos.
+Parece que no todo va tan mal, no ¿piscis? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+El Sol ingresa a un sector más escondido de tu carta, lo que coincide con un período de cuatro semanas en el que podrías sentir más comodidad si te detienes y reflexionas sobre la vida. Esta es tu oportunidad para liberarte de algunas situaciones y tal vez de personas que ya no te hacen bien, y resolver problemas que parecen perseguirte. Todo estará listo una vez que Marte ingrese a tu signo el viernes. Sin embargo, reflexionar sobre tus planes puede ser mejor que zambullirte en ellos de forma impulsiva. 
 
 ## Dinero
 
-Ya eres más social de lo que eras antes. Tienes una semana de sorpresas agradables. Tienes que aprender algo que pensaste que ya sabías, o de repente puedes tener la tentación de ampliar tu educación con nuevos cursos y talleres. Esto es positivo para reforzar tu balance y ganar más dinero a través de las ventas al exterior.
+Es un buen momento para utilizar todos tus poderes de concentración y creatividad para pensar en nuevas maneras de traer efectivo. Los aspectos armónicos hacen de esto aún más cierto por ahora. Tus redes sociales tienen un valor incalculable en este momento y pueden proporcionar oportunidades para adquirir conocimiento interno de nuevas oportunidades de empleo en tu campo y las mejores formas de pedir aumentos y promociones. Asegúrate de darles las gracias con una divertida celebración.
