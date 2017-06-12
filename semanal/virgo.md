@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 05 de junio 2017 al 11 de junio 2017 
-description: Horóscopo semanal virgo 05 de junio 2017 al 11 de junio 2017. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: virgo 12 de junio 2017 al 18 de junio 2017 
+description: Horóscopo semanal virgo 12 de junio 2017 al 18 de junio 2017. Mira virgo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: U1FgTb9O5gQ
+ video: 3qtl2LCR0_c
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-06-05'
+ lastmod: '2017-06-12'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## Mira virgo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 
-Mira piscis, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer virgo, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
-Puede que te estés preguntando si deberías pedir un préstamo para una hipoteca o un proyecto de remodelación. Mientras que el pronóstico para ello se vislumbra positivo, puede que sea más fácil evitar discutir el asunto esta semana. Con influencias clave que indican situaciones y condiciones fluctuantes, sería mejor que investigues tus opciones primero. Si realmente sientes ansias, este es el momento ideal para investigar todo al respecto. Además, el fin de semana se vislumbra agradable y exitoso.
+Ommmm… Ommmm… Relax virgo, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira virgo, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas virgo, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+La semana podría comenzar de un modo más reflexivo a medida que la Luna Llena manifestándose en tu sector espiritual te anima a lidiar con cualquier emoción caprichosa. Tu carga emocional o las situaciones que han evitado que progreses podrían desaparecer ahora, lo que facilitará nuevos desarrollos. Prepárate para nuevas oportunidades relacionadas con el trabajo o tu rutina diaria. Podría aparecer información repentina que te lleve en una nueva dirección. Una nueva amistad o atracción romántica parecen prometedoras este fin de semana.
 
 ## Dinero
 
-Tienes una gran cantidad de energía para conseguir un gran apoyo esta semana. Si has estado pensando en iniciar tu propio negocio, esta es una época maravillosa para darle vida a tus ideas. El énfasis está en la estructura, así que asegúrate de que la tuya sea muy fuerte. Si no sabes cuáles son los primeros pasos, consulta la información disponible para pequeñas empresas. Y si buscas en tus relaciones más cercanas, podrás ver que siempre tuvieron todas las respuestas.
+El Universo te enseña a aceptar más responsabilidad con respecto a cómo te proyectas al mundo. Alguien ha sido capaz de ascender en la escala más rápidamente debido a su buen vestir o a una mejor manera de hablar, pero tú también lo puedes hacer. Práctica tu confianza en frente de un espejo hasta que la perfecciones. Cada detalle ayuda.

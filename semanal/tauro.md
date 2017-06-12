@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 05 de junio 2017 al 11 de junio 2017 
-description: Horóscopo semanal tauro 05 de junio 2017 al 11 de junio 2017. Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: tauro 12 de junio 2017 al 18 de junio 2017 
+description: Horóscopo semanal tauro 12 de junio 2017 al 18 de junio 2017. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: jk_TLtinmLE
+ video: eO4JoKSRGNw
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-06-05'
+ lastmod: '2017-06-12'
 ---
 
 
 
-## Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 
-No desperdicies ni un solo día de tu vida tauro porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio tauro, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la tauro de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida tauro. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
-El enlace Sol/Urano del principio de semana podría coincidir con una brillante idea. De hecho, tu pensamiento creativo podría estar a su máximo, tal vez alentándote a probar algo nuevo. Tu habilidad de resolución de problemas también puede verse aumentada, ya que podías encontrar inspiración en todo tipo de lugares. Una vez que Venus entre a tu sector de estilo de vida el viernes, es posible que quieras analizar tu dieta y quieras hacer algunos cambios. Menos comida rápida y más comida casera podría ser uno de ellos.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega tauro. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+Si algunas amistades han cambiado su estilo de vida de forma efectiva, puede que quieras seguir su ejemplo. Pasar tiempo con ellas en un bar de jugos o explorar maneras saludables de comer puede ayudarte a sentir una energía fresca y revitalizada, especialmente si decides integrar estos hábitos en tu vida. Además, la Luna Llena del viernes puede ser una gran oportunidad para que organices una reunión memorable. Sin embargo, recuerda hablar con tacto.
 
 ## Dinero
 
-Estudiando tu sector de profesión, estás disfrutando de un poco de impulso en esta área. Nuevos proyectos pueden aterrizar en tus manos. Si juegas bien tus cartas, podrías llegar a obtener un ascenso o promoción si muestras lo mucho que puedes llegar a hacer. Se indica que viene un cambio repentino, tal vez una transformación en tu rutina diaria. Si no tienes seguridad acerca de tu trabajo actual, piensa en qué más podrías hacer para ganar más dinero.
+Hay actividad en el área de tu carta que rige las vidas pasadas, sueños, el karma y las instituciones, por lo que es un momento especialmente fértil en el ámbito de lo inconsciente. Podrías llegar a descubrir que tienes un talento oculto para la planificación financiera (incluso si el dinero no ha llegado a ti todavía), lo cuál puede ser un residuo del pasado. Uno de los aspectos podría probar tu paciencia ahora, pero si puedes mantener tu comunicación tranquila y neutral (no personal), obtendrás lo que necesitas.
