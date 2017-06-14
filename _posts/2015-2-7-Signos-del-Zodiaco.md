@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de junio 2017
-description: Horóscopos del dia de hoy 13 de junio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de junio 2017
+description: Horóscopos del dia de hoy 14 de junio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Si necesitas un catalizador para empezar cosas en los próximos cuatro días, el aspecto de hoy entre Marte y Urano es lo que buscas. Si por casualidad había alguien, o incluso algo, con lo que esperabas poder evitar toparte, la Luna saliéndose de su órbita podría concedértelo esta noche.
+El Universo temporalmente se siente como si estuviera en un estado suspendido de animación bajo la Luna saliéndose de su órbita. Utiliza esta momentánea pausa a tu conveniencia y te irá bien. Todo está sazonado con el sabor del amor. Solteros, esta noche, Venus y Neptuno podrían desencadenar una mágica reunión.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
