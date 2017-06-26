@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 12 de junio 2017 al 18 de junio 2017 
-description: Horóscopo semanal libra 12 de junio 2017 al 18 de junio 2017. libra, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+title: libra 26 de junio 2017 al 02 de julio 2017 
+description: Horóscopo semanal libra 26 de junio 2017 al 02 de julio 2017. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: 5VhuqerTaQM
+ video: mDYeCXj1KC0
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-06-12'
+ lastmod: '2017-06-26'
 ---
 
 
 
-## libra, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 
-No es que estés cambiando libra, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
-Si últimamente algunas relaciones clave parecen menos estables de lo habitual, esta sensación puede terminar a mediados de la semana. Con el Sol moviéndose a esta misma zona, podrías descubrir que las cosas se estabilizan a medida que la atmósfera entre ustedes se suaviza. Marte ingresa a un sector más sensible de tu carta, lo que podría influir en las finanzas conjuntas y animarte a resolver cualquier asunto molesto. También podrías sentir curiosidad por entender más sobre tu persona y sobre qué te motiva a la acción.
+¿Cómo quieres gastar tu vida libra? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente libra, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida libra, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro libra. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana libra.
+Puede haber más opciones románticas esta semana y en las próximas semanas mientras Marte llega al núcleo de tu sector de recreación y placer. Puede que tengas una actitud más dinámica en cuanto a tener citas o encontrar a esa persona especial. Puede que haya un poco de competencia en el camino y esto puede hacer que todo se vuelva un poco más estresante. Otros factores indican que debes ser quien realmente eres para atraer a la persona indicada. Por último, una conversación puede abrirte las puertas a una gran oportunidad.
 
 ## Dinero
 
-Es importante que ésta semana comuniques tus ideas y necesidades lo más claramente posible. Notifica las cosas difíciles en reuniones con mentores y profesores. Mientras más pronto lo hagas, más pronto regresarás a la normalidad. Mientras tanto tus sueños pueden ser un poco borrosos. Tomate el tiempo necesario para enfocarte en tus metas personales y financieras.
+Puede que parezca que el dinero está en todo tu alrededor ahora. Dado que cierta actividad afecta al sector que rige la deuda o el dinero de otros, puede ser extremadamente bueno establecer un nuevo plan de pago para las facturas pendientes, o buscar dinero por parte de los inversionistas para un nuevo proyecto. Si estás tratando de atraer dinero, arma un plan de negocios sólido. Enumera tus habilidades, pasión, y -sobre todo- las cifras para mostrar tu valor real.

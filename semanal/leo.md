@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 12 de junio 2017 al 18 de junio 2017 
-description: Horóscopo semanal leo 12 de junio 2017 al 18 de junio 2017. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también leo. Pero sigue protegiéndote a ti mismo…
+title: leo 26 de junio 2017 al 02 de julio 2017 
+description: Horóscopo semanal leo 26 de junio 2017 al 02 de julio 2017. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: enEyQQImUU4
+ video: fVAtLIIbAkY
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-06-12'
+ lastmod: '2017-06-26'
 ---
 
 
 
-## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también leo. Pero sigue protegiéndote a ti mismo…
+## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 
-Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande leo, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. leo, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
-Con ciertas cuestiones de bienestar y estilo de vida a la orden del día, buscar eficiencia puede ayudarte a avanzar hacia tus metas y planes. Si haces lo que dices que vas a hacer, sin duda podrás impresionar a la gente adecuada. La conexión entre Mercurio y Plutón sugiere que dar un servicio ejemplar podría lograrte un aumento de sueldo. Venus forma algunas conexiones interesantes en los próximos días que podrían verte comprometiéndote cada vez más con una relación. El viernes, un candente encuentro podría darte mucho que pensar.
+La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace leo… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas leo, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+Un fuerte enfoque en tu sector de comunicaciones te ofrece la oportunidad de conectar con gente de tu vecindario y otros en tu área. Esta oportunidad de hacer conexiones podría resultar muy gratificante si ayuda a unir a tu comunidad local. Al mismo tiempo, tal vez sea sabio evitar molestar a alguien con autoridad. Deben coincidir en estar en desacuerdo o llegar a un compromiso. Definitivamente, discutir no será de gran ayuda. La Luna Nueva del 25 de mayo puede traer la posibilidad de avanzar con una idea brillante.
 
 ## Dinero
 
-Ciertos aspectos afectan tu sector de enseñanza, aprendizaje, viajes y ley; mostrando que es un buen momento para añadir a tu conjunto de habilidades. También podrías darte cuenta de que las demandas pueden ser beneficiosas en el balance final si has tenido un desacuerdo con alguien. Mientras tanto, trata a los demás como te gustaría que te trataran.
+El Universo está proporcionando las condiciones para destellos repentinos de intuición y genio. Este no es el momento de sentarte en tus laureles. En cambio, se te insta a orientar tu atención hacia tu hogar y tus emociones para encontrar las ideas más rentables y mejores maneras de hacer dinero ahora. Los negocios basados desde el hogar prosperan. Las ideas que salen del corazón pueden convertirse en industrias caseras sin muchos problemas.

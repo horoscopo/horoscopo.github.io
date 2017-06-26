@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 12 de junio 2017 al 18 de junio 2017 
-description: Horóscopo semanal sagitario 12 de junio 2017 al 18 de junio 2017. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+title: sagitario 26 de junio 2017 al 02 de julio 2017 
+description: Horóscopo semanal sagitario 26 de junio 2017 al 02 de julio 2017. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: 7zgMvXE5YVM
+ video: OtoCcvcYrtU
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-06-12'
+ lastmod: '2017-06-26'
 ---
 
 
 
-## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 
-No más paciencia Capri. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres sagitario, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana Capri.
-Podrías preguntarte si una idea en la que has invertido es buena después de todo. Si bien las cosas pueden parecer un poco lentas en este momento, ten por seguro que mejorarán. Mientras tanto, el cosmos te alienta a trabajar con un presupuesto con el que puedas mantenerte y que, al mismo tiempo, te permita disfrutar de buenos momentos. La Luna Nueva en tu sector de relaciones puede alentarte a llevar una relación nueva o de hace bastante tiempo a un nuevo nivel.
+El mundo no te entiende sagitario, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales sagitario, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo sagitario, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
+Mercurio en Géminis forma un extraño ángulo con Neptuno en tu sector profesional, por lo que un mensaje confuso o hablar sin pensar pueden meterte en problemas a menos que lo resuelvas de inmediato. Sería prudente ver si los demás entienden lo que dices, particularmente las personas en posiciones de autoridad. Al mismo tiempo, puede que necesites saber adaptarte si necesitas trabajar con una persona que no acepta tus ideas. Pero con un poco de moderada persuasión, la próxima semana podría ser diferente.  
 
 ## Dinero
 
-Nunca ha sido tu punto fuerte el aceptar ciertas cosas, y tal sentimiento se duplicará esta semana. Algunos aspectos negativos crearán olas. Trata de sobrellevar las facciones beligerantes de tus redes sociales de regreso a la mesa de la paz mientras te haces cargo de propiedades que compartas con otra persona.  El dejarla en sus manos no traerá los mejores resultados ahora. Tu sabes que es lo mejor para los dos.
+Puede que por lo general no se te conozca por tu astucia en el dinero, ya que a menudo es sólo un medio para sentirte libre de restricciones. Pero ahora te conectas a tus redes sociales de una manera poderosa y haces que funcionen para ti. Si buscas una nueva posición o un mejor trabajo con buenos beneficios, serás capaz de conectar con nuevos empleadores. Un socio podría necesitar un poco de ayuda extra con un pequeño negocio. A partir de ahí, sólo tienes que demostrar tu valor.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 12 de junio 2017 al 18 de junio 2017 
-description: Horóscopo semanal geminis 12 de junio 2017 al 18 de junio 2017. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar geminis porque no eres así. 
+title: geminis 26 de junio 2017 al 02 de julio 2017 
+description: Horóscopo semanal geminis 26 de junio 2017 al 02 de julio 2017. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: VWUJGGJkYg8
+ video: NSfS-PTmkGA
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-06-12'
+ lastmod: '2017-06-26'
 ---
 
 
 
-## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar geminis porque no eres así. 
+## 
 
-Céntrate en tus metas geminis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-Incluso si no tienes planes de viaje, tus pensamientos podrían ser acerca de personas y lugares lejanos. El inicio de la semana podría ver una conexión desarrollándose y fortaleciéndose durante las semanas y meses por venir. Aunque podría ser a larga distancia, puede que aún esté muy cerca de tu corazón. Marte agita tu sector espiritual, aumentando el deseo de resolver problemas emocionales que pudieran haber persistido durante algún tiempo. Utiliza la Luna Nueva del viernes para poner en acción un plan lucrativo.
+No puedes ser sumiso Sagi, al final, tus necesidades siempre acaban saliendo a la luz porque no puedes limitarte ni encasillarte con nada. No puedes pasarte la vida sabiendo qué es lo que debes hacer pero sin hacerlo, no puedes pasarte la vida queriendo hacer algo y que al final ese algo sólo se quede en tu cabeza, en tus pensamientos. Tienes que romper con eso. Esta semana céntrate en cumplir cada una de tus metas, trata de hacer lo que te pida el cuerpo sin necesidad de quejarte, piensa en qué es lo que está en tu mano, en qué es lo que tú puedes hacer, y hazlo. No hagas de tu tiempo tiempo perdido, con nada, con nadie… Si no vas a por todo, mejor no vayas. Es uno de tus lemas, pero a veces te olvidas de aplicártelo a ti, y sí, empiezas algo y por unas cosas u otras, no lo acabas. Piensa que así es como te frustras y piensa que es el motivo por el cual te pones de muy mala hostia un día sí y otro también. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo. No te compliques y al lío Sagi. Ponte en marcha de una vez esta semana, y no pienses en lo que perdiste o en lo que ganaste, piensa en lo que llegará si de verdad te pones las pilas.
+A medida que Mercurio, tu planeta guía, entra a tu signo el martes, puede que veas que tu innata curiosidad se despierta con nuevas ideas y oportunidades. Puede que también quieras examinar tus finanzas y encontrar maneras para ganar más dinero. Pero los sentimientos también pueden intensificarse el viernes, cuando la Luna Llena en tu sector de relaciones hace que las emociones estén a flor de piel. Ve con cuidado, ya que puedes decir o hacer algo de lo que después te arrepientas. 
 
 ## Dinero
 
-Estás trabajando duro para saldar tus deudas para poder disfrutar de una mejor calidad de vida. Ponte en contacto mediante llamadas telefónicas y cartas a las empresas a las que les debes dinero con el fin de organizar planes realistas de pago. Al mismo tiempo, gasta algo en tu familia, pareja romántica y actividades creativas. El balance debe ser mantenido.
+Podrías estar siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que tengas que sentir comodidad al hablar en público e iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas, será muy importante. Tu carrera necesita un poco de energía concentrada y deliberada. Disminuye  la confusión con el fin de obtener lo que se aproxima a ti.

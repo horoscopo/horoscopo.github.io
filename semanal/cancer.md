@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 12 de junio 2017 al 18 de junio 2017 
-description: Horóscopo semanal cancer 12 de junio 2017 al 18 de junio 2017. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+title: cancer 26 de junio 2017 al 02 de julio 2017 
+description: Horóscopo semanal cancer 26 de junio 2017 al 02 de julio 2017. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: xOtBYTqBe5A
+ video: T6lZtxrq-p8
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-06-12'
+ lastmod: '2017-06-26'
 ---
 
 
 
-## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 
-No puedes estancarte con algo cancer, no debes dejar de crecer nunca. Esta semana vas a estar pensando y analizando la situación de tu vida, ¿estás haciendo lo que realmente quieres hacer? No cancer, hay cosas que quieres cambiar pero tienes que cambiarlas ya, empezar y terminar. No puedes conformarte con la vida que estás llevando, el tiempo pasa muy deprisa y cuando te quieras dar cuenta quizás ya sea demasiado tarde, o quizás te sea mucho más complicado tomar decisiones. Sigue con tus proyectos y no te amargues cuando no veas resultados inmediatos. Lo bueno siempre tarda en llegar. Lo que tienes que hacer es no desanimarte. Saca tu verdadero yo, no te metas en nada superficial, al fin y al cabo esas cosas te merman mucho, no es lo tuyo cancer. No vale ni un segundo de tu tiempo. No te calientes demasiado acordándote de cosas que ya fueron y que ahora no son, que jamás podrán volver a ser, sigues perdiendo tu tiempo como lo hagas así. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. No eres mediocre cancer así que, no quieras llevar esa vida, agarra el amor propio que te sale para buscar mejores oportunidades. No es que seas egoísta, no es que te vuelvas egoísta, es que es algo vital que hagas tu vida.
-Esta puede ser una semana en la que avanzas a toda velocidad, ya que la entrada del Sol a tu sector profesional te convierte en el centro de atención y te da un motivo claro para mostrar tus habilidades y talentos. Anímate a alardear un poco, no tienes nada que perder. Para poder aprovechar otra oportunidad que se presenta debes ser capaz de detectarla, pero si logras verla con claridad tal vez decidas sacarle el jugo. Sigue los pasos correspondientes y todo saldrá bien. Pero no te olvides de los detalles.
+
+Esta semana y las que se aproximan podrían ser buenas para organizarte en el hogar, ya sea despejando clósets, haciendo las tareas de la casa y asegurándote de que todo esté en su lugar. Quizás seas capaz de ganar un dinero extra vendiendo artículos que ya no necesitas. Otro aspecto clave sugiere que, si te dispones a cooperar con alguna amistad o grupo, puede lograrse algo único. Mezclar información nueva con las técnicas confiables de siempre podría preparar el camino hacia el éxito.
 
 ## Dinero
 
-Puede que sientas inquietud y satisfacción esta semana. ¿Cuándo fue la última vez que te sentiste feliz y libre? Probablemente cuando estuviste viajando y aprendiendo algo nuevo. Tu cerebro quiere ser usado. Gastar dinero en una clase o libro interesante o salir a una expedición guiada puede ser justo lo que necesitas para defenderte del aburrimiento. Los planetas se preguntan cómo te cambia lo que aprendes. Te podría sorprender la respuesta.
+Estás con ganas de gastar cierto dinero que sientes que está a punto de hacer un agujero en tu bolsillo, pero el momento no es el adecuado. Debido a un aspecto armonioso ahora, el cambio está llegando a las áreas que rigen las relaciones profesionales, viajes, educación superior, la enseñanza y el aprendizaje. Si trabajas en uno de estos campos, ¡es un buen momento para ti! Si no es así, trata de incorporar alguna faceta de ellos en lo que haces para ganarte la vida.
