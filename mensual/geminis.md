@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Geminis Junio 2017 
+title: Geminis Julio 2017 
 permalink: /horoscopo-mensual/geminis/
-keywords: horóscopo, horóscopo 2017,  Junio, horoscopo Junio,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2017, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Julio, horoscopo Julio,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2017, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-06-01'
+ lastmod: '2017-07-01'
 ---
 
- Mercurio ingresa a Géminis el 6 de junio, y de repente todo el mundo podría volverse más interesante. Despierta tu curiosidad y mantente así. El amor y romance brillan con fuerza para ti alrededor de la Luna Llena del 9 de junio. De repente, un amante podría volverse generoso y afectivo (al punto de no creerlo). Acepta la atención y asegúrate de que cualquier acto de generosidad y bondad no tenga un compromiso implícito. La Luna Nueva del 23 de junio empodera tus pronósticos financieros y monetarios. Una oportunidad de ingresos podría ser lucrativa y mantenerte con demasiadas ocupaciones como para gastar más de lo que necesitas o pretendes. Es ahora cuando podrías participar en una empresa creada recientemente.
+ La cuadratura entre la Luna y Mercurio del 1 de julio quizás intente disminuir tu nivel de confianza personal, pero no se lo permitas. Siente tu gran prosperidad bajo la Luna Llena del 8 de julio. Estás de humor para producir dinero y puedes ver mucho éxito. El repentino cambio de humor o fortuna de otra persona podría crear oportunidades que te permitan alardear del éxito que puedes tener. La Luna Nueva del 23 de julio podría dar comienzo a una temporada de fiestas y reuniones con amistades y gente de tu vecindario que fueron difíciles de encontrar a principio de año. La gente puede ir y venir con más frecuencia, pero será agradable ver tantos rostros de nuevo. 

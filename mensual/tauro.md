@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Tauro Junio 2017 
+title: Tauro Julio 2017 
 permalink: /horoscopo-mensual/tauro/
-keywords: horóscopo, horóscopo 2017,  Junio, horoscopo Junio,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2017, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Julio, horoscopo Julio,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2017, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-06-01'
+ lastmod: '2017-07-01'
 ---
 
- Venus ingresa a Tauro el 6 de junio. La vida se vuelve más sencilla y bonita. Estás de humor para consentirte y sentir más comodidad. No te excedas con los gustos ni te extralimites con el presupuesto, ¿de acuerdo? La vida diaria podría complicarse brevemente cerca de la Luna Llena del 9 de junio, y las personas pueden hacer que parezca peor de lo que es. Hay un trasfondo de muchas cosas buenas que están sucediendo y que todos están pasando por alto. Mantén la organización y motivación. La Luna Nueva del 23 de junio activa tu círculo de amistades y vecinos. Despierta tu curiosidad por nuevas tiendas o parques cercanos, y descubre cosas divertidas. Deja que tu atención fluya hacia una nueva novela cómica o gráfica.
+ Tus amigos pueden tener problemas para seguirte el ritmo alrededor de la Luna Llena el 8 de julio. Podría haber en ti un deseo de ser más audaz y valiente. Sé tan valiente como desees, pero la felicidad puede ser más fácil de encontrar con algo que te sea más familiar y esté cerca de casa. El trígono que Venus forma con Júpiter el 18 de julio podría poner gente en tu camino y hacerte bastante popular. Deja que la Luna Nueva el 23 de julio les abra las puertas a aquellos familiares que han estado muy ocupados o lejos, y retoma el contacto con ellos. Piezas de comunicación falsa puede hacerse presentes, pero los mensajes de texto o llamadas deberían ser buenas señales de que habrá contacto muy pronto. 
