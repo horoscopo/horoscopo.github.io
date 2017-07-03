@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 02 de julio 2017
-description: Horóscopos del dia de hoy 02 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 03 de julio 2017
+description: Horóscopos del dia de hoy 03 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-El poder de Marte es más amable al encontrarse en Piscis. No es un renacimiento de la audacia, pero te percatarás de que tal enfoque tiene sus ventajas. (Recuerda lo que te estaba pasando hace dos años y medio). Mercurio iniciando su retroceso esta noche trae consigo déjà vus. Si algo te resulta familiar, tal vez no puedas identificarlo debido a que se te escapó la primera vez.
+Aclara y comunica propósitos el día de hoy. Las personas confusas hacen las peores cosas posibles cuando las mentes están en distintas modalidades. El ritmo más lento de esta noche es agradable bajo la Luna en Tauro. Puedes pasarte una deliciosa velada, bien merecida después de un complicado día. Solteros, noten el interesante pensamiento que sale a la superficie a la primera mirada.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
