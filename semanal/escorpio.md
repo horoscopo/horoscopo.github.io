@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 26 de junio 2017 al 02 de julio 2017 
-description: Horóscopo semanal escorpio 26 de junio 2017 al 02 de julio 2017. Tienes que plantarte escorpio, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+title: escorpio 03 de julio 2017 al 09 de julio 2017 
+description: Horóscopo semanal escorpio 03 de julio 2017 al 09 de julio 2017. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: E8mofmTtw0E
+ video: N6hrq3ySHyM
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-06-26'
+ lastmod: '2017-07-03'
 ---
 
 
 
-## Tienes que plantarte escorpio, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 
-Sólo tú puedes salvar tu vida escorpio. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú escorpio. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
-A medida que Marte se adentra cada vez más en tu sector espiritual, puede que reavive sentimientos que tienen raíces en el pasado. Este también es el momento de dejar atrás lo que pueda impedir que expreses tus sentimientos o cumplas tus ambiciones más fuertes. Puede que una manera de lograrlo sea mediante el arte o las artesanías, o puedes hacerlo bailando, nadando, saliendo a correr o cualquier otra actividad que te ayude a estabilizarte. Estas medidas simples te pueden ayudar a sentirte mucho mejor.
+Tienes que empezar a vivir de nuevo Capri, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad Capri, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+Puede que haya ciertos aspectos de tu vida diaria en los que te esfuerzas demasiado para lograr algo. Esta tendencia podría hacerte sentir un poco impaciente con un plan o proyecto que parece estar perdiendo fuerza. Para que todo salga bien, el truco es dar un paso atrás y dejarte llevar por la corriente por un tiempo. Si puedes hacerlo, puede que tengas ideas nuevas y creativas que te permiten trabajar para avanzar con satisfacción.
 
 ## Dinero
 
-Te preparas para gastar en cosas bonitas para hacer de tu vida una más cómoda y relajada. Pero tal vez no necesitas todos esos aparatos o esos viajes con todo pagado. El cortar un poco en gastos puede dejar más espacio para futuros proyectos, viajes y actividades que realmente enciendan tu fuego. Tus amigos pueden ayudarte a mantenerte por buen camino.
+Esta semana se trata de alguien que conoces probablemente dirigiéndote a un mal camino o distrayéndote mucho de tus metas monetarias o laborales dificultando tu balance. No puedes evitar ser irresistible, pero bien puedes utilizar la energía del Universo a mitad de semana. Tu atención debe estar en la eliminación de viejas deudas.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 26 de junio 2017 al 02 de julio 2017 
-description: Horóscopo semanal sagitario 26 de junio 2017 al 02 de julio 2017. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+title: sagitario 03 de julio 2017 al 09 de julio 2017 
+description: Horóscopo semanal sagitario 03 de julio 2017 al 09 de julio 2017. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo sagitario.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: OtoCcvcYrtU
+ video: -CvoqmheYdc
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-06-26'
+ lastmod: '2017-07-03'
 ---
 
 
 
-## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo sagitario.
 
-El mundo no te entiende sagitario, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales sagitario, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo sagitario, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
-Mercurio en Géminis forma un extraño ángulo con Neptuno en tu sector profesional, por lo que un mensaje confuso o hablar sin pensar pueden meterte en problemas a menos que lo resuelvas de inmediato. Sería prudente ver si los demás entienden lo que dices, particularmente las personas en posiciones de autoridad. Al mismo tiempo, puede que necesites saber adaptarte si necesitas trabajar con una persona que no acepta tus ideas. Pero con un poco de moderada persuasión, la próxima semana podría ser diferente.  
+No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse sagitario, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo sagitario, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
+Tal vez tengas ganas de experimentar con una dieta nueva y fresca de comidas orgánicas y productos cultivados en casa. El actual enfoque en tu sector de estilo de vida podría ser el catalizador para dejar la comida rápida y elegir algo más sabroso y saludable. Lo mismo aplica a otras actividades, también. Comenzar yoga o cualquier otra rutina de relajación podría ser más aconsejable que mirar televisión. De hecho, un nuevo comienzo más saludable podría estar en tu menú.
 
 ## Dinero
 
-Puede que por lo general no se te conozca por tu astucia en el dinero, ya que a menudo es sólo un medio para sentirte libre de restricciones. Pero ahora te conectas a tus redes sociales de una manera poderosa y haces que funcionen para ti. Si buscas una nueva posición o un mejor trabajo con buenos beneficios, serás capaz de conectar con nuevos empleadores. Un socio podría necesitar un poco de ayuda extra con un pequeño negocio. A partir de ahí, sólo tienes que demostrar tu valor.
+Tu sector de carrera se expande y te das a notar esta semana. Hay una atmósfera de amor en el trabajo. Es seguro que encontrarás ideas creativas que fluyen. Mientras tanto, tienes la capacidad de construir sobre los éxitos del pasado, proporcionando un elenco de apoyo dispuesto a tomar la dirección en el trabajo. Si alguna vez hubo una semana en la que estuvieras a cargo, esa es esta. Haz conocer tus necesidades y los demás las realizarán.

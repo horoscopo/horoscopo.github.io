@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 26 de junio 2017 al 02 de julio 2017 
-description: Horóscopo semanal aries 26 de junio 2017 al 02 de julio 2017. 
+title: aries 03 de julio 2017 al 09 de julio 2017 
+description: Horóscopo semanal aries 03 de julio 2017 al 09 de julio 2017. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: bxheuh6LoPI
+ video: t3Prqla41x8
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-06-26'
+ lastmod: '2017-07-03'
 ---
 
 
 
 ## 
 
-Deja de esperar al futuro aries, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz aries, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio aries, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir aries, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor aries, sin remordimientos.
-La Luna Nueva del martes en tu sector espiritual te anima a pensar acerca de tu ser interior. De hecho, esta puede ser una oportunidad para iniciar el hábito regular de visualizar tus objetivos, obteniendo inspiración de tus sueños y prestándole atención a ideas creativas que parezcan surgir de la nada. Venus entra a tu signo el viernes, poniéndote en estado de ánimo para entablar nuevas conexiones. También es un buen momento para darte un cambio de imagen en caso de que quieras y se siente bien hacerlo.
+Nunca te has arrepentido de nada aries, para bien o para mal la vida te ha dado lecciones en las que no te ha quedado más remedio que aprender. Estás en una fase en la que tus pensamientos se vuelven a pelear entre ellos. Lo que deberías hacer, lo que quieres hacer, lo que el mundo espera que hagas… Otra vez. Piensa antes de nada en lo que vas a perder antes de actuar y de tomar una decisión, pero tampoco busques hasta la más mínima excusa para no hacerlo. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos aries. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad. Métete en la cabeza que puedes hacer absolutamente todo lo que te propongas solo, sin necesidad de que nadie te nuble el juicio, sin necesidad de que nadie te vuelva loco. La vida va a empezar a enseñarte quien merece la pena, quién no merece que se acerque a ti más de cinco minutos al día y quien no merece que se acerque nunca. Pero primero eres tú, en eso es en lo que tienes que trabajar más, en valorarte a ti mismo, en confiar en ti, en tus instintos, en tus objetivos, en saber que lo que hagas saldrá bien, de verdad. Tú no necesitas ejemplos de nadie, cada uno vive su vida como le apetece y si a alguien no le salieron las cosas como esperaba no significa que a ti no te vayan a salir, deja el miedo a un lado y sobretodo la dependencia emocional. Aunque sea una dependencia mínima. Vuelve a ser la persona que siempre has sido.
+La Luna Nueva de lunes podría iniciar una revolución en tu sector financiero, animándote a administrar tu dinero de manera más eficiente. Durante el resto de la semana, las conversaciones y las oportunidades que se pongan en tu camino podrían abrirte puertas que te ayuden a ganar más. El potencial para aumentar tus ingresos sin duda está presente. Sólo tienes que estar alerta para aprovecharlo mientras puedas. Si tienes disposición a invertir un poco más de esfuerzo, podrías obtener grandes resultados.
 
 ## Dinero
 
-Tienes una buena dosis de apoyo del Universo conforme tratas de ganar más dinero y creas más estructura en tu vida. Los aspectos afectando tu sector de dinero y valores hacen de este un buen momento no sólo para ganar más dinero a través de mayores oportunidades, sino también para investigar la manera de invertir en el futuro. Empieza a actuar con cautela, luego, ramifícate conforme empiezas a sentir más comodidad.
+A veces puedes  ser muy conformista, y esta semana, podrías tener todo lo necesario para seguir siéndolo. Una nueva energía inunda tu casa del dinero y los valores, facilitando una especia de pausa para ti. En este momento de paz, podrías estar preguntándote que es lo que harías y no harías por dinero y cuánto tiempo más de descanso necesitas para mantenerte sano/a y productivo/a. Esto será muy sano para ti a la larga.

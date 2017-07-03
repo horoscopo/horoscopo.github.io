@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 26 de junio 2017 al 02 de julio 2017 
-description: Horóscopo semanal tauro 26 de junio 2017 al 02 de julio 2017. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+title: tauro 03 de julio 2017 al 09 de julio 2017 
+description: Horóscopo semanal tauro 03 de julio 2017 al 09 de julio 2017. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: DlmDVB06yq8
+ video: numR7EyYgIk
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-06-26'
+ lastmod: '2017-07-03'
 ---
 
 
 
-## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 
-A veces amas demasiado tauro, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar tauro, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. tauro, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. tauro, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos tauro, y siente… Feliz semana…
-Las cosas se vislumbran optimistas en tu sector de relaciones a principios de la semana con la Luna Nueva allanando el camino para un nuevo comienzo. Esta podría ser tu oportunidad para llevar un negocio o relación romántica al siguiente nivel o formar una asociación o colaboración. Al mismo tiempo, tu vida social brilla con Marte entrando a este sector desde el martes. Por otro lado, las cuestiones financieras y empresariales pueden progresar más fácilmente si empleas un poco de tacto. No te precipites a nada este fin de semana.
+No tengas la menor duda de que la vida hará pagar por todas las malas acciones a quien las cometa, por eso tú preocúpate por hacer el bien a los demás y recibirás una gran recompensa. Párate a pensar si ahora eres feliz, mírate hacia dentro y piensa si para cerrar el ciclo que a veces te atormenta necesitas hablar con alguien, con alguna persona especial… Nada volverá a ser lo mismo tauro, pero a veces, para que nuestra mente descanse en paz de verdad lo mejor es sacar lo que quizás tenemos dentro y nos costó tanto tiempo decir. Es probable que no sea el momento, eres tauro y muy a menudo, cuando tienes que decir algo en el instante que deberías no lo dices, por miedo, por vergüenza, por lo que sea, y otras veces, cuando lo mejor es estar callado, sueltas cualquier burrada que hace que al final te acabes por sentir mal. Las cosas por ahora no van a cambiar mucho, pero tu estado de ánimo sí, y ya no tu estado, si no esa inseguridad que se ha ido forjando en ti este tiempo atrás, esa sensación a veces, como de pérdida… Ahora necesitas centrarte en cosas que te mantengan ocupada la mente, aunque suene un poco mal decirlo, no pensar demasiado en nada, ni en todo, simplemente fluir con lo que venga, con lo que pase, sin buscar, sin forzar. Será una racha, un tiempo en el que quizás te sientas como vacío, a veces incluso un poco fuera de lugar, como si los sentimientos de repente se hubieran entrelazado y lo mismo amas que odias, lo mismo quieres ser el más feliz del mundo que quieres echarte a llorar como un niño. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+Prepárate para lidiar con objeciones o para tener que hacerle frente a las emociones volátiles de otras personas. Esta semana, el Eclipse Lunar manifestándose en tu sector de comunicación sacará ciertos sentimientos a la luz. Los días de mitad de semana podrían ser el momento de decir lo que haya que decir y aclarar las cosas en el proceso. Aunque la semana pueda ser frustrante en algunos aspectos, una escapada de fin de semana podría ser justo lo que necesites para recargar pilas y ayudarte a elevarte por encima de todo. Necesitarás alguna forma de escape, así que planéala.
 
 ## Dinero
 
-Esta semana estás en el meollo de las cosas con ciertos aspectos afectando tu sector de dinero y valores. Se te está forzando hacia cierta área de tu vida que ha sido desatendida durante demasiado tiempo. Pon un poco más de tu pensamiento y acción en cómo ganar dinero y cuánto quieres ganar en el futuro.
+Aspectos en tu gráfico asociado con el empleo y la salud te exhortan a hacer los cambios necesarios y hacerte chequeos médicos. Debido a que el Universo revela lo anteriormente enterrado bajo la superficie, puedes encontrarte con que alguien tiene la intención de bloquear tu camino hacia el éxito. Un vistazo a tu sector de vidas pasadas y karma te mostrará que ahora cosecharás lo que has sembrado.
