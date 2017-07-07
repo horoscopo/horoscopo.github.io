@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de julio 2017
-description: Horóscopos del dia de hoy 06 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de julio 2017
+description: Horóscopos del dia de hoy 07 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-La intuición reacciona mucho antes de lo que lo hace el cerebro cuando la Luna cuadra a Neptuno hoy. Ten cuidado, porque el salto que tomas podría equivocarse de dirección - saltando a la conclusión errónea. La noche es tranquila y reservada, pero también hay calidez. Los cerebros necesitan paz y tranquilidad.
+Agradar a la gente y las charlas casuales gobiernan el día de hoy bajo la Luna en Libra. Incluso las discusiones se hacen en términos amistosos. Si sientes que la gente se comporta un poco vaga e indecisamente, tienes razón. Esta noche, con Venus a punto de salir de Virgo, sientes que te has preparado para cualquier eventualidad, pero no hay ninguna; a menos que tengas un sentimiento de vacío. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
