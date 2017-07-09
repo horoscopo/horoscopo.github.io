@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de julio 2017
-description: Horóscopos del dia de hoy 08 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de julio 2017
+description: Horóscopos del dia de hoy 09 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Lucha por superar los malentendidos esta mañana al hablar de la búsqueda de vías a través de las cuales se comunican sentimientos. La gente fácilmente se pone de acuerdo esta tarde. De hecho, es probable que hasta hagan más de lo que pides. Esta noche, la luz amarilla de precaución está encendida. Planea una noche tranquila si no eres fan del elemento sorpresa.
+¡Feliz cumpleaños a Escorpión! Este es el momento de empezar de nuevo y esperar lo mejor. ¡Hazlo! Atrévete a tener grandes expectativas y a confiar en el gran poder que tienes para alcanzarlas. El Trígono de Fuego de esta noche entre la Luna y Venus acentúa afecto y buen humor. Parejas, háganse felices el uno al otro.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
