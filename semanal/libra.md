@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 03 de julio 2017 al 09 de julio 2017 
-description: Horóscopo semanal libra 03 de julio 2017 al 09 de julio 2017. No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: libra 10 de julio 2017 al 16 de julio 2017 
+description: Horóscopo semanal libra 10 de julio 2017 al 16 de julio 2017. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar libra. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: 1UHDhBPFhIA
+ video: GEZaCX0Dag0
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-03'
+ lastmod: '2017-07-10'
 ---
 
 
 
-## No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar libra. 
 
-libra, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo libra. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
-La semana tiene un comienzo dinámico con la Luna Llena en tu sector de estilo de vida alentando a olvidarte de tu dieta o rutina de ejercicio y disfrutar de la vida. El Sol ingresa a Cáncer ese mismo día, aumentando tu vitalidad y animándote a avanzar en proyectos que han estado en un segundo plano. Mantente alerta este fin de semana, cuando no querrás perderte de una posible oportunidad o lucrativa colaboración. Ciertamente es algo a tener en cuenta.
+Te van a echar de menos libra, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio libra, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
+Ciertas creencias podrían ser muy tentadoras, y puede que tengas ganas de explorarlas. Puede que incluso quieras viajar para hacerlo. O quizá sueñes con playas exóticas y hermosos lugares donde puedas relajarte en la arena y descansar. En la segunda mitad de la semana puede que vuelvas a la realidad, especialmente si estás teniendo problemas con cierta persona. Si es así, puede que sea hora de que te pongas firme y digas lo que piensas.
 
 ## Dinero
 
-Esta semana tiene algunos cambios importantes para ti en las áreas de niños, romance y diversión. Si tu profesión es la enseñanza,  el romance de algún tipo o proveer risa de algún tipo, te ganarás mucho dinero en efectivo. Las profesiones que involucran hablar y escribir te enviarán a buenas situaciones.
+Estás mejorando tu vida financiera haciendo grandes avances en tu carrera. Estás cambiando la forma en que haces tu trabajo y haciendo planes para el futuro. Si deseas avanzar con rapidez en este ámbito, date como voluntario/a para representar más a tu organización. Al dar discursos y presentaciones, vences el miedo a hablar en público y avanzas en tu propia causa. Tu ambición no puede ser igualada. Crea heno mientras el Sol brilla.

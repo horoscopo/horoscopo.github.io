@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 03 de julio 2017 al 09 de julio 2017 
-description: Horóscopo semanal cancer 03 de julio 2017 al 09 de julio 2017. Cada día que pasa te das más cuenta de que mereces cosas buenas cancer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: cancer 10 de julio 2017 al 16 de julio 2017 
+description: Horóscopo semanal cancer 10 de julio 2017 al 16 de julio 2017. Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: R4Kau8UfhvQ
+ video: _jqe5Bmnqsw
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-03'
+ lastmod: '2017-07-10'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas cancer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
 
-Abre los ojos de una vez cancer. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas cancer, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero cancer, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también cancer. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. cancer por favor, te tenían que tener en un altar… Y lo sabes…
-Tu intuición te guía hacia una oportunidad que transforma tu vida y que podría estar relacionada con tu trabajo o con cómo te ganas la vida. Si haces un esfuerzo constante, esta oportunidad puede volverse lucrativa en el futuro. Buscar el éxito instantáneo, sin embargo, puede que sea un error. La paciencia es clave. La Víspera de Año Nuevo podría ser el momento en el que decidas relajarte y divertirte al máximo. O quizá prefieras una actividad más romántica.
+Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo cancer… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Sagi, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Sagi. Lo vas a agradecer… Feliz semana.
+Es posible que no estés de acuerdo con otra persona. De ser así, la próxima semana te anima a dar pequeños pasos para resolver la situación. La tensión podría continuar de manera subyacente en los próximos días. Trata de encontrar cómo manejarla de forma positiva. Esto te dará la confianza que necesitas para resolver la situación de una vez por todas. La Luna Llena del 8 de julio podría traer sentimientos a la superficie, incluso aquellos que esperabas mantener en secreto. Esto puede ser un alivio y una liberación.
 
 ## Dinero
 
-Tus pensamientos e ideas pueden tornarse a la familia y la diversión por ahora, pero el Universo te está empujando a pensar en instituciones grandes como una forma de ganar dinero. Si tu dinero está en un banco pequeño o local, puede ser momento de darles a los bancos grandes una oportunidad. Mejores tarifas y opciones de ahorro significan más dinero para ti y tu clan.
+Tienes toneladas de nueva energía para darles una impresión positiva a todos los que conoces. Es un buen momento para programar una entrevista de trabajo o hacer presentaciones para hacerle más publicidad a tus productos y servicios. El Universo pone más atención en el romance, los niños y la familia. Mientras más utilices tu personalidad para impresionar a los demás, mejor será la situación financiera de la gente que realmente te importa.

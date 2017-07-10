@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 03 de julio 2017 al 09 de julio 2017 
-description: Horóscopo semanal geminis 03 de julio 2017 al 09 de julio 2017. Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+title: geminis 10 de julio 2017 al 16 de julio 2017 
+description: Horóscopo semanal geminis 10 de julio 2017 al 16 de julio 2017. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: A4MyBG0M8mc
+ video: FGCBNgsjdYc
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-03'
+ lastmod: '2017-07-10'
 ---
 
 
 
-## Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+## 
 
-A veces dejar ir las cosas es mucho más complicado de lo que piensas geminis. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad geminis, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres geminis. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero geminis, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. geminis, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
-Con el actual enfoque en tu sector doméstico y familiar, tal vez quieras dar un paso atrás en tu vida y disfrutar un poco de cuidado personal. Esto puede ser muy bueno para ti, ya que probablemente has tenido unas semanas muy agitadas y necesitas esta oportunidad de relajarte. Además, Mercurio se torna directo a mitad de semana, lo que te permite avanzar con cualquier proyecto que haya estado en segundo plano. Al mismo tiempo, una emocionante oportunidad podría presentarse.
+Es muy importante que eches la vista atrás geminis, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
+El enfoque de esta semana sigue siendo en diversión conforme el Sol y Mercurio entran a tu sector de recreación. Esta tendencia, que continuará por unas semanas, te motiva para explorar tus habilidades creativas. Esta puede ser una buena oportunidad para exhibir esas habilidades ante personas a las que les interesa lo que haces. Puede que sientas más vitalidad, energía y confianza. Esto resulta ideal si estás en busca de amor o quieres volver a encender la llama en tu relación actual.
 
 ## Dinero
 
-Estás pensando en cómo crear más oportunidades financieras en tu vida en este momento y tienes un gran grado de decisión para hacerlo. Tus relaciones serán cada vez más importante en el trabajo y en tu vida monetaria. Podrías percatarte de que abrirte a un compañero te ayuda a ponerte al mismo nivel financieramente hablando. Hay mucha suerte en tu sector de enseñanza y aprendizaje. Cualquiera de los dos te ayuda en tus objetivos.
+El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.

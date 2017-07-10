@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 03 de julio 2017 al 09 de julio 2017 
-description: Horóscopo semanal sagitario 03 de julio 2017 al 09 de julio 2017. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo sagitario.
+title: sagitario 10 de julio 2017 al 16 de julio 2017 
+description: Horóscopo semanal sagitario 10 de julio 2017 al 16 de julio 2017. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida sagitario, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: -CvoqmheYdc
+ video: P0RbePn1LHw
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-03'
+ lastmod: '2017-07-10'
 ---
 
 
 
-## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo sagitario.
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida sagitario, vuelve a brillar.
 
-No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse sagitario, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo sagitario, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
-Tal vez tengas ganas de experimentar con una dieta nueva y fresca de comidas orgánicas y productos cultivados en casa. El actual enfoque en tu sector de estilo de vida podría ser el catalizador para dejar la comida rápida y elegir algo más sabroso y saludable. Lo mismo aplica a otras actividades, también. Comenzar yoga o cualquier otra rutina de relajación podría ser más aconsejable que mirar televisión. De hecho, un nuevo comienzo más saludable podría estar en tu menú.
+Esta semana va a estar cargada de altibajos sagitario, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre sagitario, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza sagitario, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite sagitario, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
+Adoptar una actitud tranquila al lidiar con otras personas puede ayudarte a actuar con más fluidez esta semana. Podrías sentir una tendencia a querer controlar las acciones, y puede que a algunas personas les resulte difícil manejar esto, ya que prefieren decidir por sí solas. Si puedes darle a los demás un margen para que lleguen a sus propias conclusiones, puede que sus conocimientos te resulten muy útiles. También tendrás más posibilidades de atraer su apoyo. Alrededor de la Luna Llena del 8 de julio, puede que necesites tener mucho tacto. 
 
 ## Dinero
 
-Tu sector de carrera se expande y te das a notar esta semana. Hay una atmósfera de amor en el trabajo. Es seguro que encontrarás ideas creativas que fluyen. Mientras tanto, tienes la capacidad de construir sobre los éxitos del pasado, proporcionando un elenco de apoyo dispuesto a tomar la dirección en el trabajo. Si alguna vez hubo una semana en la que estuvieras a cargo, esa es esta. Haz conocer tus necesidades y los demás las realizarán.
+Es posible que te enfrentes al reto de hacer que ciertas relaciones personales funcionen, sobre todo en tu vida laboral y monetaria. Puede que alguien no esté cooperando ahora, pero si te mantienes con calma y diplomacia (no con estrés o confrontación), puedes establecer un maravilloso compromiso en el que todos ganen. Adopta una postura de negociación en todos los asuntos comerciales.

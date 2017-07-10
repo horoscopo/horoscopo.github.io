@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 03 de julio 2017 al 09 de julio 2017 
-description: Horóscopo semanal aries 03 de julio 2017 al 09 de julio 2017. 
+title: aries 10 de julio 2017 al 16 de julio 2017 
+description: Horóscopo semanal aries 10 de julio 2017 al 16 de julio 2017. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: t3Prqla41x8
+ video: R4cVwo2Z8_M
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-03'
+ lastmod: '2017-07-10'
 ---
 
 
 
-## 
+## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 
-Nunca te has arrepentido de nada aries, para bien o para mal la vida te ha dado lecciones en las que no te ha quedado más remedio que aprender. Estás en una fase en la que tus pensamientos se vuelven a pelear entre ellos. Lo que deberías hacer, lo que quieres hacer, lo que el mundo espera que hagas… Otra vez. Piensa antes de nada en lo que vas a perder antes de actuar y de tomar una decisión, pero tampoco busques hasta la más mínima excusa para no hacerlo. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos aries. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad. Métete en la cabeza que puedes hacer absolutamente todo lo que te propongas solo, sin necesidad de que nadie te nuble el juicio, sin necesidad de que nadie te vuelva loco. La vida va a empezar a enseñarte quien merece la pena, quién no merece que se acerque a ti más de cinco minutos al día y quien no merece que se acerque nunca. Pero primero eres tú, en eso es en lo que tienes que trabajar más, en valorarte a ti mismo, en confiar en ti, en tus instintos, en tus objetivos, en saber que lo que hagas saldrá bien, de verdad. Tú no necesitas ejemplos de nadie, cada uno vive su vida como le apetece y si a alguien no le salieron las cosas como esperaba no significa que a ti no te vayan a salir, deja el miedo a un lado y sobretodo la dependencia emocional. Aunque sea una dependencia mínima. Vuelve a ser la persona que siempre has sido.
-La Luna Nueva de lunes podría iniciar una revolución en tu sector financiero, animándote a administrar tu dinero de manera más eficiente. Durante el resto de la semana, las conversaciones y las oportunidades que se pongan en tu camino podrían abrirte puertas que te ayuden a ganar más. El potencial para aumentar tus ingresos sin duda está presente. Sólo tienes que estar alerta para aprovecharlo mientras puedas. Si tienes disposición a invertir un poco más de esfuerzo, podrías obtener grandes resultados.
+Eres demasiado honesto con el resto aries y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Capri, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+La Luna Llena del lunes podría coincidir con un proyecto que ha llegado a la etapa de finalización. Podría ser momento de dejarlo ir y pasar a algo nuevo. Evita pasar tiempo con personas que se quejan todo el tiempo. Mantente cerca de aquellas personas que son alegres y tu semana tendrá un excelente comienzo. También deberías esperar lo inesperado, ya que podrías descubrir que una información o invitación hace una gran diferencia para ti.
 
 ## Dinero
 
-A veces puedes  ser muy conformista, y esta semana, podrías tener todo lo necesario para seguir siéndolo. Una nueva energía inunda tu casa del dinero y los valores, facilitando una especia de pausa para ti. En este momento de paz, podrías estar preguntándote que es lo que harías y no harías por dinero y cuánto tiempo más de descanso necesitas para mantenerte sano/a y productivo/a. Esto será muy sano para ti a la larga.
+Ciertos aspectos en tu sector de dinero y valores te dan mucho espacio para crecer esta semana. El desafío se presenta debido a que no siempre se siente fácil hacerlo, pero por lo general el esfuerzo obtiene resultados. Se te está empujando a ser más social ahora, considera el autoempleo como una forma de ganar más dinero y piensa cómo utilizar las políticas de oficina para tu ventaja.

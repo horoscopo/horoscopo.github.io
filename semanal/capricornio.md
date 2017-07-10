@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 03 de julio 2017 al 09 de julio 2017 
-description: Horóscopo semanal capricornio 03 de julio 2017 al 09 de julio 2017. Fuera las preocupaciones. Tira del carro capricornio, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+title: capricornio 10 de julio 2017 al 16 de julio 2017 
+description: Horóscopo semanal capricornio 10 de julio 2017 al 16 de julio 2017. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: SLGv7ssmBzE
+ video: wZmjyPsovvE
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-03'
+ lastmod: '2017-07-10'
 ---
 
 
 
-## Fuera las preocupaciones. Tira del carro capricornio, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 
-
-Todo se está acomodando de tal manera para que te ganes una buena reputación o mejores tu posición si te dispones a moverte por los canales adecuados. Si te enfocas en lograr tus objetivos y alcanzar el éxito, serás el centro de atención dentro de poco, si es que ya no lo eres. Debido a la entrada de Venus a un sector más alejado de tu carta astral, es posible que reevalúes tu relación intrapersonal además de tu propósito y misión en la vida.
+Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte capricornio, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo capricornio, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande capricornio pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+Podrías llegar a ser el centro de atención durante las próximas semanas, cuando un enfoque en el sector superior de tu carta astral te lleva a exhibir tus talentos y habilidades. Ahora tienes la oportunidad de impresionar a tu superior o alguien con autoridad y quizás conseguir un merecido ascenso. Todo depende de prestarle atención a los detalles y cumplir con tus responsabilidades al pie de la letra. Pero evita involucrarte en muchas cosas al mismo tiempo, ya que podrías intentar abarcar demasiado.
 
 ## Dinero
 
-Eres alguien poco convencional ahora al traerle una ola repentina de genialidad a ciertos acontecimientos. El Universo le envía vibraciones de suerte a tu sector de efectivo y valores. Ahora te llegan oportunidades para mayor número de horas, mejores salarios y proyectos más deseables, al igual que la posibilidad de disfrutar de lo que haces para ganarte la vida. Es un momento muy bueno en general.
+Los asuntos laborales y las figuras de autoridad se ponen de relieve esta semana. Si deseas el mismo tipo de respeto, dinero en efectivo y disfrutar de la admiración de tus ídolos, tendrás que invertir tiempo y trabajar para llamar su atención con tus ideas. Mientras tanto, cuida tu forma de vestir y expresarte en el mundo. Mientras que ciertas personas te perciben de una manera, sientes tentación a tomar un nuevo camino para mantenerles adivinando.

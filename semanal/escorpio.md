@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 03 de julio 2017 al 09 de julio 2017 
-description: Horóscopo semanal escorpio 03 de julio 2017 al 09 de julio 2017. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: escorpio 10 de julio 2017 al 16 de julio 2017 
+description: Horóscopo semanal escorpio 10 de julio 2017 al 16 de julio 2017. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: N6hrq3ySHyM
+ video: PWyqjzEsR3c
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-03'
+ lastmod: '2017-07-10'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 
-Tienes que empezar a vivir de nuevo Capri, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad Capri, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
-Puede que haya ciertos aspectos de tu vida diaria en los que te esfuerzas demasiado para lograr algo. Esta tendencia podría hacerte sentir un poco impaciente con un plan o proyecto que parece estar perdiendo fuerza. Para que todo salga bien, el truco es dar un paso atrás y dejarte llevar por la corriente por un tiempo. Si puedes hacerlo, puede que tengas ideas nuevas y creativas que te permiten trabajar para avanzar con satisfacción.
+No sueles dar la llave de tu corazón a nadie escorpio, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia escorpio, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana escorpio.
+A medida que Mercurio conecta con Júpiter en tu sector social, puede que quieras intentar una nueva experiencia para ver cómo te sientes, en especial si también puedes incluir a tus amistades. Sin embargo, otra influencia sugiere que, si piensas demasiado en esto, puede que termines en un estado de parálisis analítica y que no llegues a ninguna parte. Pedirle consejos a una amistad o pesar las ventajas y desventajas puede ayudarte a tomar una decisión más fácilmente. Al fin y al cabo, ¿qué tienes que perder?  
 
 ## Dinero
 
-Esta semana se trata de alguien que conoces probablemente dirigiéndote a un mal camino o distrayéndote mucho de tus metas monetarias o laborales dificultando tu balance. No puedes evitar ser irresistible, pero bien puedes utilizar la energía del Universo a mitad de semana. Tu atención debe estar en la eliminación de viejas deudas.
+Esta semana, trata de no dejarte absorber demasiado en tus propios puntos de vista o enervarte neciamente para poder salirte con la tuya. Si lo haces, es probable que no suceda. En vez, estudia tus relaciones, especialmente con tus amigos cercanos, pareja y compañeros de trabajo para ver cómo pueden beneficiarse mutuamente.
