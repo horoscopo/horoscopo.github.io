@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de julio 2017
-description: Horóscopos del dia de hoy 12 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de julio 2017
+description: Horóscopos del dia de hoy 13 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Las personas suelen malinterpretar las cosas cuando la Luna cuadra a Neptuno. ¿La clave? Evita pensar que tus instintos están en lo correcto, porque puede que simplemente no lo estén. La Luna aspectando al impredecible Urano disminuye las posibilidades de que haya tranquilidad esta noche. La buena noticia, es posible estar en desacuerdo, reconciliarse y olvidarse del porqué unos minutos más tarde.
+Si sientes que tienes razón, mantente firme y ponle fin a ese viejo y molesto problema. Una decisión tomada mientras la Luna forma sextil con Saturno es basada en razonamiento sano. Ten un plan alterno esta noche cuando la gente cambie los acuerdos en el último minuto. En este sentido, los ajustes tienen un resultado positivo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
