@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 10 de julio 2017 al 16 de julio 2017 
-description: Horóscopo semanal capricornio 10 de julio 2017 al 16 de julio 2017. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: capricornio 17 de julio 2017 al 23 de julio 2017 
+description: Horóscopo semanal capricornio 17 de julio 2017 al 23 de julio 2017. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: wZmjyPsovvE
+ video: Vdguxo2uqv8
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-10'
+ lastmod: '2017-07-17'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte capricornio, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo capricornio, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande capricornio pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
-Podrías llegar a ser el centro de atención durante las próximas semanas, cuando un enfoque en el sector superior de tu carta astral te lleva a exhibir tus talentos y habilidades. Ahora tienes la oportunidad de impresionar a tu superior o alguien con autoridad y quizás conseguir un merecido ascenso. Todo depende de prestarle atención a los detalles y cumplir con tus responsabilidades al pie de la letra. Pero evita involucrarte en muchas cosas al mismo tiempo, ya que podrías intentar abarcar demasiado.
+Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo capricornio, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no capricornio, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
+Puede que sientas mucha empatía por las demás personas una vez que la semana se pone en marcha, y esto podría tener un impacto positivo en el crecimiento de ciertas relaciones. Pero tener demasiada compasión puede que no siempre resulte a tu favor, y hay momentos en los que puede hasta ser inapropiado, como en el lugar de trabajo. Si no sabes qué hacer, no dudes en pedir ayuda. La Luna Nueva en este mismo sector ofrece la posibilidad de comenzar de nuevo con respecto a una oportunidad o una relación.
 
 ## Dinero
 
-Los asuntos laborales y las figuras de autoridad se ponen de relieve esta semana. Si deseas el mismo tipo de respeto, dinero en efectivo y disfrutar de la admiración de tus ídolos, tendrás que invertir tiempo y trabajar para llamar su atención con tus ideas. Mientras tanto, cuida tu forma de vestir y expresarte en el mundo. Mientras que ciertas personas te perciben de una manera, sientes tentación a tomar un nuevo camino para mantenerles adivinando.
+Tienes actividad en tu sector de dinero y valores. Podría significar fortuna extrema que podría ya ser inestable o de corta duración. Si eres del tipo que arriesga, no es una mala semana para darle un giro a la rueda de la ruleta, pero guárdate la mitad de lo que ganes en el bolsillo - y no lo toques. Debido a que tu sector  de relaciones se ve afectado, puedes irritar a alguien si no tienes el suficiente cuidado.

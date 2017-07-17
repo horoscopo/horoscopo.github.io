@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 10 de julio 2017 al 16 de julio 2017 
-description: Horóscopo semanal geminis 10 de julio 2017 al 16 de julio 2017. 
+title: geminis 17 de julio 2017 al 23 de julio 2017 
+description: Horóscopo semanal geminis 17 de julio 2017 al 23 de julio 2017. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: FGCBNgsjdYc
+ video: NDI2xkg7OR8
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-10'
+ lastmod: '2017-07-17'
 ---
 
 
 
-## 
+## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 
-Es muy importante que eches la vista atrás geminis, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
-El enfoque de esta semana sigue siendo en diversión conforme el Sol y Mercurio entran a tu sector de recreación. Esta tendencia, que continuará por unas semanas, te motiva para explorar tus habilidades creativas. Esta puede ser una buena oportunidad para exhibir esas habilidades ante personas a las que les interesa lo que haces. Puede que sientas más vitalidad, energía y confianza. Esto resulta ideal si estás en busca de amor o quieres volver a encender la llama en tu relación actual.
+La zona de confort es un sitio bonito geminis, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más geminis, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto geminis, y tú mismo te lo notas, no la cagues por nada ni por nadie.
+Una combinación impulsiva de energías te lleva a unir fuerzas con una persona cuando en realidad sería más prudente que te tomes el tiempo para conocerla mejor. Saturno forma parte de esta alineación, por lo que es sensato contenerte un poco y pensar si estás haciendo lo correcto. Todo lo que estás aprendiendo ahora podría tener una influencia productiva en tu vida en las semanas y los meses por venir. Y con Urano acercándose a Aries, puede que tus acciones sean un poco más medidas.
 
 ## Dinero
 
-El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.
+Esta semana, el Universo pone de relieve tu sector de amistades, compañeros y otras relaciones serias. Algo que reciente se formó es cada vez más serio. Esta podría ser una unión comercial mutuamente beneficiosa o incluso una asociación o fusión entre tu empresa y otro negocio. Puede que no se mueva tan rápido como te gustaría, pero es algo genial a largo plazo. Busca nuevas oportunidades en lo desconocido o en un campo completamente original.

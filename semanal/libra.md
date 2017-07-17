@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 10 de julio 2017 al 16 de julio 2017 
-description: Horóscopo semanal libra 10 de julio 2017 al 16 de julio 2017. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar libra. 
+title: libra 17 de julio 2017 al 23 de julio 2017 
+description: Horóscopo semanal libra 17 de julio 2017 al 23 de julio 2017. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: GEZaCX0Dag0
+ video: 2UD_d1zoG5A
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-10'
+ lastmod: '2017-07-17'
 ---
 
 
 
-## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar libra. 
+## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 
-Te van a echar de menos libra, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio libra, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
-Ciertas creencias podrían ser muy tentadoras, y puede que tengas ganas de explorarlas. Puede que incluso quieras viajar para hacerlo. O quizá sueñes con playas exóticas y hermosos lugares donde puedas relajarte en la arena y descansar. En la segunda mitad de la semana puede que vuelvas a la realidad, especialmente si estás teniendo problemas con cierta persona. Si es así, puede que sea hora de que te pongas firme y digas lo que piensas.
+Has caído en la rutina libra, quieres pelear por personas que quizás no tengan mucho en común contigo pero aún así, te sigues aferrando a algo que quizás tenga fecha de caducidad. Necesitas hablar, conversar, pero un largo tiempo y de verdad poner todas y cada una de las cartas sobre la mesa. Te guardas demasiado para ti, para dentro, y por más que intentas sacarlo es como si algo te lo impidiera. Esta semana es buena para hacer balance de lo que quieres, de lo que buscas y de lo que necesitas. No vas a parar, tienes muchas cosas que hacer y eso será lo que te aleje de algunos problemas. Pero cuando eso que hagas se acabe, el problema seguirá estando presente, seguirá en el mismo sitio donde lo dejaste, y como no lo soluciones permanecerá ahí todo el tiempo. No te agobies y respira hondo cuando algo se ponga difícil. De todo se sale libra, ya lo sabes. Las pequeñas cosas cuentan mucho ahora así que, empieza a decir que “si” a cualquier plan que te propongan, por pequeño que sea. Si quieres salvar algo, habla libra, habla y saca de una vez todo ese universo de sentimientos y de emociones que tienes dentro. Como no seas claro de verdad y sólo tragues y tragues, todo va a salir mal. Disfruta esta semana pero aclárate un poco…
+Ten cuidado con lo que dices, en especial el lunes, ya que podría ser demasiado fácil irritarte por asuntos menores. Los sentimientos podrían llegar a su punto máximo. Cualquier irritabilidad se canalizará mejor a través del ejercicio o de una caminata tranquila en la naturaleza. Prueba con un masaje, un tratamiento de spa o cualquier cosa que te ayude a relajarte. Cerca del jueves, prepárate para algunas noticias o tal vez una invitación que podría significar un viaje o aprender más sobre un asunto de interés.
 
 ## Dinero
 
-Estás mejorando tu vida financiera haciendo grandes avances en tu carrera. Estás cambiando la forma en que haces tu trabajo y haciendo planes para el futuro. Si deseas avanzar con rapidez en este ámbito, date como voluntario/a para representar más a tu organización. Al dar discursos y presentaciones, vences el miedo a hablar en público y avanzas en tu propia causa. Tu ambición no puede ser igualada. Crea heno mientras el Sol brilla.
+Te estás preparando para hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Una energía madura y  sensible entra a tu sector del trabajo. Mientras más puedas aprender a aceptar las responsabilidades y demostrar que los demás pueden contar contigo, más recompensa económica vendrá. No te alejes de lo que podría hacerte avanzar potencialmente.

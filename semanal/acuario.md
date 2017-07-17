@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 10 de julio 2017 al 16 de julio 2017 
-description: Horóscopo semanal acuario 10 de julio 2017 al 16 de julio 2017. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca acuario.
+title: acuario 17 de julio 2017 al 23 de julio 2017 
+description: Horóscopo semanal acuario 17 de julio 2017 al 23 de julio 2017. A veces sientes como si no avanzaras acuario, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: XBgVOFhEKZQ
+ video: nSfeNRoCpco
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-10'
+ lastmod: '2017-07-17'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca acuario.
+## A veces sientes como si no avanzaras acuario, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 
-Al final, sólo te lamentarás de las posibilidades que no tomaste acuario así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo acuario. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
-Como eres una persona muy sensible ante los sentimientos, esta semana podría, a veces, resultar agobiante. Con la potente Luna Llena en Escorpión a mitad de semana, podría parecer que todo el mundo está atravesando alguna especie de crisis, y esperan que estés ahí para apoyarles. Sin embargo, un incómodo aspecto entre Marte y Neptuno sugiere que deberías andarte con cuidado. Este es un momento en el que tal vez no todo lo que brilla es oro. Observa los hechos, ya que estos pueden ser tu guía cuando las cosas parecen muy confusas.
+Disfruta de la vida acuario, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven acuario. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana acuario.
+Esta semana podrían centrarse en negociación y comunicación. Tal parece que podrías tener involucramiento en reuniones y discusiones de diferentes grados de importancia. Mercurio retrocede en esta misma zona, así que ten cuidado con la firma de acuerdos o contratos importantes en este momento. Si puedes esperar hasta que Mercurio se torne directo, en aproximadamente tres semanas, las cosas deberían avanzar más suavemente. Además, debido al Eclipse Solar en este sector, no te sorprendas si una inesperada oportunidad cambia tu vida de alguna manera.
 
 ## Dinero
 
-Es un momento difícil para ti. El cielo es el límite cuando se trata de tu sector de sentimientos internos. Si has estado anhelando un descanso de la oficina, trabajar desde tu hogar puede proporcionar la paz y la tranquilidad que necesitas para alcanzar un nivel aún más productivo. ¿Quién sabe? Puede que encuentres la manera de que esto funcione con tus jefes a largo plazo.
+Ahora, más que nunca tienes más posibilidades que nunca de ganar más dinero. Las oportunidades pueden venir de las mujeres en particular, por lo que ten disposición a aprovecharte de ellas. Mientras te encuentras convirtiendo estas posibilidades en oro, piensa en cómo reducir el gasto en el sector de la familia. Recorta de nuevo gastos innecesarios que hacen una gran diferencia en el mundo. Podrías usar tus ahorros para unas fabulosas vacaciones en el futuro cercano si tienes cuidado.

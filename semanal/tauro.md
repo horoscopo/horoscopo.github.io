@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 10 de julio 2017 al 16 de julio 2017 
-description: Horóscopo semanal tauro 10 de julio 2017 al 16 de julio 2017. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado tauro, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+title: tauro 17 de julio 2017 al 23 de julio 2017 
+description: Horóscopo semanal tauro 17 de julio 2017 al 23 de julio 2017. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: 5e8HxfoEkls
+ video: nl0PRCIUry4
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-10'
+ lastmod: '2017-07-17'
 ---
 
 
 
-## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado tauro, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 
-Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás tauro. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta tauro, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea tauro, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones tauro, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas tauro, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
-Las próximas semanas traen la oportunidad para que aclares tus intenciones con respecto a una meta o un plan profesional. Esto podría resultar necesario si estás teniendo problemas con un miembro de tu familia que podría no estar de acuerdo con tus ideas. Sin embargo, la forma en la que te enfrentes a este problema puede ser muy importante. Puede que te des cuenta de que explicar bien tus intenciones es suficiente para hacerlos sentir mejor. Una conducta tranquila y comprensiva tiene mejores resultados que involucrarte en una discusión, lo que no llevaría a ningún lado. 
+No estás mal con lo que tienes no, pero ya no eres el mismo que antes tauro. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala tauro, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Sagi. Si quieres cambiar algo es porque no estás satisfecho del todo Sagi, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+Un deseo dinámico de cambio se viene desarrollando hace tiempo. Esta semana podría alcanzar un punto crítico y puede que debas entrar en acción. Si una oportunidad se cruza en tu camino, no dudes en aprovecharla. Aunque no sientas que es el momento de adoptar un nuevo modo de vida, ¡anímate! Adquirirás experiencia a medida que avanzas. Al mismo tiempo, puede que decidas alejarte de una relación para comprender mejor tus motivos.
 
 ## Dinero
 
-Con un aspecto positivo afectando a tu sector de las instituciones, estás disfrutando de los frutos de tu trabajo en tu profesión. Aunque puede sentirse como si las cosas se estuvieran desacelerando en ese sector, se te ofrece un breve período para que puedas descansar en tus laureles. Podrías darte cuenta de que hacer negocios con grandes jugadores se convierte en una opción para ti de repente, ¡ya que estas a la altura!
+Esta semana podrías estar pensando en nuevas formas de ganar dinero desde la comodidad de tu hogar. Ya sea que estés planeando el construir una oficina, el comprar un estudio y dividirlo en habitación casa/trabajo o que comiences a redecorar tu casa, aquí es dónde esta el dinero. Pero podrías no estar pensando en tus deudas tanto como lo necesitas. Date el tiempo de revisar los documentos necesarios antes de firmar o comprometerte a algo.

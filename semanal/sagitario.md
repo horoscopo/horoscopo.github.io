@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 10 de julio 2017 al 16 de julio 2017 
-description: Horóscopo semanal sagitario 10 de julio 2017 al 16 de julio 2017. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida sagitario, vuelve a brillar.
+title: sagitario 17 de julio 2017 al 23 de julio 2017 
+description: Horóscopo semanal sagitario 17 de julio 2017 al 23 de julio 2017. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: P0RbePn1LHw
+ video: vOXaXnV09sg
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-10'
+ lastmod: '2017-07-17'
 ---
 
 
 
-## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida sagitario, vuelve a brillar.
+## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
 
-Esta semana va a estar cargada de altibajos sagitario, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre sagitario, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza sagitario, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite sagitario, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
-Adoptar una actitud tranquila al lidiar con otras personas puede ayudarte a actuar con más fluidez esta semana. Podrías sentir una tendencia a querer controlar las acciones, y puede que a algunas personas les resulte difícil manejar esto, ya que prefieren decidir por sí solas. Si puedes darle a los demás un margen para que lleguen a sus propias conclusiones, puede que sus conocimientos te resulten muy útiles. También tendrás más posibilidades de atraer su apoyo. Alrededor de la Luna Llena del 8 de julio, puede que necesites tener mucho tacto. 
+Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa sagitario, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
+Puede que las cuestiones monetarias necesiten atención esta semana. Podrías beneficiarte manejando con cuidado a aquellas personas que tienen autoridad sobre los asuntos financieros, incluso si tienes ganas de expresar tu honestidad al máximo. Con Venus moviéndose hacia tu sector de relaciones, es probable que naturalmente aumente tu diplomacia y esto puede ser de gran ayuda en cualquier negociación. Ve con cuidado alrededor de la Luna Llena del 8 de julio. Incluso si has tenido cuidado con tus gastos, puede que de pronto decidas despilfarrar el dinero.
 
 ## Dinero
 
-Es posible que te enfrentes al reto de hacer que ciertas relaciones personales funcionen, sobre todo en tu vida laboral y monetaria. Puede que alguien no esté cooperando ahora, pero si te mantienes con calma y diplomacia (no con estrés o confrontación), puedes establecer un maravilloso compromiso en el que todos ganen. Adopta una postura de negociación en todos los asuntos comerciales.
+Para ti, esta semana es sobre la necesidad imperiosa de comunicar tu experiencia al escribir, enviar mensajes de texto, enviar correos electrónicos o para hablar. Todos estos esfuerzos pueden dar dinero en efectivo en el futuro. Pero esta semana, un fuerte campo de energía requiere que cuides de los problemas en el trabajo. Tu trabajo puede estar pasando por enormes cambios ahora. El luchar contra ellos, o decidir abandonar el barco no dará los resultados que buscas. Ve con los cambios lo mejor que puedas.

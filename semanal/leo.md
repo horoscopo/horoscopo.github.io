@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 10 de julio 2017 al 16 de julio 2017 
-description: Horóscopo semanal leo 10 de julio 2017 al 16 de julio 2017. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+title: leo 17 de julio 2017 al 23 de julio 2017 
+description: Horóscopo semanal leo 17 de julio 2017 al 23 de julio 2017. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro leo.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: CqnyvfKGlEw
+ video: ubwVLZCVm3M
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-10'
+ lastmod: '2017-07-17'
 ---
 
 
 
-## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro leo.
 
-Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real leo, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Capri. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría leo, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
-Podría haber tensiones esta semana, particularmente con Marte enfrentándose a Plutón en los próximos días, lo cual puede coincidir con algunas batallas para obtener el control. Esta mezcla de energías también es una señal para que escuches lo que los demás tienen qué decir y llegar a un acuerdo cuando sea necesario. Si tú eres quien ha estado tomando todas las decisiones, es posible que a las demás personas les moleste. Si quieres estimular relaciones positivas, el contexto celestial sugiere que la forma de hacerlo es mediante la buena comunicación y los intercambios continuos de ideas.
+Y de repente cambias leo, y nadie lo entiende. Pues sí, de vez en cuando hasta tu cuerpo te pide dar un giro que, aunque no sea del todo radical si te permita cerrar algunos asuntos pendientes que parecía que no iban a llegar nunca. Hay personas que no lo entienden, que piensan cómo es posible que llevaras un camino tan inestable en tu vida y de repente la enderezaras para tomar otro rumbo diferente… Pues sí, no eres imbécil, y sabes que si algo no te conviene, no te conviene, y aunque te des cuenta tarde, lo importante es que sabes corregirlo. La cuestión es que los que estaban a tu alrededor y creían conocerte se echan las manos a la cabeza y piensan cómo puede ser que de repente hagas todo lo contrario a lo que parecía que ibas a hacer. Pues es sencillo, porque todo tiene un límite, y por mucha paciencia que leo pueda tener, lo siento, también tiene amor propio, que a veces no saca, que a veces parece que está escondido, pero lo tiene, aunque a muchos les joda y les fastidie sus planes. Ya te han hecho daño, y estuviste solo, y te sentiste más inseguro que nunca, y el mundo parecía romperse en dos, y ahí nada importaba pero ahora, ahora es todo diferente. Ahora sólo darás tu mejor cara, la buena, la dialogante, la amable, a quien se lo merece. Porque antes lo entregabas todo aunque nadie te lo pidiese, y te quedaste muchas veces sin nada, pero te daba igual, porque eras leal a tu palabra leo, pero ahora ya sólo quieres ser leal a ti mismo. Sigue así, de verdad, no hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+A medida que el Sol entra a tu sector de finanzas compartidas, puede ser una oportunidad para evaluar tu situación económica. Simplemente echar un vistazo y analizar qué funciona y qué no podría alentarte a elaborar un plan de acción. Al mismo tiempo, pensar en lugares lejanos y en visitar un lugar soleado sugiere que podrías prepararte para tomarte unas vacaciones. Puede que te parezca imposible cuando piensas en todo el trabajo que tienes, ¿pero lo es realmente?
 
 ## Dinero
 
-Podrías llegar a tener sueños extraños y flashes psíquicos esta semana debido a los aspectos particulares de tu carta. Lo maternal, el hogar y las emociones internas son lo más afectado. ¿Estás pensando en tener o adoptar a un ser bajo tu alá (las mascotas cuentan también)? La adopción de una nueva compañía puede costar un poco, pero todos los placeres que tal ofrece hacen que valga la pena al final.
+Gran parte de la energía celeste indica que alguien o algo del pasado volverá para que puedas lidiar con ello de una vez por todas. Por otra parte, tu sector de trabajo por cuenta propia y de grupos sociales está resaltado. Conectar con gente con quién hayas perdido contacto puede conducirte a más dinero en el futuro.
