@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de julio 2017
-description: Horóscopos del dia de hoy 18 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 20 de julio 2017
+description: Horóscopos del dia de hoy 20 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Hoy es un día para relajarse. Deja de lado las responsabilidades, déjate llevar y disfruta. Algo espontáneo ocurre cuando menos te lo esperas. Por la noche, continúa siendo libre bajo la que está a punto de ser Luna en Acuario, cuando el individualismo es la regla. Actúa acorde. Los solteros experimentan amistad y una sincera comunicación con alguien muy interesante.
+Hoy, el Universo se suaviza con emoción y las relaciones florecer cuando la Luna en Tauro forma sextil con Neptuno. Solteros, no hay misterio, es más bien química cuando Venus también aspecta a Neptuno. Las parejas deberían aprovechar esta energía cósmica y hablar sobre sus sueños. Crear imágenes del futuro es muy tranquilizador, ¿cierto?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
