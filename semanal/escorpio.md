@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 17 de julio 2017 al 23 de julio 2017 
-description: Horóscopo semanal escorpio 17 de julio 2017 al 23 de julio 2017. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad escorpio, ahora estás que lo partes.
+title: escorpio 24 de julio 2017 al 30 de julio 2017 
+description: Horóscopo semanal escorpio 24 de julio 2017 al 30 de julio 2017. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: FSnfvyT5DZo
+ video: ZIkoOlxqsYY
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-17'
+ lastmod: '2017-07-24'
 ---
 
 
 
-## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad escorpio, ahora estás que lo partes.
+## 
 
-Hace mucho tiempo que no te das un buen capricho escorpio, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes escorpio. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
-Quieres moverte con libertad, hacer lo que quieras cuando quieras y donde quieras. Y con la entrada del Sol a Sagitario, tienes la oportunidad para hacerlo. Si puedes juntar tus ganas de viajar con un trabajo o un proyecto de investigación, es posible que puedas combinar las dos opciones. Una influencia muy optimista puede hacer que avances hacia donde querías ir. Si lo haces, existe la posibilidad de que tu vida cambie de forma positiva.
+Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capri, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
+Con la entrada de Marte a lo más profundo de tu sector de viajes y aventura, este puede ser un momento emocionante para ti. La necesidad de explorar nuevas opciones podría ser muy fuerte. Puede que tengas una actitud dinámica para planificar tus viajes, inscribirte a clases y salir de tu zona de confort. Pero es posible que tengas que tener cuidado con tu dinero, ya que las demoras pueden obstaculizar el flujo de efectivo. Sin embargo, puede que seas demasiado prudente. En cuyo caso, te vendría bien ser más flexible.
 
 ## Dinero
 
-Cuando alguien quiere saber cómo establecer una red en conjunto, acude a ti. Entiendes a un nivel muy profundo cómo trabajar con otros para beneficiar a todos los involucrados. Ahora tendrás todo el apoyo que necesitas para atraer más dinero a través del uso de tus conocimientos, al completar un plan de negocios, o al buscar inversionistas formales. No tengas timidez. Pide lo que necesitas.
+A veces puedes tener demasiada timidez para la confrontación. Es posible que ésta semana sientas aún más preocupación por llevarte bien con todos. Tu situación financiera florece positivamente. Con tanta energía concentrada allí, estás logrando todo tipo de avances en la obtención de ingresos, el pago de deudas,  y el ahorro. Ves que es más valioso compartir momentos de amor con tus hijos y miembros de tu familia que gastar.

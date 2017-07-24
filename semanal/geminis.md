@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 17 de julio 2017 al 23 de julio 2017 
-description: Horóscopo semanal geminis 17 de julio 2017 al 23 de julio 2017. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+title: geminis 24 de julio 2017 al 30 de julio 2017 
+description: Horóscopo semanal geminis 24 de julio 2017 al 30 de julio 2017. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: NDI2xkg7OR8
+ video: LkfVbO1JVrQ
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-17'
+ lastmod: '2017-07-24'
 ---
 
 
 
-## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+## Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 
-La zona de confort es un sitio bonito geminis, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más geminis, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto geminis, y tú mismo te lo notas, no la cagues por nada ni por nadie.
-Una combinación impulsiva de energías te lleva a unir fuerzas con una persona cuando en realidad sería más prudente que te tomes el tiempo para conocerla mejor. Saturno forma parte de esta alineación, por lo que es sensato contenerte un poco y pensar si estás haciendo lo correcto. Todo lo que estás aprendiendo ahora podría tener una influencia productiva en tu vida en las semanas y los meses por venir. Y con Urano acercándose a Aries, puede que tus acciones sean un poco más medidas.
+Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme. Pero tranquilo, porque por otro lado vas a tener otras cosas nuevas que hacer que te mantendrán ocupado y sobretodo con ilusión. No permitas que ningún tercero se meta en tu vida y quiera dirigirla a su antojo. Puedes tener problemas con personas que te importan de verdad por esto. Tendrás que aprender a separar. Se avecina un drama que tú no has creado, es más, tu huyes de todo eso pero te va a salpicar. Aprende a respirar y a dejar ir pero ojo, no eres ningún imbécil, si tienes que saltar y que dar la cara por algo hazlo, y si tienes que pelear hazlo también. Hay personas que no sólo no se conforman con molestar si no que además buscan bronca. Tu ignora Sagi pero deja clarito todo. Si pasas una al final tendrás que pasar más. Pueden aprovecharse… Tendrás momentos maravillosos que harán que el tiempo se te pare pero también otros peores (y no creados por ti) en los que tendrás que rogarte a ti mismo no derramar ni una sola lágrima y decirte “se fuerte”. Feliz semana geminis.
+Una animada influencia puede indicar una alegre etapa en el plano doméstico, donde las celebraciones y reuniones pueden ser muy divertidas. Podrías sentir deseos de darte algunos gustos y cuidarte un poco, lo que puede ser muy bueno para ti. Trata de evitar involucrarte en conflictos sin importancia, ya que no conseguirás nada con ellos. Con respecto a tu carrera y ambiciones clave, una oportunidad inesperada podría abrirle la puerta a una nueva visión desconcertante que podría resultar beneficiosa si la aceptas.  
 
 ## Dinero
 
-Esta semana, el Universo pone de relieve tu sector de amistades, compañeros y otras relaciones serias. Algo que reciente se formó es cada vez más serio. Esta podría ser una unión comercial mutuamente beneficiosa o incluso una asociación o fusión entre tu empresa y otro negocio. Puede que no se mueva tan rápido como te gustaría, pero es algo genial a largo plazo. Busca nuevas oportunidades en lo desconocido o en un campo completamente original.
+Esta semana tienes una gran cantidad de impulso para atraer más dinero. No es sólo que tu ambición esta saliendo a la superficie. Es también la manera positiva en como te ven los demás como la persona exitosa que está en proceso de crecimiento. Podría haber cierta tensión con compañeros de trabajo o conocidos. Asegúrate de no apostar demasiado.

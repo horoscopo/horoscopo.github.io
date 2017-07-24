@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 17 de julio 2017 al 23 de julio 2017 
-description: Horóscopo semanal cancer 17 de julio 2017 al 23 de julio 2017. Eleva tu ego cancer, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
+title: cancer 24 de julio 2017 al 30 de julio 2017 
+description: Horóscopo semanal cancer 24 de julio 2017 al 30 de julio 2017. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: PKcmgugk2s4
+ video: OSkXPlpitGc
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-17'
+ lastmod: '2017-07-24'
 ---
 
 
 
-## Eleva tu ego cancer, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
+## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 
-Tómate un minuto par ti cancer, tómate un minuto para dar gracias por lo que tienes, por la gente que está a tu lado, por todas esas situaciones de las que al final has salido airoso, por tener la vida que tienes, porque al final, todo acaba por salir bien. Eso es lo que necesitas para despegar con fuerza, con una fuerza que a veces escasea… Tienes que pararte a pensar que todo pasa por alguna razón pero que también de todo se sale. Que sólo son lecciones y no errores. Que no pierdes, al revés, aprendes. La vida te ha puesto al límite en muchas ocasiones pero has sabido reaccionar en el último momento aunque no pudieras más, aunque TÚ creyeras que no podías más… Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas. Y te levantarás, y volverás a pelear y a darlo todo. Exprésate con los tuyos cancer, no te guardes sentimientos ni emociones, llora si tienes que hacerlo, y di más “te quiero”, la vida es muy corta y sólo tenemos asegurados el hoy. Siempre hay algo por lo que estar agradecido. Quédate sólo con eso, y sé feliz…
-La semana que se aproxima tiene algunas cualidades muy sociables, y mientras más te concentres en organizar actividades y conectar con los demás, más divertido puede ser. Sin embargo, puede que notes un poco de resistencia en una persona con autoridad, y esto podría generar una discusión sobre un problema clave. Una actitud tentativa podría abrir el camino para que lleguen a un punto medio que les sirva a ambas partes. En cuanto a dinero, puede que veas una oportunidad para que tu efectivo fluya más.
+La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante cancer, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+Si tienes honestidad, es posible que tengas que admitir que alguien cercano te está poniendo los nervios de punta, pero con Venus entrando a tu sector de relaciones el martes, puede que no quieras admitirlo. Tal vez sea mejor reconocerlo y tener el tipo de conversación que has tenido la intención de tener desde hace algún tiempo. Aclarar las cosas probablemente te hará sentir mucho mejor como resultado. Finalmente, un optimista encuentro podría iluminar tu fin de semana.
 
 ## Dinero
 
-Ahora tienes un aspecto armonioso afectando a tu sector de hogar y emociones. Si trabajas en un campo creativo o de diseño, piensa en cómo ampliar tu línea para incluir el diseño de interiores. Dado a que tantos de tus propios recuerdos y sentimientos están siendo despertados, puedes percatarte de que tu vida puede servir de base para nuevas y maravillosas ideas. El dinero viene cuando se combina lo personal con lo profesional.
+Esta semana trae ambos, suerte y sorpresas por igual a tu sector de dinero y valores. El Universo  expande tus oportunidades de ganar más dinero (e incluso tus ideas para hacerlo), mientras que trae destellos repentinos de intuición e ingenio. Puede que te sorprenda lo increíblemente útil que es la gente que conoces, incluso en las maneras más insignificantes. Te percatarás de que estas personas están dispuestas a ayudar de nuevo también.

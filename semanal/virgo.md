@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 17 de julio 2017 al 23 de julio 2017 
-description: Horóscopo semanal virgo 17 de julio 2017 al 23 de julio 2017. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
+title: virgo 24 de julio 2017 al 30 de julio 2017 
+description: Horóscopo semanal virgo 24 de julio 2017 al 30 de julio 2017. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: jEDq9u6At1M
+ video: O5464hm2_Pw
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-17'
+ lastmod: '2017-07-24'
 ---
 
 
 
-## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
+## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 
-A veces dejas las puertas medio abiertas virgo, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar virgo porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien virgo, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado virgo, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
-Mantente alerta contra los malentendidos con tus familiares o cualquier persona que viva en tu hogar. Una falta de comunicación podría poner un poco de distancia entre tú y la otra persona. Si mantienes la conversación fluyendo, es posible que puedan limar esas asperezas pronto. Si necesitas que te consientan después de una semana ocupada, busca unos masajes, un día de spa, o sesión de mimos que te ayuden a relajarte. ¡Sabes que te lo mereces!
+Tu mente lo está analizando absolutamente todo virgo, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez virgo… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas virgo, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana virgo, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+Mientras que puede que te la estés pasando bien, puede que te preguntes si no estás perdiendo tu tiempo cuando podrías estar haciendo algo más útil, como trabajar en tu lista de tareas pendientes o encargarte de cuidar tus negocios. Puede que te percates de que cuando te das la oportunidad de descansar, nuevas ideas parecen llegarte para ayudarte a hacerle frente a cuestiones clave con mayor facilidad. Si te presionas demasiado, te darás cuenta de que tienes que descansar por períodos más largos durante el fin de semana. ¡Trata de llevar un buen ritmo!
 
 ## Dinero
 
-Lo más importante ahora no es cuánto tienes, sino la calidad de tu vida a medida que estudias la forma de hacer algunos cambios importantes. El amor y el afecto se unen a la acción y al tino para ayudarte a participar en actividades creativas como proyectos de escritura, cine, radio y televisión. Si secretamente has abrigado el deseo de participar en esto, toma una clase o un seminario.
+Andas muy comunicativo/a ahora. El hablar, chatear, o incluso el uso de sitios de redes sociales trabaja a tu favor y son parte de tu persona por ahora. Pero estás llevándolo a otro nivel, inclusive al hablar de que estás pensar en escribir tus memorias. Tienes una increíble cantidad de energía creativa en este momento, úsala a tu ventaja financieramente y para encontrar a tu público, después, busca los mercados con el más amplio alcance para obtener los mejores resultados.
