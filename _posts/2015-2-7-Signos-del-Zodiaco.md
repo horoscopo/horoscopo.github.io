@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 22 de julio 2017
-description: Horóscopos del dia de hoy 22 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 24 de julio 2017
+description: Horóscopos del dia de hoy 24 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Con la Luna en Géminis oponiéndose a Saturno, te despiertas con un nuevo sentido de propósito, planes, e incluso un poco más de ambición. Las emociones son muy sensibles esta tarde. Un gran comienzo, pero, ¡¿de dónde proviene toda esta ira?! El magnetismo de esta noche despierta una gran cantidad de sensuales chispas.
+¡Qué bueno es comenzar a encontrar alegría en conversaciones cuando Mercurio inicia su tránsito en Libra! Sin embargo, puede que sea un poco más difícil tomar decisiones con respecto a cualquier cosa importante. A veces, cuando la Luna se encuentra en Acuario como lo hace esta noche, todos quieren ser tus amigos, algo que no es un mal comienzo para algo más serio.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
