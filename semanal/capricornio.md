@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 24 de julio 2017 al 30 de julio 2017 
-description: Horóscopo semanal capricornio 24 de julio 2017 al 30 de julio 2017. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya capricornio. Muévete o haz que se mueva el resto.
+title: capricornio 31 de julio 2017 al 06 de agosto 2017 
+description: Horóscopo semanal capricornio 31 de julio 2017 al 06 de agosto 2017. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: WC-_h7pVpLk
+ video: rLNkovx_mm0
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-24'
+ lastmod: '2017-07-31'
 ---
 
 
 
-## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya capricornio. Muévete o haz que se mueva el resto.
+## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 
-Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí capricornio, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
-Si has estado experimentando con distintas ideas y probando nuevas opciones que pudieran estar a tu medida, podrías sentir la tentación de llevar una de ellas al próximo paso sin pensarlo adecuadamente. Esto podría provocar problemas y decepción a futuro. Puede que tu mejor opción sea tranquilizarte y buscar un poco más. Incluso pasar un día más recopilando información puede ayudarte a tomar decisiones más acertadas. Más adelante en la semana, comienza una fase más ambiciosa para ti.
+Tienes que improvisar más capricornio, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira capricornio, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado capricornio… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no capricornio, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana capricornio.
+Podrías enfrentarte a una oposición que haga que tu confianza disminuya un poco. Sin embargo, con el Sol en el feroz Aries, puede que sea momento de tomar el control diciéndoles a los demás cómo te sientes. Podría haber formas de llegar a un compromiso, incluso si esto significa cambiar tus planes originales. Aun así, con Mercurio y Saturno volviéndose retrógrados esta semana, es mejor no apresurarte. Tómate el tiempo necesario para asegurarte de que todas las bases estén cubiertas. Es lo mejor de cara al futuro.
 
 ## Dinero
 
-El cosmos trae cambios en la forma en la que te ves y cómo te expones al mundo. Los demás normalmente te ven como una persona trabajadora y ahorrativa. Sin embargo, los aspectos que afectan a tu sector de grupos, política y trabajo por cuenta propia pueden hacer que de repente parezcas más social. Algunos incluso te llaman el alma de la fiesta conforme conoces gente nueva, cierras tratos y llenas tu agenda social.
+Te encanta fraccionar tu vida, con el dinero en un lado y el trabajo en el otro. Pero ahora algunos de tus compartimentos posiblemente tengan que ser combinados un poco con el fin de tener todo listo. Puede ser que estés pensando en volverte cada vez más responsables con tus finanzas en general. También estás combatiendo el hecho de que la caja que guarda el dinero en efectivo está un poco más seca que de costumbre. Cultiva otros recursos financieros adicionales a través de cambios o un trabajo extra de tiempo parcial.
