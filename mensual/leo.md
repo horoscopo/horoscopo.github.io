@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Julio 2017 
+title: Leo Agosto 2017 
 permalink: /horoscopo-mensual/leo/
-keywords: horóscopo, horóscopo 2017,  Julio, horoscopo Julio,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Agosto, horoscopo Agosto,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-07-01'
+ lastmod: '2017-08-01'
 ---
 
- La Luna Llena del 8 de julio puede dejar tu cabeza y corazón en llamas, con muchas ideas y deseos que son simplemente demasiado difíciles de compartir o explicar. Utiliza la creatividad, pero también mantén la calma, y reflexiona bien sobre qué es lo que más te importa en la vida. Ábrete a las sorpresas. La Luna Nueva del 23 de julio que se manifiesta en Leo es complicada. La gente puede esperar que arregles cosas o soluciones problemas que ciertamente no arruinaste ni creaste. Puedes complacer a muchas personas simplemente siendo tú, y dejando que los asuntos se resuelvan solos, porque lo harán. Finalmente, la conjunción entre el Sol y Marte del 26 de julio es un gran impulso de energía. 
+ Bajo la Luna Llena y el Eclipse Lunar del 7 de agosto, la necesidad de amor podría sentirse urgente y necesaria. Tal vez atraigas a una persona que no esté lista pero que no quiera decepcionarte. Sincérate e intenta no manipular a nadie. El trígono que la Luna forma con Marte el 12 de agosto es tu impulso de energía antes de que Mercurio se torne retrógrado más tarde ese día. La Luna Nueva y el Eclipse Solar total del 21 de agosto ofrecen una oportunidad cósmica para convertirte en la mejor versión de ti. Siéntete noble y fuerte, después sé transparente y deja que el mundo responda a eso. Como con todos los regalos cósmicos, esto puede suceder de formas inesperadas. No te esfuerces demasiado en tener todo bajo control. 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Libra Julio 2017 
+title: Libra Agosto 2017 
 permalink: /horoscopo-mensual/libra/
-keywords: horóscopo, horóscopo 2017,  Julio, horoscopo Julio,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2017, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Agosto, horoscopo Agosto,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2017, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-07-01'
+ lastmod: '2017-08-01'
 ---
 
- Serás la estrella más brillante en tu carrera o trabajo bajo la Luna Llena del 8 de julio. Esto atraerá mucha atención positiva y más cooperación. Quizás tus amistades o familia se sientan intranquilos sobre lo mucho que te destacas, pero eso pasará. La Luna Nueva del 23 de julio te pone en el centro de tu escenario social o actividades en comunidad. Prepárate para que la gente te admire y te trate como la persona experta que eres. Ahora puedes darle aliento a mucha gente. Venus ingresa a Cáncer el 31 de julio. Considera embellecer tu hogar y quizás organiza una cena con invitados. 
+ El 7 de agosto, la Luna Llena y el Eclipse Lunar llenarán tu vida de mucha diversión, gran parte de ella en el ámbito intelectual. Las actividades favoritas del pasado que han sido olvidadas podrían llegar a la cima. Tal vez tu entorno social busque más ostentación y elegancia, pero puede que eso no te llame la atención por el momento. La Luna Nueva y el Eclipse Solar total del 21 de agosto acentúan tu vida social y otros compromisos con la comunidad. Podrías ser el centro de atención, o puedes declinar amablemente y dejar que alguien más se lleve la gloria, o cargue con la presión. Venus ingresa a Leo el 25 de agosto para darle un final glamoroso al mes. 

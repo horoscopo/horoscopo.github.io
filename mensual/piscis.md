@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Piscis Julio 2017 
+title: Piscis Agosto 2017 
 permalink: /horoscopo-mensual/piscis/
-keywords: horóscopo, horóscopo 2017,  Julio, horoscopo Julio,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2017, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Agosto, horoscopo Agosto,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2017, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-07-01'
+ lastmod: '2017-08-01'
 ---
 
- Durante la Luna Llena del 8 de julio, ve por todo y sigue tu pasión. Nada podrá detenerte de todas formas. Un gran evento social o invitación podría ponerse en tu camino, pero no durará mucho, así que actúa rápido. La conjunción entre la Luna y Neptuno del 13 de julio activa tu sensibilidad e intuición, cuando deberías intentar aumentar tus habilidades psíquicas. La Luna Nueva del 23 de julio podría alterar tu sueño y confundirte con muchas ideas nuevas y buenas para mejorar tu vida. Mantén las cosas simples y no te dejes atraer por una nueva dirección que te suene bien al principio. No busques demasiado el cambio. 
+ Las emociones se desatan durante la Luna Llena y el Eclipse Lunar del 7 de agosto. Si sientes nervios o hipersensibilidad, escucha música o camina para despejar tu mente. ¿Para qué estresarte sin motivos? Sé amable contigo, relájate y restablece tu equilibrio. El trígono que Venus forma con Neptuno el 11 de agosto te sensibiliza hacia algo que alguien ha estado intentando decirte. La Luna Nueva y el Eclipse Solar total el 21 de agosto te llevan a hacer buenas obras para ti y para otros. Concéntrate en ti primero. No es egoísta, y te sentirás más fuerte y más capaz de hacer todas las otras buenas acciones. 

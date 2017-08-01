@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Acuario Julio 2017 
+title: Acuario Agosto 2017 
 permalink: /horoscopo-mensual/acuario/
-keywords: horóscopo, horóscopo 2017,  Julio, horoscopo Julio,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2017, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Agosto, horoscopo Agosto,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2017, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-07-01'
+ lastmod: '2017-08-01'
 ---
 
- Podrías recibir críticas o interferencias sobre cómo mantienes tu rutina diaria o vives tu vida alrededor de la Luna Llena del 8 de julio. Pero no te preocupes, porque estás por encima de eso. Sé constante, estable y saludable, y deja que las situaciones de los demás caigan donde deben. La cuadratura entre Marte y Urano del 17 de julio puede traer obstáculos. Prepárate. El amor burbujea durante la Luna Nueva del 23 de julio. Quizás sea difícil lidiar con tantas personas que te admiran y tener que reducirlas a uno o dos prospectos más atractivos. Relájate, date tiempo, y no te comprometas de más. 
+ El amor te busca a lo grande durante la Luna Llena del 7 de agosto. También es un Eclipse Lunar, así que espera muchos fuegos artificiales emocionales. Por suerte, ahora mismo podrías entrar y salir de cualquier situación con tu encanto. El amor y el romance podrían hacerte ver las estrellas de nuevo con la Luna Nueva y el Eclipse Solar total del 21 de agosto. Lo que sea que tu corazón esté haciendo, ten cuidado y sé realista, y también sé una persona cariñosa y considerada. Este podría ser un día en que el amor se niegue a escuchar la palabra "no". El trígono que la Luna forma con Urano el 30 de agosto eleva tu espíritu y te inspira a tomar diferentes direcciones. 
