@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 31 de julio 2017
-description: Horóscopos del dia de hoy 31 de julio 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de agosto 2017
+description: Horóscopos del dia de hoy 01 de agosto 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Hoy, cuenta con tu poderosa intuición para ayudarte a conectar los puntos y eliminar la obstrucción. Tomar acciones que son efectivas también es algo que está en pro de tus intereses. Esta noche, Venus en Aries le añade una dosis de asertividad y una pizca de impaciencia al romance. Durante las próximas semanas, el antídoto es un equilibrio entre la mente y las emociones. 
+¡Presta más atención! No dejes de enfocarte como lo hace un rayo láser cuando la cuadratura entre Mercurio y Urano provoca que personas persuasivas y bastantes obvias traten de conducirte a hacer errores de juicio. Más tarde, ama la energía y la vitalidad proveniente de la Luna en Aries conjuntando a Marte durante lo que podría ser una noche brillante.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
