@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 04 de agosto 2017
-description: Horóscopos del dia de hoy 04 de agosto 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 05 de agosto 2017
+description: Horóscopos del dia de hoy 05 de agosto 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Mercurio cambia su curso actual, llevándote a cambiar de marcha y adoptar un enfoque directo. Si no tienes pareja, esta noche se te aconseja no tratar de crear algo en apuro. La Luna en Virgo es acerca de lo ya intentado, ya probado, lo lúcido y el análisis completo. Se requiere de tiempo para lograr que la magia funcione.
+Aunque la susceptibilidad traída por Marte y Plutón sigue vigente, la Luna y Venus suavizan tu mundo un poco y las ofrendas de paz son bienvenidas. Parejas, tomen un viaje rápido por el carril de la memoria cuando la Luna forme trígono con Saturno esta noche. Mientras que es agradable, el viaje es breve debido a que la Luna se sale de su órbita.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
