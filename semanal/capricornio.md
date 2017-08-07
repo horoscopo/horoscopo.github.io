@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 31 de julio 2017 al 06 de agosto 2017 
-description: Horóscopo semanal capricornio 31 de julio 2017 al 06 de agosto 2017. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+title: capricornio 07 de agosto 2017 al 13 de agosto 2017 
+description: Horóscopo semanal capricornio 07 de agosto 2017 al 13 de agosto 2017. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: rLNkovx_mm0
+ video: zNrKiFP26Wg
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-31'
+ lastmod: '2017-08-07'
 ---
 
 
 
-## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 
-Tienes que improvisar más capricornio, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira capricornio, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado capricornio… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no capricornio, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana capricornio.
-Podrías enfrentarte a una oposición que haga que tu confianza disminuya un poco. Sin embargo, con el Sol en el feroz Aries, puede que sea momento de tomar el control diciéndoles a los demás cómo te sientes. Podría haber formas de llegar a un compromiso, incluso si esto significa cambiar tus planes originales. Aun así, con Mercurio y Saturno volviéndose retrógrados esta semana, es mejor no apresurarte. Tómate el tiempo necesario para asegurarte de que todas las bases estén cubiertas. Es lo mejor de cara al futuro.
+Tienes que tener claro que en este mundo no estamos para gustar a todos, o quizás gustas a todos, pero el problema es que hay mucha envidia cerca aunque no siempre seas capaz de verla… 
+Aprende a marcharte capricornio… Sin complicaciones…
+El deseo de gastar podría ser muy fuerte a comienzos de la semana y puede que vayas al centro comercial o hagas compras en línea. De todos modos, hazlo con tranquilidad. Con tu planeta regente, Mercurio, en fase retrógrada, puede que lo mejor sea evitar artículos de gran valor por el momento. Si debes comprar algo, guarda los recibos para que puedas devolverlo, si fuera necesario. También podría aparecer una ganancia imprevista. Probablemente no será una suma demasiado grande, pero podría hacerte sonreír. Además, una atracción romántica brilla de forma prometedora.
 
 ## Dinero
 
-Te encanta fraccionar tu vida, con el dinero en un lado y el trabajo en el otro. Pero ahora algunos de tus compartimentos posiblemente tengan que ser combinados un poco con el fin de tener todo listo. Puede ser que estés pensando en volverte cada vez más responsables con tus finanzas en general. También estás combatiendo el hecho de que la caja que guarda el dinero en efectivo está un poco más seca que de costumbre. Cultiva otros recursos financieros adicionales a través de cambios o un trabajo extra de tiempo parcial.
+Estás entrando en lo tuyo ahora. Hay una especie de seriedad a tu alrededor, y otros no pueden evitar el notar la diferencia. Pero es tu casa la que tal vez requiera que gastes más de lo que habías previsto o presupuestado. Si encuentras que necesitas retroceder temporalmente, eso está bien. Sin embargo, puede que el trata de forzar que tus ideas se hagan realidad no sea posible.

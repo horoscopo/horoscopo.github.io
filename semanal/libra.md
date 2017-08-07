@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 31 de julio 2017 al 06 de agosto 2017 
-description: Horóscopo semanal libra 31 de julio 2017 al 06 de agosto 2017. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+title: libra 07 de agosto 2017 al 13 de agosto 2017 
+description: Horóscopo semanal libra 07 de agosto 2017 al 13 de agosto 2017. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: NL1nHkP1Kck
+ video: xvGMvMlNvdc
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-31'
+ lastmod: '2017-08-07'
 ---
 
 
 
-## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 
-Esta semana estás un poco impredecible libra, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica libra… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
-La positiva alineación de principios de semana podría indicar que recibirás más dinero. Tal podría venir de una venta, aumento de sueldo, segundo trabajo o pequeña empresa. Sea cual sea tu fuente de ingresos, parece que tal aumentará en los próximos meses y semanas. Por otro lado, tu sector de romance y relajación se verá agitado con Marte entrando a esta zona. Es hora de mostrar tus habilidades creativas o tener una mayor determinación en tu búsqueda de encontrar a tu pareja perfecta.
+Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
+Un tesoro oculto podría salir a la luz esta semana. Si has estado pensando en maneras de aumentar tu flujo de efectivo, opta por hurgar en el ático, sótano u otros rincones escondidos. Además, podías oír buenas noticias con respecto a un proyecto que pensaste que habías perdido, así que mantente alerta a una carta o llamada telefónica. Si sientes la motivación para intentarlo de nuevo después de una falla anterior, tus esfuerzos podrían ser recompensados. Con Júpiter ahora avanzando, tus opciones laborales sin duda se vislumbran mucho más prometedoras.
 
 ## Dinero
 
-Tus poderes psíquicos están a todo lo que da. Podrías hacer algo de dinero a través de la intuición pura. Estate en el lugar correcto en el momento adecuado para obtener información sobre una oportunidad nueva y excitante, como el tener cierto sentido sobre lo que pasará en la bolsa de valores o el soñar con la idea de un nuevo negocio. Tu creatividad también esta en un punto muy alto, sólo asegúrate de pagar cualquier deuda grande que tengas.
+Hay todo tipo de extrañas energías conectadas con los asuntos de carrera y figuras de autoridad. Lo que estaba allí ayer podría no estar allí mañana, así que es mejor conservar tus recursos. Los expertos sugieren que tengas dinero guardado para los siguientes meses, pero incluso si no puedes manejar eso ahora, trata de por lo menos guardar algo. Te servirá para calmarte un poco cuando tu vida se vuelva un poco inestable durante la próxima semana.

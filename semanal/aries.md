@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 31 de julio 2017 al 06 de agosto 2017 
-description: Horóscopo semanal aries 31 de julio 2017 al 06 de agosto 2017. 
+title: aries 07 de agosto 2017 al 13 de agosto 2017 
+description: Horóscopo semanal aries 07 de agosto 2017 al 13 de agosto 2017. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: H89osD6YQOw
+ video: 0qTt1DSy4do
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-31'
+ lastmod: '2017-08-07'
 ---
 
 
 
-## 
+## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 
-Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen.
-Tu equilibrio entre trabajo y vida personal podría ser un tema de discusión, en especial si miembros de tu familia no están de acuerdo con lo que estás haciendo. Tal vez sea mejor dejar cualquier discusión para después. Puedes ver que cualquier cosa que dices parece provocar sentimientos fuertes en otras personas, y quizás no entiendas la situación por completo. Además, tales podrían ceder a la tentación de hacer o decir cosas que causen más problemas. Será mucho mejor para ti mantenerte al margen de tales conversaciones.
+A veces sientes como si no avanzaras aries, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba aries, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo aries, feliz semana.
+El Sol en un sector sensible de tu carta astral podría ser un llamado de atención para examinar tus pensamientos y sentimientos más profundos. Esta también es una oportunidad para dejar ir aquellos patrones de creencias que pueden estar limitando tu habilidad de tener éxito como te gustaría. Sin embargo, cualquier cambio que desees hacer no sucederá de la noche a la mañana. Tal vez requiera un período de introspección para comprender realmente cuáles son los obstáculos interiores. Aun así, reflexionar podría resultar muy liberador.
 
 ## Dinero
 
-Esta semana hay aspectos afectando tu profesión y autoridad. Es posible que recientemente, cierta persona sin escrúpulos te haya hecho retrasarte en el trabajo o tuvieras que haber puesto un proyecto en espera mientras tratas con problemas de comunicación y problemas técnicos. Durante las próximas semanas, piensa en cómo sentar las bases para futuros acuerdos. El Universo te muestra cómo hacerlo.
+Como genio de creación de redes, bien sabes cómo hacerlo. Tus relaciones son importantes no sólo por motivos de negocios, sino también para desahogarte después del trabajo. Con un aspecto armonioso en tu sector social, estás haciendo más amigos e incluso sentando las bases para futuras colaboraciones. Has estado haciendo considerables acuerdos, así que no es mal momento para sacar la cuenta final. Cuidado con gastar excesivamente en tus amistades.

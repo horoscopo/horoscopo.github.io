@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: piscis 31 de julio 2017 al 06 de agosto 2017 
-description: Horóscopo semanal piscis 31 de julio 2017 al 06 de agosto 2017. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+title: piscis 07 de agosto 2017 al 13 de agosto 2017 
+description: Horóscopo semanal piscis 07 de agosto 2017 al 13 de agosto 2017. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: WEUnGrRZ3tk
+ video: 0C1DRKnpBDU
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-31'
+ lastmod: '2017-08-07'
 ---
 
 
 
-## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+## 
 
-Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. piscis, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota piscis, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando piscis. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce piscis, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
-Hacer lo mejor para todos puede significar que los planes se diluyan y no se presente ninguna solución sencilla. Puede que te encuentres en esta situación durante el o los días siguientes, y podría ser porque no quieres molestar a nadie. Puede que no tengas otra opción, ya que alguien siempre te criticará sin importar qué decidas. Haz lo que te parezca mejor y no te preocupes por lo que digan los demás. De todos modos, para el fin de semana, ya estarás en una mucho mejor situación.
+Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
+ sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
+Puede que te encuentres en el centro de la atención esta semana y las semanas que vienen, y esta podría ser una oportunidad para que muestres tus habilidades o impresiones a tu jefe a o alguien más. También notarás cómo tus habilidades generan un impacto positivo en las demás personas, y esto podría motivarte para que des lo mejor de ti. La Luna Nueva del viernes en este mismo sector coincide con un nuevo trabajo, un ascenso o el comienzo de un contrato.   
 
 ## Dinero
 
-Tienes una energía muy obstinada ahora. Se te está empujando a una forma no tan sutil de tratar con los demás. La formación de nuevas relaciones como el cultivar las ya existentes proporcionará las respuestas que buscas.
+Este período tiene que ver con los opuestos. Puede que estés tratando de manifestar una nueva relación en tu vida con un mentor, empleador o socio de negocios. Y con cierta actividad en el área que rige las relaciones serias, podrías conocer a la persona adecuada en el momento adecuado. Juntos, pueden mover montañas en el mundo de los negocios, ¡por lo que definan parámetros y manos a la obra! Más deben actuar con rapidez.

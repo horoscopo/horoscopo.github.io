@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 31 de julio 2017 al 06 de agosto 2017 
-description: Horóscopo semanal geminis 31 de julio 2017 al 06 de agosto 2017. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+title: geminis 07 de agosto 2017 al 13 de agosto 2017 
+description: Horóscopo semanal geminis 07 de agosto 2017 al 13 de agosto 2017. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: nMcJIVOBGiU
+ video: uUgWXzAiZHA
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-31'
+ lastmod: '2017-08-07'
 ---
 
 
 
-## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-No puedes poner piezas en lugares que no corresponden geminis, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo geminis, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso geminis, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte geminis, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho geminis, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
-La tentación de gastar puede ser fuerte, pero al mismo tiempo, te divertirás mucho. Solo debes asegurarte de poder pagarlo, para que no te arrepientas. El jueves podría traer una sorpresa financiera, que puede ser un beneficio inesperado o una factura inesperada, de modo que ve con tranquilidad. Venus se dirige hacia adelante, lo que puede ayudarte a reorientar cualquier relación que pueda haber sufrido un contratiempo reciente. Las conversaciones que tengas en la próxima semana pueden ayudarte a llevar las cosas a un nuevo nivel más íntimo. 
+Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás geminis. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
+Aunque Mercurio, el planeta del habla y el pensamiento, continúa avanzando a mitad de semana después de su fase retrógrada, tal vez no sea malo evitar derroches y gastos impulsivos, en particular durante las próximas dos semanas. Un aspecto positivo podría hacer que tú y otra persona se sientan más cercanas, quizás como resultado de confiar el uno en el otro. No importa si esto es una amistad o un romance, podrías ver que algo especial se desenvuelve entre ustedes y que lleva a un vínculo fuerte y de apoyo en el futuro.
 
 ## Dinero
 
-Ahora tienes cierta actividad en tu sector de ganancias que con el tiempo va a cambiar radicalmente la forma en la que ganas dinero. Aunque parezca que algunas fuentes de ingresos están siendo alejadas de tu vida, a fin de cuentas, será para bien. Analiza tu sector de deuda para poder identificar lo que hay que pagar primero.
+Tienes una oportunidad única para formar asociaciones financieramente gratificantes con conocidos personales o profesionales. Alguien que nunca has visto en esta luz ahora parece la persona perfecta para ayudarte para que tal proyecto nuevo llegue a buen término. Y puesto que la atención se centra en tus sectores de enseñanza y aprendizaje, es el momento de tomar algo difícil que estimule tu mente un poco. El efectivo vendrá después.

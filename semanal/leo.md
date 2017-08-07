@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 31 de julio 2017 al 06 de agosto 2017 
-description: Horóscopo semanal leo 31 de julio 2017 al 06 de agosto 2017. Esta semana relájate un poco leo, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: leo 07 de agosto 2017 al 13 de agosto 2017 
+description: Horóscopo semanal leo 07 de agosto 2017 al 13 de agosto 2017. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: 2UY9otX_5sE
+ video: IwfzYnpOZ0Q
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-07-31'
+ lastmod: '2017-08-07'
 ---
 
 
 
-## Esta semana relájate un poco leo, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 
-A veces de bueno te pasas leo. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio leo, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa leo, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso leo y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-Aunque tus alianzas podrían ser desafiadas al inicio de la semana, es posible que te percates de que te va mejor cuando te mantienes fiel a tu persona. Los momentos en los que te diviertes más son cuando estás creando o romanceando a alguien. Cualquier actividad que te permita expresarte va a traerte mucha felicidad. Y si hay competencia involucrada, estarás aún más en tu elemento. Sólo ten en cuenta que tu determinación puede ser más intensa de lo que crees.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos leo así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar leo, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+A medida que Venus ingresa a tu sector de finanzas personales, este aspecto podría fomentar un enfoque más relajado en cuanto a los asuntos monetarios. Podrías tener más ganas de gastar dinero en pequeños lujos en lugar de poner el freno y ahorrar tu dinero para cuando lo necesites. Pero con la poderosa conexión entre Júpiter y Plutón de esta semana, también podrías sentir la obligación de seguir adelante con un proyecto que requiere de una inversión inicial. Asegúrate de que valga la pena antes de seguir adelante.
 
 ## Dinero
 
-Eres una persona bastante psíquica, pero esta semana te puedes sorprender incluso a ti mismo/a. El Universo está abriendo los canales de comunicación para proporcionarte toda la información que necesitas para hacer tu siguiente movimiento. No te sorprendas si andas un poco voluble ahora. La próxima semana estarás de vuelta en la pista financiera elegida.
+Un aspecto armónico te da un impulso de energía en el sector de tu carta que rige el dinero, las inversiones compartidas y la deuda. Esto significa que podrías recibir un bono o dividendo, o que puede que necesites poner más atención para pagar lo que debes. En cualquier caso, tienes la posibilidad y la perseverancia para ganar todo el dinero que necesitas y más.
