@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de agosto 2017
-description: Horóscopos del dia de hoy 10 de agosto 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 11 de agosto 2017
+description: Horóscopos del dia de hoy 11 de agosto 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Todo puede ser ordenado y comprensible el día de hoy. Y tú puedes ser perfección pura bajo la Luna en Virgo. Hay una gran cantidad de emociones expresadas cuando la Luna se opone a Neptuno esta noche. Lástima que nadie entienda lo que realmente las motiva. Para los solteros, no es una buena noche para comenzar un romance.
+¡Ha llegado la hora de enfocarte! De esa manera no perderás interés cuando la Luna en Aries forme trígono con el Sol. A diferencia de ayer por la noche, esta noche brilla  al traer la promesa de calidez. No sería inusual conseguir todo lo que tu pequeño corazón desea o añora mientras Venus conjunte a Júpiter.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
