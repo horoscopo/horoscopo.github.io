@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 07 de agosto 2017 al 13 de agosto 2017 
-description: Horóscopo semanal escorpio 07 de agosto 2017 al 13 de agosto 2017. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+title: escorpio 14 de agosto 2017 al 20 de agosto 2017 
+description: Horóscopo semanal escorpio 14 de agosto 2017 al 20 de agosto 2017. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: wJGd1vDPfWQ
+ video: l5e7wCae0kg
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-07'
+ lastmod: '2017-08-14'
 ---
 
 
 
-## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 
-Quieres sonreír cuando pase el tiempo y sobretodo no quedarte con las ganas por no haber hecho lo que sentías. No te encierres en lo que debes o no debes hacer escorpio, ahora simplemente fluye… Con la vida, con tus amigos, con tu gente, con los que quieres… 
-porque así es como la vida te acaba compensando con nuevas bienvenidas.
-Aunque quieres disfrutar de la oportunidad de hacer un viaje espontáneo, tal vez necesitas lidiar con algunos asuntos primero. Puedes pasarla bien, pero un aspecto clave entre Mercurio y Plutón sugiere que tal vez no sea prudente descuidar una tarea, si es que eso significa perder aceptación de un superior u otra figura clave. Por otro lado, si te va bien, puedes obtener una recompensa. Ten cuidado el fin de semana, ya que alguien podría no ser quien aparenta ser.
+Los finales no significan que hayas fallado en algo escorpio, los finales a veces sirven para abrir nuevas puertas a algo. escorpio, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza escorpio…
+Este puede ser un momento para dar y recibir, como también para tomarte tiempo para entender los sentimientos de cierta persona. Puede que tomes más consciencia de cómo se asumieron ciertas rutinas y ciertos patrones en una relación durante un tiempo. Esta influencia podría llevarte a reescribir el libreto y hacer cosas que puedan mejorar la situación. La Luna Nueva del viernes te da la oportunidad para comenzar de nuevo o dar un paso adelante en tu relación. 
 
 ## Dinero
 
-El Universo está proporcionando una gran cantidad de energía no conformista a tu área de romance, los niños y la diversión esta semana. Prefieres estar al aire libre, divirtiéndote con la familia y haciendo niñerías, pero esto simplemente no funcionará ahora. Lo que se necesita es un mayor enfoque en cómo vas a proteger el futuro de tu familia y cómo puedes asegurarte de que nunca tendrán que sufrir innecesariamente. Después de eso, eres libre de descansar y relajarte.
+Este período es acerca de cómo adoptar un amplio plan de pago de deuda para lograr que esa parte de tu vida sea resuelva por última vez. Es posible que en el pasado hayas sentido agobio por la cantidad que debías en tarjetas de crédito, crédito hipotecario, o préstamos de familiares y amigos. Sin embargo, ahora tienes la ventaja y el impulso para nivelarte. Desvía el diez por ciento de tu ingreso hacia esta área.

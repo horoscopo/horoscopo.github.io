@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 07 de agosto 2017 al 13 de agosto 2017 
-description: Horóscopo semanal sagitario 07 de agosto 2017 al 13 de agosto 2017. Semana de reflexión sagitario, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya sagitario. 
+title: sagitario 14 de agosto 2017 al 20 de agosto 2017 
+description: Horóscopo semanal sagitario 14 de agosto 2017 al 20 de agosto 2017. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: Za1VAbl3Uhw
+ video: VRkM_dM3giA
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-07'
+ lastmod: '2017-08-14'
 ---
 
 
 
-## Semana de reflexión sagitario, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya sagitario. 
+## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 
-Te estás dando cuenta de quien sí y quien no sagitario. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo sagitario pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope sagitario, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente sagitario, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar sagitario, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
-Las relaciones de todo tipo podrían pasar al principio de tu lista de prioridades a medida que un poderoso enfoque en tu sector de relaciones te anima a buscar una mayor interacción. Puede que tengas muchas ocupaciones entre reuniones, una colaboración o la resolución de problemas personales con las personas más cercanas a ti. Al mismo tiempo, estarás a punto de llegar a un compromiso y crear un plan que funcione para todos. Esta también es una oportunidad para relajar el ambiente, ya que hacerlo puede ayudarte a que una relación clave siga avanzando. 
+No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
+Puede parecer que debes elegir entre tu pareja y tu familia, lo que podría sacar a la luz tu lado diplomático y de mucho tacto. La forma en que manejes esto podría hacer que la semana sea mucho más placentera. Debido a que Mercurio y Saturno se vuelven retrógrados esta semana, podrían producirse demoras con respecto a finanzas compartidas y asuntos de comunicación. Ten cuidado al firmar cualquier documento importante. Si compras artículos de gran valor, guarda los recibos y documentos en caso de que necesites devolver algo.
 
 ## Dinero
 
-Esta semana estas atrapada/o en medio. Podrías sentirte como si estuvieras siendo dirigida/o (tal vez en contra de su voluntad) hacia una determinada persona o situación. Tu sector profesional es el área que necesita más de tu atención por ahora. Elabora un plan de cinco años para avanzar en tu posición y la compensación.
+Con tantos planetas afectando tu sector de dinero esta semana, puede que tengas la tentación de correr y esconderte. Pero a medida que el Universo se centra en tu sector de dinero y valores, se te está pidiendo ser más responsable en la forma en la que ganas dinero. También se te insta a ser mucho más sociable cuando se trata de tu dinero.

@@ -1,30 +1,29 @@
 ---
 layout: horoscopos
-title: tauro 07 de agosto 2017 al 13 de agosto 2017 
-description: Horóscopo semanal tauro 07 de agosto 2017 al 13 de agosto 2017. Por muy desconfiado y duro que parezcas ser, al final acabas confiando tauro y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+title: tauro 14 de agosto 2017 al 20 de agosto 2017 
+description: Horóscopo semanal tauro 14 de agosto 2017 al 20 de agosto 2017. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: MBQedsn6w8U
+ video: u6claY46bVk
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-07'
+ lastmod: '2017-08-14'
 ---
 
 
 
-## Por muy desconfiado y duro que parezcas ser, al final acabas confiando tauro y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
 
-Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
- Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
-pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
-Evita compras impulsivas a principios de la semana, ya que puede que lo lamentes posteriormente. Al mismo tiempo, si estás a punto de firmar o comprometerte a algo, asegúrate de leer los términos y condiciones antes de hacerlo. Mientras tanto, aunque puede que tengas mucha disposición a apresurar cierto romance, lo mejor sería limitar tus expectativas e ir con la corriente. Una vez que Venus comience a avanzar el domingo, tu vida amorosa mejorará y tendrás una mejor idea de tu situación.
+Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
+ Busca siempre la parte buena de cada momento en el que te encuentres.
+Es probable que digas exactamente lo que piensas esta semana, lo cual podría resultar liberador, especialmente si te estuviste conteniendo por un tiempo. Y con Marte formando algunos aspectos clave, puede que te cueste cerrar la boca. Sin embargo, debes tener cuidado con cómo te expresas, especialmente si quieres quedar en buenos términos con ciertas personas. Puede que te excedas sin querer y esto podría ser angustiante. El Eclipse Solar de esta semana en Piscis podría volverte más sensible a los sentimientos de los demás.
 
 ## Dinero
 
-Esta semana trae un gran suspiro de alivio a medida que eres capaz de ser más productivo/a. Podrías estar considerando  mover tu oficina o base de operaciones, la cuál vendría con menos distracciones con las que has estado trabajando recientemente. Mientras tanto, prepárate para el cambio en el frente de la deuda. Los planetas tienen sorpresas con cambios en tasas de interés y plazos. Lee las clausulas con cuidado.
+Esta semana, tu mente sin duda se encuentra girando en torno a nuevas ideas sobre cómo hacer más dinero. Pero ¿alguna vez has pensado en agrandar tu negocio globalmente? Si lo has hecho, esto recibe apoyo esta semana, como si estuvieras haciendo nuevas relaciones que pudieran facilitar tu progreso económico en los últimos años. Esto podría incluir asesores financieros, jefes, colegas y mentores. El cielo es el límite siempre y cuando te tomes el tiempo para desarrollar tus ideas y buscar apoyo.

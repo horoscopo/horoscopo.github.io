@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 07 de agosto 2017 al 13 de agosto 2017 
-description: Horóscopo semanal capricornio 07 de agosto 2017 al 13 de agosto 2017. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+title: capricornio 14 de agosto 2017 al 20 de agosto 2017 
+description: Horóscopo semanal capricornio 14 de agosto 2017 al 20 de agosto 2017. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche capricornio, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: zNrKiFP26Wg
+ video: y4SLRVmu-9k
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-07'
+ lastmod: '2017-08-14'
 ---
 
 
 
-## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche capricornio, abre las puertas y ciao. No tienes que mantener nada…
 
-Tienes que tener claro que en este mundo no estamos para gustar a todos, o quizás gustas a todos, pero el problema es que hay mucha envidia cerca aunque no siempre seas capaz de verla… 
-Aprende a marcharte capricornio… Sin complicaciones…
-El deseo de gastar podría ser muy fuerte a comienzos de la semana y puede que vayas al centro comercial o hagas compras en línea. De todos modos, hazlo con tranquilidad. Con tu planeta regente, Mercurio, en fase retrógrada, puede que lo mejor sea evitar artículos de gran valor por el momento. Si debes comprar algo, guarda los recibos para que puedas devolverlo, si fuera necesario. También podría aparecer una ganancia imprevista. Probablemente no será una suma demasiado grande, pero podría hacerte sonreír. Además, una atracción romántica brilla de forma prometedora.
+Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo. 
+Mientras comienzas a sumergirte en el 2017, deberías enviar tarjetas con mensajes de agradecimiento y avanzar en las cuestiones administrativas que se acumularon durante la época festiva. Con el exquisito Venus entrando a tu sector de comunicaciones el 2 de enero, puede que te sientas impaciente por hablar con los nuevos amigos que conociste en las últimas semanas. Pero tener criterio es clave. Si bien podrías estar a punto de abrirte con todos, puede que algunos sean más amigos a largo plazo que otros.
 
 ## Dinero
 
-Estás entrando en lo tuyo ahora. Hay una especie de seriedad a tu alrededor, y otros no pueden evitar el notar la diferencia. Pero es tu casa la que tal vez requiera que gastes más de lo que habías previsto o presupuestado. Si encuentras que necesitas retroceder temporalmente, eso está bien. Sin embargo, puede que el trata de forzar que tus ideas se hagan realidad no sea posible.
+La buena noticia es que tienes actividad en tu sector de rutina diaria de trabajo, lo que puede aportar muchas nuevas oportunidades para expandir tu presencia o hacer que tu trabajo destaque. El Universo tiende a cambiar las cosas, pero a veces las cambia de nuevo con la misma rapidez. Muévete rápido para aprovechar los dones que se te proveen. Mientras tanto, lo mejor es cooperar en el trabajo para que nadie pierda los estribos.

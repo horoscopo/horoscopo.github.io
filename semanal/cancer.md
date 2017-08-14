@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 07 de agosto 2017 al 13 de agosto 2017 
-description: Horóscopo semanal cancer 07 de agosto 2017 al 13 de agosto 2017. Hay personas que juegan en otra liga cancer, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+title: cancer 14 de agosto 2017 al 20 de agosto 2017 
+description: Horóscopo semanal cancer 14 de agosto 2017 al 20 de agosto 2017. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento cancer. Hay personas a las que TÚ debes dar ese escarmiento.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: q4-pb3JBmN8
+ video: zsSj7F2dNNE
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-07'
+ lastmod: '2017-08-14'
 ---
 
 
 
-## Hay personas que juegan en otra liga cancer, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento cancer. Hay personas a las que TÚ debes dar ese escarmiento.
 
-Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
-Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
-Venus se mueve de un lado a otro hasta llegar a tu sector de viajes y exploración el martes, por lo que las oportunidades para el romance podrían aparecer mientras te encuentras de viaje. Puede que también surjan si estás estudiando en grupo o aprendiendo una nueva habilidad. Los asuntos profesionales también son importantes esta semana, y puede que tu situación mejore si haces contactos fundamentales. De hecho, recolectar información y pedir consejos puede ayudarte a avanzar en tu negocio o profesión. También tendrás ganas de conectar con amigos y disfrutar de momentos más tranquilos.
+Tienes que improvisar más cancer, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira cancer, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado cancer… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no cancer, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana cancer.
+Prepárate para una o dos alteraciones esta semana que podrían en realidad funcionar a tu favor. Un evento inesperado podría arrancarte de tu arrogancia, y motivarte a que entres en acción para recuperar una oportunidad o aceptar una idea que tiene consecuencias positivas para ti. Con Mercurio avanzando a partir del 3 de mayo, puedes ver que los retrasos en el trabajo o las herramientas informáticas que te dan problemas se solucionan poco a poco, lo que te permite avanzar en tu trabajo.
 
 ## Dinero
 
-Puede que esta semana tengas la tentación de ampliar tus esfuerzos de ganar dinero, los cuales incluyen la escritura, el Internet y la creación de contenidos. Pero puede ser que una parte de ti sienta atracción a educación adicional para que puedas cobrar más por tus servicios. Ya que tu principal trabajo cae en medio de esto, no dejes que sea la cosa que sufra. La atención cuidadosa a los detalles te permitirá lograr todo lo que quieras y más.
+Es posible  que esta semana necesites obtener una segunda opinión sobre tus planes acerca de dinero. Tienes un montón de ideas creativas acerca de cómo maximizar tu dinero, pero la verdad también podría ser empañada o se ve mejor de lo que realmente es. Asegúrate de checar doble y triplemente todo antes de firmar. Tu vida social es cálida y amorosa. Solo trata de no gastar de más en las noches de farra.
