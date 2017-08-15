@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de agosto 2017
-description: Horóscopos del dia de hoy 14 de agosto 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de agosto 2017
+description: Horóscopos del dia de hoy 15 de agosto 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Las conversaciones son positivas, abiertas y audaces con el trígono entre la Luna y Mercurio de esta mañana. Disfrútalas. La vibra podría volverse un poco irritable y crítica durante la tarde con su oposición con Marte. Esta noche, alguien podría tomar una decisión final en relación a una persona especial si la otra parte ha persistido durante algún tiempo.
+¿Tienes planes? Prepárate para tener que cambiarlos cuando la Luna se oponga a Mercurio hoy. Te pareció haber acordado todo, pero tal parece que alguien no estaba escuchando. Esta noche, las personas podrían caer seriamente en enamoramiento (o al menos así creerlo) mientras la Luna forma trígono con Saturno. En realidad, bajo este aspecto, el amor es un proceso lento.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
