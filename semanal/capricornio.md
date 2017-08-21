@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 14 de agosto 2017 al 20 de agosto 2017 
-description: Horóscopo semanal capricornio 14 de agosto 2017 al 20 de agosto 2017. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche capricornio, abre las puertas y ciao. No tienes que mantener nada…
+title: capricornio 21 de agosto 2017 al 27 de agosto 2017 
+description: Horóscopo semanal capricornio 21 de agosto 2017 al 27 de agosto 2017. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: y4SLRVmu-9k
+ video: jcRWzxSlAUs
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-14'
+ lastmod: '2017-08-21'
 ---
 
 
 
-## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche capricornio, abre las puertas y ciao. No tienes que mantener nada…
+## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 
-Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo. 
-Mientras comienzas a sumergirte en el 2017, deberías enviar tarjetas con mensajes de agradecimiento y avanzar en las cuestiones administrativas que se acumularon durante la época festiva. Con el exquisito Venus entrando a tu sector de comunicaciones el 2 de enero, puede que te sientas impaciente por hablar con los nuevos amigos que conociste en las últimas semanas. Pero tener criterio es clave. Si bien podrías estar a punto de abrirte con todos, puede que algunos sean más amigos a largo plazo que otros.
+Te van a echar de menos capricornio, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio capricornio, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
+Puede que no estés de acuerdo con alguien en el trabajo, lo que le dará un nervioso comienzo a tu semana. Podría ser debido a que uno de ustedes se está centrando en los detalles, mientras que el otro está analizando el panorama completo. Si logran unir ambos extremos del espectro, es posible que logren mucho más. El Eclipse Lunar en tu sector de viajes y exploración podría darle un nuevo significado a un viaje, adquiriendo un propósito muy diferente al que originalmente pretendía.
 
 ## Dinero
 
-La buena noticia es que tienes actividad en tu sector de rutina diaria de trabajo, lo que puede aportar muchas nuevas oportunidades para expandir tu presencia o hacer que tu trabajo destaque. El Universo tiende a cambiar las cosas, pero a veces las cambia de nuevo con la misma rapidez. Muévete rápido para aprovechar los dones que se te proveen. Mientras tanto, lo mejor es cooperar en el trabajo para que nadie pierda los estribos.
+Esta semana podría ser considerada como un cese al fuego. Los aspectos en tu casa de vidas pasadas, sueños y karma estresan la importancia del ser amable con los demás. ¿Recuerdas los modales que te enseño mamá? También recuerda que atraes más abejas con miel. Todo mejorará con el tiempo, ten paciencia.

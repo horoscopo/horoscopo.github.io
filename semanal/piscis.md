@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 14 de agosto 2017 al 20 de agosto 2017 
-description: Horóscopo semanal piscis 14 de agosto 2017 al 20 de agosto 2017. Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
+title: piscis 21 de agosto 2017 al 27 de agosto 2017 
+description: Horóscopo semanal piscis 21 de agosto 2017 al 27 de agosto 2017. Hay cosas que no quieres que ocurran pero que debes aceptar piscis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: feS832aODIo
+ video: NWNpsT9BkWE
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-14'
+ lastmod: '2017-08-21'
 ---
 
 
 
-## Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
+## Hay cosas que no quieres que ocurran pero que debes aceptar piscis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 
-La meta es dura piscis, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay piscis que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normalmente, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Sagi. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Sagi… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
-Mientras tu planeta personal Mercurio se dirige hacia un sector recluido de tu carta astral, puedes ver que sientes una conexión más fuerte con tus sentimientos. Esta semana y en las próximas semanas, tal vez se torne más fácil discutir sobre temas que hasta el momento te has reservado para ti. Además, dejar ir cualquier situación que ya no te sirve también puede hacerte sentir más libre. Mientras el Sol entra a tu signo este fin de semana, salir a socializar puede ser gratificante e inspirador.
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo piscis. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que piscis estalla, nadie se salva.
+Puede que sientas la necesidad de explorar tu árbol genealógico y conocer más sobre tus antepasados. Hacerlo puede brindarte información sorprendentemente relevante para ti hoy en día. También podría resolver un misterio familiar. Mientras tanto, la Luna Nueva en tu sector de ocio y romance podría hacer que te comprometas con una relación nueva y te sientas muy feliz por haberlo hecho. Más adelante en la semana, podría surgir información que te brinde una nueva perspectiva sobre un proyecto familiar.
 
 ## Dinero
 
-Esta semana estás considerando tu apariencia personal y reconsiderando la forma en la que te expones al mundo. Esto no es sólo cosmético, se trata de un serio replanteamiento de la siguiente fase de tu vida. Un vestuario profesional te ayudará a sentirte digno/a de una categoría tributaria más alta. Si tienes alguna pregunta acerca de lo que es apropiado, cultiva a los de arriba como mentores. Los aspectos indican que te reunirás con el éxito.
+Aspectos en tu sector de política, grupos sociales, esperanzas y sueños exigen que asumas responsabilidad por lo que quieres lograr en tu vida personal y profesional. El ser invisible ya no te va a funcionar más. Con quien te juntas te va a definir en el mundo del trabajo. Asegúrate de no sólo comunicar lo que eres ahora, profesionalmente y financieramente, sino también quién quieres ser en el futuro.

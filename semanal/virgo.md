@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 14 de agosto 2017 al 20 de agosto 2017 
-description: Horóscopo semanal virgo 14 de agosto 2017 al 20 de agosto 2017. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+title: virgo 21 de agosto 2017 al 27 de agosto 2017 
+description: Horóscopo semanal virgo 21 de agosto 2017 al 27 de agosto 2017. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: Y-QaEfMGRBs
+ video: ZyCe6ALtnGs
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-14'
+ lastmod: '2017-08-21'
 ---
 
 
 
-## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 
-Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. virgo, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota virgo, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando virgo. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce virgo, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
-Si bien a simple vista pareces tener confianza, en el fondo tus sentimientos son muy distintos. Con Júpiter en un sector tranquilo de tu carta alineándose con Plutón en tu sector de comunicaciones, puede que no quieras escuchar a tu intuición, incluso si te habla fuerte y claro. Pero puede que debas hacerlo si necesitas resolver un problema muy personal. El traslado de Venus a tu sector de amistades sugiere que hablar sobre el asunto con una amistad cercana podría darte la confianza que necesitas para hacer lo correcto. 
+No tengas la menor duda de que la vida hará pagar por todas las malas acciones a quien las cometa, por eso tú preocúpate por hacer el bien a los demás y recibirás una gran recompensa. Párate a pensar si ahora eres feliz, mírate hacia dentro y piensa si para cerrar el ciclo que a veces te atormenta necesitas hablar con alguien, con alguna persona especial… Nada volverá a ser lo mismo virgo, pero a veces, para que nuestra mente descanse en paz de verdad lo mejor es sacar lo que quizás tenemos dentro y nos costó tanto tiempo decir. Es probable que no sea el momento, eres virgo y muy a menudo, cuando tienes que decir algo en el instante que deberías no lo dices, por miedo, por vergüenza, por lo que sea, y otras veces, cuando lo mejor es estar callado, sueltas cualquier burrada que hace que al final te acabes por sentir mal. Las cosas por ahora no van a cambiar mucho, pero tu estado de ánimo sí, y ya no tu estado, si no esa inseguridad que se ha ido forjando en ti este tiempo atrás, esa sensación a veces, como de pérdida… Ahora necesitas centrarte en cosas que te mantengan ocupada la mente, aunque suene un poco mal decirlo, no pensar demasiado en nada, ni en todo, simplemente fluir con lo que venga, con lo que pase, sin buscar, sin forzar. Será una racha, un tiempo en el que quizás te sientas como vacío, a veces incluso un poco fuera de lugar, como si los sentimientos de repente se hubieran entrelazado y lo mismo amas que odias, lo mismo quieres ser el más feliz del mundo que quieres echarte a llorar como un niño. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+Cuida tu dinero durante los primeros días de la semana. Algo que parece ser una buena compra podría ser una decepción. Guarda tu efectivo para algo que valga la pena. El martes también podría ser un día para darte todo tipo de gustos, pero tu carta sugiere que hacerlo podría ser bueno para ti. Prepárate para ponerte a trabajar y terminar algunas tareas el miércoles. A partir de allí, ocurre un cambio y el énfasis se traslada a tu sector de relaciones, lo que fomenta mucha más interacción.
 
 ## Dinero
 
-Es posible que despegues esta semana - literalmente. Parece que tienes más posibilidades que nunca para ganar dinero, atraer más a través de trabajos secundarios y de interés y obtener dividendos a través de inversiones inteligentes. Si necesitas ayuda en lo que respecta a la planificación financiera, los aspectos pueden ayudarte a atraer a la persona adecuada para tus necesidades. No lo dejes al azar, en todo caso, mereces mucho más.
+Puede que esta semana sea necesario protegerte contra el engaño, incluso si se hace en nombre de la protección de los sentimientos de alguien. Algunos aspectos de tu sector de relaciones demuestra que tú o alguien más podría tener la tentación de torcer la verdad en cierta correspondencia. Pon más atención y responsabilidad en tus comunicaciones. Las mentiras, no importa cuán pequeñas o bien intencionadas sean, pueden ser contraproducentes ahora y corres el riesgo de arruinar lo que podría ser una sociedad financiera importante.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 14 de agosto 2017 al 20 de agosto 2017 
-description: Horóscopo semanal geminis 14 de agosto 2017 al 20 de agosto 2017. Empieza a hacerte promesas a ti mismo geminis, empieza a prometerte amor propio, hoy y siempre. 
+title: geminis 21 de agosto 2017 al 27 de agosto 2017 
+description: Horóscopo semanal geminis 21 de agosto 2017 al 27 de agosto 2017. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: HiADznSL1vw
+ video: LXofA9rllh0
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-14'
+ lastmod: '2017-08-21'
 ---
 
 
 
-## Empieza a hacerte promesas a ti mismo geminis, empieza a prometerte amor propio, hoy y siempre. 
+## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 
-Llegan oportunidades grandes geminis y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias geminis, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no geminis, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
-La buena noticia de esta semana es que tu regente Mercurio avanza el 3 de mayo en tu sector de comunidad y amistades. Esto podría coincidir con una oportunidad inesperada que tal vez hayas rechazado antes, muy a tu pesar. Parece que puede volver a presentarse, y este es el momento de aprovecharla. Por otro lado, prestarle atención a tu intuición o a tus sueños podría ser un buen punto de referencia en un asunto profesional, en especial si tienes más de una opción.
+Tienes que motivarte geminis. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino geminis. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro geminis, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa geminis, ¿tu tiempo no vale nada o qué?
+Horizontes lejanos podrían estar llamándote, pero no querrás explorarlos por tu cuenta, sino que prefieres incluir a tus amistades y disfrutar de la experiencia con ellos. Sin embargo, puedes tener bastante determinación cuando se trata de explorar nuevos territorios y descubrir nuevas oportunidades o desafíos que te abran las puertas. Por otro lado, podrías tener un sentimiento muy posesivo hacia alguien o algo, y esto podría arruinar tu dicha durante los próximos días a menos que puedas evitarlo. Cuando se trata de tomar una decisión con respecto a tu profesión, espera a que sea el momento indicado.
 
 ## Dinero
 
-Las influencias que afectan a tu sector de relaciones son a la vez una bendición y una maldición. Mientras que te dan impulso para avanzar en tu causa, también tienden a restringir al equipo que podría ayudarte a hacer esto. No tengas miedo. No es personal. Estas personas están a la espera de que avances para poder decir que te conocían desde entonces. Tienes la imaginación que necesitas para realizar tu trabajo a tiempo y bajo presupuesto.
+Podrías estar mas ocupado/a en el trabajo que de costumbre cuando las responsabilidades de ciertas personas caigan en tus manos. En la cumbre de la locura, ponte a tono con tus más crudas ambiciones y pregúntate: ¿Qué tan alto quieres llegar en esta empresa? Si la respuesta es no, sabes que tienes muchas ideas propias. Tal vez prefieras invertir un poco de dinero en comenzar un negocio nuevo. Los viajes, la educación, la metafísica, la publicación, la ley, son algunos de los campos que te pudieran interesar.

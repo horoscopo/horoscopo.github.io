@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 14 de agosto 2017 al 20 de agosto 2017 
-description: Horóscopo semanal acuario 14 de agosto 2017 al 20 de agosto 2017. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+title: acuario 21 de agosto 2017 al 27 de agosto 2017 
+description: Horóscopo semanal acuario 21 de agosto 2017 al 27 de agosto 2017. Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: ZKQ4J_iSqMk
+ video: sb1aYILRKt0
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-14'
+ lastmod: '2017-08-21'
 ---
 
 
 
-## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+## Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 
-A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez acuario. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona acuario, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
-Podrías estar en demanda socialmente, pero puede que aun así quieras mantener un perfil bajo, volar bajo el radar y tal vez hacer obras de caridad o ayudar de otras maneras. Ten cuidado con respecto a tu carrera o situación profesional, sobre todo porque una extraña influencia podría alterar un plan o proyecto a mitad de semana. Es probable que también suceda inesperadamente, pudiendo dificultarte solucionar todo. Sin embargo, este contratiempo podría revelar una falla que había en tu plan, permitiendo que puedas remediarla de una vez por todas.   
+Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo acuario… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Sagi, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Sagi. Lo vas a agradecer… Feliz semana.
+Es posible que te atraiga la tendencia vintage chic y otros objetos del pasado. Puede que disfrutes pasear por tiendas de segunda mano y ver qué tesoros puedes llegar a descubrir. Sin embargo, no valdrá la pena comprar todo lo que veas, por lo que te conviene saber elegir bien y buscar artículos que podrías llegar a vender. Esta puede ser una oportunidad para que liberes espacio en tu hogar, vender cosas que ya no necesitas, y también ganar algo de dinero extra.
 
 ## Dinero
 
-Es hora de renovar tus habilidades comunicativas. ¿Te cansa que se les promueva a los demás y no a ti? No es la calidad de su trabajo, sino la forma en la que son capaces de lograr que sus superiores se den cuenta de lo que hacen. Ahora, con algunas personas realmente únicas entrando en tu círculo social, eres capaz de sentir más comodidad con tu falta de normalidad. A partir de ahí, todo lo que tienes que hacer es pedir lo que vales.
+Estás poniendo tus metas profesionales en buen estado esta semana. Tu visibilidad laboral en el trabajo aumenta y tienes las herramientas necesarias para construir mensajes fuertes y claros. Mientras tanto, tienes la capacidad de hacer que tu caso sea convincente. Desde la creación de publicidad a la fabricación de folletos para atraer más clientes, haz que tu alcance sea persuasivo. No hay nada que no se pueda hacer ahora.
