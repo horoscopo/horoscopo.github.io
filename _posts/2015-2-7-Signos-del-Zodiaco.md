@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 22 de agosto 2017
-description: Horóscopos del dia de hoy 22 de agosto 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 23 de agosto 2017
+description: Horóscopos del dia de hoy 23 de agosto 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Júpiter entra al tranquilo, sereno, persuasivo y lógico Virgo. Dado que este astro es beneficioso, una vez que hayas preguntado, guarda silencio y espera recibir una respuesta positiva. Esta noche, es demasiado fácil olvidar la sabiduría y exagerar cuando la bien intencionada Luna cuadre a Urano, el planeta de las consecuencias inesperadas.
+El aspecto entre Mercurio y Plutón despierta pensamientos profundos hoy. Para sacarles el máximo provecho, compártelos con alguien que sea importante para ti. (O al menos escríbelos.) ¡Abróchate el cinturón de seguridad! Esta noche se sentirá como un paseo en un juego en el que alguien moviera el suelo justo debajo de tus pies. Las cosas realmente se ponen interesantes.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
