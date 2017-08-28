@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 21 de agosto 2017 al 27 de agosto 2017 
-description: Horóscopo semanal acuario 21 de agosto 2017 al 27 de agosto 2017. Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: acuario 28 de agosto 2017 al 03 de septiembre 2017 
+description: Horóscopo semanal acuario 28 de agosto 2017 al 03 de septiembre 2017. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: sb1aYILRKt0
+ video: 4Rspm_8rMVg
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-21'
+ lastmod: '2017-08-28'
 ---
 
 
 
-## Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
 
-Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo acuario… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Sagi, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Sagi. Lo vas a agradecer… Feliz semana.
-Es posible que te atraiga la tendencia vintage chic y otros objetos del pasado. Puede que disfrutes pasear por tiendas de segunda mano y ver qué tesoros puedes llegar a descubrir. Sin embargo, no valdrá la pena comprar todo lo que veas, por lo que te conviene saber elegir bien y buscar artículos que podrías llegar a vender. Esta puede ser una oportunidad para que liberes espacio en tu hogar, vender cosas que ya no necesitas, y también ganar algo de dinero extra.
+Madura acuario, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte acuario, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu acuario, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
+Tus creencias podrían ser un problema conforme Júpiter en tu sector de sabiduría superior choca con Plutón en tu sector espiritual. Si te estás aferrando a emociones y maneras de pensar del pasado, podrías estar resistiéndote a una oportunidad para liberarte de ellas y adoptar una filosofía que te ayude a disfrutar de un mayor éxito. Aferrarte podría demandar más energía que soltar y pasar al siguiente nivel. Si tienes la voluntad para analizar la situación, puede que una de tus amistades tenga consejos pertinentes.  
 
 ## Dinero
 
-Estás poniendo tus metas profesionales en buen estado esta semana. Tu visibilidad laboral en el trabajo aumenta y tienes las herramientas necesarias para construir mensajes fuertes y claros. Mientras tanto, tienes la capacidad de hacer que tu caso sea convincente. Desde la creación de publicidad a la fabricación de folletos para atraer más clientes, haz que tu alcance sea persuasivo. No hay nada que no se pueda hacer ahora.
+Estás atrapado/a en un dilema. Hay acción en el frente de profesión y en el campo de las oportunidades. Sin embargo, estás siendo conducido/a por un estrecho sendero hacia el lidiar con tu situación en cuanto a cómo te relacionas. Puedes hacerlo a solas por sólo un determinado tiempo. Busca la mayor cantidad de ayuda que puedas encontrar.

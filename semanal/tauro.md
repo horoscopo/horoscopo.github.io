@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 21 de agosto 2017 al 27 de agosto 2017 
-description: Horóscopo semanal tauro 21 de agosto 2017 al 27 de agosto 2017. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+title: tauro 28 de agosto 2017 al 03 de septiembre 2017 
+description: Horóscopo semanal tauro 28 de agosto 2017 al 03 de septiembre 2017. Vienen emociones fuertes tauro, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: p00Qud0R-Yc
+ video: 8vq4LGAQsKo
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-21'
+ lastmod: '2017-08-28'
 ---
 
 
 
-## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+## Vienen emociones fuertes tauro, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 
-Parece que no todo va tan mal, no ¿tauro? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-Estarás en tu elemento esta semana, ya que el Sol y Marte te inspiran a hacer grandes cosas. Esta y las próximas semanas pueden encontrarte tomando acciones dinámicas en dirección a tus sueños y disfrutando del proceso inmensamente. Más adelante esta semana, Mercurio ingresa a tu sector de finanzas, lo que puede significar una oportunidad para organizarte, en especial si has perdido el control de tu dinero. La presencia de Venus en tu sector social puede ser excelente para hacer nuevas amistades y disfrutar de alegres encuentros.
+Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen.
+Puede que encuentres que la gente a tu alrededor te distrae mucho esta semana, sobre todo si sientes mucha emoción con respecto a un proyecto o una nueva idea empresarial. Con esto en mente, tendrás que encontrar una manera de administrar tu tiempo para poder seguir avanzando sin dejar de cumplir con tus responsabilidades hacia tu familia y amigos. Es posible que tengas que ser firme con cierta persona, especialmente si no puede (o no quiere) reconocer el hecho de que de vez en cuando necesitas tu propio espacio.
 
 ## Dinero
 
-Tu situación en el hogar y las emociones internas indican un posible cambio para ti ahora mismo. ¿Has estado pensando en la creación de más espacio para ti mismo/a? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener que los jugos que fluyan hacia un nuevo trabajo o fuente de ingresos. El truco estará en no irse por la borda con este esfuerzo. Busca un balance entre el gasto y el ahorro.
+Este es el momento de centrarte en cómo puedes hacer más cosas como parte de un equipo que como un individuo. Hay tanto sucediendo en tu sector de relaciones que simplemente eres capaz de atraer a ciertos socios de una empresa de nuevos negocios cuyas habilidades se complementen perfectamente con las tuyas. Al mismo tiempo, tus redes sociales, la influencia política y el acceso a tus esperanzas y sueños se amplían. Te manifiestas a un alto nivel ahora. Pide lo que quieras.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 21 de agosto 2017 al 27 de agosto 2017 
-description: Horóscopo semanal capricornio 21 de agosto 2017 al 27 de agosto 2017. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+title: capricornio 28 de agosto 2017 al 03 de septiembre 2017 
+description: Horóscopo semanal capricornio 28 de agosto 2017 al 03 de septiembre 2017. No es que estés cambiando capricornio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: jcRWzxSlAUs
+ video: apQxaLcI_t4
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-21'
+ lastmod: '2017-08-28'
 ---
 
 
 
-## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+## No es que estés cambiando capricornio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 
-Te van a echar de menos capricornio, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio capricornio, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
-Puede que no estés de acuerdo con alguien en el trabajo, lo que le dará un nervioso comienzo a tu semana. Podría ser debido a que uno de ustedes se está centrando en los detalles, mientras que el otro está analizando el panorama completo. Si logran unir ambos extremos del espectro, es posible que logren mucho más. El Eclipse Lunar en tu sector de viajes y exploración podría darle un nuevo significado a un viaje, adquiriendo un propósito muy diferente al que originalmente pretendía.
+A veces de bueno te pasas capricornio. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio capricornio, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa capricornio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso capricornio y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
+Tu vida social tiene una chispa adicional esta semana, a medida que Venus te anima a conectarte con viejas y nuevas amistades, y a involucrarte en general. Una poderosa influencia en un sector sutil podría animarte a renovar tu relación con pensamientos y sentimientos más profundos. Una forma de hacerlo es anotar tus sueños, ya que pueden contener poderosos consejos para ti. Por otro lado, una relación podría costarte más de lo que te das cuenta. ¿Realmente vale la pena?
 
 ## Dinero
 
-Esta semana podría ser considerada como un cese al fuego. Los aspectos en tu casa de vidas pasadas, sueños y karma estresan la importancia del ser amable con los demás. ¿Recuerdas los modales que te enseño mamá? También recuerda que atraes más abejas con miel. Todo mejorará con el tiempo, ten paciencia.
+Esta semana se desplaza la atención a tu sector de seguridad y de obtención de dinero. Es posible que tu familia, pareja romántica, hijos o inclusive tu mismo/a quieran una mejor calidad de vida. La buena noticia es que no todo esto se puede comprar con dinero en efectivo. Tú disfrutas de una base sólida debido a las personas importantes en tu vida. Ellos entienden si tienes que gastar un poco más en otras cosas por ahora.

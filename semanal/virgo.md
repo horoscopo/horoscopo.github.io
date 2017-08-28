@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 21 de agosto 2017 al 27 de agosto 2017 
-description: Horóscopo semanal virgo 21 de agosto 2017 al 27 de agosto 2017. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+title: virgo 28 de agosto 2017 al 03 de septiembre 2017 
+description: Horóscopo semanal virgo 28 de agosto 2017 al 03 de septiembre 2017. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: ZyCe6ALtnGs
+ video: Piwhshf4sjw
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-21'
+ lastmod: '2017-08-28'
 ---
 
 
 
-## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 
-No tengas la menor duda de que la vida hará pagar por todas las malas acciones a quien las cometa, por eso tú preocúpate por hacer el bien a los demás y recibirás una gran recompensa. Párate a pensar si ahora eres feliz, mírate hacia dentro y piensa si para cerrar el ciclo que a veces te atormenta necesitas hablar con alguien, con alguna persona especial… Nada volverá a ser lo mismo virgo, pero a veces, para que nuestra mente descanse en paz de verdad lo mejor es sacar lo que quizás tenemos dentro y nos costó tanto tiempo decir. Es probable que no sea el momento, eres virgo y muy a menudo, cuando tienes que decir algo en el instante que deberías no lo dices, por miedo, por vergüenza, por lo que sea, y otras veces, cuando lo mejor es estar callado, sueltas cualquier burrada que hace que al final te acabes por sentir mal. Las cosas por ahora no van a cambiar mucho, pero tu estado de ánimo sí, y ya no tu estado, si no esa inseguridad que se ha ido forjando en ti este tiempo atrás, esa sensación a veces, como de pérdida… Ahora necesitas centrarte en cosas que te mantengan ocupada la mente, aunque suene un poco mal decirlo, no pensar demasiado en nada, ni en todo, simplemente fluir con lo que venga, con lo que pase, sin buscar, sin forzar. Será una racha, un tiempo en el que quizás te sientas como vacío, a veces incluso un poco fuera de lugar, como si los sentimientos de repente se hubieran entrelazado y lo mismo amas que odias, lo mismo quieres ser el más feliz del mundo que quieres echarte a llorar como un niño. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
-Cuida tu dinero durante los primeros días de la semana. Algo que parece ser una buena compra podría ser una decepción. Guarda tu efectivo para algo que valga la pena. El martes también podría ser un día para darte todo tipo de gustos, pero tu carta sugiere que hacerlo podría ser bueno para ti. Prepárate para ponerte a trabajar y terminar algunas tareas el miércoles. A partir de allí, ocurre un cambio y el énfasis se traslada a tu sector de relaciones, lo que fomenta mucha más interacción.
+Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real virgo, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Capri. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría virgo, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
+Tu salud y bienestar pueden estar en tus planes, ya que la potente fase lunar puede llevarte a un nuevo comienzo. Un problema de bienestar o la sensación de que algo necesita cambiar con respecto a tu salud en general podría actuar como catalizador. Otra gente puede tener consejos para darte, pero tal vez sea mejor buscar los servicios de un entrenador personal o profesional de la salud de confianza, ya que querrás sentirte de la forma más positiva y enérgica posible.    
 
 ## Dinero
 
-Puede que esta semana sea necesario protegerte contra el engaño, incluso si se hace en nombre de la protección de los sentimientos de alguien. Algunos aspectos de tu sector de relaciones demuestra que tú o alguien más podría tener la tentación de torcer la verdad en cierta correspondencia. Pon más atención y responsabilidad en tus comunicaciones. Las mentiras, no importa cuán pequeñas o bien intencionadas sean, pueden ser contraproducentes ahora y corres el riesgo de arruinar lo que podría ser una sociedad financiera importante.
+A veces puedes tener demasiada timidez para la confrontación. Es posible que esta semana sientas aún más preocupación por llevarte bien con los demás. Tu situación financiera es buena. Con tanta energía concentrada en ese sector, estás haciendo todo tipo de avances en la obtención, el pago de deuda y el ahorro. Te das cuenta de que a veces es más valioso compartir momentos de amor con tus hijos y familiares de lo que es gastar.

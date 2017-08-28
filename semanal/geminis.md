@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 21 de agosto 2017 al 27 de agosto 2017 
-description: Horóscopo semanal geminis 21 de agosto 2017 al 27 de agosto 2017. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+title: geminis 28 de agosto 2017 al 03 de septiembre 2017 
+description: Horóscopo semanal geminis 28 de agosto 2017 al 03 de septiembre 2017. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: LXofA9rllh0
+ video: hsol0jFCwhg
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-21'
+ lastmod: '2017-08-28'
 ---
 
 
 
-## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 
-Tienes que motivarte geminis. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino geminis. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro geminis, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa geminis, ¿tu tiempo no vale nada o qué?
-Horizontes lejanos podrían estar llamándote, pero no querrás explorarlos por tu cuenta, sino que prefieres incluir a tus amistades y disfrutar de la experiencia con ellos. Sin embargo, puedes tener bastante determinación cuando se trata de explorar nuevos territorios y descubrir nuevas oportunidades o desafíos que te abran las puertas. Por otro lado, podrías tener un sentimiento muy posesivo hacia alguien o algo, y esto podría arruinar tu dicha durante los próximos días a menos que puedas evitarlo. Cuando se trata de tomar una decisión con respecto a tu profesión, espera a que sea el momento indicado.
+No te calientes geminis, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no geminis, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien geminis, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
+Tu vida social se ha mantenido ocupada, pero tendrá un brillo extra cuando el Sol ingrese a este sector durante un período de cuatro semanas. Y con Mercurio retrógrado, este podría ser un momento para encuentros o reuniones familiares que disfrutarás mucho. Marte también se mueve a un sector más privado de tu carta, lo que podría alterar tus sueños y tu psiquis. Esta es una oportunidad para explorar los patrones internos,  los funcionamientos profundos de tu mente y comprender mejor qué debes saber acerca de ti.
 
 ## Dinero
 
-Podrías estar mas ocupado/a en el trabajo que de costumbre cuando las responsabilidades de ciertas personas caigan en tus manos. En la cumbre de la locura, ponte a tono con tus más crudas ambiciones y pregúntate: ¿Qué tan alto quieres llegar en esta empresa? Si la respuesta es no, sabes que tienes muchas ideas propias. Tal vez prefieras invertir un poco de dinero en comenzar un negocio nuevo. Los viajes, la educación, la metafísica, la publicación, la ley, son algunos de los campos que te pudieran interesar.
+La atención de esta semana se centra en las relaciones conforme el Universo trae todo tipo de personas de tu pasado de regreso a tu vida. Si éstas no hacen una aparición personal, podría estar en tus pensamientos. ¿Qué has aprendido desde la última vez que aparecieron en tu vida? ¿Has cambiado o sigues igual? Ciertos aspectos indican que puedes estar pensando en maneras más creativas de ganar dinero, tal vez mediante el uso de un hobby.
