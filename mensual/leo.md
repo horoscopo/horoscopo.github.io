@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Agosto 2017 
+title: Leo Septiembre 2017 
 permalink: /horoscopo-mensual/leo/
-keywords: horóscopo, horóscopo 2017,  Agosto, horoscopo Agosto,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Septiembre, horoscopo Septiembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-08-01'
+ lastmod: '2017-09-01'
 ---
 
- Bajo la Luna Llena y el Eclipse Lunar del 7 de agosto, la necesidad de amor podría sentirse urgente y necesaria. Tal vez atraigas a una persona que no esté lista pero que no quiera decepcionarte. Sincérate e intenta no manipular a nadie. El trígono que la Luna forma con Marte el 12 de agosto es tu impulso de energía antes de que Mercurio se torne retrógrado más tarde ese día. La Luna Nueva y el Eclipse Solar total del 21 de agosto ofrecen una oportunidad cósmica para convertirte en la mejor versión de ti. Siéntete noble y fuerte, después sé transparente y deja que el mundo responda a eso. Como con todos los regalos cósmicos, esto puede suceder de formas inesperadas. No te esfuerces demasiado en tener todo bajo control. 
+ Durante la luna llena del 6 de septiembre, puede que alguien tenga una idea equivocada sobre ti, para bien o para mal. Actúa con integridad y trata de no pensar en lo que las demás personas piensan. Las acciones dicen más que las palabras. El sol forma un trígono con Plutón el 9 de septiembre, así que prepárate para lo inesperado. Los asuntos de dinero están en buen estado cerca de la luna nueva del 19 de septiembre. Puede que las personas cuestionen tu buen juicio o crean que eres una persona crédula, pero no será el caso si te tomas tu tiempo. Tienes grandes ideas y mucha energía. Aprovéchalas bien y tendrás éxito en todo lo que te propongas. 

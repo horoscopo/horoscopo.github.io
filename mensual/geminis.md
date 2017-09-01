@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Geminis Agosto 2017 
+title: Geminis Septiembre 2017 
 permalink: /horoscopo-mensual/geminis/
-keywords: horóscopo, horóscopo 2017,  Agosto, horoscopo Agosto,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2017, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Septiembre, horoscopo Septiembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2017, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-08-01'
+ lastmod: '2017-09-01'
 ---
 
- Podrías sentir inquietud e insatisfacción durante la Luna Llena y el Eclipse Lunar el 7 de agosto. No puedes ir a todos lados y hacerlo todo, todo el tiempo. Involúcrate en algo más cerca de casa, profundiza en ello, y descubre qué tan fascinante puede volverse. Mercurio se torna retrógrado en Virgo el 12 de agosto, ayudándote a atar muchos cabos. La Luna Nueva y el Eclipse Solar total del 21 de agosto reaniman una amistad o relación familiar que solías disfrutar más. Haz que tu niño o niña interior sea feliz, y haz que los demás también sean felices. Deja que tu curiosidad te lleve a donde quieres ir. 
+ Mercurio se mueve directo el 5 de septiembre y la vida se vuelve más fácil, pero no de inmediato. Concéntrate en el trabajo durante la luna llena del 6 de septiembre. Aprovecha tu tiempo a solas para soñar e inspirarte (y ahora es un buen momento para hacerlo, así que piensa en grande) y deja que tu buen desempeño convierta tus planes profesionales en realidad. La vida en el hogar puede estar constantemente en movimiento y complicarse un poco con la luna nueva del 19 de septiembre. Un gran trígono en signos de tierra mantendrá tu atención en lo verdaderamente importante y en lo que te hará feliz. No tengas miedo y actúa de manera práctica. 
