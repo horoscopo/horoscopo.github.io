@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 28 de agosto 2017 al 03 de septiembre 2017 
-description: Horóscopo semanal escorpio 28 de agosto 2017 al 03 de septiembre 2017. Esta semana no te reniegues escorpio, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
+title: escorpio 04 de septiembre 2017 al 10 de septiembre 2017 
+description: Horóscopo semanal escorpio 04 de septiembre 2017 al 10 de septiembre 2017. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: 1mEsALwxuyY
+ video: EryXJYFCKZs
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-28'
+ lastmod: '2017-09-04'
 ---
 
 
 
-## Esta semana no te reniegues escorpio, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-Necesitas amor escorpio, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a escorpio es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
-¿Buscas vender tu casa o mudarte a un nuevo lugar? La Luna Nueva del martes puede coincidir con tus deseos de entrar en acción después de un largo tiempo de deliberación. Es probable que hayas pensado mucho en estas ideas, así que cualquier decisión que tomes será un riesgo calculado más que un salto en la oscuridad. Te puede entusiasmar la posibilidad de comenzar nuevas actividades como resultado de tu decisión. 
+No te mereces poco escorpio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura escorpio, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo escorpio. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
+¿Cuánto te está costando una relación en particular? Puede que lo descubras esta semana. Un potente tránsito que involucra a Júpiter, tu planeta regente, podría poner muy en claro cuánto estás dando y recibiendo a cambio. Si esto no te hace feliz, puede que sea momento de hacer algo al respecto. Pero para resolverlo de la mejor manera posible, asegúrate de que tus motivos realmente estén ayudando a la situación. Por otro lado, podría presentarse una oportunidad demasiado buena como para dejarla pasar.
 
 ## Dinero
 
-Lo más probable es que seas alguien muy organizado con su dinero. Lo llevas en la sangre. Incluso si tu mantenimiento de registros no es el mejor, es probable que lo lleves todo en tu cabeza. Tienes una oportunidad única, aparentemente de la nada, para llevar tu trabajo a casa de algún modo. Es un buen momento para establecer un negocio basado en tu hogar o incluso hacer de la construcción o la decoración de casas tu nuevo trabajo. ¡Usa tus habilidades para obtener los mejores resultados!
+Un sentimiento de expansión y repentina revelación podría darte una idea que simplemente no puedas contener. Ya que hay cierta actividad en tu sector de relaciones serias y matrimonio, las mejores nociones de hacer dinero pueden provenir de estas áreas. Crea una lluvia de ideas con respecto al matrimonio y la familia y puede que formules una idea para un libro, programa de entrenamiento, o un producto de mucho interés. Venderlo no va a ser difícil.

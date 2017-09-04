@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 28 de agosto 2017 al 03 de septiembre 2017 
-description: Horóscopo semanal acuario 28 de agosto 2017 al 03 de septiembre 2017. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: acuario 04 de septiembre 2017 al 10 de septiembre 2017 
+description: Horóscopo semanal acuario 04 de septiembre 2017 al 10 de septiembre 2017. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: 4Rspm_8rMVg
+ video: wXT6yp7CSq0
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-28'
+ lastmod: '2017-09-04'
 ---
 
 
 
-## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
 
-Madura acuario, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte acuario, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu acuario, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-Tus creencias podrían ser un problema conforme Júpiter en tu sector de sabiduría superior choca con Plutón en tu sector espiritual. Si te estás aferrando a emociones y maneras de pensar del pasado, podrías estar resistiéndote a una oportunidad para liberarte de ellas y adoptar una filosofía que te ayude a disfrutar de un mayor éxito. Aferrarte podría demandar más energía que soltar y pasar al siguiente nivel. Si tienes la voluntad para analizar la situación, puede que una de tus amistades tenga consejos pertinentes.  
+
+Con Júpiter en Libra creando un incómodo ángulo con Plutón en tu sector hogareño, un problema familiar podría llegar a un punto crítico, lo que significa que podría dar como resultado un importante logro. Sin embargo, necesitarás mucho tacto y diplomacia —tal vez más de lo usual— para ayudar a que esto sea una realidad. Con Venus, tu planeta regente, trasladándose al sector superior de tu carta, tus excelentes sugerencias podrían hacer la diferencia y hacer que esto tenga una provechosa conclusión.  
 
 ## Dinero
 
-Estás atrapado/a en un dilema. Hay acción en el frente de profesión y en el campo de las oportunidades. Sin embargo, estás siendo conducido/a por un estrecho sendero hacia el lidiar con tu situación en cuanto a cómo te relacionas. Puedes hacerlo a solas por sólo un determinado tiempo. Busca la mayor cantidad de ayuda que puedas encontrar.
+Esta semana, te desafía cierto aspecto en tu sector de carrera y autoridad. Aunque puede traer noticias e incentivos adicionales a esta área, puede que no te sientas de lo mejor con lo que está sucediendo. O puede que lo percibas como un golpe a tu ego. Debes saber que lo que sucede no es personal y sólo mejorará tus oportunidades para el futuro.

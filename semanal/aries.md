@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 28 de agosto 2017 al 03 de septiembre 2017 
-description: Horóscopo semanal aries 28 de agosto 2017 al 03 de septiembre 2017. Estás en una etapa súper confusa aries, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+title: aries 04 de septiembre 2017 al 10 de septiembre 2017 
+description: Horóscopo semanal aries 04 de septiembre 2017 al 10 de septiembre 2017. Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: 9blQ87bcxs0
+ video: OBVq5SVmah0
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-08-28'
+ lastmod: '2017-09-04'
 ---
 
 
 
-## Estás en una etapa súper confusa aries, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+## Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 
-Está bien hacerse ilusiones aries, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas aries, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada aries. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
-Con el Sol en un sector más dinámico de tu carta astral, tienes la oportunidad de mostrar habilidades y talentos que podrían hacer que las personas indicadas se fijen en ti. Claramente no es el momento para que escondas tus habilidades o sientas modestia con respecto a lo que sabes hacer. Aprovecha cada oportunidad para mostrar tus bienes y servicios para que los demás puedan ver lo genial que eres. No te olvides de vestirte para la ocasión, ya que esto puede contribuir a que los demás se relacionen contigo.
+No puedes esperar a que las cosas pasen aries, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres aries, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA aries. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+Una relación podría ser el catalizador para que entres en acción o tomes una decisión que podría cambiar tu vida de una manera impresionante. Tu manera de pensar puede inclinarse hacia el futuro cuando un encuentro te permite ver las posibilidades que nunca tuviste en cuenta. Además, Venus, tu planeta regente, entra en fase retrógrada el sábado, por lo que mejor evita comprometerte con una persona o sociedad hasta después del 15 de abril. Sabrás exactamente qué hacer en ese momento.
 
 ## Dinero
 
-Puede que tu progreso financiero haya disminuido, pero las cosas están definitivamente mejorando. Se te pide que investigues tus gastos en cuestiones relacionadas con la familia, los niños, romance y diversión. Puede que te des cuenta de que había más de los que pensabas. El recortar algunos de estos -aunque sea un poco- podría significar más diversión a largo plazo, junto con menos preocupación. Te mereces un futuro libre de estrés.
+Es una semana ideal para pensar en iniciar un nuevo negocio. Tu trabajo está cambiando, al igual que tu imagen de dinero. El ir con la corriente significa que debes aceptar lo que está sucediendo ahora en lugar de tratar de resistirte a ello. Tus relaciones no sólo son importantes sino también un sueño perfecto para este momento de tu vida.
