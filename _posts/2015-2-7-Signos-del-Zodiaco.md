@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 09 de septiembre 2017
-description: Horóscopos del dia de hoy 09 de septiembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 10 de septiembre 2017
+description: Horóscopos del dia de hoy 10 de septiembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Con su intensa comunicación, el día de hoy es una llamada para deshacerse de una buena parte de lo que le llega a uno con el fin de encontrar lo bueno. Sí, hay cosas buenas. Esta noche, el sextil entre la Luna y Marte aumenta la atracción magnética. Lo positivo es que descubrirás compatibilidad más allá de la química.
+Las posibilidades latentes se vuelven viables cuando Urano tornándose directo les lanza una nueva perspectiva a las cosas. Es en momentos como éstos cuando es aconsejable reevaluar las opiniones. Esta noche, el cambio y la renovación del espíritu son temas poderosos a medida que los elementos son puestos claramente bajo enfoque. Lánzate a ello. Siente el ritmo y el flujo de la vida.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
