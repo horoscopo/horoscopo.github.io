@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 04 de septiembre 2017 al 10 de septiembre 2017 
-description: Horóscopo semanal tauro 04 de septiembre 2017 al 10 de septiembre 2017. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+title: tauro 11 de septiembre 2017 al 17 de septiembre 2017 
+description: Horóscopo semanal tauro 11 de septiembre 2017 al 17 de septiembre 2017. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: 2NvuXyt5dEo
+ video: EjyCTfjeHis
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-04'
+ lastmod: '2017-09-11'
 ---
 
 
 
-## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 
-Tienes grandes planes tauro, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes tauro, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el tauro de siempre…
-Que no te sorprenda sentirte más emocional de lo usual durante esta semana. De ser así, puede que te sea útil quitar algunos compromisos de tu agenda y, tal vez, delegar parte de tu trabajo. El motivo puede ser un incómodo aspecto que podría hacer resurgir sentimientos del pasado. Si dejas que estos interfieran en tu experiencia, esto podría afectar tu trabajo y cualquier decisión clave. Hablar con alguna de tus amistades cercanas o con un confidente sobre tus asuntos puede ayudarte a tener más tranquilidad.
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final. 
+El vínculo del Sol con Mercurio retrógrado en tu sector de estilo de vida podría motivarte para retomar una rutina saludable que quedó a medio camino. Esta motivación podría surgir después de una semana de excesos y por el deseo de limpiar tu organismo y desintoxicarte. Nuevas ideas que podrían llevar tu vida por un camino más positivo te llevan a entrar en acción. Sin embargo, evita tomar el camino fácil. La paciencia es la clave para avanzar si te estás preparando para una nueva y dinámica oportunidad.
 
 ## Dinero
 
-Es una semana muy ocupada para ti. Ciertos aspectos afectarán tu sector de dinero y valores, aumentando tus fondos, lo cual es genial. También te ayuda a hacer un plan para que tu dinero vaya más lejos. Utiliza una calculadora de ahorro para el retiro (disponible en línea) para ayudarte a ver cuánto necesita ahorrar cada mes para poder disfrutar de una vida cómoda después del retiro.
+Ahora tienes una situación de buenas noticias/malas noticias en tus manos. La buena noticia es que tu sector de carrera y figuras de autoridad se ve afectado positivamente, lo que indica un tiempo de mejores oportunidades y un mayor acceso a flujos de efectivo. La mala noticia es que puede que creas que no necesitas cambiar. Trata de salir adelante mediante la cooperación, no la lucha.

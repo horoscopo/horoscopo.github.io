@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 04 de septiembre 2017 al 10 de septiembre 2017 
-description: Horóscopo semanal cancer 04 de septiembre 2017 al 10 de septiembre 2017. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: cancer 11 de septiembre 2017 al 17 de septiembre 2017 
+description: Horóscopo semanal cancer 11 de septiembre 2017 al 17 de septiembre 2017. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: do1gLXVxOG4
+ video: SNIB6PGISlg
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-04'
+ lastmod: '2017-09-11'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 
-Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien cancer pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
-Existe un cambio positivo en el aire esta semana que te reavivará y fortalecerá. A medida que Marte, seguido por el Sol, ingresa a tu signo, sentirás que estás en tu elemento y que estás a punto de enfrentarte al próximo gran proyecto o de hacer algunos cambios importantes. Antes de esto, sería útil tener cuidado con lo que prometes, ya que dar un impulsivo “sí” a un pedido podría significar que no puedas cumplirlo. Sería mejor que primero reflexiones sobre lo que involucraría el aceptar.
+Es muy importante que eches la vista atrás cancer, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
+Esta puede ser una excelente semana para las finanzas, el trabajo y el progreso laboral si juegas bien tus cartas. Ya tienes la confianza para conseguir los acuerdos que querías y sientes la seguridad de que todo se dará a tu favor, siempre y cuando sepas lo que quieres. Con una actitud honesta y madura puedes obtener grandes cosas. Puede también que las influencias artísticas y musicales sean fuertes ahora. Asistir a un evento cultural podría hacerte sentir muy vivaz. Si necesitas tomarte un pequeño descanso, hazlo.
 
 ## Dinero
 
-El Universo está aumentando ahora tu capacidad de ganar. Esta es una gran noticia para tu estado de ánimo, que puede estar vinculado a la libertad que percibes como la que te otorga el dinero, y una buena noticia para tu ambición, que tiende a estar ligada a la forma en la que percibes tu justa compensación. A medida que tus metas profesionales empiezan a hacerse realidad, el flujo de efectivo también mejora. ¿Qué podría no gustarte de tu vida ahora?
+Ciertos aspectos en tu sector que gobierna el flujo de efectivo, indican un tiempo de renovación de tu cuenta bancaria. Podrías utilizar un poco de suerte por ahora, pero tal vez te conformes con un poco de energía concentrada aquí. Tendrás mucha más energía para la planificación de tu vida monetaria y una actitud entusiasta sobre la realización de tus metas. Un aspecto armonioso llega cuando buscas pistas para hacer tus sueños realidad.

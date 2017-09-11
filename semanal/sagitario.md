@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 04 de septiembre 2017 al 10 de septiembre 2017 
-description: Horóscopo semanal sagitario 04 de septiembre 2017 al 10 de septiembre 2017. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+title: sagitario 11 de septiembre 2017 al 17 de septiembre 2017 
+description: Horóscopo semanal sagitario 11 de septiembre 2017 al 17 de septiembre 2017. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro sagitario, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: EwyCyFcs38o
+ video: eD3qtR2AUFw
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-04'
+ lastmod: '2017-09-11'
 ---
 
 
 
-## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro sagitario, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 
-Siempre has tenido un fuerte instinto de supervivencia sagitario, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces cangrejo y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
-Si bien las oportunidades para la diversión y las placenteras experiencias siguen presentándose, hay un cambio en el aire esta semana que podría fomentar una actitud de más dedicación. Este cambio de actitud puede producirse como resultado de los costosos errores cometidos al principio de la semana. El deseo de organizarte y enfocarte en llevar una vida más limpia y más saludable parece ser lo mejor de aquí en adelante. La Luna Nueva del domingo puede ayudarte a lograr tus objetivos.
+La zona de confort es un sitio bonito sagitario, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más sagitario, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto sagitario, y tú mismo te lo notas, no la cagues por nada ni por nadie.
+La semana comienza como Venus entrando a Sagitario y a tu sector de viajes y aventura. Esto puede llamarte a explorar nuevos escenarios y a conocer a gente fascinante como resultado. Con un potente enfoque en la parte superior de tu carta, una oportunidad puede parecer lo suficientemente valiosa como para luchar por ella. Incluso si tienes que superar grandes obstáculos para poner las cosas en acción, te prepararás para ello. Puede que a veces tengas que elegir entre ser agradable y hacer lo que debes, sobre todo porque fuertes emociones podrían estar gobernando la presente situación. 
 
 ## Dinero
 
-Tienes algunos retos esta semana. Aunque te sientas con energía para tenerlo todo listo, puede que tengas algunos problemas en tu lugar de trabajo o cuando se trata de tus grandes metas profesionales. Este pequeño contratiempo es sólo eso. Se moverá hacia el pasado casi tan pronto como suceda. El Universo te pide que seas audaz y te enfoques ahora.
+Es posible que esta semana te reveles contra figuras de autoridad, por lo menos en tu mente. Los aspectos indican que necesitarás ayuda para mantener la calma. Es seguro que estás más comunicativo/a, pero trata de no ser demasiado agresivo/a en cuanto a lo que quieres y necesitas. Los demás también tienen que ser tomados en cuenta. Algunas restricciones y limitaciones pueden hacerte sentir como si fuera personal, pero lo más probable es que realmente no lo es.

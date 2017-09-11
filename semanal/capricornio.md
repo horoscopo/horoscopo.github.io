@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 04 de septiembre 2017 al 10 de septiembre 2017 
-description: Horóscopo semanal capricornio 04 de septiembre 2017 al 10 de septiembre 2017. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+title: capricornio 11 de septiembre 2017 al 17 de septiembre 2017 
+description: Horóscopo semanal capricornio 11 de septiembre 2017 al 17 de septiembre 2017. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: DJVLKlfFccs
+ video: qgpudh5kw38
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-04'
+ lastmod: '2017-09-11'
 ---
 
 
 
-## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+## 
 
-Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
- sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
-Si tienes la autoestima baja, no te preocupes, es pasajero. Puede que esta influencia te haga sentir que no vale la pena socializar o pasar tiempo con tus mejores amigos, pero ese no es para nada el caso. A las personas que conoces les encantará verte. Lo único que debes hacer es llamarlas o simplemente visitarlas. Esta fase pasajera no es nada para preocuparse; un poco de compañía te hará sentir mucho mejor. Darte tiempo para pensar puede ayudarte si un problema que perdura necesita solución.
+Esta semana va a estar cargada de altibajos capricornio, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre capricornio, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza capricornio, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite capricornio, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
+Esta puede ser una semana positiva o una especie de renacimiento a medida que el Sol entra a tu signo después de pasar por un sector más místico de tu carta astral. La claridad podría hacer su aparición durante los próximos días, junto con el deseo de poner en marcha los planes que hace semanas vienes soñando. Otra estupenda alineación podría motivarte para que explores las posibilidades relacionadas con un encuentro reciente. La manera inspirada de ver la vida de esta persona podría ser un catalizador para ti.
 
 ## Dinero
 
-Esta semana se trata de los aspectos afortunados que te dan una fuerza de conexión con la tierra para evitar que tu situación económica actual se te suba mucho a la cabeza. Tu sector de trabajo se activa, por lo que podrías tener más trabajo (especialmente si has estado desempleado) y adición a tus responsabilidades. Al mismo tiempo, el gasto se reducirá para que pueda ponerte al día con la deuda. Mantén el rumbo, vas en la dirección correcta.
+Eres una fuente inagotable de expresión personal. Tu individualidad, en particular, es importante ahora. Los aspectos apoyan esta posición, afectando a las actividades familiares, el romance, los niños y la diversión. La forma en la que llevas esto, para bien o para mal, puede marcar la diferencia entre el recibir aceptación o no. ¡Empieza con tu mejor pie! Mientras tanto, piensa en lo que tienes que dejar ir. ¿Realmente necesitas esas botas que has tenido desde 1992?
