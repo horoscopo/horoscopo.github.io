@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de septiembre 2017
-description: Horóscopos del dia de hoy 12 de septiembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de septiembre 2017
+description: Horóscopos del dia de hoy 13 de septiembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Las personas suelen malinterpretar las cosas cuando la Luna cuadra a Neptuno. ¿La clave? Evita pensar que tus instintos están en lo correcto, porque puede que simplemente no lo estén. La Luna aspectando al impredecible Urano disminuye las posibilidades de que haya tranquilidad esta noche. La buena noticia, es posible estar en desacuerdo, reconciliarse y olvidarse del porqué unos minutos más tarde.
+Marte en Libra crea una nueva línea de tiempo con la que es prudente mantener el equilibrio y evitar dispersar tu atención en toda dirección. Es un buen tránsito para el trabajo en equipo que es entusiasta. Mercurio les da un ligero matiz a los acentos cuando los opuestos se atraen. Aquellos que conoces no son aburridos, ¡y tú tampoco lo eres!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
