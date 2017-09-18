@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 11 de septiembre 2017 al 17 de septiembre 2017 
-description: Horóscopo semanal tauro 11 de septiembre 2017 al 17 de septiembre 2017. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: tauro 18 de septiembre 2017 al 24 de septiembre 2017 
+description: Horóscopo semanal tauro 18 de septiembre 2017 al 24 de septiembre 2017. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: EjyCTfjeHis
+ video: asWYFwxVgt8
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-11'
+ lastmod: '2017-09-18'
 ---
 
 
 
-## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 
-Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final. 
-El vínculo del Sol con Mercurio retrógrado en tu sector de estilo de vida podría motivarte para retomar una rutina saludable que quedó a medio camino. Esta motivación podría surgir después de una semana de excesos y por el deseo de limpiar tu organismo y desintoxicarte. Nuevas ideas que podrían llevar tu vida por un camino más positivo te llevan a entrar en acción. Sin embargo, evita tomar el camino fácil. La paciencia es la clave para avanzar si te estás preparando para una nueva y dinámica oportunidad.
+No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado tauro, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+Esta es una semana interesante. Un tránsito intenso y oportunista que se extiende durante cinco días antes y después del 24 de noviembre te puede parecer apasionante. Debes tener en cuenta los costos y los detalles importantes. El Sol en tu zona de dinero puede hacer que veas tanto las razones que pueden beneficiarte como las que no. La clave está en que sepas reconocer si quieres aprovechar esta oportunidad al máximo y alcanzar el éxito. Si tomas un poco de distancia, puedes tomar decisiones más informadas.
 
 ## Dinero
 
-Ahora tienes una situación de buenas noticias/malas noticias en tus manos. La buena noticia es que tu sector de carrera y figuras de autoridad se ve afectado positivamente, lo que indica un tiempo de mejores oportunidades y un mayor acceso a flujos de efectivo. La mala noticia es que puede que creas que no necesitas cambiar. Trata de salir adelante mediante la cooperación, no la lucha.
+Probablemente tienes un fuerte deseo de seguridad financiera. Para algunos esto puede traducirse en el deseo de controlar, mientras que para otros es sólo un deseo. Es hora de expresar lo que quieres y dejar que tus necesidades sean conocidas dentro de las alianzas empresariales y la oficina. Tienes la capacidad de comunicación y la creatividad para alcanzarlo.

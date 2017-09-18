@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 11 de septiembre 2017 al 17 de septiembre 2017 
-description: Horóscopo semanal geminis 11 de septiembre 2017 al 17 de septiembre 2017. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: geminis 18 de septiembre 2017 al 24 de septiembre 2017 
+description: Horóscopo semanal geminis 18 de septiembre 2017 al 24 de septiembre 2017. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: T3Dz_XYKuCw
+ video: k0XgAxLkXLo
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-11'
+ lastmod: '2017-09-18'
 ---
 
 
 
-## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 
-Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
-Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
-como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
-Puede que otras personas te parezcan inspiradoras, cautivantes, e incluso a veces, confusas, pero seguro no te aburrirás. También te mantendrán adivinando. Sin embargo, tú tienes planes propios en los que debes enfocarte, por lo que deberías establecer el límite si una persona parece no cooperar por alguna razón. Una vez que hayas completado tu lista de asuntos pendientes, te sentirás mucho mejor por haberte puesto firme y tomado el control. Con Mercurio avanzando, cualquier frustración o demora puede comenzar a disiparse.
+Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
+Con el simpático Mercurio, tu planeta guía, regresando a tu sector de espiritualidad, tal vez descubras que estás más en contacto con tus sentimientos, en especial con el enojo reprimido. Esto no significa que debas expresarlo, sino buscar la fuente. De la misma forma, quizás también quieras canalizar esta energía a través de ejercicio vigoroso o trabajo duro. Si lo haces, te puedes sentir en forma o hacer más cosas de las que has hecho en algún tiempo. Por otro lado, un negocio que funcione desde tu casa podría tener mucho éxito ahora.
 
 ## Dinero
 
-Es hora de mostrar una presencia real con tu ropa, tu conducta y manera de hablar. No hay lugar para personas tímidas aquí, solo personas con autoridad y claridad pueden dar su punto a entender con eficacia. Acude a tu hogar para obtener ideas para ahorrar dinero o formas de ganar dinero. Un negocio basado en tu hogar no es una mala idea en lo absoluto.
+Destaca esta semana la necesidad de actualizar tu conjunto de habilidades. El fomentar tu educación no sólo te hace sentir más confianza en lo que puedes hacer, pero también recibe a otros en el hábito de percibirte como un/a experto/a en tu campo. Es posible que necesites incorporar conocimientos de vidas pasadas. No tienes que saber por qué eres bueno/a en algo, simplemente lo eres.
