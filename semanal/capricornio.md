@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 11 de septiembre 2017 al 17 de septiembre 2017 
-description: Horóscopo semanal capricornio 11 de septiembre 2017 al 17 de septiembre 2017. 
+title: capricornio 18 de septiembre 2017 al 24 de septiembre 2017 
+description: Horóscopo semanal capricornio 18 de septiembre 2017 al 24 de septiembre 2017. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no capricornio. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: qgpudh5kw38
+ video: yL-Q62ja6eE
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-11'
+ lastmod: '2017-09-18'
 ---
 
 
 
-## 
+## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no capricornio. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 
-Esta semana va a estar cargada de altibajos capricornio, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre capricornio, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza capricornio, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite capricornio, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
-Esta puede ser una semana positiva o una especie de renacimiento a medida que el Sol entra a tu signo después de pasar por un sector más místico de tu carta astral. La claridad podría hacer su aparición durante los próximos días, junto con el deseo de poner en marcha los planes que hace semanas vienes soñando. Otra estupenda alineación podría motivarte para que explores las posibilidades relacionadas con un encuentro reciente. La manera inspirada de ver la vida de esta persona podría ser un catalizador para ti.
+No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
+Esta semana te pones en marcha para concretar una cierta idea, una idea que puede abrirte puertas. No es algo por lo que debas apurarte, ya que requiere paciencia para que funcione a tu favor. Es posible que quieras hacerlo de la manera más fácil, pero no vale la pena. La entrada de Venus a tu signo puede motivarte para que te dediques a una renovación festiva o compres ropa nueva que te ayude a distinguirte de los demás.
 
 ## Dinero
 
-Eres una fuente inagotable de expresión personal. Tu individualidad, en particular, es importante ahora. Los aspectos apoyan esta posición, afectando a las actividades familiares, el romance, los niños y la diversión. La forma en la que llevas esto, para bien o para mal, puede marcar la diferencia entre el recibir aceptación o no. ¡Empieza con tu mejor pie! Mientras tanto, piensa en lo que tienes que dejar ir. ¿Realmente necesitas esas botas que has tenido desde 1992?
+Puede que te encuentres considerando todos los ángulos. Considera cómo buscar las verdades más profundas en tu vida. En este momento, regresar a la escuela, aprender un idioma o ir a un viaje educativo podría ser justo lo que necesitas para regresar a tu ritmo. Conéctate con los sueños que has tenido durante mucho tiempo y que no se hayan realizado. El dinero llega cuando te permites hacer lo que quieres hacer y lo que te gusta.

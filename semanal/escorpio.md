@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 11 de septiembre 2017 al 17 de septiembre 2017 
-description: Horóscopo semanal escorpio 11 de septiembre 2017 al 17 de septiembre 2017. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado escorpio, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+title: escorpio 18 de septiembre 2017 al 24 de septiembre 2017 
+description: Horóscopo semanal escorpio 18 de septiembre 2017 al 24 de septiembre 2017. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca escorpio.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: 2HRX3MLuyv0
+ video: KdDDPBgYkco
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-11'
+ lastmod: '2017-09-18'
 ---
 
 
 
-## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado escorpio, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca escorpio.
 
-Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca escorpio. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder escorpio pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias escorpio, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
-Parece que tendrás muchas cosas que hacer en las próximas semanas, como tareas generales administrativas, escribir, investigar y actividades en línea. Esto puede ser gratificante y darte muchas oportunidades para comunicarte y promocionar tu mercadería y tus servicios. Con el vivaz Mercurio volviéndose directo, aún tendrás que prestar atención a los mensajes mixtos o a los posibles problemas hasta el fin de semana, cuando todo empiece a volver a la normalidad. 
+A veces sientes como si no avanzaras escorpio, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba escorpio, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo escorpio, feliz semana.
+El cosmos te invita a disfrutar de esas prácticas que por naturaleza conoces bien. Por otra parte, las próximas semanas te pueden proporcionar la oportunidad de mostrar tus habilidades y hacerles saber a los demás el mucho talento que tienes. Ya sea que te dediques a la cocina, al arte o a la música, este no es momento para ocultar tu luz. ¡Déjala brillar! Por otro lado, una mezcla agitada de energías podría hacerte impaciente hacia alguien. Comportarte comprensiva y diplomáticamente podría ser la mejor respuesta.
 
 ## Dinero
 
-Puede que esta semana tengas dificultades para encontrar tu propia voz creativa en el trabajo. La creatividad y el talento definitivamente están allí. Lo que se necesita es una forma inteligente de exponer tus habilidades. Puesto que esto afecta el área asociada con la deuda y la recaudación de fondos, esto puede significar que primero tienes que pagar algo antes de lanzar un esfuerzo creativo o recaudar más dinero. Mantén el presupuesto factible.
+Es posible que te hayas estado preocupado por dinero últimamente, sobre todo tu deuda, la cual podría haber permanecido sin resolver durante gran parte del año. Ahora, con algunos aspectos positivos, es el momento de abordarla por última vez. Esto podría implicar el corte de las tarjetas de crédito. O podría tratarse de hacer un plan de pago al que puedas apegarte hasta que sea pagado. Puedes finalmente hacer que suceda, así que no te demores.
