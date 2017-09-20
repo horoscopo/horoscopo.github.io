@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de septiembre 2017
-description: Horóscopos del dia de hoy 18 de septiembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 20 de septiembre 2017
+description: Horóscopos del dia de hoy 20 de septiembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Estás fuera de orden, dice la oposición Mercurio/Urano. Por supuesto que cuando estás tarde, todo lo que necesitas no funciona. Lee las instrucciones primero. Si no tienes pareja, la noche está llena de historias, por lo que no creas la ficción de esta noche, cuando los enredos románticos se hagan posibles. Por su parte, las parejas prefieren dar sólo pistas en lugar de simplemente comunicarse.
+Esta es tu última oportunidad durante las pocas horas restantes de disponibilidad en las que Marte se encontrará en Géminis. No ignores los puntos esenciales. El reloj está avanzando. Los solteros entran al mundo de la regla de los 30 segundos bajo la Luna fuera de órbita en Virgo de esta noche, ofreciéndoles poca oportunidad de defenderse a aquellos que sean plásticos o falsos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
