@@ -21,6 +21,8 @@ sitemap:
                <link rel="stylesheet" title="default" href="#">
                <title>{{ post.title | xml_escape }}</title>
                <meta property="fb:article_style" content="default">
+               <meta property="op:markup_version" content="v1.0">
+               <meta property="fb:likes_and_comments" content="enable">
             </head>
             <body>
                <article>
@@ -33,6 +35,7 @@ sitemap:
                      <address>
                      Horóscopo del día
                      </address>
+                     <time class="op-published" datetime="2016-11-11T04:44:16Z" />
 
                      <time class="op-modified" dateTime='{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}' />
                      
@@ -43,7 +46,7 @@ sitemap:
                   </header>
                   
                   {% if post.horoscopo.video %}
-                  <figure class="op-social">
+                  <figure class="op-interactive">
                         <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ post.horoscopo.video }}" allowfullscreen></iframe>
                   </figure>
                   {% endif %}
@@ -56,7 +59,11 @@ sitemap:
                         <figcaption>{{ post.title | xml_escape }}</figcaption>
                   </figure>
                   {% endif %}                  
-
+                  
+                  <figure class="op-ad">
+                     <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=260628817615223_518447105166725&adtype=banner300x250"></iframe>
+                  </figure>
+                  
                   <footer>
                   <ul class="op-related-articles">
                      <li data-sponsored="true"><a href="{{ site.url }}"></a></li>
