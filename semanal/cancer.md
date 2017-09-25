@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 18 de septiembre 2017 al 24 de septiembre 2017 
-description: Horóscopo semanal cancer 18 de septiembre 2017 al 24 de septiembre 2017. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+title: cancer 25 de septiembre 2017 al 01 de octubre 2017 
+description: Horóscopo semanal cancer 25 de septiembre 2017 al 01 de octubre 2017. Quita importancia a las cosas cancer, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: jQPPZwrm8gM
+ video: d1hkPawG4ew
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-18'
+ lastmod: '2017-09-25'
 ---
 
 
 
-## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+## Quita importancia a las cosas cancer, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 
-
-Las energías estimulantes de Marte en tu signo reaniman y revitalizan tus sueños y deseos. Se crea un ambiente interactivo a medida que el Sol entra a tu sector social. Cuando se trata de ocasiones festivas, tú te encargas de organizarlo todo y te aseguras de que todos estén contentos. Pero con Mercurio retrógrado, que no te sorprenda si una o dos de tus amistades no pueden ir, o si debes modificar tu plan a último momento. Aun así, tu mente está enfocada en proyectos más ambiciosos.
+Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí cancer, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
+Tu sector de relaciones está bajo enfoque, en especial con los afables Sol y Marte iluminando tu sector de relaciones y animándote a explorar el potencial de una nueva amistad o romance. Lo que te interesa sobre otra persona puede ser una historia que te cuenta o una experiencia que haya vivido que capture tu imaginación y te deje con ganas de más. Pero las cuestiones comerciales también se muestran muy activas a medida que otra positiva conexión fomenta una reunión que podría dirigirte hacia a un nuevo proyecto o contrato.  
 
 ## Dinero
 
-Puede que creas que algo en el trabajo es demasiado bueno para ser verdad - porque lo es. En lugar de ver esto a través de lentes color de rosa, simplemente sé realista. El mejor uso de esta energía es a través de la imaginación y la creatividad, no el engaño. Aunque los aspectos crean una gran cantidad de energía, prepárate para un viaje lleno de baches.
+Es necesario que esta semana recuerdes lo que aportas a la mesa. Tu panorama de deuda está a punto de ponerse de color de rosa, porque es posible establecer con cuidado y de manera realista los planes de pago con los bancos y los acreedores. Pero puede que no puedas conseguir todo el apoyo que requieres de tus redes sociales. En lugar de venderte a un precio muy caro, recuerda lo que tienes que dar. Es mejor el saber lo que vales, aunque no sea evidente ahora.

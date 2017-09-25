@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: libra 18 de septiembre 2017 al 24 de septiembre 2017 
-description: Horóscopo semanal libra 18 de septiembre 2017 al 24 de septiembre 2017. Cada día que pasa te das más cuenta de que mereces cosas buenas libra, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: libra 25 de septiembre 2017 al 01 de octubre 2017 
+description: Horóscopo semanal libra 25 de septiembre 2017 al 01 de octubre 2017. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: ypW44xSvhvs
+ video: epCGXNPn0KQ
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-18'
+ lastmod: '2017-09-25'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas libra, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-No te bajonees porque un día no hayas conseguido todo lo que te habías propuesto, al día siguiente podrás crear otro tipo de oportunidades que te lleven a donde quieres. 
-Roma no se hizo en un día. Y sal un poco más, que hay gente que te echa de menos, que echa de menos tu positividad, tus risas, tu ingenio, tus ganas…
-Estarás en tu elemento una vez que el Sol ingrese a tu signo a mediados de la semana. Ahora es el momento para darles vida a tus sueños actuando acorde aquellos que más te atraen. Una idea que te entusiasmó en el pasado puede volver a aparecer y colocarse en lo alto de tu lista de prioridades. Además, Marte se mueve a tu sector de finanzas personales y esto puede animarte a observar las condiciones actuales y hacer que tu dinero trabaje más para ti. 
+Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante. 
+Tu sector social está muy activo, pero con el movimiento del vivaz Mercurio en conexión con el fogoso Marte, no tendrás miedo a dar tu opinión. Es más, puede que las demás personas se irriten cuando lo hagas e incluso te respondan. Si quieres conservar la paz en los próximos días, sería recomendable que pienses en cómo abordas ciertos temas. Por otra parte, mantente alerta ya que puede que tengas la oportunidad de demostrar una nueva habilidad.
 
 ## Dinero
 
-Te enfrentas a algunas decisiones sobre el dinero esta semana. Aunque por lo general eres bastante inteligente cuando de dinero en efectivo se trata, puede ser que los aspectos te hagan sentir confusión de alguna manera. Comprueba doblemente las cifras antes de invertir tu dinero, al igual que debes revisar tus propias cuentas o la forma en la que lleves las cuentas (sobre todo con el balance de tu chequera). Es posible que algunas cuentas no salgan bien por ahora, sin embargo los aspectos se aseguran de que por lo menos estés bien conectado/a y te mantengas estable.
+Tu sector de relaciones hace clara más que nunca la importancia de las alianzas positivas con jefes, superiores, mentores y clientes. Nunca te confíes en que estás relaciones  simplemente funcionarán. Sé proactivo/a en la formación, mantenimiento y avance de aquellas que son más útiles para tu vida laboral y monetaria. El enfoque se centra en mejorar tu educación, viajar y aprender sobre otras culturas e idiomas. Todos pueden avanzar en tu causa.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 18 de septiembre 2017 al 24 de septiembre 2017 
-description: Horóscopo semanal geminis 18 de septiembre 2017 al 24 de septiembre 2017. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: geminis 25 de septiembre 2017 al 01 de octubre 2017 
+description: Horóscopo semanal geminis 25 de septiembre 2017 al 01 de octubre 2017. Todo acaba cicatrizando, pero tienes que dejar que cicatrice geminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: k0XgAxLkXLo
+ video: RyuqjG59_BQ
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-18'
+ lastmod: '2017-09-25'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## Todo acaba cicatrizando, pero tienes que dejar que cicatrice geminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 
-Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
-Con el simpático Mercurio, tu planeta guía, regresando a tu sector de espiritualidad, tal vez descubras que estás más en contacto con tus sentimientos, en especial con el enojo reprimido. Esto no significa que debas expresarlo, sino buscar la fuente. De la misma forma, quizás también quieras canalizar esta energía a través de ejercicio vigoroso o trabajo duro. Si lo haces, te puedes sentir en forma o hacer más cosas de las que has hecho en algún tiempo. Por otro lado, un negocio que funcione desde tu casa podría tener mucho éxito ahora.
+A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto geminis? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito geminis. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
+Los próximos días y semanas podrían hacer que modifiques tu antigua imagen para adaptarla a una perspectiva de vida nueva y más carismática. El eclipse solar en tu signo actúa como una Luna Nueva súper recargada, y puede parecer que todo es posible. Todo lo que necesitas hacer es poner tu plan en marcha. Además, con Saturno, el planeta de las limitaciones, ahora avanzando a grandes pasos luego de su fase retrógrada, la confianza puede comenzar a construirse, en especial en áreas de expresión personal y romance. ¡Un especial sueño podría hacerse realidad en el futuro cercano!
 
 ## Dinero
 
-Destaca esta semana la necesidad de actualizar tu conjunto de habilidades. El fomentar tu educación no sólo te hace sentir más confianza en lo que puedes hacer, pero también recibe a otros en el hábito de percibirte como un/a experto/a en tu campo. Es posible que necesites incorporar conocimientos de vidas pasadas. No tienes que saber por qué eres bueno/a en algo, simplemente lo eres.
+Recibes ayuda con tu vida emocional ahora. El Universo afecta la manera en la que procesas y expresas emociones, sobre todo cuando se trata de la forma en la que enseñas y aprendes nuevas habilidades. ¡Ahora recibes una gran cantidad de apoyo para el uso de redes sociales para estar en contacto con nuevas formas de compartir tus habilidades y ganar dinero en el proceso!

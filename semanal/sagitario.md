@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 18 de septiembre 2017 al 24 de septiembre 2017 
-description: Horóscopo semanal sagitario 18 de septiembre 2017 al 24 de septiembre 2017. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: sagitario 25 de septiembre 2017 al 01 de octubre 2017 
+description: Horóscopo semanal sagitario 25 de septiembre 2017 al 01 de octubre 2017. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: zG0ynkBSmW8
+ video: 63T6gIsVp34
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-18'
+ lastmod: '2017-09-25'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 
-No eres frágil sagitario, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo sagitario, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra sagitario, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz sagitario, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando sagitario, y sabes lo complicado que es salir de ahí después…
-Sientes que todo lo puedes esta semana cuando el enfoque cósmico se centra en tu signo, lo que te permite disfrutar ser quien realmente eres. No es el momento de quedarte en silencio, sino de expresar sin miedo tus necesidades, deseos, anhelos y también opiniones, por supuesto. Pero quizá sea prudente no comprometerte con una idea u oportunidad hasta el fin de semana o comienzo de la semana siguiente, cuando el panorama estelar esté mucho más estable. También tendrás una idea más clara de la situación en general.
+Sólo tú puedes salvar tu vida sagitario. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú sagitario. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+Con energías muy emocionantes en marcha, la próxima semana puede llevarte a tomar una decisión radical. Quizás la cuestión a cambiar haya sido bastante animada últimamente, y esta semana este enfoque continúa. Sin embargo, cuando se trata de tomar decisiones es útil comprender tus verdaderos motivos. ¿Qué es lo que realmente quieres? Si puedes responder a esto con total honestidad, podrías construir la vida de tus sueños. Pero primero, deberás dejar ir ciertas situaciones.
 
 ## Dinero
 
-Puede que encuentres que será mejor ser paciente en lugar de avanzar en las metas financieras de esta semana. Los aspectos afectan a la educación superior y los viajes, así como tu trabajo de todos los días. Estas dos áreas no están trabajando bien juntas, por lo que no es un buen momento para insistir en tomar tiempo libre para estudiar o viajar, o hacer caso omiso de tu educación para hacer lo que siempre haces. Comprométete.
+Esta semana te pide que pongas más atención en tu carrera. Si es que por lo general eres bastante tradicional y conservador/a por naturaleza, ahora es tu turno de hablar - un poco, por lo menos. Si dejas que los demás sepan cuáles son tus metas, incluyendo la posición y el sueldo que requieres, podrías ser sorprendido/a por la voluntad de tus empleadores de darte lo que pides. Sé extremadamente detallista con esto.

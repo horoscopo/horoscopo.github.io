@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 18 de septiembre 2017 al 24 de septiembre 2017 
-description: Horóscopo semanal acuario 18 de septiembre 2017 al 24 de septiembre 2017. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+title: acuario 25 de septiembre 2017 al 01 de octubre 2017 
+description: Horóscopo semanal acuario 25 de septiembre 2017 al 01 de octubre 2017. De verdad acuario, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: gtst3eOTAk8
+ video: _vAu6WN7KbM
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-18'
+ lastmod: '2017-09-25'
 ---
 
 
 
-## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+## De verdad acuario, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 
-No es que no te estés esforzando por conseguir tus propósitos, no es eso, es que, a menudo, por mucho que te esfuerces, si te rodeas de personas que te acaban chupando toda esa energía es como si nada valiera la pena, porque por un paso que das al frente, retrocedes dos por culpa de otros.
-Una relación podría dar un nuevo giro, en particular si te entusiasma que avance a un nuevo nivel de intimidad. Una dinámica influencia podría llevarte a que te comprometas a ser mejor acompañante para un ser amado, asociación de negocios o colaborador. Pero también es igual de posible que quieras desconectarte de alguien y seguir tu propio camino. Si tu instinto te dice que una relación ha expirado su curso natural, entonces quizás sea sabio escucharlo.    
+Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar. 
+Puede que necesites examinar un proyecto que ya hayas completado o revisar los detalles de un plan, y podrías ver que las cosas funcionan mucho mejor si haces esto. Con esto, debido a la fase retrógrada del comunicativo Mercurio, tal vez necesites tener cuidado en general para evitar contratiempos. Quizás también quieras verte y sentirte más saludable, en especial si quieres impresionar a cierta persona. Pero no hagas demasiadas cosas demasiado pronto. Tomarte tu tiempo puede asegurarte los beneficios de tus esfuerzos.
 
 ## Dinero
 
-Esta semana se trata no sólo de mejorar tu estilo personal (a pesar de que podría utilizar algo de ayuda también), sino también de la forma en que te expresas. Tiene ideas creativas acerca de cómo hacer esto, y sobre los medios para convencer a los demás de que tienes la razón. Después de todo, no todo el mundo va a estar de acuerdo con todos los cambios. Mientras tanto, ciertos aspectos aportan ideas únicas que nadie más tiene. Tu poder adquisitivo aumenta.
+Estás saliendo con una banda completamente nueva, y esto no puede hacerle daño a tu vida monetaria. Esta gente nueva sabe acerca de la buena comida y el vino, pero también saben cómo traer una cantidad seria de dinero. Estudia sus formas y puedes aprender los trucos que llevan utilizando por años. Al mismo tiempo, crea un plan de ahorros viables y con planes de inversión. Es ahora o nunca.

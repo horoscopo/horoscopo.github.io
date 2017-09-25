@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 18 de septiembre 2017 al 24 de septiembre 2017 
-description: Horóscopo semanal escorpio 18 de septiembre 2017 al 24 de septiembre 2017. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca escorpio.
+title: escorpio 25 de septiembre 2017 al 01 de octubre 2017 
+description: Horóscopo semanal escorpio 25 de septiembre 2017 al 01 de octubre 2017. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar escorpio porque no eres así. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: KdDDPBgYkco
+ video: 9C4LCjOK0I4
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-18'
+ lastmod: '2017-09-25'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca escorpio.
+## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar escorpio porque no eres así. 
 
-A veces sientes como si no avanzaras escorpio, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba escorpio, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo escorpio, feliz semana.
-El cosmos te invita a disfrutar de esas prácticas que por naturaleza conoces bien. Por otra parte, las próximas semanas te pueden proporcionar la oportunidad de mostrar tus habilidades y hacerles saber a los demás el mucho talento que tienes. Ya sea que te dediques a la cocina, al arte o a la música, este no es momento para ocultar tu luz. ¡Déjala brillar! Por otro lado, una mezcla agitada de energías podría hacerte impaciente hacia alguien. Comportarte comprensiva y diplomáticamente podría ser la mejor respuesta.
+Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
+Podrías ser el centro de atención durante esta semana y las próximas. El Sol y Marte en tu sector de ambiciones te animan a demostrar tus capacidades y habilidades, y hacerles saber a los demás lo que puedes hacer. Pero también tendrás una actitud dinámica y querrás esforzarte por lo que quieres. Si has tenido obstáculos para llegar al éxito en las últimas semanas, tendrás la confianza suficiente para hacerlos a un lado y forjar tu camino hacia la meta.
 
 ## Dinero
 
-Es posible que te hayas estado preocupado por dinero últimamente, sobre todo tu deuda, la cual podría haber permanecido sin resolver durante gran parte del año. Ahora, con algunos aspectos positivos, es el momento de abordarla por última vez. Esto podría implicar el corte de las tarjetas de crédito. O podría tratarse de hacer un plan de pago al que puedas apegarte hasta que sea pagado. Puedes finalmente hacer que suceda, así que no te demores.
+Cierta actividad en tu carta ahora afecta a tu sector de grupos, política y trabajo por cuenta propia. Es un buen momento para buscar entre tus contactos a alguien que pueda ser capaz de ayudarte a desarrollar una nueva idea de un producto que genere dinero. Tú tienes el “know-how”, pero otra persona tiene el dinero o las conexiones para llevarlo al siguiente nivel.
