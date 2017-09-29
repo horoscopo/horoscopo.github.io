@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de septiembre 2017
-description: Horóscopos del dia de hoy 27 de septiembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 29 de septiembre 2017
+description: Horóscopos del dia de hoy 29 de septiembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Prepárate para una gran cantidad de demandas y obligaciones mientras el Sol conjunte a Plutón hoy. Finaliza los proyectos y luego tómate una refrescante y rejuvenecedora pausa esta noche mientras la Luna forme trígono con el dúo Sol/Plutón. Los solteros experimentan una encantadora velada, principalmente porque alguien nuevo y fascinante aparece en la escena.
+Las cosas se reducen a meros hechos y pocos detalles cuando el trígono entre la Luna y Mercurio simplifica respuestas y explicaciones. La gente, los lugares y las cosas están presentes un momento y al otro se desvanecen como si fueran un espejismo bajo la Luna saliéndose de su órbita. Recuerda la conversación. Puede que tengas que regresar a ella de nuevo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
