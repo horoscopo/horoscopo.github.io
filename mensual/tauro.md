@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Tauro Septiembre 2017 
+title: Tauro Octubre 2017 
 permalink: /horoscopo-mensual/tauro/
-keywords: horóscopo, horóscopo 2017,  Septiembre, horoscopo Septiembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2017, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Octubre, horoscopo Octubre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2017, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-09-01'
+ lastmod: '2017-10-01'
 ---
 
- Te sentirás el centro de atención durante la luna llena del 6 de septiembre. Siéntete importante y popular sin importar quién esté o qué estés haciendo. Siente la magia y se hará real. La creatividad abunda con la luna llena del 19 de septiembre. Haz algo bello, romántico, delicioso, elegante y quizá hasta un poco sexy también. Es muy probable que el evento sea en tu hogar en vez de en un lugar público. Compra nuevos utensilios, compra flores y vístete elegante para sentirte bien. Puede que sea hora de decirle adiós a una de tus fantasías cuando Venus se oponga a Neptuno el 29 de septiembre. Esto dará paso a una realidad más agradable. 
+ Tus opiniones más privadas y proyectos apreciados ahora reciben un estímulo con la luna llena del 5 de octubre. Podrías conectar en privado con alguien que comparte tus pasiones más grandes. Puede que no vaya a ningún lado, pero puede ir lejos. Salud y felicidad van de la mano durante la luna nueva el 19 de octubre. Tu pareja o acompañante preferido te pedirá que te cuides mejor. A todos nos hace falta un poco de apoyo para recordarnos aquellos aspectos básicos pasados por alto, como descansar lo suficiente. El 27 de octubre, la cuadratura entre Venus y Plutón pone el romance bajo presión cuando los gustos o deseos podrían dar un giro hacia el lado salvaje. 

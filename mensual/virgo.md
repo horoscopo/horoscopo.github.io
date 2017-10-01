@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Virgo Septiembre 2017 
+title: Virgo Octubre 2017 
 permalink: /horoscopo-mensual/virgo/
-keywords: horóscopo, horóscopo 2017,  Septiembre, horoscopo Septiembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2017, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Octubre, horoscopo Octubre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2017, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-09-01'
+ lastmod: '2017-10-01'
 ---
 
- El 5 de septiembre, Mercurio se vuelve directo. La vida debería ser más simple y las presiones percibidas deberían empezar a desaparecer. El 6 de septiembre, la luna llena te recuerda todo el poderoso amor que hay en tu vida, pero puede que tengas otros asuntos emocionales que te nublen la vista. No critiques de más, porque así desalentarás al verdadero amor. Puede que la luna nueva del 19 de septiembre traiga consigo días más ocupados pero que sean menos productivos de lo que esperas. No te preocupes. Tómate tu tiempo y evita hacer las cosas más de una vez. De todos modos, a ti te gusta hacer las cosas bien. El sol sale de Virgo y entra a Libra el 22 de septiembre. Anímate y sal a divertirte. 
+ Haz uno o dos cambios fundamentales en tu trabajo o vida doméstica bajo la luna llena del 5 de octubre. Puedes incluso no hacerlo de forma consciente, pero notarás una gran mejora en tus finanzas y en una relación con una amistad o familiar poco después. Alrededor de la luna nueva del 19 de octubre, podrías recibir noticias sobre un asunto financiero. Un cheque podría acreditarse o un préstamo o refinanciamiento podría aprobarse. También es posible que te llegue un regalo monetario. El 24 de octubre, el trígono que Mercurio forma con Neptuno agrega un toque de inspiración para iluminar una idea que ya es brillante. Hazla relucir. 

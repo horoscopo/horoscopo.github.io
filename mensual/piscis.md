@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Piscis Septiembre 2017 
+title: Piscis Octubre 2017 
 permalink: /horoscopo-mensual/piscis/
-keywords: horóscopo, horóscopo 2017,  Septiembre, horoscopo Septiembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2017, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Octubre, horoscopo Octubre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2017, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-09-01'
+ lastmod: '2017-10-01'
 ---
 
- El 4 de septiembre, el Sol se opone a Neptuno. Confía en lo que sientes y sigue tus instintos. Piensa con más espiritualidad. A tu corazón le espera un alocado viaje durante la luna llena del 6 de septiembre, cuando tal conjunta con Neptuno. Las fantasías románticas y los ideales angelicales nunca suelen ser tan fuertes y numerosos. Los sueños también deben ser grandes. Bajo la Luna Nueva del 19 de septiembre, puede que tu corazón se inunde de amor, pero no será fácil y posiblemente para nada divertido. Puede que quieras dar y recibir de maneras muy intensas. Si te sientes mal, seguro será a causa de problemas imaginarios. Relájate si puedes. 
+ Los asuntos monetarios están iluminados por la luna llena del 5 de octubre. Un favor hecho en el pasado reciente puede regresar ahora en tu beneficio. Tal vez necesitas hacer algo por tu cuenta para hacer que esto comience, pero un pequeño esfuerzo debería ser suficiente. El 10 de octubre, Júpiter sale de Libra y entra al emocional Escorpión. Relaciónate sentimentalmente a un nivel más profundo y constructivo. La luna nueva del 19 de octubre te da la oportunidad de hacer una gran diferencia haciendo lo que para ti es pequeño, fácil y simple. Sin embargo, trata de no crear expectativas de gratitud apasionadas y exageradas. 

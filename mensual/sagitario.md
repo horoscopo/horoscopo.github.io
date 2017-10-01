@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sagitario Septiembre 2017 
+title: Sagitario Octubre 2017 
 permalink: /horoscopo-mensual/sagitario/
-keywords: horóscopo, horóscopo 2017,  Septiembre, horoscopo Septiembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2017, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Octubre, horoscopo Octubre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2017, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-09-01'
+ lastmod: '2017-10-01'
 ---
 
- Puede que la luna llena del 6 de septiembre se sienta como el momento ideal para relajarte y descansar, porque no quieres hacer más que recostarte, dormir y soñar. Sin embargo, puede que tu trabajo o tu vida social requieran más atención. Busca un punto medio. Para la luna Nueva del 19 de septiembre, eres la estrella en tu lugar de trabajo, en tu círculo social o en ambos. No es hora de relajarte y dejar que alguien más reciba toda la atención. En realidad, no eres una persona tímida, pero ahora las personas sienten una atracción instantánea hacia ti. Júpiter se opone a Urano el 27 de septiembre. Sé gentil y agradece todo lo que se te ofrezca sin importar qué sea. 
+ La creatividad (o quizás tan solo tu ya brillante sentido del humor) estallará durante la luna llena del 5 de octubre. Haz lo que haga más feliz a tu corazón sin gastarte en ello el dinero de la renta. Algunas amistades también quieren jugar e inspirarse. Júpiter sale de Libra y entra a Escorpión el 10 de octubre. Enfócate en lo que más te importa y haz un gran progreso durante los próximos meses. Durante la luna nueva del 19 de octubre, libérate de tu multitud social de siempre e intenta algo diferente. No lo pienses tanto. Quizás te concentras demasiado en el trabajo y podrías aprovechar algunas ideas nuevas para divertirte y entretenerte. 

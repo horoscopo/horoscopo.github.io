@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Septiembre 2017 
+title: Leo Octubre 2017 
 permalink: /horoscopo-mensual/leo/
-keywords: horóscopo, horóscopo 2017,  Septiembre, horoscopo Septiembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Octubre, horoscopo Octubre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-09-01'
+ lastmod: '2017-10-01'
 ---
 
- Durante la luna llena del 6 de septiembre, puede que alguien tenga una idea equivocada sobre ti, para bien o para mal. Actúa con integridad y trata de no pensar en lo que las demás personas piensan. Las acciones dicen más que las palabras. El sol forma un trígono con Plutón el 9 de septiembre, así que prepárate para lo inesperado. Los asuntos de dinero están en buen estado cerca de la luna nueva del 19 de septiembre. Puede que las personas cuestionen tu buen juicio o crean que eres una persona crédula, pero no será el caso si te tomas tu tiempo. Tienes grandes ideas y mucha energía. Aprovéchalas bien y tendrás éxito en todo lo que te propongas. 
+ Tu mundo se expande con rapidez el 5 de octubre cuando llega la luna llena. Conoce a más personas, algunas de ellas exóticas o con gustos exóticos. Disfruta de la variedad y también haz tu aporte personal. Durante la luna nueva del 19 de octubre, podrías brillar en tu vecindario y círculo inmediato de hermanos y primos. Tal vez no pases tiempo con todos ellos, pero estarás en sus pensamientos, y podrías recibir noticias de algunos de ellos. El sol forma una conjunción con Júpiter el 26 de octubre y crea una situación muy afortunada que puede corregir un problema que es fundamental pero molesto. Sé una persona agradecida. 

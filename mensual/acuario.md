@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Acuario Septiembre 2017 
+title: Acuario Octubre 2017 
 permalink: /horoscopo-mensual/acuario/
-keywords: horóscopo, horóscopo 2017,  Septiembre, horoscopo Septiembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2017, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Octubre, horoscopo Octubre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2017, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-09-01'
+ lastmod: '2017-10-01'
 ---
 
- Bajo la Luna llena del 6 de septiembre, puede que un poco de paranoia financiera interrumpa tu paz mental, pero sabes bien cómo reaccionar. Hay personas que pueden ayudarte a tranquilizarte o darte consejos. En serio. Todo estará bien. La luna nueva del 19 de septiembre enfatiza tu excelente sistema de apoyo. Puede que sólo se trate de una verdadera y sensata amistad, pero es probable que sea mucho más. No confíes únicamente en tu juicio. Pide opiniones y escucha con atención. Puedes aprender muchas cosas ahora. Júpiter se opone exactamente a Urano el 27 de septiembre. Allí podrás ver un deseado y enorme cambio asomándose por el horizonte. Busca la innovación y el progreso y no el factor de impacto. 
+ Satisface tu deseo de salir más con tus amistades bajo la luna llena del 5 de octubre. Puede que no elijan hacer tus cosas favoritas, pero eso no importará. Tan solo pasar tiempo juntos significa mucho en este momento. El 15 de octubre, Mercurio forma una oposición con Urano y una idea o sugerencia que alguna vez sonó genial ahora ya no es tan atractiva. Échale otro vistazo. Expande tus horizontes durante la luna nueva del 19 de octubre. Puede que estés en gran forma en el trabajo, pero necesitas un mundo más grande para prosperar de verdad. Reconoce una pasión personal y hazla una parta más importante de tu perspectiva de vida. 
