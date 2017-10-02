@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 25 de septiembre 2017 al 01 de octubre 2017 
-description: Horóscopo semanal acuario 25 de septiembre 2017 al 01 de octubre 2017. De verdad acuario, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+title: acuario 02 de octubre 2017 al 08 de octubre 2017 
+description: Horóscopo semanal acuario 02 de octubre 2017 al 08 de octubre 2017. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: _vAu6WN7KbM
+ video: RvW1PK_4sbY
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-25'
+ lastmod: '2017-10-02'
 ---
 
 
 
-## De verdad acuario, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 
-Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar. 
-Puede que necesites examinar un proyecto que ya hayas completado o revisar los detalles de un plan, y podrías ver que las cosas funcionan mucho mejor si haces esto. Con esto, debido a la fase retrógrada del comunicativo Mercurio, tal vez necesites tener cuidado en general para evitar contratiempos. Quizás también quieras verte y sentirte más saludable, en especial si quieres impresionar a cierta persona. Pero no hagas demasiadas cosas demasiado pronto. Tomarte tu tiempo puede asegurarte los beneficios de tus esfuerzos.
+Hace mucho tiempo que no te das un buen capricho acuario, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes acuario. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
+Puedes sentir la motivación de revisar ciertos cambios y considerar cómo las cosas se han alterado desde que fueron implementadas. En este caso, el enfoque está en una transformación emocional más profunda que tal vez sea posible si puedes dejar ir a personas o situaciones que ya no te sirven. Pero este también puede ser un momento de reflexión, cuando la respuesta a un asunto familiar podría aparecer de la nada y llevar a una solución rápida. Aun así, sigue siendo sabio corroborar los hechos antes de seguir avanzando.
 
 ## Dinero
 
-Estás saliendo con una banda completamente nueva, y esto no puede hacerle daño a tu vida monetaria. Esta gente nueva sabe acerca de la buena comida y el vino, pero también saben cómo traer una cantidad seria de dinero. Estudia sus formas y puedes aprender los trucos que llevan utilizando por años. Al mismo tiempo, crea un plan de ahorros viables y con planes de inversión. Es ahora o nunca.
+Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.

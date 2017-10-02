@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 25 de septiembre 2017 al 01 de octubre 2017 
-description: Horóscopo semanal escorpio 25 de septiembre 2017 al 01 de octubre 2017. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar escorpio porque no eres así. 
+title: escorpio 02 de octubre 2017 al 08 de octubre 2017 
+description: Horóscopo semanal escorpio 02 de octubre 2017 al 08 de octubre 2017. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: 9C4LCjOK0I4
+ video: QWi3gPFlceU
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-25'
+ lastmod: '2017-10-02'
 ---
 
 
 
-## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar escorpio porque no eres así. 
+## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 
-Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
-Podrías ser el centro de atención durante esta semana y las próximas. El Sol y Marte en tu sector de ambiciones te animan a demostrar tus capacidades y habilidades, y hacerles saber a los demás lo que puedes hacer. Pero también tendrás una actitud dinámica y querrás esforzarte por lo que quieres. Si has tenido obstáculos para llegar al éxito en las últimas semanas, tendrás la confianza suficiente para hacerlos a un lado y forjar tu camino hacia la meta.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos escorpio así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar escorpio, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+Marte entra a lo más profundo de tu sector de relaciones, donde puede reactivar sentimientos que se encontraban latentes. Las próximas semanas pueden ser la oportunidad para que despejes el aire. Si tú y cierta persona tienen distintas ideas o planes, existe la oportunidad de llegar a un punto medio. El romance surge como posibilidad cuando Venus, el planeta del amor, entra a tu sector de romance el martes. Esta es la oportunidad para que disfrutes de los placeres sensuales con tu amor y aproveches al máximo tu tiempo libre.
 
 ## Dinero
 
-Cierta actividad en tu carta ahora afecta a tu sector de grupos, política y trabajo por cuenta propia. Es un buen momento para buscar entre tus contactos a alguien que pueda ser capaz de ayudarte a desarrollar una nueva idea de un producto que genere dinero. Tú tienes el “know-how”, pero otra persona tiene el dinero o las conexiones para llevarlo al siguiente nivel.
+Puede que se te esté dando la oportunidad de llevar tus ideas a las grandes redes sociales y al público. Este es un momento excelente para aprovechar el hecho de que la gente quiere escuchar lo que tienes que decir y comprar lo que estás vendiendo. Si necesitas mejorar tu mensaje antes de acercarte a ellos, utiliza los aspectos favorables actuales para lograr hacerlo. Vas a lograr producir mucho cuando golpees al mundo con tus ideas.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 25 de septiembre 2017 al 01 de octubre 2017 
-description: Horóscopo semanal leo 25 de septiembre 2017 al 01 de octubre 2017. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza leo. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+title: leo 02 de octubre 2017 al 08 de octubre 2017 
+description: Horóscopo semanal leo 02 de octubre 2017 al 08 de octubre 2017. Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: y6Behn7fsgw
+ video: aLLfoBciHHM
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-25'
+ lastmod: '2017-10-02'
 ---
 
 
 
-## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza leo. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+## Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 
-Quizás deberías dejar de planear todo ahora leo, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien leo, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
-Un encuentro inesperado podría ser el principio de una conversación inolvidable. Puede que una persona sepa algo que te da esperanzas para el futuro y esto podría darte ganas de saber más al respecto. Si sentías que estabas en una situación sin salida o en una serie de circunstancias sofocantes, esta influencia puede ser un soplo de aire fresco, lo que te da ganas de explorar un nuevo territorio que te desafía y fomenta tu crecimiento. Incluso irte de vacaciones podría probar ser memorable. 
+Se avecinan cosas nuevas leo, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar leo, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin leo, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
+El martes, puede que una encantadora alineación estelar te motive para que te arriesgues con un proyecto grupal o comunitario. Si lo haces, podría ser muy divertido. Mientras tanto, Mercurio genera otras situaciones que podrían causar malentendidos y hacer que rechaces sin razón la sugerencia de una persona. Más allá de lo que ocurra en los siguientes días, trata de no tomártelo de manera personal. Hay grandes posibilidades de que todo desaparezca la próxima semana.
 
 ## Dinero
 
-Es una semana extraña. Algunos planetas quieren que pienses en cómo hacer tu hogar más cómodo y acogedor, mientras que otros quieren que pases más tiempo desarrollando tu carrera profesional. El tira y afloja puede crear caos en tu vida social a corto plazo, pero con un poco de énfasis en el equilibrio, puedes hacer que funcione. El secreto está en estudiar la forma en la que tus amigos lo hacen. Con gracia, y con una sonrisa.
+¡Qué emoción! Las máquinas funcionan muy bien y el correo llega a tiempo. La comunicación facilita. De por si ya te sientes muy rebelde en lo que estás haciendo actualmente para ganarte la vida. Es posible que te des cuenta de que ésta particular visión de llevar tus finanzas funciona mejor para ti ahora. El expresar tus opiniones no tiene por qué convertirse en un trabajo de tiempo completo. Deja que tu trabajo hable por ti.

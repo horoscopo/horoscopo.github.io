@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 25 de septiembre 2017 al 01 de octubre 2017 
-description: Horóscopo semanal libra 25 de septiembre 2017 al 01 de octubre 2017. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+title: libra 02 de octubre 2017 al 08 de octubre 2017 
+description: Horóscopo semanal libra 02 de octubre 2017 al 08 de octubre 2017. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: epCGXNPn0KQ
+ video: 5Lu0K09NF2Y
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-25'
+ lastmod: '2017-10-02'
 ---
 
 
 
-## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante. 
-Tu sector social está muy activo, pero con el movimiento del vivaz Mercurio en conexión con el fogoso Marte, no tendrás miedo a dar tu opinión. Es más, puede que las demás personas se irriten cuando lo hagas e incluso te respondan. Si quieres conservar la paz en los próximos días, sería recomendable que pienses en cómo abordas ciertos temas. Por otra parte, mantente alerta ya que puede que tengas la oportunidad de demostrar una nueva habilidad.
+
+Mientras Mercurio, el planeta del habla y el pensamiento, ingresa lentamente a tu signo, tal vez quieras compartir ideas que han estado dando vueltas en tu cabeza últimamente. Ahora estás en tu elemento, y esta semana podría ser una oportunidad de avanzar para cumplir uno de los deseos que hay en tu corazón. Puede que no suceda de la noche a la mañana, pero paso a paso llegarás al destino. La noche del viernes puede ser perfecta para una cita fogosa, mientras que podrías disfrutar más del fin de semana con un poco de terapia de compras.
 
 ## Dinero
 
-Tu sector de relaciones hace clara más que nunca la importancia de las alianzas positivas con jefes, superiores, mentores y clientes. Nunca te confíes en que estás relaciones  simplemente funcionarán. Sé proactivo/a en la formación, mantenimiento y avance de aquellas que son más útiles para tu vida laboral y monetaria. El enfoque se centra en mejorar tu educación, viajar y aprender sobre otras culturas e idiomas. Todos pueden avanzar en tu causa.
+Te enfrentas a un período de diversión que afecta tanto a niños como familia. Si actualmente te involucras en estas áreas, puede que te percates de que le puedes vender tus productos y servicios a un público muy dispuesto. Si no, piensa en cómo puedes crear productos que atraigan a una variedad de personas en todo el mundo. A medida que usas tus talentos para crear fuentes de ingresos para toda la vida, el siguiente paso es la prosperidad.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 25 de septiembre 2017 al 01 de octubre 2017 
-description: Horóscopo semanal aries 25 de septiembre 2017 al 01 de octubre 2017. 
+title: aries 02 de octubre 2017 al 08 de octubre 2017 
+description: Horóscopo semanal aries 02 de octubre 2017 al 08 de octubre 2017. El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: o_9gaC0kGa4
+ video: iYMNW0IjJ4U
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-09-25'
+ lastmod: '2017-10-02'
 ---
 
 
 
-## 
+## El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-No desperdicies ni un solo día de tu vida aries porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio aries, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la aries de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida aries. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
-Esta podría ser una semana muy constructiva para ti, especialmente si estás trabajando en un proyecto creativo o deseas darle un gran comienzo a una idea empresarial. Sin embargo, en cuanto a romance, puede que no sea tan positiva. La energía de Saturno sugiere que una cita o una salida podría ser un poco restringida. La Luna Llena del martes podría irritarte un poco en el trabajo, pero tu vitalidad y alegría de vivir deberían de volver una vez que el Sol entre a tu signo el viernes.
+La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón aries, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
+Colaborar con otras personas sobre una idea dinámica podría funcionar muy bien para ti durante las próximas semanas. Con el eclipse solar en tu sector de comunicaciones, hay potencial para un nuevo comienzo que podría evolucionar en el tiempo y llevarte al éxito. Y, si incluye posibilidades creativas, entonces será mucho mejor. Quizás también veas que las relaciones empiezan a relajarse durante las próximas semanas, ya que el serio Saturno se torna directo luego de varios meses de estar en su fase retrógrada. Interactuar de aquí en adelante será mucho más fácil.
 
 ## Dinero
 
-Puede que necesites más tiempo que nunca en enfocar los objetivos de tus metas. Estos aspectos pueden crear maravillosas ideas o simplemente algún tiempo de inactividad para meditar y recopilar energías. Ideas y pensamientos orientados hacia el futuro se presentan conforme piensas acerca de cómo llevarlas a un mercado más amplio y más rentable. Afectará a tu sector de viajes, de aprendizaje, enseñanza, espiritualidad y ley. Estás entrando a tu propio paso.
+Esta semana tienes luz verde por parte del Universo para expandir tu búsqueda de empleo. Esto se aplica si estás en busca de trabajo o incluso pensando en cambiar de trabajo si lo que has estado haciendo ahora no tiene ningún significado real para ti. También es el momento de considerar pedir un préstamo.
