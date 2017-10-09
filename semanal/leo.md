@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 02 de octubre 2017 al 08 de octubre 2017 
-description: Horóscopo semanal leo 02 de octubre 2017 al 08 de octubre 2017. Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+title: leo 09 de octubre 2017 al 15 de octubre 2017 
+description: Horóscopo semanal leo 09 de octubre 2017 al 15 de octubre 2017. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: aLLfoBciHHM
+ video: 31WaYs9eKp8
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-02'
+ lastmod: '2017-10-09'
 ---
 
 
 
-## Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 
-Se avecinan cosas nuevas leo, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar leo, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin leo, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
-El martes, puede que una encantadora alineación estelar te motive para que te arriesgues con un proyecto grupal o comunitario. Si lo haces, podría ser muy divertido. Mientras tanto, Mercurio genera otras situaciones que podrían causar malentendidos y hacer que rechaces sin razón la sugerencia de una persona. Más allá de lo que ocurra en los siguientes días, trata de no tomártelo de manera personal. Hay grandes posibilidades de que todo desaparezca la próxima semana.
+Quita importancia a las cosas leo, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas leo. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
+Alguien podría compartirte un secreto que altere la forma en que percibes cierta situación. En este caso, te afecta de una manera positiva. Con Mercurio retrocediendo durante unas tres semanas a partir del Lunes, espera interrupciones y retrasos en tu hogar. Un invitado podría cancelar o una fiesta podría no salir según lo previsto. Es posible que tengas que lidiar con obstáculos, pero un enfoque alegre y optimista puede ayudarte a soportar los próximos días. Finalmente, un vínculo romántico podría volverse más intenso y pasional. 
 
 ## Dinero
 
-¡Qué emoción! Las máquinas funcionan muy bien y el correo llega a tiempo. La comunicación facilita. De por si ya te sientes muy rebelde en lo que estás haciendo actualmente para ganarte la vida. Es posible que te des cuenta de que ésta particular visión de llevar tus finanzas funciona mejor para ti ahora. El expresar tus opiniones no tiene por qué convertirse en un trabajo de tiempo completo. Deja que tu trabajo hable por ti.
+El Universo está iluminando tu sector de comunicación. Lo que esto significa es que tienes mucho trabajo que hacer para ganar dinero, y que no es el mejor momento para gastar en exceso. Estudia e imita las formas de los inversionistas exitosos en la medida de tu capacidad.

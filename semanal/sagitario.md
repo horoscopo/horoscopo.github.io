@@ -1,29 +1,30 @@
 ---
 layout: horoscopos
-title: sagitario 02 de octubre 2017 al 08 de octubre 2017 
-description: Horóscopo semanal sagitario 02 de octubre 2017 al 08 de octubre 2017. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+title: sagitario 09 de octubre 2017 al 15 de octubre 2017 
+description: Horóscopo semanal sagitario 09 de octubre 2017 al 15 de octubre 2017. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: 9SDuZpoHPvo
+ video: e6wp4NPzEaw
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-02'
+ lastmod: '2017-10-09'
 ---
 
 
 
-## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 
-Crees que puedes con todo sagitario. 
- Es tan complicado…
-Parece que tu vida social estará muy agitada en estos momentos. Conectarte con otros te motivará a que conozcas mejor a ciertas personas, ya sea en términos de una relación de negocios o un nuevo romance. También, tal vez sientas ganas de tomar una decisión con respecto a tus proyectos creativos. Si ya has postergado esto por mucho tiempo, esta semana podría ser la mejor para comenzar. Finalmente, una reluciente mezcla de energías a mitad de semana podría ser perfecta para el romance.
+Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
+ La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
+ Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
+Puede que necesites que una persona te ayude un poco con un proyecto o una idea de negocios que no puedes realizar por tu cuenta. Esta semana, una mezcla positiva de energías alrededor del armonioso Venus, tu planeta personal, puede llevarte a dar grandes pasos con la ayuda de esta persona. Sin embargo, intenta no pensar de más sobre en este asunto, ya que puede que des vueltas en círculos en vez de avanzar. Entra en acción y todo empezará a cambiar. En los últimos días de la semana, puede que recibas una invitación a una especial y agradable velada.
 
 ## Dinero
 
-Esta semana es acerca de los asuntos de carrera y figuras de autoridad, indicando  ser el tiempo de ponerse en contacto con tu ambición y los objetivos de trabajo. Es como un gran impulso por parte del Universo enviándote  en la dirección correcta. Esto puede significar una mayor responsabilidad y otras reuniones, así que trata de ir con la corriente y aceptar tu nuevo papel. Tu intuición está funcionando a un nivel muy alto ahora. Intégrate con tu forma habitual de hacer negocios para producir los mejores resultados.
+Te enfrentas a una época de cambios monetarios. Puede que la forma en la que ganas dinero o lo que piensas sobre el papel que el dinero juega en tu vida puede estar cambiando. De cualquier manera, estarás recibiendo gran cantidad de información acerca de cómo obtenerlo y guardarlo. Algunos de estos mensajes pueden provenir de lugares no convencionales, como sueños y destellos psíquicos, pero ¿por qué no analizarlos de todos modos?

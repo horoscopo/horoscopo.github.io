@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 02 de octubre 2017 al 08 de octubre 2017 
-description: Horóscopo semanal capricornio 02 de octubre 2017 al 08 de octubre 2017. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+title: capricornio 09 de octubre 2017 al 15 de octubre 2017 
+description: Horóscopo semanal capricornio 09 de octubre 2017 al 15 de octubre 2017. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: 2T_fFkxc7GE
+ video: ogc7ikUnsjg
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-02'
+ lastmod: '2017-10-09'
 ---
 
 
 
-## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 
-Necesitas tener un objetivo en la vida capricornio, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada capricornio, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
-Tu vitalidad es fuerte con el dorado Sol y el activo Marte moviéndose a través de tu signo. Puede que sientas más valentía y tengas ganas de defender lo que crees. Pero también querrás buscar y conectar con viejas y nuevas amistades. Mercurio en tu sector financiero podría encontrarte ordenando tus cosas un poco y poniéndote al día con facturas y otras cuestiones financieras. Sin embargo, si descubres una oferta para tu hogar, es posible que no puedas resistirte a ella.  
+Son muchos los que quieren arruinar tu vida capricornio, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa capricornio, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega capricornio. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos capricornio. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida capricornio. Ahora brillas así que, aprovecha. Aprovecha todo.
+Venus, tu planeta personal, entra a tu signo el martes, donde se siente como en casa. Esta influencia puede ayudarte a sentirte bien y a disfrutar de los placeres simples de la vida. También hay una influencia vivaz que podría contagiarte las ansias de hacer nuevos amigos, pero de una manera en que se destaque tu lado tierno y cariñoso. El enfoque en tu sector de hogar también podría motivarte para que recibas visitas o pienses en redecorar tu casa.
 
 ## Dinero
 
-Esta semana recibes un fuerte mensaje del Universo. Con tanta energía tensa volando por ahí, necesitas buscar respuestas en el área de tu carta que rige la transformación personal. ¿Qué imagen quieres proyectar hacia el exterior? Puedes marcar la diferencia ahora.
+Te encanta hacer que tu lugar de trabajo sea tan cómodo como tu casa, y esto podría implicar hacer que los demás en el trabajo se sientan como en familia. Con un aspecto armonioso ahora, es muy probable que lleves esto un paso más allá debido a que afecta la zona de tu gráfico que rige los niños, familia, romance y diversión. Suena como si organizar un evento para la empresa no fuera una mala idea para mantener la moral alta. Organizar juegos para entretener a todos será más que bueno.

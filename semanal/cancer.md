@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 02 de octubre 2017 al 08 de octubre 2017 
-description: Horóscopo semanal cancer 02 de octubre 2017 al 08 de octubre 2017. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: cancer 09 de octubre 2017 al 15 de octubre 2017 
+description: Horóscopo semanal cancer 09 de octubre 2017 al 15 de octubre 2017. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor cancer, sin remordimientos.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: tqbqXqmCzpM
+ video: IOtTYvpDw8I
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-02'
+ lastmod: '2017-10-09'
 ---
 
 
 
-## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+## Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor cancer, sin remordimientos.
 
-No sabes cómo desviar tus sentimientos cancer, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas cancer… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez cancer. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos cancer que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-Los sentimientos pueden alcanzar un punto máximo, y podrían ser la causa de una intensa discusión. Si no puedes ponerte de acuerdo con otra persona, entonces los asuntos se podrían intensificar, y hay posibilidad de peleas. Pero si puedes abordar esto de una forma más sensata, y te dispones a ponerte en sus zapatos, entonces se puede encontrar una solución más positiva. Sin embargo, el comunicativo Mercurio, tu planeta guía, se tornará retrógrado al final de la semana, lo que puede causar malentendidos si no tienes cuidado.
+Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
+El destino puede traer cambios los primeros días de la semana, y estos pueden afectar los grupos sociales o gente con la que te relacionas. Algunos amigos pueden salir de tu círculo, pero con el tiempo otros entrarán. Pero también puedes beneficiarte de tomarte un tiempo libre y mimarte si necesitas recargar tus baterías, así que considera comer mejor, descansar más y darte la oportunidad de relajarte. Pero mientras Mercurio ingresa a su fase retrógrada, tal vez sea una buena idea hacer una copia de todos los documentos y archivos importantes.
 
 ## Dinero
 
-Puede que en este momento estés pensando más sobre lo que puedes comprar en vez de como poder ahorrar. Eso es natural. Pero con la energía positiva concentrada en tu sector de dinero, lo mejor es pensar en poner al menos un poco de tu duramente ganado dinero en una cuenta de ahorros. Un factor aspectando tu zona de romance inarmónico afecta a los niños, la familia y la diversión y dice que es hora de frenar lo que se ha convertido en la norma financiera.
+De verdad tienes ganas de hacer algo esta semana, podría ser de  viajar, aprender algo nuevo, hacer un amigo en el extranjero, o aprender a hablar un nuevo idioma. Cada uno de éstos tendría algún efecto en tu vida monetaria futura, así que lo mejor sería investigar cuál sería más interesante. De todos modos puede que no seas capaz de resistir tus ganas, así que estarías dispuesto/a a sacrificar algunas facetas de tu vida social para poder hacerlo.
