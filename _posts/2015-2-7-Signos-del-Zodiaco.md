@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de octubre 2017
-description: Horóscopos del dia de hoy 08 de octubre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de octubre 2017
+description: Horóscopos del dia de hoy 09 de octubre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Mantente alerta a las cosas que necesitan ser cambiadas. El proceso también incluye cambiar la opinión ya sea de uno mismo o de alguien más cuando la Luna en Cáncer se opone a Plutón. Esta noche, tu actitud es elusiva e incluso reclusa, cuando el deseo de cerrarte al mundo existe. En realidad, la tranquilidad es muy placentera.
+Podría parecer como si todo el mundo tuviera una opinión o consejo cuando Mercurio aspecta a Plutón. Lástima que la mayoría fallen al hacer caso omiso de sus propias sugerencias. Ten tacto. ¿Alguien sobrepasó los límites de la amistad? La respuesta a eso, o por lo menos una pista, podría surgir cuando la Luna aspecte a Urano esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
