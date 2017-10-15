@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de octubre 2017
-description: Horóscopos del dia de hoy 14 de octubre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de octubre 2017
+description: Horóscopos del dia de hoy 15 de octubre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Hoy, la tendencia es actuar repentinamente durante la oposición entre la Luna y Urano. Siéntate, respira profundamente y espera hasta que el impulso pase. Hay un tremendo poder en las palabras cuando Mercurio conjunta a Plutón esta noche. Ciertamente, tu modo de comunicarte inspira respeto. ¿Qué es lo que vas a decir?
+Vive tu vida con mayor tranquilidad y disfruta de un día de agradables interacciones durante el trígono entre la Luna y Venus. Los pulsos se aceleran esta noche cuando la terrenal Luna forma trígono con la fuerte naturaleza de Marte. Muestra esa irresistible sonrisa, porque la magnética ley de atracción está en vigor.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
