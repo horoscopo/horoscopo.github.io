@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 09 de octubre 2017 al 15 de octubre 2017 
-description: Horóscopo semanal piscis 09 de octubre 2017 al 15 de octubre 2017. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar piscis. 
+title: piscis 16 de octubre 2017 al 22 de octubre 2017 
+description: Horóscopo semanal piscis 16 de octubre 2017 al 22 de octubre 2017. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: NapThIEUSSA
+ video: XwKZa8q8cZ4
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-09'
+ lastmod: '2017-10-16'
 ---
 
 
 
-## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar piscis. 
+## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 
-Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande piscis, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. piscis, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
-Una conexión nebulosa sugiere que la influencia de determinadas amistades podría no ser tan útil como piensas. Si bien el confiar a menudo trae muchos beneficios, en esta ocasión, puede que sea al revés. Sus consejos o sabias palabras podrían confundirte. Podría ser porque en realidad no comprenden bien tu situación. Con esto en mente, sería mejor escuchar a tu intuición. Más adelante en la semana, una fase más dinámica te anima a forjar tu propio camino de cara al futuro.
+La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace piscis… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas piscis, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+Podría haber muchas discusiones en casa al principio de la semana, y esto podría llevar a tomar algunas decisiones que transforman de forma positiva una situación clave. Por otro lado, tu vida social brilla, en especial alrededor del jueves, cuando la luna llena en el alegre Aries podría traer consigo el momento perfecto para celebrar una gran ocasión. Pero ten en cuenta que podría ser algo muy escandaloso. Finalmente, ponerte en los zapatos de tu pareja durante el fin de semana podría ayudarte a entender su perspectiva.
 
 ## Dinero
 
-Esta semana nadas en placer y estás cambiando mucho. Todo es cuestión de placer, belleza y creatividad para ti ahora conforme consideras la forma en la cuál exponerte al mundo. Considera el vestirte para el trabajo que deseas en lugar de para el que tienes. Los aspectos afectan tu sector de socialización y política. Es crucial dar una buena impresión en este momento para hacer que tus oportunidades de ganar dinero crezcan a través del tiempo.
+Te diriges a un momento interesante. La gente se siente atraída hacia ti y a tu mensaje, así que si tienes que dar una presentación o formular un argumento con respecto a ventas, prográmalo para esta semana. Con el apoyo del Universo, tu sector de comunicación es el más afectado. ¿Cómo puedes llevar ese compromiso que recibiste al siguiente nivel y convertirlo en una promoción?

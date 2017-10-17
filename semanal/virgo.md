@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 09 de octubre 2017 al 15 de octubre 2017 
-description: Horóscopo semanal virgo 09 de octubre 2017 al 15 de octubre 2017. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+title: virgo 16 de octubre 2017 al 22 de octubre 2017 
+description: Horóscopo semanal virgo 16 de octubre 2017 al 22 de octubre 2017. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: Dr77LNsRaLA
+ video: ZegRimU6NJQ
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-09'
+ lastmod: '2017-10-16'
 ---
 
 
 
-## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-Llega una etapa buena virgo, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no virgo. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea…
-El seductor Venus forma unos aspectos importantes esta semana. De hecho, los días hasta el jueves inclusive podrían reavivar el romance de una relación a largo plazo o hacer que una conexión nueva se vuelva más íntima. Sin embargo, la luna llena del jueves podría hacerte mantener en privado algunos sentimientos entre tú y otra persona. Se divierten mucho juntos, y nadie más necesita enterarse. Este fin de semana podría sacar a la luz un lado más serio de tu personalidad, cuando tomar conciencia podría traer recompensas.
+Despacito virgo, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo virgo.
+Lo que parece una gran idea podría necesitar un poco de esfuerzo para que funcione. Dar el primer paso te puede permitir que aprendas de la experiencia. Pronto descubrirás si el plan es práctico o no. Más adelante, Mercurio entra a tu sector de viajes y horizontes lejanos y podría despertar un deseo de irte lejos. Con otras influencias inspirando el mismo deseo, podría ser tiempo de que reserves un vuelo.
 
 ## Dinero
 
-Tu sector de relaciones hace más que clara que nunca la importancia de las relaciones positivas con tus jefes, mentores y clientes. Nunca subestimes estas relaciones o pienses que se darán por si solas. Sé proactivo/a acerca de la formación, el mantenimiento y la promoción de aquellos que son más útiles para tu vida laboral y dinero. La atención se centra en mejorar tu educación, viajar y aprender sobre otras culturas e idiomas. Todo esto puede avanzar en tu causa.
+Tienes una oportunidad única para formar asociaciones financieramente gratificantes con conocidos personales o profesionales. Alguien que nunca has visto en esta luz ahora parece la persona perfecta para ayudarte para que tal proyecto nuevo llegue a buen término. Y puesto que la atención se centra en tus sectores de enseñanza y aprendizaje, es el momento de tomar algo difícil que estimule tu mente un poco. El efectivo vendrá después.

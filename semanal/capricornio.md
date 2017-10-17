@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 09 de octubre 2017 al 15 de octubre 2017 
-description: Horóscopo semanal capricornio 09 de octubre 2017 al 15 de octubre 2017. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+title: capricornio 16 de octubre 2017 al 22 de octubre 2017 
+description: Horóscopo semanal capricornio 16 de octubre 2017 al 22 de octubre 2017. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya capricornio. Muévete o haz que se mueva el resto.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: ogc7ikUnsjg
+ video: uV4Y2m3gai4
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-09'
+ lastmod: '2017-10-16'
 ---
 
 
 
-## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya capricornio. Muévete o haz que se mueva el resto.
 
-Son muchos los que quieren arruinar tu vida capricornio, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa capricornio, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega capricornio. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos capricornio. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida capricornio. Ahora brillas así que, aprovecha. Aprovecha todo.
-Venus, tu planeta personal, entra a tu signo el martes, donde se siente como en casa. Esta influencia puede ayudarte a sentirte bien y a disfrutar de los placeres simples de la vida. También hay una influencia vivaz que podría contagiarte las ansias de hacer nuevos amigos, pero de una manera en que se destaque tu lado tierno y cariñoso. El enfoque en tu sector de hogar también podría motivarte para que recibas visitas o pienses en redecorar tu casa.
+Tienes conversaciones pendientes capricornio, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad capricornio, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas capricornio, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
+Puede que algunas fuertes situaciones hagan salir a la luz ciertos sentimientos, pero con el actual enfoque en Cáncer, puede que sientas todo de manera muy intensa. Debido a que el énfasis también se encuentra en tu sector de hogar y familia, es posible que haya algunas peleas y discusiones. Puede que sientas el impulso de reaccionar a la defensiva cuando en realidad lo mejor sería hablar para encontrar una solución; a pesar de que te incomode hacerlo. Tal vez descubras que las demás personas expresan sus sentimientos una vez que tú das el primer paso.   
 
 ## Dinero
 
-Te encanta hacer que tu lugar de trabajo sea tan cómodo como tu casa, y esto podría implicar hacer que los demás en el trabajo se sientan como en familia. Con un aspecto armonioso ahora, es muy probable que lleves esto un paso más allá debido a que afecta la zona de tu gráfico que rige los niños, familia, romance y diversión. Suena como si organizar un evento para la empresa no fuera una mala idea para mantener la moral alta. Organizar juegos para entretener a todos será más que bueno.
+Tus aspectos afectan el dinero y la deuda de otras personas. Esto señala la necesidad de comunicarse con aquellos a quienes les debes dinero y asegurarte de que los dos estén de acuerdo sobre lo que se pagará y cuándo. Hay un poco de tranquilidad en las inversiones compartidas. Esto podría ser capaz de ayudarte a salir de los atascos financieros que surjan desprevenidamente. Ten la seguridad de que serás atendido/a.

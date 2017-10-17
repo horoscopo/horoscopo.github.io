@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: leo 09 de octubre 2017 al 15 de octubre 2017 
-description: Horóscopo semanal leo 09 de octubre 2017 al 15 de octubre 2017. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+title: leo 16 de octubre 2017 al 22 de octubre 2017 
+description: Horóscopo semanal leo 16 de octubre 2017 al 22 de octubre 2017. Por muy desconfiado y duro que parezcas ser, al final acabas confiando leo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: 31WaYs9eKp8
+ video: bdVYuYXRfJM
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-09'
+ lastmod: '2017-10-16'
 ---
 
 
 
-## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+## Por muy desconfiado y duro que parezcas ser, al final acabas confiando leo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 
-Quita importancia a las cosas leo, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas leo. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
-Alguien podría compartirte un secreto que altere la forma en que percibes cierta situación. En este caso, te afecta de una manera positiva. Con Mercurio retrocediendo durante unas tres semanas a partir del Lunes, espera interrupciones y retrasos en tu hogar. Un invitado podría cancelar o una fiesta podría no salir según lo previsto. Es posible que tengas que lidiar con obstáculos, pero un enfoque alegre y optimista puede ayudarte a soportar los próximos días. Finalmente, un vínculo romántico podría volverse más intenso y pasional. 
+Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
+ aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
+Aunque sabes que debes tener cuidado con tu dinero, una alegre mezcla de energías podría llevarte a gastarlo de todas formas. Y con Mercurio tornándose directo y forjando un vínculo con el innovador Urano, tal vez te atraiga un nuevo artefacto que podría revolucionar tu vida. Sin embargo, si es algo costoso, probablemente no hará daño esperar. Por otro lado, la segunda mitad de la semana puede ser perfecta para una cita encantadora.
 
 ## Dinero
 
-El Universo está iluminando tu sector de comunicación. Lo que esto significa es que tienes mucho trabajo que hacer para ganar dinero, y que no es el mejor momento para gastar en exceso. Estudia e imita las formas de los inversionistas exitosos en la medida de tu capacidad.
+Tienes cierta actividad en tu sector de trabajo ahora, lo que significa que se te está pidiendo realizar una gran cantidad de tareas. Debido a que esta casa también rige tu salud, trata de no exagerar o de lo contrario tu salud podría verse afectada. Está seguro que habrá algo de tensión esta semana. Acude a los viajes y al aprendizaje de nuevas ideas para desahogarte.

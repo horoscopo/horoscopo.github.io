@@ -1,30 +1,29 @@
 ---
 layout: horoscopos
-title: sagitario 09 de octubre 2017 al 15 de octubre 2017 
-description: Horóscopo semanal sagitario 09 de octubre 2017 al 15 de octubre 2017. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: sagitario 16 de octubre 2017 al 22 de octubre 2017 
+description: Horóscopo semanal sagitario 16 de octubre 2017 al 22 de octubre 2017. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: e6wp4NPzEaw
+ video: xsHTEkzBxXM
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-09'
+ lastmod: '2017-10-16'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-Puede que necesites que una persona te ayude un poco con un proyecto o una idea de negocios que no puedes realizar por tu cuenta. Esta semana, una mezcla positiva de energías alrededor del armonioso Venus, tu planeta personal, puede llevarte a dar grandes pasos con la ayuda de esta persona. Sin embargo, intenta no pensar de más sobre en este asunto, ya que puede que des vueltas en círculos en vez de avanzar. Entra en acción y todo empezará a cambiar. En los últimos días de la semana, puede que recibas una invitación a una especial y agradable velada.
+No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo sagitario pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
+ Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
+Podrías gustarle a cierta persona que tal vez prefiera que la relación entre ustedes, por ahora, siga siendo platónica y amistosa. ¿Por qué? Quizá sienta vergüenza de compartir sus sentimientos contigo en este momento. Y es posible que prefieras mantener un perfil bajo, incluso en San Valentín. Sin embargo, no pierdas esto de vista, ya que todo podría cambiar en cuestión de días. Durante esta semana, el Sol entra a tu sector de ambiciones y sientes que es el momento para dar un gran salto.
 
 ## Dinero
 
-Te enfrentas a una época de cambios monetarios. Puede que la forma en la que ganas dinero o lo que piensas sobre el papel que el dinero juega en tu vida puede estar cambiando. De cualquier manera, estarás recibiendo gran cantidad de información acerca de cómo obtenerlo y guardarlo. Algunos de estos mensajes pueden provenir de lugares no convencionales, como sueños y destellos psíquicos, pero ¿por qué no analizarlos de todos modos?
+Normalmente eres capaz de resolver cualquier dilema de dinero con inteligencia y tenacidad, y esta semana no es diferente. Los aspectos indican el éxito a través de propiedad compartida y las inversiones, así como las herencias que provienen de fuentes inesperadas. Tu trabajo y la salud se ven afectados. Pon un esfuerzo adicional en los proyectos de trabajo que impresionen a los de arriba para que seas el próximo en la línea de promoción. Sin embargo, protégete contra el cansancio extremo.

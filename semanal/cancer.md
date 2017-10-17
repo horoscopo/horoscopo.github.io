@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: cancer 09 de octubre 2017 al 15 de octubre 2017 
-description: Horóscopo semanal cancer 09 de octubre 2017 al 15 de octubre 2017. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor cancer, sin remordimientos.
+title: cancer 16 de octubre 2017 al 22 de octubre 2017 
+description: Horóscopo semanal cancer 16 de octubre 2017 al 22 de octubre 2017. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también cancer. Pero sigue protegiéndote a ti mismo…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: IOtTYvpDw8I
+ video: 0lkYDduHbMA
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-09'
+ lastmod: '2017-10-16'
 ---
 
 
 
-## Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor cancer, sin remordimientos.
+## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también cancer. Pero sigue protegiéndote a ti mismo…
 
-Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
-El destino puede traer cambios los primeros días de la semana, y estos pueden afectar los grupos sociales o gente con la que te relacionas. Algunos amigos pueden salir de tu círculo, pero con el tiempo otros entrarán. Pero también puedes beneficiarte de tomarte un tiempo libre y mimarte si necesitas recargar tus baterías, así que considera comer mejor, descansar más y darte la oportunidad de relajarte. Pero mientras Mercurio ingresa a su fase retrógrada, tal vez sea una buena idea hacer una copia de todos los documentos y archivos importantes.
+Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
+Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
+Tal vez te veas intentando persuadir a un miembro de tu familia para que apoye tu forma de pensar. Sin embargo, esta persona podría demostrar ser muy decidida, en especial alrededor de mediados de semana. Déjalo ir por el momento. Podría cambiar su postura para el fin de semana. El sociable El martes, Júpiter ingresa a tu sector de comunicación y conexiones, lo que puede traerte oportunidades fabulosas para los negocios que involucren tecnología, escritura y medios de comunicación. Y debido a que estará aquí por doce meses enteros, este mundo estará a tus pies. 
 
 ## Dinero
 
-De verdad tienes ganas de hacer algo esta semana, podría ser de  viajar, aprender algo nuevo, hacer un amigo en el extranjero, o aprender a hablar un nuevo idioma. Cada uno de éstos tendría algún efecto en tu vida monetaria futura, así que lo mejor sería investigar cuál sería más interesante. De todos modos puede que no seas capaz de resistir tus ganas, así que estarías dispuesto/a a sacrificar algunas facetas de tu vida social para poder hacerlo.
+Esta semana la vida será cualquier cosa menos que aburrida con tu eléctrica personalidad ganándose a algunos, pero dejando a otros preguntándose de qué planeta viniste. Quieres salir a divertirte con amantes, amigos y familiares, pero el Universo quiere que te encargues del cambio en el frente de carrera. Si te está empezando a costar demasiado, piensa en cómo trabajar desde casa tiempo parcial para ahorrarte el dinero gastado en transportación.

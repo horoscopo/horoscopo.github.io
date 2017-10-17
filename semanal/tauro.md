@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 09 de octubre 2017 al 15 de octubre 2017 
-description: Horóscopo semanal tauro 09 de octubre 2017 al 15 de octubre 2017. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+title: tauro 16 de octubre 2017 al 22 de octubre 2017 
+description: Horóscopo semanal tauro 16 de octubre 2017 al 22 de octubre 2017. No te destruyas tauro, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: L-4eTuLSrsg
+ video: MNxdH6ochHU
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-09'
+ lastmod: '2017-10-16'
 ---
 
 
 
-## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+## No te destruyas tauro, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 
-Empieza a hacerte promesas a ti mismo tauro, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura tauro. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
-Puede que te sea más fácil conectarte con tus pensamientos, sentimientos e intuición durante las próximas semanas. Y con el encantador Venus, tu planeta guía, en este aislado sector, puede que tengas ganas de pasar tiempo a solas. Los momentos de reflexión pueden hacerte bien ahora, ya que quizá te ayuden a comprender mejor un asunto que hace tiempo te confunde. Una vez que el sol entra a tu signo el viernes, puede que ya estés en condiciones de convertir tus sueños y fantasías en realidad. 
+
+Hay mucha acción en tu sector de comunicación que puede ser muy productiva en las próximas semanas. Esta puede ser una excelente oportunidad para ampliar tu red de contactos, negociar y discutir importantes contratos o negocios. Aunque puede que sientas deseos de hacer avanzar las cosas, tu energía podría disminuir considerablemente una vez que Marte conecte con Saturno a mitad de semana y con Neptuno el viernes. Puede que tengas que aligerar tu horario y tomar las cosas con más lentitud. Volverás a la normalidad la próxima semana.
 
 ## Dinero
 
-El Universo lleva tu vida monetaria a un delicado equilibrio. Tus ideas creativas y enfoques son admirables ahora, y directamente afectarán a tu sector de viajes, aprendizaje y metafísica. Si sientes que necesitas aumentar tu educación, no dudes en gastar dinero en una clase o seminario. Todo esto es para el mejoramiento de tu futuro, y dará sus frutos monetarios en poco tiempo.
+Puede que estés experimentando algunos cambios no deseados en el trabajo esta semana. Las grandes ideas pueden estar ocurriendo a un ritmo rápido, pero puede que otras personas no estén en el lugar adecuado para escucharlas por el momento. Es como un zapato demasiado ajustado - no se le puede forzar. En vez, ajusta la forma en como tratas con los demás, esto hará toda la diferencia en el mundo. Relájate y deje que esto ocurra.
