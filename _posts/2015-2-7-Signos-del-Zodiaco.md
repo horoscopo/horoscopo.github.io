@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de octubre 2017
-description: Horóscopos del dia de hoy 18 de octubre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de octubre 2017
+description: Horóscopos del dia de hoy 19 de octubre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-El día tiene el don de la sorprendente intuición e inspira nuevas visiones cuando la Luna aspecta a ambos, Venus y Neptuno. Esta noche, las parejas experimentan una sensación renovada de conexión. Si no tienes pareja y estás buscando el amor, alguien tiene un pequeño halo de misterio. Es un giro romántico que atrae.
+Una suertuda oportunidad podría surgirte esta mañana. Esta tarde, trata de evitar conectar con muchas de las responsabilidades asociadas con tu pasado. Se trata de un nuevo camino. Esta noche, el trígono Luna/Plutón es transformador después de explorar los sentimientos internos. Tal estimula las emociones interpersonales positivas con un momento de epifanía. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
