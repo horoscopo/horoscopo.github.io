@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 16 de octubre 2017 al 22 de octubre 2017 
-description: Horóscopo semanal piscis 16 de octubre 2017 al 22 de octubre 2017. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+title: piscis 23 de octubre 2017 al 29 de octubre 2017 
+description: Horóscopo semanal piscis 23 de octubre 2017 al 29 de octubre 2017. Tu presente y tu futuro valen muchísimo la pena piscis. La vida siempre se acaba equilibrando piscis. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: XwKZa8q8cZ4
+ video: KlgQrjqvb8g
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-16'
+ lastmod: '2017-10-23'
 ---
 
 
 
-## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+## Tu presente y tu futuro valen muchísimo la pena piscis. La vida siempre se acaba equilibrando piscis. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace piscis… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas piscis, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
-Podría haber muchas discusiones en casa al principio de la semana, y esto podría llevar a tomar algunas decisiones que transforman de forma positiva una situación clave. Por otro lado, tu vida social brilla, en especial alrededor del jueves, cuando la luna llena en el alegre Aries podría traer consigo el momento perfecto para celebrar una gran ocasión. Pero ten en cuenta que podría ser algo muy escandaloso. Finalmente, ponerte en los zapatos de tu pareja durante el fin de semana podría ayudarte a entender su perspectiva.
+Tu cabeza quiere un cambio piscis, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira piscis, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero piscis por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
+Puede que comiences a sentir como si una carga se te hubiera levantado de los hombros conforme el Sol entra a Tauro y a tu sector de placer. Si tu tiempo ha estado ocupado con asuntos familiares, las próximas semanas podrían traerte un agradable respiro. Ahora tienes la oportunidad de darte gustos y disfrutar de la vida. Considera darte masajes de lujo con aceites perfumados, tomar paseos por el campo, caminatas por senderos de montañas, ir a citas a restaurantes exóticos o cualquier otra cosa que sea buena para tu espíritu. ¡Esta es tu oportunidad de ir por ello!
 
 ## Dinero
 
-Te diriges a un momento interesante. La gente se siente atraída hacia ti y a tu mensaje, así que si tienes que dar una presentación o formular un argumento con respecto a ventas, prográmalo para esta semana. Con el apoyo del Universo, tu sector de comunicación es el más afectado. ¿Cómo puedes llevar ese compromiso que recibiste al siguiente nivel y convertirlo en una promoción?
+Te encuentras ahora en una situación interesante con cierta actividad en tu sector de vidas pasadas, sueños e instituciones. Puede que sientas que tu vida laboral no está haciendo todo lo posible por ti. Puede que tengas más suerte trabajando para una entidad mayor. Gracias a tu sector de grupos, tus amistades te conectarán a una nueva compañía con más capacidad de pagarte lo que vales. Sueña en grande.

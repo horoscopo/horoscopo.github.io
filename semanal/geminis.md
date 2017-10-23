@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 16 de octubre 2017 al 22 de octubre 2017 
-description: Horóscopo semanal geminis 16 de octubre 2017 al 22 de octubre 2017. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+title: geminis 23 de octubre 2017 al 29 de octubre 2017 
+description: Horóscopo semanal geminis 23 de octubre 2017 al 29 de octubre 2017. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: YxamuYGr5G8
+ video: j0BAMFLLjq0
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-16'
+ lastmod: '2017-10-23'
 ---
 
 
 
-## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 
-No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse geminis, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo geminis, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
-Puede que te encuentres siendo el centro de atención, por lo que aprovecha lo más que puedas. De hecho, la conexión entre el Sol y Neptuno podría concederte algunas visionarias ideas que impresionen a una persona importante. Un poco de tiempo dedicado a reflexionar podría permitirte detectar oportunidades que de otra manera no tendrías. Mientras tanto, alguien podría hacerte una oferta que querrás considerar seriamente, ya que parece tener una base sólida. Sin embargo, una sorpresa que surja más adelante en la semana podría no ser tan buena como aparenta. 
+No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues geminis, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe…
+El enfoque se desplaza a un sector más espiritual e íntimo de tu carta astral, y es posible que esta etapa dure varias semanas. Esta puede ser una oportunidad para que veas tu vida desde una perspectiva más honesta y busques darles fin a situaciones o relaciones que ya no te hacen bien. Esto incluye toda la carga emocional que podrías dejar atrás. También es un periodo de tiempo durante el cual entender qué te motiva y te inspira puede permitirte tomar decisiones más inteligentes en el futuro.
 
 ## Dinero
 
-Tienes una energía muy favorable en tu sector de profesión esta semana, ayudándote a convertirte en la figura de autoridad en tu propia vida. En lugar de depender de otros para crear tus oportunidades de ganar dinero, las estás haciendo tú mismo/a. Empezar un nuevo negocio podría traerte una gran cantidad de dinero. Se te proporciona el combustible para el fuego que puede traer todo tipo de ideas interesantes desde el Universo de ensueño.
+Esta semana puede traer algunas sensaciones extrañas de tu pasado (o tal vez las vidas pasadas). Podrías sentirte de alguna manera en una caja o forzado/a hacia una conclusión determinada. Los aspectos que afectan a tu sector de empleo significan que necesitas prestar más atención aquí para hacer tu trabajo con mayor sentido lucrativo.

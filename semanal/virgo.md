@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: virgo 16 de octubre 2017 al 22 de octubre 2017 
-description: Horóscopo semanal virgo 16 de octubre 2017 al 22 de octubre 2017. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+title: virgo 23 de octubre 2017 al 29 de octubre 2017 
+description: Horóscopo semanal virgo 23 de octubre 2017 al 29 de octubre 2017. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: ZegRimU6NJQ
+ video: 4LTfqq6VdvM
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-16'
+ lastmod: '2017-10-23'
 ---
 
 
 
-## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 
-Despacito virgo, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo virgo.
-Lo que parece una gran idea podría necesitar un poco de esfuerzo para que funcione. Dar el primer paso te puede permitir que aprendas de la experiencia. Pronto descubrirás si el plan es práctico o no. Más adelante, Mercurio entra a tu sector de viajes y horizontes lejanos y podría despertar un deseo de irte lejos. Con otras influencias inspirando el mismo deseo, podría ser tiempo de que reserves un vuelo.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+Las probabilidades de una transformación interna son altas. Puede que tengas ganas de explorar problemas que han sido un lastre. Y seguro te irá bien, ya que, al identificar y trabajar con emociones intensas, las cosas pueden comenzar a solucionarse y entonces serás capaz de olvidarte de este asunto. A partir del viernes, puede que también busques opciones más ligeras y divertidas, como unos días de descanso o un pequeño viaje a un lugar que te parezca inspirador. También te atrae la idea de disfrutar una nueva experiencia.
 
 ## Dinero
 
-Tienes una oportunidad única para formar asociaciones financieramente gratificantes con conocidos personales o profesionales. Alguien que nunca has visto en esta luz ahora parece la persona perfecta para ayudarte para que tal proyecto nuevo llegue a buen término. Y puesto que la atención se centra en tus sectores de enseñanza y aprendizaje, es el momento de tomar algo difícil que estimule tu mente un poco. El efectivo vendrá después.
+Es hora de prestarle atención a la manera en la que te presentas a ti y tus habilidades al mundo. Esto podría significar invertir en un armario más profesional o hacer que un escritor profesional escriba tu currículum vitae. Poner tu mejor pie por delante es importante debido a la actividad en tu sector profesional, el cuál probablemente requiere de tu atención ahora.

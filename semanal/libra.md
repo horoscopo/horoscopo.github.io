@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 16 de octubre 2017 al 22 de octubre 2017 
-description: Horóscopo semanal libra 16 de octubre 2017 al 22 de octubre 2017. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+title: libra 23 de octubre 2017 al 29 de octubre 2017 
+description: Horóscopo semanal libra 23 de octubre 2017 al 29 de octubre 2017. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: pIQC0xeyhcs
+ video: ZcaV8-LQ08s
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-16'
+ lastmod: '2017-10-23'
 ---
 
 
 
-## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 
-Hay cosas que no deben hacer daño libra, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo libra, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo libra, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa libra, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
-Puede que consideres algunas opciones placenteras durante la semana, especialmente si has pasado mucho tiempo en familia. Después de un período de arduo trabajo, puede que prefieras hacer algo más relajante que pueda renovar y levantar tu ánimo. Esta semana, una persona que no ves seguido podría llamar inesperadamente a tu puerta y esto podría ser una excusa para reunirse o salir a divertirse. Durante el fin de semana, puede que tengas ganas de relajarte de forma más sencilla.
+Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda libra, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
+Esta semana y las que vienen podrían motivarte para que hagas un cambio radical que marque un momento importante en tu vida. Al mismo tiempo, el enfoque actual también podría llevarte a evaluar los asuntos monetarios con la idea de mejorar tu situación actual y obtener una mejor rentabilidad de inversión. Pero sé prudente si tienes que hacer una gran compra, porque quizá no sea tan buen negocio como creías. Espera unos días antes de comprometerte. Puede que cambies de opinión.
 
 ## Dinero
 
-Para ti, esta semana se trata de tus relaciones. Tu vida personal y tus contactos profesionales serán muy importantes ahora. Si tienes una comida o cena de negocios, paga por una o ambas de las cuentas si piensas que es necesario. Reunirse con amigos poderosos generalmente tiende a valer la pena al final.
+Esta semana tienes un nuevo enfoque en tu sector del hogar y las emociones internas. Si has estado pensando en el concepto del hogar y lo que éste significa para ti, es posible que desees echar raíces, tal vez por primera vez en tu vida. Conforme estás tratando de tomar el control de tu vida hogareña, asegúrate de también proyectar tu presupuesto de gastos de manutención durante el resto del año. Lo que quieres tiene la posibilidad de hacerse real si lo planeas con anticipación.
