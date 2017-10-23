@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 22 de octubre 2017
-description: Horóscopos del dia de hoy 22 de octubre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 23 de octubre 2017
+description: Horóscopos del dia de hoy 23 de octubre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Alguien importante admira la perfección de tus nuevas técnicas - si es que decides ponerlas a prueba. Tales son exitosas cuando la Luna aspecta a Saturno. Esta noche, nadie pierde el tiempo con pretextos. Lo que ves es lo que hay durante la mayor parte del tiempo cuando la Luna forma trígono con Saturno. A veces, es una sensación bastante refrescante.
+¡Feliz cumpleaños a Escorpión! Este es el momento de empezar de nuevo y esperar lo mejor. ¡Hazlo! Atrévete a tener grandes expectativas y a confiar en el gran poder que tienes para alcanzarlas. El Trígono de Fuego de esta noche entre la Luna y Venus acentúa afecto y buen humor. Parejas, háganse felices el uno al otro.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
