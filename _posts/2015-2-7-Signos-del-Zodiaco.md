@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 23 de octubre 2017
-description: Horóscopos del dia de hoy 23 de octubre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 24 de octubre 2017
+description: Horóscopos del dia de hoy 24 de octubre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-¡Feliz cumpleaños a Escorpión! Este es el momento de empezar de nuevo y esperar lo mejor. ¡Hazlo! Atrévete a tener grandes expectativas y a confiar en el gran poder que tienes para alcanzarlas. El Trígono de Fuego de esta noche entre la Luna y Venus acentúa afecto y buen humor. Parejas, háganse felices el uno al otro.  
+Puedes contar con cooperación esta mañana. Aprovéchala mientras puedas, porque esta tarde podría haber crítica, resistencia, demasiada habla, y mínima comprensión mientras la Luna cuadre a Mercurio para luego salirse de su órbita. Esta noche, la Luna en Capricornio hace a la gente reservada y prudente, pero decidida una vez comprometida. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
