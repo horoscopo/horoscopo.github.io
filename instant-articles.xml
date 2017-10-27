@@ -47,7 +47,7 @@ sitemap:
                   
                   {% if post.horoscopo.video %}
                   <figure class="op-interactive">
-                        <iframe class="no-margin" src="http://www.youtube.com/embed/{{ post.horoscopo.video }}" allowfullscreen></iframe>
+                        <iframe class="no-margin" src="http://www.youtube.com/embed/{{ post.horoscopo.video }}" width="560" height="315" allowfullscreen></iframe>
                   </figure>
                   {% endif %}
 
