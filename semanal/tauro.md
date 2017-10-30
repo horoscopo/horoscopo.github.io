@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 23 de octubre 2017 al 29 de octubre 2017 
-description: Horóscopo semanal tauro 23 de octubre 2017 al 29 de octubre 2017. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+title: tauro 30 de octubre 2017 al 05 de noviembre 2017 
+description: Horóscopo semanal tauro 30 de octubre 2017 al 05 de noviembre 2017. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: s0O67MQE9-M
+ video: sHDiEL605mU
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-23'
+ lastmod: '2017-10-30'
 ---
 
 
 
-## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-Hay cosas que no se pueden cambiar tauro, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos tauro, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia tauro pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
-Aunque podrías sentirte impaciente por comprometerte con tus responsabilidades, puede que por otra parte tengas ganas de dejarlo todo. Este podría ser un momento en el que prefieras hacer tus cosas antes que ocuparte de asuntos de negocios o tareas frecuentes. La clave está en administrar tu tiempo y tener días para salir y divertirte. La Luna Llena del 12 de enero podría funcionar mejor para ti si te das tiempo para un masaje u otro tratamiento de salud.
+Te estás dando cuenta de quien sí y quien no tauro. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo tauro pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope tauro, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente tauro, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar tauro, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+Las intensas energías de Marte en tu sector de relaciones pueden haber alborotado tus vínculos. Sin embargo, la presencia del Sol en este mismo sector podría llevarte a buscar un compromiso. Aunque lo más conveniente sea decir la cruda verdad para ahorrarte las molestias, a veces hay almas más sensibles que podrían encontrar esto difícil de manejar. Discutir los asuntos de una forma más gentil y comprensiva podría acercarte a alguien en especial.
 
 ## Dinero
 
-Puede que no te sientas tan feliz y despreocupado/a como normalmente lo estás, pero este es un momento de increíble crecimiento a medida que aceptas la responsabilidad de ser completamente fiel a ti mismo/a con todos los que conoces. Suena fácil, aunque es todo lo contrario. Puede que sientas más arraigo y te sientas más terrenal que nunca, sobre todo cuando se trata de ahorrar en comparación con el gasto. Estás haciendo todos los movimientos correctos, por lo que confía en ti mismo/a.
+Estás encaminado/a hacia un tiempo afortunado. No sólo te sientes más atractivo/a, también tienes una confianza agradable que los demás encuentran magnética. Esto durará durante las próximas semanas, así que asegúrate de recibir tratamiento de estrella durante ese tiempo. Eres presa de ideas creativas alrededor de tu casa. Sólo asegúrate de que tus planes no exceden tu presupuesto, o por lo menos ten un plan de factor de contingencia en caso de que te pases.

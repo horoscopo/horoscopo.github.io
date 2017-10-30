@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 23 de octubre 2017 al 29 de octubre 2017 
-description: Horóscopo semanal escorpio 23 de octubre 2017 al 29 de octubre 2017. Vete a tu cerebro, y borra escorpio, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño escorpio. Deja salir para que pueda entrar lo demás.
+title: escorpio 30 de octubre 2017 al 05 de noviembre 2017 
+description: Horóscopo semanal escorpio 30 de octubre 2017 al 05 de noviembre 2017. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: xvMBBWioLUQ
+ video: NmAu1S8IkfY
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-23'
+ lastmod: '2017-10-30'
 ---
 
 
 
-## Vete a tu cerebro, y borra escorpio, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño escorpio. Deja salir para que pueda entrar lo demás.
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-No estás mal con lo que tienes no, pero ya no eres el mismo que antes escorpio. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala escorpio, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Sagi. Si quieres cambiar algo es porque no estás satisfecho del todo Sagi, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
-Podrías experimentar un poco de conflicto con respecto a un objetivo o plan y esto podría dificultar que progreses tanto como te gustaría durante los próximos días. Si a ti y a otra persona les resulta difícil llegar a un acuerdo, ponerte en sus zapatos podría ayudarte a entender sus pensamientos y sentimientos. No tienes que estar de acuerdo, pero un consenso quizás te ayude a sacarle el mayor provecho a una situación incómoda. Ciertas ideas clave también podrían cambiar tu perspectiva con respecto a un asunto financiero.
+Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme. Pero tranquilo, porque por otro lado vas a tener otras cosas nuevas que hacer que te mantendrán ocupado y sobretodo con ilusión. No permitas que ningún tercero se meta en tu vida y quiera dirigirla a su antojo. Puedes tener problemas con personas que te importan de verdad por esto. Tendrás que aprender a separar. Se avecina un drama que tú no has creado, es más, tu huyes de todo eso pero te va a salpicar. Aprende a respirar y a dejar ir pero ojo, no eres ningún imbécil, si tienes que saltar y que dar la cara por algo hazlo, y si tienes que pelear hazlo también. Hay personas que no sólo no se conforman con molestar si no que además buscan bronca. Tu ignora Sagi pero deja clarito todo. Si pasas una al final tendrás que pasar más. Pueden aprovecharse… Tendrás momentos maravillosos que harán que el tiempo se te pare pero también otros peores (y no creados por ti) en los que tendrás que rogarte a ti mismo no derramar ni una sola lágrima y decirte “se fuerte”. Feliz semana escorpio.
+Cuando Mercurio ingresa a tu sector de viajes, te puede dar curiosidad explorar países o culturas que nunca antes has visto. En las próximas semanas podrías estar reservando un viaje o vacaciones en algún lugar que puede brindar placeres sensuales, experiencias emocionantes y mucho para explorar. También puede que tengas una chance de hacer cambios positivos en tu hogar debido a una gran idea. Ponerla en marcha podría ahorrarte mucho trabajo. 
 
 ## Dinero
 
-Tienes la oportunidad de aumentar dramáticamente tus habilidades para ganar dinero esta semana si tienes el suficiente cuidado. La advertencia se debe a una confrontación relacionada con tus asuntos monetarios. Tienes un montón de posibilidades para atraer a más, pero también hay una atención a la deuda. Esta lucha no tiene por qué ser fea. En lugar de perder la paciencia y cortar todas las tarjetas de crédito en un ataque de resentimiento, busca un equilibrio entre lo que viene con lo que sale.
+Esta semana tienes la oportunidad de mejorar recientes problemas financieros y de obtener inspiración y buenas ideas. Este es un momento estimulante para la mente, y puedes darte cuenta que realmente estás en tu elemento ahora. A medida que restringes tu gasto en la vida familiar, los viajes, la lectura, la enseñanza y la metafísica se abren. En algún lugar hay un cheque con tu nombre escrito en él.

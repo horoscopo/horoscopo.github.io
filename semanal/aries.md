@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: aries 23 de octubre 2017 al 29 de octubre 2017 
-description: Horóscopo semanal aries 23 de octubre 2017 al 29 de octubre 2017. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón aries, no hay casualidades ni coincidencias.
+title: aries 30 de octubre 2017 al 05 de noviembre 2017 
+description: Horóscopo semanal aries 30 de octubre 2017 al 05 de noviembre 2017. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: aZhmgVbfXtw
+ video: ucZh_RGcFVE
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-23'
+ lastmod: '2017-10-30'
 ---
 
 
 
-## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón aries, no hay casualidades ni coincidencias.
+## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa aries.
-Al comienzo de la semana podrías estar sintiendo que algo necesita cambiar y quizás ya te hayas sentido así por un tiempo. Pero durante los próximos días, este impulso puede crecer más y llevarte a que entres en acción. Hacerlo podría ser un alivio y un descanso, incluso si es un poco incómodo liberar una situación a la que te has acostumbrado. Sin embargo, si ya no te es útil, entonces estás haciendo lo correcto.
+Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás aries. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
+Con el sociable Venus en tu sector de hogar y familia, podrías tener más pensamientos relacionados a entretenimiento. No tiene que ser una gran ocasión, ya que incluso una pequeña reunión con amistades cercanas o familia puede ser muy divertida. El cosmos también te lleva a involucrarte en pasatiempos que disfrutas. Lo que sea que haga fluir tu creatividad puede ser terapéutico y reparador. Más adelante, un deseo de tener tu lugar en perfectas condiciones podría inspirarte a lidiar con el desorden.
 
 ## Dinero
 
-Esta semana tienes actividad en el sector de tu carta que rige tu hogar y sentimientos internos. El Universo quiere que avances para poder crear y conquistar. Pero también hay que tomarlo con calma y construir una base sólida antes de seguir adelante. Tus sentimientos pueden ser igualmente confusos. Mientras tanto, es hora de pagar tus deudas.
+Es una semana de subidas y bajadas para ti. Por un lado, gran parte del enfoque de esta semana es sobre el dinero y el estatus. Por otro lado, los aspectos afectarán a tu sector de deuda y el dinero de otras personas. El Universo quiere que resuelvas esto antes de que empeore.

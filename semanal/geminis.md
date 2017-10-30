@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: geminis 23 de octubre 2017 al 29 de octubre 2017 
-description: Horóscopo semanal geminis 23 de octubre 2017 al 29 de octubre 2017. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: geminis 30 de octubre 2017 al 05 de noviembre 2017 
+description: Horóscopo semanal geminis 30 de octubre 2017 al 05 de noviembre 2017. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: j0BAMFLLjq0
+ video: G4_5PvMEdDY
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-23'
+ lastmod: '2017-10-30'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 
-No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues geminis, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe…
-El enfoque se desplaza a un sector más espiritual e íntimo de tu carta astral, y es posible que esta etapa dure varias semanas. Esta puede ser una oportunidad para que veas tu vida desde una perspectiva más honesta y busques darles fin a situaciones o relaciones que ya no te hacen bien. Esto incluye toda la carga emocional que podrías dejar atrás. También es un periodo de tiempo durante el cual entender qué te motiva y te inspira puede permitirte tomar decisiones más inteligentes en el futuro.
+Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
+Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
+Te encuentras en el centro de atención cuando el Sol se mueve por el sector superior de tu carta astral. Esto indica que este es el momento ideal para que demuestres tus talentos y habilidades. Con el Eclipse Lunar en este eje, las propuestas de negocios, los contratos o los planes profesionales podrían cambiar. Cuando una puerta se cierra, otra se abre para traer nuevas oportunidades que resultan muy atractivas. Por otra parte, es posible que conectes con una vieja amistad que tiene algo importante para decirte.
 
 ## Dinero
 
-Esta semana puede traer algunas sensaciones extrañas de tu pasado (o tal vez las vidas pasadas). Podrías sentirte de alguna manera en una caja o forzado/a hacia una conclusión determinada. Los aspectos que afectan a tu sector de empleo significan que necesitas prestar más atención aquí para hacer tu trabajo con mayor sentido lucrativo.
+Para ti, esta semana va a traer un montón de responsabilidades para tu vida laboral, y un montón de recompensas también. Busca oportunidades que impliquen compartir tu creatividad. Las recompensas financieras vienen cuando te atreves a tomarlas y demuestras que eres todo lo que ellos esperaban y más. No tomes las críticas personalmente. Cada desafío a superar los cambios te ayuda a la larga.
