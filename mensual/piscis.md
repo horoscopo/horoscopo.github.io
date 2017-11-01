@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Piscis Octubre 2017 
+title: Piscis Noviembre 2017 
 permalink: /horoscopo-mensual/piscis/
-keywords: horóscopo, horóscopo 2017,  Octubre, horoscopo Octubre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2017, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Noviembre, horoscopo Noviembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2017, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-10-01'
+ lastmod: '2017-11-01'
 ---
 
- Los asuntos monetarios están iluminados por la luna llena del 5 de octubre. Un favor hecho en el pasado reciente puede regresar ahora en tu beneficio. Tal vez necesitas hacer algo por tu cuenta para hacer que esto comience, pero un pequeño esfuerzo debería ser suficiente. El 10 de octubre, Júpiter sale de Libra y entra al emocional Escorpión. Relaciónate sentimentalmente a un nivel más profundo y constructivo. La luna nueva del 19 de octubre te da la oportunidad de hacer una gran diferencia haciendo lo que para ti es pequeño, fácil y simple. Sin embargo, trata de no crear expectativas de gratitud apasionadas y exageradas. 
+ Tanto amistades como gente del vecindario se destacan, de las mejores maneras posibles, durante la luna llena del 3 de noviembre. La generosidad proveniente de lejos puede compartirse contigo y tus mejores amistades. Puede que no sea un buen momento para fiestas, pero pronto podría serlo. Sal de tu caparazón bajo la luna nueva del día 18. Si te has estado ocupando de un proyecto específico, ahora puedes ampliar tu rango y tener una perspectiva más completa sin sacrificar tu concentración. Harás que el éxito parezca fácil. El 26 de noviembre, la conjunción que la Luna forma con Neptuno expone emociones escondidas y te permite hablar abiertamente sobre ellas.Días destacados: 13, 16, 22 

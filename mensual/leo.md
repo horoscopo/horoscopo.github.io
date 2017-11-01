@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Octubre 2017 
+title: Leo Noviembre 2017 
 permalink: /horoscopo-mensual/leo/
-keywords: horóscopo, horóscopo 2017,  Octubre, horoscopo Octubre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Noviembre, horoscopo Noviembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-10-01'
+ lastmod: '2017-11-01'
 ---
 
- Tu mundo se expande con rapidez el 5 de octubre cuando llega la luna llena. Conoce a más personas, algunas de ellas exóticas o con gustos exóticos. Disfruta de la variedad y también haz tu aporte personal. Durante la luna nueva del 19 de octubre, podrías brillar en tu vecindario y círculo inmediato de hermanos y primos. Tal vez no pases tiempo con todos ellos, pero estarás en sus pensamientos, y podrías recibir noticias de algunos de ellos. El sol forma una conjunción con Júpiter el 26 de octubre y crea una situación muy afortunada que puede corregir un problema que es fundamental pero molesto. Sé una persona agradecida. 
+ Opciones profesionales y oportunidades resplandecen bajo la luna llena del 3 de noviembre. Siente seguridad y solidez en tus talentos, habilidades y experiencia. Tus amistades o familia pueden invitarte a que salgas de tu zona de confort, y la verdad es que tienen razón. Sé valiente si no audaz. La luna nueva el día 18 hace que tu hogar sea el mejor lugar para estar. Date un gusto y organiza una fiesta si quieres. Cambia algo y haz que tu ambiente sea lujoso y hermoso. Deja que tus amistades y familia vayan de visita y les dé envidia tu grandioso lugar. El sol ingresa a Sagitario el 21 de noviembre. Si antes no era momento de fiestas, ahora lo es. 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Acuario Octubre 2017 
+title: Acuario Noviembre 2017 
 permalink: /horoscopo-mensual/acuario/
-keywords: horóscopo, horóscopo 2017,  Octubre, horoscopo Octubre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2017, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Noviembre, horoscopo Noviembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2017, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-10-01'
+ lastmod: '2017-11-01'
 ---
 
- Satisface tu deseo de salir más con tus amistades bajo la luna llena del 5 de octubre. Puede que no elijan hacer tus cosas favoritas, pero eso no importará. Tan solo pasar tiempo juntos significa mucho en este momento. El 15 de octubre, Mercurio forma una oposición con Urano y una idea o sugerencia que alguna vez sonó genial ahora ya no es tan atractiva. Échale otro vistazo. Expande tus horizontes durante la luna nueva del 19 de octubre. Puede que estés en gran forma en el trabajo, pero necesitas un mundo más grande para prosperar de verdad. Reconoce una pasión personal y hazla una parta más importante de tu perspectiva de vida. 
+ Tu vida familiar o doméstica podría conmover tu corazón con la luna llena del 3 de noviembre. Puede haber buenas noticas en el trabajo que hagan que el tiempo que pasas en casa se vuelva cada vez mejor. Es tan agradable cuando el trabajo y el hogar no están en una competencia feroz. La luna nueva del día 18 podría abrir una puerta para tu profesión o presencia pública que te ponga en la vía rápida hacia el éxito y la popularidad. Disfruta de una explosión de encanto que trae a alguien o algo para ayudarte a dar el próximo gran paso. El 25 de noviembre, el trígono que Mercurio forma con Urano podría revelar algo poderoso y útil que ha estado oculto por mucho tiempo. 
