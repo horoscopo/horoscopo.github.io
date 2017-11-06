@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 30 de octubre 2017 al 05 de noviembre 2017 
-description: Horóscopo semanal sagitario 30 de octubre 2017 al 05 de noviembre 2017. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+title: sagitario 06 de noviembre 2017 al 12 de noviembre 2017 
+description: Horóscopo semanal sagitario 06 de noviembre 2017 al 12 de noviembre 2017. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: NmAu1S8IkfY
+ video: HMhnTZxJkNc
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-30'
+ lastmod: '2017-11-06'
 ---
 
 
 
-## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+## En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 
-No puedes poner piezas en lugares que no corresponden sagitario, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo sagitario, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso sagitario, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte sagitario, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho sagitario, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
-Puede que tengas dinero para empezar un proyecto doméstico y esto podría ser una gran satisfacción para ti. Quizá no sea nada muy importante, pero sin duda vale la pena si le da un brillo extra a tu hogar. Además, una reunión el día viernes podría ser una ocasión muy especial si la organizas en tu casa. Ya sea una reunión con compañeros de la escuela, del trabajo o tomar un café con los compañeros de ejercicio, podría ser el origen de nuevas amistades u oportunidades sociales.
+No te conformes con poco sagitario, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche sagitario, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
+El Sol continúa atravesando tu sector de ocio, lo que te lleva a tomarte un tiempo para explorar tus pasatiempos y pasiones. Una adorable mezcla de energías esta semana podría también llevar a un nuevo romance. Y, si te dispones a dar el primer paso, una primera cita podría ser encantadora. Además, con Mercurio avanzando en tu sector doméstico, cualquier retraso relacionado con tu hogar o familia puede ahora comenzar a aliviarse. Cuando se trata de cuidar tu salud, hacer ejercicios que te mantengan flexible es clave.
 
 ## Dinero
 
-Es posible  que esta semana desees hacer algunas mejoras en el hogar o incluso entrar en el mercado de bienes raíces. Antes de convertirte en agente profesional de bienes raíces, pesa los pros y los contras de este tipo de inversiones. Querer hacer valer tu voluntad podría darte demasiada confianza en lo que respecta a la negociación. Asegúrate de tener todos los hechos, aunque se necesita tiempo para investigar posibles compras.
+Tanto está pasando en tu vida laboral que puede que tengas que evitar el agobio o el cansancio. Sin embargo, las oportunidades están ahí, para que construyas tu propio pequeño imperio. Tu influencia se amplía sobre los grupos, por lo que asegúrate de que tu mensaje está pulido y listo para atacar. El dinero te sigue cuando eres fiel a lo que eres y lo que quieres decir.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 30 de octubre 2017 al 05 de noviembre 2017 
-description: Horóscopo semanal aries 30 de octubre 2017 al 05 de noviembre 2017. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+title: aries 06 de noviembre 2017 al 12 de noviembre 2017 
+description: Horóscopo semanal aries 06 de noviembre 2017 al 12 de noviembre 2017. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: ucZh_RGcFVE
+ video: tHbcPvLuX44
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-30'
+ lastmod: '2017-11-06'
 ---
 
 
 
-## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 
-Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás aries. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
-Con el sociable Venus en tu sector de hogar y familia, podrías tener más pensamientos relacionados a entretenimiento. No tiene que ser una gran ocasión, ya que incluso una pequeña reunión con amistades cercanas o familia puede ser muy divertida. El cosmos también te lleva a involucrarte en pasatiempos que disfrutas. Lo que sea que haga fluir tu creatividad puede ser terapéutico y reparador. Más adelante, un deseo de tener tu lugar en perfectas condiciones podría inspirarte a lidiar con el desorden.
+No pelees aries, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente aries, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador aries, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
+Puede que esta semana seas tú quien proponga una idea revolucionaria a otra persona y que esta idea cambie su vida de alguna manera. Con la conexión entre el dinámico Júpiter y el creativo Urano, tus procesos mentales pueden ser más rápidos y agudos de lo normal. Puede que también te atraigan ciertas cosas un tanto visionarias. Compartir lo que piensas con una persona importante en tu vida podría ayudarle a comprender una idea o aprovechar una emocionante oportunidad.
 
 ## Dinero
 
-Es una semana de subidas y bajadas para ti. Por un lado, gran parte del enfoque de esta semana es sobre el dinero y el estatus. Por otro lado, los aspectos afectarán a tu sector de deuda y el dinero de otras personas. El Universo quiere que resuelvas esto antes de que empeore.
+Tienes que pensar un poco acerca de tu casa. Desde la decoración, la organización, los muebles, tienes mucho que hacer por ahora. Pero hay cierta confusión en tus relaciones más cercanas. Ya sea que se trate de personal o profesional, la comunicación debe ser clara y concisa para que no se malinterprete. Mucho está en juego en éste aspecto.

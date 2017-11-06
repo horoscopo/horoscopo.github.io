@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 30 de octubre 2017 al 05 de noviembre 2017 
-description: Horóscopo semanal piscis 30 de octubre 2017 al 05 de noviembre 2017. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+title: piscis 06 de noviembre 2017 al 12 de noviembre 2017 
+description: Horóscopo semanal piscis 06 de noviembre 2017 al 12 de noviembre 2017. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: T9qljh715hc
+ video: IlcOf7ZqFjE
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-30'
+ lastmod: '2017-11-06'
 ---
 
 
 
-## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 
-Y de repente cambias piscis, y nadie lo entiende. Pues sí, de vez en cuando hasta tu cuerpo te pide dar un giro que, aunque no sea del todo radical si te permita cerrar algunos asuntos pendientes que parecía que no iban a llegar nunca. Hay personas que no lo entienden, que piensan cómo es posible que llevaras un camino tan inestable en tu vida y de repente la enderezaras para tomar otro rumbo diferente… Pues sí, no eres imbécil, y sabes que si algo no te conviene, no te conviene, y aunque te des cuenta tarde, lo importante es que sabes corregirlo. La cuestión es que los que estaban a tu alrededor y creían conocerte se echan las manos a la cabeza y piensan cómo puede ser que de repente hagas todo lo contrario a lo que parecía que ibas a hacer. Pues es sencillo, porque todo tiene un límite, y por mucha paciencia que piscis pueda tener, lo siento, también tiene amor propio, que a veces no saca, que a veces parece que está escondido, pero lo tiene, aunque a muchos les joda y les fastidie sus planes. Ya te han hecho daño, y estuviste solo, y te sentiste más inseguro que nunca, y el mundo parecía romperse en dos, y ahí nada importaba pero ahora, ahora es todo diferente. Ahora sólo darás tu mejor cara, la buena, la dialogante, la amable, a quien se lo merece. Porque antes lo entregabas todo aunque nadie te lo pidiese, y te quedaste muchas veces sin nada, pero te daba igual, porque eras leal a tu palabra piscis, pero ahora ya sólo quieres ser leal a ti mismo. Sigue así, de verdad, no hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
-Ten cuidado al hablar de temas delicados. Este tipo de conversaciones podrían hacer que otra persona te confronte. De hecho, quizá sería mejor no causar ningún problema, particularmente durante el fin de semana y especialmente si quieres pasar un momento tranquilo con esta persona. ¿Por qué no sacas el tema más adelante en la semana? Quizá se sientan más relajados al respecto. Por otro lado, puede que causes una buena impresión en una persona de autoridad gracias a tu encanto y tus habilidades innatas. No desaproveches esta conexión.
+Te crees que eres débil piscis, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos piscis, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior piscis… Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+Podrías enfrentarte con alguien de autoridad al comienzo de la semana. Esto se debe a aspectos que durarán un par de días, así que sería sabio manejar esto con cuidado en vez de dar la impresión de ser una persona muy intensa. Un toque de diplomacia puede ayudarte a encontrar una solución positiva. Por otro lado, el afortunado Júpiter ingresa a tu sector de sociabilidad y conexiones el martes, lo que trae muchas oportunidades para conectar con gente que puede poner asociaciones y prospectos positivos en tu camino 
 
 ## Dinero
 
-Hay una sorpresa muy especial para ti ahora. Un aspecto armonioso te ofrece un montón de ideas creativas, por no mencionar el talento para lograrlas. Mientras tanto, también recibes el impulso para tomar medidas sobre todo lo que quieres lograr. Dado que tu sentido de auto-expresión se ve afectado, es un buen momento para vender tus productos o servicios. Formula una lluvia de ideas para lograr llegar a un plan.
+Esta semana, el Universo está mejorando tu creatividad, pero también haciéndote trabajar un poco más duro de lo que debería. Al mismo tiempo, tus sectores de comunicación, instituciones, karma y vidas pasadas se ven afectados. No es el momento de enfadar a tu jefe o de demostrar llamativamente tu independencia. Trata de llevarte bien.

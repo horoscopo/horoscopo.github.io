@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 30 de octubre 2017 al 05 de noviembre 2017 
-description: Horóscopo semanal virgo 30 de octubre 2017 al 05 de noviembre 2017. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+title: virgo 06 de noviembre 2017 al 12 de noviembre 2017 
+description: Horóscopo semanal virgo 06 de noviembre 2017 al 12 de noviembre 2017. virgo, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: FurAytpZeNM
+ video: C9Hm9_ynQtY
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-10-30'
+ lastmod: '2017-11-06'
 ---
 
 
 
-## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+## virgo, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 
-Deja de esperar al futuro virgo, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz virgo, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio virgo, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir virgo, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor virgo, sin remordimientos.
-Mercurio continúa retrógrado en tu sector de hogar y familia, por lo que tendrás una gran oportunidad para eliminar el desorden, trabajar en proyectos domésticos y redecorar. Sin embargo, evitar iniciar un gran proyecto de remodelación por el momento. Planea, pero espera hasta que Mercurio comience a avanzar una vez más, el 21 de septiembre, antes de seguir adelante. Hay buenas noticias en el campo del romance con Júpiter entrando a Libra el viernes. Realmente estarás en tu elemento con esta positiva influencia mejorando tu confianza y alegría de vivir durante todo el próximo año.
+No sueles dar la llave de tu corazón a nadie virgo, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia virgo, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana virgo.
+El enfoque en la creación de redes y en entablar interesantes nuevas conexiones se potencia esta semana, cuando el amigable Venus ingresa a tu sector de comunicación. Agregarle un toque de encanto a tus interacciones puede ayudarte a que no haya problemas y a dar una impresión positiva. Al mismo tiempo, un encuentro podría ser más intenso de lo habitual, tal vez con una atracción que se manifiesta como muy tentadora. Con respecto al hogar, puede que haya avances en relación con la financiación para un proyecto doméstico.
 
 ## Dinero
 
-Estás tratando de encontrarle solución a un dilema monetario en curso. Te estás convirtiendo en una figura de autoridad en tu campo. Y ahora te preparas para aprovechar todo lo que has cultivado. El cosmos está afectando a tu sector de dinero y valores, mostrando que el flujo de efectivo debería de aumentar muy pronto con un poco de esfuerzo y decisión.
+Esta semana, actividad en tu sector de trabajo indica que es probable que tu trabajo se vuelva más fácil ahora. El Universo te proporciona la energía que necesitas para hacer las cosas y avanzar en la escalera del éxito al lograr que tu trabajo sea notado y apreciado. Al mismo tiempo, tienes que asumir una mayor responsabilidad antes de poder ganar más dinero.
