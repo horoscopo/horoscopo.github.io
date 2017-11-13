@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 06 de noviembre 2017 al 12 de noviembre 2017 
-description: Horóscopo semanal capricornio 06 de noviembre 2017 al 12 de noviembre 2017. Esta semana vas a abrir los ojos capricornio, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+title: capricornio 13 de noviembre 2017 al 19 de noviembre 2017 
+description: Horóscopo semanal capricornio 13 de noviembre 2017 al 19 de noviembre 2017. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: 6m-3D1bFhuk
+ video: 3AOxYgw_QIY
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-06'
+ lastmod: '2017-11-13'
 ---
 
 
 
-## Esta semana vas a abrir los ojos capricornio, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 
-No puedes ser sumiso Sagi, al final, tus necesidades siempre acaban saliendo a la luz porque no puedes limitarte ni encasillarte con nada. No puedes pasarte la vida sabiendo qué es lo que debes hacer pero sin hacerlo, no puedes pasarte la vida queriendo hacer algo y que al final ese algo sólo se quede en tu cabeza, en tus pensamientos. Tienes que romper con eso. Esta semana céntrate en cumplir cada una de tus metas, trata de hacer lo que te pida el cuerpo sin necesidad de quejarte, piensa en qué es lo que está en tu mano, en qué es lo que tú puedes hacer, y hazlo. No hagas de tu tiempo tiempo perdido, con nada, con nadie… Si no vas a por todo, mejor no vayas. Es uno de tus lemas, pero a veces te olvidas de aplicártelo a ti, y sí, empiezas algo y por unas cosas u otras, no lo acabas. Piensa que así es como te frustras y piensa que es el motivo por el cual te pones de muy mala hostia un día sí y otro también. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo. No te compliques y al lío Sagi. Ponte en marcha de una vez esta semana, y no pienses en lo que perdiste o en lo que ganaste, piensa en lo que llegará si de verdad te pones las pilas.
-El enfoque en tu sector psicológico se intensifica esta semana y puede también ser una razón más por la que tengas ansias por hacer cambios. Sin embargo, puede que esto no implique hacer más, sino más bien dejar de lado actividades que ya no te sirven, lo que pudiera dar lugar a hacer mucho menos. Esta es también una oportunidad para pensar acerca de tu propósito de vida y lo lejos que has llegado en relación a él. Si no tienes seguridad de lo que es, aprovecha esta oportunidad para reflexionar sobre el tema.
+Ommmm… Ommmm… Relax capricornio, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira capricornio, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas capricornio, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+Con el optimista Júpiter y el conversador Mercurio en tu sector hogareño, quizás hagas planes para agrandar tu casa o ansíes mudarte a algún lugar que te dé más oportunidades. Quizás incluso estés pensando en comprar una propiedad en otro país o trasladarte al extranjero. Tu hogar podría lucirse con decoraciones y gastronomía étnica, lo que pondría en tu camino un gusto por lo exótico. Esto es genial, ya que también estás en una fase de conexiones muy positiva. Reunir gente en tu casa puede fomentar nuevas y geniales relaciones.
 
 ## Dinero
 
-Puede parecer que tu situación monetaria va hacia atrás en lugar de ir hacia adelante. Pareciera que algunas influencias te están restringiendo pero puede que sea solo una ilusión. Eleva tu nivel de madurez y responsabilidad,  esto podría finalmente determinar de una vez por todas, el significado del dinero en tu vida. ¿Sientes comodidad con tu situación actual, o crees necesitar más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.
+Para ti, esta semana se trata de tomar ventaja de las oportunidades que se te acerquen. Todo lo que escribes y dices es más magnético de lo habitual. Tienes la capacidad de encantar como si fueras un ángel caído del cielo. Mientras tanto, un afortunado aspecto afecta al sector de tu carta que rige las relaciones. Estás conociendo a muchas personas que en realidad quieren ayudarte a avanzar y llegar a un mejor puesto. El expresar tu gratitud podría convertirse en un trabajo de tiempo completo.

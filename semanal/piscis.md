@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: piscis 06 de noviembre 2017 al 12 de noviembre 2017 
-description: Horóscopo semanal piscis 06 de noviembre 2017 al 12 de noviembre 2017. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+title: piscis 13 de noviembre 2017 al 19 de noviembre 2017 
+description: Horóscopo semanal piscis 13 de noviembre 2017 al 19 de noviembre 2017. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo piscis, se llama dignidad. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: IlcOf7ZqFjE
+ video: -ihWQSuVMq8
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-06'
+ lastmod: '2017-11-13'
 ---
 
 
 
-## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo piscis, se llama dignidad. 
 
-Te crees que eres débil piscis, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos piscis, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior piscis… Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
-Podrías enfrentarte con alguien de autoridad al comienzo de la semana. Esto se debe a aspectos que durarán un par de días, así que sería sabio manejar esto con cuidado en vez de dar la impresión de ser una persona muy intensa. Un toque de diplomacia puede ayudarte a encontrar una solución positiva. Por otro lado, el afortunado Júpiter ingresa a tu sector de sociabilidad y conexiones el martes, lo que trae muchas oportunidades para conectar con gente que puede poner asociaciones y prospectos positivos en tu camino 
+Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
+Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
+Las actividades románticas podrían ser muy placenteras esta semana. Con el apasionado Marte en la escena, este es el momento perfecto para llevar a tu amor a una cita especial o para asistir a una fiesta de Halloween y encontrar al pretendiente perfecto. La luna llena del viernes te lleva a tomar un descanso espiritual como una forma de orientarte y centrarte. La semana por delante puede ser un éxito si puedes combinar una tranquila reflexión con las demandas de tu vida social. 
 
 ## Dinero
 
-Esta semana, el Universo está mejorando tu creatividad, pero también haciéndote trabajar un poco más duro de lo que debería. Al mismo tiempo, tus sectores de comunicación, instituciones, karma y vidas pasadas se ven afectados. No es el momento de enfadar a tu jefe o de demostrar llamativamente tu independencia. Trata de llevarte bien.
+Para ti, esta semana se trata de aumentar considerablemente tu potencial de ingresos. Dondequiera que detectes una oportunidad, haz valer tu voluntad, tus necesidades y tu individualidad. Con la ayuda de los útiles aspectos, el dinero viene cuando cultivas la creatividad en tu pensamiento. En otras palabras, mientras menos hagas las cosas de la misma vieja manera, más lo agradecerás. Es bastante brillante si piensas en ello.

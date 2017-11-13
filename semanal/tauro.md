@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 06 de noviembre 2017 al 12 de noviembre 2017 
-description: Horóscopo semanal tauro 06 de noviembre 2017 al 12 de noviembre 2017. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: tauro 13 de noviembre 2017 al 19 de noviembre 2017 
+description: Horóscopo semanal tauro 13 de noviembre 2017 al 19 de noviembre 2017. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: XLVyCtoUJhA
+ video: IOl9brsNQDs
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-06'
+ lastmod: '2017-11-13'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 
-tauro, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo tauro. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
-La Luna Nueva del martes en tu signo es lo mejor que te sucede en el año, ya que te dará la oportunidad de cumplir tus sueños y tus deseos. Si haces una lista de tus deseos y sueños y la lees con frecuencia, puede que notes que se hacen realidad mucho antes de lo que esperas. Por otro lado, la entrada de Mercurio a tu sector de dinero puede impulsarte a que vendas ciertos objetos y ganes un poco de dinero extra. Si empiezas vendiendo cosas que ya no necesitas, puedes ganar algo de dinero y disfrutar de tener más espacio.
+Esta semana estás un poco impredecible tauro, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica tauro… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+Puede que un proyecto tenga un tono serio, pero puede ser una ocasión divertida también. Una mezcla enfocada de energías podría darte ganas de colaborar con una persona en un plan que requiere de dos cabezas en vez de una. Puede que alguien se ofrezca a ayudarte inesperadamente y esta ayuda también podría ser una fuente extra de inspiración creativa. Parece que tienes muchas opciones para pasar un fin de semana activo. Por último, trata de no enojarte por asuntos familiares.
 
 ## Dinero
 
-Puede que estés en medio de un cambio de vida grande. Puede que en el pasado no te haya importado la forma en la que te dirigías a los demás con tal de avanzar en la escalera corporativa. En este momento, el Universo te está empujando hacia una forma más diplomática pero seria de expresarte. Hay aspectos que realzan tu creatividad, así como a tu familia y la exuberancia. El efectivo viene cuando les muestras de lo que estás hecho/a.
+Estás atrapado/a en fuego cruzado y podría ser necesario recurrir a tus excelentes habilidades diplomáticas para suavizar alguna situación. Tu estado financiero está mucho mejor últimamente ya que has combinado tu  creatividad con la poca suerte que tienes. Sin embargo, tus amigos y redes sociales  pueden no estar tan felices al respecto, puede ser que algunos estén molestos por tu éxito. En lugar de tomarlo como algo personal, estate consciente de que esto también pasará.

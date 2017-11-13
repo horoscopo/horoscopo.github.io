@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 06 de noviembre 2017 al 12 de noviembre 2017 
-description: Horóscopo semanal acuario 06 de noviembre 2017 al 12 de noviembre 2017. Estás renaciendo acuario, renaciendo de las cenizas… Y ya era hora…
+title: acuario 13 de noviembre 2017 al 19 de noviembre 2017 
+description: Horóscopo semanal acuario 13 de noviembre 2017 al 19 de noviembre 2017. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: 4hLBGnx9jo8
+ video: DLMrhvI7odI
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-06'
+ lastmod: '2017-11-13'
 ---
 
 
 
-## Estás renaciendo acuario, renaciendo de las cenizas… Y ya era hora…
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-Tu mente lo está analizando absolutamente todo acuario, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez acuario… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas acuario, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana acuario, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
-Estás en una fase en la que te beneficiaría relajarte y recargar energías. Después de once meses de actividad, el número doce debería ser dedicado a meditar sobre tu progreso y tus objetivos para los próximos doce meses. También es una oportunidad para liberar sentimientos y situaciones que agotan tu energía. Si puedes hacer esto ahora, le sacarás el mayor provecho posible a tu período de recuperación. Y con el seductor Venus bailando en tu sector social, es un momento excelente para colaborar y trabajar en equipo.
+No te arrepientas de abrirte acuario, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles acuario, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar acuario, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos acuario, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+A medida que el hablador Mercurio, tu planeta personal, regresa a Leo y a tu sector de comunicación, las próximas semanas ofrecen la oportunidad de revisar planes recientes y realizar cualquier cambio. Pero no te apresures a firmar ningún contrato, hacer promesas o a comprometerte, ya que durante esta fase las cosas podrían no salir como lo planeado. Los próximos días pueden hacer que aspires a mayores oportunidades, pero tómate tu tiempo y evita tomar decisiones de forma impulsiva. Si puedes tomártelo con calma quizás te vaya muy bien.
 
 ## Dinero
 
-Ahora tienes el apoyo total del Universo para hacer dinero a través de cualquier cosa que implique el amor, las relaciones, la familia, los niños, y actividades divertidas. Son tus relaciones personales o profesionales las que te podrían ofrecer las mejores ideas para productos o servicios que les puedas ofrecer a tus clientes. Tienes más de una oportunidad para hacer que suceda.
+Podrías estar considerando la forma de lograr realizar viejas esperanzas y sueños. Las amistades, los contactos sociales, las maniobras políticas y los grupos te ayudan a estar un paso adelante y establecerte como experto en tu campo. A medida que expandes tu influencia en estos reinos, haz todo lo posible para preservar las inversiones y propiedades compartidas. Si es necesario, gasta para mantenerlas o mejorarlas hasta que las puedas vender directamente.
