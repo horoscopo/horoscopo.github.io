@@ -1,11 +1,11 @@
 ---
 layout: page
-title: cancer Horóscopo año nuevo 2017 
-description: cancer horoscopo del 2017, amor, trabajo, vida personal. Todas las predicciones para cancer gratis. Disfruta este año nuevo.
+title: cancer Horóscopo año nuevo 2018 
+description: cancer horoscopo del 16-11-2017, amor, trabajo, vida personal. Todas las predicciones para cancer gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/cancer/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2017, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2017, horóscopo esperanza gracia, horoscopo cancer 2017, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2017 gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/cancer.png
+keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo cancer 2018, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2018 gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/cancer_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -15,29 +15,46 @@ sitemap:
 
 ## Vida Personal
 
-Sin importar qué pase, el 2017 puede ser un año lleno de grandes logros, decisiones cruciales y grandes cambios para Cáncer. Tienes la posibilidad de hacer grandes cosas con tanta energía transformadora siendo dirigida hacia ti.
-En enero, la conjunción Sol-Plutón en Capricornio también forma una cuadratura con Júpiter en Libra y Urano en Aries. Esto crea una cuadratura T que apunta directamente hacia el Signo Cáncer. Tu vida hogareña, entorno doméstico, tu ciudad natal, tu país, y tu planeta Tierra rara vez reciben tanta atención celestial. Logra hacer tanto progreso en cualquiera o en todos estos frentes tan pronto como te sea posible.
-Es también un gran año para concluir con éxito un difícil o largo proyecto o para hacer un gran cambio que te lleve a un mejor lugar... geográfica, mental o emocionalmente.
-La conjunción de separación entre Marte y Neptuno en Piscis te otorga una mayor intuición e instinto. Esto te ofrece poderosas ventajas durante todo el año. ¿Las vas a aprovechar?
-Cuando el Sol entre a Cáncer, Marte también estará allí. Júpiter se encontrará en el corazón de Libra, tu Cuarta Casa del hogar, la familia y la conclusión de las cosas. Puede que este año requiera de un arduo esfuerzo, pero una gran energía, suerte y generosidad están a tu alcance durante todo el año.
+
+El año 2018 resplandece con energía, desafíos y oportunidades de las más prácticas y trascendentales. ¡Tienes un año dorado por delante, cancer!
+
+
+Cuando el sol ingresa a cancer, ocurre un gran trígono de tierra, con Urano en el arraigado Tauro, Venus en el metódico Virgo, y Saturno y Plutón en el pragmático Capricornio. Lo que logres en el 2018 puede estar hecho para durar en el tiempo. Formula tus planes y procedimientos sabiamente.
+
+
+El nodo lunar norte se encuentra en cancer ahora. Los eventos en tu vida también podrían sentirse más kármicos y tener consecuencias más trascendentales.
+
+
+Durante el eclipse lunar de enero, la luna se encontrará en cancer, lo que podría desatar problemas emocionales del pasado. Durante el eclipse lunar de julio, el sol estará en cancer. Te sientes con los pies más sobre la tierra ahora. El eclipse solar parcial de agosto podría afectar tu condición social o profesional. ¡Haz que sea algo bueno!
+
+
+La fase retrógrada de Mercurio se manifiesta en cancer durante julio y agosto. Marte también estará en su fase retrógrada, y se manifestará en Acuario. Durante este periodo, sé un poco menos exigente, piensa más antes de actuar, y toma ventaja para llevar la delantera.
+   
+
+
+
 
 ## Amor Parejas
 
-El amor es muy brillante para las parejas y tu vida hogareña en el 2017. Júpiter brilla en el social y amoroso signo de las relaciones, Libra. Desde enero hasta principios de octubre, puede haber muchas reuniones de amigos y familiares. Puede que también haya muchas ocasiones agradables y culturales como festivales y fiestas durante el día, así como también divertidas noches en la ciudad.
-Plutón en Capricornio, tu Séptima Casa del amor y parejas, te otorgará oportunidades para hacer cambios que fortalezcan los lazos entre tú y tu pareja. Podrán hablar de todo con facilidad y con frecuencia.
-Mercurio se encontrará a punto de salir del social Géminis cuando el Sol entre a Cáncer. Entonces habrá una conjunción entre la Luna y Venus en el práctico y placentero Tauro en el día en el que el Sol entra a Cáncer. Los sentimientos y la intuición proporcionarán la comodidad para mejorar todo en tu vida hogareña durante este periodo de tiempo.
-En octubre, Júpiter saldrá de Libra para entrar a Escorpión. El verdadero amor, la dedicación y lo que realmente es la base de tu relación se volverá mucho más importante. Esto también puede aumentar su atractivo sexual y expresión amorosa. Respétense el uno al otro y permitan que Júpiter en Escorpión haga grandes cosas por ustedes.
+Tú, como cancer, le traes mucha pasión y energía a cualquier relación, pero este año, podría ser más difícil expresar abiertamente tus intensos deseos y necesidades. Complicadas situaciones al comienzo del año podrían resultar en sentimientos confusos, y no siempre te es claro cómo expresar tus preocupaciones. 
+No te preocupes – no estás perdiendo tu chispa o tu deseo sexual. Más bien, estás obteniendo una visión más profunda de la habitual de la selva emocional que es parte de la vida de todos.
+Tú y tu pareja podrían experimentar algo parecido a un descubrimiento o progreso hacia una mayor intimidad o compromiso, o simplemente alcanzar más honestidad durante el Eclipse Lunar del 27 de Septiembre. Algo de esto podría ser kármico. A veces es la unión de las almas; a veces es simplemente mejorar su vida cotidiana en conjunto. 
+En cualquier caso, y sin importar cuanto tiempo lleven juntos, toma consciencia de que ambos están aprendiendo profundas e importantes lecciones de amor este año.
 
 ## Amor Solteros
 
-Aquellos que sean Cáncer solteros tienen muy buenas oportunidades románticas en el 2017. Con Júpiter en Libra desde enero hasta principios de octubre, el mundo de las citas se vislumbra ocupado y opulento. No gastes demasiado (o hagas que alguien gaste demasiado en ti por puro placer), pero sí disfruta de espectaculares momentos con nuevas y elegantes personalidades.
-El 2017 comienza con una conjunción Luna-Venus en el interesante y popular Acuario. Esto puede ayudarte a dar rápidas y precisas primeras impresiones sin importar qué tan apasionado sea el llamado de tu corazón.
-Cuando el Sol entra a Cáncer, la conjunción Luna-Venus en Tauro en tu Undécima Casa de grupos sociales y organizaciones puede inyectarle energía a tu vida social y así poner a admiradores en tu camino.
-Cuando Júpiter entra a Escorpión en octubre, el romance se vuelve más serio. Si estás buscando una pareja a largo plazo con intenciones más profundas, octubre, noviembre y diciembre se vislumbran muy prometedores para conocer a alguien especial o llevar una relación casual a un nuevo nivel de compromiso.
+Para ti, el camino hacia una relación es como una escalera nivelada y constante este año. Primero, te enfrentarás a períodos en los que podrías sentir más ganas de estar a solas que costumbre, como a finales de Agosto, cuando la Luna conjunte a Saturno en Escorpión.
+
+
+En segundo lugar, ¡es posible que pases mucho tiempo sin ni siquiera saber que estás en una relación! Alguien por ahí puede estar pensando en ti como una influencia positiva en su vida, y puede que tú no tengas seguridad de que esa persona sea una amistad o algo más. Esta incertidumbre no va a evitar que te diviertas, por supuesto, pero sí puede que pases algunas noches preguntándotelo.  
+
+
+El verano te trae más promesas de una conexión más profunda, pero ese período solitario mencionado junto con algunos aspectos desconcertantes en Septiembre que frenan la comunicación, podrían alentar un poco el proceso de entrar a una  relación. Sin embargo, puedes darte el lujo de ser paciente. Si juegas bien tus cartas, al menos ninguno de los dos (tú y tu posible pareja) van a estar muy lejos el uno del otro.
+
 
 ## Trabajo
 
-Las cuestiones profesionales, monetarias y laborales reciben poderosas ventajas por parte de tus estrellas en el 2017. Esto es asegurado al comienzo del año por la conjunción Sol-Plutón en Capricornio.
-Si tus anhelos de extravagancias pueden ser controlados en junio y principios de julio, cuando Venus se encuentre en el sensual Tauro, tus ingresos y ahorros pueden fácilmente ser aumentados.
-Durante la segunda mitad del año, Marte visitará a Cáncer al mismo tiempo que el Sol entrará a tu signo, periodo de tiempo en el que debes actuar más enérgica y ambiciosamente.  
-Trabaja de forma constante, mantén un buen registro y prepárate para un ambicioso diciembre, cuando es posible que las oportunidades abunden. En diciembre, Saturno entra al trabajador Capricornio y el Sol conecta con Saturno en el mismo día del Solsticio de Invierno. ¡Considera esto como un poderoso empuje para iniciar el 2018!
+Si te interesa un cambio de carrera o una reubicación importante en cuanto a trabajo, la oferta perfecta podría llegarte en el 2018.
+Si eres feliz y sientes seguridad donde te encuentras ahora, mantente alerta de todos modos. El futuro nunca está escrito en piedra, y este año, podrías encontrar la semilla de la planta que más tarde crezca como un hermoso cambio o avance en tu vida.
+El deseo o tendencia a gastar en exceso pueden estar siempre presentes este año. Lo brillante, atractivo, y caro te llamará la atención a menudo en Junio, y de nuevo en Agosto; más no tienes que ceder al impulso. El autocontrol y la buena gestión presupuestaria le vienen a cancer más fácilmente también en Agosto, y de nuevo en Noviembre y Diciembre.
+Realmente es un año de lujos. Trata de ahorrar tan a menudo como gastes (siempre una buena fórmula), ¡y verás una gran prosperidad!

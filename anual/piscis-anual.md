@@ -1,11 +1,11 @@
 ---
 layout: page
-title: piscis Horóscopo año nuevo 2017 
-description: piscis horoscopo del 2017, amor, trabajo, vida personal. Todas las predicciones para piscis gratis. Disfruta este año nuevo.
+title: piscis Horóscopo año nuevo 2018 
+description: piscis horoscopo del 16-11-2017, amor, trabajo, vida personal. Todas las predicciones para piscis gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/piscis/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2017, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2017, horóscopo esperanza gracia, horoscopo piscis 2017, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2017 gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/piscis.png
+keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo piscis 2018, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2018 gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/piscis_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -15,31 +15,33 @@ sitemap:
 
 ## Vida Personal
 
-¡El 2017 será un año de magia pura! Tómate el tiempo para distinguir entre lo que es real y lo que es ilusión para poder navegar de forma segura en cada una de las situaciones.
-Con la conjunción Marte-Neptuno en Piscis dándole apertura al 2017, puedes utilizar tu encanto en lugar de que alguien te encante a ti, mantenerte fiel al más alto de tus ideales y también disipar cualquier engaño o decepción.
-En enero, la conjunción Sol-Plutón en Capricornio les aporta intensidad a todos tus esfuerzos para alcanzar el éxito. Además, también intensifica tus sentimientos y pasiones.
-El Eclipse Solar en Piscis de febrero abre otra puerta. Neptuno, tu planeta regente moderno, estará en conjunción con el Sol, entonces eclipsado. Si el resto del mundo está en desorden, tú podrás ver a través de la neblina y servirles de inspiración a los demás para que se den cuenta de lo que es mejor.
-Júpiter, tu antiguo planeta regente, pasa la mayor parte del año en Libra y es increíblemente poderoso. Tal comienza en oposición a Urano en Aries, lo que termina obstruyendo tus locas aspiraciones o la cantidad de salvajes deseos en caso de que tengas demasiados.
-Cuando el Sol entre a Piscis en febrero, Júpiter aún se encontrará en oposición a Urano, pero esta vez, Marte en Aries estará involucrado. Las acciones impulsivas o tempestuosas serán reconocidas a tiempo. Dirige la energía creativa extra que tengas hacia los canales que sean más constructivos.
-Cuando el Sol entre a Piscis, lo hará junto con el Nodo Sur Lunar. Los recuerdos, los sentimientos y los lazos emocionales serán fuertes este año. Ayúdate si es que te encuentras cayendo de nuevo en cualquier viejo o mal hábito y benefíciate de lo que el pasado te haya enseñado.
+El 2018 es un año de gran potencial y crecimiento personal. También habrá trabajo arduo y éxito, pero es posible que tu mayor progreso sea hecho internamente en vez de externamente.
+La conjunción Sol-Plutón en Capricornio que sucede al inicio del 2018 mantiene tus ojos puestos en los premios materiales. La conjunción Marte-Neptuno mantendrá vivos tus amores, ideales y más altas esperanzas.
+La Luna y Venus también estarán en conjunción en piscis conforme el 2018 comienza. Esto te ayudará a tener relaciones personales más fáciles y cálidas con la gente.
+Cuando el Sol entra a piscis, la Luna y Júpiter estarán unidos en tu Novena Casa de la expansión y la educación superior. En el 2018, querrás aprender y entender a un nivel más complejo.
+El Eclipse Lunar del 10 de febrero sucederá cuando el Sol se encuentre en piscis. Y el Eclipse Lunar del 7 de agosto sucederá cuando la Luna se encuentre en piscis. Ciertos problemas emocionales podrían salir a la superficie en esos momentos. Pero si muestras tener bondad y buen corazón, las soluciones mismas te encontrarán.
+Tus planetas, Saturno y Urano, son increíblemente poderosos durante todo el año porque estarán formando trígono al inicio del 2018. Tanto nuevas ideas, como nuevos proyectos y personas, la sabiduría y la audacia estarán a tu alcance.
 
 ## Amor Parejas
 
-El 2017 será un año dulce para las parejas con Júpiter en Libra, un signo positivo para las relaciones.  Disfruten de buenos momentos tanto íntimamente como también en casa. Sin embargo, no traten de superarse al uno al otros en amabilidad y generosidad. Tú bien sabes lo que es satisfactorio y suficiente. Los regalos y las sorpresas pueden ser difíciles de resistir de vez en cuando.
-Venus estará retrógrado en marzo y principios de abril. Tal inicia con el planeta del amor en el Signo de Fuego Aries, pero termina en Piscis. Sin importar qué tan molesto o descuidado cualquiera de los dos se sienta en marzo, para abril, sus corazones regresarán a la normalidad y estarán más cerca que antes.
-Cuando Júpiter entre a Escorpión en octubre, las relaciones se vuelven más serias. Tu vida doméstica podría abordar cuestiones más serias, y puede que no sientas total comodidad al hablar y tratar con todo ello. Aun así, incluso aunque haya dudas o secretos, las relaciones se beneficiarán de ambos.
-Cuando el Sol entre a Piscis, la Luna estará a punto de salir de Escorpión. Tú bien sabes lo importantes que la integridad y la dedicación son cuando se trata de amor.
+¡Nuevas pasiones son encendidas para ti y tu pareja en el 2018! El amor se vuelve más alegre, tal vez con un toque de glamour. Si los niños que llevan dentro se encuentran cerca de la superficie, ¡prepárense para una gran diversión!
+Algunas disputas podrían surgir en Mayo y Junio. Ambos están en búsqueda de soluciones creativas y constructivas hacia algunos problemas, y estos desacuerdos podrían dar lugar a nuevos enfoques que les agraden a ambos. La Luna en Géminis de principios de Julio traerá consigo rápidas resoluciones.
+La generosidad mutua forma parte de esto. Mientras que es bueno ser más compasivos y dadivosos, recuerden que este no es un concurso para ver quién puede ser el más generoso. En Agosto y Septiembre, las influencias de Júpiter y el Nodo Norte Lunar pueden traer nuevos puntos de vista sobre cómo el pragmatismo y la generosidad material pueden funcionar bien juntas.
+Con Marte en Escorpión, la pasión podría alcanzar su punto máximo en Noviembre y Diciembre. Los sentimientos más fuertes requerirán de menos palabras. Vuélvanse más cercanos y cuídense el uno al otro.
 
 ## Amor Solteros
 
-Con Júpiter, tu planeta antiguo, en Libra, el romance es compasivo y aventurero. Tu vida social puede llevarte a nuevos lugares con gente nueva. Sin embargo, también podría drenar tus reservas de energía y presupuesto.
-Venus estará retrocediendo en marzo y abril, cuando es posible que aprecies un ritmo más bajo en el mundo de las citas. Pasa más tiempo con alguien dispuesto a escucharte más. Para abril, ambos podrían andar más tiernos que nunca. Date tiempo para que los sentimientos se solidifiquen. Si es que tienes esperanzas de casarte, considera esperar hasta que el retroceso de Venus haya terminado (el 15 de abril).
-Júpiter entra a Escorpión el 10 de octubre. Si estás buscando a alguien más serio y dedicado, si no es que, a tu alma gemela, ello podría suceder en los últimos tres meses del año.
-Diciembre será un mes más tranquilo y menos ruidoso debido a que Saturno y Sol se encontrarán en Capricornio. La temporada de festividades debería ser más calmada y tus seres queridos deberían apreciar tener más momentos de tranquilidad juntos para amarse, respetarse mutuamente y apreciar los valores y las actividades tradicionales.
+El Eclipse Solar del 20 de Marzo podría ser un día muy emotivo, cuando la soledad o la insatisfacción te tienten a entablar una relación con alguien que nunca hubieras considerado - o a regresar con una expareja que es tóxica que más bien deberías mantener a distancia. Date tiempo para formarte una perspectiva clara y no simplemente saltes a los brazos de alguien que no es saludable y bueno para ti. Esto va para la mayor parte del año. 
+Por suerte, ¡tendrás una gran cantidad de admiradores y prospectos amorosos este año Cáncer! Así que relájate, sonríe, y tómate tu tiempo antes de aceptar ir a una cita, y sobre todo, comprometerte. 
+Tener paciencia para esto podría ser difícil cuando Venus esté en conjunción con Marte (21 de Febrero, 31 de Agosto y 2 de Noviembre), pero lograr hacerlo bien puede ahorrarte dolores de cabeza al final. 
+El 4 de Marzo es otro día emocionalmente poderoso, cuando Venus está en conjunción con Urano. Puede que sientas atracción a alguien inusual, pero debido a que la Luna se encontrará en el razonable Virgo, todo debería estar bien. 
 
 ## Trabajo
 
-El dinero, el trabajo y la carrera profesional estarán bajo enfoque en el 2017. La conjunción Sol-Plutón en Capricornio enciende el fuego de todos conforme los planes profesionales y una mejor administración del dinero se vuelven más importantes.
-El retroceso de Júpiter desde febrero hasta principios de junio puede reducir el impulso de gastar o el exceso de viajes. El retroceso de Saturno desde abril hasta finales de agosto puede animar un manejo ligeramente más relajado de los asuntos financieros. Si ciertas compras o gastos más grandes se hacen necesarios en el verano, tómate tu tiempo para lidiar con todo ello.
-Durante la temporada de otoño, con Júpiter en Escorpión, las asociaciones de negocios pueden volverse más sólidas y más realistas.
-En diciembre, Saturno y el Sol en Capricornio crean una temporada de festividades más sabia, práctica y con gastos manejables y un horario sano de trabajo. Ideal para que comiences el Año Nuevo con suficiente efectivo en tu cuenta.
+Por supuesto, el año comenzando con tal influencia dramática por parte de piscis implica que tu rutina de trabajo sufrirá una explosión de actividad. Tu vida social es igual de ocupada, y puede que tengas que luchar un poco para mantener el equilibrio.
+
+
+Con Júpiter en Cáncer, tienes acceso a útiles recursos que puedes llegar a utilizar. Lo que hay que recordar es que no tienes que hacerlo todo tú. Saturno está escondido en el reservado Escorpión, así que podrías llegar a sentir que los silencios de los demás implican que tienes que hacer a solas todo lo que haces. Pero no hay que olvidar que Venus está en piscis. Para obtener la ayuda que necesitas, ¡todo lo que tienes que hacer es pedirla!
+
+
+Sin embargo, mientras tanto, ten cuidado con el dinero. La picadura de Saturno en Escorpión podría hacerte sentir como si pudieras comenzar a gastar, pero es posible que aún sigas siendo objeto de peticiones de dinero. Si un amigo o familiar está en serios problemas, ayúdale tanto como puedas pero no te excedas. Si alguien te está pidiendo extra donaciones o préstamos excesivos, ¡cortésmente di que no o mantenlas a un mínimo!

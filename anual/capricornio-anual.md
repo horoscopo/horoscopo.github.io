@@ -1,11 +1,11 @@
 ---
 layout: page
-title: capricornio Horóscopo año nuevo 2017 
-description: capricornio horoscopo del 2017, amor, trabajo, vida personal. Todas las predicciones para capricornio gratis. Disfruta este año nuevo.
+title: capricornio Horóscopo año nuevo 2018 
+description: capricornio horoscopo del 16-11-2017, amor, trabajo, vida personal. Todas las predicciones para capricornio gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/capricornio/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2017, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2017, horóscopo esperanza gracia, horoscopo capricornio 2017, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2017 gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/capricornio.png
+keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo capricornio 2018, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2018 gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/capricornio_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -15,34 +15,32 @@ sitemap:
 
 ## Vida Personal
 
-Es tu año para avanzar, hacer cambios audaces para progresar, tener éxito y lograr un mayor respeto por parte del mundo. La conjunción Sol-Plutón manifestándose en tu signo en enero llenará de poder todo tu año.
-Habrá cuatro periodos de Mercurio retrogrado en el 2017, pero sólo estará en Capricornio durante los primeros siete días de enero. Al comienzo, adopta una actitud prudente y de espera, pero después del 8 de enero, avanza a todo vapor.
-El trígono entre tu planeta Saturno y Urano hace que este año sea más fácil adoptar una actitud audaz e innovadora una vez que hayas pesado tus muchas opciones.
-Al comienzo del año, una erupción de sextiles involucrando a ocho planetas te mantendrá en conexión y en contacto con la gente, lo que te permitirá relacionarte con ellos con frialdad y calma y así ver la magia que rodea a muchas personas y situaciones.
-Tu familia y amigos te van a escuchar y apoyar. Pero puede que sea el amor lo que genere mayor progreso para ti.
-Saturno estará retrógrado en Sagitario desde abril hasta finales de agosto. Esto atenuará cualquier exceso de entusiasmo o acción precipitada.
-Diciembre será un mes súper fuerte con Saturno regresando a Capricornio, su signo regente, el 19 de diciembre. El 21 de diciembre, el Sol entra a Capricornio y conjunta a Saturno. Terminarás el año con la moral alta y una base firme para el año que viene.
+El 2018 es un año estelar en el que capricornio debe tomar las riendas de su imagen pública y ¡sobresalir en la profesión de su elección! Tendrás que esforzarte, pero estarás a la altura del desafío. Con la Luna, Marte, Saturno y Urano en Signos de Fuego al comienzo del año, tienes más energía y tenacidad que la mayoría.
+El periodo de primavera puede poner a prueba tu paciencia con Marte retrocediendo desde mediados de Abril hasta finales de Junio. Perfecciona tus técnicas y métodos y posteriormente pon a prueba tus nuevas ideas a una escala más pequeña.
+A finales de verano y principios de otoño, respeta tus límites físicos y no te comprometas de más. Resístete al impulso de acudir a demasiados eventos, reuniones, clases, o trabajar demasiado tiempo extra. Tu salud y bienestar son tan importantes como cualquier alabanza o beneficio extra que pudieras recibir.
+Busca adoptar nuevas perspectivas tanto sobre ti como tus muchas amistades, sobre todo a medida que se acerca la víspera de Año Nuevo hacia el 2017. En muchos sentidos, el 2018 es mágico, ¡así como también muy poderoso para ti!
 
 ## Amor Parejas
 
-Con Júpiter en Libra durante la mayor parte del año, los Capricornio en pareja pueden disfrutar de una afluente vida social y vidas privadas igual de abundantes.
-El 2017 comienza con Mercurio retrógrado en Capricornio. Será más fácil hablar de cosas, sobre todo de los problemas emocionales que a veces se dejan de lado.
-Venus estará retrógrado en marzo y abril, comenzando en Aries y terminando en Piscis. Si tú o tu pareja se sienten un poco egocéntricos u ofendidos, para abril, la compasión ya habrá retornado en gran medida.  
-Cuando Júpiter entre en Escorpión el 10 de octubre, el amor se vuelve más real y ciertas preocupaciones domesticas más serias podrían surgir. Enfrentarlas juntos y estar en la misma frecuencia al hacerlo les unirá más. 
-El mes de diciembre y la temporada de festividades serán fantásticos. Haz calculados planes de celebración, gasta con sabiduría y experimenta un mayor amor y respeto entre los miembros de tu familia; en especial entre los dos de ustedes.
+El año comienza de una forma un tanto turbulenta, pero los pequeños malentendidos se pueden transformar en oportunidades para restablecer un vínculo. Además, la primera parte del año se compensa con momentos más fuertes en los que ambos están en la misma frecuencia. Depende de ustedes hacer que esos momentos cuenten, al expresar empatía sin reservas. Más de la mitad de las veces, un argumento no será acerca de si alguien está "bien". Se tratará de reconocer que los argumentos de ambas partes son válidos.
+
+
+Sin embargo, una vez que el verano llegue, tú y tu pareja pueden empezar a sentirse más como una unidad sólida y querrán construir una atmósfera familiar. Nada crea una relación más sólida que tener un objetivo común, y su atención se centra decididamente en el horizonte hacia hacer que su hogar sea un mejor lugar para que tanto amigos como familiares visiten.
+
+
+A finales de año, Júpiter en capricornio estará bendiciendo el viaje que como pareja comparten. Cuando se trate de resolver problemas de vida, ¡dos cabezas son mejor que una!
+
 
 ## Amor Solteros
 
-El romance tiene un brillo mágico en el 2017. El año comienza con una conjunción Marte-Neptuno en Piscis. El deseo de un amor idealizado es fuerte y no se desvanecerá rápidamente.
-Venus retrógrado en marzo y abril puede disminuir el ritmo del romance, aunque no lo enfriará. Debido a que comienza en Aries, puede que tengas sensibilidad hacia los malos tratos. Cuando este retroceso termine en Piscis, los sentimientos serán más tenues. Si te encuentras planeando sellar una relación formal, considera esperar hasta que Venus se mueva directo de nuevo (después del 15 de abril).
-Júpiter en Libra pone muchas oportunidades románticas en tu camino. Muchas de estas personas podrían ser más glamorosas y tener gustos más extravagantes que el tuyo. Sé razonable, pero recuerda que no hay nada de malo en dejarte tratar de esa manera por parte de un sincero admirador.
-Una vez que Júpiter entre a Escorpión en octubre, el amor se vuelve más serio en general. La total integridad y la devoción son cruciales ahora. La intimidad física es más importante, deseada y también satisfactoria.
-En diciembre, brillarás durante la época navideña, después de que Saturno entre a Capricornio el 19 de diciembre y el Sol se le haya unido en tu signo el 21 de diciembre. El amor será sensato, sólido y rico en consideración y respeto mutuo.   
+Con Júpiter, tu planeta regente, en Libra desde enero hasta octubre, las relaciones amorosas se ven especialmente favorecidas. El mundo de las citas debería estar lleno de nuevas caras, nuevas voces, nuevos y emocionantes lugares a los cuales acudir, así como nuevos intereses y fuentes de entretenimiento.
+Con la conjunción Marte-Neptuno de enero, la neblina romántica podría persistir durante todo el año, permitiéndote disfrutar de dulces memorias del pasado, así como de la búsqueda activa de tu perfecto e ideal amor.
+Venus estará retrógrado desde marzo hasta mediados de abril. Disminuye el ritmo de tu vida social y deja que el amor sea menos urgente. Si estás a punto de hacer un compromiso permanente u oficial, considera esperar hasta que Venus comience a moverse directamente (después del 15 de abril).
+Júpiter deja al atractivo y agradable Libra para entrar a Escorpión el 10 de octubre. El amor se vuelve más profundo y serio. Es posible que tú prefieras el tipo de romance que es más ligero e informal, pero si te topas con alguien que realmente valga la pena este año, lo más probable es que sea durante estos últimos meses.
 
 ## Trabajo
 
-Tu trabajo, carrera profesional y finanzas son resaltadas en el 2017. En enero, la conjunción Sol-Plutón en Capricornio te da extra motivación, enfoque y energía para avanzar hacia el que es tu lugar en el mundo.
-Urano y el asteroide Ceres también conjuntan en Aries. Puede que entonces descubras o diseñes muchas nuevas maneras de nutrirte financieramente.
-Saturno estará retrógrado desde abril hasta finales de agosto. Grandes compras o decisiones más arriesgadas pueden ser hechas en abril, mayo o junio. No seas imprudente, pero tampoco dudes si lo crees conveniente y accesible.
-Cuando Júpiter entre a Escorpión en octubre, tus aliados y asociaciones pueden volverse más conscientes de la integridad y la ganancia final. 
-Diciembre podría ser un mes ocupado conforme ambos, el Sol y Saturno entren a Capricornio al final del mes. Al final del año, ten sensibilidad y tendrás una buena temporada navideña ¡para posicionarte bien financieramente para el 2018!
+El 2018 está lleno de oportunidades para tu éxito laboral y profesional. Si vas a comenzar una nueva carrera o estás buscando trabajo, las oportunidades deberían abundar. Ten una clara visión de lo que quieres, ya que bien podría caerte del cielo de la nada, sobre todo después de Agosto. 
+Júpiter brilla en Leo durante el primer semestre del año, haciéndote deseable como empleado, socio, o contratista. Una vez que Júpiter entre a Virgo, tus competentes y eficientes cualidades brillarán. 
+Mantén un registro de tus gastos, inversiones (pero no de manera impulsiva), y ahorra por lo menos algo con regularidad. 
+El Sol, Mercurio, y Saturno se encuentran en capricornio a finales de Noviembre, el penúltimo mes del 2018, cuando estarás en tu punto más ingenioso, creativo, y práctico. Básicamente, ¡esto le garantiza un final financieramente positivo a un productivo año!

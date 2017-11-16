@@ -1,11 +1,11 @@
 ---
 layout: page
-title: leo Horóscopo año nuevo 2017 
-description: leo horoscopo del 2017, amor, trabajo, vida personal. Todas las predicciones para leo gratis. Disfruta este año nuevo.
+title: leo Horóscopo año nuevo 2018 
+description: leo horoscopo del 16-11-2017, amor, trabajo, vida personal. Todas las predicciones para leo gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/leo/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2017, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2017, horóscopo esperanza gracia, horoscopo leo 2017, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017 gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/leo.png
+keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo leo 2018, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2018 gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/leo_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -15,32 +15,32 @@ sitemap:
 
 ## Vida Personal
 
-Este será un año de fuego que le inyectará energía a tu sector laboral, profesional y creativo. En enero, la conjunción Sol-Plutón mantiene tu ambición y ética profesional tan alta como el cielo. La conjunción de separación Marte-Neptuno se asegura de que tus emociones, tus ideales espirituales elevados e instintos no se queden atrás.
-El Sol estará en conjunción con el fogoso Marte conforme entra a Leo. Tal será tu principal fuente de energía durante todo el año. Sin embargo, resístete a agotarte o a actuar demasiado forzosa o impacientemente. Relájate y ve por el oro. ¡Lo que puedes lograr no tiene límite!
-La Luna no se encontrará en su fase Nueva cuando el Sol entra a Leo. Esta profunda, tranquila y oscura Luna les proporciona acceso ilimitado a las percepciones íntimas y prudentes. Con esta fuerte Luna en Cáncer, las preocupaciones hogareñas y domésticas serán importantes y deben ser bien atendidas.
-La Luna estará en Leo durante el Eclipse Lunar del 10 de febrero. El Sol estará en Leo durante el Eclipse Lunar del 7 de agosto, seguido del Eclipse Solar también en Leo del 21 de agosto. Los períodos de Eclipses Lunares les traerán estrés a las relaciones íntimas y pueden crear en ti dudas sobre tu persona. Por su parte, el Eclipse Solar puede tener más influencia en los espacios públicos o sociales. Compórtate inteligentemente y sé sensible durante estos períodos.    
-De los cuatro periodos retrógrados de Mercurio este año, el tercero se desarrolla desde mediados de agosto hasta principios de septiembre iniciando en Virgo y concluyendo en Leo. Espera emerger de tal periodo con muchos inconvenientes menores desenredados y con más energía para seguir avanzando.
+El 2018 será un poderoso año para ti, y la mayoría de lo que hagas va a suceder en público, a plena vista, y probablemente con la ayuda y cooperación de los demás.
+Tu círculo de amigos y asociados crecerá a partir de Enero y Febrero. No sentirás soledad en el 2018.
+Siéntete más audaz acerca de dinero, posesiones, y tu propio cuerpo en la primavera. Escucha a tu intuición e instintos como una manera de mirar antes de saltar a territorio desconocido - más ten valentía al hacerlo.  
+Más adelante, en Abril, Mayo y Junio, mientras Marte se encuentre retrógrado, tu enfoque mental y salud serán menos afectados que los de otros signos. Disfruta de este período de calma emocional. Tú bien sabes cómo sentir intensamente sin mostrarlo todo el tiempo.
+El Eclipse Solar de Marzo puede despertar eventos dentro de tu mundo, pero te habrás preparado para ello. El Eclipse Lunar en leo de Septiembre será más emocional para ti.
+Por su parte, la conjunción Mercurio-Venus en tu carta es un regalo que mantiene a tu mente inteligente, aguda y sensible durante todo el año.
 
 ## Amor Parejas
 
-Con Júpiter en el amable y amoroso Libra durante la mayor parte del año, las relaciones se ven especialmente favorecidas en el 2017. Tanto la generosidad como los compasivos sentimientos les mantendrán juntos y en ocasiones podrán suavizar sus desacuerdos o diferentes puntos de vista.
-Venus, el planeta del amor, estará en el curioso y parlanchín Géminis cuando el Sol entre a Leo. Deberían de ser capaces de hablar de cualquier cosa y tener discusiones sustanciales y decisivas durante este periodo de tiempo.
-Venus retrocederá en Aries desde principios de marzo y luego en Piscis hasta mediados de abril. Tu vida amorosa podría volverse más rica, más calmada y más tranquila entonces.    
-En octubre, cuando Júpiter se desplaza hacia el serio y atractivo Escorpión, las parejas podrían volverse aún más estrechas. La honestidad, la integridad y la devoción mutua serán esenciales. La intimidad física también puede intensificarse.
+Tú y tu pareja harán su parte en el 2018 y tendrán una relación tan sólida como una roca. Cuando estén juntos, cualquier problema o desafío parecerá ser más simple y será remediado más fácilmente.
+Habrá una gran cantidad de ternura en su relación pero ambos estarán dispuestos a esforzarse para resolver las ocasionales dificultades. Si los niños se ponen rebeldes, las mascotas se vuelven bravuconas, o alguno de los dos tiene una mala racha profesional; trabajarán juntos y lograrán poner su vida juntos en marcha de nuevo.
+Ambos estarán dispuestos a verse con ojos de enamoramiento, especialmente al comienzo de la primavera. Este optimismo romántico neptuniano es tanto bueno, como dulce.
+El otoño podría ser la temporada más agitada con el Eclipse Solar en leo mientras Mercurio se encuentra retrógrado. Pero ambos tendrán los pies en la tierra y verán los malentendidos como los interludios cómicos que son.
+Tu vida familiar será agradable y también práctica en Noviembre y Diciembre, cuando Saturno ejerza su calmante influencia. Ambos sentirán comodidad al ser la persona más "madura en la habitación".
 
 ## Amor Solteros
 
-El amor es mágico a lo largo del 2017, comenzando con la conjunción entre el apasionado Marte y el soñador Neptuno en el intuitivo y emocional Piscis.
-Cuando el Sol entra a Leo, Mercurio y el Nodo Lunar Norte se unirán en Leo. Hablar y escuchar te ayudará a formar algunas conexiones románticas y kármicas.
-Júpiter en Libra promete un sinfín de oportunidades sociales y atractivas, así como generosos compañeros. Sin embargo, tendrás que mantenerte a buen ritmo y tomarte algunos descansos a solas para obtener los mejores resultados.
-Venus estará retrocediendo desde principios de marzo hasta mediados de abril. Tu vida social podría pausar de manera natural ahora. Si para entonces ya estás en una relación fortalecida y esperas hacer un compromiso permanente, considera esperar hasta que el retroceso haya terminado.
-El amor se vuelve más serio y más profundo después de que Júpiter entra a Escorpión en octubre. Si el ritmo de tu vida social disminuye, la pasión y las expresiones íntimas podrían de hecho aumentar.En el 2017, tu situación monetaria, tu carrera y todos tus esfuerzos profesionales se ven destacados. De los cuatro periodos retrógrados de Mercurio, el segundo que se manifiesta desde principios de abril hasta principios de mayo comenzará en el trabajador y estable Tauro y terminará en el impulsivo Aries. Trabaja con diligencia, respeta cualquier limitación financiera y todo tu arduo trabajo podría poner grandes y largas recompensas en tu camino.
-Saturno retrocederá en el fogoso pero divertido Sagitario desde principios de abril hasta finales de agosto. Ten disciplina a lo largo de la primavera y el verano, ten metas claras y forma grandes alianzas con gente en lugares altos. Aunque tal vez no sea al instante, tus esfuerzos serán recompensados.
-Diciembre podrá ser el mes más exigente - y también rentable. El 19 de diciembre, Saturno regresará a Capricornio, su signo anfitrión. El 21 de diciembre, el Sol también entra al trabajador Capricornio y luego conjunta a Saturno. Toma la autoridad de tus acciones, esfuerzos y tu futuro ahora.
+En el 2016, lo emocionante e inusual podría llamarte más la atención, leo. No cambiarás muy drásticamente, pero la típica cita tranquila ya no te dará la satisfacción que solía darte.
+Tu paseo más salvaje podría ser a principios de año, por lo que mantén tu guardia en alto así como también tu ingenio. Toma nota - es posible que desees escribir tu experiencia más adelante. 
+En Marzo, el Eclipse Lunar en Libra podría ponerte cara a cara con otra aventura romántica. Pero si no estás de humor para ella, serás capaz de escaparte con gracia. 
+Después de Abril, tu vida amorosa debería calmarse pero aún ser divertida. Disfrutarás de acudir a más eventos grupales hasta Agosto y Septiembre, cuando podrías conocer, ligar y coquetear con encantadores prospectos. 
+El comienzo del invierno también será un periodo de fiesta conforme la época de festividades agarra vuelo y pudieras conectar con un espíritu afín, si no es que un alma gemela. Esta no será una conexión frívola, así que compórtate con la misma seriedad y sinceridad que deseas recibir a cambio.
 
 ## Trabajo
 
-En el 2016, las ocupaciones más rentables probablemente implicarán el tipo de trabajo que es más mundano y menos glamoroso. Esto no quiere decir que serán serviles o degradantes, sólo se refiere a menos vistosas y llamativas.
-En Enero, podría llegarte una inesperada (y tal vez grande) oportunidad, pero no saltes a ella de forma inmediata. Mercurio se encontrará retrógrado en un signo de Tierra, por lo que dale tiempo a la situación para que manifieste sus verdaderos colores. En el 2016, haz preguntas y no te conformes con medias respuestas.
-Puede que en Agosto redefinas qué quieres hacer y cómo quieres hacerlo en materia de carrera profesional. Toma acción después de la conclusión del periodo retrógrado de Mercurio a finales de Septiembre. Tu situación monetaria podría mejorar, y tu reconocimiento podría aumentar también para entonces. Ten paciencia, sabiduría y tendrás éxito. Júpiter está de tu lado.
-Finalmente, en Noviembre y Diciembre, ten más ambición y compórtate más prácticamente y terminarás el año en una posición muy firme y con un nivel económico más alto.
+Tu carrera y situación monetaria reciben directo enfoque en el 2018, cuando tienes la energía para moverte e ir tras cualquier cosa que pudieras imaginarte y luego idear un plan para maximizar tus oportunidades. La conjunción Sol-Plutón de enero lo inicia todo, ayudándote a cambiar o crear algo para que te beneficies a lo largo del 2018.
+Cuando el Sol entra a leo, tu planeta regente Marte y el asteroide Ceres se encontrarán en el práctico y trabajador Tauro. Esto presagia muy bien para un aumento de dinero y todas las cosas materiales que te apoyan y nutren.
+En octubre, Júpiter sale del diplomático Libra y entra al determinado Escorpión. Los asuntos empresariales y relaciones de negocios se vuelven más austeros y enfocados en ganancias materiales. 
+En diciembre, Saturno entra a Capricornio, el signo que rige. Esta es la encarnación planetaria de la ética laboral y el impulso hacia el éxito. El Sol conjunta a Saturno a finales de diciembre, agudizando aún más el enfoque en profesión y progreso económico para el próximo año. Te encontrarás en una buena situación al final del año.
