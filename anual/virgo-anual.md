@@ -1,7 +1,7 @@
 ---
 layout: page
 title: virgo Horóscopo año nuevo 2018 
-description: virgo horoscopo del 16-11-2017, amor, trabajo, vida personal. Todas las predicciones para virgo gratis. Disfruta este año nuevo.
+description: virgo horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para virgo gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/virgo/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo virgo 2018, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2018 gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis

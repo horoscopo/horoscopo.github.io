@@ -1,7 +1,7 @@
 ---
 layout: page
 title: capricornio Horóscopo año nuevo 2018 
-description: capricornio horoscopo del 16-11-2017, amor, trabajo, vida personal. Todas las predicciones para capricornio gratis. Disfruta este año nuevo.
+description: capricornio horoscopo 2018 año nuevo, amor, trabajo, vida personal. Todas las predicciones para capricornio gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/capricornio/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo capricornio 2018, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2018 gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
@@ -18,7 +18,7 @@ sitemap:
 El 2018 es un año estelar en el que capricornio debe tomar las riendas de su imagen pública y ¡sobresalir en la profesión de su elección! Tendrás que esforzarte, pero estarás a la altura del desafío. Con la Luna, Marte, Saturno y Urano en Signos de Fuego al comienzo del año, tienes más energía y tenacidad que la mayoría.
 El periodo de primavera puede poner a prueba tu paciencia con Marte retrocediendo desde mediados de Abril hasta finales de Junio. Perfecciona tus técnicas y métodos y posteriormente pon a prueba tus nuevas ideas a una escala más pequeña.
 A finales de verano y principios de otoño, respeta tus límites físicos y no te comprometas de más. Resístete al impulso de acudir a demasiados eventos, reuniones, clases, o trabajar demasiado tiempo extra. Tu salud y bienestar son tan importantes como cualquier alabanza o beneficio extra que pudieras recibir.
-Busca adoptar nuevas perspectivas tanto sobre ti como tus muchas amistades, sobre todo a medida que se acerca la víspera de Año Nuevo hacia el 2017. En muchos sentidos, el 2018 es mágico, ¡así como también muy poderoso para ti!
+Busca adoptar nuevas perspectivas tanto sobre ti como tus muchas amistades, sobre todo a medida que se acerca la víspera de Año Nuevo hacia el próximo año. En muchos sentidos, el 2018 es mágico, ¡así como también muy poderoso para ti!
 
 ## Amor Parejas
 

@@ -31,7 +31,7 @@ Los únicos periodos inciertos (cuando deberían evitar peleas) son durante las 
 
 ## Amor Solteros
 
-Escorpión, el 2018 es tu año para disfrutar de la emoción de la búsqueda romántica y encontrar exactamente el amor que deseas. A medida que el sol ingresa a Escorpión, se encuentra en una conjunción con el dulce y sensacional Venus. Esto te llena quizás de más encanto del que quisieras tener a lo largo del año.
+Géminis, el 2018 es tu año para disfrutar de la emoción de la búsqueda romántica y encontrar exactamente el amor que deseas. A medida que el sol ingresa a Géminis, se encuentra en una conjunción con el dulce y sensacional Venus. Esto te llena quizás de más encanto del que quisieras tener a lo largo del año.
 
 
 Al mismo tiempo, Marte se encuentra en Acuario, signo tranquilo, calculador, pero a la vez sociable. Sabes cuál es el tipo de amor que te enciende, y no te tentará nada más. Bien por ti.
