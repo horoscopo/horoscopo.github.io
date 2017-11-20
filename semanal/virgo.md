@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 13 de noviembre 2017 al 19 de noviembre 2017 
-description: Horóscopo semanal virgo 13 de noviembre 2017 al 19 de noviembre 2017. Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+title: virgo 20 de noviembre 2017 al 26 de noviembre 2017 
+description: Horóscopo semanal virgo 20 de noviembre 2017 al 26 de noviembre 2017. Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: BVpHZFYIZKk
+ video: cRO2SmV8R9k
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-13'
+ lastmod: '2017-11-20'
 ---
 
 
 
-## Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+## Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 
-A veces quieres llegar al fondo de cualquier cosa virgo, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo virgo. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a virgo, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona virgo así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
-Si te ha costado resolver un problema, podrías percatarte de que las respuestas te llegan más fácilmente. Se te ocurre una solución cuando hablas con los demás, cuando lees o cuando tu curiosidad te lleva a buscar en lugares que nunca antes habías pensado. Esta es tu oportunidad para pensar de manera original. Más allá de esto, te entusiasma una oportunidad que puede guiarte hacia una nueva dirección. 
+Mira piscis, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer virgo, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
+La presencia de Marte en tu sector de dinero podría revolucionar los aspectos de este sector y hacer que entres en acción, especialmente con cuentas sin pagar o cuestiones de dinero que debes resolver. Si lo haces ahora, sentirás alivio y te sentirás más en control. El cosmos te sugiere que cuides de tu salud y abandones hábitos o rutinas que ya no te hacen bien. En cambio, elige un programa que mejore tu bienestar.
 
 ## Dinero
 
-Esta semana es para ti de redes sociales, las cuáles son cada vez más importantes. Tus amigos realmente te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo muchos cambios que pueden haber afectado la forma en cómo te ves y te presentas a ti mismo/a. A algunos de tus amigos podría no gustarles éste proceso. Sea amable con ellos ya que no entienden hacia dónde te diriges y que éste es sólo un viaje de uno.
+Esta es una buena semana para ti. Tu belleza se denota por dentro y por fuera, y tienes los medios y la inspiración para cambiar lo que hay que abordar. En resumen, tienes cierto magnetismo. Atraerás oportunidades para ganar más, influir en los demás, y lograr que tus necesidades financieras se solucionen de una gran forma. Aprovecha esta energía mientras te apoya.

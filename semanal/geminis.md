@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 13 de noviembre 2017 al 19 de noviembre 2017 
-description: Horóscopo semanal geminis 13 de noviembre 2017 al 19 de noviembre 2017. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+title: geminis 20 de noviembre 2017 al 26 de noviembre 2017 
+description: Horóscopo semanal geminis 20 de noviembre 2017 al 26 de noviembre 2017. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: 7udPgbGYvWw
+ video: eCJSWcWLsIg
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-13'
+ lastmod: '2017-11-20'
 ---
 
 
 
-## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
 
-¿Cómo quieres gastar tu vida geminis? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente geminis, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida geminis, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro geminis. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana geminis.
-Si bien el enfoque en tu sector financiero podría inspirarte a evaluar tu situación monetaria, también podría llevarte a gastar dinero. En las próximas semanas, quizá quieras comprar cosas que realmente no necesitas para sentirte mejor o para calmar la ansiedad en una situación determinada. Pero puede que te des cuenta de que darte pequeños gustos es igual de satisfactorio que comprarte grandes lujos. Mimarte un poco con un día de spa o disfrutar de un lujoso tratamiento podría incluso hacerte sentir mejor.  
+No es que estés cambiando geminis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
+Tu enfoque hacia las actividades de ocio y hacia tu vida social podría atravesar un cambio esta semana, y puede ser uno que se ha estado elaborando por un tiempo. Tal vez estás buscando moverte en nuevos círculos, hacer nuevas amistades o involucrarte en actividades que puedan aprovechar tu potencial creativo. Pero para hacer esto quizás necesitas liberarte de situaciones que ya no te sirven. No te sientas culpable, ya que el cosmos te alienta a decirle adiós a un capítulo de tu vida para darle la bienvenida a otro.
 
 ## Dinero
 
-Puede que solicites una audiencia más grande con el fin de atraer a compradores, inversionistas y otras personas con dinero. Algo que estas planeando requiere de más dinero con el fin de despegar. Es muy importante el prestar atención al dinero que compartes con otros. Algunos co-inversionistas o algunas deudas necesitarían ser atendidas. Asegúrate de firmar documentos y pagar honorarios a tiempo. A partir de ahí, podrás cosechar recompensas.
+Esta semana corresponde a un tiempo de devoción renovada en tu vida financiera. Examina algunos de los servicios ofrecidos por instituciones financieras. Podrías darte cuenta de que tu propio banco tiene las herramientas que pueden ayudarte a ahorrar más a través del tiempo. Piensa acerca de cómo puedes utilizar tu o ciertas habilidades para obtener dinero extra.

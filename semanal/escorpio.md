@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 13 de noviembre 2017 al 19 de noviembre 2017 
-description: Horóscopo semanal escorpio 13 de noviembre 2017 al 19 de noviembre 2017. No desaproveches las oportunidades más escorpio, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
+title: escorpio 20 de noviembre 2017 al 26 de noviembre 2017 
+description: Horóscopo semanal escorpio 20 de noviembre 2017 al 26 de noviembre 2017. Sumisión contigo van a encontrar poca ahora escorpio… Muy poca.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: FoMW8nGE7UA
+ video: IwiKWH0ZBIw
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-13'
+ lastmod: '2017-11-20'
 ---
 
 
 
-## No desaproveches las oportunidades más escorpio, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
+## Sumisión contigo van a encontrar poca ahora escorpio… Muy poca.
 
-Para alcanzar la felicidad, TÚ FELICIDAD, 
-y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible…
-Puede que te preguntes si debes apegarte a tu rutina de salud o romperla y darte gustos. El día lunes, podías verte teniendo un difícil dilema; cuando puede que lo mejor sea que llegues a un compromiso. Una vez que Venus y Mercurio entren a tu sector de relaciones más adelante en la semana, significa que es momento de saber trabajar en equipo. Ya sea que trabajes con tu pareja o con un grupo, pueden lograr mucho más juntos que a solas. Este fin de semana, espera lo inesperado.
+Empieza a cambiar la mentalidad escorpio, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado escorpio, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+Puede que redescubras un pasatiempo de tu infancia que solía hacerte sentir muy bien. La mezcla presente de energías sugiere que podría resultar terapéutico que, para canalizar tu creatividad, retomes una actividad en la que solías destacarte. Hacerlo podría conectarte con tus recuerdos de la infancia, así como también recordarte a tus raíces y todo el camino que has recorrido para convertirte en la persona que eres hoy. No sientas que debes compartir tus descubrimientos con los demás. Este es el tipo de cosas que es mejor mantener en privado.
 
 ## Dinero
 
-Ciertos aspectos se unen en tu sector de dinero y valores esta semana. Esto puede explicar por qué a pesar de que hay ciertas oportunidades aproximándose, algunas de ellas requieren de más trabajo o más educación del que actualmente tienes o puedes ofrecer. No te preocupes. Te enfrentas a un momento en el que es necesario centrarse en la política de tu empresa. Invita a tu jefe a comer.
+Los planetas en tu sector de comunicación esta semana te hacen más parlanchín/a de lo normal. Tanto tu situación económica, así como tu trabajo pueden depender de tu capacidad para transmitir tu mensaje de una manera concisa y poderosa. Pero ya que un aspecto negativo constriñe tu trabajo día a día, lo mejor es encontrar un equilibrio entre tu necesidad de destacar y tu necesidad de ganar dinero. El trabajo en equipo y el equilibrio van de la mano.

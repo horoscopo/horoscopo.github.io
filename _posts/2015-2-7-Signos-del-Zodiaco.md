@@ -1,7 +1,7 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 09 de noviembre 2017
-description: Horóscopos del dia de hoy 09 de noviembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de noviembre 2017
+description: Horóscopos del dia de hoy 19 de noviembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png

@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: amp
 title: ¿Qué es la astrología?
 description: Te has preguntado, ¿Qué es la astrología? ¿Que efecto tiene la astrología en las personas? Astrologia y los signos del zodiaco
 normallink:: /astrologia/
 permalink: /amp/astrologia/
 home: FALSE
-sidebar: true
 keywords: astrologia, signos del zodiaco, horoscopos, astros
 ogimg: /images/esoteric_180.jpg
 sitemap:

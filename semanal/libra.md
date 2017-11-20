@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: libra 13 de noviembre 2017 al 19 de noviembre 2017 
-description: Horóscopo semanal libra 13 de noviembre 2017 al 19 de noviembre 2017. Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+title: libra 20 de noviembre 2017 al 26 de noviembre 2017 
+description: Horóscopo semanal libra 20 de noviembre 2017 al 26 de noviembre 2017. Estás a tope libra, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: aP2wP6djZCA
+ video: nCcNfLU2i_8
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-13'
+ lastmod: '2017-11-20'
 ---
 
 
 
-## Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+## Estás a tope libra, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 
-Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver libra, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
- hasta que empieces a sentir que realmente merece la pena.
-La dinámica responsable por todo el esfuerzo que has hecho últimamente aún se encuentra bastante enfocada. Hay la posibilidad de que una oportunidad única pueda ponerse en tu camino y aumentar tu volumen de trabajo, pero es demasiado buena como para desperdiciarla. Aunque por lo general eres una persona astuta y no te dejas engañar con facilidad, asegúrate desde mitad de semana que todo esté en orden revisando los detalles y las cláusulas. El adorable Venus en Libra sugiere que estarás impaciente por hacer concesiones, incluso si eso significa llegar a algunos acuerdos.
+Llega una buenísima semana libra pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien libra, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado libra, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo libra, pelea por lo que te mereces.
+Con el conversador Mercurio, tu planeta personal, recién llegado a tu sector de relaciones, puede que sientas una mayor inclinación a comunicarte y conectar con nuevas y antiguas amistades. Además, esta puede ser una oportunidad para proponer los temas que deben discutirse y, tal vez, encontrar una solución. El enfoque en tu sector de estilo de vida también se intensifica. Esto puede tentarte a adaptar tu agenda diaria para permitirte explorar nuevas posibilidades y apuntar alto con respecto de tus metas clave de bienestar y trabajo.
 
 ## Dinero
 
-Como de costumbre, es posible que estés ocupado/a esta semana conforme las responsabilidades de otras personas son lanzadas en tu escritorio. En medio de la locura, ponte en contacto con tu cruda ambición. ¿Qué tan alto quieres subir en la escalera de la empresa? Si no tienes intención de quedarte ahí, es importante que sepas que tienes muchas y muy buenas ideas si es que quisieras abrir un nuevo negocio. Profesiones relacionadas con viajes, educación, edición, metafísica y ley son todas probables.
+Eres una de las personas más inteligentes cuando se trata de trabajo y dinero. Entiendes cómo funcionan las estructuras internas y tienes facilidad para la planificación y ejecución de planes de inversión. Ahora tienes el apoyo del Universo para busca socios para una nueva empresa o ampliar tu red de contactos en los negocios. Los aspectos te proporcionan suerte e ideas. Sólo tú sabes a dónde llegarás con el tiempo.

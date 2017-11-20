@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: amp
 title: ¿Qué es el Karma?
 description: Te has preguntado, ¿Qué es el Karma? ¿Qué es el karma de las personas? ¿Qué quiere decir la palabra karma? ¿Cuál es el significado de la palabra karma? ¿Cuál es la ley del karma?
 normallink:: /que-es-el-karma/
 permalink: /amp/que-es-el-karma/
 home: FALSE
-sidebar: true
 keywords: karma, que es karma, karma personas, significado, karma significado, ley del karma
 ogimg: /images/esoteric_180.jpg
 sitemap:
