@@ -21,7 +21,7 @@ sitemap:
      <link href="{{ site.url }}{{ post.url }}" />
      <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">{{ post.content | xml_escape }}</div></content>
      <updated>{{ post.date | date_to_xmlschema }}</updated>
-     <id>{{ site.url }}{{ post.url }}</id>
+     <id>{{ site.url }}{{ post.url }}{{ post.date }}</id>
    </entry>
     {% endfor %}
 </feed>
