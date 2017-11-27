@@ -1,30 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 20 de noviembre 2017 al 26 de noviembre 2017 
-description: Horóscopo semanal capricornio 20 de noviembre 2017 al 26 de noviembre 2017. A veces sientes como si no avanzaras capricornio, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+title: capricornio 27 de noviembre 2017 al 03 de diciembre 2017 
+description: Horóscopo semanal capricornio 27 de noviembre 2017 al 03 de diciembre 2017. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: CK8VpDLnKHg
+ video: Zlp-NJg5pMs
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-20'
+ lastmod: '2017-11-27'
 ---
 
 
 
-## A veces sientes como si no avanzaras capricornio, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
- La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa capricornio? 
- todo lo que desea.
-Hay una posibilidad de que ganes más dinero, pero también hay una chance de que te lo gastes todo antes de que la semana termine. Hacer algunas inversiones sabias, como destinar dinero extra a un proyecto creativo, podría valer la pena. Y siempre y cuando no decidas tener algunos gestos románticos costosos alrededor de la luna llena del jueves, puedes beneficiarte. El fin de semana podría tener una predisposición más seria, pero una charla de corazón a corazón podría ser muy reveladora.
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
+Los asuntos de hogar y familia cobran importancia cuando el sol en Escorpión te lleva a mirar más en profundidad problemas asociados. De hecho, la luna llena del viernes podría poner en el centro de atención el motivo exacto por el cual estás teniendo dificultades y lo que puedes hacer al respecto. El truco está en no exagerar sino mantener la calma. También aparece una temática espiritual para animarte a buscar bajo la superficie. Si haces esto puedes llegar a una valiosa reflexión. Por último, el actual enfoque en tu sector de intimidad podría llevarte a tener una conversación de corazón a corazón.
 
 ## Dinero
 
-Las relaciones serias en tu vida y los problemas financieros que compartes se destacan esta semana. El tener esa importante conversación con tu pareja puede ayudar a aliviar los problemas de dinero antes de que se manifiesten, no después. Eres capaz de utilizar tus habilidades de comunicación para convencer a otros de que tú y tus proyectos son dignos de inversión.
+El Universo está indicando la necesidad de abordar tu aspecto personal. Tus relaciones personales y profesionales son las más afectadas. Toma medidas concretas para volver a conectar con viejos conocidos o profundizar las amistades profesionales existentes. El dinero es lo que le sigue.

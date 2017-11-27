@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 20 de noviembre 2017 al 26 de noviembre 2017 
-description: Horóscopo semanal escorpio 20 de noviembre 2017 al 26 de noviembre 2017. Sumisión contigo van a encontrar poca ahora escorpio… Muy poca.
+title: escorpio 27 de noviembre 2017 al 03 de diciembre 2017 
+description: Horóscopo semanal escorpio 27 de noviembre 2017 al 03 de diciembre 2017. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: IwiKWH0ZBIw
+ video: ziigxiofp6A
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-20'
+ lastmod: '2017-11-27'
 ---
 
 
 
-## Sumisión contigo van a encontrar poca ahora escorpio… Muy poca.
+## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 
-Empieza a cambiar la mentalidad escorpio, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado escorpio, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
-Puede que redescubras un pasatiempo de tu infancia que solía hacerte sentir muy bien. La mezcla presente de energías sugiere que podría resultar terapéutico que, para canalizar tu creatividad, retomes una actividad en la que solías destacarte. Hacerlo podría conectarte con tus recuerdos de la infancia, así como también recordarte a tus raíces y todo el camino que has recorrido para convertirte en la persona que eres hoy. No sientas que debes compartir tus descubrimientos con los demás. Este es el tipo de cosas que es mejor mantener en privado.
+Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas escorpio. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva escorpio. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien escorpio, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+¿Podría el año que viene ser aquél en el que hagas tu gran despliegue? Con el sociable Júpiter ingresando a tu sector de carrera y ambición el jueves, todo es posible. Esta semana marca el inicio de una fase muy positiva en la que el cielo es el límite. Durante los próximos días, sin embargo, tal vez tengas que lidiar con algunas personas obstinadas, y la forma en que lo manejas puede impresionar a los demás o no. Tener tacto podría ser clave cuando se trata de expresarte.
 
 ## Dinero
 
-Los planetas en tu sector de comunicación esta semana te hacen más parlanchín/a de lo normal. Tanto tu situación económica, así como tu trabajo pueden depender de tu capacidad para transmitir tu mensaje de una manera concisa y poderosa. Pero ya que un aspecto negativo constriñe tu trabajo día a día, lo mejor es encontrar un equilibrio entre tu necesidad de destacar y tu necesidad de ganar dinero. El trabajo en equipo y el equilibrio van de la mano.
+Puede que esta semana sea necesario protegerte contra el engaño, incluso si se hace en nombre de la protección de los sentimientos de alguien. Algunos aspectos de tu sector de relaciones demuestra que tú o alguien más podría tener la tentación de torcer la verdad en cierta correspondencia. Pon más atención y responsabilidad en tus comunicaciones. Las mentiras, no importa cuán pequeñas o bien intencionadas sean, pueden ser contraproducentes ahora y corres el riesgo de arruinar lo que podría ser una sociedad financiera importante.
