@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de noviembre 2017
-description: Horóscopos del dia de hoy 27 de noviembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de noviembre 2017
+description: Horóscopos del dia de hoy 28 de noviembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-¡El interruptor está encendido! Mercurio girando directo hoy les abre la puerta a felices encuentros. El bono es que ya no tienes que explicar algo que ya ha sido explicado más de una o dos veces. Esta noche, las conversaciones se desarrollan de una manera suave y ya no son un revoltijo de pensamientos.
+Cuando las personas exageran bajo la Luna Nueva en Sagitario, el antídoto es ver y tomar las cosas de manera práctica. Tales te pueden decir todo lo que quieran decir, pero no pueden obligarte a creerlo. El tema de esta noche acentúa a complejas personas en complejas relaciones mientras Venus cuadra al impredecible Urano.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
