@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Tauro Noviembre 2017 
+title: Tauro Diciembre 2017 
 permalink: /horoscopo-mensual/tauro/
-keywords: horóscopo, horóscopo 2017,  Noviembre, horoscopo Noviembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2017, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2017, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-11-01'
+ lastmod: '2017-12-01'
 ---
 
- Sobresales totalmente alrededor de la luna nueva del 3 de noviembre, de las mejores maneras posibles. Si has estado deseando un impulso para un proyecto especial, manos amigas e ideas brillantes vienen en camino. Ni siquiera necesitarás pedirlas. Venus entra a Escorpión el día 7. Presta atención al amor que se vuelve profundo y al romance que se vuelve serio. Un nuevo amor o pretendiente romántico espectacular aparece en tu camino con la luna nueva del 18 de noviembre. O una asociación actual puede profundizarse y enriquecerse más allá de cualquiera de tus sueños más alocados. Llénate de actos de bondad y generosidad al azar. 
+ La luna llena del 3 de diciembre podría poner dinero en tu camino. Podría venir desde lejos o incluso de gente que apenas conoces. También puede traer consigo una gran cantidad de consejos, pero tú sabes muy bien lo que quieres. Tienes todas las respuestas durante la luna nueva del día 17. Una gran variedad de personas y problemas pueden acudir a ti en busca de soluciones, y tú las tendrás. También te resultará fácil. Diviértete actuando como la persona experta que eres. La conjunción entre Venus y Saturno del 25 de diciembre brinda tranquilidad a los agitados días que has tenido. Aprecia tener noticias de familiares de mayor edad y viejas amistades. 

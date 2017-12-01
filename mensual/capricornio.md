@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Capricornio Noviembre 2017 
+title: Capricornio Diciembre 2017 
 permalink: /horoscopo-mensual/capricornio/
-keywords: horóscopo, horóscopo 2017,  Noviembre, horoscopo Noviembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2017, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2017, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-11-01'
+ lastmod: '2017-12-01'
 ---
 
- Alrededor de la luna llena del 3 de noviembre, explora tu creatividad y embellece tu hogar, guardarropas o cualquier cosa que valores y a la que te gustaría darle una apariencia renovada. Ponte audaz y disfruta de un poco de diversión alocada y salvaje con muchas amistades. La luna nueva del día 18 te indica que te prepares para una vida social fantástica en las próximas semanas. Sé popular y permite que te traten extremadamente bien. No hay nada de malo en que te mimen, siempre y cuando lo aprecies. El 27 de noviembre, la conjunción entre Mercurio y Saturno podría reducir la velocidad y tal vez cambiar la dirección de una relación en desarrollo. 
+ Algunas pequeñas cosas en el hogar necesitan atención, y estás de ánimo para hacerlas bajo la luna llena del 3 de diciembre. Peina al perro, lleva al gato al veterinario, o acomoda y riega las plantas de interior. La luna nueva del día 17 favorece más las reuniones privadas tranquilas que las enormes fiestas sociales. Tal vez quieras invitar a un par de amistades (o quizás solo una) a tu casa para tener una celebración íntima de temporada. El 21 de diciembre, el sol ingresa a Capricornio y forma una conjunción con Saturno. Las festividades se están colocando en su lugar, y tú estás haciendo que todo parezca fácil. 

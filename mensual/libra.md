@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Libra Noviembre 2017 
+title: Libra Diciembre 2017 
 permalink: /horoscopo-mensual/libra/
-keywords: horóscopo, horóscopo 2017,  Noviembre, horoscopo Noviembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2017, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2017, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-11-01'
+ lastmod: '2017-12-01'
 ---
 
- Durante la luna llena del 3 de noviembre, resuelve algún tema que te ha estado molestando o preocupando. Puede no ser importante a largo plazo, pero ahora podría sentirse así. Tienes más que suficientes recursos y mucho apoyo moral. El día 13, Venus forma una conjunción con Júpiter en Escorpión. Algo o alguien podría conmoverte o robar tu corazón. El dinero y las posesiones materiales se destacan con la luna nueva del 18 de noviembre. Las cosas bonitas se ven más bonitas y deseables que de costumbre. Puede que hasta te tiente a ir de compras. Quizás sea mejor dejar la tarjeta de crédito en casa y salir a sólo mirar. 
+ Venus ingresa a Sagitario el 1 de diciembre. Métete de lleno en el espíritu festivo. La luna llena del día 3 podría causarte un fuerte deseo de irte lejos, muy lejos. Sin embargo, no te irás, porque tienes demasiada gente y cosas a tu alrededor que adoras. Y tantas cosas están sucediendo en este momento. La luna nueva del 17 de diciembre enciende tu deseo de estar con amistades y gente del vecindario. ¡Piensa en una fiesta para toda la cuadra! Los preparativos de las festividades pueden transformarse en tiempo de calidad y diversión para estar reunidos. Además, alguien inesperado podría aparecer. Venus entra a Capricornio el día 24. Comparte tu espíritu festivo con toda la comunidad. 

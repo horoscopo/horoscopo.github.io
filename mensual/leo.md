@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Leo Noviembre 2017 
+title: Leo Diciembre 2017 
 permalink: /horoscopo-mensual/leo/
-keywords: horóscopo, horóscopo 2017,  Noviembre, horoscopo Noviembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-11-01'
+ lastmod: '2017-12-01'
 ---
 
- Opciones profesionales y oportunidades resplandecen bajo la luna llena del 3 de noviembre. Siente seguridad y solidez en tus talentos, habilidades y experiencia. Tus amistades o familia pueden invitarte a que salgas de tu zona de confort, y la verdad es que tienen razón. Sé valiente si no audaz. La luna nueva el día 18 hace que tu hogar sea el mejor lugar para estar. Date un gusto y organiza una fiesta si quieres. Cambia algo y haz que tu ambiente sea lujoso y hermoso. Deja que tus amistades y familia vayan de visita y les dé envidia tu grandioso lugar. El sol ingresa a Sagitario el 21 de noviembre. Si antes no era momento de fiestas, ahora lo es. 
+ Tu vida social está animada cuando la luna llena aparece el 3 de diciembre, pero puede que sientas más ganas de observar desde las gradas que de participar. Disfruta de ser menos visible y deja que tus amistades presuman un rato. Verlos debería de ser divertido. Durante la luna nueva del día 17, explora tu creatividad para comprar y envolver regalos. Tu cabeza puede entusiasmarse con un millón de regalos espléndidos y personalizados que serían fáciles de hacer, pero cada vez hay menos tiempo. El 21 de diciembre, el sol ingresa a Capricornio y forma una conjunción con Saturno. Sé la persona adulta en la habitación, toma decisiones inteligentes, y hazte respetar. 
