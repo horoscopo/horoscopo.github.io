@@ -2,8 +2,8 @@
 layout: horoscopos
 title: geminis 2018 Horóscopo año nuevo 2018 
 description: geminis horoscopo del 16 de noviembre del 2017, amor, trabajo, vida personal. Todas las predicciones para geminis gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/geminis/
-amplink: /horoscopo-anual/amp/geminis/
+normallink: /horoscopo-anual/geminis/
+permalink: /horoscopo-anual/amp/geminis/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo geminis 2018, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2018 gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/geminis_anual.png

@@ -2,8 +2,8 @@
 layout: pahoroscoposge
 title: leo 2018 Horóscopo año nuevo 2018 
 description: leo horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para leo gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/leo/
-amplink: /horoscopo-anual/amp/leo/
+normallink: /horoscopo-anual/leo/
+permalink: /horoscopo-anual/amp/leo/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo leo 2018, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2018 gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/leo_anual.png

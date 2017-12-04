@@ -2,8 +2,8 @@
 layout: horoscopos
 title: piscis 2018 Horóscopo año nuevo 2018 
 description: piscis horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para piscis gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/piscis/
-amplink: /horoscopo-anual/amp/piscis/
+normallink: /horoscopo-anual/piscis/
+permalink: /horoscopo-anual/amp/piscis/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo piscis 2018, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2018 gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/piscis_anual.png

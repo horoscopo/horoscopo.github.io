@@ -2,8 +2,8 @@
 layout: horoscopos
 title: aries 2018 Horóscopo año nuevo 2018 
 description: aries horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para aries gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/aries/
-amplink: /horoscopo-anual/amp/aries/
+normallink: /horoscopo-anual/aries/
+permalink: /horoscopo-anual/amp/aries/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo aries 2018, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2018 gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/aries_anual.png

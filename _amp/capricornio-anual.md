@@ -2,8 +2,8 @@
 layout: horoscopos
 title: capricornio 2018 Horóscopo año nuevo 2018 
 description: capricornio horoscopo 2018 año nuevo, amor, trabajo, vida personal. Todas las predicciones para capricornio gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/capricornio/
-amplink: /horoscopo-anual/amp/capricornio/
+normallink: /horoscopo-anual/capricornio/
+permalink: /horoscopo-anual/amp/capricornio/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo capricornio 2018, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2018 gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/capricornio_anual.png
