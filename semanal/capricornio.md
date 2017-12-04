@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 27 de noviembre 2017 al 03 de diciembre 2017 
-description: Horóscopo semanal capricornio 27 de noviembre 2017 al 03 de diciembre 2017. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+title: capricornio 04 de diciembre 2017 al 10 de diciembre 2017 
+description: Horóscopo semanal capricornio 04 de diciembre 2017 al 10 de diciembre 2017. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario capricornio.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: Zlp-NJg5pMs
+ video: 5tmvAGdCQxE
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-27'
+ lastmod: '2017-12-04'
 ---
 
 
 
-## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario capricornio.
 
-Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
- que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
-Los asuntos de hogar y familia cobran importancia cuando el sol en Escorpión te lleva a mirar más en profundidad problemas asociados. De hecho, la luna llena del viernes podría poner en el centro de atención el motivo exacto por el cual estás teniendo dificultades y lo que puedes hacer al respecto. El truco está en no exagerar sino mantener la calma. También aparece una temática espiritual para animarte a buscar bajo la superficie. Si haces esto puedes llegar a una valiosa reflexión. Por último, el actual enfoque en tu sector de intimidad podría llevarte a tener una conversación de corazón a corazón.
+Es mejor reflexionar que lamentar capricornio. Siempre. 
+Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así capricornio, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
+Con algunos aspectos súper positivos esta semana, podrían aparecer nuevas opciones profesionales como por arte de magia. Si estás buscando un nuevo trabajo, piensa en el pasado y en las habilidades y capacidades que pusiste en práctica en tus años y trabajos anteriores. Incluso si debes mejorarlas, puede que veas que son exactamente lo que una persona en particular está buscando y que te abren las puertas a un nuevo trabajo o a un contrato. Por otro lado, sé paciente con tus finanzas. Trata de ahorrar para que puedas tener efectivo de reserva para ocasiones inesperadas.
 
 ## Dinero
 
-El Universo está indicando la necesidad de abordar tu aspecto personal. Tus relaciones personales y profesionales son las más afectadas. Toma medidas concretas para volver a conectar con viejos conocidos o profundizar las amistades profesionales existentes. El dinero es lo que le sigue.
+Tienes una situación muy interesante esta semana conforme aspectos celestiales te presionan a tener una mayor productividad. La actividad en tu sector asociado con viajes al extranjero, la metafísica y la educación superior te empuja a ampliar tu negocio en territorio desconocido. Haz que ocurra este año y estarás cosechando los beneficios el próximo año.

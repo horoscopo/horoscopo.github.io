@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 27 de noviembre 2017 al 03 de diciembre 2017 
-description: Horóscopo semanal geminis 27 de noviembre 2017 al 03 de diciembre 2017. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar geminis, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: geminis 04 de diciembre 2017 al 10 de diciembre 2017 
+description: Horóscopo semanal geminis 04 de diciembre 2017 al 10 de diciembre 2017. Eleva tu ego geminis, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: NPQ_7YmSNAE
+ video: sHiMuWPgGOk
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-27'
+ lastmod: '2017-12-04'
 ---
 
 
 
-## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar geminis, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+## Eleva tu ego geminis, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
 
-Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad geminis, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro. 
-Podrías estar con poco dinero al comienzo de la semana, pero es una fase temporal. Si haces planes para este período, puede que te evites muchas dificultades. A medida que avanza la semana, Venus ingresa a tu sector monetario. Esto podría encontrarte gastando de más en lugar de ahorrar; en especial con respecto a los pequeños lujos. El fin de semana podría ser bastante especial y muy romántico a medida que el extravagante Júpiter se alinea con el soñador Neptuno. Si tienes una cita especial planeada, debería ser una cita para recordar.
+Vamos geminis, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida geminis, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie geminis pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás geminis. Así, tal cual.
+Tu signo es un signo romántico, por lo que San Valentín es la fresa del postre, y este año no será la excepción. Con Venus y Marte en tu sector de relaciones, un nuevo romance podría encenderse en llamas de un minuto a otro. Además, los vínculos duraderos podrían tener un brillo extra gracias a las energías vitales de esta semana. Es hora de que te relajes y te dejes llevar por la pasión. Además, la entrada del Sol a tu sector de bienestar podría inspirarte a que renueves tu rutina. 
 
 ## Dinero
 
-Es posible que tengas arrinconado al mercado de la hospitalidad y las industrias de planificación de eventos, pero esta semana el Universo te está pidiendo que ramifiques y utilices tus habilidades de una nueva manera. Hay tensión entre tu familia, tu vida romántica y el sector de deuda. El gasto puede haberse vuelto mayor recientemente a lo que tu presupuesto puede manejar. Esto está causando estragos en tus planes a largo plazo. Reduce gastos en consecuencia.
+Tienes energía en tu sector de trabajo. Esto hace que sea más fácil el sobrellevar largos días si has sentido cansancio, o el poder realizar presentaciones, reuniones o papeleo. Mide tu energía durante todo el día para no quedarte sin nada antes del almuerzo. Puede que no tengas el poder de cambiar por completo tu situación todavía, pero definitivamente puedes mejorarla mucho más del estado en el que ha estado últimamente. Persevera.

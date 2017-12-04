@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 27 de noviembre 2017 al 03 de diciembre 2017 
-description: Horóscopo semanal cancer 27 de noviembre 2017 al 03 de diciembre 2017. Vamos cancer, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+title: cancer 04 de diciembre 2017 al 10 de diciembre 2017 
+description: Horóscopo semanal cancer 04 de diciembre 2017 al 10 de diciembre 2017. Toma decisiones YA, AQUÍ y AHORA cancer. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: QTDYXMPbDMM
+ video: dncPdkHC7A8
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-27'
+ lastmod: '2017-12-04'
 ---
 
 
 
-## Vamos cancer, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+## Toma decisiones YA, AQUÍ y AHORA cancer. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 
-Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea cancer. 
- Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
-La semana por delante podría tener un par de exigencias para ti a pesar de que ya quieres progresar. Algunas ideas sobre la temporada de festividades que se aproxima podrían coincidir con la decisión de organizarte y quizás hacer tus regalos. En el trabajo, tal vez sea necesario renovar tu situación actual, en especial si los métodos viejos ya no están a la altura. Un par de cambios podrían transformar las cosas para bien. Por último, el romance parece bastante prometedor, ya sea que estés con alguien o te hayas enamorado recientemente.
+ Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana. 
+Tal vez esta semana sea el momento de tomar decisiones, y esto podría causar tensiones entre familiares con respecto a planes profesionales o alguna ambición clave. Quizás este asunto ha estado burbujeando bajo la superficie por un tiempo, pero ahora podría salir a la luz. Este puede ser un buen momento para aclarar las cosas, aunque hacerlo pueda involucrar complejas conversaciones. Pero con el interactivo Mercurio moviéndose hacia atrás a partir del final de la semana, te vendría bien abordar esto con cuidado y sensatez.
 
 ## Dinero
 
-Con el Universo afectando tu sector profesional, puede que se trate sobre el pasado, trabajos anteriores, las elecciones pasadas de carrera, o incluso empleadores anteriores. Sin embargo, un aspecto armonioso afecta a tu sector de vidas pasadas, karma, e instituciones, por lo que puede que no sea una mala idea prestarle atención a los aspectos más esotéricos de tu vida. Lo que haces para ganarte la vida afecta a los demás, no importa cuánto dinero ganes. Asegúrate de que es algo que no te genere consecuencias kármicas más tarde.
+No siempre se te conoce por tu sutileza, y esta semana no es diferente. Tus habilidades comunicativas y estilo personal pueden ser poco convencionales, por lo que bájale un poco al tono si estás tratando de dar una buena primera impresión. Estás pensando en cómo hacer que tu carrera sea un poco más independiente y menos centrada en la oficina. Muéstreles que pueden confiar en ti y que eres capaz de hacerlo bien.

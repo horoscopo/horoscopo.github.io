@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: libra 27 de noviembre 2017 al 03 de diciembre 2017 
-description: Horóscopo semanal libra 27 de noviembre 2017 al 03 de diciembre 2017. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+title: libra 04 de diciembre 2017 al 10 de diciembre 2017 
+description: Horóscopo semanal libra 04 de diciembre 2017 al 10 de diciembre 2017. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: -4kkiCBTteQ
+ video: upYJQnQAUS4
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-27'
+ lastmod: '2017-12-04'
 ---
 
 
 
-## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante libra, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-Probablemente ya seas el centro de atención, con el animado Júpiter y el alegre sol en tu sector de metas y ambición. Sin embargo, el encantador Venus también ingresa a ese mismo sector el martes. Esto te ayuda a progresar si tienes un poco de encanto y tacto. Incluso los acuerdos más difíciles pueden ser más llevaderos y sencillos si tienes esto en cuenta. Por otro lado, una poderosa conexión entre el prudente Saturno y el incansable Urano podría dar como resultado el buen progreso de una colaboración. Puede que la conclusión no esté demasiado lejos.
+Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
+ A veces, te aferras a momentos de felicidad pasajera libra, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
+Una oportunidad para explorar nuevo territorio podría ser un punto crucial para ti, y uno que aceptarás con gran entusiasmo. Las próximas semanas podrían llevarte a ver nuevas opciones que quizás nunca antes hayas considerado, y esto puede ser muy emocionante. Además, con el Sol ingresando a tu sector de carrera y ambición, esta puede ser una oportunidad para evaluar la situación y considerar si estás aprovechando al máximo tus destrezas y habilidades. Si no, podría ser un buen momento para demostrar tus talentos.
 
 ## Dinero
 
-Cierta actividad en tu sector de dinero y de valores hace que sea prácticamente imposible evitar todas las ofertas y las oportunidades de ganar más a corto plazo. Haz heno mientras el Sol brilla. Esto es especialmente cierto ya que algunos de los aspectos son desafiantes. Puede ser que tu vida en el hogar sea un poco caótica ahora. No gastes más de lo que deberías.
+Esta semana tienes aspectos afectando a tu sector de relaciones. Alguien de quien no has oído en mucho tiempo puede tratar de comunicarse contigo en forma personal o profesional. ¡Te sorprenderá lo lejos que esta persona ha llegado en el terreno profesional! La comunicación es crucial ahora, especialmente en lo que se refiere a la situación de empleo.

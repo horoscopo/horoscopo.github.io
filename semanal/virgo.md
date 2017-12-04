@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 27 de noviembre 2017 al 03 de diciembre 2017 
-description: Horóscopo semanal virgo 27 de noviembre 2017 al 03 de diciembre 2017. 
+title: virgo 04 de diciembre 2017 al 10 de diciembre 2017 
+description: Horóscopo semanal virgo 04 de diciembre 2017 al 10 de diciembre 2017. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies virgo, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres virgo, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: MwBdhZntEjo
+ video: j6HiUYRfTB8
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-27'
+ lastmod: '2017-12-04'
 ---
 
 
 
-## 
+## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies virgo, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres virgo, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 
-Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
-Esta semana tiene un brillo especial con el Sol aún viajando a lo largo de tu sector social. Además, la entrada de Mercurio a esta misma zona podría llevarte a buscar grupos de interés o conectarte con personas que piensan como tú. También puedes obtener muchos beneficios al fomentar contactos asociados con tu vida profesional o en el mundo de los negocios, porque puede que tengan buenos consejos y oportunidades para ofrecerte. A partir del viernes, todo el esfuerzo que le dedicaste a un plan puede rendir frutos.
+Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti virgo. 
+Hay actividad en tu sector de habla y pensamiento, con el cosmos llevándote activamente a salir de tu zona de confort e involucrarte activamente con los demás. La luna llena del viernes podría desbaratar todo por completo, en particular si se pierden los estribos o terminas en una discusión. Los sentimientos podrían ponerse intensos a menos que plantees soltar lo que sea que te está molestando y sigas adelante. La presencia práctica de Saturno en tu sector familiar podría empujarte a enfrentar un problema actual.
 
 ## Dinero
 
-Esta semana hay ciertos aspectos afectando tu expresión personal. Es posible que sientas inspiración por los estilos del pasado o simplemente una forma relacionada con la forma en la que solías pensar en ti y cómo cambiar tu enfoque. El cosmos te ayuda a atraer más a corto plazo y considerar cómo podrías añadir más fuentes de ingresos.
+Para ti, esta semana es acerca de tus relaciones. Te están ofreciendo algo de alegre liberación, así como también graves distracciones. Si tienes proyectos de trabajo que deban ser terminados ahora, concentra en estos tus esfuerzos y diles a tus seres queridos que les verás pronto. Ciertos aspectos de tu sector de comunicación te hacen elocuente y capaz de salirte con la tuya con respecto a los asuntos financieros. Todo está sucediendo ahora.

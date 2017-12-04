@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: sagitario 27 de noviembre 2017 al 03 de diciembre 2017 
-description: Horóscopo semanal sagitario 27 de noviembre 2017 al 03 de diciembre 2017. Del 27 Noviembre al 3 de Diciembre de 2017
+title: sagitario 04 de diciembre 2017 al 10 de diciembre 2017 
+description: Horóscopo semanal sagitario 04 de diciembre 2017 al 10 de diciembre 2017. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro sagitario.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: 93ALuv2Y78M
+ video: sIfJBYyhUVE
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-11-27'
+ lastmod: '2017-12-04'
 ---
 
 
 
-## Del 27 Noviembre al 3 de Diciembre de 2017
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro sagitario.
 
-Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
- No lo has pasado del todo bien pero empiezas a renacer sagitario. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
-Aunque tengas responsabilidades, el enfoque en diversión y ocio continúa, lo que podría ser una pequeña distracción. Quizás aún no puedas comprometerte con tu rutina y con hacer más cosas, pero durante las próximas semanas entrarás en ritmo. La inquietud puede hacerte buscar otras opciones y que te cueste decidirte, pero un descubrimiento se hace posible gracias a esto. Además, los servicios de un instructor o profesor podrían ser invaluables para alcanzar tu máximo potencial.
+Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
+Cuando te sientas mal, tira de memoria sagitario y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
+Puede parecer que podrías perderte de una oportunidad única si no te apuras. Sin embargo, si te emocionan las muchas posibilidades que tienes por delante, como sugiere la actual alineación, quizás deberías considerar eliminar proyectos o actividades que ya no te resultan atractivas. Hacerlo significa que serás capaz de aprovechar al máximo cualquier opción que aparezca en tu camino. Además, darle un poco de atención extra a tus finanzas también puede ser beneficioso.
 
 ## Dinero
 
-Es posible que no tengas total equilibrio ahora. El hogar y las emociones internas se destacan, por lo que es posible que te falte confianza o una base firme desde la cual operar. Debido a que las cosas están  cambiando allí, tus sueños están en vivo con todo tipo de imágenes y extrañas señales. Practica la paciencia con tu mente inconsciente, está tratando de decirte algo que te traerá abundancia con el tiempo.
+Esta semana tienes la base sobre la cual construir una seguridad adicional. La actividad en tu sector de  deuda hace que sea más fácil pagar las tarjetas y líneas de crédito. Eres capaz de ganar más dinero ahora y asignarlo como mejor te parezca.
