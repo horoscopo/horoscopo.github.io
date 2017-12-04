@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Cancer Diciembre 2017 
 description: Horóscopo mensual para cancer diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/cancer/
-amplink: /horoscopo-mensual/amp/cancer/
+normallink: /horoscopo-mensual/cancer/
+permalink: /horoscopo-mensual/amp/cancer/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2017, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer

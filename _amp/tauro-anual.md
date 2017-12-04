@@ -1,5 +1,5 @@
 ---
-layout: horoscopos
+layout: amp
 title: tauro 2018 Horóscopo año nuevo 2018 
 description: tauro horoscopo del 16 de noviembre del 2017, amor, trabajo, vida personal. Todas las predicciones para tauro gratis. Disfruta este año nuevo.
 normallink: /horoscopo-anual/tauro/

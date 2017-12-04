@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Escorpio Diciembre 2017 
 description: Horóscopo mensual para escorpio diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/escorpio/
-amplink: /horoscopo-mensual/amp/escorpio/
+normallink: /horoscopo-mensual/escorpio/
+permalink: /horoscopo-mensual/amp/escorpio/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2017, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio

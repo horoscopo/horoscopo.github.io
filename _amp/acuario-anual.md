@@ -1,5 +1,5 @@
 ---
-layout: horoscopos
+layout: amp
 title: acuario 2018 Horóscopo año nuevo 2018 
 description: acuario horoscopo 2018 año nuevo, amor, trabajo, vida personal. Todas las predicciones para acuario gratis. Disfruta este año nuevo.
 normallink: /horoscopo-anual/acuario/

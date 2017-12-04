@@ -1,5 +1,5 @@
 ---
-layout: horoscopos
+layout: amp
 title: cancer 2018 Horóscopo año nuevo 2018 
 description: cancer horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para cancer gratis. Disfruta este año nuevo.
 normallink: /horoscopo-anual/cancer/

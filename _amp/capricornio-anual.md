@@ -1,5 +1,5 @@
 ---
-layout: horoscopos
+layout: amp
 title: capricornio 2018 Horóscopo año nuevo 2018 
 description: capricornio horoscopo 2018 año nuevo, amor, trabajo, vida personal. Todas las predicciones para capricornio gratis. Disfruta este año nuevo.
 normallink: /horoscopo-anual/capricornio/

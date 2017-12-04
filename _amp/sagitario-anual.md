@@ -1,5 +1,5 @@
 ---
-layout: horoscopos
+layout: amp
 title: sagitario 2018 Horóscopo año nuevo 2018 
 description: sagitario horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para sagitario gratis. Disfruta este año nuevo.
 normallink: /horoscopo-anual/sagitario/

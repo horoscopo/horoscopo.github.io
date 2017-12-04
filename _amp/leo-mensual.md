@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Leo Diciembre 2017 
 description: Horóscopo mensual para leo diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/leo/
-amplink: /horoscopo-mensual/amp/leo/
+normallink: /horoscopo-mensual/leo/
+permalink: /horoscopo-mensual/amp/leo/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo

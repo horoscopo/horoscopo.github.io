@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Capricornio Diciembre 2017 
 description: Horóscopo mensual para capricornio diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/capricornio/
-amplink: /horoscopo-mensual/amp/capricornio/
+normallink: /horoscopo-mensual/capricornio/
+permalink: /horoscopo-mensual/amp/capricornio/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2017, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio

@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Sagitario Diciembre 2017 
 description: Horóscopo mensual para sagitario diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/sagitario/
-amplink: /horoscopo-mensual/amp/sagitario/
+normallink: /horoscopo-mensual/sagitario/
+permalink: /horoscopo-mensual/amp/sagitario/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2017, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario

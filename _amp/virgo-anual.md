@@ -1,5 +1,5 @@
 ---
-layout: horoscopos
+layout: amp
 title: virgo 2018 Horóscopo año nuevo 2018 
 description: virgo horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para virgo gratis. Disfruta este año nuevo.
 normallink: /horoscopo-anual/virgo/

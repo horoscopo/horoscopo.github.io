@@ -1,5 +1,5 @@
 ---
-layout: horoscopos
+layout: amp
 title: libra 2018 Horóscopo año nuevo 2018 
 description: libra horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para libra gratis. Disfruta este año nuevo.
 normallink: /horoscopo-anual/libra/

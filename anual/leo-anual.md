@@ -1,5 +1,5 @@
 ---
-layout: pahoroscoposge
+layout: horoscopos
 title: leo 2018 Horóscopo año nuevo 2018 
 description: leo horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para leo gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/leo/

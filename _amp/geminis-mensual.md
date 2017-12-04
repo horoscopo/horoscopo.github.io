@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Geminis Diciembre 2017 
 description: Horóscopo mensual para geminis diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/geminis/
-amplink: /horoscopo-mensual/amp/geminis/
+normallink: /horoscopo-mensual/geminis/
+permalink: /horoscopo-mensual/amp/geminis/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2017, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis

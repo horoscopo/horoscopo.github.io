@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Piscis Diciembre 2017 
 description: Horóscopo mensual para piscis diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/piscis/
-amplink: /horoscopo-mensual/amp/piscis/
+normallink: /horoscopo-mensual/piscis/
+permalink: /horoscopo-mensual/amp/piscis/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2017, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis

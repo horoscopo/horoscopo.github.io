@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Libra Diciembre 2017 
 description: Horóscopo mensual para libra diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/libra/
-amplink: /horoscopo-mensual/amp/libra/
+normallink: /horoscopo-mensual/libra/
+permalink: /horoscopo-mensual/amp/libra/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2017, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra

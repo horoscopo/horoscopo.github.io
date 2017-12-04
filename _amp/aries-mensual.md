@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Aries Diciembre 2017 
 description: Horóscopo mensual para aries diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/aries/
-amplink: /horoscopo-mensual/amp/aries/
+normallink: /horoscopo-mensual/aries/
+permalink: /horoscopo-mensual/amp/aries/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2017, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries

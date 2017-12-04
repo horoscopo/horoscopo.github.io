@@ -1,5 +1,5 @@
 ---
-layout: horoscopos
+layout: amp
 title: piscis 2018 Horóscopo año nuevo 2018 
 description: piscis horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para piscis gratis. Disfruta este año nuevo.
 normallink: /horoscopo-anual/piscis/

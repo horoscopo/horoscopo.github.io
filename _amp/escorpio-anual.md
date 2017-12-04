@@ -1,5 +1,5 @@
 ---
-layout: horoscopos
+layout: amp
 title: escorpio 2018 Horóscopo año nuevo 2018 
 description: escorpio horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para escorpio gratis. Disfruta este año nuevo.
 normallink: /horoscopo-anual/escorpio/

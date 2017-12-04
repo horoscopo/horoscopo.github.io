@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Virgo Diciembre 2017 
 description: Horóscopo mensual para acuario diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/virgo/
-amplink: /horoscopo-mensual/amp/virgo/
+normallink: /horoscopo-mensual/virgo/
+permalink: /horoscopo-mensual/amp/virgo/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2017, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo

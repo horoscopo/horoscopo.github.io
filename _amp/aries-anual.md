@@ -1,5 +1,5 @@
 ---
-layout: horoscopos
+layout: amp
 title: aries 2018 Horóscopo año nuevo 2018 
 description: aries horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para aries gratis. Disfruta este año nuevo.
 normallink: /horoscopo-anual/aries/

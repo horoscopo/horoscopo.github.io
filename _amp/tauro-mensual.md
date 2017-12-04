@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Tauro Diciembre 2017 
 description: Horóscopo mensual para tauro diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/tauro/
-amplink: /horoscopo-mensual/amp/tauro/
+normallink: /horoscopo-mensual/tauro/
+permalink: /horoscopo-mensual/amp/tauro/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2017, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro

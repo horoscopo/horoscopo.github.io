@@ -1,9 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Acuario Diciembre 2017 
 description: Horóscopo mensual para acuario diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
-permalink: /horoscopo-mensual/acuario/
-amplink: /horoscopo-mensual/amp/acuario/
+normallink: /horoscopo-mensual/acuario/
+permalink: /horoscopo-mensual/amp/acuario/
 keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2017, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
