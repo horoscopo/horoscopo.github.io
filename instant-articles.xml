@@ -81,5 +81,79 @@ sitemap:
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       </item>
     {% endfor %}
+    {% for page in site.pages %}
+      {% if page.facebook.instant_article == 'yes' %}
+         <item>
+            <title>{{ page.title | xml_escape }}</title>
+            <content:encoded><![CDATA[
+               <!doctype html>
+               <html lang="es" prefix="op: http://media.facebook.com/op#">
+                  <head>
+                     <meta charset="utf-8">
+                     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+                     <link rel="stylesheet" title="default" href="#">
+                     <title>{{ page.title | xml_escape }}</title>
+                     <meta property="fb:article_style" content="default">
+                     <meta property="op:markup_version" content="v1.0">
+                     <meta property="fb:likes_and_comments" content="enable">
+                  </head>
+                  <body>
+                     <article>
+                        <header>
+                           
+                           <h1>{{ page.title | xml_escape }}</h1>
+                           <h3 class="op-kicker">
+                              Horóscopos
+                           </h3>
+                           <address>
+                           Horóscopo del día
+                           </address>
+                           <time class="op-published" datetime="2016-11-11T04:44:16Z" />
+
+                           <time class="op-modified" dateTime='{{ page.date | date: "%a, %d %b %Y %H:%M:%S %z" }}' />
+                           
+                           <figure>
+                              <img src="{{ site.url }}/images/zodiac/{{ page.horoscopo.signo }}.jpg" />
+                              <figcaption>{{ page.title | xml_escape }}</figcaption>
+                           </figure>   
+                        </header>
+                        
+                        {% if page.horoscopo.video %}
+                        <figure class="op-interactive">
+                              <iframe class="no-margin" src="http://www.youtube.com/embed/{{ page.horoscopo.video }}" width="560" height="315" allowfullscreen></iframe>
+                        </figure>
+                        {% endif %}
+
+                        {{ page.content }}
+
+                        {% if page.ogimg %}
+                        <figure data-feedback="fb:likes, fb:comments">
+                              <img src="{{ site.url }}{{ page.ogimg }}" />
+                              <figcaption>{{ page.title | xml_escape }}</figcaption>
+                        </figure>
+                        {% endif %}                  
+                        
+                        <figure class="op-ad">
+                           <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=260628817615223_518447105166725&adtype=banner300x250"></iframe>
+                        </figure>
+                        
+                        <footer>
+                        <ul class="op-related-articles">
+                           <li data-sponsored="true"><a href="{{ site.url }}"></a></li>
+                        </ul>
+                        </footer>
+
+                        
+                     </article>
+                  </body>
+                  </html>
+            ]]></content:encoded>   
+            <description>{{ page.content | xml_escape }}</description>
+            <pubDate>{{ page.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+            <link>{{ site.url }}{{ page.url }}</link>
+            <guid isPermaLink="true">{{ site.url }}{{ page.url }}</guid>
+         </item>
+      {% endif %}
+    {% endfor %}
   </channel>
 </rss>

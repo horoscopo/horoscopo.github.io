@@ -7,6 +7,8 @@ amplink: /horoscopo-anual/amp/cancer/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo cancer 2018, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2018 gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/cancer_anual.png
+facebook:
+ instant_article: 'yes'
 horoscopo:
  signo: cancer
  video: nHoK0AyZ0gk

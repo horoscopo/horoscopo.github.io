@@ -7,6 +7,8 @@ amplink: /horoscopo-anual/amp/leo/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo leo 2018, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2018 gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/leo_anual.png
+facebook:
+ instant_article: 'yes'
 horoscopo:
  signo: leo
  video: 2XwOwtLD-gc

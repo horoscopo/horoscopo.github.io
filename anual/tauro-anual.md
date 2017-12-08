@@ -7,6 +7,8 @@ amplink: /horoscopo-anual/amp/tauro/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo tauro 2018, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2018 gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/tauro_anual.png
+facebook:
+ instant_article: 'yes'
 horoscopo:
  signo: tauro
  video: G-f8QSMkzzM

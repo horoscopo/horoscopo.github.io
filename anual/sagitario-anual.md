@@ -7,6 +7,8 @@ amplink: /horoscopo-anual/amp/sagitario/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo sagitario 2018, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2018 gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/sagitario_anual.png
+facebook:
+ instant_article: 'yes'
 horoscopo:
  signo: sagitario
  video: qEL67s5J_-8
