@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de diciembre 2017
-description: Horóscopos del dia de hoy 07 de diciembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de diciembre 2017
+description: Horóscopos del dia de hoy 08 de diciembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Hoy, piensas a futuro y a gran escala cuando Mercurio forma un aspecto oportuno con Júpiter, el planeta de las grandes visiones y los sueños. Algunas cosas deben ser archivadas para futura referencia. Venus y Saturno establecen una vibra paciente y cautelosa hoy. Te estimulan a considerar invertirle energía a una relación seria.
+Tienes que lograr pasar por la emocional Luna en Escorpión de esta mañana. Para cuando llegue la tarde ya tendrás alta energía cuando la Luna forme trígono con Marte. Las vibras lunares de esta noche acentúan la necesidad de respetar la privacidad. Esto explica por qué alguien traza la línea entre ustedes dos y mantiene los límites bien definidos. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
