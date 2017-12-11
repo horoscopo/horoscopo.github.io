@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 04 de diciembre 2017 al 10 de diciembre 2017 
-description: Horóscopo semanal acuario 04 de diciembre 2017 al 10 de diciembre 2017. Recuerda que ha empezado la época de los acuario… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+title: acuario 11 de diciembre 2017 al 17 de diciembre 2017 
+description: Horóscopo semanal acuario 11 de diciembre 2017 al 17 de diciembre 2017. Fuera las preocupaciones. Tira del carro acuario, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: V5ihRpjoGog
+ video: V8BeVeVJip0
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-04'
+ lastmod: '2017-12-11'
 ---
 
 
 
-## Recuerda que ha empezado la época de los acuario… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+## Fuera las preocupaciones. Tira del carro acuario, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 
-Ojalá pudiéramos tener un botón de reinicio en la vida acuario, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
-Esta semana te trae la oportunidad de empezar de nuevo. Puede que ya estés en condiciones de empezar un plan de ahorro, cancelar una deuda o quizá comprometerte a ganar más dinero. Esta fase lunar puede llevarte por buen camino si tomas la firme intención de hacerlo el 19 de septiembre o después. El viernes verás un cambio cuando el alegre sol entre a tu sector de comunicación para quedarse allí cuatro semanas. Esta puede ser una oportunidad para conectar con personas que piensan como tú y expandir tus opciones de contactos.
+Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
+Quizá tu deseo más grande es ingresar a nuevos territorios. Con un enfoque determinado en tu sector de viajes y exploración, puede que busques un cambio y esto ciertamente se refleja en otras influencias en tu carta solar. Sin embargo, es mejor ir paso a paso antes que dar un salto a lo desconocido. Cualquier malentendido que hayas experimentado podría deberse a la fase retrógrada de tres semanas de Mercurio, el cual vuelve a avanzar el 8 de enero, lo que te permite tener conversaciones sanadoras.
 
 ## Dinero
 
-Si has estado buscando maneras de tener más apertura acerca de tus actividades monetarias, el cosmos te provee soluciones de todo tipo. Tendrás apoyo a la hora de comunicar tus necesidades y deseos relacionados con dinero. Si ha pasado mucho tiempo desde la última vez que recibiste un aumento de sueldo, habla con tu jefe acerca de las razones por la cuales te lo mereces. Alguien como tú no malgasta las horas de trabajo, eres un valioso contribuyente.
+Esta semana, los planetas están cambiando la manera en la que otros te ven, lo cual es positivo a largo plazo. Pero, dado a que en la actualidad afecta a tu carrera y tu vida hogareña, lo mejor es acudir a tus relaciones serias en busca de asistencia. Aquellos que pueden sostenerse en medio de una tormenta son aquellos que deseas mantener cerca.

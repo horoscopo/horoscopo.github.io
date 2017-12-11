@@ -1,29 +1,30 @@
 ---
 layout: horoscopos
-title: escorpio 04 de diciembre 2017 al 10 de diciembre 2017 
-description: Horóscopo semanal escorpio 04 de diciembre 2017 al 10 de diciembre 2017. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+title: escorpio 11 de diciembre 2017 al 17 de diciembre 2017 
+description: Horóscopo semanal escorpio 11 de diciembre 2017 al 17 de diciembre 2017. A veces sientes como si no avanzaras escorpio, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: bQqwmA5hjbo
+ video: pSjXgn1q3oA
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-04'
+ lastmod: '2017-12-11'
 ---
 
 
 
-## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+## A veces sientes como si no avanzaras escorpio, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 
-Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
- Tienes que acabar de una vez con todo escorpio.
-Si últimamente te has estado dando demasiados gustos, el cambio de enfoque en tu sector de salud y bienestar de esta semana podía verte tomar algunas decisiones clave. Aprovecha esta oportunidad para pensar en tus metas de salud y lo que quieres lograr. Si tu rutina de ejercicios ha desaparecido, es posible que sientas motivación para regresar a ella, sobre todo si estás iniciando un romance y tienes deseos de impresionar a alguien. Si ya tienes pareja, podían trabajar juntos para tratar de mantenerse en forma.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+Puede que sientas el impulso de explorar una idea empresarial. Esto podría motivarte para empezar un pequeño negocio en tu hogar que podría abrirte las puertas a algo mejor en el futuro. O puede que quieras trabajar desde casa en vez desde una oficina. De esta manera, evitarás el traslado diario. Buscar una nueva forma de resolver esta situación puede llevarte a encontrar una nueva libertad que te permita disfrutar la comodidad de tu hogar y, al mismo tiempo, tener el trabajo que te gusta. También tendrás la oportunidad de relajarte y descansar.
 
 ## Dinero
 
-Estás acostumbrado/a a las cosas buenas de la vida y anhelas días llenos de placeres sensuales. Esta semana, tu familia, amigos y pareja romántica están contigo en búsqueda de todo eso. Los aspectos te animan a hacer valer tus necesidades y mostrar que el mantenimiento de una comunicación clara y concisa personal y profesionalmente por igual mantiene la fluidez, la entrada y salida del dinero. Saca ahorros de donde puedas.
+Es una semana de creatividad y de ocuparte de cuestiones relativas a las relaciones y la comunicación. El utilizar tu creatividad para ganar más dinero es una muy buena idea, adéntrate en la escritura, el arte, la música u otra forma de arte. Si todavía no has tenido éxito al ganar dinero haciendo lo que te gusta, podrías encontrar una situación diferente. Sólo asegúrate de concéntrate en tus esfuerzos de buscar trabajo en estas áreas.

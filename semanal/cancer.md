@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: cancer 04 de diciembre 2017 al 10 de diciembre 2017 
-description: Horóscopo semanal cancer 04 de diciembre 2017 al 10 de diciembre 2017. Toma decisiones YA, AQUÍ y AHORA cancer. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+title: cancer 11 de diciembre 2017 al 17 de diciembre 2017 
+description: Horóscopo semanal cancer 11 de diciembre 2017 al 17 de diciembre 2017. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: dncPdkHC7A8
+ video: OrsIDCP86eQ
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-04'
+ lastmod: '2017-12-11'
 ---
 
 
 
-## Toma decisiones YA, AQUÍ y AHORA cancer. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 
- Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana. 
-Tal vez esta semana sea el momento de tomar decisiones, y esto podría causar tensiones entre familiares con respecto a planes profesionales o alguna ambición clave. Quizás este asunto ha estado burbujeando bajo la superficie por un tiempo, pero ahora podría salir a la luz. Este puede ser un buen momento para aclarar las cosas, aunque hacerlo pueda involucrar complejas conversaciones. Pero con el interactivo Mercurio moviéndose hacia atrás a partir del final de la semana, te vendría bien abordar esto con cuidado y sensatez.
+Estás bien aquí, estás bien allí, y en cuanto las cosas se complican un poquito, por poco que sea, huyes. Está bien que vivas de esas manera, buscando en realidad cualquier lugar que te de felicidad, cualquier momento sea cual sea y donde sea. Pero 
+ un poquito de ella. 
+Con el amoroso Venus activo en tu sector social, quizá tengas posibilidades románticas. Puede que disfrutes asistir a todo tipo de eventos sociales, reuniones de un club o a actividades comunitarias; y este puede ser el momento ideal para que conectes con otras personas y hagas nuevos amigos. Al mismo tiempo, puede que alguien no sea tan perfecto como tú creías. Quizá tengan una excelente amistad, pero sería útil mantener una actitud realista de sus virtudes y defectos.
 
 ## Dinero
 
-No siempre se te conoce por tu sutileza, y esta semana no es diferente. Tus habilidades comunicativas y estilo personal pueden ser poco convencionales, por lo que bájale un poco al tono si estás tratando de dar una buena primera impresión. Estás pensando en cómo hacer que tu carrera sea un poco más independiente y menos centrada en la oficina. Muéstreles que pueden confiar en ti y que eres capaz de hacerlo bien.
+Tienes una relación tensa entre tu hogar y profesión esta semana. Puede que sientas un poco de agobio en el trabajo o que tu carrera pasa por muchos obstáculos en el presente. Al mismo tiempo, tu vida hogareña y sentimientos interiores son algo tumultuosos o turbulentos. Establece un equilibrio al mantener una estrecha vigilancia en tu flujo de efectivo para ayudar a aliviar el estrés. Las cosas mejorarán desde allí.

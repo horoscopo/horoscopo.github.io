@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: tauro 04 de diciembre 2017 al 10 de diciembre 2017 
-description: Horóscopo semanal tauro 04 de diciembre 2017 al 10 de diciembre 2017. Semana intensa tauro, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+title: tauro 11 de diciembre 2017 al 17 de diciembre 2017 
+description: Horóscopo semanal tauro 11 de diciembre 2017 al 17 de diciembre 2017. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: MwFE4PDI8uU
+ video: pcF3hDFe-7k
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-04'
+ lastmod: '2017-12-11'
 ---
 
 
 
-## Semana intensa tauro, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 
-Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
- A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
-Podrías experimentar demoras con asuntos financieros al comienzo de la semana, pero esta fase es temporal. Las cosas deberían normalizarse en unos días. Sin embargo, prestar atención a los gastos puede ser útil para seguir por buen camino. El actual enfoque en los asuntos domésticos podría inspirarte a hacer que tu lugar sea vea fabuloso. Este es un buen momento para reorganizar tu hogar y hacer que se vuelva un lugar tranquilo en el que disfrutes de recibir visitas.
+Últimamente sientes que las decisiones que has tomado no han sido las más acertadas pero todo se puede arreglar. 
+Como si, por momentos, no fueras capaz de encontrar salida a tus preocupaciones, a todo ese estrés mental, a ese círculo en el que te has metido solo.
+El enfoque continúa en la exploración de nuevas oportunidades y originales descubrimientos. Mientras el conversador Mercurio con junta al sol, esta también puede ser una oportunidad para examinar una oferta que recibas nuevamente. Al mirarla con nuevos ojos, puede que encuentres motivos para explorarla un poco más. Puede que también tengas algunos inesperados encuentros que se sientan como un soplo de aire fresco. Por último, la luna nueva del 17 de diciembre te anima a salir a socializar con confianza.
 
 ## Dinero
 
-El Universo dice que es posible que estés proyectando una imagen interesante hacia los demás esta semana. Algunos pueden estarte viendo exactamente como les gustaría que fueras en lugar de como realmente eres, pero no te preocupes por ello. Mientras tanto, estás a punto de recibir un mensaje importante acerca de un nuevo negocio o una oportunidad financiera. Sólo asegúrate de devolver la llamada o responder a ese e-mail.
+Estás atrapado/a en fuego cruzado y puede que tengas que recurrir a tus excelentes dotes diplomáticos para suavizar algo más. Tu vida monetaria se encuentra mucho mejor últimamente, sobre todo desde que empezaste a implementar  tu lado creativo, lo cuál te traerá suerte. Sin embargo, tus amigos y las redes sociales no son sólo para llevarse bien. Algunos pueden estar molestos por tu éxito. En lugar de tomarlo como algo personal, estate consciente de que esto también pasará.
