@@ -23,6 +23,7 @@ sitemap:
                <meta property="fb:article_style" content="default">
                <meta property="op:markup_version" content="v1.0">
                <meta property="fb:likes_and_comments" content="enable">
+               <meta property="fb:use_automatic_ad_placement" content="enable=true ad_density=default">
             </head>
             <body>
                <article>
@@ -46,7 +47,13 @@ sitemap:
                            <img src="{{ site.url }}/images/diario.png" />
                         {% endif%}
                         <figcaption>{{ post.title | xml_escape }}</figcaption>
-                     </figure>   
+                     </figure>
+                     
+                     
+                     <figure class="op-ad">
+                        <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=260628817615223_518447105166725&adtype=banner300x250"></iframe>
+                     </figure>
+                     
                   </header>
                   
                   {% if post.horoscopo.video %}
@@ -64,9 +71,7 @@ sitemap:
                   </figure>
                   {% endif %}                  
                   
-                  <figure class="op-ad">
-                     <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=260628817615223_518447105166725&adtype=banner300x250"></iframe>
-                  </figure>
+                  
                   
                   <footer>
                   <ul class="op-related-articles">
