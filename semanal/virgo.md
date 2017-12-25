@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 18 de diciembre 2017 al 24 de diciembre 2017 
-description: Horóscopo semanal virgo 18 de diciembre 2017 al 24 de diciembre 2017. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: virgo 25 de diciembre 2017 al 31 de diciembre 2017 
+description: Horóscopo semanal virgo 25 de diciembre 2017 al 31 de diciembre 2017. Toma decisiones YA, AQUÍ y AHORA virgo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: rJmcOrqv54U
+ video: xkFDABy0JVs
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-18'
+ lastmod: '2017-12-25'
 ---
 
 
 
-## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+## Toma decisiones YA, AQUÍ y AHORA virgo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 
-Llega una buenísima semana virgo pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien virgo, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado virgo, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo virgo, pelea por lo que te mereces.
-Esta semana podría ser mejor hacer un balance entre actuar de forma impulsiva y destinar tiempo a indagar los hechos. Una idea parece genial en el momento, pero podría tener una influencia perturbadora en tu vida si no tienes en cuenta las consecuencias. Aun así, lo mismo puede no aplicarse a un encuentro inesperado que podría agregar un poco de emoción a los próximos días. Pero no creas todo lo que es dicho durante el fin de semana, ya que alguien podría estar diciendo una mentirita piadosa.
+No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
+A medida que el encantador Venus, el astro que te rige, ingresa a tu sector financiero, puede que sientas la tentación de darte un gusto con tus lujos preferidos. Y con la época de festividades en marcha, comprarte algunos obsequios parece ser lo natural. Pero tu generosa naturaleza también podría tentarte a gastar en los demás para hacerles felices. Es por esto que tener un presupuesto para esta época del año puede ser tan efectivo, en especial cuando se trata de los gastos del hogar. Con respecto a las relaciones, la compañía de una persona podría ser estimulante.
 
 ## Dinero
 
-Es una semana que requiere de mucha más búsqueda. Los aspectos son maravillosos para manifestar más dinero y aplicarlos a tus sueños, pero también puede oscurecer o nublar tu visión, a tu perjuicio. Incluso aunque pienses que no tienes tiempo para supervisar tu dinero, haz tiempo. Otros no son propensos a tener tus mejores intereses en el corazón. No es que haya malicia – simplemente no es su problema.
+Hay cierta limitación en tu carrera esta semana. No sólo porque puede que el trabajo que hagas se evapore (sólo un poco), pero también se te podría llamar a asumir una mayor parte de la carga. El Universo está pidiendo que te vuelvas más responsable y con autoridad en esta área. Tus relaciones pueden necesitar un mayor desarrollo antes de que puedan ofrecerte lo que quieres y necesitas de ellas económicamente.

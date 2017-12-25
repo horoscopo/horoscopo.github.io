@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 18 de diciembre 2017 al 24 de diciembre 2017 
-description: Horóscopo semanal geminis 18 de diciembre 2017 al 24 de diciembre 2017. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+title: geminis 25 de diciembre 2017 al 31 de diciembre 2017 
+description: Horóscopo semanal geminis 25 de diciembre 2017 al 31 de diciembre 2017. Esta semana relájate un poco geminis, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: 85wQUBXSH6Y
+ video: qdbYjEpQ82c
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-18'
+ lastmod: '2017-12-25'
 ---
 
 
 
-## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+## Esta semana relájate un poco geminis, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 
-Cada día que pasa te das más cuenta de que mereces cosas buenas geminis, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana geminis.
-Si has estado pensando en alejarte de todo, la próxima semana podría encontrarte viajando hacia un clima más soleado. El deseo de descansar puede alentarte a hacer un viaje de fin de semana o incluso un poco más largo. Mientras Saturno ingresa a Capricornio el 19 de diciembre, puede que sea momento de considerar tomar un curso o una clase. Te tomarás en serio el adquirir nuevos conocimientos y adoptar creencias que pueden ayudarte a mejorar como persona. Estás a punto de embarcarte en un viaje de descubrimiento.
+Te crees que eres débil geminis, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos geminis, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior geminis… Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+Con Venus trasladándose a tu sector de recreación esta semana, es posible que surjan placenteras opciones de citas y salidas románticas. Este puede ser uno de los mejores momentos para tomar un pequeño descanso de tu ser querido, ya que, si lo haces, tu relación podría pasar al siguiente nivel. Por otro lado, podrías tener un conflicto con una persona controladora o muy persuasiva. Esta es tu oportunidad para ponerte firme y revertir la situación para que esto deje de molestarte.
 
 ## Dinero
 
-Es un buen momento para ti, queriendo más que nada iniciar una nueva cuenta de ahorro y plan de inversiones para asegurar tu futuro. Pero hay tentaciones por todas partes debido a cierta actividad en tu sector de viajes, educación y espiritualidad. La necesidad de viajar y aprender tiene mucho poder sobre ti, y el dinero constantemente se sale de ese agujero en tu bolsillo. Trata de resistirte a la tentación de derrochar. Siempre se puede aprender de los acontecimientos de la vida.
+Puede que te encuentres expandiendo un negocio establecido desde tu casa en este momento debido a un afortunado aspecto en esta área de tu carta. Si es necesario, convierte una habitación extra en una oficina para que puedas cerrarle la puerta a tu trabajo al final del día. Cierto aspecto ahora te da todo lo que necesitas y mucho más para poner en marcha un nuevo negocio si quieres más libertad en tu vida laboral o para llevar una ya existente a un nivel superior.

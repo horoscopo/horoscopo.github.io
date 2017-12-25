@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 18 de diciembre 2017 al 24 de diciembre 2017 
-description: Horóscopo semanal acuario 18 de diciembre 2017 al 24 de diciembre 2017. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+title: acuario 25 de diciembre 2017 al 31 de diciembre 2017 
+description: Horóscopo semanal acuario 25 de diciembre 2017 al 31 de diciembre 2017. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: j1zCoumTMkU
+ video: ADUoB-A61vg
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-18'
+ lastmod: '2017-12-25'
 ---
 
 
 
-## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 
-Quita importancia a las cosas acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas acuario. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
-Mirar bajo la superficie puede ayudarte a comprender las sutiles corrientes que conforman una situación o relación clave. Y mientras tanto, algunas introspecciones clave podrían permitirte que des un cierre o encuentres una forma de afrontar alguna situación específica de una vez por todas. Tu innata habilidad para llegar al fondo de una cuestión puede resultarte muy útil ahora. Por otro lado, aunque tal vez quieras derrochar en compras, algunas influencias clave sugieren que te guardes tu dinero por el momento.
+Empieza a cambiar la mentalidad acuario, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado acuario, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+El aventurero y animado Júpiter, tu planeta regente, cambia de signo esta semana, por lo que puedes notar un cambio en tu enfoque. Entra a tu sector espiritual por una estancia de doce meses para llevarte a que te liberes de esas limitaciones y vivas tu vida aprovechando tu máximo potencial. Este puede ser un momento en el que un asesor o mentor tiene un efecto profundo en ti, y te ayuda a elevarte hacia nuevas alturas. Mientras tanto, la semana por delante podría revelar diferencias de opinión que pueden resolverse con un manejo cuidadoso.
 
 ## Dinero
 
-Es una semana de contradicciones. Puede que estés pensando en una reciente relación para ver lo que pudiste haber hecho de otra manera. Los mentores, socios comerciales e inversionistas pueden no ser todo lo que parecían ser hace unas semanas. Es hora de revaluar tus asociaciones. Mientras tanto, tu sector social se abre. Puedes encontrar nuevas personas que comparten tu misma visión para trabajar en conjunto si es necesario. Las mujeres serán especialmente útiles.
+Ciertos aspectos en tu sector de dinero en efectivo pueden limitar o restringir lo que eres capaz de ganar. En vez de entrar en pánico, piensa en cómo este período te puede proporcionar el tiempo que necesitas para planear tu próximo movimiento. Puedes hacer de un hobby,  un trabajo de tiempo completo con un poco de ingenio y acción concentrada. Tu imaginación no tiene rival ahora mismo. No dejes que un revés financiero te empuje fuera de curso.

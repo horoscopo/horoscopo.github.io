@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 18 de diciembre 2017 al 24 de diciembre 2017 
-description: Horóscopo semanal aries 18 de diciembre 2017 al 24 de diciembre 2017. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+title: aries 25 de diciembre 2017 al 31 de diciembre 2017 
+description: Horóscopo semanal aries 25 de diciembre 2017 al 31 de diciembre 2017. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: W8BwhaPXe7k
+ video: y-T0HR3O2_4
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-18'
+ lastmod: '2017-12-25'
 ---
 
 
 
-## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 
-Ommmm… Ommmm… Relax aries, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira aries, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas aries, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
-Puede que tu agenda esté muy llena, y más que nada de trabajo. Sin embargo, con el fuerte enfoque de ahora en tu sector de hogar y familia, puede que te sientas mejor si logras equilibrar un poco las cosas. ¿Necesitas encargarte de todas esas responsabilidades ahora mismo? Si algunas pueden esperar, anótalas en tu agenda para la semana que viene o para otro momento. La oportunidad de estar con las personas que más quieres y aprovechar un poco de tranquilidad es fundamental para tu felicidad esta semana.
+En serio, aries, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres aries por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal aries, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
+Con el expansivo Júpiter ahora en un sector más relajado de tu carta, las aficiones y los pasatiempos pueden convertirse en una forma de canalizar emociones. Esto podría ser muy terapéutico y sanador de muchas maneras. A medida que el adorable Venus ingresa a este mismo sector el martes, puede que sientas que algunas relaciones son igualmente inspiradoras. De hecho, podrías encontrarte hablando y relacionándote a nivel íntimo con bastante facilidad, y esto podría gustarte. Por otro lado, una innovadora idea podría revolucionar tu vida laboral.
 
 ## Dinero
 
-Te sientes bien contigo mismo/a y con todo lo que estás tratando de hacer en el mundo. Tus relaciones personales y profesionales tienden a ser cálidas ahora. Sin embargo, tu vida en el hogar y los sentimientos interiores puede andar algo turbulentos y agitados. Todo irá mejor la próxima semana.
+Esta semana tiene algunas sorpresas para ti. Ciertos aspectos de tu sector profesional te exhortan a poner mucha energía y esfuerzo aquí. Puede ser que estés mucho más ocupado/a que de costumbre y bajo presión de entregas. En pocas palabras, no tendrás mucho tiempo para la diversión. Sin embargo, te podría sorprender el encontrar que has gastado más de lo previsto y necesitas ajustar tus patrones de gasto.

@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 18 de diciembre 2017 al 24 de diciembre 2017 
-description: Horóscopo semanal escorpio 18 de diciembre 2017 al 24 de diciembre 2017. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+title: escorpio 25 de diciembre 2017 al 31 de diciembre 2017 
+description: Horóscopo semanal escorpio 25 de diciembre 2017 al 31 de diciembre 2017. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: kB4gLaKBgAk
+ video: 2k1hA4E2FWs
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-18'
+ lastmod: '2017-12-25'
 ---
 
 
 
-## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 
-Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
-A medida que Mercurio, tu planeta personal, entra a tu sector de rutinas y estilo de vida, las próximas semanas pueden ser una oportunidad para que explores distintas maneras de mejorar aspectos clave de tu vida diaria. El Eclipse Lunar de esta semana puede inspirarte a que dejes atrás los hábitos o las actividades que ya no te hacen bien. Puede que los próximos días traigan una serie de revelaciones en áreas donde podrías tener un punto ciego. Ciertos eventos pueden resaltar esto y motivarte para que entres en acción durante las semanas y los meses que se avecinan.
+Por fin has tomado decisiones, y además decisiones que te benefician, 
+por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
+Hay mucha actividad en tu zona financiera en las próximas semanas, pero esta semana, un evento en particular te alienta a solucionar tus asuntos. Te sientes mejor una vez que te enfrentas a las dificultades y haces lo necesario para resolverlas. La entrada de Venus a tu signo puede ser una llamada de atención para que busques estar con amistades, especialmente si estuviste haciendo otras cosas últimamente. Te sientes mejor porque puedes relajarte.
 
 ## Dinero
 
-Ciertos desafíos se aproximan hacia ti esta semana. Las relaciones son propensas a sufrir una separación por trabajo o razones personales. La buena noticia es que ambos están muy ocupados. La mala noticia es que esta situación requiere más diplomacia y paciencia de lo habitual. Tu sector de empleo puede estar un poco inestable. Muévete lentamente, con cuidado, y no hagas exigencias innecesarias.
+Si has estado buscando maneras de ganar más dinero, es posible que mirar hacia el pasado traiga los mejores resultados esta semana. Esto se debe en parte a tu casa del dinero y valores. Explora antiguos puestos de trabajo, empresarios y habilidades para atraer más dinero en efectivo. Podrías ser capaz de usar tales para conectar con conocidos de una época anterior de tu vida que podrían ayudarte a crear una cartera de inversiones para proteger tu futuro.
