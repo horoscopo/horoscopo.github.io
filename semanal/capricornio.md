@@ -5,6 +5,8 @@ description: Horóscopo semanal capricornio 25 de diciembre 2017 al 31 de diciem
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
+facebook:
+ instant_article: 'yes'
 horoscopo:
  signo: capricornio
  video: TZ8lGOiSKwk

@@ -5,6 +5,8 @@ description: Horóscopo semanal geminis 25 de diciembre 2017 al 31 de diciembre 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
+facebook:
+ instant_article: 'yes'
 horoscopo:
  signo: geminis
  video: qdbYjEpQ82c

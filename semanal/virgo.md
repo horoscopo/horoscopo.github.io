@@ -5,6 +5,8 @@ description: Horóscopo semanal virgo 25 de diciembre 2017 al 31 de diciembre 20
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
+facebook:
+ instant_article: 'yes'
 horoscopo:
  signo: virgo
  video: xkFDABy0JVs

@@ -5,6 +5,8 @@ description: Horóscopo semanal cancer 25 de diciembre 2017 al 31 de diciembre 2
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
+facebook:
+ instant_article: 'yes'
 horoscopo:
  signo: cancer
  video: oAklWDphkpg

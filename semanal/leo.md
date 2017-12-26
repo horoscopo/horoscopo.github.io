@@ -5,6 +5,8 @@ description: Horóscopo semanal leo 25 de diciembre 2017 al 31 de diciembre 2017
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
+facebook:
+ instant_article: 'yes'
 horoscopo:
  signo: leo
  video: faM0b5qotl8
