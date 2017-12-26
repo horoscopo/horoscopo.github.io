@@ -91,6 +91,7 @@ sitemap:
       </item>
     {% endfor %}
     {% for page in site.pages %}
+    {% if page.facebook.instant_article == 'yes' }
       <item>
         <title>{{ page.title | xml_escape }}</title>
         <content:encoded><![CDATA[
@@ -186,6 +187,7 @@ sitemap:
         <link>{{ site.url }}{{ page.url }}</link>
         <guid isPermaLink="true">{{ site.url }}{{ page.url }}</guid>
       </item>
+      {% endif %}
     {% endfor %}
   </channel>
 </rss>
