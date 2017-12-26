@@ -9,7 +9,7 @@ sitemap:
  lastmod: 2015-02-19
 ---
 <div style="text-align: center;">
-<br />
+
 <iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/KEDEEECOtWs?list=PLFxNV3JuSndVrbUhZ4aVQW3bkF8i_5Q7a" width="480"></iframe>
 </div>
 Este año el Gallo necesitará centrarse, está muy disperso, por lo que empezará muchos proyectos pero no terminará ninguno. Tantos proyectos abiertos sin cerrar no le van a ayudar, hay que centrarse en terminarlos para alcanzar las metas y el éxito que lleva tanto tiempo buscando.
