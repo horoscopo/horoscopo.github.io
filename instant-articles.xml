@@ -91,7 +91,7 @@ sitemap:
       </item>
     {% endfor %}
     {% for page in site.pages %}
-    {% if page.facebook.instant_article }
+    {% if page.facebook.instant_article %}
       <item>
         <title>{{ page.title | xml_escape }}</title>
         <content:encoded><![CDATA[
