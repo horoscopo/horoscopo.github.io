@@ -1,10 +1,10 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de diciembre 2017
-description: Horóscopos del dia de hoy 25 de diciembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de diciembre 2017
+description: Horóscopos del dia de hoy 26 de diciembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 ---
-Tu imaginación trabajando de más podría conducir a decisiones equivocadas. La realidad podría ser lo contrario a lo que temporalmente piensas cuando Mercurio aspecta al nebuloso Neptuno. Pospón tu decisión hasta que hayas analizado tus pensamientos. Esta noche, los solteros se hacen del rogar con tal de proteger a su corazón bajo la Luna en el cauteloso Tauro.
+Las respuestas te llegan de manera positiva esta mañana. Esta tarde, algunos se sienten más seguros moviéndose hacia atrás en lugar de hacia adelante mientras el pasado rige debido a la Luna conectando con Saturno. Esta noche, uno puede perder el corazón con tal sólo un inocente beso debido a Venus entrando a Piscis. ¡El reino del amor acaba de volverse interesante!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
