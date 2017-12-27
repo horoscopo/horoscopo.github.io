@@ -38,7 +38,13 @@ sitemap:
                      </address>
                      <time class="op-published" datetime="2016-11-11T04:44:16Z" />
 
-                     <time class="op-modified" dateTime='{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}' />
+                     {% if post.sitemap.lastmod %}
+                        <time class="op-modified" dateTime='{{ post.sitemap.lastmod | date: "%a, %d %b %Y %H:%M:%S %z" }}' />
+                     {% elsif post.date %}
+                        <time class="op-modified" dateTime='{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}' />
+                     {% else %}
+                        <time class="op-modified" dateTime='{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}' />
+                     {% endif %}
                      
                      <figure>
                         {% if post.horoscopo.signo %}
