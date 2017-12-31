@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de diciembre 2017
-description: Horóscopos del dia de hoy 30 de diciembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 31 de diciembre 2017
+description: Horóscopos del dia de hoy 31 de diciembre 2017 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2017-12-30
+ lastmod: 2017-12-31
 ---
-Dirige e influye con asertividad, ya que recibes ayuda del Sol y Plutón. El trígono entre Marte y Saturno señala un curso definido de acción. Si es que buscas romance, espera un mejor momento al de esta noche. Las conversaciones podrían terminar incluso antes de haber comenzado con Mercurio a punto de cambiar de signo.
+El sextil entre la Luna y Venus es el aspecto perfecto para tener una alegre curiosidad acerca de cómo podrían ser las cosas y para dirigir tu talento hacia otras maneras de hacer funcionar las cosas. Sé flexible esta tarde. Otras personas están haciendo cambios también. Saturno a punto de cambiar de signo hace de la honestidad la mejor política, incluso si hay duda de ello.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
