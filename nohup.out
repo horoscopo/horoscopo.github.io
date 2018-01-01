@@ -1,0 +1,516 @@
+81.584
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:01:21.58, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/aries.jpg':
+  Duration: 00:00:03.26, start: 0.000000, bitrate: 232 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.31 fps, 0.31 tbr, 0.31 tbn, 0.31 tbc
+[swscaler @ 0x55b39680a920] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'aries.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   36 fps=0.0 q=2.0 size=     578kB time=00:00:36.00 bitrate= 131.6kbits/s speed=71.9x    frame=   72 fps= 72 q=2.0 size=    1159kB time=00:01:12.00 bitrate= 131.9kbits/s speed=71.9x    frame=   83 fps= 72 q=2.0 Lsize=    1385kB time=00:01:23.00 bitrate= 136.7kbits/s speed=71.8x    
+video:1081kB audio:239kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.919677%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: aries.avi
+Video URL: https://www.youtube.com/watch?v=Y0P1PQmuLbM
+149.008
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:02:29.01, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/tauro.jpg':
+  Duration: 00:00:05.96, start: 0.000000, bitrate: 123 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.17 fps, 0.17 tbr, 0.17 tbn, 0.17 tbc
+[swscaler @ 0x55c95ba7fda0] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'tauro.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   36 fps=0.0 q=2.0 size=     567kB time=00:00:36.00 bitrate= 129.0kbits/s speed=  72x    frame=   73 fps= 73 q=1.6 size=    1134kB time=00:01:13.00 bitrate= 127.3kbits/s speed=72.6x    frame=  110 fps= 73 q=2.0 size=    1847kB time=00:01:50.00 bitrate= 137.6kbits/s speed=72.9x    frame=  147 fps= 73 q=2.0 size=    2417kB time=00:02:27.00 bitrate= 134.7kbits/s speed=  73x    frame=  150 fps= 73 q=2.0 Lsize=    2499kB time=00:02:30.00 bitrate= 136.5kbits/s speed=72.6x    
+video:1951kB audio:437kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.623413%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: tauro.avi
+Video URL: https://www.youtube.com/watch?v=isJ1-oIc94g
+84.684
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:01:24.68, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/geminis.jpg':
+  Duration: 00:00:03.39, start: 0.000000, bitrate: 232 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.30 fps, 0.30 tbr, 0.30 tbn, 0.30 tbc
+[swscaler @ 0x56441547b6c0] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'geminis.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   36 fps=0.0 q=2.0 size=     603kB time=00:00:36.00 bitrate= 137.2kbits/s speed=71.9x    frame=   73 fps= 72 q=1.6 size=    1210kB time=00:01:13.00 bitrate= 135.8kbits/s speed=72.4x    frame=   86 fps= 72 q=2.0 Lsize=    1611kB time=00:01:26.00 bitrate= 153.5kbits/s speed=71.8x    
+video:1296kB audio:248kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.338573%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: geminis.avi
+Video URL: https://www.youtube.com/watch?v=iAuL3nVUc6k
+156.78
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:02:36.78, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/cancer.jpg':
+  Duration: 00:00:06.27, start: 0.000000, bitrate: 120 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.16 fps, 0.16 tbr, 0.16 tbn, 0.16 tbc
+[swscaler @ 0x55af772e1740] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'cancer.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     589kB time=00:00:37.00 bitrate= 130.4kbits/s speed=72.9x    frame=   74 fps= 73 q=2.0 size=    1328kB time=00:01:14.00 bitrate= 147.0kbits/s speed=73.4x    frame=  109 fps= 72 q=1.6 size=    1761kB time=00:01:49.00 bitrate= 132.4kbits/s speed=72.2x    frame=  145 fps= 72 q=1.6 size=    2347kB time=00:02:25.00 bitrate= 132.6kbits/s speed=  72x    frame=  158 fps= 72 q=2.0 Lsize=    2769kB time=00:02:38.00 bitrate= 143.6kbits/s speed=71.9x    
+video:2194kB audio:460kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.358500%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: cancer.avi
+Video URL: https://www.youtube.com/watch?v=-JH-Qcb-qM0
+174.244
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:02:54.24, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/leo.jpg':
+  Duration: 00:00:06.97, start: 0.000000, bitrate: 107 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.14 fps, 0.14 tbr, 0.14 tbn, 0.14 tbc
+[swscaler @ 0x56501fe58300] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'leo.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   36 fps=0.0 q=2.0 size=     576kB time=00:00:36.00 bitrate= 131.0kbits/s speed=71.9x    frame=   72 fps= 72 q=2.0 size=    1149kB time=00:01:12.00 bitrate= 130.7kbits/s speed=71.9x    frame=  108 fps= 72 q=2.0 size=    1725kB time=00:01:48.00 bitrate= 130.9kbits/s speed=71.9x    frame=  145 fps= 72 q=1.6 size=    2300kB time=00:02:25.00 bitrate= 130.0kbits/s speed=72.3x    frame=  175 fps= 72 q=2.0 Lsize=    2935kB time=00:02:55.00 bitrate= 137.4kbits/s speed=72.2x    
+video:2296kB audio:511kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.543122%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: leo.avi
+Video URL: https://www.youtube.com/watch?v=fO4HQvoODOg
+90.272
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:01:30.27, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/virgo.jpg':
+  Duration: 00:00:03.61, start: 0.000000, bitrate: 212 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.28 fps, 0.28 tbr, 0.28 tbn, 0.28 tbc
+[swscaler @ 0x564a228b2ce0] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'virgo.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   36 fps=0.0 q=2.0 size=     588kB time=00:00:36.00 bitrate= 133.9kbits/s speed=  72x    frame=   73 fps= 72 q=1.6 size=    1182kB time=00:01:13.00 bitrate= 132.6kbits/s speed=72.4x    frame=   92 fps= 72 q=2.0 Lsize=    1598kB time=00:01:32.00 bitrate= 142.3kbits/s speed=72.2x    
+video:1262kB audio:265kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.636918%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: virgo.avi
+Video URL: https://www.youtube.com/watch?v=giBKfEGcDQ0
+148.836
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:02:28.84, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/libra.jpg':
+  Duration: 00:00:05.95, start: 0.000000, bitrate: 125 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.17 fps, 0.17 tbr, 0.17 tbn, 0.17 tbc
+[swscaler @ 0x560fb9d14240] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'libra.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     578kB time=00:00:37.00 bitrate= 127.9kbits/s speed=72.7x    frame=   74 fps= 73 q=2.0 size=    1302kB time=00:01:14.00 bitrate= 144.2kbits/s speed=72.8x    frame=  111 fps= 73 q=2.0 size=    1883kB time=00:01:51.00 bitrate= 139.0kbits/s speed=73.1x    frame=  148 fps= 73 q=2.0 size=    2461kB time=00:02:28.00 bitrate= 136.2kbits/s speed=73.3x    frame=  150 fps= 73 q=2.0 Lsize=    2537kB time=00:02:30.00 bitrate= 138.6kbits/s speed=73.1x    
+video:1991kB audio:436kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.548676%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: libra.avi
+Video URL: https://www.youtube.com/watch?v=Pn11427NgEQ
+167.3
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:02:47.30, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/escorpio.jpg':
+  Duration: 00:00:06.69, start: 0.000000, bitrate: 116 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.15 fps, 0.15 tbr, 0.15 tbn, 0.15 tbc
+[swscaler @ 0x55d9b826d260] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'escorpio.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     596kB time=00:00:37.00 bitrate= 131.9kbits/s speed=73.9x    frame=   73 fps= 72 q=1.6 size=    1191kB time=00:01:13.00 bitrate= 133.6kbits/s speed=72.5x    frame=  110 fps= 73 q=2.0 size=    1941kB time=00:01:50.00 bitrate= 144.6kbits/s speed=72.9x    frame=  147 fps= 73 q=2.0 size=    2539kB time=00:02:27.00 bitrate= 141.5kbits/s speed=  73x    frame=  169 fps= 73 q=1.6 Lsize=    3004kB time=00:02:49.00 bitrate= 145.6kbits/s speed=72.8x    
+video:2391kB audio:490kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.260324%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: escorpio.avi
+Video URL: https://www.youtube.com/watch?v=tY_HxMgWyZM
+149.196
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:02:29.20, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/sagitario.jpg':
+  Duration: 00:00:05.97, start: 0.000000, bitrate: 117 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.17 fps, 0.17 tbr, 0.17 tbn, 0.17 tbc
+[swscaler @ 0x5610906e4c20] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'sagitario.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     515kB time=00:00:37.00 bitrate= 114.0kbits/s speed=73.4x    frame=   75 fps= 74 q=2.0 size=    1163kB time=00:01:15.00 bitrate= 127.0kbits/s speed=74.1x    frame=  112 fps= 74 q=2.0 size=    1684kB time=00:01:52.00 bitrate= 123.2kbits/s speed=74.1x    frame=  150 fps= 74 q=2.0 size=    2203kB time=00:02:30.00 bitrate= 120.3kbits/s speed=74.4x    frame=  150 fps= 74 q=2.0 Lsize=    2274kB time=00:02:30.00 bitrate= 124.2kbits/s speed=74.1x    
+video:1726kB audio:437kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 5.111527%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: sagitario.avi
+Video URL: https://www.youtube.com/watch?v=kzo4dC1d4m0
+149.256
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:02:29.26, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/capricornio.jpg':
+  Duration: 00:00:05.97, start: 0.000000, bitrate: 119 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.17 fps, 0.17 tbr, 0.17 tbn, 0.17 tbc
+[swscaler @ 0x55e4caac9260] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'capricornio.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     523kB time=00:00:37.00 bitrate= 115.7kbits/s speed=73.1x    frame=   75 fps= 74 q=2.0 size=    1179kB time=00:01:15.00 bitrate= 128.8kbits/s speed=74.1x    frame=  112 fps= 74 q=2.0 size=    1706kB time=00:01:52.00 bitrate= 124.8kbits/s speed=  74x    frame=  150 fps= 74 q=2.0 size=    2232kB time=00:02:30.00 bitrate= 121.9kbits/s speed=74.3x    frame=  151 fps= 74 q=2.0 Lsize=    2303kB time=00:02:31.00 bitrate= 125.0kbits/s speed=74.1x    
+video:1755kB audio:437kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 5.043802%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: capricornio.avi
+Video URL: https://www.youtube.com/watch?v=-IrC3zU-omE
+72.332
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:01:12.33, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/acuario.jpg':
+  Duration: 00:00:02.89, start: 0.000000, bitrate: 249 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.35 fps, 0.35 tbr, 0.35 tbn, 0.35 tbc
+[swscaler @ 0x55852073e7c0] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'acuario.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   36 fps=0.0 q=2.0 size=     530kB time=00:00:36.00 bitrate= 120.6kbits/s speed=71.9x    frame=   73 fps= 72 q=1.6 size=    1060kB time=00:01:13.00 bitrate= 119.0kbits/s speed=72.5x    frame=   74 fps= 72 q=2.0 Lsize=    1229kB time=00:01:14.00 bitrate= 136.1kbits/s speed=72.1x    
+video:958kB audio:212kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 5.018194%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: acuario.avi
+Video URL: https://www.youtube.com/watch?v=eeShfp0VBgg
+121.536
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tmp.wav':
+  Duration: 00:02:01.54, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/piscis.jpg':
+  Duration: 00:00:04.86, start: 0.000000, bitrate: 148 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.21 fps, 0.21 tbr, 0.21 tbn, 0.21 tbc
+[swscaler @ 0x561dd8a97760] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'piscis.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     535kB time=00:00:37.00 bitrate= 118.4kbits/s speed=72.6x    frame=   74 fps= 73 q=2.0 size=    1206kB time=00:01:14.00 bitrate= 133.5kbits/s speed=73.3x    frame=  112 fps= 74 q=2.0 size=    1745kB time=00:01:52.00 bitrate= 127.6kbits/s speed=73.9x    frame=  123 fps= 74 q=2.0 Lsize=    1975kB time=00:02:03.00 bitrate= 131.6kbits/s speed=73.7x    
+video:1527kB audio:356kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.881132%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: piscis.avi
+Video URL: https://www.youtube.com/watch?v=T7SiYKXqL30

@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 25 de diciembre 2017 al 31 de diciembre 2017 
-description: Horóscopo semanal geminis 25 de diciembre 2017 al 31 de diciembre 2017. Esta semana relájate un poco geminis, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: geminis 01 de enero 2018 al 07 de enero 2018 
+description: Horóscopo semanal geminis 01 de enero 2018 al 07 de enero 2018. Mira geminis, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
-facebook:
- instant_article: 'yes'
 horoscopo:
  signo: geminis
- video: qdbYjEpQ82c
+ video: iAuL3nVUc6k
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-25'
+ lastmod: '2018-01-01'
 ---
 
 
 
-## Esta semana relájate un poco geminis, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## Mira geminis, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 
-Te crees que eres débil geminis, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos geminis, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior geminis… Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
-Con Venus trasladándose a tu sector de recreación esta semana, es posible que surjan placenteras opciones de citas y salidas románticas. Este puede ser uno de los mejores momentos para tomar un pequeño descanso de tu ser querido, ya que, si lo haces, tu relación podría pasar al siguiente nivel. Por otro lado, podrías tener un conflicto con una persona controladora o muy persuasiva. Esta es tu oportunidad para ponerte firme y revertir la situación para que esto deje de molestarte.
+Estás activo Cangrejo, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
+Las aventuras relacionadas con viajes podrían ser muy atractivas en este momento. Puede que quieras invitar a un ser querido o a una de tus amistades a que te acompañen, en especial una vez que el sociable Venus ingresa a tu sector de exploración. Esta fase también puede coincidir con tu decisión de emplear los servicios de un consejero de vida o de un maestro que te ayude a aprovechar al máximo tu potencial. Sin embargo, el progreso con respecto a un plan profesional o un proyecto comercial parece muy factible. Como resultado de esto, tus ingresos podrían comenzar a mejorar o a mostrar un repentino aumento.
 
 ## Dinero
 
-Puede que te encuentres expandiendo un negocio establecido desde tu casa en este momento debido a un afortunado aspecto en esta área de tu carta. Si es necesario, convierte una habitación extra en una oficina para que puedas cerrarle la puerta a tu trabajo al final del día. Cierto aspecto ahora te da todo lo que necesitas y mucho más para poner en marcha un nuevo negocio si quieres más libertad en tu vida laboral o para llevar una ya existente a un nivel superior.
+Es posible que te sientas muy especial esta semana. Esta es una semana muy buena para explorar la manera de mejorar tu situación financiera. Los planetas te piden encontrar una nueva forma de utilizar tu creatividad, que pases tiempo con tu familia, hijos y parejas románticas. Has trabajado lo suficientemente duro. Es hora de disfrutar de los frutos de tu trabajo.

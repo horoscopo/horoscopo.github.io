@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 25 de diciembre 2017 al 31 de diciembre 2017 
-description: Horóscopo semanal tauro 25 de diciembre 2017 al 31 de diciembre 2017. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar tauro porque no eres así. 
+title: tauro 01 de enero 2018 al 07 de enero 2018 
+description: Horóscopo semanal tauro 01 de enero 2018 al 07 de enero 2018. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
-facebook:
- instant_article: 'yes'
 horoscopo:
  signo: tauro
- video: opWzXUI53wE
+ video: isJ1-oIc94g
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-25'
+ lastmod: '2018-01-01'
 ---
 
 
 
-## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar tauro porque no eres así. 
+## Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
 
-La zona de confort es un sitio bonito tauro, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más tauro, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto tauro, y tú mismo te lo notas, no la cagues por nada ni por nadie.
-Nuevas aventuras se asoman a medida que el alegre sol ingresa al signo del Arquero, lo que te anima a salir de tu zona de confort y explorar nuevos terrenos. Esta semana es más apacible que la última, aunque podría haber algunos momentos y oportunidades más intensos para la pasión, en especial a principios de esta semana. El nebuloso Neptuno se vuelve directo a mediados de la semana, y esto puede ayudar a aclarar cuestiones que han quedado atrapadas en la confusión. El fin de semana podría encontrarte aprovechando nuevas oportunidades que disfrutes mucho.
+A veces te confundes tauro, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso tauro. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. tauro, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo tauro, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+Mientras que el enérgico Marte continúa su paso por Libra y tu sector de relaciones, esto puede animarte a moderar tus planes para adaptarte a los demás y llegar a un compromiso, cuando sea necesario. Pero con un potente enfoque en tu sector de transformación, podría haber algunos problemas en los que no tienes intención de llegar a un compromiso, ya que hacerlo no estaría en línea con tus más profundos instintos. Si este es el caso, no sientas culpa. Por otro lado, una nueva idea podría dar abundantes frutos.
 
 ## Dinero
 
-Tienes un montón de creatividad ahora, así como un deseo de mejorar tu apariencia y prestar más atención a la forma en la que te proyectas al mundo. Hay impulso a que acudas a las relaciones personales y profesionales que te ayudarán a avanzar en tu trabajo y vida monetaria.
+Es una semana de confusión conforme varios aspectos tensamente chocan en el cielo. Los efectos en tu sector de trabajo infieren que se requiere de más atención antes de que puedas subir de posición y ganar la cantidad de dinero que deseas. Busca programas de educación en los que tu compañía quiera pagar en parte o completamente.

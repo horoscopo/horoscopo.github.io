@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 25 de diciembre 2017 al 31 de diciembre 2017 
-description: Horóscopo semanal cancer 25 de diciembre 2017 al 31 de diciembre 2017. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado cancer, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+title: cancer 01 de enero 2018 al 07 de enero 2018 
+description: Horóscopo semanal cancer 01 de enero 2018 al 07 de enero 2018. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
-facebook:
- instant_article: 'yes'
 horoscopo:
  signo: cancer
- video: oAklWDphkpg
+ video: -JH-Qcb-qM0
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-25'
+ lastmod: '2018-01-01'
 ---
 
 
 
-## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado cancer, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 
-¿Cómo quieres gastar tu vida cancer? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente cancer, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida cancer, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro cancer. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana cancer.
-Con muchas animadas fiestas y reuniones, tu vida social luce particularmente alegre. Para ti, la época de fiestas podría comenzar antes. Aprovéchala y disfrútala al máximo. Un encuentro podría ser muy especial gracias a que el apasionado Plutón enciende una chispa de atracción. Esto podría llevar a una sólida amistad o a algo mucho más romántico. Incluso podría convertirse en un comprensivo lazo comercial. Por otro lado, una lluvia de ideas podría ayudar a que un proyecto familiar progrese.
+Hay cosas que no deben hacer daño cancer, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo cancer, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo cancer, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa cancer, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+Comenzarás a sentirte en tu elemento mientras el Sol se sumerja aún más en tu signo. No será ninguna sorpresa sentir la motivación de afrontar proyectos con los que has estado soñando últimamente. Cualquier cosa que tenga un significado personal podría inspirarte a que des lo mejor de ti. Con la Luna Nueva del 25 de mayo manifestándose en tu signo, esta oportunidad especial te permite empezar de cero en cualquier área que escojas. Hacer una lista de tus objetivos puede ayudarte a que te encamines en la dirección correcta.
 
 ## Dinero
 
-Para ti esta semana es sobre las redes sociales, las cuáles son cada vez más importantes. Tus amigos de verdad te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo un montón de cambios, los cuáles podrían afectar la forma en la que te ves y presentas. Puede que algunos de tus amigos no aprecien este proceso. Sé amable con ellos ya que todavía no entienden a dónde vas y que ellos pueden venir también.
+Estás fomentando la confianza en ti mismo/a y acelerando el gasto alrededor de la familia, el romance, la creatividad y la diversión. Tu interés se despierta en términos del aprendizaje de nuevas habilidades que se pueden aplicar a tu potencial de ingresos. Dado que los aspectos son favorables para ganar dinero y seguridad, estás operando desde una posición de fuerza. Lucha no sólo por disfrutar de tu vida a través del gasto, sino también para invertir lo que puedas para asegurarte de que tu estabilidad se dé a largo plazo.

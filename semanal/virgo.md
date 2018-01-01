@@ -1,30 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 25 de diciembre 2017 al 31 de diciembre 2017 
-description: Horóscopo semanal virgo 25 de diciembre 2017 al 31 de diciembre 2017. Toma decisiones YA, AQUÍ y AHORA virgo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+title: virgo 01 de enero 2018 al 07 de enero 2018 
+description: Horóscopo semanal virgo 01 de enero 2018 al 07 de enero 2018. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
-facebook:
- instant_article: 'yes'
 horoscopo:
  signo: virgo
- video: xkFDABy0JVs
+ video: giBKfEGcDQ0
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-25'
+ lastmod: '2018-01-01'
 ---
 
 
 
-## Toma decisiones YA, AQUÍ y AHORA virgo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 
-No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
-A medida que el encantador Venus, el astro que te rige, ingresa a tu sector financiero, puede que sientas la tentación de darte un gusto con tus lujos preferidos. Y con la época de festividades en marcha, comprarte algunos obsequios parece ser lo natural. Pero tu generosa naturaleza también podría tentarte a gastar en los demás para hacerles felices. Es por esto que tener un presupuesto para esta época del año puede ser tan efectivo, en especial cuando se trata de los gastos del hogar. Con respecto a las relaciones, la compañía de una persona podría ser estimulante.
+Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
+ A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
+Asegúrate de destinar mucho tiempo para ti si tienes plazos con los que debes cumplir. Es mejor no dejar todo para el último momento, siempre y cuando el conversador Mercurio siga en su fase retrógrada. Sin embargo, hay buenas noticias el viernes, cuando Mercurio conjunta a Venus. Esto podría hacer que conectes con una persona que te recuerda a alguien del pasado. Debido a esto, puede que se lleven excepcionalmente bien. La luna nueva del domingo podría coincidir con una oportunidad de oro. ¿La tomarás?
 
 ## Dinero
 
-Hay cierta limitación en tu carrera esta semana. No sólo porque puede que el trabajo que hagas se evapore (sólo un poco), pero también se te podría llamar a asumir una mayor parte de la carga. El Universo está pidiendo que te vuelvas más responsable y con autoridad en esta área. Tus relaciones pueden necesitar un mayor desarrollo antes de que puedan ofrecerte lo que quieres y necesitas de ellas económicamente.
+Te enfrentas a un momento interesante. Por un lado, las redes sociales son cada vez más grandes y más solidarias. Por otro lado, alguien no está siendo totalmente honesto sobre lo que quiere sacar de tu amistad. En lugar de terminar la relación o tomarlo como algo personal, atribúyeselo a tu irresistible forma de vivir la vida. Tal quiere estar cerca de ti porque eres una persona exitosa y puede ser capaz de ayudarte a alcanzar tus sueños.

@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 25 de diciembre 2017 al 31 de diciembre 2017 
-description: Horóscopo semanal sagitario 25 de diciembre 2017 al 31 de diciembre 2017. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+title: sagitario 01 de enero 2018 al 07 de enero 2018 
+description: Horóscopo semanal sagitario 01 de enero 2018 al 07 de enero 2018. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
-facebook:
- instant_article: 'yes'
 horoscopo:
  signo: sagitario
- video: tni6Ki64FcQ
+ video: kzo4dC1d4m0
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2017-12-25'
+ lastmod: '2018-01-01'
 ---
 
 
 
-## En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 
-Tienes conversaciones pendientes sagitario, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad sagitario, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas sagitario, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
-Tu seguridad y coraje pueden aumentar esta semana, ya que una potente mezcla de energías en tu signo te alienta a enfocarte en aquellas actividades que significan más para ti. Si tienes talento para la organización y la gerencia, entonces los próximos días podrían ponerte al mando de un evento clave y animar a otros a involucrarse. Al mismo tiempo, quizás también te beneficies de la oportunidad de relajarte y reflexionar sobre la vida, ya que hacerlo puede permitirte que intuyas cuáles son los cambios que más necesitas hacer.
+Llegan oportunidades grandes sagitario y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias sagitario, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no sagitario, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+Tu vida social puede tener alguna chispa adicional durante las próximas semanas, cuando amenas influencias te llevan a conectar de nuevas formas. Quizás ya hayas hecho un par de amistades nuevas cuando Marte movilizó tus ganas de unirte a grupos o clubs que coinciden con tus intereses clave. Pero un aspecto más incómodo el 28 de mayo sugiere que es mejor manejarte con flexibilidad y obstinación con respecto a una antigua amistad, que podría estar tomando tu actitud de forma un poco demasiado personal.
 
 ## Dinero
 
-Puede que estés reconsiderando tus patrones de gasto conforme los estados de cuenta de tarjetas de crédito llegan esta semana. Si te sorprende lo mucho que has gastado (¿cuánto costaron esos últimos zapatos que compraste?), ¡culpa a los planetas! La ayuda proveniente de tu sector de hogar ya se encuentra en camino. Comenzar un negocio desde casa puede traer el dinero extra que necesitas a corto plazo. ¡Usa tus habilidades!
+Estás en medio de un replanteamiento serio cuando se trata de gastar. Puede que te estés preguntando cómo proteger a tu familia a largo plazo, lo que te podría llevar a considerar la contratación de un asesor financiero u otro experto. Otros miembros de tu tribu pueden tener ideas sorprendentemente buenas acerca de cómo ahorrar e invertir para un futuro compartido. Escucha.
