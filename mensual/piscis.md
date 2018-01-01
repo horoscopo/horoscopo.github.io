@@ -1,17 +1,12 @@
 ---
-layout: horoscopos
-title: Piscis Diciembre 2017 
-description: Horóscopo mensual para piscis diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
+layout: page
+title: Piscis Enero 2018 
 permalink: /horoscopo-mensual/piscis/
-amplink: /horoscopo-mensual/amp/piscis/
-keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2017, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
-horoscopo:
- signo: piscis
- video: 3udTZzaDvxM
+keywords: horóscopo, horóscopo 2018,  Enero, horoscopo Enero,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2018, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-12-01'
+ lastmod: '2018-01-01'
 ---
 
- El trabajo puede intentar apartarte de tu hogar durante la luna llena del 3 de diciembre, pero tú sabes dónde está tu corazón. Incluso si es una anticipada fiesta de fin de año, quizás quieras dejarla pasar. Sal a la luz durante la luna nueva del día 17. La gente quiere estar contigo y hacer lo que estás haciendo. Participa en un evento de caridad de fin de año para niños o ancianos o ambos. Siente el placer de hacer las cosas más simples. La luna forma una conjunción con Neptuno el 24 de diciembre. El corazón de las festividades podría ser el momento más soñado, dulce y hermoso de todos. 
+ ¡Feliz año nuevo! Comienza el año de forma festiva y creativa bajo la luna llena del 1 de enero. Podrías rodearte de personas con ideas grandiosas sobre qué hacer y a dónde ir. Y eso es genial, pero sigue tus propios deseos. La luna nueva del día 16 podría traer muchas caras nuevas a tu vida social. Mantenlo casual, mira cuáles son tus primeras impresiones, y quizás luego haz una selección. El 31 de enero, la segunda luna llena del mes (y eclipse lunar) resalta la buena salud física y mental. Que valorarte y cuidarte sean una prioridad. ¡Lo vales! 

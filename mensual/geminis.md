@@ -1,17 +1,12 @@
 ---
-layout: horoscopos
-title: Geminis Diciembre 2017 
-description: Horóscopo mensual para geminis diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
+layout: page
+title: Geminis Enero 2018 
 permalink: /horoscopo-mensual/geminis/
-amplink: /horoscopo-mensual/amp/geminis/
-keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2017, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
-horoscopo:
- signo: geminis
- video: H5huu1tlBKw
+keywords: horóscopo, horóscopo 2018,  Enero, horoscopo Enero,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2018, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-12-01'
+ lastmod: '2018-01-01'
 ---
 
- Mercurio se torna retrógrado el 2 de diciembre. Tómalo con calma y organízate. La luna llena del 3 de diciembre brilla para ti. Parejas y seres queridos piensan que eres lo máximo, y quieren mostrarte más de su mundo. No tienes que hacer nada especial o inteligente. Piensan que eres una persona encantadora. Solo para que lo sepas. El día 17, la luna nueva podría traer un interés romántico totalmente nuevo, o un cierto romance turbulento podría de repente volverse suave como la seda. Disfruta de todo el trato especial y la atención que recibes. El 22 de diciembre, Mercurio se torna directo justo a tiempo para tener una temporada de festividades más dulce y tranquila. 
+ ¡Feliz año nuevo! La luna llena del 1 de enero ilumina tus finanzas y situación económica. Haz una lista de todas las fuentes de ingresos y recursos que ya tienes, y déjate sorprender gratamente por lo que has pasado por alto. El día 16, la luna nueva te conecta de forma íntima con mucha gente que quiere escuchar lo que tienes para decir. Algunos quizás pidan favores. Sé popular y profesional, y maneja todo con tranquilidad. El 31 de enero, la segunda luna llena (y el eclipse lunar) podría traer apoyo y ayuda de una amistad o persona del vecindario. No necesitarás pedirlos, los recibirás de forma gratuita. 

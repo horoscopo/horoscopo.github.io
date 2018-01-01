@@ -1,17 +1,12 @@
 ---
-layout: horoscopos
-title: Leo Diciembre 2017 
-description: Horóscopo mensual para leo diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
+layout: page
+title: Leo Enero 2018 
 permalink: /horoscopo-mensual/leo/
-amplink: /horoscopo-mensual/amp/leo/
-keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2017, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
-horoscopo:
- signo: leo
- video: 6fa2Bzp6vTc
+keywords: horóscopo, horóscopo 2018,  Enero, horoscopo Enero,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2018, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-12-01'
+ lastmod: '2018-01-01'
 ---
 
- Tu vida social está animada cuando la luna llena aparece el 3 de diciembre, pero puede que sientas más ganas de observar desde las gradas que de participar. Disfruta de ser menos visible y deja que tus amistades presuman un rato. Verlos debería de ser divertido. Durante la luna nueva del día 17, explora tu creatividad para comprar y envolver regalos. Tu cabeza puede entusiasmarse con un millón de regalos espléndidos y personalizados que serían fáciles de hacer, pero cada vez hay menos tiempo. El 21 de diciembre, el sol ingresa a Capricornio y forma una conjunción con Saturno. Sé la persona adulta en la habitación, toma decisiones inteligentes, y hazte respetar. 
+ ¡Feliz año nuevo! La luna llena del 1 de enero sugiere que mantengas un perfil bajo y disfrutes de un buen momento para relajarte intensamente y en privado. Medita sobre cosas importantes. Haz pequeñas cosas en la casa para maximizar la paz y la comodidad. Sé una persona más sana y mejor organizada con la luna nueva del día 16. Haz un leve cambio en tu dieta o en cómo ordenas tu guardarropa. Siéntete mejor sobre todas las cosas y continúa desde allí. La segunda luna llena del mes, el 31 de enero, es un eclipse lunar en el nodo lunar norte. Mantente alerta sobre un giro kármico de eventos que te cuide y apoye. 

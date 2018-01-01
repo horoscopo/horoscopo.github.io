@@ -1,17 +1,12 @@
 ---
-layout: horoscopos
-title: Cancer Diciembre 2017 
-description: Horóscopo mensual para cancer diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
+layout: page
+title: Cancer Enero 2018 
 permalink: /horoscopo-mensual/cancer/
-amplink: /horoscopo-mensual/amp/cancer/
-keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2017, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
-horoscopo:
- signo: cancer
- video: jMO9x-ohbqk
+keywords: horóscopo, horóscopo 2018,  Enero, horoscopo Enero,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2018, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-12-01'
+ lastmod: '2018-01-01'
 ---
 
- Tal vez todo lo que deseas es tener un momento de tranquilidad cuando la luna llena aparece el 3 de diciembre. Los planes de las festividades están comenzando a ponerse serios y una crisis laboral también podría suceder. Cuídate y no te agotes. El día 6, Mercurio y Marte forman un sextil cuando la luna se encuentra en Cáncer. Sé una persona astuta, motivada y sensible. La luna nueva del 17 de diciembre te muestra que todo se pondrá perfectamente en su lugar. Los quehaceres diarios están hechos, el gato está alimentado, y nadie se siente ignorado. De forma inesperada, puede que te ofrezcan una mano amiga. Acepta y agradece. 
+ ¡Feliz año nuevo! La luna llena del 1 de enero te permite confrontar lo que sea que te ha estado molestando o reteniendo. Tienes aliados y colaboradores poderosos, algunos que jamás pensaste siquiera que les agradabas. ¡Sé fuerte! Quiere y déjate querer durante la luna nueva del día 16. Piensa y siente mucho amor. Un gran cambio positivo podría suceder para mejorar o comenzar una relación. Este no es momento para tener timidez o miedo de los cambios radicales. El 31 de enero trae una segunda luna llena (y eclipse lunar) que podría darle vuelta un asunto de dinero para aumentar tus ingresos o reducir tus gastos. 

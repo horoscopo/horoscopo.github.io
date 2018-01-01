@@ -1,17 +1,12 @@
 ---
-layout: horoscopos
-title: Tauro Diciembre 2017 
-description: Horóscopo mensual para tauro diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
+layout: page
+title: Tauro Enero 2018 
 permalink: /horoscopo-mensual/tauro/
-amplink: /horoscopo-mensual/amp/tauro/
-keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2017, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
-horoscopo:
- signo: tauro
- video: 6gCKyWuojs0
+keywords: horóscopo, horóscopo 2018,  Enero, horoscopo Enero,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2018, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-12-01'
+ lastmod: '2018-01-01'
 ---
 
- La luna llena del 3 de diciembre podría poner dinero en tu camino. Podría venir desde lejos o incluso de gente que apenas conoces. También puede traer consigo una gran cantidad de consejos, pero tú sabes muy bien lo que quieres. Tienes todas las respuestas durante la luna nueva del día 17. Una gran variedad de personas y problemas pueden acudir a ti en busca de soluciones, y tú las tendrás. También te resultará fácil. Diviértete actuando como la persona experta que eres. La conjunción entre Venus y Saturno del 25 de diciembre brinda tranquilidad a los agitados días que has tenido. Aprecia tener noticias de familiares de mayor edad y viejas amistades. 
+ ¡Feliz año nuevo! El 1 de enero, amistades y gente del vecindario están a tu lado durante la luna llena. A medida que el mes avanza, también hay varias amistades nuevas para hacer, muchas de ellas de lugares lejanos. La luna nueva del día 16 podría expandir tu mundo de una forma increíble. El interés más inusual podría prosperar al máximo, y presentarte a una persona emocionante o una posibilidad inimaginable. Ábrete a las posibilidades. El 31 de enero, la segunda luna llena del mes (y el eclipse lunar) enriquece tu vida doméstica. Establece un vínculo con un miembro de tu familia y observa todo lo que tienen en común. 

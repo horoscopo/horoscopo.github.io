@@ -1,17 +1,12 @@
 ---
-layout: horoscopos
-title: Virgo Diciembre 2017 
-description: Horóscopo mensual para acuario diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
+layout: page
+title: Virgo Enero 2018 
 permalink: /horoscopo-mensual/virgo/
-amplink: /horoscopo-mensual/amp/virgo/
-keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2017, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
-horoscopo:
- signo: virgo
- video: 2YzIbL8owt4
+keywords: horóscopo, horóscopo 2018,  Enero, horoscopo Enero,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2018, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-12-01'
+ lastmod: '2018-01-01'
 ---
 
- La fase retrógrada de Mercurio comienza el 2 de diciembre. Presiona el botón de “pausa” y no dejes que las festividades te pasen por encima. Podría ser difícil concentrarte en tu trabajo durante la luna llena del día 3, pero lo lograrás. Estás haciendo cosas interesantes y es un descanso agradable de toda la locura festiva que hay en el hogar. La luna nueva del 17 de diciembre se trata de tener una vida doméstica y familiar cálida y reconfortante. Quizás es la promesa de tus comidas y golosinas preferidas. Reúnete con familiares o amistades que hayas visto poco este año. Estar juntos será algo positivo para todos. Mercurio se torna directo el día 22, cuando todo se vuelve más fácil. 
+ ¡Feliz año nuevo! Tu vida social se desborda de emoción durante la luna llena del 1 de enero. No necesitarás tomar ninguna decisión para pasar un gran rato, excepto quizás sobre qué ropa ponerte. Tal vez quieras rechazar amablemente algunas invitaciones. La luna nueva del día 16 podría hacer que sea difícil decidir qué sería lo más divertido y gratificante para hacer. Hazle caso a tu primer impulso y no mires atrás. El 31 de enero, la segunda luna llena (y eclipse lunar) te da tiempo para reflexionar sobre aquellas cosas que más te importan. Descubrirás maneras de volverte una persona más eficiente y empática. 

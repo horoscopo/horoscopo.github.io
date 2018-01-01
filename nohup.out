@@ -514,3 +514,737 @@ Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.
 Using category: Entertainment (id=24)
 Start upload: piscis.avi
 Video URL: https://www.youtube.com/watch?v=T7SiYKXqL30
+To https://github.com/horoscopo/horoscopo.github.io.git
+   5101c7e9..9f7f8849  master -> master
+http://horoscoponegro.com/horoscopo-cancer-semanal-del-1-al-7-de-enero-de-2018/
+No se pudo descargar cancer de horoscopo-negro
+http://horoscoponegro.com/horoscopo-geminis-semanal-del-1-al-7-de-enero-de-2018/
+No se pudo descargar geminis de horoscopo-negro
+http://horoscoponegro.com/horoscopo-piscis-semanal-del-1-al-7-de-enero-de-2018/
+No se pudo descargar piscis de horoscopo-negro
+http://horoscoponegro.com/horoscopo-leo-semanal-del-1-al-7-de-enero-de-2018/
+No se pudo descargar leo de horoscopo-negro
+http://horoscoponegro.com/horoscopo-sagitario-semanal-del-1-al-7-de-enero-de-2018/
+No se pudo descargar sagitario de horoscopo-negro
+http://horoscoponegro.com/horoscopo-virgo-semanal-del-1-al-7-de-enero-de-2018/
+No se pudo descargar virgo de horoscopo-negro
+http://horoscoponegro.com/horoscopo-libra-semanal-del-1-al-7-de-enero-de-2018/
+No se pudo descargar libra de horoscopo-negro
+http://horoscoponegro.com/horoscopo-tauro-semanal-del-1-al-7-de-enero-de-2018/
+No se pudo descargar tauro de horoscopo-negro
+http://horoscoponegro.com/horoscopo-aries-semanal-del-1-al-7-de-enero-de-2018/
+http://horoscoponegro.com/horoscopo-escorpio-semanal-del-1-al-7-de-enero-de-2018/
+No se pudo descargar escorpio de horoscopo-negro
+http://horoscoponegro.com/horoscopo-capricornio-semanal-del-1-al-7-de-enero-de-2018/
+No se pudo descargar capricornio de horoscopo-negro
+http://horoscoponegro.com/horoscopo-acuario-semanal-del-1-al-7-de-enero-de-2018/
+No se pudo descargar acuario de horoscopo-negro
+01
+date: fecha inválida «%Y%m%d»
+--2018-01-01 12:56:54--  http://www.horoscopo.com/horoscopo-mensual-gratis-aries.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 88716 (87K) [text/html]
+Grabando a: “aries.html”
+
+     0K .......... .......... .......... .......... .......... 57%  155K 0s
+    50K .......... .......... .......... ......               100%  454K=0,4s
+
+2018-01-01 12:56:55 (214 KB/s) - “aries.html” guardado [88716/88716]
+
+¡Feliz año nuevo! La luna llena del 1 de enero inunda tu hogar y vida familiar de amor y devoción. Puede que haya roces, pero eso es solo porque todos se preocupan tanto por los demás. Da las gracias. El día 16, la luna nueva podría abrirte una puerta en tu vida profesional o pública. Serás la persona más inteligente, responsable, respetada y encantadora de la sala. Ten respeto por tus capacidades y toma por las astas una oportunidad apropiada. El 31 de enero, una segunda luna nueva (y eclipse lunar) te lleva a ser una persona más creativa y juguetona. Olvídate del potencial para ganar dinero, cuida tus gastos, y luego libera a tu artista interior.
+rm: no se puede borrar 'aries.wav': No existe el fichero o el directorio
+50.6
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'aries.wav':
+  Duration: 00:00:50.60, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/aries.jpg':
+  Duration: 00:00:02.02, start: 0.000000, bitrate: 375 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.49 fps, 0.49 tbr, 0.49 tbn, 0.49 tbc
+[swscaler @ 0x561fb660c920] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'aries.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     582kB time=00:00:37.00 bitrate= 128.9kbits/s speed=73.6x    frame=   52 fps=0.0 q=2.0 Lsize=     958kB time=00:00:52.00 bitrate= 151.0kbits/s speed=  73x    
+video:766kB audio:148kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.815785%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: aries.avi
+Video URL: https://www.youtube.com/watch?v=Z6337qTBsCI
+Z6337qTBsCI
+date: fecha inválida «%Y%m%d»
+--2018-01-01 13:01:58--  http://www.horoscopo.com/horoscopo-mensual-gratis-tauro.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 88386 (86K) [text/html]
+Grabando a: “tauro.html”
+
+     0K .......... .......... .......... .......... .......... 57%  154K 0s
+    50K .......... .......... .......... ......               100%  450K=0,4s
+
+2018-01-01 13:01:58 (213 KB/s) - “tauro.html” guardado [88386/88386]
+
+¡Feliz año nuevo! El 1 de enero, amistades y gente del vecindario están a tu lado durante la luna llena. A medida que el mes avanza, también hay varias amistades nuevas para hacer, muchas de ellas de lugares lejanos. La luna nueva del día 16 podría expandir tu mundo de una forma increíble. El interés más inusual podría prosperar al máximo, y presentarte a una persona emocionante o una posibilidad inimaginable. Ábrete a las posibilidades. El 31 de enero, la segunda luna llena del mes (y el eclipse lunar) enriquece tu vida doméstica. Establece un vínculo con un miembro de tu familia y observa todo lo que tienen en común.
+rm: no se puede borrar 'tauro.wav': No existe el fichero o el directorio
+46.872
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'tauro.wav':
+  Duration: 00:00:46.87, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/tauro.jpg':
+  Duration: 00:00:01.87, start: 0.000000, bitrate: 392 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.53 fps, 0.53 tbr, 0.53 tbn, 0.53 tbc
+[swscaler @ 0x55a0117cbda0] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'tauro.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     569kB time=00:00:37.00 bitrate= 125.9kbits/s speed=72.6x    frame=   48 fps=0.0 q=2.0 Lsize=     777kB time=00:00:48.00 bitrate= 132.7kbits/s speed=72.2x    
+video:598kB audio:138kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 5.639327%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: tauro.avi
+Video URL: https://www.youtube.com/watch?v=xQAJH3k8eRY
+xQAJH3k8eRY
+date: fecha inválida «%Y%m%d»
+--2018-01-01 13:07:33--  http://www.horoscopo.com/horoscopo-mensual-gratis-geminis.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 88295 (86K) [text/html]
+Grabando a: “geminis.html”
+
+     0K .......... .......... .......... .......... .......... 57%  155K 0s
+    50K .......... .......... .......... ......               100%  449K=0,4s
+
+2018-01-01 13:07:34 (214 KB/s) - “geminis.html” guardado [88295/88295]
+
+¡Feliz año nuevo! La luna llena del 1 de enero ilumina tus finanzas y situación económica. Haz una lista de todas las fuentes de ingresos y recursos que ya tienes, y déjate sorprender gratamente por lo que has pasado por alto. El día 16, la luna nueva te conecta de forma íntima con mucha gente que quiere escuchar lo que tienes para decir. Algunos quizás pidan favores. Sé popular y profesional, y maneja todo con tranquilidad. El 31 de enero, la segunda luna llena (y el eclipse lunar) podría traer apoyo y ayuda de una amistad o persona del vecindario. No necesitarás pedirlos, los recibirás de forma gratuita.
+rm: no se puede borrar 'geminis.wav': No existe el fichero o el directorio
+46.332
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'geminis.wav':
+  Duration: 00:00:46.33, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/geminis.jpg':
+  Duration: 00:00:01.85, start: 0.000000, bitrate: 424 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.54 fps, 0.54 tbr, 0.54 tbn, 0.54 tbc
+[swscaler @ 0x5628414556c0] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'geminis.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   36 fps=0.0 q=2.0 size=     601kB time=00:00:36.00 bitrate= 136.8kbits/s speed=71.3x    frame=   48 fps=0.0 q=2.0 Lsize=     825kB time=00:00:48.00 bitrate= 140.8kbits/s speed=71.1x    
+video:648kB audio:136kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 5.248637%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: geminis.avi
+Video URL: https://www.youtube.com/watch?v=OFcz_7CNE2E
+OFcz_7CNE2E
+date: fecha inválida «%Y%m%d»
+--2018-01-01 13:12:36--  http://www.horoscopo.com/horoscopo-mensual-gratis-cancer.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 88607 (87K) [text/html]
+Grabando a: “cancer.html”
+
+     0K .......... .......... .......... .......... .......... 57%  154K 0s
+    50K .......... .......... .......... ......               100%  452K=0,4s
+
+2018-01-01 13:12:37 (214 KB/s) - “cancer.html” guardado [88607/88607]
+
+¡Feliz año nuevo! La luna llena del 1 de enero te permite confrontar lo que sea que te ha estado molestando o reteniendo. Tienes aliados y colaboradores poderosos, algunos que jamás pensaste siquiera que les agradabas. ¡Sé fuerte! Quiere y déjate querer durante la luna nueva del día 16. Piensa y siente mucho amor. Un gran cambio positivo podría suceder para mejorar o comenzar una relación. Este no es momento para tener timidez o miedo de los cambios radicales. El 31 de enero trae una segunda luna llena (y eclipse lunar) que podría darle vuelta un asunto de dinero para aumentar tus ingresos o reducir tus gastos.
+rm: no se puede borrar 'cancer.wav': No existe el fichero o el directorio
+47.272
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'cancer.wav':
+  Duration: 00:00:47.27, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/cancer.jpg':
+  Duration: 00:00:01.89, start: 0.000000, bitrate: 399 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.53 fps, 0.53 tbr, 0.53 tbn, 0.53 tbc
+[swscaler @ 0x558e578e7740] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'cancer.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     589kB time=00:00:37.00 bitrate= 130.4kbits/s speed=72.2x    frame=   49 fps=0.0 q=1.6 Lsize=     956kB time=00:00:49.00 bitrate= 159.9kbits/s speed=71.6x    
+video:776kB audio:139kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.571039%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: cancer.avi
+Video URL: https://www.youtube.com/watch?v=l3eFXpR-KkQ
+l3eFXpR-KkQ
+date: fecha inválida «%Y%m%d»
+--2018-01-01 13:17:47--  http://www.horoscopo.com/horoscopo-mensual-gratis-leo.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 88316 (86K) [text/html]
+Grabando a: “leo.html”
+
+     0K .......... .......... .......... .......... .......... 57%  154K 0s
+    50K .......... .......... .......... ......               100%  448K=0,4s
+
+2018-01-01 13:17:48 (213 KB/s) - “leo.html” guardado [88316/88316]
+
+¡Feliz año nuevo! La luna llena del 1 de enero sugiere que mantengas un perfil bajo y disfrutes de un buen momento para relajarte intensamente y en privado. Medita sobre cosas importantes. Haz pequeñas cosas en la casa para maximizar la paz y la comodidad. Sé una persona más sana y mejor organizada con la luna nueva del día 16. Haz un leve cambio en tu dieta o en cómo ordenas tu guardarropa. Siéntete mejor sobre todas las cosas y continúa desde allí. La segunda luna llena del mes, el 31 de enero, es un eclipse lunar en el nodo lunar norte. Mantente alerta sobre un giro kármico de eventos que te cuide y apoye.
+rm: no se puede borrar 'leo.wav': No existe el fichero o el directorio
+45.444
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'leo.wav':
+  Duration: 00:00:45.44, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/leo.jpg':
+  Duration: 00:00:01.82, start: 0.000000, bitrate: 410 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.55 fps, 0.55 tbr, 0.55 tbn, 0.55 tbc
+[swscaler @ 0x55b522622300] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'leo.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   36 fps=0.0 q=2.0 size=     575kB time=00:00:36.00 bitrate= 130.7kbits/s speed=71.9x    frame=   47 fps=0.0 q=2.0 Lsize=     783kB time=00:00:47.00 bitrate= 136.5kbits/s speed=71.5x    
+video:609kB audio:133kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 5.465494%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: leo.avi
+Video URL: https://www.youtube.com/watch?v=gWDPEl5riiY
+gWDPEl5riiY
+date: fecha inválida «%Y%m%d»
+--2018-01-01 13:22:51--  http://www.horoscopo.com/horoscopo-mensual-gratis-virgo.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 88550 (86K) [text/html]
+Grabando a: “virgo.html”
+
+     0K .......... .......... .......... .......... .......... 57%  154K 0s
+    50K .......... .......... .......... ......               100%  447K=0,4s
+
+2018-01-01 13:22:51 (213 KB/s) - “virgo.html” guardado [88550/88550]
+
+¡Feliz año nuevo! Tu vida social se desborda de emoción durante la luna llena del 1 de enero. No necesitarás tomar ninguna decisión para pasar un gran rato, excepto quizás sobre qué ropa ponerte. Tal vez quieras rechazar amablemente algunas invitaciones. La luna nueva del día 16 podría hacer que sea difícil decidir qué sería lo más divertido y gratificante para hacer. Hazle caso a tu primer impulso y no mires atrás. El 31 de enero, la segunda luna llena (y eclipse lunar) te da tiempo para reflexionar sobre aquellas cosas que más te importan. Descubrirás maneras de volverte una persona más eficiente y empática.
+rm: no se puede borrar 'virgo.wav': No existe el fichero o el directorio
+46.568
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'virgo.wav':
+  Duration: 00:00:46.57, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/virgo.jpg':
+  Duration: 00:00:01.86, start: 0.000000, bitrate: 411 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.54 fps, 0.54 tbr, 0.54 tbn, 0.54 tbc
+[swscaler @ 0x562029e40ce0] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'virgo.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     592kB time=00:00:37.00 bitrate= 131.0kbits/s speed=72.8x    frame=   48 fps=0.0 q=2.0 Lsize=     808kB time=00:00:48.00 bitrate= 137.8kbits/s speed=72.5x    
+video:630kB audio:137kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 5.390308%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: virgo.avi
+Video URL: https://www.youtube.com/watch?v=xIhWZTL1_LY
+xIhWZTL1_LY
+date: fecha inválida «%Y%m%d»
+--2018-01-01 13:27:54--  http://www.horoscopo.com/horoscopo-mensual-gratis-libra.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 87824 (86K) [text/html]
+Grabando a: “libra.html”
+
+     0K .......... .......... .......... .......... .......... 58%  155K 0s
+    50K .......... .......... .......... .....                100%  443K=0,4s
+
+2018-01-01 13:27:55 (212 KB/s) - “libra.html” guardado [87824/87824]
+
+¡Feliz año nuevo! La luna llena del 1 de enero ilumina tus emprendimientos profesionales y públicos. Ya estás en el centro de atención, así que sácale el mayor provecho. Deja que los eventos de cierre de festividades te conecten con personas más influyentes. Con la luna nueva del día 16, enfrenta el mayor proyecto o problema en casa y sigue adelante. Nadie puede frenarte. El 31 de enero, la segunda luna llena del mes (y eclipse lunar) afecta tu vida social, clubs y grupos. Podrías unirte a un grupo que cambie todo en tu vida. Incluso podrías sentarte en la banca principal y ser la luz que guía a los demás.
+rm: no se puede borrar 'libra.wav': No existe el fichero o el directorio
+46.804
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'libra.wav':
+  Duration: 00:00:46.80, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/libra.jpg':
+  Duration: 00:00:01.87, start: 0.000000, bitrate: 398 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.53 fps, 0.53 tbr, 0.53 tbn, 0.53 tbc
+[swscaler @ 0x55b24304d240] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'libra.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     578kB time=00:00:37.00 bitrate= 128.1kbits/s speed=73.9x    frame=   48 fps=0.0 q=2.0 Lsize=     789kB time=00:00:48.00 bitrate= 134.7kbits/s speed=73.8x    
+video:610kB audio:137kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 5.549750%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: libra.avi
+Video URL: https://www.youtube.com/watch?v=m4e4qJHuGgg
+m4e4qJHuGgg
+date: fecha inválida «%Y%m%d»
+--2018-01-01 13:32:58--  http://www.horoscopo.com/horoscopo-mensual-gratis-escorpion.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 89041 (87K) [text/html]
+Grabando a: “escorpion.html”
+
+     0K .......... .......... .......... .......... .......... 57%  155K 0s
+    50K .......... .......... .......... ......               100%  459K=0,4s
+
+2018-01-01 13:32:59 (216 KB/s) - “escorpion.html” guardado [89041/89041]
+
+¡Feliz año nuevo! Declara tu independencia y reclama más espacio personal y tiempo bajo la luna llena del 1 de enero. Tanto amistades como familiares tienen muchos planes geniales, pero tu mundo será mayor y más rico cuando te enfoques en ti. Amistades y gente del vecindario pueden distraerte durante la luna nueva del día 16. Disfruta del contacto social y no te preocupes por agotar tu energía. Ahora tienes bastante. El 31 de enero, una segunda luna nueva (y eclipse lunar) podrían presentarte una oportunidad profesional que está destinada a mejorar tu posición y reputación. Mira más allá de tus inseguridades inmediatas y haz lo correcto.
+rm: no se puede borrar 'escorpio.wav': No existe el fichero o el directorio
+48.116
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'escorpio.wav':
+  Duration: 00:00:48.12, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/escorpio.jpg':
+  Duration: 00:00:01.92, start: 0.000000, bitrate: 404 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.52 fps, 0.52 tbr, 0.52 tbn, 0.52 tbc
+[swscaler @ 0x56030101b260] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'escorpio.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     596kB time=00:00:37.00 bitrate= 132.0kbits/s speed=72.7x    frame=   49 fps=0.0 q=1.6 Lsize=     972kB time=00:00:49.00 bitrate= 162.5kbits/s speed=71.7x    
+video:788kB audio:141kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.553763%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: escorpio.avi
+Video URL: https://www.youtube.com/watch?v=6uRc91vkflQ
+6uRc91vkflQ
+date: fecha inválida «%Y%m%d»
+--2018-01-01 13:38:01--  http://www.horoscopo.com/horoscopo-mensual-gratis-sagitario.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 88477 (86K) [text/html]
+Grabando a: “sagitario.html”
+
+     0K .......... .......... .......... .......... .......... 57%  154K 0s
+    50K .......... .......... .......... ......               100%  449K=0,4s
+
+2018-01-01 13:38:02 (213 KB/s) - “sagitario.html” guardado [88477/88477]
+
+¡Feliz año nuevo! Durante la luna llena del 1 de enero, relájate y tómate tu tiempo para poner tus prioridades en orden. Puedes oír muchos consejos y sugerencias, pero tú sabes lo que es mejor para ti. Mantén tus propias necesidades primeras en la lista. La luna nueva del día 16 pone oportunidades financieras en tu camino. Esa conversación casual que tienes en la cafetería podría llevar a cosas más grandes y rentables. El 31 de enero, una segunda luna llena (y un eclipse lunar) podría transformar una situación negativa en una positiva, lo que favorece oportunidades para todos los involucrados.
+rm: no se puede borrar 'sagitario.wav': No existe el fichero o el directorio
+45.66
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'sagitario.wav':
+  Duration: 00:00:45.66, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/sagitario.jpg':
+  Duration: 00:00:01.83, start: 0.000000, bitrate: 383 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.55 fps, 0.55 tbr, 0.55 tbn, 0.55 tbc
+[swscaler @ 0x55bd48b02c20] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'sagitario.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   38 fps=0.0 q=2.0 size=     644kB time=00:00:38.00 bitrate= 138.9kbits/s speed=75.9x    frame=   47 fps=0.0 q=2.0 Lsize=     701kB time=00:00:47.00 bitrate= 122.3kbits/s speed=74.4x    
+video:527kB audio:134kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 6.161673%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: sagitario.avi
+Video URL: https://www.youtube.com/watch?v=XECrvYhBY9k
+XECrvYhBY9k
+date: fecha inválida «%Y%m%d»
+--2018-01-01 13:43:11--  http://www.horoscopo.com/horoscopo-mensual-gratis-capricornio.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 88847 (87K) [text/html]
+Grabando a: “capricornio.html”
+
+     0K .......... .......... .......... .......... .......... 57%  154K 0s
+    50K .......... .......... .......... ......               100%  455K=0,4s
+
+2018-01-01 13:43:12 (214 KB/s) - “capricornio.html” guardado [88847/88847]
+
+¡Feliz año nuevo! La luna llena del 1 de enero está llena de amor y romance. Aprovecha al máximo la temporada de festividades para hacer que entre más amor a tu vida. Tal vez sientes que tienes demasiadas ocupaciones y distracciones, pero no pases por alto a alguien realmente especial que podría aparecer ahora. La luna nueva del día 16 tiene encanto de sobra. Si hay algo que has estado queriendo decir, no importa lo difícil que sea, ahora sería un buen momento para hablar y luego escuchar un sí. El 31 de enero, durante la segunda luna llena de este mes (y eclipse lunar), podrías consciente o inconscientemente hacer una gran diferencia en la vida de alguien.
+rm: no se puede borrar 'capricornio.wav': No existe el fichero o el directorio
+47.752
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'capricornio.wav':
+  Duration: 00:00:47.75, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/capricornio.jpg':
+  Duration: 00:00:01.91, start: 0.000000, bitrate: 373 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.52 fps, 0.52 tbr, 0.52 tbn, 0.52 tbc
+[swscaler @ 0x55a0edb10260] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'capricornio.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   38 fps=0.0 q=2.0 size=     655kB time=00:00:38.00 bitrate= 141.1kbits/s speed=  75x    frame=   49 fps=0.0 q=1.6 Lsize=     848kB time=00:00:49.00 bitrate= 141.8kbits/s speed=74.3x    
+video:666kB audio:140kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 5.222851%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: capricornio.avi
+Video URL: https://www.youtube.com/watch?v=cWvmOxK_khk
+cWvmOxK_khk
+date: fecha inválida «%Y%m%d»
+--2018-01-01 13:48:18--  http://www.horoscopo.com/horoscopo-mensual-gratis-acuario.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 88660 (87K) [text/html]
+Grabando a: “acuario.html”
+
+     0K .......... .......... .......... .......... .......... 57%  154K 0s
+    50K .......... .......... .......... ......               100%  453K=0,4s
+
+2018-01-01 13:48:18 (214 KB/s) - “acuario.html” guardado [88660/88660]
+
+¡Feliz año nuevo! El 1 de enero, la luna llena quiere que estés saludable y feliz en todas las pequeñas cosas que haces día a día. Aprecia algo pequeño, ya sea una planta que florece en tu casa o una nueva taza para el café, y date cuenta de que, en realidad, que sea pequeño no significa que sea insignificante. La luna nueva del día 16 te promete un tiempo de descanso en privado muy enriquecedor. Úsalo con discreción, a solas o con algunas personas cercanas especiales, y adopta perspectivas que pueden mejorar el resto de tu año. El 31 de enero, la segunda luna llena del mes (y el eclipse lunar) está cargada de amor y afecto. Puede que no aparezca tu alma gemela, pero es una posibilidad.
+rm: no se puede borrar 'acuario.wav': No existe el fichero o el directorio
+51.7
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'acuario.wav':
+  Duration: 00:00:51.70, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/acuario.jpg':
+  Duration: 00:00:02.07, start: 0.000000, bitrate: 349 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.48 fps, 0.48 tbr, 0.48 tbn, 0.48 tbc
+[swscaler @ 0x55ae0d4fd7c0] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'acuario.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     531kB time=00:00:37.00 bitrate= 117.5kbits/s speed=72.6x    frame=   53 fps=0.0 q=2.0 Lsize=     879kB time=00:00:53.00 bitrate= 135.9kbits/s speed=72.3x    
+video:683kB audio:152kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 5.368860%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: acuario.avi
+Video URL: https://www.youtube.com/watch?v=3cbxN2aQwvo
+3cbxN2aQwvo
+date: fecha inválida «%Y%m%d»
+--2018-01-01 13:53:21--  http://www.horoscopo.com/horoscopo-mensual-gratis-piscis.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 88433 (86K) [text/html]
+Grabando a: “piscis.html”
+
+     0K .......... .......... .......... .......... .......... 57%  154K 0s
+    50K .......... .......... .......... ......               100%  449K=0,4s
+
+2018-01-01 13:53:22 (213 KB/s) - “piscis.html” guardado [88433/88433]
+
+¡Feliz año nuevo! Comienza el año de forma festiva y creativa bajo la luna llena del 1 de enero. Podrías rodearte de personas con ideas grandiosas sobre qué hacer y a dónde ir. Y eso es genial, pero sigue tus propios deseos. La luna nueva del día 16 podría traer muchas caras nuevas a tu vida social. Mantenlo casual, mira cuáles son tus primeras impresiones, y quizás luego haz una selección. El 31 de enero, la segunda luna llena del mes (y eclipse lunar) resalta la buena salud física y mental. Que valorarte y cuidarte sean una prioridad. ¡Lo vales!
+rm: no se puede borrar 'piscis.wav': No existe el fichero o el directorio
+43.38
+ffmpeg version 3.2.9-1~deb9u1 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Guessed Channel Layout for Input Stream #0.0 : mono
+Input #0, wav, from 'piscis.wav':
+  Duration: 00:00:43.38, bitrate: 256 kb/s
+    Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+Input #1, image2, from 'zodiac/piscis.jpg':
+  Duration: 00:00:01.74, start: 0.000000, bitrate: 416 kb/s
+    Stream #1:0: Video: mjpeg, yuvj420p(pc, bt470bg/unknown/unknown), 1200x720 [SAR 90:90 DAR 5:3], 0.58 fps, 0.58 tbr, 0.58 tbn, 0.58 tbc
+[swscaler @ 0x5628a4d3f760] deprecated pixel format used, make sure you did set range correctly
+Output #0, avi, to 'piscis.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1280x720 [SAR 15:16 DAR 5:3], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 16000 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (mjpeg (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (pcm_s16le (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=   37 fps=0.0 q=1.6 size=     535kB time=00:00:37.00 bitrate= 118.4kbits/s speed=73.4x    frame=   45 fps=0.0 q=2.0 Lsize=     718kB time=00:00:45.00 bitrate= 130.7kbits/s speed=73.5x    
+video:552kB audio:127kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 5.767732%
+Using client secrets: /usr/local/share/youtube_upload/client_secrets.json
+Using credentials file: /home/arielbmx/horoscopo-del-dia.com/youtube-credential.json
+Using category: Entertainment (id=24)
+Start upload: piscis.avi
+Video URL: https://www.youtube.com/watch?v=XHOQ2xROQmY
+XHOQ2xROQmY

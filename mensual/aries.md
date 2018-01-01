@@ -1,17 +1,12 @@
 ---
-layout: horoscopos
-title: Aries Diciembre 2017 
-description: Horóscopo mensual para aries diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
+layout: page
+title: Aries Enero 2018 
 permalink: /horoscopo-mensual/aries/
-amplink: /horoscopo-mensual/amp/aries/
-keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2017, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
-horoscopo:
- signo: aries
- video: _EO-MK8zaOs
+keywords: horóscopo, horóscopo 2018,  Enero, horoscopo Enero,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2018, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-12-01'
+ lastmod: '2018-01-01'
 ---
 
- Relájate con tus amistades favoritas alrededor de la luna llena del 3 de diciembre. Tal vez un montón de cosas emocionantes, exóticas y entretenidas se te hagan disponibles, pero a veces es mejor simplemente relajarte con tus personas preferidas. Durante la luna nueva del día 17, puede que el mundo sea demasiado pequeño para ti. Deja que las personas te rodeen, e intenta absorber su entusiasmo y sus alocadas y maravillosas ideas. Se trata de algo más que la temporada de festividades. Es una explosión de amor por la vida. El trígono que Marte forma con Neptuno el 27 de diciembre hace que el fin de año se llene de un poco de magia emotiva para ti y para alguien especial. 
+  ¡Feliz año nuevo! La luna llena del 1 de enero inunda tu hogar y vida familiar de amor y devoción. Puede que haya roces, pero eso es solo porque todos se preocupan tanto por los demás. Da las gracias. El día 16, la luna nueva podría abrirte una puerta en tu vida profesional o pública. Serás la persona más inteligente, responsable, respetada y encantadora de la sala. Ten respeto por tus capacidades y toma por las astas una oportunidad apropiada. El 31 de enero, una segunda luna nueva (y eclipse lunar) te lleva a ser una persona más creativa y juguetona. Olvídate del potencial para ganar dinero, cuida tus gastos, y luego libera a tu artista interior. 

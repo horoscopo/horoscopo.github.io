@@ -1,17 +1,12 @@
 ---
-layout: horoscopos
-title: Escorpio Diciembre 2017 
-description: Horóscopo mensual para escorpio diciembre 2017. Las predicciones de amor, trabajo, vida personal gratis.
+layout: page
+title: Escorpio Enero 2018 
 permalink: /horoscopo-mensual/escorpio/
-amplink: /horoscopo-mensual/amp/escorpio/
-keywords: horóscopo, horóscopo 2017,  Diciembre, horoscopo Diciembre,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2017, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
-horoscopo:
- signo: escorpio
- video: 24SyY13Qoc4
+keywords: horóscopo, horóscopo 2018,  Enero, horoscopo Enero,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2018, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2017-12-01'
+ lastmod: '2018-01-01'
 ---
 
- No permitas que la luna llena del 3 de diciembre te dé una sensación de inseguridad. Mucha gente te respalda, y tienes recursos que están completamente pasados por alto. De hecho, ahora estás en excelente forma. Marte entra a Escorpión el día 9. Siéntete con fuerza y energía, y ten todo preparado antes de tiempo. Dale una mano a tus amistades o familiares. El dinero es un asunto importante durante la luna nueva del 17 de diciembre. Fácilmente podrías gastar demasiado. Al mismo tiempo, podrías recibir un generoso e inesperado regalo. No esperes nada, sé amable y mira qué sucede. Los astros están planeando tesoros para ti. 
+ ¡Feliz año nuevo! Declara tu independencia y reclama más espacio personal y tiempo bajo la luna llena del 1 de enero. Tanto amistades como familiares tienen muchos planes geniales, pero tu mundo será mayor y más rico cuando te enfoques en ti. Amistades y gente del vecindario pueden distraerte durante la luna nueva del día 16. Disfruta del contacto social y no te preocupes por agotar tu energía. Ahora tienes bastante. El 31 de enero, una segunda luna nueva (y eclipse lunar) podrían presentarte una oportunidad profesional que está destinada a mejorar tu posición y reputación. Mira más allá de tus inseguridades inmediatas y haz lo correcto. 
