@@ -1248,3 +1248,176 @@ Using category: Entertainment (id=24)
 Start upload: piscis.avi
 Video URL: https://www.youtube.com/watch?v=XHOQ2xROQmY
 XHOQ2xROQmY
+[master cf3ae6f5] cfg
+ 13 files changed, 878 insertions(+), 204 deletions(-)
+ rewrite mensual/acuario.md (92%)
+ rewrite mensual/aries.md (92%)
+ rewrite mensual/cancer.md (92%)
+ rewrite mensual/capricornio.md (92%)
+ rewrite mensual/escorpio.md (92%)
+ rewrite mensual/geminis.md (92%)
+ rewrite mensual/leo.md (92%)
+ rewrite mensual/libra.md (93%)
+ rewrite mensual/piscis.md (92%)
+ rewrite mensual/sagitario.md (92%)
+ rewrite mensual/tauro.md (92%)
+ rewrite mensual/virgo.md (93%)
+To https://github.com/horoscopo/horoscopo.github.io.git
+   9f7f8849..cf3ae6f5  master -> master
+Branch master set up to track remote branch master from origin.
+--2018-01-01 13:58:27--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-rata.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 101201 (99K) [text/html]
+Grabando a: “rata.html”
+
+     0K .......... .......... .......... .......... .......... 50%  155K 0s
+    50K .......... .......... .......... .......... ........  100%  604K=0,4s
+
+2018-01-01 13:58:27 (244 KB/s) - “rata.html” guardado [101201/101201]
+
+--2018-01-01 13:58:27--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-buey.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 101211 (99K) [text/html]
+Grabando a: “buey.html”
+
+     0K .......... .......... .......... .......... .......... 50%  154K 0s
+    50K .......... .......... .......... .......... ........  100%  603K=0,4s
+
+2018-01-01 13:58:28 (244 KB/s) - “buey.html” guardado [101211/101211]
+
+--2018-01-01 13:58:28--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-tigre.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 101241 (99K) [text/html]
+Grabando a: “tigre.html”
+
+     0K .......... .......... .......... .......... .......... 50%  155K 0s
+    50K .......... .......... .......... .......... ........  100%  602K=0,4s
+
+2018-01-01 13:58:29 (244 KB/s) - “tigre.html” guardado [101241/101241]
+
+Traceback (most recent call last):
+  File "todb", line 14, in <module>
+    cur.execute(query)
+sqlite3.OperationalError: near "continuará": syntax error
+--2018-01-01 13:58:29--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-liebre.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 101630 (99K) [text/html]
+Grabando a: “liebre.html”
+
+     0K .......... .......... .......... .......... .......... 50%  154K 0s
+    50K .......... .......... .......... .......... ......... 100%  606K=0,4s
+
+2018-01-01 13:58:29 (244 KB/s) - “liebre.html” guardado [101630/101630]
+
+--2018-01-01 13:58:29--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-dragon.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 101707 (99K) [text/html]
+Grabando a: “dragon.html”
+
+     0K .......... .......... .......... .......... .......... 50%  155K 0s
+    50K .......... .......... .......... .......... ......... 100%  616K=0,4s
+
+2018-01-01 13:58:30 (246 KB/s) - “dragon.html” guardado [101707/101707]
+
+--2018-01-01 13:58:30--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-serpiente.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 101257 (99K) [text/html]
+Grabando a: “serpiente.html”
+
+     0K .......... .......... .......... .......... .......... 50%  153K 0s
+    50K .......... .......... .......... .......... ........  100%  600K=0,4s
+
+2018-01-01 13:58:30 (243 KB/s) - “serpiente.html” guardado [101257/101257]
+
+--2018-01-01 13:58:30--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-caballo.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 101766 (99K) [text/html]
+Grabando a: “caballo.html”
+
+     0K .......... .......... .......... .......... .......... 50%  154K 0s
+    50K .......... .......... .......... .......... ......... 100%  610K=0,4s
+
+2018-01-01 13:58:31 (246 KB/s) - “caballo.html” guardado [101766/101766]
+
+Traceback (most recent call last):
+  File "todb", line 14, in <module>
+    cur.execute(query)
+sqlite3.OperationalError: near "espera": syntax error
+--2018-01-01 13:58:31--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-cabra.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 101391 (99K) [text/html]
+Grabando a: “cabra.html”
+
+     0K .......... .......... .......... .......... .......... 50%  154K 0s
+    50K .......... .......... .......... .......... ......... 100%  603K=0,4s
+
+2018-01-01 13:58:32 (244 KB/s) - “cabra.html” guardado [101391/101391]
+
+--2018-01-01 13:58:32--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-mono.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 100928 (99K) [text/html]
+Grabando a: “mono.html”
+
+     0K .......... .......... .......... .......... .......... 50%  155K 0s
+    50K .......... .......... .......... .......... ........  100%  600K=0,4s
+
+2018-01-01 13:58:32 (244 KB/s) - “mono.html” guardado [100928/100928]
+
+--2018-01-01 13:58:32--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-gallo.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 101769 (99K) [text/html]
+Grabando a: “gallo.html”
+
+     0K .......... .......... .......... .......... .......... 50%  155K 0s
+    50K .......... .......... .......... .......... ......... 100%  612K=0,4s
+
+2018-01-01 13:58:33 (246 KB/s) - “gallo.html” guardado [101769/101769]
+
+Traceback (most recent call last):
+  File "todb", line 14, in <module>
+    cur.execute(query)
+sqlite3.OperationalError: near "arriesgarse": syntax error
+--2018-01-01 13:58:33--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-perro.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 100823 (98K) [text/html]
+Grabando a: “perro.html”
+
+     0K .......... .......... .......... .......... .......... 50%  155K 0s
+    50K .......... .......... .......... .......... ........  100%  599K=0,4s
+
+2018-01-01 13:58:33 (244 KB/s) - “perro.html” guardado [100823/100823]
+
+--2018-01-01 13:58:34--  http://www.horoscopo.com/horoscopo-chino-mensual-gratis-cerdo.html
+Resolviendo www.horoscopo.com (www.horoscopo.com)... 204.10.228.230
+Conectando con www.horoscopo.com (www.horoscopo.com)[204.10.228.230]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 101581 (99K) [text/html]
+Grabando a: “cerdo.html”
+
+     0K .......... .......... .......... .......... .......... 50%  155K 0s
+    50K .......... .......... .......... .......... ......... 100%  608K=0,4s
+
+2018-01-01 13:58:34 (245 KB/s) - “cerdo.html” guardado [101581/101581]
+
