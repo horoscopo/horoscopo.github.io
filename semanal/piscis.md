@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 01 de enero 2018 al 07 de enero 2018 
-description: Horóscopo semanal piscis 01 de enero 2018 al 07 de enero 2018. Vienen emociones fuertes piscis, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+title: piscis 08 de enero 2018 al 14 de enero 2018 
+description: Horóscopo semanal piscis 08 de enero 2018 al 14 de enero 2018. Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: T7SiYKXqL30
+ video: wiTttDl7lu0
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-01'
+ lastmod: '2018-01-08'
 ---
 
 
 
-## Vienen emociones fuertes piscis, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+## Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto piscis? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito piscis. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-Mientras el espíritu festivo brilla, sigue habiendo actividad en casa que conlleve a importantes discusiones. Puede que debas volver a considerar una decisión que involucra a otros familiares. Debido a que el discreto Venus está involucrado, podrías descubrir que los demás responden favorablemente a cualquier cambio. Además, esta puede ser una época de reuniones. Se siente bien volver a conectar con aquellas personas que no ves hace algún tiempo. Finalmente, el animado aspecto entre el sol y el eléctrico Urano podría hacer que te beneficies de un inesperado obsequio.
+La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón piscis, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
+Tanto el trabajo como la diversión tienen prioridad en tu agenda esta semana con el vivaz Marte animándote a exhibir tus mejores habilidades e incursionar en tus pasatiempos preferidos. Las actividades diarias también pueden ser una gran fuente de placer, en especial si estás considerando expandir tus opciones. Una adorable alineación entre el lujurioso Venus y el ostentoso Júpiter sugiere que una reunión podría presentarte una oportunidad demasiado buena como para dejarla pasar. Durante el fin de semana, tener límites firmes pueden ayudar a esquivar cualquier batalla de poder.
 
 ## Dinero
 
-Ahora es más fácil que te llegue dinero y que también lo ahorres o gastes de la misma manera. Te estás dando cuenta de lo mucho que tu trabajo realmente vale la pena y eres lo suficientemente valiente como para cargar con consecuencia. El Universo destaca tu hogar y emociones internas. ¿Cómo puedes liberarte de tus viejos patrones en cuanto a dinero para poder saldar tu deuda?
+Eres una fuente inagotable de expresión personal. Tu individualidad, en particular, es importante ahora. Los aspectos apoyan esta posición, afectando a las actividades familiares, el romance, los niños y la diversión. La forma en la que llevas esto, para bien o para mal, puede marcar la diferencia entre el recibir aceptación o no. ¡Empieza con tu mejor pie! Mientras tanto, piensa en lo que tienes que dejar ir. ¿Realmente necesitas esas botas que has tenido desde 1992?

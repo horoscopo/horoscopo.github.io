@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 01 de enero 2018 al 07 de enero 2018 
-description: Horóscopo semanal sagitario 01 de enero 2018 al 07 de enero 2018. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: sagitario 08 de enero 2018 al 14 de enero 2018 
+description: Horóscopo semanal sagitario 08 de enero 2018 al 14 de enero 2018. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: kzo4dC1d4m0
+ video: MLgZvD-HTI4
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-01'
+ lastmod: '2018-01-08'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 
-Llegan oportunidades grandes sagitario y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias sagitario, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no sagitario, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
-Tu vida social puede tener alguna chispa adicional durante las próximas semanas, cuando amenas influencias te llevan a conectar de nuevas formas. Quizás ya hayas hecho un par de amistades nuevas cuando Marte movilizó tus ganas de unirte a grupos o clubs que coinciden con tus intereses clave. Pero un aspecto más incómodo el 28 de mayo sugiere que es mejor manejarte con flexibilidad y obstinación con respecto a una antigua amistad, que podría estar tomando tu actitud de forma un poco demasiado personal.
+Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
+Es momento de tomar en serio tu salud y tu rutina de bienestar. La Luna Nueva de esta semana en este sector podría coincidir con un fuerte deseo de cumplir con tus metas con respecto a dieta y ejercicio. Este también es un buen momento para esto, ya que podrías tener más posibilidades de cumplirlas. El regreso de Venus a tu sector de romance podría hacer que tengas una relación mucho mejor con alguien de la que tenían en el pasado. Su relación podría florecer en las próximas semanas, lo que podría ser muy satisfactorio.
 
 ## Dinero
 
-Estás en medio de un replanteamiento serio cuando se trata de gastar. Puede que te estés preguntando cómo proteger a tu familia a largo plazo, lo que te podría llevar a considerar la contratación de un asesor financiero u otro experto. Otros miembros de tu tribu pueden tener ideas sorprendentemente buenas acerca de cómo ahorrar e invertir para un futuro compartido. Escucha.
+Esta semana tienes una gran cantidad de impulso para atraer más lana. Es posible que solo se trate de que tu ambición esté llegando a la superficie conforme los demás te ven como la persona exitosa en la que estás en proceso de convertirte. Podría haber cierta tensión con colegas o conocidos sociales. Sólo asegúrate de que no apostar la granja.

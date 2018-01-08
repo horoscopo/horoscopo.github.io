@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 01 de enero 2018 al 07 de enero 2018 
-description: Horóscopo semanal leo 01 de enero 2018 al 07 de enero 2018. 
+title: leo 08 de enero 2018 al 14 de enero 2018 
+description: Horóscopo semanal leo 08 de enero 2018 al 14 de enero 2018. No desaproveches las oportunidades más leo, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: fO4HQvoODOg
+ video: vnKehCjULfk
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-01'
+ lastmod: '2018-01-08'
 ---
 
 
 
-## 
+## No desaproveches las oportunidades más leo, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
 
-Nunca te has arrepentido de nada leo, para bien o para mal la vida te ha dado lecciones en las que no te ha quedado más remedio que aprender. Estás en una fase en la que tus pensamientos se vuelven a pelear entre ellos. Lo que deberías hacer, lo que quieres hacer, lo que el mundo espera que hagas… Otra vez. Piensa antes de nada en lo que vas a perder antes de actuar y de tomar una decisión, pero tampoco busques hasta la más mínima excusa para no hacerlo. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos leo. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad. Métete en la cabeza que puedes hacer absolutamente todo lo que te propongas solo, sin necesidad de que nadie te nuble el juicio, sin necesidad de que nadie te vuelva loco. La vida va a empezar a enseñarte quien merece la pena, quién no merece que se acerque a ti más de cinco minutos al día y quien no merece que se acerque nunca. Pero primero eres tú, en eso es en lo que tienes que trabajar más, en valorarte a ti mismo, en confiar en ti, en tus instintos, en tus objetivos, en saber que lo que hagas saldrá bien, de verdad. Tú no necesitas ejemplos de nadie, cada uno vive su vida como le apetece y si a alguien no le salieron las cosas como esperaba no significa que a ti no te vayan a salir, deja el miedo a un lado y sobretodo la dependencia emocional. Aunque sea una dependencia mínima. Vuelve a ser la persona que siempre has sido.
-Si estás de ánimo para una revolución, puede ser debido a potentes energías en tu sector de recreación. Esta dinámica influencia puede darle un impulso a tu confianza y hacerte sentir que puedes conquistar el mundo. La autoexpresión también es muy importante. Si tienes ganas de comenzar un pasatiempo o explorar un deporte u otro interés, este es el momento de hacerlo. Además, una convincente oferta podría ser motivo para colaborar con alguien en un importante proyecto.
+Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capri, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
+Puede que debas usar tus poderes de persuasión para convencer a tu familia de que tus ideas no tienen malas intenciones. Con el sol y el amoroso Venus alineándose con el apasionado Plutón, puede que otras personas tengan sus propios planes y esto podría demorar los tuyos. Después de todo, quizá debas poner tus ideas en marcha para mostrarles que hablas en serio. Una vez que lo entiendan, puede que te apoyen por completo. Trata de ser flexible con tus planes sociales durante el fin de semana.
 
 ## Dinero
 
-El crecimiento y la suerte pueden ampliar tus posibilidades, así que asegúrate de mantenerte al tanto con tu programa de ejercicios. También se extenderá tu influencia en el mundo. Tienes el oído de tus superiores en el trabajo, así que asegúrate de programar reuniones regulares para mantenerte al tanto con ellos. Mientras tanto, tu vida social se acelera, por lo que es un buen momento para conocer gente nueva, conocer colegas y mejores mentores. Hay poder en tus relaciones.
+Es posible  que esta semana desees hacer algunas mejoras en el hogar o incluso entrar en el mercado de bienes raíces. Antes de convertirte en agente profesional de bienes raíces, pesa los pros y los contras de este tipo de inversiones. Querer hacer valer tu voluntad podría darte demasiada confianza en lo que respecta a la negociación. Asegúrate de tener todos los hechos, aunque se necesita tiempo para investigar posibles compras.

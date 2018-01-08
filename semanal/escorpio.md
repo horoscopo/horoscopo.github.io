@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 01 de enero 2018 al 07 de enero 2018 
-description: Horóscopo semanal escorpio 01 de enero 2018 al 07 de enero 2018. La vida es un ciclo #SIGNO, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
+title: escorpio 08 de enero 2018 al 14 de enero 2018 
+description: Horóscopo semanal escorpio 08 de enero 2018 al 14 de enero 2018. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así escorpio, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: tY_HxMgWyZM
+ video: MOVeCVPD_EY
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-01'
+ lastmod: '2018-01-08'
 ---
 
 
 
-## La vida es un ciclo #SIGNO, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
+## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así escorpio, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 
-En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien escorpio…
-Alguien de tu círculo social podría sentir celos de ti y demostrarlo en los próximos días. Trata de no tomártelo a pecho, ya que la falta de confianza puede estar provocando estas reacciones en esta persona. Si pueden hablar sobre esto, podrías descubrir el motivo más profundo y ayudar a resolver el problema. Mientras tanto, un bonito aspecto podría animarte a recibir más visitas y disfrutar de esto. Una fiesta el 8 de julio podría ser bastante divertida.
+Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa escorpio, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
+Nuevas oportunidades seguirán viniendo durante semanas, incluso meses, pero puede que durante esta semana las cosas den un giro inesperado. Quizá te des cuenta de que se abren nuevos caminos por la influencia de ciertos eventos o el aliento de otra persona. De hecho, tus amistades y tus seres queridos pueden ser clave para empujarte hacia nuevas aventuras. Sin embargo, a medida que el amoroso Venus se alinea con el apasionado Plutón, no trates de hacer que las cosas pasen. Deja que todo fluya. 
 
 ## Dinero
 
-A veces puedes tener demasiada timidez para la confrontación. Es posible que ésta semana sientas aún más preocupación por llevarte bien con todos. Tu situación financiera florece positivamente. Con tanta energía concentrada allí, estás logrando todo tipo de avances en la obtención de ingresos, el pago de deudas,  y el ahorro. Ves que es más valioso compartir momentos de amor con tus hijos y miembros de tu familia que gastar.
+No podrías ser más social en estos momentos aunque trataras, y esto va a ayudarle a tu trabajo a obtener la atención de las personas que te pueden ayudarte a avanzar. Asiste a eventos de trabajo y amplia tu red social tanto como sea posible. Al mismo tiempo, mejora tus habilidades de comunicación para obtener el tipo de dinero que quieres y necesitas de ciertos trabajos o tareas independientes.

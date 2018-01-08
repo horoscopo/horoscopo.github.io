@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: tauro 01 de enero 2018 al 07 de enero 2018 
-description: Horóscopo semanal tauro 01 de enero 2018 al 07 de enero 2018. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+title: tauro 08 de enero 2018 al 14 de enero 2018 
+description: Horóscopo semanal tauro 08 de enero 2018 al 14 de enero 2018. Empieza a hacerte promesas a ti mismo tauro, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: isJ1-oIc94g
+ video: NBldHUYriOs
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-01'
+ lastmod: '2018-01-08'
 ---
 
 
 
-## Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+## Empieza a hacerte promesas a ti mismo tauro, empieza a prometerte amor propio, hoy y siempre. 
 
-A veces te confundes tauro, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso tauro. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. tauro, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo tauro, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
-Mientras que el enérgico Marte continúa su paso por Libra y tu sector de relaciones, esto puede animarte a moderar tus planes para adaptarte a los demás y llegar a un compromiso, cuando sea necesario. Pero con un potente enfoque en tu sector de transformación, podría haber algunos problemas en los que no tienes intención de llegar a un compromiso, ya que hacerlo no estaría en línea con tus más profundos instintos. Si este es el caso, no sientas culpa. Por otro lado, una nueva idea podría dar abundantes frutos.
+Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
+ En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
+Con una luna llena en tu sector de relaciones, el 1 de enero podría ser una ocasión muy sincera y conmovedora. Puede que sientas una fuerte conexión con tu familia y las personas que más quieres y esto podría dejarte bastante sensible. Al mismo tiempo, tendrás ganar de poner en marcha proyectos importantes y te entusiasmarán las posibilidades que surgirán. Tu vida social se enciende de una manera muy positiva. Cuando el dinámico Marte se alinea con el alegre Júpiter el 6 de enero, un encuentro podría hacerte sentir bien.
 
 ## Dinero
 
-Es una semana de confusión conforme varios aspectos tensamente chocan en el cielo. Los efectos en tu sector de trabajo infieren que se requiere de más atención antes de que puedas subir de posición y ganar la cantidad de dinero que deseas. Busca programas de educación en los que tu compañía quiera pagar en parte o completamente.
+Cierta actividad en tu sector de inversiones compartidas y propiedad sólo puede significar una cosa. Lo que posees puede llegar a la subasta conforme tratas de recaudar algo del dinero que necesitas. Asegúrate de que tú y tu pareja estén al tanto de los detalles de la venta, ya que es posible que las consecuencias sean demasiado graves como para arriesgar más. Tanto tu pareja como tu familia están contando en que tomarás las decisiones correctas.

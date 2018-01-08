@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 01 de enero 2018 al 07 de enero 2018 
-description: Horóscopo semanal geminis 01 de enero 2018 al 07 de enero 2018. Mira geminis, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+title: geminis 08 de enero 2018 al 14 de enero 2018 
+description: Horóscopo semanal geminis 08 de enero 2018 al 14 de enero 2018. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies geminis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres geminis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: iAuL3nVUc6k
+ video: 4E8Av4xlVtE
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-01'
+ lastmod: '2018-01-08'
 ---
 
 
 
-## Mira geminis, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies geminis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres geminis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 
-Estás activo Cangrejo, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
-Las aventuras relacionadas con viajes podrían ser muy atractivas en este momento. Puede que quieras invitar a un ser querido o a una de tus amistades a que te acompañen, en especial una vez que el sociable Venus ingresa a tu sector de exploración. Esta fase también puede coincidir con tu decisión de emplear los servicios de un consejero de vida o de un maestro que te ayude a aprovechar al máximo tu potencial. Sin embargo, el progreso con respecto a un plan profesional o un proyecto comercial parece muy factible. Como resultado de esto, tus ingresos podrían comenzar a mejorar o a mostrar un repentino aumento.
+Hace mucho tiempo que no te das un buen capricho geminis, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes geminis. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
+Los viajes y emprendimientos educativos podrían resultarte muy atractivos, en especial porque puede que tengas grandes deseos de expandir tus horizontes. Es un buen momento para dejar que tu curiosidad te lleve a nuevas e interesantes aventuras. Puede que también tengas algunas dudas que hagan que pongas el freno. Posiblemente, esto se debe a la fase retrógrada del curioso Mercurio. Las palabras de una de tus sabias amistades pueden ser de utilidad en este momento, lo que te inspira de muchas maneras.
 
 ## Dinero
 
-Es posible que te sientas muy especial esta semana. Esta es una semana muy buena para explorar la manera de mejorar tu situación financiera. Los planetas te piden encontrar una nueva forma de utilizar tu creatividad, que pases tiempo con tu familia, hijos y parejas románticas. Has trabajado lo suficientemente duro. Es hora de disfrutar de los frutos de tu trabajo.
+Si has estado teniendo la intención de poner tus cuentas en orden, este es un buen momento para hacerlo. Tu sector de deuda y el dinero de los demás es el más afectado. Si estás tratando de recaudar dinero para una nueva idea de negocio, es un buen momento para hacerlo. El Universo se está centrando en los procesos, tales como solicitudes de préstamos, y asegurándose de que las respuestas que recibas sean positivas. Pon tal dinero a buen uso.

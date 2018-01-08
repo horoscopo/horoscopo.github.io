@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: cancer 01 de enero 2018 al 07 de enero 2018 
-description: Horóscopo semanal cancer 01 de enero 2018 al 07 de enero 2018. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+title: cancer 08 de enero 2018 al 14 de enero 2018 
+description: Horóscopo semanal cancer 08 de enero 2018 al 14 de enero 2018. Quita importancia a las cosas cancer, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: -JH-Qcb-qM0
+ video: nTjiPUc6fKA
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-01'
+ lastmod: '2018-01-08'
 ---
 
 
 
-## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+## Quita importancia a las cosas cancer, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 
-Hay cosas que no deben hacer daño cancer, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo cancer, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo cancer, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa cancer, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
-Comenzarás a sentirte en tu elemento mientras el Sol se sumerja aún más en tu signo. No será ninguna sorpresa sentir la motivación de afrontar proyectos con los que has estado soñando últimamente. Cualquier cosa que tenga un significado personal podría inspirarte a que des lo mejor de ti. Con la Luna Nueva del 25 de mayo manifestándose en tu signo, esta oportunidad especial te permite empezar de cero en cualquier área que escojas. Hacer una lista de tus objetivos puede ayudarte a que te encamines en la dirección correcta.
+Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
+Cuando te sientas mal, tira de memoria cancer y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
+Los problemas más profundos de la vida podrían seguir estando en tu mente e incentivar conversaciones con aquellas personas que consideras confiables asesores o confidentes. Puede que tengas ganas de que se produzcan algunos cambios; sin embargo, mientras el animado Mercurio continúa en su fase retrógrada, es posible que debas reflexionar, en especial cuando conecte con el sol el martes. Y si bien tu vida social luce muy prometedora, puede que sientas que debes reflexionar y actuar sobre las cuestiones que harán que tu vida avance.
 
 ## Dinero
 
-Estás fomentando la confianza en ti mismo/a y acelerando el gasto alrededor de la familia, el romance, la creatividad y la diversión. Tu interés se despierta en términos del aprendizaje de nuevas habilidades que se pueden aplicar a tu potencial de ingresos. Dado que los aspectos son favorables para ganar dinero y seguridad, estás operando desde una posición de fuerza. Lucha no sólo por disfrutar de tu vida a través del gasto, sino también para invertir lo que puedas para asegurarte de que tu estabilidad se dé a largo plazo.
+Esta semana puede dar lugar a algunas ideas nuevas e interesantes que pueden proporcionarte el impulso y los medios para comenzar un negocio en el hogar. Desde la venta de cosas en línea al  desarrollo de un portal virtual de asistencia, estás definitivamente motivado/a. Debido a que tu sector de sueños también se ve afectado, presta atención a lo que tus sueños te están diciendo. Te están conduciendo en la dirección financiera adecuada.
