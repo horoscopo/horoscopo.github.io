@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 08 de enero 2018 al 14 de enero 2018 
-description: Horóscopo semanal geminis 08 de enero 2018 al 14 de enero 2018. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies geminis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres geminis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+title: geminis 15 de enero 2018 al 21 de enero 2018 
+description: Horóscopo semanal geminis 15 de enero 2018 al 21 de enero 2018. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: 4E8Av4xlVtE
+ video: ciRmL2WVGyE
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-08'
+ lastmod: '2018-01-15'
 ---
 
 
 
-## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies geminis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres geminis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 
-Hace mucho tiempo que no te das un buen capricho geminis, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes geminis. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
-Los viajes y emprendimientos educativos podrían resultarte muy atractivos, en especial porque puede que tengas grandes deseos de expandir tus horizontes. Es un buen momento para dejar que tu curiosidad te lleve a nuevas e interesantes aventuras. Puede que también tengas algunas dudas que hagan que pongas el freno. Posiblemente, esto se debe a la fase retrógrada del curioso Mercurio. Las palabras de una de tus sabias amistades pueden ser de utilidad en este momento, lo que te inspira de muchas maneras.
+Te van a echar de menos geminis, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio geminis, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
+Hacer que alguien vea las cosas a tu manera puede no ser fácil al principio de la semana, a menos que puedas ponerte en sus zapatos. Aunque es posible llegar a un acuerdo, puede parecer que cedes demasiado a menos que puedas encontrar una muy buena razón para hacerlo. La buena noticia es que el afortunado Júpiter entra a tu sector de recursos compartidos y transformación el jueves, lo que aumenta las oportunidades con respecto a los negocios y a mejorar tus ingresos. También es beneficioso para los asuntos de entrenamiento y asesoramiento personal.
 
 ## Dinero
 
-Si has estado teniendo la intención de poner tus cuentas en orden, este es un buen momento para hacerlo. Tu sector de deuda y el dinero de los demás es el más afectado. Si estás tratando de recaudar dinero para una nueva idea de negocio, es un buen momento para hacerlo. El Universo se está centrando en los procesos, tales como solicitudes de préstamos, y asegurándose de que las respuestas que recibas sean positivas. Pon tal dinero a buen uso.
+Es necesario el llegar a tener mucha más apertura y comunicación en el trabajo. Otros pueden estar contando contigo para obtener información que necesitan para realizar sus diversas funciones, así que asegúrate de no descuidar los e-mails o mensajes. El Universo te da aún más razones para hablar desde el corazón sobre lo que necesitas, tanto en el trabajo como en tu vida personal.

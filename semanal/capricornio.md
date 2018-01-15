@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 08 de enero 2018 al 14 de enero 2018 
-description: Horóscopo semanal capricornio 08 de enero 2018 al 14 de enero 2018. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya capricornio. Muévete o haz que se mueva el resto.
+title: capricornio 15 de enero 2018 al 21 de enero 2018 
+description: Horóscopo semanal capricornio 15 de enero 2018 al 21 de enero 2018. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: 4YN0BrcTrWQ
+ video: 6orxFO9pP2c
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-08'
+ lastmod: '2018-01-15'
 ---
 
 
 
-## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya capricornio. Muévete o haz que se mueva el resto.
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-El guerrero Marte continúa su viaje a través de tu sector de viajes y nuevas experiencias, por lo tanto, el deseo de aprender algo nuevo para tu beneficio puede ser bastante fuerte. Puede que te enfoques firmemente en el futuro y en lo que puedes hacer para que sea emocionante y valga la pena. Debes dedicarle esfuerzo a tus relaciones esta semana y el Eclipse Lunar en Leo podría hacer aflorar tus emociones. Este puede ser un buen momento para que resuelvas los problemas más delicados.
+Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo.
+Si bien Marte en Escorpión hace que tengas tendencia a cuidar de tu salud, también tienes ganas de poner en orden tus finanzas. Es momento de saldar deudas, organizar planes de pago y ponerte al día con tus objetivos financieros. La gran noticia es que Saturno ingresa a Capricornio y a tu sector de recursos compartidos el 19 de diciembre. Como resultado de esto, puede que decidas ser más responsable acerca de tus asuntos financieros y tener la determinación de que tu dinero te rinda más, en especial durante los próximos meses.
 
 ## Dinero
 
-Es hora de pensar cómo es que puedes contactar a otros para obtener información adicional sobre tu situación financiera. Con cierta actividad en tu sector del dinero y valores, es imperativo que comuniques tus necesidades, así como tus metas. Las formas en las que solías pensar acerca del dinero en general ya no son sustentables. El cambio es necesario para que puedas seguir adelante y obtener más prosperidad.
+Puede que te percates de que te estás dando más golpes de pecho de los que deberías. En lugar de añadir a las recientes decepciones con autocríticas innecesarias, ve dónde radica realmente la culpa. Es posible que te sientas más estable que nunca, y eso puede ayudarte a hacer tus próximos movimientos. Un buen movimiento sería enlistar el apoyo financiero de amigos, familiares, colegas y mentores.

@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 08 de enero 2018 al 14 de enero 2018 
-description: Horóscopo semanal virgo 08 de enero 2018 al 14 de enero 2018. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+title: virgo 15 de enero 2018 al 21 de enero 2018 
+description: Horóscopo semanal virgo 15 de enero 2018 al 21 de enero 2018. Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte virgo, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: Rb8V8ND8piA
+ video: GD4BiP6wQkc
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-08'
+ lastmod: '2018-01-15'
 ---
 
 
 
-## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+## Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte virgo, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 
-Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
-Con Mercurio, el planeta de la mente y la comunicación, regresando a tu signo, el pasado puede reaparecer en el presente. Puedes sentir la motivación de organizar una reunión, o podrías encontrarte con viejas amistades o incluso un viejo amor de forma inesperada. Pero también podrías verte en la tentación de escapar de tanta rutina y hacer algo un poco diferente, como salir de viaje o disfrutar de un tiempo a solas. Y si te lo propones, una gran idea podría resultar exitosa.
+Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver virgo, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
+ hasta que empieces a sentir que realmente merece la pena.
+Ha llegado el momento de permitir que tu lado más juguetón salga a la luz. Si has mantenido tu agenda ocupada con responsabilidades, el escenario estelar podría llevarte a explorar tu relación con tu ser interior y pasar algo de tiempo enfocándote en ti. Intenta involucrarte en actividades liberadoras y terapéuticas. Pintar, dibujar, jugar con colores y materiales brillantes, o usar plumas y lentejuelas puede desencadenar un remolino de creatividad, y tal vez encuentres que esto también se extiende a otras áreas de tu vida.
 
 ## Dinero
 
-Este período es sobre profesión y figuras de autoridad. Es posible que hayas seguido los pasos de alguien durante mucho tiempo sólo para darte cuenta de que ahora tienes el mismo o un mayor nivel de experiencia que él o ella. Es hora de que asumas un nuevo rol en tu vida y aceptes el salario que va con ello. Cuando lo hagas, te convertirás en todo lo que has admirado desde siempre.
+Gracias a los aspectos armoniosos, sientes especialmente apoyo por parte del Universo. Toda esa energía que golpea ahora tu sector de niños, familia, romance y diversión, le hace un excelente momento para sentarte con tu pareja y planear un futuro compartido. Desde los ahorros que han hecho desde la universidad hasta cuentas de ahorro para la jubilación, cada quién tendrá una idea diferente sobre cómo proceder. Pero hay tanta creatividad y buena voluntad que será difícil tener malas discusiones.

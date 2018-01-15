@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: leo 08 de enero 2018 al 14 de enero 2018 
-description: Horóscopo semanal leo 08 de enero 2018 al 14 de enero 2018. No desaproveches las oportunidades más leo, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
+title: leo 15 de enero 2018 al 21 de enero 2018 
+description: Horóscopo semanal leo 15 de enero 2018 al 21 de enero 2018. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: vnKehCjULfk
+ video: MIsoPXUE6vQ
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-08'
+ lastmod: '2018-01-15'
 ---
 
 
 
-## No desaproveches las oportunidades más leo, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
+## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 
-Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capri, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
-Puede que debas usar tus poderes de persuasión para convencer a tu familia de que tus ideas no tienen malas intenciones. Con el sol y el amoroso Venus alineándose con el apasionado Plutón, puede que otras personas tengan sus propios planes y esto podría demorar los tuyos. Después de todo, quizá debas poner tus ideas en marcha para mostrarles que hablas en serio. Una vez que lo entiendan, puede que te apoyen por completo. Trata de ser flexible con tus planes sociales durante el fin de semana.
+A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
+ nada es para siempre, ni siquiera los problemas ni las preocupaciones…
+Podrían surgir situaciones que parecen estar fuera de tu control esta semana, e incluso puede parecer que el destino está interviniendo en ellas. ¿Qué deberías hacer al respecto? El contexto estelar sugiere que es momento para reflexionar sobre tus motivos y sentimientos con respecto a áreas clave de tu vida, ya que podrían tener un rol inconsciente en distintos aspectos. También puede que sea útil quitar algunos compromisos de tu agenda y pasar más tiempo en compañía de tus buenas amistades.
 
 ## Dinero
 
-Es posible  que esta semana desees hacer algunas mejoras en el hogar o incluso entrar en el mercado de bienes raíces. Antes de convertirte en agente profesional de bienes raíces, pesa los pros y los contras de este tipo de inversiones. Querer hacer valer tu voluntad podría darte demasiada confianza en lo que respecta a la negociación. Asegúrate de tener todos los hechos, aunque se necesita tiempo para investigar posibles compras.
+Es necesario utilizar emociones constructivamente sobre una base regular. Si haces algo creativo para ganarte la vida, este es el equilibrio perfecto entre el arte y el comercio, porque ahora el Universo te apoya. Con cierta actividad en el área que rige la educación superior, los viajes y la espiritualidad, es el momento de mirar al exterior para generar oportunidades de dinero tan pronto como sea posible.

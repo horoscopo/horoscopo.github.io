@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: piscis 08 de enero 2018 al 14 de enero 2018 
-description: Horóscopo semanal piscis 08 de enero 2018 al 14 de enero 2018. Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+title: piscis 15 de enero 2018 al 21 de enero 2018 
+description: Horóscopo semanal piscis 15 de enero 2018 al 21 de enero 2018. Vamos piscis, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: wiTttDl7lu0
+ video: 7HNsTYIzBJo
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-08'
+ lastmod: '2018-01-15'
 ---
 
 
 
-## Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+## Vamos piscis, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón piscis, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
-Tanto el trabajo como la diversión tienen prioridad en tu agenda esta semana con el vivaz Marte animándote a exhibir tus mejores habilidades e incursionar en tus pasatiempos preferidos. Las actividades diarias también pueden ser una gran fuente de placer, en especial si estás considerando expandir tus opciones. Una adorable alineación entre el lujurioso Venus y el ostentoso Júpiter sugiere que una reunión podría presentarte una oportunidad demasiado buena como para dejarla pasar. Durante el fin de semana, tener límites firmes pueden ayudar a esquivar cualquier batalla de poder.
+Estás bien aquí, estás bien allí, y en cuanto las cosas se complican un poquito, por poco que sea, huyes. Está bien que vivas de esas manera, buscando en realidad cualquier lugar que te de felicidad, cualquier momento sea cual sea y donde sea. Pero 
+ un poquito de ella.
+A medida que el enérgico Marte continúa su camino por tu sector de bienestar, tendrás ganas de explorar las últimas ideas sobre ejercicios. Sin embargo, trata de no tener grandes expectativas al comienzo. Trabaja lentamente para llegar a tus metas y así obtendrás mejores resultados. En general, las relaciones resplandecen de promesas, tanto si estás buscando el amor como si te encuentras en una relación a largo plazo. Un extraño problema podría llegar a un punto culminante a lo largo del fin de semana, lo que necesitará un cuidadoso manejo. Sin embargo, la luna nueva en tu sector de relaciones indica un nuevo comienzo.
 
 ## Dinero
 
-Eres una fuente inagotable de expresión personal. Tu individualidad, en particular, es importante ahora. Los aspectos apoyan esta posición, afectando a las actividades familiares, el romance, los niños y la diversión. La forma en la que llevas esto, para bien o para mal, puede marcar la diferencia entre el recibir aceptación o no. ¡Empieza con tu mejor pie! Mientras tanto, piensa en lo que tienes que dejar ir. ¿Realmente necesitas esas botas que has tenido desde 1992?
+Para ti, esta semana es sobre la auto-expresión. Puedes ser una persona muy creativa, por lo que puedes tener la tentación de tratar de mejorar tu vestuario o dar un cambio radical de look. Ciertos aspectos que afectan la belleza y el afecto dicen que tu familia, pareja romántica o niños te apoyan en tus metas financieras y personales. Es bueno saber que tienes un equipo de apoyo.
