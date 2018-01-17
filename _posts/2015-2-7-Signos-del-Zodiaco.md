@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de enero 2018
-description: Horóscopos del dia de hoy 16 de enero 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de enero 2018
+description: Horóscopos del dia de hoy 17 de enero 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-01-16
+ lastmod: 2018-01-17
 ---
-Hoy, las personas practican el arte de saber guardar silencio, sobre todo al responder a preguntas de una manera inusualmente directa mientras la Luna en Aries se sale de su órbita. Venus conjunta a Marte y trae consigo una sensación de déjà vu. Cierta situación podría regresar incluso si se creía que una oportunidad anterior ya había sido desechada.
+Marte entrando a un signo tan genuinamente entusiasta como Sagitario actúa como una infecciosa emoción durante las próximas semanas. Aprovecha, porque se trata de una energía muy productiva y progresiva. Esta noche, es increíble lo profundo que una conversación puede ir en pocos minutos con Mercurio en Piscis. También hay una gran cantidad de reconfortante sensibilidad.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
