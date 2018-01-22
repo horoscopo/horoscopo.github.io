@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 15 de enero 2018 al 21 de enero 2018 
-description: Horóscopo semanal piscis 15 de enero 2018 al 21 de enero 2018. Vamos piscis, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+title: piscis 22 de enero 2018 al 28 de enero 2018 
+description: Horóscopo semanal piscis 22 de enero 2018 al 28 de enero 2018. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda piscis, pero sé constante.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: 7HNsTYIzBJo
+ video: mqqi4NIVqEo
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-15'
+ lastmod: '2018-01-22'
 ---
 
 
 
-## Vamos piscis, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda piscis, pero sé constante.
 
-Estás bien aquí, estás bien allí, y en cuanto las cosas se complican un poquito, por poco que sea, huyes. Está bien que vivas de esas manera, buscando en realidad cualquier lugar que te de felicidad, cualquier momento sea cual sea y donde sea. Pero 
- un poquito de ella.
-A medida que el enérgico Marte continúa su camino por tu sector de bienestar, tendrás ganas de explorar las últimas ideas sobre ejercicios. Sin embargo, trata de no tener grandes expectativas al comienzo. Trabaja lentamente para llegar a tus metas y así obtendrás mejores resultados. En general, las relaciones resplandecen de promesas, tanto si estás buscando el amor como si te encuentras en una relación a largo plazo. Un extraño problema podría llegar a un punto culminante a lo largo del fin de semana, lo que necesitará un cuidadoso manejo. Sin embargo, la luna nueva en tu sector de relaciones indica un nuevo comienzo.
+El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
+Decides darle a alguien el beneficio de la duda, lo cual es algo bueno, ya que esta persona puede ayudarte a salir de una difícil situación. Todo lo que das vuelve a ti esta semana de una manera muy práctica. En cuanto a finanzas, sin embargo, es mejor que actualices tu presupuesto. Ganas más dinero, pero también gastas más y esto es algo que debes tener en cuenta.
 
 ## Dinero
 
-Para ti, esta semana es sobre la auto-expresión. Puedes ser una persona muy creativa, por lo que puedes tener la tentación de tratar de mejorar tu vestuario o dar un cambio radical de look. Ciertos aspectos que afectan la belleza y el afecto dicen que tu familia, pareja romántica o niños te apoyan en tus metas financieras y personales. Es bueno saber que tienes un equipo de apoyo.
+Este periodo es acerca de los aspectos armoniosos trayéndole amor a tu vida hogareña y permitiendo que los sentimientos y recuerdos cálidos emerjan. Al mismo tiempo, se te recomienda abrirte a ellos y tal vez incluso utilizarlos en tu trabajo. Deja que tu imaginación vuele y puede que te percates de que tienes grandes ideas para generar más dinero.

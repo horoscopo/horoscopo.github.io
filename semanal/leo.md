@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: leo 15 de enero 2018 al 21 de enero 2018 
-description: Horóscopo semanal leo 15 de enero 2018 al 21 de enero 2018. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+title: leo 22 de enero 2018 al 28 de enero 2018 
+description: Horóscopo semanal leo 22 de enero 2018 al 28 de enero 2018. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: MIsoPXUE6vQ
+ video: cfdyP7N-Kik
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-15'
+ lastmod: '2018-01-22'
 ---
 
 
 
-## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 
-A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
- nada es para siempre, ni siquiera los problemas ni las preocupaciones…
-Podrían surgir situaciones que parecen estar fuera de tu control esta semana, e incluso puede parecer que el destino está interviniendo en ellas. ¿Qué deberías hacer al respecto? El contexto estelar sugiere que es momento para reflexionar sobre tus motivos y sentimientos con respecto a áreas clave de tu vida, ya que podrían tener un rol inconsciente en distintos aspectos. También puede que sea útil quitar algunos compromisos de tu agenda y pasar más tiempo en compañía de tus buenas amistades.
+No más paciencia Capri. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres leo, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana Capri.
+Tener ganas de salir de tu zona de confort puede abrirte los ojos a grandes oportunidades... pero es más fácil decirlo que hacerlo. Con el intenso Marte en tu sector de viajes y exploración, tendrás el coraje para hacerlo si te animas a dar el primer paso. Por otro lado, si decides seguir el consejo de una persona, asegúrate de que sea confiable, ya que la información errónea podría ser un problema en los próximos días. Y a partir del viernes, tu lado ambicioso podría salir a la luz.
 
 ## Dinero
 
-Es necesario utilizar emociones constructivamente sobre una base regular. Si haces algo creativo para ganarte la vida, este es el equilibrio perfecto entre el arte y el comercio, porque ahora el Universo te apoya. Con cierta actividad en el área que rige la educación superior, los viajes y la espiritualidad, es el momento de mirar al exterior para generar oportunidades de dinero tan pronto como sea posible.
+Eres especialmente activo/a cuando se trata de redefinir cómo deseas ser percibido/a por los demás. Esto puede resultar en la posibilidad de modificar tu forma de vestir, hablar o hacerle frente a los demás. Estás transformando la manera en la que otros te ven y en última instancia, te tratan, especialmente en el trabajo. Te están lloviendo tantas ofertas que es posible que tengas tiempo para considerar todas tus opciones. Prepárate para convertirte en la autoridad que estás destinado/a a ser.

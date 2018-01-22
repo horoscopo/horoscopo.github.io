@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 15 de enero 2018 al 21 de enero 2018 
-description: Horóscopo semanal aries 15 de enero 2018 al 21 de enero 2018. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar aries, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: aries 22 de enero 2018 al 28 de enero 2018 
+description: Horóscopo semanal aries 22 de enero 2018 al 28 de enero 2018. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca aries.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: L0kSRAMoKws
+ video: gVIrH0c5S-g
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-15'
+ lastmod: '2018-01-22'
 ---
 
 
 
-## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar aries, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca aries.
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace aries… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas aries, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
-Con el optimista Júpiter, tu planeta regente, ahora en un sector más aislado de tu carta astral, puedes aprender mucho de tus sueños y encontrar el éxito si escuchas a tu intuición. La semana por delante, en particular el miércoles, podría traer una reflexión o revelación que te ayuda a avanzar con un proyecto personal emocionante. También, la luna nueva en tu sector social trae una oportunidad para moverte hacia nuevos círculos. Este también es un buen momento para conectar con alguien que sientes que podría convertirse en una amistad cercana.
+Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti aries.
+Puede que decidas usar esta semana festiva para explorar tus planes y metas para el 2018, incluso aunque los demás aprovechen esta oportunidad al máximo para relajarse. Incluso puede que descubras que las fiestas y los eventos sociales brindan una manera de conocer personas que están en tu misma sintonía y que, tal vez, puedan ayudarte a lograr tus planes más importantes. Mientras tanto, la tranquila alineación entre el dinámico Marte, tu planeta regente, y el soñador Neptuno del 27 de diciembre puede ser una llamada a relajarte por completo. 
 
 ## Dinero
 
-Puede que te encuentres en plena acción, llamando a compañías de tarjetas de crédito, pagando saldos y destruyendo viejas tarjetas de crédito. ¡Buen trabajo! Esta misma ráfaga de energía te ayudará a establecer un curso financiero nuevo en este momento de tu vida. Sin embargo, tu lugar de trabajo podría necesitar un cambio. Sin embargo, es demasiado pronto para renunciar, así que trata de verle la mejor cara.
+Es posible que sientas un urgencia grave esta semana - de viajar, aprender algo nuevo, de hacer una amistad en el extranjero, o hablar un nuevo idioma. Cada uno de estos tiene una ventaja única para tu vida monetaria en el futuro, así que vale la pena checar qué es lo que te parece más interesante. Puede que no puedas resistirte a hacerlo de todas maneras ya que tu vida social podría bajar de ritmo lo suficiente para que puedas hacer estas cosas.

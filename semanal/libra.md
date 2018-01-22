@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: libra 15 de enero 2018 al 21 de enero 2018 
-description: Horóscopo semanal libra 15 de enero 2018 al 21 de enero 2018. Eleva tu ego libra, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
+title: libra 22 de enero 2018 al 28 de enero 2018 
+description: Horóscopo semanal libra 22 de enero 2018 al 28 de enero 2018. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: rjrWVWaU0Sw
+ video: 4VbNAMqXpeQ
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-15'
+ lastmod: '2018-01-22'
 ---
 
 
 
-## Eleva tu ego libra, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-Estás alcanzando una madurez libra, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte libra y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
-Mercurio ingresa a tu sector de comunicaciones, y este puede ser un buen momento para tomar un curso que te permita aprender una nueva habilidad. También es una gran oportunidad para hacer algunas conexiones vitales que pudieran poner nuevas ofertas, proyectos y contratos en tu camino. Al mismo tiempo, quizás seas capaz de aumentar tus ingresos si pones en marcha una idea. Esto puede cambiar tu situación por completo. ¡Tu genialidad le puede venir muy bien a alguien con autoridad!
+Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
+ sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
+El lunes, una encantadora mezcla de energías podría encontrarte llevándote muy bien con los demás. Esto podría hacer que cierres un acuerdo, hagas nuevas amistades o te ofrezcan una fabulosa oportunidad. Sin embargo, sería útil no perder la concentración. Con el soñador Neptuno involucrado, los malentendidos son una posibilidad. Puede que los asuntos monetarios necesiten especial atención este fin de semana, particularmente en lo que respecta a desacuerdos sobre cómo debería gastarse el dinero. La luna nueva del sábado te anima a salir e implementar un nuevo plan.
 
 ## Dinero
 
-Puede que necesites más tiempo que nunca en enfocar los objetivos de tus metas. Estos aspectos pueden crear maravillosas ideas o simplemente algún tiempo de inactividad para meditar y recopilar energías. Ideas y pensamientos orientados hacia el futuro se presentan conforme piensas acerca de cómo llevarlas a un mercado más amplio y más rentable. Afectará a tu sector de viajes, de aprendizaje, enseñanza, espiritualidad y ley. Estás entrando a tu propio paso.
+Esta semana disfrutas de un impulso amistoso en tus relaciones. Tienes un gran equipo detrás de ti, especialmente cuando se trata de tu vida monetaria. Tienes una concurrencia de ideas y el poder de la gente, así que si estás trabajando en un proyecto que necesita todas las manos a la obra, es el momento de reclutar desde el interior. Los aspectos de apoyo resaltan las actividades relacionadas con el romance, la familia y la diversión. Comenzar un negocio de citas amorosas por internet podría estar en tu futuro.
