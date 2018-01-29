@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 22 de enero 2018 al 28 de enero 2018 
-description: Horóscopo semanal acuario 22 de enero 2018 al 28 de enero 2018. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro acuario, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+title: acuario 29 de enero 2018 al 04 de febrero 2018 
+description: Horóscopo semanal acuario 29 de enero 2018 al 04 de febrero 2018. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: hVivlCKea6Y
+ video: cNjy0C027bk
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-22'
+ lastmod: '2018-01-29'
 ---
 
 
 
-## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro acuario, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande acuario, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. acuario, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
-Tu sector social sigue luciendo optimista. Esto te anima a hacer algunos cambios y considerar salir a socializar más. Y con Mercurio retrógrado, puede que descubras que algunas viejas amistades regresan a tu vida, brindándote la oportunidad de retomar desde donde dejaron. Sin embargo, un muy potente enfoque en tu sector profesional que involucra al expansivo Júpiter y al dinámico Marte hace que todo luzca definitivamente bien en esta área. Mientras tanto, la luna nueva del domingo te alienta a moverte hacia nuevos círculos sociales.
+Tienes que plantarte acuario, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana acuario.
+Con el amoroso Venus y el sol colocando el enfoque en tu sector de responsabilidades, puedes usar tu encanto y diplomacia para ampliar tus objetivos. Puede que te des cuenta de que eres el centro de atención y esto podría ser una oportunidad para mostrar lo que sabes hacer y así influir ciertos eventos. También es posible que debas tomar una decisión que termine de concretar un acuerdo. A medida que el conversador Mercurio se alinea con el dinámico Plutón, puede que debas pensar antes de tomar una decisión.
 
 ## Dinero
 
-Ahora estás en un período de redefinición de lo que eres y cómo te proyectas al mundo. El Universo te está pidiendo que prestes mucha atención a tu carrera. Si no es la que deseas tener, este es el momento de cambiarlo. No vas a conseguir mucho más apoyo del que ya tienes.
+Estás experimentando un impulso de energía en tus finanzas. Tienes mucha creatividad en cuanto a la creación de ideas nuevas de cómo traer dinero a tu vida. Es posible que tengas nuevos conceptos para un segundo negocio o simplemente ideas innovadoras y de bajo costo para promover un negocio que ya tengas. Los planetas apoyan estos esfuerzos en una gran forma. ¡Estás en la cima del mundo!

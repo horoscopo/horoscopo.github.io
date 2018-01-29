@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 22 de enero 2018 al 28 de enero 2018 
-description: Horóscopo semanal aries 22 de enero 2018 al 28 de enero 2018. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca aries.
+title: aries 29 de enero 2018 al 04 de febrero 2018 
+description: Horóscopo semanal aries 29 de enero 2018 al 04 de febrero 2018. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario aries.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: gVIrH0c5S-g
+ video: vSLF3USqzeU
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-22'
+ lastmod: '2018-01-29'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca aries.
+## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario aries.
 
-Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti aries.
-Puede que decidas usar esta semana festiva para explorar tus planes y metas para el 2018, incluso aunque los demás aprovechen esta oportunidad al máximo para relajarse. Incluso puede que descubras que las fiestas y los eventos sociales brindan una manera de conocer personas que están en tu misma sintonía y que, tal vez, puedan ayudarte a lograr tus planes más importantes. Mientras tanto, la tranquila alineación entre el dinámico Marte, tu planeta regente, y el soñador Neptuno del 27 de diciembre puede ser una llamada a relajarte por completo. 
+Tienes que enderezar un poco tu vida aries, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
+Tu escenario social se ve particularmente activo esta semana y en las próximas semanas con mucho de qué ocuparte. Disfrutarás mucho de mezclarte con tus amistades y conocer gente nueva. Sin embargo, al comienzo de la semana puede que te resulte difícil aceptar la sugerencia de una persona si parece poco realista. Hablar sobre esto puede generar un compromiso. A medida que Mercurio se traslada a una parte más tranquila de tu carta, el cosmos sugiere que reflexionar sobre un problema personal puede serte útil.
 
 ## Dinero
 
-Es posible que sientas un urgencia grave esta semana - de viajar, aprender algo nuevo, de hacer una amistad en el extranjero, o hablar un nuevo idioma. Cada uno de estos tiene una ventaja única para tu vida monetaria en el futuro, así que vale la pena checar qué es lo que te parece más interesante. Puede que no puedas resistirte a hacerlo de todas maneras ya que tu vida social podría bajar de ritmo lo suficiente para que puedas hacer estas cosas.
+Estás buscando una nueva manera de ganar dinero extra ahora, y puede que todavía no tengas la solución perfecta. Pero con los aspectos afectando tu sector de trabajo, te percatarás de que hay más oportunidades de las que piensas. Como por ejemplo trabajar más horas, o encontrar un trabajo de fin de semana. Tu carrera se verá afectada positivamente por cualquier acción que tomes.

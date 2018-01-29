@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: cancer 22 de enero 2018 al 28 de enero 2018 
-description: Horóscopo semanal cancer 22 de enero 2018 al 28 de enero 2018. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+title: cancer 29 de enero 2018 al 04 de febrero 2018 
+description: Horóscopo semanal cancer 29 de enero 2018 al 04 de febrero 2018. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: bQOWRIKUu2g
+ video: DsWGLY2NTcs
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-22'
+ lastmod: '2018-01-29'
 ---
 
 
 
-## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 
-Por fin llega lo que tanto estabas esperando cancer, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo cancer. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana cancer, disfrútala al máximo.
-Puede que te enfrentes a tu familia con respecto a una decisión clave durante esta semana, pero podría ser parte de un asunto más importante que podría salir a la luz a medida que transcurre la semana. La forma de manejar esto podría ser ponerte en el lugar de la otra persona. Hacerlo debería fomentar la discusión y ayudarles a llegar a un compromiso. Tu planeta regente, Saturno, se vuelve retrógrado el miércoles, lo que podría encontrarte aprovechando cualquier oportunidad para tu mejora a un nivel personal.
+Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
+ La gente es como es y no debes martirizarte por ello cancer.
+La búsqueda de nuevas oportunidades para expandir tus horizontes continúa. Esto podría entrar en conflicto con tu trabajo o tu rutina de vida establecida. La presente alineación astrológica te anima a activamente buscar maneras de desafiarte y llevar tu vida al siguiente nivel. Para subrayar aún más esto, podrías verte con ganas de centrarte en lo que es mejor para ti en lugar de lo que los demás esperan de ti. Eso sí, no arriesgues lo bueno al tratar de cambiar lo malo dentro de cierta situación.
 
 ## Dinero
 
-El Universo está exigiendo que pases más tiempo desarrollando tus relaciones más cercanas para que puedas beneficiarte personal y financieramente. El hacer más tiempo para aquellos que pudieran ayudarte a avanzar en tus objetivos no solamente es sensato/a, también es necesario para el logro de tus objetivos. Puede que estés en conversaciones para una mejor posición, la cuál llegará a lo grande.
+Es probable que un aspecto armonioso te haga sentir más comodidad y respeto esta semana. La gente está tratando de comunicarse contigo acerca de todo tipo de cosas, incluyendo tu trabajo y el dinero que se te paga por hacerlo. Mira a tu sector de profesión en busca de inspiración e ideas nuevas.

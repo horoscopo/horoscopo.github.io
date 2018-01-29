@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 22 de enero 2018 al 28 de enero 2018 
-description: Horóscopo semanal sagitario 22 de enero 2018 al 28 de enero 2018. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: sagitario 29 de enero 2018 al 04 de febrero 2018 
+description: Horóscopo semanal sagitario 29 de enero 2018 al 04 de febrero 2018. sagitario, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: _s0Tb7X6YrU
+ video: hhIjIwvrtbU
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-22'
+ lastmod: '2018-01-29'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## sagitario, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 
-No eres frágil sagitario, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo sagitario, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra sagitario, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz sagitario, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando sagitario, y sabes lo complicado que es salir de ahí después…
-Los asuntos de negocio podrían desarrollarse sin problemas y si te enfocas en lo primordial, puedes llegar lejos. Quizá puedas ver cómo tu esfuerzo y determinación generan grandes transformaciones en tus finanzas. Prepárate para dejarte llevar por una serie de eventos y encuentros que podrían ser muy prácticos, pero también extremadamente emocionantes. Mercurio, tu planeta guía, entra a Capricornio y esto también quizá te ayude a saber manejar bien tu dinero y tus negocios. 
+Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad sagitario, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
+Si bien puede que estés en el proceso de comprar acciones o en cuestiones financieras, los recientes esfuerzos por arreglar las cosas podrían ayudarte a sentir mayor optimismo y seguridad. Pero la presencia de Marte en tu sector financiero podría encontrarte adoptando un enfoque proactivo en cuanto a ganar dinero extra y tal vez empezar un pequeño negocio que ayude a cubrir los gastos diarios y te brinde fondos para las vacaciones y otros gustos. Más adelante en la semana, una actitud animada también podría coincidir con una encantadora invitación.
 
 ## Dinero
 
-Tienes una gran cantidad de aspectos astrológicos afectándote esta semana, muchos de los cuales afectan tu trabajo y dinero. En primer lugar, tus relaciones podrían ser menos que estables. Puede que tengas que contar con alguien más para ese préstamo que habías esperado. Los aspectos en tu sector de grandes instituciones como bancos e impuestos indican que debes tener cuidado con lo que dices y cómo lo dices.
+Esta semana hay actividad en tu sector de herencia y propiedad compartida. Necesitas prestar más atención a tu principal fuente de dinero - tu carrera. A pesar de que una herencia podría apoyar tus sueños a largo plazo, tu carrera te apoya emocionalmente también. El Universo te proporciona un mayor descanso del que pudiste haber gozado en los últimos tiempos. Puedes utilizar toda la estabilidad que pudiste haber reunido en otras áreas.

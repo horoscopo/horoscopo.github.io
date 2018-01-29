@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 22 de enero 2018 al 28 de enero 2018 
-description: Horóscopo semanal capricornio 22 de enero 2018 al 28 de enero 2018. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: capricornio 29 de enero 2018 al 04 de febrero 2018 
+description: Horóscopo semanal capricornio 29 de enero 2018 al 04 de febrero 2018. Estás a tope capricornio, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: orMfXGzhI-g
+ video: _5zqtyAvBiY
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-22'
+ lastmod: '2018-01-29'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## Estás a tope capricornio, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 
-Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar.
-Una oportunidad podría presentarse al comienzo de la semana, y si decides aprovecharla, podrías lograr un progreso durante las próximas semanas. Con Mercurio retrógrado, debes anticipar algunos retrasos y cambios de planes. Sin embargo, es posible que esto no sea malo y que incluso funcione a tu favor. Los asuntos del hogar y la familia también adquieren relevancia a mediados de la semana, y brindan la oportunidad de limpiar, tirar la basura y poner todo en perfecto orden.
+Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
+ No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
+Un encuentro o evento social podría tener un profundo efecto en tu vida, y puede ser un momento crucial. Debido a esto, puedes tomar una decisión clave o quizás decidas seguir un nuevo camino que podría resultar especialmente fructífero. Más tarde, cuando el Sol ingrese a un sector más aislado y espiritual de tu carta astral, entrarás a una fase en la que será de ayuda tomarte un tiempo para estar a solas. Durante las próximas cuatro semanas, reflexionar en silencio puede ser particularmente gratificante.
 
 ## Dinero
 
-El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.
+Te encuentras en una situación tensa esta semana. Ambos lados, tu femenino y masculino deben de ser tomados en cuenta cuando consideres nuevas formas de ganar, ahorra o gastar tu dinero. Piensa pragmáticamente cuando aprecies y disfrutes los placeres de las cosas más finas y encontrarás que podrías acostumbrarte a ellas.
