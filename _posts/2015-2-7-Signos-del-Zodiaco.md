@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de febrero 2018
-description: Horóscopos del dia de hoy 03 de febrero 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de febrero 2018
+description: Horóscopos del dia de hoy 04 de febrero 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-02-03
+ lastmod: 2018-02-04
 ---
-Hoy, el Universo se suaviza con emoción y las relaciones florecer cuando la Luna en Tauro forma sextil con Neptuno. Solteros, no hay misterio, es más bien química cuando Venus también aspecta a Neptuno. Las parejas deberían aprovechar esta energía cósmica y hablar sobre sus sueños. Crear imágenes del futuro es muy tranquilizador, ¿cierto?
+Las personas son persuadidas fácilmente. De hecho, podrías inclusive regresar con cierta persona y volver a pedir algo mientras Mercurio retrógrado aspecte a Plutón. Podrías recibir un sí a la primera. Esta noche, las conversaciones desatan incómodos silencios debido a Venus a punto de cambiar de signo. Podría ser que no haya nada más qué decir.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
