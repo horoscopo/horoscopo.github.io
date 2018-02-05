@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 29 de enero 2018 al 04 de febrero 2018 
-description: Horóscopo semanal tauro 29 de enero 2018 al 04 de febrero 2018. Esta semana vas a abrir los ojos tauro, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+title: tauro 05 de febrero 2018 al 11 de febrero 2018 
+description: Horóscopo semanal tauro 05 de febrero 2018 al 11 de febrero 2018. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: RsNI7nM0Uyg
+ video: yZTIEwBQVDU
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-29'
+ lastmod: '2018-02-05'
 ---
 
 
 
-## Esta semana vas a abrir los ojos tauro, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 
-El mundo puede esperar Sagi, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate tauro, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
-Durante esta semana, quizá pongas en marcha un plan importante en el plano hogareño. La luna nueva en Capricornio puede ser un gran recurso en este aspecto, por lo que definitivamente valdría la pena dar el primer paso. Al mismo tiempo, sería mejor que tengas los pies sobre la tierra y seas consciente de tus gastos. A medida que el enfoque se desplaza hacia tu sector de recreación y placer el 17 de enero, puedes disfrutar al máximo tanto pasatiempos creativos como oportunidades románticas.
+No sabes cómo desviar tus sentimientos tauro, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas tauro… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez tauro. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos tauro que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
+Con el adorable Venus, tu planeta regente, ahora en tu signo, puedes sentirte verdaderamente en tu elemento. Esta animada influencia podría llevarte a suavizar cualquier dificultad y también acercarte a otros en busca de amistad y apoyo. Esta semana también trae consigo a la luna nueva en tu signo, lo que puede marcar el comienzo de una nueva fase. Cualquier idea o proyecto que tengas en tus planes, en particular si es emocionante, debería iniciarse el jueves o poco después para obtener un mejor resultado.
 
 ## Dinero
 
-Esta semana se trata de la actividad que hay en tu sector de deuda o dinero de otras personas, lo que significa que algo que pensaste haber ya pagado, podría levantar su fea cabeza de nuevo. Asegúrate de haber tenido la intención de pagarlo, y de que accidentalmente haya sido olvidado en la pila de cuentas sin pagar. Encárgate de tal lo antes posible para evitar contratiempos. Haz tu trabajo lo mejor posible o cambia de carrera.
+Ciertos aspectos afectando tu sector de comunicaciones pueden llevarte a ponerte en contacto con una o muchas personas. En medio de las llamadas, los correos electrónicos y mensajes de texto, existe la repentina urgencia de capturar tu experiencia para la posteridad. Este es un buen momento para empezar a escribir una nueva historia, no importa cuál sea tu pasión. Tienes todo lo que necesitas. Los grupos sociales y las redes a tu alcance pueden ser de gran ganancia.

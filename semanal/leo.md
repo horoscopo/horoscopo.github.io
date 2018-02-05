@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 29 de enero 2018 al 04 de febrero 2018 
-description: Horóscopo semanal leo 29 de enero 2018 al 04 de febrero 2018. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida leo. Ahora brillas así que, aprovecha. Aprovecha todo.
+title: leo 05 de febrero 2018 al 11 de febrero 2018 
+description: Horóscopo semanal leo 05 de febrero 2018 al 11 de febrero 2018. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: K9YZHSK84zs
+ video: p6sQSFR979I
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-29'
+ lastmod: '2018-02-05'
 ---
 
 
 
-## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida leo. Ahora brillas así que, aprovecha. Aprovecha todo.
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-Es muy importante que eches la vista atrás leo, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
-Con un poderoso énfasis en tu sector de relaciones, puede que conozcas personas en una situación que te permita entender más cosas y tener nuevas posibilidades. Colaborar con personas clave o formar un equipo para completar un proyecto puede tener buenos resultados y sin duda es mucho mejor que intentar lograr algo por tu cuenta. También se genera un enfoque más profundo cuando el sol entra a un sector más intenso de tu carta astral, lo que te motiva para dejar de ignorar los problemas que ya están listos para ser sanados.
+Abre los ojos de una vez leo. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas leo, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero leo, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también leo. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. leo por favor, te tenían que tener en un altar… Y lo sabes…
+Puede que te embarques en una misión personal en los próximos días y esto podría hacerse evidente con tu dedicación y determinación para convertir una idea en realidad. Es posible que creas que debes persuadir a las demás personas para que trabajen contigo, pero puede que no sea necesario. Quizá tu entusiasmo sea lo único que necesitas para que las demás personas quieran ser parte también. Esto podría traer resultados positivos que le hagan bien a todos. Y con el guerrero Marte en tu signo alineándose con el expansivo Júpiter, todo es posible.
 
 ## Dinero
 
-Esta semana estás llegando a un público mucho más grande con tu trabajo, lo que conduce a más dinero a la larga. Es posible que estés reconectando con la gente de tu pasado y consiguiendo presentaciones con nuevos fans. No importa lo que hagas para ganarte la vida, estás siendo empujado/a al escenario para entregar un mensaje único. Los aspectos te dan el apoyo y la fuerza que necesitas de estrechas relaciones. Gozas de un periodo en el que es muy poco probable que hagas errores, disfruta de este personal y financieramente.
+Te beneficiarás de dos maneras cruciales en estos momentos. Dado que ciertos aspectos están afectando a tu sector de grupos, política y trabajo por cuenta propia, puede que estés considerando trabajar desde casa o iniciar un nuevo negocio desde la comodidad de tu habitación. La suerte se combina con repentinas ideas brillantes. Puede parecer una broma, pero puede que de verdad funcione.

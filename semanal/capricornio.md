@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 29 de enero 2018 al 04 de febrero 2018 
-description: Horóscopo semanal capricornio 29 de enero 2018 al 04 de febrero 2018. Estás a tope capricornio, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: capricornio 05 de febrero 2018 al 11 de febrero 2018 
+description: Horóscopo semanal capricornio 05 de febrero 2018 al 11 de febrero 2018. El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: _5zqtyAvBiY
+ video: Dwsx5vUdgfI
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-29'
+ lastmod: '2018-02-05'
 ---
 
 
 
-## Estás a tope capricornio, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
- No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
-Un encuentro o evento social podría tener un profundo efecto en tu vida, y puede ser un momento crucial. Debido a esto, puedes tomar una decisión clave o quizás decidas seguir un nuevo camino que podría resultar especialmente fructífero. Más tarde, cuando el Sol ingrese a un sector más aislado y espiritual de tu carta astral, entrarás a una fase en la que será de ayuda tomarte un tiempo para estar a solas. Durante las próximas cuatro semanas, reflexionar en silencio puede ser particularmente gratificante.
+Tienes que motivarte capricornio. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino capricornio. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro capricornio, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa capricornio, ¿tu tiempo no vale nada o qué?
+Conectar con otras personas en un trabajo en equipo podría ser muy gratificante en los próximos días. Puede que sea trabajo duro, pero puede que también valga la pena. Por otro lado, quizá necesites un cambio, pero puede que ciertas amistades se resistan al movimiento. Pero si puedes convencerlos de lo importante que es esto para ti, seguramente no se interpondrán en tu camino. A partir del viernes, tendrás mucha diversión además de nuevas experiencias para disfrutar. Puede que un encuentro termine en una nueva y agradable experiencia.
 
 ## Dinero
 
-Te encuentras en una situación tensa esta semana. Ambos lados, tu femenino y masculino deben de ser tomados en cuenta cuando consideres nuevas formas de ganar, ahorra o gastar tu dinero. Piensa pragmáticamente cuando aprecies y disfrutes los placeres de las cosas más finas y encontrarás que podrías acostumbrarte a ellas.
+Podría parecer que tu vida monetaria va hacia atrás en lugar de avanzar hacia delante. Ciertas influencias parecen restringir y limitar lo que viene, pero puede que esto sea sólo una ilusión. Considera tener un poco más de madurez y responsabilidad.  Esto significa que probablemente tengas que determinar de una vez por todas lo que significa el dinero en tu vida. ¿Sientes comodidad con el dinero que ganas, o  necesitas más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.

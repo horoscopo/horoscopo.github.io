@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 29 de enero 2018 al 04 de febrero 2018 
-description: Horóscopo semanal acuario 29 de enero 2018 al 04 de febrero 2018. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+title: acuario 05 de febrero 2018 al 11 de febrero 2018 
+description: Horóscopo semanal acuario 05 de febrero 2018 al 11 de febrero 2018. No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: cNjy0C027bk
+ video: foitJH4orEs
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-01-29'
+ lastmod: '2018-02-05'
 ---
 
 
 
-## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+## No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 
-Tienes que plantarte acuario, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana acuario.
-Con el amoroso Venus y el sol colocando el enfoque en tu sector de responsabilidades, puedes usar tu encanto y diplomacia para ampliar tus objetivos. Puede que te des cuenta de que eres el centro de atención y esto podría ser una oportunidad para mostrar lo que sabes hacer y así influir ciertos eventos. También es posible que debas tomar una decisión que termine de concretar un acuerdo. A medida que el conversador Mercurio se alinea con el dinámico Plutón, puede que debas pensar antes de tomar una decisión.
+No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse acuario, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo acuario, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
+Asuntos de profesión y negocios siguen captando tu atención con la alineación actual que te lleva a expandir tus horizontes. Con respecto a tus ingresos, es posible que estés pensando en números mucho más grandes que antes, lo que es bueno. La luna llena en Tauro podría hacerte lidiar con el equilibrio entre tu trabajo y tu vida. Si puedes tomarte un tiempo el viernes para relajarte y recargar energías, te haría muy bien. Por último, tener conversaciones con gente influyente podría ser muy gratificante.
 
 ## Dinero
 
-Estás experimentando un impulso de energía en tus finanzas. Tienes mucha creatividad en cuanto a la creación de ideas nuevas de cómo traer dinero a tu vida. Es posible que tengas nuevos conceptos para un segundo negocio o simplemente ideas innovadoras y de bajo costo para promover un negocio que ya tengas. Los planetas apoyan estos esfuerzos en una gran forma. ¡Estás en la cima del mundo!
+Para ti esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes una ventana de tiempo para hacerte cargo de viejos asuntos y para investigar si es mejor mantener, comprar o vender inversiones compartidas. Sin embargo, sabes bien lo que quieres y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.
