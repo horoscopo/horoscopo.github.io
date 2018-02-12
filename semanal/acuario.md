@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 05 de febrero 2018 al 11 de febrero 2018 
-description: Horóscopo semanal acuario 05 de febrero 2018 al 11 de febrero 2018. No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: acuario 12 de febrero 2018 al 18 de febrero 2018 
+description: Horóscopo semanal acuario 12 de febrero 2018 al 18 de febrero 2018. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: foitJH4orEs
+ video: XFw8c2g2Frc
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-05'
+ lastmod: '2018-02-12'
 ---
 
 
 
-## No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 
-No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse acuario, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo acuario, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
-Asuntos de profesión y negocios siguen captando tu atención con la alineación actual que te lleva a expandir tus horizontes. Con respecto a tus ingresos, es posible que estés pensando en números mucho más grandes que antes, lo que es bueno. La luna llena en Tauro podría hacerte lidiar con el equilibrio entre tu trabajo y tu vida. Si puedes tomarte un tiempo el viernes para relajarte y recargar energías, te haría muy bien. Por último, tener conversaciones con gente influyente podría ser muy gratificante.
+Está bien hacerse ilusiones acuario, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas acuario, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada acuario. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
+Puede que alguien haya hecho una promesa, pero es posible que deba romperla. De ser así, trata de no tomártelo a pecho, porque esto puede estar relacionado con la fase retrógrada del interactivo Mercurio. Ir con la corriente puede ser la manera más fácil de manejar esta situación. Podrías tener mucho que hacer con respecto a tu esfuerzo por mantenerte saludable y bien. El energizante Marte ingresa a tu sector de bienestar el 9 de diciembre, lo que te anima a hacer ejercicio o caminar, y que disfrutes de hacerlo.
 
 ## Dinero
 
-Para ti esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes una ventana de tiempo para hacerte cargo de viejos asuntos y para investigar si es mejor mantener, comprar o vender inversiones compartidas. Sin embargo, sabes bien lo que quieres y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.
+Hay varios aspectos problemáticos afectando tu sector de dinero esta semana. De la misma manera, hay actividad en tu sector de dinero que te regresa a tiempos más simples. Pero también se ve afectado tu sector de deuda o de dinero de otras personas, desafiándote a pagar o pedir prestado para que puedas ampliar tus actividades empresariales.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 05 de febrero 2018 al 11 de febrero 2018 
-description: Horóscopo semanal piscis 05 de febrero 2018 al 11 de febrero 2018. Recuerda que ha empezado la época de los piscis… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+title: piscis 12 de febrero 2018 al 18 de febrero 2018 
+description: Horóscopo semanal piscis 12 de febrero 2018 al 18 de febrero 2018. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: 4Rrnqv3Fs4k
+ video: PyrSImu3dxQ
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-05'
+ lastmod: '2018-02-12'
 ---
 
 
 
-## Recuerda que ha empezado la época de los piscis… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 
-Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo piscis… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Sagi, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Sagi. Lo vas a agradecer… Feliz semana.
-Con el sol y el amoroso Venus en tu signo, puede que sientas una explosión de energía y bienestar. Las próximas cuatro semanas pueden ser ideales para avanzar con los planes y proyectos que habías dejado de lado y para organizar eventos sociales y conocer a nuevas personas. Puede que también tengas ganas de hacerte un cambio de imagen. Tu vida social también agarra ritmo. El dinámico Marte en esta zona podría traerte más oportunidades para pasar buenos momentos.
+Céntrate en tus metas piscis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+Un problema que había quedado en el olvido podría salir a la luz a la mitad de semana cuando el eclipse lunar revoluciona tus sentimientos. Puede que este problema resurja en un sueño o quizá en una angustia generalizada que quieres tratar de entender. Puede que te ayude tomarte tiempo y liberar un poco de tiempo en tu agenda. Si lo haces, podrás conectar mejor con este asunto, entender de dónde viene y tratar de buscar una solución. Puede que te sientas mucho mejor al fin de cuentas. 
 
 ## Dinero
 
-Para ti, esta semana es acerca de tus relaciones. Te están ofreciendo algo de alegre liberación, así como también graves distracciones. Si tienes proyectos de trabajo que deban ser terminados ahora, concentra en estos tus esfuerzos y diles a tus seres queridos que les verás pronto. Ciertos aspectos de tu sector de comunicación te hacen elocuente y capaz de salirte con la tuya con respecto a los asuntos financieros. Todo está sucediendo ahora.
+Recibes un impulso de energía positiva del Universo esta semana. Esto combina tus energías masculinas y femeninas de una manera pacífica, armoniosa y te permite participar en actividades divertidas que involucran tanto a amantes, como a familiares. Sin embargo, otro aspecto te afecta en el área que gobierna los valores y las ganancias. Ambos tienen que ser revisados para que puedas ganar dinero en serio.

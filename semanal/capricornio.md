@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 05 de febrero 2018 al 11 de febrero 2018 
-description: Horóscopo semanal capricornio 05 de febrero 2018 al 11 de febrero 2018. El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: capricornio 12 de febrero 2018 al 18 de febrero 2018 
+description: Horóscopo semanal capricornio 12 de febrero 2018 al 18 de febrero 2018. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: Dwsx5vUdgfI
+ video: VHPxGLQyMcw
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-05'
+ lastmod: '2018-02-12'
 ---
 
 
 
-## El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 
-Tienes que motivarte capricornio. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino capricornio. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro capricornio, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa capricornio, ¿tu tiempo no vale nada o qué?
-Conectar con otras personas en un trabajo en equipo podría ser muy gratificante en los próximos días. Puede que sea trabajo duro, pero puede que también valga la pena. Por otro lado, quizá necesites un cambio, pero puede que ciertas amistades se resistan al movimiento. Pero si puedes convencerlos de lo importante que es esto para ti, seguramente no se interpondrán en tu camino. A partir del viernes, tendrás mucha diversión además de nuevas experiencias para disfrutar. Puede que un encuentro termine en una nueva y agradable experiencia.
+No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo capricornio pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
+ Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
+Tu vida social sigue activa, con un enfoque en este sector que coincide con una reunión o, tal vez, con la búsqueda de alguien de quien no has sabido hace bastante tiempo. Si te encontrarás con alguien con quien has tenido un problema, puede que sea posible sanar las heridas del pasado, pero necesitarás mucha sensibilidad para lograrlo. El 20 de julio, Marte —seguido luego por el Sol— ingresa a un sector más alejado de tu carta, lo que indica que es momento de relajarte y recargar baterías.
 
 ## Dinero
 
-Podría parecer que tu vida monetaria va hacia atrás en lugar de avanzar hacia delante. Ciertas influencias parecen restringir y limitar lo que viene, pero puede que esto sea sólo una ilusión. Considera tener un poco más de madurez y responsabilidad.  Esto significa que probablemente tengas que determinar de una vez por todas lo que significa el dinero en tu vida. ¿Sientes comodidad con el dinero que ganas, o  necesitas más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.
+Esta semana podrías sentir frustración en tu objetivo de salir adelante económicamente. Hay cierta atención no deseada sobre tu situación de endeudamiento. Podrías caer fácilmente en depresión si no tienes cuidado. La buena noticia es que tienes un montón de energía para pagarla y deshacerte de ella. Puede que quieras gastártelo todo en familia y diversión, pero resiste la tentación, sólo por esta semana.

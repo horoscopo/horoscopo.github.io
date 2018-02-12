@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 05 de febrero 2018 al 11 de febrero 2018 
-description: Horóscopo semanal tauro 05 de febrero 2018 al 11 de febrero 2018. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
+title: tauro 12 de febrero 2018 al 18 de febrero 2018 
+description: Horóscopo semanal tauro 12 de febrero 2018 al 18 de febrero 2018. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: yZTIEwBQVDU
+ video: U69cxMeDUZo
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-05'
+ lastmod: '2018-02-12'
 ---
 
 
 
-## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
+## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 
-No sabes cómo desviar tus sentimientos tauro, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas tauro… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez tauro. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos tauro que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-Con el adorable Venus, tu planeta regente, ahora en tu signo, puedes sentirte verdaderamente en tu elemento. Esta animada influencia podría llevarte a suavizar cualquier dificultad y también acercarte a otros en busca de amistad y apoyo. Esta semana también trae consigo a la luna nueva en tu signo, lo que puede marcar el comienzo de una nueva fase. Cualquier idea o proyecto que tengas en tus planes, en particular si es emocionante, debería iniciarse el jueves o poco después para obtener un mejor resultado.
+Esta semana estás un poco impredecible tauro, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica tauro… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+Tal vez algo necesita cambiar, y como ahora se aproxima una fase lunar poderosa, podría tratarse de tus rutinas, hábitos o agenda diaria. Con un fuerte enfoque en un sector más aislado y espiritual de tu carta astral, el sistema actual puede llevarte a dar un paso hacia atrás y ver las cosas en perspectiva. Quizás sucede que un evento ha alterado tu rutina, y que ahora necesitas hacer ajustes alternativos. Sea cual sea la situación, tómate tu tiempo antes de tomar una decisión clave.
 
 ## Dinero
 
-Ciertos aspectos afectando tu sector de comunicaciones pueden llevarte a ponerte en contacto con una o muchas personas. En medio de las llamadas, los correos electrónicos y mensajes de texto, existe la repentina urgencia de capturar tu experiencia para la posteridad. Este es un buen momento para empezar a escribir una nueva historia, no importa cuál sea tu pasión. Tienes todo lo que necesitas. Los grupos sociales y las redes a tu alcance pueden ser de gran ganancia.
+Puedes lograr cualquier cosa que te propongas esta semana. ¿Te acuerdas de esa lista de tareas que está  haciendo un agujero en tu bolsillo? Esta es la semana indicada para hacerle frente a los elementos más difíciles. ¡No te puedes negar a hacerlo! La suerte y la creatividad ayudan a que tu vida social explote. Así que, junta a los contactos que tengas para ver cómo se pueden ayudar mutuamente a subir la escalera del éxito. De esta manera, todo el mundo gana.
