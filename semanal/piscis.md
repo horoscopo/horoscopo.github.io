@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 12 de febrero 2018 al 18 de febrero 2018 
-description: Horóscopo semanal piscis 12 de febrero 2018 al 18 de febrero 2018. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+title: piscis 19 de febrero 2018 al 25 de febrero 2018 
+description: Horóscopo semanal piscis 19 de febrero 2018 al 25 de febrero 2018. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: PyrSImu3dxQ
+ video: TXvA_uIaIBU
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-12'
+ lastmod: '2018-02-19'
 ---
 
 
 
-## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 
-Céntrate en tus metas piscis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-Un problema que había quedado en el olvido podría salir a la luz a la mitad de semana cuando el eclipse lunar revoluciona tus sentimientos. Puede que este problema resurja en un sueño o quizá en una angustia generalizada que quieres tratar de entender. Puede que te ayude tomarte tiempo y liberar un poco de tiempo en tu agenda. Si lo haces, podrás conectar mejor con este asunto, entender de dónde viene y tratar de buscar una solución. Puede que te sientas mucho mejor al fin de cuentas. 
+Y de repente cambias piscis, y nadie lo entiende. Pues sí, de vez en cuando hasta tu cuerpo te pide dar un giro que, aunque no sea del todo radical si te permita cerrar algunos asuntos pendientes que parecía que no iban a llegar nunca. Hay personas que no lo entienden, que piensan cómo es posible que llevaras un camino tan inestable en tu vida y de repente la enderezaras para tomar otro rumbo diferente… Pues sí, no eres imbécil, y sabes que si algo no te conviene, no te conviene, y aunque te des cuenta tarde, lo importante es que sabes corregirlo. La cuestión es que los que estaban a tu alrededor y creían conocerte se echan las manos a la cabeza y piensan cómo puede ser que de repente hagas todo lo contrario a lo que parecía que ibas a hacer. Pues es sencillo, porque todo tiene un límite, y por mucha paciencia que piscis pueda tener, lo siento, también tiene amor propio, que a veces no saca, que a veces parece que está escondido, pero lo tiene, aunque a muchos les joda y les fastidie sus planes. Ya te han hecho daño, y estuviste solo, y te sentiste más inseguro que nunca, y el mundo parecía romperse en dos, y ahí nada importaba pero ahora, ahora es todo diferente. Ahora sólo darás tu mejor cara, la buena, la dialogante, la amable, a quien se lo merece. Porque antes lo entregabas todo aunque nadie te lo pidiese, y te quedaste muchas veces sin nada, pero te daba igual, porque eras leal a tu palabra piscis, pero ahora ya sólo quieres ser leal a ti mismo. Sigue así, de verdad, no hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+Cálidos y tiernos sentimientos animan tu vida esta semana, alentándote a conectar con amistades o familiares que no has visto o sobre quienes no has tenido noticias en algún tiempo. Un enfoque muy animado trae oportunidades de conectar con tus vecinos o de apoyar a organizaciones de caridad o de otro tipo en tu vecindario. Aunque el animado Mercurio da indicios de que podrías encontrarte con algunas demoras, tener una perspectiva optimista puede hacer toda la diferencia. Sin embargo, no derroches el dinero, ya que el estimulante Marte en tu sector de dinero puede animarte a comprar.
 
 ## Dinero
 
-Recibes un impulso de energía positiva del Universo esta semana. Esto combina tus energías masculinas y femeninas de una manera pacífica, armoniosa y te permite participar en actividades divertidas que involucran tanto a amantes, como a familiares. Sin embargo, otro aspecto te afecta en el área que gobierna los valores y las ganancias. Ambos tienen que ser revisados para que puedas ganar dinero en serio.
+Podrías tener la tentación de descubrir alguna belleza oculta en tu vida, tu personalidad o tu estilo. Justo debajo de la superficie, podrías ser una persona completamente diferente a la que proyectas a los demás. Deléitate con el progreso que has hecho en tu vida en lugar de insistir en lo que aún no has logrado alcanzar. Abandonar tus propias necesidades en tu carrera y sector de dinero no tiene sentido.

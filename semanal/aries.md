@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 12 de febrero 2018 al 18 de febrero 2018 
-description: Horóscopo semanal aries 12 de febrero 2018 al 18 de febrero 2018. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+title: aries 19 de febrero 2018 al 25 de febrero 2018 
+description: Horóscopo semanal aries 19 de febrero 2018 al 25 de febrero 2018. Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: GHxPw_-voHI
+ video: vEDD9iMhVMA
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-12'
+ lastmod: '2018-02-19'
 ---
 
 
 
-## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+## Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 
-Quizás deberías dejar de planear todo ahora aries, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien aries, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
-Puede que una influencia espiritual y sentimental te guíe a tomar una decisión que puede hacerles muy bien a las demás personas. Si te decides, puede que sientas una gran satisfacción, lo cual puede indicar que has hecho lo correcto. Sin embargo, la gran novedad es que el estimulante Marte entra a tu signo el 26 de enero para quedarse allí durante seis semanas. Esto puede encender tu vitalidad y motivarte para hacer más ejercicio o poner en marcha una idea audaz. 
+Ojalá pudiéramos tener un botón de reinicio en la vida aries, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
+Tu vida amorosa podría ser particularmente candente en este momento, con una amorosa mezcla de energías perfecta para que disfrutes grandes ocasiones sociales y salidas románticas. El cosmos también te invita a explorar tus sentidos más en detalle, especialmente si te has enfocado en objetivos mentales. Dedícate tiempo para que te hagan un masaje o ve a un spa para que puedas relajarte y disfrutar del momento presente. Si experimentas alguna dificultad esta semana, no dejes que te afecte.
 
 ## Dinero
 
-El Universo te da un fuerte sentido de seguridad conforme construyes tu fortuna y tomas decisiones de inversión. Tienes una visión clara sobre el lugar donde quieres acabar y no quieres dejar las cosas al azar. Las únicas dificultades provienen de cierta desestabilización en tu sector de deuda que nubla tu visión.
+Esta semana se trata del choque de energías que puede hacer que sientas tensión o abandono. Estás construyendo estructuras tanto en tu vida familiar como romántica. Tu trabajo puede estarte llamando en medida de que un cambio es claramente necesario. La pregunta es, ¿qué debería cambiar?

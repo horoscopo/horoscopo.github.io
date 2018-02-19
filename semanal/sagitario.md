@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: sagitario 12 de febrero 2018 al 18 de febrero 2018 
-description: Horóscopo semanal sagitario 12 de febrero 2018 al 18 de febrero 2018. Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: sagitario 19 de febrero 2018 al 25 de febrero 2018 
+description: Horóscopo semanal sagitario 19 de febrero 2018 al 25 de febrero 2018. Por muy desconfiado y duro que parezcas ser, al final acabas confiando sagitario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: r-VeOQgEymw
+ video: w6eMVtDL3EM
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-12'
+ lastmod: '2018-02-19'
 ---
 
 
 
-## Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## Por muy desconfiado y duro que parezcas ser, al final acabas confiando sagitario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 
-Despacito sagitario, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo sagitario.
-Puede que se te ocurra una idea en un sueño o tengas una intuición que parece recobrar más importancia esta semana. Con el expansivo Júpiter, tu planeta guía, alineándose con el poderoso Plutón, esta puede ser una oportunidad para pensar cómo puedes convertir tu idea en realidad y así llevarla adelante. La luna nueva en tu sector de finanzas personales puede ayudarte a poner en marcha este proceso. La comunicación e interacción se vuelven más importantes a partir del 17 de enero, cuando algunos brillantes encuentros te abran nuevas puertas.
+No pienses tanto por favor sagitario, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres sagitario por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
+ cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
+Puede que esta semana un espíritu festivo te invada con fuerza mientras que el despreocupado Venus y el extravagante Júpiter conectan en tu sector social. Es una oportunidad para organizar una reunión o disfrutar de asistir a fiestas y eventos. Si te estás preparando para un evento que sucederá la próxima semana, escribir una lista de tareas puede ser muy útil. Con el fantasioso Neptuno en la escena, podrías olvidarte de algo importante. Si puedes, sería prudente evitar una discusión el fin de semana.
 
 ## Dinero
 
-Estás a punto de tomar ventaja en una nueva empresa generadora de dinero. La suerte y la expansión vienen junto con la oportunidad, lo que significa que tendrás que prepararte para aceptar las ofertas de empresarios o inversionistas que quieran asegurarse de que tus ideas y productos tengan éxito. La ventana de oportunidad podría ser pequeña, por lo que ten todo preparado. Actualiza tu currículum y formula un plan de negocios.
+Que nunca se diga que no eres inteligente con el dinero. En el pasado, podría muy bien haber sido que se te escapó de las manos como el agua. Pero ahora tienes más disciplina sobre la forma en la que ganas y gastas. Es posible que desees ampliar tu forma de pensar acerca de inversiones. Las instituciones más grandes pueden tener una ventaja en este momento, y podrías percatarte de que están mejor equipadas para manejar tus fondos.

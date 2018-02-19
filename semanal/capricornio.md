@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 12 de febrero 2018 al 18 de febrero 2018 
-description: Horóscopo semanal capricornio 12 de febrero 2018 al 18 de febrero 2018. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+title: capricornio 19 de febrero 2018 al 25 de febrero 2018 
+description: Horóscopo semanal capricornio 19 de febrero 2018 al 25 de febrero 2018. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: VHPxGLQyMcw
+ video: eXzUPQ7lkmY
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-12'
+ lastmod: '2018-02-19'
 ---
 
 
 
-## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 
-No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo capricornio pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
- Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
-Tu vida social sigue activa, con un enfoque en este sector que coincide con una reunión o, tal vez, con la búsqueda de alguien de quien no has sabido hace bastante tiempo. Si te encontrarás con alguien con quien has tenido un problema, puede que sea posible sanar las heridas del pasado, pero necesitarás mucha sensibilidad para lograrlo. El 20 de julio, Marte —seguido luego por el Sol— ingresa a un sector más alejado de tu carta, lo que indica que es momento de relajarte y recargar baterías.
+Eres demasiado honesto con el resto capricornio y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Capri, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+Con la luna llena en tu signo del 1 de enero, el año podría tener un comienzo emotivo pero también cálido y satisfactorio. Disfrutarás pasar tiempo con familia y amistades a medida que comienza el nuevo año. Puede que tampoco pares de pensar en maneras de dejar tu rutina diaria y quizá pienses en tomarte un pequeño descanso o unas vacaciones más largas. Si tienes la oportunidad, no la dejes pasar. Al mismo tiempo, una conexión entre el fogoso Marte y el afortunado Júpiter podría coincidir con un grato encuentro.
 
 ## Dinero
 
-Esta semana podrías sentir frustración en tu objetivo de salir adelante económicamente. Hay cierta atención no deseada sobre tu situación de endeudamiento. Podrías caer fácilmente en depresión si no tienes cuidado. La buena noticia es que tienes un montón de energía para pagarla y deshacerte de ella. Puede que quieras gastártelo todo en familia y diversión, pero resiste la tentación, sólo por esta semana.
+Es una temporada muy ocupada conforme pasas de una tarea a otra. Te estás reuniendo con compañeros de trabajo y superiores con el fin de consolidar tu participación en la jerarquía, pero eso no es todo. Tu sentido psíquico da justo en el blanco con respecto a tu trabajo y dinero. Si tienes una corazonada con respecto a inversiones, ándate con cuidado. El aspecto astrológico presente es afortunado para los aumentos repentinos de riqueza.
