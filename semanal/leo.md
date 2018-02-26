@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: leo 19 de febrero 2018 al 25 de febrero 2018 
-description: Horóscopo semanal leo 19 de febrero 2018 al 25 de febrero 2018. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+title: leo 26 de febrero 2018 al 04 de marzo 2018 
+description: Horóscopo semanal leo 26 de febrero 2018 al 04 de marzo 2018. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: NNMb860a388
+ video: kF2zqPmfyCM
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-19'
+ lastmod: '2018-02-26'
 ---
 
 
 
-## Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
- A veces, te aferras a momentos de felicidad pasajera leo, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
-El continuo enfoque en tu sector hogareño sugiere que, si sientes cansancio y tensión, deberías reducir actividades para poder relajarte y recargar energías. Tal vez también te resulte tanto enriquecedor como terapéutico prestarle atención a tu musa creativa. Si quieres aprender una nueva manualidad o instrumento musical, este es el momento para intentarlo. Podría convertirse en tu manera preferida de relajarte en el futuro. Con Venus en Libra, esta es tu oportunidad para disfrutar de ser quien eres.
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo leo. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que leo estalla, nadie se salva.
+Puede que estés de humor para salir a comprar regalos. Pero si lo haces el lunes y te topas con algunas rebajas, es probable que exudas generosidad y gastes más de lo que habías planeado. Aun así, te recordarán y elogiarán por haberlo hecho. Si estás preparando alguna reunión para la próxima semana, es de suma importancia anotar todo. Las conexiones entre el conversador Mercurio, el glorioso Venus y el etéreo Neptuno sugieren que puedes cometer errores a menos que tengas cuidado. Sería prudente mantener un enfoque tranquilo durante el fin de semana.
 
 ## Dinero
 
-Para ti este período se trata de cachar ofertas y de tomar ventaja de las nuevas oportunidades para ganar más dinero. Los aspectos afectan al sector de dinero y valores, indicando un tiempo de crecimiento en ese sector. Eres una fuente de ideas ahora, así que asegúrate de escribirlas para no perder de vista un flujo de ingresos futuros. Si sientes agobio, ponlas en práctica de una en una.
+Hay una energía extraña afectando tu trabajo y tu sector de dinero. Los aspectos que afectan tu sector de vidas pasadas, karma e instituciones, muestran que es posible que te vaya bien si estás pensando en  trabajar para una empresa más grande o asociarte con alguien que está un poco más establecido en tu línea de trabajo. Juntos serán imparables, y tal vez capaces de atraer más negocio de lo que podrían hacer por su cuenta.

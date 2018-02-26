@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 19 de febrero 2018 al 25 de febrero 2018 
-description: Horóscopo semanal escorpio 19 de febrero 2018 al 25 de febrero 2018. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+title: escorpio 26 de febrero 2018 al 04 de marzo 2018 
+description: Horóscopo semanal escorpio 26 de febrero 2018 al 04 de marzo 2018. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: j2wh9SmIxAQ
+ video: Kus98O8gDZI
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-19'
+ lastmod: '2018-02-26'
 ---
 
 
 
-## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 
-Madura escorpio, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte escorpio, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu escorpio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-Tu sector de relaciones está cargado con vibrantes energías y animados planetas, lo que sugiere que te esforzarás para pasarla bien esta semana de Halloween. Sin embargo, primero necesitarás esquivar las tentaciones de la luna llena en tu signo, ya que podría llevarte a darte todo tipo de gustos. Eso está bien, pero hay la chance de que te inclines por los excesos si sales a divertirte. Aunque no es un problema en sí, podría serlo si arruina una dieta o régimen de comida saludable.
+Te estás dando cuenta de quien sí y quien no escorpio. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo escorpio pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope escorpio, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente escorpio, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar escorpio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+Después de una temporada familiar activa, un enfoque en tu sector de recreación podría darte ganas de pasar tiempo a solas. Y si bien tienes un asunto del cual encargarte en el frente doméstico, quizá pueda resolverse con facilidad si confías en tus instintos. Esto podría ser decidirte a hacer una compra o algún otro asunto relacionado con las finanzas y, en este momento, la lógica podría no ser de gran ayuda. Con el enérgico Marte entrando a tu sector de comunicación el 26 de enero, promocionar lo que haces podría impulsar tu éxito.
 
 ## Dinero
 
-Una energía de suerte con respecto al dinero de otras personas significa que puedes beneficiarte de la propiedad compartida, las inversiones, o una herencia inesperada. Esto da rienda suelta a todo tipo de cosas buenas en esta área de tu vida. Otros aspectos afectan las vidas pasadas, los sueños y el karma. Otórgales a los demás lo que quisieras que te dieran a ti, financieramente hablando.
+Te enfrentas a algunas decisiones sobre el dinero esta semana. Aunque por lo general eres bastante inteligente cuando de dinero en efectivo se trata, puede ser que los aspectos te hagan sentir confusión de alguna manera. Comprueba doblemente las cifras antes de invertir tu dinero, al igual que debes revisar tus propias cuentas o la forma en la que lleves las cuentas (sobre todo con el balance de tu chequera). Es posible que algunas cuentas no salgan bien por ahora, sin embargo los aspectos se aseguran de que por lo menos estés bien conectado/a y te mantengas estable.

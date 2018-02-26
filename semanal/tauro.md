@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 19 de febrero 2018 al 25 de febrero 2018 
-description: Horóscopo semanal tauro 19 de febrero 2018 al 25 de febrero 2018. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+title: tauro 26 de febrero 2018 al 04 de marzo 2018 
+description: Horóscopo semanal tauro 26 de febrero 2018 al 04 de marzo 2018. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: 62LM4_5XpJE
+ video: VRPCcB2nlGw
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-19'
+ lastmod: '2018-02-26'
 ---
 
 
 
-## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
 
-Bueno tauro, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
-Otras personas podrían tener una fuerte influencia en tu vida durante esta etapa. Esto puede deberse a que tienes cuatro planetas en tu sector de relaciones. Hay momentos de la semana en que puede que te resulte difícil comprender los motivos de los demás. De ser así, la conexión del conversador Mercurio con el ejemplar Saturno te anima a pedir explicaciones. Puede que dicha conexión les ayude a definir lo que quieren, y definitivamente te ayudará a ti. Puede que no estés completamente de acuerdo con un familiar el fin de semana, pero puedes llegar a un compromiso.
+A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez tauro. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona tauro, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
+Tu vida social parece extremadamente activa y la luna llena en Cáncer del 1 de enero lo hace más intenso. Puede que el año nuevo comience de manera un tanto alborotada y quizá esto aumente tus deseos de hacer que este año sea el mejor de todos. Al mismo tiempo, puede que tengas ganas de explorar nuevos horizontes y busques salir de tu zona de confort. No tienes por qué hacerlo por tu cuenta. Tienes muchas amistades a las que les encantaría acompañarte. Ya sea que quieras viajar o debas estudiar, puede que disfrutes más estos momentos si los compartes con otras personas.
 
 ## Dinero
 
-Aunque puede que parezca como si las oportunidades estuvieran saliendo de la nada, lo cuál puede minar un poco tu  natural deseo de seguridad, debes saber que vas por buen camino. Es posible que estés un poco más propenso/a a accidentes de lo normal, así que conduce con cuidado. Trata de pagar lo que debes. No esperes a recibir esa inevitable llamada.
+Todas las cosas buenas les vienen a aquellos que esperan, pero tú no tienes que esperar mucho tiempo para las cosas buenas. Ciertos aspectos afectan tu sector de vidas pasadas, karma e instituciones, por lo que estás recibiendo todo tipo de información valiosa en tus sueños y destellos psíquicos. Asegúrate de prestarles atención. Es posible que dudes de tus pensamientos demasiado. A partir de esta semana, confía en ellos para lograr todo lo que quieres lograr.

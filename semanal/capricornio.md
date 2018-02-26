@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 19 de febrero 2018 al 25 de febrero 2018 
-description: Horóscopo semanal capricornio 19 de febrero 2018 al 25 de febrero 2018. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+title: capricornio 26 de febrero 2018 al 04 de marzo 2018 
+description: Horóscopo semanal capricornio 26 de febrero 2018 al 04 de marzo 2018. capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: eXzUPQ7lkmY
+ video: -fnjMICHsGk
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-19'
+ lastmod: '2018-02-26'
 ---
 
 
 
-## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+## capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 
-Eres demasiado honesto con el resto capricornio y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Capri, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
-Con la luna llena en tu signo del 1 de enero, el año podría tener un comienzo emotivo pero también cálido y satisfactorio. Disfrutarás pasar tiempo con familia y amistades a medida que comienza el nuevo año. Puede que tampoco pares de pensar en maneras de dejar tu rutina diaria y quizá pienses en tomarte un pequeño descanso o unas vacaciones más largas. Si tienes la oportunidad, no la dejes pasar. Al mismo tiempo, una conexión entre el fogoso Marte y el afortunado Júpiter podría coincidir con un grato encuentro.
+A veces de bueno te pasas capricornio. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio capricornio, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa capricornio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso capricornio y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
+Esta semana, hay un poderoso enfoque en tu sector de lejanos horizontes y viajes. Esto podría hacer que surgan en ti tendencias escapistas. Sin embargo, también podrían aparecer opciones románticas, lo que sugiere que, si viajas, podrías conocer a una persona especial y formar una estrecha conexión romántica. También hay un énfasis en el estudio y la mejora personal. De hecho, cuando el inquisitivo Mercurio y el sol se alinean con el precavido Saturno esta semana, el deseo de estudiar podría conducir a prometedoras oportunidades en el futuro.
 
 ## Dinero
 
-Es una temporada muy ocupada conforme pasas de una tarea a otra. Te estás reuniendo con compañeros de trabajo y superiores con el fin de consolidar tu participación en la jerarquía, pero eso no es todo. Tu sentido psíquico da justo en el blanco con respecto a tu trabajo y dinero. Si tienes una corazonada con respecto a inversiones, ándate con cuidado. El aspecto astrológico presente es afortunado para los aumentos repentinos de riqueza.
+No siempre se te conoce por tu sutileza, y esta semana no es diferente. Tus habilidades comunicativas y estilo personal pueden ser poco convencionales, por lo que bájale un poco al tono si estás tratando de dar una buena primera impresión. Estás pensando en cómo hacer que tu carrera sea un poco más independiente y menos centrada en la oficina. Muéstreles que pueden confiar en ti y que eres capaz de hacerlo bien.

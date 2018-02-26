@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: acuario 19 de febrero 2018 al 25 de febrero 2018 
-description: Horóscopo semanal acuario 19 de febrero 2018 al 25 de febrero 2018. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+title: acuario 26 de febrero 2018 al 04 de marzo 2018 
+description: Horóscopo semanal acuario 26 de febrero 2018 al 04 de marzo 2018. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: 9k_aBVco93s
+ video: ESyRSTURe8k
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-19'
+ lastmod: '2018-02-26'
 ---
 
 
 
-## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 
-Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
-Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
-Si alguien parece un poco distante al comienzo de la semana, no te lo tomes a pecho. Puede que sus propios proyectos y planes mantengan su mente ocupada, y probablemente tenga tiempo de sobra cuando termine. Las cosas se vuelven más ligeras y sencillas cuando Venus ingresa a tu sector de relaciones durante el fin de semana. Esto abre una oportunidad para resolver cualquier dificultad y llegar a un compromiso, si fuera necesario. El conversador Mercurio, astro que te rige, se torna retrógrado el sábado. Puede que sea prudente terminar tus preparativos para la temporada de fiestas antes de lo anticipado.
+Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
+ aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
+Tal vez necesitas mantener los pies sobre la tierra esta semana mientras una cautivadora mezcla de energías podría llevarte a tomar una decisión que deberías haber tomado hace tiempo. Sin embargo, también ayuda considerar tus intenciones en esta situación, ya que puede permitirte ver si lo que estás haciendo es lo mejor para ti. La poderosa Luna Llena podría traer potentes emociones a la superficie, pero tal vez sea mejor no actuar. Finalmente, una oportunidad que parece perfecta tal vez no lo sea, así que ve con cuidado.
 
 ## Dinero
 
-Ciertos desafíos se aproximan hacia ti esta semana. Las relaciones son propensas a sufrir una separación por trabajo o razones personales. La buena noticia es que ambos están muy ocupados. La mala noticia es que esta situación requiere más diplomacia y paciencia de lo habitual. Tu sector de empleo puede estar un poco inestable. Muévete lentamente, con cuidado, y no hagas exigencias innecesarias.
+Puede que tengas las manos llenas ahora con cuestiones relacionadas con el empleo y la salud. Puede que tu carga de trabajo de repente se duplique, o puede que recibas más proyectos independientes que son demasiado buenos para dejarlos pasar. Tu red de fuentes de empleo se expande, lo que indica que también podrías enterarte de un trabajo en tu campo que realmente te interese. Con toda tu suerte en efecto, lo mejor es que trates de entrar a esta compañía.

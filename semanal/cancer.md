@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 19 de febrero 2018 al 25 de febrero 2018 
-description: Horóscopo semanal cancer 19 de febrero 2018 al 25 de febrero 2018. Hay cosas que ya no funcionan cancer, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+title: cancer 26 de febrero 2018 al 04 de marzo 2018 
+description: Horóscopo semanal cancer 26 de febrero 2018 al 04 de marzo 2018. Vete a tu cerebro, y borra cancer, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño cancer. Deja salir para que pueda entrar lo demás.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: -ltPSudJDh8
+ video: mqzBYHcCRHU
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-19'
+ lastmod: '2018-02-26'
 ---
 
 
 
-## Hay cosas que ya no funcionan cancer, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+## Vete a tu cerebro, y borra cancer, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño cancer. Deja salir para que pueda entrar lo demás.
 
-No puedes esperar a que las cosas pasen cancer, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres cancer, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA cancer. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
-A pesar de que tienes que encargarte de los gastos de las vacaciones, desde el primer día del año puede que tengas ganas de derrochar dinero, especialmente si las ofertas después de las fiestas son tan tentadoras para ti. Haz de cuenta que estas compras son inversiones y asegúrate de que sean prudentes y útiles. No olvides guardar los recibos, por las dudas. Al mismo tiempo, cuando el fogoso Marte se alinea con el expansivo Júpiter en un sector espiritual de tu carta astral, ayudar a las demás personas puede retribuirte grandes cosas, aun cuando no esperes nada a cambio.
+No desperdicies ni un solo día de tu vida cancer porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio cancer, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la cancer de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida cancer. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
+Hay un vivaz énfasis en pasarlo bien y salir a pasear, lo cual te puede hacer bien. Y con la entrada de Venus, tu planeta personal, al mismo sector el martes, puede que haya algo de romance en tu futuro. Este podría ser el momento para volver a encender la llama del amor con esa persona especial. Disfrutar pasatiempos y actividades creativas también puede ayudarte a animar y renovar tu espíritu. El viernes, el sol entra a Libra y a tu sector de estilo de vida, lo que podría motivarte para que te organices.
 
 ## Dinero
 
-Esta semana corresponde a un tiempo de devoción renovada en tu vida financiera. Examina algunos de los servicios ofrecidos por instituciones financieras. Podrías darte cuenta de que tu propio banco tiene las herramientas que pueden ayudarte a ahorrar más a través del tiempo. Piensa acerca de cómo puedes utilizar tu o ciertas habilidades para obtener dinero extra.
+La atención se centra en las relaciones serias y matrimoniales esta semana. No es el momento de concentrarse en el dinero – por lo menos no al principio. Podrías darte cuenta de que los problemas de dinero surgen mientras que te acercas más a esa persona especial. Es importante asegurarte de que ambos estén en la misma frecuencia en el futuro. Los planetas te ayudan con calma y explican con claridad tu posición en cuestiones de dinero para rápidamente llegar a una solución mutuamente beneficiosa.
