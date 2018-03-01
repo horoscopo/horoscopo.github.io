@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 28 de febrero 2018
-description: Horóscopos del dia de hoy 28 de febrero 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de marzo 2018
+description: Horóscopos del dia de hoy 01 de marzo 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-02-28
+ lastmod: 2018-03-01
 ---
-Si necesitas un catalizador para empezar cosas en los próximos cuatro días, el aspecto de hoy entre Marte y Urano es lo que buscas. Si por casualidad había alguien, o incluso algo, con lo que esperabas poder evitar toparte, la Luna saliéndose de su órbita podría concedértelo esta noche.
+Se te alerta no juzgar demasiado rápido bajo la energía lunar de hoy. Bien podrías cambiar de opinión antes de que termine la jornada de trabajo - o incluso antes. El romance está en el aire, pero no se puede planificar nada por adelantado debido a la Luna en Virgo de esta noche saliéndose de su órbita.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
