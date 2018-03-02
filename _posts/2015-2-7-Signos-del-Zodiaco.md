@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de marzo 2018
-description: Horóscopos del dia de hoy 01 de marzo 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de marzo 2018
+description: Horóscopos del dia de hoy 02 de marzo 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-03-01
+ lastmod: 2018-03-02
 ---
-Se te alerta no juzgar demasiado rápido bajo la energía lunar de hoy. Bien podrías cambiar de opinión antes de que termine la jornada de trabajo - o incluso antes. El romance está en el aire, pero no se puede planificar nada por adelantado debido a la Luna en Virgo de esta noche saliéndose de su órbita.
+Encárgate de cosas difíciles mientras la Luna conjunte a Mercurio esta mañana, porque la indecisión y la confusión surgen aunque la claridad y el enfoque sean los objetivos esta tarde. Esta noche, divertirse requiere de un esfuerzo exhaustivo bajo la Luna en el no tan divertido Virgo. ¿Sin pareja? Este podría no ser el mejor momento para iniciar un nuevo romance a menos que anheles una experiencia de aprendizaje.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
