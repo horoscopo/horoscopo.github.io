@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 26 de febrero 2018 al 04 de marzo 2018 
-description: Horóscopo semanal cancer 26 de febrero 2018 al 04 de marzo 2018. Vete a tu cerebro, y borra cancer, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño cancer. Deja salir para que pueda entrar lo demás.
+title: cancer 05 de marzo 2018 al 11 de marzo 2018 
+description: Horóscopo semanal cancer 05 de marzo 2018 al 11 de marzo 2018. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: mqzBYHcCRHU
+ video: 9ZC1KCU-uDA
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-26'
+ lastmod: '2018-03-05'
 ---
 
 
 
-## Vete a tu cerebro, y borra cancer, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño cancer. Deja salir para que pueda entrar lo demás.
+## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 
-No desperdicies ni un solo día de tu vida cancer porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio cancer, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la cancer de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida cancer. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
-Hay un vivaz énfasis en pasarlo bien y salir a pasear, lo cual te puede hacer bien. Y con la entrada de Venus, tu planeta personal, al mismo sector el martes, puede que haya algo de romance en tu futuro. Este podría ser el momento para volver a encender la llama del amor con esa persona especial. Disfrutar pasatiempos y actividades creativas también puede ayudarte a animar y renovar tu espíritu. El viernes, el sol entra a Libra y a tu sector de estilo de vida, lo que podría motivarte para que te organices.
+A veces dejas las puertas medio abiertas cancer, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar cancer porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien cancer, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado cancer, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
+Puede que sigas teniendo el deseo de destinar un tiempo a la reflexión y a recuperar tu energía. Si este es el caso, vas por buen camino. El continuo enfoque en tu sector espiritual fomenta esto. Y con Mercurio retrógrado, este también puede ser el momento perfecto para resolver cuestiones que puede que hayas arrastrado durante un tiempo. La luna nueva del domingo podría alentarte a iniciar alguna práctica como la meditación que te ayude a relajarte profundamente y fomente la tranquilidad de tu mente.
 
 ## Dinero
 
-La atención se centra en las relaciones serias y matrimoniales esta semana. No es el momento de concentrarse en el dinero – por lo menos no al principio. Podrías darte cuenta de que los problemas de dinero surgen mientras que te acercas más a esa persona especial. Es importante asegurarte de que ambos estén en la misma frecuencia en el futuro. Los planetas te ayudan con calma y explican con claridad tu posición en cuestiones de dinero para rápidamente llegar a una solución mutuamente beneficiosa.
+Esta semana, el Universo te pide que busques clases, seminarios y talleres que puedan mejorar tu conjunto de habilidades, especialmente cuando se trata de producir e invertir dinero. Estás frente a un momento de necesidad de mirar hacia adentro para descubrir qué es lo que realmente quieres hacer para ganar dinero. Ten honestidad y trata de encontrar ese tipo de trabajo.

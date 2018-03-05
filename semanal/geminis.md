@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 26 de febrero 2018 al 04 de marzo 2018 
-description: Horóscopo semanal geminis 26 de febrero 2018 al 04 de marzo 2018. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+title: geminis 05 de marzo 2018 al 11 de marzo 2018 
+description: Horóscopo semanal geminis 05 de marzo 2018 al 11 de marzo 2018. A veces hay que llevar al límite las cosas geminis, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: TC5bW7o48IA
+ video: -cYfG0ebhYE
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-26'
+ lastmod: '2018-03-05'
 ---
 
 
 
-## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+## A veces hay que llevar al límite las cosas geminis, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
 
-No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
-Tu sector de romance y creatividad podría ser especialmente intenso en este momento y permanecer así durante algún tiempo. Podrías descubrir que estás poniendo mucha energía en las actividades de esta área. Otros aspectos de tu carta te animan a liberar cualquier cosa que dificulte tu vida. Este es el caso, en particular, del eclipse solar del jueves. Deshacerte de lo que ya no te sirve puede darte la energía que necesitas para abordar esos significativos planes.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega geminis. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+Con el eclipse lunar al principio de la semana, las relaciones podrían atravesar un período de inestabilidad. Los sentimientos que han estado ocultos podrían salir a la luz, y esto podría llevarte a ti o a otra persona a tomar decisiones clave. Sin embargo, si puedes esperar un par de días hasta que las cosas se calmen, te resultará más fácil tomar la mejor decisión para ti y los demás. Y aunque te irá mejor si puedes ponerte firme con otros, mostrar un poco de compasión podría en realidad volverte muy flexible.
 
 ## Dinero
 
-Es una semana que requiere de mucha más búsqueda. Los aspectos son maravillosos para manifestar más dinero y aplicarlos a tus sueños, pero también puede oscurecer o nublar tu visión, a tu perjuicio. Incluso aunque pienses que no tienes tiempo para supervisar tu dinero, haz tiempo. Otros no son propensos a tener tus mejores intereses en el corazón. No es que haya malicia – simplemente no es su problema.
+Ahora tienes ventaja en tu sector profesional. Tus metas profesionales a largo plazo se han estado poniendo en enfoque durante cierto tiempo. Pero ahora tienes la creatividad, la capacidad intelectual, el hambre y la inventiva para hacer las cosas. El único inconveniente es que los cambios de carrera que realices no siempre le sienten bien a tu ego. Debes saber que al final, son por tu bien.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 26 de febrero 2018 al 04 de marzo 2018 
-description: Horóscopo semanal tauro 26 de febrero 2018 al 04 de marzo 2018. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+title: tauro 05 de marzo 2018 al 11 de marzo 2018 
+description: Horóscopo semanal tauro 05 de marzo 2018 al 11 de marzo 2018. Tu presente y tu futuro valen muchísimo la pena tauro. La vida siempre se acaba equilibrando tauro. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: VRPCcB2nlGw
+ video: qfjOaUSU8uI
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-26'
+ lastmod: '2018-03-05'
 ---
 
 
 
-## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+## Tu presente y tu futuro valen muchísimo la pena tauro. La vida siempre se acaba equilibrando tauro. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 
-A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez tauro. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona tauro, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
-Tu vida social parece extremadamente activa y la luna llena en Cáncer del 1 de enero lo hace más intenso. Puede que el año nuevo comience de manera un tanto alborotada y quizá esto aumente tus deseos de hacer que este año sea el mejor de todos. Al mismo tiempo, puede que tengas ganas de explorar nuevos horizontes y busques salir de tu zona de confort. No tienes por qué hacerlo por tu cuenta. Tienes muchas amistades a las que les encantaría acompañarte. Ya sea que quieras viajar o debas estudiar, puede que disfrutes más estos momentos si los compartes con otras personas.
+Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo tauro, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no tauro, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
+Una influencia estimulante en tu sector de comunicación puede ser el catalizador que necesitas para conseguir lo que quieres. ¿Buscas trabajo o buscas conectar con una persona especial? Lo que sea que estés buscando, esta es tu oportunidad para crear las conexiones que te ayudarán a progresar. La entrada de Venus a tu zona de dinero hará que gastes en lujos. Si estuviste ahorrando tu dinero recientemente, está bien que te des gustos.
 
 ## Dinero
 
-Todas las cosas buenas les vienen a aquellos que esperan, pero tú no tienes que esperar mucho tiempo para las cosas buenas. Ciertos aspectos afectan tu sector de vidas pasadas, karma e instituciones, por lo que estás recibiendo todo tipo de información valiosa en tus sueños y destellos psíquicos. Asegúrate de prestarles atención. Es posible que dudes de tus pensamientos demasiado. A partir de esta semana, confía en ellos para lograr todo lo que quieres lograr.
+Es una semana extraña en tu sector de empleo. Parte de ti quiere avanzar mientras que otra parte de ti quiere quedarse atrás, así que puede que te sea difícil avanzar en las diversas cuestiones relacionadas con el trabajo. Puede haber algo de tensión entre tu deseo de avanzar en tus objetivos de carrera y la realidad en cómo te estás proyectando actualmente hacia el mundo. Es hora de intensificar tu espíritu.

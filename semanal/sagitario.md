@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 26 de febrero 2018 al 04 de marzo 2018 
-description: Horóscopo semanal sagitario 26 de febrero 2018 al 04 de marzo 2018. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo sagitario.
+title: sagitario 05 de marzo 2018 al 11 de marzo 2018 
+description: Horóscopo semanal sagitario 05 de marzo 2018 al 11 de marzo 2018. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida sagitario, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: RmGR77SHC_U
+ video: jbU3r5OMGhg
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-26'
+ lastmod: '2018-03-05'
 ---
 
 
 
-## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo sagitario.
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida sagitario, vuelve a brillar.
 
-No tengas la menor duda de que la vida hará pagar por todas las malas acciones a quien las cometa, por eso tú preocúpate por hacer el bien a los demás y recibirás una gran recompensa. Párate a pensar si ahora eres feliz, mírate hacia dentro y piensa si para cerrar el ciclo que a veces te atormenta necesitas hablar con alguien, con alguna persona especial… Nada volverá a ser lo mismo sagitario, pero a veces, para que nuestra mente descanse en paz de verdad lo mejor es sacar lo que quizás tenemos dentro y nos costó tanto tiempo decir. Es probable que no sea el momento, eres sagitario y muy a menudo, cuando tienes que decir algo en el instante que deberías no lo dices, por miedo, por vergüenza, por lo que sea, y otras veces, cuando lo mejor es estar callado, sueltas cualquier burrada que hace que al final te acabes por sentir mal. Las cosas por ahora no van a cambiar mucho, pero tu estado de ánimo sí, y ya no tu estado, si no esa inseguridad que se ha ido forjando en ti este tiempo atrás, esa sensación a veces, como de pérdida… Ahora necesitas centrarte en cosas que te mantengan ocupada la mente, aunque suene un poco mal decirlo, no pensar demasiado en nada, ni en todo, simplemente fluir con lo que venga, con lo que pase, sin buscar, sin forzar. Será una racha, un tiempo en el que quizás te sientas como vacío, a veces incluso un poco fuera de lugar, como si los sentimientos de repente se hubieran entrelazado y lo mismo amas que odias, lo mismo quieres ser el más feliz del mundo que quieres echarte a llorar como un niño. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
-Si bien es bueno tener honestidad con los demás, puede que la primera parte de la semana necesite un cuidadoso manejo, en especial si las opiniones de los demás son muy distintas a las tuyas. Pueden intercambiarse opiniones intensas en los próximos días, pero si las tomas con la actitud adecuada, esto puede hacer que te ganes el cariño de una persona o de un grupo en lugar de provocar rechazo. Con el Sol estableciendo algunas potentes conexiones, puede que sientas la tentación de prometer más de lo que puedas entregar, lo que podría someterte a una presión innecesaria.
+No es que estés cambiando sagitario, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
+Trata de organizar tus asuntos al principio de la semana, porque podrías sentir menos inclinación hacia la planificación durante el fin de semana. ¿Estás lidiando con una fecha límite? Enfocarte en ella el lunes puede permitirte terminarla fácilmente. Las cosas pueden fluir más a medida que el adorable Venus ingresa a Sagitario, lo que te anima a salir en busca de una aventura amorosa y algún tipo de diversión exótica. La luna llena del domingo podría intensificar los sentimientos. Actúa con tranquilidad para evitar hacer o decir algo de lo que después podrías arrepentirte.
 
 ## Dinero
 
-Esta semana los aspectos ponen más atención en tu sector de relaciones. Puede ser que tu mente esté en la persona con quien estás saliendo (o con quien quieres salir) en lugar de tu trabajo o vida monetaria. Podrías estar examinando cómo ese alguien tan especial puede ayudarte a ganar más, ahorrar más y planificar un mejor futuro financiero. El agregar más a tu educación a través de clases y talleres podría hacerte una triple amenaza en el trabajo.
+Tienes el tipo de confianza que el dinero no puede comprar. Tu risa parece más enérgica, y tu personalidad es tan fuerte que fácilmente puede tomar control de una habitación. Sin embargo, es posible que tengas que atender ciertos asuntos en tu hogar. Esto podría significar reparaciones costosas o incluso tener que mudarte para evitar unos vecinos ruidosos. Cualquiera que sea el caso, es probable que tengas que recurrir a tus ahorros para cubrirlo.

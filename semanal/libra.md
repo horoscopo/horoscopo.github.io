@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 26 de febrero 2018 al 04 de marzo 2018 
-description: Horóscopo semanal libra 26 de febrero 2018 al 04 de marzo 2018. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro libra.
+title: libra 05 de marzo 2018 al 11 de marzo 2018 
+description: Horóscopo semanal libra 05 de marzo 2018 al 11 de marzo 2018. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: se1bE4jVCY0
+ video: vHoyKHOsPZ4
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-02-26'
+ lastmod: '2018-03-05'
 ---
 
 
 
-## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro libra.
+## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 
-Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
-Puede que sientas que tus intereses, tus amigos o las responsabilidades con las que vienes lidiando te llevan en distintas direcciones. Pero con el Sol en Acuario, es momento de que te preguntes qué quieres tú. ¿Qué curso de acción podrías tomar para reafirmar tus fortalezas esenciales? A medida que Marte entra a tu sector de comunicaciones, las respuestas podrían aparecer cuando vayas detrás de los intereses que más te apasionan. Una decisión que tomes este fin de semana podría hacerte sentir más calma.
+No te conformes con poco libra, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche libra, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
+Todo lo que conoces y entiendes de tu vida interna y de tus pensamientos y sentimientos puede influir directamente en tus finanzas. Mientras más confianza sientas, más confianza tendrás en tu capacidad de aumentar tus ingresos y sentir seguridad. La presencia del expansivo Júpiter en tu sector espiritual sugiere que contratar los servicios de un consejero de vida u otro profesional podría ser útil, ya que podría ayudarte a superar los límites que sientes y a sentir más plenitud.
 
 ## Dinero
 
-Para  ti, ésta semana se trata de tomar ventaja de las circunstancias que se presenten en tu vida laboral. Tienes suerte, así que puedes encontrar la oportunidad de impresionar a alguien que tiene el poder de tomar decisiones financieras. Estas oportunidades afectarán positivamente tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personal y financiera, incorporarlas en tu vida cotidiana te hará más fuerte.
+Podrías darte cuenta de que tus habilidades de comunicación necesitan algo de trabajo esta semana. Mientras sientes que los puntos son claros, otros pueden necesitar una aclaración. No lo tomes como algo personal. Ellos (o tú) puede estar actuando bajo subconsciente en lugar de las necesidades reales. Debido a que los aspectos transforman la zona que rige las vidas pasadas, sueños y situaciones kármicas, siempre es mejor pecar por exceso de cortesía, sobre todo en cuanto al dinero se refiere.
