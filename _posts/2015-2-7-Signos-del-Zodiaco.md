@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de marzo 2018
-description: Horóscopos del dia de hoy 06 de marzo 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de marzo 2018
+description: Horóscopos del dia de hoy 07 de marzo 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-03-06
+ lastmod: 2018-03-07
 ---
-Los resultados podrían ser alucinantes bajo el trígono entre Mercurio y Plutón de hoy. Esta noche, en una optimista analogía, la Luna fuera de curso podría simbolizar la posibilidad de guardar lo mejor para el final. Este aspecto le aplica una enfocada importancia a algo (o alguien). Si suena como un eco del tema de hoy, tienes razón.
+No fuerces nada hoy. Algunas cosas se asentarán por sí solas y algunas de ellas cambiarán para bien. Los amigos pueden hablar de cualquier cosa, y el poder hablar ayuda bajo la Luna en Virgo de esta noche. Recuerda que es bueno pedir consejos, y muchas veces es aconsejable seguirlos cuando suenan bien.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
