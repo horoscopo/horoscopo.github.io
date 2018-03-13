@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de marzo 2018
-description: Horóscopos del dia de hoy 12 de marzo 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de marzo 2018
+description: Horóscopos del dia de hoy 13 de marzo 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-03-12
+ lastmod: 2018-03-13
 ---
-Los recuerdos pueden ser engañosos cuando Mercurio cuadra a Neptuno, el planeta de los errores, malentendidos y la confusión. Hay una larga noche por delante que saca las cosas de equilibrio bajo la Luna fuera de curso en Libra. Esta podría arruinar la diversión de algunas personas - algo no inalcanzable, sólo difícil.
+Hoy es un día para relajarse. Deja de lado las responsabilidades, déjate llevar y disfruta. Algo espontáneo ocurre cuando menos te lo esperas. Por la noche, continúa siendo libre bajo la que está a punto de ser Luna en Acuario, cuando el individualismo es la regla. Actúa acorde. Los solteros experimentan amistad y una sincera comunicación con alguien muy interesante.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
