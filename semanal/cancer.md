@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 12 de marzo 2018 al 18 de marzo 2018 
-description: Horóscopo semanal cancer 12 de marzo 2018 al 18 de marzo 2018. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+title: cancer 19 de marzo 2018 al 25 de marzo 2018 
+description: Horóscopo semanal cancer 19 de marzo 2018 al 25 de marzo 2018. Sumisión contigo van a encontrar poca ahora cancer… Muy poca.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: rNZCwG2gARI
+ video: CQSh7FCxiuQ
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-03-12'
+ lastmod: '2018-03-19'
 ---
 
 
 
-## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+## Sumisión contigo van a encontrar poca ahora cancer… Muy poca.
 
-Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio cancer, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
-Puede que tengas cosas que hacer en el trabajo, pero prácticamente ya has decidido relajarte y disfrutar de los placeres de las próximas fiestas. El nuevo enfoque en tu sector de relajación y creatividad sugiere que podrías tener muchas ocupaciones: entretener a los niños, organizar regalos y divertirte. Si no tienes pareja, el romance también está entre los primeros lugares de tu agenda. Saturno ingresa a este sector el 19 de diciembre, trasladándose de tu sector hogareño a tu sector de recreación. Esto puede ser un alivio.
+Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte cancer, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo cancer, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande cancer pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+Las relaciones irradian promesas. Puedes descubrir que cualquier conversación importante parece funcionar bien. Si estás buscando un compromiso o esperas subsanar una complicada situación, probablemente puedas hacerlo. Cuando el sol ingresa a tu sector de relaciones el martes, podrías descubrir maneras de mejorar algunas relaciones. Esto podría significar que debes reescribir algunas de esas tácitas reglas, pero puede ser muy beneficioso. Sin embargo, a partir el jueves, la fase retrógrada del animado Mercurio sugiere la posibilidad de malentendidos. ¡Ten cuidado!
 
 ## Dinero
 
-Tu inclinación natural a disfrutar de las cosas buenas de la vida puede ser activada esta semana. Ampliar las oportunidades podría permitir que consigas satisfacer tus necesidades a través de todo tipo de redes sociales y empresariales. Un aspecto de apoyo afecta a tu sector de comunicaciones, por lo que respecta a cuestiones de dinero, significa que tienes una mejor oportunidad de alcanzar tus metas. No asumas que los demás saben lo que estás buscando.
+Eres un genio, por supuesto. Lo que pasa es que los demás no se han percatado de ello. Puede que te atraigan todas las cosas que son únicas e individuales, especialmente en lo que respecta a tu dinero. Y puesto que la actividad está en tu sector de grupos y política, realmente es el momento de correr la voz sobre lo que actualmente estás haciendo para ganar dinero, así como las cosas que quieres hacer en el futuro.

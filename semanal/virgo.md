@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 12 de marzo 2018 al 18 de marzo 2018 
-description: Horóscopo semanal virgo 12 de marzo 2018 al 18 de marzo 2018. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+title: virgo 19 de marzo 2018 al 25 de marzo 2018 
+description: Horóscopo semanal virgo 19 de marzo 2018 al 25 de marzo 2018. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: FehCyAkXR7Q
+ video: ri7_2nfQ4DM
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-03-12'
+ lastmod: '2018-03-19'
 ---
 
 
 
-## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 
-Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro virgo, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Pececito, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
-Esta semana, puede que sientas la obligación de participar en un evento social, lo quieras o no. Esto puede deberse a las habilidades de persuasión de una de tus amistades. Puede que su insistencia te genere un poco de resentimiento. Aunque si lo haces, podrías divertirte muchísimo, en especial el viernes. El jueves, la luna llena en tu sector de relaciones podría poner de relieve los sentimientos entre tú y otra persona. Ve con calma y evita actuar de manera impulsiva, ya que tal vez te arrepientas más adelante.
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
+Si estás viendo tu vida de manera más intensa, esto puede ser porque el Sol y Marte han ingresado a un sector más emocional de tu carta. Tu atención podría virar hacia asuntos financieros y a cómo hacer que tu dinero trabaje más para ti. También podrías estar consciente de corrientes más profundas que te animen a trabajar sobre cuestiones que han estado en segundo plano durante algún tiempo. Analizarlas con la persona adecuada podría ayudarte a hacer un dramático cambio en tu vida.
 
 ## Dinero
 
-Es un momento interesante. Nadie te puede pasar por alto, así que trata de usar este tiempo a tu favor. Expón tus atributos. Ofrécete para dar una presentación si la hay y prueba un nuevo estilo para darla. Tu sector de diversión, romanticismo, niños y miembros de la familia entra en juego. ¿Cómo puedes usar tus conexiones familiares para avanzar en cuanto a dinero se refiere?
+Tienes todo tipo de geniales destellos llegando a tu cabeza. No descartes nada que parezca una posibilidad remota, porque puede que no lo sea dado el tiempo suficiente y la preparación. La mala noticia es que tu empleo podría sufrir un cambio no deseado. Podrías tener un nuevo jefe, un cambio de responsabilidades, o incluso una reducción de sueldo conforme tu empresa lucha con una economía cambiante.
