@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 19 de marzo 2018 al 25 de marzo 2018 
-description: Horóscopo semanal escorpio 19 de marzo 2018 al 25 de marzo 2018. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+title: escorpio 26 de marzo 2018 al 01 de abril 2018 
+description: Horóscopo semanal escorpio 26 de marzo 2018 al 01 de abril 2018. escorpio, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: ClYM8SqM-tk
+ video: QxiebkBu2Dw
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-03-19'
+ lastmod: '2018-03-26'
 ---
 
 
 
-## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+## escorpio, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 
-Disfruta de la vida escorpio, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven escorpio. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana escorpio.
-Con el ejemplar Saturno, el encantador Venus, el sol y el potente Plutón en tu sector de finanzas y recursos, la semana entrante podría encontrarte pensando muy atentamente en estos asuntos. Si has gastado de más en las últimas semanas, puede que quieras ordenar tus cuentas y volver a controlar tus gastos. El cosmos también te anima a destinar algún tiempo a la meditación y la reflexión, ya que hacerlo puede ayudarte a pensar y prepararte para el 2018.
+No pelees escorpio, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente escorpio, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador escorpio, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
+En los próximos días podrías involucrarte en algunas interesantes conversaciones que pueden impulsarte hacia nuevas aventuras. Lo que sea que ha estado rondando por tu cabeza podría convertirse en realidad. Cuando el sol ingresa a tu sector de comunicación y pensamiento el martes, puede que descubras una oportunidad que está esperando a ser aprovechada. Sin embargo, Mercurio, el mensajero, se vuelve retrógrado el jueves y permanecerá así hasta el 15 de abril. Ten cuidado al cerrar tratos o comprar costosos objetos.
 
 ## Dinero
 
-Te enfrentas a un momento de decisiones financieras. Tus esfuerzos se están monetizando y te están ayudando a ganar más que nunca. De hecho, puede que tengas tanto que hacer, que no tienes tiempo para amigos y contactos sociales. Puede que tengas que establecer un equilibrio entre el trabajo, las responsabilidades de dinero y la necesidad de desahogarte de vez en cuando. Sin duda te lo mereces.
+Hay algunos problemas relacionados con deudas y bienes de propiedad con otras personas. Puede que estés actuando bajo una sincronización distinta a la de tus acreedores. La mejor forma de resolverlo es con calma y sin mancha. Puede que tengas una visión maravillosa sobre cómo saldar la deuda con mayor rapidez - ¡toma ventaja de ello! Mientras tanto, el amor ilumina tu vida familiar; el pasar tiempo con tus seres queridos hace que todo valga la pena.

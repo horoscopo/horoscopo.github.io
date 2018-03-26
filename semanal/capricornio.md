@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 19 de marzo 2018 al 25 de marzo 2018 
-description: Horóscopo semanal capricornio 19 de marzo 2018 al 25 de marzo 2018. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+title: capricornio 26 de marzo 2018 al 01 de abril 2018 
+description: Horóscopo semanal capricornio 26 de marzo 2018 al 01 de abril 2018. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: jQRM1Mgl9wM
+ video: -6FG_IRMq88
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-03-19'
+ lastmod: '2018-03-26'
 ---
 
 
 
-## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 
-Siempre estás sonriendo capricornio, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes capricornio pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio capricornio, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
-Este es un excelente momento para enfocarte en tus metas e intereses personales. Sin embargo, no te apures a tomar cualquier decisión. Mientras Mercurio continúe en su fase retrógrada, puede que debas hacer cambios de todos modos. Mientras tanto, lo mejor sería que investigues cuáles son tus opciones. También podrías considerar una idea que habías rechazado pero que ahora te atrae mucho. De hecho, a medida que el sol y el diplomático Venus conectan con el comunicativo Mercurio, analizar esto con los demás puede ayudarte a decidir si debes seguir adelante o no.
+Esta semana tienes que tomarte las cosas con más calma capricornio. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
+ Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse.
+Puede que se generen algunas alteraciones en tu vida social debido a que el eclipse lunar en tu sector de amistad podría traer algunos cambios. Puede que una amistad se vaya de tu círculo social o que hagas nuevas amistades, quizá debido a un movimiento. También es posible que el tiempo que pasabas con ciertos grupos haya llegado a su fin y sea hora de seguir adelante. Si es así, piensa que es parte de las idas y vueltas de la vida. Dentro de poco verás nuevos cambios.
 
 ## Dinero
 
-Esta semana trae un gran suspiro de alivio a medida que eres capaz de ser más productivo/a. Podrías estar considerando  mover tu oficina o base de operaciones, la cuál vendría con menos distracciones con las que has estado trabajando recientemente. Mientras tanto, prepárate para el cambio en el frente de la deuda. Los planetas tienen sorpresas con cambios en tasas de interés y plazos. Lee las clausulas con cuidado.
+Esta semana estás pensando en la manera de expresar tu lado serio. Tienes algunas cosas pesadas en la mente, y mantenerlas dentro  no le hace bien a nadie. En vez de eso, encuentra a tu locutor interno, y dale la noticia de una manera neutral e imparcial. Al menos tu sector de trabajo es un lugar seguro en el que puedes dejar que tu nuevo “yo” salga. La gente quiere escuchar lo que tienes que decir, sobre todo tus ideas sobre cómo ahorrarle dinero a la empresa.

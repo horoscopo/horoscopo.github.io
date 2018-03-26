@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 19 de marzo 2018 al 25 de marzo 2018 
-description: Horóscopo semanal aries 19 de marzo 2018 al 25 de marzo 2018. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada aries. 
+title: aries 26 de marzo 2018 al 01 de abril 2018 
+description: Horóscopo semanal aries 26 de marzo 2018 al 01 de abril 2018. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: AaKIDX2nINM
+ video: IcOPShatPLA
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-03-19'
+ lastmod: '2018-03-26'
 ---
 
 
 
-## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada aries. 
+## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 
-A veces dejar ir las cosas es mucho más complicado de lo que piensas aries. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad aries, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres aries. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero aries, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. aries, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
-La semana comienza con una energía potencialmente apasionada. Hay probabilidades de tener un romance o de revivir una relación. Si tu relación ha caído en la rutina, la adorable alineación entre Venus y Júpiter puede llevarla a un nivel más gratificante. Aun así, con el etéreo Neptuno en la escena, también es necesario que tengas precaución al firmar contratos o cerrar acuerdos. Puede que no todo sea lo que parece. El fin de semana podría ser volátil. Espera hasta que las cosas se calmen antes de abordar un asunto clave.
+Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real aries, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Capri. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría aries, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
+Si un proyecto grupal parece estancado, este es el momento para averiguar la causa. Puede que sea sencillo detectar qué salió mal y, antes de que te des cuenta, tu entusiasmo regresará. La Luna Nueva en tu sector de hogar y familia puede ser uno de los mejores momentos para cambiar la dinámica familiar, tal vez adoptando una mascota o recibiendo a un familiar más grande. Si has estado pensando en comenzar un negocio en tu hogar, este también podría ser un excelente período para comenzarlo.
 
 ## Dinero
 
-Tu sector del hogar está bajo escrutinio. Aunque la energía colocada aquí es bastante favorable y apacible, es posible que desees ver cuánto te estás gastando en tu casa cada mes. Si necesitas un ajuste, éste es el momento de hacerlo, no cuando estás bajo presión. Hay todo tipo de buenas noticias en el frente de trabajo. Una mejor situación está por venir si eres lo suficientemente paciente para dejar que suceda.
+Te muerdes las uñas para empezar a trabajar en un nuevo proyecto creativo. Esto pasará, y tu mente será estimulada en todo tipo de interesantes direcciones. Esto también afectará a los niños, parejas románticas, miembros de familia y diversión. Gastar tu dinero en efectivo en estas áreas afirma tu lugar en el mundo y todos los beneficios de tu arduo trabajo.

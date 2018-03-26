@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: tauro 19 de marzo 2018 al 25 de marzo 2018 
-description: Horóscopo semanal tauro 19 de marzo 2018 al 25 de marzo 2018. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+title: tauro 26 de marzo 2018 al 01 de abril 2018 
+description: Horóscopo semanal tauro 26 de marzo 2018 al 01 de abril 2018. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes tauro.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: _glYN-sMgbA
+ video: Brcha3O5-b4
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-03-19'
+ lastmod: '2018-03-26'
 ---
 
 
 
-## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes tauro.
 
-Nadie se cura por herir a otro tauro. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
-Debido a una poderosa influencia en tu sector espiritual, un nuevo comienzo es posible. Si tienes ganas de aprender a meditar o empezar alguna otra práctica espiritual, ¡adelante! Hacerlo podría cambiar tu vida de una forma dinámica, lo que te permitirá darle vida a tu visión. Y con el Sol ingresando a tu signo a partir del martes, también te sentirás con más energía y vitalidad durante las próximas semanas. Enfocarte en proyectos que tienen un significado especial para ti también puede ser muy gratificante.
+Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea tauro. 
+ Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
+Aunque pareciera que mantienes la calma, puede que no sea la realidad si las emociones se están desbordando. Si ya no puedes tolerar la conducta de una persona, puede que en los próximos días descargues tu enojo. ¿Pero es prudente hacerlo? Puede que no, si quieres que esta persona siga siendo tu amistad. Lo mejor sería tener una charla sincera. El Eclipse Solar de este fin de semana podría generar cambios en tu ámbito social.
 
 ## Dinero
 
-Esta semana nadas en placer y estás cambiando mucho. Todo es cuestión de placer, belleza y creatividad para ti ahora conforme consideras la forma en la cuál exponerte al mundo. Considera el vestirte para el trabajo que deseas en lugar de para el que tienes. Los aspectos afectan tu sector de socialización y política. Es crucial dar una buena impresión en este momento para hacer que tus oportunidades de ganar dinero crezcan a través del tiempo.
+Esta semana se trata de mantener el equilibrio y la cordura. Acude al Universo para obtener información acerca de hacia dónde te diriges - esta semana se encuentra en tu sector de comunicaciones. Tienes que tratar más y hacerte más visible para poder conseguir ese aumento de sueldo, un nuevo trabajo o convencer a alguien para que invierta en tu futuro.

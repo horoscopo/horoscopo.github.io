@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 19 de marzo 2018 al 25 de marzo 2018 
-description: Horóscopo semanal geminis 19 de marzo 2018 al 25 de marzo 2018. Tienes que plantarte geminis, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+title: geminis 26 de marzo 2018 al 01 de abril 2018 
+description: Horóscopo semanal geminis 26 de marzo 2018 al 01 de abril 2018. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: 0rOJUYPu5aA
+ video: rpqn1hpkOWI
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-03-19'
+ lastmod: '2018-03-26'
 ---
 
 
 
-## Tienes que plantarte geminis, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
 
-No te mereces poco geminis… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura geminis, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo geminis. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
-Puede que esta semana tengas muchas ocupaciones en lo que respecta a tus metas o ambiciones personales. Sin embargo, una señal que te de tu intuición podría actuar como catalizador que te anime a experimentar con nuevas ideas que te lleven al éxito. El eclipse solar del jueves en tu sector profesional podría empujarte hacia un nuevo comienzo. Tal vez sientas que no te has preparado, pero el cosmos podría tener otras ideas. Puede que sientas que te obligan a hacer actividades desafiantes pero a la vez, muy gratificantes. El fin de semana, tu vida social resplandece.
+A veces, no es fácil vivir la vida geminis, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera geminis. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
+Si bien la semana comienza con un enfoque en tu sector espiritual, lo que podría animarte a adoptar una compasiva actitud hacia los problemas de los demás, esta influencia puede cambiar rápidamente. A medida que el conversador Mercurio y el encantador Venus ingresan a tu signo, es posible que tu expresividad aumente en general. Aun así, la vida puede volverse más interesante e intensa el fin de semana, y esto podría coincidir con una instantánea atracción o la posibilidad de tomar una decisión clave. Si te sientes rebelde, trata de pensar antes de tomar cualquier decisión impulsiva.
 
 ## Dinero
 
-Puede que sientas un poco de tensión esta semana. Dado que el efecto es en el sector social, las personas pueden comportarse de forma inesperada o no estar allí cuando les necesites. Además, alguien puede desenterrar todo tipo de cosas en relación a tu zona de deudas. No dejes de levantar ninguna piedra y asegúrate dos so tres veces de haber pagado los saldos pendientes. No necesitas ninguna sorpresa por ahora.
+Tu sector de relaciones se pone de relieve, lo que significa que puedes tener la tentación de socializar más, conocer gente nueva y cultivar uniones existentes con los demás. Sin embargo, también puedes tener la tentación de mudarte o vender una propiedad por un pequeño margen de ganancia por el simple hecho de salirte. Muévete lentamente para que no te arrepientas de tu decisión después.

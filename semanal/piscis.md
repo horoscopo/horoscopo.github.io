@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 19 de marzo 2018 al 25 de marzo 2018 
-description: Horóscopo semanal piscis 19 de marzo 2018 al 25 de marzo 2018. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+title: piscis 26 de marzo 2018 al 01 de abril 2018 
+description: Horóscopo semanal piscis 26 de marzo 2018 al 01 de abril 2018. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: GKZ2ZfDVlkY
+ video: dVizznxnt7c
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-03-19'
+ lastmod: '2018-03-26'
 ---
 
 
 
-## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 
-Vamos piscis, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida piscis, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie piscis pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás piscis. Así, tal cual.
-Te entretendrás mucho conectando, socializando y disfrutando de festivas reuniones, lo que te da la oportunidad de volver a encontrarte con viejas y nuevas amistades. Esta semana, podría haber un dramático cambio de enfoque. El énfasis estará en las interacciones y en establecer metas con propósito que incluyan el establecimiento de contactos. Sin embargo, la noticia más importante puede ser que Saturno deja tu sector monetario e ingresa a este sector. Parte de la presión financiera que parecía haber puede comenzar a disminuir, lo que es muy bueno.
+No puedes poner piezas en lugares que no corresponden piscis, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo piscis, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso piscis, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte piscis, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho piscis, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
+Cuando el encantador Venus en tu signo se alinea con el eléctrico Urano en tu sector de comunicación, podrías recibir la agradable sorpresa de noticias inesperadas o de una invitación repentina. Sin embargo, el cuarto de luna a mediados de la semana sugiere que deberás tener en cuenta tus prioridades antes de tomar cualquier decisión. La decisión que debes tomar entre concretar las metas y los planes relacionados con tu carrera, o aquellos que son significativos para ti a nivel personal puede ser importante. El fin de semana es un buen momento para las compras y para hacerle un regalo especial a tu ser querido.
 
 ## Dinero
 
-Con un aspecto armonioso ahora, puede que tengas la tentación de celebrar antes de tiempo. Pero con toda la energía que hay en el aire ahora, lo mejor es encontrar una manera de sacarle provecho primero. La actividad astral afectará los viajes, el aprendizaje y la espiritualidad, indicando el momento de buscar formas de ampliar tu mercado. Si ofreces un producto o servicio que podría ser vendido en el extranjero, haz que suceda ahora. Consulta a un especialista en ventas si necesitas ayuda.
+Ahora, puede que estés pensando en cómo pedir prestado algo de dinero para sacarte del apuro ya sea de un mal momento o para abrir un nuevo negocio. Es a quién conoces lo que cuenta. Acude a miembros de la familia, amigos y otras partes interesadas para recibir ya sea asesoramiento o dinero en efectivo. Dado a que una relación de apoyo afecta a tu sector de trabajo y salud, piensa en la posibilidad de avanzar a partir de donde estás ahora.
