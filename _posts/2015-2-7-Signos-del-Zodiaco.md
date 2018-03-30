@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de marzo 2018
-description: Horóscopos del dia de hoy 29 de marzo 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 30 de marzo 2018
+description: Horóscopos del dia de hoy 30 de marzo 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-03-29
+ lastmod: 2018-03-30
 ---
-Neptuno da un gran salto hacia adelante para volverse directo el día de hoy. La gente es más específica y hay menos ocasiones para la evasión, la vaguedad y la superficialidad. Esta noche, Venus, el planeta del amor, inspira coquetería con el aspecto oportuno que forma con Neptuno. Pasa una velada agradable, cuando el buen espíritu es contagioso.
+Mantén tu sentido del humor el día de hoy mientras las emociones sean la norma bajo la Luna en Cáncer saliéndose de su órbita. Esta noche, personas con buenas técnicas de coqueteo salen a jugar bajo la Luna en Leo. Sin embargo, ¡es casi puro espectáculo! Si ya tienes pareja, recuerda que tienes a alguien que te aprecia en toda forma posible.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
