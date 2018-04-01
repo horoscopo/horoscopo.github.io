@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Sagitario Abril 2018 
+title: sagitario abril 2018 
 permalink: /horoscopo-mensual/sagitario/
-keywords: horóscopo, horóscopo 2018,  Abril, horoscopo Abril,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2018, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo sagitario abril , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2018, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
+
+description: El horóscopo de abril para Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2018-04-01'
+ lastmod: '01-04-2018'
 ---
 
- Durante la luna llena del 1 de marzo, sé la persona a la cuál acudir en el trabajo o en tu grupo social. Actúa bien y gánate todas las recompensas. Júpiter se torna retrógrado el día 8. Mira con más atención lo que en realidad te trae suerte. Durante la luna nueva del 17 de marzo, tu hogar es donde están los sueños más grandes y cautivadores. A menos que haya un buen motivo para salir, ni te molestes. Durante la luna llena, y luna azul, del último día del mes, lima cualquier aspereza social o tranquiliza a una persona difícil pero importante. Las soluciones ingeniosas saldrán de la nada, lo que lo hará fácil. Sé la magia de alguien más.
+
+Con la luna nueva del 15 de abril, hay una vida de nuevas emociones. Puede que sean emociones pequeñas, pero la diversión cuenta igual, y tú sabes cómo compartir los buenos momentos. Intenta algo diferente y disfruta. El día 17, la oposición entre Venus y Júpiter podría traer confusión. No sabrás lo que quieres casi hasta que sea demasiado tarde. La luna llena del 29 de abril te permite darle una gran satisfacción, quizás de forma anónima, a alguien especial. A veces es agradable recibir todo el crédito, pero a veces es incluso más divertido ser aquella amistad secreta o simpatizante. Todo se descubrirá al final, y una gran gratitud aparecerá en tu camino. <br><br>Días destacados: 3, 21, 30<br>Días desafiantes: 11, 17

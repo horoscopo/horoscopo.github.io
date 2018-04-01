@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Libra Abril 2018 
+title: libra abril 2018 
 permalink: /horoscopo-mensual/libra/
-keywords: horóscopo, horóscopo 2018,  Abril, horoscopo Abril,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2018, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo libra abril , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2018, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+
+description: El horóscopo de abril para Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2018-04-01'
+ lastmod: '01-04-2018'
 ---
 
- Durante la luna llena del 1 de marzo, enfócate en tu vida diaria o espacio doméstico. Haz un pequeño cambio ahora y transforma un buen lugar en un paraíso para refugiarte del tempestuoso mundo. Durante la luna nueva del día 17, promulga tu resolución de ser más saludable y tener una vida más activa. O de pasar la aspiradora o limpiar la caja de arena más seguido. Las buenas intenciones pueden no llevarte a ningún lado, pero aun así son buenas. El 28 de marzo, Venus forma una conjunción con Urano. El amor podría surgir de la nada y sorprenderte ese día. El mundo te adora durante la luna llena, una luna azul, el último día del mes. Sé inteligente y ten discreción. Nadie puede resistirse a ti ahora.
+
+Venus forma un trígono con Marte el 10 de abril. ¡Momento de coquetear! El amor podría aparecer desde un ángulo inesperado durante la luna nueva del día 15. No te dejes cegar por un romance que amenaza con ser más que perfecto. Si ya estás con alguien excelente, las cosas podrían ponerse incluso mejor. El 24 de abril, Venus ingresa a Géminis. El romance se pone más juguetón y encantador que nunca. La luna llena del día 29 podría aclarar un poco tu mundo monetario y material. Encuentra algo valioso que habías perdido. Busca en el correo un cheque o descuento cuyo rastro habías perdido. Consigue un sí para un préstamo u otra solicitud. <br><br>Días destacados: 7, 12, 27<br>Días desafiantes: 17, 26

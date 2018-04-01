@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Escorpio Abril 2018 
+title: escorpio abril 2018 
 permalink: /horoscopo-mensual/escorpio/
-keywords: horóscopo, horóscopo 2018,  Abril, horoscopo Abril,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2018, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo escorpio abril , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2018, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+
+description: El horóscopo de abril para Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2018-04-01'
+ lastmod: '01-04-2018'
 ---
 
- Para la luna llena del 1 de marzo, llega al gran escenario sin tener que estar en el centro de atención todo el tiempo. Róbate la escena, o el espectáculo completo. Mercurio ingresa a Aries el día 5. Una nueva idea, genial y atrevida, podría aparecer en cualquier momento. Durante la luna nueva del 17 de marzo, disfruta de todos tus sueños preferidos, maravillosos e incluso los más alocados. Sé extravagante y sentimental, y no pidas disculpas. Busca paz y tranquilidad durante la luna llena, una luna azul, el último día del mes. Incluso si sales, busca la paz interior y sé más feliz. Déjate cautivar por la belleza que te rodea, que en general pasa desapercibida.
+
+Escucha a tu cuerpo con más atención alrededor de la luna nueva del 15 de abril. Si no te alteras, o haces demasiado y vas demasiado rápido, todo debería estar bien. Aun así, ¿está tu digestión intentando decirte algo? Simplemente escucha. La conjunción entre Marte y Plutón el día 26 podría ser un desafío para todos. Controla tu temperamento, y no permitas que una pequeña discusión explote. Durante la luna llena del 29 de abril, sé transparente y tendrás suerte extra. Fija tu propia agenda y sé feliz. Tal también complacerá a quienes te quieren. Deja que el mundo se entretenga a sí mismo. Tienes mejores cosas que hacer. <br><br>Días destacados: 2, 10, 23<br>Días desafiantes: 22, 26

@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Tauro Abril 2018 
+title: tauro abril 2018 
 permalink: /horoscopo-mensual/tauro/
-keywords: horóscopo, horóscopo 2018,  Abril, horoscopo Abril,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2018, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo tauro abril , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2018, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+
+description: El horóscopo de abril para Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2018-04-01'
+ lastmod: '01-04-2018'
 ---
 
- Para la luna llena del 1 de marzo, sé una persona artística y atrevida. Tómate una o dos horas para hacer bordados en miniatura o un álbum de recortes. Encuentra una gran diversión en pequeños esfuerzos. La luna nueva del día 17 se trata de tener vida social, conexiones y fiestas. La alegría, el amor y la suerte están ahora en el aire. El 30 de marzo, Venus entra a Tauro, el signo que rige. Atrae toda la atención que puedas querer, y disfruta de cada momento. Llénate de motivación con la luna llena, una luna azul, el último día del mes, y cuida mejor de ti. Además, come, duerme y sueña mejor.
+
+El 10 de abril, Venus forma un trígono con Marte. Cuando el deseo y la pasión coinciden, el amor está cerca. Puede que la luna nueva del día 15 sea tenue, pero no será tranquila ni silenciosa. Incluso si te quedas en casa y meditas, podrías sentir inquietud interna. Haz algo que nutra tu corazón. El sol ingresa a Tauro el 19 de abril. ¡Llénate de energía! Deja que la luna llena del día 29 traiga más amor a tu vida. Una pareja poco entusiasta podría volverse mucho más cálida, o un negocio o colega del trabajo podría preparar el terreno para un gran golpe de suerte que beneficie a ambos. No necesitarás hacer nada especial. <br><br>Días destacados: 7, 12, 24<br>Días desafiantes: 1, 17

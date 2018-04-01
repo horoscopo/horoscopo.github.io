@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Aries Abril 2018 
+title: aries abril 2018 
 permalink: /horoscopo-mensual/aries/
-keywords: horóscopo, horóscopo 2018,  Abril, horoscopo Abril,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2018, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo aries abril , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2018, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
+
+description: El horóscopo de abril para Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2018-04-01'
+ lastmod: '01-04-2018'
 ---
 
- La luna llena del 1 de marzo indica que debes retocar tu lugar preferido, buscar mayor comodidad y tener mejor salud. Brilla desde tu interior y sé más feliz que nunca. La luna nueva del día 17 podría hacer que comiences a cumplir un sueño. Sueña en grande. El 20 de marzo, el sol ingresa a Aries. Este es tu momento del año para enfrentarte al mayor desafío. No te dejas desanimar con facilidad. El amor brilla con intensidad durante la luna llena, una luna azul, el último día del mes. No te preocupes por ir demasiado rápido o asustar a alguien prometedor. La persona adecuada se sentirá atraída por tu llama. Actúa con sinceridad y sé sensacional.
+
+El 2 de abril, la conjunción entre Marte y Saturno te da una tremenda autoridad. Úsala sabiamente. Haz que el mundo se sorprenda (y tú también) durante la luna nueva del día 15. Comienza algo nuevo, que exprese un lado que sueles esconder de ti. La conjunción entre Marte y Plutón el 26 de abril podría encender los temperamentos. Evita el conflicto y dale un uso positivo a la pasión. Con la luna llena del día 29, sé la buena suerte de alguien, y haz crecer y florecer tu reputación. Hacer el favor correcto en el momento adecuado no será olvidado. No será cuestión de elegir qué hacer para quién. Actúa con espontaneidad y deja que la gente se acerque a ti. <br><br>Días destacados: 7, 10, 23<br>Días desafiantes: 4, 21

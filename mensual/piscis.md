@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Piscis Abril 2018 
+title: piscis abril 2018 
 permalink: /horoscopo-mensual/piscis/
-keywords: horóscopo, horóscopo 2018,  Abril, horoscopo Abril,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2018, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo piscis abril , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2018, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
+
+description: El horóscopo de abril para Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2018-04-01'
+ lastmod: '01-04-2018'
 ---
 
- Amor y romance surgen naturalmente con la luna llena del 1 de marzo. No eres el tipo de pareja mediocre. No. Tú eres el eje que hace girar la rueda del amor, y el amor depende de ti. El día 4, el sol forma una conjunción con Neptuno en Piscis. Esto podría hacer que una fantasía romántica sea irresistible. Durante la luna nueva del 17 de marzo, celebra un nuevo más brillante y valiente tú. Tal vez piensas que eres la misma persona, pero la gente se dará cuenta y te valorará más. Debes apreciar esto y estar a la altura de las circunstancias. Durante la luna llena, y luna azul, del último día del mes, sé la persona arbitraria o mediadora entre gente que discute. Será fácil.
+
+El 12 de abril, la conjunción que la luna forma con Neptuno podría ponerte muy sensible. Recuerda respetar tus propios límites. La luna nueva del día 15 ilumina tus finanzas y posibilidades de ganar dinero. Crea una opción que no parecía posible uno o dos meses atrás. La gente se siente atraída hacia tus buenas e ingeniosas ideas. La luna llena del 29 de abril te permite ser la persona generosa que siempre has querido ser. Se tratará de hacer actividades voluntarias y ofrecer tu tiempo, atención e incluso afecto, más que de donar dinero. Sal y salva el mundo a tu gusto, pero sé una persona selectiva. También respeta tus propios recursos y energía. <br><br>Días destacados: 12, 21, 30<br>Días desafiantes: 11, 26

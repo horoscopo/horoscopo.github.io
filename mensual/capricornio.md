@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Capricornio Abril 2018 
+title: capricornio abril 2018 
 permalink: /horoscopo-mensual/capricornio/
-keywords: horóscopo, horóscopo 2018,  Abril, horoscopo Abril,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2018, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo capricornio abril , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2018, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+
+description: El horóscopo de abril para Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2018-04-01'
+ lastmod: '01-04-2018'
 ---
 
- Aprecia los detalles de tu mundo durante la luna llena del 1 de marzo. Presta mucha atención a las cosas pequeñas tanto como a las grandes. El día 13, Venus forma una cuadratura con Saturno. Una amistad o relación amorosa podría desarrollar algunas complicaciones superficiales. La luna nueva del 17 de marzo está llena de diversión y fantasía con tu gente. Déjalos que salgan con sus ocurrencias. Déjate sorprender y entretener con alegría. Profesión e imagen social se encienden durante la luna llena, y luna azul, el último día del mes. Triunfa en esa entrevista, escribe esa hoja de vida, mantén una buena relación con tus colegas, gana puntos con la administración. Si trabajas de forma independiente, consigue trabajos o buenas asociaciones.
+
+La luna nueva del 15 de abril puede darte la oportunidad de terminar algo que pensaste que nunca llegaría a su fin. Tampoco necesitará de mucho esfuerzo, solo un pequeño empujón en la dirección correcta. Saturno se torna retrógrado el día 17. Relájate y deja de preocuparte. Sé más influyente o importante en tu círculo social con la luna llena del 29 de abril. Podrías ser una persona más efectiva detrás de escenas, como un maestro secreto, en vez de ser el líder o experto obvio. Diviértete mirando a la gente disfrutar de forma espontánea lo que tú disfrutas. Por último, ese mismo día, el trígono que el sol forma con Saturno te permite lograr muchas cosas. <br><br>Días destacados: 2, 7, 16<br>Días desafiantes: 5, 27

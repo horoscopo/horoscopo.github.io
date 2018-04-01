@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Virgo Abril 2018 
+title: virgo abril 2018 
 permalink: /horoscopo-mensual/virgo/
-keywords: horóscopo, horóscopo 2018,  Abril, horoscopo Abril,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2018, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo virgo abril , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2018, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+
+description: El horóscopo de abril para Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2018-04-01'
+ lastmod: '01-04-2018'
 ---
 
- La luna llena del 1 de marzo empieza tu mes con un destello de seguridad y autoestima bien merecido. Ten modestia, pero sé transparente. La luna nueva del día 17 es ideal para el amor y el romance. Puede que no conozcas a tu alma gemela, pero podrías visualizar con claridad a esa persona. Disfruta del resplandor romántico del día. El 22 de marzo, Mercurio se torna retrógrado en Aries. Vuelve a examinar algo que comenzaste hace poco. Probablemente puedes mejorarlo. La luna llena, una luna azul, trae oportunidades para ganar dinero el último día del mes. También podría traerte un valioso regalo, o que te devuelvan un favor que hiciste hace mucho tiempo.
+
+La conjunción entre el sol y Mercurio el 1 de abril libera tu intuición. Con la luna nueva del día 15, tendrás todas las respuestas para los problemas ajenos. Deja que pregunten primero. Tal vez no te involucres en los asuntos de nadie, pero igual puedes aprender mucho si observas y escuchas. Además, Mercurio se torna directo ese día. Aclara cualquier malentendido. La luna llena del 29 de abril trae amistades y gente del vecindario a tu lado. Tal vez piensas que no necesitas ayuda, pero todos la necesitan en realidad, de alguna forma u otra. A veces la aceptación es la mejor manera de dar. Sé una persona amable y agradecida. <br><br>Días destacados: 1, 14, 24<br>Días desafiantes: 4, 20

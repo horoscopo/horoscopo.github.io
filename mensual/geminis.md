@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Geminis Abril 2018 
+title: geminis abril 2018 
 permalink: /horoscopo-mensual/geminis/
-keywords: horóscopo, horóscopo 2018,  Abril, horoscopo Abril,horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2018, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo geminis abril , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2018, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+
+description: El horóscopo de abril para Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2018-04-01'
+ lastmod: '01-04-2018'
 ---
 
- Sé una dedicada persona hogareña durante la luna llena del 1 de marzo. Si tu trabajo o un grupo social se vuelve demasiado demandante o ambicioso, deja que tu hogar te acoja con paz y tranquilidad hechas a tu medida. Tanto tu profesión como condición social se ven impactadas por la luna nueva del día 17. Tal vez termines eligiendo otra cosa, pero verás lo que se puede hacer de una forma u otra. Ten fe en tus muchas habilidades y talentos. El 22 de marzo, Mercurio se torna retrógrado en Aries. Esto te permite tomarte las cosas con mayor calma. Sé una persona elegante y encantadora para la luna llena, una luna azul, el último día del mes. Puede que los demás prefieran algo más descarado y emocionante. Déjalos.
+
+La conjunción entre el sol y Mercurio el 1 de abril te permite divertirte más y ser una persona más traviesa que nunca. La luna nueva del día 15 consiste en socializar. Ve a un concierto en un gran escenario y baila con locura. Relaciónate con la multitud y con personas mayores, más jóvenes y de entornos diferentes. Descubrirás que tienen mucho en común. Además, Mercurio se torna directo ese día. Cobra impulso. Si has querido adoptar a un animal, la luna llena del 29 de abril podría traerte la mascota perfecta. O haz un cambio agradable en tu rutina diaria, sé mucho más feliz y siéntete más a gusto. <br><br>Días destacados: 14, 18, 23<br>Días desafiantes: 4, 25
