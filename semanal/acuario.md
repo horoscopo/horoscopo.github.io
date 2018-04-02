@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: acuario 26 de marzo 2018 al 01 de abril 2018 
-description: Horóscopo semanal acuario 26 de marzo 2018 al 01 de abril 2018. La guerra que tienes dentro está deseando encontrar un poco de paz acuario, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+title: acuario 02 de abril 2018 al 08 de abril 2018 
+description: Horóscopo semanal acuario 02 de abril 2018 al 08 de abril 2018. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: CPSPdw8CiQ4
+ video: vqXkP-Kerm0
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-03-26'
+ lastmod: '2018-04-02'
 ---
 
 
 
-## La guerra que tienes dentro está deseando encontrar un poco de paz acuario, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 
-Esta semana va a estar cargada de altibajos acuario, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre acuario, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza acuario, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite acuario, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
-La tentación podría ser dar y dar hasta agobiarte. El enfoque en el signo de Piscis y tu sector de trabajo y servicio sugiere que sientes que es tu deber ayudar a los demás, sin importar tus propias necesidades. Pero este enfoque no puede sostenerse. Y con el alegre Mercurio y el sol en línea con el precavido Saturno esta semana, el cosmos te anima a establecer límites más saludables. Tendrás que darle algo a tu persona en algún momento, y este puede ser el momento para hacerlo.
+No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado acuario, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+Algo que podría resultarte difícil esta semana es que alguien te diga qué hacer. Puede que convenga ponerte a trabajar en serio y seguir sus instrucciones. Esta podría ser la mejor forma de transitar esta semana, ya que Marte —tu planeta regente— conecta con el prudente Saturno en tu sector de metas y autoridad. Alguien te está poniendo presión o bien te estás exigiendo demasiado, lo que puede ser difícil de tolerar. 
+Sin embargo, es algo a lo que deberás acostumbrarte, ya que el sobrio Saturno permanece en tu sector profesional durante un tiempo más. Tienes la oportunidad de exhibir tus habilidades y de demostrarle al mundo de qué eres capaz, y los próximos días pueden formar parte de este proceso. Cuando el encantador Venus se dirige a Saturno el domingo, puede que te des cuenta de que, si vas a cosechar los frutos, lo prudente es ponerte a trabajar en las tareas clave en lugar de resistirte a ellas.
 
 ## Dinero
 
-Los planetas quieren hacer de ti una persona hermosa y magnética, un imán de gente, situaciones y oportunidades para que puedas cumplir con tus metas y sueños esta semana. Te piden que construyas confianza en ti mismo/a y que ajustes la manera en la que te expones al mundo. Cuanto más te abras a aprender de las experiencias nuevas, más fácil será tener acceso a oportunidades. Piensa en ello.
+Es una semana un poco difícil. Probablemente quieres tomar medidas, sobre todo cuando se trata de gastar en tu casa. Sin embargo, los aspectos restringen tal para tu disgusto. El hacer las cosas de la manera más tradicional o conservadora trae los mejores resultados cuando se trata de la línea de fondo. Es probable que el presionar demasiado fuerte para lo que quieres sea rechazado por las energías más fuertes.

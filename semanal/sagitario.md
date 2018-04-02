@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 26 de marzo 2018 al 01 de abril 2018 
-description: Horóscopo semanal sagitario 26 de marzo 2018 al 01 de abril 2018. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+title: sagitario 02 de abril 2018 al 08 de abril 2018 
+description: Horóscopo semanal sagitario 02 de abril 2018 al 08 de abril 2018. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho sagitario. Más que nunca…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: uvHRA4hnOog
+ video: W_Lwg21mMP4
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-03-26'
+ lastmod: '2018-04-02'
 ---
 
 
 
-## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho sagitario. Más que nunca…
 
-Hay gente que no respeta que puedas crecer Sagi, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los sagitario pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Sagi, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
-Una conversación o encuentro podría actuar como catalizador para animarte a que te pongas en forma o que te cures de un problema de bienestar. Tu mentalidad podría cambiar durante los próximos días y semanas, y volverse mucho más positiva. Y si te has sentido con pocos ánimos debido a tu progreso durante las últimas semanas, ahora esto puede cambiar. Además, ciertas relaciones también cobrarán importancia, lo que te alentará a evaluar la situación y considerar cómo puedes mejorarlas. Criticar demasiado tampoco será de ayuda, mientras que una actitud más compasiva ciertamente podría.
+Son muchos los que quieren arruinar tu vida sagitario, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa sagitario, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega sagitario. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos sagitario. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida sagitario. Ahora brillas así que, aprovecha. Aprovecha todo.
+El sol en tu sector de ocio y placer te lleva a involucrarte en pasatiempos o actividades deportivas que disfrutas. La luna llena del jueves podría coincidir con una fiesta de Halloween u otra celebración y es excelente para juntar a tu gente y pasarla fenomenal. La presencia interactiva de Mercurio en Escorpión podría inspirarte a conectar con un potencial pretendiente y romper el hielo empezando una conversación. ¡Cosas buenas pueden suceder como resultado!
 
 ## Dinero
 
-El enfoque está en tu hogar y emociones ahora, lo que indica que es tiempo de poner más de tus recursos para mejorar el lugar en el que vives, especialmente si estás pensando en venderlo a corto plazo. La buena noticia es que tu sector del trabajo es afectado favorablemente. Considera la posibilidad de trabajar desde tu casa o el tener un trabajo que implica habilidades orientadas hacia el hogar, tales como la decoración, las reparaciones, o consultoría de feng shui. Los beneficios alientan al esfuerzo en este sentido.
+Te estás preparando para hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Una energía madura y  sensible entra a tu sector del trabajo. Mientras más puedas aprender a aceptar las responsabilidades y demostrar que los demás pueden contar contigo, más recompensa económica vendrá. No te alejes de lo que podría hacerte avanzar potencialmente.

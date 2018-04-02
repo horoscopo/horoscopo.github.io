@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: aries 26 de marzo 2018 al 01 de abril 2018 
-description: Horóscopo semanal aries 26 de marzo 2018 al 01 de abril 2018. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+title: aries 02 de abril 2018 al 08 de abril 2018 
+description: Horóscopo semanal aries 02 de abril 2018 al 08 de abril 2018. Todo acaba cicatrizando, pero tienes que dejar que cicatrice aries. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: IcOPShatPLA
+ video: x6fMTo8PRvg
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-03-26'
+ lastmod: '2018-04-02'
 ---
 
 
 
-## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+## Todo acaba cicatrizando, pero tienes que dejar que cicatrice aries. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 
-Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real aries, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Capri. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría aries, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
-Si un proyecto grupal parece estancado, este es el momento para averiguar la causa. Puede que sea sencillo detectar qué salió mal y, antes de que te des cuenta, tu entusiasmo regresará. La Luna Nueva en tu sector de hogar y familia puede ser uno de los mejores momentos para cambiar la dinámica familiar, tal vez adoptando una mascota o recibiendo a un familiar más grande. Si has estado pensando en comenzar un negocio en tu hogar, este también podría ser un excelente período para comenzarlo.
+Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
+Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
+Esta semana podría ser de mucho trabajo y poca diversión. Puede que sientas la obligación de organizar todo, en especial cuando tres planetas han llegado hace poco a tu sector de trabajo y rutina, incluido el ejemplar Saturno. Lo mejor sería delegar algunas tareas y darte más tiempo para disfrutar de lo que esté sucediendo durante esta semana de fiestas. Además, la relajante conexión entre el enérgico Marte y el etéreo Neptuno del 27 de diciembre podría animarte a satisfacer un deseo de paz y tranquilidad.
 
 ## Dinero
 
-Te muerdes las uñas para empezar a trabajar en un nuevo proyecto creativo. Esto pasará, y tu mente será estimulada en todo tipo de interesantes direcciones. Esto también afectará a los niños, parejas románticas, miembros de familia y diversión. Gastar tu dinero en efectivo en estas áreas afirma tu lugar en el mundo y todos los beneficios de tu arduo trabajo.
+Es posible que despegues esta semana - literalmente. Parece que tienes más posibilidades que nunca para ganar dinero, atraer más a través de trabajos secundarios y de interés y obtener dividendos a través de inversiones inteligentes. Si necesitas ayuda en lo que respecta a la planificación financiera, los aspectos pueden ayudarte a atraer a la persona adecuada para tus necesidades. No lo dejes al azar, en todo caso, mereces mucho más.
