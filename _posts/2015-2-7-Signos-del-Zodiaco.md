@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 02 de abril 2018
-description: Horóscopos del dia de hoy 02 de abril 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 03 de abril 2018
+description: Horóscopos del dia de hoy 03 de abril 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-04-02
+ lastmod: 2018-04-03
 ---
-Distraídos por el aburrimiento, muchos tienden a hacer las cosas a medias y lejos de la norma establecida mientras la Luna forma trígono con el espontáneo Urano. Esta noche, hay mucho ocupando las mentes, pero no hay tiempo para expresarlo bajo la Luna en Leo saliéndose de su órbita. La diversión no se ha acabado, sólo es una pausa.  
+No tomar una decisión es una opción para no tomar ninguna acción. Hoy tienes que tomar una ya sea que quieras o no. Esta noche, el romanticismo está en el aire. Podría haber una reunión casual con alguien nuevo para aquellos solteros que se encuentren con una lista de espera de potenciales parejas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
