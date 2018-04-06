@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de abril 2018
-description: Horóscopos del dia de hoy 05 de abril 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 06 de abril 2018
+description: Horóscopos del dia de hoy 06 de abril 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-04-05
+ lastmod: 2018-04-06
 ---
-El movimiento directo de Saturno hace que sea más fácil permitir que las tareas de uno le absorban. Ponte a trabajar - postergaste hacer algo tanto como pudiste. Aquellos en pareja se vuelven sentimentales románticos incurables bajo la Luna de esta noche en el emocional Piscis. Los solteros toman la vida de una manera tranquila, apacible, y sin prisas; siempre una buena actitud durante el inicio de un romance.   
+¡Feliz cumpleaños en los próximos 30 días a aquellos nacidos bajo el signo de Acuario! Si eres de este signo, prepárate para hacer olas este año, pero sería sabio no hacerlas en aguas inexploradas. ¡Lo que necesitas es un plan! Por la noche, todos se la pasan de lo lindo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
