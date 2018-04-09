@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 02 de abril 2018 al 08 de abril 2018 
-description: Horóscopo semanal cancer 02 de abril 2018 al 08 de abril 2018. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+title: cancer 09 de abril 2018 al 15 de abril 2018 
+description: Horóscopo semanal cancer 09 de abril 2018 al 15 de abril 2018. Estás a tope cancer, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: ktY1DTezThM
+ video: 41dnZsFn__w
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-02'
+ lastmod: '2018-04-09'
 ---
 
 
 
-## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+## Estás a tope cancer, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 
-Deja de esperar al futuro cancer, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz cancer, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio cancer, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir cancer, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor cancer, sin remordimientos.
-El Sol y Mercurio entran a tu signo a mediados de la semana, lo que da por finalizado un período más introspectivo. Ahora el cosmos te inspira a expresar lo que sientes y revelar tu verdadero ser. Esta también puede ser una oportunidad para que expreses esas ideas en las que has soñado durante semanas. Con la Luna Nueva en Cáncer del viernes, es el momento perfecto para que empieces un proyecto que significa mucho para ti.
+Te estás dando cuenta de quien sí y quien no cancer. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo cancer pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope cancer, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente cancer, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar cancer, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+Puede que choques con una persona en un puesto de autoridad cuando el sociable Venus ingresa al precavido Saturno al comienzo de la semana. Tal vez debas decir cómo te sientes, pero puede que tengas miedo de hacerlo. Sin embargo, otra conexión más positiva podría darte el coraje para hablar y expresarte con honestidad, lo que puede hacer toda la diferencia. La luna nueva del sábado podría ser una invitación a prestar más atención a tus sueños. Cuando el vital Marte ingresa a Capricornio el sábado, el lado ambicioso de tu personalidad podría hacerse más evidente.
 
 ## Dinero
 
-Hay cambios ocurriendo en tu sector de carrera ahora. Ciertas cuestiones laborales son muy importantes para ti, pero trata de no dejar que consuman toda tu energía esta semana. Puede ser simplemente porque la energía se concentra tanto aquí. Pero siempre se puede optar por establecer un equilibrio entre el dinero que se está ganando y los amigos y familiares que te gustaría visitar de vez en cuando.
+Es una semana ideal para pensar en iniciar un nuevo negocio. Tu trabajo está cambiando, al igual que tu imagen de dinero. El ir con la corriente significa que debes aceptar lo que está sucediendo ahora en lugar de tratar de resistirte a ello. Tus relaciones no sólo son importantes sino también un sueño perfecto para este momento de tu vida.

@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 02 de abril 2018 al 08 de abril 2018 
-description: Horóscopo semanal tauro 02 de abril 2018 al 08 de abril 2018. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana tauro.
+title: tauro 09 de abril 2018 al 15 de abril 2018 
+description: Horóscopo semanal tauro 09 de abril 2018 al 15 de abril 2018. Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: s_Z1JLTRH0w
+ video: nbAhkGGRovI
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-02'
+ lastmod: '2018-04-09'
 ---
 
 
 
-## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana tauro.
+## Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
-Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
- a personas de las que “piensas” que dependes…
-Podrías volverte más rebelde que nunca ahora que el sol está en tu signo y Venus conecta con Urano. El deseo de hacer una locura y tomar riesgos puede ser muy fuerte. Sin embargo, hay algo que debes soltar o terminar antes de poder hacer lo que quieras. Cuando hayas terminado, las cosas sucederán mucho más rápidamente. Ten mucho cuidado para no molestar a nadie que esté en un cargo de autoridad el jueves.
+tauro, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo tauro. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
+Si estás viendo tu vida de manera más intensa, esto puede ser porque el Sol y Marte han ingresado a un sector más emocional de tu carta. Tu atención podría virar hacia asuntos financieros y a cómo hacer que tu dinero trabaje más para ti. También podrías estar consciente de corrientes más profundas que te animen a trabajar sobre cuestiones que han estado en segundo plano durante algún tiempo. Analizarlas con la persona adecuada podría ayudarte a hacer un dramático cambio en tu vida.
 
 ## Dinero
 
-Nunca ha sido tu punto fuerte el sentarte y aceptar, lo cuál se sentirá doble esta semana. Algunos aspectos negativos crearán olas. Trata de llevar las facciones beligerantes en tu red social a la mesa de la paz conforme te haces cargo de los asuntos de deuda o propiedad que poseas con otra persona. El dejar que alguien más se haga cargo de ello no dará los mejores resultados ahora. Sabes perfectamente qué es  lo mejor para los dos.
+Esta semana, el Universo es de apoyo. Tu mente está enfocada en poner los planes de ahorro e inversión en su lugar, sobre todo para tu familia. Quieres llegar a ser más responsables en este ámbito y reducir los gastos impulsivos. Piensa en cómo tus necesidades son atendidas al trabajar para una gran institución. ¿Tal vez es hora de pensar en cómo iniciar tu propio negocio?

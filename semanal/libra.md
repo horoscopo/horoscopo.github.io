@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 02 de abril 2018 al 08 de abril 2018 
-description: Horóscopo semanal libra 02 de abril 2018 al 08 de abril 2018. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+title: libra 09 de abril 2018 al 15 de abril 2018 
+description: Horóscopo semanal libra 09 de abril 2018 al 15 de abril 2018. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: 2_NQC0ukvWA
+ video: Vb0NGtyw3OU
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-02'
+ lastmod: '2018-04-09'
 ---
 
 
 
-## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 
-Necesitas tener un objetivo en la vida libra, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada libra, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
-Hay un gran enfoque en tu sector espiritual. Esto podría animarte a reflexionar sobre tu vida. Después de algunos encantadores eventos festivos, puede que te agrade volver a casa y encontrar el tiempo para relajar mente, cuerpo y alma profundamente. También podrías tener oportunidades para deshacerte de cualquier irritante cuestión. Esto puede aliviarte mucho. La víspera de año nuevo luce agradablemente animada, con alegres conexiones lunares con el conversador Mercurio y el electrificante Urano, ayudándote a festejar la llegada del año nuevo con estilo.
+Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo libra… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Sagi, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Sagi. Lo vas a agradecer… Feliz semana.
+Si sientes entusiasmo en los próximos días, podría deberse a un aspecto clave que te anima a dar un salto de fe. Quizá sea algo que hace tiempo vienes pensando, pero puede que te tiente la seguridad de tu situación actual, la cual conoces y entiendes. De todas maneras, llega un momento en el que es más fácil dar el salto que quedarse en las mismas circunstancias. Esta semana podrías decidir ser valiente.
 
 ## Dinero
 
-Puede que tus alas sean recortadas en cuanto a progreso profesional se refiere. Si tu comportamiento no ha sido el apropiado con tus compañeros de trabajo o clientes recientemente, es posible que encuentres una desagradable sorpresa en tu bandeja de entrada. Es karma. Si tienes que pedir disculpas, hazlo y regresa a una relación productiva. El efectivo sigue a tu voluntad de ser un jugador de equipo.
+Estás siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que pronto necesites sentir comodidad al hablar en público o iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas será muy importante ahora. Tu carrera necesita un poco de energía concentrada e intencional. Evita la confusión con el fin de recibir lo que se aproxima hacia ti.

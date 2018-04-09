@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 02 de abril 2018 al 08 de abril 2018 
-description: Horóscopo semanal capricornio 02 de abril 2018 al 08 de abril 2018. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+title: capricornio 09 de abril 2018 al 15 de abril 2018 
+description: Horóscopo semanal capricornio 09 de abril 2018 al 15 de abril 2018. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: EsnW2bT6ujY
+ video: rKnuZOEUbEw
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-02'
+ lastmod: '2018-04-09'
 ---
 
 
 
-## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada capricornio. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No capricornio, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres capricornio, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas capricornio pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-Esta semana, Neptuno, el planeta que rige tu sector de relaciones, se vuelve retrógrado por algunos meses, y puede que esto te ponga sensible y te haga ver las influencias que te rodean. Si has estado ignorando ciertos problemas, esta puede ser tu oportunidad para que abras los ojos y hagas algo al respecto. No sucederá del día a la noche, pero de a poco notarás un patrón o entenderás cosas que serán útiles en distintas maneras. Busca pasar la misma cantidad tiempo en familia de la que pasas trabajando.
+No puedes estancarte con algo capricornio, no debes dejar de crecer nunca. Esta semana vas a estar pensando y analizando la situación de tu vida, ¿estás haciendo lo que realmente quieres hacer? No capricornio, hay cosas que quieres cambiar pero tienes que cambiarlas ya, empezar y terminar. No puedes conformarte con la vida que estás llevando, el tiempo pasa muy deprisa y cuando te quieras dar cuenta quizás ya sea demasiado tarde, o quizás te sea mucho más complicado tomar decisiones. Sigue con tus proyectos y no te amargues cuando no veas resultados inmediatos. Lo bueno siempre tarda en llegar. Lo que tienes que hacer es no desanimarte. Saca tu verdadero yo, no te metas en nada superficial, al fin y al cabo esas cosas te merman mucho, no es lo tuyo capricornio. No vale ni un segundo de tu tiempo. No te calientes demasiado acordándote de cosas que ya fueron y que ahora no son, que jamás podrán volver a ser, sigues perdiendo tu tiempo como lo hagas así. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. No eres mediocre capricornio así que, no quieras llevar esa vida, agarra el amor propio que te sale para buscar mejores oportunidades. No es que seas egoísta, no es que te vuelvas egoísta, es que es algo vital que hagas tu vida.
+El manejo de tu tiempo podría ser de suma importancia esta semana, permitiéndote lograr mucho más de lo que normalmente finalizarías. Si encuentras esta forma de trabajar útil, es posible que desees mantener el mismo ritmo en el futuro. La Luna Llena del martes en tu sector de relaciones podría destacar una relación y sentimientos asociados a ella. Si tú y alguien más están lidiando con un problema, es ahora cuando tal podría llegar a un punto crítico. Evita hacer o decir cualquier cosa que pudieras lamentar más adelante.
 
 ## Dinero
 
-Es posible que esta semana te rebeles en contra de las figuras de autoridad, al menos en tu mente. Algunos aspectos indican que necesitarás de ayuda para mantener la calma. Seguro que andas muy comunicativo/a, pero trata de no expresar demasiada agresión en cuanto a lo que quieres y necesitas. Los demás tienen que ser considerados también. Algunas restricciones y limitaciones pueden hacerte sentir como que todo es personal, pero lo más probable es que realmente no lo sea.
+Puede que estés pensando en maneras de embellecer tu área de trabajo o conseguir que tus colegas participen en un esfuerzo creativo. También tienes el apoyo total del Universo para hacer algunos movimientos importantes en la parte frontal de la deuda. Pagar las cosas te da una gran sensación en el interior, al igual que hacer un plan de ahorro global y mantenerte al tanto con él.

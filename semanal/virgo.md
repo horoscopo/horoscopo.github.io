@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 02 de abril 2018 al 08 de abril 2018 
-description: Horóscopo semanal virgo 02 de abril 2018 al 08 de abril 2018. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón virgo, no hay casualidades ni coincidencias.
+title: virgo 09 de abril 2018 al 15 de abril 2018 
+description: Horóscopo semanal virgo 09 de abril 2018 al 15 de abril 2018. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: W8j2a5OKFo8
+ video: scjZZ44LhqU
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-02'
+ lastmod: '2018-04-09'
 ---
 
 
 
-## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón virgo, no hay casualidades ni coincidencias.
+## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 
-Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
-Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
-como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
-Te encuentras en una fase natural cuando el cosmos te invita a tomarte la vida con más tranquilidad. Puede que el enfoque en las ideas, los sentimientos y los problemas internos también te motiven para que hagas una limpieza emocional y dejes atrás todo el bagaje que te impide seguir adelante. Sin embargo, con la entrada del dinámico Marte al sector superior de tu carta astral, puede que decidas activar los asuntos relacionados con tu trabajo y tus metas. No aguantarás las ganas de poner en marcha tus planes más grandes y tu determinación podría ser fundamental para alcanzar el éxito. 
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo virgo. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que virgo estalla, nadie se salva.
+Si vas a aprovechar esta semana al máximo, podrías percatarte de que se desarrolla más fácilmente si mantienes una mente abierta y te dispones a ponerte en los zapatos de otra persona, especialmente si estás experimentando un grado de conflicto con ella. Fomentar nuevas ideas y permitirte ver las cosas desde una nueva perspectiva incluso podría añadirle más brillo a la relación. Además, es posible que durante el fin de semana no tengas otra opción que ceder.
 
 ## Dinero
 
-Es una gran semana para trazar un plan de negocios y pensar en cómo recaudar dinero para éste. Podrías estar pensando en cómo recaudar fondos a través de beneficios, préstamos, subvenciones e incluso donaciones en especie de empresas de mayor tamaño. Ahora más que nunca es posible que recibas una respuesta positiva. El Universo indica un momento de expansión en tu círculo social.
+Esta semana se obtiene un agradable descanso. Gente con la que pudiste haber perdido contacto está de vuelta en la escena. Una o más de estas personas más podría traer excelentes oportunidades comerciales. No tienes que entrarle a todos y cada uno de ellos, pero sin duda escucha las ideas que tengan. Debido a que hay grandes aspectos en tu carta ahora, tu influencia sobre los grupos sociales es cada vez mayor. Las esperanzas, los sueños y el dinero no están muy lejos. Deja que todos vengan hacia ti.

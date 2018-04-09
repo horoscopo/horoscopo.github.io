@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: acuario 02 de abril 2018 al 08 de abril 2018 
-description: Horóscopo semanal acuario 02 de abril 2018 al 08 de abril 2018. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+title: acuario 09 de abril 2018 al 15 de abril 2018 
+description: Horóscopo semanal acuario 09 de abril 2018 al 15 de abril 2018. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: vqXkP-Kerm0
+ video: SPEeimJI3D4
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-02'
+ lastmod: '2018-04-09'
 ---
 
 
 
-## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado acuario, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-Algo que podría resultarte difícil esta semana es que alguien te diga qué hacer. Puede que convenga ponerte a trabajar en serio y seguir sus instrucciones. Esta podría ser la mejor forma de transitar esta semana, ya que Marte —tu planeta regente— conecta con el prudente Saturno en tu sector de metas y autoridad. Alguien te está poniendo presión o bien te estás exigiendo demasiado, lo que puede ser difícil de tolerar. 
-Sin embargo, es algo a lo que deberás acostumbrarte, ya que el sobrio Saturno permanece en tu sector profesional durante un tiempo más. Tienes la oportunidad de exhibir tus habilidades y de demostrarle al mundo de qué eres capaz, y los próximos días pueden formar parte de este proceso. Cuando el encantador Venus se dirige a Saturno el domingo, puede que te des cuenta de que, si vas a cosechar los frutos, lo prudente es ponerte a trabajar en las tareas clave en lugar de resistirte a ellas.
+Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
+Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
+Con el 2016 ya en marcha, es posible que tengas que dar uno o dos pasos hacia atrás con el fin de poder avanzar. Esto se debe tanto a Mercurio como Júpiter entrando a su fase retrógrada esta semana, pudiendo descarrilar ciertos planes. Si sientes decepción debido a la falta de progreso, ¡no cedas ante ella! Esta puede ser una excelente oportunidad para revisar tus metas y objetivos para el año por venir. Si sientes menos entusiasmo acerca de una de tus ideas, este es el momento de hacer cambios.
 
 ## Dinero
 
-Es una semana un poco difícil. Probablemente quieres tomar medidas, sobre todo cuando se trata de gastar en tu casa. Sin embargo, los aspectos restringen tal para tu disgusto. El hacer las cosas de la manera más tradicional o conservadora trae los mejores resultados cuando se trata de la línea de fondo. Es probable que el presionar demasiado fuerte para lo que quieres sea rechazado por las energías más fuertes.
+Es posible que tu imaginación se desate a su más alto nivel. Tantas ideas fluyen de tu cabeza que lo mejor es tener lápiz y papel a la mano para guardarlas todas. Incluso la más pequeña, al parecer, se puede convertir en un producto o servicio que genere efectivo. Tienes la posibilidad de poder consolidar estas ideas en proyectos concretos en el trabajo. ¡Bienvenido el efectivo!
