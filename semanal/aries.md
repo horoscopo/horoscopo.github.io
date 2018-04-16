@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 09 de abril 2018 al 15 de abril 2018 
-description: Horóscopo semanal aries 09 de abril 2018 al 15 de abril 2018. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos aries. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+title: aries 16 de abril 2018 al 22 de abril 2018 
+description: Horóscopo semanal aries 16 de abril 2018 al 22 de abril 2018. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: NoYegvEKWLs
+ video: -jj5AIHNnj0
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-09'
+ lastmod: '2018-04-16'
 ---
 
 
 
-## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos aries. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 
-No te calientes aries, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no aries, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien aries, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
-Asegúrate de darte mucho margen de tiempo si estás lidiando con fechas límites. La razón es que con Mercurio moviéndose hacia atrás desde hace algún tiempo, lo mejor sería que no dejaras nada para el último minuto. Hay buenas noticias el viernes con Júpiter, el planeta de la buena fortuna, entrando a tu sector de hogar y familia; trayendo consigo oportunidades para expandir. Esto podría significar hacer crecer tu familia o la búsqueda de una casa más grande en una nueva ubicación. ¡Lo que mejor te venga!
+Vamos aries, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida aries, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie aries pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás aries. Así, tal cual.
+Aunque te has preparado para la acción, tienes que tener cuidado esta semana, ya que hay posibilidad de confusión y malentendidos. Júpiter aspectando a Neptuno sin duda despertará tu imaginación, pero es posible que te resulte difícil concentrarte. Tendrás que prestarle atención a los detalles y administrar tu tiempo para que las cosas salgan según lo planeado. Si eres una persona artística, podrías sentir más inspiración. Y si es que necesitas divertirte un poco, tendrás muchas oportunidades tanto para ello como para romance.
 
 ## Dinero
 
-La actividad en tu sector de la comunicación hace de ti una abeja muy ocupada. Estarás escribiendo correos electrónicos, mensajes de texto y llamando a tus seres queridos, haciendo de ésta una semana muy ocupada. También será más fácil para que ti el poder encontrar un trabajo independiente y hacer tu trabajo fácilmente para que puedas recibir el pago más rápidamente. Podrás lograr progreso siempre y cuando no pises a nadie en el camino, pisa con cuidado.
+Es una semana de confusión conforme varios aspectos tensamente chocan en el cielo. Los efectos en tu sector de trabajo infieren que se requiere de más atención antes de que puedas subir de posición y ganar la cantidad de dinero que deseas. Busca programas de educación en los que tu compañía quiera pagar en parte o completamente.

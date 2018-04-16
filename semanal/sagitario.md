@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 09 de abril 2018 al 15 de abril 2018 
-description: Horóscopo semanal sagitario 09 de abril 2018 al 15 de abril 2018. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies sagitario, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres sagitario, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+title: sagitario 16 de abril 2018 al 22 de abril 2018 
+description: Horóscopo semanal sagitario 16 de abril 2018 al 22 de abril 2018. Del 27 de Noviembre al 3 de Diciembre de 2017
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: YkicwICZt-Q
+ video: OB0SQdp2PDM
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-09'
+ lastmod: '2018-04-16'
 ---
 
 
 
-## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies sagitario, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres sagitario, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+## Del 27 de Noviembre al 3 de Diciembre de 2017
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-Podrías sentir decepción por la forma en que cierta idea o proyecto creativo sufre retrasos. Con Mercurio y Júpiter retrógrados, pueden que ciertas cosas no estén sucediendo tan rápido como te gustaría. Sin embargo, tal parece que esta situación va a continuar durante algún tiempo, por lo que tendrás que verle el lado bueno. Revisa tus planes y analiza si pueden ser cambiados de manera positiva. En materia de romance, una conexión amorosa podría estar moviéndose más lento de lo esperado. Si es así, paciencia es la clave.
+Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
+Las cuestiones financieras o de negocios podrían requerir de un manejo cuidadoso esta semana, ya que la actual mezcla de energías sólo servirá para aumentar la confusión. No sería prudente invertir dinero en proyectos de los que conoces muy poco o que tienen dudosos elementos. De hecho, es probable que sea mejor posponer decisiones financieras importantes hasta la próxima semana. Entonces tendrás más claridad y más información a la mano. Aunque tu vida amorosa parece ser candente, alguien podría debilitar tu confianza. Mantente fuerte.
 
 ## Dinero
 
-Tienes una calidad de ideas y de ensueño que es muy atractiva para los demás en este momento. Sin embargo, ten cuidado con parecer como que saliste de un cuento de hadas o con parecer excesivamente intelectual. Puede que tu mensaje no sea entendido por las cabezas de algunas personas que necesites a bordo en tus planes personales y económicos. Al mismo tiempo, un aspecto de apoyo muestra que eres maestro/a por naturaleza. Considera cómo puedes compartir tus conocimientos con los demás por algo extra de dinero.
+Esta semana podrías estar pensando en nuevas formas de ganar dinero desde la comodidad de tu hogar. Ya sea que estés planeando el construir una oficina, el comprar un estudio y dividirlo en habitación casa/trabajo o que comiences a redecorar tu casa, aquí es dónde esta el dinero. Pero podrías no estar pensando en tus deudas tanto como lo necesitas. Date el tiempo de revisar los documentos necesarios antes de firmar o comprometerte a algo.

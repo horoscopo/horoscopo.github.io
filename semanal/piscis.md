@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 09 de abril 2018 al 15 de abril 2018 
-description: Horóscopo semanal piscis 09 de abril 2018 al 15 de abril 2018. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+title: piscis 16 de abril 2018 al 22 de abril 2018 
+description: Horóscopo semanal piscis 16 de abril 2018 al 22 de abril 2018. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: J_XXwdGw3pQ
+ video: wlF16BTOx6E
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-09'
+ lastmod: '2018-04-16'
 ---
 
 
 
-## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 
-Tienes que empezar a vivir de nuevo Capri, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad Capri, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
-Mientras que la Luna Nueva del lunes podría alentarte a tomar una nueva dirección en un nuevo romance o relación en curso, algunas influencias podrían causar que retrases tu decisión. Las objeciones de algunos de tus familiares o ciertas reservas de tu parte podría ser el problema. No las ignores, ya que podrían ser importantes. Es probable que sientas más comodidad al proceder una vez que las haya resuelto. Se te hará mucho más fácil resolver estas cuestiones y mantener felices a todos después del sábado; una vez que Mercurio entre a tu sector de relaciones.
+Fíate de ti mismo piscis, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando piscis y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
+Puede que lo que quieres hacer y lo que debes hacer sean dos cosas distintas. De hecho, puede que busques hacer lo que sea para romper con un cronograma que se ha vuelto aburrido y serio. Lo que pasa es que no puedes escaparte por completo de tus responsabilidades y esto es algo de lo que podrías darte cuenta en los próximos días. A pesar de la frustración que sientas, es mejor encargarte de esas responsabilidades para que puedas luego hacer lo que disfrutas.
 
 ## Dinero
 
-Es una semana difícil para ti. Es tu responsabilidad decir lo que necesitas decir de una forma amable y gentil. Pero cuando se trata de tu vida hogareña y emociones internas, puede ser difícil reunir ese tipo de paciencia. En vez, puede que sientas presión y falta de respeto al tratar de salir adelante. La semana que viene será mejor en general.
+Ciertas personas que conoces pueden bien servir a tu sector de deuda y dinero compartido. Ganarás más dinero cuando explotas las conexiones que ya tienes. Tus ideas son válidas. Sólo necesitas ayuda y financiamiento para seguir adelante. No te vendas por menos. Tienes todo lo que necesitas para tener éxito ahora.

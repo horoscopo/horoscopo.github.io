@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 09 de abril 2018 al 15 de abril 2018 
-description: Horóscopo semanal acuario 09 de abril 2018 al 15 de abril 2018. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+title: acuario 16 de abril 2018 al 22 de abril 2018 
+description: Horóscopo semanal acuario 16 de abril 2018 al 22 de abril 2018. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: SPEeimJI3D4
+ video: 0xObmtpErhw
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-09'
+ lastmod: '2018-04-16'
 ---
 
 
 
-## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 
-Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
-Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
-Con el 2016 ya en marcha, es posible que tengas que dar uno o dos pasos hacia atrás con el fin de poder avanzar. Esto se debe tanto a Mercurio como Júpiter entrando a su fase retrógrada esta semana, pudiendo descarrilar ciertos planes. Si sientes decepción debido a la falta de progreso, ¡no cedas ante ella! Esta puede ser una excelente oportunidad para revisar tus metas y objetivos para el año por venir. Si sientes menos entusiasmo acerca de una de tus ideas, este es el momento de hacer cambios.
+Parece que no todo va tan mal, no ¿acuario? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+Una influencia estimulante en tu sector de comunicación puede ser el catalizador que necesitas para conseguir lo que quieres. ¿Buscas trabajo o buscas conectar con una persona especial? Lo que sea que estés buscando, esta es tu oportunidad para crear las conexiones que te ayudarán a progresar. La entrada de Venus a tu zona de dinero hará que gastes en lujos. Si estuviste ahorrando tu dinero recientemente, está bien que te des gustos.
 
 ## Dinero
 
-Es posible que tu imaginación se desate a su más alto nivel. Tantas ideas fluyen de tu cabeza que lo mejor es tener lápiz y papel a la mano para guardarlas todas. Incluso la más pequeña, al parecer, se puede convertir en un producto o servicio que genere efectivo. Tienes la posibilidad de poder consolidar estas ideas en proyectos concretos en el trabajo. ¡Bienvenido el efectivo!
+Tu normalmente personalidad impulsiva puede tener que tomar el asiento trasero a tu lado creativo esta semana. Es posible que se te esté pidiendo moverte a una posición de mayor autoridad en tu empresa actual, y es posible que necesites tiempo para decidir si esto es lo que realmente quieres. A pesar de que ofrece un mayor sueldo, puede llevarte en una dirección que frene tu crecimiento. Mantén los ojos en el balance final.
