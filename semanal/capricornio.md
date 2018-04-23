@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 16 de abril 2018 al 22 de abril 2018 
-description: Horóscopo semanal capricornio 16 de abril 2018 al 22 de abril 2018. capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+title: capricornio 23 de abril 2018 al 29 de abril 2018 
+description: Horóscopo semanal capricornio 23 de abril 2018 al 29 de abril 2018. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar capricornio. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: oHnqRpfEWzw
+ video: lbYgPFEJkAA
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-16'
+ lastmod: '2018-04-23'
 ---
 
 
 
-## capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar capricornio. 
 
-Llega una buenísima semana capricornio pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien capricornio, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado capricornio, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo capricornio, pelea por lo que te mereces.
-Puede que necesites que una persona te ayude un poco con un proyecto o una idea de negocios que no puedes realizar por tu cuenta. Esta semana, una mezcla positiva de energías alrededor del armonioso Venus, tu planeta personal, puede llevarte a dar grandes pasos con la ayuda de esta persona. Sin embargo, intenta no pensar de más sobre en este asunto, ya que puede que des vueltas en círculos en vez de avanzar. Entra en acción y todo empezará a cambiar. En los últimos días de la semana, puede que recibas una invitación a una especial y agradable velada.
+Despacito capricornio, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo capricornio.
+Esta semana, el arte, la música, la cultura y otras divertidas actividades podrían ser placenteras e inspiradoras. Bien puedes aprovechar tu imaginación y utilizarla a tu ventaja, especialmente a través de la visualización y actividades creativas. Si no has incursionado en un pasatiempo favorito últimamente, hacerlo puede ser muy gratificante. En cuanto a romance se refiere, alguien podría estar recibiendo más de lo que da a cambio. Mantente alerta a agendas ocultas o demasiadas pequeñas mentiras. Deja que tu intuición te guíe.
 
 ## Dinero
 
-Esta semana podría ser tensa para ti. Presta especial atención a los mensajes que estés recibiendo de sus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están justo en el blanco ahora. Al mismo tiempo, sigue añadiendo más a tus capacidades al asistir a clases, talleres y seminarios. Tienes todo lo que se necesitas, pero un poco más no te vendría mal.
+Esta semana tienes actividad en tu sector de carrera indicando una época de gran movimiento y energía. Esto demuestra que puedes estar experimentando cambios repentinos en esta área de tu vida. A veces, el Universo tiende a ir sobre territorio previamente cubierto con un peine de dientes finos, así que no te sorprendas si algo que pensabas que había sido cubierto se vuelve en tu contra. Espera tener comunicación en lo que menos pensabas.

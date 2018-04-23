@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: sagitario 16 de abril 2018 al 22 de abril 2018 
-description: Horóscopo semanal sagitario 16 de abril 2018 al 22 de abril 2018. Del 27 de Noviembre al 3 de Diciembre de 2017
+title: sagitario 23 de abril 2018 al 29 de abril 2018 
+description: Horóscopo semanal sagitario 23 de abril 2018 al 29 de abril 2018. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: OB0SQdp2PDM
+ video: -ws60vUIgcU
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-16'
+ lastmod: '2018-04-23'
 ---
 
 
 
-## Del 27 de Noviembre al 3 de Diciembre de 2017
+## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 
-Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
-Las cuestiones financieras o de negocios podrían requerir de un manejo cuidadoso esta semana, ya que la actual mezcla de energías sólo servirá para aumentar la confusión. No sería prudente invertir dinero en proyectos de los que conoces muy poco o que tienen dudosos elementos. De hecho, es probable que sea mejor posponer decisiones financieras importantes hasta la próxima semana. Entonces tendrás más claridad y más información a la mano. Aunque tu vida amorosa parece ser candente, alguien podría debilitar tu confianza. Mantente fuerte.
+Últimamente sientes que las decisiones que has tomado no han sido las más acertadas pero todo se puede arreglar. 
+Como si, por momentos, no fueras capaz de encontrar salida a tus preocupaciones, a todo ese estrés mental, a ese círculo en el que te has metido solo.
+Hay mucha acción en tu sector de comunicación que puede ser muy productiva en las próximas semanas. Esta puede ser una excelente oportunidad para ampliar tu red de contactos, negociar y discutir importantes contratos o negocios. Aunque puede que sientas deseos de hacer avanzar las cosas, tu energía podría disminuir considerablemente una vez que Marte conecte con Saturno a mitad de semana y con Neptuno el viernes. Puede que tengas que aligerar tu horario y tomar las cosas con más lentitud. Volverás a la normalidad la próxima semana.
 
 ## Dinero
 
-Esta semana podrías estar pensando en nuevas formas de ganar dinero desde la comodidad de tu hogar. Ya sea que estés planeando el construir una oficina, el comprar un estudio y dividirlo en habitación casa/trabajo o que comiences a redecorar tu casa, aquí es dónde esta el dinero. Pero podrías no estar pensando en tus deudas tanto como lo necesitas. Date el tiempo de revisar los documentos necesarios antes de firmar o comprometerte a algo.
+Tienes algunos retos esta semana. Aunque te sientas con energía para tenerlo todo listo, puede que tengas algunos problemas en tu lugar de trabajo o cuando se trata de tus grandes metas profesionales. Este pequeño contratiempo es sólo eso. Se moverá hacia el pasado casi tan pronto como suceda. El Universo te pide que seas audaz y te enfoques ahora.

@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: aries 16 de abril 2018 al 22 de abril 2018 
-description: Horóscopo semanal aries 16 de abril 2018 al 22 de abril 2018. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+title: aries 23 de abril 2018 al 29 de abril 2018 
+description: Horóscopo semanal aries 23 de abril 2018 al 29 de abril 2018. Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: -jj5AIHNnj0
+ video: L8FOqzkGIxw
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-16'
+ lastmod: '2018-04-23'
 ---
 
 
 
-## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+## Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 
-Vamos aries, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida aries, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie aries pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás aries. Así, tal cual.
-Aunque te has preparado para la acción, tienes que tener cuidado esta semana, ya que hay posibilidad de confusión y malentendidos. Júpiter aspectando a Neptuno sin duda despertará tu imaginación, pero es posible que te resulte difícil concentrarte. Tendrás que prestarle atención a los detalles y administrar tu tiempo para que las cosas salgan según lo planeado. Si eres una persona artística, podrías sentir más inspiración. Y si es que necesitas divertirte un poco, tendrás muchas oportunidades tanto para ello como para romance.
+Cada día que pasa te das más cuenta de que mereces cosas buenas aries, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana aries.
+Puede que sientas la tentación de exigirte, en especial al comienzo de la semana. Si has fijado una fecha límite, la conexión entre el dinámico Marte y el limitante Saturno podría coincidir con uno o dos obstáculos. Puede que lo mejor sea no ponerte demasiada presión. Cuanto más intentes, más difícil podría ser avanzar. Quizás descubras que salir de la rutina también es muy útil. Podrías estar pensando demasiado en una cuestión cuando un enfoque más relajado sería altamente beneficioso. 
+Tus planes podrían entrar en conflicto con los de tu familia, y puede que tus familiares tengan demasiadas ganas de hacerse oír. Debido a que el positivo Venus está en tu sector de recreación y diversión, podrías beneficiarte mucho de tomarte un tiempo para disfrutar. Y, si llevas a tu familia contigo, mucho mejor. El punto más importante es no pasar demasiado tiempo trabajando.    
 
 ## Dinero
 
-Es una semana de confusión conforme varios aspectos tensamente chocan en el cielo. Los efectos en tu sector de trabajo infieren que se requiere de más atención antes de que puedas subir de posición y ganar la cantidad de dinero que deseas. Busca programas de educación en los que tu compañía quiera pagar en parte o completamente.
+Esta semana tu sector de relaciones indica un tiempo increíblemente social para ti. Tus esfuerzos para ganar dinero son mejorados al ir a eventos sociales y presentarte a tantas personas como te sea posible. Busca pistas sobre cómo reaccionar. Tu carrera realmente necesita un poco de energía nueva, aquí es donde tus nuevas amistades entran en juego.

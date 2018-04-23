@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 16 de abril 2018 al 22 de abril 2018 
-description: Horóscopo semanal tauro 16 de abril 2018 al 22 de abril 2018. Hay cosas que ya no funcionan tauro, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+title: tauro 23 de abril 2018 al 29 de abril 2018 
+description: Horóscopo semanal tauro 23 de abril 2018 al 29 de abril 2018. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca tauro.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: vf6xxJNoc2A
+ video: 1GdwXM81j2M
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-16'
+ lastmod: '2018-04-23'
 ---
 
 
 
-## Hay cosas que ya no funcionan tauro, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca tauro.
 
-Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro tauro, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Pececito, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
-Si la semana comienza un poco incómoda, no dejes que esto te detenga. Alguien puede negarse a escuchar tus sugerencias, pero podría cambiar de opinión y aceptar tu manera de pensar si eres paciente. Incluso en este panorama, las ideas creativas pueden fluir y los próximos días podrían resultarte útiles para comenzar un nuevo proyecto o empresa comercial. También podrían inspirarte las actividades culturales. Si visitas una exposición o vas a un concierto, puede que obtengas ideas que puedes aplicar al arte u oficio que practicas.
+A veces te confundes tauro, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso tauro. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. tauro, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo tauro, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+Si bien las ofertas de enero pueden ser atractivas, puede que los primeros días del 2018 sean bastante costosos si decides gastar mucho dinero. Así que cuida el bolsillo cuando salgas de compras y guarda todos los recibos. Puede que comiences a visualizar las posibilidades y esto podría inspirarte a esforzarte más y quizá fijar metas que estén fuera de tu zona de confort. Sin embargo, también debes ser una persona práctica. Dicho eso, la influencia del fogoso Marte el 6 de enero podría inspirarte a dar un salto de fe.
 
 ## Dinero
 
-Este período es acerca de grupos, política y autoempleo. Si has estado buscando la manera de ganar más y crear mayor estabilidad, el Universo te da la suerte y la oportunidad de hacer que esto suceda. Acude a tus amistades y redes sociales para ayudarte a construir tu clientela mientras haces la transición de tu empleo actual. Asegúrate de proteger tus ideas y productos con derechos de autor y marcas registradas para asegurar beneficios futuros.
+Este período se trata de las nuevas oportunidades que le llegan a tu vida laboral. El cielo es el límite en términos de lo que puedes esperar, pero el Universo no lo hará por ti. Debes estar a la búsqueda de maneras de aumentar tus ingresos, ya sea mediante la adición de un negocio secundario o aceptar trabajos independientes. Utiliza tu educación y tus viajes para salir con ideas para productos o servicios que vender.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 16 de abril 2018 al 22 de abril 2018 
-description: Horóscopo semanal acuario 16 de abril 2018 al 22 de abril 2018. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: acuario 23 de abril 2018 al 29 de abril 2018 
+description: Horóscopo semanal acuario 23 de abril 2018 al 29 de abril 2018. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: 0xObmtpErhw
+ video: PfwOtdhARDY
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-16'
+ lastmod: '2018-04-23'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 
-Parece que no todo va tan mal, no ¿acuario? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-Una influencia estimulante en tu sector de comunicación puede ser el catalizador que necesitas para conseguir lo que quieres. ¿Buscas trabajo o buscas conectar con una persona especial? Lo que sea que estés buscando, esta es tu oportunidad para crear las conexiones que te ayudarán a progresar. La entrada de Venus a tu zona de dinero hará que gastes en lujos. Si estuviste ahorrando tu dinero recientemente, está bien que te des gustos.
+Organízate acuario, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres acuario, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
+A medida que el hablador Mercurio, tu planeta personal, regresa a Leo y a tu sector de comunicación, las próximas semanas ofrecen la oportunidad de revisar planes recientes y realizar cualquier cambio. Pero no te apresures a firmar ningún contrato, hacer promesas o a comprometerte, ya que durante esta fase las cosas podrían no salir como lo planeado. Los próximos días pueden hacer que aspires a mayores oportunidades, pero tómate tu tiempo y evita tomar decisiones de forma impulsiva. Si puedes tomártelo con calma quizás te vaya muy bien.
 
 ## Dinero
 
-Tu normalmente personalidad impulsiva puede tener que tomar el asiento trasero a tu lado creativo esta semana. Es posible que se te esté pidiendo moverte a una posición de mayor autoridad en tu empresa actual, y es posible que necesites tiempo para decidir si esto es lo que realmente quieres. A pesar de que ofrece un mayor sueldo, puede llevarte en una dirección que frene tu crecimiento. Mantén los ojos en el balance final.
+Esta semana podría resultar un poco estresante para ti. La actividad en tu sector de dinero trae oportunidades y cambio repentino. Ahorra tanto como puedas, y aprende a montarte a un caballo salvaje. Un plan integral para reducir tu deuda debe ser puesto en marcha ahora. Incluso los pequeños pagos cada mes ayudan.

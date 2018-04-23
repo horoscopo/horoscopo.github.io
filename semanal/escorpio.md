@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 16 de abril 2018 al 22 de abril 2018 
-description: Horóscopo semanal escorpio 16 de abril 2018 al 22 de abril 2018. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+title: escorpio 23 de abril 2018 al 29 de abril 2018 
+description: Horóscopo semanal escorpio 23 de abril 2018 al 29 de abril 2018. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: t9_APOJ7SBM
+ video: Dz_RpPSWEHk
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-16'
+ lastmod: '2018-04-23'
 ---
 
 
 
-## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 
-A veces dejas las puertas medio abiertas escorpio, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar escorpio porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien escorpio, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado escorpio, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
-En esta semana, pasan muchas cosas que pueden abrir el camino para espléndidas opciones nuevas, pero podría ser prudente que no tomes decisiones importantes hasta la próxima semana. Ya habrás tenido la oportunidad de analizar los detalles. Con las energías etéreas de Neptuno involucradas, podrían malinterpretarse las expectativas. Aclarar este asunto antes que nada puede hacerte sentir bien. En el ámbito social, una nueva amistad podría traerle un cambio radical a tu vida.
+Además, que últimamente te han dado muchos chutes de alegría algunas personas alegres y positivas que hacía mucho que no encontrabas en tu vida así que, ¿para qué volver a las que amargan? Por favor… 
+ y el hecho de que las personas que creías que querías y te querían te den la mitad que otras te decepciona mucho. Y vuelves a la carga.
+Pueden surgir problemas en tu bienestar en los próximos días. Podrías reunirte con una amistad o quizá con un grupo de amigos para mejorar tu estado general de salud. Puede que tengas ganas de cambiar de dieta, ya que una influencia clave quizá te haga considerar distintas maneras de eliminar toxinas de tu cuerpo. Desde un punto de vista más íntimo, la presencia de Marte en Tauro puede estimular tus sentidos, lo que hace que las próximas semanas sean perfectas para el romance con todo tipo de adornos.
 
 ## Dinero
 
-Estás a punto de tomar ventaja de algunas nuevas oportunidades en el trabajo y los negocios. El Universo destaca tu sector que rige el dinero y los valores, por lo que no sólo vas a ser capaz de ganar más, sino que también lo usarás racionalmente. Esto puede significar que inviertas en tu futuro mediante la financiación de un nuevo negocio, o encuentres un millón de nuevas formas de recaudar más dinero.
+No siempre tienes la paciencia necesaria para cultivar relaciones a largo plazo. Quieres resultados ahora, lo que puede interponerse en el camino del crecimiento en otras áreas. Ahora, tu energía masculina y femenina están perfectamente en equilibrio en tu sector de relaciones serias. Esto puede ayudarte a fusionarte con un socio de negocios o desarrollar nuevos proyectos. Eso sí, no firmes nada todavía.
