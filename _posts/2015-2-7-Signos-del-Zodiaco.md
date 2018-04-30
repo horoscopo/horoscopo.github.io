@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de abril 2018
-description: Horóscopos del dia de hoy 29 de abril 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 30 de abril 2018
+description: Horóscopos del dia de hoy 30 de abril 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-04-29
+ lastmod: 2018-04-30
 ---
-El aire está lleno de revoluciones comunicativas cuando la conjunción entre el Sol y Mercurio acentúa las negociaciones comerciales de primer nivel. No hay mucha charla (el signo en el que se encuentra es Escorpión), pero las palabras son concisas y poderosas. Practica el arte de la amistad y conecta bajo la Luna en Libra. Solteros, podría ser una noche perfecta para un nuevo romance.
+Evita cerrarte en tu mundo y no expresar tus creencias cuando el Sol cuadre a Marte. No puedes enmascarar tus emociones, contrario a lo que piensas. Hoy, los solteros están más inclinados a comprometerse a largo plazo cuando Venus en Capricornio forma sextil con Marte en Escorpión. Por su parte, las parejas estarán bien si se comprometen con el plan en turno.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
