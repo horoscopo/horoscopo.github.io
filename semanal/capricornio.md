@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 23 de abril 2018 al 29 de abril 2018 
-description: Horóscopo semanal capricornio 23 de abril 2018 al 29 de abril 2018. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar capricornio. 
+title: capricornio 30 de abril 2018 al 06 de mayo 2018 
+description: Horóscopo semanal capricornio 30 de abril 2018 al 06 de mayo 2018. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: lbYgPFEJkAA
+ video: 4iKSByX9LA0
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-23'
+ lastmod: '2018-04-30'
 ---
 
 
 
-## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar capricornio. 
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-Despacito capricornio, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo capricornio.
-Esta semana, el arte, la música, la cultura y otras divertidas actividades podrían ser placenteras e inspiradoras. Bien puedes aprovechar tu imaginación y utilizarla a tu ventaja, especialmente a través de la visualización y actividades creativas. Si no has incursionado en un pasatiempo favorito últimamente, hacerlo puede ser muy gratificante. En cuanto a romance se refiere, alguien podría estar recibiendo más de lo que da a cambio. Mantente alerta a agendas ocultas o demasiadas pequeñas mentiras. Deja que tu intuición te guíe.
+Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
+Aunque tus alianzas podrían ser desafiadas al inicio de la semana, es posible que te percates de que te va mejor cuando te mantienes fiel a tu persona. Los momentos en los que te diviertes más son cuando estás creando o romanceando a alguien. Cualquier actividad que te permita expresarte va a traerte mucha felicidad. Y si hay competencia involucrada, estarás aún más en tu elemento. Sólo ten en cuenta que tu determinación puede ser más intensa de lo que crees.
 
 ## Dinero
 
-Esta semana tienes actividad en tu sector de carrera indicando una época de gran movimiento y energía. Esto demuestra que puedes estar experimentando cambios repentinos en esta área de tu vida. A veces, el Universo tiende a ir sobre territorio previamente cubierto con un peine de dientes finos, así que no te sorprendas si algo que pensabas que había sido cubierto se vuelve en tu contra. Espera tener comunicación en lo que menos pensabas.
+Cierta actividad en tu sector de herencias y de deuda esta semana muestra que es posible que estés en el extremo receptor de uno u otro. Uno, por supuesto, no puedes controlar. Pero si te percatas de que necesitas poner más energía en un plan de pago de deuda, el Universo puede ayudarte a lograr una mayor responsabilidad en esa área. Sonríe, las cosas están mejorando.

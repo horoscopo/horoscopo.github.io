@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 23 de abril 2018 al 29 de abril 2018 
-description: Horóscopo semanal acuario 23 de abril 2018 al 29 de abril 2018. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+title: acuario 30 de abril 2018 al 06 de mayo 2018 
+description: Horóscopo semanal acuario 30 de abril 2018 al 06 de mayo 2018. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: PfwOtdhARDY
+ video: hDKwNG7jeOo
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-23'
+ lastmod: '2018-04-30'
 ---
 
 
 
-## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 
-Organízate acuario, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres acuario, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
-A medida que el hablador Mercurio, tu planeta personal, regresa a Leo y a tu sector de comunicación, las próximas semanas ofrecen la oportunidad de revisar planes recientes y realizar cualquier cambio. Pero no te apresures a firmar ningún contrato, hacer promesas o a comprometerte, ya que durante esta fase las cosas podrían no salir como lo planeado. Los próximos días pueden hacer que aspires a mayores oportunidades, pero tómate tu tiempo y evita tomar decisiones de forma impulsiva. Si puedes tomártelo con calma quizás te vaya muy bien.
+Ojalá pudiéramos tener un botón de reinicio en la vida acuario, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
+Debido al positivo enfoque en tu sector profesional, usar el encanto y la lógica podría dar como resultado un gran progreso. Aun así, puede que sientas que alguien está obstaculizando tus planes. De ser así, tu mejor apuesta puede ser tener una conversación a corazón abierto con esta persona, incluso si esto te da un poco de nervios. El resultado de esta charla podría superar tus expectativas. La luna nueva del sábado en tu sector de viajes podría ser la señal para reservar de una vez por todas ese viaje con el que has estado soñando durante un tiempo.
 
 ## Dinero
 
-Esta semana podría resultar un poco estresante para ti. La actividad en tu sector de dinero trae oportunidades y cambio repentino. Ahorra tanto como puedas, y aprende a montarte a un caballo salvaje. Un plan integral para reducir tu deuda debe ser puesto en marcha ahora. Incluso los pequeños pagos cada mes ayudan.
+Se indica un tiempo de cambio con respecto a los asuntos de carrera y figuras de autoridad. El Universo apoya nuevos cambios que deseas hacer en tu carrera y te ofrece un impulso. Sin embargo, las influencias pueden ya sea ser creativas o confusas, dependiendo de cómo se usan. Elige tu camino con cuidado y con intención.

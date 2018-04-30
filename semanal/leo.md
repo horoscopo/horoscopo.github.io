@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: leo 23 de abril 2018 al 29 de abril 2018 
-description: Horóscopo semanal leo 23 de abril 2018 al 29 de abril 2018. Da la bienvenida a tu nueva vida leo, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+title: leo 30 de abril 2018 al 06 de mayo 2018 
+description: Horóscopo semanal leo 30 de abril 2018 al 06 de mayo 2018. Sumisión contigo van a encontrar poca ahora leo… Muy poca.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: KEDMt4iGEt8
+ video: zpi7p7PUJp4
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-23'
+ lastmod: '2018-04-30'
 ---
 
 
 
-## Da la bienvenida a tu nueva vida leo, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+## Sumisión contigo van a encontrar poca ahora leo… Muy poca.
 
-A veces las cosas tienen que ser a tu manera o a ninguna leo, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada leo. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
-Puede que no sea ninguna sorpresa que cierta relación esté al rojo vivo en este momento, sobre todo a principios de semana, con el enlace entre Venus y Marte insinuando candentes sesiones en la cama. También aprenderás mucho de los demás, especialmente en relación a monitorear tus reacciones en situaciones clave. Las personas que actualmente te rodean pueden enseñarte mucho acerca de lo que es importante para ti y dónde podrías requerir de un cambio de actitud. Por último, la entrada de Venus a Libra alude a la posibilidad de acuerdos lucrativos.
+Se avecinan cosas nuevas leo, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar leo, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin leo, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
+Los sentimientos en torno a cuestiones laborales podrían ser muy potentes esta semana, y esto podría deberse a una sólida y asertiva mezcla de energías. Es posible que tengas ganas de superar un obstáculo o de ver determinado resultado. Cuando el expansivo Júpiter está involucrado, puede que incluso sientas una estimulante energía tan solo con pensarlo. Sin embargo, al intentarlo demasiado, puede que estés evitando que las cosas sigan su curso natural. Adoptar un relajado enfoque podría aliviar la tensión y permitirte disfrutar el proceso en lugar de sentir ansiedad. 
+ Cuando el encantador Venus ingresa a Géminis y a tu sector social el martes, la vida social tendrá un brillo adicional y será muy divertida. Sin embargo, podrías sentir una mezcla de emociones en torno a la necesidad de trabajar y el deseo de llevar una vida más sencilla. Por último, la luna llena en tu sector del hogar el domingo podría hacer reflotar tensiones que habías guardado en tu interior. Ve con cuidado cuando se trate de complicados asuntos.    
 
 ## Dinero
 
-Esta semana, el Universo afecta a tu sector de relaciones. Es posible que tengas algo de estrés entre tratar de ver a todos los que quieres ver y acabar todo tu trabajo a tiempo y dentro del presupuesto. Júpiter y Urano, en particular, pondrán un montón de nuevos proyectos y oportunidades en tu camino. Busca un balance entre los dos.
+Tienes mucho coraje cuando se trata de decisiones sobre tu futuro financiero. El Universo podría crear problemas entre tú y una institución (como tu lugar de trabajo), o entre el deseo de pasar tiempo en la oficina o viajando. Uno de los dos tiene que ceder o de lo contrario tu situación financiera se verá afectada negativamente. Procede con extrema precaución.

@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 23 de abril 2018 al 29 de abril 2018 
-description: Horóscopo semanal escorpio 23 de abril 2018 al 29 de abril 2018. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+title: escorpio 30 de abril 2018 al 06 de mayo 2018 
+description: Horóscopo semanal escorpio 30 de abril 2018 al 06 de mayo 2018. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: Dz_RpPSWEHk
+ video: YfGeAOdsEoc
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-23'
+ lastmod: '2018-04-30'
 ---
 
 
 
-## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 
-Además, que últimamente te han dado muchos chutes de alegría algunas personas alegres y positivas que hacía mucho que no encontrabas en tu vida así que, ¿para qué volver a las que amargan? Por favor… 
- y el hecho de que las personas que creías que querías y te querían te den la mitad que otras te decepciona mucho. Y vuelves a la carga.
-Pueden surgir problemas en tu bienestar en los próximos días. Podrías reunirte con una amistad o quizá con un grupo de amigos para mejorar tu estado general de salud. Puede que tengas ganas de cambiar de dieta, ya que una influencia clave quizá te haga considerar distintas maneras de eliminar toxinas de tu cuerpo. Desde un punto de vista más íntimo, la presencia de Marte en Tauro puede estimular tus sentidos, lo que hace que las próximas semanas sean perfectas para el romance con todo tipo de adornos.
+Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección escorpio, y ahora puedes elegir lo que quieras.
+No permitas que las dudas o temores socaven tus objetivos o te impidan apuntar alto. El contexto cósmico de esta semana podría hacerte dudar y preguntarte si estás haciendo lo correcto. Ten confianza en ti. Si necesitas reafirmación o motivación, habla con una amistad o consejero de vida. Una nueva perspectiva podría mejorar maravillosamente tu estado de ánimo. La Luna Llena en Géminis de mitad de semana sugiere que vas a tener visitas en tu hogar, pudiendo dar lugar a una gran fiesta.
 
 ## Dinero
 
-No siempre tienes la paciencia necesaria para cultivar relaciones a largo plazo. Quieres resultados ahora, lo que puede interponerse en el camino del crecimiento en otras áreas. Ahora, tu energía masculina y femenina están perfectamente en equilibrio en tu sector de relaciones serias. Esto puede ayudarte a fusionarte con un socio de negocios o desarrollar nuevos proyectos. Eso sí, no firmes nada todavía.
+Esta semana para ti es acerca de relaciones no solidarias. Quieres lanzarte hacia metas financieras y relacionadas con el trabajo. La decisión puede estar entre brillar con luz propia como individuo o como miembro de un equipo. Una parte de ti quiere alimentar tu ego, pero la otra parte, la más inteligente, se da cuenta de que también dependes de tu equipo. Escucha a la mejor parte que tienes.
