@@ -1,14 +1,14 @@
 ---
 layout: page
-title: leo abril 2018 
+title: leo mayo 2018 
 permalink: /horoscopo-mensual/leo/
-keywords: horóscopo, horóscopo leo abril , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2018, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo leo mayo , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2018, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 
-description: El horóscopo de abril para Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
+description: El horóscopo de mayo para Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '01-04-2018'
+ lastmod: '01-05-2018'
 ---
 
 

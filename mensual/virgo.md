@@ -1,14 +1,14 @@
 ---
 layout: page
-title: virgo abril 2018 
+title: virgo mayo 2018 
 permalink: /horoscopo-mensual/virgo/
-keywords: horóscopo, horóscopo virgo abril , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2018, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo virgo mayo , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2018, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 
-description: El horóscopo de abril para Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
+description: El horóscopo de mayo para Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '01-04-2018'
+ lastmod: '01-05-2018'
 ---
 
 
