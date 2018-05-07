@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 30 de abril 2018 al 06 de mayo 2018 
-description: Horóscopo semanal escorpio 30 de abril 2018 al 06 de mayo 2018. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+title: escorpio 07 de mayo 2018 al 13 de mayo 2018 
+description: Horóscopo semanal escorpio 07 de mayo 2018 al 13 de mayo 2018. Semana intensa escorpio, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: YfGeAOdsEoc
+ video: il9ANTekmiE
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-30'
+ lastmod: '2018-05-07'
 ---
 
 
 
-## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+## Semana intensa escorpio, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 
-Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección escorpio, y ahora puedes elegir lo que quieras.
-No permitas que las dudas o temores socaven tus objetivos o te impidan apuntar alto. El contexto cósmico de esta semana podría hacerte dudar y preguntarte si estás haciendo lo correcto. Ten confianza en ti. Si necesitas reafirmación o motivación, habla con una amistad o consejero de vida. Una nueva perspectiva podría mejorar maravillosamente tu estado de ánimo. La Luna Llena en Géminis de mitad de semana sugiere que vas a tener visitas en tu hogar, pudiendo dar lugar a una gran fiesta.
+Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
+Tu vida social podría ser muy divertida. También es necesario para tu salud y bienestar. La oportunidad de relajarte con una buena compañía puede ser justo lo que necesitas para contrarrestar todo el arduo trabajo que has estado haciendo. Además, el sensual Venus en tu sector de estilo de vida te anima a cuidar de tu cuerpo con suficiente descanso, buena comida y ejercicio. Puede haber una tendencia a subestimar todas estas cosas en tu deseo de avanzar. 
+  Si el intenso enfoque de la última semana hizo que te quedaras sin energías, prueba con un masaje u otro tratamiento que te ayude a aliviar la tensión y revitalizarte. La presencia del sol en tu sector de creatividad puede ser un indicio de que debes enfocarte en los pasatiempos o las manualidades que disfrutas, ya que esto también puede ser terapéutico. Cuanto más tiempo tardes en nutrirte y renovar tu energía, más sencillo será avanzar.
 
 ## Dinero
 
-Esta semana para ti es acerca de relaciones no solidarias. Quieres lanzarte hacia metas financieras y relacionadas con el trabajo. La decisión puede estar entre brillar con luz propia como individuo o como miembro de un equipo. Una parte de ti quiere alimentar tu ego, pero la otra parte, la más inteligente, se da cuenta de que también dependes de tu equipo. Escucha a la mejor parte que tienes.
+Puede que esta semana sea una de las más ocupadas. El Universo está cambiando tus relaciones de formas nuevas y emocionantes, y afectando a tu sector de emociones internas y vida familiar. Es posible que desees esconderte o meterte por debajo de las sábanas, pero en tu interior algo requiere de tu atención inmediata. Préstale atención.

@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: leo 30 de abril 2018 al 06 de mayo 2018 
-description: Horóscopo semanal leo 30 de abril 2018 al 06 de mayo 2018. Sumisión contigo van a encontrar poca ahora leo… Muy poca.
+title: leo 07 de mayo 2018 al 13 de mayo 2018 
+description: Horóscopo semanal leo 07 de mayo 2018 al 13 de mayo 2018. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: zpi7p7PUJp4
+ video: BqN46z-bCm4
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-30'
+ lastmod: '2018-05-07'
 ---
 
 
 
-## Sumisión contigo van a encontrar poca ahora leo… Muy poca.
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-Se avecinan cosas nuevas leo, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar leo, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin leo, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
-Los sentimientos en torno a cuestiones laborales podrían ser muy potentes esta semana, y esto podría deberse a una sólida y asertiva mezcla de energías. Es posible que tengas ganas de superar un obstáculo o de ver determinado resultado. Cuando el expansivo Júpiter está involucrado, puede que incluso sientas una estimulante energía tan solo con pensarlo. Sin embargo, al intentarlo demasiado, puede que estés evitando que las cosas sigan su curso natural. Adoptar un relajado enfoque podría aliviar la tensión y permitirte disfrutar el proceso en lugar de sentir ansiedad. 
- Cuando el encantador Venus ingresa a Géminis y a tu sector social el martes, la vida social tendrá un brillo adicional y será muy divertida. Sin embargo, podrías sentir una mezcla de emociones en torno a la necesidad de trabajar y el deseo de llevar una vida más sencilla. Por último, la luna llena en tu sector del hogar el domingo podría hacer reflotar tensiones que habías guardado en tu interior. Ve con cuidado cuando se trate de complicados asuntos.    
+Hay gente que no respeta que puedas crecer Sagi, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los leo pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Sagi, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+Tu sector de ocio y placer está lleno de vibrantes energías y optimistas planetas, sugiriendo que harás un esfuerzo para disfrutar esta semana de Halloween y Día de Muertos. Pero primero tendrás que evitar las tentaciones que la Luna Llena del martes te traerá al encontrarse en tu signo, pudiendo animarte a darte gustos, lo cual está bien, pero también hay la posibilidad de que tiendas a excederte si es que realmente te estás divirtiendo . Si bien no es un problema, puede serlo si arruina una dieta o régimen saludable de alimentación.
 
 ## Dinero
 
-Tienes mucho coraje cuando se trata de decisiones sobre tu futuro financiero. El Universo podría crear problemas entre tú y una institución (como tu lugar de trabajo), o entre el deseo de pasar tiempo en la oficina o viajando. Uno de los dos tiene que ceder o de lo contrario tu situación financiera se verá afectada negativamente. Procede con extrema precaución.
+Te diriges a un tiempo de transformación. Tanto está cambiando ahora en tu sector de carrera y figuras de autoridad que no tienes mucho tiempo para ti mismo/a. Haz valer tus necesidades en las negociaciones salariales, así como en cuestiones diarias de trabajo. Ahora estás subiendo de nivel y es posible que la carga adicional de responsabilidad sea a veces difícil de soportar. Sin embargo, estás cambiando para bien.
