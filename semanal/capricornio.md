@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 30 de abril 2018 al 06 de mayo 2018 
-description: Horóscopo semanal capricornio 30 de abril 2018 al 06 de mayo 2018. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+title: capricornio 07 de mayo 2018 al 13 de mayo 2018 
+description: Horóscopo semanal capricornio 07 de mayo 2018 al 13 de mayo 2018. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: 4iKSByX9LA0
+ video: y7KjiWL8Ovk
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-04-30'
+ lastmod: '2018-05-07'
 ---
 
 
 
-## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
 
-Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
-Aunque tus alianzas podrían ser desafiadas al inicio de la semana, es posible que te percates de que te va mejor cuando te mantienes fiel a tu persona. Los momentos en los que te diviertes más son cuando estás creando o romanceando a alguien. Cualquier actividad que te permita expresarte va a traerte mucha felicidad. Y si hay competencia involucrada, estarás aún más en tu elemento. Sólo ten en cuenta que tu determinación puede ser más intensa de lo que crees.
+Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
+ A veces, te aferras a momentos de felicidad pasajera capricornio, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
+Puede que tus instintos estén sintonizados a tu pareja o interés amoroso y que te hagan leer sus sentimientos. Sin embargo, lo que descubras podría sorprenderte. En lugar de sentir cualquier molestia, opta por tener una charla de corazón a corazón. Puede que hacerlo ayude a que todo se resuelva de muy buena manera. Puede que te percates de que tu atractivo sexual aumenta cuando Marte entre a tu signo. Es hora de ponerte a trabajar en los proyectos personales que son más significativos para ti. Además, querrás atrapar algunas gangas una vez que las ventas de Año Nuevo comiencen.
 
 ## Dinero
 
-Cierta actividad en tu sector de herencias y de deuda esta semana muestra que es posible que estés en el extremo receptor de uno u otro. Uno, por supuesto, no puedes controlar. Pero si te percatas de que necesitas poner más energía en un plan de pago de deuda, el Universo puede ayudarte a lograr una mayor responsabilidad en esa área. Sonríe, las cosas están mejorando.
+Te encanta fraccionar tu vida, con el dinero en un lado y el trabajo en el otro. Pero ahora algunos de tus compartimentos posiblemente tengan que ser combinados un poco con el fin de tener todo listo. Puede ser que estés pensando en volverte cada vez más responsables con tus finanzas en general. También estás combatiendo el hecho de que la caja que guarda el dinero en efectivo está un poco más seca que de costumbre. Cultiva otros recursos financieros adicionales a través de cambios o un trabajo extra de tiempo parcial.
