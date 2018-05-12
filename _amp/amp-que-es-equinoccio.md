@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: amp
 title: ¿Qué es un equinoccio?
 description: ¿Has escuchado acerca del **equinoccio** pero no sabes realmente que significa?, entonces no te preocupes, porque te explicaremos que significa y por supuesto de que se trata el equinoccio.
 normallink: /que-es-equinoccio/
