@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 07 de mayo 2018 al 13 de mayo 2018 
-description: Horóscopo semanal aries 07 de mayo 2018 al 13 de mayo 2018. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+title: aries 14 de mayo 2018 al 20 de mayo 2018 
+description: Horóscopo semanal aries 14 de mayo 2018 al 20 de mayo 2018. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: Dmycz7vISgw
+ video: h8iDtxPZzzE
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-07'
+ lastmod: '2018-05-14'
 ---
 
 
 
-## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 
-No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
-El enfoque en tu sector espiritual continúa, haciendo de este un excelente momento para explorar profundidades ocultas con el fin de encontrar ideas creativas y otros tesoros. Trata de relajarte, ya que inspirados pensamientos que surgen durante momentos de calma podrían ayudarte a curar algunas de las cuestiones que te han plagado recientemente. Venus retrógrado sale de tu signo y entra a Leo al final de la semana, animándote a mejorar tu relación contigo mismo o misma. Retomar una práctica espiritual podría ser una experiencia positiva.
+A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto aries? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito aries. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
+Este mes trae mucha actividad en el frente hogareño. Ya sea si recibes invitados o haces lo que te gusta, parece que será muy divertido. Este puede ser un buen momento para una celebración o reunión, ya que una encantadora combinación de energías puede garantizar que todos se diviertan. El inquisitivo Mercurio se vuelve retrógrado en este mismo sector a mitad de semana. Si estás comprando accesorios para el hogar o pensando en invertir en una remodelación, guarda cualquier recibo y documentación en caso de que necesites un reembolso.
 
 ## Dinero
 
-Ahora, más que nunca tienes más posibilidades que nunca de ganar más dinero. Las oportunidades pueden venir de las mujeres en particular, por lo que ten disposición a aprovecharte de ellas. Mientras te encuentras convirtiendo estas posibilidades en oro, piensa en cómo reducir el gasto en el sector de la familia. Recorta de nuevo gastos innecesarios que hacen una gran diferencia en el mundo. Podrías usar tus ahorros para unas fabulosas vacaciones en el futuro cercano si tienes cuidado.
+Esta semana estás lidiando con un tipo de energía preocupante. El Universo quiere que intercambies información con los que te rodean, en especial respecto a tu vida monetaria. De hecho, puede que estés tan ocupado/a con tus planes de aumentar tu conocimiento que no tienes tiempo para atender a las demandas de tu lugar de trabajo. Error en el campo de la comunicación. Tu ambición depende de tu capacidad de decirle claramente a los demás lo que necesitas y deseas.

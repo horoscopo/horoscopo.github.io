@@ -1,28 +1,33 @@
 ---
 layout: horoscopos
-title: libra 07 de mayo 2018 al 13 de mayo 2018 
-description: Horóscopo semanal libra 07 de mayo 2018 al 13 de mayo 2018. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+title: libra 14 de mayo 2018 al 20 de mayo 2018 
+description: Horóscopo semanal libra 14 de mayo 2018 al 20 de mayo 2018. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: rfl0p_fHbBU
+ video: E39LuoW7_W0
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-07'
+ lastmod: '2018-05-14'
 ---
 
 
 
-## Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+## Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
 
-Te crees que eres débil libra, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos libra, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior libra… Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
-Con el adorable Venus, tu planeta regente, ahora en tu signo, puedes sentirte verdaderamente en tu elemento. Esta animada influencia podría llevarte a suavizar cualquier dificultad y también acercarte a otros en busca de amistad y apoyo. Esta semana también trae consigo a la luna nueva en tu signo, lo que puede marcar el comienzo de una nueva fase. Cualquier idea o proyecto que tengas en tus planes, en particular si es emocionante, debería iniciarse el jueves o poco después para obtener un mejor resultado.
+Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
+Esta semana habrá mucha actividad en tu sector de finanzas personales, ya que se abrirán nuevas oportunidades para ti. 
+El martes, la luna nueva en este sector trae consigo un nuevo comienzo y viene acompañada del animado Urano, que ingresa a este mismo sector. Como resultado de esto, los valores podrían cambiar, al igual que tu manera de ganar dinero. 
+Ya que el conversador Mercurio está cerca del excéntrico Urano esta semana, podrías recibir importantes noticias o quizás una atractiva oferta. Además, el martes el dinámico Marte ingresa a Acuario, lo que le agrega una chispa adicional a tu vida social. 
+Ve con calma el miércoles ya que existe la posibilidad de que actúes impulsivamente, lo que podría traer más consecuencias que beneficios. 
+El sábado, el delicioso Venus ingresa a Cáncer y a tu sector del hogar. Puede ser la ocasión perfecta para una reunión familiar. 
+El sol ingresa a Géminis el domingo, lo que podría inspirarte a entablar relaciones y conectar con gente.
 
 ## Dinero
 
-Es un momento lleno de energía para ti ahora. Los viajes, el aprendizaje y la exploración pueden estar en lo alto de tu agenda. Pero también es hora de equilibrar las necesidades de tu trabajo diario con tu pasión por los viajes. A menos que encuentres la manera de poder hacer que los viajes o el aprendizaje formen parte de tu modelo de negocios, tiene que haber un compromiso. El Universo aligera el golpe.
+A pesar de que tu mente se encuentra tanto en posibles viajes como en el aprendizaje en este momento, fomentarte más educación puede ser tu mejor apuesta. Las certificaciones pueden traerte un mayor flujo de efectivo y establecerte como una fuerza en tu industria en particular. Mientras tanto, se te insta a centrarte más en cómo puedes ampliar tu base de clientes. Las ventas de bienes y servicios dependen de ello.

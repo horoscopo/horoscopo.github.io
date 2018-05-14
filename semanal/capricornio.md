@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 07 de mayo 2018 al 13 de mayo 2018 
-description: Horóscopo semanal capricornio 07 de mayo 2018 al 13 de mayo 2018. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+title: capricornio 14 de mayo 2018 al 20 de mayo 2018 
+description: Horóscopo semanal capricornio 14 de mayo 2018 al 20 de mayo 2018. Del 27 Noviembre al 3 de Diciembre de 2017
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: y7KjiWL8Ovk
+ video: VDreNkynZ2k
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-07'
+ lastmod: '2018-05-14'
 ---
 
 
 
-## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+## Del 27 Noviembre al 3 de Diciembre de 2017
 
-Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
- A veces, te aferras a momentos de felicidad pasajera capricornio, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
-Puede que tus instintos estén sintonizados a tu pareja o interés amoroso y que te hagan leer sus sentimientos. Sin embargo, lo que descubras podría sorprenderte. En lugar de sentir cualquier molestia, opta por tener una charla de corazón a corazón. Puede que hacerlo ayude a que todo se resuelva de muy buena manera. Puede que te percates de que tu atractivo sexual aumenta cuando Marte entre a tu signo. Es hora de ponerte a trabajar en los proyectos personales que son más significativos para ti. Además, querrás atrapar algunas gangas una vez que las ventas de Año Nuevo comiencen.
+A veces amas demasiado capricornio, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar capricornio, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. capricornio, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. capricornio, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos capricornio, y siente… Feliz semana…
+Con Marte ahora atravesando tu sector de viajes y aventura, es momento de encender tu fantástica luz y explorar horizontes lejanos y nuevas posibilidades. Sin embargo, antes de agarrar camino, tendrás que tener en cuenta que tanto Mercurio como Júpiter comienzan a retroceden a partir de esta semana. Sea lo que sea que estés planeando, primero comprueba dos veces cada uno de los detalles. También evita firmar documentos importantes, ya que los términos y condiciones podrían cambiar inclusive antes de que la tinta se seque.
 
 ## Dinero
 
-Te encanta fraccionar tu vida, con el dinero en un lado y el trabajo en el otro. Pero ahora algunos de tus compartimentos posiblemente tengan que ser combinados un poco con el fin de tener todo listo. Puede ser que estés pensando en volverte cada vez más responsables con tus finanzas en general. También estás combatiendo el hecho de que la caja que guarda el dinero en efectivo está un poco más seca que de costumbre. Cultiva otros recursos financieros adicionales a través de cambios o un trabajo extra de tiempo parcial.
+Hay una interesante energía concentrándose alrededor de tu trabajo y dinero. Un aspecto favorable indica que ciertas instituciones como compañías de tarjetas de crédito o bancos están tratando de trabajar contigo para desarrollar un amplio plan de pago de deuda. Es un momento positivo para la recaudación de fondos también. Si estás tratando de deshacerte de tu deuda, este es un gran momento para intentarlo.
