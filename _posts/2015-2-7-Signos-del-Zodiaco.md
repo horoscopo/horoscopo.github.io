@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de mayo 2018
-description: Horóscopos del dia de hoy 14 de mayo 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de mayo 2018
+description: Horóscopos del dia de hoy 15 de mayo 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-05-14
+ lastmod: 2018-05-15
 ---
-Pocos hacen lo que los demás esperan bajo la Luna Llena en Acuario de hoy. La vida trae consigo rareza y sorpresa. En una nota positiva, Venus regresa a Leo, pudiendo darle a alguien una excusa para volver. Sin embargo, no podrán reanudar la relación donde la dejaron - ya que ambos cambiaron durante el intermedio.
+Ten un gran día al reciclar o encontrarle un nuevo uso a algo viejo bajo la Luna en el creativo Leo. Además, disfrutas de tener suerte y buena sincronización gracias a la conjunción con Júpiter. Esta noche, es fácil darte cuenta de las pequeñas señales, anomalías y cosas dichas y hechas para desviar tu atención con Venus encontrándose en Virgo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
