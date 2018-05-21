@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 14 de mayo 2018 al 20 de mayo 2018 
-description: Horóscopo semanal aries 14 de mayo 2018 al 20 de mayo 2018. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: aries 21 de mayo 2018 al 27 de mayo 2018 
+description: Horóscopo semanal aries 21 de mayo 2018 al 27 de mayo 2018. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar aries porque no eres así. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: h8iDtxPZzzE
+ video: DiWWbeAyWhU
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-14'
+ lastmod: '2018-05-21'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar aries porque no eres así. 
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto aries? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito aries. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-Este mes trae mucha actividad en el frente hogareño. Ya sea si recibes invitados o haces lo que te gusta, parece que será muy divertido. Este puede ser un buen momento para una celebración o reunión, ya que una encantadora combinación de energías puede garantizar que todos se diviertan. El inquisitivo Mercurio se vuelve retrógrado en este mismo sector a mitad de semana. Si estás comprando accesorios para el hogar o pensando en invertir en una remodelación, guarda cualquier recibo y documentación en caso de que necesites un reembolso.
+Esta semana estás un poco impredecible aries, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica aries… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+Mercurio le hace una breve visita a tu signo y se torna retrógrado a principios de esta semana, lo que podría dar lugar a que ciertos planes sufran retrasos. De hecho, puede que no los pongas en marcha hasta que Mercurio comience a avanzar de nuevo el 25 de enero. Sin embargo, hay mucho que puedes lograr durante este periodo, y la semana por delante podría ser decisiva al animarte a examinar tus motivos y poner tus prioridades en orden. Una vez hecho eso, las cosas deberían empezar a caer en su lugar con mayor facilidad, también haciéndote sentir más confianza.
 
 ## Dinero
 
-Esta semana estás lidiando con un tipo de energía preocupante. El Universo quiere que intercambies información con los que te rodean, en especial respecto a tu vida monetaria. De hecho, puede que estés tan ocupado/a con tus planes de aumentar tu conocimiento que no tienes tiempo para atender a las demandas de tu lugar de trabajo. Error en el campo de la comunicación. Tu ambición depende de tu capacidad de decirle claramente a los demás lo que necesitas y deseas.
+Mirando a tu sector de relaciones significativas, todo está bien en ese frente, pero no estaría de más revisar las finanzas compartidas para asegurarse de que ambos están al tanto del ahorro y el pago de la deuda o las cuentas. Mientras tanto, tu sector de comunicación está haciendo la pregunta, ¿cómo puede usar tus habilidades comunicativas para atraer más dinero? La escritura, en particular, puede ser lucrativa.

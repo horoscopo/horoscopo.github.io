@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 14 de mayo 2018 al 20 de mayo 2018 
-description: Horóscopo semanal sagitario 14 de mayo 2018 al 20 de mayo 2018. La guerra que tienes dentro está deseando encontrar un poco de paz sagitario, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+title: sagitario 21 de mayo 2018 al 27 de mayo 2018 
+description: Horóscopo semanal sagitario 21 de mayo 2018 al 27 de mayo 2018. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: vB0hc7C4-nY
+ video: gvsIWbZajGs
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-14'
+ lastmod: '2018-05-21'
 ---
 
 
 
-## La guerra que tienes dentro está deseando encontrar un poco de paz sagitario, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 
-Necesitas amor sagitario, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a sagitario es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
-Si tienes decisiones importantes que tomar, puede que sea buena idea evitar hacerlo por el momento. Lo mismo ocurre con la firma de contratos o el cierre de ofertas. De hecho, comprometerte a cualquier cosa podría ser un poco riesgoso mientras Mercurio continúa retrocediendo en tu sector de léxico y pensamiento. Además, ciertos planes o proyectos podrían retrasarse. Sin embargo, tienes una muy buena oportunidad para estudiarlos con más detalle y detectar cualquier potencial defecto. En referente a tu vida social, alguien del pasado podría reaparecer.
+En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien sagitario…
+Los aspectos prácticos de ordenar tus finanzas podrían ocupar tu atención desde principios de semana. Al hablar inteligentemente te sería posible obtener un nuevo contrato o acuerdo que sea tan sólido como una roca y que valga la pena. La comunicación e interacción ganan importancia desde mediados de semana, haciendo de este un buen momento para promover bienes, servicios y hacerle un par de ajustes a tu negocio en línea. Adopta una pizca de la actitud de Leo y presume un poco. Evita gastar impulsivamente el Sábado incluso si tus amigos ya tienen algo que codicias y tú todavía no.
 
 ## Dinero
 
-Provees un par de ojos frescos a los acontecimientos de esta semana con actividad en tu sector de apariencias. Una amistad puede tener una sugerencia útil sobre cómo ganar más dinero o conseguir la promoción que has estado buscando. Incluso si no piensas igual, escucha a esta persona. Tal ve esta situación con más claridad que tú. Se te pide traer un lado mucho más serio de tu personalidad a la mesa.
+Esta semana, ciertos aspectos afectan tu sector de dinero y valores. Esta área de tu vida está siendo afectada ahora, y es posible que se te esté obligando a centrarte en tal casi en contra de tu voluntad. Tu forma de ahorrar y ganar será puesta bajo microscopio en este momento. Puede que tengas que encontrar la manera de hacer las dos cosas mejor.
