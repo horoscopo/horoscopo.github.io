@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 21 de mayo 2018 al 27 de mayo 2018 
-description: Horóscopo semanal virgo 21 de mayo 2018 al 27 de mayo 2018. Por muy desconfiado y duro que parezcas ser, al final acabas confiando virgo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+title: virgo 28 de mayo 2018 al 03 de junio 2018 
+description: Horóscopo semanal virgo 28 de mayo 2018 al 03 de junio 2018. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: fsgk74Diavc
+ video: BoVxrjStF4M
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-21'
+ lastmod: '2018-05-28'
 ---
 
 
 
-## Por muy desconfiado y duro que parezcas ser, al final acabas confiando virgo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 
-Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
- a personas de las que “piensas” que dependes…
-El desarrollo del enlace entre Júpiter y Plutón puede ser alentador para reconocer el interés en una idea o una oportunidad que podría ser muy buena para ti. Sin embargo, esto no es algo que deba ser apresurado. Tendrás que hacer el trabajo preliminar con el fin de sacarle el máximo provecho. Empieza ahora y estarás en la posición perfecta para seguir avanzando dentro de un par de semanas. Además, es posible que sientas motivación a invertir dinero en el sector inmobiliario con la esperanza de obtener una buena ganancia más adelante.
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
+Las próximas semanas pueden ser una buena oportunidad para reflexionar y liberar las emociones que pudieran estar agotando tu energía. Si puedes tomarte tiempo para reflexionar y meditar, te podría ser muy útil. Conforme Venus se acerca a Saturno en tu signo, podías adoptar una actitud un tanto seria con respecto a ciertas relaciones, especialmente con aquellas en las que la gente no te ha sabido apreciar. Por último, si alguien trata de persuadirte para que acudas a una salida cara, no lo hagas.
 
 ## Dinero
 
-Puede que esta semana tengas la tentación de ampliar tus esfuerzos de ganar dinero, los cuales incluyen la escritura, el Internet y la creación de contenidos. Pero puede ser que una parte de ti sienta atracción a educación adicional para que puedas cobrar más por tus servicios. Ya que tu principal trabajo cae en medio de esto, no dejes que sea la cosa que sufra. La atención cuidadosa a los detalles te permitirá lograr todo lo que quieras y más.
+Esta semana tienes un tipo especial de energía en el frente de trabajo. Parece que no puedes hacer nada mal, lo cuál es una buena cosa que mostrarle a tus superiores. Mientras que tu creatividad es fuerte y los sueños son fuente de inspiración, no elimines ciertos aspectos con tal de llegar a la meta más rápido. ¡So lo haces esta semana, sólo quedaras atrapado/a!

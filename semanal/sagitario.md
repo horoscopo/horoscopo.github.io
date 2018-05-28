@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 21 de mayo 2018 al 27 de mayo 2018 
-description: Horóscopo semanal sagitario 21 de mayo 2018 al 27 de mayo 2018. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+title: sagitario 28 de mayo 2018 al 03 de junio 2018 
+description: Horóscopo semanal sagitario 28 de mayo 2018 al 03 de junio 2018. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así sagitario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: gvsIWbZajGs
+ video: va09zpDCqX8
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-21'
+ lastmod: '2018-05-28'
 ---
 
 
 
-## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así sagitario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 
-En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien sagitario…
-Los aspectos prácticos de ordenar tus finanzas podrían ocupar tu atención desde principios de semana. Al hablar inteligentemente te sería posible obtener un nuevo contrato o acuerdo que sea tan sólido como una roca y que valga la pena. La comunicación e interacción ganan importancia desde mediados de semana, haciendo de este un buen momento para promover bienes, servicios y hacerle un par de ajustes a tu negocio en línea. Adopta una pizca de la actitud de Leo y presume un poco. Evita gastar impulsivamente el Sábado incluso si tus amigos ya tienen algo que codicias y tú todavía no.
+No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse sagitario, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo sagitario, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
+Tal vez necesitas mantener los pies sobre la tierra esta semana mientras una cautivadora mezcla de energías podría llevarte a tomar una decisión que deberías haber tomado hace tiempo. Sin embargo, también ayuda considerar tus intenciones en esta situación, ya que puede permitirte ver si lo que estás haciendo es lo mejor para ti. La poderosa Luna Llena podría traer potentes emociones a la superficie, pero tal vez sea mejor no actuar. Finalmente, una oportunidad que parece perfecta tal vez no lo sea, así que ve con cuidado.
 
 ## Dinero
 
-Esta semana, ciertos aspectos afectan tu sector de dinero y valores. Esta área de tu vida está siendo afectada ahora, y es posible que se te esté obligando a centrarte en tal casi en contra de tu voluntad. Tu forma de ahorrar y ganar será puesta bajo microscopio en este momento. Puede que tengas que encontrar la manera de hacer las dos cosas mejor.
+Tienes el apoyo del Universo esta semana, el cuál afecta a tu área asociada con los viajes al extranjero y la educación superior. Aunque pueda parecer contradictorio, es posible que tengas que mirar muy lejos de donde estás con el fin de ganar más dinero. El explorar mercados extranjeros para productos e inversiones extranjeras de ahorro ayudará a diversificar tu cartera y ganar más a largo plazo. Y aprender un nuevo idioma te ayudará con la comunicación.

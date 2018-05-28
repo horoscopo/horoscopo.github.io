@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 21 de mayo 2018 al 27 de mayo 2018 
-description: Horóscopo semanal piscis 21 de mayo 2018 al 27 de mayo 2018. Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
+title: piscis 28 de mayo 2018 al 03 de junio 2018 
+description: Horóscopo semanal piscis 28 de mayo 2018 al 03 de junio 2018. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: vmFUJrp8viY
+ video: gbGZ6o9puQE
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-21'
+ lastmod: '2018-05-28'
 ---
 
 
 
-## Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-No pelees piscis, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente piscis, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador piscis, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
-Lo que parece una gran idea podría necesitar un poco de esfuerzo para que funcione. Dar el primer paso te puede permitir que aprendas de la experiencia. Pronto descubrirás si el plan es práctico o no. Más adelante, Mercurio entra a tu sector de viajes y horizontes lejanos y podría despertar un deseo de irte lejos. Con otras influencias inspirando el mismo deseo, podría ser tiempo de que reserves un vuelo.
+Tu cabeza quiere un cambio piscis, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira piscis, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero piscis por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
+Puede que estés de humor para salir a comprar regalos. Pero si lo haces el lunes y te topas con algunas rebajas, es probable que exudas generosidad y gastes más de lo que habías planeado. Aun así, te recordarán y elogiarán por haberlo hecho. Si estás preparando alguna reunión para la próxima semana, es de suma importancia anotar todo. Las conexiones entre el conversador Mercurio, el glorioso Venus y el etéreo Neptuno sugieren que puedes cometer errores a menos que tengas cuidado. Sería prudente mantener un enfoque tranquilo durante el fin de semana.
 
 ## Dinero
 
-Puedes darte cuenta de que las oportunidades para ganar y ahorrar dinero se duplican e incluso triplican en las próximas semanas. Mientras que te ocupas recogiendo las mejores oportunidades financiera a tu alrededor, no descuides la familia, los niños, el romance y la creatividad. A pesar de que estés recibiendo más, diviértete y prueba cosas nuevas y asegúrate de cumplir con tu presupuesto. Durante algunas semanas, tendrás la oportunidad de salir de los viejos patrones.
+Es una semana llena de retos para ti. Tus sueños pueden ser algo más que una fuente de inspiración. Sus imágenes e ideas te ayudarán a determinar el negocio que sería bueno y la forma de avanzar en esa área. También es necesario reforzar tus ahorros. El cambio se aproxima y querrás prepararte para ello.
