@@ -1,14 +1,14 @@
 ---
 layout: page
-title: cancer mayo 2018 
+title: cancer junio 2018 
 permalink: /horoscopo-mensual/cancer/
-keywords: horóscopo, horóscopo cancer mayo , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2018, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo cancer junio , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2018, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 
-description: El horóscopo de mayo para Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
+description: El horóscopo de junio para Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '01-05-2018'
+ lastmod: '01-06-2018'
 ---
 
 

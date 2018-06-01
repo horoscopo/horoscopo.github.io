@@ -1,14 +1,14 @@
 ---
 layout: page
-title: geminis mayo 2018 
+title: geminis junio 2018 
 permalink: /horoscopo-mensual/geminis/
-keywords: horóscopo, horóscopo geminis mayo , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2018, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo geminis junio , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2018, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 
-description: El horóscopo de mayo para Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
+description: El horóscopo de junio para Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '01-05-2018'
+ lastmod: '01-06-2018'
 ---
 
 

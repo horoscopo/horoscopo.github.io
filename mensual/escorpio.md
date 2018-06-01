@@ -1,14 +1,14 @@
 ---
 layout: page
-title: escorpio mayo 2018 
+title: escorpio junio 2018 
 permalink: /horoscopo-mensual/escorpio/
-keywords: horóscopo, horóscopo escorpio mayo , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2018, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo escorpio junio , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2018, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 
-description: El horóscopo de mayo para Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
+description: El horóscopo de junio para Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '01-05-2018'
+ lastmod: '01-06-2018'
 ---
 
 
