@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 28 de mayo 2018 al 03 de junio 2018 
-description: Horóscopo semanal acuario 28 de mayo 2018 al 03 de junio 2018. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+title: acuario 04 de junio 2018 al 10 de junio 2018 
+description: Horóscopo semanal acuario 04 de junio 2018 al 10 de junio 2018. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche acuario, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: Zi3WzVOIys8
+ video: JPa0hY4rzjs
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-28'
+ lastmod: '2018-06-04'
 ---
 
 
 
-## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche acuario, abre las puertas y ciao. No tienes que mantener nada…
 
-¿Cómo quieres gastar tu vida acuario? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente acuario, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida acuario, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro acuario. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana acuario.
-¡Prepárate para relajarte en grande! Si sientes agotamiento, la entrada del Sol a Tauro y a tu sector hogareño podría ser como volver al vientre materno. Esta es tu oportunidad para cuidar de ti y reponer tu energía. Si alguien te llama con un proyecto interesante, no digas que sí de inmediato y te comprometas. Requieres de este tiempo para ponerte en contacto con tu cuerpo y restaurar tu espíritu al sano juicio. Sin embargo, la Luna Llena del jueves podría ponerte en el centro de atención, así que ¡prepárate!
+Nunca te has arrepentido de nada acuario, para bien o para mal la vida te ha dado lecciones en las que no te ha quedado más remedio que aprender. Estás en una fase en la que tus pensamientos se vuelven a pelear entre ellos. Lo que deberías hacer, lo que quieres hacer, lo que el mundo espera que hagas… Otra vez. Piensa antes de nada en lo que vas a perder antes de actuar y de tomar una decisión, pero tampoco busques hasta la más mínima excusa para no hacerlo. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos acuario. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad. Métete en la cabeza que puedes hacer absolutamente todo lo que te propongas solo, sin necesidad de que nadie te nuble el juicio, sin necesidad de que nadie te vuelva loco. La vida va a empezar a enseñarte quien merece la pena, quién no merece que se acerque a ti más de cinco minutos al día y quien no merece que se acerque nunca. Pero primero eres tú, en eso es en lo que tienes que trabajar más, en valorarte a ti mismo, en confiar en ti, en tus instintos, en tus objetivos, en saber que lo que hagas saldrá bien, de verdad. Tú no necesitas ejemplos de nadie, cada uno vive su vida como le apetece y si a alguien no le salieron las cosas como esperaba no significa que a ti no te vayan a salir, deja el miedo a un lado y sobretodo la dependencia emocional. Aunque sea una dependencia mínima. Vuelve a ser la persona que siempre has sido.
+Podrías estar buscando estabilizar una situación determinada y mantenerla bajo control lo mejor que puedas. Sin embargo, conforme Mercurio desacelera para luego volverse directo a mitad de semana, tus planes podrían estar sujetos a cambios inesperados. Dicho esto, prepárate para analizar varias alternativas. Es posible que la menos atractiva pueda llegar a ser la mejor oferta. Además, con el Sol uniéndose a Júpiter en tu sector financiero personal, un pequeño golpe de suerte podría llegarte este fin de semana.
 
 ## Dinero
 
-Es una semana complicada para ti aunque las cosas parezcan estar bien, sobre todo cuando se trata de tu relación. Vas avanzando en tus uniones con los sindicatos profesionales y personales y todo es bueno en ese frente. Sin embargo, los aspectos que afectan a tu carrera hacen que sea difícil ver el bosque por los árboles. Tómate el tiempo necesario para establecer un camino claro hacia tus metas.
+Es posible  que esta semana necesites obtener una segunda opinión sobre tus planes acerca de dinero. Tienes un montón de ideas creativas acerca de cómo maximizar tu dinero, pero la verdad también podría ser empañada o se ve mejor de lo que realmente es. Asegúrate de checar doble y triplemente todo antes de firmar. Tu vida social es cálida y amorosa. Solo trata de no gastar de más en las noches de farra.

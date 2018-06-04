@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: aries 28 de mayo 2018 al 03 de junio 2018 
-description: Horóscopo semanal aries 28 de mayo 2018 al 03 de junio 2018. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+title: aries 04 de junio 2018 al 10 de junio 2018 
+description: Horóscopo semanal aries 04 de junio 2018 al 10 de junio 2018. Nada tiene que ser ahora suficiente para ti aries, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: lWxI1_4k9mw
+ video: tsYvgD5Tajs
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-28'
+ lastmod: '2018-06-04'
 ---
 
 
 
-## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+## Nada tiene que ser ahora suficiente para ti aries, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 
-Madura aries, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte aries, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu aries, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-Al parecer, hay muchas cosas dando vueltas en tus relaciones esta semana, con la posibilidad de que ciertos asuntos generen intensas emociones. Sin embargo, cuando el encantador Marte se alinea con el jovial Júpiter el lunes, puede que no te des cuenta qué tan profundos son los sentimientos de otra persona hasta que comiences a hablar con él o ella. Mantén una comunicación fluida, ya que esto puede ser invaluable para suavizar cualquier dificultad y permitir que las cosas avancen a más tranquilamente. 
- Si sientes que alguien tiene la determinación de tomar una medida, puede que la razón no sea útil. Tal vez puedas ofrecerle tu apoyo en lugar de la lógica. Cuando el encantador Venus ingresa a tu sector espiritual el jueves, tu lado compasivo podría pasar al frente. Esto podría ser un factor en cualquier decisión que tomes. La luna llena en tu sector de recreación el domingo puede ser excelente para una reunión o celebración.   
+Has caído en la rutina aries, quieres pelear por personas que quizás no tengan mucho en común contigo pero aún así, te sigues aferrando a algo que quizás tenga fecha de caducidad. Necesitas hablar, conversar, pero un largo tiempo y de verdad poner todas y cada una de las cartas sobre la mesa. Te guardas demasiado para ti, para dentro, y por más que intentas sacarlo es como si algo te lo impidiera. Esta semana es buena para hacer balance de lo que quieres, de lo que buscas y de lo que necesitas. No vas a parar, tienes muchas cosas que hacer y eso será lo que te aleje de algunos problemas. Pero cuando eso que hagas se acabe, el problema seguirá estando presente, seguirá en el mismo sitio donde lo dejaste, y como no lo soluciones permanecerá ahí todo el tiempo. No te agobies y respira hondo cuando algo se ponga difícil. De todo se sale aries, ya lo sabes. Las pequeñas cosas cuentan mucho ahora así que, empieza a decir que “si” a cualquier plan que te propongan, por pequeño que sea. Si quieres salvar algo, habla aries, habla y saca de una vez todo ese universo de sentimientos y de emociones que tienes dentro. Como no seas claro de verdad y sólo tragues y tragues, todo va a salir mal. Disfruta esta semana pero aclárate un poco…
+Tu vitalidad es fuerte con el dorado Sol y el activo Marte moviéndose a través de tu signo. Puede que sientas más valentía y tengas ganas de defender lo que crees. Pero también querrás buscar y conectar con viejas y nuevas amistades. Mercurio en tu sector financiero podría encontrarte ordenando tus cosas un poco y poniéndote al día con facturas y otras cuestiones financieras. Sin embargo, si descubres una oferta para tu hogar, es posible que no puedas resistirte a ella.
 
 ## Dinero
 
-A pesar de que tu carrera está pasando por un poco de renacimiento ahora, con nuevas oportunidades para tomar las riendas, puede que tus relaciones no sientan todo el apoyo de tu nueva dirección. No es que no estés haciendo un buen trabajo, es que algunos de tus contactos pueden no saber cómo manejar tu nuevo poder. Pues mal por ellos, ¡porque vas para arriba con o sin ellos!
+Esta semana, tu sector de carrera se ve afectado. El Universo te está empujando a tomar algunas decisiones que has estado posponiendo por un tiempo. Si has querido cambiar de carrera o hacer investigación adicional, es el momento de echarlo a andar. Este aspecto tiene tenencia a empujarte a hacer lo que es correcto.

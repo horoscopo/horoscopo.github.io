@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: geminis 28 de mayo 2018 al 03 de junio 2018 
-description: Horóscopo semanal geminis 28 de mayo 2018 al 03 de junio 2018. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+title: geminis 04 de junio 2018 al 10 de junio 2018 
+description: Horóscopo semanal geminis 04 de junio 2018 al 10 de junio 2018. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: PuxbH3sIkVU
+ video: IBlZy7bdT-A
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-28'
+ lastmod: '2018-06-04'
 ---
 
 
 
-## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 
-Lo más complicado es siempre el principio, de todo, una vez que te has subido al “barco” no vuelvas a tirarte al agua, ¿me explico? 
-Y si aún tienes dudas sobre algo, tómate tu tiempo para decidir, a solas, sin que nadie pueda darle más vueltas a tu cabeza…
-Con algunos aspectos súper positivos esta semana, podrían aparecer nuevas opciones profesionales como por arte de magia. Si estás buscando un nuevo trabajo, piensa en el pasado y en las habilidades y capacidades que pusiste en práctica en tus años y trabajos anteriores. Incluso si debes mejorarlas, puede que veas que son exactamente lo que una persona en particular está buscando y que te abren las puertas a un nuevo trabajo o a un contrato. Por otro lado, sé paciente con tus finanzas. Trata de ahorrar para que puedas tener efectivo de reserva para ocasiones inesperadas.
+Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
+Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
+Evita volverte demasiado inflexible, sobre todo si una cuestión llama tu atención más que cualquier otra cosa. Existe la posibilidad de que estés pensando en una proposición o planeando un viaje y te estanques en los detalles. Si esperas hasta el final de la semana, es posible que el proceso se vuelva mucho más fácil, ya que Mercurio estará moviéndose hacia adelante. Hasta entonces, toma las ofertas u opciones con escepticismo. Finalmente, con Venus danzando hacia Escorpión, una relación puede volverse más apasionante.
 
 ## Dinero
 
-Esta semana estás lleno/a de grandes ideas para salir adelante económicamente. Hay una nueva sensibilidad hacia la comunicación y una retención temporal de tus actividades sociales para que puedas poner todas tus cosas en orden. En conjunto, el escenario se prepara para un nuevo trabajo o una nueva posición en tu empresa actual. Es posible que debas sugerir o crearla, pero puede ser tuya.
+Tienes un tema interesante en tus manos esta semana. Se te insta a ponerte en contacto con tus necesidades como inversionista y fijar tus metas en consecuencia. Por supuesto, la mayoría de la gente te dice que hagas más dinero, pero eso no te hace justicia. ¿Quieres ayudar a la gente menos afortunada que tú? Si es así, las inversiones socialmente responsables son la mejor opción para ti. Piensa en ello.

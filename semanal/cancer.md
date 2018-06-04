@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 28 de mayo 2018 al 03 de junio 2018 
-description: Horóscopo semanal cancer 28 de mayo 2018 al 03 de junio 2018. Escapa cancer, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
+title: cancer 04 de junio 2018 al 10 de junio 2018 
+description: Horóscopo semanal cancer 04 de junio 2018 al 10 de junio 2018. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo cancer.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: uNBWYdvL4p8
+ video: W3MsHt3LUxU
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-05-28'
+ lastmod: '2018-06-04'
 ---
 
 
 
-## Escapa cancer, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
+## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo cancer.
 
-Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
-Cuando te sientas mal, tira de memoria cancer y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
-Puede que te preguntarse si deberías ser amable y hacer todo lo que esté en tu poder para ayudar a otros o apegarte a tu propia agenda. La mezcla actual de energías insinúa que podrías fluctuar entre estas opciones e incluso terminar no haciendo nada si no puedes decidir qué camino tomar. Sin embargo, puede que encuentres la manera de ceder incluso si tienes dudas acerca de ello. Si el resultado te ahorra un choque con los demás y malos sentimientos, podría valer la pena.
+Tienes grandes planes cancer, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes cancer, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el cancer de siempre…
+Es posible que te enfoques en viajes y aventuras esta semana y las próximas, y llegando a fin de mes, es posible que sientas que puedes comenzar a planear tu viaje. La nostalgia de cierto lugar podría darte ganas de volver y vivir la cultura local una vez más. En el plano social, las cosas se están desarrollando debido a que Marte te lleva a tener una actitud más proactiva en esta área. Quizá implique moverte hacia distintos círculos, unirte a grupos y buscar personas que pueden refrescar tu ánimo.
 
 ## Dinero
 
-¡Puede que tengas que hacer muchos ajustes con todos los aspectos astrológicos de esta semana! El Universo puede traer un montón de noticias y ofertas, lo cuál es genial, pero se quedarán cortas, por lo que prepárate y alístate para entrar en acción. Si recibes malas noticias, asegúrate de tomar un descanso para recuperarte.
+Con tanta actividad en tu sector de dinero y valores, puede que estés revisando tus finanzas con un peine muy fino. El gasto está bajo control, excepto cuando se trata de embellecer tu entorno. Puede que exijas el tener interesantes colores, texturas y olores en tu hogar y en tu cuerpo. Tienes un intercambio armonioso de energía entre tu carrera y vida monetaria, pero asegúrate de que de verdad amas ese objeto antes de comprarlo y salir de la tienda.
