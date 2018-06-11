@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 04 de junio 2018 al 10 de junio 2018 
-description: Horóscopo semanal geminis 04 de junio 2018 al 10 de junio 2018. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+title: geminis 11 de junio 2018 al 17 de junio 2018 
+description: Horóscopo semanal geminis 11 de junio 2018 al 17 de junio 2018. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: IBlZy7bdT-A
+ video: LmWfMgNogtM
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-04'
+ lastmod: '2018-06-11'
 ---
 
 
 
-## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 
-Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
-Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
-Evita volverte demasiado inflexible, sobre todo si una cuestión llama tu atención más que cualquier otra cosa. Existe la posibilidad de que estés pensando en una proposición o planeando un viaje y te estanques en los detalles. Si esperas hasta el final de la semana, es posible que el proceso se vuelva mucho más fácil, ya que Mercurio estará moviéndose hacia adelante. Hasta entonces, toma las ofertas u opciones con escepticismo. Finalmente, con Venus danzando hacia Escorpión, una relación puede volverse más apasionante.
+Céntrate en tus metas geminis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+La próxima semana podría estar llena de interacciones sólidas que forman nuevas relaciones y profundizan las que ya tienes. Las opciones de placer y recreación también podrían acercarte más a otras personas y puede que tengas ganas de divertirte junto con ellas. Quizá quieras colaborar con ciertas personas en nuevos proyectos y esto puede darte buenos resultados. Puede que debas ponerte firme, ya que un fuerte vínculo entre Venus y Plutón sugiere que quizá otra persona trate de salirse con la suya. 
 
 ## Dinero
 
-Tienes un tema interesante en tus manos esta semana. Se te insta a ponerte en contacto con tus necesidades como inversionista y fijar tus metas en consecuencia. Por supuesto, la mayoría de la gente te dice que hagas más dinero, pero eso no te hace justicia. ¿Quieres ayudar a la gente menos afortunada que tú? Si es así, las inversiones socialmente responsables son la mejor opción para ti. Piensa en ello.
+Esta semana hay actividad en tu sector de dinero, la cuál está desacelerando lo que ganas actualmente. Podrías llegar a sentir como si no pudieras hacer que nada avanzara, pero sabe que es sólo temporal. El Universo no restringe por crueldad, sino como una manera de alentarnos a ser más cuidadosos y responsables con el dinero. Acude a tus amigos, conocidos y compañeros de trabajo para ayudarte a salir bien de los raspones.

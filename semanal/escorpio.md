@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 04 de junio 2018 al 10 de junio 2018 
-description: Horóscopo semanal escorpio 04 de junio 2018 al 10 de junio 2018. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+title: escorpio 11 de junio 2018 al 17 de junio 2018 
+description: Horóscopo semanal escorpio 11 de junio 2018 al 17 de junio 2018. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud escorpio, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: dfGOpYsHQ6c
+ video: mbDWsKLdNDE
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-04'
+ lastmod: '2018-06-11'
 ---
 
 
 
-## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud escorpio, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 
-Esta semana va a estar cargada de altibajos escorpio, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre escorpio, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza escorpio, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite escorpio, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
-Tu vida social sigue floreciendo, y cuando el encantador Venus se alinea con el eléctrico Urano el 6 de febrero, un inesperado encuentro podría resultar bastante encantador. Sin embargo, si quieres que esto se convierta en una comprensiva amistad, deberás cuidarla. El martes puede ser una oportunidad para aclarar los últimos detalles antes de completar un proyecto o plan. Hacerlo puede ayudar a garantizar el éxito. Por último, cuando el sociable Venus se traslada a Piscis el sábado, puede que quieras ayudar con una celebración de caridad o apoyar a otra persona.
+Tienes que enderezar un poco tu vida escorpio, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
+Esta podría ser una semana en la que las poderosas vibraciones del Eclipse Lunar movilicen el sector superior de tu carta astral. Esta es una oportunidad para que pienses qué es lo más importante para ti, no solo para las siguientes semanas pero también para el resto del año. ¿Qué esperas lograr? Los próximos días podrían hacerte reflexionar sobre ciertas cosas que te sorprenderán con su frescura y su chispa. Es posible que una trayectoria profesional que nunca consideraste se vuelva repentinamente atractiva.
 
 ## Dinero
 
-Esta semana te enfocas en las necesidades de tu familia y pareja romántica. No funcionará el gastar en los mismos patrones que antes. En vez, el poner tu actitud más madura te asegura que hay un montón de dinero para la educación universitaria, una casa cómoda y más. Tu lado creativo está en guerra con tu lado práctico. Esto, también pasará.
+Puede que te sientas un poco más hablador/a de lo habitual esta semana. Por lo general no puedes esperar mucho a recibir historias de los demás, pero esta semana estás feliz de compartir tus experiencias también. Conforme toda esta comunicación ocurre a tu alrededor, asegúrate de pasar tiempo y gastar dinero en ti mismo/a. El tener cuidado personal extremo puede parecer demasiado lujoso ahora, pero es una gran inversión en tu futuro a largo plazo. Descansa, rejuvenece y di lo que piensas.
