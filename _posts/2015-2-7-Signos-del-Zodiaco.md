@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de junio 2018
-description: Horóscopos del dia de hoy 11 de junio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de junio 2018
+description: Horóscopos del dia de hoy 12 de junio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-06-11
+ lastmod: 2018-06-12
 ---
-Si pudieras hacer algo, todo lo demás caería en su propio lugar. Por desgracia, los elementos esenciales son factores elusivos cuando Mercurio se opone a Neptuno. Esta noche, viaja a una velocidad tranquila cuando la Luna conjunte a Marte. Los solteros podrían hacer conexiones con rapidez, pero no recibirán respuestas honestas igual de rápido.
+Hoy, la vida es muy ordenada bajo la increíblemente eficiente Luna en Virgo. Venus, el astro del amor, también se encuentra en Virgo, dándonos tendencia a juzgar a las personas a tan sólo unos minutos de haberlas conocido. A veces es bueno aplicar la prueba del tiempo cuando los veredictos son firmes y la información es escasa.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
