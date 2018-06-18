@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: libra 11 de junio 2018 al 17 de junio 2018 
-description: Horóscopo semanal libra 11 de junio 2018 al 17 de junio 2018. Mira libra, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+title: libra 18 de junio 2018 al 24 de junio 2018 
+description: Horóscopo semanal libra 18 de junio 2018 al 24 de junio 2018. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida libra, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: DsV1pVrkAng
+ video: KPpmDuxGhZ8
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-11'
+ lastmod: '2018-06-18'
 ---
 
 
 
-## Mira libra, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida libra, vuelve a brillar.
 
-Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
-Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
-La Luna Nueva del martes en tu signo es lo mejor que te sucede en el año, ya que te dará la oportunidad de cumplir tus sueños y tus deseos. Si haces una lista de tus deseos y sueños y la lees con frecuencia, puede que notes que se hacen realidad mucho antes de lo que esperas. Por otro lado, la entrada de Mercurio a tu sector de dinero puede impulsarte a que vendas ciertos objetos y ganes un poco de dinero extra. Si empiezas vendiendo cosas que ya no necesitas, puedes ganar algo de dinero y disfrutar de tener más espacio.
+Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
+Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
+Tu sector social sigue vislumbrándose optimista, animándote a hacer algunos cambios y a avanzar hacia nuevos círculos. Con Mercurio retrógrado, podrías percatarte de que ciertas amistades regresan de nuevo a tu vida con la oportunidad de continuar donde anteriormente se quedaron. Júpiter entra a tu sector espiritual, aspecto que podría coincidir con el deseo de superación. No sería una sorpresa que decidieras contratar a un entrenador o conectar con un maestro con el fin de alcanzar tu verdadero potencial.
 
 ## Dinero
 
-Tienes una gran cantidad de aspectos astrológicos afectándote esta semana, muchos de los cuales afectan tu trabajo y dinero. En primer lugar, tus relaciones podrían ser menos que estables. Puede que tengas que contar con alguien más para ese préstamo que habías esperado. Los aspectos en tu sector de grandes instituciones como bancos e impuestos indican que debes tener cuidado con lo que dices y cómo lo dices.
+Esta semana, te rodeas de gente que quiere verte tener éxito, lo cual no es algo malo en lo absoluto. Con expansión y suerte en tu sector de trabajo combinado con una visión súbita y cambios, es el momento de lanzar la precaución al viento y conseguir que tu trabajo sea visto por los más altos en la cadena alimenticia. Es un momento de suerte para ti, en el que se te protege casi divinamente. Así que, dale una oportunidad y ve qué sale de nuevo en términos de dinero.

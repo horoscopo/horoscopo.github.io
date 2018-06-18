@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 11 de junio 2018 al 17 de junio 2018 
-description: Horóscopo semanal leo 11 de junio 2018 al 17 de junio 2018. Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: leo 18 de junio 2018 al 24 de junio 2018 
+description: Horóscopo semanal leo 18 de junio 2018 al 24 de junio 2018. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: o_pxU21_VwQ
+ video: xvpu0_YQOyQ
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-11'
+ lastmod: '2018-06-18'
 ---
 
 
 
-## Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace leo… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas leo, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
-Estarás en tu elemento cuando se trate de expresarte, compartir tu conocimiento, e interactuar con el mundo. Aun así, evita la tentación de contar un secreto el lunes, ya que podría ser contraproducente. Si tienes esperanzas de hacer una compra grande, espera una o dos semanas, ya que si lo haces es muy probable que tengas una experiencia de compra más positiva. Venus comienza a avanzar hacia adelante el domingo, por lo que los retrasos financieros podrían convertirse en una cosa del pasado. Es hora de poner nuevos planes de dinero en acción.
+Por fin llega lo que tanto estabas esperando leo, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo leo. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana leo, disfrútala al máximo.
+Durante el comienzo del 2018, la super luna llena en Cáncer del 1 de enero en tu sector de comunicación sugiere que pasarás todo el día interactuando con otras personas y que será un día maravilloso. Puede que también tengas ganas de viajar y vivir otras aventuras, especialmente las que están fuera de tu alcance. Pero mientras el cariñoso Mercurio se alinea con el innovador Urano, las ideas que se te ocurren podrían motivarte para salir de tu zona de confort y, quizás, aventurarte en nuevos caminos para ver qué te depara el destino.
 
 ## Dinero
 
-Es posible que no tengas total equilibrio ahora. El hogar y las emociones internas se destacan, por lo que es posible que te falte confianza o una base firme desde la cual operar. Debido a que las cosas están  cambiando allí, tus sueños están en vivo con todo tipo de imágenes y extrañas señales. Practica la paciencia con tu mente inconsciente, está tratando de decirte algo que te traerá abundancia con el tiempo.
+Estás buscando maneras de utilizar tus prodigiosas habilidades de comunicación para ganarte la vida. Ahora la atención se centra en tus tareas diarias y lo que haces para ganarte la vida. Es un buen momento para una evaluación de desempeño, porque es seguro que tu revisión será alta y tienes una plataforma desde la cual lanzar nuevas ideas y críticas constructivas. Hacerte indispensable garantizará que asciendas la escalera del éxito.

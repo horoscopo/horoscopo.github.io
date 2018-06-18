@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 11 de junio 2018 al 17 de junio 2018 
-description: Horóscopo semanal geminis 11 de junio 2018 al 17 de junio 2018. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+title: geminis 18 de junio 2018 al 24 de junio 2018 
+description: Horóscopo semanal geminis 18 de junio 2018 al 24 de junio 2018. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: LmWfMgNogtM
+ video: 7wRWgIoeAgw
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-11'
+ lastmod: '2018-06-18'
 ---
 
 
 
-## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 
-Céntrate en tus metas geminis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-La próxima semana podría estar llena de interacciones sólidas que forman nuevas relaciones y profundizan las que ya tienes. Las opciones de placer y recreación también podrían acercarte más a otras personas y puede que tengas ganas de divertirte junto con ellas. Quizá quieras colaborar con ciertas personas en nuevos proyectos y esto puede darte buenos resultados. Puede que debas ponerte firme, ya que un fuerte vínculo entre Venus y Plutón sugiere que quizá otra persona trate de salirse con la suya. 
+La zona de confort es un sitio bonito geminis, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más geminis, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto geminis, y tú mismo te lo notas, no la cagues por nada ni por nadie.
+Es posible que ingreses a un período agitado en el cual debas dar por finalizado cierto trabajo. Esto puede intensificarse en los siguientes días, así que es recomendable que te organices para poder lograrlo. No descuides tu trabajo por otras actividades más divertidas, ya que pueden acumularse y no tendrás el tiempo suficiente para terminar. La Luna Llena del 13 de diciembre sobre tu eje de recreación puede ser un gran momento para organizar una reunión o celebración festiva que todos disfruten.
 
 ## Dinero
 
-Esta semana hay actividad en tu sector de dinero, la cuál está desacelerando lo que ganas actualmente. Podrías llegar a sentir como si no pudieras hacer que nada avanzara, pero sabe que es sólo temporal. El Universo no restringe por crueldad, sino como una manera de alentarnos a ser más cuidadosos y responsables con el dinero. Acude a tus amigos, conocidos y compañeros de trabajo para ayudarte a salir bien de los raspones.
+¡Qué emoción! Las máquinas funcionan muy bien y el correo llega a tiempo. La comunicación facilita. De por si ya te sientes muy rebelde en lo que estás haciendo actualmente para ganarte la vida. Es posible que te des cuenta de que ésta particular visión de llevar tus finanzas funciona mejor para ti ahora. El expresar tus opiniones no tiene por qué convertirse en un trabajo de tiempo completo. Deja que tu trabajo hable por ti.

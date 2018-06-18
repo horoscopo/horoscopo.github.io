@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 11 de junio 2018 al 17 de junio 2018 
-description: Horóscopo semanal virgo 11 de junio 2018 al 17 de junio 2018. Esta semana relájate un poco virgo, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: virgo 18 de junio 2018 al 24 de junio 2018 
+description: Horóscopo semanal virgo 18 de junio 2018 al 24 de junio 2018. Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: G7XirEveDhU
+ video: PZo7L7GDwnA
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-11'
+ lastmod: '2018-06-18'
 ---
 
 
 
-## Esta semana relájate un poco virgo, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
 
-Tienes que motivarte virgo. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino virgo. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro virgo, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa virgo, ¿tu tiempo no vale nada o qué?
-Si tienes plazos que cumplir, objetivos que alcanzar e importantes citas que atender, date mucho margen de maniobra. Con Mercurio y Júpiter actualmente retrógrados, hay muchas posibilidades de que haya retrasos que podrían costarte. Una manera de hacerle frente a esto sería prepararte tanto como te sea posible. Sin embargo, puede que también te sea útil negociar un poco de tiempo extra para cualquier retraso inesperado. Además, si decides salir de compras, recuerda guardar los recibos.
+Disfruta de la vida virgo, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven virgo. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana virgo.
+¿Será que el romance podría estar en el aire? La alineación cósmica del martes sugiere que es posible. El delicioso lazo entre Venus y Marte podría verte en la fascinante compañía de alguien. Marte inicia su fase retrógrada al final de esta semana, por lo que sería mejor no tener demasiadas expectativas acerca de cómo esto podría resultar. Toma cada día como venga, ya que es tu mejor opción por ahora. Con respecto a una decisión profesional, a partir del jueves podrías obtener una segunda oportunidad en una posibilidad que pensabas que habías perdido.
 
 ## Dinero
 
-Estás pasando por una etapa de echar raíces nuevas. Estás pensando en dónde quieres estar en los próximos cinco o diez años en el futuro. Si tu trabajo no está funcionando para ti, las inversiones o la propiedad que posees con al menos una persona podrían ser una respuesta. Vende lo que no sea necesario para financiar este movimiento y te lleve a donde quieras estar.
+Tienes una semana llena de tensión por delante. Es posible que tengas que comprometer más de lo que quisieras. Tu vida hogareña, más que tu carrera o cartera de inversiones es donde debes buscar si quieres ganar más plata.

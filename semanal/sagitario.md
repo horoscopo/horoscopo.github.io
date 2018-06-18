@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: sagitario 11 de junio 2018 al 17 de junio 2018 
-description: Horóscopo semanal sagitario 11 de junio 2018 al 17 de junio 2018. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad sagitario, ahora estás que lo partes.
+title: sagitario 18 de junio 2018 al 24 de junio 2018 
+description: Horóscopo semanal sagitario 18 de junio 2018 al 24 de junio 2018. Vete a tu cerebro, y borra sagitario, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño sagitario. Deja salir para que pueda entrar lo demás.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: HISvv1oVyPY
+ video: wJNRE9w62jA
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-11'
+ lastmod: '2018-06-18'
 ---
 
 
 
-## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad sagitario, ahora estás que lo partes.
+## Vete a tu cerebro, y borra sagitario, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño sagitario. Deja salir para que pueda entrar lo demás.
 
-Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
- que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
-Algo que has estado construyendo durante mucho tiempo podría necesitar desmantelarse parcialmente si las cosas no continúan como deberían hacerlo. Hacerlo ahora puede ser mejor que dejar pasar demasiado tiempo. La Luna Nueva de mediados de la semana puede ser una oportunidad para seguir adelante con un plan para ganar un dinero extra. Comienza ahora y, probablemente, pronto tendrás una verdadera máquina de dinero en tus manos. Más adelante en la semana, una información nueva podría darte una ventaja. Y socializar también podría impulsar tu progreso.
+Esta semana tienes que tomarte las cosas con más calma sagitario. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
+ Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse.
+Hay un grado de tensión surgiendo que podría alcanzar su punto máximo a mitad de semana. Tal podría estar relacionado con tus responsabilidades y tal vez el deseo de escapar de ellas. Si tu mente está enganchada a una idea, considera si va a ser útil para ti en el futuro. Podrías poner una gran cantidad de energía y dinero en el aprendizaje de algo o en visitar un lugar sólo para percatarte de que no es lo tuyo. Sin embargo, darle diversidad a tu rutina sí puede darle a los próximos días un poco más de chispa.
 
 ## Dinero
 
-Estudiando tu sector de profesión, estás disfrutando de un poco de impulso en esta área. Nuevos proyectos pueden aterrizar en tus manos. Si juegas bien tus cartas, podrías llegar a obtener un ascenso o promoción si muestras lo mucho que puedes llegar a hacer. Se indica que viene un cambio repentino, tal vez una transformación en tu rutina diaria. Si no tienes seguridad acerca de tu trabajo actual, piensa en qué más podrías hacer para ganar más dinero.
+Tus pensamientos e ideas pueden tornarse a la familia y la diversión por ahora, pero el Universo te está empujando a pensar en instituciones grandes como una forma de ganar dinero. Si tu dinero está en un banco pequeño o local, puede ser momento de darles a los bancos grandes una oportunidad. Mejores tarifas y opciones de ahorro significan más dinero para ti y tu clan.
