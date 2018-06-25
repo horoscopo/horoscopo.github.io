@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: leo 18 de junio 2018 al 24 de junio 2018 
-description: Horóscopo semanal leo 18 de junio 2018 al 24 de junio 2018. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+title: leo 25 de junio 2018 al 01 de julio 2018 
+description: Horóscopo semanal leo 25 de junio 2018 al 01 de julio 2018. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: xvpu0_YQOyQ
+ video: nyGMFK7J914
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-18'
+ lastmod: '2018-06-25'
 ---
 
 
 
-## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 
-Por fin llega lo que tanto estabas esperando leo, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo leo. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana leo, disfrútala al máximo.
-Durante el comienzo del 2018, la super luna llena en Cáncer del 1 de enero en tu sector de comunicación sugiere que pasarás todo el día interactuando con otras personas y que será un día maravilloso. Puede que también tengas ganas de viajar y vivir otras aventuras, especialmente las que están fuera de tu alcance. Pero mientras el cariñoso Mercurio se alinea con el innovador Urano, las ideas que se te ocurren podrían motivarte para salir de tu zona de confort y, quizás, aventurarte en nuevos caminos para ver qué te depara el destino.
+No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
+Cuando el jovial Júpiter en tu signo conecta con el potente Plutón en tu sector de mente y comunicación, puede que tus pensamientos todavía giren en torno a un proyecto importante para ti. Sin embargo, esta puede ser una etapa de búsqueda y consolidación. Si te aseguras de que la base sea sólida, tienes el éxito prácticamente garantizado. No subestimes los detalles. Podrían ser fundamentales para el resultado. 
+  Al mismo tiempo, debido a que el práctico Saturno y el poderoso Plutón están retrógrados en tu sector de habla y pensamiento, podrías pasar por un proceso que te ayude a cambiar tu forma de pensar. Si bien hay muchas técnicas para hacerlo, confía en tus instintos y encontrarás la adecuada para ti. El fin de semana, el sol forma una positiva conexión con el etéreo Neptuno en tu sector de romance, lo que sugiere que un encuentro podría animarte a conocer mejor a una persona. Tómate tu tiempo. ¡No hay apuro!   
 
 ## Dinero
 
-Estás buscando maneras de utilizar tus prodigiosas habilidades de comunicación para ganarte la vida. Ahora la atención se centra en tus tareas diarias y lo que haces para ganarte la vida. Es un buen momento para una evaluación de desempeño, porque es seguro que tu revisión será alta y tienes una plataforma desde la cual lanzar nuevas ideas y críticas constructivas. Hacerte indispensable garantizará que asciendas la escalera del éxito.
+Esta semana hay un énfasis en la mente, el pensar y el expresar ideas. Podrías sentir la tentación de gastar en clases o talleres esta semana, sobre todo si te llevan a pasar más tiempo fuera de tus pensamientos y en búsqueda interna o externa. Sólo asegúrate de que es algo que tiene la capacidad de responder a las grandes preguntas de la vida.

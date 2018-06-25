@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 18 de junio 2018 al 24 de junio 2018 
-description: Horóscopo semanal cancer 18 de junio 2018 al 24 de junio 2018. De verdad cancer, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+title: cancer 25 de junio 2018 al 01 de julio 2018 
+description: Horóscopo semanal cancer 25 de junio 2018 al 01 de julio 2018. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: 7SZ5SRrygTc
+ video: Zp9NmTwUkFk
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-18'
+ lastmod: '2018-06-25'
 ---
 
 
 
-## De verdad cancer, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-Tienes que esforzarte cancer, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien cancer, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti cancer, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo cancer, sin remordimiento de ningún tipo, y espera a que el resto te busque…
-Tus asuntos monetarios se vislumbran dinámicos y podrían permanecer así si te dispones a planear tu éxito. Con ese fin, el Eclipse Solar que está a punto de manifestarse esta semana podría animarte a salirte de tu zona de confort. Pero no tienes que hacerlo todo a la vez - ¡dar pasos pequeños te funcionaría bien! Incluso podrías descubrir que alguien te pagaría por una habilidad que realmente no has sabido apreciar. Marte en tu signo podría darte mucha determinación para hacer realidad tus sueños.
+Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca cancer. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder cancer pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias cancer, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
+Puede que tu mente no pare de pensar, pero esta podría ser la razón por la cual surgen tantas oportunidades. Una podría volverse prioridad cuando el caritativo Júpiter se alinea con Plutón en tu sector de comunicación esta semana. La luna nueva en esta misma zona te alienta a compartir tus planes con las demás personas para que te den el apoyo que necesitas. Sin embargo, el enfoque se desplaza al sector de hogar y familia el 17 de enero. Es momento de permitirte algunos cuidados personales.
 
 ## Dinero
 
-Tienes un montón de amor y suerte aproximándose a tu sector de relaciones, así como algunas sorpresas y un poco de inestabilidad. El Universo indica  un momento de cambio en tu hogar. Es posible que decidas trabajar por tu propia cuenta ahora si es que encuentras la manera de ganar la misma cantidad que te pagaba tu última posición. Se puede hacer.
+El Universo te está dando una increíble fuerza creativa ahora. Puede que tengas muchas ideas sobre cómo hacer más dinero, invertirlo y usarlo para mejorar tu vida. Ciertos aspectos afectan tu sector de  deuda y el dinero de otros. Prepárate para lo mejor y lo peor, y paga lo que puedas.
