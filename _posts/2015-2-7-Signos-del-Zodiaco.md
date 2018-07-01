@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de junio 2018
-description: Horóscopos del dia de hoy 30 de junio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de julio 2018
+description: Horóscopos del dia de hoy 01 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-06-30
+ lastmod: 2018-07-01
 ---
-¿Enfrentándote a miradas en blanco de malentendidos esta mañana? Es la Luna cuadrando a Neptuno, lo cual pasará. Si deseas impresionar a todos, esta es la tarde para hacerlo. Venus conecta con Neptuno esta noche, llenando a las parejas de amor. Solteros, a veces es mejor quedarse con la duda.
+Con Mercurio y Neptuno, la imaginación trabaja horas extras y podría dar lugar a decisiones equivocadas. Piensa en ello. Esta noche, las interrupciones momentáneas pueden venir de la nada y tomarte por sorpresa cuando la Luna aspecta tanto a Marte como Urano. Ciertamente no será ni aburrido, ni lo mismo de siempre.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
