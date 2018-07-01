@@ -1,15 +1,15 @@
 ---
 layout: page
-title: tauro junio 2018 
+title: tauro julio 2018 
 permalink: /horoscopo-mensual/tauro/
-keywords: horóscopo, horóscopo tauro junio , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2018, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo tauro julio , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2018, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 
-description: El horóscopo de junio para Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
+description: El horóscopo de julio para Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '01-06-2018'
+ lastmod: '01-07-2018'
 ---
 
 
-La vida se torna más fácil y lujosa con el trígono que Venus forma con Neptuno el 2 de junio. Ama lo que haces, y no gastes todo de una vez. Busca una ganancia financiera o ingreso inesperado con la luna nueva del día 13. Sé prudente y suspicaz si una oferta parece demasiado buena como para ser verdad, pero no dudes si la oportunidad parece sólida. La luna llena del 27 de junio podría ponerse complicada, pero eso es exactamente lo que quieres ahora. Habrá más opciones para escoger, ya sea en ropa, comida, entretenimiento, opiniones o creencias. Tómate tu tiempo para disfrutar de la gran variedad que se te presenta ahora. <br><br>Días destacados: 1, 13, 16<br>Días desafiantes: 5, 21
+Venus entra a Virgo el 9 de julio. Vestirte más informalmente puede ser la nueva forma de vestirte elegante. El romance podría volverse menos formal y también menos ostentoso. Las interacciones con amistades y familiares deberían ser suaves como la seda, y también divertidas, durante la luna nueva y el eclipse solar del día 12. Prepárate para todas las emociones agradables que aparecen en tu camino. <br><br>La luna llena y el eclipse lunar del 27 de julio podrían traer a la superficie varios asuntos domésticos que ahora pueden ser resueltos o mejorados. En lugar de verlos como conflictos, aprovecha esta oportunidad de resolver y arreglar las cosas. <br><br>Días destacados: 11, 13, 15<br>Días desafiantes: 24, 27</div>

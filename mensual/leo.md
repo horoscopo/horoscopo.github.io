@@ -1,15 +1,15 @@
 ---
 layout: page
-title: leo junio 2018 
+title: leo julio 2018 
 permalink: /horoscopo-mensual/leo/
-keywords: horóscopo, horóscopo leo junio , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2018, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo, horóscopo leo julio , horóscopo 2018, horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2018, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 
-description: El horóscopo de junio para Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
+description: El horóscopo de julio para Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones.
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '01-06-2018'
+ lastmod: '01-07-2018'
 ---
 
 
-Dale gusto a tu mariposa social interna cuando la luna está nueva el 13 de junio. Puede que no haya muchas conversaciones profundas, pero está bien. Busca encuentros casuales cordiales y coquetos, y diviértete mucho. El sol entra a Cáncer y comienza el verano el día 21. Muestra el mejor lado de tu personalidad, en especial a amistades y familia. Para la luna llena del 27 de junio, elige uno o dos asuntos para concentrarte en el trabajo, y no permitas que te abrumen con otros pedidos. Tómate tu tiempo, sé una persona metódica y no tengas prisa. Los resultados hablarán por sí mismos. Tus logros no serán desestimados. <br><br>Días destacados: 5, 13, 29<br>Días desafiantes: 7, 28
+Incluso si te quedas en casa el 12 de julio, la luna nueva y eclipse solar pondrán el mundo ante ti. Ocupa tu agenda todo lo que quieras, pero reserva un poco de tiempo privado de calidad para disfrutar de todas las actividades que te rodean. <br><br>El sol ingresa a Leo el día 22, con la luna en Sagitario. Mantén las pasiones salvajes bajo control, pero no niegues los deseos verdaderos. La luna llena y el eclipse lunar en Leo el 27 de julio te separan de tus colegas y aliados. Puede que estén más ruidosos o explícitos, pero tú sabes lo que es importante. Y todavía tienen muchas cosas en común. <br><br>Días destacados: 5, 8, 24<br>Días desafiantes: 25, 26</div>
