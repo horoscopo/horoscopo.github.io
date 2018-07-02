@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 25 de junio 2018 al 01 de julio 2018 
-description: Horóscopo semanal capricornio 25 de junio 2018 al 01 de julio 2018. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+title: capricornio 02 de julio 2018 al 08 de julio 2018 
+description: Horóscopo semanal capricornio 02 de julio 2018 al 08 de julio 2018. Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: yx0y3nvBgto
+ video: Fa85Zz1rg2g
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-25'
+ lastmod: '2018-07-02'
 ---
 
 
 
-## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+## Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 
-Ommmm… Ommmm… Relax capricornio, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira capricornio, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas capricornio, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
-Mientras que una idea ofrecida por alguien pueda parecer buena en teoría, puede que no lo sea así en práctica. Con Venus y el Sol conectando con Neptuno en tu sector financiero personal, ten mucho cuidado acerca de cómo te involucras en planes que pudieran enriquecerte rápidamente, porque puede que pierdas más dinero del que ganes. Si sientes atracción hacia una idea, no firmes nada hasta que hayas leído las clausulas y condiciones. Mientras tanto, Marte avanzando desde mitad de semana podría hacer que las cosas parezcan mucho más prometedoras en el frente profesional.
+Esfuérzate un poco más de lo que hiciste ayer Sagi, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
+ de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
+Acostúmbrate a la luz de los reflectores, ya que podrías encontrarte siendo el centro de atención una vez que el Sol entre a la parte superior de tu carta a partir del viernes. La Luna Llena del martes se manifiesta en tu sector de comunicación, así que ten cuidado con lo que dices. Si te has sentido emocional, es posible que disgustes a alguien. Adoptar un enfoque discreto podría evitar esto. Además, la oportunidad de mejorar tus finanzas podría aparecerte.
 
 ## Dinero
 
-Tienes luz verde para escribir esas cartas, enviar esos paquetes, y en general lanzar una ofensiva en cuanto a comunicación empresarial se refiere. Si quieres ganar más dinero, cambiar de profesión, o hacerles saber a los demás que tienes una nueva habilidad que ofrecer, hazlo. Tienes todo el apoyo que puedes desear del Universo para captar la atención de los demás. Pon tu mejor pie por adelante.
+Puede que estés sintiendo presión para hacerle frente a tu situación de deuda. Es necesario prestar atención a lo que debes. Al asumir una mayor responsabilidad, ayudas a los problemas a desaparecer mucho más rápidamente que si se hicieses caso omiso de los avisos y mensajes telefónicos. Mientras tanto, el énfasis en tu sector de vidas pasadas e instituciones te ayuda a recuperar las habilidades olvidadas que se pueden utilizar para ganar más a largo plazo.

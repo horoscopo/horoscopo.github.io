@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 25 de junio 2018 al 01 de julio 2018 
-description: Horóscopo semanal acuario 25 de junio 2018 al 01 de julio 2018. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+title: acuario 02 de julio 2018 al 08 de julio 2018 
+description: Horóscopo semanal acuario 02 de julio 2018 al 08 de julio 2018. Cada día que pasa te das más cuenta de que mereces cosas buenas acuario, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: JGofFvY2IJU
+ video: 8qJO4fX8dyE
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-25'
+ lastmod: '2018-07-02'
 ---
 
 
 
-## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+## Cada día que pasa te das más cuenta de que mereces cosas buenas acuario, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
 
-No desperdicies ni un solo día de tu vida acuario porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio acuario, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la acuario de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida acuario. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
-Te has preparado para avanzar en ésta y en las próximas semanas. Y a pesar de que Saturno está ahora retrógrado en la parte superior de tu carta, tu lado ambicioso está en primer plano. A pesar de que tus mejores planes podrían retrasarse, no los dejes fuera por completo. Con el poderoso Marte estimulando tu mente, es un excelente momento para explorar nuevas posibilidades y formar conexiones vitales que podrían ayudarte a alcanzar tu sueño. Además, tus finanzas podrían mejorar si actúas correctamente.
+Empieza a cambiar la mentalidad acuario, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado acuario, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+Si tienes un buen presentimiento sobre un país o un destino, puede que esto te de ganas de organizar un viaje. Puede que las ganas de viajar también surjan porque te gusta una persona que vive lejos. También podrías tener un ferviente interés en un determinado tema y querer aprender más al respecto o incluso escribir un libro si tienes la experiencia suficiente. Una apasionada influencia también podría revelar intensas emociones muy profundas que puede que quieras compartir.
 
 ## Dinero
 
-Esta semana tienes luz verde por parte del Universo para expandir tu búsqueda de empleo. Esto se aplica si estás en busca de trabajo o incluso pensando en cambiar de trabajo si lo que has estado haciendo ahora no tiene ningún significado real para ti. También es el momento de considerar pedir un préstamo.
+Este período tiene algunos aspectos favorables para ti. Un Universo equilibrado y pacífico te trae un montón de coraje para enfrentarte al problema de una deuda existente, así como para obtener la capacidad de negociar el tipo de plan de pago que puedas pagar. Parte de ti puede preocuparse de que nunca lograrás pagarlo, pero los aspectos muestran que sí lo harás si aplicas tu sabiduría interior.

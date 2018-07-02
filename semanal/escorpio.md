@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 25 de junio 2018 al 01 de julio 2018 
-description: Horóscopo semanal escorpio 25 de junio 2018 al 01 de julio 2018. Estás renaciendo escorpio, renaciendo de las cenizas… Y ya era hora…
+title: escorpio 02 de julio 2018 al 08 de julio 2018 
+description: Horóscopo semanal escorpio 02 de julio 2018 al 08 de julio 2018. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: 5J0Fz0ndrDc
+ video: -4LQQk9tTTE
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-25'
+ lastmod: '2018-07-02'
 ---
 
 
 
-## Estás renaciendo escorpio, renaciendo de las cenizas… Y ya era hora…
+## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 
-Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. escorpio, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota escorpio, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando escorpio. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce escorpio, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
-Puede que te preguntes si debes apegarte a tu rutina de salud o romperla y darte gustos. El día lunes, podías verte teniendo un difícil dilema; cuando puede que lo mejor sea que llegues a un compromiso. Una vez que Venus y Mercurio entren a tu sector de relaciones más adelante en la semana, significa que es momento de saber trabajar en equipo. Ya sea que trabajes con tu pareja o con un grupo, pueden lograr mucho más juntos que a solas. Este fin de semana, espera lo inesperado.
+Estás activo Cangrejo, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
+El panorama podría intensificarse esta semana. Cuando el fogoso Marte, tu planeta regente, conecta con el poderoso Plutón, podrías sentir una imperiosa necesidad de seguir adelante con un plan. Y cuando ambos planetas conectan con el jovial Júpiter, la idea de dar un gran paso hacia adelante parece algo natural. Pero ¿lo es? Puede que sea prudente pedir otra opinión antes de dar el paso. 
+ Cuando el encantador Venus ingresa a Géminis y a tu sector de comunicación el martes, te resultará sencillo tranquilizar a los demás. Esto puede ser útil en algunas de las situaciones en que te encuentres. El miércoles podría encontrarte en desacuerdo con una persona y es posible que debas llegar a un acuerdo para poder avanzar. Por último, la luna llena el domingo podría animarte a hacer algunos gastos cuando la mejor opción puede ser un masaje o un tratamiento de spa.    
 
 ## Dinero
 
-Puede que se te esté dando la oportunidad de llevar tus ideas a las grandes redes sociales y al público. Este es un momento excelente para aprovechar el hecho de que la gente quiere escuchar lo que tienes que decir y comprar lo que estás vendiendo. Si necesitas mejorar tu mensaje antes de acercarte a ellos, utiliza los aspectos favorables actuales para lograr hacerlo. Vas a lograr producir mucho cuando golpees al mundo con tus ideas.
+Te enfrentas a una seria transformación esta semana. Estás construyendo un mejor ingreso y una mayor seguridad en todos los aspectos de tu vida. Mientras que hablas a favor de tus necesidades y te redefines a ti mismo/a como persona, el Universo te anima a aprender un nuevo idioma, a que pienses en expandir lo que haces en los mercados extranjeros y prosperar. ¡Se ve el signo de dinero en tu futuro!

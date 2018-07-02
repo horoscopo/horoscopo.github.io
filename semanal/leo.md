@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: leo 25 de junio 2018 al 01 de julio 2018 
-description: Horóscopo semanal leo 25 de junio 2018 al 01 de julio 2018. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+title: leo 02 de julio 2018 al 08 de julio 2018 
+description: Horóscopo semanal leo 02 de julio 2018 al 08 de julio 2018. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: nyGMFK7J914
+ video: mXPmUnwJYQI
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-25'
+ lastmod: '2018-07-02'
 ---
 
 
 
-## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
-Cuando el jovial Júpiter en tu signo conecta con el potente Plutón en tu sector de mente y comunicación, puede que tus pensamientos todavía giren en torno a un proyecto importante para ti. Sin embargo, esta puede ser una etapa de búsqueda y consolidación. Si te aseguras de que la base sea sólida, tienes el éxito prácticamente garantizado. No subestimes los detalles. Podrían ser fundamentales para el resultado. 
-  Al mismo tiempo, debido a que el práctico Saturno y el poderoso Plutón están retrógrados en tu sector de habla y pensamiento, podrías pasar por un proceso que te ayude a cambiar tu forma de pensar. Si bien hay muchas técnicas para hacerlo, confía en tus instintos y encontrarás la adecuada para ti. El fin de semana, el sol forma una positiva conexión con el etéreo Neptuno en tu sector de romance, lo que sugiere que un encuentro podría animarte a conocer mejor a una persona. Tómate tu tiempo. ¡No hay apuro!   
+Necesitas tener un objetivo en la vida leo, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada leo, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
+Tu sector de romance y creatividad podría ser especialmente intenso en este momento y permanecer así durante algún tiempo. Podrías descubrir que estás poniendo mucha energía en las actividades de esta área. Otros aspectos de tu carta te animan a liberar cualquier cosa que dificulte tu vida. Este es el caso, en particular, del eclipse solar del jueves. Deshacerte de lo que ya no te sirve puede darte la energía que necesitas para abordar esos significativos planes.
 
 ## Dinero
 
-Esta semana hay un énfasis en la mente, el pensar y el expresar ideas. Podrías sentir la tentación de gastar en clases o talleres esta semana, sobre todo si te llevan a pasar más tiempo fuera de tus pensamientos y en búsqueda interna o externa. Sólo asegúrate de que es algo que tiene la capacidad de responder a las grandes preguntas de la vida.
+Esta semana todo tipo de puertas financieras se están abriendo. Con el fin de atraer la cantidad de dinero que deseas, tienes que verdaderamente adorar lo que haces. Considera la posibilidad de profundizar tu conocimiento innato a través de talleres y seminarios. Tu sector social se expande. Tienes los contactos necesarios para dar el salto a la enseñanza, la publicación o el discurso. Haz que suceda.

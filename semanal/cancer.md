@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 25 de junio 2018 al 01 de julio 2018 
-description: Horóscopo semanal cancer 25 de junio 2018 al 01 de julio 2018. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: cancer 02 de julio 2018 al 08 de julio 2018 
+description: Horóscopo semanal cancer 02 de julio 2018 al 08 de julio 2018. Recuerda que ha empezado la época de los cancer… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: Zp9NmTwUkFk
+ video: ZIQRrnsBKYg
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-25'
+ lastmod: '2018-07-02'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## Recuerda que ha empezado la época de los cancer… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 
-Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca cancer. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder cancer pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias cancer, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
-Puede que tu mente no pare de pensar, pero esta podría ser la razón por la cual surgen tantas oportunidades. Una podría volverse prioridad cuando el caritativo Júpiter se alinea con Plutón en tu sector de comunicación esta semana. La luna nueva en esta misma zona te alienta a compartir tus planes con las demás personas para que te den el apoyo que necesitas. Sin embargo, el enfoque se desplaza al sector de hogar y familia el 17 de enero. Es momento de permitirte algunos cuidados personales.
+Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capri, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
+La Luna Creciente de esta semana sugiere que ciertos conflictos podrían surgir si una persona considera los detalles importantes mientras otra los ve como irrelevantes. Acaparar ambos extremos del espectro puede darte una nueva perspectiva sobre las cosas. Más tarde, el Sol ilumina tu sector de diversión, entretenimiento y romance. Es hora de relajarte y disfrutar de la vida ya sea que eso signifique hacer ejercicio, irte de vacaciones, o hacer cosas creativas. Además, Marte en tu sector hogareño podría darte ganas de organizarte.
 
 ## Dinero
 
-El Universo te está dando una increíble fuerza creativa ahora. Puede que tengas muchas ideas sobre cómo hacer más dinero, invertirlo y usarlo para mejorar tu vida. Ciertos aspectos afectan tu sector de  deuda y el dinero de otros. Prepárate para lo mejor y lo peor, y paga lo que puedas.
+Tienes algunos desafíos a la espera. Tus relaciones son las más afectadas por las configuraciones celestes actuales. El Universo te está empujando a extenderte un poco más, sobre todo cuando se trata de tus compañeros de trabajo. Trata de conocerles mejor y es posible que llegues a tener más cercanía con ellos de la que tienes ahora. ¡Necesitas de todos los amigos que puedas conseguir!

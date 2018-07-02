@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 25 de junio 2018 al 01 de julio 2018 
-description: Horóscopo semanal geminis 25 de junio 2018 al 01 de julio 2018. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: geminis 02 de julio 2018 al 08 de julio 2018 
+description: Horóscopo semanal geminis 02 de julio 2018 al 08 de julio 2018. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: 0fTiBxEia6I
+ video: xyRJYjh_09k
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-25'
+ lastmod: '2018-07-02'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 
-Es muy importante que eches la vista atrás geminis, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
-Aunque puede que tengas gran interés en un emocionante proyecto creativo o posible romance, no tengas demasiada prisa al respecto. La influencia planetaria de esta semana sugiere que el deseo de obtener resultados casi instantáneos podría trabajar en tu contra a la larga. Si esto es algo que realmente te emociona, te beneficiarás de tomarte tu tiempo. Una encantadora alineación astral podría hacerte sentir confianza de que, con el tiempo, las cosas podrían funcionar mejor de lo que imaginas. El domingo, un maravilloso encuentro podría hacer una salida social valer mucho la pena.
+Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas geminis. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva geminis. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien geminis, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+Tal vez sea mejor estar alerta con respecto a la pasión esta semana, ya que una mezcla de energías podría causar que los sentimientos fluyan e incluso saquen chispas. Una gran parte de la semana está influenciada por Plutón, lo que puede significar que poderosas emociones guían tus decisiones. Esto y un vínculo tenso entre Marte y Neptuno es un indicio de que a veces te resulte difícil pensar con racionalidad, y es posible que sea justo en esos momentos cruciales. Por lo tanto, tomarte una pausa para pensar podría salvarte de futuras dificultades.
 
 ## Dinero
 
-Es una semana de creatividad al lidiar con cuestiones relativas a las relaciones y la comunicación. El utilizar tu creatividad para ganar dinero es una idea muy buena, como la escritura, el arte, la música u otra forma de arte. Si todavía no has tenido éxito para ganar dinero haciendo lo que te gusta, podrías encontrarte en una situación diferente ahora. Sólo asegúrate de que tus esfuerzos para buscar trabajo en estas áreas se concentren en ves de dispersarse.
+Ciertos aspectos indican una época de restricción y limitación a la hora de expresarse. Puede que te sientas incapaz de compartir todas las fascinantes partes de tu personalidad ahora, pero el Universo te está pidiendo que tomes medidas drásticas temporalmente para lograr algo. El hacerse el payaso de la fiesta o el que complace a todos ya no servirá. Sólo una actitud confidente y profesional te dará el dinero que deseas. Profesión es la razón para seguir adelante.

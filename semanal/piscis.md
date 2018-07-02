@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 25 de junio 2018 al 01 de julio 2018 
-description: Horóscopo semanal piscis 25 de junio 2018 al 01 de julio 2018. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+title: piscis 02 de julio 2018 al 08 de julio 2018 
+description: Horóscopo semanal piscis 02 de julio 2018 al 08 de julio 2018. El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: EGlN3Jai32s
+ video: YjxCwr77x1w
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-06-25'
+ lastmod: '2018-07-02'
 ---
 
 
 
-## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+## El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-Los finales no significan que hayas fallado en algo piscis, los finales a veces sirven para abrir nuevas puertas a algo. piscis, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza piscis…
-Podría ser difícil ponerte de acuerdo con ciertos miembros de tu familia, y esto puede seguir así en el transcurso de la semana. Sin embargo, también podría llevarte a tener un debate para resolver este asunto. Si las cosas llegan a un punto crítico, esto podría ser algo bueno, porque es hora de que la energía alrededor de la situación cambie. Disponte a escuchar los sentimientos de los demás y tal vez descubras que no son tan diferentes a los tuyos después de todo. Es posible llegar a un acuerdo.
+Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás piscis. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
+Mercurio en se une al Sol y a Venus en tu sector de recursos compartidos, lo que podría ponerte a buscar maneras de hacer que tu dinero te rinda más. Cuando el tema sea inversiones, podría ser aconsejable obtener consejos profesionales debido a que la presencia de Neptuno sugiere que una oferta podría no ser tan buena como aparenta ser. Desde mediados de semana, Marte, el astro de la acción, avanza en tu sector kármico, pudiendo permitirte darle cierre a un tema incómodo.
 
 ## Dinero
 
-Esta semana se trata no sólo de mejorar tu estilo personal (a pesar de que podría utilizar algo de ayuda también), sino también de la forma en que te expresas. Tiene ideas creativas acerca de cómo hacer esto, y sobre los medios para convencer a los demás de que tienes la razón. Después de todo, no todo el mundo va a estar de acuerdo con todos los cambios. Mientras tanto, ciertos aspectos aportan ideas únicas que nadie más tiene. Tu poder adquisitivo aumenta.
+Hay cambios ocurriendo en tu sector de carrera ahora. Ciertas cuestiones laborales son muy importantes para ti, pero trata de no dejar que consuman toda tu energía esta semana. Puede ser simplemente porque la energía se concentra tanto aquí. Pero siempre se puede optar por establecer un equilibrio entre el dinero que se está ganando y los amigos y familiares que te gustaría visitar de vez en cuando.
