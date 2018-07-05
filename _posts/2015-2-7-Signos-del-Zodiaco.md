@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 04 de julio 2018
-description: Horóscopos del dia de hoy 04 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 05 de julio 2018
+description: Horóscopos del dia de hoy 05 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-07-04
+ lastmod: 2018-07-05
 ---
-Hoy, cuenta con tu poderosa intuición para ayudarte a conectar los puntos y eliminar la obstrucción. Tomar acciones que son efectivas también es algo que está en pro de tus intereses. Esta noche, Venus en Aries le añade una dosis de asertividad y una pizca de impaciencia al romance. Durante las próximas semanas, el antídoto es un equilibrio entre la mente y las emociones. 
+La Luna Nueva en Libra de esta mañana simboliza una buena forma de ser que no presiona a nadie. Al iniciar la tarde, disfruta de la sensación de estar con vida y sintiendo las felices emociones que sientes. ¿Se te antoja aventura? Esta noche, una sugerencia podría convertirse en realidad cuando la Luna aspecta a ambos, Marte y Saturno. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
