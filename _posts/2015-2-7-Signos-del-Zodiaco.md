@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de julio 2018
-description: Horóscopos del dia de hoy 07 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de julio 2018
+description: Horóscopos del dia de hoy 08 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-07-07
+ lastmod: 2018-07-08
 ---
-¡Feliz cumpleaños a aquellos nacidos bajo el Signo de Capricornio! Deléitate en la vida y haz planes bien pensados para lograr resultados duraderos en el 2017. Si estás en infeliz soltería, es posible que desees estar de vuelta con un ex. Recuerda las razones por las que lo suyo no funcionó. Hay mejores prospectos.
+Los sentimientos son susceptibles el día de hoy. Por lo que no agites aún más las cosas cuando la Luna en el feroz Leo aspecte a Urano y a Plutón. Venus se encuentra a punto de cambiar de signo esta noche, cuando las parejas deberían de darse el beneficio de la duda. Solteros, el planeta del amor encontrándose en zona neutral despierta mucha incertidumbre. Este no es buen momento para empezar algo nuevo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
