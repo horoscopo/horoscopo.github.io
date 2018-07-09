@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 02 de julio 2018 al 08 de julio 2018 
-description: Horóscopo semanal leo 02 de julio 2018 al 08 de julio 2018. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+title: leo 09 de julio 2018 al 15 de julio 2018 
+description: Horóscopo semanal leo 09 de julio 2018 al 15 de julio 2018. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza leo. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: mXPmUnwJYQI
+ video: FtQ_gQN8kBs
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-02'
+ lastmod: '2018-07-09'
 ---
 
 
 
-## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza leo. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 
-Necesitas tener un objetivo en la vida leo, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada leo, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
-Tu sector de romance y creatividad podría ser especialmente intenso en este momento y permanecer así durante algún tiempo. Podrías descubrir que estás poniendo mucha energía en las actividades de esta área. Otros aspectos de tu carta te animan a liberar cualquier cosa que dificulte tu vida. Este es el caso, en particular, del eclipse solar del jueves. Deshacerte de lo que ya no te sirve puede darte la energía que necesitas para abordar esos significativos planes.
+Hace mucho tiempo que no te das un buen capricho leo, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes leo. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
+Aunque sabes que debes tener cuidado con tu dinero, una alegre mezcla de energías podría llevarte a gastarlo de todas formas. Y con Mercurio tornándose directo y forjando un vínculo con el innovador Urano, tal vez te atraiga un nuevo artefacto que podría revolucionar tu vida. Sin embargo, si es algo costoso, probablemente no hará daño esperar. Por otro lado, la segunda mitad de la semana puede ser perfecta para una cita encantadora.
 
 ## Dinero
 
-Esta semana todo tipo de puertas financieras se están abriendo. Con el fin de atraer la cantidad de dinero que deseas, tienes que verdaderamente adorar lo que haces. Considera la posibilidad de profundizar tu conocimiento innato a través de talleres y seminarios. Tu sector social se expande. Tienes los contactos necesarios para dar el salto a la enseñanza, la publicación o el discurso. Haz que suceda.
+Eres una persona bastante psíquica, pero esta semana te puedes sorprender incluso a ti mismo/a. El Universo está abriendo los canales de comunicación para proporcionarte toda la información que necesitas para hacer tu siguiente movimiento. No te sorprendas si andas un poco voluble ahora. La próxima semana estarás de vuelta en la pista financiera elegida.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 02 de julio 2018 al 08 de julio 2018 
-description: Horóscopo semanal acuario 02 de julio 2018 al 08 de julio 2018. Cada día que pasa te das más cuenta de que mereces cosas buenas acuario, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: acuario 09 de julio 2018 al 15 de julio 2018 
+description: Horóscopo semanal acuario 09 de julio 2018 al 15 de julio 2018. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: 8qJO4fX8dyE
+ video: -4NRtjh6_Ps
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-02'
+ lastmod: '2018-07-09'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas acuario, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 
-Empieza a cambiar la mentalidad acuario, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado acuario, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
-Si tienes un buen presentimiento sobre un país o un destino, puede que esto te de ganas de organizar un viaje. Puede que las ganas de viajar también surjan porque te gusta una persona que vive lejos. También podrías tener un ferviente interés en un determinado tema y querer aprender más al respecto o incluso escribir un libro si tienes la experiencia suficiente. Una apasionada influencia también podría revelar intensas emociones muy profundas que puede que quieras compartir.
+A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada acuario. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No acuario, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres acuario, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas acuario pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
+La intensidad de la semana pasada disminuye, pero cuando se trata de planificar hacia futuro, puede que tengas deseos de encontrar una experiencia o interés que te satisfaga emocionalmente. Puede que estés buscando algo que no sólo te enseñe sobre la vida, sino que también te cambie como persona. Con Venus y Saturno en el sector superior de tu carta, también podrías tomar muy en serio una de tus metas clave. Si alguien tiene un consejo para ti, tómalo.
 
 ## Dinero
 
-Este período tiene algunos aspectos favorables para ti. Un Universo equilibrado y pacífico te trae un montón de coraje para enfrentarte al problema de una deuda existente, así como para obtener la capacidad de negociar el tipo de plan de pago que puedas pagar. Parte de ti puede preocuparse de que nunca lograrás pagarlo, pero los aspectos muestran que sí lo harás si aplicas tu sabiduría interior.
+No sólo estás soñando con el próximo gran invento, estás solucionando la mejor manera de construir y financiar su fabricación. También estás estudiando la manera de lograr que algunas de tus ideas de hecho se lleven a cabo. Tienes algo importante que compartir, así que no te vendas por poco. Lo que pones adelante ahora da recompensas favorables para tu familia más tarde.

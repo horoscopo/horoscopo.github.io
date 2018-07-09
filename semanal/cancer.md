@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: cancer 02 de julio 2018 al 08 de julio 2018 
-description: Horóscopo semanal cancer 02 de julio 2018 al 08 de julio 2018. Recuerda que ha empezado la época de los cancer… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+title: cancer 09 de julio 2018 al 15 de julio 2018 
+description: Horóscopo semanal cancer 09 de julio 2018 al 15 de julio 2018. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida cancer. Ahora brillas así que, aprovecha. Aprovecha todo.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: ZIQRrnsBKYg
+ video: AZRWldRKb3U
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-02'
+ lastmod: '2018-07-09'
 ---
 
 
 
-## Recuerda que ha empezado la época de los cancer… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida cancer. Ahora brillas así que, aprovecha. Aprovecha todo.
 
-Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capri, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
-La Luna Creciente de esta semana sugiere que ciertos conflictos podrían surgir si una persona considera los detalles importantes mientras otra los ve como irrelevantes. Acaparar ambos extremos del espectro puede darte una nueva perspectiva sobre las cosas. Más tarde, el Sol ilumina tu sector de diversión, entretenimiento y romance. Es hora de relajarte y disfrutar de la vida ya sea que eso signifique hacer ejercicio, irte de vacaciones, o hacer cosas creativas. Además, Marte en tu sector hogareño podría darte ganas de organizarte.
+Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
+ No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
+Los problemas más profundos de la vida podrían seguir estando en tu mente e incentivar conversaciones con aquellas personas que consideras confiables asesores o confidentes. Puede que tengas ganas de que se produzcan algunos cambios; sin embargo, mientras el animado Mercurio continúa en su fase retrógrada, es posible que debas reflexionar, en especial cuando conecte con el sol el martes. Y si bien tu vida social luce muy prometedora, puede que sientas que debes reflexionar y actuar sobre las cuestiones que harán que tu vida avance.
 
 ## Dinero
 
-Tienes algunos desafíos a la espera. Tus relaciones son las más afectadas por las configuraciones celestes actuales. El Universo te está empujando a extenderte un poco más, sobre todo cuando se trata de tus compañeros de trabajo. Trata de conocerles mejor y es posible que llegues a tener más cercanía con ellos de la que tienes ahora. ¡Necesitas de todos los amigos que puedas conseguir!
+Puede que te estés preguntando en qué momento comenzarás a sentir motivación de nuevo. El tratar de mantenerte quieto/a, es como tratar de evitarle a un tornado el girar; pero lo estás manejando lo mejor que puedes. Esta semana, tu carrera se dirige a un territorio nuevo y emocionante. Si has estado tenido el ojo en la oficina de al lado, piensa en convertirte en una figura de autoridad en tu campo. Podrías darte cuenta de que el cheque que va con ella se avecina.

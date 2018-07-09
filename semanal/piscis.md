@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 02 de julio 2018 al 08 de julio 2018 
-description: Horóscopo semanal piscis 02 de julio 2018 al 08 de julio 2018. El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: piscis 09 de julio 2018 al 15 de julio 2018 
+description: Horóscopo semanal piscis 09 de julio 2018 al 15 de julio 2018. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar piscis, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: YjxCwr77x1w
+ video: e1DSRByYQpA
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-02'
+ lastmod: '2018-07-09'
 ---
 
 
 
-## El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar piscis, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 
-Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás piscis. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
-Mercurio en se une al Sol y a Venus en tu sector de recursos compartidos, lo que podría ponerte a buscar maneras de hacer que tu dinero te rinda más. Cuando el tema sea inversiones, podría ser aconsejable obtener consejos profesionales debido a que la presencia de Neptuno sugiere que una oferta podría no ser tan buena como aparenta ser. Desde mediados de semana, Marte, el astro de la acción, avanza en tu sector kármico, pudiendo permitirte darle cierre a un tema incómodo.
+Estás alcanzando una madurez piscis, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte piscis y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
+La Luna Llena en tu signo podría hacer que te sientas un poco más emocional de lo habitual, lo que podría ser un problema si es que tienes mucho qué hacer. Si puedes aligerar tu horario, sería una opción preferible a tener que abrirte camino a lo largo de esos días. Hagas lo que hagas, ¡llévatela leve! Jueves y viernes podrían ser días cruciales en los que puedes lograr mucho al buscar más información u obtener alguna opinión sobre algunas de tus innovadoras ideas. Finalmente, un amigo o pareja podría necesitar algo de ti el domingo.
 
 ## Dinero
 
-Hay cambios ocurriendo en tu sector de carrera ahora. Ciertas cuestiones laborales son muy importantes para ti, pero trata de no dejar que consuman toda tu energía esta semana. Puede ser simplemente porque la energía se concentra tanto aquí. Pero siempre se puede optar por establecer un equilibrio entre el dinero que se está ganando y los amigos y familiares que te gustaría visitar de vez en cuando.
+Puede que creas que algo en el trabajo es demasiado bueno para ser verdad - porque lo es. En lugar de ver esto a través de lentes color de rosa, simplemente sé realista. El mejor uso de esta energía es a través de la imaginación y la creatividad, no el engaño. Aunque los aspectos crean una gran cantidad de energía, prepárate para un viaje lleno de baches.

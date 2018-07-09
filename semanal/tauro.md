@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 02 de julio 2018 al 08 de julio 2018 
-description: Horóscopo semanal tauro 02 de julio 2018 al 08 de julio 2018. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+title: tauro 09 de julio 2018 al 15 de julio 2018 
+description: Horóscopo semanal tauro 09 de julio 2018 al 15 de julio 2018. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: D6Rjk66ZEAY
+ video: uL5C0nl8e10
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-02'
+ lastmod: '2018-07-09'
 ---
 
 
 
-## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 
-No más paciencia Capri. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres tauro, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana Capri.
-El cambio está en el aire esta semana con Venus animándote a darte un par de mimos o una sesión de spa. También es una semana astrológicamente ocupada de otras maneras con Marte entrando a tu sector de placer para aumentar el ritmo de la escena social justo para la fabulosa celebración de Año Nuevo. También es una oportunidad para mostrar algunas de tus mejores habilidades - aquellas en las que sobresales pero que has mantenido escondidas. La entrada de Mercurio a tu sector monetario podría ayudarte a planear un poco mejor en esta área.
+Por fin vas a finalizar ciclos tauro, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse tauro, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres tauro joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien tauro. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana tauro, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
+Debido a que Mercurio está retrógrado en tu sector de finanzas personales, asegúrate de controlar tus estados de cuenta bancarios y de tener mucha precaución al comprar cualquier cosa en línea. Además, mantén seguras tus tarjetas de crédito, ya que en este momento es muy probable que las pierdas. La vida hogareña parece tener una especial bendición a partir del viernes. Este puede ser un gran momento para invertir en tu propiedad mejorándola de cualquier manera posible. Incluso puede que quieras hacer algunos gastos para darle un nuevo aspecto a tu casa o apartamento.
 
 ## Dinero
 
-Esta semana se trata de la actividad que hay en tu sector de deuda o dinero de otras personas, lo que significa que algo que pensaste haber ya pagado, podría levantar su fea cabeza de nuevo. Asegúrate de haber tenido la intención de pagarlo, y de que accidentalmente haya sido olvidado en la pila de cuentas sin pagar. Encárgate de tal lo antes posible para evitar contratiempos. Haz tu trabajo lo mejor posible o cambia de carrera.
+Esta semana se te está pidiendo asumir una mayor responsabilidad en tus relaciones personales o profesionales. No les des una atención a medias. De verdad intenta hacerles sentir su valor. Entre semana se destaca la labor de día tras día. Puede que el dinero sea temporalmente inestable, pero estás recibiendo muy buenas ideas sobre cómo hacer más. ¡Anótalas!
