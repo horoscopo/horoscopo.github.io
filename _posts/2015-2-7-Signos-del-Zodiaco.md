@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de julio 2018
-description: Horóscopos del dia de hoy 13 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de julio 2018
+description: Horóscopos del dia de hoy 14 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-07-13
+ lastmod: 2018-07-14
 ---
-Agradar a la gente y las charlas casuales gobiernan el día de hoy bajo la Luna en Libra. Incluso las discusiones se hacen en términos amistosos. Si sientes que la gente se comporta un poco vaga e indecisamente, tienes razón. Esta noche, con Venus a punto de salir de Virgo, sientes que te has preparado para cualquier eventualidad, pero no hay ninguna; a menos que tengas un sentimiento de vacío. 
+¡Feliz cumpleaños a Escorpión en los próximos 30 días! Decide cuáles son tus nuevos objetivos, ya que cuando te propones algo, sueles obtenerlo. ¿Qué es lo que te llega tanto al corazón que no podrías abandonarlo? El romance es cariñoso y afectivo mientras Venus forma trígono con Plutón hoy.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
