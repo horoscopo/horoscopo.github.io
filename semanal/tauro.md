@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 09 de julio 2018 al 15 de julio 2018 
-description: Horóscopo semanal tauro 09 de julio 2018 al 15 de julio 2018. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: tauro 16 de julio 2018 al 22 de julio 2018 
+description: Horóscopo semanal tauro 16 de julio 2018 al 22 de julio 2018. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: uL5C0nl8e10
+ video: bg43iXxeMzQ
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-09'
+ lastmod: '2018-07-16'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
 
-Por fin vas a finalizar ciclos tauro, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse tauro, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres tauro joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien tauro. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana tauro, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
-Debido a que Mercurio está retrógrado en tu sector de finanzas personales, asegúrate de controlar tus estados de cuenta bancarios y de tener mucha precaución al comprar cualquier cosa en línea. Además, mantén seguras tus tarjetas de crédito, ya que en este momento es muy probable que las pierdas. La vida hogareña parece tener una especial bendición a partir del viernes. Este puede ser un gran momento para invertir en tu propiedad mejorándola de cualquier manera posible. Incluso puede que quieras hacer algunos gastos para darle un nuevo aspecto a tu casa o apartamento.
+Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa tauro, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
+¿Estás buscando una aventura? De ser así, el contexto de esta semana podría coincidir con un encuentro con una persona que tiene una interesante idea. Puede que te sugiera un viaje o una oportunidad de explorar nuevas ideas o recorrer nuevos terrenos. Por otra parte, obtener el apoyo de alguien en torno a una idea que tuviste puede ser crucial para tener la confianza necesaria para llevarla a cabo. Asegúrate de hablar sobre tu idea con esta persona. Finalmente, cuando el encantador Venus ingresa a Piscis y a tu sector profesional el sábado, puede que descubras que el encanto es la clave para progresar.
 
 ## Dinero
 
-Esta semana se te está pidiendo asumir una mayor responsabilidad en tus relaciones personales o profesionales. No les des una atención a medias. De verdad intenta hacerles sentir su valor. Entre semana se destaca la labor de día tras día. Puede que el dinero sea temporalmente inestable, pero estás recibiendo muy buenas ideas sobre cómo hacer más. ¡Anótalas!
+Te enfrentas a una semana de crecimiento financiero. Usualmente te inclinas a la organización con respecto al gasto y esta puede ser una gran semana para discutir la ejecución presupuestaria y revisarla. ¿El actual está trabajando para ti o es necesario algún ajuste? Puede ser útil el registrarse en un servicio de banca en línea o usar herramientas en línea para calcular lo que necesitas para tu jubilación.

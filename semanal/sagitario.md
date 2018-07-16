@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 09 de julio 2018 al 15 de julio 2018 
-description: Horóscopo semanal sagitario 09 de julio 2018 al 15 de julio 2018. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+title: sagitario 16 de julio 2018 al 22 de julio 2018 
+description: Horóscopo semanal sagitario 16 de julio 2018 al 22 de julio 2018. Eleva tu ego sagitario, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: FBtH71qstco
+ video: jeU742Sq4OU
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-09'
+ lastmod: '2018-07-16'
 ---
 
 
 
-## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+## Eleva tu ego sagitario, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
 
-A veces, no es fácil vivir la vida sagitario, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera sagitario. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-Puede que sientas que algo debe cambiar, pero es posible que el comienzo de la semana no sea el mejor momento para actuar. Podría haber mucha resistencia a dejar ir algo y a permitir que nuevas oportunidades o ideas ocupen ese mismo lugar. Más adelante en la semana, te resultará más fácil librarte de lo que sea que evita que avances. Además, Venus —tu planeta regente— ingresará a tu sector financiero el viernes. Esto te anima a hacer que tu dinero te rinda más.
+Quita importancia a las cosas sagitario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas sagitario. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
+¿Deberías aceptar una invitación o no? Este podría ser el dilema al que te enfrentes al comienzo de la semana, pero es uno con el que tus amistades pudrían ser capaces de ayudarte. Sin embargo, el enfoque se desplaza una vez que Venus y Mercurio entran a Leo y a un sector más aislado de tu carta. Como resultado, es posible que sientas más inclinación a tomarte algo de tiempo para reflexionar sobre tu vida y tus prioridades. ¡También tomate tiempo para recargar baterías!
 
 ## Dinero
 
-Esta semana, el Universo no sólo trae un montón de comunicación, sino también una gran cantidad de trabajo. No te sorprendas si tu semana se repleta de formularios, archivos y tareas similares. Dado que también afecta a tu sector de instituciones, estás consolidando un viejo sueño, aunque no sea fácil de obtener. Terminarás por apreciar incluso hasta lo que parece más aburrido, repetitivo, tedioso, o simplemente molesto.
+Es probable que busques maneras de hacer que tu creatividad fluya. Tienes que usar tus emociones para ganarte la vida de alguna manera. Puesto que los aspectos presentes afectan tu sector de romance, niños y familia; buscar productos que todos disfruten te rendirá los mejores resultados. Planea cómo entretener, o como servir a tu demográfico elegido y verás la mayor cantidad de dinero al final.

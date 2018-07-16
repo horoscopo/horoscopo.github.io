@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 09 de julio 2018 al 15 de julio 2018 
-description: Horóscopo semanal escorpio 09 de julio 2018 al 15 de julio 2018. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: escorpio 16 de julio 2018 al 22 de julio 2018 
+description: Horóscopo semanal escorpio 16 de julio 2018 al 22 de julio 2018. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: gnH8-j2cpTQ
+ video: JXc0ag-Msfo
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-09'
+ lastmod: '2018-07-16'
 ---
 
 
 
-## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón escorpio, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
-Brillarás siendo el centro de atención esta semana, sobre todo si exhibes tus productos y habilidades. Este no es buen momento para ocultar tu luz. Puede que te topes con una gran cantidad de trámites burocráticos al perseguir la realización de cierto plan, lo que puede causar obstáculos y frustración. Tendrás que tener determinación si es que vas a resolverlo, sobre todo si se demora hasta mitad de semana. La Luna Nueva puede ser una excelente oportunidad para iniciar un curso o viajar con el fin de ampliar tus horizontes.
+Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver escorpio, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
+ hasta que empieces a sentir que realmente merece la pena.
+Si bien a simple vista pareces tener confianza, en el fondo tus sentimientos son muy distintos. Con Júpiter en un sector tranquilo de tu carta alineándose con Plutón en tu sector de comunicaciones, puede que no quieras escuchar a tu intuición, incluso si te habla fuerte y claro. Pero puede que debas hacerlo si necesitas resolver un problema muy personal. El traslado de Venus a tu sector de amistades sugiere que hablar sobre el asunto con una amistad cercana podría darte la confianza que necesitas para hacer lo correcto.
 
 ## Dinero
 
-Es un momento tenso para ti. Tus relaciones más cercanas apoyan plenamente los objetivos que te has fijado para ti mismo/a, en particular las que involucran tu situación financiera, y tu carrera está en expansión. Hay tantas cosas pasando en tu vida ahora que puede que sientas agobio, falta de apreciación y que no te pagan lo suficiente. Descansa lo más que puedas.
+¡Vas con todo esta semana! Esto proporciona una gran explosión de energía destinada a mejorar tu publicidad para atraer a nuevos compradores o esfuerzos de ganar dinero, como iniciar un nuevo negocio. Si estás buscando una nueva posición, primero pregunta sobre el salario para que no te decepciones después de haber hecho la entrevista. Un aspecto inarmónico podría significar que la familia y el romance se ponen en segundo plano durante un tiempo.

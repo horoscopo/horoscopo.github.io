@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 09 de julio 2018 al 15 de julio 2018 
-description: Horóscopo semanal capricornio 09 de julio 2018 al 15 de julio 2018. Toma decisiones YA, AQUÍ y AHORA capricornio. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+title: capricornio 16 de julio 2018 al 22 de julio 2018 
+description: Horóscopo semanal capricornio 16 de julio 2018 al 22 de julio 2018. Hay cosas que no quieres que ocurran pero que debes aceptar capricornio, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: ool9Sn2Fi-w
+ video: mQjTuN9_NQM
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-09'
+ lastmod: '2018-07-16'
 ---
 
 
 
-## Toma decisiones YA, AQUÍ y AHORA capricornio. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+## Hay cosas que no quieres que ocurran pero que debes aceptar capricornio, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 
-No sueles dar la llave de tu corazón a nadie capricornio, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia capricornio, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana capricornio.
-Si estás buscando apoyo para una audaz idea, puede que tus amistades sean las únicas personas dispuestas a ayudarte. Sin embargo, podría parecer que tienes una actitud demasiado determinante y ligeramente obsesiva esta semana. Esto podría deberse a la presencia del dominante Marte en línea con el apasionado Plutón en tu signo. Es posible que tu intensidad aleje a algunas personas. Si la disminuyes un poco y adoptas un enfoque más relajado, puede que a los demás les resulte más fácil conectar y trabajar contigo. 
- El simpático Venus pasa a tu sector de estilo de vida el martes, y esta sociable y positiva influencia puede ayudarte a transitar sin problemas todo tipo de situaciones. Si a los demás les ha costado estar de acuerdo contigo, puede que finalmente puedas convencerles. Por otro lado, la luna llena en tu sector social el domingo es excelente para una fiesta o reunión.   
+Tienes que improvisar más capricornio, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira capricornio, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado capricornio… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no capricornio, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana capricornio.
+Marte en tu signo aumenta tu energía, otorgándote una mayor determinación para superar obstáculos en tu camino. Esto es para bien en este momento, ya que te percatarás de que tienes una mayor capacidad para manejar los retrocesos de Mercurio y Júpiter que comienzan esta semana. Con Mercurio moviéndose de nuevo a Capricornio, tendrás la oportunidad de revisar ciertos planes y quizás adoptar una perspectiva fresca hacia ciertos acuerdos que te interesan. Sin embargo, si logras evitar comprometerte ahora, podrías ahorrarte un montón de problemas más adelante.
 
 ## Dinero
 
-Tienes el beneficio de la duda esta semana gracias a las influencias en tu área de política y los grupos. Un sueño que has mantenido cerca de tu corazón tiene oportunidad de desarrollarse conforme tus redes sociales te conectan a las personas a las que necesitas conocer. Puede que tengas que prestar más atención a tu sector de la diversión, el romance y los niños. Lleva esta alegre energía hacia tu trabajo.
+Eres una de las personas más inteligentes cuando se trata de trabajo y dinero. Entiendes cómo funcionan las estructuras internas y tienes facilidad para la planificación y ejecución de planes de inversión. Ahora tienes el apoyo del Universo para busca socios para una nueva empresa o ampliar tu red de contactos en los negocios. Los aspectos te proporcionan suerte e ideas. Sólo tú sabes a dónde llegarás con el tiempo.

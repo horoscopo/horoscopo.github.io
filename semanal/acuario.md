@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: acuario 09 de julio 2018 al 15 de julio 2018 
-description: Horóscopo semanal acuario 09 de julio 2018 al 15 de julio 2018. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+title: acuario 16 de julio 2018 al 22 de julio 2018 
+description: Horóscopo semanal acuario 16 de julio 2018 al 22 de julio 2018. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: -4NRtjh6_Ps
+ video: KJVXEFVhQ-o
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-09'
+ lastmod: '2018-07-16'
 ---
 
 
 
-## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada acuario. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No acuario, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres acuario, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas acuario pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-La intensidad de la semana pasada disminuye, pero cuando se trata de planificar hacia futuro, puede que tengas deseos de encontrar una experiencia o interés que te satisfaga emocionalmente. Puede que estés buscando algo que no sólo te enseñe sobre la vida, sino que también te cambie como persona. Con Venus y Saturno en el sector superior de tu carta, también podrías tomar muy en serio una de tus metas clave. Si alguien tiene un consejo para ti, tómalo.
+Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
+ por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
+Tienes bastantes oportunidades románticas, pero al final, podrías terminar criticando demasiado para tu propio bien. La actual alineación en Virgo sugiere que podrías enfocarte en los defectos de los demás en lugar de aplaudirles sus mejores características. Es posible que por ello termines perdiéndote de un gran partido. Los mejores días para socializar y salir a citas son de viernes a domingo. Pero un irritable conjunto de aspectos insinúa que ciertas pasiones ocultas podrían ser desatadas, sobre todo una vez que el Sol entre a Escorpión.
 
 ## Dinero
 
-No sólo estás soñando con el próximo gran invento, estás solucionando la mejor manera de construir y financiar su fabricación. También estás estudiando la manera de lograr que algunas de tus ideas de hecho se lleven a cabo. Tienes algo importante que compartir, así que no te vendas por poco. Lo que pones adelante ahora da recompensas favorables para tu familia más tarde.
+Tienes una semana difícil por delante. Puede que sientas como si te estuvieras conduciendo hacia una dirección en particular - porque lo estás. Se supone que debes hacer nuevos amigos en el trabajo, encontrar un mentor, o ampliar tu búsqueda de trabajo para ganar más dinero en un futuro próximo. Los resultados se revelan relativamente pronto.
