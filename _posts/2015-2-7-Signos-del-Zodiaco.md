@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 19 de julio 2018
-description: Horóscopos del dia de hoy 19 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 20 de julio 2018
+description: Horóscopos del dia de hoy 20 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-07-19
+ lastmod: 2018-07-20
 ---
-Las cosas se quedan colgando en el aire durante la Luna fuera de curso, un aspecto que les cierra la puerta a temas incómodos. Poderosas emociones surgen con la Luna cuadrando a Marte esta noche, cuando podrías no saber qué hacer después. En caso de duda, busca un déjà vu. Ya has estado en esta situación antes.
+La intuición reacciona mucho antes de lo que lo hace el cerebro cuando la Luna cuadra a Neptuno hoy. Ten cuidado, porque el salto que tomas podría equivocarse de dirección - saltando a la conclusión errónea. La noche es tranquila y reservada, pero también hay calidez. Los cerebros necesitan paz y tranquilidad.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
