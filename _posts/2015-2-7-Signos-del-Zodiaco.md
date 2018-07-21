@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de julio 2018
-description: Horóscopos del dia de hoy 20 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de julio 2018
+description: Horóscopos del dia de hoy 21 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-07-20
+ lastmod: 2018-07-21
 ---
-La intuición reacciona mucho antes de lo que lo hace el cerebro cuando la Luna cuadra a Neptuno hoy. Ten cuidado, porque el salto que tomas podría equivocarse de dirección - saltando a la conclusión errónea. La noche es tranquila y reservada, pero también hay calidez. Los cerebros necesitan paz y tranquilidad.
+Te encuentras bajo una impredecible Luna en Acuario. Sé flexible y adáptate rápido a las nuevas oportunidades. ¡Piensa en ello como diversión no anunciada! Venus y Saturno todavía tienen influencia cuando se trata de responsable placer. Es la noche adecuada  para las buenas acciones y las conexiones igual de positivas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
