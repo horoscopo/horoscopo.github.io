@@ -16,9 +16,12 @@
   </head>
   <body>
      <h1>{{ page.title }}</h1>
-
-     <amp-img src="{{ site.url }}images/zodiac/{{ page.horoscopo.signo }}.jpg" width=527 height=193 layout="responsive"></amp-img>
-      
+     
+     {% if page.horoscopo.signo %}
+     <amp-img src="{{ site.url }}images/zodiac/{{ page.horoscopo.signo }}.jpg" width="527" height="193" layout="responsive"></amp-img>
+     {% else %}
+     <amp-img src="{{ site.url }}{{ page.ogimg }}" width="1200" height="90" layout="responsive"></amp-img>
+     {% endif %}
       {% if page.horoscopo.video %}
       <amp-iframe width=300 height=300
          sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"

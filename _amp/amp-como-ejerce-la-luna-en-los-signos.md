@@ -13,7 +13,7 @@ sitemap:
  lastmod: '2018-06-06'
 ---
 
-<amp-img src="http://horoscopo-del-dia.com/images/luna-signos.png" width=800 height=467 layout="responsive"></amp-img>
+<amp-img src="http://horoscopo-del-dia.com/images/luna-signos.png" width="800" height="467" layout="responsive"></amp-img>
 
 
 # ¿Cómo ejerce la luna en los signos?

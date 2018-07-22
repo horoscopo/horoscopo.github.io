@@ -28,7 +28,7 @@ energía nos sentimos más libres. **Pero el efecto que tiene afecta a
 cada signo de manera diferente así que vamos a explicar exactamente cómo
 afecta a todos los signos. **
 
-<amp-img src="http://horoscopo-del-dia.com/images/sol-signos-1200x960.png" width=1200 height=960 layout="responsive"></amp-img>
+<amp-img src="http://horoscopo-del-dia.com/images/sol-signos-1200x960.png" width="1200" height="960" layout="responsive"></amp-img>
 
 ## Signos de Fuego:
 

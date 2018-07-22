@@ -17,7 +17,7 @@ sitemap:
 significa?, entonces no te preocupes, porque te explicaremos que
 significa y por supuesto de que se trata el equinoccio.
 
-<amp-img src="http://horoscopo-del-dia.com/images/equinoccio-1200x960.png" width=1200 height=960 layout="responsive"></amp-img>
+<amp-img src="http://horoscopo-del-dia.com/images/equinoccio-1200x960.png" width="1200" height="960" layout="responsive"></amp-img>
 
 ## ¿Qué es un equinoccio?
 
