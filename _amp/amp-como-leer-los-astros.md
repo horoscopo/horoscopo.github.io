@@ -5,7 +5,6 @@ description: La lectura de los astros es una practica antigua y vigente que abar
 normallink: /como-leer-los-astros/
 permalink: /amp/como-leer-los-astros/
 home: FALSE
-sidebar: true
 keywords: como leer los astros, astrologia, carta natal, astrología, lectura del tarot, signos del zodiaco, horoscopos, astros, cambio de estaciones
 ogimg: /images/leer-astros-1200x960.png
 sitemap:
@@ -16,7 +15,7 @@ sitemap:
 
 Desde el inicio del universo, en todas las culturas del mundo, todos hemos sido capaces de admirar la preciosidad de las estrellas alumbrando la noche y por esta misma razón las civilizaciones más antiguas en el mundo y cuando decidieron empezar a darle sentido a nuestro mundo, nuestras acciones y consecuencias presentaron la idea de la importancia de las estrellas, el Sol, la Luna y los demás astros.
 
-<amp-img src="http://horoscopo-del-dia.com/images/leer-astros-1200x960.png" width=1200 height=960 layout="responsive"></amp-img>
+<amp-img src="{{ site.url }}/images/leer-astros-1200x960.png" width=1200 height=960 layout="responsive"></amp-img>
 
 Muchas culturas se referían a estos elementos para intentar **predecir los posibles acontecimientos** en el mundo y también para intentar darle sentido a las **personalidades de unas personas**. La forma más común en la cual ellos acudían a estos elementos era en el uso de los primeros calendarios, estos astros señalaban el inicio y el final de las estaciones e interpretaban ciertos acontecimientos como meteoros, cometas y estrellas fugaces como un mensaje divino.
 

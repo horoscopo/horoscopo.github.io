@@ -18,6 +18,8 @@ Desde el inicio del universo, en todas las culturas del mundo, todos hemos sido 
 
 Muchas culturas se referían a estos elementos para intentar **predecir los posibles acontecimientos** en el mundo y también para intentar darle sentido a las **personalidades de unas personas**. La forma más común en la cual ellos acudían a estos elementos era en el uso de los primeros calendarios, estos astros señalaban el inicio y el final de las estaciones e interpretaban ciertos acontecimientos como meteoros, cometas y estrellas fugaces como un mensaje divino.
 
+![Lectura de los astros]({{ site.url }}//images/leer-astros-1200x960.png "Lectura de los astros")
+
 ## ¿De dónde viene?
 
 Los **Mayas, chinos y los indios** creían en la antigüedad de que cualquier acontecimiento que ocurra en este universo se podría lograr predecir gracias a la observación de estos elementos celestiales. Aún miles de años después en muchos países en el Occidente siguen creyendo en la **[astrología]({{ site.url }}/astrologia/ "astrologia")** y lo practican hasta el día de hoy.
