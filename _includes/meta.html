@@ -58,8 +58,9 @@
     {% endif %}
 
     {% if site.name %}
-    <meta property="og:name" content="{{ site.name }}" />
+    <meta property="og:site_name" content="{{ site.name }}" />
     {% endif %}
     
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:type" content="article" />
 
