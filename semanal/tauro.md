@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 16 de julio 2018 al 22 de julio 2018 
-description: Horóscopo semanal tauro 16 de julio 2018 al 22 de julio 2018. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+title: tauro 23 de julio 2018 al 29 de julio 2018 
+description: Horóscopo semanal tauro 23 de julio 2018 al 29 de julio 2018. Esta semana no te reniegues tauro, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: bg43iXxeMzQ
+ video: He3gGXsyPY0
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-16'
+ lastmod: '2018-07-23'
 ---
 
 
 
-## No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+## Esta semana no te reniegues tauro, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
 
-Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa tauro, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
-¿Estás buscando una aventura? De ser así, el contexto de esta semana podría coincidir con un encuentro con una persona que tiene una interesante idea. Puede que te sugiera un viaje o una oportunidad de explorar nuevas ideas o recorrer nuevos terrenos. Por otra parte, obtener el apoyo de alguien en torno a una idea que tuviste puede ser crucial para tener la confianza necesaria para llevarla a cabo. Asegúrate de hablar sobre tu idea con esta persona. Finalmente, cuando el encantador Venus ingresa a Piscis y a tu sector profesional el sábado, puede que descubras que el encanto es la clave para progresar.
+Eres demasiado honesto con el resto tauro y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Capri, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+Si pareciera como si hubieras llegado a un punto muerto en relación con un área de tu vida, puede que tengas más margen de maniobra del que parece. La mezcla de energías de esta semana sugiere que si no tienes seguridad de cuál debería debe tu siguiente paso, podría ser aconsejable reducir tu velocidad durante un tiempo. De hecho, puede ser que necesites más información o la oportunidad de mejorar ciertas habilidades con el fin de poder hacerle frente a los retos actuales.
 
 ## Dinero
 
-Te enfrentas a una semana de crecimiento financiero. Usualmente te inclinas a la organización con respecto al gasto y esta puede ser una gran semana para discutir la ejecución presupuestaria y revisarla. ¿El actual está trabajando para ti o es necesario algún ajuste? Puede ser útil el registrarse en un servicio de banca en línea o usar herramientas en línea para calcular lo que necesitas para tu jubilación.
+La actividad en tu sector de grupos y política te insta a dejar de esconderte detrás de e-mails y textos para hacer negocios. El teléfono está bien a veces, pero si quieres que te recuerden, lo mejor es presentarte en persona. Los encuentros con nuevos clientes en un entorno social pueden conducir a rápidas ventas, mientras que con colegas existentes pueden cimentar el trabajo en equipo. Puedes sentir que estás detrás de la curva de alguna manera, pero estás exactamente donde tienes que estar.

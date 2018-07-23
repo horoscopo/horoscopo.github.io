@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: capricornio 16 de julio 2018 al 22 de julio 2018 
-description: Horóscopo semanal capricornio 16 de julio 2018 al 22 de julio 2018. Hay cosas que no quieres que ocurran pero que debes aceptar capricornio, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+title: capricornio 23 de julio 2018 al 29 de julio 2018 
+description: Horóscopo semanal capricornio 23 de julio 2018 al 29 de julio 2018. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagi, ¡NO MEZCLES!
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: mQjTuN9_NQM
+ video: Wfk9qMXe-Lw
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-16'
+ lastmod: '2018-07-23'
 ---
 
 
 
-## Hay cosas que no quieres que ocurran pero que debes aceptar capricornio, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagi, ¡NO MEZCLES!
 
-Tienes que improvisar más capricornio, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira capricornio, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado capricornio… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no capricornio, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana capricornio.
-Marte en tu signo aumenta tu energía, otorgándote una mayor determinación para superar obstáculos en tu camino. Esto es para bien en este momento, ya que te percatarás de que tienes una mayor capacidad para manejar los retrocesos de Mercurio y Júpiter que comienzan esta semana. Con Mercurio moviéndose de nuevo a Capricornio, tendrás la oportunidad de revisar ciertos planes y quizás adoptar una perspectiva fresca hacia ciertos acuerdos que te interesan. Sin embargo, si logras evitar comprometerte ahora, podrías ahorrarte un montón de problemas más adelante.
+Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea capricornio. 
+ Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
+La semana que comienza, que tiene un animado enfoque en tu sector doméstico, podría encontrarte con ganas de socializar con familiares y de ocuparte de los asuntos de tu hogar. Si recibirás a alguien que viene a quedarse, hacer una lista de todo lo que necesitas puede ser una buena idea. 
+El etéreo Neptuno está en tu signo, de modo que podrías tener una tendencia a perder el enfoque y distraerte con facilidad. Las tareas que debes hacer podrían parecer menos atractivas que leer un buen libro o ver una inspiradora película; ninguna de las cuales sería muy útil. Permítete tener mucha libertad, pero trata de crear un cronograma que te permita lograr todo a tiempo. Si lo haces, te sentirás mucho mejor. Por otro lado, alguien de tu círculo social podría sentir celos de ti, algo a lo que deberías prestar atención.
 
 ## Dinero
 
-Eres una de las personas más inteligentes cuando se trata de trabajo y dinero. Entiendes cómo funcionan las estructuras internas y tienes facilidad para la planificación y ejecución de planes de inversión. Ahora tienes el apoyo del Universo para busca socios para una nueva empresa o ampliar tu red de contactos en los negocios. Los aspectos te proporcionan suerte e ideas. Sólo tú sabes a dónde llegarás con el tiempo.
+Esta semana tienes toneladas de nuevas oportunidades para ganar más dinero. Prepárate para poner un viejo plan en movimiento. Tus sueños tienen una muy buena oportunidad de convertirse en realidad, siempre y cuando tomes acción sobre cualquier cosa que se te presente. La actividad astral en tu sector de deuda advierte en contra de añadir más a ese balance.

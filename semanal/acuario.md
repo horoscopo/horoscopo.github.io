@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 16 de julio 2018 al 22 de julio 2018 
-description: Horóscopo semanal acuario 16 de julio 2018 al 22 de julio 2018. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+title: acuario 23 de julio 2018 al 29 de julio 2018 
+description: Horóscopo semanal acuario 23 de julio 2018 al 29 de julio 2018. Quita importancia a las cosas acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: KJVXEFVhQ-o
+ video: OQ6T8u8Bl7o
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-16'
+ lastmod: '2018-07-23'
 ---
 
 
 
-## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+## Quita importancia a las cosas acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 
-Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
- por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
-Tienes bastantes oportunidades románticas, pero al final, podrías terminar criticando demasiado para tu propio bien. La actual alineación en Virgo sugiere que podrías enfocarte en los defectos de los demás en lugar de aplaudirles sus mejores características. Es posible que por ello termines perdiéndote de un gran partido. Los mejores días para socializar y salir a citas son de viernes a domingo. Pero un irritable conjunto de aspectos insinúa que ciertas pasiones ocultas podrían ser desatadas, sobre todo una vez que el Sol entre a Escorpión.
+No sabes cómo desviar tus sentimientos acuario, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas acuario… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez acuario. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos acuario que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
+A pesar de que puede que tengas disposición a perder peso y tonificar tu cuerpo tanto como te sea posible, puede que hacerlo no sea fácil en práctica. La tentación de darte gustos podría interferir con tus planes. Sin embargo, puede que seas capaz de superar estos obstáculos si contratas los servicios de un entrenador personal. Aun así, el impulso de comer en exceso podría ser casi imposible de resistir una vez Venus entre a Tauro más adelante en la semana. Es posible que tengas que ceder y simplemente disfrutar.
 
 ## Dinero
 
-Tienes una semana difícil por delante. Puede que sientas como si te estuvieras conduciendo hacia una dirección en particular - porque lo estás. Se supone que debes hacer nuevos amigos en el trabajo, encontrar un mentor, o ampliar tu búsqueda de trabajo para ganar más dinero en un futuro próximo. Los resultados se revelan relativamente pronto.
+Esta semana la vida será cualquier cosa menos que aburrida con tu eléctrica personalidad ganándose a algunos, pero dejando a otros preguntándose de qué planeta viniste. Quieres salir a divertirte con amantes, amigos y familiares, pero el Universo quiere que te encargues del cambio en el frente de carrera. Si te está empezando a costar demasiado, piensa en cómo trabajar desde casa tiempo parcial para ahorrarte el dinero gastado en transportación.

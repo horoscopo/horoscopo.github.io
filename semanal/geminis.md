@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: geminis 16 de julio 2018 al 22 de julio 2018 
-description: Horóscopo semanal geminis 16 de julio 2018 al 22 de julio 2018. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+title: geminis 23 de julio 2018 al 29 de julio 2018 
+description: Horóscopo semanal geminis 23 de julio 2018 al 29 de julio 2018. No es que estés cambiando geminis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: VbdjVSNdqOM
+ video: 8iFfZZdS7sY
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-16'
+ lastmod: '2018-07-23'
 ---
 
 
 
-## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+## No es que estés cambiando geminis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 
-A veces de bueno te pasas geminis. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio geminis, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa geminis, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso geminis y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-Si estás planeando un proyecto, encárgate de los detalles, ya que podrías subestimar el tiempo, la carga de trabajo, o gastos que este implique. El continuo enfoque en tu sector de recursos compartidos bien puede ayudarte a ganar dinero o animarte a desperdiciarlo. Si estás considerando consolidar tus deudas o adquirir un préstamo, espera hasta que Mercurio se torne directo el Jueves para experimentar transacciones más manejables. Saturno regresa de nuevo a tu signo el Domingo, animándote a liberar sentimientos que pudieran haberte evitado hacer algo.
+Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
+ En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
+Para ti, la gran noticia de esta semana involucra al valiente Marte en tu sector de lejanos horizontes. Este fogoso planeta se vuelve retrógrado el 26 de junio y permanece así hasta el 27 de agosto. Esto puede sugerir demoras en unas vacaciones o tal vez un viaje más largo. Si has estado pensando en comenzar un curso u obtener una certificación, podría surgir algo que lo posponga. Cualquiera de estas situaciones podría animarte a reflexionar sobre lo que quieres en verdad. Puede que decidas avanzar una vez que Marte se vuelva directo, pero también podrías cambiar de opinión y tornar tu atención hacia otro lado. 
+La luna llena en tu sector de negocios y finanzas el miércoles podría hacer que debas tomar ejemplares decisiones. De más está decir que lo mejor es esperar hasta que sientas más tranquilidad antes de decidir qué hacer a continuación. Independientemente de cuáles sean tus planes, no tomes decisiones apresuradas.
 
 ## Dinero
 
-Estás pensando en maneras de atraer más dinero a la semana para poder disfrutar de un estilo de vida más cómodo. No es un mal plan, considerando todo. El reto será equilibrar tu deseo de divertirte con tu familia y pareja romántica con tu necesidad de establecer tu propia creatividad. Tu impulso de escribir, reproducir y crear, construye recompensas emocionales y rendimientos monetarios.
+Hay un poco de tensión en el aire esta semana. La actividad en tu sector de dinero y valores indica que es el momento de determinar si la forma en la que actualmente ganas dinero está funcionando para ti, si no, este aspecto insta enérgica acción hacia una mejor solución. No lo dejes al azar o asumas que alguien más lo hará por ti. La vida puede ser de la manera que quieres que sea.

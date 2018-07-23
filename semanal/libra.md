@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 16 de julio 2018 al 22 de julio 2018 
-description: Horóscopo semanal libra 16 de julio 2018 al 22 de julio 2018. A veces sientes como si no avanzaras libra, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+title: libra 23 de julio 2018 al 29 de julio 2018 
+description: Horóscopo semanal libra 23 de julio 2018 al 29 de julio 2018. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro libra, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: Vce8B5mLLG8
+ video: OnHQreHPgbM
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-16'
+ lastmod: '2018-07-23'
 ---
 
 
 
-## A veces sientes como si no avanzaras libra, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro libra, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 
-No tengas la menor duda de que la vida hará pagar por todas las malas acciones a quien las cometa, por eso tú preocúpate por hacer el bien a los demás y recibirás una gran recompensa. Párate a pensar si ahora eres feliz, mírate hacia dentro y piensa si para cerrar el ciclo que a veces te atormenta necesitas hablar con alguien, con alguna persona especial… Nada volverá a ser lo mismo libra, pero a veces, para que nuestra mente descanse en paz de verdad lo mejor es sacar lo que quizás tenemos dentro y nos costó tanto tiempo decir. Es probable que no sea el momento, eres libra y muy a menudo, cuando tienes que decir algo en el instante que deberías no lo dices, por miedo, por vergüenza, por lo que sea, y otras veces, cuando lo mejor es estar callado, sueltas cualquier burrada que hace que al final te acabes por sentir mal. Las cosas por ahora no van a cambiar mucho, pero tu estado de ánimo sí, y ya no tu estado, si no esa inseguridad que se ha ido forjando en ti este tiempo atrás, esa sensación a veces, como de pérdida… Ahora necesitas centrarte en cosas que te mantengan ocupada la mente, aunque suene un poco mal decirlo, no pensar demasiado en nada, ni en todo, simplemente fluir con lo que venga, con lo que pase, sin buscar, sin forzar. Será una racha, un tiempo en el que quizás te sientas como vacío, a veces incluso un poco fuera de lugar, como si los sentimientos de repente se hubieran entrelazado y lo mismo amas que odias, lo mismo quieres ser el más feliz del mundo que quieres echarte a llorar como un niño. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
-El Sol entra a tu sector social, animándote a socializar, aceptar invitaciones y disfrutar de pasar tiempo con amigos. La semana de festividades se vislumbra perfecta para relaciones románticas, así como también oportunidades para avanzar hacia nuevos círculos. De hecho, el viernes 25 de diciembre podría hacer surgir una oportunidad muy emocionante si lo que buscas es romance. Si ya tienes pareja, tú y tu amor podrían pasársela de lo lindo ya sea solos o en familia. Además, tus finanzas podrían no ser tan susceptibles a interrupciones como lo han sido últimamente.
+Son muchos los que quieren arruinar tu vida libra, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa libra, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega libra. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos libra. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida libra. Ahora brillas así que, aprovecha. Aprovecha todo.
+¡Esta semana estás de humor para la acción! Ir de compras e invertir tu dinero arduamente ganado también podría ser muy divertido. Si es que no te has dado algunos lujos o un día de spa recientemente, es momento de hacerlo. Mereces darte un capricho esta semana. Saturno comienza a avanzar en tu sector de romance, lo que podría ver a una relación nueva tomar un camino más positivo. Sin embargo, tendrás que considerar si vale la pena invertir tu tiempo y energía en ella.
 
 ## Dinero
 
-Es una semana extraña en tu sector de empleo. Parte de ti quiere avanzar mientras que otra parte de ti quiere quedarse atrás, así que puede que te sea difícil avanzar en las diversas cuestiones relacionadas con el trabajo. Puede haber algo de tensión entre tu deseo de avanzar en tus objetivos de carrera y la realidad en cómo te estás proyectando actualmente hacia el mundo. Es hora de intensificar tu espíritu.
+Puede que tengas un poco de tentación a descubrir un poco de belleza oculta en tu vida, tu personalidad o tu estilo. Justo debajo de la superficie, podrías ser una persona completamente diferente a la que todo el mundo ve. Deléitate con el progreso que has hecho en tu vida en lugar de insistir en lo que aún no han logrado alcanzar. El abandonar tus propias necesidades en materia de profesión y dinero no tiene sentido.
