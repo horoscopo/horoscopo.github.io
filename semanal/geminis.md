@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 23 de julio 2018 al 29 de julio 2018 
-description: Horóscopo semanal geminis 23 de julio 2018 al 29 de julio 2018. No es que estés cambiando geminis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+title: geminis 30 de julio 2018 al 05 de agosto 2018 
+description: Horóscopo semanal geminis 30 de julio 2018 al 05 de agosto 2018. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: 8iFfZZdS7sY
+ video: KFk9EtM0dVc
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-23'
+ lastmod: '2018-07-30'
 ---
 
 
 
-## No es que estés cambiando geminis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 
-Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
-Para ti, la gran noticia de esta semana involucra al valiente Marte en tu sector de lejanos horizontes. Este fogoso planeta se vuelve retrógrado el 26 de junio y permanece así hasta el 27 de agosto. Esto puede sugerir demoras en unas vacaciones o tal vez un viaje más largo. Si has estado pensando en comenzar un curso u obtener una certificación, podría surgir algo que lo posponga. Cualquiera de estas situaciones podría animarte a reflexionar sobre lo que quieres en verdad. Puede que decidas avanzar una vez que Marte se vuelva directo, pero también podrías cambiar de opinión y tornar tu atención hacia otro lado. 
-La luna llena en tu sector de negocios y finanzas el miércoles podría hacer que debas tomar ejemplares decisiones. De más está decir que lo mejor es esperar hasta que sientas más tranquilidad antes de decidir qué hacer a continuación. Independientemente de cuáles sean tus planes, no tomes decisiones apresuradas.
+No es que estés cambiando geminis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
+Un poco de tiempo en silencio puede ser todo lo que necesites para poder resolver un problema relacionado a asuntos hogareños o familiares. Tal vez la oportunidad de distanciarte un poco de ello te puede dar una nueva perspectiva. La Luna Llena del martes podía ponerte de ánimo para divertirte y tal vez pasar una noche candente con alguien especial. Llévala al máximo y disfruta de cada momento. Puede que encuentres que tu inspiración creativa aumenta una vez que el Sol entre a tu sector espiritual.
 
 ## Dinero
 
-Hay un poco de tensión en el aire esta semana. La actividad en tu sector de dinero y valores indica que es el momento de determinar si la forma en la que actualmente ganas dinero está funcionando para ti, si no, este aspecto insta enérgica acción hacia una mejor solución. No lo dejes al azar o asumas que alguien más lo hará por ti. La vida puede ser de la manera que quieres que sea.
+Te enfrentas a una serie de distracciones en tu vida monetaria. Algunos aspectos indican que es posible que estés pasando más tiempo socializando, abrazando a tu media naranja o visitando posibles socios de negocios importantes. Siendo así, gran parte de tu tiempo y atención pueden estar colocados en estos reinos haciendo difícil la concentración en otra cosa. Por suerte, hay un aspecto positivo que te ayuda a sentir una conexión más terrenal y estabiliza tu familia, hijos o pareja romántica. ¡Excelente!

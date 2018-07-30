@@ -1,29 +1,30 @@
 ---
 layout: horoscopos
-title: piscis 23 de julio 2018 al 29 de julio 2018 
-description: Horóscopo semanal piscis 23 de julio 2018 al 29 de julio 2018. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: piscis 30 de julio 2018 al 05 de agosto 2018 
+description: Horóscopo semanal piscis 30 de julio 2018 al 05 de agosto 2018. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: Jc7xBbOjIrY
+ video: v8P1LLHH08s
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-23'
+ lastmod: '2018-07-30'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 
-Es mejor reflexionar que lamentar piscis. Siempre. 
-Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así piscis, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
-Como el moralizante Saturno continúa en tu signo, podría llevarte a tomar con mayor seriedad tus objetivos, planes y ambiciones. Sin embargo, la luna llena del viernes podría coincidir con un evento inesperado que demanda una solución espontánea. Déjate llevar por tus instintos aquí, ya que es probable que lo que se sienta bien sea lo correcto. Además, el enfoque en tu sector social podría llevarte a convertirte en un miembro más activo de tu comunidad y asumir algunas responsabilidades asociadas con ella.
+Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
+ A veces, te aferras a momentos de felicidad pasajera piscis, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
+Esta semana podría aumentar la tensión en el hogar. Esto podría ser provocado por la fusión del vital Marte y el potente Plutón. Puede que alguien tenga la determinación de concretar una idea o plan sin tener en cuenta los sentimientos de los demás. Sin embargo, también existe la posibilidad de que esto involucre las finanzas o una posible compra. 
+ Desde tu perspectiva, podría parecer una buena idea. Pero debido a que el animado Júpiter está en tu sector de dinero, actualmente eres más optimista en torno a todos los asuntos relacionados con el dinero y los gastos. Puede que sea cuestión de investigar un poco, leer opiniones y evaluar si realmente puedes permitirte hacer esta compra. Luego de que tú y los demás estén satisfechos con esta evaluación, deberías poder concretarla. Además, el encantador Venus (tu planeta regente) ingresa a tu sector de lejanos horizontes el martes, lo que podría sugerir que se desarrollen amistades durante viajes o el estudio.     
 
 ## Dinero
 
-Te encuentras ahora en una situación interesante con cierta actividad en tu sector de vidas pasadas, sueños e instituciones. Puede que sientas que tu vida laboral no está haciendo todo lo posible por ti. Puede que tengas más suerte trabajando para una entidad mayor. Gracias a tu sector de grupos, tus amistades te conectarán a una nueva compañía con más capacidad de pagarte lo que vales. Sueña en grande.
+Aspectos en tu sector de apariencia personal y autoexpresión muestran que, si bien es posible que te centres en la búsqueda de un nuevo trabajo o una nueva posición con tu empleador actual, el dinero real puede estar en la mejora de tu aspecto para que se te perciba de una manera diferente. Conseguir tener la ropa y el peinado adecuado puede hacer toda la diferencia del mundo.

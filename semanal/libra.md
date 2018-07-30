@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 23 de julio 2018 al 29 de julio 2018 
-description: Horóscopo semanal libra 23 de julio 2018 al 29 de julio 2018. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro libra, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+title: libra 30 de julio 2018 al 05 de agosto 2018 
+description: Horóscopo semanal libra 30 de julio 2018 al 05 de agosto 2018. Fuera las preocupaciones. Tira del carro libra, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: OnHQreHPgbM
+ video: DzZpEOeNj14
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-23'
+ lastmod: '2018-07-30'
 ---
 
 
 
-## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro libra, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+## Fuera las preocupaciones. Tira del carro libra, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 
-Son muchos los que quieren arruinar tu vida libra, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa libra, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega libra. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos libra. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida libra. Ahora brillas así que, aprovecha. Aprovecha todo.
-¡Esta semana estás de humor para la acción! Ir de compras e invertir tu dinero arduamente ganado también podría ser muy divertido. Si es que no te has dado algunos lujos o un día de spa recientemente, es momento de hacerlo. Mereces darte un capricho esta semana. Saturno comienza a avanzar en tu sector de romance, lo que podría ver a una relación nueva tomar un camino más positivo. Sin embargo, tendrás que considerar si vale la pena invertir tu tiempo y energía en ella.
+Se avecinan cambios Capri, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Capri, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Capri. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana libra.
+Se producen varios cambios esta semana a medida que tres planetas ingresan a Capricornio y a tu sector de finanzas y valores personales. Tal vez el más importante de ellos es el ejemplar Saturno. Durante los próximos años, te tomarás más en serio el producir dinero y usar tus recursos sabiamente. También podrías decidir reducir gastos innecesarios. Sin embargo, debido a que el sol y el encantador Venus también ingresan a ese mismo sector, podría ser un excelente momento para aprovechar algunas ofertas de último minuto. 
 
 ## Dinero
 
-Puede que tengas un poco de tentación a descubrir un poco de belleza oculta en tu vida, tu personalidad o tu estilo. Justo debajo de la superficie, podrías ser una persona completamente diferente a la que todo el mundo ve. Deléitate con el progreso que has hecho en tu vida en lugar de insistir en lo que aún no han logrado alcanzar. El abandonar tus propias necesidades en materia de profesión y dinero no tiene sentido.
+Se te está dando un empujón de buena suerte desatando un torrente de mensajes positivos por parte de empleadores, potenciales clientes y clientes. Todos quieren un pedazo de tu tiempo, lo que puede ser agotador, aunque también son buenas noticias. Mientras tanto, ¿has considerado entrar en negocio con un pariente, padre o hermano? Quizá sea el momento de pensar un poco en esto.

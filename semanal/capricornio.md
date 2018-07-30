@@ -1,30 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 23 de julio 2018 al 29 de julio 2018 
-description: Horóscopo semanal capricornio 23 de julio 2018 al 29 de julio 2018. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagi, ¡NO MEZCLES!
+title: capricornio 30 de julio 2018 al 05 de agosto 2018 
+description: Horóscopo semanal capricornio 30 de julio 2018 al 05 de agosto 2018. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: Wfk9qMXe-Lw
+ video: 8kqjryLKS9Q
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-23'
+ lastmod: '2018-07-30'
 ---
 
 
 
-## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagi, ¡NO MEZCLES!
+## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 
-Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea capricornio. 
- Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
-La semana que comienza, que tiene un animado enfoque en tu sector doméstico, podría encontrarte con ganas de socializar con familiares y de ocuparte de los asuntos de tu hogar. Si recibirás a alguien que viene a quedarse, hacer una lista de todo lo que necesitas puede ser una buena idea. 
-El etéreo Neptuno está en tu signo, de modo que podrías tener una tendencia a perder el enfoque y distraerte con facilidad. Las tareas que debes hacer podrían parecer menos atractivas que leer un buen libro o ver una inspiradora película; ninguna de las cuales sería muy útil. Permítete tener mucha libertad, pero trata de crear un cronograma que te permita lograr todo a tiempo. Si lo haces, te sentirás mucho mejor. Por otro lado, alguien de tu círculo social podría sentir celos de ti, algo a lo que deberías prestar atención.
+Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
+ a personas de las que “piensas” que dependes…
+Puede que tu cuerpo comience a sentirse más relajado y menos cansado cuando el Sol salga de tu sector profesional y entre a tu sector social. Has estado pasado por una fase bastante agitada recientemente, pero con el actual enfoque en el Signo de Tauro, es momento de relajarte y pasar un buen rato. En otra nota, no le prestes demasiada atención a la opinión de alguien, sobre todo si te parece un tanto negativa. Además, la Luna Llena del jueves podría verte teniendo mucha pasión hacia la persona que amas.
 
 ## Dinero
 
-Esta semana tienes toneladas de nuevas oportunidades para ganar más dinero. Prepárate para poner un viejo plan en movimiento. Tus sueños tienen una muy buena oportunidad de convertirse en realidad, siempre y cuando tomes acción sobre cualquier cosa que se te presente. La actividad astral en tu sector de deuda advierte en contra de añadir más a ese balance.
+Esta semana tienes algunos desafíos por delante a medida que tratas de encontrar el mejor enfoque para el mes que viene. Ciertos aspectos afectan tu sector de deuda, animándote para que empieces a pagar y abstenerte de gastar más. Tu vida familiar y romántica será tu principal factor de motivación ahora.

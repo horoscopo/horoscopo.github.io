@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 23 de julio 2018 al 29 de julio 2018 
-description: Horóscopo semanal escorpio 23 de julio 2018 al 29 de julio 2018. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo escorpio, se llama dignidad. 
+title: escorpio 30 de julio 2018 al 05 de agosto 2018 
+description: Horóscopo semanal escorpio 30 de julio 2018 al 05 de agosto 2018. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: lXqkprduFMw
+ video: Gaojpa7OHtQ
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-23'
+ lastmod: '2018-07-30'
 ---
 
 
 
-## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo escorpio, se llama dignidad. 
+## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 
-Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
- A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
-Tu corazón está enfocado en tu hogar cuando Marte entra a Géminis esta semana, animándote a poner en marcha tareas hogareñas y eliminar el desorden. Si has estado sintiendo agobio debido a tantas cosas, puede que sientas motivación a deshacerte de ellas; creando así más espacio para otros planes y proyectos. En el romance, Venus emana sus tiernos rayos sobre un especial encuentro amoroso. El Sábado es el mejor día para conectar con tu último amor. Un suave y seductor estado de ánimo podría tentarte a disfrutar al máximo.
+El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
+Puede que te resulte difícil conciliar tus esperanzas y planes con los de tus familiares. Si bien es posible que hayas optado por dejar que se salieran con la suya, una parte de ti podía sentir un poco de resentimiento. Los próximos días y semanas pueden ser excelentes para liberar la carga emocional que podría estarte impidiendo aprovecha al máximo una sincera charla. Si sientes que tienes que discutir ciertos asuntos con una amistad de confianza primero, hacerlo podría darte una nueva perspectiva sobre tus problemas.
 
 ## Dinero
 
-Si esta semana estás pensando en cambiar de trabajo, voilà, las fuerzas parecen ayudar. Los planetas que afectan tu trabajo día a día te piden que pienses acerca de cómo cambiar tu situación actual para bien (¿tal vez un aumento?). O empezar a buscar algo mejor. Los aspectos opuestos apoyan que renuncies, pero sólo cuando el tiempo y el dinero estén en orden. Si tu conjunto de habilidades necesita mejorar, pídale a alguien de más arriba que te enseñe algo nuevo.
+Hay algunos desafíos en tu camino esta semana. Las relaciones son clave para tu éxito ahora, y el Universo te está empujando hacia ellos de una manera no tan sutil. El socializar es ante todo divertido, pero también puede ponerte en contacto con importantes clientes nuevos que podrían serte útiles en el futuro.
