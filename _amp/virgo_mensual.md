@@ -1,11 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Horoscopo virgo agosto 2018 
-description: El horóscopo agosto de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/virgo/
-amplink: /horoscopo-mensual/amp/virgo/
+permalink: /horoscopo-mensual/amp/virgo/
+normallink: /horoscopo-mensual/virgo/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo virgo agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video: $VIDEO

@@ -1,11 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Horoscopo capricornio agosto 2018 
-description: El horóscopo agosto de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/capricornio/
-amplink: /horoscopo-mensual/amp/capricornio/
+permalink: /horoscopo-mensual/amp/capricornio/
+normallink: /horoscopo-mensual/capricornio/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo capricornio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: $VIDEO

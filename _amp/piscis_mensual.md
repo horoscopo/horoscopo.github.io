@@ -1,11 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Horoscopo piscis agosto 2018 
-description: El horóscopo agosto de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/piscis/
-amplink: /horoscopo-mensual/amp/piscis/
+permalink: /horoscopo-mensual/amp/piscis/
+normallink: /horoscopo-mensual/piscis/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo piscis agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
  video: $VIDEO

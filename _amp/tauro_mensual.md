@@ -1,11 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Horoscopo tauro agosto 2018 
-description: El horóscopo agosto de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/tauro/
-amplink: /horoscopo-mensual/amp/tauro/
+permalink: /horoscopo-mensual/amp/tauro/
+normallink: /horoscopo-mensual/tauro/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo tauro agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
  video: $VIDEO

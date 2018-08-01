@@ -1,11 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Horoscopo geminis agosto 2018 
-description: El horóscopo agosto de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/geminis/
-amplink: /horoscopo-mensual/amp/geminis/
+permalink: /horoscopo-mensual/amp/geminis/
+normallink: /horoscopo-mensual/geminis/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo geminis agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: $VIDEO

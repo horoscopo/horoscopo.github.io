@@ -1,0 +1,13 @@
+    <strong>Horoscopos mensuales - Predicciones por signos</strong>
+  <div class="row centered lightgrey">
+    {% for signo in site.data.signos %}
+          <div class="col-sm-4">
+	    <a href="{{ site.url }}/horoscopo-mensual/{{ signo.id }}/" alt="{{ signo.id }} Horóscopo mensual">
+	      <img src="{{ site.url }}/images/{{ signo.id }}.png" class="img-responsive center-block">
+		<ul class="list-unstyled">
+		  <li>Horóscopos mensual {{ signo.id }}</li>
+		</ul>
+	     </a>
+	  </div>
+    {% endfor %}
+  </div>

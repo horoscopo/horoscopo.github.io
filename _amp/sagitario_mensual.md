@@ -1,11 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Horoscopo sagitario agosto 2018 
-description: El horóscopo agosto de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/sagitario/
-amplink: /horoscopo-mensual/amp/sagitario/
+permalink: /horoscopo-mensual/amp/sagitario/
+normallink: /horoscopo-mensual/sagitario/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo sagitario agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: $VIDEO

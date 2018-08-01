@@ -1,11 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Horoscopo acuario agosto 2018 
-description: El horóscopo agosto de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/acuario/
-amplink: /horoscopo-mensual/amp/acuario/
+permalink: /horoscopo-mensual/amp/acuario/
+normallink: /horoscopo-mensual/acuario/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo acuario agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: $VIDEO

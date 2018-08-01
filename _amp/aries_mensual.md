@@ -1,11 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Horoscopo aries agosto 2018 
-description: El horóscopo agosto de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/aries/
-amplink: /horoscopo-mensual/amp/aries/
+permalink: /horoscopo-mensual/amp/aries/
+normallink: /horoscopo-mensual/aries/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo aries agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
  video: $VIDEO

@@ -1,11 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Horoscopo escorpio agosto 2018 
-description: El horóscopo agosto de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/escorpio/
-amplink: /horoscopo-mensual/amp/escorpio/
+permalink: /horoscopo-mensual/amp/escorpio/
+normallink: /horoscopo-mensual/escorpio/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo escorpio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: $VIDEO

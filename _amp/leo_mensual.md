@@ -1,11 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Horoscopo leo agosto 2018 
-description: El horóscopo agosto de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/leo/
-amplink: /horoscopo-mensual/amp/leo/
+permalink: /horoscopo-mensual/amp/leo/
+normallink: /horoscopo-mensual/leo/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo leo agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: $VIDEO

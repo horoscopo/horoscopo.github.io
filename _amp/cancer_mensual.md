@@ -1,11 +1,9 @@
 ---
-layout: horoscopos
+layout: amp
 title: Horoscopo cancer agosto 2018 
-description: El horóscopo agosto de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/cancer/
-amplink: /horoscopo-mensual/amp/cancer/
+permalink: /horoscopo-mensual/amp/cancer/
+normallink: /horoscopo-mensual/cancer/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo cancer agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: $VIDEO
