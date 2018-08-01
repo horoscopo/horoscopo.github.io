@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo agosto, horoscopos en español, horóscopo cancer agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
- video: $VIDEO
+ video: fuoeiz4Qxs0
 ogimg: /images/cancer_char.png
 sitemap:
  priority: 1

@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo agosto, horoscopos en español, horóscopo capricornio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
- video: $VIDEO
+ video: 6khfjYfWaVs
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1

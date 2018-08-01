@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
- video: $VIDEO
+ video: Pt4Dgew8IbU
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1

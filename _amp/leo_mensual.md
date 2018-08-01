@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
- video: $VIDEO
+ video: bnxSaq8YYpk
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1

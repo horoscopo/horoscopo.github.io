@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo agosto, horoscopos en español, horóscopo acuario agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
- video: $VIDEO
+ video: Pt4Dgew8IbU
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1

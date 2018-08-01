@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo agosto, horoscopos en español, horóscopo leo agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
- video: $VIDEO
+ video: bnxSaq8YYpk
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1

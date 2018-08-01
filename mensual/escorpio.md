@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo agosto, horoscopos en español, horóscopo escorpio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
- video: $VIDEO
+ video: ZLoyxmxfKwk
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1

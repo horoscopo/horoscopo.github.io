@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo agosto, horoscopos en español, horóscopo piscis agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
- video: $VIDEO
+ video: W2MbLhw0eSw
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1
