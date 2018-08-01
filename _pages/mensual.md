@@ -3,7 +3,7 @@ layout: horoscopo_mensual
 title: Hóroscopos agosto de 2018
 description: Horóscopos agosto de 2018 aries, cancer, leo, virgo, sagitario, capricornio, escorpio, libra, piscis, acuario, geminis, tauro.
 permalink: /horoscopo-mensual/
-ogimg: /images/diario.png
+ogimg: /images/mensual.png
 sitemap:
  priority: 1
  changefreq: 'monthly'
