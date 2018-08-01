@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 31 de julio 2018
-description: Horóscopos del dia de hoy 31 de julio 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de agosto 2018
+description: Horóscopos del dia de hoy 01 de agosto 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-07-31
+ lastmod: 2018-08-01
 ---
-Disfruta de una agradable mañana bajo el trígono entre la Luna y Venus. Júpiter contribuye con su buena suerte esta tarde. Tu resultado será ganador si es que tienes un plan. Esta noche, los solteros podrían conocer a alguien y sentir una buena vibra con tal persona casi inmediatamente. Las parejas disfrutan de su mutua compañía.
+Mantente alerta y sé consciente de que no debes tratar de apresurar las cosas durante el trígono entre Marte y Plutón que durará los próximos cuatro días. Si vale la pena hacerlo, requerirá de tiempo. Comienza a planear. Demasiada gente y demasiada emoción crean confusión bajo la Luna en Escorpión de esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
