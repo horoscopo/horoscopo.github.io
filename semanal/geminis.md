@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 30 de julio 2018 al 05 de agosto 2018 
-description: Horóscopo semanal geminis 30 de julio 2018 al 05 de agosto 2018. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+title: geminis 06 de agosto 2018 al 12 de agosto 2018 
+description: Horóscopo semanal geminis 06 de agosto 2018 al 12 de agosto 2018. Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: KFk9EtM0dVc
+ video: -__tZFWFxSA
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-30'
+ lastmod: '2018-08-06'
 ---
 
 
 
-## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+## Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 
-No es que estés cambiando geminis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
-Un poco de tiempo en silencio puede ser todo lo que necesites para poder resolver un problema relacionado a asuntos hogareños o familiares. Tal vez la oportunidad de distanciarte un poco de ello te puede dar una nueva perspectiva. La Luna Llena del martes podía ponerte de ánimo para divertirte y tal vez pasar una noche candente con alguien especial. Llévala al máximo y disfruta de cada momento. Puede que encuentres que tu inspiración creativa aumenta una vez que el Sol entre a tu sector espiritual.
+Abre los ojos de una vez geminis. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas geminis, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero geminis, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también geminis. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. geminis por favor, te tenían que tener en un altar… Y lo sabes…
+La actividad cósmica continúa en tu signo. El cosmos te está activamente alentando a salirte de tu zona de confort y a perseguir tus metas apasionadamente. La Luna Llena del martes podría arruinar hasta tus planes mejor trazados, sobre todo si surge el mal genio o terminas en una discusión. Los sentimientos podían intensificarse a menos que te esfuerces por olvidar lo que sea que te esté molestando con el fin de poder avanzar. La presencia de Saturno en tu sector de familia podría empujarte a hacerle frente a un problema en curso.
 
 ## Dinero
 
-Te enfrentas a una serie de distracciones en tu vida monetaria. Algunos aspectos indican que es posible que estés pasando más tiempo socializando, abrazando a tu media naranja o visitando posibles socios de negocios importantes. Siendo así, gran parte de tu tiempo y atención pueden estar colocados en estos reinos haciendo difícil la concentración en otra cosa. Por suerte, hay un aspecto positivo que te ayuda a sentir una conexión más terrenal y estabiliza tu familia, hijos o pareja romántica. ¡Excelente!
+Tienes una situación interesante esta semana. Tu vida puede ser más difícil de lo que es, sobre todo cuando se trata de lo que es tuyo. Definir cómo vas a ganar dinero ahora y en el futuro es mejor que dejarlo todo al azar. Confiar excesivamente en los demás no es la mejor opción ahora.

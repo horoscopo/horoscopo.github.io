@@ -1,30 +1,29 @@
 ---
 layout: horoscopos
-title: piscis 30 de julio 2018 al 05 de agosto 2018 
-description: Horóscopo semanal piscis 30 de julio 2018 al 05 de agosto 2018. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+title: piscis 06 de agosto 2018 al 12 de agosto 2018 
+description: Horóscopo semanal piscis 06 de agosto 2018 al 12 de agosto 2018. Esta semana vas a abrir los ojos piscis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: v8P1LLHH08s
+ video: JZ_XveGp83w
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-30'
+ lastmod: '2018-08-06'
 ---
 
 
 
-## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+## Esta semana vas a abrir los ojos piscis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 
-Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
- A veces, te aferras a momentos de felicidad pasajera piscis, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
-Esta semana podría aumentar la tensión en el hogar. Esto podría ser provocado por la fusión del vital Marte y el potente Plutón. Puede que alguien tenga la determinación de concretar una idea o plan sin tener en cuenta los sentimientos de los demás. Sin embargo, también existe la posibilidad de que esto involucre las finanzas o una posible compra. 
- Desde tu perspectiva, podría parecer una buena idea. Pero debido a que el animado Júpiter está en tu sector de dinero, actualmente eres más optimista en torno a todos los asuntos relacionados con el dinero y los gastos. Puede que sea cuestión de investigar un poco, leer opiniones y evaluar si realmente puedes permitirte hacer esta compra. Luego de que tú y los demás estén satisfechos con esta evaluación, deberías poder concretarla. Además, el encantador Venus (tu planeta regente) ingresa a tu sector de lejanos horizontes el martes, lo que podría sugerir que se desarrollen amistades durante viajes o el estudio.     
+No pienses tanto por favor piscis, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres piscis por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
+ cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
+Puede que te abstengas de compartir tus sentimientos, en especial si se trata de una cuestión sensible. Si ya has tenido experiencia con este asunto, podrías sentirte incluso con menos ganas de hablar de ello. Sin embargo, podría producir un importante logro. A principios de la semana, puede que descubras que superar una barrera y hablar con la verdad es un gran alivio. El vital Marte ingresa a tu sector espiritual el fin de semana, lo que podría revolucionar tu psiquis. Prepárate para algunos vívidos sueños.
 
 ## Dinero
 
-Aspectos en tu sector de apariencia personal y autoexpresión muestran que, si bien es posible que te centres en la búsqueda de un nuevo trabajo o una nueva posición con tu empleador actual, el dinero real puede estar en la mejora de tu aspecto para que se te perciba de una manera diferente. Conseguir tener la ropa y el peinado adecuado puede hacer toda la diferencia del mundo.
+Eres uno de los mejores Signos del Zodíaco para manifestar cosas. Con un énfasis en tu sector de dinero, las habilidades que pensaste haber dejado atrás, traen la mayor cantidad de efectivo. Piensa en las personas o los trabajos de una época anterior de tu vida y tendrás la respuesta financiera a tu dilema actual. Un aspecto de apoyo hace que tu trabajo diario sea mucho más fácil de digerir. Si has logrado dar una gran impresión últimamente, pide ese aumento. Ellos te necesitan.

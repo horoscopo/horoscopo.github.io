@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 30 de julio 2018 al 05 de agosto 2018 
-description: Horóscopo semanal libra 30 de julio 2018 al 05 de agosto 2018. Fuera las preocupaciones. Tira del carro libra, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+title: libra 06 de agosto 2018 al 12 de agosto 2018 
+description: Horóscopo semanal libra 06 de agosto 2018 al 12 de agosto 2018. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: DzZpEOeNj14
+ video: rTdN_Lu5zyg
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-30'
+ lastmod: '2018-08-06'
 ---
 
 
 
-## Fuera las preocupaciones. Tira del carro libra, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
 
-Se avecinan cambios Capri, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Capri, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Capri. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana libra.
-Se producen varios cambios esta semana a medida que tres planetas ingresan a Capricornio y a tu sector de finanzas y valores personales. Tal vez el más importante de ellos es el ejemplar Saturno. Durante los próximos años, te tomarás más en serio el producir dinero y usar tus recursos sabiamente. También podrías decidir reducir gastos innecesarios. Sin embargo, debido a que el sol y el encantador Venus también ingresan a ese mismo sector, podría ser un excelente momento para aprovechar algunas ofertas de último minuto. 
+Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
+Aunque no lo quieres admitir, tal vez tengas ganas de asegurarte un primer lugar relacionado con una aspiración o jugada profesional. Esta semana, emocionantes influencias podrían llevarte a hacer una movida audaz, sea prudente o no. Además, con la Luna Llena del miércoles en un sector superior de tu carta astral, podrías encontrarte en el centro de atención. Por este motivo, ayuda estar consciente de tus decisiones y de cualquier posible consecuencia.
 
 ## Dinero
 
-Se te está dando un empujón de buena suerte desatando un torrente de mensajes positivos por parte de empleadores, potenciales clientes y clientes. Todos quieren un pedazo de tu tiempo, lo que puede ser agotador, aunque también son buenas noticias. Mientras tanto, ¿has considerado entrar en negocio con un pariente, padre o hermano? Quizá sea el momento de pensar un poco en esto.
+Para ti, esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes la suerte de tener una ventana de tiempo para saldar cuentas viejas o investigar si es mejor comprar, mantener o vender inversiones compartidas. Sin embargo, sabes lo que quieres, y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.

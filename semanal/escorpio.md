@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 30 de julio 2018 al 05 de agosto 2018 
-description: Horóscopo semanal escorpio 30 de julio 2018 al 05 de agosto 2018. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+title: escorpio 06 de agosto 2018 al 12 de agosto 2018 
+description: Horóscopo semanal escorpio 06 de agosto 2018 al 12 de agosto 2018. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: Gaojpa7OHtQ
+ video: jZPnGXjTDf8
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-30'
+ lastmod: '2018-08-06'
 ---
 
 
 
-## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 
-El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
-Puede que te resulte difícil conciliar tus esperanzas y planes con los de tus familiares. Si bien es posible que hayas optado por dejar que se salieran con la suya, una parte de ti podía sentir un poco de resentimiento. Los próximos días y semanas pueden ser excelentes para liberar la carga emocional que podría estarte impidiendo aprovecha al máximo una sincera charla. Si sientes que tienes que discutir ciertos asuntos con una amistad de confianza primero, hacerlo podría darte una nueva perspectiva sobre tus problemas.
+Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar.
+Cuando el animado Marte, tu planeta regente en cuanto a relaciones, se encuentra en tu sector de creatividad y romance, los próximos días y semanas pueden animarte a ser más firme. Puede ser uno de los mejores momentos para que los demás vean qué puedes hacer. No temas mostrar tus talentos o establecer nuevas conexiones. Una persona que conoces en nuevos ámbitos podría ser perfecta para ti. Solo necesitas la voluntad para salir de tu zona de confort. 
+La luna en cuarto creciente en tu signo el jueves te trae la oportunidad de reflexionar sobre una meta y considerar qué tan bien van las cosas. Puede que sea uno de los mejores momentos para hacer cualquier ajuste necesario antes de avanzar. Cuando el sol se traslada a Leo y a tu sector de amistad el domingo, tu vida social podría comenzar a brillar con oportunidades. Recaudar dinero para una organización de caridad también podría traerte mucha satisfacción.
 
 ## Dinero
 
-Hay algunos desafíos en tu camino esta semana. Las relaciones son clave para tu éxito ahora, y el Universo te está empujando hacia ellos de una manera no tan sutil. El socializar es ante todo divertido, pero también puede ponerte en contacto con importantes clientes nuevos que podrían serte útiles en el futuro.
+Con cierta actividad en tu sector de relaciones, puede que sientas como que eres ser más social. Incluso si no estás buscando un favor por parte de alguien, estar en contacto con tus contactos profesionales es una buena idea para recordarles de tus habilidades. Es posible que tengas que preocuparte un poco más por las primeras apariencias e impresiones y asegurarte de poner tu mejor pie  por delante con el fin de mejorar tu futuro financiero.

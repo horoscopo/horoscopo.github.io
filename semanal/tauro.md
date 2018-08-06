@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 30 de julio 2018 al 05 de agosto 2018 
-description: Horóscopo semanal tauro 30 de julio 2018 al 05 de agosto 2018. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
+title: tauro 06 de agosto 2018 al 12 de agosto 2018 
+description: Horóscopo semanal tauro 06 de agosto 2018 al 12 de agosto 2018. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: ejLfhpJGTrQ
+ video: 0kRQwL9tivs
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-07-30'
+ lastmod: '2018-08-06'
 ---
 
 
 
-## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
+## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 
-No te mereces poco tauro… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura tauro, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo tauro. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
-Hay tanto por explorar que hasta podrías ocuparte durante horas con toda la información y las oportunidades que te son reveladas. Aun así, sigue habiendo responsabilidades que tienes que atender, ya que te ayudarán a mantener los pies en el suelo. Durante los próximos días podría haber muchas razones por las que sientas tentación a abandonar lo mundano en búsqueda de lo misterioso y seductor. Sin embargo, mantén los ojos bien abiertos, ya que una opción más práctica y tal vez lucrativa podría aparecérsete.
+Está bien hacerse ilusiones tauro, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas tauro, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada tauro. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
+Aunque puede que tengas grandes planes para las próximas semanas y meses, es posible que sientas un poco de nervios al llevarlos a cabo. El choque entre Saturno en tu sector profesional y Neptuno en tu signo continúa esta semana, pudiendo ser la razón de tu falta de confianza. En lugar de luchar contra ello, aprovecha esta oportunidad para aprovechar tu imaginación y capacidades creativas. Hacerlo podría darte ideas que refuercen tu coraje. Finalmente, la entada de Venus a Escorpión podría traer consigo un romance.
 
 ## Dinero
 
-Es posible que esta semana estés teniendo cierto drama en tus relaciones. Cosas que pensaste que eran implícitas entre tú y tus jefes, mentores o empleados, pueden haber sido mal entendidas o criticadas. Por esta vez olvídate de ello y exprésate con más claridad la próxima vez. Si el dinero está involucrado en estos intercambios, comunica tus necesidades y no dejes que los conflictos estropeen lo que es potencialmente una gran alianza que beneficia a todos. Si la gente entiende esto, tú también debes de hacerlo.
+Te diriges a un período emocionante por delante. No se te puede ignorar sin importar lo que hagas. Puede que se te vea como el rebelde del grupo, lo cual puede funcionar a tu ventaja. Esto te distingue de los demás en tu trabajo, en tu campo y en todas partes. Muestra que tan diferente eres y atraerás más cada día.
