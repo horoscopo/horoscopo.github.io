@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de agosto 2018
-description: Horóscopos del dia de hoy 07 de agosto 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de agosto 2018
+description: Horóscopos del dia de hoy 08 de agosto 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-08-07
+ lastmod: 2018-08-08
 ---
-Hoy comienza un trígono entre Júpiter y Plutón que abre un mundo de posibilidades en los próximos diez días. Prepárate para asombrarte. Si no tienes pareja, podrías conocer a esa persona especial que va a cambiar todo mientras el Sol se oponga a Urano esta noche. La vida se acelera después de esa introducción.
+¡Feliz cumpleaños a Piscis durante los próximos 30 días! Sé feliz y cultiva alegría en tu vida. El aspecto entre la Luna y Plutón confiere una mente deductiva, visiones del futuro y la persistencia de enfocarse en todo ello. Sueña en grande. Esta noche, busca lo inesperado mientras la Luna cuadre a Urano. ¿No te había aburrido ya un poco la misma rutina de siempre?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
