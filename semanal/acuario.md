@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 06 de agosto 2018 al 12 de agosto 2018 
-description: Horóscopo semanal acuario 06 de agosto 2018 al 12 de agosto 2018. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento acuario. Hay personas a las que TÚ debes dar ese escarmiento.
+title: acuario 13 de agosto 2018 al 19 de agosto 2018 
+description: Horóscopo semanal acuario 13 de agosto 2018 al 19 de agosto 2018. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: W0oioXi_b0M
+ video: sQ0EBFBh_h8
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-08-06'
+ lastmod: '2018-08-13'
 ---
 
 
 
-## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento acuario. Hay personas a las que TÚ debes dar ese escarmiento.
+## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 
-
-El encantador Venus en tu sector de comunicación podría captar tu interés por salir y hacer algo distinto. Es una excelente semana para reunirte con tus amistades y disfrutar de divertidos encuentros, en especial si te atreves a moverte en nuevos círculos. En lo que respecta a tu carrera y tus metas, el etéreo Neptuno se vuelve retrógrado el lunes, lo que podría traer consigo la comprensión de algunas cuestiones. Puede que no suceda de la noche a la mañana, pero tal vez te des cuenta de las fallas de un plan o ambición durante los próximos días y semanas. Cuando lo hagas, será momento de actuar. 
-El ingreso del sol a Cáncer y a tu sector monetario el jueves podría animarte a pensar en tu seguridad financiera y en cómo puedes obtener una mayor rentabilidad con tu dinero. Pero trata de tener cuidado el fin de semana, ya que alguien puede intentar darte órdenes. De ser así, ponte firme. 
+Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo.
+Tanto las cuestiones empresariales como románticas pueden florecer esta semana. Cuando de dinero se trata, puede que tengas ansias de obtener la mejor oferta posible y mostrar bastante agresividad para obtenerla. Lo mismo puede decirse de una nueva historia de amor o romance, cuando un toque de obsesión podría llevarte a decir o hacer más de lo que tenías planeado. Sin embargo, la influencia de Libra sugiere que, aunque te sientas muy emocional al respecto, podrías tener mucha disposición a mantener la situación tranquila.
 
 ## Dinero
 
-Estás enfocado/a en tu carrera y la forma de acercarte a tus metas. Es posible que desees más seguridad en este momento de tu vida, y un salario con el que sabes que podrías vivir cómodamente. Aunque esto puede requerir que asumas una mayor responsabilidad o trabajar más horas, estás en buen camino hacia el logro de tus objetivos. Una luz brilla en tu sector deuda, págala mientras subes los escalones del éxito.
+Tienes una relación tensa entre tu hogar y profesión esta semana. Puede que sientas un poco de agobio en el trabajo o que tu carrera pasa por muchos obstáculos en el presente. Al mismo tiempo, tu vida hogareña y sentimientos interiores son algo tumultuosos o turbulentos. Establece un equilibrio al mantener una estrecha vigilancia en tu flujo de efectivo para ayudar a aliviar el estrés. Las cosas mejorarán desde allí.

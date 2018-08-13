@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: piscis 06 de agosto 2018 al 12 de agosto 2018 
-description: Horóscopo semanal piscis 06 de agosto 2018 al 12 de agosto 2018. Esta semana vas a abrir los ojos piscis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+title: piscis 13 de agosto 2018 al 19 de agosto 2018 
+description: Horóscopo semanal piscis 13 de agosto 2018 al 19 de agosto 2018. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro piscis.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: JZ_XveGp83w
+ video: bUoT0W_l_OM
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-08-06'
+ lastmod: '2018-08-13'
 ---
 
 
 
-## Esta semana vas a abrir los ojos piscis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro piscis.
 
-No pienses tanto por favor piscis, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres piscis por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
- cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
-Puede que te abstengas de compartir tus sentimientos, en especial si se trata de una cuestión sensible. Si ya has tenido experiencia con este asunto, podrías sentirte incluso con menos ganas de hablar de ello. Sin embargo, podría producir un importante logro. A principios de la semana, puede que descubras que superar una barrera y hablar con la verdad es un gran alivio. El vital Marte ingresa a tu sector espiritual el fin de semana, lo que podría revolucionar tu psiquis. Prepárate para algunos vívidos sueños.
+Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
+Cuando te sientas mal, tira de memoria piscis y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
+Puede que te estés preguntando si deberías pedir un préstamo para una hipoteca o un proyecto de remodelación. Mientras que el pronóstico para ello se vislumbra positivo, puede que sea más fácil evitar discutir el asunto esta semana. Con influencias clave que indican situaciones y condiciones fluctuantes, sería mejor que investigues tus opciones primero. Si realmente sientes ansias, este es el momento ideal para investigar todo al respecto. Además, el fin de semana se vislumbra agradable y exitoso.
 
 ## Dinero
 
-Eres uno de los mejores Signos del Zodíaco para manifestar cosas. Con un énfasis en tu sector de dinero, las habilidades que pensaste haber dejado atrás, traen la mayor cantidad de efectivo. Piensa en las personas o los trabajos de una época anterior de tu vida y tendrás la respuesta financiera a tu dilema actual. Un aspecto de apoyo hace que tu trabajo diario sea mucho más fácil de digerir. Si has logrado dar una gran impresión últimamente, pide ese aumento. Ellos te necesitan.
+Hay nuevas oportunidades para trabajar horas extras o encontrar un nuevo empleo con mejor salario y beneficios. Cierta actividad en tu sector de romance, familia y diversión, infiere que se te está forzado a encontrar ese delicado equilibrio entre trabajo y vida que todos se esfuerzan por tener cada día. Tú puedes encontrarlo.
