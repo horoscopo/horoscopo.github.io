@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: libra 13 de agosto 2018 al 19 de agosto 2018 
-description: Horóscopo semanal libra 13 de agosto 2018 al 19 de agosto 2018. A veces hay que llevar al límite las cosas libra, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+title: libra 20 de agosto 2018 al 26 de agosto 2018 
+description: Horóscopo semanal libra 20 de agosto 2018 al 26 de agosto 2018. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: dnyCgb_h4Mw
+ video: VivbWzCqndU
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-08-13'
+ lastmod: '2018-08-20'
 ---
 
 
 
-## A veces hay que llevar al límite las cosas libra, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 
-Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
- Busca siempre la parte buena de cada momento en el que te encuentres.
-Ciertos hechos demostrados y fuentes confiables de información podrían no ser tan honrados como primero pensaste. Alternativamente, la actitud apática o incompetente de otras personas podría interrumpir tus planes y agenda. Si tus mejores planes parecen derrumbarse esta semana, un enfoque paciente y la voluntad de comprometerte puede ser lo mejor que pudieras llegar a hacer. Sin embargo, la Luna Llena en Géminis podría compensar cualquier decepción, pudiendo ser perfecta para una agradable reunión o celebración este fin de semana.
+Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo libra… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Sagi, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Sagi. Lo vas a agradecer… Feliz semana.
+Puede que la comida y la cocina sean algo que disfrutes hacer en casa mientras Venus se encuentre en el afectuoso signo de Tauro y en tu sector de familia. De hecho, puede que esto sea la excusa perfecta para invitar a todas tus amistades y disfrutar recibirlos a todos. También hay otras opciones placenteras, ya que te pueden atraer distintas actividades culturales, especialmente exposiciones, conciertos o cualquier otra cosa que despierte tu creatividad. Júpiter comienza a avanzar esta semana, cuando una amistad puede evolucionar hacia algo más.
 
 ## Dinero
 
-Para ti, esta semana es sobre el hecho de que parte de ti quiere sumergirse en la belleza y la creatividad, pero las fuerzas quieren que pases tiempo al cuidado de cualquier deuda que pueda haberse acumulado. De nada sirve entrar en pánico o reprenderse a sí mismo por un gasto excesivo. A partir de este punto en adelante, haz una promesa para cambiar la forma de hacer negocios en tu vida monetaria, puedes hacerlo.
+Este periodo es acerca de los aspectos armoniosos trayéndole amor a tu vida hogareña y permitiendo que los sentimientos y recuerdos cálidos emerjan. Al mismo tiempo, se te recomienda abrirte a ellos y tal vez incluso utilizarlos en tu trabajo. Deja que tu imaginación vuele y puede que te percates de que tienes grandes ideas para generar más dinero.

@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 13 de agosto 2018 al 19 de agosto 2018 
-description: Horóscopo semanal escorpio 13 de agosto 2018 al 19 de agosto 2018. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no escorpio. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+title: escorpio 20 de agosto 2018 al 26 de agosto 2018 
+description: Horóscopo semanal escorpio 20 de agosto 2018 al 26 de agosto 2018. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón escorpio, no hay casualidades ni coincidencias.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: m75dE9AYqAo
+ video: DbygtjSbAkw
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-08-13'
+ lastmod: '2018-08-20'
 ---
 
 
 
-## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no escorpio. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón escorpio, no hay casualidades ni coincidencias.
 
-Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
-Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
-¡Es una gran semana! Saturno ingresa a tu signo el martes. De aquí en adelante, te tomarás tus metas y planes más en serio, y probablemente logres mucho más durante este proceso. Pero también hay dos planetas más que ingresan a este sector: el sol y el seductor Venus. Durante la próxima semana, puede que estés en el centro de actividades festivas, organizando todo y asegurándote de que todos la pasen bien. Además, tu vida social sigue teniendo un maravilloso brillo.
+Sólo tú puedes salvar tu vida escorpio. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú escorpio. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+Continuas en una fase en la que te hace bien descansar y darte la oportunidad de recargar baterías. También estás planeando activamente tu éxito conforme Marte entra a tu sector profesional. Puede que sea una buena idea adoptar una estrategia más selectiva en relación a los proyectos que aceptas, ya que te beneficiaría tomar un descanso entre ellos. Además, Mercurio entrando a tu signo este fin de semana podría inspirar en ti una idea que parece resumir la actitud motivacional que deseas adoptar para el 2016.
 
 ## Dinero
 
-Las obras creativas y la acción se unen ahora. Esto va a cambiar la forma en la que conectas con grupos sociales, y es posible que empiece a hacerte pensar en cómo trabajar por cuenta propia en un futuro próximo. Este aspecto afirme que tus ideas son sólidas. Todo lo que necesitas es el coraje para hacer esta transición y ver a través de ella. El dinero viene cuando le das seguimiento a lo que has tenido la suerte de crear.
+Los planetas están dando un impulso de energía necesaria para tenerlo todo listo a tiempo y bajo presupuesto. Tu ambición está en su máximo punto, y puede que no haya nadie a quien delegarle responsabilidades - todavía. Pero tus finanzas mejorarán, siempre y cuando mantengas la cabeza hacia abajo y hagas tu trabajo. Los planetas en tu sector de relaciones traerán la ayuda que necesitas a tiempo. La paciencia no es opcional – es requerida.

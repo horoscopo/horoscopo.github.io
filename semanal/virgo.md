@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 13 de agosto 2018 al 19 de agosto 2018 
-description: Horóscopo semanal virgo 13 de agosto 2018 al 19 de agosto 2018. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así virgo, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: virgo 20 de agosto 2018 al 26 de agosto 2018 
+description: Horóscopo semanal virgo 20 de agosto 2018 al 26 de agosto 2018. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: uk24BulNr2A
+ video: nPgd1X427K8
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-08-13'
+ lastmod: '2018-08-20'
 ---
 
 
 
-## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así virgo, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 
-Sólo hace falta que tu mente haga click virgo, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
-La semana que comienza podría encontrarte con una actitud menos idealista y más con los pies en la tierra, particularmente en lo que respecta a tu carrera, las cuestiones de dinero y la seguridad. Mientras Saturno y Plutón vuelven a la parte superior de tu carta, podrías enfocarte todavía más en una meta o un plan que tienes ganas de completar. Pero una conexión entre el encantador Venus y el intenso Plutón el martes sugiere que podrías tener un apego demasiado fuerte hacia este objetivo. Salirte de la rutina puede hacer lo alcances más fácilmente. 
-Espera lo inesperado cuando el sol entra en sintonía con el incansable Urano a mitad de semana. Si estás buscando algo nuevo y diferente, podría aparecer como un interesante encuentro que te brinde una nueva perspectiva de vida. Cuando el sol ingresa tranquilamente a Tauro, es posible que sientas una mayor conexión con tu cuerpo. Esto puede centrarte y conectarte con la tierra en general.   
+Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
+ sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
+Podrías sentir cierto grado de incertidumbre en relación a un plan en el que has invertido una gran cantidad de tiempo y energía. Tal vez tienes una sensación de insatisfacción en vez de un espíritu feliz y celebrativo. Esto probablemente es debido a que tu enfoque ha cambiado. Has pasado por mucho durante el último par de años, y sin duda no eres la misma persona que eras entonces. Esta semana puede ser un momento crucial, especialmente si te has dispuesto a examinar cualquier creencia que pudiera estarte impidiendo alcanzar tu pleno potencial.
 
 ## Dinero
 
-Es una semana muy ocupada para ti. Ciertos aspectos afectarán tu sector de dinero y valores, aumentando tus fondos, lo cual es genial. También te ayuda a hacer un plan para que tu dinero vaya más lejos. Utiliza una calculadora de ahorro para el retiro (disponible en línea) para ayudarte a ver cuánto necesita ahorrar cada mes para poder disfrutar de una vida cómoda después del retiro.
+Es una semana tensa para ti. Considera la posibilidad de aprender algo nuevo, asistiendo a un curso formal de educación o el uso de los viajes como una forma de educación. El poner un poco de pensamiento en lo que te da curiosidad le permite a tu mente moverse en una dirección decididamente positiva. Es importante el ver dónde tienes raices. El poner tu confianza en las instituciones financieras no es necesariamente una cosa mala.
