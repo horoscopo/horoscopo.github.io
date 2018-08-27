@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 20 de agosto 2018 al 26 de agosto 2018 
-description: Horóscopo semanal geminis 20 de agosto 2018 al 26 de agosto 2018. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
+title: geminis 27 de agosto 2018 al 02 de septiembre 2018 
+description: Horóscopo semanal geminis 27 de agosto 2018 al 02 de septiembre 2018. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: jKos7J5eTD8
-
+ video: 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-08-20'
+ lastmod: '2018-08-27'
 ---
 
 
 
-## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
+## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 
-No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
- sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
-Después de una época de grandes reuniones con amigos, cierre de acuerdos y de crear nuevos contactos profesionales, el Sol se desplaza a tu sector de hogar y familia. Es posible que de ahora en adelante desees disfrutar de un tiempo de descanso. También es una oportunidad para salir con tus amigos más cercanos y consentirte. Este fin de semana habrá Luna Llena en el divertido Sagitario, la que podría despertar tu espíritu fiestero. Si tienes ganas de organizar una celebración o un evento, este sería el momento de hacerlo.
+Tienes que enderezar un poco tu vida geminis, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
+Pareces estar en el centro de atención, probablemente uno de los mejores lugares en los cuales estar esta semana. Con la Luna Nueva en tu sector profesional y de ambición, estarás en una buena posición para iniciar un objetivo que pudiera tener potencial para cambiar tu vida. Puede haber personas que no estén de acuerdo contigo y es posible que tengas que tener una sincera charla con algunas de ellas. Sin embargo, puede que sólo se requiera de un enfoque diplomático para convencerlas.
 
 ## Dinero
 
-Para ti el dinero suele ser un medio para alcanzar un fin. Prefieres pensar en otras cosas que preocuparte acerca de cómo hacer más dinero. Pero ahora, con la actividad en tu sector de efectivo y valores, tienes tantas oportunidades que es difícil manejarlas todas. Si sientes agobio, mantén una lista de posibilidades y redúcela gradualmente hasta que solamente dejes las que son realistas. El dinero será abundante.
+Estás en el cielo con respecto a tu carrera esta semana. Estás asumiendo una posición más poderosa en el trabajo y disfrutas de los salarios y beneficios que van junto con ella. Tu sector de vidas pasadas y sueños se acentúa. Hay tantas cosas pasando por tu mente inconsciente que puedes hasta sorprenderte de la cantidad de buenas ideas que tienes una vez que éstas alcancen la superficie.

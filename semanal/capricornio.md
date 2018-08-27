@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 20 de agosto 2018 al 26 de agosto 2018 
-description: Horóscopo semanal capricornio 20 de agosto 2018 al 26 de agosto 2018. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+title: capricornio 27 de agosto 2018 al 02 de septiembre 2018 
+description: Horóscopo semanal capricornio 27 de agosto 2018 al 02 de septiembre 2018. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada capricornio. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: D38P2ZJVvnE
-
+ video: 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-08-20'
+ lastmod: '2018-08-27'
 ---
 
 
 
-## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada capricornio. 
 
-Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
-Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
-Con el actual enfoque en tu sector de estilo de vida, podrías sentir motivación a ajustar tu rutina de salud. Venus entra a este sector el martes, por lo que puede que tengas que empujarte a hacer ejercicio todos los días o apegarte a una dieta. Lo que realmente necesitas es confianza y tener fe en ti, incluso si tal ha sido sacudida últimamente. Júpiter está ahora avanzando, por lo que poco a poco te percatarás de que sientes más seguridad y tienes más capacidad para lidiar con los problemas y asumir retos.
+A veces de bueno te pasas capricornio. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio capricornio, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa capricornio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso capricornio y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
+La organización de una fiesta sugiere que sería mejor que bajaras tu ritmo, ya que aún tienes que cumplir con todas tus responsabilidades. Además, el deseo de gastar en regalos navideños podría verte aprovechando al máximo gangas de última hora. Para el 25 de diciembre ya te habrás preparado para quitar el pie del acelerador y dejarles algo del trabajo arduo a los demás. Además, con la Luna Llena manifestándose ese día, ciertamente sería prudente reducir tu horario y darte la oportunidad de recargar baterías. ¿Qué tal un masaje o algo relajante?
 
 ## Dinero
 
-Esta semana se trata del dinero de otras personas y de la deuda, así como la política, los grupos sociales, esperanzas y sueños. Puede que el dinero no esté allí para poder llevar un viejo sueño a la realidad, pero eso no significa que te debas olvidar de él. Las actividades en redes, incluso en línea, pueden ayudarte a atraer a los donantes que necesitas para hacer que esto suceda. Esfuérzate para mantener el equilibrio y la paciencia a medida que avanzas.
+Esta semana, los planetas están cambiando la manera en la que otros te ven, lo cual es positivo a largo plazo. Pero, dado a que en la actualidad afecta a tu carrera y tu vida hogareña, lo mejor es acudir a tus relaciones serias en busca de asistencia. Aquellos que pueden sostenerse en medio de una tormenta son aquellos que deseas mantener cerca.

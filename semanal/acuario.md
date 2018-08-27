@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 20 de agosto 2018 al 26 de agosto 2018 
-description: Horóscopo semanal acuario 20 de agosto 2018 al 26 de agosto 2018. Esta semana relájate un poco acuario, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: acuario 27 de agosto 2018 al 02 de septiembre 2018 
+description: Horóscopo semanal acuario 27 de agosto 2018 al 02 de septiembre 2018. acuario, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: c42KCnoUzEo
-
+ video: 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-08-20'
+ lastmod: '2018-08-27'
 ---
 
 
 
-## Esta semana relájate un poco acuario, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## acuario, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 
-No te conformes con poco acuario, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche acuario, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
-Podrían surgir situaciones que parecen estar fuera de tu control esta semana, e incluso puede parecer que el destino está interviniendo en ellas. ¿Qué deberías hacer al respecto? El contexto estelar sugiere que es momento para reflexionar sobre tus motivos y sentimientos con respecto a áreas clave de tu vida, ya que podrían tener un rol inconsciente en distintos aspectos. También puede que sea útil quitar algunos compromisos de tu agenda y pasar más tiempo en compañía de tus buenas amistades.
+La zona de confort es un sitio bonito acuario, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más acuario, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto acuario, y tú mismo te lo notas, no la cagues por nada ni por nadie.
+Si ciertas personas han estado incumpliendo promesas y esquivando responsabilidades, las cosas podrían cambiar a medida que Mercurio comienza a girar hacia adelante a partir del lunes. Puede que experimentes una sensación de alivio cuando las cosas vuelvan a la normalidad. Y con Venus ahora moviéndose a través de Capricornio, la actitud de cierta persona hacia ti podría parecer mucho más dulce y más considerada de lo que ha sido por un tiempo. Es posible que desees concretar una cita para el sábado, la que podría ayudarte a revivir la chispa de la pasión. El domingo, ¡una noticia podría sorprenderte!
 
 ## Dinero
 
-Puede que estés atrapado/a en una situación de tensión esta semana. Puede que ambos, tu lado masculino y femenino tengan que ser abordados al considerar una nueva forma de ganar, ahorrar o gastar tu dinero en efectivo. Piensa con pragmatismo, mientras que aprecias y disfrutas las cosas buenas de la vida mientras piensas que podrías acostumbrarte a ellas.
+Esta semana es sobre la energía que recibes del Universo que afecta a tu vida laboral. Es posible que desees asociarte con alguien que no conoces muy bien con el fin de terminar cierto trabajo, o aliarte con otras personas que quieren salir adelante. No te aproveches ni de los demás o del poder que tengas. Un paso lento pero constante gana la carrera. Formula tu estrategia con prudencia.
