@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo escorpio agosto 
 horoscopo:
  signo: escorpio
  video: ZLoyxmxfKwk
-ogimg: /images/escorpio_char.png
+ogimg: /images/mes/escorpio_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

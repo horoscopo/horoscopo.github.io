@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo libra agosto , h
 horoscopo:
  signo: libra
  video: aUVjnBARCVs
-ogimg: /images/libra_char.png
+ogimg: /images/mes/libra_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

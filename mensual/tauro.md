@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo tauro agosto , h
 horoscopo:
  signo: tauro
  video: HJUdt_haFWM
-ogimg: /images/tauro_char.png
+ogimg: /images/mes/tauro_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

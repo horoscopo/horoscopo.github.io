@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo leo agosto , hor
 horoscopo:
  signo: leo
  video: bnxSaq8YYpk
-ogimg: /images/leo_char.png
+ogimg: /images/mes/leo_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

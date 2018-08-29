@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo sagitario agosto
 horoscopo:
  signo: sagitario
  video: 0zRQ5yU-VyU
-ogimg: /images/sagitario_char.png
+ogimg: /images/mes/sagitario_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

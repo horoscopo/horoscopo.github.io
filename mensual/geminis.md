@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo geminis agosto ,
 horoscopo:
  signo: geminis
  video: LcoQE7W_yzs
-ogimg: /images/geminis_char.png
+ogimg: /images/mes/geminis_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

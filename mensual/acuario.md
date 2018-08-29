@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo acuario agosto ,
 horoscopo:
  signo: acuario
  video: Pt4Dgew8IbU
-ogimg: /images/acuario_char.png
+ogimg: /images/mes/acuario_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

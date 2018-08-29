@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo piscis agosto , 
 horoscopo:
  signo: piscis
  video: W2MbLhw0eSw
-ogimg: /images/piscis_char.png
+ogimg: /images/mes/piscis_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

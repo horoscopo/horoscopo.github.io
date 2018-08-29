@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo capricornio agos
 horoscopo:
  signo: capricornio
  video: 6khfjYfWaVs
-ogimg: /images/capricornio_char.png
+ogimg: /images/mes/capricornio_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

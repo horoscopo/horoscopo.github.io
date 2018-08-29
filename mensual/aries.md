@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo aries agosto , h
 horoscopo:
  signo: aries
  video: HxwHoC4mWHo
-ogimg: /images/aries_char.png
+ogimg: /images/mes/aries_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

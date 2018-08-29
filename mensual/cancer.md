@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo cancer agosto , 
 horoscopo:
  signo: cancer
  video: fuoeiz4Qxs0
-ogimg: /images/cancer_char.png
+ogimg: /images/mes/cancer_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'

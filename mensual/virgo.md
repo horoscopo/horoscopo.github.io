@@ -9,7 +9,7 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo virgo agosto , h
 horoscopo:
  signo: virgo
  video: ogde6r2xBX0
-ogimg: /images/virgo_char.png
+ogimg: /images/mes/virgo_mes.png
 sitemap:
  priority: 1
  changefreq: 'monthly'
