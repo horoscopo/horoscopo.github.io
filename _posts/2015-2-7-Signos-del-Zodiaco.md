@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de agosto 2018
-description: Horóscopos del dia de hoy 29 de agosto 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 30 de agosto 2018
+description: Horóscopos del dia de hoy 30 de agosto 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-08-29
+ lastmod: 2018-08-30
 ---
-Es importante darle prioridad a la información de una manera lógica. Cuando el Sol cuadra al impredecible Urano como lo hace hoy, tú también necesitas rutas alternativas y planes de contingencia para reducir el caos a un mínimo. Esta noche, los opuestos se atraen. Los solteros se involucran, aunque la otra persona no sea realmente su tipo. Si conoces a alguien, tómate tu tiempo.
+Hoy es un momento favorable para afinar algo y hacer que sea más a tu gusto. De hecho, no hay nada de malo en ir más allá de lo que buscas. Los recuerdos y el amor hacen la diferencia cuando la Luna aspecta a Venus. Toma un viaje por el carril de la memoria y piensa en los buenos tiempos que tuviste. Para los solteros, esto podría significar un déjà vu.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
