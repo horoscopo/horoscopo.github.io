@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 31 de agosto 2018
-description: Horóscopos del dia de hoy 31 de agosto 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de septiembre 2018
+description: Horóscopos del dia de hoy 01 de septiembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-08-31
+ lastmod: 2018-09-01
 ---
-Las mentes no se logran calmar. La imaginación se vuelve loca y nada puede detenerla mientras Marte aspecta a Neptuno. Si no logras tener control, por lo menos ábrete a la aventura. Esta noche, es demasiado fácil poner tu confianza en las personas equivocadas cuando la Luna cuadra a Júpiter.
+Si sientes que tienes razón, mantente firme y ponle fin a ese viejo y molesto problema. Una decisión tomada mientras la Luna forma sextil con Saturno es basada en razonamiento sano. Ten un plan alterno esta noche cuando la gente cambie los acuerdos en el último minuto. En este sentido, los ajustes tienen un resultado positivo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
