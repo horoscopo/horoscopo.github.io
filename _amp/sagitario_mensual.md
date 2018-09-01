@@ -1,12 +1,13 @@
 ---
 layout: amp
-title: Horoscopo sagitario agosto 2018 
+title: Horoscopo sagitario septiembre 2018 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
- video: 0zRQ5yU-VyU
+ video: ri9FoQBgL3Y
+
 ogimg: /images/sagitario_char.png
 sitemap:
  priority: 1
@@ -14,4 +15,9 @@ sitemap:
 ---
 
 
-El sol forma una cuadratura con Júpiter el 6 de agosto. Si tus generosos impulsos son pasados por alto o incomprendidos, déjalo pasar. Que la luna nueva y eclipse solar del 11 de agosto amplíen tu mundo. Alguna reprobación o barrera puede bloquear tus caminos hacia la aventura, pero hay varias propuestas para satisfacer tus sueños y amor por la aventura. Mercurio se torna estacionario directo el día 18. Quizás no puedas desenredar de inmediato el nudo que causó la fase retrógrada, pero todo se enderezará. Tal vez quieras pasar menos tiempo en casa durante la luna llena del 26 de agosto. Puede que estén sucediendo muchas cosas contigo o tu familia, que se resolverán solas si les das tiempo; alternativamente, puede que quizás quieras intervenir y expresarte. Al día siguiente, Marte se torna estacionario directo después de haber estado retrógrado desde el 26 de junio. Marte directo en Capricornio puede querer que te enfoques primero en asuntos laborales y en tus deseos. Ten más ambición. Días destacados: 17, 19, 27Días desafiantes: 4, 10</div>
+Sept. de 2018 - La luna nueva del 9 de septiembre ilumina tu profesión o posición social. Ten seguridad, sé realista sobre tus habilidades, y luego actúa con sinceridad. La gente ahora recurre a ti para que lideres. 
+La luna forma una conjunción con Júpiter el día 13. Siéntete con más suerte que nunca sobre un asunto serio y fundamental. Haz lo que puedas antes de que Júpiter salga de Escorpión y entre a Sagitario el 8 de noviembre, cuando puede que todo sea demasiado fácil como para excederte. 
+Las actividades sociales se encienden con la luna llena del 24 de septiembre. Siéntete a gusto en un escenario mayor, con un grupo más grande de gente, y también haz sentir a gusto a los demás. Ocúpate de las personas más difíciles con elegancia. 
+Ponle freno a algo que puede estar al borde de salirse de control durante la oposición entre la luna y Júpiter el día 28. Si todo ya está bajo control, puedes obtener una nueva perspectiva sobre planes que te gustaría ampliar. 
+Días destacados: 5, 11, 23
+Días desafiantes: 3, 7

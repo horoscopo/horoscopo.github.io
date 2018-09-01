@@ -1,14 +1,15 @@
 ---
 layout: horoscopos
-title: Horoscopo cancer agosto 2018 
-description: El horóscopo agosto de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo cancer septiembre 2018
+description: El Horóscopo septiembre de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo cancer agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo cancer septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
- video: fuoeiz4Qxs0
+ video: 9NCXVujT3Rk
+
 ogimg: /images/mes/cancer_mes.png
 sitemap:
  priority: 1
@@ -16,4 +17,10 @@ sitemap:
 ---
 
 
-El 7 de agosto podría ser un día romántico, lleno de coqueteo, sorpresas y malentendidos. Urano se torna estacionario retrógrado, Venus y Marte forman un trígono, y la luna ingresa a Cáncer. El día siguiente puede ser más agradable si no piensas demasiado las cosas. El sol forma una conjunción con Mercurio retrógrado, lo que resalta la intuición y pistas psíquicas. La luna en Cáncer forma un trígono con Júpiter, y luego un trígono con Neptuno. ¡Dulces sueños! La luna nueva (y eclipse solar) del día 11 podría iluminar un asunto financiero y traerte algo valioso. Podría haber algunos mensajes contradictorios, pero al final deberías recibir buenas noticias. Mercurio se torna directo el 18 de agosto. Tómate tu tiempo para organizarte mejor. El día 26, la luna llena puede darte más espacio y tiempo libre. Haz lo que prefieres hacer en lugar de lo que tu círculo social está promoviendo. No te preocupes; no estarás a solas. Al día siguiente, Marte se torna estacionario directo. La motivación regresa y el progreso se vuelve más fácil. Días destacados: 17, 22, 27Días desafiantes: 8, 16</div>
+Sept. de 2018 - La luna está en Cáncer cuando Saturno se torna estacionario directo el 6 de septiembre. La luna ahora también forma una oposición con Marte. Puede importarte mucho tu familia u hogar sin preocuparte demasiado. 
+Ponte jovial y más alegre con tus amistades y personas del vecindario durante la luna nueva del día 9. Jugar juegos de fantasía y construir castillos en el aire podría ser muy divertido. 
+La luna forma una conjunción con Júpiter el 13 de septiembre. Algunas personas pueden tener problemas con este día tan emocional, pero tú lo sentirás como natural y afortunado. 
+El sol entra a Libra, y la luna en Piscis forma una cuadratura con Venus en Escorpión el día 22. El otoño comienza de la forma más bondadosa. Disfruta más de tus contactos sociales. 
+Diviértete en casa durante la luna llena del 24 de septiembre. Termina un proyecto o modificación, y siente la victoria, satisfacción y orgullo. No te estás escondiendo en un caparazón. Estás glorificando lo que amas. 
+Días destacados: 4, 23, 27
+Días desafiantes: 8, 25

@@ -1,14 +1,15 @@
 ---
 layout: horoscopos
-title: Horoscopo acuario agosto 2018 
-description: El horóscopo agosto de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo acuario septiembre 2018
+description: El Horóscopo septiembre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo acuario agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo acuario septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
- video: Pt4Dgew8IbU
+ video: -38-t3JRBo8
+
 ogimg: /images/mes/acuario_mes.png
 sitemap:
  priority: 1
@@ -16,4 +17,10 @@ sitemap:
 ---
 
 
-El eclipse solar y la luna nueva del 11 de agosto podrían avivar una emocionante relación romántica. No todos te darán su aprobación (y te lo dirán), pero escucha a tu propio corazón y cabeza. Mercurio retrógrado termina el día 18. Mercurio directo en Leo debería tener mucho para decir, así que espera algunas respuestas a comunicaciones anteriores que fueron ignoradas. Ahora es más fácil organizarte, y mantenerte así. El sol forma un trígono con Urano el 25 de agosto. Si tienes alguna idea nueva y audaz, este podría ser el momento para darlas a saber. Acciones sorprendentes y efectivas serán bien recibidas y vistas con admiración. La luna llena del día siguiente podría preparar el terreno para que recibas más dinero o regalos en el futuro cercano. Sé paciente y agradable, y ve qué sucede. Marte se torna directo en Capricornio el día 27. ¿Recuerdas aquellos planes ambiciosos y deseos profesionales? Tal vez ahora es momento de comenzar a hacer algo al respecto. Días destacados: 3, 21, 30Días desafiantes: 1, 16</div>
+Sept. de 2018 - Saturno se torna directo el 6 de septiembre. Siéntete más en control desde ahora hasta fin de año. 
+Serás la única verdadera persona adulta en la habitación durante la luna nueva del día 9. Puede que escuches cualquier cantidad de preguntas sobre dinero o algunos consejos financieros sueltos, pero tú sabes muy bien que no debes distraerte de lo que realmente está pasando. 
+Venus forma una oposición con Urano el 12 de septiembre. El amante más llamativo puede estar en desventaja, sin embargo, aún puedes tener una aventura con una opción menos riesgosa. 
+Marte forma una cuadratura con Urano el día 18. Si aparece algún conflicto, es probable que sea por algo sin importancia que se evapora de inmediato. Calma, calma. 
+Ponte de humor para cosas exóticas y excéntricas cuando brilla la luna llena el 24 de septiembre. Alimenta tu corazón y nutre tu espíritu con nuevas comidas, música, o tal vez incluso un viaje con alguien que no se parezca en nada a nadie de quienes te rodean. 
+Días destacados: 4, 17, 27
+Días desafiantes: 8, 23

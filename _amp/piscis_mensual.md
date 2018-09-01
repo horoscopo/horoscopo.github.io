@@ -1,12 +1,13 @@
 ---
 layout: amp
-title: Horoscopo piscis agosto 2018 
+title: Horoscopo piscis septiembre 2018 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
- video: W2MbLhw0eSw
+ video: WMXdN-fJutQ
+
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1
@@ -14,4 +15,10 @@ sitemap:
 ---
 
 
-La vida cotidiana podría ponerse complicada con la luna nueva y eclipse solar del 11 de agosto, pero todas serán cosas pequeñas. Cualquier obstáculo en el camino serán piedritas, no rocas, y desaparecerán por su cuenta. Mercurio se torna estacionario directo el 18 de agosto. Pronto aparecerá cualquier cosa perdida. Los malentendidos serán corregidos durante los próximos días. Las comunicaciones ignoradas tendrán respuesta. El trígono que Júpiter forma con Neptuno el día 19 es un aspecto duradero. Esto te hará sentir bien sobre tus sueños y aspiraciones durante un largo tiempo. Durante la luna llena del 26 de agosto, puede que descubras que tienes mucho más en común con la gente de lo que sospechabas. Las personas pueden sentirse seguras contigo y abrirse, y compartir sus verdaderos sentimientos. Al día siguiente, Marte se torna estacionario directo después de haber estado retrógrado desde el 26 de junio. Las pasiones deberían iluminarse para un trabajo gratificante y una profesión más satisfactoria. Días destacados: 12, 17, 22Días desafiantes: 6, 27 </div>
+Sept. de 2018 - La luna forma una oposición con Neptuno el 7 de septiembre. Si has sentido confusión respecto de alguien especial, un poco de esa neblina mental debería aclararse ahora. 
+La luna nueva del día 9 ilumina tu vida amorosa de una forma espectacular. Tal vez no conectas con tu amante o pareja perfecta, pero podrías. Tu chispa actual podría arder más fuerte, y verte más brillante. 
+El 13 de septiembre, Mercurio forma una oposición con Neptuno. Un error o malentendido puede corregirse o despejarse. 
+Tú podrías ser la respuesta a un problema complejo durante la luna llena del día 24. Descubre la confusión o malinterpretación de alguien, y ve directo a la solución, sin ningún costo o esfuerzo de tu parte. Haz que algo imposible parezca fácil porque, para ti, lo es. 
+El 25 de septiembre, el asteroide Quirón entra a Piscis. Puedes aprender incluso de una herida imaginaria. Permítete un poco más de distancia emocional, y evita estar demasiado sensible. 
+Días destacados: 5, 23, 28
+Días desafiantes: 15, 30
