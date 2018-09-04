@@ -6,7 +6,7 @@ sitemap:
  exclude: 'yes'
 ---
  
-# Política de Privacidad
+# Política de Privacidad.
 En esta Política de Privacidad te informaremos con total transparencia sobre la finalidad de este sitio web y todo lo que afecta a los datos que nos facilites, así como de las obligaciones y derechos que te corresponden.
 
 Para empezar, debes saber que este sitio web se adapta a la normativa vigente en relación con la protección de datos, lo que afecta a los datos personales que nos facilites con tu consentimiento expreso y a las cookies que utilizamos para que este sitio web funcione correctamente y pueda desarrollar su actividad.
