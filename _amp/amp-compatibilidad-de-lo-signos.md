@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Compatibilidad de los Signos en el amor
-description: Seguramente te hiciste preguntas como: ¿Qué signos son compatibles en el amor para Aries? ¿Cuál es la mejor pareja para Acuario? ¿Qué signos son compatibles con Capricornio Mujer? ¿Cómo se llevan los signos? Con este articulo te ayudamos.
+description: Seguramente te hiciste preguntas como ¿Qué signos son compatibles en el amor para Aries? ¿Cuál es la mejor pareja para Acuario? ¿Qué signos son compatibles con Capricornio Mujer? ¿Cómo se llevan los signos? Con este articulo te ayudamos.
 normallink: /compatibilidad-signos-amor/
 permalink: /amp/compatibilidad-signos-amor/
 home: FALSE
