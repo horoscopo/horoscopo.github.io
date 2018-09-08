@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de septiembre 2018
-description: Horóscopos del dia de hoy 07 de septiembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de septiembre 2018
+description: Horóscopos del dia de hoy 08 de septiembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-09-07
+ lastmod: 2018-09-08
 ---
-Las personas andan un poco distraídas y mantienen sus respuestas vagas cuando Mercurio cuadra a Neptuno esta mañana. La buena noticia es que las telarañas se despejan por la tarde. Espera y hazle la pregunta correcta a la persona adecuada en el momento preciso. Durante la noche, muestra esa enorme y linda sonrisa y ve cómo te suceden cosas positivas bajo la Luna en Leo.
+La vida se desarrolla suave y gratificantemente durante el sextil entre la Luna y Venus. Una corriente subterránea de tensión sale a la superficie cuando lo que se supone que debes hacer entra en conflicto con lo que quieres hacer. Siéntete feliz mientras la Luna forme sextil con Júpiter esta noche. Los solteros gozan de popularidad. Las parejas gozan de una ocasión con ambiente romántico (es como una simulada escapada romántica).
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
