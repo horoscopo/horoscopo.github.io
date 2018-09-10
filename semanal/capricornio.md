@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 03 de septiembre 2018 al 09 de septiembre 2018 
-description: Horóscopo semanal capricornio 03 de septiembre 2018 al 09 de septiembre 2018. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: capricornio 10 de septiembre 2018 al 16 de septiembre 2018 
+description: Horóscopo semanal capricornio 10 de septiembre 2018 al 16 de septiembre 2018. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: W3ePMrhvly8
+ video: yosfQV98irA
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-03'
+ lastmod: '2018-09-10'
 ---
 
 
 
-## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 
-No te mereces poco capricornio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura capricornio, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo capricornio. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
-El conversador Mercurio, tu planeta regente, ingresa a su fase retrógrada en tu sector espiritual el miércoles y permanecerá así durante aproximadamente tres semanas. Esta fase puede ser una oportunidad para volver al pasado y resolver cualquier problema que haya estado retrasándote. Al mismo tiempo, el sol en este sector se alinea al incansable Urano en tu sector de viajes y aventura. La necesidad de emoción y de hacer algo distinto puede provocar una decisión espontánea, por lo que podrías hacer un viaje repentino. 
-El eclipse lunar del viernes podría afectar a tus sectores espiritual y de estilo de vida. Tal vez sientas la necesidad de reflexionar sobre tus rutinas y organizarte de manera práctica. Puede que esto signifique librarte de algunas actividades que, en realidad, no son beneficiosas para ti. Es momento de que te preguntes qué quieres realmente.
+Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca capricornio. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder capricornio pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias capricornio, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
+Podrías recibir un mensaje de un amante del pasado o de una de tus amistades de la universidad invitándote a volver a estar en contacto. No rechaces esta invitación, ya que podría salir mejor de lo que crees. La oportunidad de ponerte al día y, tal vez, de renovar la relación es una posibilidad real. Por otro lado, ten cuidado de no enviar señales confusas, porque una persona podría pensar que sientes algo por ella cuando en realidad solo intentas no ser descortés. A partir del viernes, tu hogar puede ser un refugio de paz y cuidado.
 
 ## Dinero
 
-Has tenido la intención de mejorar de alguna manera tanto tu vida laboral como monetaria, y este periodo ofrece la combinación ideal de energías para hacerlo. Es un buen momento para actualizar tu currículum y buscar un nuevo trabajo –si así lo deseas– o ganarte la atención de tus superiores para obtener mejores asignaciones. Ofrécete para voluntariamente trabajar en las que creas que son mejores y es probable que recibas un aumento.
+Un aspecto positivo le trae suerte a tu sector de educación, idiomas y espiritualidad. Últimamente has tenido tus ojos puestos en el horizonte, preguntándote cómo hacer que tus productos y servicios le lleguen a una audiencia internacional más amplia. Al considerar las medidas necesarias para ello, no descartes las ideas que parezcan locas. Puede que encuentres apoyo hasta en los lugares más extraños.

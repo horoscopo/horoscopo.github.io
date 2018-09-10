@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 03 de septiembre 2018 al 09 de septiembre 2018 
-description: Horóscopo semanal acuario 03 de septiembre 2018 al 09 de septiembre 2018. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: acuario 10 de septiembre 2018 al 16 de septiembre 2018 
+description: Horóscopo semanal acuario 10 de septiembre 2018 al 16 de septiembre 2018. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: 0z4CqF14nh0
+ video: WDnlE8t3Mp4
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-03'
+ lastmod: '2018-09-10'
 ---
 
 
 
-## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 
-Estás activo Cangrejo, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
-El Sol está en tu sector hogareño, por lo que disfruta de cuidar de ti y de poder consentir a tu cuerpo. Aprovecha al máximo esta oportunidad de pasar tiempo con tus personas más cercanas y también de darte gustos. Lo que puede ser particularmente importante son los conocimientos adquiridos como resultado de tomarte más tiempo para ti. A un nivel romántico, podrías decidir llevar una relación más lejos, aunque podría ser necesario volver a evaluar la situación entre ustedes dos para cuando llegue el final de la semana.
+Organízate acuario, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres acuario, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
+Tu vida social parece adoptar un tono nuevo y positivo, con amistades deseosas de verte tener éxito. Como en general sucede, la gente se siente feliz de pasar tiempo contigo, por lo que puede que recibas más invitaciones que nunca. También estás de suerte cuando se trata de romance. Mercurio en Libra a partir del Jueves te anima a hacerte cargo de problemas financieros y aliviar tu ansiedad como resultado. Por su parte, la Luna Llena en tu signo del Sábado te invita a soñar en grande.
 
 ## Dinero
 
-Ahora tienes el apoyo total del Universo para hacer dinero a través de cualquier cosa que implique el amor, las relaciones, la familia, los niños, y actividades divertidas. Son tus relaciones personales o profesionales las que te podrían ofrecer las mejores ideas para productos o servicios que les puedas ofrecer a tus clientes. Tienes más de una oportunidad para hacer que suceda.
+Esta semana es acerca de cierta emocionante pero intimidante actividad en tu sector de comunicaciones solicitándote que te vuelvas más profesional en tu forma de hablar. Aunque se sienta como algo tenso, es una excelente oportunidad para profundizar en las prácticas espirituales como la meditación y el yoga, especialmente si te ayudan a procesar nuevas ideas que pueden llegar a producirte más dinero.

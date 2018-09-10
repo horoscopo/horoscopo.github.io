@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 03 de septiembre 2018 al 09 de septiembre 2018 
-description: Horóscopo semanal libra 03 de septiembre 2018 al 09 de septiembre 2018. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad libra, ahora estás que lo partes.
+title: libra 10 de septiembre 2018 al 16 de septiembre 2018 
+description: Horóscopo semanal libra 10 de septiembre 2018 al 16 de septiembre 2018. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud libra, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: YFI046kmU60
+ video: NroJ0QGP1lI
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-03'
+ lastmod: '2018-09-10'
 ---
 
 
 
-## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad libra, ahora estás que lo partes.
+## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud libra, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 
-Cada día que pasa te das más cuenta de que mereces cosas buenas libra, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana libra.
-La presencia de Marte en tu sector doméstico puede llevarte a realizar cambios que vienes postergando. Es posible que enfrentarte a estos cambios te parezca una experiencia positiva. Lo que antes parecía abrumador podría parecer muy sencillo ahora y puede que lo resuelvas de inmediato. Más adelante, Júpiter se vuelve retrógrado en el sector superior de tu carta astral, por lo que tus esfuerzos para alcanzar una meta podrían no rendir frutos de inmediato, pero lo harán con el tiempo.
+Empieza a hacerte promesas a ti mismo libra, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura libra. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
+Tu vida amorosa podría dar un giro nuevo y sensual cuando Venus entra a Tauro, el sector más apasionado de tu carta astral, el martes. Puede que las próximas semanas sean una oportunidad para acercarte a esa persona especial y conocerse mucho más. Además, puede que te den ganas de viajar y que tengas deseos de explorar opciones de viajes cortos o unas vacaciones exóticas. Puede que tu vida profesional y tus responsabilidades también demanden atención, por lo que será fundamental que encuentres el equilibrio entre tu vida y tu trabajo.
 
 ## Dinero
 
-Esta semana tiene algunos cambios importantes para ti en las áreas de niños, romance y diversión. Si tu profesión es la enseñanza,  el romance de algún tipo o proveer risa de algún tipo, te ganarás mucho dinero en efectivo. Las profesiones que involucran hablar y escribir te enviarán a buenas situaciones.
+Si has estado buscando maneras de ganar más dinero, puedes encontrar que mirar hacia el pasado es la mejor manera de obtener buenos resultados esta semana. Esto se debe en parte a tu casa del dinero y valores. Busca antiguos puestos, compañeros de trabajo y habilidades para traer más dinero en efectivo, ya que podrías ser capaz de usarlos para conectar con conocidos de una época anterior en tu vida que pueden ayudarte a crear una cartera de inversiones para proteger tu futuro.

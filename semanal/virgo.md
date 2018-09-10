@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 03 de septiembre 2018 al 09 de septiembre 2018 
-description: Horóscopo semanal virgo 03 de septiembre 2018 al 09 de septiembre 2018. Semana de reflexión virgo, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya virgo. 
+title: virgo 10 de septiembre 2018 al 16 de septiembre 2018 
+description: Horóscopo semanal virgo 10 de septiembre 2018 al 16 de septiembre 2018. El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: b4I540kpXbk
+ video: Xhp4Pq_n1zI
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-03'
+ lastmod: '2018-09-10'
 ---
 
 
 
-## Semana de reflexión virgo, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya virgo. 
+## El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo virgo pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
- Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
-El martes podría surgirte una inspiradora idea, una que resuelva un problema personal o le agregue un tono creativo a un proyecto o plan. Al mismo tiempo, una cuestión podría ocupar tu atención a la exclusión de todo lo demás, sobre todo a mitad de semana. Puede que lo mejor sea que trates de mantener el ojo en otras cuestiones también. Al hacerlo no te perderás de nada. Por último, la Luna Llena del jueves te afectará menos si planeas un horario más ligero.
+Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
+Puede que un pulso interno más profundo sea la razón por la que contemplas situaciones clave y las razones que puede haber detrás. Un enfoque en un área más sensible de tu carta astral sugiere que las próximas semanas podrían ser tiempos de cambio, donde puede ser importante que dejes atrás aquellas cosas que no te hacen bien. Esto podría ser de gran ayuda si tienes un plan ambicioso en mente, ya que mientras menos bagaje emocional cargues, mejor para ti.
 
 ## Dinero
 
-Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.
+Este período se trata de las nuevas oportunidades que le llegan a tu vida laboral. El cielo es el límite en términos de lo que puedes esperar, pero el Universo no lo hará por ti. Debes estar a la búsqueda de maneras de aumentar tus ingresos, ya sea mediante la adición de un negocio secundario o aceptar trabajos independientes. Utiliza tu educación y tus viajes para salir con ideas para productos o servicios que vender.

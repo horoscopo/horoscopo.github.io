@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: aries 03 de septiembre 2018 al 09 de septiembre 2018 
-description: Horóscopo semanal aries 03 de septiembre 2018 al 09 de septiembre 2018. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+title: aries 10 de septiembre 2018 al 16 de septiembre 2018 
+description: Horóscopo semanal aries 10 de septiembre 2018 al 16 de septiembre 2018. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: hcQB00g9GLo
+ video: 1p8DoYcqQUo
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-03'
+ lastmod: '2018-09-10'
 ---
 
 
 
-## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 
-No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse aries, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo aries, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
-Si una cierta amistad parece estar obstinadamente firme en su postura, podría causar un choque de puntos de vista y valores a menos que puedas predisponerte a tener una conversación de corazón a corazón. Por otro lado, alguien cercano a ti puede no estar de acuerdo sobre un objetivo o ambición, y esto también puede requerir de un manejo cuidadoso; aunque puede salir bien si se toma el enfoque adecuado. La buena noticia es que Júpiter entra a tu sector de horizontes lejanos, y podrías ver un aumento en tus viajes y otro tipo de aventuras.
+Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
+ En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
+La presencia del conversador Mercurio en tu signo te lleva a analizar más en profundidad las situaciones y circunstancias que te rodean. De hecho, durante la semana puede desconcertarte o confundirte por completo una relación que te fascina y te asusta un poco al mismo tiempo. El jueves, una poderosa mezcla de energías que incluye al sociable Júpiter podría hacer que te encargues de una situación de una buena vez por todas. Puede que esto sea exactamente lo que necesitas para sentirte de forma más positiva.
 
 ## Dinero
 
-Esta semana trae ambos, suerte y sorpresas por igual a tu sector de dinero y valores. El Universo  expande tus oportunidades de ganar más dinero (e incluso tus ideas para hacerlo), mientras que trae destellos repentinos de intuición e ingenio. Puede que te sorprenda lo increíblemente útil que es la gente que conoces, incluso en las maneras más insignificantes. Te percatarás de que estas personas están dispuestas a ayudar de nuevo también.
+Esta semana tiene aspectos favorables que indican que estás buscando maneras de ganar dinero que emplean tus prodigiosas habilidades de comunicación y te darán más placer en general. Tus relaciones jugarán un papel importante esta semana. Entabla una conversación con un desconocido y es posible que te percates que tienen más en común de lo que pensaban.

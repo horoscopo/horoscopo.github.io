@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 03 de septiembre 2018 al 09 de septiembre 2018 
-description: Horóscopo semanal escorpio 03 de septiembre 2018 al 09 de septiembre 2018. No te mereces poco escorpio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+title: escorpio 10 de septiembre 2018 al 16 de septiembre 2018 
+description: Horóscopo semanal escorpio 10 de septiembre 2018 al 16 de septiembre 2018. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: 1LuCK6x3Iec
+ video: eFgVqlrqSdE
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-03'
+ lastmod: '2018-09-10'
 ---
 
 
 
-## No te mereces poco escorpio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 
-No más paciencia Capri. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres escorpio, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana Capri.
-La conexión Júpiter/Plutón manifestándose en tu sigo alcanza su punto culminante esta semana, así que prepárate para sacarle el máximo provecho a una situación o circunstancia que podría impulsarte hacia un mayor éxito. Si tienes disposición a hacer el trabajo preliminar ahora, podrías cosechar los frutos más tarde. Sería aconsejable actuar con calma el lunes, cuando la Luna Llena podría empujarte a hacer un juicio precipitado. ¡Evita movimientos impulsivos para ahorrarte una vergüenza! Por último, el actual enfoque en tu sector de relaciones podría ayudar a que una relación florezca.
+Esta semana va a estar cargada de altibajos escorpio, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre escorpio, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza escorpio, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite escorpio, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
+Las interacciones podrían tener un tono un poco nervioso, cuando te beneficiarás de tener honestidad en lugar de guardarte tus sentimientos. Las finanzas compartidas siguen vislumbrándose positivas, haciendo de esta una buena semana para darte un capricho y gastar en algunos lujos, especialmente si has estado trabajando duro. Opta por algo que realmente disfrutes incluso si es un poco caro. Saturno comienza a avanzar el Sábado, mejorando tu relación con una amistad clave e impulsando tu vida social en general.
 
 ## Dinero
 
-Ha pasado algo de tiempo desde que sentiste que se te paga lo que vales, pero eso puede cambiar pronto. Tú eres la estrella actual en tu trabajo, mostrando tus talentos y habilidades al máximo. Otros pueden ver en ti lo que quieren ver, casi como si fueras una pantalla de proyección de tamaño natural. Tienes todo el poder para pedir más dinero o construir un buen caso para tu eventual promoción.
+Eres una mariposa social esta semana. Has pasado tanto tiempo conociendo nuevos amigos, colegas, mentores y clientes que es posible que hayas excedido tu presupuesto de gastos. No te preocupes tanto, déjalo ir, sólo por esta vez. A pesar de que el gasto excesivo no es un buen hábito que cultivar, eres lo suficientemente inteligente como para saber cuando decir basta. Además, es posible que termines trabajando con muchas de estas personas, lo cuál es una buena inversión en tu futuro financiero.
