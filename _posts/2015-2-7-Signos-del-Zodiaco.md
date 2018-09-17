@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de septiembre 2018
-description: Horóscopos del dia de hoy 16 de septiembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de septiembre 2018
+description: Horóscopos del dia de hoy 17 de septiembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-09-16
+ lastmod: 2018-09-17
 ---
-Préstale mucha atención a todo lo que está sucediendo. Lo que no es fácil de hacer con las distracciones de hoy. Tendrías sabiduría en tomar nota sobre lo que sientes que es importante. Esta noche, los sentimientos son lastimados fácilmente cuando la Luna cuadra a Plutón. Comportarte cálida, cariñosa, sabia y gentilmente; además de tener real sinceridad. La dulzura artificial no está permitida. 
+Las cosas se quedan colgando en el aire durante la Luna fuera de curso, un aspecto que les cierra la puerta a temas incómodos. Poderosas emociones surgen con la Luna cuadrando a Marte esta noche, cuando podrías no saber qué hacer después. En caso de duda, busca un déjà vu. Ya has estado en esta situación antes.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
