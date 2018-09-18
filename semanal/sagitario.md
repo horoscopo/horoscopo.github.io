@@ -1,32 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 10 de septiembre 2018 al 16 de septiembre 2018 
-description: Horóscopo semanal sagitario 10 de septiembre 2018 al 16 de septiembre 2018. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+title: sagitario 17 de septiembre 2018 al 23 de septiembre 2018 
+description: Horóscopo semanal sagitario 17 de septiembre 2018 al 23 de septiembre 2018. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: 8y9_Gsm3HLQ
+ video: Ng0LX_4HkAA
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-10'
+ lastmod: '2018-09-17'
 ---
 
 
 
-## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 
-Quieres sonreír cuando pase el tiempo y sobretodo no quedarte con las ganas por no haber hecho lo que sentías. No te encierres en lo que debes o no debes hacer sagitario, ahora simplemente fluye… Con la vida, con tus amigos, con tu gente, con los que quieres… 
-porque así es como la vida te acaba compensando con nuevas bienvenidas.
-El martes trae consigo una luna llena en tu signo, lo que podría convertirte en el centro de atención. Tus sentimientos podrían estar en la superficie y tal vez sea más sencillo expresarlos que guardártelos. Sin embargo, esta fase lunar podría animarte a hablar con máxima honestidad, lo que puede afectar a aquellos que son más sensibles. Si debes discutir algo importante, trata de hacerlo de la manera más gentil y cuidadosa posible.
-También el martes, el interactivo Mercurio se une al sol en tu sector de relaciones. Su presencia aquí podría impulsarte a buscar los compromisos y demostrar más diplomacia.
-El viernes, una encantadora conexión entre el delicioso Venus y el jovial Júpiter, tu planeta regente, podría coincidir con un encuentro muy conmovedor con un ser querido que mejore su intimidad de una hermosa manera. 
-Por último, es posible que puedas obtener un dinero extra si escuchas a tus instintos.
+A veces amas demasiado sagitario, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar sagitario, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. sagitario, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. sagitario, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos sagitario, y siente… Feliz semana…
+Tu enfoque parece estar en cómo podrías avanzar en la vida y los pasos que tengas que tomar para hacerlo. La Luna Creciente de esta semana podía inyectarle lógica e instinto a la ecuación del proceso de toma de decisiones. Esta semana podría ser un punto crucial por otra razón debido a Saturno finalmente avanzando directamente en tu signo después de estar retrógrado durante unos meses. Además, Marte ahora en tu signo puede ayudarte a sentir más confianza para abordar planes que hace poco parecían un tanto desalentadores.
 
 ## Dinero
 
-Esta semana, ciertos planetas se enfrentan en el cielo, cada uno ejerciendo su propia influencia. Su actividad cae en el sector de tu gráfico asociado con cambios de imagen. Es posible que estés cambiando tanto, que puede que no seas capaz de mantenerte al día con ello. Todo es por una buena causa - es decir, tu imagen.
+Esta semana se trata de alguien que conoces probablemente dirigiéndote a un mal camino o distrayéndote mucho de tus metas monetarias o laborales dificultando tu balance. No puedes evitar ser irresistible, pero bien puedes utilizar la energía del Universo a mitad de semana. Tu atención debe estar en la eliminación de viejas deudas.

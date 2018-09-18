@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 10 de septiembre 2018 al 16 de septiembre 2018 
-description: Horóscopo semanal geminis 10 de septiembre 2018 al 16 de septiembre 2018. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+title: geminis 17 de septiembre 2018 al 23 de septiembre 2018 
+description: Horóscopo semanal geminis 17 de septiembre 2018 al 23 de septiembre 2018. Tienes que empezar a dejar que el resto luche por tu geminis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: MDOV448P-gk
+ video: jtxfhSahL1A
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-10'
+ lastmod: '2018-09-17'
 ---
 
 
 
-## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+## Tienes que empezar a dejar que el resto luche por tu geminis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 
-Esta semana tienes que tomarte las cosas con más calma geminis. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
- Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse.
-Cualquier decisión que necesites tomar podría ocurrir de forma bastante natural esta semana conforme se desarrollan ciertos eventos. Cambios en el frente doméstico podrían emocionarte con respecto a la posibilidad de un nuevo comienzo. Esto podría relacionarse con una mudanza, adquirir o vender propiedades, o redecorar o remodelar tu casa. Lo importante es dar ese primer paso y todo lo demás se acomodará en su lugar. Pero también estarás buscando opciones de ocio y placer para relajarte y descansar, lo que puede ser restaurador.
+Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte geminis, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo geminis, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande geminis pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+Podrías ser el centro de atención a partir del martes, momento en el que el sol ingresa a tu sector de metas y ambiciones. Las próximas cuatro semanas podrían encontrarte apuntando alto y con ganas de avanzar con tus planes. Como esta también es una semana ocupada socialmente, puede que elijas viajar y disfrutar de esta energía con amistades y familiares que vienen desde lejos. Esto debería ser algo que disfrutarás mucho. Por último, a medida que el etéreo Neptuno se vuelve directo a mediados de la semana, una situación podría esclarecerse.
 
 ## Dinero
 
-Esta semana te diriges a un periodo de introspección, tanto literal como metafóricamente. Esto se debe a ciertos aspectos que afectan tu sector de hogar físico y profundas emociones internas. La forma en la que cuidas de ti mismo/a está en enfoque ahora. Debes decidir si llevas un poco de trabajo a casa o incluso establecer una oficina en ella que te permita hacer más con menos distracciones. El dinero procede a estos esfuerzos.
+Tienes una situación muy interesante esta semana conforme aspectos celestiales te presionan a tener una mayor productividad. La actividad en tu sector asociado con viajes al extranjero, la metafísica y la educación superior te empuja a ampliar tu negocio en territorio desconocido. Haz que ocurra este año y estarás cosechando los beneficios el próximo año.

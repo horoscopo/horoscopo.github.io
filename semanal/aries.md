@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: aries 10 de septiembre 2018 al 16 de septiembre 2018 
-description: Horóscopo semanal aries 10 de septiembre 2018 al 16 de septiembre 2018. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: aries 17 de septiembre 2018 al 23 de septiembre 2018 
+description: Horóscopo semanal aries 17 de septiembre 2018 al 23 de septiembre 2018. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: 1p8DoYcqQUo
+ video: ionHw7oXrWc
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-10'
+ lastmod: '2018-09-17'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## 
 
-Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
-La presencia del conversador Mercurio en tu signo te lleva a analizar más en profundidad las situaciones y circunstancias que te rodean. De hecho, durante la semana puede desconcertarte o confundirte por completo una relación que te fascina y te asusta un poco al mismo tiempo. El jueves, una poderosa mezcla de energías que incluye al sociable Júpiter podría hacer que te encargues de una situación de una buena vez por todas. Puede que esto sea exactamente lo que necesitas para sentirte de forma más positiva.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega aries. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+Tus palabras tienen poder esta semana, así que trata de usarlas con sabiduría. Aun así, esto puede ser más fácil dicho que hecho. El Eclipse Lunar de esta semana podría sacar ciertos sentimientos hacia la superficie, animándote a decir las cosas como son incluso si hacerlo le resulta ciertamente molesto a alguien. Mientras que aclarar las cosas puede ser liberador, podrías dañar una amistad si actúas sin tomar en cuenta sus sentimientos. Si se trata de una vieja relación, vale la pena invertir tiempo para solucionar el problema.
 
 ## Dinero
 
-Esta semana tiene aspectos favorables que indican que estás buscando maneras de ganar dinero que emplean tus prodigiosas habilidades de comunicación y te darán más placer en general. Tus relaciones jugarán un papel importante esta semana. Entabla una conversación con un desconocido y es posible que te percates que tienen más en común de lo que pensaban.
+Puede que estés creando más tiempo en tu vida y más espacio en tu hogar para darle cabida a tus más recientes proyectos. Si querías crear desde tu casa, ya sea escribiendo un libro, desarrollando un curso de enseñanza en línea, o la venta de bienes raíces, este es el momento para empezar. Dale seguridad a tu plan con inversiones sólidas en instituciones de confianza.

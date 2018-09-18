@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 10 de septiembre 2018 al 16 de septiembre 2018 
-description: Horóscopo semanal tauro 10 de septiembre 2018 al 16 de septiembre 2018. Estás a tope tauro, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: tauro 17 de septiembre 2018 al 23 de septiembre 2018 
+description: Horóscopo semanal tauro 17 de septiembre 2018 al 23 de septiembre 2018. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: qKC9q0FH814
+ video: bloXHco2ePQ
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-10'
+ lastmod: '2018-09-17'
 ---
 
 
 
-## Estás a tope tauro, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 
-Te van a echar de menos tauro, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio tauro, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
-Ciertos asuntos monetarios podrían estar sujetos a demoras. Puede que tengas que seguirle la corriente a la situación, sobre todo si gastos inesperados aparecen o un pago no se materializa. Aun así, esto podría ponerte a pensar en formas sobre cómo mejorar ciertas cosas y lograr que tu dinero te rinda más. El Jueves, una intensa influencia podría hacerte ver un lado de alguien que nunca has visto antes, lo que podría ser un poco desconcertante. Aun así, rodearte de la compañía adecuada puede ayudarte a relajarte y recargar baterías.
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo tauro. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que tauro estalla, nadie se salva.
+No tomes tan en serio la vida que se te olvide lo alegre que tu verdadera naturaleza puede ser cuando recibe aliento. Si has tenido una gran cantidad de responsabilidades con las que lidiar últimamente, podría ser momento para relajarte y buscar un poco de diversión. La Luna Llena en tu signo del Martes es perfecta para fiestas y celebraciones. Con la alineación actual, es posible que sientas algo de impaciencia a la espera de aventuras de viaje y otras oportunidades para salir a explorar.
 
 ## Dinero
 
-Lo más probable es que seas alguien muy organizado con su dinero. Lo llevas en la sangre. Incluso si tu mantenimiento de registros no es el mejor, es probable que lo lleves todo en tu cabeza. Tienes una oportunidad única, aparentemente de la nada, para llevar tu trabajo a casa de algún modo. Es un buen momento para establecer un negocio basado en tu hogar o incluso hacer de la construcción o la decoración de casas tu nuevo trabajo. ¡Usa tus habilidades para obtener los mejores resultados!
