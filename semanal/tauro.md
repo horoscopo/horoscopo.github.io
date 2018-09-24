@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 17 de septiembre 2018 al 23 de septiembre 2018 
-description: Horóscopo semanal tauro 17 de septiembre 2018 al 23 de septiembre 2018. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: tauro 24 de septiembre 2018 al 30 de septiembre 2018 
+description: Horóscopo semanal tauro 24 de septiembre 2018 al 30 de septiembre 2018. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: bloXHco2ePQ
+ video: hJtR7NSrjlw
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-17'
+ lastmod: '2018-09-24'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 
-Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo tauro. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que tauro estalla, nadie se salva.
-No tomes tan en serio la vida que se te olvide lo alegre que tu verdadera naturaleza puede ser cuando recibe aliento. Si has tenido una gran cantidad de responsabilidades con las que lidiar últimamente, podría ser momento para relajarte y buscar un poco de diversión. La Luna Llena en tu signo del Martes es perfecta para fiestas y celebraciones. Con la alineación actual, es posible que sientas algo de impaciencia a la espera de aventuras de viaje y otras oportunidades para salir a explorar.
+A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez tauro. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona tauro, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
+El sol en tu sector de ocio y placer te lleva a involucrarte en pasatiempos o actividades deportivas que disfrutas. La luna llena del jueves podría coincidir con una fiesta de Halloween u otra celebración y es excelente para juntar a tu gente y pasarla fenomenal. La presencia interactiva de Mercurio en Escorpión podría inspirarte a conectar con un potencial pretendiente y romper el hielo empezando una conversación. ¡Cosas buenas pueden suceder como resultado!
 
 ## Dinero
 
+Estás a punto de tomar ventaja de algunas nuevas oportunidades en el trabajo y los negocios. El Universo destaca tu sector que rige el dinero y los valores, por lo que no sólo vas a ser capaz de ganar más, sino que también lo usarás racionalmente. Esto puede significar que inviertas en tu futuro mediante la financiación de un nuevo negocio, o encuentres un millón de nuevas formas de recaudar más dinero.

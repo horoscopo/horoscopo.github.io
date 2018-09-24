@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 17 de septiembre 2018 al 23 de septiembre 2018 
-description: Horóscopo semanal acuario 17 de septiembre 2018 al 23 de septiembre 2018. Quita importancia a las cosas acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+title: acuario 24 de septiembre 2018 al 30 de septiembre 2018 
+description: Horóscopo semanal acuario 24 de septiembre 2018 al 30 de septiembre 2018. Del 27 Noviembre al 3 de Diciembre de 2017
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: JE1pCJwOk1M
+ video: zTjQGk4yaAw
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-17'
+ lastmod: '2018-09-24'
 ---
 
 
 
-## Quita importancia a las cosas acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+## Del 27 Noviembre al 3 de Diciembre de 2017
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos acuario así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar acuario, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
-Confía en tu intuición: tus amistades y colegas valoran tu sensibilidad. Una nueva idea o instrucción que te inspira podría levantarte el ánimo. El cosmos sugiere que deberías ser audaz y no tener miedo de probar algo distinto. Podrías descubrir que la buena suerte o la bondad de los demás te brindan toda la valentía que necesitas. Cuando el encantador Venus se opone a Marte el jueves, podrías descubrir que sientes una instantánea atracción por alguien que está en un cargo de autoridad. Ve con calma y aguarda a que llegue el momento justo. Tal vez no sea bueno mostrar tus sentimientos demasiado pronto. 
-El ingreso del sol a Cáncer el mismo día puede preparar el camino para una mejor comunicación, ya que tus habilidades de escucha estarán en su punto máximo. Existe la posibilidad de que alguien se moleste más adelante en la semana, pero con un pensamiento inteligente, tal vez puedas darle un giro a la situación. Trata de no tomar las crítica de alguien demasiado en serio el fin de semana. 
+Ojalá pudiéramos tener un botón de reinicio en la vida acuario, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
+La presión podría estar relacionada con tu trabajo o algo de tu rutina diaria. Durante los próximos días, una situación podría llegar a un punto crítico que requiera de un manejo hábil. Evita enojarte o provocar una discusión, ya que esto podría empeorar las cosas. Puede que sientas como si estuvieras caminando sobre arenas movedizas, pero es vital que trates de dirigir esto hacia un camino positivo. De hecho, tener diplomacia realmente podría serte muy útil. Desde el viernes, tómate algo de tiempo para recargar baterías, si te es posible.
 
 ## Dinero
 
-Es una semana emocionante. Las invitaciones sociales y profesionales son la norma actual, por lo que acostúmbrate a hacer malabares con más de una al día. No esperes que tus sentimientos estén en silencio. Puedes tener problemas al tratar de equilibrar el trabajo y el hogar, o simplemente te encuentras harto/a de la misma vieja rutina. No es suficiente con simplemente ganar dinero ahora. Tienes que experimentar lo que éste puede hacer por ti en términos de tiempo.
+Tienes emoción de hacer nuevos y grandes contactos. Hagas lo que hagas para ganarte la vida, verás que es mucho más fácil el llevarse con amigos. El pedir ayuda a un mentor de confianza o simplemente presentarte a alguien que siempre ha sido una inspiración para ti es un gran uso de la energía actual. Algunos de estos mentores se pueden encontrar entre tus hijos, familiares y socios creativos.

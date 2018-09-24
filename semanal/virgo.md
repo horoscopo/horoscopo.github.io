@@ -1,28 +1,31 @@
 ---
 layout: horoscopos
-title: virgo 17 de septiembre 2018 al 23 de septiembre 2018 
-description: Horóscopo semanal virgo 17 de septiembre 2018 al 23 de septiembre 2018. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+title: virgo 24 de septiembre 2018 al 30 de septiembre 2018 
+description: Horóscopo semanal virgo 24 de septiembre 2018 al 30 de septiembre 2018. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya virgo. Muévete o haz que se mueva el resto.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: xYzzd0X8zZQ
+ video: C-teKJaqg-w
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-17'
+ lastmod: '2018-09-24'
 ---
 
 
 
-## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya virgo. Muévete o haz que se mueva el resto.
 
-Hay gente que no respeta que puedas crecer Sagi, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los virgo pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Sagi, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
-Puede que esta semana un espíritu festivo te invada con fuerza mientras que el despreocupado Venus y el extravagante Júpiter conectan en tu sector social. Es una oportunidad para organizar una reunión o disfrutar de asistir a fiestas y eventos. Si te estás preparando para un evento que sucederá la próxima semana, escribir una lista de tareas puede ser muy útil. Con el fantasioso Neptuno en la escena, podrías olvidarte de algo importante. Si puedes, sería prudente evitar una discusión el fin de semana.
+Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
+así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final.
+Estarás en tu elemento con el sol en tu signo, seguido del inquisitivo Mercurio el martes. Los próximos días y semanas te brindan la oportunidad de analizar cuestiones que consideras importantes, en especial si nunca has hablado de ellas antes. Estas influencias pueden ser muy inspiradoras para tu vida. Pueden animarte a comenzar un plan o proyecto profundamente significativo para ti, y hacerlo te brinda una gran satisfacción. 
+Además, la luna llena en tu sector de relaciones el martes podría sacar a la superficie ocultos sentimientos. Esta puede ser la ocasión perfecta para relajarse, pero es útil hacerlo de la manera más sensible y compasiva posible.
+La última parte de la semana podría encontrarte dándote algunos gustos relacionados con las compras, un masaje u otro mimo. Esto te ayuda a relajarte, así que disfruta cada momento.
 
 ## Dinero
 
-Es crucial no aceptar la palabra de todos por ahora, sino más bien descubrir por ti cuál podría ser el mejor plan para tu dinero. Los vehículos de inversión pueden ser confusos, por lo que cuenta con la ayuda de un asesor financiero calificado que pueda ayudarte a solucionar las ecuaciones numéricas y lograr que todo se haga. Mientras tanto, el Universo añade un poco de emoción.
+Te enfrentas a algunos retos cuando se trata de tu vida hogareña y emociones internas. Es posible que te preocupe el ser capaz de pagar por tu estilo de vida o incluso mantener tu casa. Pero con un Universo armonioso, serás capaz de refinanciar, recaudar fondos adicionales, o pedir un préstamo si es necesario. Es un momento afortunado, así que no dejes que la timidez te detenga.

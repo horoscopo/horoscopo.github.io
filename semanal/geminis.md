@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 17 de septiembre 2018 al 23 de septiembre 2018 
-description: Horóscopo semanal geminis 17 de septiembre 2018 al 23 de septiembre 2018. Tienes que empezar a dejar que el resto luche por tu geminis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+title: geminis 24 de septiembre 2018 al 30 de septiembre 2018 
+description: Horóscopo semanal geminis 24 de septiembre 2018 al 30 de septiembre 2018. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: jtxfhSahL1A
+ video: dc7TClDp6p4
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-17'
+ lastmod: '2018-09-24'
 ---
 
 
 
-## Tienes que empezar a dejar que el resto luche por tu geminis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+## En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 
-Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte geminis, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo geminis, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande geminis pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
-Podrías ser el centro de atención a partir del martes, momento en el que el sol ingresa a tu sector de metas y ambiciones. Las próximas cuatro semanas podrían encontrarte apuntando alto y con ganas de avanzar con tus planes. Como esta también es una semana ocupada socialmente, puede que elijas viajar y disfrutar de esta energía con amistades y familiares que vienen desde lejos. Esto debería ser algo que disfrutarás mucho. Por último, a medida que el etéreo Neptuno se vuelve directo a mediados de la semana, una situación podría esclarecerse.
+A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada geminis. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No geminis, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres geminis, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas geminis pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
+Evita tomar decisiones importantes a principios de la semana, ya que podrías carecer de información importante. Investigar tus opciones te llevará a hacer una buena elección. El romance podría aparecerse mientras te encuentres en un viaje o en un entorno académico. Aun así, podría requerir de algo de tiempo para convertirse en una relación cercana e íntima. El fin de semana trae consigo momentos emocionantes conforme te surge la oportunidad de poner un plan a prueba. Es posible que hacerlo te catapulte a un nuevo nivel de éxito como resultado.
 
 ## Dinero
 
-Tienes una situación muy interesante esta semana conforme aspectos celestiales te presionan a tener una mayor productividad. La actividad en tu sector asociado con viajes al extranjero, la metafísica y la educación superior te empuja a ampliar tu negocio en territorio desconocido. Haz que ocurra este año y estarás cosechando los beneficios el próximo año.
+Esta es una buena semana para ti. Tu belleza se denota por dentro y por fuera, y tienes los medios y la inspiración para cambiar lo que hay que abordar. En resumen, tienes cierto magnetismo. Atraerás oportunidades para ganar más, influir en los demás, y lograr que tus necesidades financieras se solucionen de una gran forma. Aprovecha esta energía mientras te apoya.
