@@ -1,0 +1,26 @@
+---
+layout: amp
+title: sagitario hoy gratis 26 de septiembre del 2018 
+permalink: /horoscopo-diario-gratis/amp/sagitario/
+normallink: /horoscopo-diario-gratis/sagitario/
+home: FALSE
+horoscopo:
+ signo: sagitario
+ video: 1RsbAPwTa_8
+
+ogimg: /images/sagitario_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Oleadas poderosas erráticas e inesperadas están produciendo un disturbio en tu mundo de emociones escondidas y secretos. Te puede resultar difícil manejar estos temas simplemente porque sientes vergüenza y tienes dudas de discutirlo con otros. Usa el poder de la alineación celestial de hoy para encontrar la forma de expresarte - ya sea de manera creativa, romántica o en la pista de baile. Hay mucho mejores maneras de usar tu tremenda energía que mantenerla escondida en tu interior.
+
+## Amor
+
+Los planetas del amor son a veces tan poderosos que pueden provocar lo impredecible. Hoy recuerda detenerte y oler las flores y disfruta de las pequeñas cosas de la vida. Con la persona adecuada, tu alegría vital puede llegar a ser muy emocionante. Permite a esa persona especial que devuelva la emoción a tu vida.
+
+## Trabajo
+
+Trata de no criticar demasiado el trabajo de otra persona. Es posible que pienses que es incorrecto simplemente porque no lo entiendes del todo. Tómate tu tiempo y haz preguntas antes de arribar a la conclusión de que el trabajo se ha realizado de manera incorrecta. Podrías aprender algo.
