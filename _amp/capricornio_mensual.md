@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
- video: MegGre2CXfA
+ video: -nrBk9U7VNQ
 
 ogimg: /images/capricornio_char.png
 sitemap:
@@ -15,9 +15,9 @@ sitemap:
 ---
 
 
-Sept. de 2018 - Saturno se torna directo el 6 de septiembre, luego de haber estado retrógrado desde el 17 de abril. Sé una persona más disciplinada, sin ser cruel contigo. 
-La luna nueva del día 9 podría abrir las puertas de par en par para un asunto que ha estado trabado durante mucho tiempo. Tal vez no sea un asunto grande, pero podría ser importante para ti. Si es así, no dudes, ni te contengas las ganas de hacer algo. No serás quien empiece nada. Simplemente, sucederá. 
-Reduce el estrés y encuentra un ritmo más saludable y feliz en tu trayectoria profesional o imagen pública durante la luna llena del 24 de septiembre. Relájate, y dale con menos fuerza a un objetivo o ambición. Es posible esforzarte demasiado y obtener menos resultados. Por ahora, intenta un toque suave. 
-El sol forma una cuadratura con Saturno el día 25. Ahora ponte el cinturón, y toma el control de un proyecto difícil. Sé fuerte, realista y ten respeto. 
-Días destacados: 8, 17, 27
-Días desafiantes: 10, 23
+Oct. de 2018 - El 5 de octubre, Venus se torna estacionario retrógrado en Escorpión. El amor se vuelve más serio y menos demostrativo, lo que te sienta bien. Explora las profundidades de una relación, pero trata de posponer cualquier compromiso firme hasta después de que Venus se torne directo el 16 de noviembre. 
+La luna nueva del día 8 podría traer una oportunidad profesional o social que mejore tu vida considerablemente. Además, puede ser un gran beneficio para otras personas. Cree en ti, sé realista (como siempre), y haz lo que puedas. Ahora puedes lograr muchas cosas. 
+ La luna forma una conjunción con Saturno el 14 de octubre. Ten más autoridad y hazte cargo de un asunto que ha estado atascado. 
+Únete a un grupo de baile, club de jardinería o certamen de poesía cuando la luna está llena el 24 de octubre, y conocerás a muchas personas nuevas. Profundas amistades pueden llegar después (o no), pero igual será divertido. Mantén en privado tus intereses más excéntricos hasta entonces. 
+Días destacados: 12, 19, 24
+Días desafiantes: 11, 29

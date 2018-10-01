@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
- video: e2r5JuvevCQ
+ video: J4WXZtkUejg
 
 ogimg: /images/tauro_char.png
 sitemap:
@@ -15,10 +15,10 @@ sitemap:
 ---
 
 
-Sept. de 2018 - Venus forma una cuadratura con Marte el 8 de septiembre. El amor y la pasión pueden no estar en la misma página ese día. Ahora una relación podría sufrir sacudones o tropiezos. No te precipites. 
-Alrededor de la luna nueva del día 9, podrías conformarte perfectamente con entretenerte por tu cuenta. Sin embargo, puede que amistades y familiares más jóvenes quieran sumarse. Eso está bien, pero no es tu trabajo brindar las aventuras. 
-Venus también ingresa a Escorpión el 9 de septiembre. El amor podría coquetear con la idea de correr riesgos. Tu inclinación por la popularidad podría ponerse picante y más seria. 
-Venus forma una oposición con Urano el día 12. No tienes que explorar o experimentar en este momento. Ya sabes lo que quieres. 
-La luna llena del 24 de septiembre es perfecta para ajustar tu dieta o alguna rutina diaria. Incluso un pequeño cambio ahora hará una gran mejora. Siéntete feliz y con poder, sin criticar a los demás. 
-Días destacados: 3, 12, 17
-Días desafiantes: 6, 27
+Oct. de 2018 - El 5 de octubre, Venus se torna retrógrado en Escorpión. El amor podría volverse más emocionante (o incluso travieso), cuando es época de secretos románticos. Evita asumir compromisos importantes en las relaciones hasta que la fase retrógrada termine el 16 de noviembre. 
+¿Necesitas que alguien te cuide, o eres tú quien prefiere cuidar de alguien? Durante la luna nueva del día 8, alguien puede querer cuidar de ti, aunque sea un poco. Es una muestra de amor, no un juego de poder. 
+El romance vendrá al rescate con la luna llena del 24 de octubre. Incluso si se te antoja algo peculiar o fuera de lo común, tu pareja estará feliz de complacerte. Si estás buscando amor, está justo a la vuelta de la esquina. 
+El sol forma una conjunción con Venus el día 26. Un asunto romántico podría al fin resolverse al volverse el centro de atención. 
+Venus retrógrado entra a Libra el 31 de octubre, cuando las personas podrían ser más agradables de lo que realmente intentan o quieren ser. 
+Días destacados: 6, 11, 28
+Días desafiantes: 17, 31

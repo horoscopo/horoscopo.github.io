@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: hvouizuEnAo
+ video: oTOPKe3tAY8
 
 ogimg: /images/cancer_char.png
 sitemap:
@@ -15,10 +15,11 @@ sitemap:
 ---
 
 
-Sept. de 2018 - La luna está en Cáncer cuando Saturno se torna estacionario directo el 6 de septiembre. La luna ahora también forma una oposición con Marte. Puede importarte mucho tu familia u hogar sin preocuparte demasiado. 
-Ponte jovial y más alegre con tus amistades y personas del vecindario durante la luna nueva del día 9. Jugar juegos de fantasía y construir castillos en el aire podría ser muy divertido. 
-La luna forma una conjunción con Júpiter el 13 de septiembre. Algunas personas pueden tener problemas con este día tan emocional, pero tú lo sentirás como natural y afortunado. 
-El sol entra a Libra, y la luna en Piscis forma una cuadratura con Venus en Escorpión el día 22. El otoño comienza de la forma más bondadosa. Disfruta más de tus contactos sociales. 
-Diviértete en casa durante la luna llena del 24 de septiembre. Termina un proyecto o modificación, y siente la victoria, satisfacción y orgullo. No te estás escondiendo en un caparazón. Estás glorificando lo que amas. 
-Días destacados: 4, 23, 27
-Días desafiantes: 8, 25
+Oct. de 2018 - El 2 de octubre, la luna creciente en Cáncer forma un trígono con Venus. Completa algo que realmente amas, o pasa más tiempo con una amistad especial o pareja. 
+Venus se torna retrógrado el día 5. Puede parecer que las personas están menos conectadas a nivel emocional, pero eso no es verdad. Es simplemente que ahora los sentimientos están más cubiertos. 
+Con la luna nueva del 8 de octubre, podrías tener las respuestas para las preguntas de un miembro de la familia. Primero deja que busquen consejo. Si no lo hacen, disfruta de la comida que compartan amantener una conversación ligera. 
+Mercurio forma una conjunción con Venus el día 15. Puede que sea más fácil para alguien encontrar una buena forma de hablar sobre cómo se siente en verdad. 
+Diviértete mucho con la luna llena del 24 de octubre. Juega y sé audaz junto a un pequeño grupo de gente de confianza, o sal a la calle y ten una aventura loca y salvaje. 
+El sol forma una conjunción con Venus el día 26. Pórtate bien, y no juegues sucio. 
+Días destacados: 1, 10, 28
+Días desafiantes: 13, 31

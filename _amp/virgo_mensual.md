@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: 46fuX8T8ows
+ video: YN0doiRHdWo
 
 ogimg: /images/virgo_char.png
 sitemap:
@@ -15,10 +15,11 @@ sitemap:
 ---
 
 
-Sept. de 2018 - Mercurio entra a Virgo el 5 de septiembre. Vuelve tu atención a todas aquellas pequeñas cosas favoritas que has dejado de lado, que harán que tu vida sea mucho mejor. 
-La luna nueva del día 9 está llena de sueños e ilusiones. Si piensas antes de hablar y actuar, será más fácil separar las ilusiones de la realidad. Tus primeras impresiones son buenas, así que confía en ellas. 
-El sol forma una conjunción con Mercurio el 20 de septiembre. Ahora confía en tus instintos más que en tu intelecto. El corazón tiene su propia sabiduría. 
-El sol sale de Virgo y entra a Libra al comienzo del otoño el día 22. La vida social y las comodidades ganan un poco más de prioridad. La vida diaria puede volverse más agradable y aún así mantenerse organizada y armoniosa. 
-Gasta dinero de forma prudente durante la luna llena del 24 de septiembre. Debes preservar, reparar o mantener algo que es importante para ti. Los valores ajenos son secundarios. Puede que los demás solo vean las cosas de forma diferente. 
-Días destacados: 3, 16, 23
-Días desafiantes: 23, 30
+Oct. de 2018 - Venus se torna retrógrado el 5 de octubre. El amor podría volverse un poco más serio y menos trivial, lo que para ti está bien. 
+Durante la luna nueva del día 8, gasta tu dinero en tu propio bienestar. Únete a un gimnasio o suscríbete para recibir productos naturales de una granja local. Piensa en más arándanos y menos chispas de chocolate (no ninguna, simplemente menos). 
+El 9 de octubre, Mercurio sale de Libra y entra a Escorpión. Si sientes que has estado saliendo mucho de fiesta, es ahora cuando puedes calmarte un poco. 
+Mercurio forma una conjunción con Venus el día 15. Relájate un poco y habla sobre asuntos que eran difíciles de abordar hace unos días. 
+¿Quieres limar asperezas con una amistad, o llegar a mejores términos con alguien del vecindario? Hazlo durante la luna llena del 24 de octubre. Puedes encantar incluso a la persona más difícil, y hacerlo de corazón. 
+Mercurio entra a Sagitario el día 30. Socializa más, y conoce mejor a las personas que te rodean. 
+Días destacados: 7, 12, 29
+Días desafiantes: 10, 19

@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo octubre, horoscopos en español, horóscopo escorpio octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
- video: XZy5lqm84iI
+ video: FyBSsM0iHws
 
 ogimg: /images/mes/escorpio_mes.png
 sitemap:
@@ -17,10 +17,10 @@ sitemap:
 ---
 
 
-Sept. de 2018 - Con la luna nueva el 9 de septiembre, relájate y haz un poco el ridículo. No serás la única persona haciendo esto. Es probable que te rías mucho viendo payasadas a tu alrededor. 
-El sol forma un trígono con Plutón el día 11. Una demora inesperada o cambio de situación podría fácilmente salir a tu favor. 
-El 23 de septiembre, el trígono que Mercurio forma con Marte te permite encontrar la mejor forma de expresar un mensaje u opinión importante. Sé una persona honesta y directa, no agresiva. 
-Podrías volverte el refugio de alguien durante la luna llena del día 24. Tal vez simplemente sea un tema de comunicación con alguien que está lejos y te echa de menos. Recuerda conservar tu energía. Respeta tu propio espacio personal y emocional. Es bueno estar disponible incluso si no es posible ayudar de forma directa. 
-Plutón se torna directo el 30 de septiembre, luego de haber estado retrógrado desde el 22 de abril. Ten seguridad y duda menos de ti. 
-Días destacados: 1, 10, 27
-Días desafiantes: 5, 8
+Oct. de 2018 - Venus se torna retrógrado en Escorpión el 5 de octubre. El amor se vuelve incluso más serio, misterioso y profundo. Puede que quieras entrar de cabeza en una relación, pero posponer los compromisos formales hasta después del 16 de noviembre es tu mejor opción. 
+Los momentos personales de tranquilidad son de gran importancia durante la luna nueva del día 8. Vuelve a entrar en contacto con tus propios pensamientos e impresiones internas y profundas. No importa si tienes mucho qué hacer, pon en tu agenda más tiempo libre para ti. 
+El 10 de octubre, Mercurio forma una oposición con Urano. Tu intuición funciona perfectamente sin saber todo antes de tiempo. 
+Cuando el sol forma una cuadratura con Plutón al día siguiente. Tienes derecho a tener algunas inseguridades. Sin embargo, no te paralices, en cambio, haz algunos cambios y mejoras. 
+Puedes correr, pero no puedes esconderte de la luna llena del 24 de octubre. Irradias encanto, y las personas te encontrarán. Quieren agradarte sin importar cómo te sientas o qué hagas. Alguien totalmente inesperado podría acercarse a ti. 
+Días destacados: 13, 18, 27
+Días desafiantes: 2, 10

@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo octubre, horoscopos en español, horóscopo libra octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
- video: XUojMMA-6u8
+ video: yLYSON1G0Sk
 
 ogimg: /images/mes/libra_mes.png
 sitemap:
@@ -17,11 +17,11 @@ sitemap:
 ---
 
 
-Sept. de 2018 - El sextil que Mercurio forma con Venus el 3 de septiembre puede transformar un fin de semana largo en unas vacaciones placenteras y llenas de diversión. 
-La cuadratura que Venus forma con Marte el día 8 podría desafiar una relación que ya está mostrando signos de tensión. Venus también entra a Escorpión ese día, y el amor se pone más serio. 
-Exige más momentos de calma durante la luna nueva del 9 de septiembre. Escucha más tu propia verdad. Te toca decidir lo que es realmente importante. 
-Cuando Venus forma una oposición con Urano el día 12, tal vez quieras aferrarte a lo que ya conoces, y dejar pasar lo excéntrico o fuera de lo común. 
-El sol entra a Libra el 22 de septiembre, y el otoño comienza. Este es tu mes para disfrutar más de la vida. 
-La luna llena del día 24 te da todo lo que necesitas para cuidar de ti para que te vaya bien en cualquier situación. Puedes hacerlo sin volverte egoísta. No dejes que las dudas de nadie, ni sus diferentes opiniones o perspectivas, te desvíen de tu camino. 
-Días destacados: 8, 12, 17
-Días desafiantes: 6, 20
+Oct. de 2018 - El 5 de octubre, Venus se torna retrógrado. Tómate en serio el amor, y mira debajo de la superficie de las palabras y acciones. Entra a las profundidades. Evita compromisos hasta después de que Venus vuelva a su fase directa el 16 de noviembre. 
+Ponte en primer lugar durante la luna nueva del día 8. Haz aquello que te anima y nutre tu espíritu. Claro, a veces cuidar de alguien es lo que más te ayuda. 
+Mercurio forma una conjunción con Venus el 15 de octubre. Las conversaciones y contactos sociales cobran vida con chispas y brillo. Esto tal vez no dure mucho, así que aprovecha. 
+Dinero u oportunidades financieras podrían aparecer en tu camino durante la luna llena del día 24. Si estás detrás de un proyecto o financiación, debería ser fácil hablar y que te escuchen. Alguien sorprendente puede tener la mente abierta a tu presentación. 
+El sol forma una conjunción con Venus el 26 de octubre. La honestidad puede incluir buenas intenciones. Que sea algo bueno. 
+Venus vuelve a entrar a Libra el día 31. Sé la versión más brillante de ti en un círculo familiar o social más amplio. 
+Días destacados: 2, 20, 28
+Días desafiantes: 10, 22

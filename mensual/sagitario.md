@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo octubre, horoscopos en español, horóscopo sagitario octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
- video: vYkebq5TfTc
+ video: ry8eEBHu-P0
 
 ogimg: /images/mes/sagitario_mes.png
 sitemap:
@@ -17,9 +17,10 @@ sitemap:
 ---
 
 
-Sept. de 2018 - La luna nueva del 9 de septiembre ilumina tu profesión o posición social. Ten seguridad, sé realista sobre tus habilidades, y luego actúa con sinceridad. La gente ahora recurre a ti para que lideres. 
-La luna forma una conjunción con Júpiter el día 13. Siéntete con más suerte que nunca sobre un asunto serio y fundamental. Haz lo que puedas antes de que Júpiter salga de Escorpión y entre a Sagitario el 8 de noviembre, cuando puede que todo sea demasiado fácil como para excederte. 
-Las actividades sociales se encienden con la luna llena del 24 de septiembre. Siéntete a gusto en un escenario mayor, con un grupo más grande de gente, y también haz sentir a gusto a los demás. Ocúpate de las personas más difíciles con elegancia. 
-Ponle freno a algo que puede estar al borde de salirse de control durante la oposición entre la luna y Júpiter el día 28. Si todo ya está bajo control, puedes obtener una nueva perspectiva sobre planes que te gustaría ampliar. 
-Días destacados: 5, 11, 23
-Días desafiantes: 3, 7
+Oct. de 2018 - Venus se torna retrógrado el 5 de octubre. El amor se torna más serio y quizás un poco más frío, pero el verdadero afecto y devoción no desaparecerán. Puedes volver a evaluar la relación ahora. 
+Para la luna nueva del día 8, sal de la casa y ten más actividad social. Este no es momento para jugar a ser una persona ermitaña, y de todos modos no es algo natural para ti. Socializa con una multitud más grande, y tal vez haz alguna influyente amistad. 
+La luna forma una conjunción con Júpiter el 11 de octubre. Algo pequeño puede salir como deseas, y luego acabar siendo algo grande. 
+Sé una persona hogareña durante la luna llena del día 24, sin dejar de tener mucha interacción social. Comunícate con más personas a distancia. Si has estado socializando demasiado, tómate un descanso y retoma tu rumbo. 
+Mercurio entra a Sagitario el 30 de octubre. Piensa en cosas más grandes, y comunícate con más gente. Crece mentalmente, y aprende muchas cosas. 
+Días destacados: 3, 16, 29
+Días desafiantes: 19, 26

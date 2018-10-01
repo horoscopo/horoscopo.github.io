@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
- video: 8_iLp_EIYoE
+ video: -0of31KxuA4
 
 ogimg: /images/geminis_char.png
 sitemap:
@@ -15,5 +15,11 @@ sitemap:
 ---
 
 
-Sept. de 2018 - Mercurio entra a Virgo el 5 de septiembre. Este es el momento para organizar y perfeccionar algunas cosas que realmente disfrutas y que te importan. 
-Encuentra una solución ingeniosa o mejor disposición para un asunto doméstico o situación en el hogar con la luna nueva del día 9. Un sueño podría volverse realidad fácilmente cuando se hace un cambio simple pero inteligente en la casa. 
+Oct. de 2018 - El 2 de octubre, Mercurio forma una cuadratura con Plutón. Puedes enfrentarte a un problema que no tiene respuestas, al menos no por ahora. Sé paciente, y no te dejes aturdir. 
+Venus se torna retrógrado el día 5. Puede que el amor vaya más lento, pero eso puede ser algo bueno. Tienes más tiempo para pensar bien las cosas. 
+Tanto tu cabeza como tu corazón quieren recibir cariño durante la luna nueva del 8 de octubre. Haz cosas divertidas e interesantes. Vuélvete una persona más creativa y divertida sin ser demasiado audaz o imprudente. 
+Mercurio sale de Libra y entra a Escorpión el día 9. Tómate más en serio la manera en que pasas tiempo con los demás. 
+Siéntete más a gusto y estable en tu rutina diaria cuando la luna llena brilla el 24 de octubre. Si tienes cualquier duda arraigada que necesitas despejar, mantén la calma, y mira cómo las soluciones aparecen de la nada. Sé feliz, y trátate bien. 
+Mercurio entra a Sagitario el día 30. ¡Vuelve la época de fiestas! 
+Días destacados: 12, 15, 29
+Días desafiantes: 10, 19
