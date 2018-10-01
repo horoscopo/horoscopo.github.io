@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo tauro septiembre 2018 
+title: Horoscopo tauro octubre 2018 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
- video: JEFeK-6Feas
+ video: e2r5JuvevCQ
 
 ogimg: /images/tauro_char.png
 sitemap:

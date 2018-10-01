@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo cancer septiembre 2018 
+title: Horoscopo cancer octubre 2018 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: 9NCXVujT3Rk
+ video: hvouizuEnAo
 
 ogimg: /images/cancer_char.png
 sitemap:

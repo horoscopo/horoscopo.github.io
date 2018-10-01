@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo libra septiembre 2018 
+title: Horoscopo libra octubre 2018 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
- video: dVRzjQNBt6E
+ video: XUojMMA-6u8
 
 ogimg: /images/libra_char.png
 sitemap:

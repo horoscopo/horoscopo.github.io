@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo piscis septiembre 2018
-description: El Horóscopo septiembre de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo piscis octubre 2018
+description: El Horóscopo octubre de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/piscis/
 amplink: /horoscopo-mensual/amp/piscis/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo piscis septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo piscis octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
- video: WMXdN-fJutQ
+ video: pgEtmzIegWM
 
 ogimg: /images/mes/piscis_mes.png
 sitemap:
@@ -17,10 +17,10 @@ sitemap:
 ---
 
 
-Sept. de 2018 - La luna forma una oposición con Neptuno el 7 de septiembre. Si has sentido confusión respecto de alguien especial, un poco de esa neblina mental debería aclararse ahora. 
-La luna nueva del día 9 ilumina tu vida amorosa de una forma espectacular. Tal vez no conectas con tu amante o pareja perfecta, pero podrías. Tu chispa actual podría arder más fuerte, y verte más brillante. 
-El 13 de septiembre, Mercurio forma una oposición con Neptuno. Un error o malentendido puede corregirse o despejarse. 
-Tú podrías ser la respuesta a un problema complejo durante la luna llena del día 24. Descubre la confusión o malinterpretación de alguien, y ve directo a la solución, sin ningún costo o esfuerzo de tu parte. Haz que algo imposible parezca fácil porque, para ti, lo es. 
-El 25 de septiembre, el asteroide Quirón entra a Piscis. Puedes aprender incluso de una herida imaginaria. Permítete un poco más de distancia emocional, y evita estar demasiado sensible. 
-Días destacados: 5, 23, 28
-Días desafiantes: 15, 30
+Oct. de 2018 - Venus se torna estacionario retrógrado el 5 de octubre. El amor se vuelve intenso en formas más tranquilas, profundas y menos obvias. Examina y cultiva una relación, pero trata de posponer cualquier compromiso formal hasta después del 16 de noviembre. 
+Piensa lo que quieras durante la luna nueva del día 8, pero la verdad se volverá obvia. Reconoce la realidad de una situación, y mira un conflicto dar un giro y así sanarse solo. 
+La luna forma una conjunción con Neptuno el 20 de octubre. Buenas amistades y buenas conversaciones podrían impulsar un nuevo sueño. Esto por sí solo mejora la moral. A veces es bueno soñar. 
+El mundo es un lugar hermoso durante la luna llena del día 24. Tu satisfacción será contagiosa, y la gente será capaz de ver más de tu belleza interna. Relájate, sé popular, y disfruta de la emoción y diversión. 
+Mercurio forma una conjunción con Júpiter el 29 de octubre. Piensa en grande, de una forma más práctica, y tendrás mucho para decir. Las personas quieren escuchar tu perspectiva. 
+Días destacados: 10, 11, 19
+Días desafiantes: 4, 26

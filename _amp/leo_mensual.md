@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo leo septiembre 2018 
+title: Horoscopo leo octubre 2018 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
- video: 7VaienEcu3w
+ video: eF-uvKQ4syU
 
 ogimg: /images/leo_char.png
 sitemap:

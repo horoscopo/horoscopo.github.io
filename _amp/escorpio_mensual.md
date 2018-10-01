@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo escorpio septiembre 2018 
+title: Horoscopo escorpio octubre 2018 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
- video: pSLoHU-S5hk
+ video: XZy5lqm84iI
 
 ogimg: /images/escorpio_char.png
 sitemap:
