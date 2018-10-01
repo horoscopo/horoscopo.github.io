@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 24 de septiembre 2018 al 30 de septiembre 2018 
-description: Horóscopo semanal tauro 24 de septiembre 2018 al 30 de septiembre 2018. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+title: tauro 01 de octubre 2018 al 07 de octubre 2018 
+description: Horóscopo semanal tauro 01 de octubre 2018 al 07 de octubre 2018. Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: hJtR7NSrjlw
+ video: uFiMPGTJ5Jo
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-24'
+ lastmod: '2018-10-01'
 ---
 
 
 
-## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+## Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 
-A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez tauro. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona tauro, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
-El sol en tu sector de ocio y placer te lleva a involucrarte en pasatiempos o actividades deportivas que disfrutas. La luna llena del jueves podría coincidir con una fiesta de Halloween u otra celebración y es excelente para juntar a tu gente y pasarla fenomenal. La presencia interactiva de Mercurio en Escorpión podría inspirarte a conectar con un potencial pretendiente y romper el hielo empezando una conversación. ¡Cosas buenas pueden suceder como resultado!
+No estás mal con lo que tienes no, pero ya no eres el mismo que antes tauro. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala tauro, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Sagi. Si quieres cambiar algo es porque no estás satisfecho del todo Sagi, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+El deseo de gastar podría ser la razón por la que tu lista de compras se está haciendo más y más larga. La Luna Llena en Sagitario del Martes podría coincidir con una fuerte tentación de comprar un artículo costoso que has codiciado desde hace algún tiempo. No decidas comprarlo de inmediato. Espera unos días para ver cómo te sientes al respecto. El movimiento de Venus a Leo es excelente para el entretenimiento o para alojar huéspedes en tu hogar en las próximas semanas. Tu hogar se vislumbra con mucha actividad - en el buen sentido.
 
 ## Dinero
 
-Estás a punto de tomar ventaja de algunas nuevas oportunidades en el trabajo y los negocios. El Universo destaca tu sector que rige el dinero y los valores, por lo que no sólo vas a ser capaz de ganar más, sino que también lo usarás racionalmente. Esto puede significar que inviertas en tu futuro mediante la financiación de un nuevo negocio, o encuentres un millón de nuevas formas de recaudar más dinero.
+Esta semana experimentas un aumento de energía en el terreno de la auto-expresión.  Alguien en tu lugar de trabajo te tiene celos y es incapaz de poder manejar tu poderosa naturaleza. No le des importancia. Te estás proyectando de una nueva manera, que no puede ser nada más que positiva. Habla con la verdad. Tu destino es la profundidad, la madurez y el buen sentido. Otros necesitan oírlo.

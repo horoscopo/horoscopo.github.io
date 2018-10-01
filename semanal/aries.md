@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 24 de septiembre 2018 al 30 de septiembre 2018 
-description: Horóscopo semanal aries 24 de septiembre 2018 al 30 de septiembre 2018. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana aries.
+title: aries 01 de octubre 2018 al 07 de octubre 2018 
+description: Horóscopo semanal aries 01 de octubre 2018 al 07 de octubre 2018. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: vW4vd6bg83U
+ video: sjS5-D_Wm5g
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-24'
+ lastmod: '2018-10-01'
 ---
 
 
 
-## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana aries.
+## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 
-Tienes grandes planes aries, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes aries, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el aries de siempre…
-Esta semana podrían centrarse en negociación y comunicación. Tal parece que podrías tener involucramiento en reuniones y discusiones de diferentes grados de importancia. Mercurio retrocede en esta misma zona, así que ten cuidado con la firma de acuerdos o contratos importantes en este momento. Si puedes esperar hasta que Mercurio se torne directo, en aproximadamente tres semanas, las cosas deberían avanzar más suavemente. Además, debido al Eclipse Solar en este sector, no te sorprendas si una inesperada oportunidad cambia tu vida de alguna manera.
+Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad aries, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
+De muchos modos distintos, la mezcla actual de energías es excelente para manifestar tus sueños, ya que estás profundamente al tanto de los niveles más sutiles en los que existen. También tienes la habilidad de planificar con tiempo y entrar en acción para convertir tus sueños en realidad. Si puedes evitar aburrirte de una idea antes de que se ponga en marcha, puede que algo hermoso florezca en los días y las semanas que se aproximan. Por otro lado, una conversación podría terminar en una emocionante noche de cita.
 
 ## Dinero
 
-Te sientes más libre para tomar riesgos con tus habilidades comunicativas. Esto da frutos cuando se trata de la búsqueda de nuevo empleo o esfuerzos para batallar en contra de retrasos financieros. Tienes más de una oportunidad de ganar más dinero mediante la adopción de horas extras o de un trabajo de tiempo parcial. Pero ciertos aspectos están sacudiendo tu sector de trabajo de una manera que puedes encontrar desagradable. Si tu empresa parece inestable, imprime currículums y comienza a enviarlos.
+Ahora estás pensando no sólo en cómo hacer más dinero y establecer una mayor seguridad en tu vida, sino también en la manera de hacer que tu vida laboral sea más gratificante. Con un aspecto armonioso afectando tu sector laboral,  es probable que se note aún más. Esto te permitirá ascender de posición sin demasiados problemas. Asegúrate de pedir lo que vales en lugar de aceptar lo que sea que el jefe te ofrezca.

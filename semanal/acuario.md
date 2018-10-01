@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 24 de septiembre 2018 al 30 de septiembre 2018 
-description: Horóscopo semanal acuario 24 de septiembre 2018 al 30 de septiembre 2018. Del 27 Noviembre al 3 de Diciembre de 2017
+title: acuario 01 de octubre 2018 al 07 de octubre 2018 
+description: Horóscopo semanal acuario 01 de octubre 2018 al 07 de octubre 2018. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo acuario, se llama dignidad. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: zTjQGk4yaAw
+ video: 2Ervx2FIlJo
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-24'
+ lastmod: '2018-10-01'
 ---
 
 
 
-## Del 27 Noviembre al 3 de Diciembre de 2017
+## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo acuario, se llama dignidad. 
 
-Ojalá pudiéramos tener un botón de reinicio en la vida acuario, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
-La presión podría estar relacionada con tu trabajo o algo de tu rutina diaria. Durante los próximos días, una situación podría llegar a un punto crítico que requiera de un manejo hábil. Evita enojarte o provocar una discusión, ya que esto podría empeorar las cosas. Puede que sientas como si estuvieras caminando sobre arenas movedizas, pero es vital que trates de dirigir esto hacia un camino positivo. De hecho, tener diplomacia realmente podría serte muy útil. Desde el viernes, tómate algo de tiempo para recargar baterías, si te es posible.
+Vamos acuario, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida acuario, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie acuario pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás acuario. Así, tal cual.
+El panorama actual revela que podrías tener una larga lista de tareas por hacer, pero si esto incluye cumplir con las necesidades de otras personas y relegar las tuyas, algo debe cambiar. Si bien el enfoque continuo en tu sector social podría hacer que te inclines a ayudar, el cosmos también te anima a seguir adelante y hacer lo que tengas que hacer. No puedes complacer a todos. Por otro lado, un empujoncito intuitivo podría darte información sobre cómo lograr un avance positivo con respecto a una meta clave.
 
 ## Dinero
 
-Tienes emoción de hacer nuevos y grandes contactos. Hagas lo que hagas para ganarte la vida, verás que es mucho más fácil el llevarse con amigos. El pedir ayuda a un mentor de confianza o simplemente presentarte a alguien que siempre ha sido una inspiración para ti es un gran uso de la energía actual. Algunos de estos mentores se pueden encontrar entre tus hijos, familiares y socios creativos.
+Hay aspectos positivos afectando tu sector de empleo ahora. Es posible que te ofrezcan un nuevo trabajo, un aumento o una promoción. Puede haber cierta inestabilidad en tu lugar de trabajo, pero si puedes volverte la presencia calmada y madura, asegurarás tu futuro como un valioso empleado.

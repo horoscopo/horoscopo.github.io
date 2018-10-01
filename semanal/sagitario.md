@@ -1,29 +1,30 @@
 ---
 layout: horoscopos
-title: sagitario 24 de septiembre 2018 al 30 de septiembre 2018 
-description: Horóscopo semanal sagitario 24 de septiembre 2018 al 30 de septiembre 2018. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+title: sagitario 01 de octubre 2018 al 07 de octubre 2018 
+description: Horóscopo semanal sagitario 01 de octubre 2018 al 07 de octubre 2018. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: vM3GXjjfc7o
+ video: 4ooAxbe5Dz4
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-24'
+ lastmod: '2018-10-01'
 ---
 
 
 
-## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 
-A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
- nada es para siempre, ni siquiera los problemas ni las preocupaciones…
-El deseo de gastar podría ser muy fuerte a comienzos de la semana y puede que vayas al centro comercial o hagas compras en línea. De todos modos, hazlo con tranquilidad. Con tu planeta regente, Mercurio, en fase retrógrada, puede que lo mejor sea evitar artículos de gran valor por el momento. Si debes comprar algo, guarda los recibos para que puedas devolverlo, si fuera necesario. También podría aparecer una ganancia imprevista. Probablemente no será una suma demasiado grande, pero podría hacerte sonreír. Además, una atracción romántica brilla de forma prometedora.
+Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
+Con el conversador Mercurio, tu planeta personal, recién llegado a tu sector de relaciones, puede que sientas una mayor inclinación a comunicarte y conectar con nuevas y antiguas amistades. Además, esta puede ser una oportunidad para proponer los temas que deben discutirse y, tal vez, encontrar una solución. El enfoque en tu sector de estilo de vida también se intensifica. Esto puede tentarte a adaptar tu agenda diaria para permitirte explorar nuevas posibilidades y apuntar alto con respecto de tus metas clave de bienestar y trabajo.
 
 ## Dinero
 
-Estás en una fase de redefinición ahora. Puede que la gente esté acostumbrada a que juegues cierto tipo de papel en sus vidas, lo cuál no ha sido lo mejor para tu vida financiera. No importa. Eres una persona magnética y hay mucha suerte en tu sector de comunicaciones. Podrías percatarte de que mientras más se te vea y se te escuche, puedes conseguir que tus necesidades financieras se cumplan.
+Esta semana tu sector de labor te trae todo tipo de elogios en el trabajo. Los de arriba están notando tu trabajo y quieren verte tener éxito. Se te alienta a hablar de tus metas personales y de tu visión para la empresa en conjunto. Tus esfuerzos son muy apreciados. Van a ser recompensados económicamente y con más beneficios.

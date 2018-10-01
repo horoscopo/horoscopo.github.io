@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: libra 24 de septiembre 2018 al 30 de septiembre 2018 
-description: Horóscopo semanal libra 24 de septiembre 2018 al 30 de septiembre 2018. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+title: libra 01 de octubre 2018 al 07 de octubre 2018 
+description: Horóscopo semanal libra 01 de octubre 2018 al 07 de octubre 2018. Vamos libra, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: VtC4dsGeKG8
+ video: HpPeVWCkqT4
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-09-24'
+ lastmod: '2018-10-01'
 ---
 
 
 
-## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+## Vamos libra, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 
-Llega una buenísima semana libra pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien libra, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado libra, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo libra, pelea por lo que te mereces.
-Es posible que desees probar una nueva dieta, nueva forma de ejercicio como spinning o Pilates, o tal vez un tratamiento relajante que pueda aliviar los nudos y la tensión nerviosa. Cualquier cosa que pueda mejorar tu vitalidad y hacer que te sientas bien vale la pena ser intentada - además de que te hará una gran cantidad de amistades en el proceso. Una vez que el Sol entre a tu sector de relaciones el jueves, puede que sientas inclinación a comprometerte en lugar de insistir en salirte con la tuya en asuntos clave.
+Tienes que improvisar más libra, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira libra, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado libra… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no libra, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana libra.
+Haz uso de las actuales influencias positivas para anunciar tus productos y servicios. No dejes esto a la suerte o al azar - tendrás más éxito con una estrategia bien planeada. Cuida tus finanzas en los días alrededor del Miércoles, cuando es posible que tengas dificultades para pagar una cuenta o hacerle frente a un gasto inesperado. Si sabes qué esperar, puedes evitar que cierta situación se venga abajo. La Luna Nueva te anima a experimentar un nuevo comienzo mediante la elaboración de un presupuesto que te permita tanto ahorrar como divertirte.
 
 ## Dinero
 
-Te diriges a un momento interesante. La gente se siente atraída hacia ti y a tu mensaje, así que si tienes que dar una presentación o formular un argumento con respecto a ventas, prográmalo para esta semana. Con el apoyo del Universo, tu sector de comunicación es el más afectado. ¿Cómo puedes llevar ese compromiso que recibiste al siguiente nivel y convertirlo en una promoción?
