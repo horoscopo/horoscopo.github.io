@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 01 de octubre 2018 al 07 de octubre 2018 
-description: Horóscopo semanal capricornio 01 de octubre 2018 al 07 de octubre 2018. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida capricornio, vuelve a brillar.
+title: capricornio 08 de octubre 2018 al 14 de octubre 2018 
+description: Horóscopo semanal capricornio 08 de octubre 2018 al 14 de octubre 2018. Sumisión contigo van a encontrar poca ahora capricornio… Muy poca.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: bExt7tKfKUc
+ video: U8hdUEEg-BU
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-01'
+ lastmod: '2018-10-08'
 ---
 
 
 
-## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida capricornio, vuelve a brillar.
+## Sumisión contigo van a encontrar poca ahora capricornio… Muy poca.
 
-Tu mente lo está analizando absolutamente todo capricornio, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez capricornio… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas capricornio, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana capricornio, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
-La semana comienza con un poco de complacencia, en la que podrías disfrutar de una sesión de mimos o de una maratón de compras por diversión. ¿Y por qué no? Te lo mereces, después de haber trabajado tanto últimamente. 
-El dinámico Marte, tu planeta regente, se vuelve retrógrado en tu sector social el martes, y permanecerá así hasta el 27 de agosto. Tus niveles de energía podrían tornarse más erráticos, y este aspecto también puede coincidir con demoras en planes y proyectos de suma importancia. Lo mejor es no aceptar nada muy importante hasta que haya transcurrido esta fase. A mitad de semana, la luna llena en Capricornio y en tu sector de carrera podría ser una llamada a tomar una importante decisión, pero puede que quieras esperar un día más o menos hasta que sientas una mayor tranquilidad y puedas tomar decisiones más inteligentes. Por último, puede que quieras comenzar un nuevo pasatiempo o deporte.
+Tienes que motivarte capricornio. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino capricornio. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro capricornio, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa capricornio, ¿tu tiempo no vale nada o qué?
+Esta es una de esas semanas en las que es esencial que te tomes algo de tiempo para ti. Con Saturno ocultándose en una parte más privada de tu carta, podrías percatarte de que el tiempo que pasas a solas te sirve para pensar y resolver cualquier problema con el que hayas estado tendiendo dificultades. Lo mejor sería que no te programaras un horario agitado, sino más bien cortar lo más posible el número de actividades; incluso aunque otros te las estén demandando. La Luna Nueva del sábado podría ser una llamada a revisar tu horario y hacerlo más manejable.
 
 ## Dinero
 
-Esta semana se trata de las configuraciones celestes creando mucha tensión para ti. Se inicia en tu sector de expresión personal y autoestima, lo que indica la necesidad de abordar la forma en la que uno se proyecte al mundo. Puedes ser quien quieras ser ahora.
+Esta semana, actividad en tu sector de trabajo indica que es probable que tu trabajo se vuelva más fácil ahora. El Universo te proporciona la energía que necesitas para hacer las cosas y avanzar en la escalera del éxito al lograr que tu trabajo sea notado y apreciado. Al mismo tiempo, tienes que asumir una mayor responsabilidad antes de poder ganar más dinero.

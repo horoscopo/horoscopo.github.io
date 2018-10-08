@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: libra 01 de octubre 2018 al 07 de octubre 2018 
-description: Horóscopo semanal libra 01 de octubre 2018 al 07 de octubre 2018. Vamos libra, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+title: libra 08 de octubre 2018 al 14 de octubre 2018 
+description: Horóscopo semanal libra 08 de octubre 2018 al 14 de octubre 2018. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: HpPeVWCkqT4
+ video: bGzMBzIWepQ
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-01'
+ lastmod: '2018-10-08'
 ---
 
 
 
-## Vamos libra, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 
-Tienes que improvisar más libra, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira libra, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado libra… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no libra, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana libra.
-Haz uso de las actuales influencias positivas para anunciar tus productos y servicios. No dejes esto a la suerte o al azar - tendrás más éxito con una estrategia bien planeada. Cuida tus finanzas en los días alrededor del Miércoles, cuando es posible que tengas dificultades para pagar una cuenta o hacerle frente a un gasto inesperado. Si sabes qué esperar, puedes evitar que cierta situación se venga abajo. La Luna Nueva te anima a experimentar un nuevo comienzo mediante la elaboración de un presupuesto que te permita tanto ahorrar como divertirte.
+Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
+ La gente es como es y no debes martirizarte por ello libra.
+Con el eclipse lunar al principio de la semana, las relaciones podrían atravesar un período de inestabilidad. Los sentimientos que han estado ocultos podrían salir a la luz, y esto podría llevarte a ti o a otra persona a tomar decisiones clave. Sin embargo, si puedes esperar un par de días hasta que las cosas se calmen, te resultará más fácil tomar la mejor decisión para ti y los demás. Y aunque te irá mejor si puedes ponerte firme con otros, mostrar un poco de compasión podría en realidad volverte muy flexible.
 
 ## Dinero
 
+Esta semana hay ciertos aspectos estropeando todos tus planes y actividades sociales con retrasos y una irritante falta de comunicación. Tus amigos todavía te aman, simplemente no se ponen en contacto por alguna razón. Son los lugares lejanos los que necesitan más atención. Se indica una posibilidad de viajar al extranjero, tanto por diversión, como para la expansión de tu negocio hacia el resto del mundo.

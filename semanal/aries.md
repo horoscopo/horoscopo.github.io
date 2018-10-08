@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: aries 01 de octubre 2018 al 07 de octubre 2018 
-description: Horóscopo semanal aries 01 de octubre 2018 al 07 de octubre 2018. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+title: aries 08 de octubre 2018 al 14 de octubre 2018 
+description: Horóscopo semanal aries 08 de octubre 2018 al 14 de octubre 2018. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: sjS5-D_Wm5g
+ video: fAqL-ZexgFk
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-01'
+ lastmod: '2018-10-08'
 ---
 
 
 
-## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad aries, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
-De muchos modos distintos, la mezcla actual de energías es excelente para manifestar tus sueños, ya que estás profundamente al tanto de los niveles más sutiles en los que existen. También tienes la habilidad de planificar con tiempo y entrar en acción para convertir tus sueños en realidad. Si puedes evitar aburrirte de una idea antes de que se ponga en marcha, puede que algo hermoso florezca en los días y las semanas que se aproximan. Por otro lado, una conversación podría terminar en una emocionante noche de cita.
+Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea aries. 
+ Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
+Inesperados eventos podrían interrumpir tu rutina esta semana - casi cualquier cosa podría suceder. Efectivas soluciones podrían estar a solo una llamada telefónica si te dispones a pedirle asesoramiento a una amistad o a un experto. Si necesitas una segunda opinión, comprueba que viene de una fuente de confianza antes de compartirla con los demás. Una situación en casa podría requerir de atención, aunque sería imprudente tomar cualquier decisión importante esta semana. La atención de un ser querido bien puede levantarte el ánimo.
 
 ## Dinero
 
-Ahora estás pensando no sólo en cómo hacer más dinero y establecer una mayor seguridad en tu vida, sino también en la manera de hacer que tu vida laboral sea más gratificante. Con un aspecto armonioso afectando tu sector laboral,  es probable que se note aún más. Esto te permitirá ascender de posición sin demasiados problemas. Asegúrate de pedir lo que vales en lugar de aceptar lo que sea que el jefe te ofrezca.
+Es un buen momento para ti, queriendo más que nada iniciar una nueva cuenta de ahorro y plan de inversiones para asegurar tu futuro. Pero hay tentaciones por todas partes debido a cierta actividad en tu sector de viajes, educación y espiritualidad. La necesidad de viajar y aprender tiene mucho poder sobre ti, y el dinero constantemente se sale de ese agujero en tu bolsillo. Trata de resistirte a la tentación de derrochar. Siempre se puede aprender de los acontecimientos de la vida.

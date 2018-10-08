@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 01 de octubre 2018 al 07 de octubre 2018 
-description: Horóscopo semanal virgo 01 de octubre 2018 al 07 de octubre 2018. Mira virgo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+title: virgo 08 de octubre 2018 al 14 de octubre 2018 
+description: Horóscopo semanal virgo 08 de octubre 2018 al 14 de octubre 2018. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: 3ZajcaMPWBg
+ video: 5tGSEq7qOcg
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-01'
+ lastmod: '2018-10-08'
 ---
 
 
 
-## Mira virgo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 
-No sabes cómo desviar tus sentimientos virgo, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas virgo… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez virgo. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos virgo que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-Si bien es bueno tener honestidad con los demás, puede que la primera parte de la semana necesite un cuidadoso manejo, en especial si las opiniones de los demás son muy distintas a las tuyas. Pueden intercambiarse opiniones intensas en los próximos días, pero si las tomas con la actitud adecuada, esto puede hacer que te ganes el cariño de una persona o de un grupo en lugar de provocar rechazo. Con el Sol estableciendo algunas potentes conexiones, puede que sientas la tentación de prometer más de lo que puedas entregar, lo que podría someterte a una presión innecesaria.
+Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
+ y es que no puedes parar, de verdad.
+Ten mucho cuidado si estás negociando un contrato o intentando cerrar un acuerdo esta semana. Con Mercurio retrógrado en tu sector de relaciones y el Eclipse Lunar en tu signo, podría ser conveniente abstenerte de hacer cualquier compromiso por ahora. La próxima semana podría mostrar las razones por las que sería mejor esperar. Esto no significa el final de un acuerdo, más bien te ofrece la oportunidad de continuar los debates y negociaciones que podrían trabajar a tu favor.
 
 ## Dinero
 
-Puede que los aspectos en tu sector de dinero y valores te molesten más que a la mayoría. Justo cuando estás a punto de cerrar el trato, las cosas se te escapan de las manos o simplemente se retrasan. No importa, ya que se pondrán mejor. Hasta entonces, haz negocios o trabaja para instituciones y corporaciones más grandes. Esto mejorará tu presupuesto anual.
+Andas muy comunicativo/a ahora. El hablar, chatear, o incluso el uso de sitios de redes sociales trabaja a tu favor y son parte de tu persona por ahora. Pero estás llevándolo a otro nivel, inclusive al hablar de que estás pensar en escribir tus memorias. Tienes una increíble cantidad de energía creativa en este momento, úsala a tu ventaja financieramente y para encontrar a tu público, después, busca los mercados con el más amplio alcance para obtener los mejores resultados.
