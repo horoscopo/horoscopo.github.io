@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 08 de octubre 2018 al 14 de octubre 2018 
-description: Horóscopo semanal escorpio 08 de octubre 2018 al 14 de octubre 2018. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al escorpio de siempre…
+title: escorpio 15 de octubre 2018 al 21 de octubre 2018 
+description: Horóscopo semanal escorpio 15 de octubre 2018 al 21 de octubre 2018. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro escorpio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: FNN_KAxnKBY
+ video: TR8yMMfcZp4
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-08'
+ lastmod: '2018-10-15'
 ---
 
 
 
-## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al escorpio de siempre…
+## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro escorpio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 
-A veces las cosas tienen que ser a tu manera o a ninguna escorpio, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada escorpio. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
-Esta semana podría llegar a ser un punto culminante para ti, sobre todo con un Eclipse Lunar en tu sector de ocio y placer. Ciertos sentimientos podrían ser exaltados, por lo que éste no es el mejor momento para involucrarte en un romance o comprometerte a algo sin pensar las cosas. Al mismo tiempo, tú y alguien podrían entrar en conflicto con respecto a la mejor manera de manejar un problema familiar. Desde el viernes, tu pareja podría de hecho ser una fuerza a tener en cuenta y debería ser persuadida a cooperar.
+No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
+A medida que el Sol entra a tu sector de estilo de vida, puede que quieras comenzar ciertas rutinas desde cero para comenzar el año nuevo de manera saludable. Y si todavía no has puesto en práctica ninguna de tus resoluciones de Año Nuevo, no es muy tarde para empezar. La entrada de Marte a un sector más intenso de tu carta astral podría motivarte para que hagas cambios más profundos. Ahora es el momento de cambiar patrones o solucionar problemas que podrían ser un lastre.
 
 ## Dinero
 
-Este período se trata de tus relaciones. Puede que un montón de gente nueva entre a tu vida, lo que podría ser ideal para socializar y conocer a otras personas en tu campo. Las relaciones viejas y rancias que parecen no traerte nada pueden estar desapareciendo, cambiando dramáticamente, o desapareciendo por completo. No te aferres a lo que ya no te sirve más.
+Es una época de grandes cambios para ti. Puede que tu lugar de trabajo se esté moviendo en una dirección más agradable, y que tú seas capaz de crear un poco de paz por ti mismo/a en medio de la tensión de los demás. Pero el Universo exige nada menos que la completa transformación cuando se trata de tus patrones de gastos con los miembros de la familia, los niños, o parejas románticas. Poco hace que tu punto de vista sea entendido, no tienes que irte por la borda.

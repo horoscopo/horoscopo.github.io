@@ -1,29 +1,30 @@
 ---
 layout: horoscopos
-title: leo 08 de octubre 2018 al 14 de octubre 2018 
-description: Horóscopo semanal leo 08 de octubre 2018 al 14 de octubre 2018. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+title: leo 15 de octubre 2018 al 21 de octubre 2018 
+description: Horóscopo semanal leo 15 de octubre 2018 al 21 de octubre 2018. Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: lakleuIBmr8
+ video: J2bkfQd6ZJk
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-08'
+ lastmod: '2018-10-15'
 ---
 
 
 
-## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+## Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
-Es muy importante que eches la vista atrás leo, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
-Los confusos mensajes podrían ser el motivo por el que se torna difícil aceptar un proyecto o cumplir con un plazo. Puede que tengas ganas de hacer un buen trabajo, pero si las instrucciones no son claras, tal vez no puedas hacerlo. Antes de comenzar, verifica que comprendes lo que debes hacer. Esto se aplica a todo tipo de instrucciones y mensajes escritos que encuentres durante los próximos días. 
-Cuando el nebuloso Neptuno entra al juego, habrá muchas posibilidades de que las cosas salgan mal. De hecho, puede que sea más sencillo pasar a algo que puedas completar y dejar este asunto en pausa para otro día. Con respecto a las relaciones, puede que debas darle a tu pareja un poco más de libertad. Puede que sientas la tentación de persuadirle para que siga tu camino, pero si lo haces, puede que la relación se resienta.
+No es que estés cambiando leo, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
+Cuando el sol está en tu sector social, puede ser un buen momento para disfrutar del apoyo de tus amistades. Sin embargo, debido a que existe un importante enfoque en tu sector de relaciones, al parecer tus asociaciones están atravesando importantes cambios ahora y en los próximos meses. 
+  Debido a que ahora tanto el precavido Saturno como el radical Plutón están retrógrados en este sector, podrías ver algunas conexiones desde una nueva perspectiva, lo que es bueno. Distinguir entre las que son beneficiosas para ti y las que no lo son puede producir drásticas decisiones. Nada de esto sucederá de la noche a la mañana. Será un descubrimiento más gradual. 
+  La presencia del delicioso Venus en tu sector espiritual te ofrece la posibilidad de mejorar tu relación con tu persona, algo muy importante. Este fin de semana, puede que te pidan ayuda con un evento de caridad o de otro tipo. Hacerlo debería ser muy agradable.      
 
 ## Dinero
 
-Estás buscando una nueva manera de ganar dinero extra ahora, y puede que todavía no tengas la solución perfecta. Pero con los aspectos afectando tu sector de trabajo, te percatarás de que hay más oportunidades de las que piensas. Como por ejemplo trabajar más horas, o encontrar un trabajo de fin de semana. Tu carrera se verá afectada positivamente por cualquier acción que tomes.
+Puede que esta semana sientas un poco más de despiste y menos conexión de lo normal. Hay un poco de pesadez añadida a tu sector de familia y romance. Puede que el impulso lleve a esto de nuevo, sobre todo cuando se trate de gasto. Sin embargo, el divertirte con tu presupuesto puede ser tan simple como usar tu imaginación. Ten tanta creatividad como te sea posible bajo las circunstancias.

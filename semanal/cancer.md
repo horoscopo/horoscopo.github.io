@@ -1,31 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 08 de octubre 2018 al 14 de octubre 2018 
-description: Horóscopo semanal cancer 08 de octubre 2018 al 14 de octubre 2018. Estás renaciendo cancer, renaciendo de las cenizas… Y ya era hora…
+title: cancer 15 de octubre 2018 al 21 de octubre 2018 
+description: Horóscopo semanal cancer 15 de octubre 2018 al 21 de octubre 2018. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. cancer, esta semana has de cerrar algunos ciclos de verdad.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: RC_0kXD_GgU
+ video: RY_FUWqxbcA
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-08'
+ lastmod: '2018-10-15'
 ---
 
 
 
-## Estás renaciendo cancer, renaciendo de las cenizas… Y ya era hora…
+## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. cancer, esta semana has de cerrar algunos ciclos de verdad.
 
-Deja que duela cancer, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser cancer estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien cancer pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida cancer, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
-Puede que lo mejor sea llegar a un compromiso al principio de la semana, incluso si no estás de acuerdo con las sabias palabras de otra persona. Sin embargo, si parece que esta persona te está manipulando, no te sientas culpable por mostrarte firme y fortalecer tus límites. Si bien una conexión entre el sociable Venus y el etéreo Neptuno podría animarte a ceder ante esta persona, tal vez lo mejor para ti sea no hacerlo.
-Un aspecto muy animado entre el sol y el positivo Júpiter el martes puede ser excelente para todo tipo de eventos sociales, románticas citas y divertidas experiencias. Sin importar qué hagas, diviértete.
-El fin de semana podría ser un poco más intenso. Si debes tomar una decisión importante, la conexión del sol con Plutón el viernes puede ayudarte a elegir la mejor opción para ti. 
-El domingo, la conexión entre el conversador Mercurio y el innovador Urano podría animarte a buscar nuevas oportunidades, pero evita tomar cualquier decisión de manera impulsiva.
+A veces quieres llegar al fondo de cualquier cosa cancer, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo cancer. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a cancer, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona cancer así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
+Nuevas ideas, oportunidades creativas y la oportunidad de ampliar tus horizontes te harán prosperar esta semana. Si tienes la opción de hacer nuevos contactos o asistir a algunos eventos sociales clave, considera aceptar, ya que te beneficiarás enormemente. La Luna Llena del Viernes podría verte entusiasmadamente adoptar un plan que tenga muchas posibilidades futuras. Una vanguardista oportunidad podría ser tuya si te dispones a aceptarla. El Domingo, una noticia que recibas podría ser justo lo que querías oír, sobre todo si se trata de un interés amoroso.
 
 ## Dinero
 
-Estás tratando de encontrarle solución a un dilema monetario en curso. Te estás convirtiendo en una figura de autoridad en tu campo. Y ahora te preparas para aprovechar todo lo que has cultivado. El cosmos está afectando a tu sector de dinero y valores, mostrando que el flujo de efectivo debería de aumentar muy pronto con un poco de esfuerzo y decisión.
+Esta semana se le puede considerar un cese al fuego de todo tipo. Los aspectos en tu casa de vidas pasadas, sueños y karma significan que es extremadamente importante el ser amable y cortés con los demás. Recuerda los modales que te enseñó tu madre. Así como ella dijo, una cucharada de azúcar ayuda a mejorar incluso hasta las noticias financieras más desagradables. Todo mejorará en poco tiempo. Hasta entonces, lucha por tener paciencia.
