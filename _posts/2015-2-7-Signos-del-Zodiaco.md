@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de octubre 2018
-description: Horóscopos del dia de hoy 15 de octubre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de octubre 2018
+description: Horóscopos del dia de hoy 16 de octubre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-10-15
+ lastmod: 2018-10-16
 ---
-El Universo coopera si decides invertir tu esfuerzo durante el oportuno aspecto entre Mercurio y Plutón. Tu energía se desperdicia si todo lo que haces es iniciar o casi iniciar, pero no terminar algo. Esta noche, ten conversaciones divertidas y estimulantes con un reparto inusual de personajes. Incluso las parejas que llevan juntas toda una vida se sienten gratamente coquetas.
+Encuentra un buen equilibrio entre el exceso de trabajo y la exagerada diversión mientras el Sol forma trígono con Júpiter el día de hoy. Por la noche, continúa ese mismo sistema. Mientras que las vibraciones planetarias son afortunadas, demasiado de una cosa buena es una cosa mala; como lo dice la frase. Mantén despierta la magia dentro de ti y todo estará bien. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
