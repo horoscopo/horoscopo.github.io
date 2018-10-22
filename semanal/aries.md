@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 15 de octubre 2018 al 21 de octubre 2018 
-description: Horóscopo semanal aries 15 de octubre 2018 al 21 de octubre 2018. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo aries.
+title: aries 22 de octubre 2018 al 28 de octubre 2018 
+description: Horóscopo semanal aries 22 de octubre 2018 al 28 de octubre 2018. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: rGexjaslHSc
+ video: 2xjBmUdZWb8
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-15'
+ lastmod: '2018-10-22'
 ---
 
 
 
-## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo aries.
+## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 
-No pienses tanto aries, deja que la vida te vaya sorprendiendo. Últimamente estás como muy nostálgico ¿no? No es que estés deprimido pero sí se te ha pasado por la cabeza eso de que algunos momentos del pasado fueron mejores que en el que estás ahora. No te agobies aries, ni te estreses. Quizás estás pensando demasiado en el futuro, en cómo van a ir las cosas, en si saldrá bien. Has arriesgado mucho para estar donde estás y con quien estás, y ya lo decidiste así que, no puedes pasarte la vida pensando si has hecho bien o no. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro aries, pero no trates de sujetarlo por todos lados cuando su destino es el suelo. Eres firme con las decisiones que tomas, siempre lo has sido pero, probablemente por momentos se te haga cuesta arriba en muchos aspectos. Deja la nostalgia a un lado y esfuérzate en pensar que todo tiene un principio y un fin y que la vida son ciclos que empiezan y que acaban, y que después llega otro ciclo de la misma manera. No tengas miedo a lo que es desconocido para ti, al revés, enfréntalo como algo nuevo que, quien sabe, puede traerte cosas que duren para toda la vida. Ten mucha paciencia en estos días y aprende a tomarte las cosas como lo que son, ni más ni menos, no puedes dar mucha importancia a cosas que no la tienen pero tampoco quitársela a otras muchas que SI la tienen. Y lo sabes. Mantente hábil para descubrir todo. Ya hace un tiempo te planteaste que ser positiv@ sería probablemente el único camino para que las cosas salieran bien y sí, en el fondo sabes que gracias a eso estás aquí, así que, no lo pierdas por nada del mundo, aunque se caiga todo a pedazos, aunque nada tenga sentido, mantente fuerte, eso será lo que necesitas para que tu cabeza no decaiga por pensamientos negativos. Vas a darte cuenta de tantas cosas…
-Asegúrate de destinar mucho tiempo para ti si tienes plazos con los que debes cumplir. Es mejor no dejar todo para el último momento, siempre y cuando el conversador Mercurio siga en su fase retrógrada. Sin embargo, hay buenas noticias el viernes, cuando Mercurio conjunta a Venus. Esto podría hacer que conectes con una persona que te recuerda a alguien del pasado. Debido a esto, puede que se lleven excepcionalmente bien. La luna nueva del domingo podría coincidir con una oportunidad de oro. ¿La tomarás?
+Tienes conversaciones pendientes aries, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad aries, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas aries, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
+Puede que la semana que se aproxima te invite a evaluar tu presupuesto y quizá a crear uno nuevo que sea más balanceado y adecuado a tus necesidades actuales. Con Marte, tu planeta financiero, atravesando Tauro, puede valer la pena conocer personas nuevas que puedan ayudarte a aprovechar al máximo el dinero que ganas. Este puede ser un buen momento para que aprendas cosas nuevas y entiendas cómo mejorar tu seguridad financiera a la vez que disfrutas la vida.
 
 ## Dinero
 
-Estás con ganas de gastar cierto dinero que sientes que está a punto de hacer un agujero en tu bolsillo, pero el momento no es el adecuado. Debido a un aspecto armonioso ahora, el cambio está llegando a las áreas que rigen las relaciones profesionales, viajes, educación superior, la enseñanza y el aprendizaje. Si trabajas en uno de estos campos, ¡es un buen momento para ti! Si no es así, trata de incorporar alguna faceta de ellos en lo que haces para ganarte la vida.
+Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 15 de octubre 2018 al 21 de octubre 2018 
-description: Horóscopo semanal libra 15 de octubre 2018 al 21 de octubre 2018. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
+title: libra 22 de octubre 2018 al 28 de octubre 2018 
+description: Horóscopo semanal libra 22 de octubre 2018 al 28 de octubre 2018. No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: yo7hfTh4joc
+ video: FsEPdAAZJjs
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-15'
+ lastmod: '2018-10-22'
 ---
 
 
 
-## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
+## No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 
-Disfruta de la vida libra, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven libra. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana libra.
-¿Tienes un secreto? Con un enfoque en un sector más apartado de tu carta, es posible que no quieras que nadie se entere de cierta relación. Y no hay razón por la cual debas de hablar hasta que sientas que es el momento adecuado. San Valentín es el día martes, y es posible que para celebrar elijas preparar una comida saludable pero seductora para la persona que amas. Si la comida es algo que le gusta a tu amor tanto como a ti, la pasarán fenomenal.
+Los finales no significan que hayas fallado en algo libra, los finales a veces sirven para abrir nuevas puertas a algo. libra, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza libra…
+Después de la intensidad de la semana pasada, puede que aún siga habiendo un residuo del conflicto entre tú y un familiar. Este podría desarrollarse conforme avanza la semana. En lugar de ponerte emocional sobre las cosas, céntrate en los hechos de la situación. Una vez que los hayas investigado, estarás en una mejor posición para negociar o llegar a un compromiso. Si sientes que se te ha tratado injustamente, tener una charla puede ayudarte a resolver esto. Por último, tu vida social se vislumbra mucho más positiva.
 
 ## Dinero
 
-Puede que encuentres que será mejor ser paciente en lugar de avanzar en las metas financieras de esta semana. Los aspectos afectan a la educación superior y los viajes, así como tu trabajo de todos los días. Estas dos áreas no están trabajando bien juntas, por lo que no es un buen momento para insistir en tomar tiempo libre para estudiar o viajar, o hacer caso omiso de tu educación para hacer lo que siempre haces. Comprométete.
+Las relaciones serias en tu vida y los problemas financieros que compartes se destacan esta semana. El tener esa importante conversación con tu pareja puede ayudar a aliviar los problemas de dinero antes de que se manifiesten, no después. Eres capaz de utilizar tus habilidades de comunicación para convencer a otros de que tú y tus proyectos son dignos de inversión.

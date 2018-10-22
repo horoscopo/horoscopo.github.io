@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 15 de octubre 2018 al 21 de octubre 2018 
-description: Horóscopo semanal acuario 15 de octubre 2018 al 21 de octubre 2018. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: acuario 22 de octubre 2018 al 28 de octubre 2018 
+description: Horóscopo semanal acuario 22 de octubre 2018 al 28 de octubre 2018. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: 1m3dUSASy40
+ video: 9YcU3RwoXtc
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-15'
+ lastmod: '2018-10-22'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 
-Llegan oportunidades grandes acuario y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias acuario, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no acuario, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
-La alineación actual podría encontrarte considerando ideas empresariales en tu búsqueda de una que sea la correcta para ti. Pero debido a que Mercurio entró a la escena, no te limites a una o dos. Puede que encuentres un número de oportunidades que parezcan bastante prometedoras una vez que comiences a buscar. La entrada de Venus a Cáncer del viernes podría verte querer ampliar tu ámbito de acción. Si tu tiempo ha estado ocupado últimamente, la idea de una escapada a un lugar exótico bien podría llamarte la atención.
+La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace acuario… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas acuario, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+Después de una temporada familiar activa, un enfoque en tu sector de recreación podría darte ganas de pasar tiempo a solas. Y si bien tienes un asunto del cual encargarte en el frente doméstico, quizá pueda resolverse con facilidad si confías en tus instintos. Esto podría ser decidirte a hacer una compra o algún otro asunto relacionado con las finanzas y, en este momento, la lógica podría no ser de gran ayuda. Con el enérgico Marte entrando a tu sector de comunicación el 26 de enero, promocionar lo que haces podría impulsar tu éxito.
 
 ## Dinero
 
-Ahora tienes un aspecto armonioso afectando a tu sector de hogar y emociones. Si trabajas en un campo creativo o de diseño, piensa en cómo ampliar tu línea para incluir el diseño de interiores. Dado a que tantos de tus propios recuerdos y sentimientos están siendo despertados, puedes percatarte de que tu vida puede servir de base para nuevas y maravillosas ideas. El dinero viene cuando se combina lo personal con lo profesional.
+Si esta semana estás planeando cómo poder organizar un descanso de la rutina con el fin de rejuvenecer, cierta actividad en tu sector de viajes, educación, metafísica y lenguas te pide que refuerces tus habilidades existentes en una o más de estas áreas. Podrías percatarte de que tienes una habilidad oculta, tal vez como resto de una encarnación anterior. Utiliza todo lo que tienes para el máximo beneficio. Otras personas simplemente no tienen tu mezcla única de habilidades.

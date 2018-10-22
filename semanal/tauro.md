@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 15 de octubre 2018 al 21 de octubre 2018 
-description: Horóscopo semanal tauro 15 de octubre 2018 al 21 de octubre 2018. tauro, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
+title: tauro 22 de octubre 2018 al 28 de octubre 2018 
+description: Horóscopo semanal tauro 22 de octubre 2018 al 28 de octubre 2018. Llega una semana bonita tauro, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención tauro, y seguramente la persona que menos te esperabas…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: Mpcz10CB6Vk
+ video: rxoLgfHSPaY
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-15'
+ lastmod: '2018-10-22'
 ---
 
 
 
-## tauro, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
+## Llega una semana bonita tauro, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención tauro, y seguramente la persona que menos te esperabas…
 
-Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien tauro pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
-Estarás en tu elemento esta semana, ya que el Sol y Marte te inspiran a hacer grandes cosas. Esta y las próximas semanas pueden encontrarte tomando acciones dinámicas en dirección a tus sueños y disfrutando del proceso inmensamente. Más adelante esta semana, Mercurio ingresa a tu sector de finanzas, lo que puede significar una oportunidad para organizarte, en especial si has perdido el control de tu dinero. La presencia de Venus en tu sector social puede ser excelente para hacer nuevas amistades y disfrutar de alegres encuentros.
+Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección tauro, y ahora puedes elegir lo que quieras.
+Mientras más creativa y comunicativamente te comportes esta semana, más lograrás impresionar a los de arriba. Podrías percatarte de que puedes avanzar con un plan de una manera que es muy agradable. Con un poco de enfoque y encanto, los obstáculos pueden desvanecerse; despejando tu camino hacia el éxito. La Luna Llena del martes puede ser excelente para una fiesta u otra celebración, incluso si resulta ser demasiado bulliciosa. ¡No hay duda que será divertida!
 
 ## Dinero
 
-Esta semana se te está pidiendo asumir una mayor responsabilidad en tus relaciones personales o profesionales. No les des una atención a medias. De verdad intenta hacerles sentir su valor. Entre semana se destaca la labor de día tras día. Puede que el dinero sea temporalmente inestable, pero estás recibiendo muy buenas ideas sobre cómo hacer más. ¡Anótalas!
+Examinando tu sector de política, grupos sociales y sueños, es un excelente momento para avanzar en proyectos que sean más cercanos y queridos a tu corazón. Las redes sociales ofrecen la oportunidad de descubrir secretos que pueden hacerte avanzar en tu puesto de trabajo, pero será un acto de equilibrio con la familia y el romance. El dinero viene cuando encuentras el mejor sistema y la mejor manera de cultivar las relaciones personales y profesionales.

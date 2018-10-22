@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 15 de octubre 2018 al 21 de octubre 2018 
-description: Horóscopo semanal escorpio 15 de octubre 2018 al 21 de octubre 2018. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro escorpio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+title: escorpio 22 de octubre 2018 al 28 de octubre 2018 
+description: Horóscopo semanal escorpio 22 de octubre 2018 al 28 de octubre 2018. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: TR8yMMfcZp4
+ video: VAfLj0UKP5o
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-15'
+ lastmod: '2018-10-22'
 ---
 
 
 
-## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro escorpio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 
-No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
-A medida que el Sol entra a tu sector de estilo de vida, puede que quieras comenzar ciertas rutinas desde cero para comenzar el año nuevo de manera saludable. Y si todavía no has puesto en práctica ninguna de tus resoluciones de Año Nuevo, no es muy tarde para empezar. La entrada de Marte a un sector más intenso de tu carta astral podría motivarte para que hagas cambios más profundos. Ahora es el momento de cambiar patrones o solucionar problemas que podrían ser un lastre.
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
+Tu vida amorosa se ve positivamente radiante este mes, cuando el seductor Venus ingresa a Virgo y a tu sector de relaciones el lunes. Su presencia puede agregar algo de dulzura a su relación y aportar romance a los nuevos lazos.Además, el expansivo Júpiter se vuelve directo en tu sector de viajes y exploración, por lo que es el momento ideal para reservar unas vacaciones o planificar una aventura viajera. Además, cuando el delicioso Venus forma una animada conexión con el incansable Urano el miércoles, un encuentro podría agregar un toque especial a los próximos días. 
+Aun así, con el eclipse solar en tu sector de recreación y romance el jueves, pueden avecinarse beneficiosos cambios. Esta es la oportunidad de hacer borrón y cuenta nueva, y tal vez de alejarte de una amistad que parece un poco tóxica. Mantente firme con esto. Tu creatividad y las oportunidades románticas aumentarán cuando estés fuera del alcance de esta persona.
 
 ## Dinero
 
-Es una época de grandes cambios para ti. Puede que tu lugar de trabajo se esté moviendo en una dirección más agradable, y que tú seas capaz de crear un poco de paz por ti mismo/a en medio de la tensión de los demás. Pero el Universo exige nada menos que la completa transformación cuando se trata de tus patrones de gastos con los miembros de la familia, los niños, o parejas románticas. Poco hace que tu punto de vista sea entendido, no tienes que irte por la borda.
+Ciertos aspectos en tu sector de dinero y valores te dan mucho espacio para crecer esta semana. El desafío se presenta debido a que no siempre se siente fácil hacerlo, pero por lo general el esfuerzo obtiene resultados. Se te está empujando a ser más social ahora, considera el autoempleo como una forma de ganar más dinero y piensa cómo utilizar las políticas de oficina para tu ventaja.
