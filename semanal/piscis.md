@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 22 de octubre 2018 al 28 de octubre 2018 
-description: Horóscopo semanal piscis 22 de octubre 2018 al 28 de octubre 2018. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+title: piscis 29 de octubre 2018 al 04 de noviembre 2018 
+description: Horóscopo semanal piscis 29 de octubre 2018 al 04 de noviembre 2018. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: oY_Vp26SvvQ
+ video: 0oOSCqokYnU
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-22'
+ lastmod: '2018-10-29'
 ---
 
 
 
-## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-A veces sientes como si no avanzaras piscis, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba piscis, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo piscis, feliz semana.
-Una positiva conexión entre Venus y Marte en tu signo al principio de semana puede ser perfecta para una cita especial o un evento social un tanto interesante. Una cuestión relativa a una meta o un negocio creativo podría dominar tu conciencia, y esto podría significar que te pierdas de un par de oportunidades en otros lugares. Dale tu atención, pero sé consciente de que hay una alta probabilidad de que lo que decidas llegue a cambiar la próxima semana. Por último, si vas a acudir a un evento este fin de semana, tal debería ser estupendo.
+Te estás dando cuenta de quien sí y quien no piscis. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo piscis pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope piscis, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente piscis, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar piscis, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+Tu relación con cierta persona puede hacerse más profunda, pero no parece ser de modo romántico. El panorama actual indica un encuentro de mentes que puede fortalecer el vínculo entre ustedes o al menos fomentar el respeto mutuo. Esta persona puede ser la influencia necesaria para que elijas un camino a seguir, pero no te dejes guiar solo por sus palabras. Piensa en si es conveniente antes de comprometerte. Despeja un poco tu calendario alrededor de la Luna Llena del 13 de diciembre.
 
 ## Dinero
 
-Con un aspecto armonioso ahora, puede que tengas la tentación de celebrar antes de tiempo. Pero con toda la energía que hay en el aire ahora, lo mejor es encontrar una manera de sacarle provecho primero. La actividad astral afectará los viajes, el aprendizaje y la espiritualidad, indicando el momento de buscar formas de ampliar tu mercado. Si ofreces un producto o servicio que podría ser vendido en el extranjero, haz que suceda ahora. Consulta a un especialista en ventas si necesitas ayuda.
+Tienes la posibilidad de recibir mucho apoyo por parte de viajes al extranjero, aprender un nuevo idioma, o asistir a una clase o un seminario para reforzar tu educación. Cualquier cosa que puedas hacer para que tu conjunto de habilidades sea más formidable ayudará ahora, especialmente cuando se trata de pedir más dinero. Mientras tanto, analizando el área de tu carta relacionada con tu trabajo, ¿será que es hora de cambiar de profesión?

@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: leo 22 de octubre 2018 al 28 de octubre 2018 
-description: Horóscopo semanal leo 22 de octubre 2018 al 28 de octubre 2018. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+title: leo 29 de octubre 2018 al 04 de noviembre 2018 
+description: Horóscopo semanal leo 29 de octubre 2018 al 04 de noviembre 2018. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: ToZXPvFBKf4
+ video: fyOOjhu_TJQ
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-22'
+ lastmod: '2018-10-29'
 ---
 
 
 
-## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-Esfuérzate un poco más de lo que hiciste ayer Sagi, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
- de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
-A medida que Mercurio, tu planeta personal, entra a tu sector de rutinas y estilo de vida, las próximas semanas pueden ser una oportunidad para que explores distintas maneras de mejorar aspectos clave de tu vida diaria. El Eclipse Lunar de esta semana puede inspirarte a que dejes atrás los hábitos o las actividades que ya no te hacen bien. Puede que los próximos días traigan una serie de revelaciones en áreas donde podrías tener un punto ciego. Ciertos eventos pueden resaltar esto y motivarte para que entres en acción durante las semanas y los meses que se avecinan.
+A veces, no es fácil vivir la vida leo, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera leo. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
+A pesar de que podrías estar feliz de disfrutar de más tiempo libre y más opciones sociales, también es posible que anheles una experiencia más profunda. Si es así, parece que tu deseo podría serte concedido esta semana. Un potente enfoque en tu sector de transformación alude a una decisión que podría tener importantes consecuencias y llevar tu vida hacia un nuevo nivel. Incluso podría sentirse como un renacimiento. Mantén tu guardia en alto contra aquellos que utilizan el dinero como una forma de manipularte. ¡Mantente firme!
 
 ## Dinero
 
-Esta semana es acerca de romance, niños y diversión; así como viajes, educación y espiritualidad. Cualquiera de estas áreas puede ser explotada por obtener un trabajo extra o construir un negocio completamente nuevo ahora. Tú tienes la capacidad de hacer que suceda. Con un poco de arduo trabajo y verdadero enfoque, puedes empezar a ganar más dinero en el futuro.
+El dinero es una forma de encontrar la seguridad que buscas. Es probable que notes que ahora, tus lados masculino y femenino están bastante equilibrados. ¡Buen trabajo! Dado que esto afecta a tu empleo, salud, y actividades cotidianas, es probable que todo en el trabajo vaya bien. Les estás dando una buena  impresión a los jefes. Si quieres llevar esto un paso más allá, proponte para voluntariamente encabezar un proyecto especial. ¡Generarás una increíble opinión en tus jefes!

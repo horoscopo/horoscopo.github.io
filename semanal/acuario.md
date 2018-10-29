@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 22 de octubre 2018 al 28 de octubre 2018 
-description: Horóscopo semanal acuario 22 de octubre 2018 al 28 de octubre 2018. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+title: acuario 29 de octubre 2018 al 04 de noviembre 2018 
+description: Horóscopo semanal acuario 29 de octubre 2018 al 04 de noviembre 2018. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho acuario. Más que nunca…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: 9YcU3RwoXtc
+ video: 0aNKxtvt5G4
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-22'
+ lastmod: '2018-10-29'
 ---
 
 
 
-## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho acuario. Más que nunca…
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace acuario… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas acuario, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
-Después de una temporada familiar activa, un enfoque en tu sector de recreación podría darte ganas de pasar tiempo a solas. Y si bien tienes un asunto del cual encargarte en el frente doméstico, quizá pueda resolverse con facilidad si confías en tus instintos. Esto podría ser decidirte a hacer una compra o algún otro asunto relacionado con las finanzas y, en este momento, la lógica podría no ser de gran ayuda. Con el enérgico Marte entrando a tu sector de comunicación el 26 de enero, promocionar lo que haces podría impulsar tu éxito.
+Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real acuario, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Capri. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría acuario, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
+Te surgen abundantes oportunidades comerciales, dando lugar a aventureras ideas. Unir tus recursos con una o dos personas podría facilitarte avanzar y aumentar tus ganancias. Esto no va a suceder de la noche a la mañana, pero sí te ayudará crear una buena estrategia y encontrar a las personas adecuadas con las cuales asociarte. El Sol entra a tu sector profesional el viernes, animándote a socializar con gente que pudiera tener poderosas conexiones. Además, ¡este fin de semana podrías toparte con un pequeño golpe de suerte!
 
 ## Dinero
 
-Si esta semana estás planeando cómo poder organizar un descanso de la rutina con el fin de rejuvenecer, cierta actividad en tu sector de viajes, educación, metafísica y lenguas te pide que refuerces tus habilidades existentes en una o más de estas áreas. Podrías percatarte de que tienes una habilidad oculta, tal vez como resto de una encarnación anterior. Utiliza todo lo que tienes para el máximo beneficio. Otras personas simplemente no tienen tu mezcla única de habilidades.
+Podrías estar siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que tengas que sentir comodidad al hablar en público e iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas, será muy importante. Tu carrera necesita un poco de energía concentrada y deliberada. Disminuye  la confusión con el fin de obtener lo que se aproxima a ti.

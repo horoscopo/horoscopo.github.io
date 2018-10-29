@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 22 de octubre 2018 al 28 de octubre 2018 
-description: Horóscopo semanal cancer 22 de octubre 2018 al 28 de octubre 2018. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+title: cancer 29 de octubre 2018 al 04 de noviembre 2018 
+description: Horóscopo semanal cancer 29 de octubre 2018 al 04 de noviembre 2018. Llega una buenísima semana cancer pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: PyRJU3KU43U
+ video: xy3fEOM48M8
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-22'
+ lastmod: '2018-10-29'
 ---
 
 
 
-## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+## Llega una buenísima semana cancer pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 
-El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
-Las actividades de recreación pueden traerte mucho placer, y puede que comiences a preguntarte si podrías convertir un pasatiempo en un negocio paralelo. El animado Mercurio y el simpático Venus siguen avanzando por tu sector de estilo de vida, lo que podría inspirarte a reflexionar sobre tu cronograma diario y en cómo podrías mejorarlo.
-El jueves puede ser muy divertido, ya que un encantador aspecto entre el sol y el jovial Júpiter te anima a embarcarte en una aventura de descubrimiento. Incluso un viaje corriente podría parecer mágico. El mismo día, puede que te resistas a hacer tareas demasiado aburridas o rutinarias. Si una pausa te permite tener un tiempo para pensar, hazlo. El fin de semana podrías comenzar una actividad más creativa, como algo relacionado con el arte o las manualidades, o bien algo que te permita hacer volar la imaginación. 
+Céntrate en tus metas cancer, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+ Tu vida social sigue estando muy activa y parece que te estás divirtiendo a lo máximo. Esta semana te trae una oportunidad de oro para convertir tus sueños en realidad, especialmente si trabajas en la misma sintonía con amistades o con otras personas. La luna nueva en tu sector de amistad sugiere que este podría ser el momento perfecto para poner en marcha este proyecto. El enfoque se desplaza hacia un sector más apartado de tu carta astral el 17 de enero. Las cuatro semanas que se acercan serán un período de relajación y reflexión.
 
 ## Dinero
 
-Tu sector de sexo, muerte, transformación y el dinero de otras personas es radiante ahora. La clave está en equilibrar entre el gasto y la deuda, el ahorro y el derroche. Sin embargo, es un buen momento para tomar ventaja de cualquier propiedad compartida, herencias, o pagos de seguros de cualquier tipo. Guarda por lo menos la mitad de cualquier ganancia inesperada. Todavía puedes divertirte, y tu cuenta bancaria te lo agradecerá.
+Ahora tienes una situación de buenas noticias/malas noticias en tus manos. La buena noticia es que tu sector de carrera y figuras de autoridad se ve afectado positivamente, lo que indica un tiempo de mejores oportunidades y un mayor acceso a flujos de efectivo. La mala noticia es que puede que creas que no necesitas cambiar. Trata de salir adelante mediante la cooperación, no la lucha.

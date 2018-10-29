@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 22 de octubre 2018 al 28 de octubre 2018 
-description: Horóscopo semanal sagitario 22 de octubre 2018 al 28 de octubre 2018. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+title: sagitario 29 de octubre 2018 al 04 de noviembre 2018 
+description: Horóscopo semanal sagitario 29 de octubre 2018 al 04 de noviembre 2018. Hay cosas que no quieres que ocurran pero que debes aceptar sagitario, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: QgtW0U_1VdY
+ video: TwtEXqdkRJo
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-22'
+ lastmod: '2018-10-29'
 ---
 
 
 
-## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+## Hay cosas que no quieres que ocurran pero que debes aceptar sagitario, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 
-Tienes que plantarte sagitario, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana sagitario.
-Tu sector de finanzas está bajo enfoque esta semana con el día lunes pudiendo traerte una oportunidad para gastar tu dinero. Si has tenido tu ojo en un determinado objeto, este podría ser el momento en el que decidas comprarlo sin importa cuánto cueste. Por otro lado, ser sensible a los sentimientos de alguien podría alentar a una charla sincera con el fin de prevenir un desacuerdo. El fin de semana podía verte saliendo a cazar gangas, con la opción de un descuento que sea demasiado bueno como para dejarlo pasar. ¡Mantente alerta!
+Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo sagitario, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no sagitario, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
+Es posible que debas manejar con cuidado tus finanzas en los próximos días. Si bien puede que tengas suerte y encuentres una buena oferta, es mejor que analices con cuidado si lo que compras es tan bueno como crees que es. Compres lo que compres, sería prudente que guardes los recibos en caso de que necesites devolver tu compra. Es posible que este no sea el mejor momento para solicitar un préstamo o un crédito, ya que puedes enfrentarte a ciertas dificultades. Sin embargo, la situación se vuelve un poco más flexible la semana que viene.
 
 ## Dinero
 
-Es posible que ahora luches por una mayor libertad en tu vida y la tentación de renunciar a tu trabajo sea más fuerte que nunca. Pero no es le momento de apretar el gatillo todavía. Los mensajes de tus sueños o flashes psíquicos puede proporcionar la información que necesitas para hacer cambios significativos para bien. El  trabajo mejora y luego viene el dinero.
+Se te está dando un empujón de buena suerte desatando un torrente de mensajes positivos por parte de empleadores, potenciales clientes y clientes. Todos quieren un pedazo de tu tiempo, lo que puede ser agotador, aunque también son buenas noticias. Mientras tanto, ¿has considerado entrar en negocio con un pariente, padre o hermano? Quizá sea el momento de pensar un poco en esto.

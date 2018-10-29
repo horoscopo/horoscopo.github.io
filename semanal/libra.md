@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: libra 22 de octubre 2018 al 28 de octubre 2018 
-description: Horóscopo semanal libra 22 de octubre 2018 al 28 de octubre 2018. No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: libra 29 de octubre 2018 al 04 de noviembre 2018 
+description: Horóscopo semanal libra 29 de octubre 2018 al 04 de noviembre 2018. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario libra.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: FsEPdAAZJjs
+ video: XqZrqGZSiPE
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-22'
+ lastmod: '2018-10-29'
 ---
 
 
 
-## No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario libra.
 
-Los finales no significan que hayas fallado en algo libra, los finales a veces sirven para abrir nuevas puertas a algo. libra, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza libra…
-Después de la intensidad de la semana pasada, puede que aún siga habiendo un residuo del conflicto entre tú y un familiar. Este podría desarrollarse conforme avanza la semana. En lugar de ponerte emocional sobre las cosas, céntrate en los hechos de la situación. Una vez que los hayas investigado, estarás en una mejor posición para negociar o llegar a un compromiso. Si sientes que se te ha tratado injustamente, tener una charla puede ayudarte a resolver esto. Por último, tu vida social se vislumbra mucho más positiva.
+Además, que últimamente te han dado muchos chutes de alegría algunas personas alegres y positivas que hacía mucho que no encontrabas en tu vida así que, ¿para qué volver a las que amargan? Por favor… 
+ y el hecho de que las personas que creías que querías y te querían te den la mitad que otras te decepciona mucho. Y vuelves a la carga.
+Una leve ansiedad podría serte causada por no tener completo control de cierta situación o cuestión clave. Puedes fácilmente darle fin a esto con la ayuda de una amistad bien intencionada. Su perspectiva podría ser crucial en traerte paz mental. Mientras tanto, es una maravillosa semana para salir de compras. Hay una buena probabilidad de que encuentres justo lo que estás buscando. Investiga tus opciones antes de acudir a tiendas, ya que hacerlo te encontrará descuentos.
 
 ## Dinero
 
-Las relaciones serias en tu vida y los problemas financieros que compartes se destacan esta semana. El tener esa importante conversación con tu pareja puede ayudar a aliviar los problemas de dinero antes de que se manifiesten, no después. Eres capaz de utilizar tus habilidades de comunicación para convencer a otros de que tú y tus proyectos son dignos de inversión.
+Es hora de renovar tus habilidades comunicativas. ¿Te cansa que se les promueva a los demás y no a ti? No es la calidad de su trabajo, sino la forma en la que son capaces de lograr que sus superiores se den cuenta de lo que hacen. Ahora, con algunas personas realmente únicas entrando en tu círculo social, eres capaz de sentir más comodidad con tu falta de normalidad. A partir de ahí, todo lo que tienes que hacer es pedir lo que vales.

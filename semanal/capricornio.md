@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 22 de octubre 2018 al 28 de octubre 2018 
-description: Horóscopo semanal capricornio 22 de octubre 2018 al 28 de octubre 2018. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+title: capricornio 29 de octubre 2018 al 04 de noviembre 2018 
+description: Horóscopo semanal capricornio 29 de octubre 2018 al 04 de noviembre 2018. No es que estés cambiando capricornio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: CwdJs6AE79A
+ video: rX91M79tzUs
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-22'
+ lastmod: '2018-10-29'
 ---
 
 
 
-## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+## No es que estés cambiando capricornio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 
-Tienes que tener claro que en este mundo no estamos para gustar a todos, o quizás gustas a todos, pero el problema es que hay mucha envidia cerca aunque no siempre seas capaz de verla… 
-Aprende a marcharte capricornio… Sin complicaciones…
-Un toque de realismo no te vendría mal esta semana, sobre todo cuando se trata de crear un plan de negocios o discutir un tema clave. Si bien es bueno tener una visión que todo lo abarca, podrás tener más éxito si puedes demostrar que has hecho tu tarea y tienes una buena comprensión de los hechos. Mientras tanto, con Marte avanzando desde mitad de semana, ciertas cuestiones monetarias podrían empezar a mejorar. Podrías incluso percatarte de que tu flujo de efectivo mejora y también que ciertas relaciones se vuelven más estables como resultado.
+Hace mucho tiempo que no te das un buen capricho capricornio, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes capricornio. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
+Venus entra a Sagitario y a tu sector social el martes, por lo que las próximas semanas podrían ser algunas de los mejores para el romance. Es igualmente útil si quieres hacer nuevos amigos o moverte hacia nuevos círculos. También podrías sentir mucha inquietud y emoción sin saber muy bien por qué. Una poderosa influencia en tu sector psicológico sugiere que ciertos sentimientos pueden salir a la superficie y necesitan ser reconocido y liberados. Si logras hacer esto, ¡te sentirás mucho mejor!
 
 ## Dinero
 
-Es probable que estés mezclando tus contactos personales con los profesionales esta semana. El Universo te muestra cómo buscar a las personas de cualquier grupo que puedan ayudarte a avanzar en un producto, servicio, empresa o causa. Esta semana, busca a los nacidos en otros países, o los que hablan otro idioma. Cierta actividad en tu sector de dinero indica que tienes la creatividad, pero no la verdadera visión para los negocios con el fin de ganar más dinero ahora.
+Cierta actividad en tu sector de dinero y de valores hace que sea prácticamente imposible evitar todas las ofertas y las oportunidades de ganar más a corto plazo. Haz heno mientras el Sol brilla. Esto es especialmente cierto ya que algunos de los aspectos son desafiantes. Puede ser que tu vida en el hogar sea un poco caótica ahora. No gastes más de lo que deberías.

@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: virgo 22 de octubre 2018 al 28 de octubre 2018 
-description: Horóscopo semanal virgo 22 de octubre 2018 al 28 de octubre 2018. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+title: virgo 29 de octubre 2018 al 04 de noviembre 2018 
+description: Horóscopo semanal virgo 29 de octubre 2018 al 04 de noviembre 2018. Estás en una etapa súper confusa virgo, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: aHumbomHSCo
+ video: LNuehzfHE8M
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-22'
+ lastmod: '2018-10-29'
 ---
 
 
 
-## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+## Estás en una etapa súper confusa virgo, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 
-Has caído en la rutina virgo, quieres pelear por personas que quizás no tengan mucho en común contigo pero aún así, te sigues aferrando a algo que quizás tenga fecha de caducidad. Necesitas hablar, conversar, pero un largo tiempo y de verdad poner todas y cada una de las cartas sobre la mesa. Te guardas demasiado para ti, para dentro, y por más que intentas sacarlo es como si algo te lo impidiera. Esta semana es buena para hacer balance de lo que quieres, de lo que buscas y de lo que necesitas. No vas a parar, tienes muchas cosas que hacer y eso será lo que te aleje de algunos problemas. Pero cuando eso que hagas se acabe, el problema seguirá estando presente, seguirá en el mismo sitio donde lo dejaste, y como no lo soluciones permanecerá ahí todo el tiempo. No te agobies y respira hondo cuando algo se ponga difícil. De todo se sale virgo, ya lo sabes. Las pequeñas cosas cuentan mucho ahora así que, empieza a decir que “si” a cualquier plan que te propongan, por pequeño que sea. Si quieres salvar algo, habla virgo, habla y saca de una vez todo ese universo de sentimientos y de emociones que tienes dentro. Como no seas claro de verdad y sólo tragues y tragues, todo va a salir mal. Disfruta esta semana pero aclárate un poco…
-La semana te trae oportunidades para deliciosas citas y opciones románticas, pero también tendrás que hacerles frente a responsabilidades familiares que podrían ser muy exigentes. Si has estado esperando avanzar con una meta o ambición clave, puede que esto no suceda durante los próximos días. De hecho, es posible que necesites invertir la mayor parte de tu energía resolviendo una situación en tu hogar que ha estado presente desde hace algún tiempo. Puede que no la cures por completo, pero al menos es un buen comienzo.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+Si últimamente te has estado dando demasiados gustos, el cambio de enfoque en tu sector de salud y bienestar de esta semana podía verte tomar algunas decisiones clave. Aprovecha esta oportunidad para pensar en tus metas de salud y lo que quieres lograr. Si tu rutina de ejercicios ha desaparecido, es posible que sientas motivación para regresar a ella, sobre todo si estás iniciando un romance y tienes deseos de impresionar a alguien. Si ya tienes pareja, podían trabajar juntos para tratar de mantenerse en forma.
 
 ## Dinero
 
-Este período es sobre profesión y figuras de autoridad. Es posible que hayas seguido los pasos de alguien durante mucho tiempo sólo para darte cuenta de que ahora tienes el mismo o un mayor nivel de experiencia que él o ella. Es hora de que asumas un nuevo rol en tu vida y aceptes el salario que va con ello. Cuando lo hagas, te convertirás en todo lo que has admirado desde siempre.
+Hay actividad en el área de tu carta que rige las vidas pasadas, sueños, el karma y las instituciones, por lo que es un momento especialmente fértil en el ámbito de lo inconsciente. Podrías llegar a descubrir que tienes un talento oculto para la planificación financiera (incluso si el dinero no ha llegado a ti todavía), lo cuál puede ser un residuo del pasado. Uno de los aspectos podría probar tu paciencia ahora, pero si puedes mantener tu comunicación tranquila y neutral (no personal), obtendrás lo que necesitas.

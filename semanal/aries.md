@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: aries 22 de octubre 2018 al 28 de octubre 2018 
-description: Horóscopo semanal aries 22 de octubre 2018 al 28 de octubre 2018. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: aries 29 de octubre 2018 al 04 de noviembre 2018 
+description: Horóscopo semanal aries 29 de octubre 2018 al 04 de noviembre 2018. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: 2xjBmUdZWb8
+ video: 2vNV4gctQBw
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-22'
+ lastmod: '2018-10-29'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 
-Tienes conversaciones pendientes aries, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad aries, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas aries, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
-Puede que la semana que se aproxima te invite a evaluar tu presupuesto y quizá a crear uno nuevo que sea más balanceado y adecuado a tus necesidades actuales. Con Marte, tu planeta financiero, atravesando Tauro, puede valer la pena conocer personas nuevas que puedan ayudarte a aprovechar al máximo el dinero que ganas. Este puede ser un buen momento para que aprendas cosas nuevas y entiendas cómo mejorar tu seguridad financiera a la vez que disfrutas la vida.
+Eres demasiado honesto con el resto aries y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Capri, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+La tentación podría ser dar y dar hasta agobiarte. El enfoque en el signo de Piscis y tu sector de trabajo y servicio sugiere que sientes que es tu deber ayudar a los demás, sin importar tus propias necesidades. Pero este enfoque no puede sostenerse. Y con el alegre Mercurio y el sol en línea con el precavido Saturno esta semana, el cosmos te anima a establecer límites más saludables. Tendrás que darle algo a tu persona en algún momento, y este puede ser el momento para hacerlo.
 
 ## Dinero
 
-Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.
