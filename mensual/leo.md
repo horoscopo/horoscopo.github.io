@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo leo octubre 2018
-description: El Horóscopo octubre de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo leo noviembre 2018
+description: El Horóscopo noviembre de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo octubre, horoscopos en español, horóscopo leo octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo noviembre, horoscopos en español, horóscopo leo noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
- video: 5XcBUZJgvC4
+ video: 8yx2runWV3s
 
 ogimg: /images/mes/leo_mes.png
 sitemap:

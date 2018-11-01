@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo leo octubre 2018 
+title: Horoscopo leo noviembre 2018 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
- video: 5XcBUZJgvC4
+ video: 8yx2runWV3s
 
 ogimg: /images/leo_char.png
 sitemap:

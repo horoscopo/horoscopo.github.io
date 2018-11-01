@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo aries octubre 2018 
+title: Horoscopo aries noviembre 2018 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
- video: wEuMVEpseGo
+ video: 5x4Qa98A0K8
 
 ogimg: /images/aries_char.png
 sitemap:

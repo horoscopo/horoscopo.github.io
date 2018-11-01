@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo escorpio octubre 2018
-description: El Horóscopo octubre de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo escorpio noviembre 2018
+description: El Horóscopo noviembre de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo octubre, horoscopos en español, horóscopo escorpio octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo noviembre, horoscopos en español, horóscopo escorpio noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
- video: FyBSsM0iHws
+ video: GO_Ukm6OqDc
 
 ogimg: /images/mes/escorpio_mes.png
 sitemap:

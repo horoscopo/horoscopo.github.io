@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo geminis octubre 2018 
+title: Horoscopo geminis noviembre 2018 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
- video: -0of31KxuA4
+ video: Ej-4_e_kaIw
 
 ogimg: /images/geminis_char.png
 sitemap:

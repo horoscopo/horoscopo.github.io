@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo virgo octubre 2018 
+title: Horoscopo virgo noviembre 2018 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: YN0doiRHdWo
+ video: 3V5roGRbolI
 
 ogimg: /images/virgo_char.png
 sitemap:

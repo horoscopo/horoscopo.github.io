@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo geminis octubre 2018
-description: El Horóscopo octubre de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo geminis noviembre 2018
+description: El Horóscopo noviembre de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo octubre, horoscopos en español, horóscopo geminis octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo noviembre, horoscopos en español, horóscopo geminis noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
- video: -0of31KxuA4
+ video: Ej-4_e_kaIw
 
 ogimg: /images/mes/geminis_mes.png
 sitemap:
