@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
- video: 5x4Qa98A0K8
+ video: 24EXxJHbZGQ
 
 ogimg: /images/aries_char.png
 sitemap:
@@ -15,10 +15,10 @@ sitemap:
 ---
 
 
-Oct. de 2018 - Venus se torna retrógrado el 5 de octubre. El verdadero amor no desaparecerá. De hecho, puede que se vuelva más fuerte y más serio. Sé súper amable con los corazones ajenos. 
-En la luna nueva del día 8, el romance puede venir a buscarte. Si no te interesa, o si ya estás es una relación agradable, permite que te halaguen. Recibe esta atención con elegancia. 
-La cuadratura que Venus forma con Marte el 10 de octubre podría desatar una discusión que era inminente. No necesitas entrar en eso. No impongas tu propia agenda de forma agresiva por el momento. 
-La luna forma una conjunción con Marte el día 18. Da lo mejor de ti y sé más fuerte durante los próximos días. Haz algo bueno con ello. Será útil cuando Mercurio forma una cuadratura con Marte al día siguiente. 
-Conecta a un nivel profundo con alguien durante la luna llena del 24 de octubre. Aclara un malentendido, o comparte un momento revelador que despeje el ambiente y abra el camino hacia un proyecto importante. 
-Días destacados: 8, 23, 28
-Días desafiantes: 4, 11
+Nov. de 2018 - Tú debes ser la respuesta al sueño imposible de alguien durante la luna nueva del 7 de noviembre. Un problema que nunca te interesó ahora podría involucrarte, por el bien de todos. Haz el bien, y siéntete genial al respecto. 
+Un asunto romántico tiene más sentido el día 9, cuando Venus forma un trígono con Marte. 
+Marte entra a Piscis el 15 de noviembre. Una fantasía podría cobrar más vida. Al día siguiente, Venus se torna directo y Mercurio se torna retrógrado. Tómatelo con calma y escucha con más atención. 
+El día 19, Marte forma una cuadratura con Júpiter y podría volverse más difícil tener tanta ambición como deseas. 
+La luna llena del 22 de noviembre te recuerda que, sí, hay un mundo grande y maravilloso ahí afuera, pero no tienes que armar tus maletas y escapar. Descubre algo que demuestra cómo la escena local y tus amistades son una parte importante de ese mundo más grande y exótico. Tu vecindario podría parecer exótico para las personas que están fuera de tu círculo inmediato. 
+Días destacados: 9, 15, 25
+Días desafiantes: 16, 26
