@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
- video: GO_Ukm6OqDc
+ video: 2HOYTtKUwCk
 
 ogimg: /images/escorpio_char.png
 sitemap:
@@ -15,10 +15,10 @@ sitemap:
 ---
 
 
-Oct. de 2018 - Venus se torna retrógrado en Escorpión el 5 de octubre. El amor se vuelve incluso más serio, misterioso y profundo. Puede que quieras entrar de cabeza en una relación, pero posponer los compromisos formales hasta después del 16 de noviembre es tu mejor opción. 
-Los momentos personales de tranquilidad son de gran importancia durante la luna nueva del día 8. Vuelve a entrar en contacto con tus propios pensamientos e impresiones internas y profundas. No importa si tienes mucho qué hacer, pon en tu agenda más tiempo libre para ti. 
-El 10 de octubre, Mercurio forma una oposición con Urano. Tu intuición funciona perfectamente sin saber todo antes de tiempo. 
-Cuando el sol forma una cuadratura con Plutón al día siguiente. Tienes derecho a tener algunas inseguridades. Sin embargo, no te paralices, en cambio, haz algunos cambios y mejoras. 
-Puedes correr, pero no puedes esconderte de la luna llena del 24 de octubre. Irradias encanto, y las personas te encontrarán. Quieren agradarte sin importar cómo te sientas o qué hagas. Alguien totalmente inesperado podría acercarse a ti. 
-Días destacados: 13, 18, 27
-Días desafiantes: 2, 10
+Nov. de 2018 - Apuesta todo con la luna nueva del 7 de noviembre. Tienes poder y recursos que la mayoría de la gente no puede ni imaginar, y que nadie más siquiera puede ver. Escoge algo significativo y bueno, y hazlo. 
+Venus forma un trígono con Marte el día 9. El amor puede verse fortalecido, pero aún está oculto. 
+El 15 de noviembre, Marte entra a Piscis. Puede que ahora te resulte más fácil leer a las personas. Venus se torna retrógrado y Mercurio se torna directo al día siguiente. Sé paciente con un amor que puede estar teniendo dificultades para expresarse con claridad. 
+La gente podría poner tus nervios de punta durante la luna llena del día 22, pero no tiene por qué ser así. Tienes inteligencia y recursos que otros no tienen, y tal vez hay unos celos pasivo-agresivos dirigidos hacia ti. No dejes que nada ni nadie te amenace. Siéntete en calma y seguridad. 
+Mercurio forma una cuadratura con Marte el 26 de noviembre. Puede que necesites comenzar algo más de una vez. 
+Días destacados:5, 15, 16
+Días desafiantes: 12, 19

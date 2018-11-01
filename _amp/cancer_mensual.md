@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: kTI_t6bw36Q
+ video: pyYChnQSvmY
 
 ogimg: /images/cancer_char.png
 sitemap:
@@ -15,11 +15,8 @@ sitemap:
 ---
 
 
-Oct. de 2018 - El 2 de octubre, la luna creciente en Cáncer forma un trígono con Venus. Completa algo que realmente amas, o pasa más tiempo con una amistad especial o pareja. 
-Venus se torna retrógrado el día 5. Puede parecer que las personas están menos conectadas a nivel emocional, pero eso no es verdad. Es simplemente que ahora los sentimientos están más cubiertos. 
-Con la luna nueva del 8 de octubre, podrías tener las respuestas para las preguntas de un miembro de la familia. Primero deja que busquen consejo. Si no lo hacen, disfruta de la comida que compartan amantener una conversación ligera. 
-Mercurio forma una conjunción con Venus el día 15. Puede que sea más fácil para alguien encontrar una buena forma de hablar sobre cómo se siente en verdad. 
-Diviértete mucho con la luna llena del 24 de octubre. Juega y sé audaz junto a un pequeño grupo de gente de confianza, o sal a la calle y ten una aventura loca y salvaje. 
-El sol forma una conjunción con Venus el día 26. Pórtate bien, y no juegues sucio. 
-Días destacados: 1, 10, 28
-Días desafiantes: 13, 31
+Nov. de 2018 - El 5 de noviembre, el sol en Escorpión forma un trígono con Neptuno en Piscis. El mundo se vuelve más emocional para ti, pero no para todos los que te rodean. La luna nueva del día 7 quiere que recuerdes un gran deseo olvidado. Podría ser algo totalmente personal que revive un viejo amor importante. Date el gusto. 
+El 16 de noviembre, Venus se torna directo justo antes de que Mercurio se torne retrógrado. El amor verdadero no necesitará dar explicaciones. Puede que te sientas con mucha energía durante la luna llena del día 22, y la gente podría estar pidiéndote que ocupes tu tiempo con sus problemas. Pero no dejarás que eso suceda. Consiente a tu niño interior (y a tu mente más interior) con una paz y tranquilidad más privada y de mayor calidad. Que el mundo se las arregle sin ti. 
+El 24 de noviembre, Venus se torna directo poco antes de que la luna entre a Cáncer. Deja que algo toque tu corazón, y quizás encuentres nueva inspiración y una aspiración más alta. 
+Días destacados: 9, 16, 24
+Días desafiantes: 13, 25

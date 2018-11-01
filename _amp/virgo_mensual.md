@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: 3V5roGRbolI
+ video: 03qEW4_-QUU
 
 ogimg: /images/virgo_char.png
 sitemap:
@@ -15,11 +15,9 @@ sitemap:
 ---
 
 
-Oct. de 2018 - Venus se torna retrógrado el 5 de octubre. El amor podría volverse un poco más serio y menos trivial, lo que para ti está bien. 
-Durante la luna nueva del día 8, gasta tu dinero en tu propio bienestar. Únete a un gimnasio o suscríbete para recibir productos naturales de una granja local. Piensa en más arándanos y menos chispas de chocolate (no ninguna, simplemente menos). 
-El 9 de octubre, Mercurio sale de Libra y entra a Escorpión. Si sientes que has estado saliendo mucho de fiesta, es ahora cuando puedes calmarte un poco. 
-Mercurio forma una conjunción con Venus el día 15. Relájate un poco y habla sobre asuntos que eran difíciles de abordar hace unos días. 
-¿Quieres limar asperezas con una amistad, o llegar a mejores términos con alguien del vecindario? Hazlo durante la luna llena del 24 de octubre. Puedes encantar incluso a la persona más difícil, y hacerlo de corazón. 
-Mercurio entra a Sagitario el día 30. Socializa más, y conoce mejor a las personas que te rodean. 
-Días destacados: 7, 12, 29
-Días desafiantes: 10, 19
+Nov. de 2018 - La luna nueva del 7 de noviembre reúne amistades y vecinos. Tal vez no sea una fiesta de todo el vecindario, pero se sentirá como una. Recibe cooperación y haz muchas conexiones prácticas. 
+ El día 16, Venus se torna directo justo antes de que Mercurio se torne retrógrado. Mantén la organización, tómatelo con calma al tomar decisiones, y deja que un asunto romántico se resuelva antes de celebrar. 
+Conocidos y colegas podrían demandar tu tiempo durante la luna llena del 22 de noviembre, pero deberías ser capaz de aplacarlos sin problemas. Esto puede sacar un poco de tiempo de tu vida familiar o doméstica, pero no debería ser nada muy severo. Ahora puedes hacer feliz a mucha gente. 
+Mercurio forma una cuadratura con Marte el día 26. Al día siguiente, el sol y luego Júpiter forman una conjunción con Mercurio. Durante estos dos días, confía en tus instintos y emociones más que en tu intelecto. Razonar está bien, pero los sentimientos son más reveladores. 
+Días destacados: 14, 16, 27
+Días desafiantes: 19, 29

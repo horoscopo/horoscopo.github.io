@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo geminis noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
- video: Ej-4_e_kaIw
+ video: ID9iu4fI57k
 
 ogimg: /images/mes/geminis_mes.png
 sitemap:
@@ -17,11 +17,9 @@ sitemap:
 ---
 
 
-Oct. de 2018 - El 2 de octubre, Mercurio forma una cuadratura con Plutón. Puedes enfrentarte a un problema que no tiene respuestas, al menos no por ahora. Sé paciente, y no te dejes aturdir. 
-Venus se torna retrógrado el día 5. Puede que el amor vaya más lento, pero eso puede ser algo bueno. Tienes más tiempo para pensar bien las cosas. 
-Tanto tu cabeza como tu corazón quieren recibir cariño durante la luna nueva del 8 de octubre. Haz cosas divertidas e interesantes. Vuélvete una persona más creativa y divertida sin ser demasiado audaz o imprudente. 
-Mercurio sale de Libra y entra a Escorpión el día 9. Tómate más en serio la manera en que pasas tiempo con los demás. 
-Siéntete más a gusto y estable en tu rutina diaria cuando la luna llena brilla el 24 de octubre. Si tienes cualquier duda arraigada que necesitas despejar, mantén la calma, y mira cómo las soluciones aparecen de la nada. Sé feliz, y trátate bien. 
-Mercurio entra a Sagitario el día 30. ¡Vuelve la época de fiestas! 
-Días destacados: 12, 15, 29
-Días desafiantes: 10, 19
+Nov. de 2018 - Cuídate bien y no te dejes llevar demasiado durante la luna nueva del 7 de noviembre. Siempre hay más cosas para hacer que tiempo para hacerlas. Tómatelo con calma y enfócate. No necesitarás volver a hacer algo que consigues terminar ahora. 
+El día 9, la luna forma una conjunción con Mercurio. Piensa mucho y en profundidad sobre algo importante. Mercurio se torna retrógrado el 16 de noviembre, justo después de que Venus se torna directo. No te apresures en hablar sin pensar, en especial sobre amor. 
+Para la luna llena del día 22, verás aspectos de ti en tu pareja. Sé una persona más generosa. Te sorprenderá la cantidad de afecto y buena voluntad que vuelve a ti. Ahora salgan más y sean más ambiciosos juntos. 
+Mercurio forma una cuadratura con Marte el 26 de noviembre. Analiza, pero no te critiques demasiado. Al día siguiente, el sol y luego Júpiter forman una conjunción con Mercurio. Ahora los instintos y las primeras impresiones podrían ser más útiles. 
+Días destacados: 9, 14, 19
+Días desafiantes: 16, 26

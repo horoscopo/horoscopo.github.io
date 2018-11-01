@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
- video: qmC6KZr67RE
+ video: ZVLhDFXqVWg
 
 ogimg: /images/sagitario_char.png
 sitemap:
@@ -15,10 +15,9 @@ sitemap:
 ---
 
 
-Oct. de 2018 - Venus se torna retrógrado el 5 de octubre. El amor se torna más serio y quizás un poco más frío, pero el verdadero afecto y devoción no desaparecerán. Puedes volver a evaluar la relación ahora. 
-Para la luna nueva del día 8, sal de la casa y ten más actividad social. Este no es momento para jugar a ser una persona ermitaña, y de todos modos no es algo natural para ti. Socializa con una multitud más grande, y tal vez haz alguna influyente amistad. 
-La luna forma una conjunción con Júpiter el 11 de octubre. Algo pequeño puede salir como deseas, y luego acabar siendo algo grande. 
-Sé una persona hogareña durante la luna llena del día 24, sin dejar de tener mucha interacción social. Comunícate con más personas a distancia. Si has estado socializando demasiado, tómate un descanso y retoma tu rumbo. 
-Mercurio entra a Sagitario el 30 de octubre. Piensa en cosas más grandes, y comunícate con más gente. Crece mentalmente, y aprende muchas cosas. 
-Días destacados: 3, 16, 29
-Días desafiantes: 19, 26
+Nov. de 2018 - Cuando la luna nueva llega el 7 de noviembre, puedes pasar los momentos más productivos y placenteros en privado, o con una o dos amistades especiales e íntimas. Después, podrías darte cuenta de que una gran revelación se puso en tu camino. Al día siguiente, Júpiter entra a Sagitario. Tal vez lleve un esfuerzo extra ir más despacio y no dejarte llevar. Sé una persona generosa, dentro de lo razonable. 
+El día 16, Venus se torna directo mientras Mercurio se torna retrógrado. Date más tiempo antes de hablar o actuar, en especial con respecto al amor. 
+El amor es todo lo que importa durante la luna llena del 22 de noviembre. Sigue tu corazón, pero no vayas demasiado lejos. Lo que sientes ahora puede ser intenso, pero tal vez no dure mucho. Una buena pareja entenderá y querrá compartir lo que sea bueno para ti. El sol entra a Sagitario ese mismo día. La vida social podría aumentar drásticamente. 
+La conjunción entre el sol y Júpiter el día 25 te da poder. Haz cosas buenas. 
+Días destacados: 8, 15, 23
+Días desafiantes: 19, 29

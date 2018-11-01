@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo capricornio noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
- video: 7KjJZN0FsD8
+ video: zZgZGFmsMmQ
 
 ogimg: /images/mes/capricornio_mes.png
 sitemap:
@@ -17,9 +17,9 @@ sitemap:
 ---
 
 
-Oct. de 2018 - El 5 de octubre, Venus se torna estacionario retrógrado en Escorpión. El amor se vuelve más serio y menos demostrativo, lo que te sienta bien. Explora las profundidades de una relación, pero trata de posponer cualquier compromiso firme hasta después de que Venus se torne directo el 16 de noviembre. 
-La luna nueva del día 8 podría traer una oportunidad profesional o social que mejore tu vida considerablemente. Además, puede ser un gran beneficio para otras personas. Cree en ti, sé realista (como siempre), y haz lo que puedas. Ahora puedes lograr muchas cosas. 
- La luna forma una conjunción con Saturno el 14 de octubre. Ten más autoridad y hazte cargo de un asunto que ha estado atascado. 
-Únete a un grupo de baile, club de jardinería o certamen de poesía cuando la luna está llena el 24 de octubre, y conocerás a muchas personas nuevas. Profundas amistades pueden llegar después (o no), pero igual será divertido. Mantén en privado tus intereses más excéntricos hasta entonces. 
-Días destacados: 12, 19, 24
-Días desafiantes: 11, 29
+Nov. de 2018 - Eres un imán social con la luna nueva del 7 de noviembre. Personas con las que nunca consideraste hablar podrían verse atraídas a ti en busca de opiniones, consejos y reconocimiento. Sé amable, pero no elogies porque sí. El día 11, una conjunción entre la luna y Saturno te da un poco más de autoridad para alcanzar muchas metas. Actúa con responsabilidad y respeto. 
+Venus se torna retrógrado y Mercurio se torna directo el 16 de noviembre. Una relación podría volverse más auténtica, si no más fácil, en los próximos días. Los malentendidos todavía son posibles. 
+Durante la luna llena del día 22, puede que tengas muchas cosas encima, y pensar que no tienes tiempo para nada más. Relájate, si puedes, y alivia el estrés con proyectos o tareas pequeñas pero placenteras que simplemente te hagan sentir mejor contigo. No dejes que el mundo te agobie (y lo intentará). 
+El sextil entre Marte y Saturno el 27 de noviembre facilita trabajar de manera efectiva. 
+Días destacados: 2, 21, 29
+Días desafiantes: 12, 25
