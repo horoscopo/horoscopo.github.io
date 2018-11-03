@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 02 de noviembre 2018
-description: Horóscopos del dia de hoy 02 de noviembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 03 de noviembre 2018
+description: Horóscopos del dia de hoy 03 de noviembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-11-02
+ lastmod: 2018-11-03
 ---
-Celebra un sentido de logro y satisfacción al ponerle los toques finales a un proyecto a corto plazo que se complicó un poco. Ahora puedes abordar el siguiente proyecto en tu lista de tareas pendientes. Los solteros disfrutan de reuniones inesperadas cuando la Luna en Acuario forma trígono con Júpiter. Las sorpresas hacen de esta, una noche feliz.
+Prepárate para mostrar tu excepcional tacto cuando durante todo el día y toda la noche se te pida que recuerdes la sabiduría de decir las cosas en el más suave de los tonos. Con un tono diplomático y relajado, mientras mejor te lleves con los demás, más vas a lograr. Un poco de amor incondicional también funciona bien dentro de tus relaciones importantes.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
