@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 29 de octubre 2018 al 04 de noviembre 2018 
-description: Horóscopo semanal leo 29 de octubre 2018 al 04 de noviembre 2018. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+title: leo 05 de noviembre 2018 al 11 de noviembre 2018 
+description: Horóscopo semanal leo 05 de noviembre 2018 al 11 de noviembre 2018. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca leo.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: fyOOjhu_TJQ
+ video: 41uAAZDvgCI
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-29'
+ lastmod: '2018-11-05'
 ---
 
 
 
-## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca leo.
 
-A veces, no es fácil vivir la vida leo, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera leo. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-A pesar de que podrías estar feliz de disfrutar de más tiempo libre y más opciones sociales, también es posible que anheles una experiencia más profunda. Si es así, parece que tu deseo podría serte concedido esta semana. Un potente enfoque en tu sector de transformación alude a una decisión que podría tener importantes consecuencias y llevar tu vida hacia un nuevo nivel. Incluso podría sentirse como un renacimiento. Mantén tu guardia en alto contra aquellos que utilizan el dinero como una forma de manipularte. ¡Mantente firme!
+No puedes estancarte con algo leo, no debes dejar de crecer nunca. Esta semana vas a estar pensando y analizando la situación de tu vida, ¿estás haciendo lo que realmente quieres hacer? No leo, hay cosas que quieres cambiar pero tienes que cambiarlas ya, empezar y terminar. No puedes conformarte con la vida que estás llevando, el tiempo pasa muy deprisa y cuando te quieras dar cuenta quizás ya sea demasiado tarde, o quizás te sea mucho más complicado tomar decisiones. Sigue con tus proyectos y no te amargues cuando no veas resultados inmediatos. Lo bueno siempre tarda en llegar. Lo que tienes que hacer es no desanimarte. Saca tu verdadero yo, no te metas en nada superficial, al fin y al cabo esas cosas te merman mucho, no es lo tuyo leo. No vale ni un segundo de tu tiempo. No te calientes demasiado acordándote de cosas que ya fueron y que ahora no son, que jamás podrán volver a ser, sigues perdiendo tu tiempo como lo hagas así. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. No eres mediocre leo así que, no quieras llevar esa vida, agarra el amor propio que te sale para buscar mejores oportunidades. No es que seas egoísta, no es que te vuelvas egoísta, es que es algo vital que hagas tu vida.
+A partir del martes, tu sector de hogar estará en el centro de atención a medida que el conversador Mercurio y el encantador Venus ingresan a éste. Las próximas semanas pueden ser excelentes para recibir invitados, embellecer tu hogar y aprovechar al máximo la compañía de tus seres queridos. Al mismo tiempo, el jovial Júpiter ingresa a su fase de retroceso el jueves, lo que podría animarte a volver a ponerte en contacto con viejas amistades o socios, en especial si quieres volver a entablar la relación. Sin embargo, ve con tranquilidad el fin de semana, en especial si sientes que se acerca un impulsivo estado de ánimo.
 
 ## Dinero
 
-El dinero es una forma de encontrar la seguridad que buscas. Es probable que notes que ahora, tus lados masculino y femenino están bastante equilibrados. ¡Buen trabajo! Dado que esto afecta a tu empleo, salud, y actividades cotidianas, es probable que todo en el trabajo vaya bien. Les estás dando una buena  impresión a los jefes. Si quieres llevar esto un paso más allá, proponte para voluntariamente encabezar un proyecto especial. ¡Generarás una increíble opinión en tus jefes!
+Estás tratando de expresarte más en lo que se refiere a trabajo y dinero ahora. Es el momento perfecto para hablar acerca de tus prioridades y que se te escuche en lo que se refiere a dinero en efectivo. No dejes que alguien más en el trabajo o en una relación estrecha sea demasiado dominante con sus ideas sobre el dinero. Juntos, pueden mover montañas – a solas, no tanto.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 29 de octubre 2018 al 04 de noviembre 2018 
-description: Horóscopo semanal geminis 29 de octubre 2018 al 04 de noviembre 2018. No desaproveches las oportunidades más geminis, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
+title: geminis 05 de noviembre 2018 al 11 de noviembre 2018 
+description: Horóscopo semanal geminis 05 de noviembre 2018 al 11 de noviembre 2018. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos geminis. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: PCtdkFYot_c
+ video: fC_co5GRv2w
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-29'
+ lastmod: '2018-11-05'
 ---
 
 
 
-## No desaproveches las oportunidades más geminis, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
+## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos geminis. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
 
-A veces dejas las puertas medio abiertas geminis, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar geminis porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien geminis, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado geminis, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
-Los problemas relacionados con las finanzas y asuntos comerciales compartidos podrían captar tu atención durante esta semana. Sin embargo, no te apresures a tomar cualquier decisión grande ni a firmar nada importante. Con el interactivo Mercurio actualmente en su fase retrógrada, puede que sea prudente poner el freno por el momento. Las cosas podrían cambiar en las próximas semanas. Por otro lado, las relaciones se ponen de relieve cuando el energético Marte ingresa a Escorpión. Esto pone en marcha las cosas y te ofrece la oportunidad de relajarte. Las negociaciones pueden ser beneficiosas, si se realizan con cuidado.
+Son muchos los que quieren arruinar tu vida geminis, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa geminis, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega geminis. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos geminis. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida geminis. Ahora brillas así que, aprovecha. Aprovecha todo.
+Una expansiva mezcla de energías esta semana sugiere que asumir un pequeño riesgo sin peligro podría resultar en dinero fácil. Sin embargo, puede que busques algo más grande y es aquí donde tienes que tener cuidado. Si bien una jugada puede salir bien, las energías actuales indican que quizá sea demasiado riesgoso. Quizá te convenga invertir tu dinero extra en proyectos o ideas que sin duda impactarán de buena manera tu futuro.
 
 ## Dinero
 
-El Universo está afectando a tu sector de deuda y el dinero de los demás, mientras que le trae cambios a tu sector profesional. Este no es el momento de gastar en exceso. Más bien, es mejor invertir este tiempo en pagar tus deudas más urgentes mientras que consolidas tu carrera con otras actividades de desarrollo de habilidades, tales como seminarios. Te convertirás en un valor incalculable para tu empleador y también garantizarás tu seguridad en tu empleo.
+Tienes entusiasmo para moverte esta semana, especialmente con respecto a tu dinero. Esto puede proporcionarte un nuevo impulso para salir y encontrar un nuevo trabajo o pensar cómo iniciar un negocio secundario para aumentar tus ingresos. El Universo quiere que te destaques entre la multitud, así que asegúrate de ser visto y oído como individuo. Ciertos aspectos en tu sector de carrera indican que debes esforzarse para proporcionar una imagen tranquila y confiada.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 29 de octubre 2018 al 04 de noviembre 2018 
-description: Horóscopo semanal escorpio 29 de octubre 2018 al 04 de noviembre 2018. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+title: escorpio 05 de noviembre 2018 al 11 de noviembre 2018 
+description: Horóscopo semanal escorpio 05 de noviembre 2018 al 11 de noviembre 2018. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: ZclljvtP2oM
+ video: shhqUMma2AE
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-29'
+ lastmod: '2018-11-05'
 ---
 
 
 
-## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 
-Hay cosas que no se pueden cambiar escorpio, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos escorpio, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia escorpio pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
-La Luna Nueva del martes en tu sector espiritual te anima a pensar acerca de tu ser interior. De hecho, esta puede ser una oportunidad para iniciar el hábito regular de visualizar tus objetivos, obteniendo inspiración de tus sueños y prestándole atención a ideas creativas que parezcan surgir de la nada. Venus entra a tu signo el viernes, poniéndote en estado de ánimo para entablar nuevas conexiones. También es un buen momento para darte un cambio de imagen en caso de que quieras y se siente bien hacerlo.
+No eres frágil escorpio, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo escorpio, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra escorpio, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz escorpio, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando escorpio, y sabes lo complicado que es salir de ahí después…
+Si quieres impresionar a alguien, los próximos días y semanas podrían ser el mejor momento para hacerlo. Con una combinación de encanto e inteligente conversación, es posible que descubras que puedes progresar. Las personas pueden sentirse atraídas hacia ti, lo que puedes usar a tu favor. Cuando el sol ingresa a este mismo sector el martes, puede que te impulses a toda velocidad hacia el centro de atención. Si tienes talentos que quieres compartir, es el momento para hacerlo. Sin embargo, Mercurio se vuelve retrógrado a mitad de semana. Presta atención a los errores o malentendidos.
 
 ## Dinero
 
-Cuando alguien quiere saber cómo establecer una red en conjunto, acude a ti. Entiendes a un nivel muy profundo cómo trabajar con otros para beneficiar a todos los involucrados. Ahora tendrás todo el apoyo que necesitas para atraer más dinero a través del uso de tus conocimientos, al completar un plan de negocios, o al buscar inversionistas formales. No tengas timidez. Pide lo que necesitas.
+Tu individualidad viene justo en contra del dinero o la deuda de otras personas. Te podría sorprender el encontrar algo que no esperabas en esta área de tu vida. Asegúrate de haber pagado todo y haber pasado por alto una factura o te arriesgas a pagar multas y sanciones. Hay un aspecto afortunado que demuestra que puede ser muy bueno que pagues las deudas justo después de que la factura llegue. ¡Fuera de tu vista, fuera de tu mente!

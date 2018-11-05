@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: libra 29 de octubre 2018 al 04 de noviembre 2018 
-description: Horóscopo semanal libra 29 de octubre 2018 al 04 de noviembre 2018. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario libra.
+title: libra 05 de noviembre 2018 al 11 de noviembre 2018 
+description: Horóscopo semanal libra 05 de noviembre 2018 al 11 de noviembre 2018. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagi, ¡NO MEZCLES!
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: XqZrqGZSiPE
+ video: lMT64gwP5os
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-29'
+ lastmod: '2018-11-05'
 ---
 
 
 
-## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario libra.
+## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagi, ¡NO MEZCLES!
 
-Además, que últimamente te han dado muchos chutes de alegría algunas personas alegres y positivas que hacía mucho que no encontrabas en tu vida así que, ¿para qué volver a las que amargan? Por favor… 
- y el hecho de que las personas que creías que querías y te querían te den la mitad que otras te decepciona mucho. Y vuelves a la carga.
-Una leve ansiedad podría serte causada por no tener completo control de cierta situación o cuestión clave. Puedes fácilmente darle fin a esto con la ayuda de una amistad bien intencionada. Su perspectiva podría ser crucial en traerte paz mental. Mientras tanto, es una maravillosa semana para salir de compras. Hay una buena probabilidad de que encuentres justo lo que estás buscando. Investiga tus opciones antes de acudir a tiendas, ya que hacerlo te encontrará descuentos.
+Tu cabeza quiere un cambio libra, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira libra, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero libra por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
+Aunque puede que sientas muchas ganas de cumplir un objetivo, una persona podría decirte que lo hagas con cautela. ¿Deberías hacerle caso? Quizá no, ya que otra potente mezcla de energías sugiere que debes escuchar a tus instintos, y aquello que percibes como una buena jugada, quizá lo sea. Hay momentos en los que ciertas personas en tu vida te dan buenos consejos, pero durante los primeros días de la semana, esto podría hacerte dudar más que ayudarte.
 
 ## Dinero
 
-Es hora de renovar tus habilidades comunicativas. ¿Te cansa que se les promueva a los demás y no a ti? No es la calidad de su trabajo, sino la forma en la que son capaces de lograr que sus superiores se den cuenta de lo que hacen. Ahora, con algunas personas realmente únicas entrando en tu círculo social, eres capaz de sentir más comodidad con tu falta de normalidad. A partir de ahí, todo lo que tienes que hacer es pedir lo que vales.
+Esta semana se trata de un aspecto tenso que afecta a tu sector de deuda o el dinero de otros. Es imperativo que adoptes una nueva forma de ver la deuda en tu vida. Si puedes, págala por completo o comienza a usar tu tarjeta con menos frecuencia.

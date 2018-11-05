@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 29 de octubre 2018 al 04 de noviembre 2018 
-description: Horóscopo semanal capricornio 29 de octubre 2018 al 04 de noviembre 2018. No es que estés cambiando capricornio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+title: capricornio 05 de noviembre 2018 al 11 de noviembre 2018 
+description: Horóscopo semanal capricornio 05 de noviembre 2018 al 11 de noviembre 2018. Retírate del mundo artificial capricornio, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: rX91M79tzUs
+ video: VRn5GnstdDI
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-29'
+ lastmod: '2018-11-05'
 ---
 
 
 
-## No es que estés cambiando capricornio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+## Retírate del mundo artificial capricornio, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 
-Hace mucho tiempo que no te das un buen capricho capricornio, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes capricornio. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
-Venus entra a Sagitario y a tu sector social el martes, por lo que las próximas semanas podrían ser algunas de los mejores para el romance. Es igualmente útil si quieres hacer nuevos amigos o moverte hacia nuevos círculos. También podrías sentir mucha inquietud y emoción sin saber muy bien por qué. Una poderosa influencia en tu sector psicológico sugiere que ciertos sentimientos pueden salir a la superficie y necesitan ser reconocido y liberados. Si logras hacer esto, ¡te sentirás mucho mejor!
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio capricornio, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+Puede que debas tomar una decisión difícil en relación con una de tus amistades o un grupo social al comienzo de la semana. De nada vale demorarla, ya que solo estarás posponiendo lo inevitable. Haz lo que debes hacer y sentirás mucho más alivio durante el resto de la semana. Con el enérgico Marte en oposición al incansable Urano el martes, el deseo de hacer lo que quieres podría encontrarte optando por tomar un camino más independiente. Mercurio se vuelve retrógrado el sábado; trata de terminar las tareas importantes antes.
 
 ## Dinero
 
-Cierta actividad en tu sector de dinero y de valores hace que sea prácticamente imposible evitar todas las ofertas y las oportunidades de ganar más a corto plazo. Haz heno mientras el Sol brilla. Esto es especialmente cierto ya que algunos de los aspectos son desafiantes. Puede ser que tu vida en el hogar sea un poco caótica ahora. No gastes más de lo que deberías.
+Se te está dando una oportunidad importante esta semana. Esto te da tiempo a tomar cargo de lo que debes y encontrar una manera amistosa para pagarlo. Sin embargo, tus amigos y grupos sociales no pueden ser el mejor lugar para encontrar información financiera confiable. Sin ofenderlos, tienen objetivos diferentes a los tuyos. Es posible que debas seguir tu propio camino.

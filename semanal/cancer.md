@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 29 de octubre 2018 al 04 de noviembre 2018 
-description: Horóscopo semanal cancer 29 de octubre 2018 al 04 de noviembre 2018. Llega una buenísima semana cancer pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+title: cancer 05 de noviembre 2018 al 11 de noviembre 2018 
+description: Horóscopo semanal cancer 05 de noviembre 2018 al 11 de noviembre 2018. Escapa cancer, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: xy3fEOM48M8
+ video: Q1aEf6eLxyA
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-29'
+ lastmod: '2018-11-05'
 ---
 
 
 
-## Llega una buenísima semana cancer pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+## Escapa cancer, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
 
-Céntrate en tus metas cancer, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
- Tu vida social sigue estando muy activa y parece que te estás divirtiendo a lo máximo. Esta semana te trae una oportunidad de oro para convertir tus sueños en realidad, especialmente si trabajas en la misma sintonía con amistades o con otras personas. La luna nueva en tu sector de amistad sugiere que este podría ser el momento perfecto para poner en marcha este proyecto. El enfoque se desplaza hacia un sector más apartado de tu carta astral el 17 de enero. Las cuatro semanas que se acercan serán un período de relajación y reflexión.
+No te arrepientas de abrirte cancer, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles cancer, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar cancer, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos cancer, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+La Luna Nueva de esta semana puede ser una gran oportunidad para mejorar tus habilidades o considerar estudiar una carrera que te abra el camino a un mejor trabajo o a mejores oportunidades empresariales. Lo que pueda expandir tus horizontes puede ser muy bueno para ti en este momento. Y con Marte en el sector superior de tu carta alentándote a buscar tu lugar en el centro de atención, lo que te ayude a conseguirlo es bienvenido.
 
 ## Dinero
 
-Ahora tienes una situación de buenas noticias/malas noticias en tus manos. La buena noticia es que tu sector de carrera y figuras de autoridad se ve afectado positivamente, lo que indica un tiempo de mejores oportunidades y un mayor acceso a flujos de efectivo. La mala noticia es que puede que creas que no necesitas cambiar. Trata de salir adelante mediante la cooperación, no la lucha.
+Lo tuyo es el poder ahora. Los demás acuden a ti en busca de respuestas y tú se las proporcionas - por un precio. Cierta tensión puede surgir entre tu tiempo de descanso y tu imagen. Cierta actividad en tu sector de viajes y educación superior indica que piensas en qué parte te vendría bien reforzar tus habilidades. Clases de fin de semana podrían permitirte cobrar más.

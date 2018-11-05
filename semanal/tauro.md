@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 29 de octubre 2018 al 04 de noviembre 2018 
-description: Horóscopo semanal tauro 29 de octubre 2018 al 04 de noviembre 2018. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+title: tauro 05 de noviembre 2018 al 11 de noviembre 2018 
+description: Horóscopo semanal tauro 05 de noviembre 2018 al 11 de noviembre 2018. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar tauro, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: ZyQ3w5m7Zss
+ video: HTWs7pIuWiQ
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-29'
+ lastmod: '2018-11-05'
 ---
 
 
 
-## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar tauro, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 
-Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capri, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
-¿Sería prudente comprometerme con una relación? Esta pregunta podría estar en tu mente durante la próxima semana y podría ser destacada por el Eclipse Lunar del viernes. Si te encuentras cayendo en enamoramiento, podría ser mejor contenerte durante una semana para asegurarte de que sea real. Las relaciones iniciadas durante Eclipses a menudo pueden tomar un rumbo inesperado. No te apresures a llamar a esta persona “tu pareja” por el momento.
+Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. tauro, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota tauro, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando tauro. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce tauro, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+El interesante vínculo entre Venus y Urano del martes podría coincidir con un encuentro inesperado o una conversación que traiga consigo interesantes y emocionantes noticias. Sin embargo, podrías experimentar algunos retrasos en referente a finanzas. Si tienes cuentas que pagar y otros gastos a tomar en cuenta, puede que te ayude apartar un poco de dinero para cubrirlos. Si tienes planeado salir de compras, guarda los recibos y el papeleo. Existe la posibilidad de que cierta compra no te complazca.
 
 ## Dinero
 
-Para ti esta semana se trata de relaciones que no te apoyan. Quieres avanzar hacia las metas financieras y relacionadas con el trabajo. La decisión puede estar entre el brillar con luz propia  como individuo o como miembro de un gran equipo. Parte de ti quiere alimentar ego, pero el otro, el más inteligente, se da cuenta de que la mejor opción es trabajar en equipo y servir al bien común.
+Es un tiempo muy ocupado para ti. Tanto está pasando que lo único que tus jefes quieren hacer es promocionarte, darte vino, llevarte a cenar y demás. Puede que te sea difícil encontrar tiempo para ti mismo/a. Esto sólo temporal. Un aspecto armónico te mueve en la posición de autoridad que por destino tienes que ocupar. ¡Que lo disfrutes!

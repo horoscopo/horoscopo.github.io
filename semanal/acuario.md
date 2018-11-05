@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 29 de octubre 2018 al 04 de noviembre 2018 
-description: Horóscopo semanal acuario 29 de octubre 2018 al 04 de noviembre 2018. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho acuario. Más que nunca…
+title: acuario 05 de noviembre 2018 al 11 de noviembre 2018 
+description: Horóscopo semanal acuario 05 de noviembre 2018 al 11 de noviembre 2018. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: 0aNKxtvt5G4
+ video: vC1Rk-ihLSM
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-29'
+ lastmod: '2018-11-05'
 ---
 
 
 
-## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho acuario. Más que nunca…
+## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 
-Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real acuario, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Capri. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría acuario, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
-Te surgen abundantes oportunidades comerciales, dando lugar a aventureras ideas. Unir tus recursos con una o dos personas podría facilitarte avanzar y aumentar tus ganancias. Esto no va a suceder de la noche a la mañana, pero sí te ayudará crear una buena estrategia y encontrar a las personas adecuadas con las cuales asociarte. El Sol entra a tu sector profesional el viernes, animándote a socializar con gente que pudiera tener poderosas conexiones. Además, ¡este fin de semana podrías toparte con un pequeño golpe de suerte!
+La meta es dura acuario, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay acuario que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normalmente, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Sagi. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Sagi… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+Continúa ampliando tus opciones y apunta alto mientras Júpiter continúa en tu signo. Además, el actual enfoque de esta semana en tu sector de diversión podría darte el deseo de organizar eventos de los que tus amigos y familia puedan disfrutar. Los esfuerzos de comunicación también se intensifican a partir de esta semana, cuando podrías verte haciéndole frente a problemas que te han fastidiado por algún tiempo. La acción es la clave para encontrar la mejor solución. Finalmente, las últimas opciones de dieta y salud podrían llamarte la atención a partir del viernes, una vez que Mercurio entre a Acuario.
 
 ## Dinero
 
-Podrías estar siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que tengas que sentir comodidad al hablar en público e iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas, será muy importante. Tu carrera necesita un poco de energía concentrada y deliberada. Disminuye  la confusión con el fin de obtener lo que se aproxima a ti.
+Puede que no seas el miembro más paciente del Zodíaco, pero esta semana puedes ganarte algunos problemas con esa manera de pensar. Los aspectos afectan a tu sector de relaciones y del hogar significando que estas áreas de tu vida no son exactamente llevadas muy bien que digamos. Lo mejor es jugar como pacificador, incluso en tu mismo interior. Por cada concesión que hagas hacia los demás, pasa algo de tiempo y dinero haciendo de tu espacio uno más acogedor.

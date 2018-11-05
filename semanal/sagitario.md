@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: sagitario 29 de octubre 2018 al 04 de noviembre 2018 
-description: Horóscopo semanal sagitario 29 de octubre 2018 al 04 de noviembre 2018. Hay cosas que no quieres que ocurran pero que debes aceptar sagitario, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+title: sagitario 05 de noviembre 2018 al 11 de noviembre 2018 
+description: Horóscopo semanal sagitario 05 de noviembre 2018 al 11 de noviembre 2018. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida sagitario. Ahora brillas así que, aprovecha. Aprovecha todo.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: TwtEXqdkRJo
+ video: up_N63C9j-k
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-10-29'
+ lastmod: '2018-11-05'
 ---
 
 
 
-## Hay cosas que no quieres que ocurran pero que debes aceptar sagitario, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida sagitario. Ahora brillas así que, aprovecha. Aprovecha todo.
 
-Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo sagitario, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no sagitario, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
-Es posible que debas manejar con cuidado tus finanzas en los próximos días. Si bien puede que tengas suerte y encuentres una buena oferta, es mejor que analices con cuidado si lo que compras es tan bueno como crees que es. Compres lo que compres, sería prudente que guardes los recibos en caso de que necesites devolver tu compra. Es posible que este no sea el mejor momento para solicitar un préstamo o un crédito, ya que puedes enfrentarte a ciertas dificultades. Sin embargo, la situación se vuelve un poco más flexible la semana que viene.
+Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
+A partir del martes, puede que te resulte más sencillo analizar cuestiones importantes con tu pareja o con otras personas cercanas a ti. El ingreso del conversador Mercurio a tu sector de relaciones ese día puede ayudarte a conectar con tus sentimientos y a expresarlos con más facilidad. Tener importantes conversaciones puede conducir a ese importante logro que has estado esperando. 
+La luna nueva en tu sector de estilo de vida del miércoles podría establecer un nuevo ritmo en cuanto a un proyecto clave o tal vez tu trabajo. Si tienes ganas de iniciar algo, definitivamente es el momento de hacerlo. Y si estás a punto de hacer cambios en tu rutina de bienestar, ahora también es el momento para hacerlo. El mismo día, el atractivo Venus ingresa a Leo y a un sector más sensible de tu carta. Su presencia allí puede aportar una chispa a tu vida sexual y reavivar la llama del romance. Por último, mantén la mente abierta el fin de semana. Esto podría hacer que la vida sea más sencilla.
 
 ## Dinero
 
-Se te está dando un empujón de buena suerte desatando un torrente de mensajes positivos por parte de empleadores, potenciales clientes y clientes. Todos quieren un pedazo de tu tiempo, lo que puede ser agotador, aunque también son buenas noticias. Mientras tanto, ¿has considerado entrar en negocio con un pariente, padre o hermano? Quizá sea el momento de pensar un poco en esto.
+Ciertos aspectos se unen en tu sector de dinero y valores esta semana. Esto puede explicar por qué a pesar de que hay ciertas oportunidades aproximándose, algunas de ellas requieren de más trabajo o más educación del que actualmente tienes o puedes ofrecer. No te preocupes. Te enfrentas a un momento en el que es necesario centrarse en la política de tu empresa. Invita a tu jefe a comer.
