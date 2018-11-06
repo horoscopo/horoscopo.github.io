@@ -1,0 +1,26 @@
+---
+layout: amp
+title: geminis hoy gratis 06 de noviembre del 2018 
+permalink: /horoscopo-diario-gratis/amp/geminis/
+normallink: /horoscopo-diario-gratis/geminis/
+home: FALSE
+horoscopo:
+ signo: geminis
+ video: UtYfoIhc4xs
+
+ogimg: /images/geminis_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Concéntrate en ti hoy. La tuya es a menudo una naturaleza extremadamente generosa. Puedes mostrar demasiada compasión, por lo cual dedicas gran parte de tu energía a resolver los problemas de los demás. En consecuencia te quedas sin la suficiente atención para ti y para las cosas que te preocupan. Trata de pasar algún tiempo a solas para concentrarte en cualquier problema que tengas. Pídele a un amigo de confianza orientación y apoyo. Para variar, permite que alguien se preocupe de ti.
+
+## Amor
+
+Puede que necesites un día de paz y tranquilidad en tu casa si no te sientes sociable. Por supuesto, tener compañía podría ser ideal mientras puedas decidir el momento en que deba irse cuando necesites estar a solas.
+
+## Trabajo
+
+Hoy existe un peligro latente: que al disparar, la bala termine en tu propio pie. Ten cuidado: no te conviertas en tu más peligroso enemigo. Dicho de otro modo: cuídate, y piensa muy bien lo que vas a decirle a cierta gente (piénsalo antes de abrir la boca). Hay algunos que a veces están dispuestos a disfrazarse de lo que no son para conseguir aquello que buscan.
