@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de noviembre 2018
-description: Horóscopos del dia de hoy 07 de noviembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de noviembre 2018
+description: Horóscopos del dia de hoy 08 de noviembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-11-07
+ lastmod: 2018-11-08
 ---
-Alguien tiene que ser franco hoy y probablemente lo será mientras Mercurio forme sextil con Saturno. Es la actitud adecuada. La gente responde positivamente después de ver las cosas bajo una mejor luz. La escena social de esta noche es intensa, incluso hipnótica, bajo la Luna en Escorpión. Parejas, ¿por qué no contarse sus secreto mutuos? Inténtenlo.
+Las personas suelen malinterpretar las cosas cuando la Luna cuadra a Neptuno. ¿La clave? Evita pensar que tus instintos están en lo correcto, porque puede que simplemente no lo estén. La Luna aspectando al impredecible Urano disminuye las posibilidades de que haya tranquilidad esta noche. La buena noticia, es posible estar en desacuerdo, reconciliarse y olvidarse del porqué unos minutos más tarde.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
