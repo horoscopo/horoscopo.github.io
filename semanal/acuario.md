@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 05 de noviembre 2018 al 11 de noviembre 2018 
-description: Horóscopo semanal acuario 05 de noviembre 2018 al 11 de noviembre 2018. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+title: acuario 12 de noviembre 2018 al 18 de noviembre 2018 
+description: Horóscopo semanal acuario 12 de noviembre 2018 al 18 de noviembre 2018. Vete a tu cerebro, y borra acuario, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño acuario. Deja salir para que pueda entrar lo demás.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: vC1Rk-ihLSM
+ video: S8YEklFHmPA
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-05'
+ lastmod: '2018-11-12'
 ---
 
 
 
-## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+## Vete a tu cerebro, y borra acuario, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño acuario. Deja salir para que pueda entrar lo demás.
 
-La meta es dura acuario, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay acuario que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normalmente, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Sagi. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Sagi… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
-Continúa ampliando tus opciones y apunta alto mientras Júpiter continúa en tu signo. Además, el actual enfoque de esta semana en tu sector de diversión podría darte el deseo de organizar eventos de los que tus amigos y familia puedan disfrutar. Los esfuerzos de comunicación también se intensifican a partir de esta semana, cuando podrías verte haciéndole frente a problemas que te han fastidiado por algún tiempo. La acción es la clave para encontrar la mejor solución. Finalmente, las últimas opciones de dieta y salud podrían llamarte la atención a partir del viernes, una vez que Mercurio entre a Acuario.
+La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón acuario, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
+Esta puede ser una oportunidad para aclarar las cosas y liberar cualquier tensión que se pueda haber creado entre tú y otra persona. Con el enérgico Marte en tu sector de relaciones, últimamente las personas en tu vida quizás hayan parecido menos dispuestas a llegar a un acuerdo. Pero si puedes señalarles los beneficios, entonces tal vez se dispongan más a encontrar un camino intermedio. Ciertas relaciones pueden atravesar un cambio, en particular si es posible discutir aspectos del vínculo que, si se trabajan, pueden hacer una diferencia positiva.
 
 ## Dinero
 
-Puede que no seas el miembro más paciente del Zodíaco, pero esta semana puedes ganarte algunos problemas con esa manera de pensar. Los aspectos afectan a tu sector de relaciones y del hogar significando que estas áreas de tu vida no son exactamente llevadas muy bien que digamos. Lo mejor es jugar como pacificador, incluso en tu mismo interior. Por cada concesión que hagas hacia los demás, pasa algo de tiempo y dinero haciendo de tu espacio uno más acogedor.
+Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.

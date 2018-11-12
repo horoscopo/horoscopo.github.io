@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: tauro 05 de noviembre 2018 al 11 de noviembre 2018 
-description: Horóscopo semanal tauro 05 de noviembre 2018 al 11 de noviembre 2018. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar tauro, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: tauro 12 de noviembre 2018 al 18 de noviembre 2018 
+description: Horóscopo semanal tauro 12 de noviembre 2018 al 18 de noviembre 2018. La guerra que tienes dentro está deseando encontrar un poco de paz tauro, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: HTWs7pIuWiQ
+ video: 372MDhd4lk8
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-05'
+ lastmod: '2018-11-12'
 ---
 
 
 
-## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar tauro, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+## La guerra que tienes dentro está deseando encontrar un poco de paz tauro, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 
-Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. tauro, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota tauro, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando tauro. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce tauro, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
-El interesante vínculo entre Venus y Urano del martes podría coincidir con un encuentro inesperado o una conversación que traiga consigo interesantes y emocionantes noticias. Sin embargo, podrías experimentar algunos retrasos en referente a finanzas. Si tienes cuentas que pagar y otros gastos a tomar en cuenta, puede que te ayude apartar un poco de dinero para cubrirlos. Si tienes planeado salir de compras, guarda los recibos y el papeleo. Existe la posibilidad de que cierta compra no te complazca.
+Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti tauro.
+El etéreo Neptuno se vuelve retrógrado en tu sector de comunicación el lunes, por lo que las próximas semanas y meses podrían brindarte conocimientos sobre una situación que antes te resultaba inaccesible. Si obtienes al menos un poco de conocimiento sobre lo que está pasando, este es el momento para hacer algo al respecto. No esperes hasta que sea demasiado tarde. Cuando el animado Marte continúa su viaje a través de tu sector financiero, este puede ser un buen momento para evaluar tus capacidades y habilidades. Si hay alguna que no estás aprovechando al máximo y que podría hacerte ganar dinero, este puede ser un buen momento para desarrollarla más. 
+El ingreso del sol a tu sector de relaciones el jueves puede ser un punto a tu favor que te ayude a negociar y establecer contactos. Esta influencia también puede agregar una chispa extra a tu vida social y animarte a relajarte cuando sea necesario. El fin de semana, podrías beneficiarte de los consejos de una persona. 
 
 ## Dinero
 
-Es un tiempo muy ocupado para ti. Tanto está pasando que lo único que tus jefes quieren hacer es promocionarte, darte vino, llevarte a cenar y demás. Puede que te sea difícil encontrar tiempo para ti mismo/a. Esto sólo temporal. Un aspecto armónico te mueve en la posición de autoridad que por destino tienes que ocupar. ¡Que lo disfrutes!
+Tu mente podría verse llena de ideas, pensamientos y palabras acerca de la libertad y su significado. Pero antes de escribirle a tu jefe esa carta de renuncia, considera las formas en la que puedes esforzarte para añadir belleza y creatividad a tu lugar de trabajo. El hacer sugerencias positivas puede dar resultados sorprendentes y ponerte a cargo de un nuevo y  emocionante proyecto. Esto no sólo puede traer más dinero, sino también mejorar tu confianza.

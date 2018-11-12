@@ -1,29 +1,30 @@
 ---
 layout: horoscopos
-title: sagitario 05 de noviembre 2018 al 11 de noviembre 2018 
-description: Horóscopo semanal sagitario 05 de noviembre 2018 al 11 de noviembre 2018. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida sagitario. Ahora brillas así que, aprovecha. Aprovecha todo.
+title: sagitario 12 de noviembre 2018 al 18 de noviembre 2018 
+description: Horóscopo semanal sagitario 12 de noviembre 2018 al 18 de noviembre 2018. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: up_N63C9j-k
+ video: PuVXjcjOego
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-05'
+ lastmod: '2018-11-12'
 ---
 
 
 
-## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida sagitario. Ahora brillas así que, aprovecha. Aprovecha todo.
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
-A partir del martes, puede que te resulte más sencillo analizar cuestiones importantes con tu pareja o con otras personas cercanas a ti. El ingreso del conversador Mercurio a tu sector de relaciones ese día puede ayudarte a conectar con tus sentimientos y a expresarlos con más facilidad. Tener importantes conversaciones puede conducir a ese importante logro que has estado esperando. 
-La luna nueva en tu sector de estilo de vida del miércoles podría establecer un nuevo ritmo en cuanto a un proyecto clave o tal vez tu trabajo. Si tienes ganas de iniciar algo, definitivamente es el momento de hacerlo. Y si estás a punto de hacer cambios en tu rutina de bienestar, ahora también es el momento para hacerlo. El mismo día, el atractivo Venus ingresa a Leo y a un sector más sensible de tu carta. Su presencia allí puede aportar una chispa a tu vida sexual y reavivar la llama del romance. Por último, mantén la mente abierta el fin de semana. Esto podría hacer que la vida sea más sencilla.
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
+Recibes buenas noticias esta semana cuando el delicioso Venus, tu planeta regente, ingresa a tu signo el lunes. Debido a que estará aquí durante todo el mes, puedes relajarte y ser tú. Las personas te amarán por tu atención, tolerancia, diplomacia y cordialidad. Puede que también sientas el impulso de cambiar tu imagen para reafirmar cualquier cambio de identidad. Un excelente comienzo podrían ser un nuevo peinado o comprarte ropa. 
+Los sentimientos podrían acumularse cuando el eclipse solar se desarrolla en tu sector social. Este eclipse se produce durante el fin de semana y, debido a que tal vez te sientas más emocional de lo normal, puede que quieras tomar impulsivas decisiones. Esto puede incluir enamorarse, tener una intensa e inolvidable conversación con una de tus amistades o inscribirte en un grupo o incluso en un sitio web de citas. Espera unos días para procesar tus sentimientos y así tendrás una idea más clara de lo que debes hacer.
 
 ## Dinero
 
-Ciertos aspectos se unen en tu sector de dinero y valores esta semana. Esto puede explicar por qué a pesar de que hay ciertas oportunidades aproximándose, algunas de ellas requieren de más trabajo o más educación del que actualmente tienes o puedes ofrecer. No te preocupes. Te enfrentas a un momento en el que es necesario centrarse en la política de tu empresa. Invita a tu jefe a comer.
+Te enfrentas a un periodo en el que tendrás que frenar el gasto para poder pagar una deuda vieja. Algo con lo que pensaste que habías lidiado en el pasado, de hecho, puede que no haya sido pagado. Puede que los intereses hayan aumentado, por lo que es imperativo que pongas manos a la obra con un plan de pago con el que puedas vivir con el fin de hacerle frente al problema por última vez. Vas a descansar más fácilmente si lo haces.

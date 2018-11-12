@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: geminis 05 de noviembre 2018 al 11 de noviembre 2018 
-description: Horóscopo semanal geminis 05 de noviembre 2018 al 11 de noviembre 2018. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos geminis. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+title: geminis 12 de noviembre 2018 al 18 de noviembre 2018 
+description: Horóscopo semanal geminis 12 de noviembre 2018 al 18 de noviembre 2018. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: fC_co5GRv2w
+ video: NOfXhLW8l10
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-05'
+ lastmod: '2018-11-12'
 ---
 
 
 
-## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos geminis. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 
-Son muchos los que quieren arruinar tu vida geminis, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa geminis, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega geminis. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos geminis. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida geminis. Ahora brillas así que, aprovecha. Aprovecha todo.
-Una expansiva mezcla de energías esta semana sugiere que asumir un pequeño riesgo sin peligro podría resultar en dinero fácil. Sin embargo, puede que busques algo más grande y es aquí donde tienes que tener cuidado. Si bien una jugada puede salir bien, las energías actuales indican que quizá sea demasiado riesgoso. Quizá te convenga invertir tu dinero extra en proyectos o ideas que sin duda impactarán de buena manera tu futuro.
+Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
+Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
+El lunes, el nebuloso Neptuno se vuelve retrógrado en tu signo y permanecerá así durante algunos meses, lo que puede ser algo bueno. Neptuno retrógrado puede traer consigo la poderosa comprensión de algunas cuestiones y conocimientos sobre situaciones clave que pueden llevarte a un descubrimiento. Puede que no suceda de inmediato, pero todo podría empezar a cambiar durante las próximas semanas y meses. 
+Un grupo muy hermoso de aspectos que incluye al conversador Mercurio, el animado Júpiter y el etéreo Neptuno el martes y miércoles podría traer nuevas personas a tu vida, así como oportunidades para perfeccionar tus capacidades y talentos. También podría haber romance a la vista, si juegas bien tus cartas. Además, el ingreso del sol a tu sector de recreación el jueves trae nuevas oportunidades para tomarte las cosas con calma y disfrutar de placenteros pasatiempos que te relajen. Sin embargo, puede que el fin de semana debas tener más cuidado ya que una de tus amistades podría parecer bastante crítica. De ser así, trata de no tomártelo a pecho.
 
 ## Dinero
 
-Tienes entusiasmo para moverte esta semana, especialmente con respecto a tu dinero. Esto puede proporcionarte un nuevo impulso para salir y encontrar un nuevo trabajo o pensar cómo iniciar un negocio secundario para aumentar tus ingresos. El Universo quiere que te destaques entre la multitud, así que asegúrate de ser visto y oído como individuo. Ciertos aspectos en tu sector de carrera indican que debes esforzarse para proporcionar una imagen tranquila y confiada.
+Es posible que te enfrentes al reto de hacer que ciertas relaciones personales funcionen, sobre todo en tu vida laboral y monetaria. Puede que alguien no esté cooperando ahora, pero si te mantienes con calma y diplomacia (no con estrés o confrontación), puedes establecer un maravilloso compromiso en el que todos ganen. Adopta una postura de negociación en todos los asuntos comerciales.
