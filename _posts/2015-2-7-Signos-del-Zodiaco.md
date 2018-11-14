@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de noviembre 2018
-description: Horóscopos del dia de hoy 13 de noviembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de noviembre 2018
+description: Horóscopos del dia de hoy 14 de noviembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-11-13
+ lastmod: 2018-11-14
 ---
-El día de hoy comienza un periodo de diez días de entendimiento intuitivo. Las personas tienden a saber lo que otros están pensando sin que nada haya sido dicho mientras Júpiter se opone a Neptuno. ¡No juegues esta noche! Las emociones no deben ser alteradas bajo la Luna en Escorpión. Las parejas deben evitar tocar sus puntos débiles y decir lo que más podría perjudicarles.  
+Se te aconseja hablar lentamente y con claridad. Aunque las palabras son habladas amablemente cuando la Luna aspecta a Venus, también pueden ser fácilmente malinterpretadas. Puede que tengas control sobre cierta situación bajo la Luna en Capricornio de esta noche - claro, hasta que ésta se salga de su órbita.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
