@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 12 de noviembre 2018 al 18 de noviembre 2018 
-description: Horóscopo semanal escorpio 12 de noviembre 2018 al 18 de noviembre 2018. 
+title: escorpio 19 de noviembre 2018 al 25 de noviembre 2018 
+description: Horóscopo semanal escorpio 19 de noviembre 2018 al 25 de noviembre 2018. Del 27 de Noviembre al 3 de Diciembre de 2017
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: DFjVYw4MVQ4
+ video: EucpGZKzwkE
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-12'
+ lastmod: '2018-11-19'
 ---
 
 
 
-## 
+## Del 27 de Noviembre al 3 de Diciembre de 2017
 
-Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás escorpio. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta escorpio, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea escorpio, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones escorpio, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas escorpio, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
-Debido a una poderosa influencia en tu sector espiritual, un nuevo comienzo es posible. Si tienes ganas de aprender a meditar o empezar alguna otra práctica espiritual, ¡adelante! Hacerlo podría cambiar tu vida de una forma dinámica, lo que te permitirá darle vida a tu visión. Y con el Sol ingresando a tu signo a partir del martes, también te sentirás con más energía y vitalidad durante las próximas semanas. Enfocarte en proyectos que tienen un significado especial para ti también puede ser muy gratificante.
+A veces te confundes escorpio, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso escorpio. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. escorpio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo escorpio, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+Lograrás prosperar esta semana debido a que el Sol entrará a tu signo para mejorar tu vitalidad y animarte a poner en marcha significativos planes. Sin embargo, a medida que Plutón inicia su fase retrógrada, podrías enredarte en una relación que podría no ser de tu mejor interés. Protégete contra esto, ya que necesitarás toda la libertad que puedas obtener si es que vas a progresar tanto como deseas. El jueves, una pequeña mentira blanca podría ser mejor que expresarte con demasiada honestidad.
 
 ## Dinero
 
-Cierta actividad en tu sector de ganancias hace que sea más difícil ganar la cantidad de dinero a la que te has acostumbrado ganar. El Universo está restringiendo tus oportunidades y el dinero que se puede obtener de ello, pero no te preocupes demasiado. Son tus redes sociales las que te ayudarán a salir adelante en cualquier problema al referirte a nuevos clientes, alertándote sobre nuevos puestos de trabajo, y prestándote dinero.
+Esta semana pones a prueba la resistencia y la tensión de tus relaciones. Esto puede resultar en que más de una relación profesional estrecha no funcione. No importa. Hay un montón de cambios positivos que se aproximan a tu sector del hogar, lo que indica un movimiento, la venta, o la adición de un espacio laboral en tu vida. El secreto está en no tratar de forzar nada ya que no es probable que dé frutos financieros por ahora.

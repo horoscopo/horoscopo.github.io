@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 12 de noviembre 2018 al 18 de noviembre 2018 
-description: Horóscopo semanal sagitario 12 de noviembre 2018 al 18 de noviembre 2018. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+title: sagitario 19 de noviembre 2018 al 25 de noviembre 2018 
+description: Horóscopo semanal sagitario 19 de noviembre 2018 al 25 de noviembre 2018. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: PuVXjcjOego
+ video: xFPb-3O3M74
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-12'
+ lastmod: '2018-11-19'
 ---
 
 
 
-## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
 
-Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
- que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
-Recibes buenas noticias esta semana cuando el delicioso Venus, tu planeta regente, ingresa a tu signo el lunes. Debido a que estará aquí durante todo el mes, puedes relajarte y ser tú. Las personas te amarán por tu atención, tolerancia, diplomacia y cordialidad. Puede que también sientas el impulso de cambiar tu imagen para reafirmar cualquier cambio de identidad. Un excelente comienzo podrían ser un nuevo peinado o comprarte ropa. 
-Los sentimientos podrían acumularse cuando el eclipse solar se desarrolla en tu sector social. Este eclipse se produce durante el fin de semana y, debido a que tal vez te sientas más emocional de lo normal, puede que quieras tomar impulsivas decisiones. Esto puede incluir enamorarse, tener una intensa e inolvidable conversación con una de tus amistades o inscribirte en un grupo o incluso en un sitio web de citas. Espera unos días para procesar tus sentimientos y así tendrás una idea más clara de lo que debes hacer.
+Parece que no todo va tan mal, no ¿sagitario? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+Tal vez te ayudaría aligerar tu agenda, ya que una potente mezcla de fuerzas celestiales podría disminuir tu vitalidad. El actual escenario podría llevarte en diferentes direcciones y exponerte a eventos que ocurran de la nada. Para poder lidiar con ellos, es mejor eliminar las actividades innecesarias. Al mismo tiempo, tal vez debas rechazar algunas invitaciones, en especial si necesitas tiempo a solas y un momento para pensar. ¡Pero el fin de semana debería ser entretenido!
 
 ## Dinero
 
-Te enfrentas a un periodo en el que tendrás que frenar el gasto para poder pagar una deuda vieja. Algo con lo que pensaste que habías lidiado en el pasado, de hecho, puede que no haya sido pagado. Puede que los intereses hayan aumentado, por lo que es imperativo que pongas manos a la obra con un plan de pago con el que puedas vivir con el fin de hacerle frente al problema por última vez. Vas a descansar más fácilmente si lo haces.
+Esta semana estás en el meollo de las cosas con ciertos aspectos afectando tu sector de dinero y valores. Se te está forzando hacia cierta área de tu vida que ha sido desatendida durante demasiado tiempo. Pon un poco más de tu pensamiento y acción en cómo ganar dinero y cuánto quieres ganar en el futuro.

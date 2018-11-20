@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: acuario 12 de noviembre 2018 al 18 de noviembre 2018 
-description: Horóscopo semanal acuario 12 de noviembre 2018 al 18 de noviembre 2018. Vete a tu cerebro, y borra acuario, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño acuario. Deja salir para que pueda entrar lo demás.
+title: acuario 19 de noviembre 2018 al 25 de noviembre 2018 
+description: Horóscopo semanal acuario 19 de noviembre 2018 al 25 de noviembre 2018. De verdad acuario, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: S8YEklFHmPA
+ video: JyQ3gX687q0
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-12'
+ lastmod: '2018-11-19'
 ---
 
 
 
-## Vete a tu cerebro, y borra acuario, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño acuario. Deja salir para que pueda entrar lo demás.
+## De verdad acuario, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón acuario, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
-Esta puede ser una oportunidad para aclarar las cosas y liberar cualquier tensión que se pueda haber creado entre tú y otra persona. Con el enérgico Marte en tu sector de relaciones, últimamente las personas en tu vida quizás hayan parecido menos dispuestas a llegar a un acuerdo. Pero si puedes señalarles los beneficios, entonces tal vez se dispongan más a encontrar un camino intermedio. Ciertas relaciones pueden atravesar un cambio, en particular si es posible discutir aspectos del vínculo que, si se trabajan, pueden hacer una diferencia positiva.
+Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
+ No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
+Marte en Leo da a entender que estás en modalidad de gerente, con ansias de hacer despejar proyectos y delegar cuando sea necesario. Tu determinación para proceder podría significar que te estás presionando para tener éxito. Este es absolutamente el momento para hacerlo. Tu vida social también brilla, con muchas posibilidades para asistir a emocionantes eventos. Si quieres salir a citas, puede que sientas más confianza con el resultado de la que has sentido en mucho tiempo. La Luna Llena del Sábado podría traerte gran romance y pasión.
 
 ## Dinero
 
-Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.
+Esta semana es posible que tengas que ajustar tu forma de pensar acerca del dinero y su papel en tu vida, así como la forma en la que manejas el dinero. Es posible que hayas crecido acostumbrado/a a pensar en ti mismo/a como un protector o un derrochador. Tal vez puedes ser ambos. Ahora, vas a decir lo que piensas con respecto a asuntos financieros. La esperanza es puedas hacer esto de una manera diplomática y tolerante e incluir la perspectiva de todo el mundo.
