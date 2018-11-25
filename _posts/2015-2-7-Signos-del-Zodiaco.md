@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de noviembre 2018
-description: Horóscopos del dia de hoy 24 de noviembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de noviembre 2018
+description: Horóscopos del dia de hoy 25 de noviembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-11-24
+ lastmod: 2018-11-25
 ---
-El sextil entre la Luna y Venus es el aspecto perfecto para tener una alegre curiosidad acerca de cómo podrían ser las cosas y para dirigir tu talento hacia otras maneras de hacer funcionar las cosas. Sé flexible esta tarde. Otras personas están haciendo cambios también. Saturno a punto de cambiar de signo hace de la honestidad la mejor política, incluso si hay duda de ello.
+Espera lindas sonrisas y corazones cálidos mientras Venus conecte con Júpiter esta mañana. La Luna en Capricornio pone todo en estado de reservada discreción. Pero hoy, puedes confiar en tu intuición mientras el Sol forme trígono con el instintivo Neptuno. Además, tu alegre imaginación es un hermoso bono. Tu próxima tarea será consolidar tus ideas y darles sentido.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.

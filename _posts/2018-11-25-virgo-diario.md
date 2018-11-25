@@ -1,0 +1,28 @@
+---
+layout: horoscopos
+title: virgo hoy gratis 25 de noviembre del 2018 
+description: Horóscopo del dia de hoy para virgo. Horoscopo de hoy 25 de noviembre del 2018. Las predicciones de amor, trabajo, vida personal gratis.
+permalink: /horoscopo-diario-gratis/virgo/
+amplink: /horoscopo-diario-gratis/amp/virgo/
+home: FALSE
+redirect_from: /p/virgo.html
+keywords: el horóscopo de hoy virgo, Horoscopo de hoy virgo 25 de noviembre del 2018,horóscopo del día,horoscopo del dia de hoy,horoscopo de hoy,horoscopo de hoy virgo,virgo hoy,signos zodiacales,horóscopo de hoy,horoscopos de hoy,horoscopo virgo hoy,horoscopo de virgo de hoy,horóscopo de hoy virgo,horoscopos,virgo de hoy,los horoscopos de hoy,virgo de hoy,virgo 25 de noviembre del 2018,signos zodiacales 2018, el horoscopo de hoy
+horoscopo:
+ signo: virgo
+ video: $VIDEO
+ogimg: /images/virgo_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Puedes recibir una visita inesperada hoy. Y es muy probable que sea alguien que realmente necesita un poco de consuelo y apoyo. Tanto si tienes una lista enorme de cosas que quieres terminar o si estás pensando en sólo llevártela con calma, no rechaces a tus amigos. Las tareas y pasatiempos esperarán pacientemente por ti, pero los cuidados y el apoyo a alguien que lo necesite a menudo no. Abre tu puerta y tu corazón si se presenta la ocasión.
+
+## Amor
+
+Si has querido conectar con tu pareja o una nueva persona, hoy es el momento de sacar la carta de la diversión a medida que los sueños de volar a una tierra extranjera aparecen. Incluso estar en un café planificando el viaje juntos puede ser muy divertido si necesitan de algún tiempo para obtener el dinero.
+
+## Trabajo
+
+Los asuntos financieros están a tu favor. Este es un buen momento para pedir un aumento -o tal vez un ascenso. No estaría de más tampoco que compraras un boleto de la lotería camino a casa. Tu suerte es grande y tienes la oportunidad, en este momento, de beneficiarte.
