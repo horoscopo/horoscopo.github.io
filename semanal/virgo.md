@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 19 de noviembre 2018 al 25 de noviembre 2018 
-description: Horóscopo semanal virgo 19 de noviembre 2018 al 25 de noviembre 2018. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: virgo 26 de noviembre 2018 al 02 de diciembre 2018 
+description: Horóscopo semanal virgo 26 de noviembre 2018 al 02 de diciembre 2018. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: wLC8cjLRlTI
+ video: tF_pLOGQVPg
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-19'
+ lastmod: '2018-11-26'
 ---
 
 
 
-## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 
-A veces dejar ir las cosas es mucho más complicado de lo que piensas virgo. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad virgo, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres virgo. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero virgo, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. virgo, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
-Este puede ser buen momento para invitar a tus amigos a una fiesta en tu lugar. Con Venus actualmente en tu sector hogareño y familiar, es seguro que tus fabulosas habilidades culinarias les impresionarán. Pero si te das demasiados gustos, puede que termines subiendo de peso un poco. Aun así, el fin de semana se vislumbra muy divertido con la Luna Llena animándote a salir de casa. Finalmente, reflexiona sobre cualquier promesa que hagas, ya que es posible que veas las cosas de manera diferente unos días más tarde.
+No te mereces poco virgo… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura virgo, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo virgo. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
+Con el actual enfoque en tu sector ambiciones profesionales, esta semana se ve perfecta para subirte al escenario del éxito. Incluso si has estado experimentado algunas dificultades últimamente, la confianza que te surge de mostrar tus habilidades y capacidades, de cerrar un trato, o al asegurar un nuevo trabajo, te anima a perseverar. Es posible que tengas demasiadas responsabilidades, así que delegar sería una forma de facilitar las cosas, sobre todo en casa y en relación a tareas hogareñas.
 
 ## Dinero
 
-Con el Universo afectando tu sector profesional, puede que se trate sobre el pasado, trabajos anteriores, las elecciones pasadas de carrera, o incluso empleadores anteriores. Sin embargo, un aspecto armonioso afecta a tu sector de vidas pasadas, karma, e instituciones, por lo que puede que no sea una mala idea prestarle atención a los aspectos más esotéricos de tu vida. Lo que haces para ganarte la vida afecta a los demás, no importa cuánto dinero ganes. Asegúrate de que es algo que no te genere consecuencias kármicas más tarde.
+Estás pensando en hacer algunos cambios en tu forma de trabajar y cómo exponerle tus ideas al mundo. Un aspecto favorable indica que podrías fácilmente llevarte tu trabajo a casa, comenzar un nuevo negocio en tu hogar, o comenzar a trabajar en hacerle mejoras a tu hogar; como por ejemplo construcción o decoración. El único problema radica en el hecho de que a tu ego le puede resultar difícil adaptarse a los cambios.

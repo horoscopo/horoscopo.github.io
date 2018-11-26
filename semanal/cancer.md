@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 19 de noviembre 2018 al 25 de noviembre 2018 
-description: Horóscopo semanal cancer 19 de noviembre 2018 al 25 de noviembre 2018. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+title: cancer 26 de noviembre 2018 al 02 de diciembre 2018 
+description: Horóscopo semanal cancer 26 de noviembre 2018 al 02 de diciembre 2018. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: NfvfF4P5nRc
+ video: VBrkU6pxmKE
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-19'
+ lastmod: '2018-11-26'
 ---
 
 
 
-## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 
-El mundo no te entiende cancer, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales cancer, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo cancer, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
-El ingrediente alegre de la semana se vuelve más intenso cuando el animado Mercurio entra al eléctrico Acuario. La semana podría traer invitaciones inesperadas y oportunidades para conectar con amigos y hacer contactos por placer y trabajo. La gran noticia es el Eclipse Lunar, el cual podría causar una pequeña revolución, particularmente cuando se trata de tus intereses personales y tus momentos de recreación. Un deporte o un tema nuevo podría resultar fascinante y marcar el camino hacia nuevas actividades y amistades.
+El mundo puede esperar Sagi, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate cancer, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
+Estás pasando por un momento en el que creativas ideas y alegres oportunidades te animan a salirte de tu zona de confort. Con el Sol entrando a tu sector financiero a partir del viernes, podrían surgirte pensamientos acerca de cómo puedes hacer un mejor uso de tu dinero. La Luna Llena del sábado podía verte gastar de más a menos que te establezcas un límite. Te percatarás de que el progreso en general es muy posible una vez que Mercurio entre a tu signo el domingo. Sin embargo, argumentos sobre el flujo de efectivo podrían arruinar tu fin de semana.
 
 ## Dinero
 
-Los aspectos son ideales no sólo para la energía y el hacer las cosas, sino también para realizar actividades físicas como ejercicio. Si has tenido la intención de salir más o comenzar una nueva práctica de yoga, esta es la semana para empezar. También es ideal para sublimar esa energía hacia cambiar tu situación financiera para bien. Comienza con un plan serio para acabar de pagar tu deuda.
+Para ti este período se trata de cachar ofertas y de tomar ventaja de las nuevas oportunidades para ganar más dinero. Los aspectos afectan al sector de dinero y valores, indicando un tiempo de crecimiento en ese sector. Eres una fuente de ideas ahora, así que asegúrate de escribirlas para no perder de vista un flujo de ingresos futuros. Si sientes agobio, ponlas en práctica de una en una.

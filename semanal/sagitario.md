@@ -1,28 +1,31 @@
 ---
 layout: horoscopos
-title: sagitario 19 de noviembre 2018 al 25 de noviembre 2018 
-description: Horóscopo semanal sagitario 19 de noviembre 2018 al 25 de noviembre 2018. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+title: sagitario 26 de noviembre 2018 al 02 de diciembre 2018 
+description: Horóscopo semanal sagitario 26 de noviembre 2018 al 02 de diciembre 2018. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana sagitario.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: xFPb-3O3M74
+ video: NItB_RXpk_E
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-19'
+ lastmod: '2018-11-26'
 ---
 
 
 
-## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana sagitario.
 
-Parece que no todo va tan mal, no ¿sagitario? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-Tal vez te ayudaría aligerar tu agenda, ya que una potente mezcla de fuerzas celestiales podría disminuir tu vitalidad. El actual escenario podría llevarte en diferentes direcciones y exponerte a eventos que ocurran de la nada. Para poder lidiar con ellos, es mejor eliminar las actividades innecesarias. Al mismo tiempo, tal vez debas rechazar algunas invitaciones, en especial si necesitas tiempo a solas y un momento para pensar. ¡Pero el fin de semana debería ser entretenido!
+Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
+ No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
+Sigue habiendo un intenso enfoque en tu sector de comunicación, que continuará durante algún tiempo más. Sin embargo, el lunes podría coincidir con un malentendido, que podría deberse a un genuino error. Antes de que digas cualquier cosa, puede que lo prudente sea dejar que las cosas se tranquilicen durante uno o dos días, ya que todo podría terminar en la nada. 
+El martes puede ser un buen día para una cita romántica o un divertido evento social. Si alguien te hace una invitación, aprovéchala al máximo.
+El fin de semana podría encontrarte buscando una vía de escape de tu rutina habitual. Cuando el expresivo Mercurio se conecta con el incansable Urano, puede que no estés a gusto con tus actividades normales. De ser así, este puede ser un buen momento para experimentar con nuevas ideas o inscribirte en una interesante clase o experiencia. Nunca sabes si esto podría llevarte a nuevos y positivos desarrollos en el futuro.
 
 ## Dinero
 
-Esta semana estás en el meollo de las cosas con ciertos aspectos afectando tu sector de dinero y valores. Se te está forzando hacia cierta área de tu vida que ha sido desatendida durante demasiado tiempo. Pon un poco más de tu pensamiento y acción en cómo ganar dinero y cuánto quieres ganar en el futuro.
+Ahora tienes cierta actividad en tu sector de ganancias que con el tiempo va a cambiar radicalmente la forma en la que ganas dinero. Aunque parezca que algunas fuentes de ingresos están siendo alejadas de tu vida, a fin de cuentas, será para bien. Analiza tu sector de deuda para poder identificar lo que hay que pagar primero.

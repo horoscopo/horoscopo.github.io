@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 19 de noviembre 2018 al 25 de noviembre 2018 
-description: Horóscopo semanal acuario 19 de noviembre 2018 al 25 de noviembre 2018. De verdad acuario, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+title: acuario 26 de noviembre 2018 al 02 de diciembre 2018 
+description: Horóscopo semanal acuario 26 de noviembre 2018 al 02 de diciembre 2018. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: JyQ3gX687q0
+ video: 8YROZ0SRxxs
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-19'
+ lastmod: '2018-11-26'
 ---
 
 
 
-## De verdad acuario, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 
-Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
- No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
-Marte en Leo da a entender que estás en modalidad de gerente, con ansias de hacer despejar proyectos y delegar cuando sea necesario. Tu determinación para proceder podría significar que te estás presionando para tener éxito. Este es absolutamente el momento para hacerlo. Tu vida social también brilla, con muchas posibilidades para asistir a emocionantes eventos. Si quieres salir a citas, puede que sientas más confianza con el resultado de la que has sentido en mucho tiempo. La Luna Llena del Sábado podría traerte gran romance y pasión.
+Estás alcanzando una madurez acuario, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte acuario y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
+Tu curiosidad es despertada, tentándote a considerar salir a citas si es que has estado fuera de la escena amorosa por un tiempo. Estás en tu elemento esta semana y tienes ganas de disfrutar de los placeres de la vida. Aun así, es posible que desees aligerar tu horario alrededor de la época de la Luna Llena en Sagitario. Con tus sentimientos pudiendo ser profundos, te serviría quitar el pie del acelerador e ir con la corriente. Más tarde, tus oportunidades sociales se ven especialmente alentadoras, con la posibilidad de un encantador encuentro.
 
 ## Dinero
 
-Esta semana es posible que tengas que ajustar tu forma de pensar acerca del dinero y su papel en tu vida, así como la forma en la que manejas el dinero. Es posible que hayas crecido acostumbrado/a a pensar en ti mismo/a como un protector o un derrochador. Tal vez puedes ser ambos. Ahora, vas a decir lo que piensas con respecto a asuntos financieros. La esperanza es puedas hacer esto de una manera diplomática y tolerante e incluir la perspectiva de todo el mundo.
+Recibes un impulso de energía positiva del Universo esta semana. Esto combina tus energías masculinas y femeninas de una manera pacífica, armoniosa y te permite participar en actividades divertidas que involucran tanto a amantes, como a familiares. Sin embargo, otro aspecto te afecta en el área que gobierna los valores y las ganancias. Ambos tienen que ser revisados para que puedas ganar dinero en serio.

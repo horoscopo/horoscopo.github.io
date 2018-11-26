@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: libra 19 de noviembre 2018 al 25 de noviembre 2018 
-description: Horóscopo semanal libra 19 de noviembre 2018 al 25 de noviembre 2018. No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: libra 26 de noviembre 2018 al 02 de diciembre 2018 
+description: Horóscopo semanal libra 26 de noviembre 2018 al 02 de diciembre 2018. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: -X3qUl0op0g
+ video: Xn0z_GkX2U0
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-19'
+ lastmod: '2018-11-26'
 ---
 
 
 
-## No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
 
-Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
-Tu vida social podría estar muy ocupada esta semana, ya que tendrás muchos compromisos. Sin embargo, debido a que tanto el animado Mercurio (tu planeta regente) como el encantador Venus están en un sector más alejado, una parte de ti podría estar feliz de pasar un tiempo a solas reflexionando y resolviendo cualquier problema de forma tranquila. 
-El jueves, momento en que el sol se alinea con el jovial Júpiter, podría ser un día especialmente animado para un evento social o una reunión. El éxito podría ser tal que querrás repetirlo. Sin embargo, el mismo día, podría haber un conflicto entre hacer lo que los demás esperan de ti y querer pasar un tiempo a solas. Tu desafío será encontrar el equilibrio adecuado. El fin de semana podría develar posibilidades románticas. Tal vez disfrutes de una primera cita o de pasar tiempo con tu pareja. Sin embargo, no ignores lo que dice tu intuición, ya que podría estar dándote una oportunidad de oro.
+Por fin has tomado decisiones, y además decisiones que te benefician, 
+por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
+Aunque la Luna Creciente del martes podría verte fluctuar entre el deseo de relajarte y la necesidad de atender responsabilidades, el resto de la semana debería desarrollarse de una manera bastante agradable. Tal parece que tu enfoque principal está vinculado a asuntos hogareños  y familiares. Podrías encontrarte haciendo un montón de reorganización y planificación, y podrás disfrutar de la oportunidad de mejorar tu calidad de vida como resultado. Por último, la entrada del Sol a Escorpión del viernes pone cuestiones laborales y de salud en primer plano.
 
 ## Dinero
 
-Tienes una buena dosis de apoyo del Universo conforme tratas de ganar más dinero y creas más estructura en tu vida. Los aspectos afectando tu sector de dinero y valores hacen de este un buen momento no sólo para ganar más dinero a través de mayores oportunidades, sino también para investigar la manera de invertir en el futuro. Empieza a actuar con cautela, luego, ramifícate conforme empiezas a sentir más comodidad.
+Eres una persona inteligente, sobre todo cuando se trata de trabajo y dinero. No te contenta dejar las cosas como están (¡bien por ti!); y deseas hacer algunos cambios positivos. Tus relaciones señalan el camino hacia una vida mejor. Alguien (o más de una persona) quiere verte tener éxito. Escucha lo que tales personas tengan que decir al respecto.
