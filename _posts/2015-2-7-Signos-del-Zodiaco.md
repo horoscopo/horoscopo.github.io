@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 26 de noviembre 2018
-description: Horóscopos del dia de hoy 26 de noviembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 27 de noviembre 2018
+description: Horóscopos del dia de hoy 27 de noviembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-11-26
+ lastmod: 2018-11-27
 ---
-La Luna en Cáncer le otorga poder extra a los sentimientos y estimula entendimiento entre las personas. El reto implica evitar hablar sobre temas importantes, nunca llegar a ellos y luego tomar decisiones basadas en la emoción. Ese mismo ritmo continúa por la tarde cuando la Luna forma trígono con Neptuno. Este último añadiéndole ilusión a la ecuación.
+Mucho se deja sin decir esta mañana. Por la tarde, un giro de 180 grados que se produce esta tarde se traduce a un terco e incluso poco confiable silencio. No es para preocuparse. Es sólo temporal, aunque puede que se robe todo el impulso que habías logrado reunir. Contrariamente, esta noche podría sentirse como una sobrecarga de información bajo la Luna aspectando al parlanchín Mercurio.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
