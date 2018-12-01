@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo leo noviembre 2018 
+title: Horoscopo leo diciembre 2018 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
- video: ALFp4wDxaK8
+ video: bPThj2-Z7MU
 
 ogimg: /images/leo_char.png
 sitemap:

@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo acuario noviembre 2018 
+title: Horoscopo acuario diciembre 2018 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
- video: xEHWSsz9niM
+ video: rem9vIpDY5k
 
 ogimg: /images/acuario_char.png
 sitemap:

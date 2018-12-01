@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo piscis noviembre 2018 
+title: Horoscopo piscis diciembre 2018 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
- video: LbJ9sZlJ9hY
+ video: snoROIb_fd4
 
 ogimg: /images/piscis_char.png
 sitemap:

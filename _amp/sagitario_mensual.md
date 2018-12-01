@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo sagitario noviembre 2018 
+title: Horoscopo sagitario diciembre 2018 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
- video: ZVLhDFXqVWg
+ video: xmg5iDPqLVY
 
 ogimg: /images/sagitario_char.png
 sitemap:

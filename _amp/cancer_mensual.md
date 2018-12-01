@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo cancer noviembre 2018 
+title: Horoscopo cancer diciembre 2018 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: pyYChnQSvmY
+ video: 0gkF0aK5vuI
 
 ogimg: /images/cancer_char.png
 sitemap:

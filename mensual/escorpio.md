@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo escorpio noviembre 2018
-description: El Horóscopo noviembre de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo escorpio diciembre 2018
+description: El Horóscopo diciembre de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo escorpio noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo escorpio diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
- video: 2HOYTtKUwCk
+ video: SGY80P50o1M
 
 ogimg: /images/mes/escorpio_mes.png
 sitemap:

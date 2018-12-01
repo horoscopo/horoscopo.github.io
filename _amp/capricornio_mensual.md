@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo capricornio noviembre 2018 
+title: Horoscopo capricornio diciembre 2018 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
- video: zZgZGFmsMmQ
+ video: zCBC7XTjZXk
 
 ogimg: /images/capricornio_char.png
 sitemap:

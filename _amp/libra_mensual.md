@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo libra noviembre 2018 
+title: Horoscopo libra diciembre 2018 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
- video: AxBlnb6o2LU
+ video: 6AdDA4dHpDw
 
 ogimg: /images/libra_char.png
 sitemap:

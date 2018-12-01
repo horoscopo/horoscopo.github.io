@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo escorpio noviembre 2018 
+title: Horoscopo escorpio diciembre 2018 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
- video: 2HOYTtKUwCk
+ video: SGY80P50o1M
 
 ogimg: /images/escorpio_char.png
 sitemap:

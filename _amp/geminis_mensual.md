@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo geminis noviembre 2018 
+title: Horoscopo geminis diciembre 2018 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
- video: ID9iu4fI57k
+ video: sDsyZ2iAjw4
 
 ogimg: /images/geminis_char.png
 sitemap:

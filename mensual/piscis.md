@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo piscis noviembre 2018
-description: El Horóscopo noviembre de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo piscis diciembre 2018
+description: El Horóscopo diciembre de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/piscis/
 amplink: /horoscopo-mensual/amp/piscis/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo piscis noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo piscis diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
- video: LbJ9sZlJ9hY
+ video: snoROIb_fd4
 
 ogimg: /images/mes/piscis_mes.png
 sitemap:
