@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo libra diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
- video: 6AdDA4dHpDw
+ video: 5XhVtXEnxcw
 
 ogimg: /images/mes/libra_mes.png
 sitemap:
@@ -17,9 +17,9 @@ sitemap:
 ---
 
 
-Nov. de 2018 - La luna nueva del 7 de noviembre podría traerte dinero o algo tangible de gran valor. Tal vez no pueda ser medido en dinero instantáneo, pero la oportunidad de hacer que suceda pronto ya está ahí. 
-El día 9, Venus forma un trígono con Marte, y el amor podría volverse más fácil de sentir, pero no será más fácil de compartir o expresar. El 16 de noviembre, Venus al fin se torna directo justo antes de que Mercurio se torne retrógrado. Habla con cuidado, si es que hablas. Tal vez sea una buena idea simplemente escuchar. 
-Cuando la luna llena llega el 22 de noviembre, tu mente podría estar de aquí para allá, pero intenta limitar las reacciones bruscas. Que tu interés y curiosidad deambulen libremente, y verás las cosas nuevas que puedes descubrir y aprender. Cualquier sentimiento de inquietud será efímero, y puede que simplemente encuentres una nueva pasión o interés intelectual. 
-Venus forma una oposición con Urano el día 30. Puede que un sorprendente interés romántico no tenga una recepción cálida al principio. 
-Días destacados: 6, 9, 16
-Días desafiantes: 20, 28
+Dic. de 2018 - Venus ingresa a Escorpión el 2 de diciembre. Las dificultades pendientes de relaciones que dejó Venus retrógrado pueden resolverse ahora. Aunque tal vez sea mejor no replantear causas perdidas. 
+Pasa más tiempo en tu vecindario con amistades durante la luna nueva del día 6. Tal vez sea tan divertido que no querrás ir a ningún otro lugar. Si tu temporada de festividades comienza temprano, sé feliz. Mercurio se torna estacionario directo también ese día. Dale tiempo a los demás para volver a organizarse. 
+El trígono entre Venus y Neptuno del 21 de diciembre le agrega un poco de magia a una temporada de festividades que ya es mágica. Puede que el fulgor no dure mucho, así que disfruta. El sol entra a Capricornio también ese día, y comienza el invierno. 
+La luna llena del día 22 te mantiene en el centro de atención en el trabajo y entornos sociales. Ahora también tienes grandes reflexiones como figura de autoridad, así que haz lo que sea necesario, y hazlo bien a la primera. 
+Días destacados: 2, 3, 28
+Días desafiantes: 5, 19

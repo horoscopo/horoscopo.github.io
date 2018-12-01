@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
- video: xmg5iDPqLVY
+ video: urel5lQMEoQ
 
 ogimg: /images/sagitario_char.png
 sitemap:
@@ -15,9 +15,8 @@ sitemap:
 ---
 
 
-Nov. de 2018 - Cuando la luna nueva llega el 7 de noviembre, puedes pasar los momentos más productivos y placenteros en privado, o con una o dos amistades especiales e íntimas. Después, podrías darte cuenta de que una gran revelación se puso en tu camino. Al día siguiente, Júpiter entra a Sagitario. Tal vez lleve un esfuerzo extra ir más despacio y no dejarte llevar. Sé una persona generosa, dentro de lo razonable. 
-El día 16, Venus se torna directo mientras Mercurio se torna retrógrado. Date más tiempo antes de hablar o actuar, en especial con respecto al amor. 
-El amor es todo lo que importa durante la luna llena del 22 de noviembre. Sigue tu corazón, pero no vayas demasiado lejos. Lo que sientes ahora puede ser intenso, pero tal vez no dure mucho. Una buena pareja entenderá y querrá compartir lo que sea bueno para ti. El sol entra a Sagitario ese mismo día. La vida social podría aumentar drásticamente. 
-La conjunción entre el sol y Júpiter el día 25 te da poder. Haz cosas buenas. 
-Días destacados: 8, 15, 23
-Días desafiantes: 19, 29
+Dic. de 2018 - La luna nueva del 6 de diciembre puede ser un momento glorioso y afortunado. Espera recibir invitaciones a fiestas en todas partes. Tal vez quieras organizar una fiesta por tu cuenta. Da un paso al frente, y sé sociable a lo grande. Mercurio se torna directo también ese día. No te apresures en arreglar todo de una vez. 
+Mercurio entra a Sagitario el día 12. Enfócate con facilidad en las preparaciones y agendas para las festividades. Que aumente tu espíritu festivo, y diviértete más durante la temporada. Mercurio forma una conjunción con Júpiter el 21 de diciembre, que también es cuando comienza el invierno y el sol entra a Capricornio. La lista de tareas más larga no será un obstáculo para ti. 
+Incluso si te rodeas de gente durante la luna llena del día 22, serás capaz de identificar los lugares donde puedes hacer una gran diferencia para alguien especial. Tus habilidades sociales y de observación se agudizan ahora. Al igual que tu instinto e intuición. Úsalos todos. 
+Días destacados: 6, 12, 21
+Días desafiantes: 20, 27

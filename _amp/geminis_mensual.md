@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
- video: sDsyZ2iAjw4
+ video: yO2e2qrzMCQ
 
 ogimg: /images/geminis_char.png
 sitemap:
@@ -15,9 +15,9 @@ sitemap:
 ---
 
 
-Nov. de 2018 - Cuídate bien y no te dejes llevar demasiado durante la luna nueva del 7 de noviembre. Siempre hay más cosas para hacer que tiempo para hacerlas. Tómatelo con calma y enfócate. No necesitarás volver a hacer algo que consigues terminar ahora. 
-El día 9, la luna forma una conjunción con Mercurio. Piensa mucho y en profundidad sobre algo importante. Mercurio se torna retrógrado el 16 de noviembre, justo después de que Venus se torna directo. No te apresures en hablar sin pensar, en especial sobre amor. 
-Para la luna llena del día 22, verás aspectos de ti en tu pareja. Sé una persona más generosa. Te sorprenderá la cantidad de afecto y buena voluntad que vuelve a ti. Ahora salgan más y sean más ambiciosos juntos. 
-Mercurio forma una cuadratura con Marte el 26 de noviembre. Analiza, pero no te critiques demasiado. Al día siguiente, el sol y luego Júpiter forman una conjunción con Mercurio. Ahora los instintos y las primeras impresiones podrían ser más útiles. 
-Días destacados: 9, 14, 19
-Días desafiantes: 16, 26
+Dic. de 2018 - Mercurio ingresa a Escorpión el 1 de diciembre. Mercurio se encuentra en su fase retrógrada, pero no por mucho más. Vigila tus pasos (y tus palabras). 
+Con la luna nueva del día 6, un amante podría tener actos de extrema generosidad, o tú podrías recibir admiradores y afecto en exceso. Sabes lo que quieres, y en qué cantidad. Mercurio se torna estacionario directo también ese día. Relájate, pero no salgas corriendo de inmediato. Date tiempo. 
+Mercurio entra a Sagitario el 12 de diciembre. Ahora, tu temporada de festividades puede subir de tono de forma segura. El día 21, el invierno comienza mientras el sol entra al serio Capricornio. Mercurio forma una conjunción con Júpiter el mismo día. Piensa en grande, pero actúa con cuidado y compasión. La generosidad moderada de hoy trae cosas buenas para el futuro. 
+No pidas nada durante la luna llena del 22 de diciembre, y recibirás más de lo que puedes imaginar. Concéntrate en lo que hace falta hacer. Recibirás lo que necesitas y lo que quieres (y más). 
+Días destacados: 6, 12, 21
+Días desafiantes: 13, 24

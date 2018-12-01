@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo leo diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
- video: bPThj2-Z7MU
+ video: iI6M-8T5V9E
 
 ogimg: /images/mes/leo_mes.png
 sitemap:
@@ -17,10 +17,9 @@ sitemap:
 ---
 
 
-Nov. de 2018 - El sol forma un trígono con Neptuno el 5 de noviembre. Que tus aspiraciones y ambiciones aumenten. 
-La vida familiar y doméstica se ven geniales con la luna nueva del día 7. Alegra tu corazón con un gran cambio, o un cambio pequeño que te dé una gran satisfacción, que sea práctico y funcional por completo, sin nada cosmético. 
-El 16 de noviembre, Venus al fin se torna directo mientras Mercurio se torna retrógrado. Los rencores pueden atenuarse, pero probablemente es demasiado pronto para hablar con palabras más suaves que no serán malinterpretadas. 
-Durante la luna llena del día 22, una gran cantidad de cosas maravillosas pueden buscarte, pero el impulso más fuerte puede ser alejarte de todo, salir, y estar con personas. Eso también puede ser algo valioso, así que no te sientas culpable si no terminas de hacer tus cosas. Puedes hacerlas después. El sol entra a Sagitario ese día también. Hay un fuerte impulso de ser sociable. 
-El sol forma una conjunción con Júpiter el 25 de noviembre. Disfruta en grande de la suerte que tienes. 
-Días destacados: 7, 11, 25
-Días desafiantes: 21, 29
+Dic. de 2018 - La cuadratura entre el sol y Marte del 2 de diciembre puede generar un comienzo difícil para el mes, pero tú puedes enfrentarte a cualquier cosa que intente alterar tus planes. Tal vez no estás de acuerdo con algo, pero hazlo con amabilidad si puedes. 
+Ponte a crear y jugar durante la luna nueva del día 6. Tienes ideas y planes que pueden levantar el ánimo de las celebraciones de todos. Mercurio se torna estacionario directo también ese día. Haz una pausa, y deja que las cosas se arreglen a su propio ritmo. 
+El sol forma un trígono con Urano el 20 de diciembre, y esto te permite sorprender a una persona especial con un regalo o invitación perfecta y agradable. El sol entra a Capricornio, y el invierno comienza al día siguiente. Sienta cabeza y disfruta de una calma seria y constructiva. 
+Déjate llevar más por tu propia luz interna durante la luna llena del día 22. No te estás volviendo una persona ermitaña. En cambio, te estás volviendo más sensible, y tienes una mayor receptividad a la paz y quietud que la gente necesita, pero por lo general ignora. 
+Días destacados: 7, 20, 21
+Días desafiantes: 2, 5

@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo piscis diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
- video: snoROIb_fd4
+ video: Gv1QB8UU1Qk
 
 ogimg: /images/mes/piscis_mes.png
 sitemap:
@@ -17,9 +17,9 @@ sitemap:
 ---
 
 
-Nov. de 2018 - El trígono que el sol forma con Neptuno el 5 de noviembre mantiene el amor y los sueños vivos y brillantes. Tu mundo se vuelve más grande de la forma más fundamental durante la luna nueva del día 7. No seas tan local. Expándete y busca la aventura. 
-Marte entra a Piscis el día 15. Tal vez sea incómodo, pero el afecto sincero no será negado. Al día siguiente, Venus se torna directo y Mercurio se torna retrógrado. Organízate, y no esperes que el romance se encienda de repente. El amor verdadero sigue vivo, aunque no sea visible. 
-Tu ambiente doméstico entra en enfoque durante la luna llena del 22 de noviembre. Puedes terminar con facilidad una remodelación, reestructuración, o cualquier otra tarea importante que sea grande y agotante. También puedes encontrar personas que te den una mano, si la quieres o necesitas. Siéntete feliz con la forma en que tu espacio se siente y se ve, incluso si es solo después de acomodar tus libros o pertenencias. 
-La conjunción entre el sol y Júpiter el día 25 ablanda tu corazón y muestra lo generoso que puede ser el mundo. 
-Días destacados: 5, 17, 25
-Días desafiantes: 19, 30
+Dic. de 2018 - Con la luna nueva del 6 de diciembre, deja que las próximas festividades hagan su magia para ti en tu profesión o imagen pública. Si hay algo específico que hayas estado deseando que suceda, dale la oportunidad de manifestarse y aparecer frente a tus ojos. Mercurio se torna estacionario directo también ese día. Los malentendidos pueden perdurar, pero los apuros o complicaciones comienzan a perder su influencia. 
+La conjunción entre Marte y Neptuno del 7 de diciembre te abre la puerta a un sueño mayor, mejor y más posible. Haz que suceda si puedes. 
+El trígono entre Venus y Neptuno el día 21 hacen que la hermosa temporada de festividades sea incluso más bella. Mercurio forma una conjunción con Júpiter también ese día. Piensa (y actúa) de una forma bella y brillante. 
+ La luna llena del 22 de diciembre te permite ser muy sensible sin volverte vulnerable. Remarca físicamente lo que alguien quiere y necesita pero no puede expresar abiertamente. Disfruta de pasar tiempo con alguien que quiere darte ánimos. Le alegrará el día. 
+Días destacados: 2, 9, 19
+Días desafiantes: 24, 27

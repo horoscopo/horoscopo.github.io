@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo cancer diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
- video: 0gkF0aK5vuI
+ video: oMAyMYol4qk
 
 ogimg: /images/mes/cancer_mes.png
 sitemap:
@@ -17,8 +17,9 @@ sitemap:
 ---
 
 
-Nov. de 2018 - El 5 de noviembre, el sol en Escorpión forma un trígono con Neptuno en Piscis. El mundo se vuelve más emocional para ti, pero no para todos los que te rodean. La luna nueva del día 7 quiere que recuerdes un gran deseo olvidado. Podría ser algo totalmente personal que revive un viejo amor importante. Date el gusto. 
-El 16 de noviembre, Venus se torna directo justo antes de que Mercurio se torne retrógrado. El amor verdadero no necesitará dar explicaciones. Puede que te sientas con mucha energía durante la luna llena del día 22, y la gente podría estar pidiéndote que ocupes tu tiempo con sus problemas. Pero no dejarás que eso suceda. Consiente a tu niño interior (y a tu mente más interior) con una paz y tranquilidad más privada y de mayor calidad. Que el mundo se las arregle sin ti. 
-El 24 de noviembre, Venus se torna directo poco antes de que la luna entre a Cáncer. Deja que algo toque tu corazón, y quizás encuentres nueva inspiración y una aspiración más alta. 
-Días destacados: 9, 16, 24
-Días desafiantes: 13, 25
+Dic. de 2018 - La cuadratura entre el sol y Neptuno del 5 de diciembre puede sensibilizar a la gente a sentir una desdicha imaginaria. Sé paciente y ten compasión, en especial contigo. 
+El trabajo diario y la rutina llegan al centro de atención con la luna nueva del día 6. Encontrarás gran satisfacción en las tareas mundanas y poco estresantes que te mantienen feliz y con los pies sobre la tierra mientras la temporada de festividades se intensifica. Mercurio se torna estacionario directo también ese día. Puedes preocuparte mucho por un asunto, pero podría ser demasiado pronto para corregir un malentendido. Date tiempo. 
+El trígono que Venus forma con Neptuno el 21 de diciembre llena de optimismo la situación más difícil. Puede ser un día hermoso. También es el primer día de invierno, cuando el sol entra a Capricornio. Recibe con gratitud una mayor estabilidad. 
+La luna llena del día siguiente te pone en una posición de poder. Ten un firme control sobre las festividades, y haz feliz a la gente que más te quiere. Será menos trabajo de lo que piensas. 
+Días destacados: 13, 16, 22
+Días desafiantes: 15, 28

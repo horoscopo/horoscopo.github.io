@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
- video: zCBC7XTjZXk
+ video: YY_tIQ88R-g
 
 ogimg: /images/capricornio_char.png
 sitemap:
@@ -15,9 +15,8 @@ sitemap:
 ---
 
 
-Nov. de 2018 - Eres un imán social con la luna nueva del 7 de noviembre. Personas con las que nunca consideraste hablar podrían verse atraídas a ti en busca de opiniones, consejos y reconocimiento. Sé amable, pero no elogies porque sí. El día 11, una conjunción entre la luna y Saturno te da un poco más de autoridad para alcanzar muchas metas. Actúa con responsabilidad y respeto. 
-Venus se torna retrógrado y Mercurio se torna directo el 16 de noviembre. Una relación podría volverse más auténtica, si no más fácil, en los próximos días. Los malentendidos todavía son posibles. 
-Durante la luna llena del día 22, puede que tengas muchas cosas encima, y pensar que no tienes tiempo para nada más. Relájate, si puedes, y alivia el estrés con proyectos o tareas pequeñas pero placenteras que simplemente te hagan sentir mejor contigo. No dejes que el mundo te agobie (y lo intentará). 
-El sextil entre Marte y Saturno el 27 de noviembre facilita trabajar de manera efectiva. 
-Días destacados: 2, 21, 29
-Días desafiantes: 12, 25
+Dic. de 2018 - Ordena tus pensamientos durante la luna nueva del 6 de diciembre. El resto del mundo puede estar obsesionado haciendo listas de tarea y correteando de aquí para allá. Aprovecha este tiempo para ti, y enfócate y sé feliz con cómo quieres pasar tu tiempo. Mercurio se torna estacionario directo también ese día. Ve despacio y deja que los ánimos retrógrados se asienten. Es momento de organizarte mejor. 
+La luna forma una conjunción con Saturno el día 8. El ruido de fondo debería calmarse, así que será más fácil trabajar en algo complicado. El sextil que Venus forma con Saturno el 16 de diciembre te ayuda a conectar con una antigua amistad o familiar, que puede hacer que una tarea sea más simple y fácil. 
+El amor puede ser más fuerte cerca del hogar durante la luna llena del día 22. Nadie te está pasando por alto o menospreciando. Ten seguridad con lo genial que eres naturalmente, y deja que tu luz atraiga el tipo de amor que necesitas. 
+Días destacados: 1, 13, 18
+Días desafiantes: 23, 25
