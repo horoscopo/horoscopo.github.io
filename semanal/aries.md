@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: aries 26 de noviembre 2018 al 02 de diciembre 2018 
-description: Horóscopo semanal aries 26 de noviembre 2018 al 02 de diciembre 2018. Tienes que plantarte aries, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+title: aries 03 de diciembre 2018 al 09 de diciembre 2018 
+description: Horóscopo semanal aries 03 de diciembre 2018 al 09 de diciembre 2018. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: RU_64fN9r84
+ video: ANgs7Se6T40
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-26'
+ lastmod: '2018-12-03'
 ---
 
 
 
-## Tienes que plantarte aries, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 
-Esfuérzate un poco más de lo que hiciste ayer Sagi, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
- de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
-Con una deliciosa mezcla de energías surgiendo en tu sector de viajes y aprendizaje, esta es una semana en la que podrías tener la tentación de reservar una corta escapada o incluso unas vacaciones más largas. El contexto astral actual revela que te beneficiarías enormemente de la oportunidad de ver tu situación actual desde una nueva perspectiva. Incluso una reunión familiar o fuera de la ciudad podría darte la oportunidad de dar un paso fuera de tu rutina y tal vez adoptar algunas ideas como resultado.
+Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
+ y es que no puedes parar, de verdad.
+Puede que quieras compartir tus ideas y opiniones personales con los demás. De hecho, un momento de inspiración o una conversación con una amistad podría ayudarte a compartir lo que piensas en las redes sociales, y atraer a quienes están en la misma onda. Si estás planeando un evento social o reunión, tal vez necesitas un enfoque más práctico. No confíes en que todo saldrá perfecto en la gran noche, ya que hay posibilidades de que no sea así.
 
 ## Dinero
 
-Esta semana puede que sientas frustración en tu objetivo de salir adelante económicamente. Hay atención no deseada sobre tu situación de deuda. Podrías caer fácilmente en la  depresión si no tienes cuidado. La buena noticia es que tienes la suficiente energía para perseverar y pagar lo que debes. Es posible que desees gastarlo todo en tu familia y diversión. Resiste la tentación, sólo por esta semana.
+El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.

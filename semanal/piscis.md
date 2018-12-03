@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 26 de noviembre 2018 al 02 de diciembre 2018 
-description: Horóscopo semanal piscis 26 de noviembre 2018 al 02 de diciembre 2018. Llega una buenísima semana piscis pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+title: piscis 03 de diciembre 2018 al 09 de diciembre 2018 
+description: Horóscopo semanal piscis 03 de diciembre 2018 al 09 de diciembre 2018. Tienes que empezar a dejar que el resto luche por tu piscis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: q5oXRn0zJME
+ video: BY6IonsQCqg
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-26'
+ lastmod: '2018-12-03'
 ---
 
 
 
-## Llega una buenísima semana piscis pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+## Tienes que empezar a dejar que el resto luche por tu piscis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 
-Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
- A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
-Gracias al fuerte enfoque en tu sector de rutinas, este podría ser un buen momento para recuperar el orden de tu vida y desarrollar el hábito de la organización tanto como sea posible. Con la Luna Llena desenvolviéndose en Libra, prepárate para uno o dos eventos inesperados que podrían interrumpir tu programa habitual durante el fin de semana. Descartar las actividades menos importantes podría ser lo mejor para ti. El cosmos también sugiere que explores maneras de organizar tus finanzas.
+A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto piscis? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito piscis. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
+Hay un enfoque bastante intenso en un sector sensible de tu carta, lo que puede darte la oportunidad de aclarar problemas que podrían haber obstaculizado tus decisiones. Por otro lado, un alegre enfoque en tu sector de viajes y aventura te anima a seguir el proceso de aprendizaje y exploración de nuevos terrenos. El eclipse solar en este sector el jueves podría ser una señal de que debes comenzar algún estudio o invertir en los servicios de un consejero de vida que te ayude a vivir a tu máximo potencial.
 
 ## Dinero
 
-El crecimiento y la suerte pueden ampliar tus posibilidades, así que asegúrate de mantenerte al tanto con tu programa de ejercicios. También se extenderá tu influencia en el mundo. Tienes el oído de tus superiores en el trabajo, así que asegúrate de programar reuniones regulares para mantenerte al tanto con ellos. Mientras tanto, tu vida social se acelera, por lo que es un buen momento para conocer gente nueva, conocer colegas y mejores mentores. Hay poder en tus relaciones.

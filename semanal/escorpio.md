@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 26 de noviembre 2018 al 02 de diciembre 2018 
-description: Horóscopo semanal escorpio 26 de noviembre 2018 al 02 de diciembre 2018. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+title: escorpio 03 de diciembre 2018 al 09 de diciembre 2018 
+description: Horóscopo semanal escorpio 03 de diciembre 2018 al 09 de diciembre 2018. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: 3XKF5ETY7Ck
+ video: pr0mHiK5zBQ
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-26'
+ lastmod: '2018-12-03'
 ---
 
 
 
-## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-Tienes que motivarte escorpio. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino escorpio. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro escorpio, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa escorpio, ¿tu tiempo no vale nada o qué?
-La idea de ir hacia adelante con algo muy importante para ti podría pasar a otro nivel esta semana. Cuando el dinámico Marte se alinea con el poderoso Plutón en los próximos días, y debido a que ambos conectan con el expansivo Júpiter, puede que tu cabeza se llene de pensamientos sobre cómo puedes beneficiarte y que esto intensifique tu deseo. Sin embargo, con tanto en juego, puede que lo mejor sea hacer tu investigación. Cuando el animado Júpiter está retrógrado, es el momento perfecto para hacer una evaluación y buscar los detalles. De hecho, este podría ser el paso más valioso de todos. 
- El encantador Venus ingresa a tu signo para brindarte el factor de atracción y mejorar tu capacidad de conectarte y hacer valiosas amistades. Por último, la luna llena del domingo podría tentarte a darte algunos gustos para tranquilizar cualquier inquieta emoción. Es posible que el ejercicio sea la mejor manera de canalizar esos sentimientos.   
+A veces de bueno te pasas escorpio. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio escorpio, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa escorpio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso escorpio y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
+Aunque tienes un montón de oportunidades para socializar y establecer contactos, el continuo enfoque en un sector más aislado de tu carta sugiere que te beneficiarás de tomarte tiempo para estar a solas. Necesitarás este tiempo en silencio para poder escuchar a tu voz interior, sobre todo si te has estado ahogando en las necesidades y demandas de otras personas últimamente. Si tus tareas y quehaceres te han abrumado recientemente, tal es una razón más para obligarte a tener la oportunidad de descansar y recargar baterías.
 
 ## Dinero
 
-No hay muchos cambios avecinándose hacia tu sector del dinero durante por los próximos años. Ciertas formas de hacer dinero mueren en favor de otras nuevas, considera cómo quieres vivir en cinco o diez años en el futuro. El poner todo este cambio a trabajar a tu favor, rendirá grandes dividendos para el tiempo que necesites dinero. Recuerda que debes pedir ayuda cuando la necesites.
+Todas las cosas buenas les vienen a aquellos que esperan, pero tú no tienes que esperar mucho tiempo para las cosas buenas. Ciertos aspectos afectan tu sector de vidas pasadas, karma e instituciones, por lo que estás recibiendo todo tipo de información valiosa en tus sueños y destellos psíquicos. Asegúrate de prestarles atención. Es posible que dudes de tus pensamientos demasiado. A partir de esta semana, confía en ellos para lograr todo lo que quieres lograr.

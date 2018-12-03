@@ -1,31 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 26 de noviembre 2018 al 02 de diciembre 2018 
-description: Horóscopo semanal sagitario 26 de noviembre 2018 al 02 de diciembre 2018. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana sagitario.
+title: sagitario 03 de diciembre 2018 al 09 de diciembre 2018 
+description: Horóscopo semanal sagitario 03 de diciembre 2018 al 09 de diciembre 2018. Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: NItB_RXpk_E
+ video: PULyDVLR1Y0
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-26'
+ lastmod: '2018-12-03'
 ---
 
 
 
-## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana sagitario.
+## Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
-Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
- No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
-Sigue habiendo un intenso enfoque en tu sector de comunicación, que continuará durante algún tiempo más. Sin embargo, el lunes podría coincidir con un malentendido, que podría deberse a un genuino error. Antes de que digas cualquier cosa, puede que lo prudente sea dejar que las cosas se tranquilicen durante uno o dos días, ya que todo podría terminar en la nada. 
-El martes puede ser un buen día para una cita romántica o un divertido evento social. Si alguien te hace una invitación, aprovéchala al máximo.
-El fin de semana podría encontrarte buscando una vía de escape de tu rutina habitual. Cuando el expresivo Mercurio se conecta con el incansable Urano, puede que no estés a gusto con tus actividades normales. De ser así, este puede ser un buen momento para experimentar con nuevas ideas o inscribirte en una interesante clase o experiencia. Nunca sabes si esto podría llevarte a nuevos y positivos desarrollos en el futuro.
+Se avecinan cosas nuevas sagitario, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar sagitario, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin sagitario, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
+Este es un excelente momento para apoderarte del centro de atención y mostrar tus habilidades y capacidades. El Eclipse Solar en tu sector de creatividad, romance y autoexpresión podría convertirse en algo muy emocionante. Si tienes talentos que has explotado poco, es posible que se te ofrezca una oportunidad para promoverlos que podría conducirte a una obtener mayor publicidad en el futuro. Alternativamente, una historia de amor podría volverse más apasionada e intensa. En ese caso, sin embargo, no te precipites. Tómate tu tiempo y espera un par de semanas antes de involucrarte.
 
 ## Dinero
 
-Ahora tienes cierta actividad en tu sector de ganancias que con el tiempo va a cambiar radicalmente la forma en la que ganas dinero. Aunque parezca que algunas fuentes de ingresos están siendo alejadas de tu vida, a fin de cuentas, será para bien. Analiza tu sector de deuda para poder identificar lo que hay que pagar primero.
+Es posible que tu trabajo cambie a lo largo de los próximos meses. La expansión de oportunidades indica un buen momento para cambiar de trabajo si has tenido esa intención, o hacer de tu trabajo existente uno más lucrativo. Puedes incluso tomar medidas para hacer que tu lugar de trabajo sea más favorable a tus necesidades mediante la negociación de horarios flexibles o beneficios adicionales. Hacer un plan concreto para pagar tu deuda aumenta tu tranquilidad.

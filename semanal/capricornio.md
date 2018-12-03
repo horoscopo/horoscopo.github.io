@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 26 de noviembre 2018 al 02 de diciembre 2018 
-description: Horóscopo semanal capricornio 26 de noviembre 2018 al 02 de diciembre 2018. La vida es un ciclo #SIGNO, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
+title: capricornio 03 de diciembre 2018 al 09 de diciembre 2018 
+description: Horóscopo semanal capricornio 03 de diciembre 2018 al 09 de diciembre 2018. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: 3tA9kKlP7yE
+ video: YNQVBbDW8l0
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-26'
+ lastmod: '2018-12-03'
 ---
 
 
 
-## La vida es un ciclo #SIGNO, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
+## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 
-Has caído en la rutina capricornio, quieres pelear por personas que quizás no tengan mucho en común contigo pero aún así, te sigues aferrando a algo que quizás tenga fecha de caducidad. Necesitas hablar, conversar, pero un largo tiempo y de verdad poner todas y cada una de las cartas sobre la mesa. Te guardas demasiado para ti, para dentro, y por más que intentas sacarlo es como si algo te lo impidiera. Esta semana es buena para hacer balance de lo que quieres, de lo que buscas y de lo que necesitas. No vas a parar, tienes muchas cosas que hacer y eso será lo que te aleje de algunos problemas. Pero cuando eso que hagas se acabe, el problema seguirá estando presente, seguirá en el mismo sitio donde lo dejaste, y como no lo soluciones permanecerá ahí todo el tiempo. No te agobies y respira hondo cuando algo se ponga difícil. De todo se sale capricornio, ya lo sabes. Las pequeñas cosas cuentan mucho ahora así que, empieza a decir que “si” a cualquier plan que te propongan, por pequeño que sea. Si quieres salvar algo, habla capricornio, habla y saca de una vez todo ese universo de sentimientos y de emociones que tienes dentro. Como no seas claro de verdad y sólo tragues y tragues, todo va a salir mal. Disfruta esta semana pero aclárate un poco…
-Puede haber más opciones románticas esta semana y en las próximas semanas mientras Marte llega al núcleo de tu sector de recreación y placer. Puede que tengas una actitud más dinámica en cuanto a tener citas o encontrar a esa persona especial. Puede que haya un poco de competencia en el camino y esto puede hacer que todo se vuelva un poco más estresante. Otros factores indican que debes ser quien realmente eres para atraer a la persona indicada. Por último, una conversación puede abrirte las puertas a una gran oportunidad.
+Deja de esperar al futuro capricornio, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz capricornio, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio capricornio, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir capricornio, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor capricornio, sin remordimientos.
+La creación de contactos es una buena manera de impulsar tu actividad económica y salir adelante. La presencia de Júpiter en tu sector social es sin duda alentadora para moverte hacia nuevos círculos y disfrutar de conocer a otras personas. Sin embargo, puede que tengas que alcanzar un mejor equilibrio entre tu trabajo y tu tiempo de descanso conforme el Sol entra a Libra y a tu sector espiritual. Estás entrando a una fase en la que te ayuda tomarte tiempo para relajarte y recargar baterías. Todavía querrás salir de fiesta, pero también querrás disfrutar de momentos de tranquilidad.
 
 ## Dinero
 
-Tu sector de carrera se expande y te das a notar esta semana. Hay una atmósfera de amor en el trabajo. Es seguro que encontrarás ideas creativas que fluyen. Mientras tanto, tienes la capacidad de construir sobre los éxitos del pasado, proporcionando un elenco de apoyo dispuesto a tomar la dirección en el trabajo. Si alguna vez hubo una semana en la que estuvieras a cargo, esa es esta. Haz conocer tus necesidades y los demás las realizarán.
+Esta semana hay un choque de energías poderosas en el cielo. Estas eliminando a las personas que no son compatibles con tu vida. Es hora de dejar de esconderse detrás de los demás o fingir que están ahí sólo para servir. Es hora de ponerse de pie. Tienes que esforzarte para poder obtener el tipo de dinero que deseas y mereces.

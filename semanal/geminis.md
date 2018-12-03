@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 26 de noviembre 2018 al 02 de diciembre 2018 
-description: Horóscopo semanal geminis 26 de noviembre 2018 al 02 de diciembre 2018. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho geminis. Más que nunca…
+title: geminis 03 de diciembre 2018 al 09 de diciembre 2018 
+description: Horóscopo semanal geminis 03 de diciembre 2018 al 09 de diciembre 2018. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud geminis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: wKyAJgB5QHg
+ video: ubsq4bNssMg
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-11-26'
+ lastmod: '2018-12-03'
 ---
 
 
 
-## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho geminis. Más que nunca…
+## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud geminis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 
-Siempre has tenido un fuerte instinto de supervivencia geminis, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces cangrejo y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
-Venus en el apasionado Escorpión podía darte ganas de perder unas cuantas libras. Mientras que alistarte para la época de festividades puede estar en lo alto de tu agenda, ten cuidado al salir con amigos si quieres terminar la semana sin problemas. Evita alterar los planes mejor trazados al guardarte tus polémicos comentarios. Si tus propios planes se ven alterados, tendrás que tomarlo con calma. La Luna Nueva del viernes es perfecta para llevar una relación amorosa a un nuevo nivel.
+No puedes esperar a que las cosas pasen geminis, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres geminis, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA geminis. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+Un fuerte enfoque en tu sector de comunicaciones te ofrece la oportunidad de conectar con gente de tu vecindario y otros en tu área. Esta oportunidad de hacer conexiones podría resultar muy gratificante si ayuda a unir a tu comunidad local. Al mismo tiempo, tal vez sea sabio evitar molestar a alguien con autoridad. Deben coincidir en estar en desacuerdo o llegar a un compromiso. Definitivamente, discutir no será de gran ayuda. La Luna Nueva del 25 de mayo puede traer la posibilidad de avanzar con una idea brillante.
 
 ## Dinero
 
-Está subiéndote a grandes olas de cambio en tu vida monetaria. Tienes muchas ideas creativas sobre cómo ganar y ahorrar más, lo cual es genial. Pero también eres un poco inestable a veces, así que tener un plan B, C, y D no estaría de más. Mientras tanto, tu sector de carrera se está encendiendo, pidiéndote que asumas un rol de liderazgo.
+Esta semana, el Universo pone de relieve tu sector de amistades, compañeros y otras relaciones serias. Algo que reciente se formó es cada vez más serio. Esta podría ser una unión comercial mutuamente beneficiosa o incluso una asociación o fusión entre tu empresa y otro negocio. Puede que no se mueva tan rápido como te gustaría, pero es algo genial a largo plazo. Busca nuevas oportunidades en lo desconocido o en un campo completamente original.
