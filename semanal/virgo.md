@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 03 de diciembre 2018 al 09 de diciembre 2018 
-description: Horóscopo semanal virgo 03 de diciembre 2018 al 09 de diciembre 2018. Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: virgo 10 de diciembre 2018 al 16 de diciembre 2018 
+description: Horóscopo semanal virgo 10 de diciembre 2018 al 16 de diciembre 2018. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: -KyJ7BBmYKY
+ video: TDsoOV7vZZQ
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-03'
+ lastmod: '2018-12-10'
 ---
 
 
 
-## Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 
-Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
-Cualquier cambio en la dinámica familiar o en proyectos domésticos debería ir mejor al ser implementado el lunes. La Luna Nueva puede ayudar a darles el mejor comienzo posible. Incluso con la menor cantidad de planeación tendrás éxito. En este momento te puede ir muy bien en cualquier tema relacionado a escritura, ventas y comunicación en general. Si estás considerando un cambio de carrera en una de estas áreas, estás en el camino correcto. El domingo es un día excelente para comprometerte con una audaz idea.
+Céntrate en tus metas virgo, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+Con un enfoque definido en tu sector de transformación y finanzas compartidas, un pulso más profundo podría influir en tus pensamientos y emociones. Tal vez notes cómo ciertos patrones no permitieron que lograras todo lo que buscabas lograr, y esto podría alentarte a que de a poco los dejes ir. La entrada del Sol a tu sector de estilo de vida podría motivarte a comer más saludable aunque esta semana bien puede ser época de excesos y placeres. Espera hasta el 28 de diciembre, al momento en el que la Luna Nueva se manifieste.
 
 ## Dinero
 
-Te enfrentas a un momento interesante. Por un lado, las redes sociales son cada vez más grandes y más solidarias. Por otro lado, alguien no está siendo totalmente honesto sobre lo que quiere sacar de tu amistad. En lugar de terminar la relación o tomarlo como algo personal, atribúyeselo a tu irresistible forma de vivir la vida. Tal quiere estar cerca de ti porque eres una persona exitosa y puede ser capaz de ayudarte a alcanzar tus sueños.
+Este período es acerca de los aspectos que afectan a tu sector del matrimonio y las relaciones serias. Asegúrate de que tu calendario y contactos estén actualizados. Con el fin de hacer más dinero, tendrás que contactar a estas personas regularmente. Planea almuerzos, cenas y horas felices para establecer redes de contacto. Tu cuenta bancaria, como tu ego, te lo agradecerán más tarde.

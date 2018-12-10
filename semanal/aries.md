@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: aries 03 de diciembre 2018 al 09 de diciembre 2018 
-description: Horóscopo semanal aries 03 de diciembre 2018 al 09 de diciembre 2018. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+title: aries 10 de diciembre 2018 al 16 de diciembre 2018 
+description: Horóscopo semanal aries 10 de diciembre 2018 al 16 de diciembre 2018. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: ANgs7Se6T40
+ video: PhezAYvILyg
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-03'
+ lastmod: '2018-12-10'
 ---
 
 
 
-## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 
-Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
- y es que no puedes parar, de verdad.
-Puede que quieras compartir tus ideas y opiniones personales con los demás. De hecho, un momento de inspiración o una conversación con una amistad podría ayudarte a compartir lo que piensas en las redes sociales, y atraer a quienes están en la misma onda. Si estás planeando un evento social o reunión, tal vez necesitas un enfoque más práctico. No confíes en que todo saldrá perfecto en la gran noche, ya que hay posibilidades de que no sea así.
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
+Al inicio de la semana, una situación social puede ser muy divertida y darte un impulso, así como ayudarte a hacer nuevos amigos que te apoyen. Sin embargo, aún sigue habiendo momentos en los que sientes que tus valores son tan diferentes de los de tu grupo social como lo son la tiza y el queso. Puede que también sientas que nadie te entiende. Sin embargo, no hagas ningún movimiento impulsivo. Si logras mantener tu mente abierta, puede que las cosas terminen mejorando.
 
 ## Dinero
 
-El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.
+Es un momento interesante. Nadie te puede pasar por alto, así que trata de usar este tiempo a tu favor. Expón tus atributos. Ofrécete para dar una presentación si la hay y prueba un nuevo estilo para darla. Tu sector de diversión, romanticismo, niños y miembros de la familia entra en juego. ¿Cómo puedes usar tus conexiones familiares para avanzar en cuanto a dinero se refiere?

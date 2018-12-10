@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: piscis 03 de diciembre 2018 al 09 de diciembre 2018 
-description: Horóscopo semanal piscis 03 de diciembre 2018 al 09 de diciembre 2018. Tienes que empezar a dejar que el resto luche por tu piscis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+title: piscis 10 de diciembre 2018 al 16 de diciembre 2018 
+description: Horóscopo semanal piscis 10 de diciembre 2018 al 16 de diciembre 2018. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado piscis, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: BY6IonsQCqg
+ video: 7JBBqe91xU0
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-03'
+ lastmod: '2018-12-10'
 ---
 
 
 
-## Tienes que empezar a dejar que el resto luche por tu piscis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado piscis, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto piscis? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito piscis. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-Hay un enfoque bastante intenso en un sector sensible de tu carta, lo que puede darte la oportunidad de aclarar problemas que podrían haber obstaculizado tus decisiones. Por otro lado, un alegre enfoque en tu sector de viajes y aventura te anima a seguir el proceso de aprendizaje y exploración de nuevos terrenos. El eclipse solar en este sector el jueves podría ser una señal de que debes comenzar algún estudio o invertir en los servicios de un consejero de vida que te ayude a vivir a tu máximo potencial.
+Tu mente lo está analizando absolutamente todo piscis, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez piscis… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas piscis, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana piscis, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+Cuando el conversador Mercurio —tu planeta regente— está en tu sector de comunicación, podrías descubrir que las oportunidades aumentan si hablas con más personas. Y con el encantador Venus que también continúa en este sector, entablar nuevas y valiosas conexiones debería ser sencillo. También hay posibilidad de que recibas un dinero caído del cielo el jueves, cuando el sol se alinea con el positivo Júpiter. Este animado aspecto puede hacer que un dinero —o la promesa de este— llegue a tus manos. Aun así, podrías tener una discusión con alguien que defiende su postura con perseverante determinación. Si es necesario quedar en buenos términos, puede que debas ser tú quien se trague su orgullo y encuentre una manera de limar asperezas. 
+El fin de semana luce más animado, pero si no tienes cuidado, el dinero podría escurrirse como agua de tus manos. Puede que sea útil establecer un límite de gastos. 
 
 ## Dinero
 
+Si has estado buscando maneras de tener más apertura acerca de tus actividades monetarias, el cosmos te provee soluciones de todo tipo. Tendrás apoyo a la hora de comunicar tus necesidades y deseos relacionados con dinero. Si ha pasado mucho tiempo desde la última vez que recibiste un aumento de sueldo, habla con tu jefe acerca de las razones por la cuales te lo mereces. Alguien como tú no malgasta las horas de trabajo, eres un valioso contribuyente.

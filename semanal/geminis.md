@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 03 de diciembre 2018 al 09 de diciembre 2018 
-description: Horóscopo semanal geminis 03 de diciembre 2018 al 09 de diciembre 2018. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud geminis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+title: geminis 10 de diciembre 2018 al 16 de diciembre 2018 
+description: Horóscopo semanal geminis 10 de diciembre 2018 al 16 de diciembre 2018. Estás a tope geminis, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: ubsq4bNssMg
+ video: LlYrO3U9R0o
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-03'
+ lastmod: '2018-12-10'
 ---
 
 
 
-## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud geminis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+## Estás a tope geminis, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 
-No puedes esperar a que las cosas pasen geminis, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres geminis, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA geminis. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
-Un fuerte enfoque en tu sector de comunicaciones te ofrece la oportunidad de conectar con gente de tu vecindario y otros en tu área. Esta oportunidad de hacer conexiones podría resultar muy gratificante si ayuda a unir a tu comunidad local. Al mismo tiempo, tal vez sea sabio evitar molestar a alguien con autoridad. Deben coincidir en estar en desacuerdo o llegar a un compromiso. Definitivamente, discutir no será de gran ayuda. La Luna Nueva del 25 de mayo puede traer la posibilidad de avanzar con una idea brillante.
+Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien geminis pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
+Un movimiento de negocios podría resultar muy lucrativo a principios de esta semana, alternativamente podrías recibir un pequeño golpe de suerte que te haga sonreír. Solo trata de no gastar en exceso, ya que puede que necesites más dinero del que pensabas, sobre todo durante el fin de semana. Si recibes una cantidad de dinero extra, tu mejor opción sería guardarla, ya que puede que tengas que pagar una factura u otros gastos inesperados. Por otro lado, ¡tu vida amorosa podría ser sensacional!
 
 ## Dinero
 
-Esta semana, el Universo pone de relieve tu sector de amistades, compañeros y otras relaciones serias. Algo que reciente se formó es cada vez más serio. Esta podría ser una unión comercial mutuamente beneficiosa o incluso una asociación o fusión entre tu empresa y otro negocio. Puede que no se mueva tan rápido como te gustaría, pero es algo genial a largo plazo. Busca nuevas oportunidades en lo desconocido o en un campo completamente original.
+Estás conectando con los demás de una manera importante con respecto a vida laboral y dinero ahora. Con actividad en tu sector de grupo, política y trabajo por cuenta propia, puedes estar pensando en cómo aumentar tus ingresos con un negocio secundario o hacer la transición de una carrera a otra. El Universo expande tus oportunidades, así que mantén los ojos abiertos. Vas a tener un repentino destello de intuición cuando veas pasar el signo de dinero oculto en la obra.
