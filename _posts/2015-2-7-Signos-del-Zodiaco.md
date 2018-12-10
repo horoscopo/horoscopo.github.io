@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 09 de diciembre 2018
-description: Horóscopos del dia de hoy 09 de diciembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 10 de diciembre 2018
+description: Horóscopos del dia de hoy 10 de diciembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-12-09
+ lastmod: 2018-12-10
 ---
-Mercurio está a punto de cambiar de signo, y si estás en una encrucijada en una decisión, debes esperar hasta que te llegue una nueva señal para tomarla. Piensa, mira hacia delante, mira hacia atrás, y encuentra una nueva inclinación después de toda esa reflexión. Esta noche, Venus en Piscis da inicio a varias semanas de tranquilos pensamientos sobre las relaciones.
+La Luna forma sextil con el poderoso Plutón, por lo que el día de hoy se trata de la colaboración ventajosa entre creativas personalidades que se reúnen sintiéndose libres de restricciones e inspiradas por la estimulación intelectual. Esta noche, la Luna fuera de órbita en Escorpión aumenta la capacidad de anticipar pensamientos románticos y, tal vez, manipular las reacciones. Se te advierte mantener tus emociones bajo control.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
