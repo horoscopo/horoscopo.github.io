@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 10 de diciembre 2018 al 16 de diciembre 2018 
-description: Horóscopo semanal cancer 10 de diciembre 2018 al 16 de diciembre 2018. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+title: cancer 17 de diciembre 2018 al 23 de diciembre 2018 
+description: Horóscopo semanal cancer 17 de diciembre 2018 al 23 de diciembre 2018. A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: QMAviqUNW6w
+ video: f-dFqFIchdc
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-10'
+ lastmod: '2018-12-17'
 ---
 
 
 
-## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+## A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 
-Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí cancer, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
-Estás en una fase en la que te beneficiará relajarte y recargar baterías. Después de once meses de actividad en tu duodécimo casa, deberías dedicarte a meditar sobre tu progreso y metas para los próximos doce meses. También es una oportunidad para dejar de lado sentimientos y situaciones que drenan tu energía. Si haces esto ahora, harás el mejor uso posible de tu período anual de recuperación. Finalmente, Venus entrando a tu sector social el domingo hace de este un excelente momento para la colaboración y el trabajo en equipo.
+Nadie se cura por herir a otro cancer. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
+A medida que Mercurio, tu planeta regente, se vuelve retrógrado esta semana durante un período de tres semanas, podrías necesitar revisar tu postura. Pero ¿sería esto tan malo? Si siguen surgiendo obstáculos en un área clave, esto podría ser un indicio de que algo no está funcionando. Al volver a revisar tus planes, podrías lograr mucho más en el transcurso. Además, esta semana podría haber un motivo de celebración o una cita muy romántica.
 
 ## Dinero
 
-Esta semana recibes un fuerte mensaje del Universo. Con tanta energía tensa volando por ahí, necesitas buscar respuestas en el área de tu carta que rige la transformación personal. ¿Qué imagen quieres proyectar hacia el exterior? Puedes marcar la diferencia ahora.
+Este período es acerca de cómo adoptar un amplio plan de pago de deuda para lograr que esa parte de tu vida sea resuelva por última vez. Es posible que en el pasado hayas sentido agobio por la cantidad que debías en tarjetas de crédito, crédito hipotecario, o préstamos de familiares y amigos. Sin embargo, ahora tienes la ventaja y el impulso para nivelarte. Desvía el diez por ciento de tu ingreso hacia esta área.

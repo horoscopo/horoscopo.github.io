@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 10 de diciembre 2018 al 16 de diciembre 2018 
-description: Horóscopo semanal escorpio 10 de diciembre 2018 al 16 de diciembre 2018. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+title: escorpio 17 de diciembre 2018 al 23 de diciembre 2018 
+description: Horóscopo semanal escorpio 17 de diciembre 2018 al 23 de diciembre 2018. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: T9oRpzZXaDI
+ video: h8yCyPw8XuA
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-10'
+ lastmod: '2018-12-17'
 ---
 
 
 
-## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 
-Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. escorpio, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota escorpio, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando escorpio. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce escorpio, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
-Hay una energía tan positiva en la semana que está por venir que podría ser muy productiva para ti. Por ejemplo, cuando el seguro Marte, tu planeta regente, se alinea con el apasionado Plutón, puede que quieras enfocarte por completo en una meta que es de suma importancia. Una vez que des el primer paso, el resto vendrá solo. Las personas indicadas y el momento indicado también podrían aparecer para ayudarte. Puede que durante el fin de semana tomes un camino más independiente.
+Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas escorpio. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva escorpio. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien escorpio, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+Si un proyecto creativo ha sufrido demoras últimamente, el avance de Mercurio puede comenzar a marcar la diferencia. Y si tienes responsabilidades en tu hogar que demandan tu tiempo y energía, una alineación positiva sugiere que ya podrías haber encontrado la solución. Esta es una buena noticia para ti, especialmente si te comprometes a transformar una idea en un éxito total. De hecho, podría sentirse como un peso que es gradualmente levantado de tus hombros.
 
 ## Dinero
 
-Esta semana, los aspectos afectan tu sector de instituciones, vidas pasadas, y karma. Lo que pones en tu trabajo y dinero es lo que recibes, dice el Universo. Si te has negado a planificar para la jubilación o el ahorro en general, esta es la semana para escuchar a tu intuición y poner manos a la obra.
+Si has estado teniendo la intención de poner tus cuentas en orden, este es un buen momento para hacerlo. Tu sector de deuda y el dinero de los demás es el más afectado. Si estás tratando de recaudar dinero para una nueva idea de negocio, es un buen momento para hacerlo. El Universo se está centrando en los procesos, tales como solicitudes de préstamos, y asegurándose de que las respuestas que recibas sean positivas. Pon tal dinero a buen uso.

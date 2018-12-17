@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 10 de diciembre 2018 al 16 de diciembre 2018 
-description: Horóscopo semanal piscis 10 de diciembre 2018 al 16 de diciembre 2018. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado piscis, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+title: piscis 17 de diciembre 2018 al 23 de diciembre 2018 
+description: Horóscopo semanal piscis 17 de diciembre 2018 al 23 de diciembre 2018. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: 7JBBqe91xU0
+ video: 8IstfCRzmKc
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-10'
+ lastmod: '2018-12-17'
 ---
 
 
 
-## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado piscis, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-Tu mente lo está analizando absolutamente todo piscis, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez piscis… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas piscis, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana piscis, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
-Cuando el conversador Mercurio —tu planeta regente— está en tu sector de comunicación, podrías descubrir que las oportunidades aumentan si hablas con más personas. Y con el encantador Venus que también continúa en este sector, entablar nuevas y valiosas conexiones debería ser sencillo. También hay posibilidad de que recibas un dinero caído del cielo el jueves, cuando el sol se alinea con el positivo Júpiter. Este animado aspecto puede hacer que un dinero —o la promesa de este— llegue a tus manos. Aun así, podrías tener una discusión con alguien que defiende su postura con perseverante determinación. Si es necesario quedar en buenos términos, puede que debas ser tú quien se trague su orgullo y encuentre una manera de limar asperezas. 
-El fin de semana luce más animado, pero si no tienes cuidado, el dinero podría escurrirse como agua de tus manos. Puede que sea útil establecer un límite de gastos. 
+No puedes estancarte con algo piscis, no debes dejar de crecer nunca. Esta semana vas a estar pensando y analizando la situación de tu vida, ¿estás haciendo lo que realmente quieres hacer? No piscis, hay cosas que quieres cambiar pero tienes que cambiarlas ya, empezar y terminar. No puedes conformarte con la vida que estás llevando, el tiempo pasa muy deprisa y cuando te quieras dar cuenta quizás ya sea demasiado tarde, o quizás te sea mucho más complicado tomar decisiones. Sigue con tus proyectos y no te amargues cuando no veas resultados inmediatos. Lo bueno siempre tarda en llegar. Lo que tienes que hacer es no desanimarte. Saca tu verdadero yo, no te metas en nada superficial, al fin y al cabo esas cosas te merman mucho, no es lo tuyo piscis. No vale ni un segundo de tu tiempo. No te calientes demasiado acordándote de cosas que ya fueron y que ahora no son, que jamás podrán volver a ser, sigues perdiendo tu tiempo como lo hagas así. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. No eres mediocre piscis así que, no quieras llevar esa vida, agarra el amor propio que te sale para buscar mejores oportunidades. No es que seas egoísta, no es que te vuelvas egoísta, es que es algo vital que hagas tu vida.
+Puedes dar un suspiro de alivio esta semana cuando las tensiones comienzan a aliviarse y te empiezas a relajar más. Y con Mercurio, el planeta de la comunicación, ingresando al práctico signo de Tauro, este puede ser un buen momento para planear a futuro y preparar el terreno para nuevos proyectos. Además, serás capaz de pensar con originalidad y adoptar nuevas ideas de una forma muy práctica. Estudiar y establecer nuevas redes de contacto también podría ser importante.
 
 ## Dinero
 
-Si has estado buscando maneras de tener más apertura acerca de tus actividades monetarias, el cosmos te provee soluciones de todo tipo. Tendrás apoyo a la hora de comunicar tus necesidades y deseos relacionados con dinero. Si ha pasado mucho tiempo desde la última vez que recibiste un aumento de sueldo, habla con tu jefe acerca de las razones por la cuales te lo mereces. Alguien como tú no malgasta las horas de trabajo, eres un valioso contribuyente.
+Este período es acerca de grupos, política y autoempleo. Si has estado buscando la manera de ganar más y crear mayor estabilidad, el Universo te da la suerte y la oportunidad de hacer que esto suceda. Acude a tus amistades y redes sociales para ayudarte a construir tu clientela mientras haces la transición de tu empleo actual. Asegúrate de proteger tus ideas y productos con derechos de autor y marcas registradas para asegurar beneficios futuros.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 10 de diciembre 2018 al 16 de diciembre 2018 
-description: Horóscopo semanal aries 10 de diciembre 2018 al 16 de diciembre 2018. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+title: aries 17 de diciembre 2018 al 23 de diciembre 2018 
+description: Horóscopo semanal aries 17 de diciembre 2018 al 23 de diciembre 2018. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: PhezAYvILyg
+ video: 70oiEoP4Eto
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-10'
+ lastmod: '2018-12-17'
 ---
 
 
 
-## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 
-Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
-Al inicio de la semana, una situación social puede ser muy divertida y darte un impulso, así como ayudarte a hacer nuevos amigos que te apoyen. Sin embargo, aún sigue habiendo momentos en los que sientes que tus valores son tan diferentes de los de tu grupo social como lo son la tiza y el queso. Puede que también sientas que nadie te entiende. Sin embargo, no hagas ningún movimiento impulsivo. Si logras mantener tu mente abierta, puede que las cosas terminen mejorando.
+Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
+Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
+Estás en esa fase del año en la que el cosmos te anima a bajar tu ritmo y tomarte un tiempo para reflexionar sobre tu vida. Si bien sigues teniendo muchas ocupaciones, tener tiempo para ti puede ser la clave del éxito durante las semanas y los meses por venir. Ver las cosas en perspectiva y considerar tus prioridades puede ser muy útil para planificar metas futuras. También es un buen momento para deshacerte de cualquier equipaje emocional que puede haber estado retrasándote.
 
 ## Dinero
 
-Es un momento interesante. Nadie te puede pasar por alto, así que trata de usar este tiempo a tu favor. Expón tus atributos. Ofrécete para dar una presentación si la hay y prueba un nuevo estilo para darla. Tu sector de diversión, romanticismo, niños y miembros de la familia entra en juego. ¿Cómo puedes usar tus conexiones familiares para avanzar en cuanto a dinero se refiere?

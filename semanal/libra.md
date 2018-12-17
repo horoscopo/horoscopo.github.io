@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 10 de diciembre 2018 al 16 de diciembre 2018 
-description: Horóscopo semanal libra 10 de diciembre 2018 al 16 de diciembre 2018. Esta semana relájate un poco libra, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: libra 17 de diciembre 2018 al 23 de diciembre 2018 
+description: Horóscopo semanal libra 17 de diciembre 2018 al 23 de diciembre 2018. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: 1sQqb9kKJ-M
+ video: rWDITDJVR3g
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-10'
+ lastmod: '2018-12-17'
 ---
 
 
 
-## Esta semana relájate un poco libra, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 
-A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario Capri, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada.
-Prepárate para encantarle ya sea a un jefe o superior o sonreírle con dulzura y persuadir a una persona de autoridad con el fin de salirte con la tuya. Venus en la parte más superior de tu carta te presta una gran cantidad de carisma, facilitando que las cosas salgan a tu favor. Aun así, una conexión incómoda entre Júpiter y Saturno sugiere que es posible que sientas restricción debido a responsabilidades hogareñas. Delega lo más que puedas y también debes saber que lo más seguro es que tal situación se calme durante las próximas semanas.
+La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón libra, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
+Estarás de humor para relajarte, y con esta deliciosa mezcla de energías que aparece, valdrá la pena aprovechar al máximo cualquier oportunidad disponible. Mientras que el curioso Mercurio sigue retrógrado, una conexión romántica podría parecer prometedora, pero puede que no sea fácil seguir adelante con ella por el momento. Sin embargo, puedes divertirte mucho en casa. A medida que la vitalidad de Marte ingresa a este sector el sábado, puede que te dispongas a eliminar el desorden y a que tu casa esté limpia y ordenada.
 
 ## Dinero
 
-Si has estado buscando un nuevo trabajo, es un excelente momento para desempolvar ese currículum y empezar a aplicar. Si has estado inquiriendo una promoción, o simplemente un mejor paquete de beneficios por parte de tu empleador actual, crea un documento que contenga una enumeración de los beneficios que le has proporcionado a la empresa. Luego, pide una reunión o asiste a esa entrevista. Es un buen momento para mostrar tu personalidad.
+Te beneficiarás de dos maneras cruciales en estos momentos. Dado que ciertos aspectos están afectando a tu sector de grupos, política y trabajo por cuenta propia, puede que estés considerando trabajar desde casa o iniciar un nuevo negocio desde la comodidad de tu habitación. La suerte se combina con repentinas ideas brillantes. Puede parecer una broma, pero puede que de verdad funcione.
