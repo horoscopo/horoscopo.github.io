@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de diciembre 2018
-description: Horóscopos del dia de hoy 16 de diciembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de diciembre 2018
+description: Horóscopos del dia de hoy 17 de diciembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-12-16
+ lastmod: 2018-12-17
 ---
-No es raro encontrar la vida llena de propósitos más específicos y la motivación para descubrir maneras de lograrlos cuando Mercurio transita en Capricornio. Las parejas encuentran increíble lo que puede hacer el poder transformador del amor. Los solteros se percatan de que la química con alguien es algo especial conforme sienten cómo se sobrecalienta el aire.
+No tomar una decisión es una opción para no tomar ninguna acción. Hoy tienes que tomar una ya sea que quieras o no. Esta noche, el romanticismo está en el aire. Podría haber una reunión casual con alguien nuevo para aquellos solteros que se encuentren con una lista de espera de potenciales parejas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
