@@ -1,17 +1,11 @@
 ---
-layout: horoscopos
-title: leo 2018 Horóscopo año nuevo 2018 
-description: leo horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para leo gratis. Disfruta este año nuevo.
+layout: page
+title: leo Horóscopo año nuevo 2019 
+description: leo horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para leo gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/leo/
-amplink: /horoscopo-anual/amp/leo/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo leo 2018, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2018 gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo leo 2019, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2019 gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/leo_anual.png
-facebook:
- instant_article: 'yes'
-horoscopo:
- signo: leo
- video: 2XwOwtLD-gc
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -21,32 +15,40 @@ sitemap:
 
 ## Vida Personal
 
-El 2018 será un poderoso año para ti, y la mayoría de lo que hagas va a suceder en público, a plena vista, y probablemente con la ayuda y cooperación de los demás.
-Tu círculo de amigos y asociados crecerá a partir de Enero y Febrero. No sentirás soledad en el 2018.
-Siéntete más audaz acerca de dinero, posesiones, y tu propio cuerpo en la primavera. Escucha a tu intuición e instintos como una manera de mirar antes de saltar a territorio desconocido - más ten valentía al hacerlo.  
-Más adelante, en Abril, Mayo y Junio, mientras Marte se encuentre retrógrado, tu enfoque mental y salud serán menos afectados que los de otros signos. Disfruta de este período de calma emocional. Tú bien sabes cómo sentir intensamente sin mostrarlo todo el tiempo.
-El Eclipse Solar de Marzo puede despertar eventos dentro de tu mundo, pero te habrás preparado para ello. El Eclipse Lunar en leo de Septiembre será más emocional para ti.
-Por su parte, la conjunción Mercurio-Venus en tu carta es un regalo que mantiene a tu mente inteligente, aguda y sensible durante todo el año.
+¡Permite que el mundo vea más a tu verdadero yo en el 2019 leo! Trabaja duro en lo que más amas y diviértete al hacerlo. Este año, más personas disfrutarán de trabajar contigo y tu vida social podría estar más ocupada también.
+El período en el que Marte estará retrógrado en la primavera podría ayudarte a reducir tu ritmo, enfocarte, y mantener tu mirada en lo que es más importante.
+Algunas personas podrían estar tratando de sacudir tu mundo durante todo el año, especialmente alrededor del Eclipse Solar en Piscis de Marzo y el Eclipse Lunar en Piscis de Septiembre. Mantén tu confianza en ti - bien puedes lograrlo.
+Ten bondad hacia ti, cuida tu salud, mantén tu cuerpo activo y haz buen uso de tu tiempo día con día. Comenzar el año con una rutina diaria firme - una que realmente disfrutes - te llevará lejos durante todo el año.
+Tanto dinero como oportunidades laborales te surgirán, por lo que trabajar duro y deja tu huella.
+Toma decisiones sabias en tu hogar y asume la autoridad que tus amigos y familiares te asignen. ¡Simplemente sé tan increíble como siempre lo eres leo!
 
 ## Amor Parejas
 
-Tú y tu pareja harán su parte en el 2018 y tendrán una relación tan sólida como una roca. Cuando estén juntos, cualquier problema o desafío parecerá ser más simple y será remediado más fácilmente.
-Habrá una gran cantidad de ternura en su relación pero ambos estarán dispuestos a esforzarse para resolver las ocasionales dificultades. Si los niños se ponen rebeldes, las mascotas se vuelven bravuconas, o alguno de los dos tiene una mala racha profesional; trabajarán juntos y lograrán poner su vida juntos en marcha de nuevo.
-Ambos estarán dispuestos a verse con ojos de enamoramiento, especialmente al comienzo de la primavera. Este optimismo romántico neptuniano es tanto bueno, como dulce.
-El otoño podría ser la temporada más agitada con el Eclipse Solar en leo mientras Mercurio se encuentra retrógrado. Pero ambos tendrán los pies en la tierra y verán los malentendidos como los interludios cómicos que son.
-Tu vida familiar será agradable y también práctica en Noviembre y Diciembre, cuando Saturno ejerza su calmante influencia. Ambos sentirán comodidad al ser la persona más "madura en la habitación".
+El amor es fuerte y al rojo vivo este año para leo, y también habrá un montón de espacio para opiniones, decisiones y actividades individuales. 
+Júpiter se encuentra en el feroz Leo hasta mediados de Agosto, dándole a tu vida de pareja un barniz de glamour, diversión, y tal vez extravagancia. Cuando Júpiter entre a Virgo, esperen que su vida diaria se calme y sea más casual y discreta, aunque nunca aburrida. Después de todo, ¡tú no conoces esa palabra!    
+El 2019 podría comenzar con una gran oportunidad de cambio en el trabajo, una reubicación, o alguna preocupación monetaria. Trabajen juntos, tengan una visión común (esto incluye ceder si es necesario), y obtengan gran beneficio y felicidad de ello sin importa lo que decidan. 
+El verano es a la vez dulce y práctico en los días anteriores a la conjunción entre el Sol y Júpiter en Virgo (26 de Agosto), cuando la Luna se encuentre en el práctico Capricornio. Si desean darse una escapada antes de que el verano termine, vayan a un lugar relajante (¡a la playa!) en vez de una frenética excursión grupal (la cual podría estar sobrecarga de estimulación). 
+Con ambos, Venus y Marte en Libra del 13 de Noviembre al 5 de Diciembre, la vida es muy ocupada pero todavía hay tiempo suficiente y energía para la intimidad.
 
 ## Amor Solteros
 
-En el 2018, lo emocionante e inusual podría llamarte más la atención, leo. No cambiarás muy drásticamente, pero la típica cita tranquila ya no te dará la satisfacción que solía darte.
-Tu paseo más salvaje podría ser a principios de año, por lo que mantén tu guardia en alto así como también tu ingenio. Toma nota - es posible que desees escribir tu experiencia más adelante. 
-En Marzo, el Eclipse Lunar en Libra podría ponerte cara a cara con otra aventura romántica. Pero si no estás de humor para ella, serás capaz de escaparte con gracia. 
-Después de Abril, tu vida amorosa debería calmarse pero aún ser divertida. Disfrutarás de acudir a más eventos grupales hasta Agosto y Septiembre, cuando podrías conocer, ligar y coquetear con encantadores prospectos. 
-El comienzo del invierno también será un periodo de fiesta conforme la época de festividades agarra vuelo y pudieras conectar con un espíritu afín, si no es que un alma gemela. Esta no será una conexión frívola, así que compórtate con la misma seriedad y sinceridad que deseas recibir a cambio.
+El amor te está buscando en el 2019, leo, así que puedes permitirte ser exigente. Confía en tus instintos, como siempre, pero las primeras impresiones podrían tener consecuencias inesperadas.
+
+
+El trígono entre el sol y Marte luego de que el sol entra a leo hará que Marte sea un mejor aliado este año. Prospectos románticos apasionados y directos aparecerán en tu camino. Tómate tu tiempo y elige a tu gusto. También, la cuadratura entre el sol y Saturno debería reducir la velocidad en los tiempos de reacción y ayudarte a diferenciar mejor.
+
+
+Marzo podría ser un momento emocionante cuando conoces a alguien que comparte tus sueños más profundos. Podrías decidir que, a pesar de algunos roces leves, esta persona vale la pena. Depende de ti.
+
+
+La fase retrógrada de Venus en octubre y la primera mitad de noviembre también te dará una pausa si tu vida social o cierta relación nueva está comenzando a avanzar demasiado rápido. 
+
+
+Noviembre y diciembre deberían ser momentos cálidos y estables en los que el romance es tan cómodo como intenso.
 
 ## Trabajo
 
-Tu carrera y situación monetaria reciben directo enfoque en el 2018, cuando tienes la energía para moverte e ir tras cualquier cosa que pudieras imaginarte y luego idear un plan para maximizar tus oportunidades. La conjunción Sol-Plutón de enero lo inicia todo, ayudándote a cambiar o crear algo para que te beneficies a lo largo del 2018.
-Cuando el Sol entra a leo, tu planeta regente Marte y el asteroide Ceres se encontrarán en el práctico y trabajador Tauro. Esto presagia muy bien para un aumento de dinero y todas las cosas materiales que te apoyan y nutren.
-En octubre, Júpiter sale del diplomático Libra y entra al determinado Escorpión. Los asuntos empresariales y relaciones de negocios se vuelven más austeros y enfocados en ganancias materiales. 
-En diciembre, Saturno entra a Capricornio, el signo que rige. Esta es la encarnación planetaria de la ética laboral y el impulso hacia el éxito. El Sol conjunta a Saturno a finales de diciembre, agudizando aún más el enfoque en profesión y progreso económico para el próximo año. Te encontrarás en una buena situación al final del año.
+El 2019 podría ser el año en el que leo experimente abundancia y una acumulación de prestigio y - sí - incluso más dinero. Mantén tu ambición y tus esfuerzos en alto así como tus expectativas razonables para luego ver más desarrollo.
+La ración extra de encanto que tendrás te atraerá oportunidades y extenderá tus redes de contacto. Las personas te valorarán y querrán trabajar contigo. Tus relaciones de negocios estarán claramente definidas y serán mutuamente satisfactorias. Durante los primeros meses, haz nuevas conexiones y permite que se vuelvan más fuertes a medida que todos los involucrados alcanzan el éxito.
+Si los meses de Febrero y Marzo requieren de más gastos, podrás mantenerlo todo dentro de lo razonable. Y para Agosto y Septiembre, tus ganancias podrían ya haber aumentado lo suficiente como para compensar esos costos.
+Conforme el año se acerque a su fin, ten más prudencia al gastar para que cuando el 2017 se acerque tengas una situación económica más sólida.  

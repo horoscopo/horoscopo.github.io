@@ -1,17 +1,11 @@
 ---
-layout: horoscopos
-title: capricornio 2018 Horóscopo año nuevo 2018 
-description: capricornio horoscopo 2018 año nuevo, amor, trabajo, vida personal. Todas las predicciones para capricornio gratis. Disfruta este año nuevo.
+layout: page
+title: capricornio Horóscopo año nuevo 2019 
+description: capricornio horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para capricornio gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/capricornio/
-amplink: /horoscopo-anual/amp/capricornio/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo capricornio 2018, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2018 gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo capricornio 2019, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2019 gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/capricornio_anual.png
-facebook:
- instant_article: 'yes'
-horoscopo:
- signo: capricornio
- video: oepK86dMHyQ
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -21,32 +15,40 @@ sitemap:
 
 ## Vida Personal
 
-El 2018 es un año estelar en el que capricornio debe tomar las riendas de su imagen pública y ¡sobresalir en la profesión de su elección! Tendrás que esforzarte, pero estarás a la altura del desafío. Con la Luna, Marte, Saturno y Urano en Signos de Fuego al comienzo del año, tienes más energía y tenacidad que la mayoría.
-El periodo de primavera puede poner a prueba tu paciencia con Marte retrocediendo desde mediados de Abril hasta finales de Junio. Perfecciona tus técnicas y métodos y posteriormente pon a prueba tus nuevas ideas a una escala más pequeña.
-A finales de verano y principios de otoño, respeta tus límites físicos y no te comprometas de más. Resístete al impulso de acudir a demasiados eventos, reuniones, clases, o trabajar demasiado tiempo extra. Tu salud y bienestar son tan importantes como cualquier alabanza o beneficio extra que pudieras recibir.
-Busca adoptar nuevas perspectivas tanto sobre ti como tus muchas amistades, sobre todo a medida que se acerca la víspera de Año Nuevo hacia el próximo año. En muchos sentidos, el 2018 es mágico, ¡así como también muy poderoso para ti!
+En el 2019, eres una estrella en ascenso capricornio. Todo tu arduo trabajo será reconocido y recompensado. La mayor parte de tu trabajo será mental y nunca carecerás de brillantes ideas, muchas de ellas aparentemente intrascendentes en el momento.
+Este año, reconocerás el potencial que otros podrían pasar por alto. La oposición Luna-Saturno en tu carta de este año garantiza cuidadosos pensamiento y planificación que no te defraudarán. Por su parte, la conjunción Mercurio-Plutón te dará el coraje necesario para ser audaz, pero sólo cuando sea prudente.
+Tu vida amorosa y vida social se vislumbran importantes, manteniendo tus días felices y ocupados en hermosos entornos y con gente encantadora. Aprópiate del lugar que te mereces y brilla.
+Un apetito por conocimiento y aventura podrían surgirte de la nada, y encontrarás maneras prácticas de satisfacer estos anhelos. El fuerte posicionamiento de Marte en Escorpión no te permitirá quedarte en sólo un lugar por mucho tiempo.    
+El progreso de tu carrera profesional será constante este año y puede conducirte gradualmente a un gran éxito. Saturno en Sagitario es tu amigo. ¡Aprovéchalo!
 
 ## Amor Parejas
 
-El año comienza de una forma un tanto turbulenta, pero los pequeños malentendidos se pueden transformar en oportunidades para restablecer un vínculo. Además, la primera parte del año se compensa con momentos más fuertes en los que ambos están en la misma frecuencia. Depende de ustedes hacer que esos momentos cuenten, al expresar empatía sin reservas. Más de la mitad de las veces, un argumento no será acerca de si alguien está "bien". Se tratará de reconocer que los argumentos de ambas partes son válidos.
-
-
-Sin embargo, una vez que el verano llegue, tú y tu pareja pueden empezar a sentirse más como una unidad sólida y querrán construir una atmósfera familiar. Nada crea una relación más sólida que tener un objetivo común, y su atención se centra decididamente en el horizonte hacia hacer que su hogar sea un mejor lugar para que tanto amigos como familiares visiten.
-
-
-A finales de año, Júpiter en capricornio estará bendiciendo el viaje que como pareja comparten. Cuando se trate de resolver problemas de vida, ¡dos cabezas son mejor que una!
-
+Con Júpiter en el amable y amoroso Libra durante la mayor parte del año, las relaciones se ven especialmente favorecidas en el 2019. Tanto la generosidad como los compasivos sentimientos les mantendrán juntos y en ocasiones podrán suavizar sus desacuerdos o diferentes puntos de vista.
+Venus, el planeta del amor, estará en el curioso y parlanchín Géminis cuando el Sol entre a capricornio. Deberían de ser capaces de hablar de cualquier cosa y tener discusiones sustanciales y decisivas durante este periodo de tiempo.
+Venus retrocederá en Aries desde principios de marzo y luego en Piscis hasta mediados de abril. Tu vida amorosa podría volverse más rica, más calmada y más tranquila entonces.    
+En octubre, cuando Júpiter se desplaza hacia el serio y atractivo Escorpión, las parejas podrían volverse aún más estrechas. La honestidad, la integridad y la devoción mutua serán esenciales. La intimidad física también puede intensificarse.
 
 ## Amor Solteros
 
-Con Júpiter, tu planeta regente, en Libra desde enero hasta octubre, las relaciones amorosas se ven especialmente favorecidas. El mundo de las citas debería estar lleno de nuevas caras, nuevas voces, nuevos y emocionantes lugares a los cuales acudir, así como nuevos intereses y fuentes de entretenimiento.
-Con la conjunción Marte-Neptuno de enero, la neblina romántica podría persistir durante todo el año, permitiéndote disfrutar de dulces memorias del pasado, así como de la búsqueda activa de tu perfecto e ideal amor.
-Venus estará retrógrado desde marzo hasta mediados de abril. Disminuye el ritmo de tu vida social y deja que el amor sea menos urgente. Si estás a punto de hacer un compromiso permanente u oficial, considera esperar hasta que Venus comience a moverse directamente (después del 15 de abril).
-Júpiter deja al atractivo y agradable Libra para entrar a Escorpión el 10 de octubre. El amor se vuelve más profundo y serio. Es posible que tú prefieras el tipo de romance que es más ligero e informal, pero si te topas con alguien que realmente valga la pena este año, lo más probable es que sea durante estos últimos meses.
+¡Conoce a un millón de pretendientes amorosos en el 2019! Si decides visitar lugares lejanos en enero, conocerás hermosas personas con las cuales coquetear.
+
+
+En abril y mayo, sal más a la naturaleza y descubre un admirador práctico y agradecido que comparte tus mismos valores.
+
+
+En julio, la fase retrógrada de Júpiter termina y con ello regresa un mayor deseo de estar entre la gente. A finales de agosto, la fase retrógrada de Marte concluye y las pasiones se vuelven más fuertes que antes. No te dejes llevar tan rápido.
+
+
+La fase retrógrada de Venus en octubre y noviembre podría frustrar el entusiasmo para el romance, pero es más probable que simplemente presione el botón de pausa en una relación que merece ser reevaluada. No apagará el amor, y el tener un pensamiento más selectivo casi nunca significa algo malo. Si entonces consideras asumir un compromiso formal, tal vez espera hasta la segunda mitad de noviembre.
+
+
+En diciembre, si aún no has conocido a nadie, podrías tener éxito y conectar con alguna persona muy dispuesta a hacer sacrificios solo para estar contigo.
+
+
 
 ## Trabajo
 
-El 2018 está lleno de oportunidades para tu éxito laboral y profesional. Si vas a comenzar una nueva carrera o estás buscando trabajo, las oportunidades deberían abundar. Ten una clara visión de lo que quieres, ya que bien podría caerte del cielo de la nada, sobre todo después de Agosto. 
-Júpiter brilla en Leo durante el primer semestre del año, haciéndote deseable como empleado, socio, o contratista. Una vez que Júpiter entre a Virgo, tus competentes y eficientes cualidades brillarán. 
-Mantén un registro de tus gastos, inversiones (pero no de manera impulsiva), y ahorra por lo menos algo con regularidad. 
-El Sol, Mercurio, y Saturno se encuentran en capricornio a finales de Noviembre, el penúltimo mes del 2018, cuando estarás en tu punto más ingenioso, creativo, y práctico. Básicamente, ¡esto le garantiza un final financieramente positivo a un productivo año!
+Si ya tienes trabajo capricornio, puede que recibas una promoción o se espere que asumas más responsabilidad este año. 
+Si estás buscando trabajo o una nueva posición, es buen momento para ello. Es probable que hayas estado en entrenamiento, formado parte de un programa educativo, prácticas de algún tipo (incluso aunque no hayas estado consciente de ello como tal) y fácilmente podías pasar a una asignación de espera en el 2019, posiblemente a finales de Junio (cuando tendrás más energía y motivación personal) o en Noviembre (cuando proyectarás más autoridad). 
+Financieramente, tu mayor preocupación es evitar tener excesiva caridad hacia los demás. Incluso si tienes más de lo necesario, el exceso de generosidad puede conducirte a problemas. Simplemente sé realista, sobre todo a finales de Agosto. 
+Con tantos planetas en Signos de Fuego este año, la acuosa energía de capricornio será un bienvenido alivio en tu lugar de trabajo. ¡Utiliza esto a tu ventaja durante todo el año!

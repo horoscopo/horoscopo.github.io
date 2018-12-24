@@ -1,17 +1,11 @@
 ---
-layout: horoscopos
-title: escorpio 2018 Horóscopo año nuevo 2018 
-description: escorpio horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para escorpio gratis. Disfruta este año nuevo.
+layout: page
+title: escorpio Horóscopo año nuevo 2019 
+description: escorpio horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para escorpio gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/escorpio/
-amplink: /horoscopo-anual/amp/escorpio/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo escorpio 2018, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2018 gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo escorpio 2019, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2019 gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/escorpio_anual.png
-facebook:
- instant_article: 'yes'
-horoscopo:
- signo: escorpio
- video: HFJrySRKOew
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -21,40 +15,56 @@ sitemap:
 
 ## Vida Personal
 
-Como una hermosa y compleja tela de araña, en el 2018 vas a conectar con los demás a través de distintas líneas de comunicación.
-
-
-El 21 de Enero, la Luna entra a escorpio y crea un trígono con el Sol que ayuda a aumentar tus habilidades interpersonales. Ciertas personas que podrían haberte ignorado en años anteriores ahora te están buscando; y su búsqueda resulta en un valioso ser humano.
-
-
-Por un lado, esto va a aumentar tu red personal. Por otro lado, te percatarás de que las personas que requieran de tus habilidades acudirán a ti con más frecuencia. Mientras que definitivamente te gusta ayudar a la gente, vas a tener que aprender a decir no de vez en cuando si lo que se te pide interfiere seriamente con tu vida.
-
-
-La mejor parte es que tu resistencia física será más fuerte hacia el final del año, especialmente el 24 de Septiembre, cuando el Sol se encuentre con la Luna en escorpio. Vas a necesitar ese nivel de resistencia, ya que podrías tener mucho que hacer por un tiempo.
-
-
-Hacia el final del año, vas a salir a hacer cosas - incluso cuando haya mal tiempo - ¡simplemente porque te sentirás tan bien acerca de la vida!
-
+Una potente buena suerte e instantánea energía están a tu alcance en el 2019, Escorpión. Dado tu nivel natural de intensidad, requerirás de extra esfuerzo casi todos los días para no agotar a las personas que te rodean. 
+Sé cool y hasta un poco distante si es necesario en Febrero y Marzo, cuando los instintos sean puestos a prueba y la gente se vuelva más difícil de leer. Resérvate tus juicios sobre los demás, pero tampoco los idealices – a familiares y amigos.   
+Cuando Marte conjunta a Urano (11 de Marzo) y cuando el Sol conjunta a Urano (6 de Abril), la Luna estará en Escorpión, afectándote más fuertemente que a la mayoría de los otros signos. Prepárate para las sorpresas que puedan surgir.
+Respeta tus límites físicos, evita esforzarte excesivamente, y compórtate sana y ambiciosamente. Un año tan feroz como este puede ser difícil para un Signo de Agua como tú, ¡pero el 2019 te otorga un montón de energía del elemento Tierra para estabilizarte a lo largo del año! 
 
 ## Amor Parejas
 
-La novedad y la emoción serán parte de la vida amorosa de escorpio en el 2018. Considéralo como un soplo de aire fresco romántico entre tú y tu pareja. Nada importante tiene que llegar o irse, pero los detalles de la vida cotidiana sí pueden simplemente volverse más radiantes y más felices.
-Puede que ambos hayan estado anhelando un poco más de diversión en sus vidas diarias. A partir de principios de primavera, Venus y Urano inspirarán para que esto suceda. Esperen más pequeñas y agradables sorpresas así como gestos o regalos simbólicos. Anticipen más actos naturalmente positivos. Y también recuerden saber regresar favores. 
-Ya sea que tomen o no tomen unas largas vacaciones, es posible que deseen más momentos románticos en Agosto y Septiembre. Acudan a un lugar que sea especial para los dos (o quédense en casa y hagan algo que sea igual de especial).
-Su relación podría volverse más seria en Noviembre y Diciembre. Los dos podrían asumir una causa o proyecto importante en conjunto y percatarse de que ello les ha acercado aún más como pareja. Será un año poderoso y muy íntimo.
+El mundo exterior puede parecer duro y cruel por momentos en el 2019, escorpio, pero las parejas encontrarán una gran amabilidad reconfortante pase lo que pase. Cuando el sol ingresa a escorpio, el cielo tiene una buena cantidad de agradables sextiles que se forman y se disuelven entre Júpiter, Plutón, Saturno, Neptuno y Urano.
+
+
+¿Suena complicado? Es un periodo de tiempo complicado, en especial enero, febrero y marzo. El sol y Mercurio se encuentran en una conjunción cuando el sol ingresa a escorpio. Esto les ayuda a ambos a descubrir qué es lo que necesitan.
+
+
+El romance puede brindar una agradable distracción de cualquier complicación relacionada con el trabajo o la familia. Deberían quedar relativamente en paz para perseguir sus propios planes hasta la fase retrógrada de Marte que se manifiesta en Capricornio durante el verano. Esta puede causar frustraciones en el trabajo, pero se tienen mutuamente para apoyarse.
+
+
+Venus se encuentra en fase retrógrada desde octubre hasta mediados de noviembre, en su mayor parte en Escorpión. Algunos pesados temas de discusión podrían surgir. Sean sinceros y directos, y verán que los humores mejoran cuando Venus se torna directo en el gentil Libra.
+
+
+Diciembre es temporada de festividades y tal vez vacaciones. Entonces, puede que tu preferencia sea una escapada íntima si las festividades en familia o del trabajo se vuelven demasiado demandantes.
+
+
 
 ## Amor Solteros
 
-Tu corazón puede latir rápido desde Enero hasta Abril escorpio, por lo que limita tu consumo de cafeína o tal vez toma descafeinado durante esas citas de noche. 
-Tu juicio podría andar un tanto nublado (especialmente con el retroceso de Mercurio del 21 de Enero al 11 de Febrero), pero tus instintos y sentidos psíquicos seguirán siendo agudos. Esto te da la oportunidad de retirarte elegantemente si eso es lo que quieres. 
-El Eclipse Solar del 20 de Marzo (en escorpio) también podría traerte emoción del tipo romántico. Algo fundamental podría comenzar o terminar para ti. Presta atención y mantén tu antena psíquica en alto. 
-Es posible que conozcas una menor cantidad de personas desde finales de Abril hasta Agosto, pero puede que sea cuando desees un poco de descanso de todos modos. 
-Tu vida social y pensamiento crítico se recuperan y mejoran en el otoño, desde Octubre hasta finales de año. Si buscas a un buen prospecto que también sea atractivo, los días de finales de Octubre y finales de Noviembre son ventanas de oportunidad. 
-El 2018 es un año emocionante en el terreno romántico escorpio. Juega inteligentemente y a lo seguro, ¡y lánzate a la diversión! 
+¿A veces sientes como si no hablaras el mismo idioma que los demás? Este puede seguir siendo el caso durante la primera parte del año. Ya sea tu intención o no, por desgracia, habrá un tipo de desconexión cuando se trate de amor durante la primera parte del año debido a que Venus en el serio Capricornio ve con recelo a cualquier cosa que sea fuera de lo común.
+
+
+Al mismo tiempo, hay gente que te ve como alguien gracioso o intelectual, pero también inaccesible. El retroceso de Mercurio en Febrero no facilita las cosas tampoco.
+
+
+Sin embargo, tendrás un período de más suerte cuando Venus pase a través de Géminis a finales de Junio y principios de Julio. Es entonces cuando pequeños y reveladores detalles te hacen comenzar a pensar que esa persona que te está mirando es tan interesante para ti como lo eres tú para ella.  
+
+
+La energía del otoño hace que las potenciales conexiones sean mucho más fuertes, sobre todo cuando se elimina la influencia dominante de Saturno en Escorpión. No te sorprendas si te percatas de que estás abriendo interesantes puertas mentales y filosóficas sólo al estar con alguien. ¡Los planetas lo han colocado todo para ti!
+
 
 ## Trabajo
 
-Tanto tus finanzas como tu carrera reciben un gran impulso en el 2018. La conjunción Sol-Plutón en Capricornio ilumina todos tus mejores planes e intenciones. Compórtate seria, intensa y decididamente.
-El retroceso de Júpiter en escorpio desde febrero hasta principios de junio puede disminuir el ritmo de cualquier cosa que esté creciendo demasiado rápido, o también disminuir la tendencia a gastar de más.
-A medida que el Sol entra a escorpio en septiembre, el Nodo Norte Lunar estará en el dramático y generoso Leo. Evita los psicodramas superficiales y céntrate en hacer cambios que sean igualmente dramáticos como para poder mejorar tu posición e imagen en el trabajo.
-Con el Sol y Saturno en Capricornio conforme termina el año, los asuntos monetarios serán sólidos, prácticos y estarán bajo control. Trata de que tu temporada navideña no sea tan cara y comenzarás el 2018 en una muy buena posición financiera.
+Los asuntos profesionales y monetarios están en primer plano a lo largo del año, y de una buena manera. Es probable que pongas más esfuerzo en tu profesión y finanzas de lo que te des cuenta, porque saldrá de ti de forma natural.
+
+
+Para ti, escorpio, el año empieza con una conjunción entre, Plutón, Marte, y la luna, que no puede ser apagada con nada. Te dispones a hacer un gran cambio si te parece lo correcto. Tienes los instintos y sentidos elevados para juzgar mejor lo que es correcto y cuándo es el momento indicado. Y tienes la motivación e interés personal para sacarle el mayor provecho a una oportunidad.
+
+
+Mientras que los demás tal vez sigan cediendo a la melancolía y resaca de las fiestas de fin de año, comienza a hacerte camino desde principios de enero. En marzo, vuelve a evaluar tus sueños para el éxito. Sueña en grande. 
+
+
+Prepárate. Una ventana de oportunidad podría abrírsete en abril. Eres una persona naturalmente práctica, si no cuidadosa, con las finanzas. Más tarde, inteligentes ideas pueden rendir sus frutos en julio.
+
+
+En octubre y noviembre, forma redes y alianzas. Las varias fases retrógradas de Marte, Júpiter y Saturno aumentan tu sabiduría y mejoran tus probabilidades de tener éxito.
+

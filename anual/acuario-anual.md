@@ -1,17 +1,11 @@
 ---
-layout: horoscopos
-title: acuario 2018 Horóscopo año nuevo 2018 
-description: acuario horoscopo 2018 año nuevo, amor, trabajo, vida personal. Todas las predicciones para acuario gratis. Disfruta este año nuevo.
+layout: page
+title: acuario Horóscopo año nuevo 2019 
+description: acuario horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para acuario gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/acuario/
-amplink: /horoscopo-anual/amp/acuario/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo acuario 2018, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2018 gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo acuario 2019, horoscop, horóscopos gratis, horoscopo acuario, horoscopo acuario 2019 gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/acuario_anual.png
-facebook:
- instant_article: 'yes'
-horoscopo:
- signo: acuario
- video: C20dE8D89YM
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -21,44 +15,43 @@ sitemap:
 
 ## Vida Personal
 
-Bienvenido al animado y magnífico 2018, Acuario. Tendrás la oportunidad de conectar con más gente y participar en situaciones nuevas más que nunca. 
-
-
-También es un año para que comiences nuevos proyectos y empieces a explorar nuevos caminos en la vida. El día antes de que el sol entre a Acuario, Venus ingresa al encantador y popular Cáncer. Marte habrá acabado de ingresar al ambicioso e intelectual Acuario, y Urano al metódico y materialista Tauro. Espera que el 2018 te traiga mejoras y algunos cambios de dirección en tu vida social y profesional. Podrías entrar a un nuevo mundo.
-
-
-Las tres fases retrógradas de Mercurio este año suceden en signos de fuego. El ajetreado ritmo de tu vida no debería verse modificado. Promuévete un poco menos durante la primavera, y refina tu forma de presentarte. Corre menos riesgos en el verano, y diviértete más. A finales del otoño, considera algunas lecciones recientes y aplícalas más sabiamente.
-
-
-Justo después de que Venus se torne directo en noviembre, tu planeta regente Mercurio forma una conjunción con el generoso Júpiter. Tu vida amorosa no necesitará ser frenada o perder su enfoque. ¡Qué año tan intenso!
-
+El 2019 te otorga un deseo más profundo de seguridad material y lujo. Esto significa que tendrás más motivación y ambición. Con tu gentil y agradable manera de ser de acuario, podrás lograr más y atraerás a personas con quienes seas más compatible. 
+Tendrás extrema suerte con la gente, ¡así que establece contactos! Posteriormente, ponle pausa a tus actividades sociales en Agosto, descansa, y recupera tu energía. 
+Mercurio retrocediendo en tu signo (del 17 de Septiembre al 9 de Octubre) es algo muy bueno también. Consolida a tu equipo de amigos y miembros de familia ahora, y verás claramente quiénes son los que de verdad te apoyan. 
+Noviembre y Diciembre son periodos poderosos para ti también, sobre todo los dos últimos días de Diciembre, cuando el planeta Venus entra al glorioso Sagitario. 
 
 ## Amor Parejas
 
-La primera mitad del 2018 puede ser complicada, pero de todas formas es probable que te guste toda esa actividad social y emocional. El día de año nuevo, la luna sale de Acuario y entra a Cáncer. Sé más sensible con los demás, y planea cómo lidiar con ellos incluso antes de que digan una palabra.    
+El año comienza de una forma un tanto turbulenta, pero los pequeños malentendidos se pueden transformar en oportunidades para restablecer un vínculo. Además, la primera parte del año se compensa con momentos más fuertes en los que ambos están en la misma frecuencia. Depende de ustedes hacer que esos momentos cuenten, al expresar empatía sin reservas. Más de la mitad de las veces, un argumento no será acerca de si alguien está "bien". Se tratará de reconocer que los argumentos de ambas partes son válidos.
 
 
-Si las relaciones laborales se vuelven delicadas en enero o febrero, tienen su apoyo mutuo para consolarse y consultarse. Lidiar con problemas profesionales puede haberlos acercado antes. No se preocupen.
+Sin embargo, una vez que el verano llegue, tú y tu pareja pueden empezar a sentirse más como una unidad sólida y querrán construir una atmósfera familiar. Nada crea una relación más sólida que tener un objetivo común, y su atención se centra decididamente en el horizonte hacia hacer que su hogar sea un mejor lugar para que tanto amigos como familiares visiten.
 
 
-Los últimos días de febrero y marzo son momentos para soñar, cuando pueden compartir sus planes y deseos para el futuro. En mayo, es posible tomarse unas breves vacaciones o una divertida escapada de fin de semana. Ambos podrían estar de humor para socializar más en junio.
-
-
-Valórense el uno al otro más que nunca en octubre y noviembre. Venus se encuentra retrógrado ahora. Molestias menores pueden parecer mayores, pero encontrarán la forma de superarlo todo. Diciembre está lleno de un amor que es tan sólido como una roca.
-
-
+A finales de año, Júpiter en acuario estará bendiciendo el viaje que como pareja comparten. Cuando se trate de resolver problemas de vida, ¡dos cabezas son mejor que una!
 
 
 ## Amor Solteros
 
-¡El 2018 será un año lleno de buenos ratos y grandes sueños para ti Acuario! Puede que no salgas a darle la vuelta al mundo pero tampoco te quedarás en casa. No habrá citas aburridas para ti.
-El Eclipse Solar de Marzo encenderá tu fuego y te traerá tanto inspiración como los aspirantes románticos que de verdad deseas, por lo que durante toda la primavera, trata de hábil y divertidamente manejar tu agenda social.
-Alguien demasiado bueno para ser verdad podría aparecer al final del verano, más analízala bien de todos de modos, porque puede que haya cierta verdad emocional en esta relación para ti. Y si es que caes en completo enamoramiento, a menos que sea innegablemente kármico (sabrás si lo es), la relación no tiene que durar mucho tiempo - y no debería.
-En Noviembre y Diciembre, el mundo de la citas podría volverse candente y pesado. A menos que ya hayas conocido a alguien con potencial a largo plazo, prepárate para experimentar aún más emoción romántica. Tu año podría terminar como un emocional paseo en la montaña rusa. Diviértete, pero también presta atención.
+Durante el 2019, puedes encender esa luz amorosa característica del León y ser muy popular. No tendrás que decir o hacer mucho para llamar la atención, sobre todo en Julio y Agosto. 
+Para los acuario solteros con intenciones de una relación más duradera, la conjunción Venus-Neptuno (1 de Febrero) les permite reexaminar la imagen de su pareja ideal y volver a alinear el deseo de su corazón con el de su cabeza. 
+Venus retrógrado en acuario (Julio 25 a Septiembre 6) te otorga un respiro para que experimentes buenos momentos con un interés amorosos más serio. 
+Las conjunciones Venus-Marte (21 de Febrero, 31 de Agosto y 2 de Noviembre) a veces pueden ser explosivas. Si tienes un involucramiento profundo con alguien, podría ser increíble. Si te encuentras en una relación difícil, simplemente deja que las cosas se enfríen durante unos días. 
+Gozas del beneficio de la energía de la Luna en Libra durante todo el 2019, ayudándote a atraer a prospectos románticos como abejas a la miel; o si así lo quieres, con mucho tacto puedes alejarte de ellos mientras te retiras elegantemente. Puede que tu mayor impacto en el mundo de las citas sea en Septiembre. 
 
 ## Trabajo
 
-En el 2018, las ocupaciones más rentables probablemente implicarán el tipo de trabajo que es más mundano y menos glamoroso. Esto no quiere decir que serán serviles o degradantes, sólo se refiere a menos vistosas y llamativas.
-En Enero, podría llegarte una inesperada (y tal vez grande) oportunidad, pero no saltes a ella de forma inmediata. Mercurio se encontrará retrógrado en un signo de Tierra, por lo que dale tiempo a la situación para que manifieste sus verdaderos colores. En el 2018, haz preguntas y no te conformes con medias respuestas.
-Puede que en Agosto redefinas qué quieres hacer y cómo quieres hacerlo en materia de carrera profesional. Toma acción después de la conclusión del periodo retrógrado de Mercurio a finales de Septiembre. Tu situación monetaria podría mejorar, y tu reconocimiento podría aumentar también para entonces. Ten paciencia, sabiduría y tendrás éxito. Júpiter está de tu lado.
-Finalmente, en Noviembre y Diciembre, ten más ambición y compórtate más prácticamente y terminarás el año en una posición muy firme y con un nivel económico más alto.
+
+Los asuntos de trabajo y profesión podrían estar en tu cabeza a lo largo del 2019. Esto no se debe a preocupaciones o inseguridad. En cambio, puedes tener un número infinito de grandes ideas y hacer contactos con muchos profesionales más.
+
+
+Un puesto laboral o una reputación financiera podrían cambiar en enero o principios de febrero. Quizás estuviste desarrollando esta jugada previamente y es ahora cuando se comienza a manifestar. Pase lo que pase, tienes la energía y motivación para dar un gran paso hacia adelante. Sé una persona inteligente, no tímida.
+
+
+Mayo y junio también son momentos de grandes oportunidades. Quizás puedes comenzar tu propio negocio o poner en marcha tu sitio comercial web.
+
+
+Cuando la fase retrógrada de Júpiter termina a principios de julio, puede que tengas planes mejores y mayores. Saturno aún se encuentra retrógrado, lo que puede desanimar los gastos y compromisos financieros excesivos. Saturno se torna directo a principios de septiembre, cuando vaya que serás una persona más sabia, o por lo menos más precavida, en el ámbito fiscal.
+
+
+En diciembre, un aparente y pequeño obstáculo podría ser exactamente el moderado sacrificio que se necesita para impulsarte hacia un estable y rentable nuevo año.   

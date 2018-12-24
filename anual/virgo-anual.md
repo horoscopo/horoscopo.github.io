@@ -1,17 +1,11 @@
 ---
-layout: horoscopos
-title: virgo 2018 Horóscopo año nuevo 2018 
-description: virgo horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para virgo gratis. Disfruta este año nuevo.
+layout: page
+title: virgo Horóscopo año nuevo 2019 
+description: virgo horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para virgo gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/virgo/
-amplink: /horoscopo-anual/amp/virgo/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo virgo 2018, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2018 gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo virgo 2019, horoscop, horóscopos gratis, horoscopo virgo, horoscopo virgo 2019 gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/virgo_anual.png
-facebook:
- instant_article: 'yes'
-horoscopo:
- signo: virgo
- video: pW7JAzKtl7o
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -21,36 +15,46 @@ sitemap:
 
 ## Vida Personal
 
-Si pensaste que el 2018 iba a ser aburrido, piénsalo de nuevo. Y otra vez. ¡Y otra vez! Porque, de hecho, este será un año en el que vas a hacer muchas reevaluaciones.
-
-
-Para algunas personas, especialmente para virgo, esto podría traer el peligro de hundirse en el egocentrismo. Pero con todo lo que está pasando, sobre todo con la Luna de finales de Enero en Capricornio provocando una oleada de excesivo examen interno, sin duda tienes el derecho de reflexionar introspectivamente.
-
-
-Sin embargo, otros podrían no verlo de esa manera. Con la excesiva influencia de Cáncer en el mes de Junio del 2018, tu atención naturalmente se dirigirá hacia las personas que amas: familia, amigos, e incluso conocidos - cada uno con sus propios problemas.
-
-
-Hay un fuerte deseo de hacer de tu hogar un lugar de refugio, y el Sol de Agosto en Leo formando trígono con la Luna en virgo te trae la determinación para mejorar las cosas para los demás. Te ayuda a ti, ayuda a tus seres queridos - ¡todos terminan felices!
-
+¡El 2019 será un año de magia pura! Tómate el tiempo para distinguir entre lo que es real y lo que es ilusión para poder navegar de forma segura en cada una de las situaciones.
+Con la conjunción Marte-Neptuno en virgo dándole apertura al 2019, puedes utilizar tu encanto en lugar de que alguien te encante a ti, mantenerte fiel al más alto de tus ideales y también disipar cualquier engaño o decepción.
+En enero, la conjunción Sol-Plutón en Capricornio les aporta intensidad a todos tus esfuerzos para alcanzar el éxito. Además, también intensifica tus sentimientos y pasiones.
+El Eclipse Solar en virgo de febrero abre otra puerta. Neptuno, tu planeta regente moderno, estará en conjunción con el Sol, entonces eclipsado. Si el resto del mundo está en desorden, tú podrás ver a través de la neblina y servirles de inspiración a los demás para que se den cuenta de lo que es mejor.
+Júpiter, tu antiguo planeta regente, pasa la mayor parte del año en Libra y es increíblemente poderoso. Tal comienza en oposición a Urano en Aries, lo que termina obstruyendo tus locas aspiraciones o la cantidad de salvajes deseos en caso de que tengas demasiados.
+Cuando el Sol entre a virgo en febrero, Júpiter aún se encontrará en oposición a Urano, pero esta vez, Marte en Aries estará involucrado. Las acciones impulsivas o tempestuosas serán reconocidas a tiempo. Dirige la energía creativa extra que tengas hacia los canales que sean más constructivos.
+Cuando el Sol entre a virgo, lo hará junto con el Nodo Sur Lunar. Los recuerdos, los sentimientos y los lazos emocionales serán fuertes este año. Ayúdate si es que te encuentras cayendo de nuevo en cualquier viejo o mal hábito y benefíciate de lo que el pasado te haya enseñado.
 
 ## Amor Parejas
 
-Ambos estarán de acuerdo en todos los temas importantes en el año 2018, Escorpión, especialmente aquellos de interés material o práctico. A veces habrá discusiones y puede que esto llegue a ser cansado, pero te alegrará que todo termine estando tan claro.
-Los cuatro retrocesos de Mercurio (en Enero, Mayo, Septiembre y Diciembre) presentan muchas posibilidades para malentendidos y confusión. Sólo sean pacientes el uno con el otro. Eviten volverse desesperadamente tercos, sobre todo en Enero y Febrero, y concéntrense en sólo dejar las cosas claras.
-Si a principios de año se le dificulta a tu pareja hacerse entender por los demás, no te apresures inmediatamente a salir a su rescate. En vez, apórtale apoyo moral y mantente a su lado. Puede que no sea nada, como puede llegar a suceder cuando Neptuno está involucrado.
-Si una inconveniente enfermedad o un problema laboral temporal surgen en Abril o Mayo, recuerden que se tienen el uno al otro, así como también recursos y amor. Esto, también pasará.
-El verano se vislumbra gloriosamente romántico, y los finales días de otoño brillan con el tipo de inteligente diversión que sólo ustedes dos pueden compartir.
+No te preocupes durante la primera parte del año si pareciera como si tú y tu pareja no se estuvieran llevando a la perfección. Venus está en Capricornio durante la primera parte del año, junto con muchos otros signos, estableciendo el “sentido práctico” como el lema del momento.
+
+
+Puede que no sientas ganas de cooperar o ceder en relación a algunos temas durante este tiempo, pero tu pareja probablemente podría bien apreciar el saber que están en la misma frecuencia. Con Mercurio yendo y viniendo entre tu signo y Piscis, tienes la oportunidad de expresar tus propios sentimientos mientras también te aseguras de estar dándole reconocimiento a los de tu pareja también.
+
+
+Con una buena cantidad de ajustes necesarios en ambos lados de la relación, van a estar en sintonía de nuevo. Puede que no siempre puedan estar de acuerdo, pero sus pensamientos son complementarios entre sí.
+
+
+Con el Sol en Géminis danzando con la Luna y Marte en Libra entre el 6 y 8 de Junio, tienes la oportunidad de hacer que dos voces contrarias trabajen juntas en una especie de armonía que pocos fuera de tu círculo entenderán. Tu relación funciona y seguirá funcionando bien. Simplemente no trates de extremadamente entender cómo funciona.
+
 
 ## Amor Solteros
 
-Con Júpiter, tu planeta antiguo, en Libra, el romance es compasivo y aventurero. Tu vida social puede llevarte a nuevos lugares con gente nueva. Sin embargo, también podría drenar tus reservas de energía y presupuesto.
-Venus estará retrocediendo en marzo y abril, cuando es posible que aprecies un ritmo más bajo en el mundo de las citas. Pasa más tiempo con alguien dispuesto a escucharte más. Para abril, ambos podrían andar más tiernos que nunca. Date tiempo para que los sentimientos se solidifiquen. Si es que tienes esperanzas de casarte, considera esperar hasta que el retroceso de Venus haya terminado (el 15 de abril).
-Júpiter entra a Escorpión el 10 de octubre. Si estás buscando a alguien más serio y dedicado, si no es que, a tu alma gemela, ello podría suceder en los últimos tres meses del año.
-Diciembre será un mes más tranquilo y menos ruidoso debido a que Saturno y Sol se encontrarán en Capricornio. La temporada de festividades debería ser más calmada y tus seres queridos deberían apreciar tener más momentos de tranquilidad juntos para amarse, respetarse mutuamente y apreciar los valores y las actividades tradicionales.
+Tanto tu círculo social como posibilidades amorosas no tienen límite en el 2019, virgo, especialmente en Febrero y Marzo. A menudo te rodearás de fascinantes y atractivos prospectos que se sentirán igualmente atraídos hacia ti.
+La mayoría de tus encuentros románticos podrían ser más emocionales de lo que quisieras, pero algunos serán con personas con el tipo de temperamento que te quede a la medida. Sin embargo, serás como un  imán y atraerás a todos.
+Compórtate selectivamente. Hacerlo importará mucho a finales de Mayo y Junio, cuando Marte se encuentre retrógrado en el sexy Escorpión. Decir que sí con demasiada frecuencia a demasiada gente podría causarte complicaciones más adelante.
+Ábrete a los sentimientos de otras personas en Agosto, más sele fiel a tu agenda de virgo de "yo primero" en Septiembre. Aun así seguirás siendo teniendo generosidad, atención hacia los demás y la gente te amará.
+En Noviembre y Diciembre, el tiempo pasado haciéndoles favores a amigos podría conseguirte una introducción a "la persona de tus sueños".
+Espera tener muy poco tiempo libre en el 2019. ¡Cuídate y diviértete virgo!
 
 ## Trabajo
 
-Tus preocupaciones profesionales y financieras son de suma importancia durante todo el año. La conjunción Sol-Plutón en Capricornio muestra que el trabajo es crucial y que el éxito financiero y la seguridad nunca han sido más importantes.
-Júpiter estará retrógrado en Libra desde febrero hasta principios de junio. Tanto tus socios como planes imperfectamente ejecutados podrían a veces defraudarte, pero para el verano te habrás dado cuenta de las soluciones temporales o reestructuraciones presupuestarias que necesitan ser hechas.
-Saturno estará retrógrado en virgo desde abril hasta finales de agosto. Esto puede moderar cualquier exceso de entusiasmo o el impulso por comprar.
-Diciembre podría ser el mes más estable, rentable y productivo del año para ti. Saturno estará en su signo regente, Capricornio, hasta el 19 de diciembre. Más tarde, el Sol se le une el 21 de diciembre. Trata de tener una temporada navideña agradable, reconfortante y económica para entrar al Año Nuevo sintiéndote bien acerca de tus prospectos financieros. 
+La sabiduría puede a veces surgir de tener sentido común con determinación, y en tu caso, ¡vas a compartir tanta sabiduría que incluso te puede sorprender lo fácil que te surgirá a veces!
+
+
+Esto te beneficia en muchos aspectos en el 2019. Las entrevistas de trabajo parecen ser mucho más fáciles conforme eres capaz de anticipar lo que quiere el entrevistador.
+
+
+A mediados de Marzo, el tránsito de Júpiter ahora directo a través de tu signo va a mejorar tu capacidad de leer entre líneas y descifrar los contratos y las reglas establecidas para obtener los resultados que necesitas. Si la burocracia te ha intimidado antes, pisa con el pie derecho - tienes lo que se necesita para solucionar el problema con un toque humano y personal.
+
+
+Puede que todavía haya algunos baches a lo largo del camino, sobre todo cuando el dinero no llega tan pronto como lo necesitas a mediados de Agosto. El reservado Escorpión también alberga a dos planetas, la Luna y Mercurio el 27 de Septiembre, creando un entorno donde valiosa información te es escondida. Sin embargo, tienes la capacidad de hacerle frente a la presión y obtener resultados. Si lo haces, ¡es posible que recibas un especial regalo relacionado con tu carrera el 25 de Diciembre!
