@@ -1,11 +1,11 @@
 ---
 layout: page
-title: piscis Horóscopo año nuevo 2019 
-description: piscis horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para piscis gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/piscis/
+title: Piscis Horóscopo año nuevo 2019 
+description: Piscis horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Piscis gratis. Disfruta este año nuevo.
+permalink: /horoscopo-anual/Piscis/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo piscis 2019, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2019 gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/piscis_anual.png
+keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Piscis 2019, horoscop, horóscopos gratis, horoscopo Piscis, horoscopo Piscis 2019 gratis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/Piscis_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -15,50 +15,31 @@ sitemap:
 
 ## Vida Personal
 
-El 2019 es un año con un sinfín de oportunidades para los piscis. Habrá mucha energía que te llevará que cavar profundo para así lograr un tremendo progreso.
-También hay numerosas puertas abriéndose a nuevos y previamente considerados proyectos, intereses y asociaciones. Olvídate de esas nociones preconcebidas de lo que debes hacer o tienes que hacer. Este año, puedes hacer casi cualquier cosa.
-En enero, la conjunción Sol-Plutón en Capricornio mantiene tu atención en tu carrera y actividades públicas. Sin embargo, no tienes la limitación de invertir tu intensidad sólo en tu trabajo. Si tienes una pasión creativa o de otro tipo, puedes invertir tu intensidad en eso también.
-El 2019 comienza con Mercurio retrógrado en Capricornio, pero el planeta se vuelve directo en piscis. Trabaja de manera constante, pero apunta alto. El cuarto y último retroceso de Mercurio se manifiesta enteramente en piscis. Saturno se encuentra en piscis durante todo el año, por lo que este periodo extra proveniente en diciembre sólo mejora tu comprensión sobre cualquier situación que se está desarrollando a tu alrededor.
-Cuando el Sol entra a piscis en noviembre, los planetas se encuentran dispersos alrededor de todo el cielo. Sin embargo, hay una conjunción Mercurio-Saturno que agudiza tu mente y modera tus actividades sociales.
-El asteroide Ceres también estará transitando a lo largo del Nodo Norte Lunar en el glorioso Signo Leo. Cuidar tanto de ti como de tus seres queridos nunca ha sido más fácil o más satisfactorio.
+¡El 2019 es el año para derribar las barreras que te han estado frenando Escorpión! Combinando pensamiento claro con pura fuerza de voluntad, podrás lograr lo que tu corazón desea y lo que tu mente sabe que necesitas.
+Este año también tendrás más paciencia y encanto. Esto te asegura resolver más problemas de los que te surjan y que harás más amigos y aliados de los que arriesgarás perder.    
+Tu periodo más productivo podría ser en la primavera, cuando Marte se encuentre retrógrado en Escorpión. Este movimiento fuerte y lento de Marte hará a tu ser aún más metódico e irresistible.
+La ternura y el tacto también son habilidades destacadas para ti en el 2019. Sé realista y amable, sobre todo a finales de verano y principios de otoño, cuando Júpiter y Mercurio incrementen tus habilidades sociales. Mira cómo los obstáculos y la oposición se derriten justo frente a tus ojos.
+Será en el ámbito familiar y social en el que verás mayor progreso. Cuando las cosas vayan bien en tu hogar, tu carrera y vida pública se desarrollarán mucho más fácilmente. ¡Será un año dinamita!
 
 ## Amor Parejas
 
-Una energía armoniosa le abre la puerta del 2019 a tu relación piscis. Tú y tu pareja se encontrarán en la misma frecuencia la mayoría de las veces, sin embargo, eso a veces puede dar lugar a que los problemas no sean abordados.
-
-
-A principios de Marzo, los problemas podrían salir al descubierto, pero el sentimiento de buena voluntad que tú y tu pareja han cosechado hasta ahora será capaz de suavizar el ambiente. Esto no significa que no deban hablar más entre ustedes acerca de cualquier problema que puedan tener, dentro y fuera de la relación.
-
-
-El comienzo del verano va a requerir de mucho tacto y cuidado, pero la buena noticia es que a este punto, ambos se preocuparán más por resolver la cuestión que por cuál de los dos tiene razón.
-
-
-La comunicación podría volverse un poco incierta más tarde en el otoño, pero puede ser una cuestión de equilibrar su tiempo a solas con el sentirse culpables. Pueden hacerlo porque el final del año regresa con sentimientos de calidez que ambos desean profundamente. Simplemente tengan cuidado durante mediados de año, ¡y el 2019 debería de resultar ser un año genial!
-
+Tu relación goza de una gran cantidad de magia práctica este año. Tú y tu pareja podrán ponerse de acuerdo sobre qué hacer y cómo hacerlo. También es fácil llegar a un acuerdo sobre lo que deben tener y adquirir. Mercurio inicia el año en el Signo de Tierra Capricornio. Cuando el Sol entra a Piscis, Mercurio estará en Tauro, otro Signo de Tierra. Esto ayuda a que las cuestiones prácticas sean fáciles de analizar.
+A medida que el Sol entra a Piscis, Venus y Marte formando sextil crean un ambiente relajado, pero también una atmosfera apasionada para el amor. Esperen pasar muchos momentos agradables juntos en público haciendo sus cosas favoritas. Y probablemente serás tú quien a menudo elija a dónde y cuándo.
+Si la pasión disminuye durante el retroceso de Venus en la primavera, la intimidad regresará magnificada cuando Venus avance directamente el 15 de abril en el sumamente romántico Piscis.
+Cuando Júpiter sale de Libra en octubre y entra a Escorpión, las relaciones pueden volverse más profundas y más serias. El refinamiento puede ser reemplazado por la dedicación.
+Diciembre será un mes animado, productivo y rico en respeto mutuo y una autoridad más compartida. El Sol, Saturno y Capricornio se encontrarán extremadamente fuertes entonces, así como también lo será su compromiso mutuo.
 
 ## Amor Solteros
 
-Desde el principio, el 2019 será definido por particulares momentos. Sin embargo, parecerá estar lleno sólo de pequeños coqueteos inconexos sin llegar a nada estable. Una prometedora cita podría convertirse en una modesta amistad después de un tiempo, o alguien podría parecer prometedor, pero podría tener demasiados problemas o defectos como para que quieras profundizar la relación. Pero en medio de estas frustrantes e intermitentes asociaciones, hay una amistad sutil y lenta que se está construyendo por debajo de la superficie, tal vez incluso escapando de tu atención.
-
-
-Esto es algo que posiblemente no proceda de la forma en que un romance de cuento de hadas haría. A medida que avanza, podría estar yendo un paso por delante, como lo hará cuando la Luna en Géminis forme trígono con Marte en piscis el 28 de Mayo para abrirle las puertas a la comunicación.
-
-
-Posteriormente podría dar un paso atrás alrededor del 18 de Noviembre, cuando Saturno forme una difícil conjunción con el Sol en Escorpión, creando barreras que no se superan inmediatamente. Puede que tengas que tratar a la relación como un juego de habilidades, ¡pero la empatía será la estrategia definitiva para el éxito!
-
+Es un gran año para las citas y que te inviten a salir, ¡para coquetear y que coqueteen contigo! La conjunción entre Marte y Neptuno en Piscis irradia una luz romántica y soñadora durante todo el año.
+Júpiter en Piscis crea un sinnúmero de oportunidades para satisfacer, entretener y dejar que el amor te entretenga. ¡Por lo que sal a buscarlo!
+Venus comienza el año en el inteligente y sensible pero objetivo Acuario. En la primavera, Venus se torna retrógrado en el fogoso Aries y termina en el súper romántico Piscis. Si quieres o planeas casarte, considera la posibilidad de hacerlo después de que termine este retroceso, el cual será a mediados de abril.
+Júpiter entra a Escorpión en octubre, haciendo que el amor crezca y se vuelva más atractivo. Los amorosos afectos podrían encenderse desde entonces. 
+El mes de diciembre podría sentirse menos cálido, pero en realidad el amor se vuelve más responsable para poder mejorar posteriormente. Disfruta de momentos más dulces, sensibles y románticos conforme el Sol y Saturno se encuentran en Capricornio.
 
 ## Trabajo
 
-El año está lleno de oportunidades para ganar dinero, piscis. Baja la velocidad un poco y verás que las oportunidades pueden haber estado corriendo detrás de ti. Dales la oportunidad de alcanzarte. 
-
-
-Con Saturno ahora en Capricornio, todos se están esforzando por ser más eficientes y responsables. piscis y Capricornio son signos incompatibles en conjunción, y tus métodos serán diferentes a los de los demás. Sabes lo que te funcionó en el pasado. Sele fiel a eso.
-
-
-Júpiter se encuentra retrógrado en el signo fijo de Escorpión desde marzo hasta principios de julio. Esto te favorece, ya que piscis es un signo fijo, y entiendes cómo apegarte a una agenda u objetivo. Sé paciente contigo y con tu progreso, y mantente dentro del presupuesto.
-
-
-Con respecto a tu profesión, es posible que quieras moverte demasiado rápido o ir demasiado lejos. La fase retrógrada de Marte desde finales de junio hasta finales de agosto se asegura de que te lo tomes con calma. 
-
-
-Progresa, sé una persona más productiva, ahorra la mayoría y empieza a construir desde ahí.
+El 2019 es un año muy afortunado y poderoso para ti Piscis. Te sorprenderás de la gran cantidad de energía que tienes para tus intereses y esfuerzos; y la gran disposición que tienes para hacer grandes planes para ampliar o mejorar tu hogar. El deseo de seguridad física y monetaria es parte de esto, como también lo es el querer un entorno hogareño más atractivo y admirable. 
+Tu mejor trabajo puede ser aquél que hagas para los demás, pero serás tú quien reciba  recompensas, pagos, y honores. 
+Si estás buscando más o un mejor trabajo, comienza a buscar tan pronto como comience el año. Puedes conseguir algo con una persona o empresa que ni siquiera sabía cuánto te necesitaba. Marte en Acuario al inicio del Año Nuevo te mantendrá en acción.  
+Ganar dinero es fácil, pero gastarlo es más fácil todavía. Mantente alerta a gastos en tu hogar, sobre todo en Agosto. De lo contrario, ¡navega a lo largo del año sin problemas!

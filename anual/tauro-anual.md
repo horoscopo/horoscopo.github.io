@@ -1,17 +1,11 @@
 ---
-layout: horoscopos
-title: tauro 2018 Horóscopo año nuevo 2018 
-description: tauro horoscopo del 16 de noviembre del 2017, amor, trabajo, vida personal. Todas las predicciones para tauro gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/tauro/
-amplink: /horoscopo-anual/amp/tauro/
+layout: page
+title: Tauro Horóscopo año nuevo 2019 
+description: Tauro horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Tauro gratis. Disfruta este año nuevo.
+permalink: /horoscopo-anual/Tauro/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo tauro 2018, horoscop, horóscopos gratis, horoscopo tauro, horoscopo tauro 2018 gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/tauro_anual.png
-facebook:
- instant_article: 'yes'
-horoscopo:
- signo: tauro
- video: G-f8QSMkzzM
+keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Tauro 2019, horoscop, horóscopos gratis, horoscopo Tauro, horoscopo Tauro 2019 gratis, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/Tauro_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -21,45 +15,36 @@ sitemap:
 
 ## Vida Personal
 
-Los sueños, las ideas, y las conexiones personales van a ser extremadamente valiosas para ti al comienzo de este año. Tienes un montón de ideas que poner en orden, y tus amigos pueden ser muy útiles para hacer que esto suceda. Algunas de estas ideas pueden parecer ser muy poderosas, y otras pueden parecer un poco peculiares, pero ninguna de ellas debe ser descartada. Júpiter está en tu signo al comienzo del año, y le está enviando un gesto de aprobación a la gestación de tus ideas.
+Puede que no creas tener todas las respuestas, pero este año vas a tener las respuestas correctas en el momento adecuado. Si acudes a los demás para obtener asesoramiento, es posible que no sientas satisfacción con lo que escuches.
 
 
-Con este tipo de estimulación mental, tu persona está tan cargada de energía como una batería, incluso cuando Júpiter deje tu signo el 16 de Julio. Es posible que sientas un poco de abandono por un tiempo, y no quieras hablar, ¡pero ya habrás desarrollado suficiente como para que la gente confíe en tu intuición incluso en la más confusa de las crisis!
+El Sol en tu signo cuadra a Saturno en Escorpión el 11 de Febrero, mientras que la Luna en Cáncer se opone a Venus en Capricornio. Como resultado, vas a sentir como si tu lógica estuviera desafiando a lo que otros llaman lógica, y sin embargo, todavía sentirás como si tus acciones estuvieran siendo justificadas. Puede que tengas que tener cuidado con lo que haces a principios de año, pero tampoco vas a estar feliz al concederle sus deseos a la gente que te rodea tampoco.
 
 
-Además, tu gran confianza personal saldrá a la superficie una vez más, y llegará a su punto más alto hacia el final del verano. Mantén la cabeza en alto, y no dejes que ni siquiera la más pequeña de las pistas o señales se te escape. 
+A medida que avanza el año vas a obtener más aliento hacia las soluciones más excéntricas que ofrezcas. Tus amistades pueden sorprenderse cuando los consejos que des (sobre los que sentían escepticismo) funcionen. Por lo tanto, si hay algo que quieres hacer (dentro de lo razonable) que posiblemente no entre en la sabiduría popular, no lo descartes.
+
+
+Con Saturno saliendo del reservado Escorpión y entrando al caprichoso Sagitario el 23 de Diciembre, tu elevada intuición podría terminar ayudándote más de lo esperado.
 
 
 ## Amor Parejas
 
-En el 2018, el amor es fuerte, serio y sensual, tauro. Puede que tu pareja recurra a ti para poder lograr más, pero puedes lidiar con eso. También habrá tiempo de sobra para divertirse juntos.
-
-
-Venus es una influencia muy fuerte en el 2018, pero no está de humor para demasiadas tonterías. Enero y febrero pueden ser meses en los que ambos amen su trabajo y quieran compartir ese entusiasmo. ¡Adelante!
-
-
-Cuando Marte está retrógrado a finales de junio y agosto, Venus se encuentra en Leo y Virgo. Diviértanse pasando más tiempo en privado durante junio y julio. Y pónganse más cómodos y felices en su hogar en agosto.
-
-
-Cuando el sol entra a tauro, Venus se encuentra en el sexy Escorpión. Digan lo que piensan, hagan lo que dijeron que harían, y así, se volverán cada vez más cercanos. 
-
-
-La fase retrógrada de Venus empieza a principios de octubre en Escorpión y termina a mediados de noviembre en tauro. Esto puede intensificar los problemas dentro de su relación. Posterguen cualquier compra grande en conjunto o planes de viaje hasta que sepan con seguridad que están en la misma frecuencia.
-
-
-
-
-
+Plutón conjunta al asteroide Ceres el 15 de Febrero, significando que deben cuidarse mutuamente durante el primer periodo del 2019. Cuiden de sus distintivas fobias y mantengan bocadillos saludables a la mano. Pueden demostrarse su amor mutuo al mimarse entre sí y cocinar comidas saludables juntos sin tener que recurrir a las palabras. 
+La gente podría buscar su ayuda o consejos en Febrero y Marzo, y puede que sea difícil negarse a darlos. Respeten sus propias “necesidades de pareja” y consúltense entre sí a menudo. Comunicarse a través de una simple mirada a veces es más que suficiente. 
+La pasión se desborda con las tres conjunciones Venus-Marte de este año. La conjunción del 21 de Febrero que ocurre al comienzo de Aries les hará sentir como si se acabaran de conocer y se enamoran de nuevo. 
+Conforme Júpiter entra a Virgo en Agosto y Saturno se apodera una vez más de Sagitario en Septiembre, la vida parecerá ser un poco más tranquila. Esta será más apasionada, íntima, ¡y emocionalmente enriquecedora para ambos! Sean fuertes y sensibles, y hagan grandes planes para el 2019+1 en los meses finales del 2019. 
 
 ## Amor Solteros
 
-Puede que salgas y converses más este año tauro, y como consecuencia hagas muchas nuevas amistades. Disfruta de más eventos grupales y oportunidades para citas. Tu persona se sentirá más audaz  y aventurera también, sobre todo en Enero, conforme Venus se separa de una provocativa conjunción con Plutón en tu signo, tauro. 
-Puedes ser muy popular en Febrero y Marzo mientras Marte pase por Piscis y Aries. Si esto te agobia demasiado, refúgiate en una actividad grupal o club que desvíe parte de la atención hacia tus compañeros. 
-Si tienes interés en un romance más substancial, la primavera y el verano te ofrecen oportunidades. Mientras que tendrás una actitud más casual en el invierno y principios de primavera (cuando el cielo de tauro estará lleno de sextiles), serás más exigente en el verano y el otoño. 
-Algunas de tus conexiones más prometedoras podrían ser hechas mientras te prepares para salir de un lugar, al final del día, y en otras situaciones de última hora. No siempre huyas al siguiente compromiso, podrías perderte de algo. Saturno en Escorpión (y luego Sagitario) puede protegerte contra esto.
+El encanto, ingenio mental y la emoción están de tu lado en el 2019. Esto puede hacer que el romance sea fácil de encontrar. Si estás disfrutando de tu libertad, deberías de pasártela de lo lindo antes de que Venus impacte con su retroceso el 4 de marzo.
+No es que las oportunidades románticas y los buenos ratos se vayan a terminar entonces, pero sí es que el ritmo disminuya. De hecho, es posible que estés en estado de ánimo para un descanso. Una vez que Venus avance directamente el 15 de abril, se encontrará en Piscis, para cuando es posible que ya haya ablandado y cambiado tus sentimientos.
+El segundo retroceso de Mercurio del año comienza en Tauro el 9 de abril. Además del aumento habitual en confusión y la desconexión en comunicación, el mundo de las citas podría implicar cosas buenas y más caras, así como un nivel de vida más alto hasta que Mercurio vuelva a entrar a Tauro el 20 de abril y tu fuerte y habitual sentido personal regrese. Cuando el retroceso termine el 3 de mayo, una mejor comunicación también debería de volver. 
+El amor se vuelve más serio en octubre, cuando Júpiter entra al sensual y atractivo Escorpión. Si es que se te antoja encender la llama de la pasión, podrías conseguir eso... ¡y más!
 
 ## Trabajo
 
-El 2018 es un año muy productivo para ti tauro, cuando tus instintos e intelecto se unen para hacerte triunfar. Si estás lidiando con personas desafiantes en tu lugar de trabajo, o si estás entrevistando para una posición, tus habilidades sociales te harán brillar, especialmente en Octubre. 
-Podrías convertirte en ese sorprendente candidato adecuado que alguien busca en Abril. En Agosto, vas a estar en el lugar correcto en el momento adecuado. En Noviembre, un contacto social podría referirte a la persona adecuada. Las puertas se abrirán para ti en el 2018. ¡Anda y toca el timbre! 
-Manejaras tus finanzas fácilmente y con prudencia también. Un toque de austeridad en el otoño podría sentirse virtuoso y razonable. ¡Es un año lucrativo y lleno de suerte para ti tauro!
+Tu carrera profesional y situación monetaria son puestas de relieve durante todo el año. La conjunción Sol-Plutón en Capricornio del 6 de enero lo garantiza. Los períodos más intensos para hacer cambios profesionales y reorganizar tus finanzas podrían ser en enero y luego de nuevo en diciembre.
+Entremedias hay cuatro periodos retrógrados de Mercurio. Los primeros tres inician en Signos de Tierra y finalizan en Signos de Fuego. Ten mucha paciencia, mucho cuidado y haz planes mientras Mercurio se encuentre retrógrado. Y prepárate para poner esos planes en marcha conforme se vuelva directo.
+El primer período comienza en Sagitario en diciembre del 2016 pero termina el 8 de enero. El segundo comienza en Tauro el 9 de abril y termina en Aries el 3 de mayo. El tercero comienza el 12 de agosto en Virgo y termina el 5 de septiembre en el ambicioso Leo. El cuarto retroceso se manifiesta totalmente en el atrevido Sagitario desde el 3 hasta el 22 de diciembre. Cuida tus gastos y tus finanzas durante estos periodos de tiempo.    
+Júpiter sale del agradable Libra y entra a Escorpión en octubre, cuando los asuntos monetarios se volverán más prácticos e importarán más.
+Saturno entra a su signo anfitrión Capricornio en diciembre, poco antes de que el Sol entre al mismo y el Sol conjunte a Saturno el 21 de diciembre. No te sorprendas si surge la posibilidad de que trabajes horas extras durante la temporada navideña o tus vacaciones. Hacerlo valdrá la pena, literal y figurativamente.

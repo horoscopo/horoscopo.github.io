@@ -1,11 +1,11 @@
 ---
 layout: page
-title: libra Horóscopo año nuevo 2019 
-description: libra horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para libra gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/libra/
+title: Libra Horóscopo año nuevo 2019 
+description: Libra horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Libra gratis. Disfruta este año nuevo.
+permalink: /horoscopo-anual/Libra/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo libra 2019, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2019 gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/libra_anual.png
+keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Libra 2019, horoscop, horóscopos gratis, horoscopo Libra, horoscopo Libra 2019 gratis, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/Libra_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -15,38 +15,38 @@ sitemap:
 
 ## Vida Personal
 
-Experimenta un gran y nuevo comienzo en el 2019 libra, o tal vez muchos pero más pequeños. Deja que tu corazón y pasión sean tus guías. Y sobre todo, sé tu propio mejor amigo en vez de tu propio peor enemigo. 
-Confía en tus instintos. Una cuadratura que se forma lentamente entre Júpiter y Saturno (no completamente hasta Agosto) evitará que llegues demasiado lejos, vayas demasiado rápido, o pierdas tu camino. 
-Tu familia te apoya enormemente, tal vez mientras se preguntan porque tardaste tanto tiempo en hacer algo. Tienes una gran ambición y energía para tu trabajo este año, así como también gran compasión. 
-Tu verdadero año en realidad comienza con la Luna Nueva en libra del 21 de Diciembre del 2014. El día anterior, el sextil entre Marte y Urano garantiza que te esforzarás lo más posible e inventarás aquello que sea lo más necesario para ti; y la conjunción Venus-Plutón se asegurará de que la gente te note. ¡Sal al mundo a ser tan increíble como puedes ser! 
-Encuentra maneras saludables de eliminar el estrés y de nutrir y darle aliento a tu persona. Esto se vuelve cada vez más importante a medida que avanza el año. Recuerda, no es fracaso si no funciona al primer intento. ¡Persiste! 
+El 2019 es un año de gran potencial y crecimiento personal. También habrá trabajo arduo y éxito, pero es posible que tu mayor progreso sea hecho internamente en vez de externamente.
+La conjunción Sol-Plutón en Capricornio que sucede al inicio del 2019 mantiene tus ojos puestos en los premios materiales. La conjunción Marte-Neptuno mantendrá vivos tus amores, ideales y más altas esperanzas.
+La Luna y Venus también estarán en conjunción en Libra conforme el 2019 comienza. Esto te ayudará a tener relaciones personales más fáciles y cálidas con la gente.
+Cuando el Sol entra a Libra, la Luna y Júpiter estarán unidos en tu Novena Casa de la expansión y la educación superior. En el 2019, querrás aprender y entender a un nivel más complejo.
+El Eclipse Lunar del 10 de febrero sucederá cuando el Sol se encuentre en Libra. Y el Eclipse Lunar del 7 de agosto sucederá cuando la Luna se encuentre en Libra. Ciertos problemas emocionales podrían salir a la superficie en esos momentos. Pero si muestras tener bondad y buen corazón, las soluciones mismas te encontrarán.
+Tus planetas, Saturno y Urano, son increíblemente poderosos durante todo el año porque estarán formando trígono al inicio del 2019. Tanto nuevas ideas, como nuevos proyectos y personas, la sabiduría y la audacia estarán a tu alcance.
 
 ## Amor Parejas
 
-Tu relación goza de una gran cantidad de magia práctica este año. Tú y tu pareja podrán ponerse de acuerdo sobre qué hacer y cómo hacerlo. También es fácil llegar a un acuerdo sobre lo que deben tener y adquirir. Mercurio inicia el año en el Signo de Tierra Capricornio. Cuando el Sol entra a libra, Mercurio estará en Tauro, otro Signo de Tierra. Esto ayuda a que las cuestiones prácticas sean fáciles de analizar.
-A medida que el Sol entra a libra, Venus y Marte formando sextil crean un ambiente relajado, pero también una atmosfera apasionada para el amor. Esperen pasar muchos momentos agradables juntos en público haciendo sus cosas favoritas. Y probablemente serás tú quien a menudo elija a dónde y cuándo.
-Si la pasión disminuye durante el retroceso de Venus en la primavera, la intimidad regresará magnificada cuando Venus avance directamente el 15 de abril en el sumamente romántico Piscis.
-Cuando Júpiter sale de Libra en octubre y entra a Escorpión, las relaciones pueden volverse más profundas y más serias. El refinamiento puede ser reemplazado por la dedicación.
-Diciembre será un mes animado, productivo y rico en respeto mutuo y una autoridad más compartida. El Sol, Saturno y Capricornio se encontrarán extremadamente fuertes entonces, así como también lo será su compromiso mutuo.
+Libra, el 2019 es un año fuerte para las parejas, en especial para aquellas que quieren trabajar juntas e impulsar la profesión y relaciones familiares del otro.
+
+
+Júpiter pasa la mayor parte del 2019 en Escorpión, donde las emociones son profundas pero pocas cosas importantes son confiadas o explicadas voluntariamente. Tu pareja puede a veces preguntarse qué está pasando en tu cabeza, pero no habrá ninguna duda sobre la sinceridad de tu corazón.
+
+
+Las tres fases retrógradas de Mercurio del 2019 suceden en signos de fuego, y esto puede impactarte un poco más a ti que a tu pareja. Pequeñas luchas de poder podrían surgir en marzo y abril. En agosto, tanto las opciones arriesgadas como las emocionantes ofertas podrían tentarte menos. 
+
+
+En noviembre, cuando Mercurio se torna retrógrado en Libra, puede que necesites más tiempo para tomar decisiones. Cuando la fase retrógrada termine, con Mercurio en Escorpión a principios de diciembre, el amor se muestra mejor y más genuino.
+
+
+En octubre y la primera mitad de noviembre, Venus se torna retrógrado, primero en Escorpión y terminando en Libra. Los problemas en las relaciones ahora pueden confrontarse y mejorarse.
 
 ## Amor Solteros
 
-Tanto tu círculo social como posibilidades amorosas no tienen límite en el 2019, libra, especialmente en Febrero y Marzo. A menudo te rodearás de fascinantes y atractivos prospectos que se sentirán igualmente atraídos hacia ti.
-La mayoría de tus encuentros románticos podrían ser más emocionales de lo que quisieras, pero algunos serán con personas con el tipo de temperamento que te quede a la medida. Sin embargo, serás como un  imán y atraerás a todos.
-Compórtate selectivamente. Hacerlo importará mucho a finales de Mayo y Junio, cuando Marte se encuentre retrógrado en el sexy Escorpión. Decir que sí con demasiada frecuencia a demasiada gente podría causarte complicaciones más adelante.
-Ábrete a los sentimientos de otras personas en Agosto, más sele fiel a tu agenda de libra de "yo primero" en Septiembre. Aun así seguirás siendo teniendo generosidad, atención hacia los demás y la gente te amará.
-En Noviembre y Diciembre, el tiempo pasado haciéndoles favores a amigos podría conseguirte una introducción a "la persona de tus sueños".
-Espera tener muy poco tiempo libre en el 2019. ¡Cuídate y diviértete libra!
+En el 2019, Libra puede atraer mucha atención amorosa. Afortunadamente, tendrás el encanto y el ingenio para diferenciar cuáles son los buenos prospectos románticos.
+Para Febrero y Marzo, es posible que te percates de que has elevado tus estándares y anheles una pareja más dedicada y altamente evolucionada. Mantén esos estándares y expectativas allí y no te conformes con menos.
+Julio y Agosto podrían ser los meses más óptimos para conocer a una persona muy especial que satisfaga todas tus necesidades. Asegúrate de que tal te trate como quieres que te traten.
+Serás alguien ocupado y popular durante todo el año, incluso en Noviembre y Diciembre, cuando el ritmo de tu teléfono y correo electrónico pudiera disminuir. Sin embargo, para estas fechas, las amistades y citas amorosas en tu vida serán increíbles personas que quieran otorgarte aún más de su atención. Trata de conocerlas a un nivel más profundo.
 
 ## Trabajo
 
-Todos aquellos a quienes conoces profesionalmente son una vía potencial de éxito, ¡desde el director general de la planta superior del edificio más alto, al nuevo recluta recién salido de la universidad! Sin embargo, con tantas personas con las que entras en contacto, puede ser un poco confuso distinguir a aquellos que podrían ser sólo amigos, de aquellos que podría ayudarte a ascender a una posición que realmente te guste - ¡no que ambos tipos sean mutuamente excluyentes!
-
-
-Durante los dos primeros días de Febrero, ambos, la Luna y Neptuno estarán en Piscis, creando un aspecto único para la comunicación empresarial. Sin embargo, después de que Mercurio se torne retrógrado el 6 de Febrero, lo mejor que puedes hacer es conversar informalmente y absorber todo lo que puedas.
-
-
-Tus finanzas reciben un alza en Abril gracias a la posición de Júpiter en Cáncer dando inicio a algunos aspectos beneficiosos. Tu primavera y tu verano estarán muy ocupados tanto con proyectos como entrevistas. ¡Habrá recompensas a lo largo del camino!
-
-
-¡La Luna en libra oponiéndose a Urano en Aries el 15 de Diciembre hace alusión a una agradable sorpresa que te levantará el ánimo justo a tiempo para el Año Nuevo!
+El 2019 es un buen año para reafirmar tu posición y para obtener un poco de verdadero poder de permanencia en tu situación o posición laboral. Ahora tienes energía y estás en una buena racha, por lo que piensa dos veces antes de hacer cualquier cambio importante. Y si recientemente cambiaste de carrera u ocupación, ahora es buen momento para echar profundas raíces.
+El retroceso de Mercurio a finales de Abril y Mayo verdaderamente puede ponerte los pies en la tierra y dirigirte hacia una gran estabilidad y un año financieramente sólido. Utilízalo para planificar hacia futuro.
+Puede que haya muchas cosas que te gustaría tener, lugares a los que te gustaría ir, y cosas que te gustaría hacer; más abstente de comprar artículos muy costosos este año. Numerosos gastos menores podrían ser manejados con facilidad y traerte la misma satisfacción, sobre todo en Noviembre y Diciembre, cuando Marte y Saturno te respalden laboralmente. 

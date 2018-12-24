@@ -1,17 +1,11 @@
 ---
-layout: horoscopos
-title: aries 2018 Horóscopo año nuevo 2018 
-description: aries horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para aries gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/aries/
-amplink: /horoscopo-anual/amp/aries/
+layout: page
+title: Aries Horóscopo año nuevo 2019 
+description: Aries horoscopo del 24 de diciembre del 2018, amor, trabajo, vida personal. Todas las predicciones para Aries gratis. Disfruta este año nuevo.
+permalink: /horoscopo-anual/Aries/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo aries 2018, horoscop, horóscopos gratis, horoscopo aries, horoscopo aries 2018 gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/aries_anual.png
-facebook:
- instant_article: 'yes'
-horoscopo:
- signo: aries
- video: tUnfPaOgtd8
+keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Aries 2019, horoscop, horóscopos gratis, horoscopo Aries, horoscopo Aries 2019 gratis, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/Aries_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -21,33 +15,46 @@ sitemap:
 
 ## Vida Personal
 
-El 2018 es un año de mucha suerte y abundancia, aries. También habrá fuertes sentimientos, opiniones, y un gran deseo de triunfar. Puede que sea difícil pensar con claridad todo el tiempo en medio de tanta actividad y el bullicio cotidiano de la vida; pero aun así, darás lo mejor de ti.  
-Espera recibir oportunidades y gente agradable a tu alrededor desde el 1 de Enero mientras tu planeta regente Mercurio se encuentra en Capricornio junto con el Sol, Venus, y Plutón. Capricornio es un Signo de Tierra, muy compatible con aries. 
-Júpiter entra a aries el 11 de Agosto. A partir de entonces, una aumentada buena suerte y prosperidad deberían florecer. Amigos y familia (en especial hermanos) podrían andar muy generosos. Es un año para darse muchos momentos de felicidad los unos a los otros. 
-Más creatividad, buenos momentos con grupos de personas (especialmente reuniones grandes), y uno o dos viajes te esperan este año. Mantén una vida sana y activa, y come y descansa bien, ¡porque será un año de mucho trabajo! 
+Los sueños, las ideas, y las conexiones personales van a ser extremadamente valiosas para ti al comienzo de este año. Tienes un montón de ideas que poner en orden, y tus amigos pueden ser muy útiles para hacer que esto suceda. Algunas de estas ideas pueden parecer ser muy poderosas, y otras pueden parecer un poco peculiares, pero ninguna de ellas debe ser descartada. Júpiter está en tu signo al comienzo del año, y le está enviando un gesto de aprobación a la gestación de tus ideas.
+
+
+Con este tipo de estimulación mental, tu persona está tan cargada de energía como una batería, incluso cuando Júpiter deje tu signo el 16 de Julio. Es posible que sientas un poco de abandono por un tiempo, y no quieras hablar, ¡pero ya habrás desarrollado suficiente como para que la gente confíe en tu intuición incluso en la más confusa de las crisis!
+
+
+Además, tu gran confianza personal saldrá a la superficie una vez más, y llegará a su punto más alto hacia el final del verano. Mantén la cabeza en alto, y no dejes que ni siquiera la más pequeña de las pistas o señales se te escape. 
+
 
 ## Amor Parejas
 
-Escúchense el uno al otro más este año, y dense tiempo para que las palabras sean digeridas. Con el Nodo Norte Lunar recientemente en aries, hay una gran cantidad de conexiones kármicas y magia en juego para ustedes este año. 
-Puede que ambos se sientan extravagantes, sobre todo en el verano, y con tantos planetas en Signos de Fuego, puede que encentren buenas maneras de satisfacer esos deseos. 
-En el otoño, ciertos pensamientos podrían convertirse en simple felicidad en el hogar. Esto no tiene por qué significar una remodelación o incluso una nueva compra, pero si necesitan algo nuevo, bien pueden negociar y hacer que eso suceda.    
-Saturno apenas está entrando a Sagitario, dándole a tu relación una tremenda pasión, aunque puede que sea de carácter más serio, profundo, y duradero. Esta energía no tiene que hacerles hervir. Expresen lo que necesitan el uno del otro, y desarrollen una conexión emocional más profunda. Los dos últimos meses de tu año podrían ser lo más intensos, llenos de deseo, y satisfacción. 
+En el 2019, el amor es fuerte, serio y sensual, Aries. Puede que tu pareja recurra a ti para poder lograr más, pero puedes lidiar con eso. También habrá tiempo de sobra para divertirse juntos.
+
+
+Venus es una influencia muy fuerte en el 2019, pero no está de humor para demasiadas tonterías. Enero y febrero pueden ser meses en los que ambos amen su trabajo y quieran compartir ese entusiasmo. ¡Adelante!
+
+
+Cuando Marte está retrógrado a finales de junio y agosto, Venus se encuentra en Leo y Virgo. Diviértanse pasando más tiempo en privado durante junio y julio. Y pónganse más cómodos y felices en su hogar en agosto.
+
+
+Cuando el sol entra a Aries, Venus se encuentra en el sexy Escorpión. Digan lo que piensan, hagan lo que dijeron que harían, y así, se volverán cada vez más cercanos. 
+
+
+La fase retrógrada de Venus empieza a principios de octubre en Escorpión y termina a mediados de noviembre en Aries. Esto puede intensificar los problemas dentro de su relación. Posterguen cualquier compra grande en conjunto o planes de viaje hasta que sepan con seguridad que están en la misma frecuencia.
+
+
+
+
+
 
 ## Amor Solteros
 
-Las oportunidades para el romance se te hacen presentes, pero puede que se estén escondiendo en las esquinas y en los lugares más inesperados. Vas a tener que realmente mantenerte alerta durante los primeros meses del año, aunque en Abril dos increíbles conjunciones harán que las citas se vuelvan un poco más potentes y creen una impresión duradera en ambos de sus corazones.
-
-
-Mientras que mantener una buena impresión siempre será importante, el verano posterior a un amigable Venus en Cáncer te da mucha más libertad para relajarte y ser tú mismo o misma. Los días de finales de Julio y principios de Agosto, en particular, crean un gran potencial para las vibras románticas. Las citas que sucedan durante este periodo cargarán tus baterías más, incluso durante los ocasionales momentos en los que tu ánimo ande bajo.
-
-
-Escorpión, de hecho, le estará dando a tu vida romántica la ocasional agradable inyección durante todo el otoño; lo que podría proporcionarte, como mínimo, una semiestable pareja  con quien pasar la temporada navideña. ¡Buena suerte!
-
+Puede que tengas un ojo errante en el 2019, Aries. Esto puede crear un sinfín de oportunidades para crear contactos románticos. Pero el 2019 definitivamente es más acerca de las conexiones reales que de los sueños y fantasías.
+Puede que te sea difícil aminorar tu intensidad personal, con mayor frecuencia en Enero y Febrero. ¡A veces hasta se te podría confundir con un Escorpión!
+Tu otoño estará lleno de actividad social. Con Júpiter y el Nodo Norte Lunar en Virgo, puede que pases mucho tiempo haciendo cosas divertidas con gente interesante. Puede que ninguno de ellos sea tu alma gemela, pero sin duda ampliarán tu círculo social y en consecuencia traerte potenciales parejas.
+Noviembre y Diciembre podrían ser los mejores meses para encontrarte en una melodía romántica con alguien especial. Tanto Venus como Saturno son intensamente poderosos, y una persona con un corazón tan grande y con ese tipo de apasionadas cualidades podría llegar a ser muy atractiva.       
 
 ## Trabajo
 
-Si el amor es importante en el 2018, tu carrera y situación monetaria lo son aún más. La apertura de la conjunción Sol-Plutón en Capricornio es una señal de alerta para tomar en serio lo que quieres y hacia dónde te diriges.
-Si tienes un plan o ruta directa en mente, puedes enfocarte en ello intensamente y hacer los cambios necesarios. Si no haces nada, el mundo podría forzarte para que hagas un cambio de todos modos, así que compórtate proactivamente.
-Marte y el asteroide Ceres comienzan el año en tu propio signo aries, un signo que por naturaleza se preocupa por el bienestar material y la comodidad. Este combo cósmico te da la energía y recursos para perseguir y conseguir tus objetivos.
-Júpiter estará retrógrado en el agradable Libra desde febrero hasta principios de junio. Alinea a tus asociados y aliados, si es que tienes, y trata de estar en la misma página con personas que compartan tu carrera o visiones financieras. Para cuando Júpiter entre a Escorpio en octubre ya tendrás tu lista de resultados claramente definida.
-Una vez que el retroceso de Saturno termine a finales de agosto, podrás avanzar con poco estorbo. Diciembre será un mes poderoso, enfocado en el trabajo y tal vez frugal. Inicia el 2018 financieramente fuerte actuando acorde a estas corrientes.
+En el 2019, las ocupaciones más rentables probablemente implicarán el tipo de trabajo que es más mundano y menos glamoroso. Esto no quiere decir que serán serviles o degradantes, sólo se refiere a menos vistosas y llamativas.
+En Enero, podría llegarte una inesperada (y tal vez grande) oportunidad, pero no saltes a ella de forma inmediata. Mercurio se encontrará retrógrado en un signo de Tierra, por lo que dale tiempo a la situación para que manifieste sus verdaderos colores. En el 2019, haz preguntas y no te conformes con medias respuestas.
+Puede que en Agosto redefinas qué quieres hacer y cómo quieres hacerlo en materia de carrera profesional. Toma acción después de la conclusión del periodo retrógrado de Mercurio a finales de Septiembre. Tu situación monetaria podría mejorar, y tu reconocimiento podría aumentar también para entonces. Ten paciencia, sabiduría y tendrás éxito. Júpiter está de tu lado.
+Finalmente, en Noviembre y Diciembre, ten más ambición y compórtate más prácticamente y terminarás el año en una posición muy firme y con un nivel económico más alto.
