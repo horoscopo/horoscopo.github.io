@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 17 de diciembre 2018 al 23 de diciembre 2018 
-description: Horóscopo semanal capricornio 17 de diciembre 2018 al 23 de diciembre 2018. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+title: capricornio 24 de diciembre 2018 al 30 de diciembre 2018 
+description: Horóscopo semanal capricornio 24 de diciembre 2018 al 30 de diciembre 2018. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: KkVmHGwn2IY
+ video: _N2i3hSkL8U
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-17'
+ lastmod: '2018-12-24'
 ---
 
 
 
-## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 
-Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección capricornio, y ahora puedes elegir lo que quieras.
-La aventura te hace señas, así que prepárate para salirte de tu zona de confort y considerar ampliar tus horizontes. De hecho, si estás teniendo dificultades para avanzar en áreas clave de la vida, enfoca tu atención hacia explorar nuevas opciones que podrían permitirte canalizar tu energía en otra parte. Podrías experimentar este tipo de retrasos en el frente doméstico si es que ciertas responsabilidades familiares te impiden realizar tanto como deseas. Aun así, pequeñas incursiones en nuevo territorio pueden dejarte sintiendo optimista.
+Empieza a cambiar la mentalidad capricornio, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado capricornio, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+Un excepcional enlace entre Venus y Marte a principios de semana podría ser la razón por la que decidas formar equipo con otra persona para hacer un viaje. Sean cuales sean tus planes, colaborar podría sacarte de tu zona de confort de una manera agradable. Además, la entrada del Sol a Libra del jueves podría animarte a poner en acción planes y oportunidades que son un reto, pero también divertidas. Este fin de semana podría verte dándole vueltas a una oferta que podría ser demasiado buena para dejarla pasar.
 
 ## Dinero
 
-Es una semana difícil para ti. Es tu responsabilidad decir lo que necesitas decir de una forma amable y gentil. Pero cuando se trata de tu vida hogareña y emociones internas, puede ser difícil reunir ese tipo de paciencia. En vez, puede que sientas presión y falta de respeto al tratar de salir adelante. La semana que viene será mejor en general.
+El Universo te enseña a aceptar más responsabilidad con respecto a cómo te proyectas al mundo. Alguien ha sido capaz de ascender en la escala más rápidamente debido a su buen vestir o a una mejor manera de hablar, pero tú también lo puedes hacer. Práctica tu confianza en frente de un espejo hasta que la perfecciones. Cada detalle ayuda.

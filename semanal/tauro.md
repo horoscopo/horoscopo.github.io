@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: tauro 17 de diciembre 2018 al 23 de diciembre 2018 
-description: Horóscopo semanal tauro 17 de diciembre 2018 al 23 de diciembre 2018. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+title: tauro 24 de diciembre 2018 al 30 de diciembre 2018 
+description: Horóscopo semanal tauro 24 de diciembre 2018 al 30 de diciembre 2018. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: _p4cmEj555U
+ video: LH3sCqw-gFI
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-17'
+ lastmod: '2018-12-24'
 ---
 
 
 
-## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+## Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
 
-tauro, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo tauro. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
-La Luna Llena del lunes en tu sector financiero personal podía verte gastar en artículos que realmente no necesitas. Si te sientes muy emocional o de mal humor, podrías terminar dirigiéndote al centro comercial o visitar tus sitios web favoritos de compras en tu intento por sentirte mejor acerca de algo. Piensa muy cuidadosamente antes de realizar cualquier compra si es que quieres evitarte problemas en el futuro. Ciertas cuestiones de estilo de vida son puestas bajo enfoque el jueves y el viernes, pudiendo ser una señal para hacer algunos bien pensados cambios.
+Es mejor reflexionar que lamentar tauro. Siempre. 
+Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así tauro, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
+Quizás decidas hacer un cambio radical que podría tener un efecto importante en tu vida. Aunque tal vez hayas estado reflexionando sobre esto por un tiempo, algunos eventos podrían servir de catalizador para empujarte a hacer algo. Al mismo tiempo, un enfoque en tu sector de horizontes lejanos, viajes y estudio puede llevarte a explorar nuevas oportunidades para tu desarrollo y crecimiento. Durante las próximas semanas, ciertas ideas pueden determinar tu forma de pensar, lo que te llevará en direcciones que pueden probar ser enriquecedoras para ti.
 
 ## Dinero
 
-Hay varios aspectos problemáticos afectando tu sector de dinero esta semana. De la misma manera, hay actividad en tu sector de dinero que te regresa a tiempos más simples. Pero también se ve afectado tu sector de deuda o de dinero de otras personas, desafiándote a pagar o pedir prestado para que puedas ampliar tus actividades empresariales.
+El Universo te apoya ahora, lo que indica un momento de renovada atención hacia el romance, los niños y la familia. Si trabajas en una de estas áreas, el dinero viene casi sin esfuerzo. Si tienes una idea para un producto o servicio que se enfoque en estos grupos demográficos, es un momento ideal para lanzar esto al mercado. Algo escrito o hablado puede ser el medio. Agarra pluma y papel y deja que la inspiración tome vuelo.

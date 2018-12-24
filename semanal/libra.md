@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 17 de diciembre 2018 al 23 de diciembre 2018 
-description: Horóscopo semanal libra 17 de diciembre 2018 al 23 de diciembre 2018. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+title: libra 24 de diciembre 2018 al 30 de diciembre 2018 
+description: Horóscopo semanal libra 24 de diciembre 2018 al 30 de diciembre 2018. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche libra, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: rWDITDJVR3g
+ video: TBSDw8EssyA
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-17'
+ lastmod: '2018-12-24'
 ---
 
 
 
-## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche libra, abre las puertas y ciao. No tienes que mantener nada…
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón libra, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
-Estarás de humor para relajarte, y con esta deliciosa mezcla de energías que aparece, valdrá la pena aprovechar al máximo cualquier oportunidad disponible. Mientras que el curioso Mercurio sigue retrógrado, una conexión romántica podría parecer prometedora, pero puede que no sea fácil seguir adelante con ella por el momento. Sin embargo, puedes divertirte mucho en casa. A medida que la vitalidad de Marte ingresa a este sector el sábado, puede que te dispongas a eliminar el desorden y a que tu casa esté limpia y ordenada.
+Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capri, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
+Esta semana, tendrás ansias de hacer algunos cambios en tu hogar, quizás al redecorar o comprar una propiedad más grande. La idea de expansión podría serte muy atractiva en este momento. Aun así, evita tomar decisiones importantes el lunes, ya que puede que no conozcas todos los hechos. La Luna Creciente del Sábado en tu signo te anima a investigar más de lo que normalmente harías. ¡Adéntrate en los detalles! Si has estado teniendo dificultades para hacerle entender algo a alguien, esto podría cambiar pronto.
 
 ## Dinero
 
-Te beneficiarás de dos maneras cruciales en estos momentos. Dado que ciertos aspectos están afectando a tu sector de grupos, política y trabajo por cuenta propia, puede que estés considerando trabajar desde casa o iniciar un nuevo negocio desde la comodidad de tu habitación. La suerte se combina con repentinas ideas brillantes. Puede parecer una broma, pero puede que de verdad funcione.
+Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.
