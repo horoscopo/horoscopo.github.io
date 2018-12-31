@@ -1,13 +1,13 @@
 ---
 layout: horoscopos
 title: capricornio 31 de diciembre 2018 al 06 de enero 2019 
-description: Horóscopo semanal capricornio 31 de diciembre 2018 al 06 de enero 2019. Retírate del mundo artificial capricornio, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+description: Horóscopo semanal capricornio 31 de diciembre 2018 al 06 de enero 2019. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: XK4CArDxQW8
+ video: 0GX-BQ50B3w
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
@@ -18,13 +18,12 @@ sitemap:
 
 
 
-## Retírate del mundo artificial capricornio, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 
-Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
-Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
-El sol, que sigue en tu signo, puede hacer que estés en tu elemento y que te prepares para explorar nuevas posibilidades. También hay mucha actividad en tu sector de finanzas personales, lo que indica que es un buen momento para buscar ofertas y, en general, hacer que tu dinero trabaje más para ti. 
-El jueves podría traer consigo la oportunidad para una salida que se convierta en una experiencia muy positiva. Al mismo tiempo, ten cuidado con los gastos. Tal vez quieras mucho algo, pero podrías decepcionarte cuando finalmente lo tengas en casa. Por si acaso, guarda los recibos. La luna en cuarto menguante del viernes puede ser la oportunidad para evaluar tus sentimientos acerca de una meta o plan actual. Si algo no se siente bien, puede que sea prudente investigarlo. Por último, el fin de semana podría encontrarte saliendo y tal vez visitando un lugar muy hermoso y con poderes sanadores.
+Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
+ aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
+Esta es una semana interesante. Un tránsito intenso y oportunista que se extiende durante cinco días antes y después del 24 de noviembre te puede parecer apasionante. Debes tener en cuenta los costos y los detalles importantes. El Sol en tu zona de dinero puede hacer que veas tanto las razones que pueden beneficiarte como las que no. La clave está en que sepas reconocer si quieres aprovechar esta oportunidad al máximo y alcanzar el éxito. Si tomas un poco de distancia, puedes tomar decisiones más informadas.
 
 ## Dinero
 
-Actualmente los aspectos afectan tu sector de dinero y valores. Pero la gran novedad está en tu sector de negocio propio y de grupos. Es hora de correr la voz sobre lo que haces para poder atraer a más clientes, ganar más dinero, e incluso empezar la cuenta de jubilación que has estado planeando.
+Eres alguien poco convencional ahora al traerle una ola repentina de genialidad a ciertos acontecimientos. El Universo le envía vibraciones de suerte a tu sector de efectivo y valores. Ahora te llegan oportunidades para mayor número de horas, mejores salarios y proyectos más deseables, al igual que la posibilidad de disfrutar de lo que haces para ganarte la vida. Es un momento muy bueno en general.

@@ -1,13 +1,13 @@
 ---
 layout: horoscopos
 title: sagitario 31 de diciembre 2018 al 06 de enero 2019 
-description: Horóscopo semanal sagitario 31 de diciembre 2018 al 06 de enero 2019. Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte sagitario, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
+description: Horóscopo semanal sagitario 31 de diciembre 2018 al 06 de enero 2019. Hay personas que juegan en otra liga sagitario, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: b8lQuFheP70
+ video: mzKdi5i32XY
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
@@ -18,11 +18,11 @@ sitemap:
 
 
 
-## Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte sagitario, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
+## Hay personas que juegan en otra liga sagitario, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 
-Tu cabeza quiere un cambio sagitario, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira sagitario, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero sagitario por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
-Con Marte, el planeta que rige tu profesión, entrando a tu sector de viajes y exploración, sientes ganas de comenzar un curso que te ayude a lo largo de tu camino hacia el éxito. La fase retrógrada de Mercurio, que comienza esta semana, sugiere que no confíes en las palabras de los demás. Pueden tener buenas intenciones, pero verifica los hechos antes de firmar cualquier documento. El Día de Navidad será una ocasión animada y hogareña que disfrutarás y que te acercará a tus familiares y amigos.
+Por fin llega lo que tanto estabas esperando sagitario, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo sagitario. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana sagitario, disfrútala al máximo.
+La Luna Nueva en tu sector de estilo de vida podría motivarte para que veas cómo se está desenvolviendo tu vida actual. ¿Será que es momento de hacer un cambio? La mezcla actual de energías sugiere que lo es. Si empiezas con los asuntos de salud y bienestar, puede que vayas por un camino más optimista. Además, puede que debas hacerle unos ajustes a un plan que significa mucho para ti a nivel personal antes de comenzar.
 
 ## Dinero
 
-Tu saldo bancario crece cada vez más y más. ¡Es tiempo de celebrar! Eso sí, no dejes que tu típico exceso drene lo que has ganado con tanto esfuerzo. Mientras tanto, tu carrera está estallando de manera positiva para ti ahora,  y a medida que aumentan las responsabilidades, tu estado mejora y tu trabajo adquiere la forma de comunicación con la que sólo has soñado antes. Prepárate para la llegada, ya te encuentras cerca.
+Actualmente te enfrentas a un momento de cambios. Estás buscando maneras de brillar y no sólo en tu vida laboral. En vez, se trata de obtener reconocimiento y apreciación por lo que te gusta. Hay una nueva energía en tu sector de comunicación, por lo que hasta hablar te resulta más fácil. Al mismo tiempo, tu sector de dinero y los valores se activa. El deseo está ahí y ya está listo/a para tomar acción para hacer tu vida más cómoda económicamente.

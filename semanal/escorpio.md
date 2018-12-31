@@ -1,13 +1,13 @@
 ---
 layout: horoscopos
 title: escorpio 31 de diciembre 2018 al 06 de enero 2019 
-description: Horóscopo semanal escorpio 31 de diciembre 2018 al 06 de enero 2019. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos escorpio. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+description: Horóscopo semanal escorpio 31 de diciembre 2018 al 06 de enero 2019. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro escorpio.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: 2NO105pvt_c
+ video: Hudc__oMPj8
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
@@ -18,11 +18,11 @@ sitemap:
 
 
 
-## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos escorpio. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro escorpio.
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada escorpio. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No escorpio, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres escorpio, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas escorpio pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-Tanto tu vida amorosa como las conexiones con tus colegas estarán en la agenda esta semana. Respecto a tu trabajo, quizás tengas que asistir a debates y consultas. Sea la relación que sea, te irá mejor si puedes evitar que demasiada de tu intensidad sea mostrada. Sin embargo, esto puede ser difícil durante la luna llena del jueves. Pero siempre y cuando no digas nada de lo que te puedas arrepentir, podrías descubrir que los demás traen oportunidades y opciones que de otra forma no habrías considerado.
+Tienes que improvisar más escorpio, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira escorpio, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado escorpio… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no escorpio, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana escorpio.
+En los próximos días podrías involucrarte en algunas interesantes conversaciones que pueden impulsarte hacia nuevas aventuras. Lo que sea que ha estado rondando por tu cabeza podría convertirse en realidad. Cuando el sol ingresa a tu sector de comunicación y pensamiento el martes, puede que descubras una oportunidad que está esperando a ser aprovechada. Sin embargo, Mercurio, el mensajero, se vuelve retrógrado el jueves y permanecerá así hasta el 15 de abril. Ten cuidado al cerrar tratos o comprar costosos objetos.
 
 ## Dinero
 
-Que nunca se diga que no eres inteligente con el dinero. En el pasado, podría muy bien haber sido que se te escapó de las manos como el agua. Pero ahora tienes más disciplina sobre la forma en la que ganas y gastas. Es posible que desees ampliar tu forma de pensar acerca de inversiones. Las instituciones más grandes pueden tener una ventaja en este momento, y podrías percatarte de que están mejor equipadas para manejar tus fondos.
+Hay una sorpresa muy especial para ti ahora. Un aspecto armonioso te ofrece un montón de ideas creativas, por no mencionar el talento para lograrlas. Mientras tanto, también recibes el impulso para tomar medidas sobre todo lo que quieres lograr. Dado que tu sentido de auto-expresión se ve afectado, es un buen momento para vender tus productos o servicios. Formula una lluvia de ideas para lograr llegar a un plan.

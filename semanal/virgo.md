@@ -1,13 +1,13 @@
 ---
 layout: horoscopos
 title: virgo 31 de diciembre 2018 al 06 de enero 2019 
-description: Horóscopo semanal virgo 31 de diciembre 2018 al 06 de enero 2019. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar virgo porque no eres así. 
+description: Horóscopo semanal virgo 31 de diciembre 2018 al 06 de enero 2019. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: HWQB1FUStyU
+ video: JlMmtS9MDmU
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
@@ -18,11 +18,11 @@ sitemap:
 
 
 
-## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar virgo porque no eres así. 
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-Hace mucho tiempo que no te das un buen capricho virgo, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes virgo. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
-Sientes que todo lo puedes esta semana cuando el enfoque cósmico se centra en tu signo, lo que te permite disfrutar ser quien realmente eres. No es el momento de quedarte en silencio, sino de expresar sin miedo tus necesidades, deseos, anhelos y también opiniones, por supuesto. Pero quizá sea prudente no comprometerte con una idea u oportunidad hasta el fin de semana o comienzo de la semana siguiente, cuando el panorama estelar esté mucho más estable. También tendrás una idea más clara de la situación en general.
+Eres demasiado honesto con el resto virgo y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Capri, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+Suceden muchas cosas en una de las áreas más misteriosas de tu carta astral, donde la alineación actual podría potenciar la intimidad y quizás llevarte a explorar formas inusuales y emocionantes de satisfacer a tu amor. Abrirte y ser vulnerable podría ser muy bueno para ti. También es una oportunidad para soltar el resentimiento oculto y así experimentar sensaciones de liviandad y paz. Los asuntos profesionales también reciben un impulso, pero deberás tener cuidado con los asuntos monetarios esta semana.
 
 ## Dinero
 
-Esta semana te enfrentas un momento de aumento de energía cuando se trata de auto-expresión. Alguien en tu lugar de trabajo tiene celos de ti y no puede ser capaz de manejar tu naturaleza poderosa. No importa. Te estás exponiendo hacia el mundo, lo cuál sólo puede ser positivo. Di tu verdad. Aparentemente estás destinado/a a mostrar tu profundidad y madurez, aunque otros necesiten oírlo.
+Tienes cierta actividad en tu sector de trabajo ahora, lo que significa que se te está pidiendo realizar una gran cantidad de tareas. Debido a que esta casa también rige tu salud, trata de no exagerar o de lo contrario tu salud podría verse afectada. Está seguro que habrá algo de tensión esta semana. Acude a los viajes y al aprendizaje de nuevas ideas para desahogarte.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 24 de diciembre 2018 al 30 de diciembre 2018 
-description: Horóscopo semanal acuario 24 de diciembre 2018 al 30 de diciembre 2018. Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+title: acuario 31 de diciembre 2018 al 06 de enero 2019 
+description: Horóscopo semanal acuario 31 de diciembre 2018 al 06 de enero 2019. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: 0Ymq8OPAsnM
+ video: Os4DvfrR4jg
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-24'
+ lastmod: '2018-12-31'
 ---
 
 
 
-## Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 
-Deberían valorarte más acuario, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para acuario, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
-Hay un nuevo comienzo con la poderosa entrada de Marte a tu sector de hogar y familia, lo que te alienta a despejar los malos aires. En esta semana, puede que sientas que es hora de mimarte un poco y darte gusto con algunos lujos. Pero es posible que no dejes pasar una oferta. Con Mercurio entrando a Géminis, estarás al tanto de los precios a tu alcance y te prepararás para hacer una buena compra. Además, un sentido de aventura podría motivarte para que reserves unas vacaciones.
+No tengas la menor duda de que la vida hará pagar por todas las malas acciones a quien las cometa, por eso tú preocúpate por hacer el bien a los demás y recibirás una gran recompensa. Párate a pensar si ahora eres feliz, mírate hacia dentro y piensa si para cerrar el ciclo que a veces te atormenta necesitas hablar con alguien, con alguna persona especial… Nada volverá a ser lo mismo acuario, pero a veces, para que nuestra mente descanse en paz de verdad lo mejor es sacar lo que quizás tenemos dentro y nos costó tanto tiempo decir. Es probable que no sea el momento, eres acuario y muy a menudo, cuando tienes que decir algo en el instante que deberías no lo dices, por miedo, por vergüenza, por lo que sea, y otras veces, cuando lo mejor es estar callado, sueltas cualquier burrada que hace que al final te acabes por sentir mal. Las cosas por ahora no van a cambiar mucho, pero tu estado de ánimo sí, y ya no tu estado, si no esa inseguridad que se ha ido forjando en ti este tiempo atrás, esa sensación a veces, como de pérdida… Ahora necesitas centrarte en cosas que te mantengan ocupada la mente, aunque suene un poco mal decirlo, no pensar demasiado en nada, ni en todo, simplemente fluir con lo que venga, con lo que pase, sin buscar, sin forzar. Será una racha, un tiempo en el que quizás te sientas como vacío, a veces incluso un poco fuera de lugar, como si los sentimientos de repente se hubieran entrelazado y lo mismo amas que odias, lo mismo quieres ser el más feliz del mundo que quieres echarte a llorar como un niño. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+Puede que no estés de acuerdo con alguien en el trabajo, lo que le dará un nervioso comienzo a tu semana. Podría ser debido a que uno de ustedes se está centrando en los detalles, mientras que el otro está analizando el panorama completo. Si logran unir ambos extremos del espectro, es posible que logren mucho más. El Eclipse Lunar en tu sector de viajes y exploración podría darle un nuevo significado a un viaje, adquiriendo un propósito muy diferente al que originalmente pretendía.
 
 ## Dinero
 
-Ciertos aspectos muestran la necesidad de aportar más creatividad y belleza a tu vida laboral. Al mismo tiempo, hay una relación de jale y empuje entre el dinero que tienes y debes y el dinero que gastas. Es tiempo de encontrar un equilibrio entre los dos mediante la creación de un plan de pago para las tarjetas de crédito mientras que encuentras la manera de atraer más dinero cada mes.
+Confía en tu intuición acerca de lo que es correcto para ti. Estás preparado/a para hacer un gran cambio en tu vida. Podrías percatarte de que tu situación se vuelve un poco inestable, teniendo dinero un día y no otro. La manera de balancear esto es mediante el desarrollo de una estrategia fuerte de ahorro, poniendo dinero en cuentas de ahorro a largo plazo y otro poco más en cuentas de ahorro a corto plazo. No es una opción - es una necesidad.
