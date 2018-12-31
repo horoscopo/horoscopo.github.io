@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de diciembre 2018
-description: Horóscopos del dia de hoy 30 de diciembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 31 de diciembre 2018
+description: Horóscopos del dia de hoy 31 de diciembre 2018 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2018-12-30
+ lastmod: 2018-12-31
 ---
-Toma nota de las cosas y tómate más tiempo para considerar tus acciones del que pasas actuando. ¿Por qué? Las mentes tienden a distraerse cuando Mercurio se vuelve retrógrado. Las cosas no son reales esta noche, son una ilusión cuando la Luna cuadra a Neptuno sin dirigirse hacia arriba, ni abajo, o, en otras palabras, sin paredes, sin horizonte.
+Si algo no está funcionando, intenta lo contrario u opta por una posición menos política. Recuerda el principio. Analiza la meta. Rellena el centro, donde el error surgió originalmente. Esta noche, las parejas comparten felicidad. Los solteros podrían experimentar una interesante atracción romántica cuando la Luna forma trígono con Júpiter, el planeta de la radiante expectativa.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.

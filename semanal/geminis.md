@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 24 de diciembre 2018 al 30 de diciembre 2018 
-description: Horóscopo semanal geminis 24 de diciembre 2018 al 30 de diciembre 2018. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+title: geminis 31 de diciembre 2018 al 06 de enero 2019 
+description: Horóscopo semanal geminis 31 de diciembre 2018 al 06 de enero 2019. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: WOwBzAcRgIc
+ video: daryPTpshYg
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-24'
+ lastmod: '2018-12-31'
 ---
 
 
 
-## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+## No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
 
-Quizás deberías dejar de planear todo ahora geminis, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien geminis, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
-Una fase lunar poderosa a mitad de semana puede ser una buena oportunidad para tomar una decisión sobre una aspiración clave. Si esto es algo que has postergado últimamente, algunos eventos podrían actuar como catalizadores, lo que te motiva a salir de tu zona de confort. Y con Mercurio ahora avanzando en tu sector de viajes, ten cuidado durante algunos días más. Aún puede haber algunos retrasos por un tiempo luego de que Mercurio se torna directo. Por otro lado, tal vez alguien del trabajo se convierta en tu punto débil.
+El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
+¿Eres capaz de aventurarte? De ser así, la próxima semana podría animarte a que sigas a tu corazón. De hecho, una discusión con una de tus amistades podría actuar como catalizador y animarte a reservar un viaje. Una vez que el sol ingresa a tu sector de lejanos horizontes el martes, podrías dispararte a toda velocidad hacia experiencias que expandan tu mente. Sin embargo, si planeas viajar, la fase retrógrada de Mercurio comienza el jueves, lo que podría significar demoras o desvíos. Si tienes la actitud adecuada, esto también puede ser divertido.
 
 ## Dinero
 
-Este período se trata de las formas en las que te pones en contacto con los demás por negocios o por placer. Dado que cierta actividad armoniosa afecta a tu sector de grupos, actividades sociales y negocios propios, puede que estés pensando en cómo usar las redes sociales para lanzar una nueva empresa de algún tipo. Incluso si es un negocio secundario por un tiempo, puede que te percates de que la conexión con los demás puede hacer toda la diferencia.
+Esta semana, el Universo está mejorando tu creatividad, pero también haciéndote trabajar un poco más duro de lo que debería. Al mismo tiempo, tus sectores de comunicación, instituciones, karma y vidas pasadas se ven afectados. No es el momento de enfadar a tu jefe o de demostrar llamativamente tu independencia. Trata de llevarte bien.

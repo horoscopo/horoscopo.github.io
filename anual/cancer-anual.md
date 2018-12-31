@@ -2,10 +2,10 @@
 layout: page
 title: Cáncer Horóscopo año nuevo 2019 
 description: Cáncer horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Cáncer gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Cáncer/
+permalink: /horoscopo-anual/cancer/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Cáncer 2019, horoscop, horóscopos gratis, horoscopo Cáncer, horoscopo Cáncer 2019 gratis, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Cáncer_anual.png
+ogimg: /images/cancer_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -42,4 +42,4 @@ Finalmente, Mercurio retrógrado al final del año podría causar algunos mensaj
 El 2019 podría ser el año en el que Cáncer experimente abundancia y una acumulación de prestigio y - sí - incluso más dinero. Mantén tu ambición y tus esfuerzos en alto así como tus expectativas razonables para luego ver más desarrollo.
 La ración extra de encanto que tendrás te atraerá oportunidades y extenderá tus redes de contacto. Las personas te valorarán y querrán trabajar contigo. Tus relaciones de negocios estarán claramente definidas y serán mutuamente satisfactorias. Durante los primeros meses, haz nuevas conexiones y permite que se vuelvan más fuertes a medida que todos los involucrados alcanzan el éxito.
 Si los meses de Febrero y Marzo requieren de más gastos, podrás mantenerlo todo dentro de lo razonable. Y para Agosto y Septiembre, tus ganancias podrían ya haber aumentado lo suficiente como para compensar esos costos.
-Conforme el año se acerque a su fin, ten más prudencia al gastar para que cuando el 2019+1 se acerque tengas una situación económica más sólida.  
+Conforme el año se acerque a su fin, ten más prudencia al gastar para que cuando el 2020 se acerque tengas una situación económica más sólida.  

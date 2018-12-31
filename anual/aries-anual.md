@@ -2,10 +2,10 @@
 layout: page
 title: Aries Horóscopo año nuevo 2019 
 description: Aries horoscopo del 24 de diciembre del 2018, amor, trabajo, vida personal. Todas las predicciones para Aries gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Aries/
+permalink: /horoscopo-anual/aries/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Aries 2019, horoscop, horóscopos gratis, horoscopo Aries, horoscopo Aries 2019 gratis, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Aries_anual.png
+ogimg: /images/aries_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

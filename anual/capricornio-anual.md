@@ -2,10 +2,10 @@
 layout: page
 title: Capricornio Horóscopo año nuevo 2019 
 description: Capricornio horoscopo del 24 de diciembre del 2018, amor, trabajo, vida personal. Todas las predicciones para Capricornio gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Capricornio/
+permalink: /horoscopo-anual/capricornio/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Capricornio 2019, horoscop, horóscopos gratis, horoscopo Capricornio, horoscopo Capricornio 2019 gratis, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Capricornio_anual.png
+ogimg: /images/capricornio_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

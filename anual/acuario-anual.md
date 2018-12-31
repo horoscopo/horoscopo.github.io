@@ -2,10 +2,10 @@
 layout: page
 title: Acuario Horóscopo año nuevo 2019 
 description: Acuario horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Acuario gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Acuario/
+permalink: /horoscopo-anual/acuario/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Acuario 2019, horoscop, horóscopos gratis, horoscopo Acuario, horoscopo Acuario 2019 gratis, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Acuario_anual.png
+ogimg: /images/acuario_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

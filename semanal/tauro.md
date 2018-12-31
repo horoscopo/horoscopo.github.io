@@ -1,29 +1,30 @@
 ---
 layout: horoscopos
-title: tauro 24 de diciembre 2018 al 30 de diciembre 2018 
-description: Horóscopo semanal tauro 24 de diciembre 2018 al 30 de diciembre 2018. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
+title: tauro 31 de diciembre 2018 al 06 de enero 2019 
+description: Horóscopo semanal tauro 31 de diciembre 2018 al 06 de enero 2019. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: LH3sCqw-gFI
+ video: 4FnTOIPQwXg
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-24'
+ lastmod: '2018-12-31'
 ---
 
 
 
-## Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
+## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 
-Es mejor reflexionar que lamentar tauro. Siempre. 
-Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así tauro, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
-Quizás decidas hacer un cambio radical que podría tener un efecto importante en tu vida. Aunque tal vez hayas estado reflexionando sobre esto por un tiempo, algunos eventos podrían servir de catalizador para empujarte a hacer algo. Al mismo tiempo, un enfoque en tu sector de horizontes lejanos, viajes y estudio puede llevarte a explorar nuevas oportunidades para tu desarrollo y crecimiento. Durante las próximas semanas, ciertas ideas pueden determinar tu forma de pensar, lo que te llevará en direcciones que pueden probar ser enriquecedoras para ti.
+Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
+Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
+Cuando el incansable Mercurio ingresa a tu sector de viajes y lejanos horizontes el martes, puede que te pique el bichito de los viajes y que despegues de un momento a otro. Sin embargo, debido al cambio de enfoque hacia tu sector de metas y carreras, también tendrás la posibilidad de mostrar tus habilidades y de establecer prometedoras conexiones. 
+Hay un poderoso enfoque en tu sector de negocios y finanzas hasta el 21 de junio, por lo que los próximos siete días más o menos podrían encontrarte explorando formas de invertir tus recursos de manera más inteligente. Esto puede significar cancelar cualquier deuda y hacer un presupuesto para incrementar tus ahorros. La luna nueva en este mismo sector a mitad de semana podría ayudarte a iniciar este proceso inspirándote a establecer metas y a cumplirlas rápidamente. Sin embargo, trata de ser paciente el viernes, ya que una conversación clave podría no salir según los planes.
 
 ## Dinero
 
-El Universo te apoya ahora, lo que indica un momento de renovada atención hacia el romance, los niños y la familia. Si trabajas en una de estas áreas, el dinero viene casi sin esfuerzo. Si tienes una idea para un producto o servicio que se enfoque en estos grupos demográficos, es un momento ideal para lanzar esto al mercado. Algo escrito o hablado puede ser el medio. Agarra pluma y papel y deja que la inspiración tome vuelo.
+Hay una interesante energía concentrándose alrededor de tu trabajo y dinero. Un aspecto favorable indica que ciertas instituciones como compañías de tarjetas de crédito o bancos están tratando de trabajar contigo para desarrollar un amplio plan de pago de deuda. Es un momento positivo para la recaudación de fondos también. Si estás tratando de deshacerte de tu deuda, este es un gran momento para intentarlo.

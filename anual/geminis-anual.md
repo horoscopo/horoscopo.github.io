@@ -2,10 +2,10 @@
 layout: page
 title: Géminis Horóscopo año nuevo 2019 
 description: Géminis horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Géminis gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Géminis/
+permalink: /horoscopo-anual/geminis/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Géminis 2019, horoscop, horóscopos gratis, horoscopo Géminis, horoscopo Géminis 2019 gratis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Géminis_anual.png
+ogimg: /images/geminis_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

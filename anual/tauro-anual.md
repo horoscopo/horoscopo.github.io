@@ -2,10 +2,10 @@
 layout: page
 title: Tauro Horóscopo año nuevo 2019 
 description: Tauro horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Tauro gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Tauro/
+permalink: /horoscopo-anual/tauro/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Tauro 2019, horoscop, horóscopos gratis, horoscopo Tauro, horoscopo Tauro 2019 gratis, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Tauro_anual.png
+ogimg: /images/tauro_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

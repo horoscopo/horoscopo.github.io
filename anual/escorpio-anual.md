@@ -2,10 +2,10 @@
 layout: page
 title: Escorpio Horóscopo año nuevo 2019 
 description: Escorpio horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Escorpio gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Escorpio/
+permalink: /horoscopo-anual/escorpio/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Escorpio 2019, horoscop, horóscopos gratis, horoscopo Escorpio, horoscopo Escorpio 2019 gratis, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Escorpio_anual.png
+ogimg: /images/escorpio_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -20,7 +20,7 @@ Tus logros, pequeños y grandes, te darán la mayor satisfacción en el 2019, y 
 Permítete tener sentimientos profundos por todo y hacia todos aquellos que amas. Tu año oficialmente comienza el 21 de Diciembre del 2015 con la Luna en el sensual Tauro y Venus en el secretamente sexy Escorpión.
 Este año, una gran cantidad de amor podría no ser expresada exteriormente. Relájate, pero presta atención. Los pequeños gestos y sugerencias serán importantes durante todo el año.
 El 2019 tiene cuatro periodos de Mercurio retrógrado. El primero de ellos en Enero y se manifestará principalmente en Escorpio. Entonces podrás hacer casi cualquier cosa de manera muy competente, y hacerla bien a la primera.
-El cuarto periodo de Mercurio retrógrado inicia a finales de Diciembre y dura a lo largo del inicio del 2019+1. Este también será en Escorpio. Eres una persona organizada, por lo que no tendrás ningún problema. ¡Termina el año tan maravillosamente como lo iniciaste!
+El cuarto periodo de Mercurio retrógrado inicia a finales de Diciembre y dura a lo largo del inicio del 2020. Este también será en Escorpio. Eres una persona organizada, por lo que no tendrás ningún problema. ¡Termina el año tan maravillosamente como lo iniciaste!
 
 ## Amor Parejas
 

@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 24 de diciembre 2018 al 30 de diciembre 2018 
-description: Horóscopo semanal virgo 24 de diciembre 2018 al 30 de diciembre 2018. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: virgo 31 de diciembre 2018 al 06 de enero 2019 
+description: Horóscopo semanal virgo 31 de diciembre 2018 al 06 de enero 2019. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar virgo porque no eres así. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: uVRiMNCmv1U
+ video: HWQB1FUStyU
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-24'
+ lastmod: '2018-12-31'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar virgo porque no eres así. 
 
-Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real virgo, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Capri. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría virgo, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
-Cuando el animado Urano se vuelve retrógrado en tu sector de comunicación a principios de esta semana, esto podría traer alteraciones a las computadoras y otros equipos de oficina. Esto es aún más probable debido a que el conversador Mercurio continúa retrógrado en tu sector de trabajo y estilo de vida. Si consideras estos dos factores, sería útil respaldar los archivos importantes y verificar que tu software antivirus esté actualizado. En lo que respecta a tus aparatos o dispositivos, lo mejor es prestar especial atención. 
-Cuando el encantador Venus ingresa a un sector más íntimo de tu carta, su presencia aquí durante las próximas semanas podría mejorar tu vida amorosa, en especial en la habitación. Si el fuego se ha apagado un poco entre ustedes, esta influencia puede sumar mucha chispa a la mezcla. 
-Tu sector de estilo de vida también se vuelve importante durante esta semana con un eclipse solar que te anima a cuidar tu bienestar más seriamente. Este es el momento perfecto para abandonar los malos hábitos y adoptar algunos que mejoren tu vida. 
+Hace mucho tiempo que no te das un buen capricho virgo, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes virgo. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
+Sientes que todo lo puedes esta semana cuando el enfoque cósmico se centra en tu signo, lo que te permite disfrutar ser quien realmente eres. No es el momento de quedarte en silencio, sino de expresar sin miedo tus necesidades, deseos, anhelos y también opiniones, por supuesto. Pero quizá sea prudente no comprometerte con una idea u oportunidad hasta el fin de semana o comienzo de la semana siguiente, cuando el panorama estelar esté mucho más estable. También tendrás una idea más clara de la situación en general.
 
 ## Dinero
 
-Esta semana es sobre la actividad que hay en tu sector de deuda. Si has estado pensando en formular un plan de pago con respecto a algunas facturas vencidas, ponlo en marcha tan pronto como puedas. Si necesitas solicitar una nueva tasa de interés en tu tarjeta de crédito, tienes el suficiente apoyo para hacerlo. El Universo insiste en que actúes y no dejes las cosas al azar. No es cosa de risa.
+Esta semana te enfrentas un momento de aumento de energía cuando se trata de auto-expresión. Alguien en tu lugar de trabajo tiene celos de ti y no puede ser capaz de manejar tu naturaleza poderosa. No importa. Te estás exponiendo hacia el mundo, lo cuál sólo puede ser positivo. Di tu verdad. Aparentemente estás destinado/a a mostrar tu profundidad y madurez, aunque otros necesiten oírlo.

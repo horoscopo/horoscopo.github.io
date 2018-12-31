@@ -2,10 +2,10 @@
 layout: page
 title: Sagitario Horóscopo año nuevo 2019 
 description: Sagitario horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Sagitario gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Sagitario/
+permalink: /horoscopo-anual/sagitario/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Sagitario 2019, horoscop, horóscopos gratis, horoscopo Sagitario, horoscopo Sagitario 2019 gratis, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Sagitario_anual.png
+ogimg: /images/sagitario_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

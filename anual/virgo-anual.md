@@ -2,10 +2,10 @@
 layout: page
 title: Virgo Horóscopo año nuevo 2019 
 description: Virgo horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Virgo gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Virgo/
+permalink: /horoscopo-anual/virgo/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Virgo 2019, horoscop, horóscopos gratis, horoscopo Virgo, horoscopo Virgo 2019 gratis, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Virgo_anual.png
+ogimg: /images/virgo_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -40,4 +40,4 @@ Además, es posible que conozcas a alguien especial en Diciembre... alguien con 
 Tu trabajo, carrera y cuestiones financieras están bajo enfoque a lo largo del 2019. El año comienza con una conjunción Sol-Plutón en Capricornio que ejerce presión e intensidad en tus planes profesionales y monetarios.
 Esa combinación también imparte enormes poder y determinación. Adopta una actitud práctica y cuidadosa hacia tus planes y posibilidades para este año, y luego, actúa práctica y pacientemente.  
 El tercer retroceso de Mercurio comienza en agosto y se manifiesta en Virgo. Mercurio, tu planeta regente, pasará tres semanas adicionales en tu signo, permitiéndote hacer cambios, correcciones y ajustes de dirección para mejorar tu situación financiera.
-El 19 de diciembre, Saturno entra a Capricornio, su signo anfitrión, y el Sol se le une el 21 de diciembre. Esto significa que los gastos navideños deberían ser manejables y los planes sabios deberían de volverse rentables para el 2019+1, el nuevo año.
+El 19 de diciembre, Saturno entra a Capricornio, su signo anfitrión, y el Sol se le une el 21 de diciembre. Esto significa que los gastos navideños deberían ser manejables y los planes sabios deberían de volverse rentables para el 2020, el nuevo año.
