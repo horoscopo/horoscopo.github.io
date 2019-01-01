@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo tauro diciembre 2018
-description: El Horóscopo diciembre de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo tauro enero 2019
+description: El Horóscopo enero de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/tauro/
 amplink: /horoscopo-mensual/amp/tauro/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo tauro diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo tauro enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
- video: jVHNpFkK770
+ video: Uw4JAD7rKL8
 
 ogimg: /images/mes/tauro_mes.png
 sitemap:
@@ -17,9 +17,8 @@ sitemap:
 ---
 
 
-Dic. de 2018 - Venus ingresa a Escorpión el 2 de diciembre. Si el amor no era profundo antes, ahora lo será. 
-Durante la luna nueva del día 6, puedes resolver un gran problema, o una complicación personal pequeña pero crucial para alguien que te quiere. Espera que te pida ayuda, pero luego sé útil y alégrate al respecto. Mercurio se torna directo también ese día. Los errores se corrigen, y las complicaciones pueden simplificarse o eliminarse. 
-Venus forma un trígono con Neptuno el 21 de diciembre. La vida se vuelve más romántica, y el romance se vuelve más idealista. Emociónate por la belleza que te rodea, pero protege tu corazón. El invierno comienza, y el sol entra a Capricornio el mismo día. Esto puede mantenerte con los pies sobre la tierra. 
-La luna llena del día 22 te trae toda la comodidad y satisfacción que hay cerca del hogar. La gente puede estar muy ocupada, pero igual hay tiempo para hacer regalos tiernos y sensibles entre amistades, y para hacer y recibir favores que hacen que esta temporada sea genial. 
-Días destacados: 2, 3, 21
-Días desafiantes: 19, 25
+Enero de 2019 - ¡Dale la bienvenida al 2019, Tauro! Cuando empiezas el año, alcanzas un punto estratégico y un logro en tu camino, que es aclarar tus objetivos más nobles a largo plazo. Luego, cuando la luna nueva en Capricornio y el eclipse se alinean el 5 de enero, puedes hacer un avance firme hacia ellos. 
+Has estado replanteando tus relaciones y ahora te han llevado a alcanzar un nuevo nivel: pedir niveles más profundos de entrega y confianza. Nunca es sabio confiar ciegamente, pero evita juzgar y mantén tu perspectiva sobre lo que se va revelando. 
+En lo profesional, estás en tu mejor momento. La luna llena en Leo y el eclipse lunar del día 20 marcan el final de una fase de 18 meses de recuperar la confianza interior, así que puedes dejar relucir tu inteligencia. Estás viendo el pasado desde una nueva perspectiva, y descubriendo lo que necesitas para tener seguridad emocional y económica, y lo que te motiva a hacer lo que haces en este mundo. Puedes tener lo que necesitas y conseguir mucho más en todos los niveles (económico, emocional, material y espiritual). No te apegues a un escenario cambiante. Valórate, ten seguridad, sabiduría y humildad, y llegarás a la cima. 
+Días destacados: 18, 22, 29 
+Días desafiantes: 11, 13, 21

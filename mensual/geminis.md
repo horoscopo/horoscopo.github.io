@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo geminis diciembre 2018
-description: El Horóscopo diciembre de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo geminis enero 2019
+description: El Horóscopo enero de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo geminis diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo geminis enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
- video: yO2e2qrzMCQ
+ video: iX4aNNmHl08
 
 ogimg: /images/mes/geminis_mes.png
 sitemap:
@@ -17,9 +17,8 @@ sitemap:
 ---
 
 
-Dic. de 2018 - Mercurio ingresa a Escorpión el 1 de diciembre. Mercurio se encuentra en su fase retrógrada, pero no por mucho más. Vigila tus pasos (y tus palabras). 
-Con la luna nueva del día 6, un amante podría tener actos de extrema generosidad, o tú podrías recibir admiradores y afecto en exceso. Sabes lo que quieres, y en qué cantidad. Mercurio se torna estacionario directo también ese día. Relájate, pero no salgas corriendo de inmediato. Date tiempo. 
-Mercurio entra a Sagitario el 12 de diciembre. Ahora, tu temporada de festividades puede subir de tono de forma segura. El día 21, el invierno comienza mientras el sol entra al serio Capricornio. Mercurio forma una conjunción con Júpiter el mismo día. Piensa en grande, pero actúa con cuidado y compasión. La generosidad moderada de hoy trae cosas buenas para el futuro. 
-No pidas nada durante la luna llena del 22 de diciembre, y recibirás más de lo que puedes imaginar. Concéntrate en lo que hace falta hacer. Recibirás lo que necesitas y lo que quieres (y más). 
-Días destacados: 6, 12, 21
-Días desafiantes: 13, 24
+Enero de 2019 - ¡Dale la bienvenida al 2019, Géminis! La vida está evolucionando profundamente, y tú estás cruzando un umbral. Pero no puedes entrar al futuro si tienes las manos cargadas con el pasado, así que no tengas miedo de cortar por lo sano donde sea necesario. 
+Júpiter entró a Sagitario a finales del año pasado, y cuando Venus se une a Júpiter este mes, tus relaciones tienen mucho para ofrecerte a nivel creativo, emocional, sexual y económico. Pero primero, debes ir más allá de tus apegos materiales a la apariencia física, sexo, dinero, éxito, matrimonio, y compromiso (en especial aquellos que has heredado de la sociedad y de tus padres) para preguntarte qué es lo que realmente será importante al final de tu vida. Luego podrás profundizar e invertir en aquellas conexiones que traigan beneficios mutuos y que compartan tus valores. 
+Cuando la luna llena en Leo y el eclipse lunar se alinean en tu casa de comunicación, estarán recuperando información, aclarando cosas, y ofreciendo una nueva perspectiva sobre una situación en la que te has estancado. Actúa con honestidad, y podrás calmar las aguas y estar en la misma página que los demás. Existe el amor verdadero en tu mundo, al menos una amistad en la que puedes confiar. Suelta el pasado y ten fe. Ya eres libre. 
+Días destacados: 4, 22, 29 
+Días desafiantes: 8, 13, 18 

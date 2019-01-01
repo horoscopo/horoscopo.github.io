@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo libra diciembre 2018 
+title: Horoscopo libra enero 2019 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
- video: 5XhVtXEnxcw
+ video: QoN8Pc43u_4
 
 ogimg: /images/libra_char.png
 sitemap:
@@ -15,9 +15,8 @@ sitemap:
 ---
 
 
-Dic. de 2018 - Venus ingresa a Escorpión el 2 de diciembre. Las dificultades pendientes de relaciones que dejó Venus retrógrado pueden resolverse ahora. Aunque tal vez sea mejor no replantear causas perdidas. 
-Pasa más tiempo en tu vecindario con amistades durante la luna nueva del día 6. Tal vez sea tan divertido que no querrás ir a ningún otro lugar. Si tu temporada de festividades comienza temprano, sé feliz. Mercurio se torna estacionario directo también ese día. Dale tiempo a los demás para volver a organizarse. 
-El trígono entre Venus y Neptuno del 21 de diciembre le agrega un poco de magia a una temporada de festividades que ya es mágica. Puede que el fulgor no dure mucho, así que disfruta. El sol entra a Capricornio también ese día, y comienza el invierno. 
-La luna llena del día 22 te mantiene en el centro de atención en el trabajo y entornos sociales. Ahora también tienes grandes reflexiones como figura de autoridad, así que haz lo que sea necesario, y hazlo bien a la primera. 
-Días destacados: 2, 3, 28
-Días desafiantes: 5, 19
+Enero de 2019 - ¡Dale la bienvenida al 2019, Libra! A medida que enero comienza, te enfocas en asuntos de seguridad, hogar, familia y relaciones domésticas. ¿Cómo fue tu infancia? ¿Cómo fue tu relación con tu padre? ¿Cuál era su idea de seguridad? Confronta el pasado para que no deje una huella sombría en todo lo que es esperanzador en el presente. 
+El 5 de enero, la luna nueva en Capricornio y el eclipse solar marcan el comienzo de una fase de 18 meses de cerrar viejos capítulos, plantar semillas, y sentar las bases para una nueva vida. Enfócate en tu visión más optimista y mantén la mente abierta. 
+Cuando la luna llena en Leo y el eclipse lunar se alinean el día 20, se presenta una situación social, y podrías sorprenderte por tus propios sentimientos y deseos. Estás dando un giro a una relación, y ahora puedes dejar atrás un pasado doloroso. Actúa con honestidad contigo y con los demás. Mantén tu perspectiva, y podrás liberarte y crear una realidad más esperanzadora. Tus amistades, colegas, y el universo están todos escuchando, y te apoyan. Supera tu orgullo. Sé amable y actúa con honestidad. Pide, y ábrete a recibir. 
+Días destacados: 4, 22, 29 
+Días desafiantes: 5, 8, 21

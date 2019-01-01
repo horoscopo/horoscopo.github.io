@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo cancer diciembre 2018 
+title: Horoscopo cancer enero 2019 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: oMAyMYol4qk
+ video: Sv9kxw46QkU
 
 ogimg: /images/cancer_char.png
 sitemap:
@@ -15,9 +15,8 @@ sitemap:
 ---
 
 
-Dic. de 2018 - La cuadratura entre el sol y Neptuno del 5 de diciembre puede sensibilizar a la gente a sentir una desdicha imaginaria. Sé paciente y ten compasión, en especial contigo. 
-El trabajo diario y la rutina llegan al centro de atención con la luna nueva del día 6. Encontrarás gran satisfacción en las tareas mundanas y poco estresantes que te mantienen feliz y con los pies sobre la tierra mientras la temporada de festividades se intensifica. Mercurio se torna estacionario directo también ese día. Puedes preocuparte mucho por un asunto, pero podría ser demasiado pronto para corregir un malentendido. Date tiempo. 
-El trígono que Venus forma con Neptuno el 21 de diciembre llena de optimismo la situación más difícil. Puede ser un día hermoso. También es el primer día de invierno, cuando el sol entra a Capricornio. Recibe con gratitud una mayor estabilidad. 
-La luna llena del día siguiente te pone en una posición de poder. Ten un firme control sobre las festividades, y haz feliz a la gente que más te quiere. Será menos trabajo de lo que piensas. 
-Días destacados: 13, 16, 22
-Días desafiantes: 15, 28
+Enero de 2019 - ¡Dale la bienvenida al 2019, Cáncer! Diciembre trajo una luna llena en tu signo, lo que te pidió aclarar tus necesidades en tus relaciones. A medida que enero comienza, tómate el tiempo para discernir dónde necesitas poner límites más firmes y dónde necesitas bajar la guardia. 
+La luna nueva y el eclipse solar en Capricornio marcan el comienzo de una nueva fase de 18 meses de transformación, lo que te permite profundizar en relaciones sanas donde haya apoyo, cariño, respeto y cuidado mutuo. En lo profesional, te sientes a toda marcha y tu trabajo está siendo reconocido. Pero mantén tu humildad y dale crédito a quien lo merece. Tener éxito a costa de los demás es como cortar la rama en la que te sientas. 
+El 20 de enero, la luna llena en Leo y el eclipse lunar iluminan un asunto económico o de relaciones. Abandona las luchas por el poder, mantente fiel a tus valores, y no te apegues a una situación cambiante. Puedes tener la seguridad emocional y económica que deseas, pero tu mayor recompensa será vivir lo mejor que puedas, y seguir tu destino mientras haces de este mundo un lugar mejor. Eso no tiene precio. Ahora más que nunca, recibirás lo que das. 
+Días destacados: 15, 22, 30 
+Días desafiantes: 5, 11, 21

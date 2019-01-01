@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo piscis diciembre 2018 
+title: Horoscopo piscis enero 2019 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
- video: Gv1QB8UU1Qk
+ video: YNj1zwPVeQw
 
 ogimg: /images/piscis_char.png
 sitemap:
@@ -15,9 +15,8 @@ sitemap:
 ---
 
 
-Dic. de 2018 - Con la luna nueva del 6 de diciembre, deja que las próximas festividades hagan su magia para ti en tu profesión o imagen pública. Si hay algo específico que hayas estado deseando que suceda, dale la oportunidad de manifestarse y aparecer frente a tus ojos. Mercurio se torna estacionario directo también ese día. Los malentendidos pueden perdurar, pero los apuros o complicaciones comienzan a perder su influencia. 
-La conjunción entre Marte y Neptuno del 7 de diciembre te abre la puerta a un sueño mayor, mejor y más posible. Haz que suceda si puedes. 
-El trígono entre Venus y Neptuno el día 21 hacen que la hermosa temporada de festividades sea incluso más bella. Mercurio forma una conjunción con Júpiter también ese día. Piensa (y actúa) de una forma bella y brillante. 
- La luna llena del 22 de diciembre te permite ser muy sensible sin volverte vulnerable. Remarca físicamente lo que alguien quiere y necesita pero no puede expresar abiertamente. Disfruta de pasar tiempo con alguien que quiere darte ánimos. Le alegrará el día. 
-Días destacados: 2, 9, 19
-Días desafiantes: 24, 27
+Enero de 2019 - ¡Dale la bienvenida al 2019, Piscis! Mientras el año comienza, un viejo sueño parece desaparecer, pero también hay nuevas puertas que se abren. Entonces, ¿qué objetivos, sueños y aspiraciones quieres que se vuelvan realidad este año, tanto a nivel personal como profesional? 
+La luna nueva en Capricornio y el eclipse solar del 5 de enero te piden alinearte con una visión más grande y una ambición altruista. Tienes una reputación por algo. Si es buena o mala no es de tu incumbencia. No todo el mundo va a quererte todo el tiempo, y siempre habrá pesimistas. Lo que importa es que practiques lo que predicas, da el ejemplo, y mantente fiel a tus valores. Evita las comparaciones o entrar en una carrera de locos de la que no puedes salir. Tus talentos y habilidades se notan, y darán sus frutos. 
+Ha sido un largo camino para llegar a donde estás ahora, y estás dando un giro a una situación social difícil. Esto no se trata del éxito, sino de tu legado y regalo para el mundo. Ten más fe en ti y en tus habilidades. Y recuerda que solo la humildad lleva a la verdadera grandeza. 
+Días destacados: 18, 22, 25 
+Días desafiantes: 11, 13, 21

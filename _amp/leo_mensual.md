@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo leo diciembre 2018 
+title: Horoscopo leo enero 2019 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
- video: iI6M-8T5V9E
+ video: mwNflW5iavQ
 
 ogimg: /images/leo_char.png
 sitemap:
@@ -15,9 +15,8 @@ sitemap:
 ---
 
 
-Dic. de 2018 - La cuadratura entre el sol y Marte del 2 de diciembre puede generar un comienzo difícil para el mes, pero tú puedes enfrentarte a cualquier cosa que intente alterar tus planes. Tal vez no estás de acuerdo con algo, pero hazlo con amabilidad si puedes. 
-Ponte a crear y jugar durante la luna nueva del día 6. Tienes ideas y planes que pueden levantar el ánimo de las celebraciones de todos. Mercurio se torna estacionario directo también ese día. Haz una pausa, y deja que las cosas se arreglen a su propio ritmo. 
-El sol forma un trígono con Urano el 20 de diciembre, y esto te permite sorprender a una persona especial con un regalo o invitación perfecta y agradable. El sol entra a Capricornio, y el invierno comienza al día siguiente. Sienta cabeza y disfruta de una calma seria y constructiva. 
-Déjate llevar más por tu propia luz interna durante la luna llena del día 22. No te estás volviendo una persona ermitaña. En cambio, te estás volviendo más sensible, y tienes una mayor receptividad a la paz y quietud que la gente necesita, pero por lo general ignora. 
-Días destacados: 7, 20, 21
-Días desafiantes: 2, 5
+Enero de 2019 - ¡Dale la bienvenida al 2019, Leo! Has tenido que superar tus inseguridades durante el año pasado, y ahora te preparas para una nueva aventura. Pero primero, a medida que enero comienza, haz un balance de tu vida, y deja atrás los hábitos, trabajos, rutinas o estilos de vida que ya no te sirven. 
+El 5 de enero, la luna nueva en Capricornio y el eclipse solar marcan el comienzo de una fase de 18 meses de construir la vida que sueñas. “Trabaja duro, diviértete mucho” parece ser tu lema de este mes. Pero también dale prioridad a tu salud (mental, emocional, física y espiritual), porque sin ella no tienes nada. 
+El día 20, la luna llena en Leo y el eclipse sugieren que veas a alguien o algo con nuevos ojos. Reconoce tus sentimientos, pero mantén tu perspectiva y enfócate en un objetivo común (y pasión) que comparten. Aunque te sientas vulnerable al quitarte la máscara, el verdadero riesgo sería dejar pasar una oportunidad de ser feliz. Atrévete a actuar con honestidad, pedir lo que necesitas, compartir el amor que sientes, y no te preocupes tanto por lo que obtienes a cambio. En las palabras de Maya Angelou, “El amor libera”. 
+Días destacados: 4, 22, 25 
+Días desafiantes: 5, 11, 21 

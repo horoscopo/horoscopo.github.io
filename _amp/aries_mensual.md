@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
- video: yiGpk1wvaiU
+ video: Ib23S_wy6Cw
 
 ogimg: /images/aries_char.png
 sitemap:

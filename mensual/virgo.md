@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo virgo diciembre 2018
-description: El Horóscopo diciembre de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo virgo enero 2019
+description: El Horóscopo enero de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo virgo diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo virgo enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
- video: 1PqT38lG4eI
+ video: C7g0B9rMld8
 
 ogimg: /images/mes/virgo_mes.png
 sitemap:
@@ -17,8 +17,8 @@ sitemap:
 ---
 
 
-Dic. de 2018 - Mercurio retrógrado ingresa a Escorpión el 1 de diciembre. Tómate las cosas con mucha calma, y sé feliz. La vida en el hogar se vuelve más brillante, feliz y cómoda con la luna nueva del día 6. Siéntete a salvo y a gusto en tu propio espacio. Ordena un poco, y vuelve a descubrir el paraíso en el que vives. Mercurio se torna directo también ese día. Los malentendidos triviales e insignificantes no se acabarán de inmediato, pero comenzarán a disminuir. 
-El 12 de diciembre, Mercurio entra a Sagitario. Siente el espíritu de las festividades, y diviértete más. Mercurio forma una conjunción con Júpiter el día 21, el mismo día que el sol entra a Capricornio y el invierno comienza. Todas las sugerencias e ideas que tengas serán apropiadas y agradables para todos. 
-Atraviesa con elegancia todas las reuniones de las festividades durante la luna llena del 22 de diciembre. Otras personas brindarán la hospitalidad, así que todo lo que debes hacer es ir y lucir espectacular. Resuelve una gran duda cuando Mercurio forma una cuadratura con Neptuno el día 24. 
-Días destacados: 6, 10, 21
-Días desafiantes: 24, 29
+Enero de 2019 - ¡Dale la bienvenida al 2019, Virgo! A medida que el año comienza, la vida te está sacando de tu zona de confort. Ve más allá de tu resistencia, y ten una honestidad brutal contigo sobre lo que quieres, y no lo que crees que esperan de ti. 
+La luna nueva en Capricornio y el eclipse solar del 5 de enero marcan el comienzo de una fase de 18 meses de remover las falsas capas para redescubrir tu niño o niña interior, que siempre ha tenido sabiduría más allá de sus años. 
+Cuando la luna llena en Leo y el eclipse lunar se alinean el día 20, encuentra el tiempo para estar a solas, meditar y hacer una introspección, y presta atención a un sueño que nace dentro de ti. Puedes crear y vivir una vida que te llene de pasión y propósito todos los días, con relaciones de cariño que toquen no solo tu corazón sino también tu alma, pero tienes que atreverte a reconocerlo y aceptarlo. Líbrate del pasado de una forma consciente. Hay muchos tesoros para encontrar en el presente. Tienes uno a tus pies, y tienes un verdadero sentido de compañerismo y buenos momentos en el hogar. Ya estás viviendo el sueño. Enumera tus bendiciones, y podrás ver que eres una persona muy afortunada. 
+Días destacados: 4, 22, 29 
+Días desafiantes: 8, 13, 18

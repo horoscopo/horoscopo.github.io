@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo sagitario diciembre 2018 
+title: Horoscopo sagitario enero 2019 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
- video: urel5lQMEoQ
+ video: o2ANYg17dQY
 
 ogimg: /images/sagitario_char.png
 sitemap:
@@ -15,8 +15,8 @@ sitemap:
 ---
 
 
-Dic. de 2018 - La luna nueva del 6 de diciembre puede ser un momento glorioso y afortunado. Espera recibir invitaciones a fiestas en todas partes. Tal vez quieras organizar una fiesta por tu cuenta. Da un paso al frente, y sé sociable a lo grande. Mercurio se torna directo también ese día. No te apresures en arreglar todo de una vez. 
-Mercurio entra a Sagitario el día 12. Enfócate con facilidad en las preparaciones y agendas para las festividades. Que aumente tu espíritu festivo, y diviértete más durante la temporada. Mercurio forma una conjunción con Júpiter el 21 de diciembre, que también es cuando comienza el invierno y el sol entra a Capricornio. La lista de tareas más larga no será un obstáculo para ti. 
-Incluso si te rodeas de gente durante la luna llena del día 22, serás capaz de identificar los lugares donde puedes hacer una gran diferencia para alguien especial. Tus habilidades sociales y de observación se agudizan ahora. Al igual que tu instinto e intuición. Úsalos todos. 
-Días destacados: 6, 12, 21
-Días desafiantes: 20, 27
+Enero de 2019 - ¡Dale la bienvenida al 2019, Sagitario! Tu regente, Júpiter, está en tu signo, y este año te encuentras en un camino de autodescubrimiento. Mientras enero comienza, Marte está encendiendo el fuego en tu casa del amor, romance, creatividad, niños, y niño o niña interior, lo que te motiva a actuar con espontaneidad y correr riesgos. Tienes más años y más sabiduría, pero no necesitas perder tu pasión o curiosidad. Mantente fiel a tu integridad, y no necesitarás preocuparte por cruzar límites. 
+El 5 de enero, la luna nueva y el eclipse en Capricornio dan comienzo a una fase de 18 meses de crecimiento en tu seguridad emocional y económica. Busca tus valores en lo más profundo de tu ser, valórate, e invierte en conexiones mutuamente benéficas que compartan tus valores. 
+Cuando la luna llena en Leo y el eclipse se alinean el día 20, mantén tu perspectiva sobre todo lo que se está revelando. Estás aprendiendo cosas que revelan una nueva forma de avanzar. Estás lejos de encontrarte en un callejón sin salida: tienes muchas opciones. Mantén tu creatividad y tu mente abierta, y ve detrás de tu visión más esperanzadora. Cuando Venus encuentra a Júpiter el 22 de enero, dale una oportunidad a tu corazón, y podría dar muchos frutos. 
+Días destacados: 18, 22, 25 
+Días desafiantes: 5, 11, 13
