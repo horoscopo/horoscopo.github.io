@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: libra 31 de diciembre 2018 al 06 de enero 2019 
-description: Horóscopo semanal libra 31 de diciembre 2018 al 06 de enero 2019. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: libra 07 de enero 2019 al 13 de enero 2019 
+description: Horóscopo semanal libra 07 de enero 2019 al 13 de enero 2019. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo libra, se llama dignidad. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: E0liF3XzHdo
+ video: 0AXmNBBhPZU
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-31'
+ lastmod: '2019-01-07'
 ---
 
 
 
-## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo libra, se llama dignidad. 
 
-Sólo hace falta que tu mente haga click libra, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
-Si has tenido problemas con tus finanzas o ciertos asuntos empresariales, las cosas podrían empezar a mejorar cuando Júpiter comience a avanzar desde el lunes. Si cierto monto de dinero se ha retrasado por la razón que sea, deberías escuchar noticias que confirmen que se encuentra en camino. También te percatarás de que cierto enfoque en tu sector hogareño te anima a decorar, eliminar el desorden y poner tu lugar en óptimas condiciones. Tu vida social debería ser divertida y un secreto deseado que has albergado por un tiempo podría hacerse realidad.
+A veces te confundes libra, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso libra. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. libra, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo libra, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+Cuando el sol está en el sector superior de tu carta, esta es la ocasión para avanzar en tu carrera o negocio. Aprovechar toda oportunidad para demostrar tus capacidades y hacer que los demás te tengan en cuenta puede ayudarte a avanzar de la forma que deseas y que mereces. Si tienes la posibilidad de dar una presentación o de tener una charla informal con personas influyentes, aprovecharla te dará más exposición. La realidad de todo esto es que también deberás trabajar arduamente. 
+  La semana pasada, puede que hayas hecho heroicos esfuerzos para demostrar tu capacidad y, con suerte, te estás beneficiando de esto. Aun así, cuando el planeta maestro Saturno y el transformador Plutón están retrógrados en tu sector de estilo de vida, puede que una parte de ti se esté preguntando si te estás perdiendo de algo en esta vida. Encontrar tu verdadera pasión podría convertirse en algo muy importante para ti en las próximas semanas y meses.   
 
 ## Dinero
 
-Es posible que hayas estado tratando de encontrar la manera de recaudar dinero para un nuevo negocio, y ahora podría ser posible. Este es un buen momento para hacer cualquier pago final que tengas que hacer al mismo tiempo que buscas maneras de conectar con posibles inversionistas. Los esfuerzos de recaudación de fondos deben incluir un componente de marketing en línea.
+Esta semana tienes actividad en tu sector de dinero en efectivo. Eres capaz de cambiar la manera en la que ganas dinero, así como la cantidad. Pensar un poco más en lo que tu tiempo vale te ayudará a decidir cuánto cobrarle a tus clientes ahora. Al mismo tiempo, tu carrera está cambiando. Es hora de emplear nuevas técnicas de reducción de estrés.

@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 31 de diciembre 2018 al 06 de enero 2019 
-description: Horóscopo semanal tauro 31 de diciembre 2018 al 06 de enero 2019. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+title: tauro 07 de enero 2019 al 13 de enero 2019 
+description: Horóscopo semanal tauro 07 de enero 2019 al 13 de enero 2019. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: 4FnTOIPQwXg
+ video: jVdc1Xjme50
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-31'
+ lastmod: '2019-01-07'
 ---
 
 
 
-## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 
-Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
-Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
-Cuando el incansable Mercurio ingresa a tu sector de viajes y lejanos horizontes el martes, puede que te pique el bichito de los viajes y que despegues de un momento a otro. Sin embargo, debido al cambio de enfoque hacia tu sector de metas y carreras, también tendrás la posibilidad de mostrar tus habilidades y de establecer prometedoras conexiones. 
-Hay un poderoso enfoque en tu sector de negocios y finanzas hasta el 21 de junio, por lo que los próximos siete días más o menos podrían encontrarte explorando formas de invertir tus recursos de manera más inteligente. Esto puede significar cancelar cualquier deuda y hacer un presupuesto para incrementar tus ahorros. La luna nueva en este mismo sector a mitad de semana podría ayudarte a iniciar este proceso inspirándote a establecer metas y a cumplirlas rápidamente. Sin embargo, trata de ser paciente el viernes, ya que una conversación clave podría no salir según los planes.
+A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez tauro. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona tauro, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
+El lunes, el deseo de aventura y de visitar nuevos lugares podría aumentar a medida que el Sol entra a tu sector de viajes y exploración. De hecho, el fin de semana podría acentuar oportunidades que tendrás ansias de aprovechar. No te sorprendas si un inesperado evento amenaza con sabotear tus planes durante la segunda mitad de la semana. Conforme Marte enlaza con Saturno y Neptuno, una idea cuidadosamente orquestada podría desmoronarse. Si vas con la corriente, algo mejor podría ser el resultado.
 
 ## Dinero
 
-Hay una interesante energía concentrándose alrededor de tu trabajo y dinero. Un aspecto favorable indica que ciertas instituciones como compañías de tarjetas de crédito o bancos están tratando de trabajar contigo para desarrollar un amplio plan de pago de deuda. Es un momento positivo para la recaudación de fondos también. Si estás tratando de deshacerte de tu deuda, este es un gran momento para intentarlo.
+Te enfrentas a un período maravilloso y prometedor con el apoyo de tu sector de viajes, educación superior, y metafísica. La suerte sumada a grandes ideas y transformación significa que eres capaz de hacer mucho más dinero en campos como el derecho, la edición, la escritura, y hacerte de renombre en el extranjero también. Piensa cómo podrías llevar tu mensaje a un público más amplio y el dinero te llegará.

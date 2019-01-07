@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 31 de diciembre 2018 al 06 de enero 2019 
-description: Horóscopo semanal virgo 31 de diciembre 2018 al 06 de enero 2019. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: virgo 07 de enero 2019 al 13 de enero 2019 
+description: Horóscopo semanal virgo 07 de enero 2019 al 13 de enero 2019. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: JlMmtS9MDmU
+ video: YLHe_E4OQWo
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2018-12-31'
+ lastmod: '2019-01-07'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 
-Eres demasiado honesto con el resto virgo y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Capri, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
-Suceden muchas cosas en una de las áreas más misteriosas de tu carta astral, donde la alineación actual podría potenciar la intimidad y quizás llevarte a explorar formas inusuales y emocionantes de satisfacer a tu amor. Abrirte y ser vulnerable podría ser muy bueno para ti. También es una oportunidad para soltar el resentimiento oculto y así experimentar sensaciones de liviandad y paz. Los asuntos profesionales también reciben un impulso, pero deberás tener cuidado con los asuntos monetarios esta semana.
+Llevabas un ritmo un poco alocado virgo, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate virgo, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más virgo, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
+Mirar bajo la superficie puede ayudarte a comprender las sutiles corrientes que conforman una situación o relación clave. Y mientras tanto, algunas introspecciones clave podrían permitirte que des un cierre o encuentres una forma de afrontar alguna situación específica de una vez por todas. Tu innata habilidad para llegar al fondo de una cuestión puede resultarte muy útil ahora. Por otro lado, aunque tal vez quieras derrochar en compras, algunas influencias clave sugieren que te guardes tu dinero por el momento.
 
 ## Dinero
 
-Tienes cierta actividad en tu sector de trabajo ahora, lo que significa que se te está pidiendo realizar una gran cantidad de tareas. Debido a que esta casa también rige tu salud, trata de no exagerar o de lo contrario tu salud podría verse afectada. Está seguro que habrá algo de tensión esta semana. Acude a los viajes y al aprendizaje de nuevas ideas para desahogarte.
+Tienes toneladas de nueva energía para darles una impresión positiva a todos los que conoces. Es un buen momento para programar una entrevista de trabajo o hacer presentaciones para hacerle más publicidad a tus productos y servicios. El Universo pone más atención en el romance, los niños y la familia. Mientras más utilices tu personalidad para impresionar a los demás, mejor será la situación financiera de la gente que realmente te importa.
