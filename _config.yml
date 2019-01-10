@@ -48,6 +48,8 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-1336963-12
 
+googletagmanager: GTM-P6SJGKM
+
 # Enter your Google Adsense code to activate monetize
 adsense: ca-pub-7033627990045927
 
