@@ -1,0 +1,8 @@
+---
+layout: null
+sitemap:
+ exclude: 'yes'
+--- 
+{
+  "gcm_sender_id": "{{ site.messagingSenderId }}"
+}
