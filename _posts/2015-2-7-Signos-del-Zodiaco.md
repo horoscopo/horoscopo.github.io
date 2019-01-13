@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de enero 2019
-description: Horóscopos del dia de hoy 12 de enero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de enero 2019
+description: Horóscopos del dia de hoy 13 de enero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-01-12
+ lastmod: 2019-01-13
 ---
-Es difícil tener una perspectiva clara desde la mañana hasta la tarde. Concentrarse sólo en una cosa no funciona - hay que enfocarse en un contexto más amplio. Esta noche, la ley de la atracción funciona bajo el sextil entre la Luna y Marte. El desafío viene con la cuadratura formada por Saturno que sugiere inicios con nada más que química física.
+A veces el día parece ser demasiado largo. Hoy es uno de esos días en los que el tiempo parece extenderse. ¡Cuidado! No cedas a la tentación de operar en piloto automático. La Luna Nueva aspectando a Marte en Piscis a las altas horas de la noche provocando algún tipo de acción que podría venir directamente del corazón y las emociones.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
