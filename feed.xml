@@ -4,11 +4,12 @@ sitemap:
  exclude: 'yes'
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:content=”http://purl.org/rss/1.0/modules/content/” xmlns:webfeeds=”http://webfeeds.org/rss/1.0″ version="2.0">
   <channel>
     <title>{{ site.name | xml_escape }}</title>
     <description><![CDATA[{{ site.description }}]]></description>
     <link>{{ site.url }}</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }} </lastBuildDate>
     {% if site.favicon %}
     <image>
@@ -17,10 +18,16 @@ sitemap:
         <title>{{ site.name | xml_escape }}</title>
     </image>
     {% endif %}
+    <webfeeds:cover image="{{ '/images/horoscopo.png' | prepend: site.baseurl | prepend: site.url }}" />
+    <webfeeds:icon>{{ "/images/logo.svg" | prepend: site.baseurl | prepend: site.url }}</webfeeds:icon>
+    <webfeeds:logo>{{ "/images/logo.svg" | prepend: site.baseurl | prepend: site.url }}</webfeeds:logo>
+    <webfeeds:accentColor>F0FF00</webfeeds:accentColor>
+    <webfeeds:related layout="card" target="browser"/>
     {% for post in site.posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description><![CDATA[{{ post.content }}]]></description>
+        <description>{% if page.ogimg %}
+     <img src="{{ page.ogimg | prepend: site.baseurl | prepend: site.url  }}" alt="Smiley face" height="315" width="600" class="webfeedsFeaturedVisual">{% endif %}<![CDATA[{{ post.content }}]]></description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ site.url }}{{ post.url }}</link>
         <guid isPermaLink="false">{{ site.url }}{{ post.url }}{{ post.date }}</guid>
