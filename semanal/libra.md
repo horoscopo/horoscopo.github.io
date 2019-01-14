@@ -1,29 +1,30 @@
 ---
 layout: horoscopos
-title: libra 07 de enero 2019 al 13 de enero 2019 
-description: Horóscopo semanal libra 07 de enero 2019 al 13 de enero 2019. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo libra, se llama dignidad. 
+title: libra 14 de enero 2019 al 20 de enero 2019 
+description: Horóscopo semanal libra 14 de enero 2019 al 20 de enero 2019. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: 0AXmNBBhPZU
+ video: laun4Z3wgNo
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-01-07'
+ lastmod: '2019-01-14'
 ---
 
 
 
-## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo libra, se llama dignidad. 
+## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 
-A veces te confundes libra, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso libra. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. libra, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo libra, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
-Cuando el sol está en el sector superior de tu carta, esta es la ocasión para avanzar en tu carrera o negocio. Aprovechar toda oportunidad para demostrar tus capacidades y hacer que los demás te tengan en cuenta puede ayudarte a avanzar de la forma que deseas y que mereces. Si tienes la posibilidad de dar una presentación o de tener una charla informal con personas influyentes, aprovecharla te dará más exposición. La realidad de todo esto es que también deberás trabajar arduamente. 
-  La semana pasada, puede que hayas hecho heroicos esfuerzos para demostrar tu capacidad y, con suerte, te estás beneficiando de esto. Aun así, cuando el planeta maestro Saturno y el transformador Plutón están retrógrados en tu sector de estilo de vida, puede que una parte de ti se esté preguntando si te estás perdiendo de algo en esta vida. Encontrar tu verdadera pasión podría convertirse en algo muy importante para ti en las próximas semanas y meses.   
+Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
+ Tienes que acabar de una vez con todo libra.
+La presencia del sol en tu sector de estilo de vida puede echar luz sobre hábitos que hayan dejado de ser útiles. Si el eclipse solar de la semana pasada te animó a considerar hacer algunos cambios radicales, los próximos días podrían ayudarte a reflexionar e investigar tus opciones, para poder encontrar soluciones que se adapten a tus necesidades. 
+El conversador Mercurio en tu sector de relaciones sugiere que sigas hablando. Las nuevas perspectivas pueden ayudarte a pensar de otra manera y considerar ideas que, de otro modo, nunca hubieras conocido. El ingreso del sol a tu sector de relaciones el domingo ilumina esta área y pone de relieve amistades y sociedades clave. Las próximas cuatro semanas pueden darte la oportunidad de colaborar en un plan o proyecto, y de llevar una importante relación a otro nivel. Además, el fin de semana alguien puede ofrecerte una oportunidad que resulte muy lucrativa. 
 
 ## Dinero
 
-Esta semana tienes actividad en tu sector de dinero en efectivo. Eres capaz de cambiar la manera en la que ganas dinero, así como la cantidad. Pensar un poco más en lo que tu tiempo vale te ayudará a decidir cuánto cobrarle a tus clientes ahora. Al mismo tiempo, tu carrera está cambiando. Es hora de emplear nuevas técnicas de reducción de estrés.
+Tienes una gran cantidad de energía para conseguir un gran apoyo esta semana. Si has estado pensando en iniciar tu propio negocio, esta es una época maravillosa para darle vida a tus ideas. El énfasis está en la estructura, así que asegúrate de que la tuya sea muy fuerte. Si no sabes cuáles son los primeros pasos, consulta la información disponible para pequeñas empresas. Y si buscas en tus relaciones más cercanas, podrás ver que siempre tuvieron todas las respuestas.

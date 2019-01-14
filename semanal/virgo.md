@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 07 de enero 2019 al 13 de enero 2019 
-description: Horóscopo semanal virgo 07 de enero 2019 al 13 de enero 2019. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+title: virgo 14 de enero 2019 al 20 de enero 2019 
+description: Horóscopo semanal virgo 14 de enero 2019 al 20 de enero 2019. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: YLHe_E4OQWo
+ video: 8hRdwW2FRR4
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-01-07'
+ lastmod: '2019-01-14'
 ---
 
 
 
-## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 
-Llevabas un ritmo un poco alocado virgo, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate virgo, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más virgo, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
-Mirar bajo la superficie puede ayudarte a comprender las sutiles corrientes que conforman una situación o relación clave. Y mientras tanto, algunas introspecciones clave podrían permitirte que des un cierre o encuentres una forma de afrontar alguna situación específica de una vez por todas. Tu innata habilidad para llegar al fondo de una cuestión puede resultarte muy útil ahora. Por otro lado, aunque tal vez quieras derrochar en compras, algunas influencias clave sugieren que te guardes tu dinero por el momento.
+Al final, sólo te lamentarás de las posibilidades que no tomaste virgo así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo virgo. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+Tus amistades parecen unirse a tu causa. Este es un excelente momento para colaborar con una persona o grupo en una idea que es importante para ti. En cuanto a tu vida familiar, podrías estar experimentando un poco de fricción. Para sacarle el máximo provecho a la semana por venir, considera si es posible que obstinadamente te estés negando a cambiar tu perspectiva. Si bien no es agradable tener que admitirlo, es posible que te percates de que cambiar tu postura, aunque sea un poco, puede hacer una diferencia positiva.
 
 ## Dinero
 
-Tienes toneladas de nueva energía para darles una impresión positiva a todos los que conoces. Es un buen momento para programar una entrevista de trabajo o hacer presentaciones para hacerle más publicidad a tus productos y servicios. El Universo pone más atención en el romance, los niños y la familia. Mientras más utilices tu personalidad para impresionar a los demás, mejor será la situación financiera de la gente que realmente te importa.
+Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.

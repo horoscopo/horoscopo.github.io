@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 07 de enero 2019 al 13 de enero 2019 
-description: Horóscopo semanal cancer 07 de enero 2019 al 13 de enero 2019. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+title: cancer 14 de enero 2019 al 20 de enero 2019 
+description: Horóscopo semanal cancer 14 de enero 2019 al 20 de enero 2019. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: BCNdO_4IP9w
+ video: U35QH9OlJFM
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-01-07'
+ lastmod: '2019-01-14'
 ---
 
 
 
-## Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 
-Los finales no significan que hayas fallado en algo cancer, los finales a veces sirven para abrir nuevas puertas a algo. cancer, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza cancer…
-Es posible que sientas que estás jugando con una compra esta semana. Seguir adelante o no depende de cuánto tienes que perder. Sin importar cuánto quieras este objeto o experiencia, es útil escuchar al sentido común y ver cómo esta compra entra dentro de tu presupuesto. Si es probable que haya dificultades, tal vez ahorrar para hacer la compra más adelante sería la mejor opción. Si tus emociones se entrometen en tu decisión y haces la compra, guarda el papeleo y los recibos para que puedas recibir un reembolso, si fuera necesario. 
- El armonioso Venus ingresa a tu sector de relaciones el martes, lo que puede ayudar a suavizar cualquier problema que hayas tenido con los demás. También puede proporcionarle una energía adicional a tu panorama social, haciéndolo más vibrante y divertido. Reflexiona sobre tus sueños el domingo, porque la luna llena en tu sector espiritual sugiere que podrían ser una especial guía para ti.    
+A veces dejar ir las cosas es mucho más complicado de lo que piensas cancer. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad cancer, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres cancer. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero cancer, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. cancer, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
+Si has estado buscando una forma de librarte de demasiadas responsabilidades, esta podría ser tu oportunidad. Con Saturno en tu signo y vinculándose con Urano, una idea de negocios podría cambiar tu vida de manera positiva y darte también la libertad que tanto deseas. La Luna Nueva del 28 de diciembre podría ser una señal para que reestructures tus finanzas y planifiques un presupuesto estructurado para el 2017. Si has estado posponiéndolo, ahora es el momento de hacerlo.
 
 ## Dinero
 
-Esta semana trae una maravillosa combinación de energías conforme consideras cual será tu siguiente movimiento en el mundo de los negocios y las finanzas. Los aspectos son especialmente positivos y armoniosos, por lo que es posible que te percates de que otros gravitan hacia ti por asesoramiento o asociaciones de un tipo u otro. El Universo te proporciona impulso para tomar acción, ¡por lo que planifica en consecuencia y toma acción! Tu carrera podría usar un poco de atención ahora.
+Puede que estés a punto de cambiar de empleo o ascender de posición. No es sólo que el puesto te llame la atención, es el salario que viene junto con él. Da rienda suelta a tu ambición de forma gratuita siempre y cuando tengas al sartén por el mango. Podría ser la forma en la que te comunicas, o la falta de ella lo que pone a los demás en tu contra. Mantén todo claro y sin problemas mediante la claridad y el ser conciso/a.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 07 de enero 2019 al 13 de enero 2019 
-description: Horóscopo semanal sagitario 07 de enero 2019 al 13 de enero 2019. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+title: sagitario 14 de enero 2019 al 20 de enero 2019 
+description: Horóscopo semanal sagitario 14 de enero 2019 al 20 de enero 2019. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así sagitario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: GbeMNclsMVY
+ video: J-2QTJ5U8TA
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-01-07'
+ lastmod: '2019-01-14'
 ---
 
 
 
-## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así sagitario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 
-¿Cómo quieres gastar tu vida sagitario? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente sagitario, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida sagitario, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro sagitario. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana sagitario.
-Puede que sientas mucha empatía por las demás personas una vez que la semana se pone en marcha, y esto podría tener un impacto positivo en el crecimiento de ciertas relaciones. Pero tener demasiada compasión puede que no siempre resulte a tu favor, y hay momentos en los que puede hasta ser inapropiado, como en el lugar de trabajo. Si no sabes qué hacer, no dudes en pedir ayuda. La Luna Nueva en este mismo sector ofrece la posibilidad de comenzar de nuevo con respecto a una oportunidad o una relación.
+A veces amas demasiado sagitario, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar sagitario, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. sagitario, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. sagitario, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos sagitario, y siente… Feliz semana…
+Con Venus recientemente en tu signo, te prepararás para explorar nuevas oportunidades sociales tanto por placer como también negocios. Debido al fuerte enfoque en Tauro, es momento de canalizar tu energía hacia un proyecto que es profundamente significativo para ti, especialmente cualquier viejo sueño en el que hubieras estado en la posición de realizar. Hacerlo se hace ahora más fácil si planificas primero y tienes especial cuidado al respetar los costos. Además, el romance podría estar en el aire si es que tu corazón está listo para salir a citas y divertirse.
 
 ## Dinero
 
-Esta semana se trata del choque de energías que puede hacer que sientas tensión o abandono. Estás construyendo estructuras tanto en tu vida familiar como romántica. Tu trabajo puede estarte llamando en medida de que un cambio es claramente necesario. La pregunta es, ¿qué debería cambiar?
+Un sentimiento de expansión y repentina revelación podría darte una idea que simplemente no puedas contener. Ya que hay cierta actividad en tu sector de relaciones serias y matrimonio, las mejores nociones de hacer dinero pueden provenir de estas áreas. Crea una lluvia de ideas con respecto al matrimonio y la familia y puede que formules una idea para un libro, programa de entrenamiento, o un producto de mucho interés. Venderlo no va a ser difícil.

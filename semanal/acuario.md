@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 07 de enero 2019 al 13 de enero 2019 
-description: Horóscopo semanal acuario 07 de enero 2019 al 13 de enero 2019. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: acuario 14 de enero 2019 al 20 de enero 2019 
+description: Horóscopo semanal acuario 14 de enero 2019 al 20 de enero 2019. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: mPp5HZeXdV8
+ video: Cdz1ELMG4z8
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-01-07'
+ lastmod: '2019-01-14'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 
-Despacito acuario, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo acuario.
-El Sol entra a un sector más tranquilo y alejado de tu carta astral justo cuando comienza esta semana festiva. Esto marca un período del año donde prefieres tomarte tu tiempo para reflexionar sobre tus prioridades. No te niegues esta oportunidad, ya que te rodean influencias que fomentan el cambio progresivo y constructivo. Te conviene pensar cómo se aplica esto a tu vida y cómo podría cambiarla por completo. La semana festiva se ve muy divertida y esto es algo que disfrutas al máximo.
+No te arrepientas de abrirte acuario, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles acuario, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar acuario, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos acuario, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+Debido a que Mercurio comienza su danza hacia atrás el jueves, es posible que notes su influencia si estás de viaje o de vacaciones. Sería útil que tuvieras una lista preparada antes de salir y asegurarte de que hayas empacado todo lo necesario. Y a pesar de haberte preparado, espera algunos desvíos inesperados a lo largo del camino. Por último, Venus entrando a Tauro este viernes podría poner un romance en tu camino si es que decides salirte de tu zona de confort.
 
 ## Dinero
 
-Es posible que tengas arrinconado al mercado de la hospitalidad y las industrias de planificación de eventos, pero esta semana el Universo te está pidiendo que ramifiques y utilices tus habilidades de una nueva manera. Hay tensión entre tu familia, tu vida romántica y el sector de deuda. El gasto puede haberse vuelto mayor recientemente a lo que tu presupuesto puede manejar. Esto está causando estragos en tus planes a largo plazo. Reduce gastos en consecuencia.
+Ciertos aspectos afectan tu sector de carrera y de autoridad, demostrando que lo que aportas a la mesa es un conocimiento profundo de tu trabajo, así como un comportamiento profesional. La actividad en el sector de tu carta que afecta a tu potencial de ingresos dice que está cambiando para bien. Con un poco de paciencia, puede ser todo lo que quieres que sea en el futuro.
