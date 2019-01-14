@@ -9,7 +9,6 @@ sitemap:
     <title>{{ site.name | xml_escape }}</title>
     <description><![CDATA[{{ site.description }}]]></description>
     <link>{{ site.url }}</link>
-    <atom:link href="{{ "/manychat/capricornio.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }} </lastBuildDate>
         {% if site.favicon %}
     <image>
@@ -22,9 +21,9 @@ sitemap:
         {% if post.url == '/horoscopo-diario-gratis/capricornio/' %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
-                <description>{% if post.ogimg %}
+                <description><![CDATA[{% if post.ogimg %}
      <img src="{{ post.ogimg | prepend: site.baseurl | prepend: site.url  }}" alt="Smiley face" height="315" width="600" class="webfeedsFeaturedVisual"> 
-    {% endif %}<![CDATA[{{ post.content }}]]></description>
+    {% endif %}{{ post.content }}]]></description>
                 <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <guid isPermaLink="false">{{ site.url }}{{ post.url }}{{ site.time | date: "%d-%b-%Y" }}</guid>
@@ -34,9 +33,9 @@ sitemap:
         {% if post.url == '/horoscopo-semanal-gratis/capricornio/' %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
-                <description>{% if post.ogimg %}
+                <description><![CDATA[{% if post.ogimg %}
      <img src="{{ post.ogimg | prepend: site.baseurl | prepend: site.url  }}" alt="Smiley face" height="315" width="600" class="webfeedsFeaturedVisual"> 
-    {% endif %}<![CDATA[{{ post.content }}]]></description>
+    {% endif %}{{ post.content }}]]></description>
                 <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <guid isPermaLink="false">{{ site.url }}{{ post.url }}{{ post.lastmod | date: "%d-%b-%Y" }}</guid>
