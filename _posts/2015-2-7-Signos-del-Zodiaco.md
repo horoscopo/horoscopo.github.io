@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de enero 2019
-description: Horóscopos del dia de hoy 13 de enero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de enero 2019
+description: Horóscopos del dia de hoy 14 de enero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-01-13
+ lastmod: 2019-01-14
 ---
-A veces el día parece ser demasiado largo. Hoy es uno de esos días en los que el tiempo parece extenderse. ¡Cuidado! No cedas a la tentación de operar en piloto automático. La Luna Nueva aspectando a Marte en Piscis a las altas horas de la noche provocando algún tipo de acción que podría venir directamente del corazón y las emociones.
+¡Feliz cumpleaños a Aries en los próximos 30 días! La vida se vislumbra brillante y afortunada con un futuro en el que tú te llevas una gran rebanada del pastel. Esta noche, la Luna en Leo estimula fuego, calor, luz, vida - ¡y mucho corazón! Por su parte, los solteros podrían conocer a mucha gente nueva e interesante.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.

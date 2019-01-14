@@ -1,0 +1,26 @@
+---
+layout: amp
+title: capricornio hoy gratis 14 de enero del 2019 
+permalink: /horoscopo-diario-gratis/amp/capricornio/
+normallink: /horoscopo-diario-gratis/capricornio/
+home: FALSE
+horoscopo:
+ signo: capricornio
+ video: 8qZh0mLH85Y
+
+ogimg: /images/capricornio_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Tu valiente resistencia y tu deseo de asumir un papel de liderazgo puede ser una amenaza para los demás hoy. Ten cuidado de asumir automáticamente la posición dominante antes de saber lo que otros sienten acerca de la situación. Puedes cometer algunos errores drásticos si no te preocupas por el bienestar de los demás. Las cosas pueden llegar a ser muy emotivas, así que ten cuidado con posibles brotes de violencia.
+
+## Amor
+
+Enhorabuena, tienes la oportunidad de llevar tu relación hoy al siguiente nivel, ya que ambos tienen ganas de estar juntos y de divertirse. Ni siquiera importa lo que hagan. Aunque tengan cuidado con las bromas o puede que se les mirarle con malos ojos.
+
+## Trabajo
+
+Notarás grandes cambios y desplazamientos en tu lugar de trabajo. Es probable que la atmósfera de hoy sea muy distinta a la del día anterior. No tomes tus decisiones sobre la base del pasado -ten cuenta que los vientos cambian con rapidez. Sé flexible o te quedarás atrás.
