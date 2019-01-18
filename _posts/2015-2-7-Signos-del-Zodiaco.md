@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de enero 2019
-description: Horóscopos del dia de hoy 17 de enero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de enero 2019
+description: Horóscopos del dia de hoy 18 de enero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-01-17
+ lastmod: 2019-01-18
 ---
-¿Tienes alguna idea? La creatividad relacionada a lo profesional es valorada hoy. Tienes la libertad de ser salvaje con tus ideas, por lo que toma la oportunidad y crea una lluvia de ideas. Puede que haya desacuerdos esta noche, pero pueden ser constructivos si se hacen de manera positiva. Aclara las cosas bajo la Luna en Géminis.
+La Luna Nueva en Libra de esta mañana simboliza una buena forma de ser que no presiona a nadie. Al iniciar la tarde, disfruta de la sensación de estar con vida y sintiendo las felices emociones que sientes. ¿Se te antoja aventura? Esta noche, una sugerencia podría convertirse en realidad cuando la Luna aspecta a ambos, Marte y Saturno. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.

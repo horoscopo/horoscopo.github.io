@@ -30,7 +30,7 @@ sitemap:
      <img src="{{ post.ogimg | prepend: site.baseurl | prepend: site.url  }}" alt="Smiley face" height="315" width="600" class="webfeedsFeaturedVisual"> 
     {% endif %}{{ post.content }}]]></description>
                 <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-                <link>{{ 'https://horoscopo-del-dia.com/horoscopo-de-hoy/?utm_source=facebook&utm_medium=chatbot&utm_campaign=diario' | xml_escape }}}}</link>
+                <link>{{ 'https://horoscopo-del-dia.com/horoscopo-de-hoy/?utm_source=facebook&utm_medium=chatbot&utm_campaign=diario' | xml_escape }}</link>
                 <guid isPermaLink="false">{{ site.url }}{{ post.url }}{{ site.time | date: "%d-%b-%Y" }}</guid>
             </item>
             
