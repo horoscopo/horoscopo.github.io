@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de enero 2019
-description: Horóscopos del dia de hoy 21 de enero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 22 de enero 2019
+description: Horóscopos del dia de hoy 22 de enero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-01-21
+ lastmod: 2019-01-22
 ---
-Con la Luna en Géminis oponiéndose a Saturno, te despiertas con un nuevo sentido de propósito, planes, e incluso un poco más de ambición. Las emociones son muy sensibles esta tarde. Un gran comienzo, pero, ¡¿de dónde proviene toda esta ira?! El magnetismo de esta noche despierta una gran cantidad de sensuales chispas.
+Mantente alerta a las cosas que necesitan ser cambiadas. El proceso también incluye cambiar la opinión ya sea de uno mismo o de alguien más cuando la Luna en Cáncer se opone a Plutón. Esta noche, tu actitud es elusiva e incluso reclusa, cuando el deseo de cerrarte al mundo existe. En realidad, la tranquilidad es muy placentera.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
