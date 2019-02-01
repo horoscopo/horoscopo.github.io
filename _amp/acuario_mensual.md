@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo acuario enero 2019 
+title: Horoscopo acuario febrero 2019 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
- video: fXvFexH6mls
+ video: Nzcy-EY5EsQ
 
 ogimg: /images/acuario_char.png
 sitemap:
@@ -15,8 +15,5 @@ sitemap:
 ---
 
 
-Enero de 2019 - ¡Dale la bienvenida al 2019, Acuario! El año pasado trajo enormes cambios a nivel profesional, lo que te llevó a expandir tus horizontes y visión. Cuando el año nuevo comienza, busca en lo profundo de tu ser para darte cuenta de aquello que evita que hagas realidad un sueño. 
-Cuando la luna nueva en Capricornio y el eclipse solar se alinean el 5 de enero, entras a una búsqueda espiritual, un viaje hacia las cavernas de tu psiquis para descubrir las historias de la humanidad, descomponiendo los valores materialistas que aprisionan (como el Rey Midas), así como los tesoros espirituales que revelan tu razón de ser. Estás abriendo un agujero hacia tu subconsciente (una prisión que tú fabricaste) para liberarte. 
-Cuando el sol entra a tu signo, y la luna llena en Leo y el eclipse se alinean el día 20, prepárate para entrar a la luz. Estás viendo tus relaciones desde una nueva perspectiva, y están reflejando una verdad sobre ti. Reconoce tus sentimientos, y no tengas miedo de pedir lo que necesitas. Luego abandona las expectativas sobre el origen de alguna cosa, y ábrete a recibir. El universo ha escuchado tus plegarias. Los sueños pueden volverse realidad, pero primero debes atreverte a soñar. 
-Días destacados: 4, 22, 29 
-Días desafiantes: 5, 18, 21
+Feb. de 2019 - Disculpe, esta información no se encuentra disponible ahora.
+Por favor regrese más tarde.
