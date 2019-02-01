@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo febrero, horoscopos en español, horóscopo cancer febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
- video: chD6iN9lc2o
+ video: 343zl2YKQSk
 
 ogimg: /images/mes/cancer_mes.png
 sitemap:
@@ -17,5 +17,4 @@ sitemap:
 ---
 
 
-Feb. de 2019 - Disculpe, esta información no se encuentra disponible ahora.
-Por favor regrese más tarde.
+Tu salud resplandece bajo la Luna Nueva del 4 de junio. Si has estado bajo estrés o sintiéndote mal, esas nubes se están alejando. Adopta una vida más activa sin temor a sufrir de un esfuerzo excesivo o de un comienzo demasiado arrebatado. Puede que no estés pensando conscientemente en ti primero, pero a tu cuerpo le gustaría que así fuese. El tema de la Luna Llena del 20 de junio es amor. Es posible que a veces desees esconderte, pero no te molestes en hacerlo. El amor te está buscando y es más persistente que tú. El trígono entre Venus y Neptuno del 27 de junio trae consigo aún más oportunidades románticas, especialmente con el trígono entre la Luna y Saturno de altas horas de la noche.
