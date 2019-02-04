@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 14 de enero 2019 al 20 de enero 2019 
-description: Horóscopo semanal geminis 14 de enero 2019 al 20 de enero 2019. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+title: geminis 04 de febrero 2019 al 10 de febrero 2019 
+description: Horóscopo semanal geminis 04 de febrero 2019 al 10 de febrero 2019. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: SgCbWpyzqAc
+ video: BgKDLAOtDAo
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-01-14'
+ lastmod: '2019-02-04'
 ---
 
 
 
-## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-Fíate de ti mismo geminis, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando geminis y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
-Si debes tomar una decisión, pedirles consejos a tus amigos podría ser de ayuda. Si intentas tomar la decisión por tu cuenta, puede que pienses de más, lo cual tendría el efecto contrario. El 26 de enero, el ardiente Marte entra a un sector más apartado de tu carta astral para quedarse allí seis semanas, lo cual podría revolucionar tu mente. Puede que vuelva más vívidos tus sueños y podría sacar a la luz algunos asuntos que habían quedado guardados. Esta podría ser la oportunidad para resolverlos y dejarlos atrás.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos geminis así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar geminis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+Puede que te encuentres en el centro de la atención esta semana y las semanas que vienen, y esta podría ser una oportunidad para que muestres tus habilidades o impresiones a tu jefe a o alguien más. También notarás cómo tus habilidades generan un impacto positivo en las demás personas, y esto podría motivarte para que des lo mejor de ti. La Luna Nueva del viernes en este mismo sector coincide con un nuevo trabajo, un ascenso o el comienzo de un contrato.
 
 ## Dinero
 
-Esta semana se trata de la zona de tu gráfico que rige el romance, la familia y la diversión, así que puedes estar pensando más en gastar tu dinero en estas zonas que en guardarlo. Eso está bien por ahora, pero el Universo tiende a provocar cambios bruscos e inoportunos a veces. Asegúrate de guardar algo de dinero para más adelante. Mientras tanto, una buena noticia viene en el sector de empleo. ¡Celébralo!
+Es un buen momento para ti, queriendo más que nada iniciar una nueva cuenta de ahorro y plan de inversiones para asegurar tu futuro. Pero hay tentaciones por todas partes debido a cierta actividad en tu sector de viajes, educación y espiritualidad. La necesidad de viajar y aprender tiene mucho poder sobre ti, y el dinero constantemente se sale de ese agujero en tu bolsillo. Trata de resistirte a la tentación de derrochar. Siempre se puede aprender de los acontecimientos de la vida.

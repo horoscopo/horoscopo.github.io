@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: aries 28 de enero 2019 al 03 de febrero 2019 
-description: Horóscopo semanal aries 28 de enero 2019 al 03 de febrero 2019. Semana intensa aries, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+title: aries 04 de febrero 2019 al 10 de febrero 2019 
+description: Horóscopo semanal aries 04 de febrero 2019 al 10 de febrero 2019. Cada día que pasa te das más cuenta de que mereces cosas buenas aries, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: qR4ybBhRDas
+ video: 4QxZDfTKu08
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-01-28'
+ lastmod: '2019-02-04'
 ---
 
 
 
-## Semana intensa aries, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+## Cada día que pasa te das más cuenta de que mereces cosas buenas aries, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
 
-Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver aries, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
- hasta que empieces a sentir que realmente merece la pena.
-La vitalidad y la energía regresan conforme el Sol entra a tu signo el lunes. Es hora de celebrarte y centrarte en los proyectos que tenga un significado especial para ti. Además, la Luna Llena en Cáncer de esta semana reúne a la gente con un espíritu de temporada. A pesar de un posible par de enfrentamientos de menor importancia, este se vislumbra como un momento en el que tanto amigos como familia disfrutan de reunirse una vez más. Charlar constructivamente puede fomentar una mayor colaboración para el próximo año.
+Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Capri, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Capri, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
+Hay mucha actividad en tu zona financiera en las próximas semanas, pero esta semana, un evento en particular te alienta a solucionar tus asuntos. Te sientes mejor una vez que te enfrentas a las dificultades y haces lo necesario para resolverlas. La entrada de Venus a tu signo puede ser una llamada de atención para que busques estar con amistades, especialmente si estuviste haciendo otras cosas últimamente. Te sientes mejor porque puedes relajarte.
 
 ## Dinero
 
