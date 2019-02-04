@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 14 de enero 2019 al 20 de enero 2019 
-description: Horóscopo semanal escorpio 14 de enero 2019 al 20 de enero 2019. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+title: escorpio 04 de febrero 2019 al 10 de febrero 2019 
+description: Horóscopo semanal escorpio 04 de febrero 2019 al 10 de febrero 2019. escorpio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: p9SmS5Zjmmw
+ video: MqNFvODfJik
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-01-14'
+ lastmod: '2019-02-04'
 ---
 
 
 
-## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+## escorpio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 
-Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
-La semana por delante puede ser excelente para los negocios siempre y cuando tengas disposición a investigar los hechos y no asumir absolutamente nada. Con Venus conectando con Saturno y Neptuno, tener un enfoque realista es esencial si es que vas a sacarle el mayor provecho a ciertas discusiones u ofertas. Es posible que tengas que andarte con cuidado en relación a un conflicto con tu pareja o un miembro de tu familia. Las cosas podrían estallar el viernes, por lo que acude al tacto y la diplomacia para mantener las cosas en calma.
+Vives tanto con tantísima intensidad que a veces te olvidas de la realidad, de lo que aún tienes pendiente, de lo que necesitas conseguir y sobretodo de lo que necesitas cerrar y zanjar. Y es que escorpio, cuando las cosas empiezan a ir un poquito mejor se te olvida todo lo malo por lo que has pasado, por lo que te han hecho pasar. Y estás bien, porque así es como vives el presente, el minuto, el momento, pero a la vez si después viene otra golpe, vuelve a doler. Lo que pasa es que ya no duele igual, ya duele menos, porque te insensibilizas, y eso en realidad no es del todo bueno. Es como si lo esperaras, como si ya supieras que después de una discusión vendrá una reconciliación, con todo, con la gente que está a tu alrededor, con tu vida. Y todo se repite, una y otra vez, y no sales de ese círculo, y lo que antes te rompía el corazón ya no te rompe, porque sabes lo que vendrá después, y así todo el tiempo. Y eso se llama conformismo escorpio. ¿Hace cuanto no te paras a pensar solo si realmente eres feliz con lo que tienes? En la vida puedes estar contento con muchas cosas que no van mal a tu alrededor, pero también tienes que saber cuáles son las que van mal para cambiarlas. Porque aunque no lo creas, una manzana podrida en el cesto puede pudrir las demás si no se saca a tiempo. Y es que, tienes que hacer una limpia en tu vida, no puedes pensar que “bueno, en la vida hay cosas buenas y cosas malas”, claro que es así, pero ahí estás tu para poder cambiar las malas. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes escorpio.
+Puede que quieras relajarte esta semana, y esto quizá se deba a que el Sol se está moviendo por tu sector de hogar y familia. Esto te da la oportunidad de recargar tus energías y darte tiempo para cuidarte. Todas las personas necesitan esto de vez en cuando, así que no te niegues la oportunidad de descansar cuando puedas. Además, puede que sientas que es el momento de enfocarte en tu salud y bienestar, lo que te hará bien si tus intenciones acorde al tema han disminuido recientemente.
 
 ## Dinero
 
-Como genio de creación de redes, bien sabes cómo hacerlo. Tus relaciones son importantes no sólo por motivos de negocios, sino también para desahogarte después del trabajo. Con un aspecto armonioso en tu sector social, estás haciendo más amigos e incluso sentando las bases para futuras colaboraciones. Has estado haciendo considerables acuerdos, así que no es mal momento para sacar la cuenta final. Cuidado con gastar excesivamente en tus amistades.
+Con cierta actividad en tu sector de auto-expresión esta semana, eres libre de manifestar tu propio ser. A veces esto puede significar que otros proyectan lo que quieren ver en ti, así que ten cuidado con personas que puedan no ser conscientes de sus propios problemas. Esto es especialmente importante esta semana. Tu vida hogareña, por no hablar de tu hogar, podría depender de tu capacidad para mantener un flujo de efectivo constante.

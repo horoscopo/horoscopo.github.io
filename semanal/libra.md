@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: libra 14 de enero 2019 al 20 de enero 2019 
-description: Horóscopo semanal libra 14 de enero 2019 al 20 de enero 2019. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+title: libra 04 de febrero 2019 al 10 de febrero 2019 
+description: Horóscopo semanal libra 04 de febrero 2019 al 10 de febrero 2019. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario libra.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: laun4Z3wgNo
+ video: WSMFQRShwOQ
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-01-14'
+ lastmod: '2019-02-04'
 ---
 
 
 
-## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario libra.
 
-Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
- Tienes que acabar de una vez con todo libra.
-La presencia del sol en tu sector de estilo de vida puede echar luz sobre hábitos que hayan dejado de ser útiles. Si el eclipse solar de la semana pasada te animó a considerar hacer algunos cambios radicales, los próximos días podrían ayudarte a reflexionar e investigar tus opciones, para poder encontrar soluciones que se adapten a tus necesidades. 
-El conversador Mercurio en tu sector de relaciones sugiere que sigas hablando. Las nuevas perspectivas pueden ayudarte a pensar de otra manera y considerar ideas que, de otro modo, nunca hubieras conocido. El ingreso del sol a tu sector de relaciones el domingo ilumina esta área y pone de relieve amistades y sociedades clave. Las próximas cuatro semanas pueden darte la oportunidad de colaborar en un plan o proyecto, y de llevar una importante relación a otro nivel. Además, el fin de semana alguien puede ofrecerte una oportunidad que resulte muy lucrativa. 
+Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti libra.
+Tu semana comienza con un posible conflicto que podría ser difícil de resolver. Contigo o alguien más teniendo una actitud obstinada, nada va a cambiar a menos que uno de ustedes pueda disponerse a hacer concesiones. Sumado a esto, tanto Mercurio como Júpiter inician una fase retrógrada, por lo que podrías sentir como si la vida hubiera llegado a un punto muerto. Si esto te hace sentir molestia, tu mejor opción podría ser salir con algunos buenos amigos para tener una charla de corazón a corazón y así cambiar tu perspectiva y mejorar tu estado de ánimo.
 
 ## Dinero
 
-Tienes una gran cantidad de energía para conseguir un gran apoyo esta semana. Si has estado pensando en iniciar tu propio negocio, esta es una época maravillosa para darle vida a tus ideas. El énfasis está en la estructura, así que asegúrate de que la tuya sea muy fuerte. Si no sabes cuáles son los primeros pasos, consulta la información disponible para pequeñas empresas. Y si buscas en tus relaciones más cercanas, podrás ver que siempre tuvieron todas las respuestas.
+Ahora tienes un aspecto armonioso afectando a tu sector de hogar y emociones. Si trabajas en un campo creativo o de diseño, piensa en cómo ampliar tu línea para incluir el diseño de interiores. Dado a que tantos de tus propios recuerdos y sentimientos están siendo despertados, puedes percatarte de que tu vida puede servir de base para nuevas y maravillosas ideas. El dinero viene cuando se combina lo personal con lo profesional.
