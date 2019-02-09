@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de febrero 2019
-description: Horóscopos del dia de hoy 08 de febrero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de febrero 2019
+description: Horóscopos del dia de hoy 09 de febrero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-02-08
+ lastmod: 2019-02-09
 ---
-Las ideas podrían parecer convencionales, pero no lo son bajo la Luna en Acuario. Por supuesto, eso es parte de su brillo. ¡Qué gran momento para formular soluciones a problemas! Esta noche, la química emocional podría estar fuera de sintonía. Es posible que desees tener cuidado cuando de sentimientos se trate.
+Espera tener una mañana ocupada cuando la Luna forme sextil con Marte. Mientras más consigas lograr, más tiempo dejarás volar a tu imaginación cuando la Luna aspecte a Neptuno esta tarde. Poderes más allá de tu control podrían predominar mientras la Luna cuadre a Plutón esta noche. Ten cuidado, los celos excesivos podrían ser contraproducentes.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
