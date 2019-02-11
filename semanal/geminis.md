@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 04 de febrero 2019 al 10 de febrero 2019 
-description: Horóscopo semanal geminis 04 de febrero 2019 al 10 de febrero 2019. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+title: geminis 11 de febrero 2019 al 17 de febrero 2019 
+description: Horóscopo semanal geminis 11 de febrero 2019 al 17 de febrero 2019. Llega una semana bonita geminis, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención geminis, y seguramente la persona que menos te esperabas…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: BgKDLAOtDAo
+ video: NZjFuoD3qnE
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-04'
+ lastmod: '2019-02-11'
 ---
 
 
 
-## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+## Llega una semana bonita geminis, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención geminis, y seguramente la persona que menos te esperabas…
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos geminis así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar geminis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
-Puede que te encuentres en el centro de la atención esta semana y las semanas que vienen, y esta podría ser una oportunidad para que muestres tus habilidades o impresiones a tu jefe a o alguien más. También notarás cómo tus habilidades generan un impacto positivo en las demás personas, y esto podría motivarte para que des lo mejor de ti. La Luna Nueva del viernes en este mismo sector coincide con un nuevo trabajo, un ascenso o el comienzo de un contrato.
+Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
+Conectar con otras personas o trabajar junto a ellas puede ser una experiencia muy positiva y lucrativa. Con un resplandeciente aspecto entre el vivaz Júpiter y el intenso Plutón, puedes lograr muchas cosas si trabajas con personas que están en tu misma sintonía. Y la luna nueva en tu sector de relaciones puede darle el mejor impulso a cualquier proyecto que tengas. A medida que avanza la semana, tu atención podría desplazarse hacia los asuntos financieros y de negocios y puede que ya quieras solucionar algunos problemas clave. 
 
 ## Dinero
 
-Es un buen momento para ti, queriendo más que nada iniciar una nueva cuenta de ahorro y plan de inversiones para asegurar tu futuro. Pero hay tentaciones por todas partes debido a cierta actividad en tu sector de viajes, educación y espiritualidad. La necesidad de viajar y aprender tiene mucho poder sobre ti, y el dinero constantemente se sale de ese agujero en tu bolsillo. Trata de resistirte a la tentación de derrochar. Siempre se puede aprender de los acontecimientos de la vida.
+Esta semana experimentas un aumento de energía en el terreno de la auto-expresión.  Alguien en tu lugar de trabajo te tiene celos y es incapaz de poder manejar tu poderosa naturaleza. No le des importancia. Te estás proyectando de una nueva manera, que no puede ser nada más que positiva. Habla con la verdad. Tu destino es la profundidad, la madurez y el buen sentido. Otros necesitan oírlo.

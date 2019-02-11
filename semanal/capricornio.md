@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 04 de febrero 2019 al 10 de febrero 2019 
-description: Horóscopo semanal capricornio 04 de febrero 2019 al 10 de febrero 2019. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+title: capricornio 11 de febrero 2019 al 17 de febrero 2019 
+description: Horóscopo semanal capricornio 11 de febrero 2019 al 17 de febrero 2019. Estás renaciendo capricornio, renaciendo de las cenizas… Y ya era hora…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: xp3-492hrgA
+ video: KaFHIR7CjeM
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-04'
+ lastmod: '2019-02-11'
 ---
 
 
 
-## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+## Estás renaciendo capricornio, renaciendo de las cenizas… Y ya era hora…
 
-Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
-Puede que sientas que tus intereses, tus amigos o las responsabilidades con las que vienes lidiando te llevan en distintas direcciones. Pero con el Sol en Acuario, es momento de que te preguntes qué quieres tú. ¿Qué curso de acción podrías tomar para reafirmar tus fortalezas esenciales? A medida que Marte entra a tu sector de comunicaciones, las respuestas podrían aparecer cuando vayas detrás de los intereses que más te apasionan. Una decisión que tomes este fin de semana podría hacerte sentir más calma.
+Hay gente que no respeta que puedas crecer Sagi, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los capricornio pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Sagi, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+Esta no es la mejor semana para asuntos financieros, especialmente si estás considerando comprar o vender artículos caros. De hecho, puede que te sea mejor esperar hasta que Mercurio se torne directo el 11 de Junio para asegurar una transacción sin problemas. El actual enfoque en Géminis podría mantener tu tiempo ocupado en el reino del romance. Pareces ser el alma de la fiesta, así que no deberían de hacerte falta invitaciones. Más ten cuidado con alguien que es demasiado amable o halagador para su propio bien.
 
 ## Dinero
 
-Puede que te encuentres expandiendo un negocio establecido desde tu casa en este momento debido a un afortunado aspecto en esta área de tu carta. Si es necesario, convierte una habitación extra en una oficina para que puedas cerrarle la puerta a tu trabajo al final del día. Cierto aspecto ahora te da todo lo que necesitas y mucho más para poner en marcha un nuevo negocio si quieres más libertad en tu vida laboral o para llevar una ya existente a un nivel superior.
+Esta semana te preparas para lo peor cuando se trata de rembolsar cualquier dinero que debas. Es posible que te estés esforzando para finalmente deshacerte de esa sensación de deuda y encontrar esa maravillosa libertad que viene de la reducción de saldo en las tarjetas de crédito. Estás trabajando hacia esta realidad poco a poco. Mientras tanto, piensa en cómo puedes usar tu creatividad e intuición en tu vida de inversión. Puede que encuentres algunas ideas lucrativas en los lugares más extraños, así que debes mantener apertura.

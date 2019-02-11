@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: aries 04 de febrero 2019 al 10 de febrero 2019 
-description: Horóscopo semanal aries 04 de febrero 2019 al 10 de febrero 2019. Cada día que pasa te das más cuenta de que mereces cosas buenas aries, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: aries 11 de febrero 2019 al 17 de febrero 2019 
+description: Horóscopo semanal aries 11 de febrero 2019 al 17 de febrero 2019. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: 4QxZDfTKu08
+ video: HEgXoR6M4qY
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-04'
+ lastmod: '2019-02-11'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas aries, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 
-Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Capri, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Capri, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
-Hay mucha actividad en tu zona financiera en las próximas semanas, pero esta semana, un evento en particular te alienta a solucionar tus asuntos. Te sientes mejor una vez que te enfrentas a las dificultades y haces lo necesario para resolverlas. La entrada de Venus a tu signo puede ser una llamada de atención para que busques estar con amistades, especialmente si estuviste haciendo otras cosas últimamente. Te sientes mejor porque puedes relajarte.
+Lo más complicado es siempre el principio, de todo, una vez que te has subido al “barco” no vuelvas a tirarte al agua, ¿me explico? 
+Y si aún tienes dudas sobre algo, tómate tu tiempo para decidir, a solas, sin que nadie pueda darle más vueltas a tu cabeza…
+
 
 ## Dinero
 
+Este período es acerca de grupos, política y autoempleo. Si has estado buscando la manera de ganar más y crear mayor estabilidad, el Universo te da la suerte y la oportunidad de hacer que esto suceda. Acude a tus amistades y redes sociales para ayudarte a construir tu clientela mientras haces la transición de tu empleo actual. Asegúrate de proteger tus ideas y productos con derechos de autor y marcas registradas para asegurar beneficios futuros.
