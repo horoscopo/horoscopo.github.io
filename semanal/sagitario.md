@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: sagitario 11 de febrero 2019 al 17 de febrero 2019 
-description: Horóscopo semanal sagitario 11 de febrero 2019 al 17 de febrero 2019. Tu presente y tu futuro valen muchísimo la pena sagitario. La vida siempre se acaba equilibrando sagitario. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+title: sagitario 18 de febrero 2019 al 24 de febrero 2019 
+description: Horóscopo semanal sagitario 18 de febrero 2019 al 24 de febrero 2019. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya sagitario. Muévete o haz que se mueva el resto.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: BbUynl3VrcQ
+ video: pHEUT5fd_lc
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-11'
+ lastmod: '2019-02-18'
 ---
 
 
 
-## Tu presente y tu futuro valen muchísimo la pena sagitario. La vida siempre se acaba equilibrando sagitario. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya sagitario. Muévete o haz que se mueva el resto.
 
-Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda sagitario, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
-El inicio de la semana tiene un excelente potencial y puede implicar un golpe de buena fortuna. Una reunión podría ponerte en contacto con información u oportunidades que hagan una gran diferencia en tu vida. Además, el deseo de avanzar podría verte derribar dudas y temores del pasado con tal de lograr un objetivo personal o plan profesional. No esperes hasta que estés en el estado de ánimo adecuado. Lanzarte a hacerlo ahora puede traerte resultados más tarde. Tu original estilo y gusto en ropa podrían impresionar mucho a alguien el fin de semana.
+No es que no te estés esforzando por conseguir tus propósitos, no es eso, es que, a menudo, por mucho que te esfuerces, si te rodeas de personas que te acaban chupando toda esa energía es como si nada valiera la pena, porque por un paso que das al frente, retrocedes dos por culpa de otros.
+Si al parecer los negocios o las cuestiones financieras han estado estancados últimamente y tus esfuerzos no dieron frutos, no te desanimes. La causa podría ser que el valiente Marte todavía se encuentra en su fase retrógrada. Mejor dedica este tiempo a ajustar tus planes en lugar de mirar hacia adelante. Sin embargo, cuando el fogoso Marte forma un penetrante ángulo con el debilitante Urano, podrías perder la paciencia y sentir que debes apurar el paso. No lo hagas. Podrías terminar peor que antes o perder lo que has conseguido hasta el momento. 
+Tu posición podría ser aún más extraña con el inquisitivo Mercurio en su fase retrógrada en tu sector de finanzas personales. Evita cerrar tratos que involucren grandes cantidades de dinero hasta que las dos fases retrógradas hayan terminado cerca de fin de mes. Cuando el animado Júpiter ingresa a tu sector de romance, un encuentro podría ser especialmente prometedor. Esta persona podría animarte a poner en práctica tus diversos pasatiempos.
 
 ## Dinero
 
-Esta semana trae ambos, suerte y sorpresas por igual a tu sector de dinero y valores. El Universo  expande tus oportunidades de ganar más dinero (e incluso tus ideas para hacerlo), mientras que trae destellos repentinos de intuición e ingenio. Puede que te sorprenda lo increíblemente útil que es la gente que conoces, incluso en las maneras más insignificantes. Te percatarás de que estas personas están dispuestas a ayudar de nuevo también.
+Ciertos aspectos podrían hacer que dijeras algo erróneo o que alguien te diga algo erróneo a ti. Cuidado con el impulso de explicar tus acciones demasiado o a estar a la defensiva. Puedes llegar a tener un repentino destello de comprensión acerca de cómo llevar tus ideas a un público más global. Muévete de acuerdo a los dictados de tu corazón, ya que tienen la mejor sabiduría en esta situación.

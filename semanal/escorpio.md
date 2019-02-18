@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 11 de febrero 2019 al 17 de febrero 2019 
-description: Horóscopo semanal escorpio 11 de febrero 2019 al 17 de febrero 2019. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+title: escorpio 18 de febrero 2019 al 24 de febrero 2019 
+description: Horóscopo semanal escorpio 18 de febrero 2019 al 24 de febrero 2019. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: J30hmoezycw
+ video: 9NGVMpllimo
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-11'
+ lastmod: '2019-02-18'
 ---
 
 
 
-## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+## Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 
-No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo escorpio pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
- Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
-Podrías gustarle a cierta persona que tal vez prefiera que la relación entre ustedes, por ahora, siga siendo platónica y amistosa. ¿Por qué? Quizá sienta vergüenza de compartir sus sentimientos contigo en este momento. Y es posible que prefieras mantener un perfil bajo, incluso en San Valentín. Sin embargo, no pierdas esto de vista, ya que todo podría cambiar en cuestión de días. Durante esta semana, el Sol entra a tu sector de ambiciones y sientes que es el momento para dar un gran salto.
+La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante escorpio, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+Los asuntos hogareños toman la delantera, con muchas oportunidades para la expansión, el entretenimiento y para hacer de tu vida familiar exactamente lo que quieres que sea. Aun así, el Eclipse Solar de esta semana podría coincidir con una gran decisión. Si hay algo que has estado considerando por un tiempo, este Eclipse podría empujarte a tomar medidas más temprano que tarde. Sin embargo, llévatela con calma este fin de semana y durante los días posteriores a ello. Date la oportunidad de reflexionar antes de actuar.
 
 ## Dinero
 
-Esta semana tienes una gran cantidad de impulso para atraer más dinero. No es sólo que tu ambición esta saliendo a la superficie. Es también la manera positiva en como te ven los demás como la persona exitosa que está en proceso de crecimiento. Podría haber cierta tensión con compañeros de trabajo o conocidos. Asegúrate de no apostar demasiado.
+Puede parecer que esta semana las cosas que se mueve en cámara lenta o incluso que se estén moviendo hacia atrás, sobre todo cuando se trata de tu capacidad de viajar, asistir a la escuela, o buscar las verdades más amplias de la vida. No te preocupes que al final las encontrarás. Mientras tanto, lo mejor es mantener tu dinero en efectivo guardado en un lugar seguro. En pocos meses, será más fácil el mover tus metas más cerca de la finalización.

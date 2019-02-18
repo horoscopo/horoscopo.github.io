@@ -1,31 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 11 de febrero 2019 al 17 de febrero 2019 
-description: Horóscopo semanal virgo 11 de febrero 2019 al 17 de febrero 2019. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+title: virgo 18 de febrero 2019 al 24 de febrero 2019 
+description: Horóscopo semanal virgo 18 de febrero 2019 al 24 de febrero 2019. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: GrKAJsSKEb8
+ video: N0HJZ_Q6iyo
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-11'
+ lastmod: '2019-02-18'
 ---
 
 
 
-## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado virgo, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-La luna llena al comienzo de la semana podría animarte a dejar lo que estás haciendo y embarcarte en una aventura. Si anhelas hacer algo distinto, esta influencia podría inspirarte a actuar. Incluso un descanso de unos pocos días o unas horas en un nuevo entorno harán que sientas que tu cuerpo se renueva. 
-El martes, el conversador Mercurio ingresa a Géminis y a tu sector de comunicación. Esto te anima a compartir tus pensamientos e ideas. Las próximas semanas también pueden ser excelentes para entablar relaciones y comunicar tu mensaje a todo el mundo. 
-La última parte de la semana, en especial el viernes, trae consigo la promesa de algunos alegres eventos sociales y la oportunidad de un interesante encuentro.
-Un cálido y profundamente espiritual tránsito podría animarte a escuchar a una persona que necesita apoyo. Si lo haces, podrías descubrir que tienen mucho en común. 
+Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte virgo, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo virgo, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande virgo pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+Tus relaciones pueden ser animadas y vibrantes esta semana, con un encuentro excepcionalmente interesante. Puede que sientas la tentación de hacer un viaje o de tomar un descaso repentinos; si lo haces, podrías disfrutar mucho. Esta es una época de trabajo en equipo y cooperación con los demás, y no tanto de trabajo por tu cuenta. Tienes posibilidades de ganar más brindando asistencia que en la dirección de proyectos clave. Durante el fin de semana, el seductor Venus ingresa a tu sector de hogar. Es el momento perfecto para recibir invitados y mimarte un poco.
 
 ## Dinero
 
-Es hora de prestarle atención a la manera en la que te presentas a ti y tus habilidades al mundo. Esto podría significar invertir en un armario más profesional o hacer que un escritor profesional escriba tu currículum vitae. Poner tu mejor pie por delante es importante debido a la actividad en tu sector profesional, el cuál probablemente requiere de tu atención ahora.
+Es probable que estés mezclando tus contactos personales con los profesionales esta semana. El Universo te muestra cómo buscar a las personas de cualquier grupo que puedan ayudarte a avanzar en un producto, servicio, empresa o causa. Esta semana, busca a los nacidos en otros países, o los que hablan otro idioma. Cierta actividad en tu sector de dinero indica que tienes la creatividad, pero no la verdadera visión para los negocios con el fin de ganar más dinero ahora.

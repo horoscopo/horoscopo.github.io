@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: acuario 11 de febrero 2019 al 17 de febrero 2019 
-description: Horóscopo semanal acuario 11 de febrero 2019 al 17 de febrero 2019. Da la bienvenida a tu nueva vida acuario, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+title: acuario 18 de febrero 2019 al 24 de febrero 2019 
+description: Horóscopo semanal acuario 18 de febrero 2019 al 24 de febrero 2019. Hay cosas que ya no funcionan acuario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: P9aVsPoKYBw
+ video: YmwZyzJf8lM
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-11'
+ lastmod: '2019-02-18'
 ---
 
 
 
-## Da la bienvenida a tu nueva vida acuario, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+## Hay cosas que ya no funcionan acuario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 
-Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
-Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
-Marte se encuentra ahora en tu signo, lo que podría hacer resurgir tu innato coraje. Esto puede ser un llamado para que adoptes una estrategia dinámica ante una situación persistente. Además, la entrada de Venus a tu sector social le dará sabor a tu vida social y te abrirá el camino a hermosas citas románticas. Tener tiempo para reflexionar también puede ser productivo, ya que te ayuda a poner en perspectiva aspectos clave de tu vida y a atraer cambios como resultado.
+Siempre estás sonriendo acuario, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes acuario pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio acuario, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
+Esta semana, podrías brindar o pedir consejos con respecto a una meta profesional o una ambición personal. El expresivo Mercurio ingresa a un sector más prominente de tu carta el martes, por lo que podría ser útil establecer contactos con las personas adecuadas. Si tienes la suficiente generosidad para compartir tus propias experiencias, podrías dar una buena impresión. 
+A mitad de semana, la luna nueva en tu sector de lejanos horizontes podría ser un momento crucial. Si has estado esperando tomarte unas vacaciones o un corto descanso, esta fase lunar puede animarte a comenzar con el proceso. También puede coincidir con el deseo de obtener un título o una certificación, o bien de comenzar un curso que te resulte útil en el futuro. También el miércoles, el encantador Venus ingresa a tu sector social, cuya alegre influencia podría convertirte en la estrella del show. Tu nivel de atracción estará al máximo y todos se darán cuenta de ello.
 
 ## Dinero
 
+Es una gran semana para trazar un plan de negocios y pensar en cómo recaudar dinero para éste. Podrías estar pensando en cómo recaudar fondos a través de beneficios, préstamos, subvenciones e incluso donaciones en especie de empresas de mayor tamaño. Ahora más que nunca es posible que recibas una respuesta positiva. El Universo indica un momento de expansión en tu círculo social.
