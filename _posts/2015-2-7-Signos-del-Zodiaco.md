@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de febrero 2019
-description: Horóscopos del dia de hoy 20 de febrero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de febrero 2019
+description: Horóscopos del dia de hoy 21 de febrero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-02-20
+ lastmod: 2019-02-21
 ---
-Los comentarios precipitados traen dolorosos arrepentimientos cuando Mercurio se encuentra a punto de cambiar de signo como lo está hoy. Si debes decir algo, trata de evitar la angustia y encuentra una manera apacible de expresarte. Esta noche surgen interesante, intrigantes, memorables, e incluso olvidables personalidades con una astuta capacidad intuitiva cuando la Luna aspecta a Neptuno. ¡Sorpresa! Lo que sientes, está en lo correcto.
+En el primer día del 2017, haces tus resoluciones bajo la conjunción Marte/Neptuno que encienden tanto las emociones internas como la imaginación. ¿Cuáles son tus sueños para el año nuevo? Esta noche, hay punzadas de recuerdos y nostalgia. Tanto las parejas como los solteros toman un viaje por el carril de la memoria.   
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
