@@ -1,29 +1,31 @@
 ---
 layout: horoscopos
-title: acuario 18 de febrero 2019 al 24 de febrero 2019 
-description: Horóscopo semanal acuario 18 de febrero 2019 al 24 de febrero 2019. Hay cosas que ya no funcionan acuario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+title: acuario 25 de febrero 2019 al 03 de marzo 2019 
+description: Horóscopo semanal acuario 25 de febrero 2019 al 03 de marzo 2019. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: YmwZyzJf8lM
+ video: LjxN2rgcWzg
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-18'
+ lastmod: '2019-02-25'
 ---
 
 
 
-## Hay cosas que ya no funcionan acuario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 
-Siempre estás sonriendo acuario, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes acuario pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio acuario, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
-Esta semana, podrías brindar o pedir consejos con respecto a una meta profesional o una ambición personal. El expresivo Mercurio ingresa a un sector más prominente de tu carta el martes, por lo que podría ser útil establecer contactos con las personas adecuadas. Si tienes la suficiente generosidad para compartir tus propias experiencias, podrías dar una buena impresión. 
-A mitad de semana, la luna nueva en tu sector de lejanos horizontes podría ser un momento crucial. Si has estado esperando tomarte unas vacaciones o un corto descanso, esta fase lunar puede animarte a comenzar con el proceso. También puede coincidir con el deseo de obtener un título o una certificación, o bien de comenzar un curso que te resulte útil en el futuro. También el miércoles, el encantador Venus ingresa a tu sector social, cuya alegre influencia podría convertirte en la estrella del show. Tu nivel de atracción estará al máximo y todos se darán cuenta de ello.
+Te estás dando cuenta de quien sí y quien no acuario. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo acuario pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope acuario, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente acuario, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar acuario, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+Deja que tu intuición te guíe, en especial durante la primera parte de la semana. Cuando el expresivo Mercurio forma un positivo aspecto con el animado Júpiter y el etéreo Neptuno el martes, hay una energía mística en el aire que puedes aprovechar. Deja que te guíe tu sabiduría innata; podrías cosechar los frutos y, tal vez, ahorrar tiempo y dinero. 
+La positiva conexión del sol con el vital Marte en tu sector de comunicación el martes sugiere que el trabajo en equipo podría ser la mejor manera de abordar un proyecto clave, y que la mitad de semana es el mejor momento para comenzar. Si tienes un objetivo claro en mente, podrías tener mucho éxito. 
+El viernes, podrías estar a punto de ayudar en una celebración familiar o de ofrecer tu oído si alguien necesita hablar. 
+El viernes o sábado, podrías experimentar un problema de flujo de dinero temporal. Piensa en ahorrar algo de dinero, por si acaso.
 
 ## Dinero
 
-Es una gran semana para trazar un plan de negocios y pensar en cómo recaudar dinero para éste. Podrías estar pensando en cómo recaudar fondos a través de beneficios, préstamos, subvenciones e incluso donaciones en especie de empresas de mayor tamaño. Ahora más que nunca es posible que recibas una respuesta positiva. El Universo indica un momento de expansión en tu círculo social.
+Podrías darte cuenta de que tus habilidades de comunicación necesitan algo de trabajo esta semana. Mientras sientes que los puntos son claros, otros pueden necesitar una aclaración. No lo tomes como algo personal. Ellos (o tú) puede estar actuando bajo subconsciente en lugar de las necesidades reales. Debido a que los aspectos transforman la zona que rige las vidas pasadas, sueños y situaciones kármicas, siempre es mejor pecar por exceso de cortesía, sobre todo en cuanto al dinero se refiere.

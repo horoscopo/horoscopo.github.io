@@ -1,30 +1,29 @@
 ---
 layout: horoscopos
-title: aries 18 de febrero 2019 al 24 de febrero 2019 
-description: Horóscopo semanal aries 18 de febrero 2019 al 24 de febrero 2019. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad aries, ahora estás que lo partes.
+title: aries 25 de febrero 2019 al 03 de marzo 2019 
+description: Horóscopo semanal aries 25 de febrero 2019 al 03 de marzo 2019. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: KLWMhbK5fuc
+ video: I_X4pkQ3Xvk
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-18'
+ lastmod: '2019-02-25'
 ---
 
 
 
-## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad aries, ahora estás que lo partes.
+## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-Los planes que dabas por inamovibles podrían cambiar. Sin embargo, esto es algo que te agradaría. Si debes encargarte de tus responsabilidades, puede que tengas ganas de rebelarte y hacer lo que quieras. Y con la Luna Llena alentándote a salir de tu zona de confort, conservar el statu quo podría ser la opción más aburrida. Sin embargo, te convendría ponerte a trabajar en serio y encargarte de estos asuntos de una vez por todas. Tendrás tiempo para divertirte una vez que los hayas terminado.
+Además, que últimamente te han dado muchos chutes de alegría algunas personas alegres y positivas que hacía mucho que no encontrabas en tu vida así que, ¿para qué volver a las que amargan? Por favor… 
+ y el hecho de que las personas que creías que querías y te querían te den la mitad que otras te decepciona mucho. Y vuelves a la carga.
+Si has sentido confusión acerca de lo que quieres en la vida, las cosas podrían empezar a caer en su lugar durante las próximas semanas. De hecho, con Júpiter posicionado al comienzo de tu sector de ambiciones profesionales, podrías toparte con que tu confianza aumenta y con ella tu capacidad de confiar en que estás tomando decisiones sabias. Bajo el Eclipse Lunar de este viernes, piensa muy cuidadosamente con respecto a asumir un reto u oportunidad. Investiga los detalles en profundidad antes de comprometerte.
 
 ## Dinero
 
-Es crucial no aceptar la palabra de todos por ahora, sino más bien descubrir por ti cuál podría ser el mejor plan para tu dinero. Los vehículos de inversión pueden ser confusos, por lo que cuenta con la ayuda de un asesor financiero calificado que pueda ayudarte a solucionar las ecuaciones numéricas y lograr que todo se haga. Mientras tanto, el Universo añade un poco de emoción.
+Puede que tus ideas sean increíblemente creativas ahora, especialmente en lo que se refiere a cualquier tipo de comunicación. ¡Podrías estar sintiendo suficiente inspiración como para escribir un libro sobre tus experiencias y encontrar que prácticamente se escribe sólo! Estás siendo divinamente guiado/a ahora y sólo hay que asegurarse de que estés durmiendo lo suficiente, comiendo y tomando la suficiente agua.  Y mientras que estás creando tu obra maestra, es doblemente importante que dejes tiempo para las cosas prácticas.

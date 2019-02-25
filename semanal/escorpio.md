@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 18 de febrero 2019 al 24 de febrero 2019 
-description: Horóscopo semanal escorpio 18 de febrero 2019 al 24 de febrero 2019. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+title: escorpio 25 de febrero 2019 al 03 de marzo 2019 
+description: Horóscopo semanal escorpio 25 de febrero 2019 al 03 de marzo 2019. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: 9NGVMpllimo
+ video: bh8pz3If3yU
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-18'
+ lastmod: '2019-02-25'
 ---
 
 
 
-## Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante escorpio, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-Los asuntos hogareños toman la delantera, con muchas oportunidades para la expansión, el entretenimiento y para hacer de tu vida familiar exactamente lo que quieres que sea. Aun así, el Eclipse Solar de esta semana podría coincidir con una gran decisión. Si hay algo que has estado considerando por un tiempo, este Eclipse podría empujarte a tomar medidas más temprano que tarde. Sin embargo, llévatela con calma este fin de semana y durante los días posteriores a ello. Date la oportunidad de reflexionar antes de actuar.
+Madura escorpio, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte escorpio, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu escorpio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
+Si has estado pensando en alejarte de todo, la próxima semana podría encontrarte viajando hacia un clima más soleado. El deseo de descansar puede alentarte a hacer un viaje de fin de semana o incluso un poco más largo. Mientras Saturno ingresa a Capricornio el 19 de diciembre, puede que sea momento de considerar tomar un curso o una clase. Te tomarás en serio el adquirir nuevos conocimientos y adoptar creencias que pueden ayudarte a mejorar como persona. Estás a punto de embarcarte en un viaje de descubrimiento.
 
 ## Dinero
 
-Puede parecer que esta semana las cosas que se mueve en cámara lenta o incluso que se estén moviendo hacia atrás, sobre todo cuando se trata de tu capacidad de viajar, asistir a la escuela, o buscar las verdades más amplias de la vida. No te preocupes que al final las encontrarás. Mientras tanto, lo mejor es mantener tu dinero en efectivo guardado en un lugar seguro. En pocos meses, será más fácil el mover tus metas más cerca de la finalización.
+Esta semana, cierta actividad en tu sector de empleo restringirá tu vida laboral un poco y te pedirá que seas más responsable con lo que haces con tu dinero. El tratar de ser todo para todo el mundo no va a funcionar ahora. En lugar de eso, especializa tus habilidades y cobra por ello en consecuencia.  Acude a comunicarte con tus más allegados en busca de pistas sobre la manera de proceder.

@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: libra 18 de febrero 2019 al 24 de febrero 2019 
-description: Horóscopo semanal libra 18 de febrero 2019 al 24 de febrero 2019. Fuera las preocupaciones. Tira del carro libra, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+title: libra 25 de febrero 2019 al 03 de marzo 2019 
+description: Horóscopo semanal libra 25 de febrero 2019 al 03 de marzo 2019. Por muy desconfiado y duro que parezcas ser, al final acabas confiando libra y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: B2TrctlMu24
+ video: oOQB9R7-JS8
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-18'
+ lastmod: '2019-02-25'
 ---
 
 
 
-## Fuera las preocupaciones. Tira del carro libra, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+## Por muy desconfiado y duro que parezcas ser, al final acabas confiando libra y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 
-Esta semana va a estar cargada de altibajos libra, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre libra, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza libra, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite libra, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
-Presta atención a las finanzas esta semana, ya que algo que parece una excelente oportunidad podría no serlo. Si una de tus amistades o un colega te anima a que compres una membresía para un gimnasio o club, no aceptes de inmediato. Sería útil revisar bien los términos y condiciones, y descubrir el costo exacto antes de firmar cualquier documento. Lo más probable es que haya una o dos cláusulas ocultas que sumen bastante más de lo que pensabas en términos del precio final. 
-El encantador Venus, tu planeta regente, se opone al poderoso Plutón a través de tu eje de comunicación. Tal vez estés deseando saber noticias de alguien. Y si hace bastante que no ves a esta persona , tus emociones podrían convertirse en una fiebre. La verdad es que tendrás más chances de hablar con ella si no demuestras tantas ganas de hacerlo. Si adoptas un tranquilo y relajado enfoque, puedes lograr resultados positivos.
+No eres frágil libra, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo libra, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra libra, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz libra, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando libra, y sabes lo complicado que es salir de ahí después…
+El deseo de explorar un nuevo territorio y expandir tus horizontes puede intensificarse esta semana a medida que el Sol entra a tu sector de horizontes lejanos. Si tienes ganas de tomarte una vacaciones de primavera, este es el momento de hacerlo. El cosmos te incentiva para que dejes atrás tu entorno diario y te sumerjas en nuevas experiencias. Puede que te sientas un poco culpable por no encargarte de ciertas responsabilidades, pero no dejes que esto te agobie. Solo haz lo que debes hacer.
 
 ## Dinero
 
-Es necesario utilizar emociones constructivamente sobre una base regular. Si haces algo creativo para ganarte la vida, este es el equilibrio perfecto entre el arte y el comercio, porque ahora el Universo te apoya. Con cierta actividad en el área que rige la educación superior, los viajes y la espiritualidad, es el momento de mirar al exterior para generar oportunidades de dinero tan pronto como sea posible.
+Esta semana tiene algunos cambios importantes para ti en las áreas de niños, romance y diversión. Si tu profesión es la enseñanza,  el romance de algún tipo o proveer risa de algún tipo, te ganarás mucho dinero en efectivo. Las profesiones que involucran hablar y escribir te enviarán a buenas situaciones.
