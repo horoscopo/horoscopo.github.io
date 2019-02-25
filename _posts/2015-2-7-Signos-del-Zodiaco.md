@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de febrero 2019
-description: Horóscopos del dia de hoy 24 de febrero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de febrero 2019
+description: Horóscopos del dia de hoy 25 de febrero 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-02-24
+ lastmod: 2019-02-25
 ---
-Todos ponen sus propias agendas primero bajo la Luna en Aries. La salida es tomar caminos separados y reunirse más tarde en lugar de discutir sobre ello. Esta noche, el Eclipse Lunar borra los recuerdos de aquello de lo que la gente huye o hacia dónde se dirige. ¡Deja de vivir en el pasado y permítete tener nuevos intereses y desafíos!
+El día de hoy podrías experimentar temporalmente más ganas que aguante. Toma este lapso con calma y regresarás con más fortalecimiento. Esta noche, los solteros entran al mundo de las expectativas poco realistas o ilusiones sobre el amor cuando la Luna conjunta a Neptuno. Parejas, si los recuerdos están interfiriendo, es momento de dejarlos en el pasado.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
