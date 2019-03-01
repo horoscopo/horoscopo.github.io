@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo tauro febrero 2019 
+title: Horoscopo tauro marzo 2019 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
- video: gbJqZ6h8Qec
+ video: ahaY96SQ_ks
 
 ogimg: /images/tauro_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-Aprecia los detalles de tu mundo durante la luna llena del 1 de marzo. Presta mucha atención a las cosas pequeñas tanto como a las grandes. El día 13, Venus forma una cuadratura con Saturno. Una amistad o relación amorosa podría desarrollar algunas complicaciones superficiales. La luna nueva del 17 de marzo está llena de diversión y fantasía con tu gente. Déjalos que salgan con sus ocurrencias. Déjate sorprender y entretener con alegría. Profesión e imagen social se encienden durante la luna llena, y luna azul, el último día del mes. Triunfa en esa entrevista, escribe esa hoja de vida, mantén una buena relación con tus colegas, gana puntos con la administración. Si trabajas de forma independiente, consigue trabajos o buenas asociaciones.
+El Sol forma trígono con el peculiar Urano el 8 de diciembre. Si es que estás buscando ese regalo perfecto, puedes encontrarlo ese día. Bajo la Luna Nueva del 11 de diciembre puedes crear mucho, tomar un gran riesgo y aun ser responsable al mismo tiempo. Lo más probable es que implique opiniones de ciertas personas más de lo que implique dinero. Sé valiente y confía en ti. La Luna Llena del 25 de diciembre podría traerte algunos momentos tranquilos en privado para reflexionar sobre lo que realmente está pasando en tu corazón y tu conciencia. Ya sea en Navidad o al final del año, podrías hacer una observación que enriquezca tu vida futura.

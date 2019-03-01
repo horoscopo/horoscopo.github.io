@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo leo febrero 2019
-description: El Horóscopo febrero de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo leo marzo 2019
+description: El Horóscopo marzo de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo leo febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo leo marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
- video: RXPUCuiJtXA
+ video: OWmAK76Ouls
 
 ogimg: /images/mes/leo_mes.png
 sitemap:
@@ -17,10 +17,4 @@ sitemap:
 ---
 
 
-febrero de 2019 - Con la luna nueva el 9 de febrero, relájate y haz un poco el ridículo. No serás la única persona haciendo esto. Es probable que te rías mucho viendo payasadas a tu alrededor. 
-El sol forma un trígono con Plutón el día 11. Una demora inesperada o cambio de situación podría fácilmente salir a tu favor. 
-El 23 de febrero, el trígono que Mercurio forma con Marte te permite encontrar la mejor forma de expresar un mensaje u opinión importante. Sé una persona honesta y directa, no agresiva. 
-Podrías volverte el refugio de alguien durante la luna llena del día 24. Tal vez simplemente sea un tema de comunicación con alguien que está lejos y te echa de menos. Recuerda conservar tu energía. Respeta tu propio espacio personal y emocional. Es bueno estar disponible incluso si no es posible ayudar de forma directa. 
-Plutón se torna directo el 30 de febrero, luego de haber estado retrógrado desde el 22 de abril. Ten seguridad y duda menos de ti. 
-Días destacados: 1, 10, 27
-Días desafiantes: 5, 8
+Resuelve un problema doméstico o renueva el ambiente de tu hogar con la luna nueva del 15 de mayo. Detecta el cambio que quieres hacer, o experimenta jugando y ve las mejoras instantáneas. Marte forma una cuadratura con Urano, recientemente en Tauro, el día 16. Presta atención a las finanzas y evita cualquier complicación o confusión innecesaria. Sal y socializa durante la luna llena del 29 de mayo. Ninguna reunión es demasiado grande. Puede que no recuerdes el nombre de todos, pero todos te recordarán y querrán verte de nuevo. Tendrás cosas qué decir, y hay mucha gente que quiere escucharlo todo. <br><br>Días destacados: 3, 13, 19<br>Días desafiantes: 15, 25

@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo acuario febrero 2019 
+title: Horoscopo acuario marzo 2019 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
- video: lWCQgJLvX2c
+ video: IqbnVMOBa30
 
 ogimg: /images/acuario_char.png
 sitemap:
@@ -15,4 +15,8 @@ sitemap:
 ---
 
 
-Serás el héroe dentro de tu familia o grupo de amigos bajo la Luna Nueva del 4 de junio. Cualquier cosa que digas o hagas inconscientemente puede ser precisamente lo que un pariente o compañero de casa necesite. No te preocupes porque nada sea exagerado, requerido de tu parte, o de que se te pida más de lo que puedes ofrecer. Todo esto estará bajo control. La Luna Llena del 20 de junio se trata de tener creatividad y de disfrutar de todo tu tiempo y lo que haces con él. También habrá un montón de gente a tu alrededor para disfrutar todo esto contigo. ¡Hazlo divertido! Finalmente, el trígono entre Venus y Neptuno del 27 de junio comienza una semana con tintes románticos que podrían durar por días.
+Enero de 2019 - ¡Dale la bienvenida al 2019, Aries! Después de semanas de estar en una búsqueda interior, estás de vuelta en tu elemento. Tu regente, Marte, está en su casa de Aries, y está listo para ponerse en marcha. Pero primero, mientras marzo comienza, tómate el tiempo para enfocarte en el panorama completo, aclarar tus objetivos a largo plazo, y dejar atrás aquellos que superaste. Luego, cuando la luna nueva en Capricornio y el eclipse se alinean el 5 de marzo, puedes avanzar con una renovada razón de ser y una nueva dirección. 
+Hay oportunidades tentadoras en el horizonte, y habrá algunos vaivenes y altibajos, pero no pierdas de vista el premio y apunta a la victoria. 
+El día 20, la luna llena en Leo y el eclipse lunar iluminan un deseo profundo, lo que te invita a correr riesgos. Deshazte de todo aquello que piensas que significa tener éxito, y podrás descubrir el verdadero sentido del éxito: la libertad de ser quien eres, y que te aprecien por ello. Los dioses, diosas y poderes superiores te están sonriendo. Atrévete a ser una persona auténtica. Ten más fe en ti, y darás en el blanco. 
+Días destacados: 18, 22, 25 
+Días desafiantes: 8, 11, 21 

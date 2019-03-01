@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo piscis febrero 2019 
+title: Horoscopo piscis marzo 2019 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
- video: Jt3PXXFQVZ8
+ video: kDcKC57N6jw
 
 ogimg: /images/piscis_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-Tómate tu tiempo para asuntos familiares y domésticos alrededor de la luna nueva del 13 de febrero. Relájate, tómate un té, come un bocadillo y conversa por teléfono. Neptuno se torna retrógrado el día 18 y se mantiene así hasta el 24 de noviembre. La vida puede ser igual de dulce y romántica sin tener tantas fantasías o expectativas idealistas. Tu vida social aumenta durante la luna llena del 27 de febrero. Puede que no te dejes arrasar por la multitud fiestera, y tal vez no seas el centro de atención, pero te harás notar y escuchar. Deja que los demás bailen y zapateen. Diviértete, pero no es necesario que te alteres. <br><br>Días destacados: 2, 6, 19<br>Días desafiantes: 7, 25</div>
+Tu vida social adopta un tono más aventurero bajo la Luna Nueva del 7 de abril. Podrían lloverte muchas invitaciones sociales, por lo que escoge y elige al basarte en el puro placer que encuentres en cada oferta. La Luna Llena el 21 de abril acentúa tus habilidades interpersonales y talento para unir a las personas. Puede que los demás tengan ideas, planes o agendas, pero tú eres quien sabe cómo hacer que todas ellas funcionen. Gozarás de ser el catalizador que ponga todo en movimiento a medida que ganas respeto y otros tipos de recompensas. Mercurio se torna retrógrado en Tauro el 28 de abril, aspecto que te dará tiempo para echarle un segundo vistazo a algunos asuntos domésticos y monetarios.

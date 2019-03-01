@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo aries febrero 2019 
+title: Horoscopo aries marzo 2019 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
- video: t-6GLzC29lw
+ video: ZVyVhaxjIdM
 
 ogimg: /images/aries_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-Con Mercurio retrógrado y el Sol conjuntando a Plutón, el 5 de enero podría ser un día muy emocional debido a que mucha gente se sentirá al borde. Mantén cierta distancia y no tengas prisa por hacer o decidir nada. El amor hace que tu mundo funcione bajo la Luna Nueva del 9 de enero. Puede que a veces sientas nervios o dudas, más nunca dudes de que eres una persona amada y de que te lo mereces. Tu situación económica se vislumbra positiva bajo la Luna Llena del 23 de enero. Parte de la razón podría ser que tu familia quiera tener mucha bondad hacia ti. Esa generosidad extra que recibas ahora es la que te has ganado por adelantado. Acéptala amablemente.
+La gente es más agradable el 7 de noviembre, cuando la Luna en Acuario forma sextil con Saturno y luego con Urano. La Luna Llena del 14 de noviembre podría desencadenar un cambio de corazón sobre un miembro de tu familia o algo en casa. Siempre puedes hablar de ello primero y luego actuar. Una reacción instintiva puede ser tentadora, pero probablemente no es prudente. Con la llegada de la Luna Nueva del 29 de noviembre, algunas nuevas personas podrían mantener tu tiempo ocupado más que nunca. Respeta el tiempo de todos (incluido el tuyo) y participa en tanto o tan poco como quieras. Vas a tener formas agradables de prevenir que tu tiempo sea devorado por los demás.

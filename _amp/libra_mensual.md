@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo libra febrero 2019 
+title: Horoscopo libra marzo 2019 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
- video: bn3foCpOzqE
+ video: aI44XU0Fu6I
 
 ogimg: /images/libra_char.png
 sitemap:
@@ -15,4 +15,11 @@ sitemap:
 ---
 
 
-Durante la luna llena del 1 de marzo, no permitas que te inquieten los planes o preocupaciones financieras. Todo está bien. Haz grandes planes, pero que tus actos se mantengan modestos y firmes por el momento. La luna nueva del día 17 trae el poder para dar un paso valiente hacia un objetivo económico. Quizás no debes comprar esa casa ahora, pero visualiza ese futuro. El 28 de marzo, Venus forma una conjunción con Urano en Aries. El amor no está estancado, pero tal vez necesita refrescarse. Durante la luna llena, y luna azul, del último día del mes, el mundo se sentirá mucho más calmado y más bello, sin importar qué suceda. Haz que sea contagioso.
+Oct. de 2019 - El 5 de octubre, Venus se torna retrógrado. Tómate en serio el amor, y mira debajo de la superficie de las palabras y acciones. Entra a las profundidades. Evita compromisos hasta después de que Venus vuelva a su fase directa el 16 de marzo. 
+Ponte en primer lugar durante la luna nueva del día 8. Haz aquello que te anima y nutre tu espíritu. Claro, a veces cuidar de alguien es lo que más te ayuda. 
+Mercurio forma una conjunción con Venus el 15 de octubre. Las conversaciones y contactos sociales cobran vida con chispas y brillo. Esto tal vez no dure mucho, así que aprovecha. 
+Dinero u oportunidades financieras podrían aparecer en tu camino durante la luna llena del día 24. Si estás detrás de un proyecto o financiación, debería ser fácil hablar y que te escuchen. Alguien sorprendente puede tener la mente abierta a tu presentación. 
+El sol forma una conjunción con Venus el 26 de octubre. La honestidad puede incluir buenas intenciones. Que sea algo bueno. 
+Venus vuelve a entrar a Libra el día 31. Sé la versión más brillante de ti en un círculo familiar o social más amplio. 
+Días destacados: 2, 20, 28
+Días desafiantes: 10, 22

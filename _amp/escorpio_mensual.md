@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo escorpio febrero 2019 
+title: Horoscopo escorpio marzo 2019 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
- video: yByv-HvabbU
+ video: ymQGbkNn5X0
 
 ogimg: /images/escorpio_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-Dale gusto a tu mariposa social interna cuando la luna está nueva el 13 de febrero. Puede que no haya muchas conversaciones profundas, pero está bien. Busca encuentros casuales cordiales y coquetos, y diviértete mucho. El sol entra a Cáncer y comienza el verano el día 21. Muestra el mejor lado de tu personalidad, en especial a amistades y familia. Para la luna llena del 27 de febrero, elige uno o dos asuntos para concentrarte en el trabajo, y no permitas que te abrumen con otros pedidos. Tómate tu tiempo, sé una persona metódica y no tengas prisa. Los resultados hablarán por sí mismos. Tus logros no serán desestimados. <br><br>Días destacados: 5, 13, 29<br>Días desafiantes: 7, 28
+Tu situación monetaria será positiva bajo la Luna Nueva del 2 de marzo. Una ingeniosa idea podría llegar a ser más inteligente y rentable de lo que inicialmente esperabas. Confía en tu propio juicio, pero no analices demasiado. Bajo la Luna Llena del 18 de marzo podrás terminar un sinfín de numerosos pequeños proyectos que han estado en pausa. La mayoría de ellos serán pequeñas divertidas tareas que te harán sonreír y sentir satisfacción. El 30 de marzo, Mercurio comienza su período retrógrado en Virgo. Relájate y no te estreses por nada. Eres el signo más organizado de todos. Si hay algo que acabas de terminar pero que te gustaría mejorar, este es el momento adecuado para ello.

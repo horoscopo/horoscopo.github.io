@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo capricornio febrero 2019 
+title: Horoscopo capricornio marzo 2019 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
- video: 2xUFJm8dvVI
+ video: mjVkx0JQgPs
 
 ogimg: /images/capricornio_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-El trígono que la luna forma con Venus el 5 de febrero puede suavizar una situación incómoda y llevar a más romance cuando Venus forma un trígono con Marte el 7 de febrero. Urano se torna retrógrado en Tauro ese día también, cuando puede que lo que digas no sea lo que los demás escuchan. La vida doméstica se pone delicada con la luna nueva (y el eclipse solar) del día 11. Un exceso de algo bueno podría crear un problema o desacuerdo después.  El 18 de febrero, Mercurio retrógrado forma un sextil con Venus. Dale una mirada más profunda a un asunto artístico o romántico. Mercurio se torna directo esa noche. Lo que aprendes del sextil pronto será útil. La luna llena del día 26 trae buena suerte en un asunto financiero y tal vez algunas inesperadas oportunidades de ingreso. Ahora conecta con una red más sofisticada. Además, Venus forma una cuadratura con Plutón ese día. No es un buen momento para forzar la intimidad. Marte se torna directo al día siguiente, y algunas personas pueden tener problemas para escuchar un no.Días destacados: 5, 14, 25Días desafiantes: 1, 30</div>
+El Sol conjunta a Saturno el 10 de diciembre. Acepta la autoridad que tienes y compórtate justamente con la gente. Todo lo que digas y hagas será respetado. Los días alrededor de la Luna Llena del 13 de diciembre serán totalmente ocupados y es posible que te surja un sentimiento de olvido o abandono. Tal no es real. Alguien está notando lo importante que eres para todo lo que está sucediendo ahora. Simplemente no lo dice. Durante la Luna Nueva del 28 de diciembre, recibirás un cuidado mágico, tierno y amoroso por parte de amigos y familiares. Tal será intenso, estará enfocado en ti y será un tremendo apoyo. Se te ama y atesora mucho más de lo que te das cuenta. ¡Lleva ese sentimiento contigo hacia el nuevo año!

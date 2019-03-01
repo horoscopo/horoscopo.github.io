@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo sagitario febrero 2019
-description: El Horóscopo febrero de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo sagitario marzo 2019
+description: El Horóscopo marzo de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo sagitario febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo sagitario marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
- video: uqUwFbQDggA
+ video: b71XDFMCBaM
 
 ogimg: /images/mes/sagitario_mes.png
 sitemap:
@@ -17,4 +17,4 @@ sitemap:
 ---
 
 
-Tu mundo se expande con rapidez el 5 de febrero cuando llega la luna llena. Conoce a más personas, algunas de ellas exóticas o con gustos exóticos. Disfruta de la variedad y también haz tu aporte personal. Durante la luna nueva del 19 de febrero, podrías brillar en tu vecindario y círculo inmediato de hermanos y primos. Tal vez no pases tiempo con todos ellos, pero estarás en sus pensamientos, y podrías recibir noticias de algunos de ellos. El sol forma una conjunción con Júpiter el 26 de febrero y crea una situación muy afortunada que puede corregir un problema que es fundamental pero molesto. Sé una persona agradecida. 
+La paz y la tranquilidad pueden ser muy valiosas bajo la Luna Llena del 9 de junio. Podría ser difícil escapar de todas las actividades y demandas de tu tiempo. Encuentra refugio en la música, la lectura y los momentos de soledad, incluso si estás en medio de una multitud. El 15 de junio, la oposición entre el Sol y Saturno podría crear una lucha de poder que podrías aprovechar. La Luna Nueva del 23 de junio trae más amor, afecto y atención de la que una persona podría querer. Disfrútalos. Te mereces la adoración, y te mereces que te traten bien. Siente como tu autoestima se eleva, y siéntete bien al respecto.<br><br><b>Mejores días:</b> 1, 19, 24<b>Peores días:</b> 18, 29
