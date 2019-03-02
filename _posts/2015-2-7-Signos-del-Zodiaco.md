@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de marzo 2019
-description: Horóscopos del dia de hoy 01 de marzo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de marzo 2019
+description: Horóscopos del dia de hoy 02 de marzo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-03-01
+ lastmod: 2019-03-02
 ---
-No es ni aquí ni allá, tal vez, pero argumentar no te lleva a ninguna parte durante la Luna saliéndose de su órbita el día de hoy. ¿Será que este molesto día llegará a su fin? Pues sí, lo hará. La de esta noche es una sensata y controlada Luna en Capricornio. Si no tienes pareja, disfruta de no tener que toparte con historias de ficción. Lo que ves es lo que hay. 
+Marte aspectando a Saturno el día de hoy te da deseos de salir a hacer cosas. Por su parte, Saturno está listo para defender cierta posición. Y juntos: La mejor defensa es tener una buena ofensa. La noche está llena de sorpresas cuando la Luna aspecta a Urano. Dale la bienvenida el sentimiento. Anticipa que alguien se robe tu corazón.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
