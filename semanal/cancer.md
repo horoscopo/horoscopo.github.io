@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 25 de febrero 2019 al 03 de marzo 2019 
-description: Horóscopo semanal cancer 25 de febrero 2019 al 03 de marzo 2019. No desaproveches las oportunidades más cancer, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
+title: cancer 04 de marzo 2019 al 10 de marzo 2019 
+description: Horóscopo semanal cancer 04 de marzo 2019 al 10 de marzo 2019. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: yJX4nFTdZCc
+ video: X0ETZI7b1NI
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-02-25'
+ lastmod: '2019-03-04'
 ---
 
 
 
-## No desaproveches las oportunidades más cancer, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
+## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 
-Estás bien aquí, estás bien allí, y en cuanto las cosas se complican un poquito, por poco que sea, huyes. Está bien que vivas de esas manera, buscando en realidad cualquier lugar que te de felicidad, cualquier momento sea cual sea y donde sea. Pero 
- un poquito de ella.
-El Sol en Capricornio te estimula a organizarte en relación a cuestiones de trabajo, estilo de vida y bienestar. Tu enfoque también se concentrará en el ocio y el placer cuando Venus entre a Sagitario, dándote una gran oportunidad para disfrutar de la época festiva y las celebraciones de Año Nuevo. Además, Marte entrando a tu sector familiar podría darte ganas de eliminar el desorden. Esto significa abordar aquellas áreas que no han visto la luz del día durante algún tiempo. Te sentirás mucho mejor una vez que empieces.
+Son muchos los que quieren arruinar tu vida cancer, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa cancer, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega cancer. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos cancer. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida cancer. Ahora brillas así que, aprovecha. Aprovecha todo.
+
 
 ## Dinero
 
-Tu inclinación natural a disfrutar de las cosas buenas de la vida puede ser activada esta semana. Ampliar las oportunidades podría permitir que consigas satisfacer tus necesidades a través de todo tipo de redes sociales y empresariales. Un aspecto de apoyo afecta a tu sector de comunicaciones, por lo que respecta a cuestiones de dinero, significa que tienes una mejor oportunidad de alcanzar tus metas. No asumas que los demás saben lo que estás buscando.
+Esta semana recibirás un mensaje diciéndote que es tiempo de darle seriedad a tu carrera y a algunas figuras importantes en tu vida. Si estás tratando de salir adelante, puede que sea mejor que tomes una pausa de unos meses, prepararte para asumir una nueva posición, y así lograr un cambio. Aunque usualmente estás listo/a para la acción, tendrás que esperar un poco ésta vez.
