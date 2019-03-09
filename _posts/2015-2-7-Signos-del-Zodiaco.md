@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de marzo 2019
-description: Horóscopos del dia de hoy 08 de marzo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de marzo 2019
+description: Horóscopos del dia de hoy 09 de marzo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-03-08
+ lastmod: 2019-03-09
 ---
-Puede que hoy tengas que hacer una promesa y mantenerla. En este sentido, evita actuar y dar tu absoluta palabra a menos que tengas completa seguridad de que lo que estás diciendo es lo correcto. Evita saltar a conclusiones precipitadas durante la cuadratura entre la Luna y Plutón de esta noche. Presta atención primero, y luego saca las tuyas propias.
+Hoy, la vida es muy ordenada bajo la increíblemente eficiente Luna en Virgo. Venus, el astro del amor, también se encuentra en Virgo, dándonos tendencia a juzgar a las personas a tan sólo unos minutos de haberlas conocido. A veces es bueno aplicar la prueba del tiempo cuando los veredictos son firmes y la información es escasa.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
