@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 04 de marzo 2019 al 10 de marzo 2019 
-description: Horóscopo semanal virgo 04 de marzo 2019 al 10 de marzo 2019. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+title: virgo 11 de marzo 2019 al 17 de marzo 2019 
+description: Horóscopo semanal virgo 11 de marzo 2019 al 17 de marzo 2019. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: VLH2dA46vPA
+ video: 7jiFkoC6bEg
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-03-04'
+ lastmod: '2019-03-11'
 ---
 
 
 
-## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+## En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 
-Es muy importante que eches la vista atrás virgo, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
+Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea virgo. 
+ Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
 
 
 ## Dinero
 
-Ciertos aspectos se unen en tu sector de dinero y valores esta semana. Esto puede explicar por qué a pesar de que hay ciertas oportunidades aproximándose, algunas de ellas requieren de más trabajo o más educación del que actualmente tienes o puedes ofrecer. No te preocupes. Te enfrentas a un momento en el que es necesario centrarse en la política de tu empresa. Invita a tu jefe a comer.
