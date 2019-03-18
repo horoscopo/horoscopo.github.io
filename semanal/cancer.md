@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 11 de marzo 2019 al 17 de marzo 2019 
-description: Horóscopo semanal cancer 11 de marzo 2019 al 17 de marzo 2019. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+title: cancer 18 de marzo 2019 al 24 de marzo 2019 
+description: Horóscopo semanal cancer 18 de marzo 2019 al 24 de marzo 2019. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: 7cdARHLcuHs
+ video: hMH104p3YlE
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-03-11'
+ lastmod: '2019-03-18'
 ---
 
 
 
-## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 
-Se avecinan cambios Capri, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Capri, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Capri. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana cancer.
-
+A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario Capri, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada.
+Aunque tu tiempo estará ocupado mientras haces malabares en el frente hogareño, la Luna Llena en proceso de manifestarse el Viernes podría volverte el centro de atención por una razón u otra. Si necesitas una oportunidad para compartir una brillante idea o mostrar tus habilidades, este es el momento perfecto para ello. Saturno se torna directo en tu sector de relaciones el Sábado, lo que puede ayudarte a mejorar tus interacciones, especialmente si has tenido problemas recientemente. Las soluciones podrían estar ahora a tu alcance.
 
 ## Dinero
 
-Cuando alguien quiere saber cómo establecer una red en conjunto, acude a ti. Entiendes a un nivel muy profundo cómo trabajar con otros para beneficiar a todos los involucrados. Ahora tendrás todo el apoyo que necesitas para atraer más dinero a través del uso de tus conocimientos, al completar un plan de negocios, o al buscar inversionistas formales. No tengas timidez. Pide lo que necesitas.
+Te encanta hacer que tu lugar de trabajo sea tan cómodo como tu casa, y esto podría implicar hacer que los demás en el trabajo se sientan como en familia. Con un aspecto armonioso ahora, es muy probable que lleves esto un paso más allá debido a que afecta la zona de tu gráfico que rige los niños, familia, romance y diversión. Suena como si organizar un evento para la empresa no fuera una mala idea para mantener la moral alta. Organizar juegos para entretener a todos será más que bueno.

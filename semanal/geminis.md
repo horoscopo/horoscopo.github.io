@@ -1,28 +1,33 @@
 ---
 layout: horoscopos
-title: geminis 11 de marzo 2019 al 17 de marzo 2019 
-description: Horóscopo semanal geminis 11 de marzo 2019 al 17 de marzo 2019. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+title: geminis 18 de marzo 2019 al 24 de marzo 2019 
+description: Horóscopo semanal geminis 18 de marzo 2019 al 24 de marzo 2019. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: 9SkQ-kA0U08
+ video: 6q4Kt3QWESQ
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-03-11'
+ lastmod: '2019-03-18'
 ---
 
 
 
-## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo geminis. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que geminis estalla, nadie se salva.
-
+Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
+ La gente es como es y no debes martirizarte por ello geminis.
+La luna nueva en tu signo del martes, que da inicio a una dinámica nueva etapa, podría hacer que estés a punto de comenzar un nuevo recorrido. Esta podría ser una muy memorable luna nueva para ti. 
+El mismo día, el innovador Urano ingresa a tu signo, lo que podría coincidir con una decisión de expresar más tu auténtica naturaleza. Puede que tengas noticias que compartir que te has estado guardando para ti o tal vez conectes con alguien que consideras una inspiración o un modelo a seguir.
+También el martes, el fogoso Marte ingresa a Acuario y a tu sector de metas profesionales, lo que podría animarte a concretar tus ambiciones de forma más afirmativa. 
+Por otro lado, el encantador Venus ingresa a Cáncer el sábado, lo que podría inspirarte a organizar una reunión con tus viejas amistades. 
+El sol ingresa a Géminis el domingo. Este podría ser un buen momento para evaluar tus finanzas.
 
 ## Dinero
 
-Esta semana se trata del choque de energías que puede hacer que sientas tensión o abandono. Estás construyendo estructuras tanto en tu vida familiar como romántica. Tu trabajo puede estarte llamando en medida de que un cambio es claramente necesario. La pregunta es, ¿qué debería cambiar?
+Puede parecer como si estuvieras yendo hacia atrás con ciertos aspectos en tu sector de efectivo y valores. Es posible que estés pensando en dinero, pero ciertas cuestiones siguen interponiéndose o atrasándote. Es desesperante y, afortunadamente, temporal. La buena noticia es que es fácil comunicarse en todas las áreas de tu vida. Si necesitas un préstamo de banco, organiza toda tu documentación y lánzate a ello.

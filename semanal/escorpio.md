@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 11 de marzo 2019 al 17 de marzo 2019 
-description: Horóscopo semanal escorpio 11 de marzo 2019 al 17 de marzo 2019. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+title: escorpio 18 de marzo 2019 al 24 de marzo 2019 
+description: Horóscopo semanal escorpio 18 de marzo 2019 al 24 de marzo 2019. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro escorpio.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: XDIUO95VtcU
+ video: p36cfpfoSO0
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-03-11'
+ lastmod: '2019-03-18'
 ---
 
 
 
-## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro escorpio.
 
-Quita importancia a las cosas escorpio, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas escorpio. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
-
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
+El actual enfoque en horizontes lejanos puede llevarte a hacer planes de viaje y considerar opciones de estudio. Y cuanto más te dispongas a salirte de su zona de confort, más interesantes serán las puertas que se abrirán a tu paso. En cuanto a un cambio de carrera, sería prudente confiar en tus instintos. Puede que un puesto de trabajo parezca ser perfecto, pero si sospechas que no lo es, investiga más a fondo. También es posible que un patrón de creencias te esté evitando intentar algo nuevo.
 
 ## Dinero
 
-Estás pasando por una transformación enorme, especialmente en lo relativo a tu apariencia y comportamiento. Te estás convirtiendo en quién siempre estuviste destinado/a a ser. Mientras tanto, los aspectos agitan las cosas en lugares que hayan quedado obsoletos. Esto podría incluir tu hogar. El gastar un poco para arreglar tu casa, oficina o incluso iniciar un nuevo negocio hace maravillas para tu confianza. Prepárate para asumir el papel que te corresponde.
+Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.
