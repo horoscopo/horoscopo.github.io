@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 23 de marzo 2019
-description: Horóscopos del dia de hoy 23 de marzo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 24 de marzo 2019
+description: Horóscopos del dia de hoy 24 de marzo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-03-23
+ lastmod: 2019-03-24
 ---
-¿Fue la locura de ayer demasiado para ti? Puedes apegarte a tu posición y aun así mantener la calma cuando la Luna en Tauro mantiene las cosas constantes. Un ritmo más lento al de ayer es agradable. Esta noche, mira profundamente los ojos de alguien y lee sus buenos sentimientos y pensamientos cuando la Luna aspecta a Júpiter y Neptuno.
+Justo cuando estás a punto de hacerle entender algo a alguien, la Luna comienza a salirse de su órbita y tal persona vuelve a protegerse una vez más. Tal parece que necesitas tener esa conversación una vez más. Pon un poco de tu magia en acción bajo la Luna en Leo de esta noche. Si buscas pareja, ¡podrías descubrir que no todos los buenos partidos han sido tomados!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
