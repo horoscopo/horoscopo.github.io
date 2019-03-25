@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: cancer 18 de marzo 2019 al 24 de marzo 2019 
-description: Horóscopo semanal cancer 18 de marzo 2019 al 24 de marzo 2019. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+title: cancer 25 de marzo 2019 al 31 de marzo 2019 
+description: Horóscopo semanal cancer 25 de marzo 2019 al 31 de marzo 2019. Nada tiene que ser ahora suficiente para ti cancer, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: hMH104p3YlE
+ video: roxpizizoLQ
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-03-18'
+ lastmod: '2019-03-25'
 ---
 
 
 
-## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+## Nada tiene que ser ahora suficiente para ti cancer, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 
-A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario Capri, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada.
-Aunque tu tiempo estará ocupado mientras haces malabares en el frente hogareño, la Luna Llena en proceso de manifestarse el Viernes podría volverte el centro de atención por una razón u otra. Si necesitas una oportunidad para compartir una brillante idea o mostrar tus habilidades, este es el momento perfecto para ello. Saturno se torna directo en tu sector de relaciones el Sábado, lo que puede ayudarte a mejorar tus interacciones, especialmente si has tenido problemas recientemente. Las soluciones podrían estar ahora a tu alcance.
+Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
+Con la entrada de Venus a tu sector espiritual, aprovechas para tomarte un tiempo extra y ayudar a aquellos que realmente lo necesitan. Participar en un evento caritativo o visitar un asilo de ancianos o a personas enfermas puede resultarte gratificante. Aun así, otra parte de ti siente ganas de seguir adelante y este es el momento perfecto para hacerlo. Cualquiera que sea tu plan, no esperes hasta el año próximo para ponerte en marcha. ¡Este es el momento adecuado!
 
 ## Dinero
 
-Te encanta hacer que tu lugar de trabajo sea tan cómodo como tu casa, y esto podría implicar hacer que los demás en el trabajo se sientan como en familia. Con un aspecto armonioso ahora, es muy probable que lleves esto un paso más allá debido a que afecta la zona de tu gráfico que rige los niños, familia, romance y diversión. Suena como si organizar un evento para la empresa no fuera una mala idea para mantener la moral alta. Organizar juegos para entretener a todos será más que bueno.
+Los asuntos laborales y las figuras de autoridad se ponen de relieve esta semana. Si deseas el mismo tipo de respeto, dinero en efectivo y disfrutar de la admiración de tus ídolos, tendrás que invertir tiempo y trabajar para llamar su atención con tus ideas. Mientras tanto, cuida tu forma de vestir y expresarte en el mundo. Mientras que ciertas personas te perciben de una manera, sientes tentación a tomar un nuevo camino para mantenerles adivinando.
