@@ -56,7 +56,10 @@ messagingSenderId: 244554573719
 adsense: ca-pub-7033627990045927
 
 # Enter your Facebook app code to activate monetize
-facebook_app: 812650812148610
+facebook_app: 260628817615223
+
+# Enter your Facebook pixel code to track events
+facebook_pixel: 889356488064783
 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
