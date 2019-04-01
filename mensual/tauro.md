@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo tauro marzo 2019
-description: El Horóscopo marzo de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo tauro abril 2019
+description: El Horóscopo abril de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/tauro/
 amplink: /horoscopo-mensual/amp/tauro/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo tauro marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo tauro abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
- video: ahaY96SQ_ks
+ video: d5If5HpbQbw
 
 ogimg: /images/mes/tauro_mes.png
 sitemap:
@@ -17,4 +17,4 @@ sitemap:
 ---
 
 
-El Sol forma trígono con el peculiar Urano el 8 de diciembre. Si es que estás buscando ese regalo perfecto, puedes encontrarlo ese día. Bajo la Luna Nueva del 11 de diciembre puedes crear mucho, tomar un gran riesgo y aun ser responsable al mismo tiempo. Lo más probable es que implique opiniones de ciertas personas más de lo que implique dinero. Sé valiente y confía en ti. La Luna Llena del 25 de diciembre podría traerte algunos momentos tranquilos en privado para reflexionar sobre lo que realmente está pasando en tu corazón y tu conciencia. Ya sea en Navidad o al final del año, podrías hacer una observación que enriquezca tu vida futura.
+El 3 abril es un día serio y romántico conforme la Luna conjunta a Venus. Si es que resultas estar en la misma frecuencia con una persona especial ahora, ese sentimiento podría resultar ser a la larga. ¡La Luna Llena del 15 de abril es vigorizante! Te sentirás más saludable, con más energía y tendrás más interés en tareas pequeñas, pero más constructivas. Riega tus plantas, cuida a tu mascota, lava el coche - haz exactamente lo que te haga feliz. La Luna Nueva del 30 de abril pone un gran romance en tu camino. Si secretamente estás en busca de una relación más audaz y aventurera, podrías encontrarla ahora. Ambos serán inteligentes al respecto, y si no dura para siempre, ambos lo entenderán.

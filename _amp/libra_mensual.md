@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo libra marzo 2019 
+title: Horoscopo libra abril 2019 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
- video: aI44XU0Fu6I
+ video: 9oMsP_hJ5P4
 
 ogimg: /images/libra_char.png
 sitemap:
@@ -15,11 +15,7 @@ sitemap:
 ---
 
 
-Oct. de 2019 - El 5 de octubre, Venus se torna retrógrado. Tómate en serio el amor, y mira debajo de la superficie de las palabras y acciones. Entra a las profundidades. Evita compromisos hasta después de que Venus vuelva a su fase directa el 16 de marzo. 
-Ponte en primer lugar durante la luna nueva del día 8. Haz aquello que te anima y nutre tu espíritu. Claro, a veces cuidar de alguien es lo que más te ayuda. 
-Mercurio forma una conjunción con Venus el 15 de octubre. Las conversaciones y contactos sociales cobran vida con chispas y brillo. Esto tal vez no dure mucho, así que aprovecha. 
-Dinero u oportunidades financieras podrían aparecer en tu camino durante la luna llena del día 24. Si estás detrás de un proyecto o financiación, debería ser fácil hablar y que te escuchen. Alguien sorprendente puede tener la mente abierta a tu presentación. 
-El sol forma una conjunción con Venus el 26 de octubre. La honestidad puede incluir buenas intenciones. Que sea algo bueno. 
-Venus vuelve a entrar a Libra el día 31. Sé la versión más brillante de ti en un círculo familiar o social más amplio. 
-Días destacados: 2, 20, 28
-Días desafiantes: 10, 22
+Tómate tu tiempo para asuntos familiares y domésticos alrededor de la luna nueva del 13 de abril. Relájate, tómate un té, come un bocadillo y conversa por teléfono. Neptuno se torna retrógrado el día 18 y se mantiene así hasta el 24 de abril. La vida puede ser igual de dulce y romántica sin tener tantas fantasías o expectativas idealistas. Tu vida social aumenta durante la luna llena del 27 de abril. Puede que no te dejes arrasar por la multitud fiestera, y tal vez no seas el centro de atención, pero te harás notar y escuchar. Deja que los demás bailen y zapateen. Diviértete, pero no es necesario que te alteres. 
+
+Días destacados: 2, 6, 19
+Días desafiantes: 7, 25

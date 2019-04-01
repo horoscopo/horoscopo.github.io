@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo acuario marzo 2019
-description: El Horóscopo marzo de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo acuario abril 2019
+description: El Horóscopo abril de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo acuario marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo acuario abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
- video: IqbnVMOBa30
+ video: TNwOdtpGh3Q
 
 ogimg: /images/mes/acuario_mes.png
 sitemap:
@@ -17,8 +17,8 @@ sitemap:
 ---
 
 
-Enero de 2019 - ¡Dale la bienvenida al 2019, Aries! Después de semanas de estar en una búsqueda interior, estás de vuelta en tu elemento. Tu regente, Marte, está en su casa de Aries, y está listo para ponerse en marcha. Pero primero, mientras marzo comienza, tómate el tiempo para enfocarte en el panorama completo, aclarar tus objetivos a largo plazo, y dejar atrás aquellos que superaste. Luego, cuando la luna nueva en Capricornio y el eclipse se alinean el 5 de marzo, puedes avanzar con una renovada razón de ser y una nueva dirección. 
-Hay oportunidades tentadoras en el horizonte, y habrá algunos vaivenes y altibajos, pero no pierdas de vista el premio y apunta a la victoria. 
-El día 20, la luna llena en Leo y el eclipse lunar iluminan un deseo profundo, lo que te invita a correr riesgos. Deshazte de todo aquello que piensas que significa tener éxito, y podrás descubrir el verdadero sentido del éxito: la libertad de ser quien eres, y que te aprecien por ello. Los dioses, diosas y poderes superiores te están sonriendo. Atrévete a ser una persona auténtica. Ten más fe en ti, y darás en el blanco. 
-Días destacados: 18, 22, 25 
-Días desafiantes: 8, 11, 21 
+Empiezas el año con un tono pensativo. Hay muchas cosas dando vueltas en tu cabeza, tal vez decisiones difíciles, pero no necesita ser un proceso doloroso. Tómate el tiempo para aclarar tus objetivos, y no te enfoques en tus limitaciones. 
+El 5 de abril, la luna nueva en Capricornio y el eclipse solar marcan el comienzo de una fase de 18 meses de librarte de falsas creencias (o las creencias de tus padres), para redefinir lo que significa el éxito para ti. Será necesario asumir un compromiso diario, pero puedes lograr cualquier cosa que te propongas. 
+ La luna llena en Leo y el eclipse lunar del día 20 sugieren que, en lo profesional, estás terminando un capítulo y avanzando a un nuevo nivel. Eres una persona que vale oro, y tienes mucho para ofrecerle a este mundo y a tus relaciones. El éxito no significaría nada si no tuvieras personas y familia (de sangre y de corazón), que quieres y que te quieren, para compartir los altibajos de la vida. Cuando logras ver el pasado desde una nueva perspectiva, puedes encontrar el coraje para hacer todos los cambios necesarios. Esto no se trata del éxito o la imagen pública. Tienes una sola vida y es preciosa. Sigue tu pasión. 
+Días destacados: 4, 22, 29 
+Días desafiantes: 5, 8, 21

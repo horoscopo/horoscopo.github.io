@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo leo marzo 2019
-description: El Horóscopo marzo de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo leo abril 2019
+description: El Horóscopo abril de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo leo marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo leo abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
- video: OWmAK76Ouls
+ video: XrYPv8okhBU
 
 ogimg: /images/mes/leo_mes.png
 sitemap:
@@ -17,4 +17,4 @@ sitemap:
 ---
 
 
-Resuelve un problema doméstico o renueva el ambiente de tu hogar con la luna nueva del 15 de mayo. Detecta el cambio que quieres hacer, o experimenta jugando y ve las mejoras instantáneas. Marte forma una cuadratura con Urano, recientemente en Tauro, el día 16. Presta atención a las finanzas y evita cualquier complicación o confusión innecesaria. Sal y socializa durante la luna llena del 29 de mayo. Ninguna reunión es demasiado grande. Puede que no recuerdes el nombre de todos, pero todos te recordarán y querrán verte de nuevo. Tendrás cosas qué decir, y hay mucha gente que quiere escucharlo todo. <br><br>Días destacados: 3, 13, 19<br>Días desafiantes: 15, 25
+No hay luna llena en abril este año, pero no te sientas en desventaja. El 1 de abril es el día posterior a una luna llena, y el 28 de abril es el día previo a otra. Intenta hacer más cosas de las que puedes imaginar cuando el mes comienza y cuando se acaba. La luna forma una conjunción con Marte en el intenso Sagitario el día 8. Conecta con una gran cantidad de personas y llega a la cima. La luna nueva (y el eclipse solar) del 15 de abril está llena de gente e interacción social. Conoce gente nueva y deja que te enseñen algunos lugares y eventos nuevos y emocionantes. Puedes liderar al grupo en otra ocasión. 

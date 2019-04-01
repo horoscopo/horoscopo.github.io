@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo capricornio marzo 2019 
+title: Horoscopo capricornio abril 2019 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
- video: mjVkx0JQgPs
+ video: ZztjjoXCEv8
 
 ogimg: /images/capricornio_char.png
 sitemap:
@@ -15,4 +15,6 @@ sitemap:
 ---
 
 
-El Sol conjunta a Saturno el 10 de diciembre. Acepta la autoridad que tienes y compórtate justamente con la gente. Todo lo que digas y hagas será respetado. Los días alrededor de la Luna Llena del 13 de diciembre serán totalmente ocupados y es posible que te surja un sentimiento de olvido o abandono. Tal no es real. Alguien está notando lo importante que eres para todo lo que está sucediendo ahora. Simplemente no lo dice. Durante la Luna Nueva del 28 de diciembre, recibirás un cuidado mágico, tierno y amoroso por parte de amigos y familiares. Tal será intenso, estará enfocado en ti y será un tremendo apoyo. Se te ama y atesora mucho más de lo que te das cuenta. ¡Lleva ese sentimiento contigo hacia el nuevo año!
+El 3 de abril, la conjunción entre Venus y Urano hace que el amor se vuelva salvaje y loco, si quieres tener una relación más aventurera. La vida social tararea alegremente durante la Luna Llena del 9 de abril. Puede que sea difícil elegir entre todos los eventos y las invitaciones que te lleguen. Las personas quieren ser adorables y entretenidas. Disfruta de los muchos buenos sentimientos. Decide comer más sabiamente y tratar bien a tu persona bajo la Luna Nueva del 23 de abril. Ponte el objetivo de reducir el estrés de tu vida y siente la virtud de hacerlo. Si no cuidas mejor de tu persona, ¿quién lo hará?
+
+Mejores días: 4, 18, 27Peores días: 2, 25
