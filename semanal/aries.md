@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: aries 25 de marzo 2019 al 31 de marzo 2019 
-description: Horóscopo semanal aries 25 de marzo 2019 al 31 de marzo 2019. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+title: aries 01 de abril 2019 al 07 de abril 2019 
+description: Horóscopo semanal aries 01 de abril 2019 al 07 de abril 2019. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: JS8D04Spjaw
+ video: RSlq7dm03-g
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-03-25'
+ lastmod: '2019-04-01'
 ---
 
 
 
-## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 
-Necesitas tener un objetivo en la vida aries, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada aries, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
-El animado Marte, que actualmente está en tu sector de estilo de vida, puede motivarte a implementar algunos hábitos más saludables. Sin embargo, puede que lo mejor sea comenzar de a poco. Cuando el animado Marte se encuentra en Acuario, a veces tus esfuerzos podrían ser erráticos. Si encuentras tu ritmo y mantienes una energía positiva, deberías lograr el resultado que estás buscando. 
-La luna nueva en tu sector de metas y carrera a mitad de semana puede ser una oportunidad para avanzar un paso más en dirección a tus sueños. Si has estado planeando comenzar, definitivamente este es el momento para hacerlo. Y el mismo día, el encantador Venus ingresa a Leo y a un sector más espiritual de tu carta. Esto puede inspirarte a ofrecer tu tiempo a una organización de caridad o a ayudar a alguien que lo necesita. Si lo haces, podrías descubrir que este tipo de trabajo es muy satisfactorio.
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo aries. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que aries estalla, nadie se salva.
+Puede que tu forma de ver las cosas sea bastante fuerte esta semana a pesar de que tratas de mantener la calma en torno a una determinada cuestión. Cuando el animado Marte se alinea con el expansivo Júpiter en Escorpión, tu necesidad de compartir información podría ser potente. Puede que surja un problema si eres demasiado entusiasta al punto de empujar a los demás e intentar convencerlos de tu causa. Si quieres que te escuchen, la forma de proceder es darles el espacio para que tomen sus propias decisiones. Aquellos a quienes les interese se quedarán; y puede que les encante tu intensa y apasionada postura sobre el tema. Las personas que no se muestren interesadas terminarán alejándose. 
+ Intenta tener una agenda relajada el domingo, cuando la luna llena estará en tu signo. Puede que descubras que estás más sensible que de costumbre. Por último, Venus ingresa a un sector más sensible de tu carta esta semana, lo que puede mejorar tu vida amorosa.    
 
 ## Dinero
 
-Esta semana estás en el meollo de las cosas con ciertos aspectos afectando tu sector de dinero y valores. Se te está forzando hacia cierta área de tu vida que ha sido desatendida durante demasiado tiempo. Pon un poco más de tu pensamiento y acción en cómo ganar dinero y cuánto quieres ganar en el futuro.
+Te preparas para gastar en cosas bonitas para hacer de tu vida una más cómoda y relajada. Pero tal vez no necesitas todos esos aparatos o esos viajes con todo pagado. El cortar un poco en gastos puede dejar más espacio para futuros proyectos, viajes y actividades que realmente enciendan tu fuego. Tus amigos pueden ayudarte a mantenerte por buen camino.
