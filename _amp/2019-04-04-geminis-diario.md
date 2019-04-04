@@ -1,0 +1,26 @@
+---
+layout: amp
+title: geminis hoy gratis 04 de abril del 2019 
+permalink: /horoscopo-diario-gratis/amp/geminis/
+normallink: /horoscopo-diario-gratis/geminis/
+home: FALSE
+horoscopo:
+ signo: geminis
+ video: FbgcobR4oRY
+
+ogimg: /images/geminis_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Hoy se te ocurrirá una idea creativa. La alineación astral del momento llenará tu mente de pensamientos imaginativos. Préstale atención a esas extrañas inspiraciones que repentinamente aparecen en tu mente. ¡No las ignores, aunque te resulten extrañas! Tu intuición se encontrará activada, y aparecerá de vez en cuando de maneras interesantes. Sigue esos inusuales pensamientos y escucha los mensajes de tu inconsciente.
+
+## Amor
+
+Es obvio que hoy te has tomado con mucha seriedad el buscar a tu nuevo romance. Probablemente ambos están enamorándose profundamente. Ahora que tu relación está justo donde querías que estuviese puedes mostrar agradecimiento. Piensa en algún modo divertido de celebrarlo con tu pareja.
+
+## Trabajo
+
+Es probable que el trabajo te sobrepase a tal punto que termines por sentirte apabullado/a. Quizá no te des cuenta, pero en lo profundo de tu ser complejas emociones han comenzado a manar. Para cuando el día llegue a su final, tu estado emocional puede ser lastimoso.

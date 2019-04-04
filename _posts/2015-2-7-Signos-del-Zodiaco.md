@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de abril 2019
-description: Horóscopos del dia de hoy 03 de abril 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de abril 2019
+description: Horóscopos del dia de hoy 04 de abril 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-04-03
+ lastmod: 2019-04-04
 ---
-El Sol formando trígono con Plutón te abre una ventana de cuatro días de alternativas que no tenías antes. Solteros, esperen conocer a la gente sólo superficialmente bajo la Luna fuera de curso en Géminis de esta noche. Para las parejas, alguien puede darse cuenta de que ha estado diciendo demasiado y tratar de dar marcha atrás.
+Te encuentras bajo una impredecible Luna en Acuario. Sé flexible y adáptate rápido a las nuevas oportunidades. ¡Piensa en ello como diversión no anunciada! Venus y Saturno todavía tienen influencia cuando se trata de responsable placer. Es la noche adecuada  para las buenas acciones y las conexiones igual de positivas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
