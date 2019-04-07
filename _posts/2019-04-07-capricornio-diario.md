@@ -1,0 +1,29 @@
+---
+layout: horoscopos
+title: capricornio hoy gratis 07 de abril del 2019 
+description: Horóscopo del dia de hoy para capricornio. Horoscopo de hoy 07 de abril del 2019. Las predicciones de amor, trabajo, vida personal gratis.
+permalink: /horoscopo-diario-gratis/capricornio/
+amplink: /horoscopo-diario-gratis/amp/capricornio/
+home: FALSE
+redirect_from: /p/capricornio.html
+keywords: capricornio,horoscopo,horoscopo capricornio abril 2019,horoscopo capricornio hoy,tarot capricornio abril 2019,horoscopo capricornio,tarot capricornio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy capricornio,horoscopo diario del tarot, Horoscopo de hoy capricornio 07 de abril del 2019,horóscopo del día
+horoscopo:
+ signo: capricornio
+ video: iH5CmQQJ8o4
+
+ogimg: /images/capricornio_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Hoy la influencia planetaria te hará sentir algo de cansancio. Está bien entregarse a un ánimo de letargo. Duerme hasta tarde y si te es posible descansa más. O puedes tomar una siesta por la tarde para recargar esas baterías tan gastadas. ¡Si has estado exigiéndote demasiado últimamente, seguramente te sentirás somnoliento/a! El tema perfecto para el día será la relajación. ¡Y no te sientas culpable del descanso!
+
+## Amor
+
+Este mes tu relación torbellino te ha traído la verdadera conciencia y no sólo palabras para usar en otra persona. Toma lo que hayas aprendido y utilízalo para expresar tu profundo amor esta noche. Cuando lo hagas, tu amante entenderá realmente por qué eres tan especial.
+
+## Trabajo
+
+El día de hoy trae a tu puerta un enorme poder e infinitas oportunidades. ¡Aprovéchalo! Levántate temprano y comienza pronto a trabajar. Las ideas y la gente que se crucen en tu camino resultarán ser valiosísimas para ti. Asegúrate de tener siempre a mano un cuaderno de notas. El éxito está a tu alcance.
