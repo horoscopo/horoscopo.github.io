@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 01 de abril 2019 al 07 de abril 2019 
-description: Horóscopo semanal virgo 01 de abril 2019 al 07 de abril 2019. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: virgo 08 de abril 2019 al 14 de abril 2019 
+description: Horóscopo semanal virgo 08 de abril 2019 al 14 de abril 2019. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: I5qWWr-vJb8
+ video: G7jCeNvB0lo
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-01'
+ lastmod: '2019-04-08'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 
-Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
- No lo has pasado del todo bien pero empiezas a renacer virgo. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
-Si hay un problema que persiste, es posible que necesites más tiempo para resolverlo. Puede que un amigo salga a tu rescate con una novedosa perspectiva que te reafirma y te da más seguridad sobre el futuro. Además, una mezcla social de energías podría mejorar tus opciones tanto empresariales, como también románticas. Esta semana, puedes disfrutar de lo mejor de ambos mundos si así lo quieres. Aun así, con el Sol formando un atrevido ángulo con Saturno, ser firme puede evitar que se aprovechen de ti.
+Hay cosas que no deben hacer daño virgo, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo virgo, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo virgo, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa virgo, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+El enfoque se desplaza a un sector más espiritual e íntimo de tu carta astral, y es posible que esta etapa dure varias semanas. Esta puede ser una oportunidad para que veas tu vida desde una perspectiva más honesta y busques darles fin a situaciones o relaciones que ya no te hacen bien. Esto incluye toda la carga emocional que podrías dejar atrás. También es un periodo de tiempo durante el cual entender qué te motiva y te inspira puede permitirte tomar decisiones más inteligentes en el futuro.
 
 ## Dinero
 
-Te enfrentas a algunas decisiones sobre el dinero esta semana. Aunque por lo general eres bastante inteligente cuando de dinero en efectivo se trata, puede ser que los aspectos te hagan sentir confusión de alguna manera. Comprueba doblemente las cifras antes de invertir tu dinero, al igual que debes revisar tus propias cuentas o la forma en la que lleves las cuentas (sobre todo con el balance de tu chequera). Es posible que algunas cuentas no salgan bien por ahora, sin embargo los aspectos se aseguran de que por lo menos estés bien conectado/a y te mantengas estable.
+Esta semana puede que sientas frustración en tu objetivo de salir adelante económicamente. Hay atención no deseada sobre tu situación de deuda. Podrías caer fácilmente en la  depresión si no tienes cuidado. La buena noticia es que tienes la suficiente energía para perseverar y pagar lo que debes. Es posible que desees gastarlo todo en tu familia y diversión. Resiste la tentación, sólo por esta semana.

@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 01 de abril 2019 al 07 de abril 2019 
-description: Horóscopo semanal sagitario 01 de abril 2019 al 07 de abril 2019. Hay cosas que ya no funcionan sagitario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+title: sagitario 08 de abril 2019 al 14 de abril 2019 
+description: Horóscopo semanal sagitario 08 de abril 2019 al 14 de abril 2019. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: MIyO9taA-jo
+ video: V8X2E63RWPg
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-01'
+ lastmod: '2019-04-08'
 ---
 
 
 
-## Hay cosas que ya no funcionan sagitario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 
-Por fin has tomado decisiones, y además decisiones que te benefician, 
-por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
-El enfoque está en tu sector de estilo de vida, en especial a medida que el alegre sol ingresa a Sagitario el martes. Teniendo esto en cuenta, puede que quieras terminar cualquier preparativo para alguna reunión y organizarte en general. En pocas palabras, las próximas cuatro semanas pueden ser una oportunidad para diseñar un programa de alimentación y ejercicios que te acompañe durante las festividades. Si no quieres aumentar demasiadas libras, piénsalo bien. Esto puede ayudarte a mantenerte por buen camino. Con respecto a tu vida social, el romance podría arder.
+No te arrepientas de abrirte sagitario, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles sagitario, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar sagitario, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos sagitario, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+Tus relaciones están bajo enfoque en gran medida a principios de la semana debido a que la Luna Llena saca a relucir sentimientos que pudiera haber sido enterrados bajo la superficie. Ten cuidado al discutir cuestiones delicadas, ya que se requerirá de tacto y diplomacia. Evita hacer o decir cualquier cosa que pudieras llegar a lamentar más tarde. Préstale atención a cualquier corazonada que te surja hacia el final de la semana, hacerlo podría ayudarte a ahorrar dinero o evitar retrasos. El domingo es ideal para el romance o cualquier actividad que disfrutes.
 
 ## Dinero
 
-Te enfrentas a un momento emocionante ahora. Con tantas oportunidades adicionales de ganar dinero y aumentar tu salario, puede ser tentador gastar más también. Tu sector de empleo es la clave. ¿Por qué no aprovechar las ventajas de un programa de ahorro que se te ofrezca a través del trabajo? En algunos casos, tu compañía igualará la misma cantidad que decidas ahorrar. No está mal.
+La atención se centra en las relaciones serias y matrimoniales esta semana. No es el momento de concentrarse en el dinero – por lo menos no al principio. Podrías darte cuenta de que los problemas de dinero surgen mientras que te acercas más a esa persona especial. Es importante asegurarte de que ambos estén en la misma frecuencia en el futuro. Los planetas te ayudan con calma y explican con claridad tu posición en cuestiones de dinero para rápidamente llegar a una solución mutuamente beneficiosa.

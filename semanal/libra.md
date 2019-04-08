@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: libra 01 de abril 2019 al 07 de abril 2019 
-description: Horóscopo semanal libra 01 de abril 2019 al 07 de abril 2019. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: libra 08 de abril 2019 al 14 de abril 2019 
+description: Horóscopo semanal libra 08 de abril 2019 al 14 de abril 2019. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: GQ13c4OjmEc
+ video: 1tJPC3Zp8R8
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-01'
+ lastmod: '2019-04-08'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 
-A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
- nada es para siempre, ni siquiera los problemas ni las preocupaciones…
-Puede que te hayas sentido con poco brillo en las últimas semanas, con tu enfoque más introvertido de lo normal. Esta fase también podría haber coincidido con la oportunidad de superar tu bagaje emocional y lidiar con problemas complejos que necesitaban tiempo y espacio para resolverse. Sin embargo, a medida que Marte, tu planeta personal, entra a tu signo el viernes, podrías sentirte con mucha más energía y determinación. La Luna Nueva podría sugerirte que te muevas en nuevos círculos, lo que te abre el camino a nuevas oportunidades.
+Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte libra, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo libra, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande libra pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+Si has estado pensando en alejarte de todo, la próxima semana podría encontrarte viajando hacia un clima más soleado. El deseo de descansar puede alentarte a hacer un viaje de fin de semana o incluso un poco más largo. Mientras Saturno ingresa a Capricornio el 19 de $MES, puede que sea momento de considerar tomar un curso o una clase. Te tomarás en serio el adquirir nuevos conocimientos y adoptar creencias que pueden ayudarte a mejorar como persona. Estás a punto de embarcarte en un viaje de descubrimiento.
 
 ## Dinero
 
-Es posible que esta semana te reveles contra figuras de autoridad, por lo menos en tu mente. Los aspectos indican que necesitarás ayuda para mantener la calma. Es seguro que estás más comunicativo/a, pero trata de no ser demasiado agresivo/a en cuanto a lo que quieres y necesitas. Los demás también tienen que ser tomados en cuenta. Algunas restricciones y limitaciones pueden hacerte sentir como si fuera personal, pero lo más probable es que realmente no lo es.
+Ahora estás en un período de redefinición de lo que eres y cómo te proyectas al mundo. El Universo te está pidiendo que prestes mucha atención a tu carrera. Si no es la que deseas tener, este es el momento de cambiarlo. No vas a conseguir mucho más apoyo del que ya tienes.

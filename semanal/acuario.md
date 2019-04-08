@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: acuario 01 de abril 2019 al 07 de abril 2019 
-description: Horóscopo semanal acuario 01 de abril 2019 al 07 de abril 2019. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+title: acuario 08 de abril 2019 al 14 de abril 2019 
+description: Horóscopo semanal acuario 08 de abril 2019 al 14 de abril 2019. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: WDHZOQPDC7g
+ video: AcBQSmk3owk
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-01'
+ lastmod: '2019-04-08'
 ---
 
 
 
-## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+## No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
 
-Para alcanzar la felicidad, TÚ FELICIDAD, 
-y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible…
-Marte en tu signo aumenta tu energía, otorgándote una mayor determinación para superar obstáculos en tu camino. Esto es para bien en este momento, ya que te percatarás de que tienes una mayor capacidad para manejar los retrocesos de Mercurio y Júpiter que comienzan esta semana. Con Mercurio moviéndose de nuevo a Capricornio, tendrás la oportunidad de revisar ciertos planes y quizás adoptar una perspectiva fresca hacia ciertos acuerdos que te interesan. Sin embargo, si logras evitar comprometerte ahora, podrías ahorrarte un montón de problemas más adelante.
+No te bajonees porque un día no hayas conseguido todo lo que te habías propuesto, al día siguiente podrás crear otro tipo de oportunidades que te lleven a donde quieres. 
+Roma no se hizo en un día. Y sal un poco más, que hay gente que te echa de menos, que echa de menos tu positividad, tus risas, tu ingenio, tus ganas…
+El Sol continúa su viaje a través de un sector más sensible de tu carta, por lo que incluso pequeñas decisiones podrían tener un impacto en áreas clave de tu vida. Esta es una buena oportunidad para dejar de lado el resentimiento, el miedo y otras emociones similares que te impidan ser la mejor versión de ti. Una vez que Venus y Mercurio entren a tu sector de viajes y aventura, también querrás ampliar tus horizontes. Planes de viaje podrían estar en tus cartas este fin de semana.
 
 ## Dinero
 
-Tienes un tema interesante en tus manos esta semana. Se te insta a ponerte en contacto con tus necesidades como inversionista y fijar tus metas en consecuencia. Por supuesto, la mayoría de la gente te dice que hagas más dinero, pero eso no te hace justicia. ¿Quieres ayudar a la gente menos afortunada que tú? Si es así, las inversiones socialmente responsables son la mejor opción para ti. Piensa en ello.
+Aspectos en tu gráfico asociado con el empleo y la salud te exhortan a hacer los cambios necesarios y hacerte chequeos médicos. Debido a que el Universo revela lo anteriormente enterrado bajo la superficie, puedes encontrarte con que alguien tiene la intención de bloquear tu camino hacia el éxito. Un vistazo a tu sector de vidas pasadas y karma te mostrará que ahora cosecharás lo que has sembrado.
