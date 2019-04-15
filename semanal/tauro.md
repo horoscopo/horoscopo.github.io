@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 08 de abril 2019 al 14 de abril 2019 
-description: Horóscopo semanal tauro 08 de abril 2019 al 14 de abril 2019. Semana de reflexión tauro, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya tauro. 
+title: tauro 15 de abril 2019 al 21 de abril 2019 
+description: Horóscopo semanal tauro 15 de abril 2019 al 21 de abril 2019. Llega una semana bonita tauro, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención tauro, y seguramente la persona que menos te esperabas…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: JQBh8y-U45s
+ video: nl6dv3SMQS4
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-08'
+ lastmod: '2019-04-15'
 ---
 
 
 
-## Semana de reflexión tauro, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya tauro. 
+## Llega una semana bonita tauro, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención tauro, y seguramente la persona que menos te esperabas…
 
-No te conformes con poco tauro, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche tauro, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
-Esta semana podría aumentar la tensión en el hogar. Esto podría ser provocado por la fusión del vital Marte y el potente Plutón. Puede que alguien tenga la determinación de concretar una idea o plan sin tener en cuenta los sentimientos de los demás. Sin embargo, también existe la posibilidad de que esto involucre las finanzas o una posible compra. 
- Desde tu perspectiva, podría parecer una buena idea. Pero debido a que el animado Júpiter está en tu sector de dinero, actualmente eres más optimista en torno a todos los asuntos relacionados con el dinero y los gastos. Puede que sea cuestión de investigar un poco, leer opiniones y evaluar si realmente puedes permitirte hacer esta compra. Luego de que tú y los demás estén satisfechos con esta evaluación, deberías poder concretarla. Además, el encantador Venus (tu planeta regente) ingresa a tu sector de lejanos horizontes el martes, lo que podría sugerir que se desarrollen amistades durante viajes o el estudio.     
+No desperdicies ni un solo día de tu vida tauro porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio tauro, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la tauro de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida tauro. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
+El camino hacia el amor verdadero podría no ser fácil esta semana, sobre todo cuando se trata de un nuevo romance. Si la tensión ha estado aumentando o has notado celos en un rival o una amistad, tendrás que andarte con cuidado. Una pronta charla de corazón a corazón puede lograr mucho, pero si reaccionas de forma exagerada espontáneamente, sobre todo entre semana, podrías terminar perdiendo a la larga. Venus entra a tu signo el Sábado, haciéndote aún más deseable y aumentando tu atractivo.
 
 ## Dinero
 
-Tú necesitas sentir seguridad en todos los aspectos de tu vida, lo que por lo general requiere de dinero en efectivo. Ahora, tus relaciones se vuelven muy importantes cuando se trata de hacer más dinero. Si necesitas un nuevo puesto de trabajo o una recomendación, pídele el favor a la persona más poderosa que conozcas. El aspecto actual es favorable para que las cosas se resuelvan y para que logres la felicidad que anhelas.
+Andas muy comunicativo/a ahora. El hablar, conversar en línea e incluso en sitios de redes sociales de internet está  a tu favor. Lo estás llevando a otro nivel, estés pensando en escribir tus memorias. Tienes una cantidad increíble de energía creativa en este momento. Utilízala para tu beneficio financiero teniendo en cuenta tu audiencia; a continuación, busca los mercados con el mayor alcance para obtener los mejores resultados.

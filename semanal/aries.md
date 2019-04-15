@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 08 de abril 2019 al 14 de abril 2019 
-description: Horóscopo semanal aries 08 de abril 2019 al 14 de abril 2019. Empieza a hacerte promesas a ti mismo aries, empieza a prometerte amor propio, hoy y siempre. 
+title: aries 15 de abril 2019 al 21 de abril 2019 
+description: Horóscopo semanal aries 15 de abril 2019 al 21 de abril 2019. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida aries, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: CyPPikszw3w
+ video: gNbwoFuDly0
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-08'
+ lastmod: '2019-04-15'
 ---
 
 
 
-## Empieza a hacerte promesas a ti mismo aries, empieza a prometerte amor propio, hoy y siempre. 
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida aries, vuelve a brillar.
 
-Y de repente cambias aries, y nadie lo entiende. Pues sí, de vez en cuando hasta tu cuerpo te pide dar un giro que, aunque no sea del todo radical si te permita cerrar algunos asuntos pendientes que parecía que no iban a llegar nunca. Hay personas que no lo entienden, que piensan cómo es posible que llevaras un camino tan inestable en tu vida y de repente la enderezaras para tomar otro rumbo diferente… Pues sí, no eres imbécil, y sabes que si algo no te conviene, no te conviene, y aunque te des cuenta tarde, lo importante es que sabes corregirlo. La cuestión es que los que estaban a tu alrededor y creían conocerte se echan las manos a la cabeza y piensan cómo puede ser que de repente hagas todo lo contrario a lo que parecía que ibas a hacer. Pues es sencillo, porque todo tiene un límite, y por mucha paciencia que aries pueda tener, lo siento, también tiene amor propio, que a veces no saca, que a veces parece que está escondido, pero lo tiene, aunque a muchos les joda y les fastidie sus planes. Ya te han hecho daño, y estuviste solo, y te sentiste más inseguro que nunca, y el mundo parecía romperse en dos, y ahí nada importaba pero ahora, ahora es todo diferente. Ahora sólo darás tu mejor cara, la buena, la dialogante, la amable, a quien se lo merece. Porque antes lo entregabas todo aunque nadie te lo pidiese, y te quedaste muchas veces sin nada, pero te daba igual, porque eras leal a tu palabra aries, pero ahora ya sólo quieres ser leal a ti mismo. Sigue así, de verdad, no hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
-Mientras todos se preparan para la temporada de festividades, tu reloj astrológico indica que es tiempo de que quites el pie del acelerador y te tomes un tiempo. Esto no significa que debas rechazar invitaciones, sino que es mejor que a veces disfrutes de tu propia compañía. Esta es tu oportunidad para recargar energía y sentirte mejor. Si tienes la oportunidad de progresar con una meta o una ambición y lo piensas en silencio, se te pueden ocurrir grandes ideas.
+Esta semana va a estar cargada de altibajos aries, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre aries, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza aries, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite aries, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
+
 
 ## Dinero
 
-Ciertos desafíos se aproximan hacia ti esta semana. Las relaciones son propensas a sufrir una separación por trabajo o razones personales. La buena noticia es que ambos están muy ocupados. La mala noticia es que esta situación requiere más diplomacia y paciencia de lo habitual. Tu sector de empleo puede estar un poco inestable. Muévete lentamente, con cuidado, y no hagas exigencias innecesarias.
+Estás a punto de hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Cierta energía sensible y madura entra a tu sector del trabajo. Cuanto más puedas aprender a aceptar la responsabilidad y demostrar que otros pueden contar contigo, más recompensas financieras encontrarás. No te alejes de lo que potencialmente podría avanzar para ti.

@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: geminis 08 de abril 2019 al 14 de abril 2019 
-description: Horóscopo semanal geminis 08 de abril 2019 al 14 de abril 2019. Dedícate la semana a ti Cangrejo, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+title: geminis 15 de abril 2019 al 21 de abril 2019 
+description: Horóscopo semanal geminis 15 de abril 2019 al 21 de abril 2019. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: bXSTXTMm-BE
+ video: O6F8hRsu2Q8
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-08'
+ lastmod: '2019-04-15'
 ---
 
 
 
-## Dedícate la semana a ti Cangrejo, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 
-Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
-Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
-Al inicio de la semana, una situación social puede ser muy divertida y darte un impulso, así como ayudarte a hacer nuevos amigos que te apoyen. Sin embargo, aún sigue habiendo momentos en los que sientes que tus valores son tan diferentes de los de tu grupo social como lo son la tiza y el queso. Puede que también sientas que nadie te entiende. Sin embargo, no hagas ningún movimiento impulsivo. Si logras mantener tu mente abierta, puede que las cosas terminen mejorando.
+¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
+ lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa geminis.
+Aunque todavía estás en busca de aventura, una parte de ti desea paz y tranquilidad. La Luna Creciente del lunes podría poner de relieve una situación en la que tomarte algo de tiempo podría ayudarte a reflexionar sobre tus prioridades y tal vez tomar algunas decisiones clave. Con Venus y Mercurio moviéndose a la parte superior de tu carta, podría ser un periodo de tiempo en el que seas el centro de atención. Muestra tus habilidades creativas, ya que hacerlo podría traerte verdaderas oportunidades.
 
 ## Dinero
 
-Es posible que despegues esta semana - literalmente. Parece que tienes más posibilidades que nunca para ganar dinero, atraer más a través de trabajos secundarios y de interés y obtener dividendos a través de inversiones inteligentes. Si necesitas ayuda en lo que respecta a la planificación financiera, los aspectos pueden ayudarte a atraer a la persona adecuada para tus necesidades. No lo dejes al azar, en todo caso, mereces mucho más.
+Tu sector de relaciones hace clara más que nunca la importancia de las alianzas positivas con jefes, superiores, mentores y clientes. Nunca te confíes en que estás relaciones  simplemente funcionarán. Sé proactivo/a en la formación, mantenimiento y avance de aquellas que son más útiles para tu vida laboral y monetaria. El enfoque se centra en mejorar tu educación, viajar y aprender sobre otras culturas e idiomas. Todos pueden avanzar en tu causa.
