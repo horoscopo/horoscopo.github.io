@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: acuario 15 de abril 2019 al 21 de abril 2019 
-description: Horóscopo semanal acuario 15 de abril 2019 al 21 de abril 2019. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+title: acuario 22 de abril 2019 al 28 de abril 2019 
+description: Horóscopo semanal acuario 22 de abril 2019 al 28 de abril 2019. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: LJXWL3i5uls
+ video: 7X8B4Xobr80
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-15'
+ lastmod: '2019-04-22'
 ---
 
 
 
-## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 
-Al final, sólo te lamentarás de las posibilidades que no tomaste acuario así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo acuario. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
-Una combinación impulsiva de energías te lleva a unir fuerzas con una persona cuando en realidad sería más prudente que te tomes el tiempo para conocerla mejor. Saturno forma parte de esta alineación, por lo que es sensato contenerte un poco y pensar si estás haciendo lo correcto. Todo lo que estás aprendiendo ahora podría tener una influencia productiva en tu vida en las semanas y los meses por venir. Y con Urano acercándose a Aries, puede que tus acciones sean un poco más medidas.
+Es muy importante que eches la vista atrás acuario, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
+Si al parecer los negocios o las cuestiones financieras han estado estancados últimamente y tus esfuerzos no dieron frutos, no te desanimes. La causa podría ser que el valiente Marte todavía se encuentra en su fase retrógrada. Mejor dedica este tiempo a ajustar tus planes en lugar de mirar hacia adelante. Sin embargo, cuando el fogoso Marte forma un penetrante ángulo con el debilitante Urano, podrías perder la paciencia y sentir que debes apurar el paso. No lo hagas. Podrías terminar peor que antes o perder lo que has conseguido hasta el momento. 
+Tu posición podría ser aún más extraña con el inquisitivo Mercurio en su fase retrógrada en tu sector de finanzas personales. Evita cerrar tratos que involucren grandes cantidades de dinero hasta que las dos fases retrógradas hayan terminado cerca de fin de mes. Cuando el animado Júpiter ingresa a tu sector de romance, un encuentro podría ser especialmente prometedor. Esta persona podría animarte a poner en práctica tus diversos pasatiempos.
 
 ## Dinero
 
-Probablemente tienes un fuerte deseo de seguridad financiera. Para algunos esto puede traducirse en el deseo de controlar, mientras que para otros es sólo un deseo. Es hora de expresar lo que quieres y dejar que tus necesidades sean conocidas dentro de las alianzas empresariales y la oficina. Tienes la capacidad de comunicación y la creatividad para alcanzarlo.
+Para ti, esta semana se trata de tomar ventaja de las circunstancias que se presentan en tu vida laboral. Tienes suerte, así que puede que encuentres que tienes la oportunidad de impresionar a alguien que tiene poder para tomar decisiones financieras. Estas afectarán de manera positiva tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personales y financieras, el incorporarlas a tu vida cotidiana te hace más fuerte.

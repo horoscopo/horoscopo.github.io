@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 15 de abril 2019 al 21 de abril 2019 
-description: Horóscopo semanal virgo 15 de abril 2019 al 21 de abril 2019. Cada día que pasa te das más cuenta de que mereces cosas buenas virgo, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: virgo 22 de abril 2019 al 28 de abril 2019 
+description: Horóscopo semanal virgo 22 de abril 2019 al 28 de abril 2019. Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: Z9hyJnvs2Hc
+ video: sXCWqMF-Svo
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-15'
+ lastmod: '2019-04-22'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas virgo, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 
-Madura virgo, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte virgo, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu virgo, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-Mercurio le hace una breve visita a tu signo y se torna retrógrado a principios de esta semana, lo que podría dar lugar a que ciertos planes sufran retrasos. De hecho, puede que no los pongas en marcha hasta que Mercurio comience a avanzar de nuevo el 25 de $MES. Sin embargo, hay mucho que puedes lograr durante este periodo, y la semana por delante podría ser decisiva al animarte a examinar tus motivos y poner tus prioridades en orden. Una vez hecho eso, las cosas deberían empezar a caer en su lugar con mayor facilidad, también haciéndote sentir más confianza.
+El mundo no te entiende virgo, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales virgo, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo virgo, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
+Es esa época del año en la que necesitas tomarte tiempo para relajarte y disfrutar un poco de la vida. Toma conciencia de todo lo que has logrado y analiza tus metas y planes para los próximos doce meses. Asegúrate de dejar mucho tiempo para socializar y divertirte, ya que hay una poderosa alineación que te anima a conocer gente, entablar contactos y formar parte de tu comunidad. Si una excepcional oferta o invitación se te presenta este fin de semana, es posible que te beneficies enormemente de aceptarla.
 
 ## Dinero
 
-Te enfrentas a un momento interesante. Por un lado, las redes sociales son cada vez más grandes y más solidarias. Por otro lado, alguien no está siendo totalmente honesto sobre lo que quiere sacar de tu amistad. En lugar de terminar la relación o tomarlo como algo personal, atribúyeselo a tu irresistible forma de vivir la vida. Tal quiere estar cerca de ti porque eres una persona exitosa y puede ser capaz de ayudarte a alcanzar tus sueños.
+Estás a punto de tomar ventaja de algunas nuevas oportunidades en el trabajo y los negocios. El Universo destaca tu sector que rige el dinero y los valores, por lo que no sólo vas a ser capaz de ganar más, sino que también lo usarás racionalmente. Esto puede significar que inviertas en tu futuro mediante la financiación de un nuevo negocio, o encuentres un millón de nuevas formas de recaudar más dinero.

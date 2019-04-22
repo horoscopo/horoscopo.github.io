@@ -1,29 +1,30 @@
 ---
 layout: horoscopos
-title: geminis 15 de abril 2019 al 21 de abril 2019 
-description: Horóscopo semanal geminis 15 de abril 2019 al 21 de abril 2019. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: geminis 22 de abril 2019 al 28 de abril 2019 
+description: Horóscopo semanal geminis 22 de abril 2019 al 28 de abril 2019. Esta semana vas a abrir los ojos geminis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: O6F8hRsu2Q8
+ video: oLcXDgm5fOM
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-15'
+ lastmod: '2019-04-22'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## Esta semana vas a abrir los ojos geminis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa geminis.
-Aunque todavía estás en busca de aventura, una parte de ti desea paz y tranquilidad. La Luna Creciente del lunes podría poner de relieve una situación en la que tomarte algo de tiempo podría ayudarte a reflexionar sobre tus prioridades y tal vez tomar algunas decisiones clave. Con Venus y Mercurio moviéndose a la parte superior de tu carta, podría ser un periodo de tiempo en el que seas el centro de atención. Muestra tus habilidades creativas, ya que hacerlo podría traerte verdaderas oportunidades.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+Tu vida social mantiene ocupada tu semana desde el principio, además de que hay una oportunidad de colaborar con alguien en un emocionante proyecto. A mitad de semana, el enfoque se desplaza a tu sector espiritual, lo que significa que estás entrando a una fase en la que te ayuda disminuir tu ritmo y relajarte durante más tiempo. Es vital que aproveches esta oportunidad para conectar con los deseos de tu corazón y sentimientos internos. Es también una oportunidad para orientarte. Venus retrocede en Virgo desde el Sábado, así que evita hacer cualquier compromiso importante por ahora.
 
 ## Dinero
 
-Tu sector de relaciones hace clara más que nunca la importancia de las alianzas positivas con jefes, superiores, mentores y clientes. Nunca te confíes en que estás relaciones  simplemente funcionarán. Sé proactivo/a en la formación, mantenimiento y avance de aquellas que son más útiles para tu vida laboral y monetaria. El enfoque se centra en mejorar tu educación, viajar y aprender sobre otras culturas e idiomas. Todos pueden avanzar en tu causa.
+Los aspectos están afectando tu sector de comunicaciones. Si no has estado en contacto con quien debieras últimamente, es momento de volver a contactar a todos, desde miembros de la familia a las personas en tu último trabajo. Algunos de ellos tienen importantes noticias que compartir, lo que posiblemente podría hacer que prosperes económicamente. Tienes el apoyo total del Universo para hablar de lo que necesitas en tu vida económica ahora.

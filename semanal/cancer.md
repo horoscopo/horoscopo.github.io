@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: cancer 15 de abril 2019 al 21 de abril 2019 
-description: Horóscopo semanal cancer 15 de abril 2019 al 21 de abril 2019. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+title: cancer 22 de abril 2019 al 28 de abril 2019 
+description: Horóscopo semanal cancer 22 de abril 2019 al 28 de abril 2019. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario cancer.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: _q1YBFTRYgU
+ video: 8BLboPDxrjw
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-15'
+ lastmod: '2019-04-22'
 ---
 
 
 
-## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario cancer.
 
-Tu cabeza quiere un cambio cancer, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira cancer, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero cancer por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
-Debido al positivo enfoque en tu sector profesional, usar el encanto y la lógica podría dar como resultado un gran progreso. Aun así, puede que sientas que alguien está obstaculizando tus planes. De ser así, tu mejor apuesta puede ser tener una conversación a corazón abierto con esta persona, incluso si esto te da un poco de nervios. El resultado de esta charla podría superar tus expectativas. La luna nueva del sábado en tu sector de viajes podría ser la señal para reservar de una vez por todas ese viaje con el que has estado soñando durante un tiempo.
+Hace mucho tiempo que no te das un buen capricho cancer, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes cancer. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
+Podrías estar de humor para darte el gusto con una “terapia de compras” al comienzo de la semana, lo que puede mejorar tu ánimo. La oportunidad de comprar algunos pequeños lujos será muy importante para ti. Aun así, el vital Marte en tu sector de negocios y bienes compartidos ingresa a su fase retrógrada el martes y permanece así hasta el 27 de $MES. Esto podría demorar un poco las cosas en esta área. Tal vez no sea el mejor momento para cerrar un importante negocio comercial o pedir un préstamo u otro tipo de crédito, si puedes evitarlo. 
+La luna llena en Capricornio del miércoles tiene más seriedad, y podría coincidir con un profundo análisis sobre una cuestión de relaciones. Convencer a alguien de que comparta sus sentimientos puede costar bastante trabajo. Por último, cuando el animado Mercurio ingresa a tu sector monetario, puede que estés de humor para organizar tus finanzas, lo que no nada es malo.
 
 ## Dinero
 
-Las influencias que afectan a tu sector de relaciones son a la vez una bendición y una maldición. Mientras que te dan impulso para avanzar en tu causa, también tienden a restringir al equipo que podría ayudarte a hacer esto. No tengas miedo. No es personal. Estas personas están a la espera de que avances para poder decir que te conocían desde entonces. Tienes la imaginación que necesitas para realizar tu trabajo a tiempo y bajo presupuesto.
+Puede que tengas la tentación de contar tu historia en más de una forma. Podrías percatarte de que tu escritorio está lleno de intentos de otras personas en busca de trabajo, buscando contribuciones para sus asociaciones, o que sólo quieren ponerse al día. Pero también estás de un humor soñador, y fácilmente podrías pensar en una estupenda idea para la próxima gran novela. Tu creatividad está zumbando a toda máquina.

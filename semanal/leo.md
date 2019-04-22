@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 15 de abril 2019 al 21 de abril 2019 
-description: Horóscopo semanal leo 15 de abril 2019 al 21 de abril 2019. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche leo, abre las puertas y ciao. No tienes que mantener nada…
+title: leo 22 de abril 2019 al 28 de abril 2019 
+description: Horóscopo semanal leo 22 de abril 2019 al 28 de abril 2019. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: RS0k1-a769Y
+ video: raGB52gAVpg
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-15'
+ lastmod: '2019-04-22'
 ---
 
 
 
-## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche leo, abre las puertas y ciao. No tienes que mantener nada…
+## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 
-Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
-No sientas que debes exigirte más de la cuenta para cumplir con tus metas y objetivos. Tienes una actitud competitiva que puede durar varias semanas, pero es mejor ir despacio. Te conviene tener un plan en mente, así logras un equilibrio sano que te permita trabajar y divertirte. Las conversaciones con una pareja o un miembro de la familia pueden generar confusión en vez de dejarte ver las cosas con claridad si te desvías del tema principal.
+A veces las cosas tienen que ser a tu manera o a ninguna leo, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada leo. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
+Es mejor evitar involucrarte en planes que prometen mucho pero retribuyen poco. Tu carta astral sugiere que seas paciente con los resultados, ya que disfrutarás de grandes beneficios si buscas el éxito con calma y firmeza. Tu vida social podría dirigirse hacia otra dirección, con la Luna Nueva alentándote a moverte hacia nuevos círculos y a entablar nuevas amistades. En la víspera de Año Nuevo podrías disfrutar de una maratón de películas o una cita romántica que resplandece de promesas.
 
 ## Dinero
 
-A veces puedes  ser muy conformista, y esta semana, podrías tener todo lo necesario para seguir siéndolo. Una nueva energía inunda tu casa del dinero y los valores, facilitando una especia de pausa para ti. En este momento de paz, podrías estar preguntándote que es lo que harías y no harías por dinero y cuánto tiempo más de descanso necesitas para mantenerte sano/a y productivo/a. Esto será muy sano para ti a la larga.
+Te encuentras ahora en una situación interesante con cierta actividad en tu sector de vidas pasadas, sueños e instituciones. Puede que sientas que tu vida laboral no está haciendo todo lo posible por ti. Puede que tengas más suerte trabajando para una entidad mayor. Gracias a tu sector de grupos, tus amistades te conectarán a una nueva compañía con más capacidad de pagarte lo que vales. Sueña en grande.

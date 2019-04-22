@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 15 de abril 2019 al 21 de abril 2019 
-description: Horóscopo semanal escorpio 15 de abril 2019 al 21 de abril 2019. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: escorpio 22 de abril 2019 al 28 de abril 2019 
+description: Horóscopo semanal escorpio 22 de abril 2019 al 28 de abril 2019. No es que estés cambiando escorpio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: R958BXo3i_c
+ video: YluyRqpb96U
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-15'
+ lastmod: '2019-04-22'
 ---
 
 
 
-## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+## No es que estés cambiando escorpio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 
-No pienses tanto escorpio, deja que la vida te vaya sorprendiendo. Últimamente estás como muy nostálgico ¿no? No es que estés deprimido pero sí se te ha pasado por la cabeza eso de que algunos momentos del pasado fueron mejores que en el que estás ahora. No te agobies escorpio, ni te estreses. Quizás estás pensando demasiado en el futuro, en cómo van a ir las cosas, en si saldrá bien. Has arriesgado mucho para estar donde estás y con quien estás, y ya lo decidiste así que, no puedes pasarte la vida pensando si has hecho bien o no. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro escorpio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo. Eres firme con las decisiones que tomas, siempre lo has sido pero, probablemente por momentos se te haga cuesta arriba en muchos aspectos. Deja la nostalgia a un lado y esfuérzate en pensar que todo tiene un principio y un fin y que la vida son ciclos que empiezan y que acaban, y que después llega otro ciclo de la misma manera. No tengas miedo a lo que es desconocido para ti, al revés, enfréntalo como algo nuevo que, quien sabe, puede traerte cosas que duren para toda la vida. Ten mucha paciencia en estos días y aprende a tomarte las cosas como lo que son, ni más ni menos, no puedes dar mucha importancia a cosas que no la tienen pero tampoco quitársela a otras muchas que SI la tienen. Y lo sabes. Mantente hábil para descubrir todo. Ya hace un tiempo te planteaste que ser positiv@ sería probablemente el único camino para que las cosas salieran bien y sí, en el fondo sabes que gracias a eso estás aquí, así que, no lo pierdas por nada del mundo, aunque se caiga todo a pedazos, aunque nada tenga sentido, mantente fuerte, eso será lo que necesitas para que tu cabeza no decaiga por pensamientos negativos. Vas a darte cuenta de tantas cosas…
-Durante el comienzo del 2018, la super luna llena en Cáncer del 1 de $MES en tu sector de comunicación sugiere que pasarás todo el día interactuando con otras personas y que será un día maravilloso. Puede que también tengas ganas de viajar y vivir otras aventuras, especialmente las que están fuera de tu alcance. Pero mientras el cariñoso Mercurio se alinea con el innovador Urano, las ideas que se te ocurren podrían motivarte para salir de tu zona de confort y, quizás, aventurarte en nuevos caminos para ver qué te depara el destino.
+Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver escorpio, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
+ hasta que empieces a sentir que realmente merece la pena.
+Con el conversador Mercurio, tu planeta personal, recién llegado a tu sector de relaciones, puede que sientas una mayor inclinación a comunicarte y conectar con nuevas y antiguas amistades. Además, esta puede ser una oportunidad para proponer los temas que deben discutirse y, tal vez, encontrar una solución. El enfoque en tu sector de estilo de vida también se intensifica. Esto puede tentarte a adaptar tu agenda diaria para permitirte explorar nuevas posibilidades y apuntar alto con respecto de tus metas clave de bienestar y trabajo.
 
 ## Dinero
 
-Podrías sentir el deseo de poner algo en marcha esta semana. Tus habilidades de comunicación están aumentando, mostrando que podrás salir adelante a través del solicitar fuerte y claramente a quienes te rodean. Pide lo que quieres en el trabajo y en tu vida monetaria y podrás conseguirlo. Aunque también deberías saber que las cosas podrían ponerse tensas, así que es mejor mantenerse limpios kármicamente hablando. No seas malo/a o utilices tus palabras para herir a los demás.
+Esta semana hay actividad en tu sector de herencia y propiedad compartida. Necesitas prestar más atención a tu principal fuente de dinero - tu carrera. A pesar de que una herencia podría apoyar tus sueños a largo plazo, tu carrera te apoya emocionalmente también. El Universo te proporciona un mayor descanso del que pudiste haber gozado en los últimos tiempos. Puedes utilizar toda la estabilidad que pudiste haber reunido en otras áreas.

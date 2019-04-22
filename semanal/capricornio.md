@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 15 de abril 2019 al 21 de abril 2019 
-description: Horóscopo semanal capricornio 15 de abril 2019 al 21 de abril 2019. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
+title: capricornio 22 de abril 2019 al 28 de abril 2019 
+description: Horóscopo semanal capricornio 22 de abril 2019 al 28 de abril 2019. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes capricornio.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: WuIW8azIaec
+ video: wzrA-fhQcbE
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-15'
+ lastmod: '2019-04-22'
 ---
 
 
 
-## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
+## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes capricornio.
 
-Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
-Si un proyecto grupal parece estancado, este es el momento para averiguar la causa. Puede que sea sencillo detectar qué salió mal y, antes de que te des cuenta, tu entusiasmo regresará. La Luna Nueva en tu sector de hogar y familia puede ser uno de los mejores momentos para cambiar la dinámica familiar, tal vez adoptando una mascota o recibiendo a un familiar más grande. Si has estado pensando en comenzar un negocio en tu hogar, este también podría ser un excelente período para comenzarlo.
+No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
+Por momentos, puede parecer que tú eres quien apoya a tus amigos y en otros que ellos te apoyan a ti y así es como debe ser. Pero esta semana, conforme Júpiter, el planeta que rige tu vida social, se vuelve retrógrado, puede que prefieras embarcarte en una aventura personal. Quizá hay experiencias que no podrías tener si te rodeara una multitud o si incluso estuvieras con otra persona. Podrías obtener grandes resultados si eliges seguir este camino.
 
 ## Dinero
 
-Provees un par de ojos frescos a los acontecimientos de esta semana con actividad en tu sector de apariencias. Una amistad puede tener una sugerencia útil sobre cómo ganar más dinero o conseguir la promoción que has estado buscando. Incluso si no piensas igual, escucha a esta persona. Tal ve esta situación con más claridad que tú. Se te pide traer un lado mucho más serio de tu personalidad a la mesa.
+Te sientes más libre para tomar riesgos con tus habilidades comunicativas. Esto da frutos cuando se trata de la búsqueda de nuevo empleo o esfuerzos para batallar en contra de retrasos financieros. Tienes más de una oportunidad de ganar más dinero mediante la adopción de horas extras o de un trabajo de tiempo parcial. Pero ciertos aspectos están sacudiendo tu sector de trabajo de una manera que puedes encontrar desagradable. Si tu empresa parece inestable, imprime currículums y comienza a enviarlos.
