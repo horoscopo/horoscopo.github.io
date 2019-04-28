@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de abril 2019
-description: Horóscopos del dia de hoy 27 de abril 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de abril 2019
+description: Horóscopos del dia de hoy 28 de abril 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-04-27
+ lastmod: 2019-04-28
 ---
-La cuadratura Sol-Plutón recomienda desechar lo no esencial durante los próximos cuatro días. Visualiza proyectos antes de intentarlos bajo el actual aspecto entre Mercurio y Saturno. Esta noche, extrañas sensaciones son reveladas cuando Marte se opone a Neptuno. Ciertos eventos parecen ser una coincidencia, pero no lo son. Solteros, los fuegos artificiales iniciales podrían terminar en un fiasco.  
+Lucha por superar los malentendidos esta mañana al hablar de la búsqueda de vías a través de las cuales se comunican sentimientos. La gente fácilmente se pone de acuerdo esta tarde. De hecho, es probable que hasta hagan más de lo que pides. Esta noche, la luz amarilla de precaución está encendida. Planea una noche tranquila si no eres fan del elemento sorpresa.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
