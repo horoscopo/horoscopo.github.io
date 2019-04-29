@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 22 de abril 2019 al 28 de abril 2019 
-description: Horóscopo semanal capricornio 22 de abril 2019 al 28 de abril 2019. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes capricornio.
+title: capricornio 29 de abril 2019 al 05 de mayo 2019 
+description: Horóscopo semanal capricornio 29 de abril 2019 al 05 de mayo 2019. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: wzrA-fhQcbE
+ video: uzWDRc94mbE
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-22'
+ lastmod: '2019-04-29'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes capricornio.
+## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 
-No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
-Por momentos, puede parecer que tú eres quien apoya a tus amigos y en otros que ellos te apoyan a ti y así es como debe ser. Pero esta semana, conforme Júpiter, el planeta que rige tu vida social, se vuelve retrógrado, puede que prefieras embarcarte en una aventura personal. Quizá hay experiencias que no podrías tener si te rodeara una multitud o si incluso estuvieras con otra persona. Podrías obtener grandes resultados si eliges seguir este camino.
+Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
+ sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
+Tal parece que tendrás una semana ocupada haciendo malabares con todo tipo de tareas, plazos y otros deberes. Trata de darte la oportunidad de recargar baterías, especialmente si has estado bajo presión desde hace algún tiempo. La presencia de Saturno en tu sector profesional podría significar la adopción de aún más responsabilidades, por lo que es vital monitorear tu ritmo. La Luna Nueva podría ayudarte a decidir qué cambios hacer, sobre todo si tienes ansias de ajustar tu rutina y horario diario.
 
 ## Dinero
 
-Te sientes más libre para tomar riesgos con tus habilidades comunicativas. Esto da frutos cuando se trata de la búsqueda de nuevo empleo o esfuerzos para batallar en contra de retrasos financieros. Tienes más de una oportunidad de ganar más dinero mediante la adopción de horas extras o de un trabajo de tiempo parcial. Pero ciertos aspectos están sacudiendo tu sector de trabajo de una manera que puedes encontrar desagradable. Si tu empresa parece inestable, imprime currículums y comienza a enviarlos.
+Una energía de suerte con respecto al dinero de otras personas significa que puedes beneficiarte de la propiedad compartida, las inversiones, o una herencia inesperada. Esto da rienda suelta a todo tipo de cosas buenas en esta área de tu vida. Otros aspectos afectan las vidas pasadas, los sueños y el karma. Otórgales a los demás lo que quisieras que te dieran a ti, financieramente hablando.
