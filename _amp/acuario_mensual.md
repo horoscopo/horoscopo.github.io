@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo acuario abril 2019 
+title: Horoscopo acuario mayo 2019 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
- video: TNwOdtpGh3Q
+ video: qo2WlfhZjMg
 
 ogimg: /images/acuario_char.png
 sitemap:
@@ -15,8 +15,4 @@ sitemap:
 ---
 
 
-Empiezas el año con un tono pensativo. Hay muchas cosas dando vueltas en tu cabeza, tal vez decisiones difíciles, pero no necesita ser un proceso doloroso. Tómate el tiempo para aclarar tus objetivos, y no te enfoques en tus limitaciones. 
-El 5 de abril, la luna nueva en Capricornio y el eclipse solar marcan el comienzo de una fase de 18 meses de librarte de falsas creencias (o las creencias de tus padres), para redefinir lo que significa el éxito para ti. Será necesario asumir un compromiso diario, pero puedes lograr cualquier cosa que te propongas. 
- La luna llena en Leo y el eclipse lunar del día 20 sugieren que, en lo profesional, estás terminando un capítulo y avanzando a un nuevo nivel. Eres una persona que vale oro, y tienes mucho para ofrecerle a este mundo y a tus relaciones. El éxito no significaría nada si no tuvieras personas y familia (de sangre y de corazón), que quieres y que te quieren, para compartir los altibajos de la vida. Cuando logras ver el pasado desde una nueva perspectiva, puedes encontrar el coraje para hacer todos los cambios necesarios. Esto no se trata del éxito o la imagen pública. Tienes una sola vida y es preciosa. Sigue tu pasión. 
-Días destacados: 4, 22, 29 
-Días desafiantes: 5, 8, 21
+El amor podría encontrarte el 2 de mayo, cuando Mercurio forme sextil con Plutón y la Luna conjunte a Venus. Acurrúcate y lee un buen libro o ve una buena película durante la manifestación de la Luna Llena del 14 de mayo. Date un capricho y no sientas soledad. La gente está a sólo un texto, después de todo. Invita a alguien a acompañarte, si es necesario. La Luna Nueva del 29 de mayo te traerá fantásticas posibilidades románticas. Y vaya que no serán posibilidades aburridas. Es hora de encontrar un romance real, práctico y sólido con alguien inteligente y nunca aburrido. Esto incluye la posibilidad de revivir una relación actual o anterior. Puedes ser tú quien dé el primer paso, pero después, déjate romancear.

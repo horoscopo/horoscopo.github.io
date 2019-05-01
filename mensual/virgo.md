@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo virgo abril 2019
-description: El Horóscopo abril de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo virgo mayo 2019
+description: El Horóscopo mayo de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo virgo abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo virgo mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
- video: DnHbdVg-u28
+ video: m1RKVrga0XE
 
 ogimg: /images/mes/virgo_mes.png
 sitemap:
@@ -17,4 +17,7 @@ sitemap:
 ---
 
 
-Mercurio se torna retrógrado el 2 de abril. Tómalo con calma y organízate. La luna llena del 3 de abril brilla para ti. Parejas y seres queridos piensan que eres lo máximo, y quieren mostrarte más de su mundo. No tienes que hacer nada especial o inteligente. Piensan que eres una persona encantadora. Solo para que lo sepas. El día 17, la luna nueva podría traer un interés romántico totalmente nuevo, o un cierto romance turbulento podría de repente volverse suave como la seda. Disfruta de todo el trato especial y la atención que recibes. El 22 de abril, Mercurio se torna directo justo a tiempo para tener una temporada de festividades más dulce y tranquila. 
+El 2 de mayo, la conjunción entre Marte y Saturno te da una tremenda autoridad. Úsala sabiamente. Haz que el mundo se sorprenda (y tú también) durante la luna nueva del día 15. Comienza algo nuevo, que exprese un lado que sueles esconder de ti. La conjunción entre Marte y Plutón el 26 de mayo podría encender los temperamentos. Evita el conflicto y dale un uso positivo a la pasión. Con la luna llena del día 29, sé la buena suerte de alguien, y haz crecer y florecer tu reputación. Hacer el favor correcto en el momento adecuado no será olvidado. No será cuestión de elegir qué hacer para quién. Actúa con espontaneidad y deja que la gente se acerque a ti. 
+
+Días destacados: 7, 10, 23
+Días desafiantes: 4, 21

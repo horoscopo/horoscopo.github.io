@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo cancer abril 2019 
+title: Horoscopo cancer mayo 2019 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: yYSQd51Mq74
+ video: zn_cODuguH0
 
 ogimg: /images/cancer_char.png
 sitemap:
@@ -15,8 +15,4 @@ sitemap:
 ---
 
 
-Has tenido que superar tus inseguridades durante el año pasado, y ahora te preparas para una nueva aventura. Pero primero, a medida que abril comienza, haz un balance de tu vida, y deja atrás los hábitos, trabajos, rutinas o estilos de vida que ya no te sirven. 
-El 5 de abril, la luna nueva en Capricornio y el eclipse solar marcan el comienzo de una fase de 18 meses de construir la vida que sueñas. “Trabaja duro, diviértete mucho” parece ser tu lema de este mes. Pero también dale prioridad a tu salud (mental, emocional, física y espiritual), porque sin ella no tienes nada. 
-El día 20, la luna llena en Leo y el eclipse sugieren que veas a alguien o algo con nuevos ojos. Reconoce tus sentimientos, pero mantén tu perspectiva y enfócate en un objetivo común (y pasión) que comparten. Aunque te sientas vulnerable al quitarte la máscara, el verdadero riesgo sería dejar pasar una oportunidad de ser feliz. Atrévete a actuar con honestidad, pedir lo que necesitas, compartir el amor que sientes, y no te preocupes tanto por lo que obtienes a cambio. En las palabras de Maya Angelou, “El amor libera”. 
-Días destacados: 4, 22, 25 
-Días desafiantes: 5, 11, 21 
+El trígono entre la Luna y Júpiter del 1 de mayo comienza con una nota generosa y compasiva. Danza y diviértete bajo la Luna Llena del 10 de mayo, momento en el que tu vida social debería resplandecer y brillar. Espera recibir invitaciones o boletos para un gran concierto o espectáculo. No tienes que ser tú quien organice la fiesta esta vez. La Luna Nueva del 26 de mayo destaca las comodidades humanas y lo saludable que tales pueden ser. Puede que a veces sea difícil moderar lo que comes y cuanto comes, pero deberías ser capaz de reducir el estrés y disfrutar de un horario menos agitado. Tus días aún estarán ocupados, por supuesto.

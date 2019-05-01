@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo tauro abril 2019
-description: El Horóscopo abril de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo tauro mayo 2019
+description: El Horóscopo mayo de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/tauro/
 amplink: /horoscopo-mensual/amp/tauro/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo tauro abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo tauro mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
- video: d5If5HpbQbw
+ video: EEqIlXZ3hFg
 
 ogimg: /images/mes/tauro_mes.png
 sitemap:
@@ -17,4 +17,4 @@ sitemap:
 ---
 
 
-El 3 abril es un día serio y romántico conforme la Luna conjunta a Venus. Si es que resultas estar en la misma frecuencia con una persona especial ahora, ese sentimiento podría resultar ser a la larga. ¡La Luna Llena del 15 de abril es vigorizante! Te sentirás más saludable, con más energía y tendrás más interés en tareas pequeñas, pero más constructivas. Riega tus plantas, cuida a tu mascota, lava el coche - haz exactamente lo que te haga feliz. La Luna Nueva del 30 de abril pone un gran romance en tu camino. Si secretamente estás en busca de una relación más audaz y aventurera, podrías encontrarla ahora. Ambos serán inteligentes al respecto, y si no dura para siempre, ambos lo entenderán.
+Si requieres de un consejo o tu energía anda baja alrededor de la Luna Llena del 2 de mayo, discretamente pide ayuda. Alguien está esperando salir a tu rescate. Te vuelves la persona a la que todos recurren en tu familia o trabajo a finales de mes. La Luna Nueva del 16 de mayo te facilitará adoptar este papel, por lo que no requerirás de mucho esfuerzo. Sabrás hacerlo bien y lo harás con una sonrisa en la cara. Más no permitas que la gente se aproveche de tu buena naturaleza, también debes saber cuándo decir que no. Comienza la semana laboral del 29 de mayo de buen humor, después de que la Luna se aleje de Saturno y cualquier duda personal imaginaría que tengas se desvanezca.
