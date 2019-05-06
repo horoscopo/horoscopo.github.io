@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 29 de abril 2019 al 05 de mayo 2019 
-description: Horóscopo semanal aries 29 de abril 2019 al 05 de mayo 2019. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. aries, esta semana has de cerrar algunos ciclos de verdad.
+title: aries 06 de mayo 2019 al 12 de mayo 2019 
+description: Horóscopo semanal aries 06 de mayo 2019 al 12 de mayo 2019. Estás renaciendo aries, renaciendo de las cenizas… Y ya era hora…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: ZiAnUaj6wgY
+ video: xXkc3p6hcH4
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-29'
+ lastmod: '2019-05-06'
 ---
 
 
 
-## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. aries, esta semana has de cerrar algunos ciclos de verdad.
+## Estás renaciendo aries, renaciendo de las cenizas… Y ya era hora…
 
-Hay cosas que no se pueden cambiar aries, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos aries, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia aries pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
-Puede que no pares de pensar en los primeros días de la semana cuando las influencias clave te motivan para evaluar cierto asunto en profundidad antes de avanzar. Pero quizá solo baste con intuir que todo saldrá bien. También entras a una fase natural cuando el cosmos te inspira a descansar y darte el lujo del cuidado propio. El enfoque en tu sector doméstico puede ser una oportunidad para pasar tiempo con tus seres queridos, como también para disfrutar un poco de mimos y atención.
+Céntrate en tus metas aries, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+El romance es una posibilidad si estás de viaje. O puede que tengas la posibilidad de revivir la llama del amor si es que ya tienes pareja. De cualquier modo, alejarte de todo puede tener una positiva recompensa y darte la posibilidad de desconectarte de todo después de una época de agenda ocupada. Verifica los detalles si planeas viajar, ya que una extraña conexión entre el acelerado Mercurio y el etéreo Neptuno sugiere la posibilidad de cometer errores. Puede que debas enfocarte en los intensos sentimientos entre tú y una de tus amistades si es que quieres llegar a un acuerdo.
 
 ## Dinero
 
-Te diriges a un momento interesante. La gente se siente atraída hacia ti y a tu mensaje, así que si tienes que dar una presentación o formular un argumento con respecto a ventas, prográmalo para esta semana. Con el apoyo del Universo, tu sector de comunicación es el más afectado. ¿Cómo puedes llevar ese compromiso que recibiste al siguiente nivel y convertirlo en una promoción?
+Ciertas personas que conoces pueden bien servir a tu sector de deuda y dinero compartido. Ganarás más dinero cuando explotas las conexiones que ya tienes. Tus ideas son válidas. Sólo necesitas ayuda y financiamiento para seguir adelante. No te vendas por menos. Tienes todo lo que necesitas para tener éxito ahora.

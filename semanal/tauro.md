@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 29 de abril 2019 al 05 de mayo 2019 
-description: Horóscopo semanal tauro 29 de abril 2019 al 05 de mayo 2019. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+title: tauro 06 de mayo 2019 al 12 de mayo 2019 
+description: Horóscopo semanal tauro 06 de mayo 2019 al 12 de mayo 2019. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: Be3CACRdwNw
+ video: BtReVSXmzk8
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-29'
+ lastmod: '2019-05-06'
 ---
 
 
 
-## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 
-Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
-Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
-Cuando el fogoso Marte, tu planeta regente en cuanto a relaciones, está retrógrado en tu sector de romance, que no te sorprenda si una relación nueva parece estancarse. La buena noticia es que el dinámico Marte se volverá directo más adelante en el mes. Sin embargo, por ahora, usa este tiempo para trabajar sobre tu persona. 
-Debido a que el potente Marte forma un aspecto con el eléctrico Urano en un sector más emocional de tu carta, podría resultarte difícil despegarte de las cosas y dejar que sigan su curso natural. La idea de contactar a una determinada persona puede apoderarse de ti, incluso si sientes que podría ser una mala idea. Si puedes esperar cuatro o cinco días, tal vez veas la situación desde otro ángulo y esta necesidad podría no ser tan apremiante. Además, cuando el encantador Venus (tu planeta regente) se encuentra en un sector más recluido, puede que lo prudente sea librarse del pasado antes de iniciar una nueva relación.
+Organízate tauro, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres tauro, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
+Te enteras de un problema que se ha mantenido en secreto con la entrada del Sol a tu sector de hogar y familia. Es posible que los miembros de tu familia hayan estado muy ocupados para resolverlo aun cuando es importante. Sin embargo, sientes que debes hacer algo al respecto durante las próximas semanas. Aclarar el problema tiene consecuencias positivas que ayudan a que todos se sientan aliviados. También querrás desarrollar un proyecto que puede fomentar tu crecimiento personal.
 
 ## Dinero
 
-Tienes cierta actividad en tu sector de trabajo ahora, lo que significa que se te está pidiendo realizar una gran cantidad de tareas. Debido a que esta casa también rige tu salud, trata de no exagerar o de lo contrario tu salud podría verse afectada. Está seguro que habrá algo de tensión esta semana. Acude a los viajes y al aprendizaje de nuevas ideas para desahogarte.
+Esta semana estás llegando a un público mucho más grande con tu trabajo, lo que conduce a más dinero a la larga. Es posible que estés reconectando con la gente de tu pasado y consiguiendo presentaciones con nuevos fans. No importa lo que hagas para ganarte la vida, estás siendo empujado/a al escenario para entregar un mensaje único. Los aspectos te dan el apoyo y la fuerza que necesitas de estrechas relaciones. Gozas de un periodo en el que es muy poco probable que hagas errores, disfruta de este personal y financieramente.

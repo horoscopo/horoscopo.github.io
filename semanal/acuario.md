@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 29 de abril 2019 al 05 de mayo 2019 
-description: Horóscopo semanal acuario 29 de abril 2019 al 05 de mayo 2019. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+title: acuario 06 de mayo 2019 al 12 de mayo 2019 
+description: Horóscopo semanal acuario 06 de mayo 2019 al 12 de mayo 2019. acuario, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: aCFyDOpp3SE
+ video: VhjSy-3Ra1A
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-29'
+ lastmod: '2019-05-06'
 ---
 
 
 
-## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+## acuario, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 
-Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda acuario, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
-Podrías sentirte muy entusiasta con la Luna Llena del lunes en tu signo animándote a expresarte libre y abiertamente. Sin embargo, trata de tener cuidado con las personas más sensibles que podrían encontrar tu honestidad un tanto desconcertante. La entrada del Sol a tu sector de finanzas compartidas e intimidad podría ser una llamada a pensar cuidadosamente acerca de tus gastos, ingresos y la forma de sacarle el máximo provecho a tu dinero. Por último, el fin de semana está lleno de oportunidades. No te pierdas de una oferta potencialmente fabulosa.
+Por fin llega lo que tanto estabas esperando acuario, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo acuario. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana acuario, disfrútala al máximo.
+Con los planetas acumulándose en un sector más aislado de tu carta, ésta es una buena oportunidad para tomarte algo de tiempo para reflexionar sobre la vida. Asimismo, el Eclipse Solar de esta semana en este mismo sector podría animarte a analizar lo que sea que parezca estar llegando a su fin por sí solo. Esto podría aplicarse a proyectos, objetivos, circunstancias y relaciones. Por último, asegúrate de leer bien las clausulas, las condiciones y ten en cuenta cada detalle si estás cerrando un acuerdo al final de la semana.
 
 ## Dinero
 
-Tienes una semana de mucho trabajo por delante con planetas afectando tu sector de carrera y autoridad. Estás asumiendo una posición más poderosa en el trabajo ahora, y posiblemente un título o una nueva posición junto con ello. Celebra tu éxito en lugar de buscar una posición aún mayor. Ciertos aspectos indican un momento de tener más seriedad en el desarrollo de redes de profesionales que te pueden apoyar en los momentos de apuro.
+Esta semana tienes actividad en tu sector de dinero y valores, trayendo de vuelta una habilidad del pasado cuando se trata de ganar dinero en efectivo. Otros aspectos afectan tu sector de deuda o el dinero de otros. Si necesitas mejorar tu calificación de crédito, pide un poco de dinero prestado de una institución de dinero o banco y págalo antes del tiempo estimado.

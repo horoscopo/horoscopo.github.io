@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 29 de abril 2019 al 05 de mayo 2019 
-description: Horóscopo semanal sagitario 29 de abril 2019 al 05 de mayo 2019. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+title: sagitario 06 de mayo 2019 al 12 de mayo 2019 
+description: Horóscopo semanal sagitario 06 de mayo 2019 al 12 de mayo 2019. Vienen emociones fuertes sagitario, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: TlIFGFhzcvs
+ video: lo5DoNX6-mw
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-04-29'
+ lastmod: '2019-05-06'
 ---
 
 
 
-## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+## Vienen emociones fuertes sagitario, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 
-Empieza a cambiar la mentalidad sagitario, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado sagitario, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
-Tus pensamientos pueden ser profundos, y —al parecer— esta enternecedora y espiritual etapa durará un tiempo más. Pero no dejes que eso retrase las actividades que, a primera vista, parezcan triviales o superficiales. Necesitas los momentos serios y también la diversión. Y cuando el conversador Mercurio pasa por tu sector de comunicación, es un excelente momento para conectar con las personas que pueden ayudarte a cumplir una meta personal.
-El martes puede ser un encantador día para una cita especial con tu pareja o incluso para una primera cita con un interés romántico. El sol en tu sector de romance se alinea con el positivo Júpiter. Prepárate para que sucedan cosas buenas.
-Debido a que el activo Urano está a punto de abandonar tu sector de comunicación, que no te sorprenda si los próximos días coinciden con un encuentro o con información que cambia tu perspectiva sobre la vida. Y ya que el eléctrico Urano ingresará a tu sector hogareño la semana próxima, podrías cumplir ese tan ansiado logro importante.
+Te estás dando cuenta de quien sí y quien no sagitario. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo sagitario pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope sagitario, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente sagitario, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar sagitario, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+Si últimamente algunas situaciones te han hecho sentir mal, las próximas semanas podrían animarte a hablar con las personas involucradas y lograr un cierre. También podrías sentir deseos de moverte hacia nuevos círculos, uniéndote a grupos de personas similares a ti. De hecho, una nueva amistad podría volverse muy comprensiva en los próximos meses. En lo que respecta a los asuntos profesionales, este es el momento de usar tus encantos y de comunicarte con aquellos que pueden ofrecerte trabajo o más oportunidades.
 
 ## Dinero
 
-Esta semana, el Universo pone de relieve tu sector de amistades, compañeros y otras relaciones serias. Algo que reciente se formó es cada vez más serio. Esta podría ser una unión comercial mutuamente beneficiosa o incluso una asociación o fusión entre tu empresa y otro negocio. Puede que no se mueva tan rápido como te gustaría, pero es algo genial a largo plazo. Busca nuevas oportunidades en lo desconocido o en un campo completamente original.
+Estás a punto de tomar ventaja en una nueva empresa generadora de dinero. La suerte y la expansión vienen junto con la oportunidad, lo que significa que tendrás que prepararte para aceptar las ofertas de empresarios o inversionistas que quieran asegurarse de que tus ideas y productos tengan éxito. La ventana de oportunidad podría ser pequeña, por lo que ten todo preparado. Actualiza tu currículum y formula un plan de negocios.
