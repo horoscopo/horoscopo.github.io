@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de mayo 2019
-description: Horóscopos del dia de hoy 08 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de mayo 2019
+description: Horóscopos del dia de hoy 09 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-05-08
+ lastmod: 2019-05-09
 ---
-Dale a los proyectos el toque final hoy mientras Marte se encuentre a punto de cambiar de signo. Termina las cosas y respira un gran suspiro de alivio. Esta noche, la gente parece necesitar que alguien más tome la iniciativa. Si estás buscando amor y tienes interés en conocer a alguien, da el primer paso.  
+Hoy, el Universo se suaviza con emoción y las relaciones florecer cuando la Luna en Tauro forma sextil con Neptuno. Solteros, no hay misterio, es más bien química cuando Venus también aspecta a Neptuno. Las parejas deberían aprovechar esta energía cósmica y hablar sobre sus sueños. Crear imágenes del futuro es muy tranquilizador, ¿cierto?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
