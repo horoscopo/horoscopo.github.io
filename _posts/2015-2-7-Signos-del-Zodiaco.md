@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 09 de mayo 2019
-description: Horóscopos del dia de hoy 09 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 10 de mayo 2019
+description: Horóscopos del dia de hoy 10 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-05-09
+ lastmod: 2019-05-10
 ---
-Hoy, el Universo se suaviza con emoción y las relaciones florecer cuando la Luna en Tauro forma sextil con Neptuno. Solteros, no hay misterio, es más bien química cuando Venus también aspecta a Neptuno. Las parejas deberían aprovechar esta energía cósmica y hablar sobre sus sueños. Crear imágenes del futuro es muy tranquilizador, ¿cierto?
+¡Feliz cumpleaños a Libra! La oportunidad llama fuerte y claro durante el sextil entre el Sol y Saturno. Esta conexión crea chispas de ambición, y nada puede dejarte de lado si respondes a las positivas vibraciones. Y por si fuera poco, la Luna en el innovador Acuario te ayuda a intensificar tu paso.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
