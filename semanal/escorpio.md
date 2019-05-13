@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 06 de mayo 2019 al 12 de mayo 2019 
-description: Horóscopo semanal escorpio 06 de mayo 2019 al 12 de mayo 2019. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida escorpio. Ahora brillas así que, aprovecha. Aprovecha todo.
+title: escorpio 13 de mayo 2019 al 19 de mayo 2019 
+description: Horóscopo semanal escorpio 13 de mayo 2019 al 19 de mayo 2019. Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: OIqIR12FzuE
+ video: 4JD4GX-Kde8
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-06'
+ lastmod: '2019-05-13'
 ---
 
 
 
-## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida escorpio. Ahora brillas así que, aprovecha. Aprovecha todo.
+## Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 
-Esta semana estás un poco impredecible escorpio, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica escorpio… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
-Tendrás que tener mucho cuidado cuando cierres ofertas, discutas sobre temas relevantes, al manejar asuntos de negocios o lidiar con cuestiones de recursos compartidos durante esta semana. Mercurio iniciando su fase retrógrada te colocará en una posición ideal para hacerle frente a los problemas de deuda y mejorar tu situación financiera lo más que puedas. No es el mejor momento para sacar un préstamo o entrar en deuda; particularmente si no te sirve de ningún propósito real. Dicho esto, invertir en arte de alta calidad podría traerte rendimiento en el futuro.
+Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás escorpio. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
+Con la semana de fiestas ya aquí, estarás en tu elemento mientras organizas tanto eventos como invitados. Venus ahora en Escorpión significa que tienes una buena oportunidad para acercarte a una persona especial o calentar la vibra con tu pareja. Estarás de ánimo de fiesta bajo la Luna Llena de esta semana, con el día después de navidad exhibiendo lo mejor de tu personalidad. Además, tus finanzas deberían mostrar mejora en las semanas y meses venideros.
 
 ## Dinero
 
-La actividad astral de esta semana tiene lugar en tu sector de carrera y autoridad. El Universo te pide que pongas más de tu enfoque en su avance. No es suficiente el dejar tu vida laboral al azar. En cambio, los pasos cuidadosos hacia un objetivo profesional concreto te obtendrán los mejores resultados y la máxima rentabilidad.
+Como genio de creación de redes, bien sabes cómo hacerlo. Tus relaciones son importantes no sólo por motivos de negocios, sino también para desahogarte después del trabajo. Con un aspecto armonioso en tu sector social, estás haciendo más amigos e incluso sentando las bases para futuras colaboraciones. Has estado haciendo considerables acuerdos, así que no es mal momento para sacar la cuenta final. Cuidado con gastar excesivamente en tus amistades.

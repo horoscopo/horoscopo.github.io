@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: cancer 06 de mayo 2019 al 12 de mayo 2019 
-description: Horóscopo semanal cancer 06 de mayo 2019 al 12 de mayo 2019. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+title: cancer 13 de mayo 2019 al 19 de mayo 2019 
+description: Horóscopo semanal cancer 13 de mayo 2019 al 19 de mayo 2019. cancer, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: CHD6ZYQk_8A
+ video: 3TKdc83F6Lc
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-06'
+ lastmod: '2019-05-13'
 ---
 
 
 
-## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+## cancer, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 
-Te crees que eres débil cancer, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos cancer, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior cancer… Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
-El Eclipse Solar de esta semana manifestándose en tu sector de comunicación podría poner en tu camino una interesante oportunidad. O bien, se te podría ofrecer la oportunidad de colaborar en un proyecto o cerrar un trato. Pero hay que ir con cuidado a menos que tengas completa seguridad de los hechos. Lo que se te está ofreciendo podría ser perfectamente válido y potencialmente lucrativo, pero no está exento de dificultades. Todo ello necesita ser investigado a fondo antes de que aceptes cualquier cosa. Además, asegúrate de leer las cláusulas y condiciones si hay dinero involucrado.
+Siempre has tenido un fuerte instinto de supervivencia cancer, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces cangrejo y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
+Cuando el jovial Júpiter en tu signo conecta con el potente Plutón en tu sector de mente y comunicación, puede que tus pensamientos todavía giren en torno a un proyecto importante para ti. Sin embargo, esta puede ser una etapa de búsqueda y consolidación. Si te aseguras de que la base sea sólida, tienes el éxito prácticamente garantizado. No subestimes los detalles. Podrían ser fundamentales para el resultado. 
+  Al mismo tiempo, debido a que el práctico Saturno y el poderoso Plutón están retrógrados en tu sector de habla y pensamiento, podrías pasar por un proceso que te ayude a cambiar tu forma de pensar. Si bien hay muchas técnicas para hacerlo, confía en tus instintos y encontrarás la adecuada para ti. El fin de semana, el sol forma una positiva conexión con el etéreo Neptuno en tu sector de romance, lo que sugiere que un encuentro podría animarte a conocer mejor a una persona. Tómate tu tiempo. ¡No hay apuro!   
 
 ## Dinero
 
-Es una semana de creatividad al lidiar con cuestiones relativas a las relaciones y la comunicación. El utilizar tu creatividad para ganar dinero es una idea muy buena, como la escritura, el arte, la música u otra forma de arte. Si todavía no has tenido éxito para ganar dinero haciendo lo que te gusta, podrías encontrarte en una situación diferente ahora. Sólo asegúrate de que tus esfuerzos para buscar trabajo en estas áreas se concentren en ves de dispersarse.
+Puede que tengas las manos llenas ahora con cuestiones relacionadas con el empleo y la salud. Puede que tu carga de trabajo de repente se duplique, o puede que recibas más proyectos independientes que son demasiado buenos para dejarlos pasar. Tu red de fuentes de empleo se expande, lo que indica que también podrías enterarte de un trabajo en tu campo que realmente te interese. Con toda tu suerte en efecto, lo mejor es que trates de entrar a esta compañía.

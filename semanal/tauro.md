@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: tauro 06 de mayo 2019 al 12 de mayo 2019 
-description: Horóscopo semanal tauro 06 de mayo 2019 al 12 de mayo 2019. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+title: tauro 13 de mayo 2019 al 19 de mayo 2019 
+description: Horóscopo semanal tauro 13 de mayo 2019 al 19 de mayo 2019. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: BtReVSXmzk8
+ video: L3ry5N1Wx-g
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-06'
+ lastmod: '2019-05-13'
 ---
 
 
 
-## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 
-Organízate tauro, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres tauro, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
-Te enteras de un problema que se ha mantenido en secreto con la entrada del Sol a tu sector de hogar y familia. Es posible que los miembros de tu familia hayan estado muy ocupados para resolverlo aun cuando es importante. Sin embargo, sientes que debes hacer algo al respecto durante las próximas semanas. Aclarar el problema tiene consecuencias positivas que ayudan a que todos se sientan aliviados. También querrás desarrollar un proyecto que puede fomentar tu crecimiento personal.
+Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
+ La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
+ Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
+Un deseo en particular podría ser tan fuerte que se apodere de tu mente y sentidos, sobre todo a principios de semana, cuando podrías preguntarte qué fue lo que te golpeó; algo que valdría la pena analizar más profundamente. Puede que hasta termines recibiendo más de lo que esperabas. El actual enfoque en tu sector hogareño podría hacer que te preguntes sobre los motivos de ciertos miembros de tu familia. Una charla de corazón a corazón podría ser mejor a quedarte con innecesarias sospechas. A partir del domingo, Venus en Libra puede ser útil para las negociaciones y el romanticismo.
 
 ## Dinero
 
-Esta semana estás llegando a un público mucho más grande con tu trabajo, lo que conduce a más dinero a la larga. Es posible que estés reconectando con la gente de tu pasado y consiguiendo presentaciones con nuevos fans. No importa lo que hagas para ganarte la vida, estás siendo empujado/a al escenario para entregar un mensaje único. Los aspectos te dan el apoyo y la fuerza que necesitas de estrechas relaciones. Gozas de un periodo en el que es muy poco probable que hagas errores, disfruta de este personal y financieramente.
+Esta semana hace hincapié en la seguridad, dinero y valores. Un aspecto armonioso te da licencia para gastar en ese viaje que has estado deseando hacer, ese taller de fin de semana que te traerá más dinero en efectivo a largo plazo e incluso esa idea creativa que ha estado deambulando en la parte trasera de tu cerebro. Haz que suceda y estarás feliz por ello.

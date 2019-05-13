@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 06 de mayo 2019 al 12 de mayo 2019 
-description: Horóscopo semanal libra 06 de mayo 2019 al 12 de mayo 2019. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+title: libra 13 de mayo 2019 al 19 de mayo 2019 
+description: Horóscopo semanal libra 13 de mayo 2019 al 19 de mayo 2019. Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: ECht4RtyrCQ
+ video: jKqPCrsandQ
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-06'
+ lastmod: '2019-05-13'
 ---
 
 
 
-## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+## Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 
-Ojalá pudiéramos tener un botón de reinicio en la vida libra, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
-Tu vida amorosa podría dar un giro nuevo y sensual cuando Venus entra a Tauro, el sector más apasionado de tu carta astral, el martes. Puede que las próximas semanas sean una oportunidad para acercarte a esa persona especial y conocerse mucho más. Además, puede que te den ganas de viajar y que tengas deseos de explorar opciones de viajes cortos o unas vacaciones exóticas. Puede que tu vida profesional y tus responsabilidades también demanden atención, por lo que será fundamental que encuentres el equilibrio entre tu vida y tu trabajo.
+Tienes grandes planes libra, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes libra, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el libra de siempre…
+Con Mercurio ahora retrógrado en tu sector de relaciones, tendrás la oportunidad perfecta para resolver cualquier insignificante problema o desacuerdo que tengas con otros. Si ciertos tratos o situaciones necesitan ajustes o es necesario hacer compromisos, esta es tu oportunidad de lanzarte a hacerlo. Si bien la Luna Nueva del viernes puede ser el momento perfecto para llevar una relación al siguiente nivel, no te apresures a nada. Mantén esa intención en lo más alto de tu mente y ve cómo te sientes dentro de unas semanas.
 
 ## Dinero
 
-Ahora tienes el apoyo total del Universo para hacer dinero a través de cualquier cosa que implique el amor, las relaciones, la familia, los niños, y actividades divertidas. Son tus relaciones personales o profesionales las que te podrían ofrecer las mejores ideas para productos o servicios que les puedas ofrecer a tus clientes. Tienes más de una oportunidad para hacer que suceda.
+El cosmos trae cambios en la forma en la que te ves y cómo te expones al mundo. Los demás normalmente te ven como una persona trabajadora y ahorrativa. Sin embargo, los aspectos que afectan a tu sector de grupos, política y trabajo por cuenta propia pueden hacer que de repente parezcas más social. Algunos incluso te llaman el alma de la fiesta conforme conoces gente nueva, cierras tratos y llenas tu agenda social.

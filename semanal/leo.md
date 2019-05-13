@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 06 de mayo 2019 al 12 de mayo 2019 
-description: Horóscopo semanal leo 06 de mayo 2019 al 12 de mayo 2019. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: leo 13 de mayo 2019 al 19 de mayo 2019 
+description: Horóscopo semanal leo 13 de mayo 2019 al 19 de mayo 2019. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: Su0Nbes5Buk
+ video: Ceh8o32Agvw
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-06'
+ lastmod: '2019-05-13'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto leo? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito leo. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-Pareces estar disfrutando del ambiente festivo, con muchas oportunidades para reunirte con amigos y familiares. Si estás organizando una fiesta de oficina, esta semana podría ser memorable debido a uno o dos encuentros. Sin embargo, debido a la Luna Llena alcanzando su punto máximo, trata de no hacer nada de lo que pudieras arrepentirte más tarde. El 25 de $MES podrías disfrutar de algo de tiempo de descanso con tus personas más cercanas. Finalmente, Urano saliendo de su retroceso significa que tu vida social comienza a estabilizarse.
+Despacito leo, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo leo.
+Esta semana podrías ser un enigma incluso hasta para ti debido a una compleja mezcla de energías haciéndote sentir un poco de confusión e inseguridad. Tu manera de hacerle frente a esto podría ser prepararte para momentos difíciles y hacer más robustas tus defensas. ¿Será que esto te ayudará? No es muy probable. Lo que sí podría ser más apropiado es hablar con alguien de confianza. Incluso si esto te hace sentir vulnerable, tener una buena conversación podía hacerte mucho bien.
 
 ## Dinero
 
-El crecimiento y la suerte pueden ampliar tus posibilidades, así que asegúrate de mantenerte al tanto con tu programa de ejercicios. También se extenderá tu influencia en el mundo. Tienes el oído de tus superiores en el trabajo, así que asegúrate de programar reuniones regulares para mantenerte al tanto con ellos. Mientras tanto, tu vida social se acelera, por lo que es un buen momento para conocer gente nueva, conocer colegas y mejores mentores. Hay poder en tus relaciones.
+Hay algunos aspectos discordantes esta semana, lo que podría traer un poco de tensión a tu vida. Aunque hay algo de pesadez en tu sector profesional, no descuides tus relaciones. Tienes un montón de gente maravillosa que te puede dar consejos sobre cosas, desde la búsqueda de empleo a las inversiones. Úsalos a tu ventaja.

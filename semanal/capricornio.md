@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 06 de mayo 2019 al 12 de mayo 2019 
-description: Horóscopo semanal capricornio 06 de mayo 2019 al 12 de mayo 2019. No te destruyas capricornio, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+title: capricornio 13 de mayo 2019 al 19 de mayo 2019 
+description: Horóscopo semanal capricornio 13 de mayo 2019 al 19 de mayo 2019. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: jGO0i7sp6Ps
+ video: heT7QJwl1ko
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-06'
+ lastmod: '2019-05-13'
 ---
 
 
 
-## No te destruyas capricornio, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 
-Disfruta de la vida capricornio, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven capricornio. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana capricornio.
-Aunque puede que sientas emoción acerca de un plan o incluso una relación, ciertos aspectos astrológicos de esta semana indican que también podría haber una falta de confianza de tu parte. Esto se debe a una poderosa presencia en tu sector espiritual que te anima a desprenderte de cierto equipaje emocional y, en particular, concentrarte en tu autoestima y en maneras en las que puedes mejorarte como persona. Este es el momento para hacerle frente a lo que te está frenando para que puedas seguir avanzando con entusiasmo.
+Nadie se cura por herir a otro capricornio. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
+Puede que los modos y medios convencionales te parezcan un poco conservadores y muy aburridos para conformarte a ellos esta semana. Pero si decides no cumplir con ciertos compromisos o ciertas promesas, especialmente en cuanto a finanzas, quizá no sea lo más aconsejable. Aunque las responsabilidades pueden ser agobiantes, hacer lo que los demás esperan de ti puede ayudarte a mantener tu reputación y seguridad. Si ansías vivir una aventura, planea algo que te de ese subidón de adrenalina. Una oportunidad excitante podría aparecer este fin de semana.
 
 ## Dinero
 
-Tienes entusiasmo para moverte esta semana, especialmente con respecto a tu dinero. Esto puede proporcionarte un nuevo impulso para salir y encontrar un nuevo trabajo o pensar cómo iniciar un negocio secundario para aumentar tus ingresos. El Universo quiere que te destaques entre la multitud, así que asegúrate de ser visto y oído como individuo. Ciertos aspectos en tu sector de carrera indican que debes esforzarse para proporcionar una imagen tranquila y confiada.
+Puede que esta semana sea necesario protegerte contra el engaño, incluso si se hace en nombre de la protección de los sentimientos de alguien. Algunos aspectos de tu sector de relaciones demuestra que tú o alguien más podría tener la tentación de torcer la verdad en cierta correspondencia. Pon más atención y responsabilidad en tus comunicaciones. Las mentiras, no importa cuán pequeñas o bien intencionadas sean, pueden ser contraproducentes ahora y corres el riesgo de arruinar lo que podría ser una sociedad financiera importante.

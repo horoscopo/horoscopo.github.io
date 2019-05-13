@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 06 de mayo 2019 al 12 de mayo 2019 
-description: Horóscopo semanal piscis 06 de mayo 2019 al 12 de mayo 2019. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+title: piscis 13 de mayo 2019 al 19 de mayo 2019 
+description: Horóscopo semanal piscis 13 de mayo 2019 al 19 de mayo 2019. Hay personas que juegan en otra liga piscis, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: o3qHsC4_Me4
+ video: tQT4fO5Zb-Q
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-06'
+ lastmod: '2019-05-13'
 ---
 
 
 
-## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+## Hay personas que juegan en otra liga piscis, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 
-Tu mente lo está analizando absolutamente todo piscis, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez piscis… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas piscis, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana piscis, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
-Prepárate para lidiar con objeciones o para tener que hacerle frente a las emociones volátiles de otras personas. Esta semana, el Eclipse Lunar manifestándose en tu sector de comunicación sacará ciertos sentimientos a la luz. Los días de mitad de semana podrían ser el momento de decir lo que haya que decir y aclarar las cosas en el proceso. Aunque la semana pueda ser frustrante en algunos aspectos, una escapada de fin de semana podría ser justo lo que necesites para recargar pilas y ayudarte a elevarte por encima de todo. Necesitarás alguna forma de escape, así que planéala.
+Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen.
+Parece que tendrás muchas cosas que hacer en las próximas semanas, como tareas generales administrativas, escribir, investigar y actividades en línea. Esto puede ser gratificante y darte muchas oportunidades para comunicarte y promocionar tu mercadería y tus servicios. Con el vivaz Mercurio volviéndose directo, aún tendrás que prestar atención a los mensajes mixtos o a los posibles problemas hasta el fin de semana, cuando todo empiece a volver a la normalidad.
 
 ## Dinero
 
-Normalmente eres capaz de resolver cualquier dilema de dinero con inteligencia y tenacidad, y esta semana no es diferente. Los aspectos indican el éxito a través de propiedad compartida y las inversiones, así como las herencias que provienen de fuentes inesperadas. Tu trabajo y la salud se ven afectados. Pon un esfuerzo adicional en los proyectos de trabajo que impresionen a los de arriba para que seas el próximo en la línea de promoción. Sin embargo, protégete contra el cansancio extremo.
+Estás interactuando con miembros de la familia, niños, pareja y socios creativos. Te estás divirtiendo tanto que puede que no se te ocurra verificar tu saldo bancario. ¡Caramba! Ciertos aspectos favorables se aseguran de que seas capaz de sentirte bien contigo mismo/a, incluso sin tener que gastar tanto. Escucha, es lo mejor.
