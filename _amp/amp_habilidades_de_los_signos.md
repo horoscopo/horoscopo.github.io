@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: amp
 title: ¿Cuáles son los habilidades de los signos del zodiaco?
 description: Ya sabemos que cada signo tiene particularidades en su personalidad, esto tambien afecta a sus habilidades, por ende aqui vas a poder descubrir cuales son las habilidades de cada signo.
 normallink: /habilidades-signos-zodiaco/
 permalink: /amp/habilidades-signos-zodiaco/
 home: FALSE
-sidebar: true
 keywords: habilidades signos, habilidades, carta natal, astrología, lectura del tarot, signos del zodiaco, horoscopos, astros, cambio de estaciones
 ogimg: /images/habilidades-signos.png
 sitemap:

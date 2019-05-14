@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de mayo 2019
-description: Horóscopos del dia de hoy 13 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de mayo 2019
+description: Horóscopos del dia de hoy 14 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-05-13
+ lastmod: 2019-05-14
 ---
-No te sorprendas cuando destellos de intuición sean encendidos por Venus en Piscis conjuntando a Neptuno. Si se siente bien hacerlo, llévalos contigo hacia el futuro. Mercurio se encuentra a punto de cambiar de signo esta noche. Espera cambios repentinos de humor y diálogo. Está bien, posiblemente alcanzaste el punto máximo dentro de una conversación y es hora de pasar a otra cosa.
+A partir del día de hoy, la vida se trata sobre verdad y justicia con Mercurio en Sagitario hasta principios de diciembre. Esta noche, la cuadratura entre Venus y Plutón podría convertirse en un arriesgado afrodisíaco debido a sus fuertes poderes de atracción. ¡Cuidado! En muchos sentidos, es un momento de déjà vu. No es un caso de no saber, ya has pasado por esa experiencia.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
