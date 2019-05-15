@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de mayo 2019
-description: Horóscopos del dia de hoy 14 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de mayo 2019
+description: Horóscopos del dia de hoy 15 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-05-14
+ lastmod: 2019-05-15
 ---
-A partir del día de hoy, la vida se trata sobre verdad y justicia con Mercurio en Sagitario hasta principios de diciembre. Esta noche, la cuadratura entre Venus y Plutón podría convertirse en un arriesgado afrodisíaco debido a sus fuertes poderes de atracción. ¡Cuidado! En muchos sentidos, es un momento de déjà vu. No es un caso de no saber, ya has pasado por esa experiencia.
+Inusuales personas o acuerdos - o posiblemente ambos - ocurren el día de hoy cuando la Luna forma trígono con Plutón y la vida adquiere un giro extraño de manera temporal. Esta noche toma los chismes con escepticismo si se tratan de alguien que te importa. Los motivos de cierta persona podrían no ser puros. Es posible que desees analizar por qué.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
