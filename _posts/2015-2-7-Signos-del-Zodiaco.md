@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de mayo 2019
-description: Horóscopos del dia de hoy 17 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de mayo 2019
+description: Horóscopos del dia de hoy 18 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-05-17
+ lastmod: 2019-05-18
 ---
-Estás fuera de orden, dice la oposición Mercurio/Urano. Por supuesto que cuando estás tarde, todo lo que necesitas no funciona. Lee las instrucciones primero. Si no tienes pareja, la noche está llena de historias, por lo que no creas la ficción de esta noche, cuando los enredos románticos se hagan posibles. Por su parte, las parejas prefieren dar sólo pistas en lugar de simplemente comunicarse.
+¡Feliz cumpleaños al optimista, burbujeante y mágico Sagitario a lo largo de los próximos 30 días! Haz grandes planes, crea nuevas metas y deja atrás lo viejo. Ama con tu mente y tu sentido común y práctico bajo la Luna en Virgo de esta noche. Ten en cuenta que al terrenal Virgo le gusta controlar las cosas, ¡pero no puede controlar a las personas en el amor!   
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
