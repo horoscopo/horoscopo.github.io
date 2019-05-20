@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 13 de mayo 2019 al 19 de mayo 2019 
-description: Horóscopo semanal geminis 13 de mayo 2019 al 19 de mayo 2019. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada geminis. 
+title: geminis 20 de mayo 2019 al 26 de mayo 2019 
+description: Horóscopo semanal geminis 20 de mayo 2019 al 26 de mayo 2019. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: RV-KbOIx6IM
+ video: Wgc3o4fKRMg
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-13'
+ lastmod: '2019-05-20'
 ---
 
 
 
-## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada geminis. 
+## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
 
-Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro geminis, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Pececito, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
-Tú amas organizarte, pero puede que te topes con que incluso tus planes mejor trazados se vuelven polvo esta semana. Con ambos, tanto Mercurio como Júpiter retrocediendo, tendrás que ser paciente para manejar los inevitables retrasos. De hecho, puede que tengas involucramiento en una serie de discusiones y conversaciones en un intento por lograr que las cosas avancen un poco más rápido. Sin embargo, trata de centrarte en hacer cambios fundamentales y solucionar fallas. Puede que el progreso sea un poco más fácil una vez que ciertas cosas sean enderezadas.
+A veces quieres llegar al fondo de cualquier cosa geminis, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo geminis. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a geminis, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona geminis así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
+Puede que estés disfrutando de un nuevo romance o de la oportunidad de darte el gusto con algún pasatiempo favorito. Gracias al animado enfoque en tu sector de recreación, el tiempo que pasas haciendo actividades divertidas puede ser un bálsamo, en especial si tienes muchas responsabilidades en casa. Sin embargo, el cuarto de luna en Escorpión del miércoles puede animarte a cuidar los costos, en especial si un proyecto creativo parece bastante costoso. Puede que haya una manera más económica de lograrlo. La tentación de satisfacer tus gustos podría ser fuerte el fin de semana.
 
 ## Dinero
 
-Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.
+Todavía hay aspectos restrictivos desacelerando tu sector de dinero, lo cual puede ser frustrante a veces. Pero también se te están dando algunas nuevas órdenes. Lo más afectado es tu principal empleo, el cuál está experimentando un gran cambio. Puede que incluso cambies de carrera o la forma en la que ganas efectivo. Cuida tu salud, la cuál podría llegar a deteriorarse como resultado del estrés. Es mejor prevenir que lamentar.

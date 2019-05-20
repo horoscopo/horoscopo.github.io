@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 13 de mayo 2019 al 19 de mayo 2019 
-description: Horóscopo semanal virgo 13 de mayo 2019 al 19 de mayo 2019. A veces sientes como si no avanzaras virgo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+title: virgo 20 de mayo 2019 al 26 de mayo 2019 
+description: Horóscopo semanal virgo 20 de mayo 2019 al 26 de mayo 2019. Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: -r85As523w0
+ video: LObqo_LzHAM
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-13'
+ lastmod: '2019-05-20'
 ---
 
 
 
-## A veces sientes como si no avanzaras virgo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+## Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 
-Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
-Las actividades románticas podrían ser muy placenteras esta semana. Con el apasionado Marte en la escena, este es el momento perfecto para llevar a tu amor a una cita especial o para asistir a una fiesta de Halloween y encontrar al pretendiente perfecto. La luna llena del viernes te lleva a tomar un descanso espiritual como una forma de orientarte y centrarte. La semana por delante puede ser un éxito si puedes combinar una tranquila reflexión con las demandas de tu vida social.
+Quizás deberías dejar de planear todo ahora virgo, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien virgo, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
+El Sol en Capricornio te estimula a organizarte en relación a cuestiones de trabajo, estilo de vida y bienestar. Tu enfoque también se concentrará en el ocio y el placer cuando Venus entre a Sagitario, dándote una gran oportunidad para disfrutar de la época festiva y las celebraciones de Año Nuevo. Además, Marte entrando a tu sector familiar podría darte ganas de eliminar el desorden. Esto significa abordar aquellas áreas que no han visto la luz del día durante algún tiempo. Te sentirás mucho mejor una vez que empieces.
 
 ## Dinero
 
-Cierta actividad en tu sector de dinero y de valores hace que sea prácticamente imposible evitar todas las ofertas y las oportunidades de ganar más a corto plazo. Haz heno mientras el Sol brilla. Esto es especialmente cierto ya que algunos de los aspectos son desafiantes. Puede ser que tu vida en el hogar sea un poco caótica ahora. No gastes más de lo que deberías.
+Esta semana se trata de los aspectos afortunados que te dan una fuerza de conexión con la tierra para evitar que tu situación económica actual se te suba mucho a la cabeza. Tu sector de trabajo se activa, por lo que podrías tener más trabajo (especialmente si has estado desempleado) y adición a tus responsabilidades. Al mismo tiempo, el gasto se reducirá para que pueda ponerte al día con la deuda. Mantén el rumbo, vas en la dirección correcta.

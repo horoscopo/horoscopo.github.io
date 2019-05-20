@@ -1,30 +1,30 @@
 ---
 layout: horoscopos
-title: tauro 13 de mayo 2019 al 19 de mayo 2019 
-description: Horóscopo semanal tauro 13 de mayo 2019 al 19 de mayo 2019. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+title: tauro 20 de mayo 2019 al 26 de mayo 2019 
+description: Horóscopo semanal tauro 20 de mayo 2019 al 26 de mayo 2019. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: L3ry5N1Wx-g
+ video: psiEv1gm5Gc
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-13'
+ lastmod: '2019-05-20'
 ---
 
 
 
-## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-Un deseo en particular podría ser tan fuerte que se apodere de tu mente y sentidos, sobre todo a principios de semana, cuando podrías preguntarte qué fue lo que te golpeó; algo que valdría la pena analizar más profundamente. Puede que hasta termines recibiendo más de lo que esperabas. El actual enfoque en tu sector hogareño podría hacer que te preguntes sobre los motivos de ciertos miembros de tu familia. Una charla de corazón a corazón podría ser mejor a quedarte con innecesarias sospechas. A partir del domingo, Venus en Libra puede ser útil para las negociaciones y el romanticismo.
+Esta semana tienes que tomarte las cosas con más calma tauro. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
+ Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse.
+El inquisitivo Mercurio ingresa a tu sector de estilo de vida el martes, por lo que podrías tener ganas de organizarte, en especial si tienes planes y proyectos pendientes. Si bien abordar tus rutinas con la mente fría puede ser útil, prestar atención a la intuición también podría ahorrarte tiempo. 
+Si has estado esperando el momento adecuado para comenzar un proyecto creativo o dar inicio a un nuevo romance, el miércoles podría ser EL día. La luna nueva en tu sector de recreación puede darte el impulso que necesitas para ayudar a convertir tus sueños en realidad. Y si esperas comprometerte en una relación a nivel más profundo, el ingreso del delicioso Venus a tu sector de relaciones podría animarte a conversar. Tu vida social también podría ser mucho más divertida. Trata de no comprometerte con más cosas de las que puedas cumplir, especialmente el viernes, cuando delegar algunas tareas podría facilitarte la vida.
 
 ## Dinero
 
-Esta semana hace hincapié en la seguridad, dinero y valores. Un aspecto armonioso te da licencia para gastar en ese viaje que has estado deseando hacer, ese taller de fin de semana que te traerá más dinero en efectivo a largo plazo e incluso esa idea creativa que ha estado deambulando en la parte trasera de tu cerebro. Haz que suceda y estarás feliz por ello.
+Tienes una energía muy obstinada ahora. Se te está empujando a una forma no tan sutil de tratar con los demás. La formación de nuevas relaciones como el cultivar las ya existentes proporcionará las respuestas que buscas.

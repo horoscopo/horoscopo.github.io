@@ -1,32 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 13 de mayo 2019 al 19 de mayo 2019 
-description: Horóscopo semanal acuario 13 de mayo 2019 al 19 de mayo 2019. Esta semana relájate un poco acuario, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: acuario 20 de mayo 2019 al 26 de mayo 2019 
+description: Horóscopo semanal acuario 20 de mayo 2019 al 26 de mayo 2019. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: rcffpvE7lOU
+ video: sfK1EQf-HEs
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-13'
+ lastmod: '2019-05-20'
 ---
 
 
 
-## Esta semana relájate un poco acuario, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 
-Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
-Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
-¿Qué prefieres? ¿Viajar y disfrutar un poco o ponerte a trabajar en serio? Esta podría ser la decisión a la que te enfrentes el lunes, cuando el conversador Mercurio se dirige al intenso Plutón. Es muy probable que no puedas tomarte un tiempo solo porque crees que lo necesitas, pero tal vez puedas planificarlo y disfrutarlo más adelante en la semana. 
-El martes es más positivo cuando el sol se opone al jovial Júpiter. Un cumplido por parte de un familiar o un sentido apoyo podrían ayudarte a dar un paso adelante en el camino de tus sueños. 
-El viernes podría ser otro día importante. Puede que te ofrezcan una oportunidad relacionada con más trabajo. Si tus instintos te dicen que sigas adelante, definitivamente debes tenerla en cuenta. 
-Por último, la mejor manera de manejar el fin de semana puede ser disfrutar de un espontáneo viaje. Cuanto más interesante sea, ¡mejor!
+Deja que duela acuario, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser acuario estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien acuario pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida acuario, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
+Si entablas una nueva amistad esta semana, es posible que dure mucho tiempo. Esto se debe a que la Luna Nueva puede propiciar la mejor combinación emocional posible, en la cual ambos podrán apoyarse. Sin embargo, la entrada de Mercurio a Capricornio puede ser un llamado de atención para que escuches a tus sentimientos. Pueden estar tratando de decirte algo. Si tuviste problemas para tomar una decisión, seguir tus instintos puede ayudarte a decidir qué hacer.
 
 ## Dinero
 
-Para ti, esta semana es sobre la necesidad imperiosa de comunicar tu experiencia al escribir, enviar mensajes de texto, enviar correos electrónicos o para hablar. Todos estos esfuerzos pueden dar dinero en efectivo en el futuro. Pero esta semana, un fuerte campo de energía requiere que cuides de los problemas en el trabajo. Tu trabajo puede estar pasando por enormes cambios ahora. El luchar contra ellos, o decidir abandonar el barco no dará los resultados que buscas. Ve con los cambios lo mejor que puedas.
+Es posible que te sientas muy especial esta semana. Esta es una semana muy buena para explorar la manera de mejorar tu situación financiera. Los planetas te piden encontrar una nueva forma de utilizar tu creatividad, que pases tiempo con tu familia, hijos y parejas románticas. Has trabajado lo suficientemente duro. Es hora de disfrutar de los frutos de tu trabajo.
