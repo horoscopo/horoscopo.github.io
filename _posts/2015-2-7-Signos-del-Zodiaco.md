@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de mayo 2019
-description: Horóscopos del dia de hoy 20 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de mayo 2019
+description: Horóscopos del dia de hoy 21 de mayo 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-05-20
+ lastmod: 2019-05-21
 ---
-Dimos pasos hacia atrás, ahora podemos comenzar a avanzar de nuevo. Respira un suspiro de alivio cuando Mercurio se torne directo esta mañana. Aunque las actividades mentales son buenas durante todo el día, esta noche hace hincapié en complicados sentimientos; lo que significa que no es buen momento ni para saltar a conclusiones, ni para ponerse demasiado serios mientras la luna aspecte a Plutón.
+Trata de escuchar fielmente para evitar la pérdida de las insinuaciones que son hechas durante los próximos tres días mientras el Sol aspecta a Neptuno. Tienes que obtener información sustancial, no pistas imprecisas. A medida que el día da paso a la noche, la gente es rápida para cambiar de tema cuando uno se acerca demasiado a su caja de secretos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
