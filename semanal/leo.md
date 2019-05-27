@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 20 de mayo 2019 al 26 de mayo 2019 
-description: Horóscopo semanal leo 20 de mayo 2019 al 26 de mayo 2019. A veces hay que llevar al límite las cosas leo, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+title: leo 27 de mayo 2019 al 02 de junio 2019 
+description: Horóscopo semanal leo 27 de mayo 2019 al 02 de junio 2019. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: Kc_SPU_4YHY
+ video: HOmtQajWJOU
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-20'
+ lastmod: '2019-05-27'
 ---
 
 
 
-## A veces hay que llevar al límite las cosas leo, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-A veces te confundes leo, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso leo. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. leo, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo leo, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
-Tus amistades parecen ser de gran apoyo, tanto es así que la primera parte de la semana podría poner una agradable sorpresa en tu camino. Puede que alguien te haga una oferta que no puedas rechazar - y que es poco probable que recibas de nuevo. Aun así, mantente alerta, ya que otras sorpresas pueden aparecer de la nada. Los asuntos de salud y estilo de vida ganan importancia también. Un renovado sentido de propósito podría animarte a hacer ejercicio a diario o ser más consciente de tus hábitos alimenticios.
+Tienes conversaciones pendientes leo, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad leo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas leo, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
+Las influencias actuales podrían empujarte a alcanzar una meta que requiere encanto al igual que persistencia. Ahora el cosmos puede darte ambas cualidades, aunque el apoyo de tus amistades puede ser lo que te motive para seguir. Pero puede haber grandes ganancias si sigues tu plan sin importar qué tan difícil sea. Es posible que tengas plena conciencia del panorama completo, pero los detalles son más importantes en este momento.
 
 ## Dinero
 
-La actividad en tu sector de la comunicación hace de ti una abeja muy ocupada. Estarás escribiendo correos electrónicos, mensajes de texto y llamando a tus seres queridos, haciendo de ésta una semana muy ocupada. También será más fácil para que ti el poder encontrar un trabajo independiente y hacer tu trabajo fácilmente para que puedas recibir el pago más rápidamente. Podrás lograr progreso siempre y cuando no pises a nadie en el camino, pisa con cuidado.
+El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.

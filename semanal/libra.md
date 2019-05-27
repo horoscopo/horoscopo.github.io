@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: libra 20 de mayo 2019 al 26 de mayo 2019 
-description: Horóscopo semanal libra 20 de mayo 2019 al 26 de mayo 2019. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+title: libra 27 de mayo 2019 al 02 de junio 2019 
+description: Horóscopo semanal libra 27 de mayo 2019 al 02 de junio 2019. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: k3s_gmSyzU4
+ video: rfadgsbPgKE
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-20'
+ lastmod: '2019-05-27'
 ---
 
 
 
-## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 
-No pelees libra, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente libra, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador libra, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
-Aunque sea tentador malgastar tu dinero, no es lo que más te conviene hacer. Trata de alinearte con la Luna Nueva del Martes al comprometerte con un nuevo comienzo. Esta es tu oportunidad para crear un presupuesto que te permita disfrutar de la vida y ahorrar dinero también. Considera la posibilidad de adoptar un préstamo de consolidación de deudas si es que lo necesitas. Más adelante en la semana, puede que sientas motivación a conectar con personas de las que no has escuchado en algún tiempo y sea buen momento para una reunión.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+Aunque sientas la inspiración para seguir un nuevo camino que parece muy prometedor, tal vez sientas inquietud si esto significa salirte demasiado de tu zona de confort. Es realmente una cuestión de fe. Este podría ser un buen momento para deshacerte de cualquier cosa pasada de moda o que te esté reteniendo. Sin embargo, la luna llena en Aries del jueves podría traer un poco de drama a un primer plano. También es un momento excelente para una celebración o reunión, incluso si es un poco escandalosa.
 
 ## Dinero
 
-Le estás dando nueva vida a algo por lo que perdiste interés hace mucho tiempo, gran parte de tu energía se está moviendo en esta dirección. De hecho, puedes hasta disfrutar de un golpe de suerte que lo haga suceder esta vez y de verdad. Asegúrate de que tu flujo de efectivo se mantenga estable al gastarlo proporcionalmente. Podrías estar viendo tu situación financiera a través de lentes de color de rosa.
+Es una semana de confusión conforme varios aspectos tensamente chocan en el cielo. Los efectos en tu sector de trabajo infieren que se requiere de más atención antes de que puedas subir de posición y ganar la cantidad de dinero que deseas. Busca programas de educación en los que tu compañía quiera pagar en parte o completamente.

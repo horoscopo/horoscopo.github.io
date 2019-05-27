@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 20 de mayo 2019 al 26 de mayo 2019 
-description: Horóscopo semanal escorpio 20 de mayo 2019 al 26 de mayo 2019. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+title: escorpio 27 de mayo 2019 al 02 de junio 2019 
+description: Horóscopo semanal escorpio 27 de mayo 2019 al 02 de junio 2019. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: Pmh3dViDDyc
+ video: 4gFcgrxzX88
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-20'
+ lastmod: '2019-05-27'
 ---
 
 
 
-## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 
-No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
-Tal vez sientas que llegó el momento de aceptar el lado más serio del año nuevo, lo cual podría significar dedicarle tiempo y energía a cumplir tus objetivos. Sin embargo, a medida que Venus, el planeta que rige tus relaciones, entra a un sector más práctico de tu carta astral, te convendría sumar otras personas a tu plan. Convence a tus amistades de que se unan a un gimnasio y compartan la alegría de estar en forma. Busca los lugares de comida más saludables o las mejores clases de yoga y disfruta de recibir este apoyo.
+No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo escorpio pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
+ Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
+Debido a una poderosa influencia en tu sector espiritual, un nuevo comienzo es posible. Si tienes ganas de aprender a meditar o empezar alguna otra práctica espiritual, ¡adelante! Hacerlo podría cambiar tu vida de una forma dinámica, lo que te permitirá darle vida a tu visión. Y con el Sol ingresando a tu signo a partir del martes, también te sentirás con más energía y vitalidad durante las próximas semanas. Enfocarte en proyectos que tienen un significado especial para ti también puede ser muy gratificante.
 
 ## Dinero
 
-Puede parecer que tu situación monetaria va hacia atrás en lugar de ir hacia adelante. Pareciera que algunas influencias te están restringiendo pero puede que sea solo una ilusión. Eleva tu nivel de madurez y responsabilidad,  esto podría finalmente determinar de una vez por todas, el significado del dinero en tu vida. ¿Sientes comodidad con tu situación actual, o crees necesitar más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.
+Los planetas en tu sector de comunicación esta semana te hacen más parlanchín/a de lo normal. Tanto tu situación económica, así como tu trabajo pueden depender de tu capacidad para transmitir tu mensaje de una manera concisa y poderosa. Pero ya que un aspecto negativo constriñe tu trabajo día a día, lo mejor es encontrar un equilibrio entre tu necesidad de destacar y tu necesidad de ganar dinero. El trabajo en equipo y el equilibrio van de la mano.

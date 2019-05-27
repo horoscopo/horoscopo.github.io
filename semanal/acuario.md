@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 20 de mayo 2019 al 26 de mayo 2019 
-description: Horóscopo semanal acuario 20 de mayo 2019 al 26 de mayo 2019. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+title: acuario 27 de mayo 2019 al 02 de junio 2019 
+description: Horóscopo semanal acuario 27 de mayo 2019 al 02 de junio 2019. Llega una buenísima semana acuario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: sfK1EQf-HEs
+ video: hhdmfjCcVPs
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-20'
+ lastmod: '2019-05-27'
 ---
 
 
 
-## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+## Llega una buenísima semana acuario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 
-Deja que duela acuario, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser acuario estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien acuario pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida acuario, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
-Si entablas una nueva amistad esta semana, es posible que dure mucho tiempo. Esto se debe a que la Luna Nueva puede propiciar la mejor combinación emocional posible, en la cual ambos podrán apoyarse. Sin embargo, la entrada de Mercurio a Capricornio puede ser un llamado de atención para que escuches a tus sentimientos. Pueden estar tratando de decirte algo. Si tuviste problemas para tomar una decisión, seguir tus instintos puede ayudarte a decidir qué hacer.
+Abre los ojos de una vez acuario. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas acuario, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero acuario, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también acuario. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. acuario por favor, te tenían que tener en un altar… Y lo sabes…
+Estarás en tu elemento esta semana, ya que el Sol y Marte te inspiran a hacer grandes cosas. Esta y las próximas semanas pueden encontrarte tomando acciones dinámicas en dirección a tus sueños y disfrutando del proceso inmensamente. Más adelante esta semana, Mercurio ingresa a tu sector de finanzas, lo que puede significar una oportunidad para organizarte, en especial si has perdido el control de tu dinero. La presencia de Venus en tu sector social puede ser excelente para hacer nuevas amistades y disfrutar de alegres encuentros.
 
 ## Dinero
 
-Es posible que te sientas muy especial esta semana. Esta es una semana muy buena para explorar la manera de mejorar tu situación financiera. Los planetas te piden encontrar una nueva forma de utilizar tu creatividad, que pases tiempo con tu familia, hijos y parejas románticas. Has trabajado lo suficientemente duro. Es hora de disfrutar de los frutos de tu trabajo.
+Te enfrentas a un momento interesante. Por un lado, las redes sociales son cada vez más grandes y más solidarias. Por otro lado, alguien no está siendo totalmente honesto sobre lo que quiere sacar de tu amistad. En lugar de terminar la relación o tomarlo como algo personal, atribúyeselo a tu irresistible forma de vivir la vida. Tal quiere estar cerca de ti porque eres una persona exitosa y puede ser capaz de ayudarte a alcanzar tus sueños.

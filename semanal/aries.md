@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: aries 20 de mayo 2019 al 26 de mayo 2019 
-description: Horóscopo semanal aries 20 de mayo 2019 al 26 de mayo 2019. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor aries, sin remordimientos.
+title: aries 27 de mayo 2019 al 02 de junio 2019 
+description: Horóscopo semanal aries 27 de mayo 2019 al 02 de junio 2019. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: PdYDS5oR-y8
+ video: OwDrF4Lryy8
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-20'
+ lastmod: '2019-05-27'
 ---
 
 
 
-## Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor aries, sin remordimientos.
+## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
 
-Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega aries. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
-
+Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
+ sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
+La semana se vislumbra normal y no muy divertida debido a que la alineación de esta semana se enfoca en tu sector laboral. Es eso, o puede que te encuentres en una fase saludable que esté manteniendo tus días muy activos con entrenamientos diarios. La Luna Llena del martes podría hacerte querer darte gustos. Podrías dejarte tentar por alimentos o bebidas que normalmente evitarías. Si estás planeando una fiesta de disfraces, el Sol en Escorpión podría hacer la ocasión perversamente divertida.
 
 ## Dinero
 
-Este período se trata de las nuevas oportunidades que le llegan a tu vida laboral. El cielo es el límite en términos de lo que puedes esperar, pero el Universo no lo hará por ti. Debes estar a la búsqueda de maneras de aumentar tus ingresos, ya sea mediante la adición de un negocio secundario o aceptar trabajos independientes. Utiliza tu educación y tus viajes para salir con ideas para productos o servicios que vender.
+Tienes luz verde para cambiar tu forma de verte y actuar. Eso, a su vez, te ayudará a subir la escalera y hacer más dinero. Si has querido cambiar tu guardarropa, look, o forma de ser, esto es apoyado e incluso alentado ahora. Eclipsa a un mentor de confianza o forja tu propio camino. El Universo trae belleza, atracción, y una especie de afirmación hacia tus necesidades. Juntos, estos aumentan tu poder en el trabajo.

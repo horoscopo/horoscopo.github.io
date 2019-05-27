@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 20 de mayo 2019 al 26 de mayo 2019 
-description: Horóscopo semanal geminis 20 de mayo 2019 al 26 de mayo 2019. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+title: geminis 27 de mayo 2019 al 02 de junio 2019 
+description: Horóscopo semanal geminis 27 de mayo 2019 al 02 de junio 2019. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: Wgc3o4fKRMg
+ video: N1zY8Gluh2Y
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-20'
+ lastmod: '2019-05-27'
 ---
 
 
 
-## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
 
-A veces quieres llegar al fondo de cualquier cosa geminis, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo geminis. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a geminis, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona geminis así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
-Puede que estés disfrutando de un nuevo romance o de la oportunidad de darte el gusto con algún pasatiempo favorito. Gracias al animado enfoque en tu sector de recreación, el tiempo que pasas haciendo actividades divertidas puede ser un bálsamo, en especial si tienes muchas responsabilidades en casa. Sin embargo, el cuarto de luna en Escorpión del miércoles puede animarte a cuidar los costos, en especial si un proyecto creativo parece bastante costoso. Puede que haya una manera más económica de lograrlo. La tentación de satisfacer tus gustos podría ser fuerte el fin de semana.
+Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
+El romance podría ser dulce con el seductor Venus ahora danzando por tu sector de ocio. Incluso si has estado trabajando mucho, esta semana puede ser un excelente momento para tomarte un pequeño descanso y una chance para llevar tu relación a un nuevo y emocionante nivel. Un evento social podría generarte interés romántico por alguien. Pero hay corrientes más profundas cuando Mercurio, tu planeta guía, entra a Escorpión. Esta podría ser tu señal para conectar con alguien que te puede ayudar a alcanzar tu máximo potencial con respecto a tu salud.
 
 ## Dinero
 
-Todavía hay aspectos restrictivos desacelerando tu sector de dinero, lo cual puede ser frustrante a veces. Pero también se te están dando algunas nuevas órdenes. Lo más afectado es tu principal empleo, el cuál está experimentando un gran cambio. Puede que incluso cambies de carrera o la forma en la que ganas efectivo. Cuida tu salud, la cuál podría llegar a deteriorarse como resultado del estrés. Es mejor prevenir que lamentar.
+Tienes algunos desafíos a la espera. Tus relaciones son las más afectadas por las configuraciones celestes actuales. El Universo te está empujando a extenderte un poco más, sobre todo cuando se trata de tus compañeros de trabajo. Trata de conocerles mejor y es posible que llegues a tener más cercanía con ellos de la que tienes ahora. ¡Necesitas de todos los amigos que puedas conseguir!

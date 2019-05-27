@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 20 de mayo 2019 al 26 de mayo 2019 
-description: Horóscopo semanal virgo 20 de mayo 2019 al 26 de mayo 2019. Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+title: virgo 27 de mayo 2019 al 02 de junio 2019 
+description: Horóscopo semanal virgo 27 de mayo 2019 al 02 de junio 2019. Tu presente y tu futuro valen muchísimo la pena virgo. La vida siempre se acaba equilibrando virgo. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: LObqo_LzHAM
+ video: P3Q1uLW_aC0
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-20'
+ lastmod: '2019-05-27'
 ---
 
 
 
-## Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+## Tu presente y tu futuro valen muchísimo la pena virgo. La vida siempre se acaba equilibrando virgo. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 
-Quizás deberías dejar de planear todo ahora virgo, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien virgo, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
-El Sol en Capricornio te estimula a organizarte en relación a cuestiones de trabajo, estilo de vida y bienestar. Tu enfoque también se concentrará en el ocio y el placer cuando Venus entre a Sagitario, dándote una gran oportunidad para disfrutar de la época festiva y las celebraciones de Año Nuevo. Además, Marte entrando a tu sector familiar podría darte ganas de eliminar el desorden. Esto significa abordar aquellas áreas que no han visto la luz del día durante algún tiempo. Te sentirás mucho mejor una vez que empieces.
+Tu mente lo está analizando absolutamente todo virgo, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez virgo… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas virgo, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana virgo, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+Puede que el romance llegue a ti cuando menos te lo esperas, pero esta vez podría ser algo especial. Cuando el expansivo Júpiter, tu planeta personal, conecta con las cualidades revolucionarias de Urano, puede que cierta persona te parezca irresistible. Quizá lo que te parece tan atractivo es la libertad con la que tal persona hace lo suyo sin miedo a lo que piensen los demás. Es posible que esta conexión tenga potencial de alma gemela, pero si quieres que la relación florezca, debes regarla a diario.
 
 ## Dinero
 
-Esta semana se trata de los aspectos afortunados que te dan una fuerza de conexión con la tierra para evitar que tu situación económica actual se te suba mucho a la cabeza. Tu sector de trabajo se activa, por lo que podrías tener más trabajo (especialmente si has estado desempleado) y adición a tus responsabilidades. Al mismo tiempo, el gasto se reducirá para que pueda ponerte al día con la deuda. Mantén el rumbo, vas en la dirección correcta.
+El enfoque está en tu hogar y emociones ahora, lo que indica que es tiempo de poner más de tus recursos para mejorar el lugar en el que vives, especialmente si estás pensando en venderlo a corto plazo. La buena noticia es que tu sector del trabajo es afectado favorablemente. Considera la posibilidad de trabajar desde tu casa o el tener un trabajo que implica habilidades orientadas hacia el hogar, tales como la decoración, las reparaciones, o consultoría de feng shui. Los beneficios alientan al esfuerzo en este sentido.

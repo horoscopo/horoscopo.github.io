@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 20 de mayo 2019 al 26 de mayo 2019 
-description: Horóscopo semanal tauro 20 de mayo 2019 al 26 de mayo 2019. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
+title: tauro 27 de mayo 2019 al 02 de junio 2019 
+description: Horóscopo semanal tauro 27 de mayo 2019 al 02 de junio 2019. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así tauro, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: psiEv1gm5Gc
+ video: eXp_yA3DDwc
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-20'
+ lastmod: '2019-05-27'
 ---
 
 
 
-## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
+## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así tauro, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 
-Esta semana tienes que tomarte las cosas con más calma tauro. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
- Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse.
-El inquisitivo Mercurio ingresa a tu sector de estilo de vida el martes, por lo que podrías tener ganas de organizarte, en especial si tienes planes y proyectos pendientes. Si bien abordar tus rutinas con la mente fría puede ser útil, prestar atención a la intuición también podría ahorrarte tiempo. 
-Si has estado esperando el momento adecuado para comenzar un proyecto creativo o dar inicio a un nuevo romance, el miércoles podría ser EL día. La luna nueva en tu sector de recreación puede darte el impulso que necesitas para ayudar a convertir tus sueños en realidad. Y si esperas comprometerte en una relación a nivel más profundo, el ingreso del delicioso Venus a tu sector de relaciones podría animarte a conversar. Tu vida social también podría ser mucho más divertida. Trata de no comprometerte con más cosas de las que puedas cumplir, especialmente el viernes, cuando delegar algunas tareas podría facilitarte la vida.
+Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien tauro pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
+Quizás no sea ninguna sorpresa que una asociación esté al rojo vivo ahora mismo, en particular al principio de la semana, cuando una conexión con el signo Escorpión indica que hay fuego entre las sábanas. También descubrirás que aprendes mucho de los demás, en especial cuando se trata de supervisar tus reacciones frente a situaciones clave. La gente que te rodea puede enseñarte mucho sobre lo que es importante para ti, y dónde quizás necesitas cambiar tu actitud. El seductor Venus en Libra indica potencial para hacer tratos lucrativos.
 
 ## Dinero
 
-Tienes una energía muy obstinada ahora. Se te está empujando a una forma no tan sutil de tratar con los demás. La formación de nuevas relaciones como el cultivar las ya existentes proporcionará las respuestas que buscas.
+Podrías estar considerando la forma de lograr realizar viejas esperanzas y sueños. Las amistades, los contactos sociales, las maniobras políticas y los grupos te ayudan a estar un paso adelante y establecerte como experto en tu campo. A medida que expandes tu influencia en estos reinos, haz todo lo posible para preservar las inversiones y propiedades compartidas. Si es necesario, gasta para mantenerlas o mejorarlas hasta que las puedas vender directamente.
