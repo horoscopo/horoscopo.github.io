@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo acuario mayo 2019 
+title: Horoscopo acuario junio 2019 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
- video: qo2WlfhZjMg
+ video: ACg8vW8FQgo
 
 ogimg: /images/acuario_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-El amor podría encontrarte el 2 de mayo, cuando Mercurio forme sextil con Plutón y la Luna conjunte a Venus. Acurrúcate y lee un buen libro o ve una buena película durante la manifestación de la Luna Llena del 14 de mayo. Date un capricho y no sientas soledad. La gente está a sólo un texto, después de todo. Invita a alguien a acompañarte, si es necesario. La Luna Nueva del 29 de mayo te traerá fantásticas posibilidades románticas. Y vaya que no serán posibilidades aburridas. Es hora de encontrar un romance real, práctico y sólido con alguien inteligente y nunca aburrido. Esto incluye la posibilidad de revivir una relación actual o anterior. Puedes ser tú quien dé el primer paso, pero después, déjate romancear.
+La Luna conjunta a Venus el 3 de junio. Podrías concluir tus compras de regalos ese día y divertirte con tus amigos. ¿Por qué no ponerte un atuendo festivo también? Para la Luna Llena del 13 de junio, tu espíritu festivo puede tender a formas más exóticas de celebración. Disfruta de las canciones, alimentos y adornos de otros países y otras épocas. Todo es hermoso en su propia y especial manera. Tu corazón está enfocado en tu hogar bajo la Luna Nueva del 28 de junio. Relájate y siéntete intensamente a gusto con todo lo que hay a tu alrededor. Podría ser lo más saludable que hagas durante todo el mes.

@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo virgo mayo 2019 
+title: Horoscopo virgo junio 2019 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: m1RKVrga0XE
+ video: VeXzKH0VOz0
 
 ogimg: /images/virgo_char.png
 sitemap:
@@ -15,7 +15,8 @@ sitemap:
 ---
 
 
-El 2 de mayo, la conjunción entre Marte y Saturno te da una tremenda autoridad. Úsala sabiamente. Haz que el mundo se sorprenda (y tú también) durante la luna nueva del día 15. Comienza algo nuevo, que exprese un lado que sueles esconder de ti. La conjunción entre Marte y Plutón el 26 de mayo podría encender los temperamentos. Evita el conflicto y dale un uso positivo a la pasión. Con la luna llena del día 29, sé la buena suerte de alguien, y haz crecer y florecer tu reputación. Hacer el favor correcto en el momento adecuado no será olvidado. No será cuestión de elegir qué hacer para quién. Actúa con espontaneidad y deja que la gente se acerque a ti. 
-
-Días destacados: 7, 10, 23
-Días desafiantes: 4, 21
+Mercurio retrógrado ingresa a Escorpión el 1 de junio. Tómate las cosas con mucha calma, y sé feliz. La vida en el hogar se vuelve más brillante, feliz y cómoda con la luna nueva del día 6. Siéntete a salvo y a gusto en tu propio espacio. Ordena un poco, y vuelve a descubrir el paraíso en el que vives. Mercurio se torna directo también ese día. Los malentendidos triviales e insignificantes no se acabarán de inmediato, pero comenzarán a disminuir. 
+El 12 de junio, Mercurio entra a Sagitario. Siente el espíritu de las festividades, y diviértete más. Mercurio forma una conjunción con Júpiter el día 21, el mismo día que el sol entra a Capricornio y el invierno comienza. Todas las sugerencias e ideas que tengas serán apropiadas y agradables para todos. 
+Atraviesa con elegancia todas las reuniones de las festividades durante la luna llena del 22 de junio. Otras personas brindarán la hospitalidad, así que todo lo que debes hacer es ir y lucir espectacular. Resuelve una gran duda cuando Mercurio forma una cuadratura con Neptuno el día 24. 
+Días destacados: 6, 10, 21
+Días desafiantes: 24, 29

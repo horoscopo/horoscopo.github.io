@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo escorpio mayo 2019
-description: El Horóscopo mayo de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo escorpio junio 2019
+description: El Horóscopo junio de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo mayo, horoscopos en español, horóscopo escorpio mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo junio, horoscopos en español, horóscopo escorpio junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
- video: pj0nLfG0MZs
+ video: lvE33oojZlw
 
 ogimg: /images/mes/escorpio_mes.png
 sitemap:
@@ -17,4 +17,4 @@ sitemap:
 ---
 
 
-La gloriosa Luna Nueva del 2 de mayo se manifiesta en tu signo. Tu característico encanto podría ser lo suficientemente deslumbrante como para sorprenderte a ti y cegar a una persona muy especial. Durante esos días, tienes todo el control de las chispas románticas que emanas, así que envíalas con calma. El amor es elegante y amable bajo la Luna Llena del 18 de mayo. Los buenos modales y el comportamiento refinado nunca han sido más dulces o mejores. Siéntete como la realeza que eres y permite que la gente vea tu lado cálido y generoso. La Luna se encontrará en Leo el 30 de mayo, el mismo día que Mercurio se torna retrógrado. Compórtate valiente y organizadamente y presta atención a los detalles de inmediato y este período retrógrado no te afectará.
+El mundo loco y ruidoso puede intentar invadir tu estado mental durante la luna nueva y eclipse solar del 11 de junio. Respira profundo y no respondas a los gritos. Tienes muchas personas poderosas que te apoyan. Mercurio se torna estacionario directo el día 18. Puede que lleve un tiempo, pero se volverá más fácil pensar con claridad y reorganizarte. Si has perdido algo, lo encontrarás pronto.  El 22 de junio, el sol sale de Leo y entra a Virgo. Dale prioridad a tratarte bien y ser una persona más saludable y activa en el hogar. ¿Necesitas otro gatito o perrito? ¿Tal vez un jardín más grande o más plantas? La luna llena del día 26 ilumina tu vida amorosa. Baja un poco tus defensas emocionales, y deja que la apariencia o comentarios de alguien causen una mayor impresión. Al día siguiente, Marte se torna directo después de haber estado retrógrado desde el 26 de junio. La ambición, motivación y pasión comienzan a aumentar. Días destacados: 13, 17, 30Días desafiantes: 4, 10</div>

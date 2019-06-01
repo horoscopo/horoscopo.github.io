@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo cancer mayo 2019 
+title: Horoscopo cancer junio 2019 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: zn_cODuguH0
+ video: gx0pFhI7kIU
 
 ogimg: /images/cancer_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-El trígono entre la Luna y Júpiter del 1 de mayo comienza con una nota generosa y compasiva. Danza y diviértete bajo la Luna Llena del 10 de mayo, momento en el que tu vida social debería resplandecer y brillar. Espera recibir invitaciones o boletos para un gran concierto o espectáculo. No tienes que ser tú quien organice la fiesta esta vez. La Luna Nueva del 26 de mayo destaca las comodidades humanas y lo saludable que tales pueden ser. Puede que a veces sea difícil moderar lo que comes y cuanto comes, pero deberías ser capaz de reducir el estrés y disfrutar de un horario menos agitado. Tus días aún estarán ocupados, por supuesto.
+Un amigo o vecino de la infancia podría mantenerte en acción bajo la manifestación de la Luna Nueva del 2 de junio. Puede que tal sea precisamente la distracción que has estado buscando. Toma una decisión audaz y aprende algo nuevo sobre ti. El mundo será inmenso bajo la Luna Llena del 18 de junio, y es posible que desees ver más de él. Incluso si no sales de tu ciudad, considera acudir a un concierto de música étnica o restaurante de comida exótica, por ejemplo. Alternativamente, tus amigos podrían presentarte a personas nuevas y más aventureras. Bajo la conexione entre Mercurio y Venus del 28 de junio, es posible que tengas tantas brillantes ideas que ni siguiera sepas qué hacer con ellas.

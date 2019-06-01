@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo sagitario mayo 2019 
+title: Horoscopo sagitario junio 2019 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
- video: aN8n3gvAwx8
+ video: SjdNkNCPIaM
 
 ogimg: /images/sagitario_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-Te sentirás con energía (tal vez, demasiada) durante la Luna Llena del 9 de mayo. Mantén una vida diaria simple y no te distraigas con interrupciones ni preocupaciones de personas que están mucho más distraídas que tú. Es un periodo de tiempo ajetreado, y muchos podrían descontrolarse. La Luna Nueva del 23 de mayo viene cargada de energía y ambición. Podría ser difícil pensar sin sentir distintas emociones. Si evitas la impaciencia o impulsividad, todo puede estar bien. El 28 de mayo, la conjunción entre Mercurio y Marte en Cáncer te otorga capacidades y poder adicional para lograr algo difícil que ha estado pendiente.
+La Luna Nueva del 4 de junio podría traerles a muchas personas un fin de semana muy social. Trata de verte y sentirte en tu punto más encantador y seductor. Pasa tiempo con tus seres queridos, escucha y baila al son de la música que más te gusta. Por la noche, regresa a casa sin problemas y vuelve a hacerlo todo de nuevo al siguiente día. La Luna Llena del 20 de junio comienza un verano divertido. Es posible que entonces prefieras empezar lentamente y cerca de casa o ir a un lugar especial a solas primero. Ya tendrás mucho tiempo para subirte al divertido escenario más tarde. Marte comienza a moverse directamente el 29 de junio, pero puede que se requiera de más tiempo para que tu ambición regrese a su nivel.  

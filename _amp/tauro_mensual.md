@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo tauro mayo 2019 
+title: Horoscopo tauro junio 2019 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
- video: EEqIlXZ3hFg
+ video: vtCj7kjVODE
 
 ogimg: /images/tauro_char.png
 sitemap:
@@ -15,4 +15,6 @@ sitemap:
 ---
 
 
-Si requieres de un consejo o tu energía anda baja alrededor de la Luna Llena del 2 de mayo, discretamente pide ayuda. Alguien está esperando salir a tu rescate. Te vuelves la persona a la que todos recurren en tu familia o trabajo a finales de mes. La Luna Nueva del 16 de mayo te facilitará adoptar este papel, por lo que no requerirás de mucho esfuerzo. Sabrás hacerlo bien y lo harás con una sonrisa en la cara. Más no permitas que la gente se aproveche de tu buena naturaleza, también debes saber cuándo decir que no. Comienza la semana laboral del 29 de mayo de buen humor, después de que la Luna se aleje de Saturno y cualquier duda personal imaginaría que tengas se desvanezca.
+Marte ingresa a Cáncer el 4 de junio. Si has tenido una sensación de estancamiento o has retrasado una reunión en tu casa o con la familia, puedes hacerlo ahora. Tu mundo está repleto de entusiasmo y oportunidades sociales durante la Luna Llena del 9 de junio. Personas de todos los rincones del mundo pueden atraer tu atención y opacar tu afición por un lugar o una actividad favoritos. Disfruta los nuevos horizontes. La familia y la vida hogareña se reavivan de gran forma con la Luna Nueva del 23 de junio. Haz un gran cambio o mejora que ha estado en tu mente durante mucho tiempo. Haz que tu persona y tus parientes sean mucho más felices.
+
+Mejores días: 9, 25, 28Peores días: 2, 24, 28
