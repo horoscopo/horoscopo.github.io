@@ -1,29 +1,30 @@
 ---
 layout: horoscopos
-title: aries 27 de mayo 2019 al 02 de junio 2019 
-description: Horóscopo semanal aries 27 de mayo 2019 al 02 de junio 2019. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+title: aries 03 de junio 2019 al 09 de junio 2019 
+description: Horóscopo semanal aries 03 de junio 2019 al 09 de junio 2019. Crece #SIGNO, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: OwDrF4Lryy8
+ video: oFl4onxUj80
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-27'
+ lastmod: '2019-06-03'
 ---
 
 
 
-## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+## Crece #SIGNO, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 
-Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
- sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
-La semana se vislumbra normal y no muy divertida debido a que la alineación de esta semana se enfoca en tu sector laboral. Es eso, o puede que te encuentres en una fase saludable que esté manteniendo tus días muy activos con entrenamientos diarios. La Luna Llena del martes podría hacerte querer darte gustos. Podrías dejarte tentar por alimentos o bebidas que normalmente evitarías. Si estás planeando una fiesta de disfraces, el Sol en Escorpión podría hacer la ocasión perversamente divertida.
+Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
+ La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa aries? 
+ todo lo que desea.
+El Sol ingresa a un sector más escondido de tu carta, lo que coincide con un período de cuatro semanas en el que podrías sentir más comodidad si te detienes y reflexionas sobre la vida. Esta es tu oportunidad para liberarte de algunas situaciones y tal vez de personas que ya no te hacen bien, y resolver problemas que parecen perseguirte. Todo estará listo una vez que Marte ingrese a tu signo el viernes. Sin embargo, reflexionar sobre tus planes puede ser mejor que zambullirte en ellos de forma impulsiva.
 
 ## Dinero
 
-Tienes luz verde para cambiar tu forma de verte y actuar. Eso, a su vez, te ayudará a subir la escalera y hacer más dinero. Si has querido cambiar tu guardarropa, look, o forma de ser, esto es apoyado e incluso alentado ahora. Eclipsa a un mentor de confianza o forja tu propio camino. El Universo trae belleza, atracción, y una especie de afirmación hacia tus necesidades. Juntos, estos aumentan tu poder en el trabajo.
+Ciertos aspectos en tu sector de dinero en efectivo pueden limitar o restringir lo que eres capaz de ganar. En vez de entrar en pánico, piensa en cómo este período te puede proporcionar el tiempo que necesitas para planear tu próximo movimiento. Puedes hacer de un hobby,  un trabajo de tiempo completo con un poco de ingenio y acción concentrada. Tu imaginación no tiene rival ahora mismo. No dejes que un revés financiero te empuje fuera de curso.

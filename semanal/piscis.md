@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: piscis 27 de mayo 2019 al 02 de junio 2019 
-description: Horóscopo semanal piscis 27 de mayo 2019 al 02 de junio 2019. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+title: piscis 03 de junio 2019 al 09 de junio 2019 
+description: Horóscopo semanal piscis 03 de junio 2019 al 09 de junio 2019. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: pPxj0Uj90D8
+ video: uPziVm5QiHI
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-27'
+ lastmod: '2019-06-03'
 ---
 
 
 
-## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 
-No sabes cómo desviar tus sentimientos piscis, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas piscis… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez piscis. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos piscis que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-Tus relaciones románticas adquieren un tono intenso y pasional, lo que podría aumentar el grado de intimidad. Si tú y alguien apenas se están llegando a conocer, la vibra entre ustedes podría ponerse muy candente a lo largo de la próxima semana. Asegúrate de realmente querer esto antes de involucrarte demasiado. Venus entra a Virgo el Sábado, añadiéndole calidez a todas tus interacciones románticas y comerciales. Sin embargo, evita criticar demasiado a ciertas personas si quieres mantener la paz.
+Se avecinan cambios Capri, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Capri, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Capri. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana piscis.
+La semana que comienza podría animarte a abordar algunas cuestiones de lleno. El lunes, existe la posibilidad de que discutas con alguna persona con autoridad. Tal vez sientas la tentación de decir exactamente lo que piensas. Pero debido a que el encantador Venus se dirige hacia el nebuloso Neptuno el mismo día, puede que las cosas no sean lo que parecen. Si puedes esperar más o menos un día, es posible que descubras que las conversaciones fluyen mucho más fácilmente y traen resultados más positivos. 
+Las cuestiones de dinero tienen un aspecto prometedor el martes, cuando una deliciosa conexión entre el sol y el animado Júpiter sugiere que recibirás un inesperado dinero caído del cielo. Tal vez sea poco, pero aun así podría hacerte sonreír.
+La última parte de la semana podría allanar el camino para nuevos desarrollos. Cuando el sol se alinea con el potente Plutón el viernes, una decisión podría dar como resultado positivos cambios a tus circunstancias. El fin de semana, puede que te mueras de ganas de experimentar cosas nuevas y que estés a punto de probar algo distinto.
 
 ## Dinero
 
-Esta semana trae un aspecto potencialmente peligroso. Algo o alguien se ve tan bien que no lo piensas dos veces antes de saltar a ello. Aunque puede que esto sea cierto, es imprescindible volver a verificar todos los hechos y considerar todas las ramificaciones financieras de sociedad antes de sumergirse en la asociación. Tu futuro te lo agradecerá, al igual que tu saldo bancario. El Universo ayudará a correr la voz.
+Estás entrando en lo tuyo ahora. Hay una especie de seriedad a tu alrededor, y otros no pueden evitar el notar la diferencia. Pero es tu casa la que tal vez requiera que gastes más de lo que habías previsto o presupuestado. Si encuentras que necesitas retroceder temporalmente, eso está bien. Sin embargo, puede que el trata de forzar que tus ideas se hagan realidad no sea posible.

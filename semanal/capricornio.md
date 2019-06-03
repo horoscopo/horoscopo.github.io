@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 27 de mayo 2019 al 02 de junio 2019 
-description: Horóscopo semanal capricornio 27 de mayo 2019 al 02 de junio 2019. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: capricornio 03 de junio 2019 al 09 de junio 2019 
+description: Horóscopo semanal capricornio 03 de junio 2019 al 09 de junio 2019. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: T1vW6zsP6CU
+ video: LwLvrA5RG6g
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-27'
+ lastmod: '2019-06-03'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 
-Despacito capricornio, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo capricornio.
-Estás pasando por un momento en el que creativas ideas y alegres oportunidades te animan a salirte de tu zona de confort. Con el Sol entrando a tu sector financiero a partir del viernes, podrían surgirte pensamientos acerca de cómo puedes hacer un mejor uso de tu dinero. La Luna Llena del sábado podía verte gastar de más a menos que te establezcas un límite. Te percatarás de que el progreso en general es muy posible una vez que Mercurio entre a tu signo el domingo. Sin embargo, argumentos sobre el flujo de efectivo podrían arruinar tu fin de semana.
+Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver capricornio, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
+ hasta que empieces a sentir que realmente merece la pena.
+Podrías tener buena suerte al principio de la semana. Una mezcla expansiva de energías podría encontrarte aprovechando una oportunidad que lleve a cosas más grandes y mejores. Pero sería prudente leer las cláusulas y condiciones y verificar los hechos antes de involucrarte demasiado. Con el etéreo Neptuno como parte de la combinación, es posible cometer errores. La luna nueva en tu sector profesional también puede ser una señal de un positivo nuevo comienzo si te atreves a dar el paso. ¿Te estás quedando atrás? Puede que primero debas dejar atrás las creencias del pasado.
 
 ## Dinero
 
-Es una gran semana para trazar un plan de negocios y pensar en cómo recaudar dinero para éste. Podrías estar pensando en cómo recaudar fondos a través de beneficios, préstamos, subvenciones e incluso donaciones en especie de empresas de mayor tamaño. Ahora más que nunca es posible que recibas una respuesta positiva. El Universo indica un momento de expansión en tu círculo social.
+Gran parte de la energía celeste indica que alguien o algo del pasado volverá para que puedas lidiar con ello de una vez por todas. Por otra parte, tu sector de trabajo por cuenta propia y de grupos sociales está resaltado. Conectar con gente con quién hayas perdido contacto puede conducirte a más dinero en el futuro.

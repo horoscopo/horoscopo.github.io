@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 27 de mayo 2019 al 02 de junio 2019 
-description: Horóscopo semanal virgo 27 de mayo 2019 al 02 de junio 2019. Tu presente y tu futuro valen muchísimo la pena virgo. La vida siempre se acaba equilibrando virgo. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+title: virgo 03 de junio 2019 al 09 de junio 2019 
+description: Horóscopo semanal virgo 03 de junio 2019 al 09 de junio 2019. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: P3Q1uLW_aC0
+ video: 7_xeUyDEt_U
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-05-27'
+ lastmod: '2019-06-03'
 ---
 
 
 
-## Tu presente y tu futuro valen muchísimo la pena virgo. La vida siempre se acaba equilibrando virgo. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-Tu mente lo está analizando absolutamente todo virgo, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez virgo… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas virgo, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana virgo, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
-Puede que el romance llegue a ti cuando menos te lo esperas, pero esta vez podría ser algo especial. Cuando el expansivo Júpiter, tu planeta personal, conecta con las cualidades revolucionarias de Urano, puede que cierta persona te parezca irresistible. Quizá lo que te parece tan atractivo es la libertad con la que tal persona hace lo suyo sin miedo a lo que piensen los demás. Es posible que esta conexión tenga potencial de alma gemela, pero si quieres que la relación florezca, debes regarla a diario.
+Tienes que plantarte virgo, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana virgo.
+¿Cuánto te está costando una relación en particular? Puede que lo descubras esta semana. Un potente tránsito que involucra a Júpiter, tu planeta regente, podría poner muy en claro cuánto estás dando y recibiendo a cambio. Si esto no te hace feliz, puede que sea momento de hacer algo al respecto. Pero para resolverlo de la mejor manera posible, asegúrate de que tus motivos realmente estén ayudando a la situación. Por otro lado, podría presentarse una oportunidad demasiado buena como para dejarla pasar.
 
 ## Dinero
 
-El enfoque está en tu hogar y emociones ahora, lo que indica que es tiempo de poner más de tus recursos para mejorar el lugar en el que vives, especialmente si estás pensando en venderlo a corto plazo. La buena noticia es que tu sector del trabajo es afectado favorablemente. Considera la posibilidad de trabajar desde tu casa o el tener un trabajo que implica habilidades orientadas hacia el hogar, tales como la decoración, las reparaciones, o consultoría de feng shui. Los beneficios alientan al esfuerzo en este sentido.
+Ciertos aspectos están expandiendo tus oportunidades en el trabajo y preparando el camino para un aumento de sueldo, promoción, o ambas cosas. Incluso en un día malo, eres bastante afortunado/a. Puede que estos días el dinero esté llegando tan rápida y furiosamente que es posible que necesites un nuevo plan para ahorrar e invertir. Un aspecto armonioso resalta tu sector de efectivo y valores, ¿lo detectas? No te olvides de la gente pobre conforme llegas a la cima.
