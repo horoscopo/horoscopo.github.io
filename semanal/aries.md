@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: aries 03 de junio 2019 al 09 de junio 2019 
-description: Horóscopo semanal aries 03 de junio 2019 al 09 de junio 2019. Crece #SIGNO, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+title: aries 10 de junio 2019 al 16 de junio 2019 
+description: Horóscopo semanal aries 10 de junio 2019 al 16 de junio 2019. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: oFl4onxUj80
+ video: M--Mjp783sQ
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-03'
+ lastmod: '2019-06-10'
 ---
 
 
 
-## Crece #SIGNO, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 
-Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
- La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa aries? 
- todo lo que desea.
-El Sol ingresa a un sector más escondido de tu carta, lo que coincide con un período de cuatro semanas en el que podrías sentir más comodidad si te detienes y reflexionas sobre la vida. Esta es tu oportunidad para liberarte de algunas situaciones y tal vez de personas que ya no te hacen bien, y resolver problemas que parecen perseguirte. Todo estará listo una vez que Marte ingrese a tu signo el viernes. Sin embargo, reflexionar sobre tus planes puede ser mejor que zambullirte en ellos de forma impulsiva.
+Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte aries, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo aries, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande aries pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+No te exijas demasiado si un proyecto creativo no sale como lo planeaste. Puede que las críticas aparezcan desde el principio, cuando probablemente no hay necesidad de tenerlas. Pero a medida que la semana avanza, la idea de relajarte y disfrutar de la vida podría apoderarse de ti. El ingreso de Venus a tu sector de recreación el viernes podría animarte a salir y disfrutar de románticos descansos o relajadas citas. La luna llena podría intensificar los sentimientos el domingo; sin embargo, pensar antes de hablar puede ayudar a evitar arrepentimientos posteriores.
 
 ## Dinero
 
-Ciertos aspectos en tu sector de dinero en efectivo pueden limitar o restringir lo que eres capaz de ganar. En vez de entrar en pánico, piensa en cómo este período te puede proporcionar el tiempo que necesitas para planear tu próximo movimiento. Puedes hacer de un hobby,  un trabajo de tiempo completo con un poco de ingenio y acción concentrada. Tu imaginación no tiene rival ahora mismo. No dejes que un revés financiero te empuje fuera de curso.
+Andas muy comunicativo/a ahora. El hablar, conversar en línea e incluso en sitios de redes sociales de internet está  a tu favor. Lo estás llevando a otro nivel, estés pensando en escribir tus memorias. Tienes una cantidad increíble de energía creativa en este momento. Utilízala para tu beneficio financiero teniendo en cuenta tu audiencia; a continuación, busca los mercados con el mayor alcance para obtener los mejores resultados.
