@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de junio 2019
-description: Horóscopos del dia de hoy 12 de junio 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de junio 2019
+description: Horóscopos del dia de hoy 13 de junio 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-06-12
+ lastmod: 2019-06-13
 ---
-La Luna Llena en Virgo advierte que es hora de finalizar algo que ha estado pendiente por mucho tiempo. Hoy, alguien podría darse cuenta de que tu consejo dio en el tino y deseará haberlo tomado. Esta noche, los instintos de una persona podrían ser correctos mientras que la otra podría tener que cambiar su opinión bajo la Luna oponiéndose al confuso Neptuno.
+El Sol formando sextil con el original y maravilloso Urano trae oportunidades repentinas, cambios beneficiosos y pequeños giros el día de hoy. Los solteros se encuentran en un ambiente competitivo esta noche cuando todo el mundo parece sentir atracción hacia la misma persona. Ser único, especial y hacerse del rogar es la manera de derrotar a la competencia.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
