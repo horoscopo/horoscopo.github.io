@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 10 de junio 2019 al 16 de junio 2019 
-description: Horóscopo semanal acuario 10 de junio 2019 al 16 de junio 2019. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+title: acuario 17 de junio 2019 al 23 de junio 2019 
+description: Horóscopo semanal acuario 17 de junio 2019 al 23 de junio 2019. Recuerda que ha empezado la época de los acuario… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: KdV2tel-QPo
+ video: otcaTVRU10I
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-10'
+ lastmod: '2019-06-17'
 ---
 
 
 
-## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+## Recuerda que ha empezado la época de los acuario… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 
-Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
-Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
-como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
-Ciertas conversaciones podrían ser muy profundas esta semana. Si estás haciendo planes, tendrás que ser flexible, ya que un considerable cambio es muy posible. Mientras tanto, Mercurio comienza a avanzar a mitad de semana, lo que sugiere que cualquier retraso o malentendido al que hayas tenido que hacerle frente debe comenzar a arreglarse por sí solo. El Sol entra a un sector aislado de tu carta, lo que significa que comenzarás una fase en la que apreciarás pasar más tiempo a solas. Podrías de hecho tener ideas muy creativas.
+Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro acuario, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Pececito, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
+Comprar artículos para tu hogar podría ser divertido y el animado enlace Sol/Urano podía ayudarte a encontrar artículos a muy buen precio. Puede que también te apoderes de un artículo que tenga el potencial de resolver al menos una cuestión doméstica o relacionada con tu cocina. Conforme Venus entra a tu sector de romance más adelante en la semana, prepárate para un fin de semana lleno de diversión. Si tienes planeada una cita, tal podría ser muy especial por muchos motivos.
 
 ## Dinero
 
-Tienes una situación muy interesante esta semana conforme aspectos celestiales te presionan a tener una mayor productividad. La actividad en tu sector asociado con viajes al extranjero, la metafísica y la educación superior te empuja a ampliar tu negocio en territorio desconocido. Haz que ocurra este año y estarás cosechando los beneficios el próximo año.
+Esta semana te pide que pongas más atención en tu carrera. Si es que por lo general eres bastante tradicional y conservador/a por naturaleza, ahora es tu turno de hablar - un poco, por lo menos. Si dejas que los demás sepan cuáles son tus metas, incluyendo la posición y el sueldo que requieres, podrías ser sorprendido/a por la voluntad de tus empleadores de darte lo que pides. Sé extremadamente detallista con esto.

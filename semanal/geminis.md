@@ -1,31 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 10 de junio 2019 al 16 de junio 2019 
-description: Horóscopo semanal geminis 10 de junio 2019 al 16 de junio 2019. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+title: geminis 17 de junio 2019 al 23 de junio 2019 
+description: Horóscopo semanal geminis 17 de junio 2019 al 23 de junio 2019. No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: 4NGVagN3ifM
+ video: 7JvPwXlDzrg
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-10'
+ lastmod: '2019-06-17'
 ---
 
 
 
-## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+## No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 
-Nunca te has arrepentido de nada geminis, para bien o para mal la vida te ha dado lecciones en las que no te ha quedado más remedio que aprender. Estás en una fase en la que tus pensamientos se vuelven a pelear entre ellos. Lo que deberías hacer, lo que quieres hacer, lo que el mundo espera que hagas… Otra vez. Piensa antes de nada en lo que vas a perder antes de actuar y de tomar una decisión, pero tampoco busques hasta la más mínima excusa para no hacerlo. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos geminis. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad. Métete en la cabeza que puedes hacer absolutamente todo lo que te propongas solo, sin necesidad de que nadie te nuble el juicio, sin necesidad de que nadie te vuelva loco. La vida va a empezar a enseñarte quien merece la pena, quién no merece que se acerque a ti más de cinco minutos al día y quien no merece que se acerque nunca. Pero primero eres tú, en eso es en lo que tienes que trabajar más, en valorarte a ti mismo, en confiar en ti, en tus instintos, en tus objetivos, en saber que lo que hagas saldrá bien, de verdad. Tú no necesitas ejemplos de nadie, cada uno vive su vida como le apetece y si a alguien no le salieron las cosas como esperaba no significa que a ti no te vayan a salir, deja el miedo a un lado y sobretodo la dependencia emocional. Aunque sea una dependencia mínima. Vuelve a ser la persona que siempre has sido.
-La luna creciente al comienzo de la semana podría coincidir con la necesidad de que tus familiares estén de acuerdo antes de tomar una decisión. Si hablas con ellos sobre tus planes en detalle, puede que descubras que todo se acomoda muy bien.
-Cuando el expresivo Mercurio conecta con el jovial Júpiter y el nebuloso Neptuno el martes, seguir cualquier intuición puede ayudarte a formular mejor una carrera o idea comercial. También es posible que un sueño te ofrezca consejos muy útiles.
-Cuando el sol en tu signo forma una armoniosa alineación con el fogoso Marte en tu sector de horizontes lejanos, la mitad de la semana podría ser el momento para pasar a la acción. Podrías reservar unas vacaciones o inscribirte en un curso.
-El viernes, una influencia más conmovedora se abre paso hacia tus planes y te ayuda a expresar mejor tu misión y propósito con los demás. 
+Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Capri, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Capri, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
+Aunque Mercurio, el planeta del habla y el pensamiento, continúa avanzando a mitad de semana después de su fase retrógrada, tal vez no sea malo evitar derroches y gastos impulsivos, en particular durante las próximas dos semanas. Un aspecto positivo podría hacer que tú y otra persona se sientan más cercanas, quizás como resultado de confiar el uno en el otro. No importa si esto es una amistad o un romance, podrías ver que algo especial se desenvuelve entre ustedes y que lleva a un vínculo fuerte y de apoyo en el futuro.
 
 ## Dinero
 
-Tienes entusiasmo para moverte esta semana, especialmente con respecto a tu dinero. Esto puede proporcionarte un nuevo impulso para salir y encontrar un nuevo trabajo o pensar cómo iniciar un negocio secundario para aumentar tus ingresos. El Universo quiere que te destaques entre la multitud, así que asegúrate de ser visto y oído como individuo. Ciertos aspectos en tu sector de carrera indican que debes esforzarse para proporcionar una imagen tranquila y confiada.
+Es una semana muy ocupada para ti conforme los aspectos afectan tu vida hogareña y sentimientos internos. Podrías estar pensando trabajar desde casa o simplemente usar tu dinero para mejorar la apariencia de tu hogar. Ciertamente hay una gran cantidad de energía que poner en un proyecto como este en estos momentos.

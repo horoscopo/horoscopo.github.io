@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 10 de junio 2019 al 16 de junio 2019 
-description: Horóscopo semanal escorpio 10 de junio 2019 al 16 de junio 2019. Semana intensa escorpio, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+title: escorpio 17 de junio 2019 al 23 de junio 2019 
+description: Horóscopo semanal escorpio 17 de junio 2019 al 23 de junio 2019. Tienes que plantarte escorpio, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: aqJoM_MvWO0
+ video: yNEFkHm7cCs
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-10'
+ lastmod: '2019-06-17'
 ---
 
 
 
-## Semana intensa escorpio, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+## Tienes que plantarte escorpio, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
 
-A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez escorpio. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona escorpio, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
-Asegúrate de que tus planes sean realistas, sobre todo a principios de semana. Puede que sientas la tentación de prometer más de lo que puedes cumplir. También tienes la oportunidad de deshacerte de un muy pesado equipaje emocional; aunque puede que sea porque una amistad te anime a hacerlo. Puede que tengas que abordar un punto ciego en una relación cercana si es que quieren terminarla cordialmente. La Luna Llena en Leo del sábado podría inspirarte a hacer planes de viaje, especialmente si te atraen imágenes de días calurosos.
+A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada escorpio. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No escorpio, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres escorpio, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas escorpio pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
+La Luna Nueva trae una excelente oportunidad para llevar una relación romántica o empresarial al siguiente nivel. Si te encuentras firmando acuerdos o contratos en este momento, las cosas tendrán un buen comienzo. En general, esta es una semana constructiva debido a tu presente deseo de derribar obstáculos y seguir avanzando. En caso de que algo se interponga en tu camino, aplicarás tu gran fuerza de voluntad para superarlo. Trata de evitar malos entendidos el viernes. Y el domingo, tendrás la oportunidad de ampliar tus horizontes.
 
 ## Dinero
 
-Esta semana es acerca de cierta emocionante pero intimidante actividad en tu sector de comunicaciones solicitándote que te vuelvas más profesional en tu forma de hablar. Aunque se sienta como algo tenso, es una excelente oportunidad para profundizar en las prácticas espirituales como la meditación y el yoga, especialmente si te ayudan a procesar nuevas ideas que pueden llegar a producirte más dinero.
+Es una semana extraña en tu sector de empleo. Parte de ti quiere avanzar mientras que otra parte de ti quiere quedarse atrás, así que puede que te sea difícil avanzar en las diversas cuestiones relacionadas con el trabajo. Puede haber algo de tensión entre tu deseo de avanzar en tus objetivos de carrera y la realidad en cómo te estás proyectando actualmente hacia el mundo. Es hora de intensificar tu espíritu.

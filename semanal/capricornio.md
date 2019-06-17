@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 10 de junio 2019 al 16 de junio 2019 
-description: Horóscopo semanal capricornio 10 de junio 2019 al 16 de junio 2019. Eleva tu ego capricornio, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
+title: capricornio 17 de junio 2019 al 23 de junio 2019 
+description: Horóscopo semanal capricornio 17 de junio 2019 al 23 de junio 2019. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: wf6Hx4dHtQ8
+ video: eEB0f09GdN8
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-10'
+ lastmod: '2019-06-17'
 ---
 
 
 
-## Eleva tu ego capricornio, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
+## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 
-Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. capricornio, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota capricornio, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando capricornio. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce capricornio, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
-Tu sector social y de recreación está bastante en foco esta semana, lo que podría coincidir con algunos desarrollos. El animado Mercurio se vuelve retrógrado en tu sector de recreación el 25 de $MES y permanece así durante cerca de tres semanas. Puede que tengas ganas de volver a ponerte en contacto con un pasatiempo que disfrutabas en tus años de juventud y tal vez incluso vuelvas a ponerlo en práctica. 
-Cuando el sol forja un ángulo hacia el incansable Urano en tu sector de dinero el miércoles, tal vez no pienses en los costos si una experiencia u oportunidad te atrae. Podrías hacer gastos impulsivos, pero puede que también disfrutes hacerlo.El eclipse lunar del viernes trae la posibilidad de cambios en tu escenario social. Este eclipse conecta con el dinámico Marte, por lo que los sentimientos pueden intensificarse. Tal vez debas librarte del apego que tienes a una persona y al drama de enamorarse.
+Necesitas tener un objetivo en la vida capricornio, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada capricornio, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
+El goce del amor podría encantar tus días debido a la configuración planetaria destacando el romance y oportunidades para citas. El martes, podrías sentir que necesitas tomar una decisión con respecto a un vínculo actual. Si es así, sería prudente saber lo que quieres desde el principio, ya que podría ser difícil cambiar de opinión a la larga. La entrada de Júpiter a tu sector profesional y de salud es una muy buena noticia y podría traer consigo algunas oportunidades para ayudarte a cambiar de trabajo u obtener un ascenso.
 
 ## Dinero
 
-Lo más importante ahora no es cuánto tienes, sino la calidad de tu vida a medida que estudias la forma de hacer algunos cambios importantes. El amor y el afecto se unen a la acción y al tino para ayudarte a participar en actividades creativas como proyectos de escritura, cine, radio y televisión. Si secretamente has abrigado el deseo de participar en esto, toma una clase o un seminario.
+Te encanta fraccionar tu vida, con el dinero en un lado y el trabajo en el otro. Pero ahora algunos de tus compartimentos posiblemente tengan que ser combinados un poco con el fin de tener todo listo. Puede ser que estés pensando en volverte cada vez más responsables con tus finanzas en general. También estás combatiendo el hecho de que la caja que guarda el dinero en efectivo está un poco más seca que de costumbre. Cultiva otros recursos financieros adicionales a través de cambios o un trabajo extra de tiempo parcial.

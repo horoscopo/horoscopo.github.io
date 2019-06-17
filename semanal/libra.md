@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: libra 10 de junio 2019 al 16 de junio 2019 
-description: Horóscopo semanal libra 10 de junio 2019 al 16 de junio 2019. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: libra 17 de junio 2019 al 23 de junio 2019 
+description: Horóscopo semanal libra 17 de junio 2019 al 23 de junio 2019. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: 3YFi9rKrBqY
+ video: iu3aaWW8nLc
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-10'
+ lastmod: '2019-06-17'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues libra, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe…
-Con Saturno, tu planeta personal, moviéndose hace algún tiempo a través de tu sector espiritual, te convertiste en una persona más sabia gracias a determinadas experiencias. No siempre habrás tenido momentos cómodos, quizá algunos fueron dolorosos, pero esto podría haberte hecho abrir los ojos. Si los asuntos del día a día parecen un poco triviales por momentos, pon en práctica este conocimiento para cambiar tu manera de ver las cosas. Por último, ese deseo que sientes de querer conocer más a una persona, podría valer la pena hacerlo realidad.
+Además, que últimamente te han dado muchos chutes de alegría algunas personas alegres y positivas que hacía mucho que no encontrabas en tu vida así que, ¿para qué volver a las que amargan? Por favor… 
+ y el hecho de que las personas que creías que querías y te querían te den la mitad que otras te decepciona mucho. Y vuelves a la carga.
+Venus se encuentra en Capricornio y en tu sector de viajes, por lo que esta puede ser la oportunidad ideal para hacer planes con un amigo o ser querido, sobre todo si quieres escapar a climas soleados. Con Mercurio ahora avanzando a partir del lunes, habrá menos retrasos o desvíos inesperados. El Sol en tu sector profesional te anima a reflexionar sobre tus planes. Ahora es el momento de pensar de manera diferente al formular una estrategia para conseguir una promoción o aumento de sueldo.
 
 ## Dinero
 
-Un aspecto positivo le trae suerte a tu sector de educación, idiomas y espiritualidad. Últimamente has tenido tus ojos puestos en el horizonte, preguntándote cómo hacer que tus productos y servicios le lleguen a una audiencia internacional más amplia. Al considerar las medidas necesarias para ello, no descartes las ideas que parezcan locas. Puede que encuentres apoyo hasta en los lugares más extraños.
+Hay una energía extraña afectando tu trabajo y tu sector de dinero. Los aspectos que afectan tu sector de vidas pasadas, karma e instituciones, muestran que es posible que te vaya bien si estás pensando en  trabajar para una empresa más grande o asociarte con alguien que está un poco más establecido en tu línea de trabajo. Juntos serán imparables, y tal vez capaces de atraer más negocio de lo que podrían hacer por su cuenta.
