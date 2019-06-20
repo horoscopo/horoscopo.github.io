@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 19 de junio 2019
-description: Horóscopos del dia de hoy 19 de junio 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 20 de junio 2019
+description: Horóscopos del dia de hoy 20 de junio 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-06-19
+ lastmod: 2019-06-20
 ---
-¿Tienes planes? Prepárate para tener que cambiarlos cuando la Luna se oponga a Mercurio hoy. Te pareció haber acordado todo, pero tal parece que alguien no estaba escuchando. Esta noche, las personas podrían caer seriamente en enamoramiento (o al menos así creerlo) mientras la Luna forma trígono con Saturno. En realidad, bajo este aspecto, el amor es un proceso lento.
+¡Algo necesita ser hecho y tú lo haces! Hay pocas personas que sienten contento con simplemente sentarse, tener esperanza y hacerse preguntas sobre la vida mientras Marte en Capricornio conjunta a Plutón. Hay miles de maravillosas palabras existentes en el mundo, por lo que no puedes quedarte sin hablar. Dilas mientras la Luna forme trígono con Mercurio esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
