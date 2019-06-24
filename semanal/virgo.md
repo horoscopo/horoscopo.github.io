@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 17 de junio 2019 al 23 de junio 2019 
-description: Horóscopo semanal virgo 17 de junio 2019 al 23 de junio 2019. Toma decisiones YA, AQUÍ y AHORA virgo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+title: virgo 24 de junio 2019 al 30 de junio 2019 
+description: Horóscopo semanal virgo 24 de junio 2019 al 30 de junio 2019. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no virgo, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: DhE002SU15Y
+ video: 1wyGNuMhGEI
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-17'
+ lastmod: '2019-06-24'
 ---
 
 
 
-## Toma decisiones YA, AQUÍ y AHORA virgo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+## Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no virgo, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
 
-Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
- No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
-Tienes bastantes oportunidades románticas, pero al final, podrías terminar criticando demasiado para tu propio bien. La actual alineación en Virgo sugiere que podrías enfocarte en los defectos de los demás en lugar de aplaudirles sus mejores características. Es posible que por ello termines perdiéndote de un gran partido. Los mejores días para socializar y salir a citas son de viernes a domingo. Pero un irritable conjunto de aspectos insinúa que ciertas pasiones ocultas podrían ser desatadas, sobre todo una vez que el Sol entre a Escorpión.
+Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
+ A veces, te aferras a momentos de felicidad pasajera virgo, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
+Esta semana hay mucha actividad en tu sector hogareño con cierta cuestión desarrollándose y pudiendo llegar a un punto crítico. La manifestación del Eclipse Solar en ese mismo sector podría despertar sentimientos, animar arrebatos y charlas de corazón a corazón. Cualquiera que sea la situación, es posible que se llegue a un punto en el que algo se tenga que hacer. De hecho, la tensión podría crecer tanto que podría volverse imposible de evitar. Sin embargo, no actúes bajo el calor del momento. Si tienes que tomar una decisión, debe ser una informada.
 
 ## Dinero
 
-Es posible que necesites proteger tu salud esta semana. Si la comunicación es muy importante para ti, puede ser necesario que tengas que proteger tu voz. Tantas llamadas, textos y correos electrónicos; tan poco tiempo. El poder manejar tus citas se convierte en algo fundamental, especialmente en los aspectos actuales. Tu vida social está estallando. Asegúrate de tener por el mango el saber cómo, quién, qué, cuándo y dónde obtener los mejores resultados financieros.
+Hay algunos aspectos discordantes esta semana, lo que podría traer un poco de tensión a tu vida. Aunque hay algo de pesadez en tu sector profesional, no descuides tus relaciones. Tienes un montón de gente maravillosa que te puede dar consejos sobre cosas, desde la búsqueda de empleo a las inversiones. Úsalos a tu ventaja.

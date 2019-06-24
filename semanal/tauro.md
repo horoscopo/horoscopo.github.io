@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: tauro 17 de junio 2019 al 23 de junio 2019 
-description: Horóscopo semanal tauro 17 de junio 2019 al 23 de junio 2019. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+title: tauro 24 de junio 2019 al 30 de junio 2019 
+description: Horóscopo semanal tauro 24 de junio 2019 al 30 de junio 2019. La vida es un ciclo #SIGNO, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: d_hGG0ivnvw
+ video: qsBWsM8cYlE
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-17'
+ lastmod: '2019-06-24'
 ---
 
 
 
-## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+## La vida es un ciclo #SIGNO, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 
-Madura tauro, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte tauro, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu tauro, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-
+Quizás deberías dejar de planear todo ahora tauro, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien tauro, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
+Podrían suceder muchas cosas a tu alrededor, pero tal vez estés consciente de la necesidad de un cambio. Puede que esto se refleje en tu hogar, así como en tus metas personales o planes profesionales. 
+Debido al eclipse solar en tu sector doméstico durante esta semana, podrías sentir que las tensiones se acumulan. Y cuando añades al potente Plutón a la mezcla, poderosas emociones podrían salir a la superficie. Tal vez sientas que es momento de dar un cambio de rumbo, y esta decisión podría afectar aspectos de tu vida hogareña y tus planes. De hecho, puede que debas librarte de algo o resolverlo antes de poder avanzar. Al mismo tiempo, el dulce Venus ingresa a Virgo y a tu sector de estilo de vida, lo que ayuda a traer armonía a las relaciones cotidianas. Y cuando el jovial Júpiter se vuelve directo en tu sector de bienes compartidos, el dinero y las cuestiones comerciales pueden comenzar a verse más prometedoras.
 
 ## Dinero
 
-Puede que se te esté dando la oportunidad de llevar tus ideas a las grandes redes sociales y al público. Este es un momento excelente para aprovechar el hecho de que la gente quiere escuchar lo que tienes que decir y comprar lo que estás vendiendo. Si necesitas mejorar tu mensaje antes de acercarte a ellos, utiliza los aspectos favorables actuales para lograr hacerlo. Vas a lograr producir mucho cuando golpees al mundo con tus ideas.
+El enfoque de tu vida recae en tus relaciones con los demás, especialmente en las personas relacionadas con ambas, tu vida profesional y financiera. Puedes percatarte de que los intercambios que tienen juntos son de amor y de apoyo, incluso ahora. Hay una energía maravillosamente creativa entre ustedes. Sin embargo, puesto que la verdad también puede ser empañada, traten de encontrarla en conjunto.

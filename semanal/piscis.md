@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 17 de junio 2019 al 23 de junio 2019 
-description: Horóscopo semanal piscis 17 de junio 2019 al 23 de junio 2019. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana piscis.
+title: piscis 24 de junio 2019 al 30 de junio 2019 
+description: Horóscopo semanal piscis 24 de junio 2019 al 30 de junio 2019. El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: otcaTVRU10I
+ video: 2UFEIMQnIcg
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-17'
+ lastmod: '2019-06-24'
 ---
 
 
 
-## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana piscis.
+## El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
-Romance, creatividad y actividades de recreación parecen ser el enfoque principal. Pero esta semana, un aspecto muy especial podría empujarte a poner en marcha una idea que ya no puedes postergar más. Esta podría ser una oportunidad creativa que impulse tu negocio o tu trabajo a un nuevo nivel, por lo que podría ser una oportunidad muy importante para ti. Y con una luna nueva alentándote, este podría ser uno de los mejores momentos para entrar en acción. A partir del 17 de $MES, tu salud y bienestar podrían volverse una prioridad.
+No es que estés cambiando piscis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
+Así como puedes estar de acuerdo con amistades cercanas, podría haber otras personas con quien no puedes coincidir en un asunto importante. Aunque puede ser tentador decir exactamente lo que piensas, tal vez sea mejor no hacerlo, ya que la Luna Llena en tu signo sólo podría empeorar las cosas. Si puedes evitar tales conflictos esta semana, tal vez seas capaz de llegar a un acuerdo la próxima. Por otro lado, disfrutar de una sesión de spa podría hacerte muy bien.
 
 ## Dinero
 
-Esta semana estás pensando en cómo poner en marcha tu creatividad. Ciertos aspectos afectan tu sector de comunicación e ideas, así como también las relaciones. El Universo exige que cada vez tengas más madurez en tu pensamiento y en la manera de expresar tus ideas. Al mismo tiempo, hay una especie de ensueño de confusión acerca de con quién trabajar y cuándo. Cuando asumes nueva seriedad, el dinero te sigue inevitablemente.
+El dinero puede ser un punto de fricción para ti. Por un lado, deseas la seguridad que el dinero puede proporcionarte. Por otro lado, quieres sentirte en control, y el dinero es raramente controlable. La buena noticia es que hay un montón de energía positiva concentrada en tu sector de dinero. Con acción y un poco de suerte, debería ser fácil ganar dinero en este momento.

@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: geminis 17 de junio 2019 al 23 de junio 2019 
-description: Horóscopo semanal geminis 17 de junio 2019 al 23 de junio 2019. No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: geminis 24 de junio 2019 al 30 de junio 2019 
+description: Horóscopo semanal geminis 24 de junio 2019 al 30 de junio 2019. Vete a tu cerebro, y borra geminis, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño geminis. Deja salir para que pueda entrar lo demás.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: 7JvPwXlDzrg
+ video: c1JBZRc-Dhw
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-17'
+ lastmod: '2019-06-24'
 ---
 
 
 
-## No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## Vete a tu cerebro, y borra geminis, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño geminis. Deja salir para que pueda entrar lo demás.
 
-Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Capri, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Capri, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
-Aunque Mercurio, el planeta del habla y el pensamiento, continúa avanzando a mitad de semana después de su fase retrógrada, tal vez no sea malo evitar derroches y gastos impulsivos, en particular durante las próximas dos semanas. Un aspecto positivo podría hacer que tú y otra persona se sientan más cercanas, quizás como resultado de confiar el uno en el otro. No importa si esto es una amistad o un romance, podrías ver que algo especial se desenvuelve entre ustedes y que lleva a un vínculo fuerte y de apoyo en el futuro.
+Los finales no significan que hayas fallado en algo geminis, los finales a veces sirven para abrir nuevas puertas a algo. geminis, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza geminis…
+Trata con calma los asuntos financieros durante la primera parte de la semana. Podrías sentir la tentación de gastar en algo, lo que tal vez no sea útil. Cuando el conversador Mercurio se alinea con el soñador Neptuno y el jovial Júpiter el martes, inspiradoras conversaciones y pensamientos de venta con respecto a cómo puedes beneficiarte de esta compra podrían animarte. Date unos días para pensar en ello. Si todavía quieres hacer la compra, hazla. Si no es así, ahorrarás dinero. 
+A mitad de semana, podrías tener una actitud bastante proactiva en lo que respecta a conectar con las personas correctas. Una nueva conexión en un evento clave podría ser importante para ti en el futuro.
+Por último, una encantadora combinación de energías durante esta semana podría conectarte con alguien muy especial y espiritual. Este encuentro podría tener potencial para conectarte con tu alma gemela, pero también podría sugerir la presencia de un profesor o entrenador que te ayude a resolver un complicado problema.
 
 ## Dinero
 
-Es una semana muy ocupada para ti conforme los aspectos afectan tu vida hogareña y sentimientos internos. Podrías estar pensando trabajar desde casa o simplemente usar tu dinero para mejorar la apariencia de tu hogar. Ciertamente hay una gran cantidad de energía que poner en un proyecto como este en estos momentos.
+Es posible que tu imaginación se desate a su más alto nivel. Tantas ideas fluyen de tu cabeza que lo mejor es tener lápiz y papel a la mano para guardarlas todas. Incluso la más pequeña, al parecer, se puede convertir en un producto o servicio que genere efectivo. Tienes la posibilidad de poder consolidar estas ideas en proyectos concretos en el trabajo. ¡Bienvenido el efectivo!

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 17 de junio 2019 al 23 de junio 2019 
-description: Horóscopo semanal acuario 17 de junio 2019 al 23 de junio 2019. Recuerda que ha empezado la época de los acuario… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+title: acuario 24 de junio 2019 al 30 de junio 2019 
+description: Horóscopo semanal acuario 24 de junio 2019 al 30 de junio 2019. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: otcaTVRU10I
+ video: G62c14VeiZ4
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-17'
+ lastmod: '2019-06-24'
 ---
 
 
 
-## Recuerda que ha empezado la época de los acuario… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+## En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 
-Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro acuario, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Pececito, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
-Comprar artículos para tu hogar podría ser divertido y el animado enlace Sol/Urano podía ayudarte a encontrar artículos a muy buen precio. Puede que también te apoderes de un artículo que tenga el potencial de resolver al menos una cuestión doméstica o relacionada con tu cocina. Conforme Venus entra a tu sector de romance más adelante en la semana, prepárate para un fin de semana lleno de diversión. Si tienes planeada una cita, tal podría ser muy especial por muchos motivos.
+Empieza a cambiar la mentalidad acuario, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado acuario, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+Hay mucha actividad en tu sector de ocio, por lo que este es el momento de explorar posibilidades relacionadas con tus dones y talentos naturales. Si tienes la oportunidad de mostrar tus habilidades, tómala. El romance también podría ser parte de la ecuación, con Venus aumentando tu carisma y tal vez conduciéndote a una nueva y emocionante conexión. Además, con Saturno ahora avanzando en tu sector financiero, es posible que tengas más libertad de acción con respecto a dinero. Este fin de semana, toma las palabras de alguien con escepticismo.
 
 ## Dinero
 
-Esta semana te pide que pongas más atención en tu carrera. Si es que por lo general eres bastante tradicional y conservador/a por naturaleza, ahora es tu turno de hablar - un poco, por lo menos. Si dejas que los demás sepan cuáles son tus metas, incluyendo la posición y el sueldo que requieres, podrías ser sorprendido/a por la voluntad de tus empleadores de darte lo que pides. Sé extremadamente detallista con esto.
+Nunca ha sido tu punto fuerte el sentarte y aceptar, lo cuál se sentirá doble esta semana. Algunos aspectos negativos crearán olas. Trata de llevar las facciones beligerantes en tu red social a la mesa de la paz conforme te haces cargo de los asuntos de deuda o propiedad que poseas con otra persona. El dejar que alguien más se haga cargo de ello no dará los mejores resultados ahora. Sabes perfectamente qué es  lo mejor para los dos.
