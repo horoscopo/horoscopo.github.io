@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 26 de junio 2019
-description: Horóscopos del dia de hoy 26 de junio 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 27 de junio 2019
+description: Horóscopos del dia de hoy 27 de junio 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-06-26
+ lastmod: 2019-06-27
 ---
-La cuadratura de hoy entre Plutón y la Luna en Libra enciende las emociones. No te apresures, ve más despacio y mantén el equilibrio. Esta noche, la Luna saliéndose de su órbita después de manifestarse como Luna Nueva sugiere la necesidad de una pizca de equilibrio. Es hora de respirar profundamente y serenarse. Solteros, no es buen momento para empezar nuevas relaciones.
+Hoy comienza un trígono entre Júpiter y Plutón que abre un mundo de posibilidades en los próximos diez días. Prepárate para asombrarte. Si no tienes pareja, podrías conocer a esa persona especial que va a cambiar todo mientras el Sol se oponga a Urano esta noche. La vida se acelera después de esa introducción.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
