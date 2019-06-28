@@ -1,0 +1,10 @@
+---
+layout: null
+sitemap:
+ exclude: 'yes'
+--- 
+
+{% if site.adsense %}
+google.com, {{ site.adsense }}, DIRECT, f08c47fec0942fa0
+{% endif %}
+
