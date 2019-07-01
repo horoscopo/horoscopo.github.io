@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo leo junio 2019 
+title: Horoscopo leo julio 2019 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
- video: sqtRTwInzpI
+ video: 1LFaUP2hPAs
 
 ogimg: /images/leo_char.png
 sitemap:
@@ -15,9 +15,4 @@ sitemap:
 ---
 
 
-El 5 de junio, Venus se torna estacionario retrógrado en Escorpión. El amor se vuelve más serio y menos demostrativo, lo que te sienta bien. Explora las profundidades de una relación, pero trata de posponer cualquier compromiso firme hasta después de que Venus se torne directo el 16 de junio. 
-La luna nueva del día 8 podría traer una oportunidad profesional o social que mejore tu vida considerablemente. Además, puede ser un gran beneficio para otras personas. Cree en ti, sé realista (como siempre), y haz lo que puedas. Ahora puedes lograr muchas cosas. 
- La luna forma una conjunción con Saturno el 14 de junio. Ten más autoridad y hazte cargo de un asunto que ha estado atascado. 
-Únete a un grupo de baile, club de jardinería o certamen de poesía cuando la luna está llena el 24 de junio, y conocerás a muchas personas nuevas. Profundas amistades pueden llegar después (o no), pero igual será divertido. Mantén en privado tus intereses más excéntricos hasta entonces. 
-Días destacados: 12, 19, 24
-Días desafiantes: 11, 29
+¿Hay un objeto o un lugar que te está atrayendo a medida que se acerca la Luna Llena del 12 de julio? Es probable que te dispongas a dejar tu zona de confort para darte esa satisfacción. Está en tus manos decidir si vale la pena. Es posible que sí. El amor se tornará serio e intenso el 21 de julio cuando la Luna forme un trígono con Marte en Escorpión. El amor raramente se vuelve simple o profundo como en este caso. Sincérate. La Luna Nueva del 27 de julio presiona el botón de reiniciar en tu vida y entorno hogareños. Aprovecha al máximo este próximo mes lunar para convertir tu hogar en el lugar que deseas. Una amistad podría darte algunas opiniones útiles.

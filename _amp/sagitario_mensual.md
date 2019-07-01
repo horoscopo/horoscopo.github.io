@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo sagitario junio 2019 
+title: Horoscopo sagitario julio 2019 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
- video: SjdNkNCPIaM
+ video: vmysSE2ZuTU
 
 ogimg: /images/sagitario_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-La Luna Nueva del 4 de junio podría traerles a muchas personas un fin de semana muy social. Trata de verte y sentirte en tu punto más encantador y seductor. Pasa tiempo con tus seres queridos, escucha y baila al son de la música que más te gusta. Por la noche, regresa a casa sin problemas y vuelve a hacerlo todo de nuevo al siguiente día. La Luna Llena del 20 de junio comienza un verano divertido. Es posible que entonces prefieras empezar lentamente y cerca de casa o ir a un lugar especial a solas primero. Ya tendrás mucho tiempo para subirte al divertido escenario más tarde. Marte comienza a moverse directamente el 29 de junio, pero puede que se requiera de más tiempo para que tu ambición regrese a su nivel.  
+Puede que veas amor por todas partes una vez que Venus entre a Aries el 3 de julio. Haz algo divertido y creativo bajo el Eclipse de Luna Llena del 10 de julio. Es probablemente lo más saludable que puedes hacer. Ten bondad con tu cuerpo y no te dejes llevar por los dulces o alimentos grasosos. Podrías volverte la persona favorita de todos bajo el Eclipse Solar de Luna Nueva del 26 de julio. Hay un poderoso encanto rodeándote ahora y todo el mundo quiere tu aprobación y atención. Si tienes interés en unirte a un nuevo grupo o hacerle cambios a tu círculo social, ahora es el momento. Todos entenderán y estarán satisfechos con lo que quieras.

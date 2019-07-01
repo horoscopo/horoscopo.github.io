@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo capricornio junio 2019 
+title: Horoscopo capricornio julio 2019 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
- video: AU2hslo1ngA
+ video: AijsQpLPD4Y
 
 ogimg: /images/capricornio_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-¡Feliz año nuevo! El 1 de junio, amistades y gente del vecindario están a tu lado durante la luna llena. A medida que el mes avanza, también hay varias amistades nuevas para hacer, muchas de ellas de lugares lejanos. La luna nueva del día 16 podría expandir tu mundo de una forma increíble. El interés más inusual podría prosperar al máximo, y presentarte a una persona emocionante o una posibilidad inimaginable. Ábrete a las posibilidades. El 31 de junio, la segunda luna llena del mes (y el eclipse lunar) enriquece tu vida doméstica. Establece un vínculo con un miembro de tu familia y observa todo lo que tienen en común. 
+El 7 de julio podría ser un día romántico, lleno de coqueteo, sorpresas y malentendidos. Urano se torna estacionario retrógrado, Venus y Marte forman un trígono, y la luna ingresa a Cáncer. El día siguiente puede ser más agradable si no piensas demasiado las cosas. El sol forma una conjunción con Mercurio retrógrado, lo que resalta la intuición y pistas psíquicas. La luna en Cáncer forma un trígono con Júpiter, y luego un trígono con Neptuno. ¡Dulces sueños! La luna nueva (y eclipse solar) del día 11 podría iluminar un asunto financiero y traerte algo valioso. Podría haber algunos mensajes contradictorios, pero al final deberías recibir buenas noticias. Mercurio se torna directo el 18 de julio. Tómate tu tiempo para organizarte mejor. El día 26, la luna llena puede darte más espacio y tiempo libre. Haz lo que prefieres hacer en lugar de lo que tu círculo social está promoviendo. No te preocupes; no estarás a solas. Al día siguiente, Marte se torna estacionario directo. La motivación regresa y el progreso se vuelve más fácil. Días destacados: 17, 22, 27Días desafiantes: 8, 16</div>
