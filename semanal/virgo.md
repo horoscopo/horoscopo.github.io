@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 24 de junio 2019 al 30 de junio 2019 
-description: Horóscopo semanal virgo 24 de junio 2019 al 30 de junio 2019. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no virgo, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+title: virgo 01 de julio 2019 al 07 de julio 2019 
+description: Horóscopo semanal virgo 01 de julio 2019 al 07 de julio 2019. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: 1wyGNuMhGEI
+ video: vzuPgj-nD3w
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-24'
+ lastmod: '2019-07-01'
 ---
 
 
 
-## Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no virgo, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
 
-Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
- A veces, te aferras a momentos de felicidad pasajera virgo, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
-Esta semana hay mucha actividad en tu sector hogareño con cierta cuestión desarrollándose y pudiendo llegar a un punto crítico. La manifestación del Eclipse Solar en ese mismo sector podría despertar sentimientos, animar arrebatos y charlas de corazón a corazón. Cualquiera que sea la situación, es posible que se llegue a un punto en el que algo se tenga que hacer. De hecho, la tensión podría crecer tanto que podría volverse imposible de evitar. Sin embargo, no actúes bajo el calor del momento. Si tienes que tomar una decisión, debe ser una informada.
+Deja que duela virgo, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser virgo estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien virgo pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida virgo, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
+Una cálida conversación o la posibilidad de volver a conectar con alguien pueden hacer que el comienzo de la semana sea muy especial y animado. Después de unas alegres semanas, las próximas podrían ser más tranquilas y quizá más fáciles de transitar. Cuando el sol ingresa a tu sector de habla y pensamiento, tu mente puede enfocarse en objetivos e ideas más prácticas. Puede que busques la forma de materializar los planes que podrían mejorar tu seguridad y hacer crecer tu negocio o mejorar tu estilo de vida. 
+ Sin embargo, cuando el prudente Saturno y el ardiente Plutón se vuelven retrógrados, puede que quieras reestructurar tu vida social en las próximas semanas y meses a fin de evitar a una de tus amistades, que siente celos de ti. De hecho, es posible que decidas cortar la relación por completo si las cosas no cambian. Estas influencias también tienen un lado positivo, ya que tus verdaderas amistades te brindan una atmósfera de mutuo apoyo.
 
 ## Dinero
 
-Hay algunos aspectos discordantes esta semana, lo que podría traer un poco de tensión a tu vida. Aunque hay algo de pesadez en tu sector profesional, no descuides tus relaciones. Tienes un montón de gente maravillosa que te puede dar consejos sobre cosas, desde la búsqueda de empleo a las inversiones. Úsalos a tu ventaja.
+Es necesario utilizar emociones constructivamente sobre una base regular. Si haces algo creativo para ganarte la vida, este es el equilibrio perfecto entre el arte y el comercio, porque ahora el Universo te apoya. Con cierta actividad en el área que rige la educación superior, los viajes y la espiritualidad, es el momento de mirar al exterior para generar oportunidades de dinero tan pronto como sea posible.

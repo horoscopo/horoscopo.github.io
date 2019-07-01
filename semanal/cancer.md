@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 24 de junio 2019 al 30 de junio 2019 
-description: Horóscopo semanal cancer 24 de junio 2019 al 30 de junio 2019. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+title: cancer 01 de julio 2019 al 07 de julio 2019 
+description: Horóscopo semanal cancer 01 de julio 2019 al 07 de julio 2019. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagi, ¡NO MEZCLES!
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: MGgimVldPdY
+ video: -2UkdKeBUgw
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-24'
+ lastmod: '2019-07-01'
 ---
 
 
 
-## Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagi, ¡NO MEZCLES!
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa cancer.
-Salir con amigos a ver una película o asistir a algún evento cultural podría ser muy interesante, especialmente si te lleva a explorar tu creatividad. Y con Venus actualmente en tu signo, esta puede ser una oportunidad de oro para experimentar con una habilidad o un talento que podría ser muy enriquecedor en el futuro. Más adelante, Marte se desplaza hacia tu sector de finanzas personales para fomentar una actitud más proactiva para resolver problemas. Puede que necesites juntar coraje para solucionar ciertos asuntos de dinero.
+Por fin vas a finalizar ciclos cancer, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse cancer, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres cancer joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien cancer. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana cancer, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
+Con Júpiter en Libra creando un incómodo ángulo con Plutón en tu sector hogareño, un problema familiar podría llegar a un punto crítico, lo que significa que podría dar como resultado un importante logro. Sin embargo, necesitarás mucho tacto y diplomacia —tal vez más de lo usual— para ayudar a que esto sea una realidad. Con Venus, tu planeta regente, trasladándose al sector superior de tu carta, tus excelentes sugerencias podrían hacer la diferencia y hacer que esto tenga una provechosa conclusión.
 
 ## Dinero
 
-Esta semana podría resultar un poco estresante para ti. La actividad en tu sector de dinero trae oportunidades y cambio repentino. Ahorra tanto como puedas, y aprende a montarte a un caballo salvaje. Un plan integral para reducir tu deuda debe ser puesto en marcha ahora. Incluso los pequeños pagos cada mes ayudan.
+Estás a punto de tomar ventaja de nuevas oportunidades. Tus energías masculinas y femeninas están trabajando en conjunto, lo que tiene un efecto positivo en tu balance final. Tus inversiones y propiedad compartida pueden requerir alguna acción de tu parte. Espera unos días antes de firmar cualquier documento o convenio. Tú y tu pareja deben de estar en la misma frecuencia.

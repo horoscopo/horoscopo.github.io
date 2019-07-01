@@ -1,28 +1,32 @@
 ---
 layout: horoscopos
-title: leo 24 de junio 2019 al 30 de junio 2019 
-description: Horóscopo semanal leo 24 de junio 2019 al 30 de junio 2019. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+title: leo 01 de julio 2019 al 07 de julio 2019 
+description: Horóscopo semanal leo 01 de julio 2019 al 07 de julio 2019. Todo acaba cicatrizando, pero tienes que dejar que cicatrice leo. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: E2kDs5Nm0Hk
+ video: p0BZ61W7n_U
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-24'
+ lastmod: '2019-07-01'
 ---
 
 
 
-## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+## Todo acaba cicatrizando, pero tienes que dejar que cicatrice leo. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 
-No puedes esperar a que las cosas pasen leo, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres leo, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA leo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
-El Sol y Mercurio continúan en tu sector de recursos compartidos, por lo que puede que estés buscando maneras de aumentar tus ingresos o mejorar tus beneficios empresariales. El enlace entre el Sol y Neptuno te sugiere reflejar o meditar sobre ideas creativas para ver lo que se te ocurre. La conexión entre Mercurio y Plutón te anima a tener curiosidad y hacerles preguntas a personas exitosas. Hacerlo puede trabajar a tu favor. Hay mucho que decir sobre la positiva influencia en tu futuro que podría traerte el que te comprometieras con un curso de estudio.
+Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas leo. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva leo. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien leo, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+La luna nueva en tu sector de relaciones el martes allana el camino para un nuevo comienzo. 
+Sin embargo, el animado Urano ingresa a este sector más adelante el mismo día, y su presencia allí hasta 2026 podría traer consigo una nueva actitud. Tu comprensión de lo que significa actuar con autenticidad y honestidad podría dar un giro de 360 grados. 
+También el mismo día, el poderoso Marte abandona tu signo e ingresa a Acuario y a tu sector de dinero. Se quedará allí durante bastante tiempo, lo que te anima a enfrentarte a cualquier dificultad y a retomar el control. 
+Una influencia más suave podría tener un efecto tranquilizante en tus relaciones a medida que el encantador Venus ingresa a tu sector de relaciones el sábado. Esto puede ser justo lo necesario para reparar una relación de suma importancia. 
+Por último, el ingreso del sol a Géminis y a tu sector de estilo de vida el domingo podría ser una llamada a optimizar tus rutinas laborales y de salud. 
 
 ## Dinero
 
-Este es un período importante para ti porque la expansión y la suerte a menudo se combinan con ideas repentinas y creativas. Esto indica una época de gran fortuna cuando se trata de atraer a personas y oportunidades hacia ti. Tu energía es magnética ahora. Úsala a tu ventaja al realizar llamadas, aplicar para puestos de trabajo, y al usar tus conexiones sociales para conocer gente nueva e interesante. Hay posibilidades de que surja una maravillosa colaboración.
+Te beneficiarás de dos maneras cruciales en estos momentos. Dado que ciertos aspectos están afectando a tu sector de grupos, política y trabajo por cuenta propia, puede que estés considerando trabajar desde casa o iniciar un nuevo negocio desde la comodidad de tu habitación. La suerte se combina con repentinas ideas brillantes. Puede parecer una broma, pero puede que de verdad funcione.

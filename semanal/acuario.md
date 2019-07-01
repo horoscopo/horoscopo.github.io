@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: acuario 24 de junio 2019 al 30 de junio 2019 
-description: Horóscopo semanal acuario 24 de junio 2019 al 30 de junio 2019. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+title: acuario 01 de julio 2019 al 07 de julio 2019 
+description: Horóscopo semanal acuario 01 de julio 2019 al 07 de julio 2019. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: G62c14VeiZ4
+ video: VYdo8H_5l7I
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-06-24'
+ lastmod: '2019-07-01'
 ---
 
 
 
-## En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 
-Empieza a cambiar la mentalidad acuario, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado acuario, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
-Hay mucha actividad en tu sector de ocio, por lo que este es el momento de explorar posibilidades relacionadas con tus dones y talentos naturales. Si tienes la oportunidad de mostrar tus habilidades, tómala. El romance también podría ser parte de la ecuación, con Venus aumentando tu carisma y tal vez conduciéndote a una nueva y emocionante conexión. Además, con Saturno ahora avanzando en tu sector financiero, es posible que tengas más libertad de acción con respecto a dinero. Este fin de semana, toma las palabras de alguien con escepticismo.
+Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar.
+¡Persevera y triunfarás! Esta semana definitivamente tiene un tinte social. Pareces estar rebosante de energía positiva y alegres pensamientos, tanto por dentro como por fuera. Además, una relación puede afianzarse si hablas con total honestidad. Ten cuidado para no molestar a alguien en el trabajo. Tu relación con cierto colega podría requerir un cuidadoso manejo. 
+Por otro lado, el deseo de desconectarte y relajarte podría entrar en conflicto con el impulso de abandonar tu zona de confort y explorar interesantes metas y opciones de carrera. Esto último podría intensificarse a medida que pasa el tiempo y podrías tener más ganas de investigar todo tipo de negocios u oportunidades profesionales, incluso si son completamente nuevas para ti. El fin de semana, tómate un tiempo para reflexionar. Podría ayudarte a ver un problema de relaciones desde otra perspectiva. 
 
 ## Dinero
 
-Nunca ha sido tu punto fuerte el sentarte y aceptar, lo cuál se sentirá doble esta semana. Algunos aspectos negativos crearán olas. Trata de llevar las facciones beligerantes en tu red social a la mesa de la paz conforme te haces cargo de los asuntos de deuda o propiedad que poseas con otra persona. El dejar que alguien más se haga cargo de ello no dará los mejores resultados ahora. Sabes perfectamente qué es  lo mejor para los dos.
+Confía en tu intuición acerca de lo que es correcto para ti. Estás preparado/a para hacer un gran cambio en tu vida. Podrías percatarte de que tu situación se vuelve un poco inestable, teniendo dinero un día y no otro. La manera de balancear esto es mediante el desarrollo de una estrategia fuerte de ahorro, poniendo dinero en cuentas de ahorro a largo plazo y otro poco más en cuentas de ahorro a corto plazo. No es una opción - es una necesidad.
