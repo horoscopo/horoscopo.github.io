@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 01 de julio 2019 al 07 de julio 2019 
-description: Horóscopo semanal geminis 01 de julio 2019 al 07 de julio 2019. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro geminis, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+title: geminis 08 de julio 2019 al 14 de julio 2019 
+description: Horóscopo semanal geminis 08 de julio 2019 al 14 de julio 2019. Da la bienvenida a tu nueva vida geminis, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: NZjIAsdCgOg
+ video: l74svOCAjIo
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-01'
+ lastmod: '2019-07-08'
 ---
 
 
 
-## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro geminis, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+## Da la bienvenida a tu nueva vida geminis, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón geminis, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
-Con Marte animándote a actuar más asertivamente, tu actitud podría ser más enérgica. Si alguien te ha estado molestando últimamente, podrías terminar perdiendo la calma durante mediados de semana. Pero hacerlo no sería necesariamente bueno para ti. Una charla franca en la que con mucho tacto digas lo que sientes podría ser mejor. Comenzar a planear podría ayudarte a que las próximas semanas se desarrollen con más facilidad. Firma contratos o cierra negocios después de la Luna Nueva del viernes.
+No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado geminis, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+Puede que sientas que algo debe cambiar, pero es posible que el comienzo de la semana no sea el mejor momento para actuar. Podría haber mucha resistencia a dejar ir algo y a permitir que nuevas oportunidades o ideas ocupen ese mismo lugar. Más adelante en la semana, te resultará más fácil librarte de lo que sea que evita que avances. Además, Venus —tu planeta regente— ingresará a tu sector financiero el viernes. Esto te anima a hacer que tu dinero te rinda más.
 
 ## Dinero
 
-Es posible que tengas arrinconado al mercado de la hospitalidad y las industrias de planificación de eventos, pero esta semana el Universo te está pidiendo que ramifiques y utilices tus habilidades de una nueva manera. Hay tensión entre tu familia, tu vida romántica y el sector de deuda. El gasto puede haberse vuelto mayor recientemente a lo que tu presupuesto puede manejar. Esto está causando estragos en tus planes a largo plazo. Reduce gastos en consecuencia.
+A veces puedes  ser muy conformista, y esta semana, podrías tener todo lo necesario para seguir siéndolo. Una nueva energía inunda tu casa del dinero y los valores, facilitando una especia de pausa para ti. En este momento de paz, podrías estar preguntándote que es lo que harías y no harías por dinero y cuánto tiempo más de descanso necesitas para mantenerte sano/a y productivo/a. Esto será muy sano para ti a la larga.

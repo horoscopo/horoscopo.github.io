@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: libra 01 de julio 2019 al 07 de julio 2019 
-description: Horóscopo semanal libra 01 de julio 2019 al 07 de julio 2019. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+title: libra 08 de julio 2019 al 14 de julio 2019 
+description: Horóscopo semanal libra 08 de julio 2019 al 14 de julio 2019. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda libra, pero sé constante.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: NmvccIWLZMo
+ video: VPy5FRpqxLM
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-01'
+ lastmod: '2019-07-08'
 ---
 
 
 
-## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda libra, pero sé constante.
 
-Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
-Tal vez pienses que sabes lo que quieres pero ¿es así? La mezcla de energías de esta semana podría provocar un conflicto entre tu cabeza y tu corazón, lo que traerá confusión. A esto se suma el deseo de reconocimiento o la necesidad de dar una audaz impresión. Podrías sentir que debes ir en distintas direcciones al mismo tiempo. 
-Cuando el sol conecta con el animado Mercurio el martes y el escurridizo Neptuno el miércoles, quizás no todo es lo que parece. Puede que no te resulte sencillo desarrollar un plan de acción porque tus pensamientos podrían cambiar de un momento a otro. Tal vez lo mejor sea relajarte e ir con la corriente. Sin importar qué tan grande sea el impulso de controlar o manipular una situación, dejar pasar el asunto puede producir resultados mucho más beneficiosos. Y debido a que el fogoso Marte, tu planeta regente, se encuentra en tu sector de amistades, tu vida social podría compensar cualquier decepción.
+Bueno libra, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
+Puede que una relación clave experimente un nuevo comienzo, especialmente con la Luna Nueva de hoy alentándote o alentando a la otra persona a dar el primer paso. Ya se trate de un nuevo romance o de una relación a largo plazo, la mezcla actual de energías genera un cambio de marcha, el cual podría profundizar la relación o presentar un desafío que ambos disfruten. Por otro lado, puede que debas llegar a un punto medio con respecto a un asunto familiar, pero esto podría implicar hacer un mayor sacrificio.
 
 ## Dinero
 
-Tus pensamientos e ideas pueden tornarse a la familia y la diversión por ahora, pero el Universo te está empujando a pensar en instituciones grandes como una forma de ganar dinero. Si tu dinero está en un banco pequeño o local, puede ser momento de darles a los bancos grandes una oportunidad. Mejores tarifas y opciones de ahorro significan más dinero para ti y tu clan.
+Ahora tienes un aspecto armonioso afectando a tu sector de hogar y emociones. Si trabajas en un campo creativo o de diseño, piensa en cómo ampliar tu línea para incluir el diseño de interiores. Dado a que tantos de tus propios recuerdos y sentimientos están siendo despertados, puedes percatarte de que tu vida puede servir de base para nuevas y maravillosas ideas. El dinero viene cuando se combina lo personal con lo profesional.

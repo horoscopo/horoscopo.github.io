@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: capricornio 01 de julio 2019 al 07 de julio 2019 
-description: Horóscopo semanal capricornio 01 de julio 2019 al 07 de julio 2019. Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+title: capricornio 08 de julio 2019 al 14 de julio 2019 
+description: Horóscopo semanal capricornio 08 de julio 2019 al 14 de julio 2019. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: okVDisXxJrQ
+ video: zFSyceRuLU0
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-01'
+ lastmod: '2019-07-08'
 ---
 
 
 
-## Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-Llega una etapa buena capricornio, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no capricornio. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea…
-Tu sector de amistad se enciende esta semana cuando las fuerzas cósmicas te motivan para que evalúes tu situación y pienses cómo podrías mejorar tu vida social. Podrías tomarte tiempo para conectar con personas que hace mucho que no ves o para fortalecer un vínculo importante. Mientras tanto, puede que unirte a un grupo o a un club cambie tu perspectiva con respecto a la vida y allí puedas hacer actividades que realmente disfrutas. Una persona de otro país u otra cultura también podría llamar tu atención.
+Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
+Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
+Esta semana, podrías brindar o pedir consejos con respecto a una meta profesional o una ambición personal. El expresivo Mercurio ingresa a un sector más prominente de tu carta el martes, por lo que podría ser útil establecer contactos con las personas adecuadas. Si tienes la suficiente generosidad para compartir tus propias experiencias, podrías dar una buena impresión. 
+A mitad de semana, la luna nueva en tu sector de lejanos horizontes podría ser un momento crucial. Si has estado esperando tomarte unas vacaciones o un corto descanso, esta fase lunar puede animarte a comenzar con el proceso. También puede coincidir con el deseo de obtener un título o una certificación, o bien de comenzar un curso que te resulte útil en el futuro. También el miércoles, el encantador Venus ingresa a tu sector social, cuya alegre influencia podría convertirte en la estrella del show. Tu nivel de atracción estará al máximo y todos se darán cuenta de ello.
 
 ## Dinero
 
-Este período se trata de tus relaciones. Puede que un montón de gente nueva entre a tu vida, lo que podría ser ideal para socializar y conocer a otras personas en tu campo. Las relaciones viejas y rancias que parecen no traerte nada pueden estar desapareciendo, cambiando dramáticamente, o desapareciendo por completo. No te aferres a lo que ya no te sirve más.
+Tu saldo bancario crece cada vez más y más. ¡Es tiempo de celebrar! Eso sí, no dejes que tu típico exceso drene lo que has ganado con tanto esfuerzo. Mientras tanto, tu carrera está estallando de manera positiva para ti ahora,  y a medida que aumentan las responsabilidades, tu estado mejora y tu trabajo adquiere la forma de comunicación con la que sólo has soñado antes. Prepárate para la llegada, ya te encuentras cerca.

@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: aries 01 de julio 2019 al 07 de julio 2019 
-description: Horóscopo semanal aries 01 de julio 2019 al 07 de julio 2019. Mira aries, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+title: aries 08 de julio 2019 al 14 de julio 2019 
+description: Horóscopo semanal aries 08 de julio 2019 al 14 de julio 2019. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento aries. Hay personas a las que TÚ debes dar ese escarmiento.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: hA6X0h8W4m8
+ video: gkqLqf-Fu68
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-01'
+ lastmod: '2019-07-08'
 ---
 
 
 
-## Mira aries, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento aries. Hay personas a las que TÚ debes dar ese escarmiento.
 
-Hay cosas que no deben hacer daño aries, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo aries, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo aries, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa aries, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
-La idea de ir hacia adelante con algo muy importante para ti podría pasar a otro nivel esta semana. Cuando el dinámico Marte se alinea con el poderoso Plutón en los próximos días, y debido a que ambos conectan con el expansivo Júpiter, puede que tu cabeza se llene de pensamientos sobre cómo puedes beneficiarte y que esto intensifique tu deseo. Sin embargo, con tanto en juego, puede que lo mejor sea hacer tu investigación. Cuando el animado Júpiter está retrógrado, es el momento perfecto para hacer una evaluación y buscar los detalles. De hecho, este podría ser el paso más valioso de todos. 
- El encantador Venus ingresa a tu signo para brindarte el factor de atracción y mejorar tu capacidad de conectarte y hacer valiosas amistades. Por último, la luna llena del domingo podría tentarte a darte algunos gustos para tranquilizar cualquier inquieta emoción. Es posible que el ejercicio sea la mejor manera de canalizar esos sentimientos.   
+Cada día que pasa te das más cuenta de que mereces cosas buenas aries, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana aries.
+Con la Luna Llena en el sector de tu carta relacionado con los horizontes lejanos, podrías anhelar un escape del ajetreo y bullicio de la vida cotidiana. Esta puede ser una oportunidad para reservar un viaje y relajarte. La semana también podría traer noticias inusuales que coincidan con una oportunidad o tal vez un encuentro que no te harán ninguna gracia. Algo o alguien intrigante y refrescantemente distintos podrían ingresar a tu vida, lo que tiene que ser bueno.
 
 ## Dinero
 
-Como de costumbre, es posible que estés ocupado/a esta semana conforme las responsabilidades de otras personas son lanzadas en tu escritorio. En medio de la locura, ponte en contacto con tu cruda ambición. ¿Qué tan alto quieres subir en la escalera de la empresa? Si no tienes intención de quedarte ahí, es importante que sepas que tienes muchas y muy buenas ideas si es que quisieras abrir un nuevo negocio. Profesiones relacionadas con viajes, educación, edición, metafísica y ley son todas probables.
+Este período se trata de encontrar ese perfecto equilibrio entre trabajo y vida personal. El amor y la creatividad se unen a la acción para afectar tu empleo y asuntos de salud. Esto puede significar que por primera vez estás dando en el tino – ni te estás cansando demasiado ni tampoco vagando. Es probable que recibas elogios por el trabajo que has terminado y se te encarguen tareas aún más difíciles en el futuro.
