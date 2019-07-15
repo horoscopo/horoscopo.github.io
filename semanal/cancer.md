@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 08 de julio 2019 al 14 de julio 2019 
-description: Horóscopo semanal cancer 08 de julio 2019 al 14 de julio 2019. Fuera las preocupaciones. Tira del carro cancer, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+title: cancer 15 de julio 2019 al 21 de julio 2019 
+description: Horóscopo semanal cancer 15 de julio 2019 al 21 de julio 2019. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: msW-2PToAxY
+ video: W-InlBc8yGs
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-08'
+ lastmod: '2019-07-15'
 ---
 
 
 
-## Fuera las preocupaciones. Tira del carro cancer, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 
-Tienes que improvisar más cancer, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira cancer, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado cancer… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no cancer, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana cancer.
-El enfoque en tu sector financiero personal continúa. El Sol en esta parte te invita a hacer un análisis de tu situación para ver cómo puede éste mejorar. Mercurio continúa retrógrado hasta el 21 de $MES, así que ten cuidado con la compra de artículos caros. Si no tienes otra opción que comprar algo, guarda los recibos y el papeleo. La buena noticia es que Júpiter, el planeta de la expansión y la buena fortuna, entra a tu sector de comunicación, donde podría traerte espectaculares oportunidades durante el próximo año.
+Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa cancer, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
+Puede que este no sea el mejor momento para unirte a un club caro a pesar de que la Luna Nueva podría estarte insinuando invertir en tu vida social. Lo mejor sería investigar más sobre los precios antes de continuar. Además, este no es un buen momento para prestarles dinero a amigos. A partir del sábado, la entrada de Mercurio a tu sector financiero podría hacerte pensar en maneras de mejorar tu ingreso. Por último, ciertas amistades pueden tener planes de viaje que es posible que desees considerar.
 
 ## Dinero
 
-Es posible que tu trabajo cambie a lo largo de los próximos meses. La expansión de oportunidades indica un buen momento para cambiar de trabajo si has tenido esa intención, o hacer de tu trabajo existente uno más lucrativo. Puedes incluso tomar medidas para hacer que tu lugar de trabajo sea más favorable a tus necesidades mediante la negociación de horarios flexibles o beneficios adicionales. Hacer un plan concreto para pagar tu deuda aumenta tu tranquilidad.
+Este período se trata de las nuevas oportunidades que le llegan a tu vida laboral. El cielo es el límite en términos de lo que puedes esperar, pero el Universo no lo hará por ti. Debes estar a la búsqueda de maneras de aumentar tus ingresos, ya sea mediante la adición de un negocio secundario o aceptar trabajos independientes. Utiliza tu educación y tus viajes para salir con ideas para productos o servicios que vender.
