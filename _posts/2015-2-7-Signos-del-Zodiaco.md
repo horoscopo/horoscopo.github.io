@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de julio 2019
-description: Horóscopos del dia de hoy 17 de julio 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de julio 2019
+description: Horóscopos del dia de hoy 18 de julio 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-07-17
+ lastmod: 2019-07-18
 ---
-Prepárate para mostrar tu excepcional tacto cuando durante todo el día y toda la noche se te pida que recuerdes la sabiduría de decir las cosas en el más suave de los tonos. Con un tono diplomático y relajado, mientras mejor te lleves con los demás, más vas a lograr. Un poco de amor incondicional también funciona bien dentro de tus relaciones importantes.
+No tomar una decisión es una opción para no tomar ninguna acción. Hoy tienes que tomar una ya sea que quieras o no. Esta noche, el romanticismo está en el aire. Podría haber una reunión casual con alguien nuevo para aquellos solteros que se encuentren con una lista de espera de potenciales parejas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
