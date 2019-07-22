@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: acuario 15 de julio 2019 al 21 de julio 2019 
-description: Horóscopo semanal acuario 15 de julio 2019 al 21 de julio 2019. Esta semana vas a abrir los ojos acuario, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+title: acuario 22 de julio 2019 al 28 de julio 2019 
+description: Horóscopo semanal acuario 22 de julio 2019 al 28 de julio 2019. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: szPJltblcUE
+ video: OtenJtBwzeE
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-15'
+ lastmod: '2019-07-22'
 ---
 
 
 
-## Esta semana vas a abrir los ojos acuario, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 
-Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
-Puede que obtengas una oportunidad especial que podría deberse a tu actitud de cooperación. También existe la posibilidad de que haya un malentendido, así que asegúrate de tenerlo todo escrito en blanco y negro. Además, trata de mantener tus emociones alejadas de las decisiones que tomes, en particular con respecto a tu futuro, familiares y seres queridos. Si aquellos que te aman creen que te estás presionando demasiado, no te sorprendas si terminan diciéndotelo. Esta puede ser tu oportunidad para tranquilizarlos.
+Por fin has tomado decisiones, y además decisiones que te benefician, 
+por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
+Te sientes con energía para entrar en acción cuando el Sol entra a tu signo esta semana. Prepárate para modificar tus planes festivos, ya que todo podría cambiar a último momento. Sin embargo, el plan alternativo podría ser igual de divertido o incluso más. Los planes sociales te mantienen en constante movimiento entre invitados y eventos y también son una buena oportunidad para establecer contactos y conocer gente nueva. Con Mercurio retrógrado en tu signo, es prudente no apurarse a hacer nada hasta después del 8 de $MES.
 
 ## Dinero
 
-Esta semana estás lidiando con un tipo de energía preocupante. El Universo quiere que intercambies información con los que te rodean, en especial respecto a tu vida monetaria. De hecho, puede que estés tan ocupado/a con tus planes de aumentar tu conocimiento que no tienes tiempo para atender a las demandas de tu lugar de trabajo. Error en el campo de la comunicación. Tu ambición depende de tu capacidad de decirle claramente a los demás lo que necesitas y deseas.
+Tú necesitas sentir seguridad en todos los aspectos de tu vida, lo que por lo general requiere de dinero en efectivo. Ahora, tus relaciones se vuelven muy importantes cuando se trata de hacer más dinero. Si necesitas un nuevo puesto de trabajo o una recomendación, pídele el favor a la persona más poderosa que conozcas. El aspecto actual es favorable para que las cosas se resuelvan y para que logres la felicidad que anhelas.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 15 de julio 2019 al 21 de julio 2019 
-description: Horóscopo semanal libra 15 de julio 2019 al 21 de julio 2019. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+title: libra 22 de julio 2019 al 28 de julio 2019 
+description: Horóscopo semanal libra 22 de julio 2019 al 28 de julio 2019. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro libra.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: d46xef34s_U
+ video: k7W7_KtsL8Y
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-15'
+ lastmod: '2019-07-22'
 ---
 
 
 
-## Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro libra.
 
-La zona de confort es un sitio bonito libra, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más libra, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto libra, y tú mismo te lo notas, no la cagues por nada ni por nadie.
-A medida que el eléctrico Urano retrocede en tu sector doméstico, noticias o eventos inesperados podrían tenerte saltando de felicidad. Esta influencia continuará, de modo que podría coincidir con cambiantes situaciones relacionadas con la dinámica de la familia o, tal vez, una mudanza. Venus ingresa a tu sector de relaciones, y esta tranquilizante influencia puede ayudar a aliviar cualquier dificultad y facilitar que se llegue a un compromiso. Sin embargo, otra conexión más convincente podría hacer que tengas ganas de lograr una meta cuando un enfoque relajado podría funcionar mejor.
+Deja de esperar al futuro libra, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz libra, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio libra, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir libra, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor libra, sin remordimientos.
+El enfoque de esta semana está en tu sector espiritual, lo que tal vez traiga conocimientos y revelaciones. Podrías tener una fuerte conexión con las emociones que están debajo de la superficie. En caso de que necesites hablar sobre ellas, también podría ser más sencillo. De hecho, puede que sientas un gran alivio al expresarlas. El conversador Mercurio se vuelve retrógrado en este mismo sector el jueves, lo que podría facilitar que recuerdes tus sueños y aproveches cualquier impulso intuitivo.
 
 ## Dinero
 
-Esta semana tienes actividad en el sector de tu carta que rige tu hogar y sentimientos internos. El Universo quiere que avances para poder crear y conquistar. Pero también hay que tomarlo con calma y construir una base sólida antes de seguir adelante. Tus sentimientos pueden ser igualmente confusos. Mientras tanto, es hora de pagar tus deudas.
+El crecimiento y la suerte pueden ampliar tus posibilidades, así que asegúrate de mantenerte al tanto con tu programa de ejercicios. También se extenderá tu influencia en el mundo. Tienes el oído de tus superiores en el trabajo, así que asegúrate de programar reuniones regulares para mantenerte al tanto con ellos. Mientras tanto, tu vida social se acelera, por lo que es un buen momento para conocer gente nueva, conocer colegas y mejores mentores. Hay poder en tus relaciones.

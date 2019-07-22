@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: leo 15 de julio 2019 al 21 de julio 2019 
-description: Horóscopo semanal leo 15 de julio 2019 al 21 de julio 2019. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+title: leo 22 de julio 2019 al 28 de julio 2019 
+description: Horóscopo semanal leo 22 de julio 2019 al 28 de julio 2019. A veces sientes como si no avanzaras leo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: yMJj9cbxOT0
+ video: LbNY7cy6RVU
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-15'
+ lastmod: '2019-07-22'
 ---
 
 
 
-## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+## A veces sientes como si no avanzaras leo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 
-A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario Capri, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada.
-Cuando el animado Marte, tu planeta regente en cuanto a relaciones, se encuentra en tu sector de creatividad y romance, los próximos días y semanas pueden animarte a ser más firme. Puede ser uno de los mejores momentos para que los demás vean qué puedes hacer. No temas mostrar tus talentos o establecer nuevas conexiones. Una persona que conoces en nuevos ámbitos podría ser perfecta para ti. Solo necesitas la voluntad para salir de tu zona de confort. 
-La luna en cuarto creciente en tu signo el jueves te trae la oportunidad de reflexionar sobre una meta y considerar qué tan bien van las cosas. Puede que sea uno de los mejores momentos para hacer cualquier ajuste necesario antes de avanzar. Cuando el sol se traslada a Leo y a tu sector de amistad el domingo, tu vida social podría comenzar a brillar con oportunidades. Recaudar dinero para una organización de caridad también podría traerte mucha satisfacción.
+Tu cabeza quiere un cambio leo, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira leo, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero leo por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
+A pesar de que la semana pudiera parecer menos productiva de ciertas maneras, hay mucho sucediendo detrás de escenas que es muy importante. El actual enfoque en un sector más apartado de tu carta te invita a sumergirte de lleno y utilizar recursos ocultos que podrían inspirarte y motivarte. Una idea realmente podría emocionarte, y si ese es el caso, tal vez debas darle seguimiento. Cuida tus finanzas una vez que Urano se torne retrógrado a partir del viernes.
 
 ## Dinero
 
-Esta semana se trata de un aspecto tenso que afecta a tu sector de deuda o el dinero de otros. Es imperativo que adoptes una nueva forma de ver la deuda en tu vida. Si puedes, págala por completo o comienza a usar tu tarjeta con menos frecuencia.
+Para ti esta semana se trata de ser más responsable con el trabajo y el desarrollo de contactos con grupos sociales. A pesar de que puedas estar cansado/a, lo mejor es que después del trabajo digas que sí a esa bebidas o comidas sociales. Los chismes que oigas, no sólo pueden ser ociosos, sino también de inteligencia estratégica para tu plan de dominación mundial. No dejes que otros tomen todas las ventajas que podrían ser tuyas.

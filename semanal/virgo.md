@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 15 de julio 2019 al 21 de julio 2019 
-description: Horóscopo semanal virgo 15 de julio 2019 al 21 de julio 2019. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+title: virgo 22 de julio 2019 al 28 de julio 2019 
+description: Horóscopo semanal virgo 22 de julio 2019 al 28 de julio 2019. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: VNvisDz_CWI
+ video: Q9Ysl0T0gs8
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-15'
+ lastmod: '2019-07-22'
 ---
 
 
 
-## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
 
-Llevabas un ritmo un poco alocado virgo, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate virgo, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más virgo, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
-Si al parecer los negocios o las cuestiones financieras han estado estancados últimamente y tus esfuerzos no dieron frutos, no te desanimes. La causa podría ser que el valiente Marte todavía se encuentra en su fase retrógrada. Mejor dedica este tiempo a ajustar tus planes en lugar de mirar hacia adelante. Sin embargo, cuando el fogoso Marte forma un penetrante ángulo con el debilitante Urano, podrías perder la paciencia y sentir que debes apurar el paso. No lo hagas. Podrías terminar peor que antes o perder lo que has conseguido hasta el momento. 
-Tu posición podría ser aún más extraña con el inquisitivo Mercurio en su fase retrógrada en tu sector de finanzas personales. Evita cerrar tratos que involucren grandes cantidades de dinero hasta que las dos fases retrógradas hayan terminado cerca de fin de mes. Cuando el animado Júpiter ingresa a tu sector de romance, un encuentro podría ser especialmente prometedor. Esta persona podría animarte a poner en práctica tus diversos pasatiempos.
+virgo, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo virgo. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
+A principios de la semana, el llamado de la selva podría ser el motivo por el que sientas atracción a explorar nuevos territorios o tomar una clase. La Luna Llena se manifestará entonces , así que trata de evitar actuar bajo impulso. Lo mejor sería que pensaras bien tus acciones para que no tengas que lamentarlas más tarde. Disfrutarás de las alegres discusiones que posiblemente surgirán jueves y viernes, las cuales podrían conducir a una profunda comprensión de cierto tema emocional en curso. Escucha a tu intuición el domingo.
 
 ## Dinero
 
-Ciertos aspectos afectan tu sector de carrera y de autoridad, demostrando que lo que aportas a la mesa es un conocimiento profundo de tu trabajo, así como un comportamiento profesional. La actividad en el sector de tu carta que afecta a tu potencial de ingresos dice que está cambiando para bien. Con un poco de paciencia, puede ser todo lo que quieres que sea en el futuro.
+Te muerdes las uñas para empezar a trabajar en un nuevo proyecto creativo. Esto pasará, y tu mente será estimulada en todo tipo de interesantes direcciones. Esto también afectará a los niños, parejas románticas, miembros de familia y diversión. Gastar tu dinero en efectivo en estas áreas afirma tu lugar en el mundo y todos los beneficios de tu arduo trabajo.

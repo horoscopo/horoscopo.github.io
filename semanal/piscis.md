@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: piscis 15 de julio 2019 al 21 de julio 2019 
-description: Horóscopo semanal piscis 15 de julio 2019 al 21 de julio 2019. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+title: piscis 22 de julio 2019 al 28 de julio 2019 
+description: Horóscopo semanal piscis 22 de julio 2019 al 28 de julio 2019. Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte piscis, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: 6h2SJxtjCX8
+ video: TKi3vmGmElU
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-15'
+ lastmod: '2019-07-22'
 ---
 
 
 
-## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+## Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte piscis, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 
-Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí piscis, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
-Aunque las relaciones siguen siendo importantes, puede que estés buscando algo un poco más profundo a medida que avanza la semana. Una vez que Venus entre a un sector sensible e intenso de tu carta, la pasión puede ser una emoción que notes, así como también una toma de conciencia sobre cómo puedes sacarles el máximo provecho a los recursos compartidos. Estas difíciles cuestiones podrían requerir de un poco de pensamiento y planificación. Las citas románticas podrían ser muy especiales, sobre todo durante el fin de semana, así que no te las pierdas.
+Lo más complicado es siempre el principio, de todo, una vez que te has subido al “barco” no vuelvas a tirarte al agua, ¿me explico? 
+Y si aún tienes dudas sobre algo, tómate tu tiempo para decidir, a solas, sin que nadie pueda darle más vueltas a tu cabeza…
+La Luna Llena en tu sector de bienestar y estilo de vida podría ser la razón por la que te descarriles fuera de pista con respecto a tu dieta o rutina de ejercicios. Si es así, trata de evitar que te detenga por completo. Levántate y comienza de nuevo una vez que te encuentres más estable. Más adelante en la semana, es posible que una discusión te traiga la oportunidad de explorar nuevas ideas y negocios en los que desearás trabajar como parte de un equipo. Este domingo, tu lado soñador podría salir a jugar.
 
 ## Dinero
 
-Estás enfocado/a en tu carrera y la forma de acercarte a tus metas. Es posible que desees más seguridad en este momento de tu vida, y un salario con el que sabes que podrías vivir cómodamente. Aunque esto puede requerir que asumas una mayor responsabilidad o trabajar más horas, estás en buen camino hacia el logro de tus objetivos. Una luz brilla en tu sector deuda, págala mientras subes los escalones del éxito.
+Estás pensando en cómo hacer que tu lado masculino y femenino se encuentren ésta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas mantenerte a la misma altura de los grandes. No tienes que dejar que los demás te dominen verbalmente. Tu lugar de trabajo es el área en la que debes demostrar la creatividad con la que estás hecho/a.
