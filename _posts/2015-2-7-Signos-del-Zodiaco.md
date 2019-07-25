@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de julio 2019
-description: Horóscopos del dia de hoy 24 de julio 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de julio 2019
+description: Horóscopos del dia de hoy 25 de julio 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-07-24
+ lastmod: 2019-07-25
 ---
-Marte en Libra crea una nueva línea de tiempo con la que es prudente mantener el equilibrio y evitar dispersar tu atención en toda dirección. Es un buen tránsito para el trabajo en equipo que es entusiasta. Mercurio les da un ligero matiz a los acentos cuando los opuestos se atraen. Aquellos que conoces no son aburridos, ¡y tú tampoco lo eres!
+El Sol formando trígono con Plutón te abre una ventana de cuatro días de alternativas que no tenías antes. Solteros, esperen conocer a la gente sólo superficialmente bajo la Luna fuera de curso en Géminis de esta noche. Para las parejas, alguien puede darse cuenta de que ha estado diciendo demasiado y tratar de dar marcha atrás.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
