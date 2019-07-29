@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 22 de julio 2019 al 28 de julio 2019 
-description: Horóscopo semanal geminis 22 de julio 2019 al 28 de julio 2019. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya geminis. Muévete o haz que se mueva el resto.
+title: geminis 29 de julio 2019 al 04 de agosto 2019 
+description: Horóscopo semanal geminis 29 de julio 2019 al 04 de agosto 2019. El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: XgSCHIUqcmk
+ video: 3hdOyQe-45s
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-22'
+ lastmod: '2019-07-29'
 ---
 
 
 
-## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya geminis. Muévete o haz que se mueva el resto.
+## El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen.
-La organización de una fiesta sugiere que sería mejor que bajaras tu ritmo, ya que aún tienes que cumplir con todas tus responsabilidades. Además, el deseo de gastar en regalos navideños podría verte aprovechando al máximo gangas de última hora. Para el 25 de $MES ya te habrás preparado para quitar el pie del acelerador y dejarles algo del trabajo arduo a los demás. Además, con la Luna Llena manifestándose ese día, ciertamente sería prudente reducir tu horario y darte la oportunidad de recargar baterías. ¿Qué tal un masaje o algo relajante?
+A veces dejar ir las cosas es mucho más complicado de lo que piensas geminis. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad geminis, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres geminis. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero geminis, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. geminis, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
+Con un mayor enfoque en un sector más aislado de tu carta, has estado disfrutando de un respiro. Sentirás un renacer una vez que el Sol entre a Géminis el viernes. Ahora es el momento de canalizar tu energía en proyectos y planes que has estado incubando durante las últimas semanas. Y con tu regente Mercurio finalmente avanzando desde el domingo, tendrás menos propensión a retrasos y frustraciones inesperadas. Sin embargo, ten cuidado el sábado, ya que la Luna Llena podría alentarte a expresar sentimientos de una forma un poco demasiado honesta.
 
 ## Dinero
 
-Puede que en este momento estés pensando más sobre lo que puedes comprar en vez de como poder ahorrar. Eso es natural. Pero con la energía positiva concentrada en tu sector de dinero, lo mejor es pensar en poner al menos un poco de tu duramente ganado dinero en una cuenta de ahorros. Un factor aspectando tu zona de romance inarmónico afecta a los niños, la familia y la diversión y dice que es hora de frenar lo que se ha convertido en la norma financiera.
+Estás en medio de un replanteamiento serio cuando se trata de gastar. Puede que te estés preguntando cómo proteger a tu familia a largo plazo, lo que te podría llevar a considerar la contratación de un asesor financiero u otro experto. Otros miembros de tu tribu pueden tener ideas sorprendentemente buenas acerca de cómo ahorrar e invertir para un futuro compartido. Escucha.

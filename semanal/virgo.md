@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 22 de julio 2019 al 28 de julio 2019 
-description: Horóscopo semanal virgo 22 de julio 2019 al 28 de julio 2019. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: virgo 29 de julio 2019 al 04 de agosto 2019 
+description: Horóscopo semanal virgo 29 de julio 2019 al 04 de agosto 2019. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: Q9Ysl0T0gs8
+ video: cVf8TL9lY8s
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-22'
+ lastmod: '2019-07-29'
 ---
 
 
 
-## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 
-virgo, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo virgo. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
-A principios de la semana, el llamado de la selva podría ser el motivo por el que sientas atracción a explorar nuevos territorios o tomar una clase. La Luna Llena se manifestará entonces , así que trata de evitar actuar bajo impulso. Lo mejor sería que pensaras bien tus acciones para que no tengas que lamentarlas más tarde. Disfrutarás de las alegres discusiones que posiblemente surgirán jueves y viernes, las cuales podrían conducir a una profunda comprensión de cierto tema emocional en curso. Escucha a tu intuición el domingo.
+No te calientes virgo, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no virgo, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien virgo, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
+La Luna Nueva de hoy podría darte la oportunidad de explorar una idea para un negocio o un plan financiero, especialmente si esto sugiere un nuevo comienzo. Esto te vendría bien, ya que la idea de darle la vuelta a la hoja es algo que podría atraete mucho en este momento. Solo debes dar los primeros pasos pronto y poner el plan en marcha. En los últimos días de la semana, una idea que tiene un gran significado para ti podría convertirse en tu prioridad más importante de una manera impresionante.
 
 ## Dinero
 
-Te muerdes las uñas para empezar a trabajar en un nuevo proyecto creativo. Esto pasará, y tu mente será estimulada en todo tipo de interesantes direcciones. Esto también afectará a los niños, parejas románticas, miembros de familia y diversión. Gastar tu dinero en efectivo en estas áreas afirma tu lugar en el mundo y todos los beneficios de tu arduo trabajo.
+De verdad tienes ganas de hacer algo esta semana, podría ser de  viajar, aprender algo nuevo, hacer un amigo en el extranjero, o aprender a hablar un nuevo idioma. Cada uno de éstos tendría algún efecto en tu vida monetaria futura, así que lo mejor sería investigar cuál sería más interesante. De todos modos puede que no seas capaz de resistir tus ganas, así que estarías dispuesto/a a sacrificar algunas facetas de tu vida social para poder hacerlo.

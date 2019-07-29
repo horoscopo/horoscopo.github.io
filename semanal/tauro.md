@@ -1,28 +1,31 @@
 ---
 layout: horoscopos
-title: tauro 22 de julio 2019 al 28 de julio 2019 
-description: Horóscopo semanal tauro 22 de julio 2019 al 28 de julio 2019. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario tauro.
+title: tauro 29 de julio 2019 al 04 de agosto 2019 
+description: Horóscopo semanal tauro 29 de julio 2019 al 04 de agosto 2019. Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: Hm2VF_MB05U
+ video: jrl4f-F4dyA
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-22'
+ lastmod: '2019-07-29'
 ---
 
 
 
-## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario tauro.
+## Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 
-El mundo puede esperar Sagi, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate tauro, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
-Es posible que tu mente esté cautivada con todo tipo de aventuras y oportunidades. A pesar de ello, trata de no dejarte llevar demasiado por la emoción. Con Marte en Aries y en tu sector de viajes y exploración, puede que no sea fácil apegarte a un plan o idea debido a que el aburrimiento podría invadirte con bastante rapidez. Sin embargo, si vas a llegar a alguna parte en lo absoluto, tendrás que tomar una decisión y apegarte a ella. Tal vez no tendrás tanta tentación a abandonar el barco si involucras a otros en tus planes.
+Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás tauro. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta tauro, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea tauro, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones tauro, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas tauro, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
+La luna en cuarto creciente del lunes podría hacer que te cuestiones si debes comprometerte con un grupo o una membresía, o abandonarlos momentáneamente. Si son costosos, esta podría ser la señal que necesitas para abandonarlo. Pero es poco probable que quieras trabajar sin ayuda. Conectar con un equipo o un socio podría permitirte lograr mucho más.
+Debido a que el sol está recién llegado a tu sector social, que también está en línea con el fogoso Marte en tu sector de relaciones el miércoles, un encuentro podría resultar muy motivador. 
+El viernes, una encantadora alineación entre el jovial Júpiter en tu sector hogareño y el compasivo Neptuno en Piscis en un sector más intenso de tu carta podría encontrarte sumergiéndote en algunos secretos familiares. Sacarlos a la luz para analizarlos podría ser un proceso muy sanador. 
+La conexión entre el encantador Venus y el práctico Saturno del sábado podría animarte a pasar algo de tiempo por tu cuenta, en especial si debes reflexionar sobre algún tema.
 
 ## Dinero
 
-Esta semana se trata de tu dinero y tus valores. Algunos aspectos te traerán suerte y ampliarán tus oportunidades, mientras que otros lograrán un cambio repentino, a veces violento. Si has estado tratando de eliminar ciertas ideas anticuadas con respecto al dinero (o la cantidad que se te permite tener), este es el momento de dejarlas ir. Tu comunicación anda en alto y eso vale la pena.
+Estás pasando por una transformación enorme, especialmente en lo relativo a tu apariencia y comportamiento. Te estás convirtiendo en quién siempre estuviste destinado/a a ser. Mientras tanto, los aspectos agitan las cosas en lugares que hayan quedado obsoletos. Esto podría incluir tu hogar. El gastar un poco para arreglar tu casa, oficina o incluso iniciar un nuevo negocio hace maravillas para tu confianza. Prepárate para asumir el papel que te corresponde.
