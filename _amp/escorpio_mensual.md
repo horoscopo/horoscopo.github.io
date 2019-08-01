@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo escorpio julio 2019 
+title: Horoscopo escorpio agosto 2019 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
- video: 6b_on1_tvKM
+ video: Y6SN92i8Tv8
 
 ogimg: /images/escorpio_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-La Luna conjunta con Júpiter el 3 de julio, cuando puede que trates de hacerlo todo a la vez. Vuelve a considerar este plan un día más tarde, cuando Mercurio cuadre a Júpiter el 4 de julio. Por su parte, la Luna Nueva del 11 de julio te eleva para que tengas éxito en el trabajo y luego disfrutes de pasar tiempo con amigos. No tendrás que enfrentarte a obstáculos o a riñas. Haz lo que quieras, sonríe y sé tolerante. Puede que tu mente se centre en dinero alrededor de la Luna Llena del 25 de julio, pero para entonces, la temporada de fiestas ya habrá penetrado en tu corazón para permitirte pasártela magníficamente sin importar qué suceda. Comparte toda la bondad que se atraviese en tu camino, y aún más la buena suerte que siempre te sigue.
+Adopta una actitud más seria hacia tu vida el 3 de agosto, cuando Marte, tu planeta regente, entre al determinado Escorpión. Vierte tu corazón ya sea en tu trabajo o participación en la vida pública bajo la Luna Nueva del 9 de agosto. Formula tu estrategia completamente y apégate a ella, poco a poco, día con día. Tienes muchos aliados y simpatizantes. La Luna Llena del 23 de agosto podría animarte a salir en busca de un nuevo tipo de diversión, tal vez con un grupo de gente más grande. Quieres que se te note y hay gente por ahí en busca de alguien como tú. Sin embargo, no dejes que la idea de emoción de alguien más te desvíe de tu curso.

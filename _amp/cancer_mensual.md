@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo cancer julio 2019 
+title: Horoscopo cancer agosto 2019 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: IhpqOlcH5Dg
+ video: p6dyG_bQS88
 
 ogimg: /images/cancer_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-El Sol conjunta a Saturno el 10 de julio. Acepta la autoridad que tienes y compórtate justamente con la gente. Todo lo que digas y hagas será respetado. Los días alrededor de la Luna Llena del 13 de julio serán totalmente ocupados y es posible que te surja un sentimiento de olvido o abandono. Tal no es real. Alguien está notando lo importante que eres para todo lo que está sucediendo ahora. Simplemente no lo dice. Durante la Luna Nueva del 28 de julio, recibirás un cuidado mágico, tierno y amoroso por parte de amigos y familiares. Tal será intenso, estará enfocado en ti y será un tremendo apoyo. Se te ama y atesora mucho más de lo que te das cuenta. ¡Lleva ese sentimiento contigo hacia el nuevo año!
+Mientras más hagas por los demás alrededor de la Luna Llena del 3 de agosto, más ganarás posteriormente. Alguien podría acudir a ti en busca de ayuda o un gran favor. Si tienes el tiempo y los recursos requeridos, haz lo que puedas. Si tu respuesta es no, puedes decirla con compasión. La Luna Nueva del 17 de agosto aumenta tus ingresos y ganancias, pero también podría aumentar tu impulso a derrochar dinero. Dale a tus finanzas la atención que se merecen y podrás manejarlas muy bien. Sé excepcionalmente fuerte e inteligente el 27 de agosto. Espera que cualquier problema, por más difícil que sea, se resuelva durante este periodo de tiempo.

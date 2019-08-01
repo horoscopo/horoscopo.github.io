@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo aries julio 2019
-description: El Horóscopo julio de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo aries agosto 2019
+description: El Horóscopo agosto de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/aries/
 amplink: /horoscopo-mensual/amp/aries/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo aries julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo aries agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
- video: sxK7OW-TKKA
+ video: Ww1UgLhpFTw
 
 ogimg: /images/mes/aries_mes.png
 sitemap:
@@ -17,4 +17,4 @@ sitemap:
 ---
 
 
-Serás popular durante la Luna Llena y el Eclipse Lunar el 7 de julio. Ahora eres líder por naturaleza, así que ten cuidado con lo que sugieres o insinúas porque será aceptado instantáneamente, para bien o para mal. Relájate y disfruta de la atención, pero que no se vuelva una adicción, ¿de acuerdo? La Luna forma un trígono con Marte el 12 de julio, cuando Mercurio se torna retrógrado. Haz lo que resulte más fácil y trata de tener un mínimo nivel de exigencias. La Luna Nueva y el Eclipse Solar total del 21 de julio te dan más creatividad y energía que nunca. Enfoca tus esfuerzos en aquello que te permita beneficiarte tanto a ti como a otros. En un día como hoy podrías salvar el mundo. 
+Tu situación monetaria será positiva bajo la Luna Nueva del 2 de agosto. Una ingeniosa idea podría llegar a ser más inteligente y rentable de lo que inicialmente esperabas. Confía en tu propio juicio, pero no analices demasiado. Bajo la Luna Llena del 18 de agosto podrás terminar un sinfín de numerosos pequeños proyectos que han estado en pausa. La mayoría de ellos serán pequeñas divertidas tareas que te harán sonreír y sentir satisfacción. El 30 de agosto, Mercurio comienza su período retrógrado en Virgo. Relájate y no te estreses por nada. Eres el signo más organizado de todos. Si hay algo que acabas de terminar pero que te gustaría mejorar, este es el momento adecuado para ello.

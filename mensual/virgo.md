@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo virgo julio 2019
-description: El Horóscopo julio de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo virgo agosto 2019
+description: El Horóscopo agosto de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo virgo julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo virgo agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
- video: G8R81-thOFg
+ video: 2MCmFW_TCRA
 
 ogimg: /images/mes/virgo_mes.png
 sitemap:
@@ -17,4 +17,7 @@ sitemap:
 ---
 
 
-Una confusión o una complicación inesperada proveniente de alguien podrían serles rentable a ambos bajo la Luna Nueva del 4 de julio. Dinero, buenos consejos y apoyo social son abundantes para ti ahora. Todo estará bajo control en el periodo de Luna Llena del 19 de julio, aunque podían surgir algunos asuntos pendientes que pensabas que ya se había resuelto y habían sido dejados en el pasado. Son, sobre todo, los molestos problemas de otras personas los que están atrayendo tu atención. Respira profundamente y no le des más vueltas al asunto. Si hay algo que requiera de arreglo, hazle frente después de la mañana del sábado 30 de julio; una vez que Mercurio haya ingresado a Virgo.      
+Haz una nueva amistad durante la luna nueva del 15 de agosto, o haz una conexión más fuerte con alguien que nunca llamó mucho tu atención. Tu círculo de amistades y gente del vecindario cada vez se hace más grande. El sol forma una conjunción con Urano el día 18. ¡Es momento de ser una persona ingeniosa y atrevida! Ponte en el centro de atención en el trabajo o en la vida pública durante la luna llena del 29 de agosto. Ten ambición y suerte, pero no te comportes demasiado audaz. Esto podría tener muchas buenas reacciones en cadena durante las próximas semanas. Si has deseado desempeñar un papel más importante en un grupo social o laboral, podría empezar ahora. 
+
+Días destacados: 2, 7, 29
+Días desafiantes: 22, 26

@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo leo julio 2019 
+title: Horoscopo leo agosto 2019 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
- video: 1LFaUP2hPAs
+ video: _9WQWC1e2nY
 
 ogimg: /images/leo_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-¿Hay un objeto o un lugar que te está atrayendo a medida que se acerca la Luna Llena del 12 de julio? Es probable que te dispongas a dejar tu zona de confort para darte esa satisfacción. Está en tus manos decidir si vale la pena. Es posible que sí. El amor se tornará serio e intenso el 21 de julio cuando la Luna forme un trígono con Marte en Escorpión. El amor raramente se vuelve simple o profundo como en este caso. Sincérate. La Luna Nueva del 27 de julio presiona el botón de reiniciar en tu vida y entorno hogareños. Aprovecha al máximo este próximo mes lunar para convertir tu hogar en el lugar que deseas. Una amistad podría darte algunas opiniones útiles.
+La Luna Llena del 9 de agosto te relaja para ser y hacer lo que sea más satisfactorio. Prepárate para los admiradores o celosos observadores que te complicarán la vida. Aun así, será divertido. Además, Júpiter se vuelve directo en Libra ese día. Siente la fuerza y valentía de ser quien eres. Esto también puede atraer a nuevas parejas. La Luna Nueva del 23 de agosto te da el poder de abrirte paso a través de la niebla más densa y resolver la situación o el problema más complicado. Tendrás cuidado y, al mismo tiempo, serás valiente acerca de tomar una decisión o hacer un cambio dramático. Confía en tu juicio y no dudes ante cualquier oposición.

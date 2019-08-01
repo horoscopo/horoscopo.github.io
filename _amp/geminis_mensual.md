@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo geminis julio 2019 
+title: Horoscopo geminis agosto 2019 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
- video: 6qB_CHENZhc
+ video: 5dmjitQgkX8
 
 ogimg: /images/geminis_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-La Luna Nueva del 8 de julio ilumina tu hogar y vida familiar. No tengas miedo de aferrarte a algunos sueños de tu infancia. Te percatarás de cuáles son los que te están frenando y cuáles son los que alimentan tu alma y te ayudan a avanzar. La pasión rige con la llegada de la Luna Llena del 22 de julio. ¿Qué tienes disposición a arriesgar con el fin de hacer o poseer algo importante? Puedes calcular el riesgo y luego decidir no ser imprudente. Por último, la conjunción Luna/Marte en Escorpión del 29 de julio podría encender tu mal humor, pero también motivarte a trabajar en planes personales para el mes venidero.
+El 5 de agosto, Mercurio se vuelve directo. La vida debería ser más simple y las presiones percibidas deberían empezar a desaparecer. El 6 de agosto, la luna llena te recuerda todo el poderoso amor que hay en tu vida, pero puede que tengas otros asuntos emocionales que te nublen la vista. No critiques de más, porque así desalentarás al verdadero amor. Puede que la luna nueva del 19 de agosto traiga consigo días más ocupados pero que sean menos productivos de lo que esperas. No te preocupes. Tómate tu tiempo y evita hacer las cosas más de una vez. De todos modos, a ti te gusta hacer las cosas bien. El sol sale de Virgo y entra a Libra el 22 de agosto. Anímate y sal a divertirte. 
