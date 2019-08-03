@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 02 de agosto 2019
-description: Horóscopos del dia de hoy 02 de agosto 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 03 de agosto 2019
+description: Horóscopos del dia de hoy 03 de agosto 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-08-02
+ lastmod: 2019-08-03
 ---
-Se te empuja en la dirección correcta cuando el Universo te insinúa la elección del camino que debes tomar. No programes tu vida en torno a los planes de otra persona. En vez, has tus propios planes. Expresar los sentimientos que hay en tu corazón es el tema de esta noche cuando la Luna cuadra a Plutón, el revelador de las pasiones más fuertes.
+Agradar a la gente y las charlas casuales gobiernan el día de hoy bajo la Luna en Libra. Incluso las discusiones se hacen en términos amistosos. Si sientes que la gente se comporta un poco vaga e indecisamente, tienes razón. Esta noche, con Venus a punto de salir de Virgo, sientes que te has preparado para cualquier eventualidad, pero no hay ninguna; a menos que tengas un sentimiento de vacío. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
