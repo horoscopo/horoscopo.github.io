@@ -1,31 +1,30 @@
 ---
 layout: horoscopos
-title: tauro 29 de julio 2019 al 04 de agosto 2019 
-description: Horóscopo semanal tauro 29 de julio 2019 al 04 de agosto 2019. Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
+title: tauro 05 de agosto 2019 al 11 de agosto 2019 
+description: Horóscopo semanal tauro 05 de agosto 2019 al 11 de agosto 2019. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado tauro, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: jrl4f-F4dyA
+ video: z3Dfy1xjSBo
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-29'
+ lastmod: '2019-08-05'
 ---
 
 
 
-## Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
+## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado tauro, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 
-Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás tauro. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta tauro, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea tauro, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones tauro, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas tauro, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
-La luna en cuarto creciente del lunes podría hacer que te cuestiones si debes comprometerte con un grupo o una membresía, o abandonarlos momentáneamente. Si son costosos, esta podría ser la señal que necesitas para abandonarlo. Pero es poco probable que quieras trabajar sin ayuda. Conectar con un equipo o un socio podría permitirte lograr mucho más.
-Debido a que el sol está recién llegado a tu sector social, que también está en línea con el fogoso Marte en tu sector de relaciones el miércoles, un encuentro podría resultar muy motivador. 
-El viernes, una encantadora alineación entre el jovial Júpiter en tu sector hogareño y el compasivo Neptuno en Piscis en un sector más intenso de tu carta podría encontrarte sumergiéndote en algunos secretos familiares. Sacarlos a la luz para analizarlos podría ser un proceso muy sanador. 
-La conexión entre el encantador Venus y el práctico Saturno del sábado podría animarte a pasar algo de tiempo por tu cuenta, en especial si debes reflexionar sobre algún tema.
+Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
+Cuando te sientas mal, tira de memoria tauro y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
+Tal vez sientas algo de inquietud sin saber bien el motivo. Cuando el eléctrico Urano ingresa a un sector más alejado, las energías del subconsciente podrían animarte a tomar un nuevo camino. Si bien una parte de ti quiere lanzarse a la aventura, tu otro costado podría resistirse a las nuevas experiencias. Aguarda a que llegue el momento justo. No hay prisa. Cultivar una actitud de calma puede serte útil. Actividades como la jardinería o caminar sin calzado en la naturaleza puede ayudarte a conectar estas potentes fuerzas con la tierra. 
+Dado que Mercurio, tu planeta regente, está en su fase retrógrada en tu sector de comunicación, este puede ser un buen momento para ordenar tus papeles y cualquier desorden que pueda obstaculizar tu casa u oficina. Te sentirás mucho mejor si lo haces. Por último, la luna en cuarto menguante del 4 de $MES podría inspirarte a escuchar tus instintos en lo que respecta a un importante asunto. 
 
 ## Dinero
 
-Estás pasando por una transformación enorme, especialmente en lo relativo a tu apariencia y comportamiento. Te estás convirtiendo en quién siempre estuviste destinado/a a ser. Mientras tanto, los aspectos agitan las cosas en lugares que hayan quedado obsoletos. Esto podría incluir tu hogar. El gastar un poco para arreglar tu casa, oficina o incluso iniciar un nuevo negocio hace maravillas para tu confianza. Prepárate para asumir el papel que te corresponde.
+Estás buscando la manera de correr la voz acerca de tus maravillosos productos y servicios, pero la publicidad es demasiado cara. Las redes sociales pueden ayudar. El Universo le ofrece soluciones creativas a la cuestión expuesta y te da todo lo que necesitas para darte a conocer al mundo. A partir de ahí, es un corto viaje a la riqueza.

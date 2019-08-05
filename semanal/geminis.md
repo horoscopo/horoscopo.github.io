@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 29 de julio 2019 al 04 de agosto 2019 
-description: Horóscopo semanal geminis 29 de julio 2019 al 04 de agosto 2019. El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: geminis 05 de agosto 2019 al 11 de agosto 2019 
+description: Horóscopo semanal geminis 05 de agosto 2019 al 11 de agosto 2019. Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: 3hdOyQe-45s
+ video: fYsglrFqvo8
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-29'
+ lastmod: '2019-08-05'
 ---
 
 
 
-## El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 
-A veces dejar ir las cosas es mucho más complicado de lo que piensas geminis. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad geminis, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres geminis. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero geminis, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. geminis, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
-Con un mayor enfoque en un sector más aislado de tu carta, has estado disfrutando de un respiro. Sentirás un renacer una vez que el Sol entre a Géminis el viernes. Ahora es el momento de canalizar tu energía en proyectos y planes que has estado incubando durante las últimas semanas. Y con tu regente Mercurio finalmente avanzando desde el domingo, tendrás menos propensión a retrasos y frustraciones inesperadas. Sin embargo, ten cuidado el sábado, ya que la Luna Llena podría alentarte a expresar sentimientos de una forma un poco demasiado honesta.
+A veces, no es fácil vivir la vida geminis, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera geminis. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
+Todo lo que conoces y entiendes de tu vida interna y de tus pensamientos y sentimientos puede influir directamente en tus finanzas. Mientras más confianza sientas, más confianza tendrás en tu capacidad de aumentar tus ingresos y sentir seguridad. La presencia del expansivo Júpiter en tu sector espiritual sugiere que contratar los servicios de un consejero de vida u otro profesional podría ser útil, ya que podría ayudarte a superar los límites que sientes y a sentir más plenitud.
 
 ## Dinero
 
-Estás en medio de un replanteamiento serio cuando se trata de gastar. Puede que te estés preguntando cómo proteger a tu familia a largo plazo, lo que te podría llevar a considerar la contratación de un asesor financiero u otro experto. Otros miembros de tu tribu pueden tener ideas sorprendentemente buenas acerca de cómo ahorrar e invertir para un futuro compartido. Escucha.
+Esta semana, tu sector de carrera se ve afectado. El Universo te está empujando a tomar algunas decisiones que has estado posponiendo por un tiempo. Si has querido cambiar de carrera o hacer investigación adicional, es el momento de echarlo a andar. Este aspecto tiene tenencia a empujarte a hacer lo que es correcto.

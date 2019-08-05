@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 29 de julio 2019 al 04 de agosto 2019 
-description: Horóscopo semanal cancer 29 de julio 2019 al 04 de agosto 2019. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
+title: cancer 05 de agosto 2019 al 11 de agosto 2019 
+description: Horóscopo semanal cancer 05 de agosto 2019 al 11 de agosto 2019. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: xAbqAZyHa2o
+ video: NSrSuEQuf7g
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-29'
+ lastmod: '2019-08-05'
 ---
 
 
 
-## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio cancer, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
-Te estarás moviendo a toda máquina para lograr el progreso que deseas en objetivos profesionales y ambiciones personales. Tendrás la energía extra necesaria para obtener los resultados que buscas. Con Júpiter entrando a Virgo, obtendrás ayuda por parte de contactos y círculos sociales que podrían ponerte firmemente en camino hacia el éxito. No es sólo lo que conoces sino a quién conoces lo que cuenta para el futuro previsible. Tu vida romántica también recibe un impulso, al igual que tus amistades y relaciones bien establecidas.
+Fíate de ti mismo cancer, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando cancer y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
+Tu deseo de pasarla bien podría aumentar, lo que podría mantener tu tiempo mucho más ocupado. Si puedes pensar en una estrategia que te ayude tanto a trabajar como a disfrutar de la vida, quizás consigas hacer incluso más cosas. La oportunidad de cerrar un trato lucrativo puede ser demasiado buena como para desperdiciarla, incluso si es una oferta informal. A pesar de todo el esfuerzo, no descuides la posibilidad de pasarla bien. De hecho, dale prioridad a esto y te sentirás una persona más rejuvenecida y optimista en general.
 
 ## Dinero
 
-Gracias a los aspectos armoniosos, sientes especialmente apoyo por parte del Universo. Toda esa energía que golpea ahora tu sector de niños, familia, romance y diversión, le hace un excelente momento para sentarte con tu pareja y planear un futuro compartido. Desde los ahorros que han hecho desde la universidad hasta cuentas de ahorro para la jubilación, cada quién tendrá una idea diferente sobre cómo proceder. Pero hay tanta creatividad y buena voluntad que será difícil tener malas discusiones.
+Estás a punto de hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Cierta energía sensible y madura entra a tu sector del trabajo. Cuanto más puedas aprender a aceptar la responsabilidad y demostrar que otros pueden contar contigo, más recompensas financieras encontrarás. No te alejes de lo que potencialmente podría avanzar para ti.

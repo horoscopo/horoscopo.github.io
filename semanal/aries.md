@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: aries 29 de julio 2019 al 04 de agosto 2019 
-description: Horóscopo semanal aries 29 de julio 2019 al 04 de agosto 2019. Da la bienvenida a tu nueva vida aries, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+title: aries 05 de agosto 2019 al 11 de agosto 2019 
+description: Horóscopo semanal aries 05 de agosto 2019 al 11 de agosto 2019. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: 85Q4J6jUI1E
+ video: Dh5JFv_1QCk
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-29'
+ lastmod: '2019-08-05'
 ---
 
 
 
-## Da la bienvenida a tu nueva vida aries, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-Ojalá pudiéramos tener un botón de reinicio en la vida aries, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
-Si has tenido un desacuerdo con alguien o necesitas renegociar un acuerdo, la mezcla de energías de esta semana puede ayudar a hacer precisamente eso. Ya seas tú o alguien más quien dé el primer paso, la disposición a escuchar y encontrar un compromiso que funcione para todos puede ponerlo todo de vuelta a la normalidad. Con el suertudo Júpiter avanzando en tu sector de amistad y sueños, es posible que ganes terreno al unirte a grupos que compartan tus intereses. ¡Reiniciar una vieja membresía también podría probar ser productivo!
+Crees que puedes con todo aries. 
+ Es tan complicado…
+Tus relaciones podrían ser un tanto tensas al principio de la semana, lo que podría poner un poco de distancia entre tú y cierta persona. Puede que te sientas mejor acerca de cierta situación si es que tienen una charla de corazón a corazón. Mercurio entrando a Cáncer a mitad de semana podría ser buen momento para aclarar la situación, aunque puede que requiera algo de coraje hacerlo. En cuanto a finanzas compartidas se refiere, oportunidades para excelentes ofertas comerciales podrían surgir, así como el potencial de ganar dinero extra.
 
 ## Dinero
 
-Puede que tus alas sean recortadas en cuanto a progreso profesional se refiere. Si tu comportamiento no ha sido el apropiado con tus compañeros de trabajo o clientes recientemente, es posible que encuentres una desagradable sorpresa en tu bandeja de entrada. Es karma. Si tienes que pedir disculpas, hazlo y regresa a una relación productiva. El efectivo sigue a tu voluntad de ser un jugador de equipo.
+Para ti, esta semana se trata de tus relaciones. Tu vida personal y tus contactos profesionales serán muy importantes ahora. Si tienes una comida o cena de negocios, paga por una o ambas de las cuentas si piensas que es necesario. Reunirse con amigos poderosos generalmente tiende a valer la pena al final.

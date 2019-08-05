@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 29 de julio 2019 al 04 de agosto 2019 
-description: Horóscopo semanal escorpio 29 de julio 2019 al 04 de agosto 2019. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+title: escorpio 05 de agosto 2019 al 11 de agosto 2019 
+description: Horóscopo semanal escorpio 05 de agosto 2019 al 11 de agosto 2019. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: 5apUeiGRKHQ
+ video: -SYd0pkBy90
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-29'
+ lastmod: '2019-08-05'
 ---
 
 
 
-## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-Sólo hace falta que tu mente haga click escorpio, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
-El enfoque en tu sector psicológico se intensifica esta semana y puede también ser una razón más por la que tengas ansias por hacer cambios. Sin embargo, puede que esto no implique hacer más, sino más bien dejar de lado actividades que ya no te sirven, lo que pudiera dar lugar a hacer mucho menos. Esta es también una oportunidad para pensar acerca de tu propósito de vida y lo lejos que has llegado en relación a él. Si no tienes seguridad de lo que es, aprovecha esta oportunidad para reflexionar sobre el tema.
+Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
+Cualquier nueva información que hayas descubierto puede servirte de inspiración para el futuro y podría encontrarte imaginando todo tipo de posibilidades. Este puede ser un excelente momento para expandir tus horizontes, ya sea mediante el estudio o estableciendo de nuevos contactos y haciendo amistades con aquellas personas que estén en tu misma onda. Tus instintos también pueden tener un rol importante en cualquier decisión clave y no debes ignorarlos, en especial con el positivo vínculo entre Mercurio y Júpiter, el cuál es indicio de una oportunidad de oro si te mantienes alerta y te preparas.
 
 ## Dinero
 
-Estás experimentando un impulso de energía en tus finanzas. Tienes mucha creatividad en cuanto a la creación de ideas nuevas de cómo traer dinero a tu vida. Es posible que tengas nuevos conceptos para un segundo negocio o simplemente ideas innovadoras y de bajo costo para promover un negocio que ya tengas. Los planetas apoyan estos esfuerzos en una gran forma. ¡Estás en la cima del mundo!
+El Universo te apoya ahora, lo que indica un momento de renovada atención hacia el romance, los niños y la familia. Si trabajas en una de estas áreas, el dinero viene casi sin esfuerzo. Si tienes una idea para un producto o servicio que se enfoque en estos grupos demográficos, es un momento ideal para lanzar esto al mercado. Algo escrito o hablado puede ser el medio. Agarra pluma y papel y deja que la inspiración tome vuelo.

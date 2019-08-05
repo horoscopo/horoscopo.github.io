@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 29 de julio 2019 al 04 de agosto 2019 
-description: Horóscopo semanal piscis 29 de julio 2019 al 04 de agosto 2019. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+title: piscis 05 de agosto 2019 al 11 de agosto 2019 
+description: Horóscopo semanal piscis 05 de agosto 2019 al 11 de agosto 2019. Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: 25nUxSBkuLE
+ video: alrATyw2_60
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-07-29'
+ lastmod: '2019-08-05'
 ---
 
 
 
-## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+## Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 
-Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capri, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
-Sientes que ya puedes explorar los últimos avances tecnológicos, ya sea actualizando tus dispositivos actuales o tomando una clase. Durante esta semana y las siguientes, encuentras nuevas oportunidades para hacer amigos y encarar proyectos creativos en las redes sociales y en Internet. En cuanto a las finanzas, reconoces la necesidad de invertir de manera inteligente y aprovechar al máximo tu dinero. Y en cuanto al plano afectivo, invertir en tus relaciones también puede ser satisfactorio.
+No es que no te estés esforzando por conseguir tus propósitos, no es eso, es que, a menudo, por mucho que te esfuerces, si te rodeas de personas que te acaban chupando toda esa energía es como si nada valiera la pena, porque por un paso que das al frente, retrocedes dos por culpa de otros.
+El desarrollo del enlace entre Júpiter y Plutón puede ser alentador para reconocer el interés en una idea o una oportunidad que podría ser muy buena para ti. Sin embargo, esto no es algo que deba ser apresurado. Tendrás que hacer el trabajo preliminar con el fin de sacarle el máximo provecho. Empieza ahora y estarás en la posición perfecta para seguir avanzando dentro de un par de semanas. Además, es posible que sientas motivación a invertir dinero en el sector inmobiliario con la esperanza de obtener una buena ganancia más adelante.
 
 ## Dinero
 
-Este período es de los aspectos que afectan a las vidas pasadas, karma y las instituciones. De repente puedes ser presa de un deseo de cambiar de trabajo, iniciar una obra de caridad, o desarrollar un nuevo negocio. Hacer una investigación cuando puedas y luego crear un plan de negocios que se ve por lo menos cinco años en el futuro. Es posible hacer que funcione.
+Este periodo es acerca de los aspectos armoniosos trayéndole amor a tu vida hogareña y permitiendo que los sentimientos y recuerdos cálidos emerjan. Al mismo tiempo, se te recomienda abrirte a ellos y tal vez incluso utilizarlos en tu trabajo. Deja que tu imaginación vuele y puede que te percates de que tienes grandes ideas para generar más dinero.
