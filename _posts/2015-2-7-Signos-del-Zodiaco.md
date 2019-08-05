@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 04 de agosto 2019
-description: Horóscopos del dia de hoy 04 de agosto 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 05 de agosto 2019
+description: Horóscopos del dia de hoy 05 de agosto 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-08-04
+ lastmod: 2019-08-05
 ---
-¡No tengas timidez! Explora, diviértete, crea y exprésate mientras Marte transite en Leo. Esta noche, las personas se enfrentan las unas a las otras y se cuentan secretos cuando la Luna en Géminis aspecta a Plutón. Las cosas se pondrán muy interesantes si conoces a alguien que no cree en decir más de lo necesario.
+El mundo de los negocios nos enseña que las emociones se deben de dejar en casa - una tarea que se hace más fácil cuando la Luna forma sextil con Saturno el día de hoy.  Esta noche, los solteros podrían caer en un ligero enamoramiento que dure un solo minuto mientras Venus conjunta a Plutón bajo la Luna saliéndose de su curso. Por lo menos no va a alterar la dinámica de la vida para siempre, ¿cierto?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
