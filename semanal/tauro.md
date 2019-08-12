@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 05 de agosto 2019 al 11 de agosto 2019 
-description: Horóscopo semanal tauro 05 de agosto 2019 al 11 de agosto 2019. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado tauro, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+title: tauro 12 de agosto 2019 al 18 de agosto 2019 
+description: Horóscopo semanal tauro 12 de agosto 2019 al 18 de agosto 2019. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho tauro. Más que nunca…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: z3Dfy1xjSBo
+ video: R34Vtw1ojh0
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-05'
+ lastmod: '2019-08-12'
 ---
 
 
 
-## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado tauro, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho tauro. Más que nunca…
 
-Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
-Cuando te sientas mal, tira de memoria tauro y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
-Tal vez sientas algo de inquietud sin saber bien el motivo. Cuando el eléctrico Urano ingresa a un sector más alejado, las energías del subconsciente podrían animarte a tomar un nuevo camino. Si bien una parte de ti quiere lanzarse a la aventura, tu otro costado podría resistirse a las nuevas experiencias. Aguarda a que llegue el momento justo. No hay prisa. Cultivar una actitud de calma puede serte útil. Actividades como la jardinería o caminar sin calzado en la naturaleza puede ayudarte a conectar estas potentes fuerzas con la tierra. 
-Dado que Mercurio, tu planeta regente, está en su fase retrógrada en tu sector de comunicación, este puede ser un buen momento para ordenar tus papeles y cualquier desorden que pueda obstaculizar tu casa u oficina. Te sentirás mucho mejor si lo haces. Por último, la luna en cuarto menguante del 4 de $MES podría inspirarte a escuchar tus instintos en lo que respecta a un importante asunto. 
+Deberían valorarte más tauro, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para tauro, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
+Puede que te des cuenta de que eres el centro de atención, por lo que te vendría bien demostrar lo que sabes hacer y que la gente piense lo mejor de ti. Sin embargo, con el eclipse lunar en tu sector de metas y ambiciones, puede que sea más fácil decirlo que hacerlo. Es posible que una oportunidad que dabas por segura no prospere. Si la manejas con calma, las demás personas aprenderán de tu experiencia. No pierdas la calma ni la confianza. Hay cosas mejores en camino.
 
 ## Dinero
 
-Estás buscando la manera de correr la voz acerca de tus maravillosos productos y servicios, pero la publicidad es demasiado cara. Las redes sociales pueden ayudar. El Universo le ofrece soluciones creativas a la cuestión expuesta y te da todo lo que necesitas para darte a conocer al mundo. A partir de ahí, es un corto viaje a la riqueza.
+Puede que por lo general no se te conozca por tu astucia en el dinero, ya que a menudo es sólo un medio para sentirte libre de restricciones. Pero ahora te conectas a tus redes sociales de una manera poderosa y haces que funcionen para ti. Si buscas una nueva posición o un mejor trabajo con buenos beneficios, serás capaz de conectar con nuevos empleadores. Un socio podría necesitar un poco de ayuda extra con un pequeño negocio. A partir de ahí, sólo tienes que demostrar tu valor.

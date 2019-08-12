@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 05 de agosto 2019 al 11 de agosto 2019 
-description: Horóscopo semanal libra 05 de agosto 2019 al 11 de agosto 2019. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
+title: libra 12 de agosto 2019 al 18 de agosto 2019 
+description: Horóscopo semanal libra 12 de agosto 2019 al 18 de agosto 2019. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate libra, que no te entre la locura.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: DbHtHkb9I64
+ video: ltk2XY0yysk
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-05'
+ lastmod: '2019-08-12'
 ---
 
 
 
-## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
+## “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate libra, que no te entre la locura.
 
-La meta es dura libra, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay libra que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normalmente, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Sagi. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Sagi… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
-Ciertos asuntos de negocios y finanzas compartidas podrían ser agitados conforme Marte entra a tu sector de activos y recursos. Si algunos de ellos han avanzado demasiado lento últimamente, es posible que tu interés sea despertado debido a varias ofertas u oportunidades. Con Plutón avanzando en esta misma zona, cambios positivos pronto podrían surgir. También hay positivas influencias en tu sector de ocio y creatividad. La Luna Nueva del viernes podría ser el momento adecuado para empezar a mostrar tus habilidades.
+Sólo tú puedes salvar tu vida libra. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú libra. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+Podrías recibir un mensaje de un amante del pasado o de una de tus amistades de la universidad invitándote a volver a estar en contacto. No rechaces esta invitación, ya que podría salir mejor de lo que crees. La oportunidad de ponerte al día y, tal vez, de renovar la relación es una posibilidad real. Por otro lado, ten cuidado de no enviar señales confusas, porque una persona podría pensar que sientes algo por ella cuando en realidad solo intentas no ser descortés. A partir del viernes, tu hogar puede ser un refugio de paz y cuidado.
 
 ## Dinero
 
-Para ti, esta semana va a traer un montón de responsabilidades para tu vida laboral, y un montón de recompensas también. Busca oportunidades que impliquen compartir tu creatividad. Las recompensas financieras vienen cuando te atreves a tomarlas y demuestras que eres todo lo que ellos esperaban y más. No tomes las críticas personalmente. Cada desafío a superar los cambios te ayuda a la larga.
+Es una semana llena de retos para ti. Tus sueños pueden ser algo más que una fuente de inspiración. Sus imágenes e ideas te ayudarán a determinar el negocio que sería bueno y la forma de avanzar en esa área. También es necesario reforzar tus ahorros. El cambio se aproxima y querrás prepararte para ello.

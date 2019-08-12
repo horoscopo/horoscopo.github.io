@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 05 de agosto 2019 al 11 de agosto 2019 
-description: Horóscopo semanal virgo 05 de agosto 2019 al 11 de agosto 2019. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+title: virgo 12 de agosto 2019 al 18 de agosto 2019 
+description: Horóscopo semanal virgo 12 de agosto 2019 al 18 de agosto 2019. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: MnFR6S-2d40
+ video: aac-AIdRav8
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-05'
+ lastmod: '2019-08-12'
 ---
 
 
 
-## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 
-Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo virgo. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que virgo estalla, nadie se salva.
-El sol y el conversador Mercurio se alinean en tu sector espiritual, por lo que tal vez descubras que estás muy en sintonía con tus sentimientos y lo que te dice tu corazón. Pero durante los próximos días, podrías experimentar un conflicto de creencias cuando ambos planetas forman una conexión con el escurridizo Neptuno. 
-Tal vez tu idea de lo que necesitas choca con lo que piensa alguien más. Y es posible que la otra persona trate de hacerte sentir culpable por no hacer lo que ella quiere. De ser así, tendrás que apartarte y ponerte firme con los límites. Una amistad fundada en energías tan debilitantes terminará por agotarte. El amoroso Venus se opone al potente Marte en tu sector de relaciones. Puede que esta misma persona quiera tomar el mando de la situación. No dejar que lo haga podría ser beneficioso para ti. 
+Tienes que enderezar un poco tu vida virgo, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
+A medida que el atractivo Venus se dirige al animado Júpiter en tu sector de relaciones el lunes, podrías tener éxito al impresionar a alguien con tus habilidades culinarias y de entretenimiento. Como resultado de esto, esta persona podría convertirse en una amistad para toda la vida. 
+La noticia más importante esta semana es que el dinámico Marte se vuelve retrógrado en tu sector de carrera y ambición el martes, lo que podría provocar demoras a tus planes mejor trazados. El animado Marte estará retrógrado hasta el 27 de $MES, por lo que sería útil esperar respecto de ciertos planes. El motivo es que, mientras tanto, podrías cambiar de opinión o incluso perder el entusiasmo por el proyecto. El miércoles, la luna llena en Capricornio y en tu sector de lejanos horizontes conecta con el prudente Saturno, lo que puede encontrarte organizando un viaje. Si bien podría ser una buena oportunidad para una escapada, puede que tengas otro motivo más profundo para querer viajar. Por último, el ingreso del animado Mercurio a Leo podría encontrarte organizando tu casa.
 
 ## Dinero
 
-Te encuentras en una situación tensa esta semana. Ambos lados, tu femenino y masculino deben de ser tomados en cuenta cuando consideres nuevas formas de ganar, ahorra o gastar tu dinero. Piensa pragmáticamente cuando aprecies y disfrutes los placeres de las cosas más finas y encontrarás que podrías acostumbrarte a ellas.
+Esta semana tienes un nuevo enfoque en tu sector del hogar y las emociones internas. Si has estado pensando en el concepto del hogar y lo que éste significa para ti, es posible que desees echar raíces, tal vez por primera vez en tu vida. Conforme estás tratando de tomar el control de tu vida hogareña, asegúrate de también proyectar tu presupuesto de gastos de manutención durante el resto del año. Lo que quieres tiene la posibilidad de hacerse real si lo planeas con anticipación.

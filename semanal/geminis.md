@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: geminis 05 de agosto 2019 al 11 de agosto 2019 
-description: Horóscopo semanal geminis 05 de agosto 2019 al 11 de agosto 2019. Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+title: geminis 12 de agosto 2019 al 18 de agosto 2019 
+description: Horóscopo semanal geminis 12 de agosto 2019 al 18 de agosto 2019. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: fYsglrFqvo8
+ video: yK1QJ0o38oA
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-05'
+ lastmod: '2019-08-12'
 ---
 
 
 
-## Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 
-A veces, no es fácil vivir la vida geminis, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera geminis. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-Todo lo que conoces y entiendes de tu vida interna y de tus pensamientos y sentimientos puede influir directamente en tus finanzas. Mientras más confianza sientas, más confianza tendrás en tu capacidad de aumentar tus ingresos y sentir seguridad. La presencia del expansivo Júpiter en tu sector espiritual sugiere que contratar los servicios de un consejero de vida u otro profesional podría ser útil, ya que podría ayudarte a superar los límites que sientes y a sentir más plenitud.
+Tienes grandes planes geminis, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes geminis, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el geminis de siempre…
+El comienzo de la semana podría encontrarte enfrentándote a muchas distracciones. Cuando el simpático Venus se dirige al etéreo Venus, podrías descubrir que te resulta difícil concentrarte en una tarea si alguien está tratando de llamar tu atención. Si el trabajo es importante, puede que debas ponerte firme con esta persona. 
+El martes, el sol conecta con el positivo Júpiter, lo que debería hacer que el día sea bastante positivo. Algunos consejos o una posible oportunidad podrían mejorar considerablemente tu estado de ánimo.
+El conversador Mercurio forma un extraño ángulo con el vital Marte el fin de semana. Puede que te resulte difícil estar de acuerdo con alguien. Y si añadimos al incansable Urano a la mezcla, podrías sentirte independiente y sin ganas de llegar a un compromiso, incluso si es lo mejor para ti. Si esto significa que harás enojar a una de tus comprensivas amistades, piénsalo dos veces.
 
 ## Dinero
 
-Esta semana, tu sector de carrera se ve afectado. El Universo te está empujando a tomar algunas decisiones que has estado posponiendo por un tiempo. Si has querido cambiar de carrera o hacer investigación adicional, es el momento de echarlo a andar. Este aspecto tiene tenencia a empujarte a hacer lo que es correcto.

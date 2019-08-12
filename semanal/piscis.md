@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 05 de agosto 2019 al 11 de agosto 2019 
-description: Horóscopo semanal piscis 05 de agosto 2019 al 11 de agosto 2019. Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+title: piscis 12 de agosto 2019 al 18 de agosto 2019 
+description: Horóscopo semanal piscis 12 de agosto 2019 al 18 de agosto 2019. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: alrATyw2_60
+ video: b2l3NJHgXrk
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-05'
+ lastmod: '2019-08-12'
 ---
 
 
 
-## Tienes la semana agitada Sagi. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 
-No es que no te estés esforzando por conseguir tus propósitos, no es eso, es que, a menudo, por mucho que te esfuerces, si te rodeas de personas que te acaban chupando toda esa energía es como si nada valiera la pena, porque por un paso que das al frente, retrocedes dos por culpa de otros.
-El desarrollo del enlace entre Júpiter y Plutón puede ser alentador para reconocer el interés en una idea o una oportunidad que podría ser muy buena para ti. Sin embargo, esto no es algo que deba ser apresurado. Tendrás que hacer el trabajo preliminar con el fin de sacarle el máximo provecho. Empieza ahora y estarás en la posición perfecta para seguir avanzando dentro de un par de semanas. Además, es posible que sientas motivación a invertir dinero en el sector inmobiliario con la esperanza de obtener una buena ganancia más adelante.
+Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti piscis.
+Podría haber muchas discusiones en casa al principio de la semana, y esto podría llevar a tomar algunas decisiones que transforman de forma positiva una situación clave. Por otro lado, tu vida social brilla, en especial alrededor del jueves, cuando la luna llena en el alegre Aries podría traer consigo el momento perfecto para celebrar una gran ocasión. Pero ten en cuenta que podría ser algo muy escandaloso. Finalmente, ponerte en los zapatos de tu pareja durante el fin de semana podría ayudarte a entender su perspectiva.
 
 ## Dinero
 
-Este periodo es acerca de los aspectos armoniosos trayéndole amor a tu vida hogareña y permitiendo que los sentimientos y recuerdos cálidos emerjan. Al mismo tiempo, se te recomienda abrirte a ellos y tal vez incluso utilizarlos en tu trabajo. Deja que tu imaginación vuele y puede que te percates de que tienes grandes ideas para generar más dinero.
+Este período es acerca de los aspectos que afectan a tu sector del matrimonio y las relaciones serias. Asegúrate de que tu calendario y contactos estén actualizados. Con el fin de hacer más dinero, tendrás que contactar a estas personas regularmente. Planea almuerzos, cenas y horas felices para establecer redes de contacto. Tu cuenta bancaria, como tu ego, te lo agradecerán más tarde.
