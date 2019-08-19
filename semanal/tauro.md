@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 12 de agosto 2019 al 18 de agosto 2019 
-description: Horóscopo semanal tauro 12 de agosto 2019 al 18 de agosto 2019. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho tauro. Más que nunca…
+title: tauro 19 de agosto 2019 al 25 de agosto 2019 
+description: Horóscopo semanal tauro 19 de agosto 2019 al 25 de agosto 2019. No desaproveches las oportunidades más tauro, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: R34Vtw1ojh0
+ video: XwGBTwRDrIk
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-12'
+ lastmod: '2019-08-19'
 ---
 
 
 
-## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho tauro. Más que nunca…
+## No desaproveches las oportunidades más tauro, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
 
-Deberían valorarte más tauro, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para tauro, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
-Puede que te des cuenta de que eres el centro de atención, por lo que te vendría bien demostrar lo que sabes hacer y que la gente piense lo mejor de ti. Sin embargo, con el eclipse lunar en tu sector de metas y ambiciones, puede que sea más fácil decirlo que hacerlo. Es posible que una oportunidad que dabas por segura no prospere. Si la manejas con calma, las demás personas aprenderán de tu experiencia. No pierdas la calma ni la confianza. Hay cosas mejores en camino.
+A veces las cosas tienen que ser a tu manera o a ninguna tauro, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada tauro. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
+Cuanto más tiempo dediques a comprender a una persona, mejor puedes llevarte con ella. Sin embargo, esta semana puede que sientas la tentación de intentarlo demasiado, en especial si se trata de alguien con quien quieres una relación romántica. Tómatelo con calma. Si dejas que las cosas se desarrollen a su propio ritmo, puede que descubras que todo resulta mucho mejor. El viernes, un encantador aspecto entre el seductor Venus y el expansivo Júpiter puede ser perfecto para una cita muy especial, una que tal vez recuerdes durante mucho tiempo.
 
 ## Dinero
 
-Puede que por lo general no se te conozca por tu astucia en el dinero, ya que a menudo es sólo un medio para sentirte libre de restricciones. Pero ahora te conectas a tus redes sociales de una manera poderosa y haces que funcionen para ti. Si buscas una nueva posición o un mejor trabajo con buenos beneficios, serás capaz de conectar con nuevos empleadores. Un socio podría necesitar un poco de ayuda extra con un pequeño negocio. A partir de ahí, sólo tienes que demostrar tu valor.
+Esta semana te diriges a un periodo de introspección, tanto literal como metafóricamente. Esto se debe a ciertos aspectos que afectan tu sector de hogar físico y profundas emociones internas. La forma en la que cuidas de ti mismo/a está en enfoque ahora. Debes decidir si llevas un poco de trabajo a casa o incluso establecer una oficina en ella que te permita hacer más con menos distracciones. El dinero procede a estos esfuerzos.

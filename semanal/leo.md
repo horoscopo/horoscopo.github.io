@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 12 de agosto 2019 al 18 de agosto 2019 
-description: Horóscopo semanal leo 12 de agosto 2019 al 18 de agosto 2019. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca leo.
+title: leo 19 de agosto 2019 al 25 de agosto 2019 
+description: Horóscopo semanal leo 19 de agosto 2019 al 25 de agosto 2019. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: u-Hh95NclGc
+ video: zAAJqJmDSvc
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-12'
+ lastmod: '2019-08-19'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca leo.
+## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 
-Son muchos los que quieren arruinar tu vida leo, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa leo, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega leo. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos leo. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida leo. Ahora brillas así que, aprovecha. Aprovecha todo.
-Podrías volver a viejo terreno nuevamente a medida que Saturno se vuelve retrógrado el miércoles. Debido a que esta fase durará algunos meses, el progreso podría retrasarse. Sin embargo, hacer el trabajo necesario ahora y crear una estructura sólida para un mayor desarrollo pueden garantizar el éxito futuro. Mercurio también se vuelve retrógrado esta semana, de modo que recuerda hacer una copia de seguridad en tu computadora y tener cuidado al cerrar tratos clave. ¡La Luna Llena que se desenvuelve durante el fin de semana puede ser excelente para salir de fiesta!
+Siempre estás sonriendo leo, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes leo pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio leo, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
+Esta puede ser una semana en la que avanzas a toda velocidad, ya que la entrada del Sol a tu sector profesional te convierte en el centro de atención y te da un motivo claro para mostrar tus habilidades y talentos. Anímate a alardear un poco, no tienes nada que perder. Para poder aprovechar otra oportunidad que se presenta debes ser capaz de detectarla, pero si logras verla con claridad tal vez decidas sacarle el jugo. Sigue los pasos correspondientes y todo saldrá bien. Pero no te olvides de los detalles.
 
 ## Dinero
 
-Tienes una situación interesante esta semana. Tu vida puede ser más difícil de lo que es, sobre todo cuando se trata de lo que es tuyo. Definir cómo vas a ganar dinero ahora y en el futuro es mejor que dejarlo todo al azar. Confiar excesivamente en los demás no es la mejor opción ahora.
+Es una época agitada para ti. Tanto está pasando a tu alrededor, tus jefes te quieren promover por lo cuál te mantienen muy ocupado/a y encuentras muy poco tiempo para tu persona. Esto es sólo temporal. Los aspectos armónicos te mueven a la posición de autoridad a la que estás destinado/a a ocupar. ¡Disfrútala!

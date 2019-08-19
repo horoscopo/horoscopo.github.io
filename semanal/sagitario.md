@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 12 de agosto 2019 al 18 de agosto 2019 
-description: Horóscopo semanal sagitario 12 de agosto 2019 al 18 de agosto 2019. Llega una semana bonita sagitario, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención sagitario, y seguramente la persona que menos te esperabas…
+title: sagitario 19 de agosto 2019 al 25 de agosto 2019 
+description: Horóscopo semanal sagitario 19 de agosto 2019 al 25 de agosto 2019. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: ITaCPahnQWI
+ video: hjgcFaqxhSc
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-12'
+ lastmod: '2019-08-19'
 ---
 
 
 
-## Llega una semana bonita sagitario, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención sagitario, y seguramente la persona que menos te esperabas…
+## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 
-Necesitas amor sagitario, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a sagitario es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
-Podrías encontrarte en la posición de ayudar a alguien que necesite asesoramiento imparcial o un hombro sobre el cual llorar. Debido a la poderosa alineación en un sector más apartado de tu carta, esta es también una oportunidad para tomarte algo de tiempo para ti. En caso de que te encuentres en la posición de tener que hacer todo sin recibir nada a cambio, esta es tu oportunidad de crear límites más estrictos. El Eclipse Solar podría dirigir tu atención hacia esta situación, lo que requeriría de una acción positiva de tu parte.
+No puedes ser sumiso Sagi, al final, tus necesidades siempre acaban saliendo a la luz porque no puedes limitarte ni encasillarte con nada. No puedes pasarte la vida sabiendo qué es lo que debes hacer pero sin hacerlo, no puedes pasarte la vida queriendo hacer algo y que al final ese algo sólo se quede en tu cabeza, en tus pensamientos. Tienes que romper con eso. Esta semana céntrate en cumplir cada una de tus metas, trata de hacer lo que te pida el cuerpo sin necesidad de quejarte, piensa en qué es lo que está en tu mano, en qué es lo que tú puedes hacer, y hazlo. No hagas de tu tiempo tiempo perdido, con nada, con nadie… Si no vas a por todo, mejor no vayas. Es uno de tus lemas, pero a veces te olvidas de aplicártelo a ti, y sí, empiezas algo y por unas cosas u otras, no lo acabas. Piensa que así es como te frustras y piensa que es el motivo por el cual te pones de muy mala hostia un día sí y otro también. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo. No te compliques y al lío Sagi. Ponte en marcha de una vez esta semana, y no pienses en lo que perdiste o en lo que ganaste, piensa en lo que llegará si de verdad te pones las pilas.
+Te puede entusiasmar la posibilidad de un proyecto que tiene efecto a largo plazo. Una variedad dinámica de energías se pone en marcha al comienzo del mes y sigue en movimiento durante todo el mes. Y como te afecta personalmente, puedes disfrutar de muchos beneficios si sigues la corriente. La importancia está en el cambio constructivo y en progresar lento pero firmemente hacia una meta que puede revolucionar un aspecto clave de tu vida. Un evento de negocios también puede ser una buena oportunidad.
 
 ## Dinero
 
-Tu individualidad viene justo en contra del dinero o la deuda de otras personas. Te podría sorprender el encontrar algo que no esperabas en esta área de tu vida. Asegúrate de haber pagado todo y haber pasado por alto una factura o te arriesgas a pagar multas y sanciones. Hay un aspecto afortunado que demuestra que puede ser muy bueno que pagues las deudas justo después de que la factura llegue. ¡Fuera de tu vista, fuera de tu mente!
+Esta semana tienes actividad en tu sector de carrera indicando una época de gran movimiento y energía. Esto demuestra que puedes estar experimentando cambios repentinos en esta área de tu vida. A veces, el Universo tiende a ir sobre territorio previamente cubierto con un peine de dientes finos, así que no te sorprendas si algo que pensabas que había sido cubierto se vuelve en tu contra. Espera tener comunicación en lo que menos pensabas.

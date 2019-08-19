@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 12 de agosto 2019 al 18 de agosto 2019 
-description: Horóscopo semanal aries 12 de agosto 2019 al 18 de agosto 2019. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+title: aries 19 de agosto 2019 al 25 de agosto 2019 
+description: Horóscopo semanal aries 19 de agosto 2019 al 25 de agosto 2019. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: MEZ_7Vj2afs
+ video: dlkqglpfrFI
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-12'
+ lastmod: '2019-08-19'
 ---
 
 
 
-## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+## Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 
-Está bien hacerse ilusiones aries, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas aries, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada aries. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
-A medida que el Sol y Mercurio entran a un sector más sensible de tu carta, puede que sientas que ya puedes enfrentarte a ciertos problemas que han sido un lastre. Podría tratarse de experiencias de tu infancia que crearon patrones que afectan tu progreso en tu trabajo o en tus relaciones más íntimas. Quizá te des cuenta de que reflexionar sobre estos asuntos te permite superarlos. Ir a terapia podría ayudarte también, si es que te agrada esta opción.
+Llega una buenísima semana aries pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien aries, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado aries, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo aries, pelea por lo que te mereces.
+El enfoque en tu misión continúa con la Luna Nueva indicando que ahora puedes comenzar a centrarte en un objetivo clave. Es posible que tengas la opción de aprovechar una oportunidad que parece estar hecha a tu medida. Mientras tanto, el regreso de Venus a tu sector de viajes podría encontrarte desempolvando un plan de viajes y volviéndolo a formular para que se adapte a tu nuevo horario. Una tentadora e inesperada oferta podría hacer que viajes antes de lo esperado.
 
 ## Dinero
 
-Este período se trata de las formas en las que te pones en contacto con los demás por negocios o por placer. Dado que cierta actividad armoniosa afecta a tu sector de grupos, actividades sociales y negocios propios, puede que estés pensando en cómo usar las redes sociales para lanzar una nueva empresa de algún tipo. Incluso si es un negocio secundario por un tiempo, puede que te percates de que la conexión con los demás puede hacer toda la diferencia.
+Para ti este período se trata de cachar ofertas y de tomar ventaja de las nuevas oportunidades para ganar más dinero. Los aspectos afectan al sector de dinero y valores, indicando un tiempo de crecimiento en ese sector. Eres una fuente de ideas ahora, así que asegúrate de escribirlas para no perder de vista un flujo de ingresos futuros. Si sientes agobio, ponlas en práctica de una en una.

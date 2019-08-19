@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 12 de agosto 2019 al 18 de agosto 2019 
-description: Horóscopo semanal escorpio 12 de agosto 2019 al 18 de agosto 2019. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+title: escorpio 19 de agosto 2019 al 25 de agosto 2019 
+description: Horóscopo semanal escorpio 19 de agosto 2019 al 25 de agosto 2019. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: W6G7GXTpZt8
+ video: GBZ5mvN-Uvs
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-12'
+ lastmod: '2019-08-19'
 ---
 
 
 
-## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 
-Al final, sólo te lamentarás de las posibilidades que no tomaste escorpio así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo escorpio. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
-
+Parece que no todo va tan mal, no ¿escorpio? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+Podrías sentir como si estuvieras a punto de experimentar un nuevo amanecer. La Luna Nueva de esta semana en tu sector de comunicación sugiere que es hora de explorar nuevas oportunidades para interactuar, hacer nuevos contactos y valiosas conexiones. Con Marte entrando a tu sector de relaciones, sentirás inspiración para explorar formas de asociarte con otras personas por razones ya sea de negocios o placer. Este fin de semana, puede que tengas que tomarte tu tiempo, ya que varios aspectos sugieren que sería mejor que no te precipitaras a tomar decisiones clave.
 
 ## Dinero
 
-Esta semana, te desafía cierto aspecto en tu sector de carrera y autoridad. Aunque puede traer noticias e incentivos adicionales a esta área, puede que no te sientas de lo mejor con lo que está sucediendo. O puede que lo percibas como un golpe a tu ego. Debes saber que lo que sucede no es personal y sólo mejorará tus oportunidades para el futuro.
+Es una semana de desarrollo en tu sector de relaciones. Esto podría significar que alguien a quien has dudado contactar es todo oídos ahora, o que recibes energía de apoyo para ir más profundo, ya sea personal o profesional. Si has estado buscando una fusión de empresas, el Universo puede ayudarte. Mientras tanto, tu vida en el hogar necesita más atención y algunos gastos adicionales.
