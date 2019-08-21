@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de agosto 2019
-description: Horóscopos del dia de hoy 20 de agosto 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de agosto 2019
+description: Horóscopos del dia de hoy 21 de agosto 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-08-20
+ lastmod: 2019-08-21
 ---
-Hoy, las técnicas son muy suaves, incluso si son tomadas con medidas enérgicas. ¡Ponte tu mejor sonrisa y lánzate a obtener lo que quieres! No se puede discutir con las emociones. En lugar de discutir e insistir en que las personas no deberían de sentir lo que sienten, entiende que alguien simplemente lo siente de esa manera mientas la Luna conecta con Neptuno esta noche.
+Hoy, sé tanto amable como flexible cuando la Luna forme sextil con el excéntrico Urano. Alguien podría desempeñar un papel inusual detrás de escenas en una futura oportunidad. ¿Algo misterioso? Sí. ¿Emocionante? ¡Mantente al tanto! Más tarde, esta noche tienes la oportunidad de darle un gesto de bienvenida a la reconciliación cuando la Luna forme sextil con Venus retrógrado.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
