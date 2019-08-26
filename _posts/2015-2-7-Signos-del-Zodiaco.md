@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de agosto 2019
-description: Horóscopos del dia de hoy 25 de agosto 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de agosto 2019
+description: Horóscopos del dia de hoy 26 de agosto 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-08-25
+ lastmod: 2019-08-26
 ---
-Cuando las personas exageran bajo la Luna Nueva en Sagitario, el antídoto es ver y tomar las cosas de manera práctica. Tales te pueden decir todo lo que quieran decir, pero no pueden obligarte a creerlo. El tema de esta noche acentúa a complejas personas en complejas relaciones mientras Venus cuadra al impredecible Urano.
+Podrías lograr algo a la segunda cuando Mercurio en Capricornio vuelva a conectar a un grado en el que el planeta estuvo alrededor del primero del mes. ¿Alguna vez tuviste la sensación de que has tenido una conversación tantas veces que podrías mencionar cada una de las líneas de la otra persona? Resuelvan sus diferencias. Déjenlas en el pasado.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
