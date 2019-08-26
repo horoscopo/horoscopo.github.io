@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 19 de agosto 2019 al 25 de agosto 2019 
-description: Horóscopo semanal libra 19 de agosto 2019 al 25 de agosto 2019. Vete a tu cerebro, y borra libra, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño libra. Deja salir para que pueda entrar lo demás.
+title: libra 26 de agosto 2019 al 01 de septiembre 2019 
+description: Horóscopo semanal libra 26 de agosto 2019 al 01 de septiembre 2019. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor libra, sin remordimientos.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: nhOVdAcDH08
+ video: 1kzVF39c1nE
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-19'
+ lastmod: '2019-08-26'
 ---
 
 
 
-## Vete a tu cerebro, y borra libra, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño libra. Deja salir para que pueda entrar lo demás.
+## Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor libra, sin remordimientos.
 
-Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande libra, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. libra, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
-Es posible que necesites tomar una decisión con respecto a tu trabajo, una meta, o un plan profesional. Si te ofrecen una oportunidad, la alineación actual te invita a analizar los detalles. Con Mercurio moviéndose hacia atrás y luego hacia adelante esta semana, es posible que alguien pueda retirar una oferta anteriormente hecha. Puede que sea útil esperar hasta la próxima semana para evaluar la situación. Por último, con el Sol uniéndose a Júpiter en Libra el jueves, inclusive un poco de encanto puede hacer maravillas.
+Tienes que esforzarte libra, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien libra, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti libra, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo libra, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Con la positiva alineación en tu sector de relaciones, las personas en tu círculo social podrían ser muy optimistas y útiles en esta y en las próximas semanas. Sin embargo, te cuidado a mitad de semana, ya que alguien podría comportarse demasiado agresivamente para tu gusto. Esta persona podría ser encantadora, pero si algo no se siente bien, traza bien la línea y habla. Aparte de esto, gozas de muchas opciones para fiestas, celebraciones y expandir tu red de contactos en general. Si necesitas un descanso, tómalo.
 
 ## Dinero
 
-Las influencias que afectan a tu sector de relaciones son a la vez una bendición y una maldición. Mientras que te dan impulso para avanzar en tu causa, también tienden a restringir al equipo que podría ayudarte a hacer esto. No tengas miedo. No es personal. Estas personas están a la espera de que avances para poder decir que te conocían desde entonces. Tienes la imaginación que necesitas para realizar tu trabajo a tiempo y bajo presupuesto.
+Esta semana tu carrera y autoridad necesitan más atención. Convertirte en el experto que pareces ser significa más dinero en tu cuenta bancaria y más espacio para crecer. Ciertos aspectos astrales afectan tu sector de dinero en el buen sentido. Acumula lo más que puedas para una jubilación cómoda.
