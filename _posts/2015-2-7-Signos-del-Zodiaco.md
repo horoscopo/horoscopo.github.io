@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de agosto 2019
-description: Horóscopos del dia de hoy 27 de agosto 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de agosto 2019
+description: Horóscopos del dia de hoy 28 de agosto 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-08-27
+ lastmod: 2019-08-28
 ---
-Hoy, los sentidos son agudos de manera decidida y responsable bajo la Luna en Capricornio. Por la tarde, el trígono con Venus añade toques de luz y dulzura. Esta noche, los halagos no le consiguen nada a uno más que problemas cuando el Sol y la Luna están un poco en desacuerdo y la gente simplemente no está de humor.  
+El trígono entre la Luna en Acuario y Mercurio en Libra llena la mente de pensamientos. Añade Júpiter a la ecuación y el jovial planeta aumenta la expansión y el optimismo. Las cosas no podían ser más dulces. Los sentimientos son apropiados cuando la Luna forma sextil Saturno. ¡Qué paseo tan rápido y frenético! Si bajas tu ritmo esta noche, aterrizarás en tierra firme.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
