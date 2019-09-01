@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 31 de agosto 2019
-description: Horóscopos del dia de hoy 31 de agosto 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de septiembre 2019
+description: Horóscopos del dia de hoy 01 de septiembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-08-31
+ lastmod: 2019-09-01
 ---
-Ver el panorama completo y buscarle el significado a algo te dirigen a un tipo de pensamiento muy creativo cuando la Luna forma sextil con Neptuno y cuadra a Júpiter. Atrévete a soñar. ¡Una gran idea podría llegarte! Los solteros podrían experimentar amor a primera vista en un eléctrico instante bajo el trígono de esta noche entre Venus y Urano.
+La Luna en Capricornio aumenta la motivación para triunfar. Y la moderación le evita a uno comportarse de manera exagerada, abrumadora, aplastante, y distraída. Todo es cuestión de equilibrio. Esta noche, busca romance, glamour y disfruta del misterio mientras la Luna aspecte a ambos, Júpiter y Neptuno.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
