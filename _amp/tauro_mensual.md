@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo tauro agosto 2019 
+title: Horoscopo tauro septiembre 2019 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
- video: CQNUpSeWuDU
+ video: E6yisy3TOhI
 
 ogimg: /images/tauro_char.png
 sitemap:
@@ -15,8 +15,4 @@ sitemap:
 ---
 
 
-Tu regente, Júpiter, está en tu signo, y este año te encuentras en un camino de autodescubrimiento. Mientras agosto comienza, Marte está encendiendo el fuego en tu casa del amor, romance, creatividad, niños, y niño o niña interior, lo que te motiva a actuar con espontaneidad y correr riesgos. Tienes más años y más sabiduría, pero no necesitas perder tu pasión o curiosidad. Mantente fiel a tu integridad, y no necesitarás preocuparte por cruzar límites. 
-El 5 de agosto, la luna nueva y el eclipse en Capricornio dan comienzo a una fase de 18 meses de crecimiento en tu seguridad emocional y económica. Busca tus valores en lo más profundo de tu ser, valórate, e invierte en conexiones mutuamente benéficas que compartan tus valores. 
-Cuando la luna llena en Leo y el eclipse se alinean el día 20, mantén tu perspectiva sobre todo lo que se está revelando. Estás aprendiendo cosas que revelan una nueva forma de avanzar. Estás lejos de encontrarte en un callejón sin salida: tienes muchas opciones. Mantén tu creatividad y tu mente abierta, y ve detrás de tu visión más esperanzadora. Cuando Venus encuentra a Júpiter el 22 de agosto, dale una oportunidad a tu corazón, y podría dar muchos frutos. 
-Días destacados: 18, 22, 25 
-Días desafiantes: 5, 11, 13
+El Sol y Saturno conjuntan el 10 de septiembre y esto podría poner a mucha gente nerviosa. No a ti. Alrededor de la Luna Llena del 13 de septiembre, puede que tengas un millón de cosas que te estás muriendo por hacer, pero tu vida social y la época de fiestas siguen interponiéndose. Escoge una cosa y ve si puedes tentar a un amigo para que la haga contigo. La Luna Nueva del 28 de septiembre puede darte el descanso y el tiempo en privado que deseas y necesitas. Pero eso no significa que no vaya a ser intenso. Lee (o escribe) poesía poderosa, ve una película profundamente emocional y tal vez invita a alguien a que te acompañe a tu morada.

@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo escorpio agosto 2019
-description: El Horóscopo agosto de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo escorpio septiembre 2019
+description: El Horóscopo septiembre de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo escorpio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo escorpio septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
- video: Y6SN92i8Tv8
+ video: MxhNUp06i5A
 
 ogimg: /images/mes/escorpio_mes.png
 sitemap:
@@ -17,4 +17,10 @@ sitemap:
 ---
 
 
-Adopta una actitud más seria hacia tu vida el 3 de agosto, cuando Marte, tu planeta regente, entre al determinado Escorpión. Vierte tu corazón ya sea en tu trabajo o participación en la vida pública bajo la Luna Nueva del 9 de agosto. Formula tu estrategia completamente y apégate a ella, poco a poco, día con día. Tienes muchos aliados y simpatizantes. La Luna Llena del 23 de agosto podría animarte a salir en busca de un nuevo tipo de diversión, tal vez con un grupo de gente más grande. Quieres que se te note y hay gente por ahí en busca de alguien como tú. Sin embargo, no dejes que la idea de emoción de alguien más te desvíe de tu curso.
+Tú debes ser la respuesta al sueño imposible de alguien durante la luna nueva del 7 de septiembre. Un problema que nunca te interesó ahora podría involucrarte, por el bien de todos. Haz el bien, y siéntete genial al respecto. 
+Un asunto romántico tiene más sentido el día 9, cuando Venus forma un trígono con Marte. 
+Marte entra a Piscis el 15 de septiembre. Una fantasía podría cobrar más vida. Al día siguiente, Venus se torna directo y Mercurio se torna retrógrado. Tómatelo con calma y escucha con más atención. 
+El día 19, Marte forma una cuadratura con Júpiter y podría volverse más difícil tener tanta ambición como deseas. 
+La luna llena del 22 de septiembre te recuerda que, sí, hay un mundo grande y maravilloso ahí afuera, pero no tienes que armar tus maletas y escapar. Descubre algo que demuestra cómo la escena local y tus amistades son una parte importante de ese mundo más grande y exótico. Tu vecindario podría parecer exótico para las personas que están fuera de tu círculo inmediato. 
+Días destacados: 9, 15, 25
+Días desafiantes: 16, 26

@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo geminis agosto 2019
-description: El Horóscopo agosto de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo geminis septiembre 2019
+description: El Horóscopo septiembre de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo geminis agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo geminis septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
- video: 5dmjitQgkX8
+ video: Ht0xXUYcY0E
 
 ogimg: /images/mes/geminis_mes.png
 sitemap:
@@ -17,4 +17,7 @@ sitemap:
 ---
 
 
-El 5 de agosto, Mercurio se vuelve directo. La vida debería ser más simple y las presiones percibidas deberían empezar a desaparecer. El 6 de agosto, la luna llena te recuerda todo el poderoso amor que hay en tu vida, pero puede que tengas otros asuntos emocionales que te nublen la vista. No critiques de más, porque así desalentarás al verdadero amor. Puede que la luna nueva del 19 de agosto traiga consigo días más ocupados pero que sean menos productivos de lo que esperas. No te preocupes. Tómate tu tiempo y evita hacer las cosas más de una vez. De todos modos, a ti te gusta hacer las cosas bien. El sol sale de Virgo y entra a Libra el 22 de agosto. Anímate y sal a divertirte. 
+Mercurio ingresa a Tauro el 13 de septiembre. Pon los pies más sobre la tierra y pasa más tiempo lidiando con asuntos agradables y prácticos. La vida laboral y doméstica deberían volverse más fáciles. El mundo se pone cada vez más bello bajo la luna nueva del día 15. No importa qué sucede a tu alrededor, no pasarás por alto ni subestimarás nada de lo que está saliendo bien. La luna llena del 29 de septiembre ilumina a tu familia y ambiente doméstico. Sé una persona más receptiva y permite que alguien sugiera alguna mejora, o una forma de expandir los intereses domésticos. Intenta cocinar un nuevo plato o tal vez agrega una nueva variedad de vegetales o flores en tu jardín. 
+
+Días destacados: 2, 18, 25
+Días desafiantes: 7, 23

@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo cancer agosto 2019
-description: El Horóscopo agosto de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo cancer septiembre 2019
+description: El Horóscopo septiembre de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo cancer agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo cancer septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
- video: p6dyG_bQS88
+ video: K-wU2aUYtHM
 
 ogimg: /images/mes/cancer_mes.png
 sitemap:
@@ -17,4 +17,4 @@ sitemap:
 ---
 
 
-Mientras más hagas por los demás alrededor de la Luna Llena del 3 de agosto, más ganarás posteriormente. Alguien podría acudir a ti en busca de ayuda o un gran favor. Si tienes el tiempo y los recursos requeridos, haz lo que puedas. Si tu respuesta es no, puedes decirla con compasión. La Luna Nueva del 17 de agosto aumenta tus ingresos y ganancias, pero también podría aumentar tu impulso a derrochar dinero. Dale a tus finanzas la atención que se merecen y podrás manejarlas muy bien. Sé excepcionalmente fuerte e inteligente el 27 de agosto. Espera que cualquier problema, por más difícil que sea, se resuelva durante este periodo de tiempo.
+Mantente alerta a gastos impulsivos durante la primera semana del mes. La Luna Llena del 2 de septiembre podría tenderte una trampa para que gastes más de lo que tenías planeado. Antes de hacer una compra, entabla una conversación y date más tiempo para pensar en ello. La vida podría volverse emocionante después de la Luna Nueva del 16 de septiembre, cuando las ansiedades de ciertas personas podrían encender las tuyas. Mantenerte con una actitud calmada y serena podría iniciarte una relación poderosa y rentable. Cuando la oportunidad surja, compórtate valiente más no imprudentemente. El fin de semana del 27 de septiembre podría estar emocionalmente sobrecargado, por lo que pásalo con alguien que ya sabes que amas.

@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo virgo agosto 2019 
+title: Horoscopo virgo septiembre 2019 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: 2MCmFW_TCRA
+ video: LhO0WjH2CCg
 
 ogimg: /images/virgo_char.png
 sitemap:
@@ -15,7 +15,4 @@ sitemap:
 ---
 
 
-Haz una nueva amistad durante la luna nueva del 15 de agosto, o haz una conexión más fuerte con alguien que nunca llamó mucho tu atención. Tu círculo de amistades y gente del vecindario cada vez se hace más grande. El sol forma una conjunción con Urano el día 18. ¡Es momento de ser una persona ingeniosa y atrevida! Ponte en el centro de atención en el trabajo o en la vida pública durante la luna llena del 29 de agosto. Ten ambición y suerte, pero no te comportes demasiado audaz. Esto podría tener muchas buenas reacciones en cadena durante las próximas semanas. Si has deseado desempeñar un papel más importante en un grupo social o laboral, podría empezar ahora. 
-
-Días destacados: 2, 7, 29
-Días desafiantes: 22, 26
+La Luna Llena del 2 de septiembre quiere traerte amor, pero puede que pienses que tu vida está muy ocupada o que tu corazón todavía no está listo.  Confía en tus instintos y resístete si es necesario. No te dejes apresurar. La Luna Nueva del 16 de septiembre enciende tu fuego personal. Acepta esta salvaje energía que te ayudará a hacer mucho, más no te impacientes o te enojes. Este sentimiento podría sólo empeorar y ser difícil de apagar una vez encendido. Mantén la calma y permite que la gente esté de tu lado. El 23 de septiembre podría ser un día laboral difícil en el que las personas parezcan estar determinadas a malentenderse las unas a las otras. Evita involucrarte en chismes y todo estará bien.

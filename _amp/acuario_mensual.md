@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo acuario agosto 2019 
+title: Horoscopo acuario septiembre 2019 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
- video: 1Vfd1P9XWyA
+ video: ewZAFtzhcQ4
 
 ogimg: /images/acuario_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-El 5 de agosto, Júpiter inicia un largo retroceso y la buena suerte se hace menos evidente. Sin embargo, tu vida social se aviva para el Eclipse de Luna Llena del 10 de agosto. Puede que pienses que tu horario ya está sobrecargado y programado al punto de la saturación; sin embargo, sólo se intensificará aún más. Haz lo que quieras y siéntete libre de salir temprano del evento en el que te encuentres si es que no te emociona lo suficiente. El Eclipse Solar de Luna Nueva del 26 de agosto te permite comenzar algo nuevo en casa que has querido hacer pero que has estado posponiendo. El momento es aquí y ahora. Puede que no consigas hacerlo todo al instante, pero al menos puedes lograr un importante avance. 
+Mercurio ingresa a Géminis el 6 de septiembre, y de repente todo el mundo podría volverse más interesante. Despierta tu curiosidad y mantente así. El amor y romance brillan con fuerza para ti alrededor de la Luna Llena del 9 de septiembre. De repente, un amante podría volverse gseptiembreso y afectivo (al punto de no creerlo). Acepta la atención y asegúrate de que cualquier acto de gseptiembresidad y bondad no tenga un compromiso implícito. La Luna Nueva del 23 de septiembre empodera tus pronósticos financieros y monetarios. Una oportunidad de ingresos podría ser lucrativa y mantenerte con demasiadas ocupaciones como para gastar más de lo que necesitas o pretendes. Es ahora cuando podrías participar en una empresa creada recientemente.
