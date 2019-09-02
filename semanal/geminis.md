@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 26 de agosto 2019 al 01 de septiembre 2019 
-description: Horóscopo semanal geminis 26 de agosto 2019 al 01 de septiembre 2019. No te destruyas geminis, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+title: geminis 02 de septiembre 2019 al 08 de septiembre 2019 
+description: Horóscopo semanal geminis 02 de septiembre 2019 al 08 de septiembre 2019. geminis, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: 792E-mbRa_E
+ video: jBRN1obs2Eg
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-26'
+ lastmod: '2019-09-02'
 ---
 
 
 
-## No te destruyas geminis, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+## geminis, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 
-No pelees geminis, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente geminis, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador geminis, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
-Este es tu momento para ponerte en el centro de atención y mostrar tus habilidades y talentos. Con el actual enfoque en un sector dinámico de tu carta, este no es momento para ocultar la gran luz que te caracteriza. Brilla enormemente para que todos te puedan ver. La Luna Nueva del lunes es el mejor momento para establecerte la intención de compartir tus ideas creativas con el mundo. El romance también está en tus cartas, con la semana por delante pudiendo traerte ardientes noches ya sea fuera, o dentro de casa.
+En serio, geminis, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres geminis por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal geminis, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
+La semana por delante podría hacerte algunas exigencias a pesar de que ya tienes ganas de progresar. En casa, las ganas de prepararte para la época de fiestas podrían coincidir con la decisión de limpiar el desorden y poner todo en orden. En tu trabajo, tu situación actual podría requerir de un cambio, sobre todo si los viejos métodos y rutinas no están solucionando actuales problemas. Hacer algunos cambios podría mejorar las cosas. Por último, ya sea que tengas pareja o recientemente te hayas enamorado, tu vida romántica se percibe muy prometedora a partir del domingo.
 
 ## Dinero
 
-Este período es acerca de cómo lidiar con todas las ofertas y oportunidades que te lleguen, sobre todo en lo que respecta a tu carrera. La suerte y la expansión se combinan muy bien con súbita inspiración y cambio. Dado que esto afecta a tu sector profesional, también saca a relucir la idea de figuras de autoridad. ¿Estás chocando con alguien más arriba de ti en el trabajo?, ¿o será que te preparas para ponerte los zapatos de autoridad en tu vida?
+Ciertos aspectos están alentando tu capacidad de ganar la cantidad de dinero a la que puedes haberte acostumbrado y te piden que seas más responsable acerca de cómo gastas tu dinero en efectivo. Establece límites para que puedas ahorrar para tu jubilación u otros objetivos. Tu sector de creatividad, familia y diversión se ven afectados. Si estás teniendo problemas para encontrar motivación, sólo piensa en cómo lo que hagas ahora, beneficiará a tu familia en el futuro.

@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 26 de agosto 2019 al 01 de septiembre 2019 
-description: Horóscopo semanal piscis 26 de agosto 2019 al 01 de septiembre 2019. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar piscis porque no eres así. 
+title: piscis 02 de septiembre 2019 al 08 de septiembre 2019 
+description: Horóscopo semanal piscis 02 de septiembre 2019 al 08 de septiembre 2019. Estás en una etapa súper confusa piscis, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: ljL2cAS3jdI
+ video: FYPtopJtjpo
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-26'
+ lastmod: '2019-09-02'
 ---
 
 
 
-## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar piscis porque no eres así. 
+## Estás en una etapa súper confusa piscis, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 
-No te arrepientas de abrirte piscis, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles piscis, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar piscis, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos piscis, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
-La presencia del sol en tu sector de relaciones te anima a desconectarte y tomarte un tiempo para ti. Y cuando el encantador Venus se dirige hacia el expansivo Júpiter el lunes, esto podría tomar la forma de un masaje, otra sesión de cuidados u otro especial premio. 
-Ten en cuenta que el animado Marte se vuelve retrógrado en un sector recluido de tu carta el martes y permanece así hasta el 27 de $MES. Esto podría animarte a abordar aquellas áreas en las que sientes que no puedes avanzar y darte la oportunidad de liberar las cuestiones. Pedir ayuda a un consejero de vida podría ser una manera de resolver esto. La meditación u otra práctica espiritual también podrían ayudarte. El jueves, el animado Mercurio ingresa a Leo y a tu sector de bienestar, lo que podría inspirarte a organizarte más para aumentar tu productividad. Por último, una interesante noticia podría llamar tu atención el fin de semana.
+A veces te confundes piscis, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso piscis. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. piscis, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo piscis, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+Tanto los recursos compartidos, los asuntos de negocios y la transformación son parte de la agenda conforme Mercurio se une al Sol en Escorpión. Esta puede ser una oportunidad para analizar por debajo de la superficie una situación o relación clave y quizás cambiar tu forma de pensar o creencias con el fin de influir positivamente en ella. Al mismo tiempo, una fuente profunda de inquietud podría inspirarte a desatender tus responsabilidades y centrarte más en el placer. Esto podría ser un error. Sería mejor tener un enfoque más prudente hacia el cambio.
 
 ## Dinero
 
-Estás atrapado/a en un dilema. Hay acción en el frente interno y oportunidades en el frente de profesión. Sin embargo, te estás conduciendo por un estrecho sendero hacia tu situación de relación. Sólo puedes estar a solas por un determinado tiempo. Haz un esfuerzo por busca a personas que te puedan ser de ayuda.
+Eres uno de los mejores Signos del Zodíaco para manifestar cosas. Con un énfasis en tu sector de dinero, las habilidades que pensaste haber dejado atrás, traen la mayor cantidad de efectivo. Piensa en las personas o los trabajos de una época anterior de tu vida y tendrás la respuesta financiera a tu dilema actual. Un aspecto de apoyo hace que tu trabajo diario sea mucho más fácil de digerir. Si has logrado dar una gran impresión últimamente, pide ese aumento. Ellos te necesitan.

@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: leo 26 de agosto 2019 al 01 de septiembre 2019 
-description: Horóscopo semanal leo 26 de agosto 2019 al 01 de septiembre 2019. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así leo, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: leo 02 de septiembre 2019 al 08 de septiembre 2019 
+description: Horóscopo semanal leo 02 de septiembre 2019 al 08 de septiembre 2019. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: FnIByEYqCZY
+ video: jyE2EI9BEAA
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-08-26'
+ lastmod: '2019-09-02'
 ---
 
 
 
-## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así leo, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 
-No pienses tanto por favor leo, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres leo por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
- cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
-Te sentirás más en tu elemento como Marte entrando de nuevo a tu signo el martes. Tendrás energía para hacerle frente a cualquier desafío y es probable que sientas más confianza con el resultado. La Luna Nueva en tu sector de aventura podría ser un llamado a probar tu suerte en algo diferente o tal vez tomar un curso que te enseñe una nueva habilidad. Explorar nuevas opciones puede ser muy valioso en las próximas semanas. Además, tu encanto también puede ayudarte a salir adelante en tu carrera.
+El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
+Con Júpiter todavía conectando con Neptuno, te ayudaría mantener tus pies en el suelo. Mientras que sueles ser una persona práctica, podías dejarte llevar por el discurso de ventas o el tono persuasivo de alguien. En caso de duda, pregúntale a una de tus amistades su opinión al respecto. Más tarde, la entrada del Sol a Libra ilumina tu sector financiero, animándote a fijarte metas y considerar tus planes para los próximos meses. ¡Toma nota de todo ello! Tu vitalidad recibe un impulso con Marte inspirándote a progresar.
 
 ## Dinero
 
-Tienes una relación tensa entre tu hogar y profesión esta semana. Puede que sientas un poco de agobio en el trabajo o que tu carrera pasa por muchos obstáculos en el presente. Al mismo tiempo, tu vida hogareña y sentimientos interiores son algo tumultuosos o turbulentos. Establece un equilibrio al mantener una estrecha vigilancia en tu flujo de efectivo para ayudar a aliviar el estrés. Las cosas mejorarán desde allí.
+Tienes actividad en tu sector de dinero y valores. Podría significar fortuna extrema que podría ya ser inestable o de corta duración. Si eres del tipo que arriesga, no es una mala semana para darle un giro a la rueda de la ruleta, pero guárdate la mitad de lo que ganes en el bolsillo - y no lo toques. Debido a que tu sector  de relaciones se ve afectado, puedes irritar a alguien si no tienes el suficiente cuidado.
