@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 02 de septiembre 2019 al 08 de septiembre 2019 
-description: Horóscopo semanal virgo 02 de septiembre 2019 al 08 de septiembre 2019. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+title: virgo 09 de septiembre 2019 al 15 de septiembre 2019 
+description: Horóscopo semanal virgo 09 de septiembre 2019 al 15 de septiembre 2019. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: MRBVb05d368
+ video: CCwmEFgEviI
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-02'
+ lastmod: '2019-09-09'
 ---
 
 
 
-## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-¿Cómo quieres gastar tu vida virgo? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente virgo, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida virgo, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro virgo. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana virgo.
-Con Mercurio en una zona más escondida de tu carta, se te hará mucho más fácil conectar con tus sentimientos más profundos y forjar una relación con tu ser interior. Si tomas nota de tus sueños, tales podrían ser la fuerza impulsora detrás de un plan o proyecto profesional. En el tema de romance, la deliciosa mezcla de energías del martes podría coincidir con un encuentro que te robe el aliento. Pero debido a que Marte comienza a retrocedes este domingo, puede que sea mejor no esperar demasiado en esta área.
+Organízate virgo, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres virgo, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
+Las interacciones podrían tener un tono un poco nervioso, cuando te beneficiarás de tener honestidad en lugar de guardarte tus sentimientos. Las finanzas compartidas siguen vislumbrándose positivas, haciendo de esta una buena semana para darte un capricho y gastar en algunos lujos, especialmente si has estado trabajando duro. Opta por algo que realmente disfrutes incluso si es un poco caro. Saturno comienza a avanzar el Sábado, mejorando tu relación con una amistad clave e impulsando tu vida social en general.
 
 ## Dinero
 
-Esta semana tus energías masculinas y femeninas están trabajando hacia los mismos objetivos. Atrás quedaron las disputas sobre quién debe gastar y cómo debe gastarse el dinero. Tu deuda da un giro a la baja a medida que diriges tu energía hacia esta zona. Mientras tanto, el gasto de tiempo y esfuerzo en tu sector puede traer un inesperado dinero en efectivo. Sólo asegúrate de tener más de un presupuesto para poder comparar.
+Puede que te estés preguntando en qué momento comenzarás a sentir motivación de nuevo. El tratar de mantenerte quieto/a, es como tratar de evitarle a un tornado el girar; pero lo estás manejando lo mejor que puedes. Esta semana, tu carrera se dirige a un territorio nuevo y emocionante. Si has estado tenido el ojo en la oficina de al lado, piensa en convertirte en una figura de autoridad en tu campo. Podrías darte cuenta de que el cheque que va con ella se avecina.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 02 de septiembre 2019 al 08 de septiembre 2019 
-description: Horóscopo semanal capricornio 02 de septiembre 2019 al 08 de septiembre 2019. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+title: capricornio 09 de septiembre 2019 al 15 de septiembre 2019 
+description: Horóscopo semanal capricornio 09 de septiembre 2019 al 15 de septiembre 2019. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: fBmWNEhDmSs
+ video: 11pbFx0t0co
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-02'
+ lastmod: '2019-09-09'
 ---
 
 
 
-## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 
-A veces de bueno te pasas capricornio. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio capricornio, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa capricornio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso capricornio y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-Progreso laboral podría ser el resultado de un optimista tránsito que mejore tus posibilidades de éxito. Si la oferta de un puesto de trabajo o contrato te llega y es algo que deseas - acéptala de inmediato. Esta es una oportunidad que no durará por mucho tiempo. Más tarde, planes de viaje podrían ser puestos en tu agenda - y puede que sientas atracción a lugares que tienen un aire místico. Este es también un buen momento para contratar a un entrenador o mentor que pueda ayudarte a alcanzar todo tu potencial.
+Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección capricornio, y ahora puedes elegir lo que quieras.
+La próxima semana puede ser muy sociable. Deberías disfrutarla mucho. Puede que haya ocasiones en las que sientas la obligación de asistir a un evento, incluso cuando no quieras. Tómatelo con buen humor, ya que puede que alguien te agradezca pasar tiempo en su compañía. La encantadora conexión en tu signo entre el dinámico Marte y el soñador Neptuno del 27 de $MES podría animarte a darte una escapada. Un corto descanso o un viaje a un spa local podrían renovarte.
 
 ## Dinero
 
-Esta semana todo tipo de puertas financieras se están abriendo. Con el fin de atraer la cantidad de dinero que deseas, tienes que verdaderamente adorar lo que haces. Considera la posibilidad de profundizar tu conocimiento innato a través de talleres y seminarios. Tu sector social se expande. Tienes los contactos necesarios para dar el salto a la enseñanza, la publicación o el discurso. Haz que suceda.
+Es una gran semana para pensar y planificar. El Universo indica un tiempo de gran actividad mental. Es un momento de gran oportunidad, a partir de los pasos que tendrás que tomar para realizar tus sueños financieros a darte crédito por cosas que ya has logrado. Cierta actividad en tu sector de aprendizaje te llama para que tomes una clase de algo que te inspire.

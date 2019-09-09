@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: aries 02 de septiembre 2019 al 08 de septiembre 2019 
-description: Horóscopo semanal aries 02 de septiembre 2019 al 08 de septiembre 2019. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+title: aries 09 de septiembre 2019 al 15 de septiembre 2019 
+description: Horóscopo semanal aries 09 de septiembre 2019 al 15 de septiembre 2019. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: Wchn2qXhtwU
+ video: 2kXv2WyMIU8
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-02'
+ lastmod: '2019-09-09'
 ---
 
 
 
-## En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 
-Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda aries, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
-Ahora que el sol se mueve por un sector más profundo de tu carta, podrías reflexionar sobre distintas maneras de abordar cuestiones emocionales que has estado sintiendo durante algún tiempo. Esto podría reflejarse en el frente del hogar, ya que el prudente Saturno y el dinámico Plutón retrógrados te animan a sumergirte en experiencias pasadas y encontrar cualquier bloqueo emocional. 
-  Podrías descubrir que surgen recuerdos durante las próximas semanas. Analizarlos con alguien de confianza puede ser útil para procesarlos y liberarlos. Esta situación continuará durante las próximas semanas y meses. Ahora que el encantador Venus está pasando por tu sector de viajes y lejanos horizontes, no mires con recelo la oportunidad de hacer un sanador viaje, de tomarte unas vacaciones o de irte a otro entorno. Este fin de semana, puede que sientas la obligación de ayudar a otra persona, pero no es necesario que te vayas a los extremos.
+Esfuérzate un poco más de lo que hiciste ayer Sagi, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
+ de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
+Tu vida social parece estar pasando por una fase animada y optimista; sobre todo con el día martes mostrando especial promesa en relación a un evento. Ya sea que se trate de una fiesta o una primera cita, tal parece que te la pasarás maravillosamente. Además, podría haber un reencuentro con viejos amigos o incluso un viejo amor. Sólo ten cuidado al prometer más de lo que puedes ofrecer debido a que la configuración astral actual podría traer retrasos inesperados. Adopta un enfoque conservador en lugar de tener demasiada generosidad al calcular lo que puedes hacer.
 
 ## Dinero
 
-Te enfrentas a un tiempo de reinvención. Si has estado queriendo reinventarte a ti mismo/a de alguna manera, este es un buen momento para hacerlo. Puedes obtener lo que quieres con sólo pedírselo al Universo siempre y cuando lo puedes imaginar. El hacer los sueños realidad podría convertirse en el tema de la semana. Sin embargo, puede que tu carrera requiera más de lo que puedes dar por ahora. Trata de comprometer.
+Ciertos aspectos se unen en tu sector de dinero y valores esta semana. Esto puede explicar por qué a pesar de que hay ciertas oportunidades aproximándose, algunas de ellas requieren de más trabajo o más educación del que actualmente tienes o puedes ofrecer. No te preocupes. Te enfrentas a un momento en el que es necesario centrarse en la política de tu empresa. Invita a tu jefe a comer.

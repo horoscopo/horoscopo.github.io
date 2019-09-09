@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 02 de septiembre 2019 al 08 de septiembre 2019 
-description: Horóscopo semanal acuario 02 de septiembre 2019 al 08 de septiembre 2019. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: acuario 09 de septiembre 2019 al 15 de septiembre 2019 
+description: Horóscopo semanal acuario 09 de septiembre 2019 al 15 de septiembre 2019. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: 1F3hAvR96Dg
+ video: aGbqWwFIiTY
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-02'
+ lastmod: '2019-09-09'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto acuario? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito acuario. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-Una combinación impulsiva de energías te lleva a unir fuerzas con una persona cuando en realidad sería más prudente que te tomes el tiempo para conocerla mejor. Saturno forma parte de esta alineación, por lo que es sensato contenerte un poco y pensar si estás haciendo lo correcto. Todo lo que estás aprendiendo ahora podría tener una influencia productiva en tu vida en las semanas y los meses por venir. Y con Urano acercándose a Aries, puede que tus acciones sean un poco más medidas.
+Por fin llega lo que tanto estabas esperando acuario, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo acuario. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana acuario, disfrútala al máximo.
+La Luna Llena en tu sector de ambición podría colocarte bajo los reflectores, atrayendo la atención hacia tus planes, proyectos e imagen en general. Si quieres que te vean de la mejor manera posible, pon un ejemplo que todos puedan seguir. Sin embargo, prepárate para algunos problemas en un plan familiar. Puede que no sea grave, pero trata de darte un margen hacia el jueves para poder manejar cualquier caos inesperado. Además, un nuevo romance podría pasar a un nuevo nivel después de un período de incertidumbre.
 
 ## Dinero
 
-Esta semana te está pidiendo el centrarte más en tu carrera. Sueles ser bastante tradicional y conservador/a por naturaleza, pero ahora es posible que te hayas olvidado de tales cualidades, aunque sólo un rato. Si dejas que los demás sepan cuáles son tus metas, incluyendo la posición y el sueldo que quisieras, podrías ser sorprendido/a con lo dispuestos que tus patrones estarían para cumplirlo. Sólo sé extremadamente claro/a.
+Tus aspectos afectan el dinero y la deuda de otras personas. Esto señala la necesidad de comunicarse con aquellos a quienes les debes dinero y asegurarte de que los dos estén de acuerdo sobre lo que se pagará y cuándo. Hay un poco de tranquilidad en las inversiones compartidas. Esto podría ser capaz de ayudarte a salir de los atascos financieros que surjan desprevenidamente. Ten la seguridad de que serás atendido/a.

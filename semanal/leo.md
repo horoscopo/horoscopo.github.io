@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: leo 02 de septiembre 2019 al 08 de septiembre 2019 
-description: Horóscopo semanal leo 02 de septiembre 2019 al 08 de septiembre 2019. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: leo 09 de septiembre 2019 al 15 de septiembre 2019 
+description: Horóscopo semanal leo 09 de septiembre 2019 al 15 de septiembre 2019. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada leo. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: jyE2EI9BEAA
+ video: sxOhKDmRRa0
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-02'
+ lastmod: '2019-09-09'
 ---
 
 
 
-## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada leo. 
 
-El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
-Con Júpiter todavía conectando con Neptuno, te ayudaría mantener tus pies en el suelo. Mientras que sueles ser una persona práctica, podías dejarte llevar por el discurso de ventas o el tono persuasivo de alguien. En caso de duda, pregúntale a una de tus amistades su opinión al respecto. Más tarde, la entrada del Sol a Libra ilumina tu sector financiero, animándote a fijarte metas y considerar tus planes para los próximos meses. ¡Toma nota de todo ello! Tu vitalidad recibe un impulso con Marte inspirándote a progresar.
+Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad leo, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
+Cuando el amoroso Venus se mueve más profundamente hacia tu sector personal, el deseo de hacer nuevas amistades podría aumentar. Puede que decidas llegar a un compromiso y buscar soluciones en las que todas las personas involucradas ganen. Otra faceta de esta situación puede ser el deseo de cambiar tu imagen, ya sea comprando ropa nueva, cambiando tu corte de pelo o incluso optando por un tatuaje o algo que tenga un profundo significado para ti. Este deseo de cambio de apariencia podría relacionarse con una transformación más profunda que estás atravesando. 
+  Debido a que el solemne Saturno y el intenso Plutón están retrógrados en tu sector psicológico, podrías estar a punto de deshacerte de todo lo que ya no te sirve, como si fueras una serpiente que muda de piel. De hecho, los próximos años pueden ser una etapa de renovación y renacimiento. Este fin de semana, la práctica de meditación o yoga con tus amistades puede ayudarte a sentir más calma y satisfacción. 
 
 ## Dinero
 
-Tienes actividad en tu sector de dinero y valores. Podría significar fortuna extrema que podría ya ser inestable o de corta duración. Si eres del tipo que arriesga, no es una mala semana para darle un giro a la rueda de la ruleta, pero guárdate la mitad de lo que ganes en el bolsillo - y no lo toques. Debido a que tu sector  de relaciones se ve afectado, puedes irritar a alguien si no tienes el suficiente cuidado.
+Eres casi como una pantalla en la que otros pueden proyectan sus esperanzas, miedos, logros y mucho más. Esto te permite ser quien quieras ser esta semana también. Así que si quieres un mejor trabajo o una posición en la cadena alimenticia desde donde estás ahora, actúa como si ya fuera tuyo. Ciertos aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y poder guardar algo para el futuro.

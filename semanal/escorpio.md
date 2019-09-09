@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 02 de septiembre 2019 al 08 de septiembre 2019 
-description: Horóscopo semanal escorpio 02 de septiembre 2019 al 08 de septiembre 2019. Toma decisiones YA, AQUÍ y AHORA escorpio. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+title: escorpio 09 de septiembre 2019 al 15 de septiembre 2019 
+description: Horóscopo semanal escorpio 09 de septiembre 2019 al 15 de septiembre 2019. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: EE0dtFA8edg
+ video: 9pBQINMa6gQ
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-02'
+ lastmod: '2019-09-09'
 ---
 
 
 
-## Toma decisiones YA, AQUÍ y AHORA escorpio. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 
-Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
-Finalmente, todo regresa a la normalidad desde el lunes cuando Mercurio comienza a avanzar de nuevo. Si has estado posponiendo el momento de la verdad con respecto a la firma de un acuerdo, compromiso, o cierto curso de acción, ahora puedes seguir adelante. Si tienes dudas, asegúrate de analizarlas antes de firmar en la línea punteada, ya que puede que ciertas condiciones hayan cambiado en las últimas semanas. Este fin de semana, el vínculo entre Venus y Neptuno podría hacer una cita con tu pareja o interés amoroso muy romántica.
+Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
+ aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
+Tal vez un asunto financiero necesita atención, particularmente si es algo que has estado evitando hasta el momento. Con el eclipse lunar cruzando tu eje monetario, quizás necesites tomar una rápida decisión o medidas para resolver un asunto clave. Sin embargo, esto también puede ser un punto decisivo para ti y tal vez sea una oportunidad para reorganizar algunas cuestiones. Por otro lado, no vendría mal corroborar los detalles, en particular cuando firmes cualquier cosa importante, ya que el interactivo Mercurio retrocederá a partir del final de la semana.
 
 ## Dinero
 
-Es una buena semana para ponerse en contacto con tus necesidades. Los aspectos que destacan la belleza, la creatividad y el amor muestran que es importante no sólo el mirar la parte, sino también sentirla. El amar lo que haces para ganarte la vida no solo sucede. Si lo cultivas mediante la exploración de tus habilidades qué mejor que utilizarlo para atraer efectivo. Esto ayudará a tu estado de ánimo. Tienes éxito con las asociaciones empresariales y financieras derivadas de tus amistades y redes sociales.
+Puede que esta semana tengas dificultades para encontrar tu propia voz creativa en el trabajo. La creatividad y el talento definitivamente están allí. Lo que se necesita es una forma inteligente de exponer tus habilidades. Puesto que esto afecta el área asociada con la deuda y la recaudación de fondos, esto puede significar que primero tienes que pagar algo antes de lanzar un esfuerzo creativo o recaudar más dinero. Mantén el presupuesto factible.
