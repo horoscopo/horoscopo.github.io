@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 09 de septiembre 2019 al 15 de septiembre 2019 
-description: Horóscopo semanal virgo 09 de septiembre 2019 al 15 de septiembre 2019. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: virgo 16 de septiembre 2019 al 22 de septiembre 2019 
+description: Horóscopo semanal virgo 16 de septiembre 2019 al 22 de septiembre 2019. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: CCwmEFgEviI
+ video: Xw67rz5c5Us
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-09'
+ lastmod: '2019-09-16'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 
-Organízate virgo, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres virgo, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
-Las interacciones podrían tener un tono un poco nervioso, cuando te beneficiarás de tener honestidad en lugar de guardarte tus sentimientos. Las finanzas compartidas siguen vislumbrándose positivas, haciendo de esta una buena semana para darte un capricho y gastar en algunos lujos, especialmente si has estado trabajando duro. Opta por algo que realmente disfrutes incluso si es un poco caro. Saturno comienza a avanzar el Sábado, mejorando tu relación con una amistad clave e impulsando tu vida social en general.
+Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca virgo. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder virgo pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias virgo, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
+Los asuntos hogareños y familiares, asuntos de bienes raíces y proyectos de manualidades son clave esta semana conforme el enfoque te anima a seguir adelante con planes que has estado alimentando. Es posible que se te empuje a tomar medidas más pronto que tarde, ya que el Eclipse Solar puede coincidir con eventos que aumenten tu ritmo. Si bien esto puede parecerte incómodo al principio, pronto te darás cuenta de que tienes más oportunidades y libertad de la que pensaste que tenías antes. Sin embargo, Mercurio se torna retrógrado, por lo que sufrir retrasos podría ser inevitable.
 
 ## Dinero
 
-Puede que te estés preguntando en qué momento comenzarás a sentir motivación de nuevo. El tratar de mantenerte quieto/a, es como tratar de evitarle a un tornado el girar; pero lo estás manejando lo mejor que puedes. Esta semana, tu carrera se dirige a un territorio nuevo y emocionante. Si has estado tenido el ojo en la oficina de al lado, piensa en convertirte en una figura de autoridad en tu campo. Podrías darte cuenta de que el cheque que va con ella se avecina.
+Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.

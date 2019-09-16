@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 09 de septiembre 2019 al 15 de septiembre 2019 
-description: Horóscopo semanal cancer 09 de septiembre 2019 al 15 de septiembre 2019. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+title: cancer 16 de septiembre 2019 al 22 de septiembre 2019 
+description: Horóscopo semanal cancer 16 de septiembre 2019 al 22 de septiembre 2019. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: lJ6BxDalL9o
+ video: 5EcWSJOpkEI
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-09'
+ lastmod: '2019-09-16'
 ---
 
 
 
-## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante cancer, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-Si bien la presencia de Saturno en tu signo puede mantener tu enfoque en tus responsabilidades y metas personales, la entrada de Venus a tu sector de comunicación les añade una nota más alegre a las semanas por venir. Te percatarás de que establecer contactos puede proporcionarte útil información que te ayude a terminar tu carga de trabajo con mayor rapidez. Este es sin duda el mejor momento para ponerte en contacto. Si has estado considerando iniciar un negocio en línea, podrías sentir motivación a considerar esto con mayor profundidad.
+Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
+Los planes que dabas por inamovibles podrían cambiar. Sin embargo, esto es algo que te agradaría. Si debes encargarte de tus responsabilidades, puede que tengas ganas de rebelarte y hacer lo que quieras. Y con la Luna Llena alentándote a salir de tu zona de confort, conservar el statu quo podría ser la opción más aburrida. Sin embargo, te convendría ponerte a trabajar en serio y encargarte de estos asuntos de una vez por todas. Tendrás tiempo para divertirte una vez que los hayas terminado.
 
 ## Dinero
 
-Puedes tener la tentación de ir a por un trabajo que no pensabas que podrías conseguir hace una semana. Estás ganando seguridad, no sólo acerca de tus habilidades innatas, sino también acerca de cómo te expones al mundo con tu discurso, gestos y forma de vestir. Ciertos aspectos indican un tiempo de resolución de problemas a nivel familiar o con tu pareja romántica. Dos o tres mentes piensan mejor que una cuando se trata de la construcción de tu nueva imagen.
+Esta semana los aspectos ponen más atención en tu sector de relaciones. Puede ser que tu mente esté en la persona con quien estás saliendo (o con quien quieres salir) en lugar de tu trabajo o vida monetaria. Podrías estar examinando cómo ese alguien tan especial puede ayudarte a ganar más, ahorrar más y planificar un mejor futuro financiero. El agregar más a tu educación a través de clases y talleres podría hacerte una triple amenaza en el trabajo.
