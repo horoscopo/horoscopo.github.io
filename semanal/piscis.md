@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 16 de septiembre 2019 al 22 de septiembre 2019 
-description: Horóscopo semanal piscis 16 de septiembre 2019 al 22 de septiembre 2019. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
+title: piscis 23 de septiembre 2019 al 29 de septiembre 2019 
+description: Horóscopo semanal piscis 23 de septiembre 2019 al 29 de septiembre 2019. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: XinPCy0Wmgk
+ video: Z7kMm59IFD8
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-16'
+ lastmod: '2019-09-23'
 ---
 
 
 
-## Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
+## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 
-Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
- Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
-pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
-Lo que tus amistades digan podría terminar contando mucho esta semana, razón por la que no deberías prestar demasiada atención. Si escuchas con cuidado, te darás cuenta de que sus opiniones cambian tan rápido como el clima. Por ejemplo, si te etiquetan de oportunista por detectar una oportunidad y por querer aprovecharla, deberías de hacerlo de todos modos. Hay una buena probabilidad de que para cuando llegue el fin de semana deseen haber seguido tu consejo. Apégate a tus ideas sin importar lo que digan.
+A veces de bueno te pasas piscis. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio piscis, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa piscis, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso piscis y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
+Con un enfoque encantador que mejora tus relaciones, puedes descubrir que esta mezcla tan poderosa de energías te ayuda a resolver problemas, y también a crear oportunidades que vas a disfrutar. Mientras tanto, problemas con tu estilo de vida podrían estar en un primer plano, y quizás estés al tanto de lo que necesitas hacer para poder estar en óptimas condiciones. Esta semana puede ser un buen momento para juntarte con amistades y brindarse apoyo mutuo en una jornada de bienestar. Pronto sentirás la motivación para verte lo mejor posible.
 
 ## Dinero
 
-La atención de esta semana se centra en las relaciones conforme el Universo trae todo tipo de personas de tu pasado de regreso a tu vida. Si éstas no hacen una aparición personal, podría estar en tus pensamientos. ¿Qué has aprendido desde la última vez que aparecieron en tu vida? ¿Has cambiado o sigues igual? Ciertos aspectos indican que puedes estar pensando en maneras más creativas de ganar dinero, tal vez mediante el uso de un hobby.
+Tienes el beneficio de la duda esta semana gracias a las influencias en tu área de política y los grupos. Un sueño que has mantenido cerca de tu corazón tiene oportunidad de desarrollarse conforme tus redes sociales te conectan a las personas a las que necesitas conocer. Puede que tengas que prestar más atención a tu sector de la diversión, el romance y los niños. Lleva esta alegre energía hacia tu trabajo.

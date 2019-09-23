@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 16 de septiembre 2019 al 22 de septiembre 2019 
-description: Horóscopo semanal capricornio 16 de septiembre 2019 al 22 de septiembre 2019. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: capricornio 23 de septiembre 2019 al 29 de septiembre 2019 
+description: Horóscopo semanal capricornio 23 de septiembre 2019 al 29 de septiembre 2019. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: 9mGS0GsV5jQ
+ video: QjPIYj-wbVU
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-16'
+ lastmod: '2019-09-23'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 
-Tu cabeza quiere un cambio capricornio, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira capricornio, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero capricornio por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
-Tu cabeza y corazón podrían estar en conflicto, dificultándote así resolver una situación clave. ¿Deberías adoptar un enfoque compasivo y tratar de aplacar a los implicados o tratar de defender tu punto de vista? Cualquier ansiedad causada por este asunto puede ser peor que tratar de hacer tu mejor esfuerzo para resolverlo. Ofrécete a hablar sobre ello, pero sólo hazlo si sientes que puedes hacerlo objetivamente. Si te sientes demasiado emocional, puede que sea mejor esperar hasta que las cosas se calmen.
+Parece que no todo va tan mal, no ¿capricornio? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+Esta parece una semana con un rápido ritmo en la que deberías esperar lo inesperado. Mientras que una positiva sorpresa podría mejorar tu estado de ánimo, ten cuidado cuando te encuentres en conversaciones importantes. Si terminas enojándote y molestándote en lugar de mantener la calma, podrías terminar perdiendo una amistad en el proceso. Y a pesar de que pueden solucionarlo, podría tomar tiempo para que puedan confiar el uno en el otro de nuevo. Sin embargo, moverte hacia nuevos círculos podría valer la pena.
 
 ## Dinero
 
-Lo tuyo es el poder ahora. Los demás acuden a ti en busca de respuestas y tú se las proporcionas - por un precio. Cierta tensión puede surgir entre tu tiempo de descanso y tu imagen. Cierta actividad en tu sector de viajes y educación superior indica que piensas en qué parte te vendría bien reforzar tus habilidades. Clases de fin de semana podrían permitirte cobrar más.
+Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.

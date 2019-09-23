@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 16 de septiembre 2019 al 22 de septiembre 2019 
-description: Horóscopo semanal virgo 16 de septiembre 2019 al 22 de septiembre 2019. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: virgo 23 de septiembre 2019 al 29 de septiembre 2019 
+description: Horóscopo semanal virgo 23 de septiembre 2019 al 29 de septiembre 2019. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: Xw67rz5c5Us
+ video: rPFyarqO7Zo
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-16'
+ lastmod: '2019-09-23'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 
-Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca virgo. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder virgo pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias virgo, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
-Los asuntos hogareños y familiares, asuntos de bienes raíces y proyectos de manualidades son clave esta semana conforme el enfoque te anima a seguir adelante con planes que has estado alimentando. Es posible que se te empuje a tomar medidas más pronto que tarde, ya que el Eclipse Solar puede coincidir con eventos que aumenten tu ritmo. Si bien esto puede parecerte incómodo al principio, pronto te darás cuenta de que tienes más oportunidades y libertad de la que pensaste que tenías antes. Sin embargo, Mercurio se torna retrógrado, por lo que sufrir retrasos podría ser inevitable.
+El mundo puede esperar Sagi, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate virgo, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
+El lunes podría encontrarte recibiendo una recompensa por un trabajo bien hecho o tal vez un elogio por tu esfuerzo y dedicación. Además, esta semana parece prometedora para la colaboración en un proyecto o una idea comercial a largo plazo. Puede que el progreso sea lento, pero al final tendrás éxito. A mitad de semana, una inesperada invitación podría ofrecerte una divertida salida. 
+A medida que el sol ingresa a Tauro, un sector más recluido de tu carta, ingresarás a una fase en la que tal vez no quieras socializar demasiado. Puede que prefieras pasar un tiempo haciendo lo que te gusta. El cosmos te anima a reflexionar sobre tus éxitos y fracasos del año pasado, y a mirar hacia el futuro y hacia lo que esperas lograr. Debido a que, tanto el precavido Saturno como el determinado Plutón ingresan a su fase retrógrada en tu sector de recursos compartidos, puede que sientas la necesidad de reestructurar tus finanzas para que el dinero te rinda más.   
 
 ## Dinero
 
-Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.
+Esta semana hay actividad en tu sector de dinero, la cuál está desacelerando lo que ganas actualmente. Podrías llegar a sentir como si no pudieras hacer que nada avanzara, pero sabe que es sólo temporal. El Universo no restringe por crueldad, sino como una manera de alentarnos a ser más cuidadosos y responsables con el dinero. Acude a tus amigos, conocidos y compañeros de trabajo para ayudarte a salir bien de los raspones.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 16 de septiembre 2019 al 22 de septiembre 2019 
-description: Horóscopo semanal cancer 16 de septiembre 2019 al 22 de septiembre 2019. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+title: cancer 23 de septiembre 2019 al 29 de septiembre 2019 
+description: Horóscopo semanal cancer 23 de septiembre 2019 al 29 de septiembre 2019. No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: 5EcWSJOpkEI
+ video: Tc7Fp0hX7ic
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-16'
+ lastmod: '2019-09-23'
 ---
 
 
 
-## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+## No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 
-Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
-Los planes que dabas por inamovibles podrían cambiar. Sin embargo, esto es algo que te agradaría. Si debes encargarte de tus responsabilidades, puede que tengas ganas de rebelarte y hacer lo que quieras. Y con la Luna Llena alentándote a salir de tu zona de confort, conservar el statu quo podría ser la opción más aburrida. Sin embargo, te convendría ponerte a trabajar en serio y encargarte de estos asuntos de una vez por todas. Tendrás tiempo para divertirte una vez que los hayas terminado.
+Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo cancer, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no cancer, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
+Aunque te ocupes mucho con compras de última hora, decorando tu hogar y organizando la semana de festividades; este es también un periodo de renovación espiritual para ti. Es importante que te tomes tiempo para reflexionar, meditar, enderezar malentendidos y cualquier limpieza espiritual que tengas que hacer. Tal parece que durante esta ajetreada semana estarás en demanda con la Luna Llena poniéndote firmemente en el centro de atención. Además, tus relaciones parecen estabilizarse a partir del 25 de $MES.
 
 ## Dinero
 
-Esta semana los aspectos ponen más atención en tu sector de relaciones. Puede ser que tu mente esté en la persona con quien estás saliendo (o con quien quieres salir) en lugar de tu trabajo o vida monetaria. Podrías estar examinando cómo ese alguien tan especial puede ayudarte a ganar más, ahorrar más y planificar un mejor futuro financiero. El agregar más a tu educación a través de clases y talleres podría hacerte una triple amenaza en el trabajo.
+Estás a punto de tomar ventaja de algunas nuevas oportunidades en el trabajo y los negocios. El Universo destaca tu sector que rige el dinero y los valores, por lo que no sólo vas a ser capaz de ganar más, sino que también lo usarás racionalmente. Esto puede significar que inviertas en tu futuro mediante la financiación de un nuevo negocio, o encuentres un millón de nuevas formas de recaudar más dinero.
