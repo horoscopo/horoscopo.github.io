@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de septiembre 2019
-description: Horóscopos del dia de hoy 25 de septiembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de septiembre 2019
+description: Horóscopos del dia de hoy 26 de septiembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-09-25
+ lastmod: 2019-09-26
 ---
-El día de hoy es para la cooperación, no la competencia. Comparte tus recursos y todo el mundo ganará a través del intercambio. Esfuérzate por responder y devolver llamadas y correos electrónicos. Hay demasiadas personas que olvidan lo importante que ambos son. Esta noche, la química es mágica tanto para solteros como parejas cuando la Luna aspecta tanto a Venus como Neptuno.
+Puedes lograr lo que te propongas hacer hoy, por lo que sal a hacer algo. Esta noche, las personas tratan de no pensar en lo que están sintiendo, pero no termina funcionando de esa manera cuando la Luna aspecta a Plutón. Frustración es el resultado de que no quieran compartir sus sentimientos. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
