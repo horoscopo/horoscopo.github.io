@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 23 de septiembre 2019 al 29 de septiembre 2019 
-description: Horóscopo semanal virgo 23 de septiembre 2019 al 29 de septiembre 2019. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
+title: virgo 30 de septiembre 2019 al 06 de octubre 2019 
+description: Horóscopo semanal virgo 30 de septiembre 2019 al 06 de octubre 2019. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: rPFyarqO7Zo
+ video: ehN4fwl1a3Q
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-23'
+ lastmod: '2019-09-30'
 ---
 
 
 
-## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
+## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 
-El mundo puede esperar Sagi, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate virgo, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
-El lunes podría encontrarte recibiendo una recompensa por un trabajo bien hecho o tal vez un elogio por tu esfuerzo y dedicación. Además, esta semana parece prometedora para la colaboración en un proyecto o una idea comercial a largo plazo. Puede que el progreso sea lento, pero al final tendrás éxito. A mitad de semana, una inesperada invitación podría ofrecerte una divertida salida. 
-A medida que el sol ingresa a Tauro, un sector más recluido de tu carta, ingresarás a una fase en la que tal vez no quieras socializar demasiado. Puede que prefieras pasar un tiempo haciendo lo que te gusta. El cosmos te anima a reflexionar sobre tus éxitos y fracasos del año pasado, y a mirar hacia el futuro y hacia lo que esperas lograr. Debido a que, tanto el precavido Saturno como el determinado Plutón ingresan a su fase retrógrada en tu sector de recursos compartidos, puede que sientas la necesidad de reestructurar tus finanzas para que el dinero te rinda más.   
+Llega una etapa buena virgo, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no virgo. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea…
+El encantador Venus en tu sector de comunicación podría captar tu interés por salir y hacer algo distinto. Es una excelente semana para reunirte con tus amistades y disfrutar de divertidos encuentros, en especial si te atreves a moverte en nuevos círculos. En lo que respecta a tu carrera y tus metas, el etéreo Neptuno se vuelve retrógrado el lunes, lo que podría traer consigo la comprensión de algunas cuestiones. Puede que no suceda de la noche a la mañana, pero tal vez te des cuenta de las fallas de un plan o ambición durante los próximos días y semanas. Cuando lo hagas, será momento de actuar. 
+El ingreso del sol a Cáncer y a tu sector monetario el jueves podría animarte a pensar en tu seguridad financiera y en cómo puedes obtener una mayor rentabilidad con tu dinero. Pero trata de tener cuidado el fin de semana, ya que alguien puede intentar darte órdenes. De ser así, ponte firme. 
 
 ## Dinero
 
-Esta semana hay actividad en tu sector de dinero, la cuál está desacelerando lo que ganas actualmente. Podrías llegar a sentir como si no pudieras hacer que nada avanzara, pero sabe que es sólo temporal. El Universo no restringe por crueldad, sino como una manera de alentarnos a ser más cuidadosos y responsables con el dinero. Acude a tus amigos, conocidos y compañeros de trabajo para ayudarte a salir bien de los raspones.
+Te estás preparando para hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Una energía madura y  sensible entra a tu sector del trabajo. Mientras más puedas aprender a aceptar las responsabilidades y demostrar que los demás pueden contar contigo, más recompensa económica vendrá. No te alejes de lo que podría hacerte avanzar potencialmente.

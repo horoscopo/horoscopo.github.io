@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 23 de septiembre 2019 al 29 de septiembre 2019 
-description: Horóscopo semanal piscis 23 de septiembre 2019 al 29 de septiembre 2019. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+title: piscis 30 de septiembre 2019 al 06 de octubre 2019 
+description: Horóscopo semanal piscis 30 de septiembre 2019 al 06 de octubre 2019. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo piscis, se llama dignidad. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: Z7kMm59IFD8
+ video: CIMRSYXx1QQ
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-23'
+ lastmod: '2019-09-30'
 ---
 
 
 
-## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo piscis, se llama dignidad. 
 
-A veces de bueno te pasas piscis. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio piscis, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa piscis, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso piscis y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-Con un enfoque encantador que mejora tus relaciones, puedes descubrir que esta mezcla tan poderosa de energías te ayuda a resolver problemas, y también a crear oportunidades que vas a disfrutar. Mientras tanto, problemas con tu estilo de vida podrían estar en un primer plano, y quizás estés al tanto de lo que necesitas hacer para poder estar en óptimas condiciones. Esta semana puede ser un buen momento para juntarte con amistades y brindarse apoyo mutuo en una jornada de bienestar. Pronto sentirás la motivación para verte lo mejor posible.
+Se avecinan cambios Capri, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Capri, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Capri. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana piscis.
+Hay una vibración hogareña en el aire, pero puede que sientas que debes analizar un problema que ha estado burbujeando debajo de la superficie. Sin embargo, otras influencias más ligeras y brillantes pueden ayudarte a hacerlo de manera que fomente la cooperación y comprensión. La Luna Llena del 8 de $MES podría ser el momento en que finalmente compartas lo que sientes realmente. Este nivel de honestidad podría sorprender a los demás, pero puede ayudar a relajar el ambiente. Por último, tus amistades pueden ser una influencia inspiradora en este momento.
 
 ## Dinero
 
-Tienes el beneficio de la duda esta semana gracias a las influencias en tu área de política y los grupos. Un sueño que has mantenido cerca de tu corazón tiene oportunidad de desarrollarse conforme tus redes sociales te conectan a las personas a las que necesitas conocer. Puede que tengas que prestar más atención a tu sector de la diversión, el romance y los niños. Lleva esta alegre energía hacia tu trabajo.
+Esta semana para ti es acerca de relaciones no solidarias. Quieres lanzarte hacia metas financieras y relacionadas con el trabajo. La decisión puede estar entre brillar con luz propia como individuo o como miembro de un equipo. Una parte de ti quiere alimentar tu ego, pero la otra parte, la más inteligente, se da cuenta de que también dependes de tu equipo. Escucha a la mejor parte que tienes.

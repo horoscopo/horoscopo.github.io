@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: aries 23 de septiembre 2019 al 29 de septiembre 2019 
-description: Horóscopo semanal aries 23 de septiembre 2019 al 29 de septiembre 2019. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
+title: aries 30 de septiembre 2019 al 06 de octubre 2019 
+description: Horóscopo semanal aries 30 de septiembre 2019 al 06 de octubre 2019. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: b6YXySeHHqI
+ video: 7AagATd-S4Q
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-23'
+ lastmod: '2019-09-30'
 ---
 
 
 
-## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
+## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 
-Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
- aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
-En los próximos días podrías involucrarte en algunas interesantes conversaciones que pueden impulsarte hacia nuevas aventuras. Lo que sea que ha estado rondando por tu cabeza podría convertirse en realidad. Cuando el sol ingresa a tu sector de comunicación y pensamiento el martes, puede que descubras una oportunidad que está esperando a ser aprovechada. Sin embargo, Mercurio, el mensajero, se vuelve retrógrado el jueves y permanecerá así hasta el 15 de $MES. Ten cuidado al cerrar tratos o comprar costosos objetos.
+Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
+ La gente es como es y no debes martirizarte por ello aries.
+Es posible que una ambición profesional se haga realidad si logras conectar con la persona adecuada. Esta semana te brinda la oportunidad de hacer precisamente eso, pudiendo crear una fascinante conversación entre ustedes. Si pueden satisfacer sus necesidades mutuas con un acuerdo, ambos estarán satisfechos. También tienes la opción de mejorar espiritualmente al deliberadamente dejar de lado sentimientos que te impiden seguir avanzando. Además, tus sueños también podrían ser intensos y guiarte positivamente.
 
 ## Dinero
 
+Es posible que te enfrentes al reto de hacer que ciertas relaciones personales funcionen, sobre todo en tu vida laboral y monetaria. Puede que alguien no esté cooperando ahora, pero si te mantienes con calma y diplomacia (no con estrés o confrontación), puedes establecer un maravilloso compromiso en el que todos ganen. Adopta una postura de negociación en todos los asuntos comerciales.

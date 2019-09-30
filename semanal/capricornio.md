@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 23 de septiembre 2019 al 29 de septiembre 2019 
-description: Horóscopo semanal capricornio 23 de septiembre 2019 al 29 de septiembre 2019. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+title: capricornio 30 de septiembre 2019 al 06 de octubre 2019 
+description: Horóscopo semanal capricornio 30 de septiembre 2019 al 06 de octubre 2019. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo capricornio.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: QjPIYj-wbVU
+ video: cgL9J26-gzE
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-23'
+ lastmod: '2019-09-30'
 ---
 
 
 
-## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo capricornio.
 
-Parece que no todo va tan mal, no ¿capricornio? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-Esta parece una semana con un rápido ritmo en la que deberías esperar lo inesperado. Mientras que una positiva sorpresa podría mejorar tu estado de ánimo, ten cuidado cuando te encuentres en conversaciones importantes. Si terminas enojándote y molestándote en lugar de mantener la calma, podrías terminar perdiendo una amistad en el proceso. Y a pesar de que pueden solucionarlo, podría tomar tiempo para que puedan confiar el uno en el otro de nuevo. Sin embargo, moverte hacia nuevos círculos podría valer la pena.
+Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
+Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
+¿Preferirías lanzarte al mundo sin miedo o quedarte bajo las sábanas? Puede que tengas que tomar tal decisión el martes. Con el fuerte enfoque en tu sector hogareño y familiar, puede que sientas que todavía no ha llegado el momento para que compartas o hagas aquello que es lo que haya que hacer. Reflexionar podría ayudarte a echar a andar tu creatividad y tal vez formular brillantes ideas. Más adelante en la semana, una agitación dentro de ti podría ser la precursora de un cambio.
 
 ## Dinero
 
-Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.
+Tienes energía en tu sector de trabajo. Esto hace que sea más fácil el sobrellevar largos días si has sentido cansancio, o el poder realizar presentaciones, reuniones o papeleo. Mide tu energía durante todo el día para no quedarte sin nada antes del almuerzo. Puede que no tengas el poder de cambiar por completo tu situación todavía, pero definitivamente puedes mejorarla mucho más del estado en el que ha estado últimamente. Persevera.
