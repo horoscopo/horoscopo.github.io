@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo geminis septiembre 2019
-description: El Horóscopo septiembre de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo geminis octubre 2019
+description: El Horóscopo octubre de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo geminis septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo geminis octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
- video: Ht0xXUYcY0E
+ video: ic_c2a-QF4s
 
 ogimg: /images/mes/geminis_mes.png
 sitemap:
@@ -17,7 +17,6 @@ sitemap:
 ---
 
 
-Mercurio ingresa a Tauro el 13 de septiembre. Pon los pies más sobre la tierra y pasa más tiempo lidiando con asuntos agradables y prácticos. La vida laboral y doméstica deberían volverse más fáciles. El mundo se pone cada vez más bello bajo la luna nueva del día 15. No importa qué sucede a tu alrededor, no pasarás por alto ni subestimarás nada de lo que está saliendo bien. La luna llena del 29 de septiembre ilumina a tu familia y ambiente doméstico. Sé una persona más receptiva y permite que alguien sugiera alguna mejora, o una forma de expandir los intereses domésticos. Intenta cocinar un nuevo plato o tal vez agrega una nueva variedad de vegetales o flores en tu jardín. 
+El 3 de octubre, el trígono entre el Sol y Júpiter enriquece una situación o relación que ya era agradable. La Luna Llena del 9 de octubre atrae a todas tus amistades y vecinos, o por lo menos así parece. Si no estás de humor para ofrecer una fiesta, deja que alguien más lo haga y ve un rato. Además, Júpiter ingresa directamente a Libra ese día. Esto hace que sea ¡hora de festejar! Vuélvete el centro de atención en el trabajo durante la Luna Nueva del 23 de octubre. Un avance en tu carrera o un proyecto más grande pueden surgir para ti, o podrías sugerir dicho cambio y tus superiores verán la sabiduría en tu sugerencia. 
 
-Días destacados: 2, 18, 25
-Días desafiantes: 7, 23
+Mejores días: 3, 9, 26Peores días: 19, 27

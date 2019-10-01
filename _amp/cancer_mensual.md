@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo cancer septiembre 2019 
+title: Horoscopo cancer octubre 2019 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: K-wU2aUYtHM
+ video: AsGtEL5Pk0w
 
 ogimg: /images/cancer_char.png
 sitemap:
@@ -15,4 +15,7 @@ sitemap:
 ---
 
 
-Mantente alerta a gastos impulsivos durante la primera semana del mes. La Luna Llena del 2 de septiembre podría tenderte una trampa para que gastes más de lo que tenías planeado. Antes de hacer una compra, entabla una conversación y date más tiempo para pensar en ello. La vida podría volverse emocionante después de la Luna Nueva del 16 de septiembre, cuando las ansiedades de ciertas personas podrían encender las tuyas. Mantenerte con una actitud calmada y serena podría iniciarte una relación poderosa y rentable. Cuando la oportunidad surja, compórtate valiente más no imprudentemente. El fin de semana del 27 de septiembre podría estar emocionalmente sobrecargado, por lo que pásalo con alguien que ya sabes que amas.
+Piensa mucho y en profundidad bajo la luna nueva del 15 de octubre. Ten una perspectiva que te dé una base más firme, y mayor felicidad y seguridad cuando decides colaborar más con el mundo. El sol ingresa a Géminis el día 20. Entretiene y déjate entretener, aunque puedes atraer más atención de la que esperabas. El amor y el romance son brillantes bajo la luna llena del 29 de octubre. Escucha a tu pareja expresar sus deseos más profundos. Si estás buscando amor, perfectamente podrías atraer la atención de alguien. Tal vez no dure para siempre, pero podría durar lo suficiente. Además, Mercurio ingresa a Géminis ese día. ¡Bien por ti! 
+
+Días destacados: 13, 18, 25
+Días desafiantes: 7, 22

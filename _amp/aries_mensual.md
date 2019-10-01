@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo aries septiembre 2019 
+title: Horoscopo aries octubre 2019 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
- video: 8V2n5QiOfhc
+ video: RaER8ue7WYs
 
 ogimg: /images/aries_char.png
 sitemap:
@@ -15,4 +15,10 @@ sitemap:
 ---
 
 
-Tu entorno y vida familiar podía ver una gran mejora bajo la Luna Nueva del 2 de septiembre. Tienes el control y sabes cómo quieres las cosas. Puede que sólo sea un cambio muy pequeño, pero hará una hermosa y grande diferencia. Toma en serio tu búsqueda de éxito bajo la Luna Llena del 18 de septiembre. Un cambio o una oportunidad inesperada que se abra en tu trabajo podría permitirte avanzar y hacerte cargo de algo que has estado esperando hacer. Ama tu vida el 27 de septiembre, cuando Venus y Júpiter conecten para formar una conjunción. La belleza y la felicidad también pueden ser encontradas en los detalles.
+Venus se torna estacionario retrógrado el 5 de octubre. Disfruta de una perspectiva más clara en referente a temas de romance. Además, trata de posponer los compromisos formales hasta el 16 de octubre, si puedes. 
+Con la luna llena del día 8, tal vez quieres aferrarte a una idea, lugar o cosa que aprecias o piensas que es necesaria, pero te estarás limitando. ¿Por qué mantener tu mundo pequeño? Desafía un concepto o creencia arraigada, y aprenderás muchas cosas. 
+El sol forma una oposición con Urano el 23 de octubre. Si sientes que hay obstáculos, esto solo te da más tiempo para perfeccionar tu enfoque y técnica. No te frustres. 
+Sé la persona a la cual acudir en el trabajo cuando la luna está llena el día 24. Si no hay nada especial para hacer, más colegas pueden confiar en ti. Debes saber escuchar y mantener la objetividad, incluso si pudieras aprovecharte de la situación. 
+Venus forma una oposición con Urano el 31 de octubre. El amor puede ser menos ostentoso, pero eso permite que un romance más sutil muestre su sinceridad. 
+Días destacados: 5, 14, 24
+Días desafiantes: 10, 31

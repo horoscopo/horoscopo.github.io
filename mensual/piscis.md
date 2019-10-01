@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo piscis septiembre 2019
-description: El Horóscopo septiembre de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo piscis octubre 2019
+description: El Horóscopo octubre de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/piscis/
 amplink: /horoscopo-mensual/amp/piscis/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo piscis septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo piscis octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
- video: 4JDBymsXnZs
+ video: plRFZ3HiegE
 
 ogimg: /images/mes/piscis_mes.png
 sitemap:
@@ -17,8 +17,4 @@ sitemap:
 ---
 
 
-septiembre trajo una luna llena en tu signo, lo que te pidió aclarar tus necesidades en tus relaciones. A medida que septiembre comienza, tómate el tiempo para discernir dónde necesitas poner límites más firmes y dónde necesitas bajar la guardia. 
-La luna nueva y el eclipse solar en Capricornio marcan el comienzo de una nueva fase de 18 meses de transformación, lo que te permite profundizar en relaciones sanas donde haya apoyo, cariño, respeto y cuidado mutuo. En lo profesional, te sientes a toda marcha y tu trabajo está siendo reconocido. Pero mantén tu humildad y dale crédito a quien lo merece. Tener éxito a costa de los demás es como cortar la rama en la que te sientas. 
-El 20 de septiembre, la luna llena en Leo y el eclipse lunar iluminan un asunto económico o de relaciones. Abandona las luchas por el poder, mantente fiel a tus valores, y no te apegues a una situación cambiante. Puedes tener la seguridad emocional y económica que deseas, pero tu mayor recompensa será vivir lo mejor que puedas, y seguir tu destino mientras haces de este mundo un lugar mejor. Eso no tiene precio. Ahora más que nunca, recibirás lo que das. 
-Días destacados: 15, 22, 30 
-Días desafiantes: 5, 11, 21
+Acude a un lugar especial o comienza a estudiar algo nuevo y emocionante alrededor de la Luna Nueva del 8 de octubre. Si la idea o el tema es lo suficientemente grande, no tendrás que ir muy lejos. El mundo está listo para venir hacia ti. Prepárate. En tu trabajo, un asunto o misterio podría ser aclarado bajo la Luna Llena del 22 de octubre. Si hay algo que no te satisface profesionalmente, serás capaz de resolverlo, ya sea en parte, o en su totalidad. La oportunidad de encontrar un nuevo trabajo también se ve favorecida ahora. Mantente alerta y tu ambición encendida. El 26 de octubre pone un sorprendente amor en tu camino gracias al suave sextil entre Mercurio y Urano que puede aliviar cualquier posible aburrimiento o sentimiento de obsoleta diversión.

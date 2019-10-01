@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo libra septiembre 2019
-description: El Horóscopo septiembre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo libra octubre 2019
+description: El Horóscopo octubre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo libra septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo libra octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
- video: 9qU19_BoSRw
+ video: 7Zq87q8jceg
 
 ogimg: /images/mes/libra_mes.png
 sitemap:
@@ -17,4 +17,7 @@ sitemap:
 ---
 
 
-El Eclipse de Luna Llena del 10 de septiembre destaca un asunto financiero u otra preocupación material. El dinero podría parecer hacer posible una mejora en tu hogar o proporcionar un cojín que haga un tema familiar menos estresante. Las emociones y las fantasías alcanzan su punto máximo el 18 de septiembre una vez que el Sol entra a Piscis. Alrededor del Eclipse Solar de Luna Nueva el 26 de septiembre, los valores tradicionales podrían chocar con un creciente interés por valores más radicales y universales. Bien sabes que probablemente no puedes salvar al mundo, pero tu corazón podría ponerte en esa dirección. Mantén tu vida intacta, pero si puedes hacer más, bueno, pues, ¿por qué no?
+Haz lo que más te plazca durante la luna nueva del 15 de octubre. Puede haber muchas sugerencias y opiniones, pero este es el momento para hacer lo que te hace feliz. Mercurio forma un trígono con Saturno el día 18, lo que trae de vuelta un asunto sin resolver al que le ha llegado la hora. Ahora puedes resolverlo con facilidad. Es una luna llena intensa la del 29 de octubre, pero no tiene por qué ser estresante o desalentadora. Intenta buscar algo de tiempo para pasar en privado y siéntete bien sobre lo que haces, los sacrificios que estás haciendo, y las buenas causas que estás promoviendo. Todo está haciendo que avances y te sientas mejor. 
+
+Días destacados: 4, 14, 31
+Días desafiantes: 1, 25

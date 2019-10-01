@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo virgo septiembre 2019 
+title: Horoscopo virgo octubre 2019 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: LhO0WjH2CCg
+ video: vjvtZXrz4lw
 
 ogimg: /images/virgo_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-La Luna Llena del 2 de septiembre quiere traerte amor, pero puede que pienses que tu vida está muy ocupada o que tu corazón todavía no está listo.  Confía en tus instintos y resístete si es necesario. No te dejes apresurar. La Luna Nueva del 16 de septiembre enciende tu fuego personal. Acepta esta salvaje energía que te ayudará a hacer mucho, más no te impacientes o te enojes. Este sentimiento podría sólo empeorar y ser difícil de apagar una vez encendido. Mantén la calma y permite que la gente esté de tu lado. El 23 de septiembre podría ser un día laboral difícil en el que las personas parezcan estar determinadas a malentenderse las unas a las otras. Evita involucrarte en chismes y todo estará bien.
+Para la luna llena del 1 de octubre, sé una persona artística y atrevida. Tómate una o dos horas para hacer bordados en miniatura o un álbum de recortes. Encuentra una gran diversión en pequeños esfuerzos. La luna nueva del día 17 se trata de tener vida social, conexiones y fiestas. La alegría, el amor y la suerte están ahora en el aire. El 30 de octubre, Venus entra a Tauro, el signo que rige. Atrae toda la atención que puedas querer, y disfruta de cada momento. Llénate de motivación con la luna llena, una luna azul, el último día del mes, y cuida mejor de ti. Además, come, duerme y sueña mejor.

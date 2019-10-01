@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo acuario septiembre 2019 
+title: Horoscopo acuario octubre 2019 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
- video: ewZAFtzhcQ4
+ video: TpLdQ7f3iFA
 
 ogimg: /images/acuario_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-Mercurio ingresa a Géminis el 6 de septiembre, y de repente todo el mundo podría volverse más interesante. Despierta tu curiosidad y mantente así. El amor y romance brillan con fuerza para ti alrededor de la Luna Llena del 9 de septiembre. De repente, un amante podría volverse gseptiembreso y afectivo (al punto de no creerlo). Acepta la atención y asegúrate de que cualquier acto de gseptiembresidad y bondad no tenga un compromiso implícito. La Luna Nueva del 23 de septiembre empodera tus pronósticos financieros y monetarios. Una oportunidad de ingresos podría ser lucrativa y mantenerte con demasiadas ocupaciones como para gastar más de lo que necesitas o pretendes. Es ahora cuando podrías participar en una empresa creada recientemente.
+¡Feliz año nuevo! Durante la luna llena del 1 de octubre, relájate y tómate tu tiempo para poner tus prioridades en orden. Puedes oír muchos consejos y sugerencias, pero tú sabes lo que es mejor para ti. Mantén tus propias necesidades primeras en la lista. La luna nueva del día 16 pone oportunidades financieras en tu camino. Esa conversación casual que tienes en la cafetería podría llevar a cosas más grandes y rentables. El 31 de octubre, una segunda luna llena (y un eclipse lunar) podría transformar una situación negativa en una positiva, lo que favorece oportunidades para todos los involucrados. 

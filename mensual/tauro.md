@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo tauro septiembre 2019
-description: El Horóscopo septiembre de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo tauro octubre 2019
+description: El Horóscopo octubre de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/tauro/
 amplink: /horoscopo-mensual/amp/tauro/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo tauro septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo tauro octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
- video: E6yisy3TOhI
+ video: sqzcS0v20SQ
 
 ogimg: /images/mes/tauro_mes.png
 sitemap:
@@ -17,4 +17,4 @@ sitemap:
 ---
 
 
-El Sol y Saturno conjuntan el 10 de septiembre y esto podría poner a mucha gente nerviosa. No a ti. Alrededor de la Luna Llena del 13 de septiembre, puede que tengas un millón de cosas que te estás muriendo por hacer, pero tu vida social y la época de fiestas siguen interponiéndose. Escoge una cosa y ve si puedes tentar a un amigo para que la haga contigo. La Luna Nueva del 28 de septiembre puede darte el descanso y el tiempo en privado que deseas y necesitas. Pero eso no significa que no vaya a ser intenso. Lee (o escribe) poesía poderosa, ve una película profundamente emocional y tal vez invita a alguien a que te acompañe a tu morada.
+Evita un argumento cuando la Luna en Leo cuadre a Marte y forme trígono con Saturno el 6 de octubre. Sí, requerirás de autocontrol. La Luna Llena del 10 de octubre podría recordarte a cuántas personas les caes bien. Tanto amigos, como vecinos o hermanos podrían sorprenderte con una muestra de amistad. Puede que no sean flores, pero podrían venir tanto en forma material como también en elogios. Busca oportunidades profesionales en torno a la Luna Nueva del 26 de octubre. Incluso si tu posición no recibe un impulso importante al instante, todas tus acciones serán visibles. Tú bien conoces tu propia mente, por lo que compórtate autoritaria pero no mandonamente.
