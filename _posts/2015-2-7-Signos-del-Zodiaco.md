@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de octubre 2019
-description: Horóscopos del dia de hoy 01 de octubre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de octubre 2019
+description: Horóscopos del dia de hoy 02 de octubre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-10-01
+ lastmod: 2019-10-02
 ---
-Muestra tu creatividad y habilidades para resolver problemas mientras la Luna conjunta a Mercurio hoy. Después haz algo de relaciones públicas que, en esencia, dice que parecía imposible, pero fue hecho. La Luna en Capricornio de esta noche trae consigo un momento de descanso en el que no se te toma por sorpresa y las personas no son demasiado emotivas. ¡Qué alivio!
+Esta es tu última oportunidad durante las pocas horas restantes de disponibilidad en las que Marte se encontrará en Géminis. No ignores los puntos esenciales. El reloj está avanzando. Los solteros entran al mundo de la regla de los 30 segundos bajo la Luna fuera de órbita en Virgo de esta noche, ofreciéndoles poca oportunidad de defenderse a aquellos que sean plásticos o falsos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
