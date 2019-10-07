@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 30 de septiembre 2019 al 06 de octubre 2019 
-description: Horóscopo semanal leo 30 de septiembre 2019 al 06 de octubre 2019. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: leo 07 de octubre 2019 al 13 de octubre 2019 
+description: Horóscopo semanal leo 07 de octubre 2019 al 13 de octubre 2019. Nada tiene que ser ahora suficiente para ti leo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: iMOXkKW6Drc
+ video: rGIt2tO3h3Y
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-30'
+ lastmod: '2019-10-07'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Nada tiene que ser ahora suficiente para ti leo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 
-A veces quieres llegar al fondo de cualquier cosa leo, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo leo. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a leo, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona leo así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
-Con el actual enfoque en un sector más enclaustrado de tu carta, sentirías contento al pasar tiempo a solas y darte algunos consentimientos. Desafortunadamente, puede que esto no sea posible en práctica, ya que ciertas responsabilidades podrían salir a la superficie, especialmente en la segunda parte de la semana. Si esperabas poder relajarte y descansar, podrías tener que asumir una gran cantidad de trabajo, tal vez a corto plazo. Pareces estar bajo presión, por lo que tendrás que mantenerte a buen ritmo para terminarlo todo.
+A veces te confundes leo, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso leo. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. leo, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo leo, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+No permitas que las dudas o temores socaven tus objetivos o te impidan apuntar alto. El contexto cósmico de esta semana podría hacerte dudar y preguntarte si estás haciendo lo correcto. Ten confianza en ti. Si necesitas reafirmación o motivación, habla con una amistad o consejero de vida. Una nueva perspectiva podría mejorar maravillosamente tu estado de ánimo. La Luna Llena en Géminis de mitad de semana sugiere que vas a tener visitas en tu hogar, pudiendo dar lugar a una gran fiesta.
 
 ## Dinero
 
-Te sientes más libre para tomar riesgos con tus habilidades comunicativas. Esto da frutos cuando se trata de la búsqueda de nuevo empleo o esfuerzos para batallar en contra de retrasos financieros. Tienes más de una oportunidad de ganar más dinero mediante la adopción de horas extras o de un trabajo de tiempo parcial. Pero ciertos aspectos están sacudiendo tu sector de trabajo de una manera que puedes encontrar desagradable. Si tu empresa parece inestable, imprime currículums y comienza a enviarlos.
+Con actividad en el área de tu carta que rige las vidas pasadas, el karma y las instituciones, es muy probable que estés reevaluando tus planes de trabajo para el futuro. Empresas o personas con las que pensaste que no te gustaría trabajar parecen tener todo lo que quieres y necesitas ahora; desde la distribución de redes, a acceso a acaudalados donantes. Para ganar más, encuentra la manera de trabajar dentro del sistema. Te percatarás de que no es tan malo como piensas.

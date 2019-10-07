@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: libra 30 de septiembre 2019 al 06 de octubre 2019 
-description: Horóscopo semanal libra 30 de septiembre 2019 al 06 de octubre 2019. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: libra 07 de octubre 2019 al 13 de octubre 2019 
+description: Horóscopo semanal libra 07 de octubre 2019 al 13 de octubre 2019. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: XE-04_xhoHI
+ video: FBAesowVl58
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-09-30'
+ lastmod: '2019-10-07'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 
-Tienes que empezar a vivir de nuevo Capri, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad Capri, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
-
+Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
+Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
+Hay un enfoque bastante intenso en tu sector de comunicación, lo que sugiere que podrías tener una gran determinación de avanzar con tus planes actuales. Aun así, cuando el vital Marte se fusiona con el prudente Saturno al comienzo de la semana, podrías encontrarte con un obstáculo. Esto no significa que debas abandonar tu proyecto, sino que deberías considerar dar un paso hacia atrás. Si sumas algunos ajustes y consejos de expertos, podrías estar nuevamente en camino muy pronto. 
+La manera en que conectas con los demás también puede ser muy apasionada. Durante la semana, puede que haya algunas personas a las que tu enfoque les resulte demasiado exigente. Quizá prefieran que disminuyas un poco la exigencia y que, en general, te relajes más. Tomarte el tiempo para entender su perspectiva puede conducir a un positivo avance, en especial el fin de semana. Además, el encantador Venus en tu sector de relaciones puede mejorar tu vida social en gran medida.  
 
 ## Dinero
 
-Tienes toneladas de nueva energía para darles una impresión positiva a todos los que conoces. Es un buen momento para programar una entrevista de trabajo o hacer presentaciones para hacerle más publicidad a tus productos y servicios. El Universo pone más atención en el romance, los niños y la familia. Mientras más utilices tu personalidad para impresionar a los demás, mejor será la situación financiera de la gente que realmente te importa.
+Esta semana es sobre la actividad que hay en tu sector de deuda. Si has estado pensando en formular un plan de pago con respecto a algunas facturas vencidas, ponlo en marcha tan pronto como puedas. Si necesitas solicitar una nueva tasa de interés en tu tarjeta de crédito, tienes el suficiente apoyo para hacerlo. El Universo insiste en que actúes y no dejes las cosas al azar. No es cosa de risa.
