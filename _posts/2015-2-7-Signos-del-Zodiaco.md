@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de octubre 2019
-description: Horóscopos del dia de hoy 07 de octubre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de octubre 2019
+description: Horóscopos del dia de hoy 08 de octubre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-10-07
+ lastmod: 2019-10-08
 ---
-Puedes hacer elecciones lucrativas y afortunadas esta mañana. Y esta tarde, no te apegues a la costumbre y la tradición - prueba nuevos enfoques en tu toma de decisiones. El tiempo se siente como si estuviera limitado cuando la Luna en el ardiente Leo conjunte al igual de efusivo Marte; aunque por supuesto, no sea verdad. Los solteros hacen amistades velozmente, probablemente demasiado rápido.
+Mercurio en Leo mejora las negociaciones, la investigación y la capacidad para formular ideas. Contribuye con tu talento y haz que sea reconocido en las próximas semanas. Esta noche, espera un montón de pensamientos provenientes del corazón, permitiendo que tiernos sentimientos sean revelados cuando la Luna aspecte tanto a Mercurio (pensamiento) como a Venus (amor).
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
