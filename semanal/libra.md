@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: libra 07 de octubre 2019 al 13 de octubre 2019 
-description: Horóscopo semanal libra 07 de octubre 2019 al 13 de octubre 2019. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+title: libra 14 de octubre 2019 al 20 de octubre 2019 
+description: Horóscopo semanal libra 14 de octubre 2019 al 20 de octubre 2019. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana libra.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: FBAesowVl58
+ video: DSjkUP4PMBQ
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-07'
+ lastmod: '2019-10-14'
 ---
 
 
 
-## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana libra.
 
-Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
-Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
-Hay un enfoque bastante intenso en tu sector de comunicación, lo que sugiere que podrías tener una gran determinación de avanzar con tus planes actuales. Aun así, cuando el vital Marte se fusiona con el prudente Saturno al comienzo de la semana, podrías encontrarte con un obstáculo. Esto no significa que debas abandonar tu proyecto, sino que deberías considerar dar un paso hacia atrás. Si sumas algunos ajustes y consejos de expertos, podrías estar nuevamente en camino muy pronto. 
-La manera en que conectas con los demás también puede ser muy apasionada. Durante la semana, puede que haya algunas personas a las que tu enfoque les resulte demasiado exigente. Quizá prefieran que disminuyas un poco la exigencia y que, en general, te relajes más. Tomarte el tiempo para entender su perspectiva puede conducir a un positivo avance, en especial el fin de semana. Además, el encantador Venus en tu sector de relaciones puede mejorar tu vida social en gran medida.  
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio libra, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+Puede que te preguntes si deberías jugar a lo seguro o comprar un costoso artículo o experiencia. Con Mercurio retrógrado en tu sector financiero, puede que sea mejor esperar hasta después de 21 de $MES, ya que darte un pequeño lujo o capricho podría atarte a algo. Además, ciertas emociones podrían salir a la superficie con el Eclipse Lunar en tu sector de bienes compartidos. Teniendo esto en cuenta, podría ser prudente irte a lo seguro si sientes preocupación debido a gastos inesperados.
 
 ## Dinero
 
-Esta semana es sobre la actividad que hay en tu sector de deuda. Si has estado pensando en formular un plan de pago con respecto a algunas facturas vencidas, ponlo en marcha tan pronto como puedas. Si necesitas solicitar una nueva tasa de interés en tu tarjeta de crédito, tienes el suficiente apoyo para hacerlo. El Universo insiste en que actúes y no dejes las cosas al azar. No es cosa de risa.
+Estás listo/a para un gran avance gracias al apoyo de los aspectos que rigen la familia y el romance. Tu gasto ha disminuido lenta pero constantemente, y ahora es el momento de divertirse un poco. Puede que tus amigos y conocidos deseen participar en la acción, pero asegúrate de que sepan que tienen que pagar cada quién lo suyo. De esta manera te ahorrarás conflictos en la relación.

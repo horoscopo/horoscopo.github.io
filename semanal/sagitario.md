@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 07 de octubre 2019 al 13 de octubre 2019 
-description: Horóscopo semanal sagitario 07 de octubre 2019 al 13 de octubre 2019. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+title: sagitario 14 de octubre 2019 al 20 de octubre 2019 
+description: Horóscopo semanal sagitario 14 de octubre 2019 al 20 de octubre 2019. Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: PxxH2ecF_wE
+ video: jCI9B_1osHg
 
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-07'
+ lastmod: '2019-10-14'
 ---
 
 
 
-## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+## Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 
-Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa sagitario, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
-La próxima semana podría ser muy ocupada. Con el actual enfoque en Virgo, esta podría ser una buena oportunidad para considerar si estás haciendo el mejor uso de tu tiempo. Es probable que haya actividades que puedas recortar o eliminar para que puedas centrarte en tareas más importantes y lucrativas. A partir de mediados de la semana, podrías experimentar una especie de bloqueo creativo que retrase un proyecto. Si este es el caso, no te preocupes. Aprovecha esta oportunidad para relajarte y recargar baterías. Pronto volverás a la normalidad.
+Te crees que eres débil sagitario, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos sagitario, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior sagitario… Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+Aunque puede que tengas que lidiar con una o dos cuestiones inquietas durante la próxima semana, la presencia de Júpiter en tu signo puede ayudarte a resolver tanto los dilemas como enredos al emplear tu buen sentido del humor. En referente a asuntos monetarios, es posible que sientas indecisión entre apartar algo de dinero para regalos o gastarlos en un viaje o experiencia que has anhelado por algún tiempo. En este caso, puede que decidas encontrar un punto medio.
 
 ## Dinero
 
-Puede que tu progreso financiero haya disminuido, pero las cosas están definitivamente mejorando. Se te pide que investigues tus gastos en cuestiones relacionadas con la familia, los niños, romance y diversión. Puede que te des cuenta de que había más de los que pensabas. El recortar algunos de estos -aunque sea un poco- podría significar más diversión a largo plazo, junto con menos preocupación. Te mereces un futuro libre de estrés.
+Puede que te encuentres considerando todos los ángulos. Considera cómo buscar las verdades más profundas en tu vida. En este momento, regresar a la escuela, aprender un idioma o ir a un viaje educativo podría ser justo lo que necesitas para regresar a tu ritmo. Conéctate con los sueños que has tenido durante mucho tiempo y que no se hayan realizado. El dinero llega cuando te permites hacer lo que quieres hacer y lo que te gusta.

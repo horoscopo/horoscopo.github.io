@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: acuario 07 de octubre 2019 al 13 de octubre 2019 
-description: Horóscopo semanal acuario 07 de octubre 2019 al 13 de octubre 2019. Eleva tu ego acuario, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
+title: acuario 14 de octubre 2019 al 20 de octubre 2019 
+description: Horóscopo semanal acuario 14 de octubre 2019 al 20 de octubre 2019. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: iz_Wm-JUSpE
+ video: 6zUrUooj-_g
 
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-07'
+ lastmod: '2019-10-14'
 ---
 
 
 
-## Eleva tu ego acuario, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
+## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 
-No sueles dar la llave de tu corazón a nadie acuario, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia acuario, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana acuario.
-Tu curiosidad es despertada, tentándote a considerar salir a citas si es que has estado fuera de la escena amorosa por un tiempo. Estás en tu elemento esta semana y tienes ganas de disfrutar de los placeres de la vida. Aun así, es posible que desees aligerar tu horario alrededor de la época de la Luna Llena en Sagitario. Con tus sentimientos pudiendo ser profundos, te serviría quitar el pie del acelerador e ir con la corriente. Más tarde, tus oportunidades sociales se ven especialmente alentadoras, con la posibilidad de un encantador encuentro.
+Céntrate en tus metas acuario, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+Tus pensamientos pueden ser profundos, y —al parecer— esta enternecedora y espiritual etapa durará un tiempo más. Pero no dejes que eso retrase las actividades que, a primera vista, parezcan triviales o superficiales. Necesitas los momentos serios y también la diversión. Y cuando el conversador Mercurio pasa por tu sector de comunicación, es un excelente momento para conectar con las personas que pueden ayudarte a cumplir una meta personal.
+El martes puede ser un encantador día para una cita especial con tu pareja o incluso para una primera cita con un interés romántico. El sol en tu sector de romance se alinea con el positivo Júpiter. Prepárate para que sucedan cosas buenas.
+Debido a que el activo Urano está a punto de abandonar tu sector de comunicación, que no te sorprenda si los próximos días coinciden con un encuentro o con información que cambia tu perspectiva sobre la vida. Y ya que el eléctrico Urano ingresará a tu sector hogareño la semana próxima, podrías cumplir ese tan ansiado logro importante.
 
 ## Dinero
 
-A pesar de que tu mente se encuentra tanto en posibles viajes como en el aprendizaje en este momento, fomentarte más educación puede ser tu mejor apuesta. Las certificaciones pueden traerte un mayor flujo de efectivo y establecerte como una fuerza en tu industria en particular. Mientras tanto, se te insta a centrarte más en cómo puedes ampliar tu base de clientes. Las ventas de bienes y servicios dependen de ello.
+Te enfrentas a un desafío con actividad afectando tu hogar y emociones internas. Aunque los planetas equilibran perfectamente las energías masculina y femenina dentro de ti, también pueden sacar a relucir temas que prefieres no tratar ahora. Trata de lidiar con ellos uno a la vez. En última instancia, este momento proporciona el espacio necesario para el surgimiento de nuevas ideas, ¡muchas de ellas lucrativas!

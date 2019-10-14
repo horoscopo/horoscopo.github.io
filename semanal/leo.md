@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 07 de octubre 2019 al 13 de octubre 2019 
-description: Horóscopo semanal leo 07 de octubre 2019 al 13 de octubre 2019. Nada tiene que ser ahora suficiente para ti leo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
+title: leo 14 de octubre 2019 al 20 de octubre 2019 
+description: Horóscopo semanal leo 14 de octubre 2019 al 20 de octubre 2019. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: rGIt2tO3h3Y
+ video: cpHyU2NzbPo
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-07'
+ lastmod: '2019-10-14'
 ---
 
 
 
-## Nada tiene que ser ahora suficiente para ti leo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
+## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 
-A veces te confundes leo, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso leo. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. leo, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo leo, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
-No permitas que las dudas o temores socaven tus objetivos o te impidan apuntar alto. El contexto cósmico de esta semana podría hacerte dudar y preguntarte si estás haciendo lo correcto. Ten confianza en ti. Si necesitas reafirmación o motivación, habla con una amistad o consejero de vida. Una nueva perspectiva podría mejorar maravillosamente tu estado de ánimo. La Luna Llena en Géminis de mitad de semana sugiere que vas a tener visitas en tu hogar, pudiendo dar lugar a una gran fiesta.
+Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo.
+
 
 ## Dinero
 
-Con actividad en el área de tu carta que rige las vidas pasadas, el karma y las instituciones, es muy probable que estés reevaluando tus planes de trabajo para el futuro. Empresas o personas con las que pensaste que no te gustaría trabajar parecen tener todo lo que quieres y necesitas ahora; desde la distribución de redes, a acceso a acaudalados donantes. Para ganar más, encuentra la manera de trabajar dentro del sistema. Te percatarás de que no es tan malo como piensas.
+Si has estado teniendo la intención de poner tus cuentas en orden, este es un buen momento para hacerlo. Tu sector de deuda y el dinero de los demás es el más afectado. Si estás tratando de recaudar dinero para una nueva idea de negocio, es un buen momento para hacerlo. El Universo se está centrando en los procesos, tales como solicitudes de préstamos, y asegurándose de que las respuestas que recibas sean positivas. Pon tal dinero a buen uso.
