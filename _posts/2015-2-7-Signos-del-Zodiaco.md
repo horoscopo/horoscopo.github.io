@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de octubre 2019
-description: Horóscopos del dia de hoy 13 de octubre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de octubre 2019
+description: Horóscopos del dia de hoy 14 de octubre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-10-13
+ lastmod: 2019-10-14
 ---
-Mucho se deja sin decir esta mañana. Por la tarde, un giro de 180 grados que se produce esta tarde se traduce a un terco e incluso poco confiable silencio. No es para preocuparse. Es sólo temporal, aunque puede que se robe todo el impulso que habías logrado reunir. Contrariamente, esta noche podría sentirse como una sobrecarga de información bajo la Luna aspectando al parlanchín Mercurio.
+Cuando la Luna en Géminis forma trígono con Mercurio y los teléfonos no paran de sonar, el Universo envía grandes piezas de información. A esto, añádele ideas que te llegan de fuentes del más allá (intuición). Cuando Venus, el planeta del amor, se encuentra a punto de cambiar de signo como lo está esta noche, es momento de dejar el pasado donde pertenece - atrás.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
