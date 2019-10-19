@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de octubre 2019
-description: Horóscopos del dia de hoy 18 de octubre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de octubre 2019
+description: Horóscopos del dia de hoy 19 de octubre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-10-18
+ lastmod: 2019-10-19
 ---
-El sabor de la libertad parece ser estimulante bajo la Luna Nueva en Acuario. Anda y date permiso de comportarte curiosa, enérgica y totalmente impredecible. Solteros, si una nueva mano de amistad es ofrecida esta noche, tómenla. Podría ser un encuentro importante y la fuente de una introducción igual de importante.
+Encuentra un buen equilibrio entre el exceso de trabajo y la exagerada diversión mientras el Sol forma trígono con Júpiter el día de hoy. Por la noche, continúa ese mismo sistema. Mientras que las vibraciones planetarias son afortunadas, demasiado de una cosa buena es una cosa mala; como lo dice la frase. Mantén despierta la magia dentro de ti y todo estará bien. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
