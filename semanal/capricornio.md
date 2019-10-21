@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 14 de octubre 2019 al 20 de octubre 2019 
-description: Horóscopo semanal capricornio 14 de octubre 2019 al 20 de octubre 2019. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+title: capricornio 21 de octubre 2019 al 27 de octubre 2019 
+description: Horóscopo semanal capricornio 21 de octubre 2019 al 27 de octubre 2019. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: 99wtn0n18Dc
+ video: YF-sc4gbaMw
 
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-14'
+ lastmod: '2019-10-21'
 ---
 
 
 
-## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 
-No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
-Podrías estar a punto de embarcarte en una aventura, en especial cuando el conversador Mercurio y el encantador Venus están pasando por tu sector de recreación. Si el costo parece inaccesible, puede que te preguntes si vale la pena. Piensa en la experiencia que esto representaría para ti y vuelve a considerarlo. Incluso si es costoso, podría ser beneficioso en varios aspectos. Por otro lado, la luna nueva en tu sector de hogar y familia podría traer cambios este fin de semana. Sin importar qué proyecto tengas en mente, este es el momento de comenzar.
+Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
+ Busca siempre la parte buena de cada momento en el que te encuentres.
+Pareces tener mucho involucramiento social en este momento, lo que puede ser muy satisfactorio. Aun así, a mitad de semana, podías tener una ligera obsesión con una cierta persona o con su carácter o intereses. Puede que lo mejor sea que te detengas, si te es posible. La Luna Llena del jueves podría actuar como un factor desestabilizador, provocando que tomes una decisión que podrías lamentar más adelante. Trata de no hacer ningún movimiento hasta mediados de la próxima semana si te es posible.
 
 ## Dinero
 
-Ahora, puede que estés pensando en cómo pedir prestado algo de dinero para sacarte del apuro ya sea de un mal momento o para abrir un nuevo negocio. Es a quién conoces lo que cuenta. Acude a miembros de la familia, amigos y otras partes interesadas para recibir ya sea asesoramiento o dinero en efectivo. Dado a que una relación de apoyo afecta a tu sector de trabajo y salud, piensa en la posibilidad de avanzar a partir de donde estás ahora.
+Esta semana se trata de los aspectos afortunados que te dan una fuerza de conexión con la tierra para evitar que tu situación económica actual se te suba mucho a la cabeza. Tu sector de trabajo se activa, por lo que podrías tener más trabajo (especialmente si has estado desempleado) y adición a tus responsabilidades. Al mismo tiempo, el gasto se reducirá para que pueda ponerte al día con la deuda. Mantén el rumbo, vas en la dirección correcta.

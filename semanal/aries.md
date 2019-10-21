@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: aries 14 de octubre 2019 al 20 de octubre 2019 
-description: Horóscopo semanal aries 14 de octubre 2019 al 20 de octubre 2019. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+title: aries 21 de octubre 2019 al 27 de octubre 2019 
+description: Horóscopo semanal aries 21 de octubre 2019 al 27 de octubre 2019. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al aries de siempre…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: vCxgTZ5L2B4
+ video: bAYj862jMSA
 
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-14'
+ lastmod: '2019-10-21'
 ---
 
 
 
-## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al aries de siempre…
 
-Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
- sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
-El deseo de estudiar, viajar y absorber nuevas experiencias podría llevarte a hacer algunos planes interesantes. Si quieres ver más del mundo, actualizar tu conjunto de habilidades, o conseguir un título, este es el momento para hacerlo. Investiga tus opciones, pero también sé consciente de que oportunidades podrían salirte de la nada. ¡Mantén tus ojos abiertos! Mercurio comienza a avanzar desde el Jueves, por lo que ciertos retrasos deberían pronto desvanecerse. Adopta buenas prácticas de manejo de dinero con tal de ahorrarte ansiedad.
+Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección aries, y ahora puedes elegir lo que quieras.
+Un deseo en particular podría ser tan fuerte que se apodere de tu mente y sentidos, sobre todo a principios de semana, cuando podrías preguntarte qué fue lo que te golpeó; algo que valdría la pena analizar más profundamente. Puede que hasta termines recibiendo más de lo que esperabas. El actual enfoque en tu sector hogareño podría hacer que te preguntes sobre los motivos de ciertos miembros de tu familia. Una charla de corazón a corazón podría ser mejor a quedarte con innecesarias sospechas. A partir del domingo, Venus en Libra puede ser útil para las negociaciones y el romanticismo.
 
 ## Dinero
 
-Puede que estés reconsiderando tus patrones de gasto conforme los estados de cuenta de tarjetas de crédito llegan esta semana. Si te sorprende lo mucho que has gastado (¿cuánto costaron esos últimos zapatos que compraste?), ¡culpa a los planetas! La ayuda proveniente de tu sector de hogar ya se encuentra en camino. Comenzar un negocio desde casa puede traer el dinero extra que necesitas a corto plazo. ¡Usa tus habilidades!
+Esta semana se te está pidiendo asumir una mayor responsabilidad en tus relaciones personales o profesionales. No les des una atención a medias. De verdad intenta hacerles sentir su valor. Entre semana se destaca la labor de día tras día. Puede que el dinero sea temporalmente inestable, pero estás recibiendo muy buenas ideas sobre cómo hacer más. ¡Anótalas!

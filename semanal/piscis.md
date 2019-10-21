@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 14 de octubre 2019 al 20 de octubre 2019 
-description: Horóscopo semanal piscis 14 de octubre 2019 al 20 de octubre 2019. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento piscis. Hay personas a las que TÚ debes dar ese escarmiento.
+title: piscis 21 de octubre 2019 al 27 de octubre 2019 
+description: Horóscopo semanal piscis 21 de octubre 2019 al 27 de octubre 2019. Hay cosas que no quieres que ocurran pero que debes aceptar piscis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: r1OQgwK-jFI
+ video: 7weUHD8T7OY
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-14'
+ lastmod: '2019-10-21'
 ---
 
 
 
-## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento piscis. Hay personas a las que TÚ debes dar ese escarmiento.
+## Hay cosas que no quieres que ocurran pero que debes aceptar piscis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 
-Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea piscis. 
- Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
-Podrías volverte más rebelde que nunca ahora que el sol está en tu signo y Venus conecta con Urano. El deseo de hacer una locura y tomar riesgos puede ser muy fuerte. Sin embargo, hay algo que debes soltar o terminar antes de poder hacer lo que quieras. Cuando hayas terminado, las cosas sucederán mucho más rápidamente. Ten mucho cuidado para no molestar a nadie que esté en un cargo de autoridad el jueves.
+Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
+Puede que la razón por la que brilles esta semana no sea gracias a alguien, sino por la razón de haber ignorado a alguien. De hecho, una positiva mezcla de energías en la parte superior de tu carta podía verte haciendo un gran esfuerzo por alcanzar un objetivo o un sueño. Y aunque otros refuten, tendrás la fe para seguir adelante. Por otro lado, una positiva alineación entre semana podía llevarte a invertir en bienes, beneficiarte de la generosidad de tu familia o a compartir un golpe de suerte.
 
 ## Dinero
 
-Estudiando tu sector de educación superior y viajes, estás anhelando el intercambiar información. Puede que se te esté guiando a enseñar o a regresar a la escuela para tomar una clase los fines de semana. A pesar de que es casi seguro que estés enviando mensajes de texto e emails, tu mente está enfocada en lo que debe estar. ¿Cómo pueden tus habilidades de comunicación traer más dinero? ¿Tienes algunas ideas profundas que quieren salir con respecto a esto? Ahora es tiempo.
+Te encanta hacer que tu lugar de trabajo sea tan cómodo como tu casa, y esto podría implicar hacer que los demás en el trabajo se sientan como en familia. Con un aspecto armonioso ahora, es muy probable que lleves esto un paso más allá debido a que afecta la zona de tu gráfico que rige los niños, familia, romance y diversión. Suena como si organizar un evento para la empresa no fuera una mala idea para mantener la moral alta. Organizar juegos para entretener a todos será más que bueno.
