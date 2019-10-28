@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: piscis 21 de octubre 2019 al 27 de octubre 2019 
-description: Horóscopo semanal piscis 21 de octubre 2019 al 27 de octubre 2019. Hay cosas que no quieres que ocurran pero que debes aceptar piscis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+title: piscis 28 de octubre 2019 al 03 de noviembre 2019 
+description: Horóscopo semanal piscis 28 de octubre 2019 al 03 de noviembre 2019. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: 7weUHD8T7OY
+ video: r4qiyXtBWUc
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-21'
+ lastmod: '2019-10-28'
 ---
 
 
 
-## Hay cosas que no quieres que ocurran pero que debes aceptar piscis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
 
-Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
-Puede que la razón por la que brilles esta semana no sea gracias a alguien, sino por la razón de haber ignorado a alguien. De hecho, una positiva mezcla de energías en la parte superior de tu carta podía verte haciendo un gran esfuerzo por alcanzar un objetivo o un sueño. Y aunque otros refuten, tendrás la fe para seguir adelante. Por otro lado, una positiva alineación entre semana podía llevarte a invertir en bienes, beneficiarte de la generosidad de tu familia o a compartir un golpe de suerte.
+Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
+Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
+Hay mucha actividad en el frente doméstico, lo que podría significar que tendrás ganas de invitar a nuevas y viejas amistades a tu casa, impresionar a personas clave o simplemente pasar el rato con amistades cercanas. No te niegues esta oportunidad, ya que te vendría bien la oportunidad de relajarte e incluso mimarte un poco. Si recibes una invitación a una fiesta, definitivamente deberías aceptarla. También te vendría muy bien darte algunos tratamientos o pasar un día en el spa.
 
 ## Dinero
 
-Te encanta hacer que tu lugar de trabajo sea tan cómodo como tu casa, y esto podría implicar hacer que los demás en el trabajo se sientan como en familia. Con un aspecto armonioso ahora, es muy probable que lleves esto un paso más allá debido a que afecta la zona de tu gráfico que rige los niños, familia, romance y diversión. Suena como si organizar un evento para la empresa no fuera una mala idea para mantener la moral alta. Organizar juegos para entretener a todos será más que bueno.
+Destaca esta semana la necesidad de actualizar tu conjunto de habilidades. El fomentar tu educación no sólo te hace sentir más confianza en lo que puedes hacer, pero también recibe a otros en el hábito de percibirte como un/a experto/a en tu campo. Es posible que necesites incorporar conocimientos de vidas pasadas. No tienes que saber por qué eres bueno/a en algo, simplemente lo eres.

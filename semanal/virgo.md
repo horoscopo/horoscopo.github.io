@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 21 de octubre 2019 al 27 de octubre 2019 
-description: Horóscopo semanal virgo 21 de octubre 2019 al 27 de octubre 2019. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: virgo 28 de octubre 2019 al 03 de noviembre 2019 
+description: Horóscopo semanal virgo 28 de octubre 2019 al 03 de noviembre 2019. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: kvszaGHeoz0
+ video: Ft9aSKfP5q8
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-21'
+ lastmod: '2019-10-28'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 
-Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
-Tanto el trabajo como la diversión tienen prioridad en tu agenda esta semana con el vivaz Marte animándote a exhibir tus mejores habilidades e incursionar en tus pasatiempos preferidos. Las actividades diarias también pueden ser una gran fuente de placer, en especial si estás considerando expandir tus opciones. Una adorable alineación entre el lujurioso Venus y el ostentoso Júpiter sugiere que una reunión podría presentarte una oportunidad demasiado buena como para dejarla pasar. Durante el fin de semana, tener límites firmes pueden ayudar a esquivar cualquier batalla de poder.
+No puedes poner piezas en lugares que no corresponden virgo, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo virgo, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso virgo, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte virgo, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho virgo, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
+¿Hay alguien que quiere sacarte de tu cómoda rutina? Parecería que sí en los próximos días. Con una poderosa influencia vislumbrándose, puede que resientas la presencia de alguien que parece generar sentimientos que preferirías evitar. Pero mientras más te resistas, más difícil será captar su atención. Si te dejas llevar, puede que se abran nuevas puertas y sientas nuevas emociones.
 
 ## Dinero
 
-Tienes actividad en tu sector de relaciones esta semana. Una nueva relación podría materializarse de la nada y resultar económicamente beneficiosa para ambas partes. En este momento, tu atención tiene que enfocarse en la construcción de tu carrera. La elaboración de un plan a cinco años puede no ser una mala idea tampoco. Es más fácil hacer que el dinero que deseas se manifieste cuando este paso se haya dado.
+Esta semana, el Universo pone de relieve tu sector de amistades, compañeros y otras relaciones serias. Algo que reciente se formó es cada vez más serio. Esta podría ser una unión comercial mutuamente beneficiosa o incluso una asociación o fusión entre tu empresa y otro negocio. Puede que no se mueva tan rápido como te gustaría, pero es algo genial a largo plazo. Busca nuevas oportunidades en lo desconocido o en un campo completamente original.

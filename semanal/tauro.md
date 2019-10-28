@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 21 de octubre 2019 al 27 de octubre 2019 
-description: Horóscopo semanal tauro 21 de octubre 2019 al 27 de octubre 2019. Tu presente y tu futuro valen muchísimo la pena tauro. La vida siempre se acaba equilibrando tauro. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+title: tauro 28 de octubre 2019 al 03 de noviembre 2019 
+description: Horóscopo semanal tauro 28 de octubre 2019 al 03 de noviembre 2019. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: zTWnxOO9flo
+ video: BSlvniRy5jw
 
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-21'
+ lastmod: '2019-10-28'
 ---
 
 
 
-## Tu presente y tu futuro valen muchísimo la pena tauro. La vida siempre se acaba equilibrando tauro. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-Esta semana estás un poco impredecible tauro, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica tauro… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
-Alguien podría compartirte un secreto que altere la forma en que percibes cierta situación. En este caso, te afecta de una manera positiva. Con Mercurio retrocediendo durante unas tres semanas a partir del Lunes, espera interrupciones y retrasos en tu hogar. Un invitado podría cancelar o una fiesta podría no salir según lo previsto. Es posible que tengas que lidiar con obstáculos, pero un enfoque alegre y optimista puede ayudarte a soportar los próximos días. Finalmente, un vínculo romántico podría volverse más intenso y pasional.
+Organízate tauro, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres tauro, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
+Si sientes como si últimamente algo te hubiera estado evitando lograr algo, esto debe terminar a partir del lunes conforme Júpiter comienza a avanzar en tu signo. Cosas buenas podrían comenzar a sucederte como resultado, y te darás cuenta de que todas esas oportunidades que pensaste que te habías perdido todavía son alcanzables. Mantente alerta, ¡ya que podrían comenzar a llegar pronto! El actual enfoque en tu sector de viajes sugiere que cualquier desvío o impertinencia con la que te topes a lo largo del camino podría dar lugar a nuevos y emocionantes encuentros y descubrimientos.
 
 ## Dinero
 
-Ciertas personas que conoces pueden bien servir a tu sector de deuda y dinero compartido. Ganarás más dinero cuando explotas las conexiones que ya tienes. Tus ideas son válidas. Sólo necesitas ayuda y financiamiento para seguir adelante. No te vendas por menos. Tienes todo lo que necesitas para tener éxito ahora.
