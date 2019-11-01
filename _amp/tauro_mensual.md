@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo tauro octubre 2019 
+title: Horoscopo tauro noviembre 2019 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
- video: sqzcS0v20SQ
+ video: 1hngZp7grbg
 
 ogimg: /images/tauro_char.png
 sitemap:
@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-Evita un argumento cuando la Luna en Leo cuadre a Marte y forme trígono con Saturno el 6 de octubre. Sí, requerirás de autocontrol. La Luna Llena del 10 de octubre podría recordarte a cuántas personas les caes bien. Tanto amigos, como vecinos o hermanos podrían sorprenderte con una muestra de amistad. Puede que no sean flores, pero podrían venir tanto en forma material como también en elogios. Busca oportunidades profesionales en torno a la Luna Nueva del 26 de octubre. Incluso si tu posición no recibe un impulso importante al instante, todas tus acciones serán visibles. Tú bien conoces tu propia mente, por lo que compórtate autoritaria pero no mandonamente.
+La Luna Nueva del 8 de noviembre emana su brillo directamente sobre ti y cómo quieres presentarte hacia los demás. Puede que estés recibiendo todo tipo de sugerencias, comentarios y consejos; algunos de ellos bastante confidenciales. Decide cuánta popularidad o qué tanto atractivo es importante para ti, más sele fiel a tu personalidad sin importar qué pase. Tu situación monetaria, riqueza material y quizás algunos regalos son destacados por la Luna Llena del 22 de noviembre. Lo más probable es que sean muchos pequeños aumentos o gestos en lugar de ganancias gigantes e inesperadas. No esperar nada y mostrar generosidad te atraerá más. Al final del mes, la Luna y Urano forman quincuncio el 28 de noviembre, pudiendo confundir tus intenciones con deseos y sueños.   

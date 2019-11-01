@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo leo octubre 2019
-description: El Horóscopo octubre de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo leo noviembre 2019
+description: El Horóscopo noviembre de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo octubre, horoscopos en español, horóscopo leo octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo noviembre, horoscopos en español, horóscopo leo noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
- video: H-AyFX0G_88
+ video: -D0tP-mh3Zk
 
 ogimg: /images/mes/leo_mes.png
 sitemap:
@@ -17,8 +17,4 @@ sitemap:
 ---
 
 
-Urano retrógrado vuelve a entrar a Aries el 6 de octubre. Toma una actitud más aventurera (otra vez) de una forma moderada. La luna nueva del día siguiente te vuelve protagonista, o la persona a la que acudir, en el trabajo o entorno social. Arregla una situación delicada, haz que parezca fácil, y recibirás mucho crédito de muchas personas. 
-El día 16, Venus se torna directo justo antes de que Mercurio se torne retrógrado. Siéntete más a gusto con una relación romántica sin necesidad de expresar abiertamente tus sentimientos. La conjunción que la luna forma con Urano el 20 de octubre te hace sentir más valiente por un rato. 
-No te preocupes si la luna llena del día 22 te hace tambalear. Hasta tú puedes ser una persona indecisa a veces. Haz lo que te gusta y alegra tu corazón. Si se trata de salir y socializar con otros, siéntete libre. Hay gente con energía e ideas ahí afuera. Simplemente observa, si es lo que se siente bien. 
-Días destacados: 20, 21, 27
-Días desafiantes: 13, 30
+Puede que el mundo imaginario sea más grande y más fascinante que la realidad física a la luz de la luna llena del 6 de noviembre. Afortunadamente, las demandas del mundo real en tu vida de hogar y familia te pondrán los pies en la tierra. No sientas resentimiento porque te saquen de tu mundo de fantasías. Ten curiosidad y atrévete a pensar de forma original durante la luna nueva del 19 de noviembre. Habla con todas las personas que conozcas y ve qué tienen para ofrecer. Tú tienes mucho para retribuir también. Sé más audaz y ve en busca de nuevos intereses y lugares. El 26 de noviembre, la luna conjunta a Saturno y forma una cuadratura con Mercurio, Marte y Neptuno. Las personas tendrán problemas para decir lo que piensan. 

@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo cancer octubre 2019 
+title: Horoscopo cancer noviembre 2019 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: AsGtEL5Pk0w
+ video: dGEeow0Ld4Y
 
 ogimg: /images/cancer_char.png
 sitemap:
@@ -15,7 +15,7 @@ sitemap:
 ---
 
 
-Piensa mucho y en profundidad bajo la luna nueva del 15 de octubre. Ten una perspectiva que te dé una base más firme, y mayor felicidad y seguridad cuando decides colaborar más con el mundo. El sol ingresa a Géminis el día 20. Entretiene y déjate entretener, aunque puedes atraer más atención de la que esperabas. El amor y el romance son brillantes bajo la luna llena del 29 de octubre. Escucha a tu pareja expresar sus deseos más profundos. Si estás buscando amor, perfectamente podrías atraer la atención de alguien. Tal vez no dure para siempre, pero podría durar lo suficiente. Además, Mercurio ingresa a Géminis ese día. ¡Bien por ti! 
+La vida se torna más fácil y lujosa con el trígono que Venus forma con Neptuno el 2 de noviembre. Ama lo que haces, y no gastes todo de una vez. Busca una ganancia financiera o ingreso inesperado con la luna nueva del día 13. Sé prudente y suspicaz si una oferta parece demasiado buena como para ser verdad, pero no dudes si la oportunidad parece sólida. La luna llena del 27 de noviembre podría ponerse complicada, pero eso es exactamente lo que quieres ahora. Habrá más opciones para escoger, ya sea en ropa, comida, entretenimiento, opiniones o creencias. Tómate tu tiempo para disfrutar de la gran variedad que se te presenta ahora. 
 
-Días destacados: 13, 18, 25
-Días desafiantes: 7, 22
+Días destacados: 1, 13, 16
+Días desafiantes: 5, 21

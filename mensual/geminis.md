@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo geminis octubre 2019
-description: El Horóscopo octubre de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo geminis noviembre 2019
+description: El Horóscopo noviembre de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo octubre, horoscopos en español, horóscopo geminis octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo noviembre, horoscopos en español, horóscopo geminis noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
- video: ic_c2a-QF4s
+ video: KFLqvIQlIaA
 
 ogimg: /images/mes/geminis_mes.png
 sitemap:
@@ -17,6 +17,4 @@ sitemap:
 ---
 
 
-El 3 de octubre, el trígono entre el Sol y Júpiter enriquece una situación o relación que ya era agradable. La Luna Llena del 9 de octubre atrae a todas tus amistades y vecinos, o por lo menos así parece. Si no estás de humor para ofrecer una fiesta, deja que alguien más lo haga y ve un rato. Además, Júpiter ingresa directamente a Libra ese día. Esto hace que sea ¡hora de festejar! Vuélvete el centro de atención en el trabajo durante la Luna Nueva del 23 de octubre. Un avance en tu carrera o un proyecto más grande pueden surgir para ti, o podrías sugerir dicho cambio y tus superiores verán la sabiduría en tu sugerencia. 
-
-Mejores días: 3, 9, 26Peores días: 19, 27
+El 1 de noviembre, Mercurio forma trígono con Urano y cuadra al asteroide Quirón. Haz tu rutina más eficiente y no te canses demasiado. Tu familia y vida hogareña son puestas bajo enfoque durante la Luna Nueva del 11 de noviembre. No sientas insuficiencia o inseguridad de ninguna manera. Sé el adulto en la habitación que no aumenta el existente nivel de estrés. La Luna Llena del 25 de noviembre ilumina tu vida social y las instituciones que tocan tu corazón y que te conectan con el mundo exterior. La época navideña podría estar llena de fiestas e intercambios de regalos. Puede que termines pasando poco tiempo en casa esta temporada de fiestas.
