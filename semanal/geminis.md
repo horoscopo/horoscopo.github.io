@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: geminis 28 de octubre 2019 al 03 de noviembre 2019 
-description: Horóscopo semanal geminis 28 de octubre 2019 al 03 de noviembre 2019. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+title: geminis 04 de noviembre 2019 al 10 de noviembre 2019 
+description: Horóscopo semanal geminis 04 de noviembre 2019 al 10 de noviembre 2019. Vienen emociones fuertes geminis, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: -tqIGGJeyO0
+ video: 7D31FV5wA34
 
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-28'
+ lastmod: '2019-11-04'
 ---
 
 
 
-## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+## Vienen emociones fuertes geminis, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 
-No pienses tanto por favor geminis, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres geminis por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
- cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
-Las amistades están en contacto y quieren divertirse. Las oportunidades románticas siguen floreciendo, aunque por ahora es mejor ir con la corriente y no hacer compromisos firmes. Cuanto más te atrevas a conectarte e interactuar, más opciones tendrás para llevar tu vida a nuevos e interesantes niveles. Cuando Marte ingresa a tu sector de carrera y metas el sábado, estarás de humor para organizarte. Incluso podría aumentar un poco tu sentido de la competencia en cuanto a impresionar a quienes están en puestos de autoridad.
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
+Venus se mueve de un lado a otro hasta llegar a tu sector de viajes y exploración el martes, por lo que las oportunidades para el romance podrían aparecer mientras te encuentras de viaje. Puede que también surjan si estás estudiando en grupo o aprendiendo una nueva habilidad. Los asuntos profesionales también son importantes esta semana, y puede que tu situación mejore si haces contactos fundamentales. De hecho, recolectar información y pedir consejos puede ayudarte a avanzar en tu negocio o profesión. También tendrás ganas de conectar con amigos y disfrutar de momentos más tranquilos.
 
 ## Dinero
 
-Esta semana se trata no sólo de mejorar tu estilo personal (a pesar de que podría utilizar algo de ayuda también), sino también de la forma en que te expresas. Tiene ideas creativas acerca de cómo hacer esto, y sobre los medios para convencer a los demás de que tienes la razón. Después de todo, no todo el mundo va a estar de acuerdo con todos los cambios. Mientras tanto, ciertos aspectos aportan ideas únicas que nadie más tiene. Tu poder adquisitivo aumenta.
+Para ti, esta semana es acerca de tus relaciones. Te están ofreciendo algo de alegre liberación, así como también graves distracciones. Si tienes proyectos de trabajo que deban ser terminados ahora, concentra en estos tus esfuerzos y diles a tus seres queridos que les verás pronto. Ciertos aspectos de tu sector de comunicación te hacen elocuente y capaz de salirte con la tuya con respecto a los asuntos financieros. Todo está sucediendo ahora.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 28 de octubre 2019 al 03 de noviembre 2019 
-description: Horóscopo semanal leo 28 de octubre 2019 al 03 de noviembre 2019. No te mereces poco leo… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+title: leo 04 de noviembre 2019 al 10 de noviembre 2019 
+description: Horóscopo semanal leo 04 de noviembre 2019 al 10 de noviembre 2019. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: 11FOf0W8ZDA
+ video: Od1OIlAOX7A
 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-28'
+ lastmod: '2019-11-04'
 ---
 
 
 
-## No te mereces poco leo… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 
-Los finales no significan que hayas fallado en algo leo, los finales a veces sirven para abrir nuevas puertas a algo. leo, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza leo…
-¿Debes empezar a cumplir tu meta o tu plan profesional? Si lo estás considerando, la Luna Nueva del martes puede ser el momento del año para que lo hagas. Es posible que te encuentres en el lugar indicado en el momento correcto para dar ese paso. Además, tu vida social se ve más activa, ya que Mercurio te motiva a moverte y a irte de fiesta durante la época festiva. Allí surgen nuevas conexiones que serán útiles a largo plazo, así que no pierdas la infomación de contacto.
+Quizás deberías dejar de planear todo ahora leo, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien leo, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
+Puede que estés a punto de tomar decisiones importantes con respecto a tus finanzas, especialmente si la época festiva resultó costosa. Es posible que también quieras tener más control en esta área en general. Esta semana podría traer una oportunidad para que analices modos de funcionamiento con los que te sientas mejor con respecto al dinero. Aun así, de nada sirve que te castigues tanto. Trata de llegar a un término medio y darte gustos o irte de vacaciones mientras ahorras para más adelante.
 
 ## Dinero
 
-Puede que te encuentres expandiendo un negocio establecido desde tu casa en este momento debido a un afortunado aspecto en esta área de tu carta. Si es necesario, convierte una habitación extra en una oficina para que puedas cerrarle la puerta a tu trabajo al final del día. Cierto aspecto ahora te da todo lo que necesitas y mucho más para poner en marcha un nuevo negocio si quieres más libertad en tu vida laboral o para llevar una ya existente a un nivel superior.
+Con tanta actividad en tu sector de dinero y valores, puede que estés revisando tus finanzas con un peine muy fino. El gasto está bajo control, excepto cuando se trata de embellecer tu entorno. Puede que exijas el tener interesantes colores, texturas y olores en tu hogar y en tu cuerpo. Tienes un intercambio armonioso de energía entre tu carrera y vida monetaria, pero asegúrate de que de verdad amas ese objeto antes de comprarlo y salir de la tienda.

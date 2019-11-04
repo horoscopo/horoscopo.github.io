@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: cancer 28 de octubre 2019 al 03 de noviembre 2019 
-description: Horóscopo semanal cancer 28 de octubre 2019 al 03 de noviembre 2019. Estás renaciendo cancer, renaciendo de las cenizas… Y ya era hora…
+title: cancer 04 de noviembre 2019 al 10 de noviembre 2019 
+description: Horóscopo semanal cancer 04 de noviembre 2019 al 10 de noviembre 2019. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: wfBBJCVAY3s
+ video: Ae-1nrN421c
 
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-28'
+ lastmod: '2019-11-04'
 ---
 
 
 
-## Estás renaciendo cancer, renaciendo de las cenizas… Y ya era hora…
+## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 
-Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capri, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
-Puede que tengas ganas de descansar un poco y tomarte tiempo para mimarte. Con el actual enfoque en tu sector hogareño, te haría bien leer un libro, comer comida saludable y tener buenas horas de sueño. Tómalo como tu retiro personal en el cual puedes tratarte bien y pasar tiempo con los que más quieres. Aunque todavía debes interactuar con el mundo a tu alrededor, no dejes de encargarte de tus propias necesidades para restaurar tu vitalidad.
+Tu mente lo está analizando absolutamente todo cancer, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez cancer… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas cancer, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana cancer, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+Podrías experimentar una crisis de creencias al comienzo de la semana, lo que podría animarte a dejar ir esa actitud restrictiva y adoptar una más expansiva. Presta atención a tus instintos en este aspecto. Si algo se siente bien, probablemente lo sabrás en tu interior. Si no es así, tu cuerpo definitivamente te lo hará saber. Simplemente debes escuchar sus mensajes. Sin embargo, puede que te resulte útil analizar este problema con tus amistades u otras personas que están en tu misma sintonía. 
+ Puede que alguien que tiene sugerencias te abra los ojos a un nuevo mundo. Debido a que existe un importante enfoque en tu sector espiritual, la próxima semana podría traer positivos cambios cuando el animado Mercurio se vuelve directo en este sector, lo que te permitirá tener un mayor control. Por último, la luna nueva en este sector podría animarte a iniciar una práctica espiritual muy beneficiosa.    
 
 ## Dinero
 
-Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.
+No hay muchos cambios avecinándose hacia tu sector del dinero durante por los próximos años. Ciertas formas de hacer dinero mueren en favor de otras nuevas, considera cómo quieres vivir en cinco o diez años en el futuro. El poner todo este cambio a trabajar a tu favor, rendirá grandes dividendos para el tiempo que necesites dinero. Recuerda que debes pedir ayuda cuando la necesites.

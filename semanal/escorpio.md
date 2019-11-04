@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 28 de octubre 2019 al 03 de noviembre 2019 
-description: Horóscopo semanal escorpio 28 de octubre 2019 al 03 de noviembre 2019. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza escorpio. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+title: escorpio 04 de noviembre 2019 al 10 de noviembre 2019 
+description: Horóscopo semanal escorpio 04 de noviembre 2019 al 10 de noviembre 2019. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: 1aU7c5HpCWk
+ video: Jg4J37-A16U
 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-10-28'
+ lastmod: '2019-11-04'
 ---
 
 
 
-## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza escorpio. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 
-Deja que duela escorpio, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser escorpio estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien escorpio pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida escorpio, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
-Es hora de perseguir tus sueños y explorar horizontes lejanos. Si necesitas inspiración o sientes que te vendría bien algo de mejora personal, este podría ser un muy buen momento para buscar la ayuda de un asesor de vida que pueda ayudarte. Sin embargo, entrarás a una fase natural en la que se te aconseja descansar y relajarte conforme el Sol entre a Acuario a mitad de semana. Aprovecha esta oportunidad para orientarte, analizar cuál es tu situación y pensar en lo que te gustaría lograr en los próximos meses.
+El mundo no te entiende escorpio, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales escorpio, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo escorpio, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
+Una influencia estimulante en tu sector de comunicación puede ser el catalizador que necesitas para conseguir lo que quieres. ¿Buscas trabajo o buscas conectar con una persona especial? Lo que sea que estés buscando, esta es tu oportunidad para crear las conexiones que te ayudarán a progresar. La entrada de Venus a tu zona de dinero hará que gastes en lujos. Si estuviste ahorrando tu dinero recientemente, está bien que te des gustos.
 
 ## Dinero
 
-Estás siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que pronto necesites sentir comodidad al hablar en público o iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas será muy importante ahora. Tu carrera necesita un poco de energía concentrada e intencional. Evita la confusión con el fin de recibir lo que se aproxima hacia ti.
+Estás atrapado/a en fuego cruzado y podría ser necesario recurrir a tus excelentes habilidades diplomáticas para suavizar alguna situación. Tu estado financiero está mucho mejor últimamente ya que has combinado tu  creatividad con la poca suerte que tienes. Sin embargo, tus amigos y redes sociales  pueden no estar tan felices al respecto, puede ser que algunos estén molestos por tu éxito. En lugar de tomarlo como algo personal, estate consciente de que esto también pasará.
