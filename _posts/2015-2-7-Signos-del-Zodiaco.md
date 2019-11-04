@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de noviembre 2019
-description: Horóscopos del dia de hoy 03 de noviembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de noviembre 2019
+description: Horóscopos del dia de hoy 04 de noviembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-11-03
+ lastmod: 2019-11-04
 ---
-Hoy, las personas se comunican con seriedad, confianza y dicen la versión corta de las cosas mientras Mercurio retrógrado se opone a Júpiter. En realidad, esta es sólo una forma efectiva de comunicación, sin palabras ambiguas que podrían ser mal interpretadas. Esta noche, las personas absorben sus estados de ánimo mutuos de manera perceptiva bajo la Luna en Cáncer. ¡Cuidado! Esto incluye emociones ardiendo en los corazones.
+Con suerte, dos personas con ideas opuestas logran trabajar juntas mientras la Luna aspecta a Saturno esta mañana. Por la tarde, prepárate para cambios (positivos) de última hora. Esta noche, la amistad y la popularidad florecen cuando Venus comienza su viaje a través de la constelación de Acuario. Solteros, salgan a hacer nuevos contactos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
