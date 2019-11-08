@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de noviembre 2019
-description: Horóscopos del dia de hoy 07 de noviembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de noviembre 2019
+description: Horóscopos del dia de hoy 08 de noviembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-11-07
+ lastmod: 2019-11-08
 ---
-Las conversaciones son positivas, abiertas y audaces con el trígono entre la Luna y Mercurio de esta mañana. Disfrútalas. La vibra podría volverse un poco irritable y crítica durante la tarde con su oposición con Marte. Esta noche, alguien podría tomar una decisión final en relación a una persona especial si la otra parte ha persistido durante algún tiempo.
+Préstale mucha atención a todo lo que está sucediendo. Lo que no es fácil de hacer con las distracciones de hoy. Tendrías sabiduría en tomar nota sobre lo que sientes que es importante. Esta noche, los sentimientos son lastimados fácilmente cuando la Luna cuadra a Plutón. Comportarte cálida, cariñosa, sabia y gentilmente; además de tener real sinceridad. La dulzura artificial no está permitida. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
