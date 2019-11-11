@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: piscis 04 de noviembre 2019 al 10 de noviembre 2019 
-description: Horóscopo semanal piscis 04 de noviembre 2019 al 10 de noviembre 2019. Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+title: piscis 11 de noviembre 2019 al 17 de noviembre 2019 
+description: Horóscopo semanal piscis 11 de noviembre 2019 al 17 de noviembre 2019. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: P3B9Hw1kqKQ
+ video: dKMSk-NOHC8
 
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-04'
+ lastmod: '2019-11-11'
 ---
 
 
 
-## Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 
-No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
-Cálidos y tiernos sentimientos animan tu vida esta semana, alentándote a conectar con amistades o familiares que no has visto o sobre quienes no has tenido noticias en algún tiempo. Un enfoque muy animado trae oportunidades de conectar con tus vecinos o de apoyar a organizaciones de caridad o de otro tipo en tu vecindario. Aunque el animado Mercurio da indicios de que podrías encontrarte con algunas demoras, tener una perspectiva optimista puede hacer toda la diferencia. Sin embargo, no derroches el dinero, ya que el estimulante Marte en tu sector de dinero puede animarte a comprar.
+Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
+ A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
+Esta semana puede tener algunas idas y vueltas que necesitan manejarse con cuidado. Y esto puede deberse en parte a la Luna Llena en un sector tranquilo de tu carta astral que te hace sentir más vulnerable de lo habitual. Si puedes alivianar tu agenda, esto podría permitirte tomar un descanso cuando lo necesites. Aun así, otras personas podrían estar impacientes por que salgas el fin de semana, y tal vez disfrutes de tener la oportunidad de desahogarte.
 
 ## Dinero
 
-Para ti, esta semana es sobre la energía acumulada en el sector del hogar, lo que te ha llevado a pensar en términos completamente diferentes. Más vida en esta zona significa que puede que tengas que recibir a más clientes en tu oficina o hacer muchos nuevos negocios desde ese espacio. Del mismo modo, tu creatividad está en alza. Si sientes esa inclinación, un negocio desde casa como decoración o construcción podría ser de gran beneficio.
+El Universo está exigiendo que pases más tiempo desarrollando tus relaciones más cercanas para que puedas beneficiarte personal y financieramente. El hacer más tiempo para aquellos que pudieran ayudarte a avanzar en tus objetivos no solamente es sensato/a, también es necesario para el logro de tus objetivos. Puede que estés en conversaciones para una mejor posición, la cuál llegará a lo grande.

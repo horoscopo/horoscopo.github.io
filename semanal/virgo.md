@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 04 de noviembre 2019 al 10 de noviembre 2019 
-description: Horóscopo semanal virgo 04 de noviembre 2019 al 10 de noviembre 2019. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda virgo, pero sé constante.
+title: virgo 11 de noviembre 2019 al 17 de noviembre 2019 
+description: Horóscopo semanal virgo 11 de noviembre 2019 al 17 de noviembre 2019. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no virgo. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: rkBi1ohliZ8
+ video: D6J3DYE8ZSM
 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-04'
+ lastmod: '2019-11-11'
 ---
 
 
 
-## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda virgo, pero sé constante.
+## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no virgo. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 
-Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo virgo. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que virgo estalla, nadie se salva.
-Las salidas sociales y expediciones culturales te traen placer y te animan a explorar talentos que pudieran haber estado dormidos. Puede que te topes con que tienes una habilidad que pudiera beneficiar a otros. Las cuestiones de estilo de vida se vuelven más importantes a finales de esta semana, con nuevas oportunidades laborales apareciendo. Puede que tengas ansias de hacer más ejercicio con el fin de poner tu cuerpo en óptimas condiciones. Sin embargo, una vez que Venus se torne retrógrado, evita tomar decisiones en tus relaciones que pudieran tener consecuencias. En vez, trata de ir con la corriente.
+A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez virgo. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona virgo, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
+Tu vida amorosa se vislumbra prometedora, y esta semana podría traer consigo el punto crucial que has estado esperando. Si has retrasando tomar una decisión clave en relación a un interés amoroso o pareja romántica, sentirás más confianza una vez que esta semana haya terminado. Es hora de aprovechar cualquier idea o visión que hayas cosechado mientras Venus estuvo retrógrado. Ahora que comienza a avanzar desde el domingo, es el momento adecuado de mantenerte firme y tomar medidas. Tus finanzas también se vislumbran mucho más prometedoras.
 
 ## Dinero
 
-Hay cierta actividad en tu sector de dinero de otras personas esta semana, lo que indica un tiempo de enfoque en la propiedad compartida, las herencias y las viejas deudas. Puesto que esto afecta a la política, los grupos y afecta la forma en la que te comunicas, tendrás que ser más social cuando se trata de tu vida monetaria. Esto se manifestará en gastar dinero para pasar buenos ratos y cimentar tu unión especial con esta gente.
+Esta semana, el Universo no sólo trae un montón de comunicación, sino también una gran cantidad de trabajo. No te sorprendas si tu semana se repleta de formularios, archivos y tareas similares. Dado que también afecta a tu sector de instituciones, estás consolidando un viejo sueño, aunque no sea fácil de obtener. Terminarás por apreciar incluso hasta lo que parece más aburrido, repetitivo, tedioso, o simplemente molesto.

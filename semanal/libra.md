@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: libra 04 de noviembre 2019 al 10 de noviembre 2019 
-description: Horóscopo semanal libra 04 de noviembre 2019 al 10 de noviembre 2019. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: libra 11 de noviembre 2019 al 17 de noviembre 2019 
+description: Horóscopo semanal libra 11 de noviembre 2019 al 17 de noviembre 2019. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
- video: 1MB4ZJxjXEE
+ video: OIMSeF6vkO8
 
 ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-04'
+ lastmod: '2019-11-11'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 
-Sólo hace falta que tu mente haga click libra, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
-Horizontes lejanos podrían estar llamándote, pero no querrás explorarlos por tu cuenta, sino que prefieres incluir a tus amistades y disfrutar de la experiencia con ellos. Sin embargo, puedes tener bastante determinación cuando se trata de explorar nuevos territorios y descubrir nuevas oportunidades o desafíos que te abran las puertas. Por otro lado, podrías tener un sentimiento muy posesivo hacia alguien o algo, y esto podría arruinar tu dicha durante los próximos días a menos que puedas evitarlo. Cuando se trata de tomar una decisión con respecto a tu profesión, espera a que sea el momento indicado.
+Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
+ La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
+ Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
+Trata de no prometer algo que no puedas cumplir al comienzo de la semana, porque podrías avergonzarte más adelante si no puedes manejarlo. Lo mejor sería subestimar lo que puedes hacer y guardar las apariencias. Los próximos días podrían traerte inesperados pero encantadores hechos. Y, debido al eclipse solar en tu sector de relaciones, algunos nuevos desarrollos podrían tener un impacto en tu vida amorosa y en otras conexiones. Si descubres que te estás enamorando, lo mejor es no apresurarte. Tómate tu tiempo.
 
 ## Dinero
 
-Puede parecer que tu situación monetaria va hacia atrás en lugar de ir hacia adelante. Pareciera que algunas influencias te están restringiendo pero puede que sea solo una ilusión. Eleva tu nivel de madurez y responsabilidad,  esto podría finalmente determinar de una vez por todas, el significado del dinero en tu vida. ¿Sientes comodidad con tu situación actual, o crees necesitar más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.
+Hay una interesante energía concentrándose alrededor de tu trabajo y dinero. Un aspecto favorable indica que ciertas instituciones como compañías de tarjetas de crédito o bancos están tratando de trabajar contigo para desarrollar un amplio plan de pago de deuda. Es un momento positivo para la recaudación de fondos también. Si estás tratando de deshacerte de tu deuda, este es un gran momento para intentarlo.
