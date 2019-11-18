@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 11 de noviembre 2019 al 17 de noviembre 2019 
-description: Horóscopo semanal sagitario 11 de noviembre 2019 al 17 de noviembre 2019. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+title: sagitario 18 de noviembre 2019 al 24 de noviembre 2019 
+description: Horóscopo semanal sagitario 18 de noviembre 2019 al 24 de noviembre 2019. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya sagitario. Muévete o haz que se mueva el resto.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: kaAmlpDz5E0
-
+ video:  
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-11'
+ lastmod: '2019-11-18'
 ---
 
 
 
-## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya sagitario. Muévete o haz que se mueva el resto.
 
-Fíate de ti mismo sagitario, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando sagitario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
- Si bien una parte de ti puede sentir que debes rebelarte contra la autoridad, el panorama estelar sugiere que trabajar con estas personas sería igual de sencillo. El sol en Aries se dirige al apasionado Plutón el martes, lo que podría coincidir con una diferencia de opinión con uno de tus superiores. Sin embargo, una positiva conexión entre el despreocupado Venus y el vital Marte podría ayudarte a ver los beneficios de la cooperación (que pueden ser muchos). 
- El dulce Venus y el fogoso Marte se dirigen al nebuloso Neptuno, de modo que podría ser más fácil pensar en las cosas que hacerlas. Presta atención a esto. El sábado, una positiva conexión entre el animado Júpiter y el intenso Plutón podría ser muy fructífera si te animas a revisar y actuar en torno a una idea. Por último, el conversador Mercurio se vuelve directo el domingo y, debido a que la encantadora luna nueva que está en tu signo es señal de un nuevo comienzo, las cosas irán viento en popa.   
+Nadie se cura por herir a otro sagitario. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
+La actividad cósmica continúa en tu signo. El cosmos te está activamente alentando a salirte de tu zona de confort y a perseguir tus metas apasionadamente. La Luna Llena del martes podría arruinar hasta tus planes mejor trazados, sobre todo si surge el mal genio o terminas en una discusión. Los sentimientos podían intensificarse a menos que te esfuerces por olvidar lo que sea que te esté molestando con el fin de poder avanzar. La presencia de Saturno en tu sector de familia podría empujarte a hacerle frente a un problema en curso.
 
 ## Dinero
 
-Puede que estés atrapado/a en una situación de tensión esta semana. Puede que ambos, tu lado masculino y femenino tengan que ser abordados al considerar una nueva forma de ganar, ahorrar o gastar tu dinero en efectivo. Piensa con pragmatismo, mientras que aprecias y disfrutas las cosas buenas de la vida mientras piensas que podrías acostumbrarte a ellas.
+Podrías estar mas ocupado/a en el trabajo que de costumbre cuando las responsabilidades de ciertas personas caigan en tus manos. En la cumbre de la locura, ponte a tono con tus más crudas ambiciones y pregúntate: ¿Qué tan alto quieres llegar en esta empresa? Si la respuesta es no, sabes que tienes muchas ideas propias. Tal vez prefieras invertir un poco de dinero en comenzar un negocio nuevo. Los viajes, la educación, la metafísica, la publicación, la ley, son algunos de los campos que te pudieran interesar.

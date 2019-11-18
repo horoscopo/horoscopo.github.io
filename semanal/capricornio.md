@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 11 de noviembre 2019 al 17 de noviembre 2019 
-description: Horóscopo semanal capricornio 11 de noviembre 2019 al 17 de noviembre 2019. Estás renaciendo capricornio, renaciendo de las cenizas… Y ya era hora…
+title: capricornio 18 de noviembre 2019 al 24 de noviembre 2019 
+description: Horóscopo semanal capricornio 18 de noviembre 2019 al 24 de noviembre 2019. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: kaAmlpDz5E0
-
+ video:  
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-11'
+ lastmod: '2019-11-18'
 ---
 
 
 
-## Estás renaciendo capricornio, renaciendo de las cenizas… Y ya era hora…
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
-Las relaciones están bajo enfoque esta semana, tanto con el Sol como Mercurio animándote a hacer un balance de tus amistades, tu vida social y tus conexiones más cercanas. De hecho, este aspecto se combina con Venus y Saturno en un sector sensible de tu carta animándote a reescribir el plan o las reglas silenciosas dentro de determinadas asociaciones con el fin de mejorar la situación. En lo que respecta a finanzas, puede que gastes dinero justo cuando te dirigías por buen camino. Evita hacer esto, ya que podría causarte problemas innecesarios.
+Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea capricornio. 
+ Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
+Los planetas que rigen las relaciones están de ánimo temperamental pero divertido, animándote a relajarte en buena compañía. Pero la presencia de Saturno en tu sector de placer y romance sugiere que tienes tendencia a conservar tu tiempo y energía. Esto se intensifica conforme Mercurio entra a su fase retrógrada el Lunes, lo que podría coincidir con un momento de calma en tu vida social. Tendrás más tiempo para relajarte y recargar energías, pero también te divertirás, sobre todo si no permites que el nerviosismo de alguien te evite disfrutar de un alegre evento el Viernes.
 
 ## Dinero
 
-Es necesario que esta semana recuerdes lo que aportas a la mesa. Tu panorama de deuda está a punto de ponerse de color de rosa, porque es posible establecer con cuidado y de manera realista los planes de pago con los bancos y los acreedores. Pero puede que no puedas conseguir todo el apoyo que requieres de tus redes sociales. En lugar de venderte a un precio muy caro, recuerda lo que tienes que dar. Es mejor el saber lo que vales, aunque no sea evidente ahora.
+No podrías ser más social en estos momentos aunque trataras, y esto va a ayudarle a tu trabajo a obtener la atención de las personas que te pueden ayudarte a avanzar. Asiste a eventos de trabajo y amplia tu red social tanto como sea posible. Al mismo tiempo, mejora tus habilidades de comunicación para obtener el tipo de dinero que quieres y necesitas de ciertos trabajos o tareas independientes.

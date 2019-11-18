@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 11 de noviembre 2019 al 17 de noviembre 2019 
-description: Horóscopo semanal tauro 11 de noviembre 2019 al 17 de noviembre 2019. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también tauro. Pero sigue protegiéndote a ti mismo…
+title: tauro 18 de noviembre 2019 al 24 de noviembre 2019 
+description: Horóscopo semanal tauro 18 de noviembre 2019 al 24 de noviembre 2019. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: sH80xA-vOAU
-
+ video:  
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-11'
+ lastmod: '2019-11-18'
 ---
 
 
 
-## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también tauro. Pero sigue protegiéndote a ti mismo…
+## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 
-No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
- sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
-Puede que tengas que pasar bruscamente tu atención al plano financiero, especialmente si una decisión tiene que ser hecha. Si estás considerando invertir en propiedades o cualquier otro negocio, investiga bien primero con tal de evitar decepciones o malos tratos. También podrías apreciar algo de tiempo a solas, especialmente si últimamente no has tenido mucho tiempo libre. Una vez que te salgas de tu zona de confort te divertirás mucho con la posibilidad de una conexión amorosa. ¡Evita gastar impulsivamente este fin de semana!
+Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. tauro, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota tauro, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando tauro. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce tauro, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+El deseo de gastar podría ser muy fuerte a comienzos de la semana y puede que vayas al centro comercial o hagas compras en línea. De todos modos, hazlo con tranquilidad. Con tu planeta regente, Mercurio, en fase retrógrada, puede que lo mejor sea evitar artículos de gran valor por el momento. Si debes comprar algo, guarda los recibos para que puedas devolverlo, si fuera necesario. También podría aparecer una ganancia imprevista. Probablemente no será una suma demasiado grande, pero podría hacerte sonreír. Además, una atracción romántica brilla de forma prometedora.
 
 ## Dinero
 
-Es una semana extraña para ti. Aunque habrá un movimiento hacia adelante en tu vida y menos problemas con la tecnología, hay problemas en el frente interno con los gastos inesperados. Mientras tanto, los cambios llegan a los lugares de trabajo y a su personal y políticas. Si todavía estás a bordo, esto va a mejorar. Si no, nunca va a ser lo que quieres. Piense acerca de cómo hacer un cambio saludable.
+Confía en tu intuición acerca de lo que es correcto para ti. Estás preparado/a para hacer un gran cambio en tu vida. Podrías percatarte de que tu situación se vuelve un poco inestable, teniendo dinero un día y no otro. La manera de balancear esto es mediante el desarrollo de una estrategia fuerte de ahorro, poniendo dinero en cuentas de ahorro a largo plazo y otro poco más en cuentas de ahorro a corto plazo. No es una opción - es una necesidad.

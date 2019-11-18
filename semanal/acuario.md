@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 11 de noviembre 2019 al 17 de noviembre 2019 
-description: Horóscopo semanal acuario 11 de noviembre 2019 al 17 de noviembre 2019. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+title: acuario 18 de noviembre 2019 al 24 de noviembre 2019 
+description: Horóscopo semanal acuario 18 de noviembre 2019 al 24 de noviembre 2019. Nada tiene que ser ahora suficiente para ti acuario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: bSaHB42kfpI
-
+ video:  
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-11'
+ lastmod: '2019-11-18'
 ---
 
 
 
-## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+## Nada tiene que ser ahora suficiente para ti acuario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 
-¿Cómo quieres gastar tu vida acuario? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente acuario, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida acuario, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro acuario. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana acuario.
-Puede que te abstengas de compartir tus sentimientos, en especial si se trata de una cuestión sensible. Si ya has tenido experiencia con este asunto, podrías sentirte incluso con menos ganas de hablar de ello. Sin embargo, podría producir un importante logro. A principios de la semana, puede que descubras que superar una barrera y hablar con la verdad es un gran alivio. El vital Marte ingresa a tu sector espiritual el fin de semana, lo que podría revolucionar tu psiquis. Prepárate para algunos vívidos sueños.
+No estás mal con lo que tienes no, pero ya no eres el mismo que antes acuario. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala acuario, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Sagi. Si quieres cambiar algo es porque no estás satisfecho del todo Sagi, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+Tu curiosidad podría despertar. Tantas cosas parecen fascinarte que no puedes evitar involucrarte. Tener demasiadas opciones puede ser tan malo como no tener ninguna, de modo que puede ser útil limitarte a algunos proyectos significativos. Parte de tu energía también podría dirigirse hacia problemas más profundos y conmovedores, ya que el Sol en tu sector espiritual te ayuda a procesar y liberar emociones complicadas. Sin embargo, ¡tus amistades te animarán a salir!
 
 ## Dinero
 
-Es crucial no aceptar la palabra de todos por ahora, sino más bien descubrir por ti cuál podría ser el mejor plan para tu dinero. Los vehículos de inversión pueden ser confusos, por lo que cuenta con la ayuda de un asesor financiero calificado que pueda ayudarte a solucionar las ecuaciones numéricas y lograr que todo se haga. Mientras tanto, el Universo añade un poco de emoción.
+Es una semana muy ocupada para ti. Ciertos aspectos afectarán tu sector de dinero y valores, aumentando tus fondos, lo cual es genial. También te ayuda a hacer un plan para que tu dinero vaya más lejos. Utiliza una calculadora de ahorro para el retiro (disponible en línea) para ayudarte a ver cuánto necesita ahorrar cada mes para poder disfrutar de una vida cómoda después del retiro.

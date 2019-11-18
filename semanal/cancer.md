@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 11 de noviembre 2019 al 17 de noviembre 2019 
-description: Horóscopo semanal cancer 11 de noviembre 2019 al 17 de noviembre 2019. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón cancer, no hay casualidades ni coincidencias.
+title: cancer 18 de noviembre 2019 al 24 de noviembre 2019 
+description: Horóscopo semanal cancer 18 de noviembre 2019 al 24 de noviembre 2019. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: tEequgaQqNI
-
+ video:  
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-11'
+ lastmod: '2019-11-18'
 ---
 
 
 
-## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón cancer, no hay casualidades ni coincidencias.
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-A veces las cosas tienen que ser a tu manera o a ninguna cancer, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada cancer. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
-La luna llena en Cáncer en un sector más apartado de tu carta astral te alienta a olvidarte del trabajo y las responsabilidades por hoy y a tomarte un descanso para celebrar el nuevo año. Tendrás muchas oportunidades para retomar el ritmo de la rutina durante el resto de la semana. De hecho, puede que tengas la agenda particularmente ocupada durante este período, por lo que buscar momentos para relajar es muy importante. También hay una actividad dinámica en el plano hogareño, lo que podría crear un cambio positivo.
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio cancer, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+Tu trabajo y salud son temas importantes esta semana, por lo que, si tienes ganas de avanzar, puede que tengas que cambiar tu forma de pensar. La Luna Nueva del 7 de $MES destaca una perspectiva que ya no te funciona y que podría activamente estarte impidiendo avanzar. Es hora de un cambio, uno que también podría ayudarte a revitalizar otras áreas de tu vida. El consejo que una amistad te otorgue durante el fin de semana podría ser el catalizador que te empuje a empezar de nuevo.
 
 ## Dinero
 
-Esta semana puede que sientas frustración en tu objetivo de salir adelante económicamente. Hay atención no deseada sobre tu situación de deuda. Podrías caer fácilmente en la  depresión si no tienes cuidado. La buena noticia es que tienes la suficiente energía para perseverar y pagar lo que debes. Es posible que desees gastarlo todo en tu familia y diversión. Resiste la tentación, sólo por esta semana.
+Ahora, puede que estés pensando en cómo pedir prestado algo de dinero para sacarte del apuro ya sea de un mal momento o para abrir un nuevo negocio. Es a quién conoces lo que cuenta. Acude a miembros de la familia, amigos y otras partes interesadas para recibir ya sea asesoramiento o dinero en efectivo. Dado a que una relación de apoyo afecta a tu sector de trabajo y salud, piensa en la posibilidad de avanzar a partir de donde estás ahora.

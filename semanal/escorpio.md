@@ -1,30 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 11 de noviembre 2019 al 17 de noviembre 2019 
-description: Horóscopo semanal escorpio 11 de noviembre 2019 al 17 de noviembre 2019. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: escorpio 18 de noviembre 2019 al 24 de noviembre 2019 
+description: Horóscopo semanal escorpio 18 de noviembre 2019 al 24 de noviembre 2019. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: kaAmlpDz5E0
-
+ video:  
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-11'
+ lastmod: '2019-11-18'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-No pelees escorpio, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente escorpio, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador escorpio, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
-El enfoque de esta semana en tu sector de finanzas personales podría tener algunos cambios en camino ya que la semana anticipa un eclipse solar en este sector el sábado. Puede que te ofrezcan una manera de ganar dinero extra o que la descubras sin ayuda. Y si juegas bien tus cartas, las próximas semanas y meses podrían encontrarte desarrollando esta idea para mejorar aún más tu situación financiera. 
-Además, debido a que el delicioso Venus ingresa a tu sector de hogar y familia el lunes, las próximas semanas pueden ser excelentes para recibir visitas y pasar tiempo con una agradable compañía en tu casa. Si tienes ganas de embellecer tu hogar, esta es la ocasión perfecta para hacerlo. 
-Pero para los proyectos domésticos más grandes que incluyan pedir un préstamo, puede que lo mejor sea esperar hasta que Marte en tu sector de activos compartidos se vuelva directo a fines de $MES. Hasta entonces, explora las opciones: podrías encontrar una manera mucho más económica de lograr tu objetivo.
+Necesitas amor escorpio, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a escorpio es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
+Podrías ser tu propio peor enemigo esta semana, pero no tiene por qué ser así. Si te has convencido de que no hay nada que puedas hacer, por supuesto que lograr algo podría ser más difícil. Date un respiro e intenta tener un enfoque más positivo. Piensa que sí puedes lograrlo y sigue repitiéndote esto. Descubrirás que se transforma en una profecía autocumplida. Puedes conseguir lo que sea que te propongas si eres perseverante.
 
 ## Dinero
 
-Estás pensando en hacer algunos cambios en tu forma de trabajar y cómo exponerle tus ideas al mundo. Un aspecto favorable indica que podrías fácilmente llevarte tu trabajo a casa, comenzar un nuevo negocio en tu hogar, o comenzar a trabajar en hacerle mejoras a tu hogar; como por ejemplo construcción o decoración. El único problema radica en el hecho de que a tu ego le puede resultar difícil adaptarse a los cambios.
+Hay cambios ocurriendo en tu sector de carrera ahora. Ciertas cuestiones laborales son muy importantes para ti, pero trata de no dejar que consuman toda tu energía esta semana. Puede ser simplemente porque la energía se concentra tanto aquí. Pero siempre se puede optar por establecer un equilibrio entre el dinero que se está ganando y los amigos y familiares que te gustaría visitar de vez en cuando.
