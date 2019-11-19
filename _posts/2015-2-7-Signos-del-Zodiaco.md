@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de noviembre 2019
-description: Horóscopos del dia de hoy 18 de noviembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de noviembre 2019
+description: Horóscopos del dia de hoy 19 de noviembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-11-18
+ lastmod: 2019-11-19
 ---
-El Universo está lleno de hechos justo cuando los necesitamos mientras Mercurio forma sextil con Saturno. Disfruta de este buen tránsito que fomenta la honestidad. Esta noche, el sextil entre la Luna y Saturno es como un ancla en un mar agitado. Los solteros experimentan buenos comienzos con alguien nuevo. Por su parte, aquellos en pareja sienten calidez al acurrucarse juntos.  
+Marte y Saturno te otorgan vitalidad y persistencia para que estés a la altura de las circunstancias si es que no pierdes tu tiempo tratando de reescribir las reglas. En vez, apégate a ellas, porque la gente está mirando. Esta noche, todos nadamos en una confusa neblina bajo la Luna en Piscis. Es muy probable que nadie tenga la menor idea de nada.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
