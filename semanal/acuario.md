@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 18 de noviembre 2019 al 24 de noviembre 2019 
-description: Horóscopo semanal acuario 18 de noviembre 2019 al 24 de noviembre 2019. Nada tiene que ser ahora suficiente para ti acuario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
+title: acuario 25 de noviembre 2019 al 01 de diciembre 2019 
+description: Horóscopo semanal acuario 25 de noviembre 2019 al 01 de diciembre 2019. Tienes que plantarte acuario, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-18'
+ lastmod: '2019-11-25'
 ---
 
 
 
-## Nada tiene que ser ahora suficiente para ti acuario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
+## Tienes que plantarte acuario, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
 
-No estás mal con lo que tienes no, pero ya no eres el mismo que antes acuario. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala acuario, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Sagi. Si quieres cambiar algo es porque no estás satisfecho del todo Sagi, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
-Tu curiosidad podría despertar. Tantas cosas parecen fascinarte que no puedes evitar involucrarte. Tener demasiadas opciones puede ser tan malo como no tener ninguna, de modo que puede ser útil limitarte a algunos proyectos significativos. Parte de tu energía también podría dirigirse hacia problemas más profundos y conmovedores, ya que el Sol en tu sector espiritual te ayuda a procesar y liberar emociones complicadas. Sin embargo, ¡tus amistades te animarán a salir!
+No eres frágil acuario, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo acuario, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra acuario, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz acuario, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando acuario, y sabes lo complicado que es salir de ahí después…
+Puede que tus hábitos cotidianos se vean afectados, ¿pero es eso algo malo? En ocasiones, no puedes escapar de la rutina y esto afecta tu energía y determinación. Nuevas influencias energéticas que aparecen en tu carta solar de esta semana te ayudan a comenzar de nuevo. Buscas dejar hábitos que se han convertido en reacciones casi instintivas y adoptar aquellos que te den mejores resultados. ¿Llegará el romance a tu vida? La entrada de Venus a tu sector de citas y romance parece indicar que sí.
 
 ## Dinero
 
-Es una semana muy ocupada para ti. Ciertos aspectos afectarán tu sector de dinero y valores, aumentando tus fondos, lo cual es genial. También te ayuda a hacer un plan para que tu dinero vaya más lejos. Utiliza una calculadora de ahorro para el retiro (disponible en línea) para ayudarte a ver cuánto necesita ahorrar cada mes para poder disfrutar de una vida cómoda después del retiro.
+Esta semana, cierta actividad en tu sector de empleo restringirá tu vida laboral un poco y te pedirá que seas más responsable con lo que haces con tu dinero. El tratar de ser todo para todo el mundo no va a funcionar ahora. En lugar de eso, especializa tus habilidades y cobra por ello en consecuencia.  Acude a comunicarte con tus más allegados en busca de pistas sobre la manera de proceder.

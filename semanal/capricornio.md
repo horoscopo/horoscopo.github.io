@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 18 de noviembre 2019 al 24 de noviembre 2019 
-description: Horóscopo semanal capricornio 18 de noviembre 2019 al 24 de noviembre 2019. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+title: capricornio 25 de noviembre 2019 al 01 de diciembre 2019 
+description: Horóscopo semanal capricornio 25 de noviembre 2019 al 01 de diciembre 2019. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-18'
+ lastmod: '2019-11-25'
 ---
 
 
 
-## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 
-Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea capricornio. 
- Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
-Los planetas que rigen las relaciones están de ánimo temperamental pero divertido, animándote a relajarte en buena compañía. Pero la presencia de Saturno en tu sector de placer y romance sugiere que tienes tendencia a conservar tu tiempo y energía. Esto se intensifica conforme Mercurio entra a su fase retrógrada el Lunes, lo que podría coincidir con un momento de calma en tu vida social. Tendrás más tiempo para relajarte y recargar energías, pero también te divertirás, sobre todo si no permites que el nerviosismo de alguien te evite disfrutar de un alegre evento el Viernes.
+Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Capri, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Capri, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
+Puedes obtener los mejores resultados cuando abordas los planes de viaje con paciencia, incluso si tienes el impulso de apresurar las cosas. De hecho, cuando el encantador Venus y el inquisitivo Marte se alinean con el apasionado Plutón, puede que sientas la tentación de seguir presionando hasta obtener lo que quieres. Acepta cualquier demora con buen humor y todo debería seguir adelante sin problemas. Si comienzas un viaje, considera verificar los detalles, ya que el sol se alinea con el nebuloso Neptuno el fin de semana. Hay posibilidades de error.
 
 ## Dinero
 
-No podrías ser más social en estos momentos aunque trataras, y esto va a ayudarle a tu trabajo a obtener la atención de las personas que te pueden ayudarte a avanzar. Asiste a eventos de trabajo y amplia tu red social tanto como sea posible. Al mismo tiempo, mejora tus habilidades de comunicación para obtener el tipo de dinero que quieres y necesitas de ciertos trabajos o tareas independientes.
+Te muerdes las uñas para empezar a trabajar en un nuevo proyecto creativo. Esto pasará, y tu mente será estimulada en todo tipo de interesantes direcciones. Esto también afectará a los niños, parejas románticas, miembros de familia y diversión. Gastar tu dinero en efectivo en estas áreas afirma tu lugar en el mundo y todos los beneficios de tu arduo trabajo.
