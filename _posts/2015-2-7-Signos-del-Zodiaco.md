@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de noviembre 2019
-description: Horóscopos del dia de hoy 27 de noviembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de noviembre 2019
+description: Horóscopos del dia de hoy 28 de noviembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-11-27
+ lastmod: 2019-11-28
 ---
-Mantén tu paz mental en la cara del caos mientras la Luna en Piscis cuadre a Marte el día de hoy. Ten en cuenta que las respuestas pueden ser tanto muy emocionales, como visibles. Esta noche, no le digas a alguien que le amas, o incluso que te gusta, a menos que realmente sea cierto. Las emociones de la gente siguen siendo volátiles.
+La Luna en Piscis de hoy sugiere visiones de finalización, pero ¿son reales? Si no es así, todavía hay tiempo para darte prisa y terminar. Y, por cierto, lee detalladamente las clausulas y condiciones dentro de los documentos. El amor triunfa esta noche cuando Venus forma trígono con Júpiter. El deseo de enamoramiento puede volverse realidad cuando ambos planetas conectan.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
