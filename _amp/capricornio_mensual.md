@@ -1,13 +1,12 @@
 ---
 layout: amp
-title: Horoscopo capricornio noviembre 2019 
+title: Horoscopo capricornio diciembre 2019 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
- video: fZ2lIcmR94Y
-
+ video:  
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1
@@ -15,7 +14,4 @@ sitemap:
 ---
 
 
-La conjunción entre el sol y Mercurio el 1 de noviembre libera tu intuición. Con la luna nueva del día 15, tendrás todas las respuestas para los problemas ajenos. Deja que pregunten primero. Tal vez no te involucres en los asuntos de nadie, pero igual puedes aprender mucho si observas y escuchas. Además, Mercurio se torna directo ese día. Aclara cualquier malentendido. La luna llena del 29 de noviembre trae amistades y gente del vecindario a tu lado. Tal vez piensas que no necesitas ayuda, pero todos la necesitan en realidad, de alguna forma u otra. A veces la aceptación es la mejor manera de dar. Sé una persona amable y agradecida. 
-
-Días destacados: 1, 14, 24
-Días desafiantes: 4, 20
+La Luna Llena del 9 de diciembre es una luna festiva y orientada a la familia. Podrías recibir llamadas telefónicas, fotos o mensajes de texto de parientes que quieren ver tu hermoso rostro y escuchar tu dulce voz. Ríndete ante la atención. No durará mucho tiempo. El 13 de diciembre, el trígono entre Mercurio y Júpiter mejora tu suerte y tu visión sobre un problema determinado. La Luna Nueva del 23 de diciembre abre tu vida social a una gran diversión y entusiasmo. Puede que estés a punto de tener un poco más de entusiasmo en tu vida, y tal vez seas tú quien lo genere. Las personas quieren estar cerca de ti.

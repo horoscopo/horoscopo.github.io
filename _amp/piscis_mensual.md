@@ -1,13 +1,12 @@
 ---
 layout: amp
-title: Horoscopo piscis noviembre 2019 
+title: Horoscopo piscis diciembre 2019 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
- video: 3dXno6uQXSY
-
+ video:  
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1
@@ -15,7 +14,4 @@ sitemap:
 ---
 
 
-Dinero y oportunidades de ingreso aparecen en tu camino durante la luna nueva del 15 de noviembre. Descubre formas más fáciles de hacer lo que ya haces. Las personas también quieren que lo hagas por ellas, y están listas para ser generosas. El día 23, el trígono entre el sol y Marte te da más energía que la mayoría. Interactúa con mucha gente y tal vez involúcrate en algún nuevo proyecto. Para la luna llena del 29 de noviembre, intenta algo nuevo o ve a algún lugar aventurero. Puedes pasar horas viendo diarios de viajes, pero hay buenas probabilidades de que quieras salir y absorber la cultura. 
-
-Días destacados: 5, 15, 24
-Días desafiantes: 12, 16
+Mercurio entra a Capricornio el 2 de diciembre y tu lado inteligente y práctico entra a un estado de saturación. Logra todo lo que te has propuesto hacer, y aún más. La Luna Llena del 13 de diciembre se manifiesta en tu signo. Tu vida social se moverá a la velocidad de un torbellino, lo que podría hacer difícil que dejes de hablar. Esto está bien porque las personas están fascinadas contigo y con cada una de tus palabras. No las decepciones. El 28 de diciembre trae consigo una intensa Luna Nueva junto con Mercurio retrógrado. Para variar, permite que la gente venga a ti en lugar de perseguirles tanto. No tengas miedo - no terminarás en soledad. 

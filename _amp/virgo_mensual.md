@@ -1,13 +1,12 @@
 ---
 layout: amp
-title: Horoscopo virgo noviembre 2019 
+title: Horoscopo virgo diciembre 2019 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: CnIrHUQBOg4
-
+ video:  
 ogimg: /images/virgo_char.png
 sitemap:
  priority: 1
@@ -15,7 +14,6 @@ sitemap:
 ---
 
 
-El 10 de noviembre, Venus forma un trígono con Marte. Cuando el deseo y la pasión coinciden, el amor está cerca. Puede que la luna nueva del día 15 sea tenue, pero no será tranquila ni silenciosa. Incluso si te quedas en casa y meditas, podrías sentir inquietud interna. Haz algo que nutra tu corazón. El sol ingresa a Tauro el 19 de noviembre. ¡Llénate de energía! Deja que la luna llena del día 29 traiga más amor a tu vida. Una pareja poco entusiasta podría volverse mucho más cálida, o un negocio o colega del trabajo podría preparar el terreno para un gran golpe de suerte que beneficie a ambos. No necesitarás hacer nada especial. 
+Deja que tu niño interior salga a jugar bajo la Luna Llena del 9 de diciembre. Inspírate y diviértete más haciendo algo ordinario de la forma más extraordinaria. Todo niño sabe que, muchas veces, ciertas cosas que son puestas al revés son en realidad verdades disfrazadas. La oposición entre el Sol y Saturno del 15 de diciembre te da más autoridad de la que esperabas. Alrededor de la Luna Nueva del 23 de diciembre, podrías tener muchísimas tareas e involucrarte en la vida de manera introvertida. Si has observado un cambio en una relación o romance, tómate todo el tiempo que sea necesario para comprenderlo y hacer que las cosas funcionen a tu favor.
 
-Días destacados: 7, 12, 24
-Días desafiantes: 1, 17
+Mejores días: 3, 18, 21Peores días: 4, 12

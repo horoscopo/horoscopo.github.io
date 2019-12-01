@@ -1,13 +1,12 @@
 ---
 layout: amp
-title: Horoscopo acuario noviembre 2019 
+title: Horoscopo acuario diciembre 2019 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
- video: WgT-cxtIGK4
-
+ video:  
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1
@@ -15,7 +14,4 @@ sitemap:
 ---
 
 
-Con la luna nueva del 15 de noviembre, hay una vida de nuevas emociones. Puede que sean emociones pequeñas, pero la diversión cuenta igual, y tú sabes cómo compartir los buenos momentos. Intenta algo diferente y disfruta. El día 17, la oposición entre Venus y Júpiter podría traer confusión. No sabrás lo que quieres casi hasta que sea demasiado tarde. La luna llena del 29 de noviembre te permite darle una gran satisfacción, quizás de forma anónima, a alguien especial. A veces es agradable recibir todo el crédito, pero a veces es incluso más divertido ser aquella amistad secreta o simpatizante. Todo se descubrirá al final, y una gran gratitud aparecerá en tu camino. 
-
-Días destacados: 3, 21, 30
-Días desafiantes: 11, 17
+La cuadratura entre la Luna y Mercurio del 1 de diciembre quizás intente disminuir tu nivel de confianza personal, pero no se lo permitas. Siente tu gran prosperidad bajo la Luna Llena del 8 de diciembre. Estás de humor para producir dinero y puedes ver mucho éxito. El repentino cambio de humor o fortuna de otra persona podría crear oportunidades que te permitan alardear del éxito que puedes tener. La Luna Nueva del 23 de diciembre podría dar comienzo a una temporada de fiestas y reuniones con amistades y gente de tu vecindario que fueron difíciles de encontrar a principio de año. La gente puede ir y venir con más frecuencia, pero será agradable ver tantos rostros de nuevo. 

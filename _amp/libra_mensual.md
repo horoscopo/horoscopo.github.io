@@ -1,13 +1,12 @@
 ---
 layout: amp
-title: Horoscopo libra noviembre 2019 
+title: Horoscopo libra diciembre 2019 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
- video: 8lUhFRHWVXk
-
+ video:  
 ogimg: /images/libra_char.png
 sitemap:
  priority: 1
@@ -15,7 +14,7 @@ sitemap:
 ---
 
 
-Cuando Urano entra a Tauro, te estás librando de una situación impredecible. Tus horizontes son inmensos, y te invitan a explorar nuevas tierras y oportunidades fértiles. Ya sea un viaje físico o metafórico, el viaje es el destino en sí, y tienes el mundo en la palma de la mano. ¿A dónde quieres ir, y con quién? Con tu regente, Mercurio, en su fase retrógrada, y una luna nueva en Piscis, algunos eventos solicitan que hagas una reevaluación más profunda de tus relaciones. 
-Hay mucho más de lo que parece con respecto a alguien o algo. Confía en tus instintos, pero sé paciente y no juzgues mientras más cosas se revelan. Ve más allá de las apariencias superficiales. Busca y ofrece transparencia, y evita proyectarte y asumir cosas (para bien o para mal). 
-Cuando el sol alcanza el equinoccio, y la luna llena se alinea en Libra, tienes que tomar una decisión sobre la forma en que las cosas salen, y la dirección de tu vida. Eres libre de explorar tus opciones, pero no pierdas de vista una visión a largo plazo. Luego podrás tomar decisiones sabias que profundicen las conexiones mutuamente benéficas con las personas que comparten tus objetivos, y te acompañarán en cada paso del camino. 
-Días destacados: 14, 17, 28Días desafiantes: 5, 15, 24
+Urano entra a Tauro, tu sector de profesión e imagen profesional, lo que trae un cambio de dirección que podrías no haber visto venir. Esto podría sacudir tu mundo y desencadenar inseguridades profundas, pero evita aferrarte a alguien o algo, en especial tu posición o lugar. 
+Cualquier cosa que se aleje está revelando tu misión real, y catapultándote hacia nuevas alturas. No puedes contener un diluvio, ni puedes esconder tu luz. Aunque te expongas mucho, fluye con los cambios, y podrás facilitar la transición. Esta es una oportunidad para reevaluar y renegociar los compromisos importantes en lo económico y lo personal, con el fin de que te ofrezcan la seguridad que necesitas. 
+En el fondo, este es un proceso de muerte y resurrección de tu ego. Aclara tus valores, mantén tu perspectiva y desapego, y podrás reivindicar tu poder para tomar decisiones sabias que redireccionen el camino de tu vida. Tu dedicación, compromiso y habilidad para seguir avanzando (incluso cuando el mundo se está cayendo a pedazos) es fuente de inspiración. No pasará mucho tiempo hasta que las personas descubran tu genio. Ten más fe en ti, sé humilde, y tu espíritu se elevará. 
+Días destacados: 9, 14, 20Días desafiantes: 6, 13, 22
