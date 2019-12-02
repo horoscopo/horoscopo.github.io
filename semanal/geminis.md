@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 25 de noviembre 2019 al 01 de diciembre 2019 
-description: Horóscopo semanal geminis 25 de noviembre 2019 al 01 de diciembre 2019. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+title: geminis 02 de diciembre 2019 al 08 de diciembre 2019 
+description: Horóscopo semanal geminis 02 de diciembre 2019 al 08 de diciembre 2019. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda geminis, pero sé constante.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-25'
+ lastmod: '2019-12-02'
 ---
 
 
 
-## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda geminis, pero sé constante.
 
-Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
-Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
-Ten especial cuidado con tus finanzas esta semana. No cedas a la tentación de apostar o inviertas tu dinero en un negocio fraudulento. Evita la especulación o ideas para enriquecerte rápidamente que pudieran agotar en lugar de aumentar tus recursos. Con cenas y reuniones programadas para el jueves, asegúrate de que cualquier regalo que compres sea genuino y no falsificado. Aparte de estas advertencias, hay oportunidades para pasar buenos ratos, aunque es posible que desees alternarlos con períodos de tranquila reflexión y la oportunidad de recargar baterías.
+Esta semana tienes que tomarte las cosas con más calma geminis. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
+ Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse.
+Esta es una semana optimista con mucha actividad, especialmente en relación a cuestiones administrativas y comunicativas. Debido a que Marte en Leo podría llevarte a presionar a la gente un poco, te ayudaría adoptar una característica del Signo Libra y ver las cosas desde el punto de vista de la otra persona; hacerlo podría traerte positivas recompensas. Si trabajas en ventas o medios de comunicación, sin duda tendrás mucho que hacer y hasta podrías superar tus propias y las expectativas de los demás.
 
 ## Dinero
 
-Estás conectando con los demás de una manera importante con respecto a vida laboral y dinero ahora. Con actividad en tu sector de grupo, política y trabajo por cuenta propia, puedes estar pensando en cómo aumentar tus ingresos con un negocio secundario o hacer la transición de una carrera a otra. El Universo expande tus oportunidades, así que mantén los ojos abiertos. Vas a tener un repentino destello de intuición cuando veas pasar el signo de dinero oculto en la obra.
+Te enfrentas a un período de diversión que afecta tanto a niños como familia. Si actualmente te involucras en estas áreas, puede que te percates de que le puedes vender tus productos y servicios a un público muy dispuesto. Si no, piensa en cómo puedes crear productos que atraigan a una variedad de personas en todo el mundo. A medida que usas tus talentos para crear fuentes de ingresos para toda la vida, el siguiente paso es la prosperidad.

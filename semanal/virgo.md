@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 25 de noviembre 2019 al 01 de diciembre 2019 
-description: Horóscopo semanal virgo 25 de noviembre 2019 al 01 de diciembre 2019. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento virgo. Hay personas a las que TÚ debes dar ese escarmiento.
+title: virgo 02 de diciembre 2019 al 08 de diciembre 2019 
+description: Horóscopo semanal virgo 02 de diciembre 2019 al 08 de diciembre 2019. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-25'
+ lastmod: '2019-12-02'
 ---
 
 
 
-## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento virgo. Hay personas a las que TÚ debes dar ese escarmiento.
+## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante virgo, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-A pesar de que quieras algo en los primeros días de la semana, puede que cambies de opinión a medida que se acerca el fin de semana. Por más importante que parezca, el vínculo del vivaz Mercurio con el potente Plutón podría empujarte a actuar sin pensar para satisfacer un deseo. Si esperas un poco, las cosas podrían ser diferentes más adelante y puede que te des cuenta de que no te hacía falta. Por otro lado, el enérgico Marte entra a tu sector doméstico el 26 de $MES, lo cual representa una gran oportunidad para despejar un poco de espacio en tu hogar.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega virgo. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+Un fuerte enfoque en tu sector de cambio y transformación indica que esta semana podría marcar el ritmo para el resto del año. Mercurio retrocediendo en tu signo puede estimularte a enfrentarte con cualquier problema financiero que pudiera estarte frenando. La razón es que un Eclipse Solar puede coincidir con una oportunidad que no querrás perderte. Además, una relación clave podría pasar por un dinámico cambio que la lleve a un nivel más íntimo.
 
 ## Dinero
 
-Para ti, esta semana es acerca de tus relaciones. Te están ofreciendo algo de alegre liberación, así como también graves distracciones. Si tienes proyectos de trabajo que deban ser terminados ahora, concentra en estos tus esfuerzos y diles a tus seres queridos que les verás pronto. Ciertos aspectos de tu sector de comunicación te hacen elocuente y capaz de salirte con la tuya con respecto a los asuntos financieros. Todo está sucediendo ahora.
+Esta semana podría ser tensa para ti. Presta especial atención a los mensajes que estés recibiendo de sus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están justo en el blanco ahora. Al mismo tiempo, sigue añadiendo más a tus capacidades al asistir a clases, talleres y seminarios. Tienes todo lo que se necesitas, pero un poco más no te vendría mal.

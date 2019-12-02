@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 25 de noviembre 2019 al 01 de diciembre 2019 
-description: Horóscopo semanal tauro 25 de noviembre 2019 al 01 de diciembre 2019. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+title: tauro 02 de diciembre 2019 al 08 de diciembre 2019 
+description: Horóscopo semanal tauro 02 de diciembre 2019 al 08 de diciembre 2019. Semana intensa tauro, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-25'
+ lastmod: '2019-12-02'
 ---
 
 
 
-## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+## Semana intensa tauro, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 
-Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
- Tienes que acabar de una vez con todo tauro.
-Espera lo inesperado, en particular con Mercurio retrocediendo en tu sector de viajes. Si vas a salir de vacaciones antes del 21 de $MES, podrías experimentar retrasos o desvíos. Esto no es necesariamente algo malo, ya que a veces, agradables encuentros y experiencias podrían ser el resultado. Mientras tanto, Júpiter entra a Libra y a tu sector profesional y de reconocimiento público, lo que podría hacer los próximos doce meses muy prometedores. ¡Algunas oportunidades de oro podrían ponerse en tu camino!
+Quieres sonreír cuando pase el tiempo y sobretodo no quedarte con las ganas por no haber hecho lo que sentías. No te encierres en lo que debes o no debes hacer tauro, ahora simplemente fluye… Con la vida, con tus amigos, con tu gente, con los que quieres… 
+porque así es como la vida te acaba compensando con nuevas bienvenidas.
+Tu escenario social se ve particularmente activo esta semana y en las próximas semanas con mucho de qué ocuparte. Disfrutarás mucho de mezclarte con tus amistades y conocer gente nueva. Sin embargo, al comienzo de la semana puede que te resulte difícil aceptar la sugerencia de una persona si parece poco realista. Hablar sobre esto puede generar un compromiso. A medida que Mercurio se traslada a una parte más tranquila de tu carta, el cosmos sugiere que reflexionar sobre un problema personal puede serte útil.
 
 ## Dinero
 
-La actividad en tu sector de la comunicación hace de ti una abeja muy ocupada. Estarás escribiendo correos electrónicos, mensajes de texto y llamando a tus seres queridos, haciendo de ésta una semana muy ocupada. También será más fácil para que ti el poder encontrar un trabajo independiente y hacer tu trabajo fácilmente para que puedas recibir el pago más rápidamente. Podrás lograr progreso siempre y cuando no pises a nadie en el camino, pisa con cuidado.
+Un sentimiento de expansión y repentina revelación podría darte una idea que simplemente no puedas contener. Ya que hay cierta actividad en tu sector de relaciones serias y matrimonio, las mejores nociones de hacer dinero pueden provenir de estas áreas. Crea una lluvia de ideas con respecto al matrimonio y la familia y puede que formules una idea para un libro, programa de entrenamiento, o un producto de mucho interés. Venderlo no va a ser difícil.

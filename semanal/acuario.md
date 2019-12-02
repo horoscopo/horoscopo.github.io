@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 25 de noviembre 2019 al 01 de diciembre 2019 
-description: Horóscopo semanal acuario 25 de noviembre 2019 al 01 de diciembre 2019. Tienes que plantarte acuario, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+title: acuario 02 de diciembre 2019 al 08 de diciembre 2019 
+description: Horóscopo semanal acuario 02 de diciembre 2019 al 08 de diciembre 2019. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana acuario.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-11-25'
+ lastmod: '2019-12-02'
 ---
 
 
 
-## Tienes que plantarte acuario, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana acuario.
 
-No eres frágil acuario, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo acuario, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra acuario, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz acuario, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando acuario, y sabes lo complicado que es salir de ahí después…
-Puede que tus hábitos cotidianos se vean afectados, ¿pero es eso algo malo? En ocasiones, no puedes escapar de la rutina y esto afecta tu energía y determinación. Nuevas influencias energéticas que aparecen en tu carta solar de esta semana te ayudan a comenzar de nuevo. Buscas dejar hábitos que se han convertido en reacciones casi instintivas y adoptar aquellos que te den mejores resultados. ¿Llegará el romance a tu vida? La entrada de Venus a tu sector de citas y romance parece indicar que sí.
+Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
+ La gente es como es y no debes martirizarte por ello acuario.
+Cuando Mercurio ingresa a tu sector de viajes, te puede dar curiosidad explorar países o culturas que nunca antes has visto. En las próximas semanas podrías estar reservando un viaje o vacaciones en algún lugar que puede brindar placeres sensuales, experiencias emocionantes y mucho para explorar. También puede que tengas una chance de hacer cambios positivos en tu hogar debido a una gran idea. Ponerla en marcha podría ahorrarte mucho trabajo.
 
 ## Dinero
 
-Esta semana, cierta actividad en tu sector de empleo restringirá tu vida laboral un poco y te pedirá que seas más responsable con lo que haces con tu dinero. El tratar de ser todo para todo el mundo no va a funcionar ahora. En lugar de eso, especializa tus habilidades y cobra por ello en consecuencia.  Acude a comunicarte con tus más allegados en busca de pistas sobre la manera de proceder.
+Es posible que te hayas estado preocupado por dinero últimamente, sobre todo tu deuda, la cual podría haber permanecido sin resolver durante gran parte del año. Ahora, con algunos aspectos positivos, es el momento de abordarla por última vez. Esto podría implicar el corte de las tarjetas de crédito. O podría tratarse de hacer un plan de pago al que puedas apegarte hasta que sea pagado. Puedes finalmente hacer que suceda, así que no te demores.
