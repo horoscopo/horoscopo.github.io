@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 02 de diciembre 2019 al 08 de diciembre 2019 
-description: Horóscopo semanal aries 02 de diciembre 2019 al 08 de diciembre 2019. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+title: aries 09 de diciembre 2019 al 15 de diciembre 2019 
+description: Horóscopo semanal aries 09 de diciembre 2019 al 15 de diciembre 2019. Vete a tu cerebro, y borra aries, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño aries. Deja salir para que pueda entrar lo demás.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,17 +12,18 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-02'
+ lastmod: '2019-12-09'
 ---
 
 
 
-## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+## Vete a tu cerebro, y borra aries, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño aries. Deja salir para que pueda entrar lo demás.
 
-No te conformes con poco aries, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche aries, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
-Podrías estar buscando una gran dosis de aventura; en este caso, la semana que comienza podría encontrarte con ganas de disfrutar de nuevas experiencias. Al mismo tiempo, las responsabilidades profesionales pueden mantenerte en constante movimiento mientras trabajas para alcanzar una meta personal.
-Una animada alineación entre el sol y el animado Júpiter en Escorpión el jueves podría coincidir con la chance de hacer un viaje que sea la puerta para nuevas oportunidades. Tal vez sea algo que tendrás ganas de explorar durante las próximas semanas. El mismo día, podría surgir un desacuerdo con respecto al trabajo o un asunto familiar. Hablar sobre ello puede ayudarte a adoptar una nueva perspectiva que facilite encontrar una solución. El fin de semana puede ser perfecto para el romance. Si estás en una relación, esta puede ser la oportunidad para pasar más tiempo con tu amor. Si no estás en pareja, podrías encontrarte con alguien que te haga perder la cabeza.
+No pienses tanto por favor aries, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres aries por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
+ cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
+Podrías estar en desacuerdo con una de tus amistades, quien quizá no tome tus problemas en serio. No permitas que esto llegue a entorpecer su relación. Puede que esta persona no sepa por lo que estás atravesando. Al haber un potente enfoque en un intenso sector de tu carta, podrías trabajar en las cosas a nivel profundo, y tal vez no sea fácil explicárselo a los demás. Si lo analizas con alguien que puede entender lo que estás diciendo, esta sanadora conversación podría beneficiarte. 
+ Mientras tanto, cuando el animado Júpiter forma una positiva conexión con el potente Plutón, puede que valga la pena unir los recursos con los de otra persona para convertir una idea en realidad. Por último, si has tenido malentendidos con tus amistades, podrían disiparse el fin de semana cuando el reflexivo Mercurio se vuelve directo. El domingo, la encantadora luna nueva en tu sector social podría fomentar nuevos comienzos.   
 
 ## Dinero
 
-El Universo está pidiendo que te impongas en el sector de deuda, haciendo arreglos de pago, enviando cheques y destruyendo viejas tarjetas de crédito. Mientras tanto, hay mensajes importantes en tus sueños y flashes psíquicos. Conforme muestras tu formidable ambición, no te olvides de la justicia kármica. Trata a los demás en la forma en la que te gustaría ser tratado/a en la misma posición.
+Cuando alguien quiere saber cómo establecer una red en conjunto, acude a ti. Entiendes a un nivel muy profundo cómo trabajar con otros para beneficiar a todos los involucrados. Ahora tendrás todo el apoyo que necesitas para atraer más dinero a través del uso de tus conocimientos, al completar un plan de negocios, o al buscar inversionistas formales. No tengas timidez. Pide lo que necesitas.

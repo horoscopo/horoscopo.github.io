@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 02 de diciembre 2019 al 08 de diciembre 2019 
-description: Horóscopo semanal geminis 02 de diciembre 2019 al 08 de diciembre 2019. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda geminis, pero sé constante.
+title: geminis 09 de diciembre 2019 al 15 de diciembre 2019 
+description: Horóscopo semanal geminis 09 de diciembre 2019 al 15 de diciembre 2019. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-02'
+ lastmod: '2019-12-09'
 ---
 
 
 
-## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda geminis, pero sé constante.
+## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 
-Esta semana tienes que tomarte las cosas con más calma geminis. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
- Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse.
-Esta es una semana optimista con mucha actividad, especialmente en relación a cuestiones administrativas y comunicativas. Debido a que Marte en Leo podría llevarte a presionar a la gente un poco, te ayudaría adoptar una característica del Signo Libra y ver las cosas desde el punto de vista de la otra persona; hacerlo podría traerte positivas recompensas. Si trabajas en ventas o medios de comunicación, sin duda tendrás mucho que hacer y hasta podrías superar tus propias y las expectativas de los demás.
+No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
+¿Preferirías lanzarte al mundo sin miedo o quedarte bajo las sábanas? Puede que tengas que tomar tal decisión el martes. Con el fuerte enfoque en tu sector hogareño y familiar, puede que sientas que todavía no ha llegado el momento para que compartas o hagas aquello que es lo que haya que hacer. Reflexionar podría ayudarte a echar a andar tu creatividad y tal vez formular brillantes ideas. Más adelante en la semana, una agitación dentro de ti podría ser la precursora de un cambio.
 
 ## Dinero
 
-Te enfrentas a un período de diversión que afecta tanto a niños como familia. Si actualmente te involucras en estas áreas, puede que te percates de que le puedes vender tus productos y servicios a un público muy dispuesto. Si no, piensa en cómo puedes crear productos que atraigan a una variedad de personas en todo el mundo. A medida que usas tus talentos para crear fuentes de ingresos para toda la vida, el siguiente paso es la prosperidad.
+Esta semana podrías estar pensando en nuevas formas de ganar dinero desde la comodidad de tu hogar. Ya sea que estés planeando el construir una oficina, el comprar un estudio y dividirlo en habitación casa/trabajo o que comiences a redecorar tu casa, aquí es dónde esta el dinero. Pero podrías no estar pensando en tus deudas tanto como lo necesitas. Date el tiempo de revisar los documentos necesarios antes de firmar o comprometerte a algo.

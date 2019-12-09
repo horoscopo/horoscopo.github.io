@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 02 de diciembre 2019 al 08 de diciembre 2019 
-description: Horóscopo semanal cancer 02 de diciembre 2019 al 08 de diciembre 2019. Cada día que pasa te das más cuenta de que mereces cosas buenas cancer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: cancer 09 de diciembre 2019 al 15 de diciembre 2019 
+description: Horóscopo semanal cancer 09 de diciembre 2019 al 15 de diciembre 2019. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-02'
+ lastmod: '2019-12-09'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas cancer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 
-Por fin has tomado decisiones, y además decisiones que te benefician, 
-por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
-Después de una época de grandes reuniones con amigos, cierre de acuerdos y de crear nuevos contactos profesionales, el Sol se desplaza a tu sector de hogar y familia. Es posible que de ahora en adelante desees disfrutar de un tiempo de descanso. También es una oportunidad para salir con tus amigos más cercanos y consentirte. Este fin de semana habrá Luna Llena en el divertido Sagitario, la que podría despertar tu espíritu fiestero. Si tienes ganas de organizar una celebración o un evento, este sería el momento de hacerlo.
+Llega una etapa buena cancer, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no cancer. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea…
+Aunque tus alianzas podrían ser desafiadas al inicio de la semana, es posible que te percates de que te va mejor cuando te mantienes fiel a tu persona. Los momentos en los que te diviertes más son cuando estás creando o romanceando a alguien. Cualquier actividad que te permita expresarte va a traerte mucha felicidad. Y si hay competencia involucrada, estarás aún más en tu elemento. Sólo ten en cuenta que tu determinación puede ser más intensa de lo que crees.
 
 ## Dinero
 
-Es una semana ideal para pensar en iniciar un nuevo negocio. Tu trabajo está cambiando, al igual que tu imagen de dinero. El ir con la corriente significa que debes aceptar lo que está sucediendo ahora en lugar de tratar de resistirte a ello. Tus relaciones no sólo son importantes sino también un sueño perfecto para este momento de tu vida.
+Tienes todo tipo de geniales destellos llegando a tu cabeza. No descartes nada que parezca una posibilidad remota, porque puede que no lo sea dado el tiempo suficiente y la preparación. La mala noticia es que tu empleo podría sufrir un cambio no deseado. Podrías tener un nuevo jefe, un cambio de responsabilidades, o incluso una reducción de sueldo conforme tu empresa lucha con una economía cambiante.

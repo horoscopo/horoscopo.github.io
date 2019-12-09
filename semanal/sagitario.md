@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 02 de diciembre 2019 al 08 de diciembre 2019 
-description: Horóscopo semanal sagitario 02 de diciembre 2019 al 08 de diciembre 2019. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+title: sagitario 09 de diciembre 2019 al 15 de diciembre 2019 
+description: Horóscopo semanal sagitario 09 de diciembre 2019 al 15 de diciembre 2019. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-02'
+ lastmod: '2019-12-09'
 ---
 
 
 
-## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 
-Te crees que eres débil sagitario, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos sagitario, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior sagitario… Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
-Tal parece que tendrás una semana ocupada haciendo malabares con todo tipo de tareas, plazos y otros deberes. Trata de darte la oportunidad de recargar baterías, especialmente si has estado bajo presión desde hace algún tiempo. La presencia de Saturno en tu sector profesional podría significar la adopción de aún más responsabilidades, por lo que es vital monitorear tu ritmo. La Luna Nueva podría ayudarte a decidir qué cambios hacer, sobre todo si tienes ansias de ajustar tu rutina y horario diario.
+Lo más complicado es siempre el principio, de todo, una vez que te has subido al “barco” no vuelvas a tirarte al agua, ¿me explico? 
+Y si aún tienes dudas sobre algo, tómate tu tiempo para decidir, a solas, sin que nadie pueda darle más vueltas a tu cabeza…
+Esta puede ser una semana para interactuar, hacer viajes cortos y ponerte al día con las tareas administrativas. De hecho, con el Sol en tu sector de comunicaciones durante cuatro semanas, estas actividades podrían extenderse un tiempo más. Sin embargo, más puertas pueden abrirse y nuevas oportunidades pueden surgir gracias a tu esfuerzo. Tienes mucho a lo que aspirar, así que trata de que miembros de tu familia no te desanimen si piensan que puedes enfocar tu energía hacia asuntos más domésticos.
 
 ## Dinero
 
-Esta semana es perfecta para tener una mentalidad transformadora. Los aspectos astrales agitan tu sector hogareño y despiertan algunos sentimientos internos. Podrías sentir algo de inestabilidad en estas áreas y tal vez necesites pasar algo de tiempo curándote y desarrollando un plan de recuperación. Tómate todo el tiempo que necesites para hacer que suceda.
+Puede que parezca que el dinero está en todo tu alrededor ahora. Dado que cierta actividad afecta al sector que rige la deuda o el dinero de otros, puede ser extremadamente bueno establecer un nuevo plan de pago para las facturas pendientes, o buscar dinero por parte de los inversionistas para un nuevo proyecto. Si estás tratando de atraer dinero, arma un plan de negocios sólido. Enumera tus habilidades, pasión, y -sobre todo- las cifras para mostrar tu valor real.
