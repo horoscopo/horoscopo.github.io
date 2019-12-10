@@ -2,10 +2,10 @@
 layout: page
 title: Tauro Horóscopo año nuevo 2020 
 description: Tauro horoscopo del 10 de diciembre del 2019, amor, trabajo, vida personal. Todas las predicciones para Tauro gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Tauro/
+permalink: /horoscopo-anual/tauro/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Tauro 2020, horoscop, horóscopos gratis, horoscopo Tauro, horoscopo Tauro 2020 gratis, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Tauro_anual.png
+ogimg: /images/tauro_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

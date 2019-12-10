@@ -2,10 +2,10 @@
 layout: page
 title: Libra Horóscopo año nuevo 2020 
 description: Libra horoscopo del 10 de diciembre del 2019, amor, trabajo, vida personal. Todas las predicciones para Libra gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Libra/
+permalink: /horoscopo-anual/libra/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Libra 2020, horoscop, horóscopos gratis, horoscopo Libra, horoscopo Libra 2020 gratis, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Libra_anual.png
+ogimg: /images/libra_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

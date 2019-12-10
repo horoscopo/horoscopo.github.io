@@ -2,10 +2,10 @@
 layout: page
 title: Acuario Horóscopo año nuevo 2020 
 description: Acuario horoscopo del 10 de diciembre del 2019, amor, trabajo, vida personal. Todas las predicciones para Acuario gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Acuario/
+permalink: /horoscopo-anual/acuario/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Acuario 2020, horoscop, horóscopos gratis, horoscopo Acuario, horoscopo Acuario 2020 gratis, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Acuario_anual.png
+ogimg: /images/acuario_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

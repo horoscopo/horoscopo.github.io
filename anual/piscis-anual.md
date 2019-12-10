@@ -2,10 +2,10 @@
 layout: page
 title: Piscis Horóscopo año nuevo 2020 
 description: Piscis horoscopo del 10 de diciembre del 2019, amor, trabajo, vida personal. Todas las predicciones para Piscis gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Piscis/
+permalink: /horoscopo-anual/piscis/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Piscis 2020, horoscop, horóscopos gratis, horoscopo Piscis, horoscopo Piscis 2020 gratis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Piscis_anual.png
+ogimg: /images/piscis_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

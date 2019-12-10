@@ -2,10 +2,10 @@
 layout: page
 title: Leo Horóscopo año nuevo 2020 
 description: Leo horoscopo del 10 de diciembre del 2019, amor, trabajo, vida personal. Todas las predicciones para Leo gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/Leo/
+permalink: /horoscopo-anual/leo/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Leo 2020, horoscop, horóscopos gratis, horoscopo Leo, horoscopo Leo 2020 gratis, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/Leo_anual.png
+ogimg: /images/leo_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
