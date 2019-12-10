@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Cáncer Horóscopo año nuevo 2019 
-description: Cáncer horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Cáncer gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/cancer/
+title: Cáncer Horóscopo año nuevo 2020 
+description: Cáncer horoscopo del 10 de diciembre del 2019, amor, trabajo, vida personal. Todas las predicciones para Cáncer gratis. Disfruta este año nuevo.
+permalink: /horoscopo-anual/Cáncer/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Cáncer 2019, horoscop, horóscopos gratis, horoscopo Cáncer, horoscopo Cáncer 2019 gratis, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/cancer_anual.png
+keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Cáncer 2020, horoscop, horóscopos gratis, horoscopo Cáncer, horoscopo Cáncer 2020 gratis, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/Cáncer_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -15,31 +15,49 @@ sitemap:
 
 ## Vida Personal
 
-El 2019 te ve firmemente en control de tu propio mundo, así como también tendiendo suerte y siendo prominente en público. Júpiter se encuentra en la parte superior de tu carta durante todo el año. 
-Puedes mantener tus objetivos y deseos en privado y aún así brillar y hacer maravillas para los demás. Cualquier nerviosismo que sientas no se mostrará en tu apariencia o en la forma en la que te presentas. Saturno en el ardiente Sagitario te apoya. 
-Tus amigos y familiares verán lo duro que trabajas y no te harán disminuir tu ritmo. Pero si requieres de ayuda, simplemente pídela. 
-Mercurio y Venus en Cáncer se oponen a Júpiter y estabilizan tu carta durante todo el año. Mercurio retrocede en Cáncer (del 21 de Enero al 11 de Febrero), otorgándote más agudeza y cautela. 
-Tu salud se vislumbra fuerte, pero hacer demasiado ciertas cosas será una preocupación constante. Trata de hacerlo todo con seguridad y evita accidentes tontos por descuido. ¡Es un año equilibrado pero de alta energía Cáncer!
+Espera éxito, elogios y placer, Cáncer. Sienta cabeza y trabaja sin descanso para lograr tus objetivos tanto personales como profesionales. El año 2020 empieza con tu planeta Marte en conjunción con el majestuoso Júpiter en el sensato Escorpión. ¡Prepárate para reinar!
+
+
+La fase retrógrada de Mercurio se manifiesta en Cáncer desde finales de marzo hasta mediados de abril. Mírate en el espejo y observa qué cambios puedes hacer para mejorar tu apariencia, imagen o proyección propia. Todo el mundo puede beneficiarse de algunas mejoras. Haz que emerja una versión mejorada, más brillante y más fuerte de ti.
+
+
+Tu planeta Marte se torna retrógrado desde finales de junio hasta finales de agosto. La vida no se detiene. Tal fase retrógrada de Marte que se manifiesta en Acuario y Capricornio te lleva a tomarte la vida con calma y utilizar estrategias más sólidas para tu vida social y laboral.
+
+
+Cuando el sol ingresa a Cáncer, Mercurio forma una conjunción con Venus en Cáncer. Si desarrollas gustos más caros en la vida, tendrás la energía e inteligencia para satisfacerlos. Con Urano a punto de salir de Cáncer, hay chances de que todavía tengas algunas ideas o planes afilados y sorprendentes para cumplir esos deseos.
+
+
 
 ## Amor Parejas
 
-El amor es muy brillante para las parejas y tu vida hogareña en el 2019. Júpiter brilla en el social y amoroso signo de las relaciones, Libra. Desde enero hasta principios de octubre, puede haber muchas reuniones de amigos y familiares. Puede que también haya muchas ocasiones agradables y culturales como festivales y fiestas durante el día, así como también divertidas noches en la ciudad.
-Plutón en Capricornio, tu Séptima Casa del amor y parejas, te otorgará oportunidades para hacer cambios que fortalezcan los lazos entre tú y tu pareja. Podrán hablar de todo con facilidad y con frecuencia.
-Mercurio se encontrará a punto de salir del social Géminis cuando el Sol entre a Cáncer. Entonces habrá una conjunción entre la Luna y Venus en el práctico y placentero Tauro en el día en el que el Sol entra a Cáncer. Los sentimientos y la intuición proporcionarán la comodidad para mejorar todo en tu vida hogareña durante este periodo de tiempo.
-En octubre, Júpiter saldrá de Libra para entrar a Escorpión. El verdadero amor, la dedicación y lo que realmente es la base de tu relación se volverá mucho más importante. Esto también puede aumentar su atractivo sexual y expresión amorosa. Respétense el uno al otro y permitan que Júpiter en Escorpión haga grandes cosas por ustedes.
+Llevarse bien a diario como pareja es fácil en el 2020. Sus rutinas y horarios deberían engranar bien, y hacer planes no debería causar ansiedad. Júpiter retrógrado hasta Abril debería hacer su vida hogareña agradable, más no excesiva o extravagante.
+Desde Abril hasta Agosto, cuando Júpiter entra a Virgo, podrían sentir que sus gastos empiezan a salirse de control, pero si hacen cuentas, se percatarán de que todo está bien. 
+Sin embargo, las demandas emocionales pueden ser mayores, y ambos pueden anhelar una comprensión y compromiso más profundos. Este sentimiento podría fortalecerse con Saturno retrocediendo una vez más en los últimos grados de Escorpión. Hagan el esfuerzo de hablar las cosas. Más contacto físico y afecto pueden ayudar también. 
+Otras personas pueden hacerles demandas irrazonables este año. Sean de ayuda y apoyo, más no dejen que esto le añada estrés a su relación. El retroceso de Mercurio en Acuario (Enero 21 a Febrero 11) puede afectarles y conducirles a malentendidos en relación a acuerdos con otros. Mantengan la calma, pero también sean claros. 
+Tienen algo muy bueno como pareja, ¡disfrútense el uno al otro día a día!
 
 ## Amor Solteros
 
-En el 2019, el amor siempre estará cerca, Cáncer, ¡por lo que espera recibir una gran cantidad de atención! Expresa lo que piensas y permite que tus admiradores hagan todo lo posible por complacerte. Te lo mereces.
-Tu mundo amoroso podría estar muy activo durante el invierno y la primavera, aunque algunas de esas citas ocurrirán sólo una vez, lo cual está bien.
-Un emocionante encuentro podría suceder en la primavera, más no tiene que volverse irracional. Diviértete pero ten sensatez.
-Después del período retrógrado de Marte a finales de Junio, es posible que conozcas a alguien con intenciones serias y más poder de permanencia. Aun así, no tiene que ser una relación seria a menos que quieras que sea.    
-En Septiembre, el lento y tranquilo verano concluirá con una explosión de extravagancia y emoción. Déjate mimar dentro de una relación y después analiza cómo es que eso les ha hecho sentir a ambos. 
-Finalmente, Mercurio retrógrado al final del año podría causar algunos mensajes contradictorios y citas perdidas, pero no es nada de lo que haya que preocuparse. Tu corazón estará en buen estado durante todo el año.
+¡Conoce a un millón de pretendientes amorosos en el 2020! Si decides visitar lugares lejanos en enero, conocerás hermosas personas con las cuales coquetear.
+
+
+En abril y mayo, sal más a la naturaleza y descubre un admirador práctico y agradecido que comparte tus mismos valores.
+
+
+En julio, la fase retrógrada de Júpiter termina y con ello regresa un mayor deseo de estar entre la gente. A finales de agosto, la fase retrógrada de Marte concluye y las pasiones se vuelven más fuertes que antes. No te dejes llevar tan rápido.
+
+
+La fase retrógrada de Venus en octubre y noviembre podría frustrar el entusiasmo para el romance, pero es más probable que simplemente presione el botón de pausa en una relación que merece ser reevaluada. No apagará el amor, y el tener un pensamiento más selectivo casi nunca significa algo malo. Si entonces consideras asumir un compromiso formal, tal vez espera hasta la segunda mitad de noviembre.
+
+
+En diciembre, si aún no has conocido a nadie, podrías tener éxito y conectar con alguna persona muy dispuesta a hacer sacrificios solo para estar contigo.
+
+
 
 ## Trabajo
 
-El 2019 podría ser el año en el que Cáncer experimente abundancia y una acumulación de prestigio y - sí - incluso más dinero. Mantén tu ambición y tus esfuerzos en alto así como tus expectativas razonables para luego ver más desarrollo.
-La ración extra de encanto que tendrás te atraerá oportunidades y extenderá tus redes de contacto. Las personas te valorarán y querrán trabajar contigo. Tus relaciones de negocios estarán claramente definidas y serán mutuamente satisfactorias. Durante los primeros meses, haz nuevas conexiones y permite que se vuelvan más fuertes a medida que todos los involucrados alcanzan el éxito.
-Si los meses de Febrero y Marzo requieren de más gastos, podrás mantenerlo todo dentro de lo razonable. Y para Agosto y Septiembre, tus ganancias podrían ya haber aumentado lo suficiente como para compensar esos costos.
-Conforme el año se acerque a su fin, ten más prudencia al gastar para que cuando el 2020 se acerque tengas una situación económica más sólida.  
+Si sueñas con una ocupación más satisfactoria en el 2020, busca posibilidades que se encuentren cerca. Tanto tus amigos como familiares pueden tener sugerencias, contactos, u ofrecerte ejemplos de algo que pague mejor y se adapte mejor a tu personalidad.
+Alternativamente, puede que desees trabajar desde casa medio tiempo para así reducir el tiempo que pasas transportándote. Este año podría moldear tu situación laboral para que engrane mejor con tu vida hogareña.
+Si ya te encuentras en una posición creativa o de servicios que te agrade, ¿por qué hacer cambios? El Eclipse Solar de Marzo te ayudará a hacer una revisión de tu realidad en caso de que tengas alguna duda.
+Este año también podrías ahorrar más dinero, lo que siempre es bueno. En Mayo podrías consolidar inversiones y obtener más seguridad financiera. Sé aún más exigente en tus decisiones monetarias, sobre todo mientras se acerque el periodo retrogrado de Mercurio en Septiembre.
+Cualquier error menor de cálculo será corregido fácilmente en Noviembre y Diciembre con Saturno manteniendo tu cautela y tus pies en la tierra. ¡Será un año productivo!

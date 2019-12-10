@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Tauro Horóscopo año nuevo 2019 
-description: Tauro horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Tauro gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/tauro/
+title: Tauro Horóscopo año nuevo 2020 
+description: Tauro horoscopo del 10 de diciembre del 2019, amor, trabajo, vida personal. Todas las predicciones para Tauro gratis. Disfruta este año nuevo.
+permalink: /horoscopo-anual/Tauro/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Tauro 2019, horoscop, horóscopos gratis, horoscopo Tauro, horoscopo Tauro 2019 gratis, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/tauro_anual.png
+keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Tauro 2020, horoscop, horóscopos gratis, horoscopo Tauro, horoscopo Tauro 2020 gratis, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/Tauro_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -15,36 +15,32 @@ sitemap:
 
 ## Vida Personal
 
-Puede que no creas tener todas las respuestas, pero este año vas a tener las respuestas correctas en el momento adecuado. Si acudes a los demás para obtener asesoramiento, es posible que no sientas satisfacción con lo que escuches.
-
-
-El Sol en tu signo cuadra a Saturno en Escorpión el 11 de Febrero, mientras que la Luna en Cáncer se opone a Venus en Capricornio. Como resultado, vas a sentir como si tu lógica estuviera desafiando a lo que otros llaman lógica, y sin embargo, todavía sentirás como si tus acciones estuvieran siendo justificadas. Puede que tengas que tener cuidado con lo que haces a principios de año, pero tampoco vas a estar feliz al concederle sus deseos a la gente que te rodea tampoco.
-
-
-A medida que avanza el año vas a obtener más aliento hacia las soluciones más excéntricas que ofrezcas. Tus amistades pueden sorprenderse cuando los consejos que des (sobre los que sentían escepticismo) funcionen. Por lo tanto, si hay algo que quieres hacer (dentro de lo razonable) que posiblemente no entre en la sabiduría popular, no lo descartes.
-
-
-Con Saturno saliendo del reservado Escorpión y entrando al caprichoso Sagitario el 23 de Diciembre, tu elevada intuición podría terminar ayudándote más de lo esperado.
-
+¡Permite que el mundo vea más a tu verdadero yo en el 2020 Tauro! Trabaja duro en lo que más amas y diviértete al hacerlo. Este año, más personas disfrutarán de trabajar contigo y tu vida social podría estar más ocupada también.
+El período en el que Marte estará retrógrado en la primavera podría ayudarte a reducir tu ritmo, enfocarte, y mantener tu mirada en lo que es más importante.
+Algunas personas podrían estar tratando de sacudir tu mundo durante todo el año, especialmente alrededor del Eclipse Solar en Piscis de Marzo y el Eclipse Lunar en Piscis de Septiembre. Mantén tu confianza en ti - bien puedes lograrlo.
+Ten bondad hacia ti, cuida tu salud, mantén tu cuerpo activo y haz buen uso de tu tiempo día con día. Comenzar el año con una rutina diaria firme - una que realmente disfrutes - te llevará lejos durante todo el año.
+Tanto dinero como oportunidades laborales te surgirán, por lo que trabajar duro y deja tu huella.
+Toma decisiones sabias en tu hogar y asume la autoridad que tus amigos y familiares te asignen. ¡Simplemente sé tan increíble como siempre lo eres Tauro!
 
 ## Amor Parejas
 
-Plutón conjunta al asteroide Ceres el 15 de Febrero, significando que deben cuidarse mutuamente durante el primer periodo del 2019. Cuiden de sus distintivas fobias y mantengan bocadillos saludables a la mano. Pueden demostrarse su amor mutuo al mimarse entre sí y cocinar comidas saludables juntos sin tener que recurrir a las palabras. 
-La gente podría buscar su ayuda o consejos en Febrero y Marzo, y puede que sea difícil negarse a darlos. Respeten sus propias “necesidades de pareja” y consúltense entre sí a menudo. Comunicarse a través de una simple mirada a veces es más que suficiente. 
-La pasión se desborda con las tres conjunciones Venus-Marte de este año. La conjunción del 21 de Febrero que ocurre al comienzo de Aries les hará sentir como si se acabaran de conocer y se enamoran de nuevo. 
-Conforme Júpiter entra a Virgo en Agosto y Saturno se apodera una vez más de Sagitario en Septiembre, la vida parecerá ser un poco más tranquila. Esta será más apasionada, íntima, ¡y emocionalmente enriquecedora para ambos! Sean fuertes y sensibles, y hagan grandes planes para el 2019+1 en los meses finales del 2019. 
+Tú y tu pareja se apoyarán el uno al otro de todas formas y en lo que más cuenta dentro de una relación. Cuida a tu pareja y deja que ella cuide de ti.
+El día después de que el Sol entre a Tauro, Mercurio forma trígono con el asteroide Ceres, ambos en Signos de Tierra. Una abundante honestidad y la capacidad de hablar de los temas más prácticos de la vida es muy posible (si no es que ya lo ha sido) sin que ninguno de ustedes sea demasiado consciente, dudoso, o temeroso de lo que el otro pudiera pensar o decir. 
+Complázcanse entre sí de maneras inusuales o sorprendentes este año. Fiestas sorpresa, regalos, o un viaje son posibles ejemplos. El Gran Trígono de Fuego (involucrando a Urano, Marte y la Luna) mantiene la emoción romántica viva durante todo el año, con momentos de auge en Abril, Agosto, y finales de Noviembre. 
+El Eclipse Solar del 13 de Septiembre en Tauro podría impactar un significativo plan que tengan en conjunto, como comprar una casa o el cierre de algún trato. Cuiden su salud durante este periodo. Mantengan el estrés a un mínimo y mímense entre sí. Mercurio retrógrado (del 17 de Septiembre al 9 de Octubre) ayuda a disminuir el ritmo de su rutina diaria, algo que ambos prefieren. 
 
 ## Amor Solteros
 
-El encanto, ingenio mental y la emoción están de tu lado en el 2019. Esto puede hacer que el romance sea fácil de encontrar. Si estás disfrutando de tu libertad, deberías de pasártela de lo lindo antes de que Venus impacte con su retroceso el 4 de marzo.
-No es que las oportunidades románticas y los buenos ratos se vayan a terminar entonces, pero sí es que el ritmo disminuya. De hecho, es posible que estés en estado de ánimo para un descanso. Una vez que Venus avance directamente el 15 de abril, se encontrará en Piscis, para cuando es posible que ya haya ablandado y cambiado tus sentimientos.
-El segundo retroceso de Mercurio del año comienza en Tauro el 9 de abril. Además del aumento habitual en confusión y la desconexión en comunicación, el mundo de las citas podría implicar cosas buenas y más caras, así como un nivel de vida más alto hasta que Mercurio vuelva a entrar a Tauro el 20 de abril y tu fuerte y habitual sentido personal regrese. Cuando el retroceso termine el 3 de mayo, una mejor comunicación también debería de volver. 
-El amor se vuelve más serio en octubre, cuando Júpiter entra al sensual y atractivo Escorpión. Si es que se te antoja encender la llama de la pasión, podrías conseguir eso... ¡y más!
+El 2020 tiene más que su justa cuota de momentos divertidos y emocionantes para ti. También tendrá más que suficientes lujos y extravagancias. Cuida tu energía, tus gastos, y disfruta de salir con pretendientes que tengan disposición a gastar más dinero en ti o pasar más tiempo contigo.   
+El dinero no lo es todo, pero bien podría aumentar y mejorar el atractivo de algunos intereses amorosos en Enero y Febrero. Mantente alerta a prospectos más ambiciosos - y más amorosos - en Marzo y Abril.
+Una fantasía romántica podría brevemente cobrar vida en Marzo. Disfruta de la comodidad emocional y de los mimos. Sin embargo, es posible que para Abril te aburras, ya que el exceso de calma podría llegar a apagarte.
+Septiembre y Octubre te traen amor y entusiasmo con la mínima cantidad de estrés. En Octubre, un encuentro afortunado podría suavizar viejas asperezas y traerte de vuelta a un viejo amor.
+Además, es posible que conozcas a alguien especial en Diciembre... alguien con una personalidad que no es ni llamativa, ni derrochadora. Busca cualidades más profundas y conecta con alguien que comparta tu visión del mundo.
 
 ## Trabajo
 
-Tu carrera profesional y situación monetaria son puestas de relieve durante todo el año. La conjunción Sol-Plutón en Capricornio del 6 de enero lo garantiza. Los períodos más intensos para hacer cambios profesionales y reorganizar tus finanzas podrían ser en enero y luego de nuevo en diciembre.
-Entremedias hay cuatro periodos retrógrados de Mercurio. Los primeros tres inician en Signos de Tierra y finalizan en Signos de Fuego. Ten mucha paciencia, mucho cuidado y haz planes mientras Mercurio se encuentre retrógrado. Y prepárate para poner esos planes en marcha conforme se vuelva directo.
-El primer período comienza en Sagitario en diciembre del 2016 pero termina el 8 de enero. El segundo comienza en Tauro el 9 de abril y termina en Aries el 3 de mayo. El tercero comienza el 12 de agosto en Virgo y termina el 5 de septiembre en el ambicioso Leo. El cuarto retroceso se manifiesta totalmente en el atrevido Sagitario desde el 3 hasta el 22 de diciembre. Cuida tus gastos y tus finanzas durante estos periodos de tiempo.    
-Júpiter sale del agradable Libra y entra a Escorpión en octubre, cuando los asuntos monetarios se volverán más prácticos e importarán más.
-Saturno entra a su signo anfitrión Capricornio en diciembre, poco antes de que el Sol entre al mismo y el Sol conjunte a Saturno el 21 de diciembre. No te sorprendas si surge la posibilidad de que trabajes horas extras durante la temporada navideña o tus vacaciones. Hacerlo valdrá la pena, literal y figurativamente.
+En el 2020, eres tu propio mejor recurso, Tauro, por lo que mantén tu confianza personal fuerte y tu ambición en alto. Las ideas prácticas y las oportunidades que identifiques que otros pasen por alto no tendrán límite. Bien puedes crearte golpes de suerte, sobre todo en la primavera.
+Si buscas empleo o quieres hacer un cambio de carrera, piensa en grande y considera organizaciones y empresas más grandes también. Las entidades sin fines de lucro podrían ser una posibilidad.
+Este año, te comunicas con claridad y puedes impresionar ya sea a un grupo grande o en entrevistas uno a uno. Disponte a considerar campos dentro de la comunicación o posiciones con una gran cantidad de contacto personal.
+Tu situación monetaria se vislumbra positiva durante todo el año siempre y cuando no gastes de más, sobre todo a finales del verano.
+Tu situación financiera será más sólida en Noviembre y Diciembre, cuando Marte te aporte energía y ambición, y Saturno te otorgue paciencia, responsabilidad y poder de permanencia.

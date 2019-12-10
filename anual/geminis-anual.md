@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Géminis Horóscopo año nuevo 2019 
-description: Géminis horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Géminis gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/geminis/
+title: Géminis Horóscopo año nuevo 2020 
+description: Géminis horoscopo del 10 de diciembre del 2019, amor, trabajo, vida personal. Todas las predicciones para Géminis gratis. Disfruta este año nuevo.
+permalink: /horoscopo-anual/Géminis/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Géminis 2019, horoscop, horóscopos gratis, horoscopo Géminis, horoscopo Géminis 2019 gratis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/geminis_anual.png
+keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Géminis 2020, horoscop, horóscopos gratis, horoscopo Géminis, horoscopo Géminis 2020 gratis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/Géminis_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -15,36 +15,59 @@ sitemap:
 
 ## Vida Personal
 
-¡Puede que no reconozcas la gran fortuna que vas a tener este año Escorpión! La conjunción Sol-Plutón al principio del 2019 podría mantener tu mente conectada, intensa y enfocada en el que sea tu trabajo elegido. Mantente alerta a suertudas oportunidades y prepárate para saltar. Plutón, tu regente moderno, mantendrá tu mente aguda e intensa durante todo el año.
-La conjunción de separación Marte-Neptuno en Piscis podría despertar en ti fuertes sentimientos a veces, pero Marte, tu regente antiguo, te mantendrá avanzando y no permitirá que te hundas en la duda.
-Una vez que el Sol entre a Escorpión, el Sol estará en conjunción con Júpiter y Mercurio. Tu golpe de suerte surge de este aspecto. Marte también estará entrando a Libra, lo que te mantendrá involucrándote y conectando con otras almas gemelas y personas con quienes compartas objetivos y propósitos.
-Tu impulso para lograr el éxito será inquebrantable. Tu ansia de amor y respeto tampoco tendrá límites. Puede que el mundo exterior a veces sea una locura, pero al final de cada día, volverás a lo que más importa en tu vida.
-El 2019 será un año potente y poderoso en el que nada puede distraerte, perturbarte o detenerte si tienes determinación. ¡Sal a hacer de las tuyas!
+El año 2020 es un libro abierto para ti, Géminis. Tienes acceso a todo lo que los astros tienen para ofrecer. Ya sea que se trate de trabajo, familia, finanzas, amor o cualquier otra cosa, habrá un planeta listo para darte una mano.
+
+
+El día de año nuevo, la luna sale de Géminis y entra a Géminis. La luna también forma una oposición con el responsable Saturno. Siempre tendrás las habilidades e instintos para mantener todo en equilibrio y marchando sobre ruedas.
+
+
+En enero, el eclipse lunar con la luna en Leo podría empujarte un poco más de lo que te gustaría hacia el centro de atención. No importa. Es una experiencia para crecer que te enseñará a hacerte cargo de la situación y actuar con autoridad.
+
+
+Durante el eclipse lunar de finales de julio, la luna se encontrará en Acuario. Ten una visión más clara del mundo y piensa en términos más amplios sobre problemas más graves.
+
+
+La fase retrógrada de Júpiter que se manifiesta en el emocional Escorpión desde marzo hasta principios de julio te otorga incluso más poderes psíquicos. Después, intenta atravesar obstáculos para llegar a conclusiones más felices y exitosas.
+
 
 ## Amor Parejas
 
-Las relaciones podrían profundizarse y echar largas raíces para Géminis este año. Es difícil ser paciente y no adelantarse a la próxima aventura o sueño compartido de pareja, pero hay que intentarlo. 
-A medida que Saturno entra al feroz pero generoso Sagitario, deberían disfrutar de un enfoque más tranquilo al simplemente estar juntos. No hay que confundir esto con falta de interés o pasión. Nada es aburrido en esta relación para ninguno de los dos. 
-El año comienza con la Luna a punto de dejar a Tauro y entrando rápidamente a tu signo, Géminis. No deberían de tener problemas para comunicarse, especialmente en relación a  preocupaciones materiales o dinero. Esto deja espacio para gozar de mucho amor y afecto. Venus retrógrado en Leo (del 25 de Julio al 6 de Septiembre) podría revivir las brasas que se hayan apagado dentro de tu corazón. 
-Saturno se encuentra en Sagitario durante todo el año (a excepción de un corto período de tiempo) trayéndoles más paciencia y generosidad a ambos. Cualquier sentimiento temporal de deficiencia o de que algo falta en su relación es pura ilusión. ¡Mantengan sus ojos y corazón en el amor!
+El 2020 estará lleno de pasión y emoción, Géminis, ¡por lo que acepta todo este furor! Sus familiares podrían mantenerles ocupados, pero ambos tendrán más que suficiente energía y enfoque para mantener a todos contentos, incluidos ustedes mismos.
+Comiencen el año alcanzando un claro entendimiento entre ustedes y luego apéguense a él. Si la temporada de primavera se vuelve un tanto tumultuosa en el trabajo para uno de ustedes, no perturbará su vida familiar. Incluso podría acercarles más como pareja.
+El Eclipse Lunar en Libra de Marzo es una oportunidad de unión que los complazca a ambos.
+Si un gasto considerable o una adquisición surgen a finales del verano, ambos  sabrán si es prudente y necesario.
+Ambos estarán dispuestos a hacer sacrificios el uno por el otro, material y emocionalmente. Incluyan tantas bondades simbólicas en su relación como puedan. Los momentos de abrazos serán tan dulces como los momentos apasionados que tengan juntos, especialmente en el otoño.
+Si tienen sueños compartidos (o fantasías) de expandir su familia, Venus podría sonreírle a esta posibilidad a principios del invierno. Cuídense bien el uno al otro entonces también.
 
 ## Amor Solteros
 
-Es posible que este año sientas un poco de presión interna para "sentar cabeza" un poco. Esto se debe a que a medida que el año comienza, tanto el Sol como la Luna se encuentran en Capricornio, pero la Luna cuadra a Marte en Libra también. Por lo tanto, es posible que interpretes las señales de otras personas como consejos de que necesitas encontrar a alguien rápido.
+Tú, Escorpión soltero, vas a estar en una especie de dilema en el 2020. Puede que no tengas completa certeza de si alguien que has estado viendo (o con quién quieres salir) tiene interés en ti románticamente, pero al mismo tiempo, no puedes ver a esta persona seriamente interesada en nadie más.
 
 
-A principios de año, ¡sin duda pareciera como si todos tus motores estuvieran encendidos! Con Neptuno en Piscis apoyándote cuando se trata de comunicación, podías sentir como si las nuevas relaciones estuvieran floreciendo más rápido de lo normal.
+Durante los primeros tres meses, con el sextil que la Luna forma con Venus en Capricornio extrañamente aumentado por la conjunción entre la Luna y Saturno en tu signo, señales mixtas puede ser la mejor manera de describir cómo se desarrollan tus experiencias comunicativas.
 
 
-Sin embargo, todo esto significa que tienes el lujo de tomarte las cosas con calma. Las nuevas amistades están inundadas de seguridad, algo que sólo pueden disminuir si te lanzas a hacer "planes futuros" sin aún antes haber pensado en ellos. Si parece que estás construyendo algo fuerte y sólido, no te detengas a mitad del camino y digas "eso es más que suficiente".
+Sin embargo, mientras que gran parte de la responsabilidad podría caer sobre ti para que expreses tus sentimientos más a menudo, no siempre se puede garantizar que estas expresiones vayan a obtener los resultados que tú desees.
 
 
-Tienes la oportunidad de poner una relación a prueba completamente sin dejar de divertirte en el proceso. Tómalo con calma, y no dejes que nadie te obligue a contraer compromisos hasta que los dos estén realmente preparados.
+Con Venus entrando a Piscis el 5 de Abril, puede que se te permita extender los límites un poco, pero esto es más bien un acuerdo aceptable que una verdadera comprensión.
+
+
+Sin embargo, este tipo de conexiones no deben ser despreciadas, ya que el Sol, la Luna y Venus en Escorpión el 23 de Octubre te van a abrir nuevas puertas. La intensidad de tu química romántica podría estar aumentando en ese momento, o alguien nuevo podría entrar en escena. Es cuestión de lo que decides hacer con esta y qué camino elijes tomar.
 
 
 ## Trabajo
 
-Tus preocupaciones profesionales y financieras son de suma importancia durante todo el año. La conjunción Sol-Plutón en Capricornio muestra que el trabajo es crucial y que el éxito financiero y la seguridad nunca han sido más importantes.
-Júpiter estará retrógrado en Libra desde febrero hasta principios de junio. Tanto tus socios como planes imperfectamente ejecutados podrían a veces defraudarte, pero para el verano te habrás dado cuenta de las soluciones temporales o reestructuraciones presupuestarias que necesitan ser hechas.
-Saturno estará retrógrado en Géminis desde abril hasta finales de agosto. Esto puede moderar cualquier exceso de entusiasmo o el impulso por comprar.
-Diciembre podría ser el mes más estable, rentable y productivo del año para ti. Saturno estará en su signo regente, Capricornio, hasta el 19 de diciembre. Más tarde, el Sol se le une el 21 de diciembre. Trata de tener una temporada navideña agradable, reconfortante y económica para entrar al Año Nuevo sintiéndote bien acerca de tus prospectos financieros. 
+Pensar de manera diferente será fácil este año – no que nunca se te dificulte mucho en lo absoluto. De hecho, para ti prácticamente no hay manera distinta. El feroz Aries posee a Urano este año, que junto con el místico Neptuno en Piscis, se asegurará de que tus soluciones a los problemas relacionados con tu trabajo logren sorprender a varios.
+
+
+Afortunadamente para ti, Mercurio danza a lo largo de Géminis y Piscis, fluctuando entre ambos hasta el 7 de Abril. Si bien esto significa un estancamiento para algunos, te sirve a ti de apoyo. La actitud en el trabajo se convierte en "intentar cualquier cosa una vez", haciendo que tus ideas sin duda sean atractivas.
+
+
+Tu situación financiera se ve bien también, pero puede que sientas un poco de conflicto sobre cómo manejarla. Ir a lo seguro en lugar de gastarse todo puede ser un gran dilema para ti la mayor parte del año con Urano apuntando a lo "seguro" y Saturno haciéndote "gastártelo todo".
+
+
+Con Júpiter transitando en Leo a mediados de Julio y prácticamente diciéndote que te liberes de la indecisión, puede que decidas quedarte justo en medio de ambos.
+
+
+Con el Sol en Sagitario formando trígono con la Luna en Aries el 1 de Diciembre, más tarde seguido de una temporada con el Sol y Venus en Capricornio, tus divididos instintos habrán valido la pena también.

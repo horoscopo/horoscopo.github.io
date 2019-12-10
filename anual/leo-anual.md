@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Leo Horóscopo año nuevo 2019 
-description: Leo horoscopo del 24-12-2018, amor, trabajo, vida personal. Todas las predicciones para Leo gratis. Disfruta este año nuevo.
-permalink: /horoscopo-anual/leo/
+title: Leo Horóscopo año nuevo 2020 
+description: Leo horoscopo del 10 de diciembre del 2019, amor, trabajo, vida personal. Todas las predicciones para Leo gratis. Disfruta este año nuevo.
+permalink: /horoscopo-anual/Leo/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2019, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2019, horóscopo esperanza gracia, horoscopo Leo 2019, horoscop, horóscopos gratis, horoscopo Leo, horoscopo Leo 2019 gratis, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/leo_anual.png
+keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Leo 2020, horoscop, horóscopos gratis, horoscopo Leo, horoscopo Leo 2020 gratis, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+ogimg: /images/Leo_anual.png
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -15,33 +15,48 @@ sitemap:
 
 ## Vida Personal
 
-En el 2019, Leo es una estrella en ascenso, pero vas a tener que esforzarte constantemente para evitar resbalarte y caerte. ¿Te has preparado para este reto? ¡Por supuesto que sí!
-Tu atención está concentrada en avanzar, en obtener y aferrarte a las cosas que más amas, y en no dejar que te apresuren a tomar decisiones. Este año, harás todas las preguntas adecuadas y te negarás a proceder sin tener toda la información y las respuestas sólidas que necesitas.
-Los períodos de Mercurio retrógrado en Mayo y en Septiembre podrían ser tus temporadas de mejores y más logros. Septiembre será especialmente potente para ti. Con Mercurio en Virgo, puedes fácilmente autocorregirte y dirigir tus situaciones y relaciones a donde quieras.
-Tu vida hogareña debería traerte mucha satisfacción y posiblemente algunas ideas kármicas, especialmente en Septiembre y Octubre. Los misterios familiares deberían poder ser resueltos.
-Tus lazos emocionales y vida romántica reciben ayuda cósmica en Noviembre, pero puede que sea en Diciembre cuando tu comportamiento sea más intenso, potente y eficaz. Tanto Marte como Saturno estarán de tu lado conforme termina el año. ¡Puedes lograr grandes cosas este año Leo!
+El año 2020 es para trabajar duro, Leo, y los astros están trabajando duro para ti. El día de año nuevo, la luna, Marte, Júpiter y Neptuno se encuentran en signos de agua. Tus sensibilidades están agudizadas y tus percepciones e intuiciones afiladas a lo largo del año.
+
+
+Los signos de tierra mantienen las cosas auténticas con el sol, Venus, Saturno y Plutón, todos encontrándose en Capricornio el día de año nuevo. En mayo, Urano hace su tan esperado ingreso a Tauro. Los asuntos prácticos y materiales resaltan todo el año, pero con Urano en el medio, nada debería ser aburrido o no apreciado lo suficiente. 
+
+
+Tu planeta regente, Neptuno, sigue en el centro de la constelación Leo. No importa de qué forma el mundo material intente imponer su agenda, no perderás de vista tus sueños.
+
+
+Tu otro planeta regente, Júpiter, pasa la mayor parte del año en Escorpión, que se encuentra en su fase retrógrada desde marzo hasta principios de septiembre. Los problemas cotidianos fundamentales serán manejados con rapidez y facilidad.
+
+
+En noviembre, Júpiter sale de Escorpión e ingresa a su propio signo, Sagitario. ¡Que comience la fiesta!
+
 
 ## Amor Parejas
 
-Tu fuerza en el amor a principios del año se va a manifestar sobre todo en tu capacidad para convencer a la otra persona con calma, palabras sabias, y esto será lo que se va a destacar más de tu relación.
+Una energía armoniosa le abre la puerta del 2020 a tu relación Leo. Tú y tu pareja se encontrarán en la misma frecuencia la mayoría de las veces, sin embargo, eso a veces puede dar lugar a que los problemas no sean abordados.
 
 
-El giro directo de Venus del 31 de Enero se asegurará de que tus discusiones sobre amor no permanezcan como abstracciones, sino más bien que tengan el poder suficiente para que tu persona amada lo tome de forma corazonada. Hay una natural preocupación de que esto pueda conducir a la complacencia, y de hecho, da lugar a un verano más definido por fuertes momentos individuales que por un hilo continuo de pasión. Por ejemplo, cuando Neptuno se torne retrógrado el 9 de Junio, puede que te inclines más a simplemente "dejar que las cosas fluyan" en vez de tratar de comunicarte.
+A principios de Marzo, los problemas podrían salir al descubierto, pero el sentimiento de buena voluntad que tú y tu pareja han cosechado hasta ahora será capaz de suavizar el ambiente. Esto no significa que no deban hablar más entre ustedes acerca de cualquier problema que puedan tener, dentro y fuera de la relación.
 
 
-Sin embargo, eso está bien, debido a que la segunda mitad del año depende más de que seas un buen oyente. Mercurio retrógrado en Octubre sólo reforzará la necesidad de que tengas una mente abierta y seas un buen oyente, mientras te encuentras a la espera de cierta información. Hay valiosa información que debes recibir de tu pareja, y la compasión será la llave para la puerta de una comprensión más profunda. ¡Mantén tus ojos y oídos abiertos!
+El comienzo del verano va a requerir de mucho tacto y cuidado, pero la buena noticia es que a este punto, ambos se preocuparán más por resolver la cuestión que por cuál de los dos tiene razón.
+
+
+La comunicación podría volverse un poco incierta más tarde en el otoño, pero puede ser una cuestión de equilibrar su tiempo a solas con el sentirse culpables. Pueden hacerlo porque el final del año regresa con sentimientos de calidez que ambos desean profundamente. Simplemente tengan cuidado durante mediados de año, ¡y el 2020 debería de resultar ser un año genial!
 
 
 ## Amor Solteros
 
-El mundo de las citas será intenso y constante para los Leoes durante la mayor parte del 2019. Con Júpiter en Libra durante diez meses del año, puedes salir y conocer a tantos nuevos prospectos románticos para los que tengas la suficiente energía.
-Venus estará retrógrado en marzo y principios de abril, lo que puede darte la oportunidad de recuperar tu aliento socialmente. Una vez que Venus avance directamente una vez más, el romance reanuda su luminoso brillo. También es un mejor período de tiempo para hacer un compromiso.
-Conforme Júpiter entra a Escorpión el 10 de octubre, los amantes pueden volverse más serios y hacer demandas más serias. Tú sientes comodidad con esto y puede que hasta lo prefieras. Cuando conectes con alguien que es tan dedicado y serio como tú lo eres, lo sentirás al instante.
-Diciembre también será un mes con un tono serio con el Sol y Saturno encontrándose en el pensativo y determinado Capricornio. Los temas relacionados al amor deberían de empezar a funcionar mejor para ti.
+En el 2020, Leo puede atraer mucha atención amorosa. Afortunadamente, tendrás el encanto y el ingenio para diferenciar cuáles son los buenos prospectos románticos.
+Para Febrero y Marzo, es posible que te percates de que has elevado tus estándares y anheles una pareja más dedicada y altamente evolucionada. Mantén esos estándares y expectativas allí y no te conformes con menos.
+Julio y Agosto podrían ser los meses más óptimos para conocer a una persona muy especial que satisfaga todas tus necesidades. Asegúrate de que tal te trate como quieres que te traten.
+Serás alguien ocupado y popular durante todo el año, incluso en Noviembre y Diciembre, cuando el ritmo de tu teléfono y correo electrónico pudiera disminuir. Sin embargo, para estas fechas, las amistades y citas amorosas en tu vida serán increíbles personas que quieran otorgarte aún más de su atención. Trata de conocerlas a un nivel más profundo.
 
 ## Trabajo
 
-El dinero, el trabajo y la carrera profesional estarán bajo enfoque en el 2019. La conjunción Sol-Plutón en Capricornio enciende el fuego de todos conforme los planes profesionales y una mejor administración del dinero se vuelven más importantes.
-El retroceso de Júpiter desde febrero hasta principios de junio puede reducir el impulso de gastar o el exceso de viajes. El retroceso de Saturno desde abril hasta finales de agosto puede animar un manejo ligeramente más relajado de los asuntos financieros. Si ciertas compras o gastos más grandes se hacen necesarios en el verano, tómate tu tiempo para lidiar con todo ello.
-Durante la temporada de otoño, con Júpiter en Escorpión, las asociaciones de negocios pueden volverse más sólidas y más realistas.
-En diciembre, Saturno y el Sol en Capricornio crean una temporada de festividades más sabia, práctica y con gastos manejables y un horario sano de trabajo. Ideal para que comiences el Año Nuevo con suficiente efectivo en tu cuenta.
+Con Capricornio siendo una gran influencia al comienzo del año, capturando al Sol, la Luna, Mercurio y Plutón, ¡tu año laboral podría tener un comienzo pesado! Sin embargo, en poco tiempo, deberías de establecerte en una rutina mientras que sutilmente plantas las semillas para un cambio positivo en tu vida laboral.
+
+
+Incluso si estás buscando trabajo, tus métodos e ideas son aptos a recibir algo de atención por parte de tus posibles empleadores. Este año comienza con posibilidades que casi te caen de la nada, ¡pero tu éxito depende de lo bien que puedas hablar y razonar frente a la gente de forma improvisada una vez que las ofertas sean hechas!
+
+
+Si juegas bien tus cartas, deberías ser capaz de resistir un período de inercia interrumpido por ocasionales tormentas. El Trígono de Agua del 11 de Marzo le da un impulso adicional a tu fortaleza financiera y laboral, pero a pesar de esto, lo que obtengas de ello dependerá de lo que inviertas en ello. ¡Da tanto como recibas y tendrás aptitud para recibir casi el doble de lo que inviertas!  
