@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 09 de diciembre 2019 al 15 de diciembre 2019 
-description: Horóscopo semanal virgo 09 de diciembre 2019 al 15 de diciembre 2019. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: virgo 16 de diciembre 2019 al 22 de diciembre 2019 
+description: Horóscopo semanal virgo 16 de diciembre 2019 al 22 de diciembre 2019. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,18 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-09'
+ lastmod: '2019-12-16'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
- La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa virgo? 
- todo lo que desea.
-Por momentos, puede parecer que tú eres quien apoya a tus amigos y en otros que ellos te apoyan a ti y así es como debe ser. Pero esta semana, conforme Júpiter, el planeta que rige tu vida social, se vuelve retrógrado, puede que prefieras embarcarte en una aventura personal. Quizá hay experiencias que no podrías tener si te rodeara una multitud o si incluso estuvieras con otra persona. Podrías obtener grandes resultados si eliges seguir este camino.
+Despacito virgo, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo virgo.
+Con el actual enfoque en un sector más introspectivo de tu carta, la mezcla de energías de esta semana podría verte tomarte algo de tiempo para relajarte y poner un poco de distancia con tu rutina diaria. Con Saturno girando hacia atrás en áreas clave de tu carta, puede que estés sintiendo mucha presión. El truco para manejar esto podría ser no sobrecargarte con tareas innecesarias, sino permitirte suficiente margen de maniobra. Esto te hará la vida mucho más fácil.
 
 ## Dinero
 
-Cierta actividad en tu carta ahora afecta a tu sector de grupos, política y trabajo por cuenta propia. Es un buen momento para buscar entre tus contactos a alguien que pueda ser capaz de ayudarte a desarrollar una nueva idea de un producto que genere dinero. Tú tienes el “know-how”, pero otra persona tiene el dinero o las conexiones para llevarlo al siguiente nivel.
+Es posible que esta semana estés teniendo cierto drama en tus relaciones. Cosas que pensaste que eran implícitas entre tú y tus jefes, mentores o empleados, pueden haber sido mal entendidas o criticadas. Por esta vez olvídate de ello y exprésate con más claridad la próxima vez. Si el dinero está involucrado en estos intercambios, comunica tus necesidades y no dejes que los conflictos estropeen lo que es potencialmente una gran alianza que beneficia a todos. Si la gente entiende esto, tú también debes de hacerlo.

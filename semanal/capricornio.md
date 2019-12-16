@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 09 de diciembre 2019 al 15 de diciembre 2019 
-description: Horóscopo semanal capricornio 09 de diciembre 2019 al 15 de diciembre 2019. El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: capricornio 16 de diciembre 2019 al 22 de diciembre 2019 
+description: Horóscopo semanal capricornio 16 de diciembre 2019 al 22 de diciembre 2019. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-09'
+ lastmod: '2019-12-16'
 ---
 
 
 
-## El mundo puede esperar #SIGNO, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
- A veces, te aferras a momentos de felicidad pasajera capricornio, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
-Un positivo enfoque en tu sector de recursos compartidos podía verte tomar algunas decisiones clave sobre la mejor manera de invertir tu dinero. Podrías encontrar más oportunidades para hacerlo, pero vale la pena tener cautela acerca de cómo hacerlo, sobre todo durante el fin de semana. Además, con Saturno avanzando en tu sector social a partir del sábado, tu vida social podría pasar a una fase más activa en la que tu espíritu podría ser más proactivo.
+Esfuérzate un poco más de lo que hiciste ayer Sagi, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
+ de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
+La semana podría comenzar de un modo más reflexivo a medida que la Luna Llena manifestándose en tu sector espiritual te anima a lidiar con cualquier emoción caprichosa. Tu carga emocional o las situaciones que han evitado que progreses podrían desaparecer ahora, lo que facilitará nuevos desarrollos. Prepárate para nuevas oportunidades relacionadas con el trabajo o tu rutina diaria. Podría aparecer información repentina que te lleve en una nueva dirección. Una nueva amistad o atracción romántica parecen prometedoras este fin de semana.
 
 ## Dinero
 
-Para ti, esta semana es sobre viajes, educación superior y metafísica, así como la política, los grupos sociales, esperanzas y sueños. Es un buen momento para combinar estas áreas mediante la participación en talleres, seminarios y clases en línea que te desafíen y te permitan cobrar más por una nueva habilidad o servicio. Conecta primero con tu jefe para saber cuáles son las habilidades que deberías de obtener para mejorar.
+Ciertos aspectos en tu sector que gobierna el flujo de efectivo, indican un tiempo de renovación de tu cuenta bancaria. Podrías utilizar un poco de suerte por ahora, pero tal vez te conformes con un poco de energía concentrada aquí. Tendrás mucha más energía para la planificación de tu vida monetaria y una actitud entusiasta sobre la realización de tus metas. Un aspecto armonioso llega cuando buscas pistas para hacer tus sueños realidad.

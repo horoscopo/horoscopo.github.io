@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 09 de diciembre 2019 al 15 de diciembre 2019 
-description: Horóscopo semanal leo 09 de diciembre 2019 al 15 de diciembre 2019. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado leo, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+title: leo 16 de diciembre 2019 al 22 de diciembre 2019 
+description: Horóscopo semanal leo 16 de diciembre 2019 al 22 de diciembre 2019. Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-09'
+ lastmod: '2019-12-16'
 ---
 
 
 
-## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado leo, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+## Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 
-Estás bien aquí, estás bien allí, y en cuanto las cosas se complican un poquito, por poco que sea, huyes. Está bien que vivas de esas manera, buscando en realidad cualquier lugar que te de felicidad, cualquier momento sea cual sea y donde sea. Pero 
- un poquito de ella.
-El deseo de tener éxito podría asumir un nuevo significado esta semana como Marte adentrándose más profundamente en tu sector profesional. También hay un interesante aspecto involucrando al afortunado  Júpiter, pudiendo llevarte a aferrarte a una brillante idea y dándote ganas de ir más lejos. Esto podría implicar un plan de negocios o una visión de tu carrera o industria que podría verte teniendo mucho éxito a la larga. Sin embargo, evita actuar impulsivamente, ya que lo mejor es avanzar paso a paso en este momento.
+A veces, no es fácil vivir la vida leo, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera leo. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
+La Luna Nueva del lunes en tu sector familiar necesita un manejo cuidadoso, ya que podrías actuar bajo impulso y hacer un movimiento en falso. Esperar unos días podría ayudarte a sentir más confianza acerca de tu decisión. En otra nota, no se te dificulta para nada saber qué hacer sobre un proyecto que te fascina profundamente. El Día de San Valentín se vislumbra bastante emocionante con la Luna en el sensual Tauro aumentando la pasión. Tanto las relaciones nuevas como las no nuevas pueden beneficiarse de una candente cita o evento social.
 
 ## Dinero
 
-Esta semana hace hincapié en la seguridad, dinero y valores. Un aspecto armonioso te da licencia para gastar en ese viaje que has estado deseando hacer, ese taller de fin de semana que te traerá más dinero en efectivo a largo plazo e incluso esa idea creativa que ha estado deambulando en la parte trasera de tu cerebro. Haz que suceda y estarás feliz por ello.
+Con tantos planetas afectando tu sector de dinero esta semana, puede que tengas la tentación de correr y esconderte. Pero a medida que el Universo se centra en tu sector de dinero y valores, se te está pidiendo ser más responsable en la forma en la que ganas dinero. También se te insta a ser mucho más sociable cuando se trata de tu dinero.
