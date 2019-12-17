@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Escorpio Horóscopo año nuevo 2020 
-description: Escorpio horoscopo del 10 de diciembre del 2019, amor, trabajo, vida personal. Todas las predicciones para Escorpio gratis. Disfruta este año nuevo.
+description: Escorpio 2020 Año Nuevo, amor, trabajo, vida personal. Todas las predicciones para Escorpio gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/escorpio/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Escorpio 2020, horoscop, horóscopos gratis, horoscopo Escorpio, horoscopo Escorpio 2020 gratis, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
@@ -18,7 +18,7 @@ sitemap:
 Experimenta un gran y nuevo comienzo en el 2020 Escorpio, o tal vez muchos pero más pequeños. Deja que tu corazón y pasión sean tus guías. Y sobre todo, sé tu propio mejor amigo en vez de tu propio peor enemigo. 
 Confía en tus instintos. Una cuadratura que se forma lentamente entre Júpiter y Saturno (no completamente hasta Agosto) evitará que llegues demasiado lejos, vayas demasiado rápido, o pierdas tu camino. 
 Tu familia te apoya enormemente, tal vez mientras se preguntan porque tardaste tanto tiempo en hacer algo. Tienes una gran ambición y energía para tu trabajo este año, así como también gran compasión. 
-Tu verdadero año en realidad comienza con la Luna Nueva en Escorpio del 21 de Diciembre del 2014. El día anterior, el sextil entre Marte y Urano garantiza que te esforzarás lo más posible e inventarás aquello que sea lo más necesario para ti; y la conjunción Venus-Plutón se asegurará de que la gente te note. ¡Sal al mundo a ser tan increíble como puedes ser! 
+Tu verdadero año en realidad comienza con la Luna Nueva en Escorpio del 21 de Diciembre del 2019. El día anterior, el sextil entre Marte y Urano garantiza que te esforzarás lo más posible e inventarás aquello que sea lo más necesario para ti; y la conjunción Venus-Plutón se asegurará de que la gente te note. ¡Sal al mundo a ser tan increíble como puedes ser! 
 Encuentra maneras saludables de eliminar el estrés y de nutrir y darle aliento a tu persona. Esto se vuelve cada vez más importante a medida que avanza el año. Recuerda, no es fracaso si no funciona al primer intento. ¡Persiste! 
 
 ## Amor Parejas

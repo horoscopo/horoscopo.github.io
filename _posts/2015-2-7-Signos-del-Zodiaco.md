@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de diciembre 2019
-description: Horóscopos del dia de hoy 16 de diciembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de diciembre 2019
+description: Horóscopos del dia de hoy 17 de diciembre 2019 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2019-12-16
+ lastmod: 2019-12-17
 ---
-A partir del día de hoy, la vida se trata sobre verdad y justicia con Mercurio en Sagitario hasta principios de diciembre. Esta noche, la cuadratura entre Venus y Plutón podría convertirse en un arriesgado afrodisíaco debido a sus fuertes poderes de atracción. ¡Cuidado! En muchos sentidos, es un momento de déjà vu. No es un caso de no saber, ya has pasado por esa experiencia.
+Es importante darle prioridad a la información de una manera lógica. Cuando el Sol cuadra al impredecible Urano como lo hace hoy, tú también necesitas rutas alternativas y planes de contingencia para reducir el caos a un mínimo. Esta noche, los opuestos se atraen. Los solteros se involucran, aunque la otra persona no sea realmente su tipo. Si conoces a alguien, tómate tu tiempo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.

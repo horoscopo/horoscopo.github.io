@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sagitario Horóscopo año nuevo 2020 
-description: Sagitario horoscopo del 10 de diciembre del 2019, amor, trabajo, vida personal. Todas las predicciones para Sagitario gratis. Disfruta este año nuevo.
+description: Sagitario 2020 Año Nuevo, amor, trabajo, vida personal. Todas las predicciones para Sagitario gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/sagitario/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Sagitario 2020, horoscop, horóscopos gratis, horoscopo Sagitario, horoscopo Sagitario 2020 gratis, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
