@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 16 de diciembre 2019 al 22 de diciembre 2019 
-description: Horóscopo semanal sagitario 16 de diciembre 2019 al 22 de diciembre 2019. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+title: sagitario 23 de diciembre 2019 al 29 de diciembre 2019 
+description: Horóscopo semanal sagitario 23 de diciembre 2019 al 29 de diciembre 2019. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-16'
+ lastmod: '2019-12-23'
 ---
 
 
 
-## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 
-Tienes grandes planes sagitario, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes sagitario, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el sagitario de siempre…
-¡Traduce tus inquietos impulsos hacia planes que puedan allanar el camino hacia un futuro mejor! Una parte de ti podría estar buscando algo nuevo, fresco y emocionante en la vida. Moverte hacia nuevos círculos y conectar con personas clave podría tener una influencia positiva en tu bienestar y felicidad. Venus entrando a tu signo podría animarte a cambiar tu estilo al vestir o de cabello, dándote una nueva y brillante imagen. Si hacerlo aumenta tu confianza, ¡adelante!
+Se avecinan cambios Capri, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Capri, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Capri. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana sagitario.
+Si no has tomado vacaciones en el verano, quizá hagas planes de viaje en las semanas que se aproximan. Con la entrada del fogoso Marte a tu sector de exploración en los primeros días de la semana, puede que tengas ganas de irte lejos y relajarte en un lugar completamente diferente. Pero debes tener cuidado cuando organices tu itinerario o viajes de un lugar a otro, porque Mercurio cambiará de dirección y habrá la fantasiosa luna llena. La confusión o los malentendidos podrían llevarte por el camino equivocado.
 
 ## Dinero
 
-Ahora tienes un aspecto armonioso afectando a tu sector de hogar y emociones. Si trabajas en un campo creativo o de diseño, piensa en cómo ampliar tu línea para incluir el diseño de interiores. Dado a que tantos de tus propios recuerdos y sentimientos están siendo despertados, puedes percatarte de que tu vida puede servir de base para nuevas y maravillosas ideas. El dinero viene cuando se combina lo personal con lo profesional.
+Esta semana es acerca de cierta emocionante pero intimidante actividad en tu sector de comunicaciones solicitándote que te vuelvas más profesional en tu forma de hablar. Aunque se sienta como algo tenso, es una excelente oportunidad para profundizar en las prácticas espirituales como la meditación y el yoga, especialmente si te ayudan a procesar nuevas ideas que pueden llegar a producirte más dinero.

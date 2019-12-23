@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 16 de diciembre 2019 al 22 de diciembre 2019 
-description: Horóscopo semanal escorpio 16 de diciembre 2019 al 22 de diciembre 2019. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+title: escorpio 23 de diciembre 2019 al 29 de diciembre 2019 
+description: Horóscopo semanal escorpio 23 de diciembre 2019 al 29 de diciembre 2019. Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte escorpio, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-16'
+ lastmod: '2019-12-23'
 ---
 
 
 
-## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+## Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte escorpio, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 
-Necesitas tener un objetivo en la vida escorpio, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada escorpio, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
-Es posible que debas manejar con cuidado tus finanzas en los próximos días. Si bien puede que tengas suerte y encuentres una buena oferta, es mejor que analices con cuidado si lo que compras es tan bueno como crees que es. Compres lo que compres, sería prudente que guardes los recibos en caso de que necesites devolver tu compra. Es posible que este no sea el mejor momento para solicitar un préstamo o un crédito, ya que puedes enfrentarte a ciertas dificultades. Sin embargo, la situación se vuelve un poco más flexible la semana que vi
+Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
+Cuando te sientas mal, tira de memoria escorpio y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
+Este es tu momento para ponerte en el centro de atención y mostrar tus habilidades y talentos. Con el actual enfoque en un sector dinámico de tu carta, este no es momento para ocultar la gran luz que te caracteriza. Brilla enormemente para que todos te puedan ver. La Luna Nueva del lunes es el mejor momento para establecerte la intención de compartir tus ideas creativas con el mundo. El romance también está en tus cartas, con la semana por delante pudiendo traerte ardientes noches ya sea fuera, o dentro de casa.
 
 ## Dinero
 
-Estás justo en el meollo de esta semana con ciertos aspectos en tu sector de hogar, sentimientos internos y expresión personal. La forma en la que otros te perciben está cambiando. Toma control y muéstrales cómo quieres que se te perciba.
+Esta semana trae una maravillosa combinación de energías conforme consideras cual será tu siguiente movimiento en el mundo de los negocios y las finanzas. Los aspectos son especialmente positivos y armoniosos, por lo que es posible que te percates de que otros gravitan hacia ti por asesoramiento o asociaciones de un tipo u otro. El Universo te proporciona impulso para tomar acción, ¡por lo que planifica en consecuencia y toma acción! Tu carrera podría usar un poco de atención ahora.

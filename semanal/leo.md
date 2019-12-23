@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 16 de diciembre 2019 al 22 de diciembre 2019 
-description: Horóscopo semanal leo 16 de diciembre 2019 al 22 de diciembre 2019. Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+title: leo 23 de diciembre 2019 al 29 de diciembre 2019 
+description: Horóscopo semanal leo 23 de diciembre 2019 al 29 de diciembre 2019. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-16'
+ lastmod: '2019-12-23'
 ---
 
 
 
-## Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 
-A veces, no es fácil vivir la vida leo, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera leo. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-La Luna Nueva del lunes en tu sector familiar necesita un manejo cuidadoso, ya que podrías actuar bajo impulso y hacer un movimiento en falso. Esperar unos días podría ayudarte a sentir más confianza acerca de tu decisión. En otra nota, no se te dificulta para nada saber qué hacer sobre un proyecto que te fascina profundamente. El Día de San Valentín se vislumbra bastante emocionante con la Luna en el sensual Tauro aumentando la pasión. Tanto las relaciones nuevas como las no nuevas pueden beneficiarse de una candente cita o evento social.
+Eres demasiado honesto con el resto leo y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Capri, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+Después del eclipse solar de la semana pasada en tu signo, tal vez sientas que mereces un descanso. El positivo Júpiter se encuentra en tu sector de relajación y recreación. No dudes en tomarte un descanso corto que te ayude a centrarte y te brinde la posibilidad de pensar en cuáles son tus prioridades. Debido a que el encantador Venus se encuentra en tu sector de comunicación, podrías tener una dosis extra de persuasión y encanto, lo que puede jugarte a favor al momento de negociar. 
+La luna en cuarto creciente del jueves en tu sector de hogar puede ser la chance de conectar con familiares y pedirles su opinión sobre una idea. Si todos están de acuerdo, todo fluye mucho mejor. El domingo, el sol ingresa a Leo y a tu sector de recursos y bienes materiales, lo que podría fomentar un frenesí de ventas. Deshacerte de aquello que ya no necesitas o quieres podría significar un dinero extra y traerte tranquilidad.
 
 ## Dinero
 
-Con tantos planetas afectando tu sector de dinero esta semana, puede que tengas la tentación de correr y esconderte. Pero a medida que el Universo se centra en tu sector de dinero y valores, se te está pidiendo ser más responsable en la forma en la que ganas dinero. También se te insta a ser mucho más sociable cuando se trata de tu dinero.
+Actualmente estás en una fase de transformación con aspectos en tu sector de vidas pasadas, sueños, karma e instituciones. Puede que sientas como si te estuvieras moviendo en cámara lenta, pero eso es sólo porque se te ha estado pidiendo examinar la parte más profunda de ti. Aunque puede ser contra-intuitivo para alguien con tu personalidad, el pedir dirección financiera es inteligente. Combina la recolección de información con la acción cuidadosa y encontrarás que estás en el camino correcto después de todo.

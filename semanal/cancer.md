@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 16 de diciembre 2019 al 22 de diciembre 2019 
-description: Horóscopo semanal cancer 16 de diciembre 2019 al 22 de diciembre 2019. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
+title: cancer 23 de diciembre 2019 al 29 de diciembre 2019 
+description: Horóscopo semanal cancer 23 de diciembre 2019 al 29 de diciembre 2019. No te mereces poco cancer… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-16'
+ lastmod: '2019-12-23'
 ---
 
 
 
-## Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
+## No te mereces poco cancer… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 
-A veces dejar ir las cosas es mucho más complicado de lo que piensas cancer. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad cancer, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres cancer. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero cancer, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. cancer, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
-Tu cabeza y corazón podrían estar en conflicto, dificultándote así resolver una situación clave. ¿Deberías adoptar un enfoque compasivo y tratar de aplacar a los implicados o tratar de defender tu punto de vista? Cualquier ansiedad causada por este asunto puede ser peor que tratar de hacer tu mejor esfuerzo para resolverlo. Ofrécete a hablar sobre ello, pero sólo hazlo si sientes que puedes hacerlo objetivamente. Si te sientes demasiado emocional, puede que sea mejor esperar hasta que las cosas se calmen.
+A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada cancer. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No cancer, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres cancer, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas cancer pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
+Aunque te conoce por tu tacto y discreción, admiras a las personas que dicen lo que piensan. Podrías conocer a alguien así al comienzo de la semana, una persona que no teme decir exactamente lo que siente. ¿Te molestará? La presente mezcla de energías indica que esto podría parecerte algo nuevo y distinto, especialmente si estás de acuerdo con lo que dice. De hecho, podría incluso ser el desencadenante de una decisión que cambie todo. Mientras tanto, si deseas darte el gusto de comer lo que quieras este fin de semana, ¡adelante!
 
 ## Dinero
 
-Para ti esta semana es sobre las redes sociales, las cuáles son cada vez más importantes. Tus amigos de verdad te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo un montón de cambios, los cuáles podrían afectar la forma en la que te ves y presentas. Puede que algunos de tus amigos no aprecien este proceso. Sé amable con ellos ya que todavía no entienden a dónde vas y que ellos pueden venir también.
+Esta semana el Universo afecta tu sector de dinero. Ha llegado el momento de reevaluar la forma en la que ganas dinero en la actualidad. ¿Odias tu trabajo? ¿Te gustaría encontrar un trabajo más significativo? Esta semana te da la oportunidad de descubrir una nueva manera de hacer de tu trabajo ideal una realidad.
