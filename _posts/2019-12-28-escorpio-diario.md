@@ -9,7 +9,7 @@ redirect_from: /p/escorpio.html
 keywords: escorpio,horoscopo,horoscopo escorpio diciembre 2019,horoscopo escorpio hoy,tarot escorpio diciembre 2019,horoscopo escorpio,tarot escorpio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy escorpio,horoscopo diario del tarot, Horoscopo de hoy escorpio 28 de diciembre del 2019,horóscopo del día, el horoscopo de hoy
 horoscopo:
  signo: escorpio
- video: g_VIh3NkXjc
+ video: bap0sPXb5Lg
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1

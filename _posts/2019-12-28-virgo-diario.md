@@ -9,7 +9,7 @@ redirect_from: /p/virgo.html
 keywords: virgo,horoscopo,horoscopo virgo diciembre 2019,horoscopo virgo hoy,tarot virgo diciembre 2019,horoscopo virgo,tarot virgo hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy virgo,horoscopo diario del tarot, Horoscopo de hoy virgo 28 de diciembre del 2019,horóscopo del día,signos zodiacales 2019, el horoscopo de hoy
 horoscopo:
  signo: virgo
- video: g_VIh3NkXjc
+ video: bap0sPXb5Lg
 ogimg: /images/virgo_char.png
 sitemap:
  priority: 1

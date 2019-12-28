@@ -9,7 +9,7 @@ redirect_from: /p/libra.html
 keywords: libra,horoscopo,horoscopo libra diciembre 2019,horoscopo libra hoy,tarot libra diciembre 2019,horoscopo libra,tarot libra hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy libra,horoscopo diario del tarot, Horoscopo de hoy libra 28 de diciembre del 2019,horóscopo del día,signos zodiacales 2019, el horoscopo de hoy
 horoscopo:
  signo: libra
- video: g_VIh3NkXjc
+ video: bap0sPXb5Lg
 ogimg: /images/libra_char.png
 sitemap:
  priority: 1

@@ -9,7 +9,7 @@ redirect_from: /p/geminis.html
 keywords: geminis,horoscopo,horoscopo geminis diciembre 2019,horoscopo geminis hoy,tarot geminis diciembre 2019,horoscopo geminis,tarot geminis hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy geminis,horoscopo diario del tarot, Horoscopo de hoy geminis 28 de diciembre del 2019,horóscopo del día,signos zodiacales 2019, el horoscopo de hoy
 horoscopo:
  signo: geminis
- video: g_VIh3NkXjc
+ video: bap0sPXb5Lg
 ogimg: /images/geminis_char.png
 sitemap:
  priority: 1

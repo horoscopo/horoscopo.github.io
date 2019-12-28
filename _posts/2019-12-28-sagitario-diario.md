@@ -9,7 +9,7 @@ redirect_from: /p/sagitario.html
 keywords: sagitario,horoscopo,horoscopo sagitario diciembre 2019,horoscopo sagitario hoy,tarot sagitario diciembre 2019,horoscopo sagitario,tarot sagitario hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy sagitario,horoscopo diario del tarot, Horoscopo de hoy sagitario 28 de diciembre del 2019,horóscopo del día, el horoscopo de hoy
 horoscopo:
  signo: sagitario
- video: g_VIh3NkXjc
+ video: bap0sPXb5Lg
 ogimg: /images/sagitario_char.png
 sitemap:
  priority: 1

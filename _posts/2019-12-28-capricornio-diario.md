@@ -9,7 +9,7 @@ redirect_from: /p/capricornio.html
 keywords: capricornio,horoscopo,horoscopo capricornio diciembre 2019,horoscopo capricornio hoy,tarot capricornio diciembre 2019,horoscopo capricornio,tarot capricornio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy capricornio,horoscopo diario del tarot, Horoscopo de hoy capricornio 28 de diciembre del 2019,horóscopo del día
 horoscopo:
  signo: capricornio
- video: g_VIh3NkXjc
+ video: bap0sPXb5Lg
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1

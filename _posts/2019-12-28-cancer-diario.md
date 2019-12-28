@@ -9,7 +9,7 @@ redirect_from: /p/cancer.html
 keywords: cancer,horoscopo,horoscopo cancer diciembre 2019,horoscopo cancer hoy,tarot cancer diciembre 2019,horoscopo cancer,tarot cancer hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy cancer,horoscopo diario del tarot, Horoscopo de hoy cancer 28 de diciembre del 2019,horóscopo del día,signos zodiacales 2019, el horoscopo de hoy
 horoscopo:
  signo: cancer
- video: g_VIh3NkXjc
+ video: bap0sPXb5Lg
 ogimg: /images/cancer_char.png
 sitemap:
  priority: 1

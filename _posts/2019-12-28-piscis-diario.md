@@ -9,7 +9,7 @@ redirect_from: /p/piscis.html
 keywords: piscis,horoscopo,horoscopo piscis diciembre 2019,horoscopo piscis hoy,tarot piscis diciembre 2019,horoscopo piscis,tarot piscis hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy piscis,horoscopo diario del tarot, Horoscopo de hoy piscis 28 de diciembre del 2019,horóscopo del día,signos zodiacales 2019, el horoscopo de hoy
 horoscopo:
  signo: piscis
- video: g_VIh3NkXjc
+ video: bap0sPXb5Lg
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1

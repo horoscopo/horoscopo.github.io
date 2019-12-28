@@ -9,7 +9,7 @@ redirect_from: /p/tauro.html
 keywords: tauro,horoscopo,horoscopo tauro diciembre 2019,horoscopo tauro hoy,tarot tauro diciembre 2019,horoscopo tauro,tarot tauro hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy tauro,horoscopo diario del tarot, Horoscopo de hoy tauro 28 de diciembre del 2019,horóscopo del día,signos zodiacales 2019, el horoscopo de hoy
 horoscopo:
  signo: tauro
- video: g_VIh3NkXjc
+ video: bap0sPXb5Lg
 ogimg: /images/tauro_char.png
 sitemap:
  priority: 1

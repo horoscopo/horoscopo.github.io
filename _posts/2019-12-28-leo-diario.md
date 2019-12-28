@@ -9,7 +9,7 @@ redirect_from: /p/leo.html
 keywords: leo,horoscopo,horoscopo leo diciembre 2019,horoscopo leo hoy,tarot leo diciembre 2019,horoscopo leo,tarot leo hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy leo,horoscopo diario del tarot, Horoscopo de hoy leo 28 de diciembre del 2019,horóscopo del día,signos zodiacales 2019, el horoscopo de hoy
 horoscopo:
  signo: leo
- video: g_VIh3NkXjc
+ video: bap0sPXb5Lg
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1

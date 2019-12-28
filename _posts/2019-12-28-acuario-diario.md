@@ -9,7 +9,7 @@ redirect_from: /p/acuario.html
 keywords: acuario,horoscopo,horoscopo acuario diciembre 2019,horoscopo acuario hoy,tarot acuario diciembre 2019,horoscopo acuario,tarot acuario hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy acuario,horoscopo diario del tarot, Horoscopo de hoy acuario 28 de diciembre del 2019,horóscopo del día,signos zodiacales 2019, el horoscopo de hoy
 horoscopo:
  signo: acuario
- video: g_VIh3NkXjc
+ video: bap0sPXb5Lg
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1
