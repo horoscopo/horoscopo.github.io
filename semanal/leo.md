@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 23 de diciembre 2019 al 29 de diciembre 2019 
-description: Horóscopo semanal leo 23 de diciembre 2019 al 29 de diciembre 2019. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+title: leo 30 de diciembre 2019 al 05 de enero 2020 
+description: Horóscopo semanal leo 30 de diciembre 2019 al 05 de enero 2020. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. leo, esta semana has de cerrar algunos ciclos de verdad.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-23'
+ lastmod: '2019-12-30'
 ---
 
 
 
-## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. leo, esta semana has de cerrar algunos ciclos de verdad.
 
-Eres demasiado honesto con el resto leo y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Capri, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
-Después del eclipse solar de la semana pasada en tu signo, tal vez sientas que mereces un descanso. El positivo Júpiter se encuentra en tu sector de relajación y recreación. No dudes en tomarte un descanso corto que te ayude a centrarte y te brinde la posibilidad de pensar en cuáles son tus prioridades. Debido a que el encantador Venus se encuentra en tu sector de comunicación, podrías tener una dosis extra de persuasión y encanto, lo que puede jugarte a favor al momento de negociar. 
-La luna en cuarto creciente del jueves en tu sector de hogar puede ser la chance de conectar con familiares y pedirles su opinión sobre una idea. Si todos están de acuerdo, todo fluye mucho mejor. El domingo, el sol ingresa a Leo y a tu sector de recursos y bienes materiales, lo que podría fomentar un frenesí de ventas. Deshacerte de aquello que ya no necesitas o quieres podría significar un dinero extra y traerte tranquilidad.
+La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón leo, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
+Las cuestiones laborales y de estilo de vida continúan manteniendo tu tiempo ocupado esta semana, especialmente si recientemente adoptaste la práctica de un nuevo deporte o decidiste ponerte en forma y perder peso. Te ayudaría perseverar, a pesar de que es posible que lo encuentres difícil en las próximas semanas. Si logras comenzar vigorosamente, tendrás propensión a alcanzar tus metas. La presencia de Mercurio en Virgo podría favorecer una conexión con alguien que tenga buenos consejos para ti.
 
 ## Dinero
 
-Actualmente estás en una fase de transformación con aspectos en tu sector de vidas pasadas, sueños, karma e instituciones. Puede que sientas como si te estuvieras moviendo en cámara lenta, pero eso es sólo porque se te ha estado pidiendo examinar la parte más profunda de ti. Aunque puede ser contra-intuitivo para alguien con tu personalidad, el pedir dirección financiera es inteligente. Combina la recolección de información con la acción cuidadosa y encontrarás que estás en el camino correcto después de todo.
+Es probable que un aspecto armonioso te haga sentir más comodidad y respeto esta semana. La gente está tratando de comunicarse contigo acerca de todo tipo de cosas, incluyendo tu trabajo y el dinero que se te paga por hacerlo. Mira a tu sector de profesión en busca de inspiración e ideas nuevas.

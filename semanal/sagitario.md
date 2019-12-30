@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 23 de diciembre 2019 al 29 de diciembre 2019 
-description: Horóscopo semanal sagitario 23 de diciembre 2019 al 29 de diciembre 2019. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
+title: sagitario 30 de diciembre 2019 al 05 de enero 2020 
+description: Horóscopo semanal sagitario 30 de diciembre 2019 al 05 de enero 2020. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-23'
+ lastmod: '2019-12-30'
 ---
 
 
 
-## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-Se avecinan cambios Capri, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Capri, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Capri. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana sagitario.
-Si no has tomado vacaciones en el verano, quizá hagas planes de viaje en las semanas que se aproximan. Con la entrada del fogoso Marte a tu sector de exploración en los primeros días de la semana, puede que tengas ganas de irte lejos y relajarte en un lugar completamente diferente. Pero debes tener cuidado cuando organices tu itinerario o viajes de un lugar a otro, porque Mercurio cambiará de dirección y habrá la fantasiosa luna llena. La confusión o los malentendidos podrían llevarte por el camino equivocado.
+Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
+Tú y una amistad están en la misma frecuencia esta semana, lo que podría allanar el camino para planes colaborativos o imaginativos. Te beneficiarás social y financieramente de adoptar una actitud cálida y amigable hacia aquellos con los que trabajas y forman parte de tus círculos profesionales. Pensamientos de viajes y aventuras podrían inundar tu mente cuando Marte entre a Escorpión. Tal vez deberías empezar a planear tu próximo viaje, sobre todo si anhelas nuevas experiencias. Finalmente, tus sueños podrían serte de especial ayuda esta semana.
 
 ## Dinero
 
-Esta semana es acerca de cierta emocionante pero intimidante actividad en tu sector de comunicaciones solicitándote que te vuelvas más profesional en tu forma de hablar. Aunque se sienta como algo tenso, es una excelente oportunidad para profundizar en las prácticas espirituales como la meditación y el yoga, especialmente si te ayudan a procesar nuevas ideas que pueden llegar a producirte más dinero.
+Estás interactuando con miembros de la familia, niños, pareja y socios creativos. Te estás divirtiendo tanto que puede que no se te ocurra verificar tu saldo bancario. ¡Caramba! Ciertos aspectos favorables se aseguran de que seas capaz de sentirte bien contigo mismo/a, incluso sin tener que gastar tanto. Escucha, es lo mejor.

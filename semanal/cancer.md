@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 23 de diciembre 2019 al 29 de diciembre 2019 
-description: Horóscopo semanal cancer 23 de diciembre 2019 al 29 de diciembre 2019. No te mereces poco cancer… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+title: cancer 30 de diciembre 2019 al 05 de enero 2020 
+description: Horóscopo semanal cancer 30 de diciembre 2019 al 05 de enero 2020. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-23'
+ lastmod: '2019-12-30'
 ---
 
 
 
-## No te mereces poco cancer… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada cancer. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No cancer, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres cancer, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas cancer pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-Aunque te conoce por tu tacto y discreción, admiras a las personas que dicen lo que piensan. Podrías conocer a alguien así al comienzo de la semana, una persona que no teme decir exactamente lo que siente. ¿Te molestará? La presente mezcla de energías indica que esto podría parecerte algo nuevo y distinto, especialmente si estás de acuerdo con lo que dice. De hecho, podría incluso ser el desencadenante de una decisión que cambie todo. Mientras tanto, si deseas darte el gusto de comer lo que quieras este fin de semana, ¡adelante!
+Cada día que pasa te das más cuenta de que mereces cosas buenas cancer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana cancer.
+Con la Luna Llena en el sector de tu carta relacionado con los horizontes lejanos, podrías anhelar un escape del ajetreo y bullicio de la vida cotidiana. Esta puede ser una oportunidad para reservar un viaje y relajarte. La semana también podría traer noticias inusuales que coincidan con una oportunidad o tal vez un encuentro que no te harán ninguna gracia. Algo o alguien intrigante y refrescantemente distintos podrían ingresar a tu vida, lo que tiene que ser bueno.
 
 ## Dinero
 
-Esta semana el Universo afecta tu sector de dinero. Ha llegado el momento de reevaluar la forma en la que ganas dinero en la actualidad. ¿Odias tu trabajo? ¿Te gustaría encontrar un trabajo más significativo? Esta semana te da la oportunidad de descubrir una nueva manera de hacer de tu trabajo ideal una realidad.
+Ya eres más social de lo que eras antes. Tienes una semana de sorpresas agradables. Tienes que aprender algo que pensaste que ya sabías, o de repente puedes tener la tentación de ampliar tu educación con nuevos cursos y talleres. Esto es positivo para reforzar tu balance y ganar más dinero a través de las ventas al exterior.

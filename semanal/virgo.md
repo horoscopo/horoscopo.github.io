@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 23 de diciembre 2019 al 29 de diciembre 2019 
-description: Horóscopo semanal virgo 23 de diciembre 2019 al 29 de diciembre 2019. Llega una semana bonita virgo, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención virgo, y seguramente la persona que menos te esperabas…
+title: virgo 30 de diciembre 2019 al 05 de enero 2020 
+description: Horóscopo semanal virgo 30 de diciembre 2019 al 05 de enero 2020. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-23'
+ lastmod: '2019-12-30'
 ---
 
 
 
-## Llega una semana bonita virgo, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención virgo, y seguramente la persona que menos te esperabas…
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-Has caído en la rutina virgo, quieres pelear por personas que quizás no tengan mucho en común contigo pero aún así, te sigues aferrando a algo que quizás tenga fecha de caducidad. Necesitas hablar, conversar, pero un largo tiempo y de verdad poner todas y cada una de las cartas sobre la mesa. Te guardas demasiado para ti, para dentro, y por más que intentas sacarlo es como si algo te lo impidiera. Esta semana es buena para hacer balance de lo que quieres, de lo que buscas y de lo que necesitas. No vas a parar, tienes muchas cosas que hacer y eso será lo que te aleje de algunos problemas. Pero cuando eso que hagas se acabe, el problema seguirá estando presente, seguirá en el mismo sitio donde lo dejaste, y como no lo soluciones permanecerá ahí todo el tiempo. No te agobies y respira hondo cuando algo se ponga difícil. De todo se sale virgo, ya lo sabes. Las pequeñas cosas cuentan mucho ahora así que, empieza a decir que “si” a cualquier plan que te propongan, por pequeño que sea. Si quieres salvar algo, habla virgo, habla y saca de una vez todo ese universo de sentimientos y de emociones que tienes dentro. Como no seas claro de verdad y sólo tragues y tragues, todo va a salir mal. Disfruta esta semana pero aclárate un poco…
-Suceden muchas cosas en una de las áreas más misteriosas de tu carta astral, donde la alineación actual podría potenciar la intimidad y quizás llevarte a explorar formas inusuales y emocionantes de satisfacer a tu amor. Abrirte y ser vulnerable podría ser muy bueno para ti. También es una oportunidad para soltar el resentimiento oculto y así experimentar sensaciones de liviandad y paz. Los asuntos profesionales también reciben un impulso, pero deberás tener cuidado con los asuntos monetarios esta semana.
+Es mejor reflexionar que lamentar virgo. Siempre. 
+Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así virgo, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
+Puedes dar un suspiro de alivio esta semana cuando las tensiones comienzan a aliviarse y te empiezas a relajar más. Y con Mercurio, el planeta de la comunicación, ingresando al práctico signo de Tauro, este puede ser un buen momento para planear a futuro y preparar el terreno para nuevos proyectos. Además, serás capaz de pensar con originalidad y adoptar nuevas ideas de una forma muy práctica. Estudiar y establecer nuevas redes de contacto también podría ser importante.
 
 ## Dinero
 
-El Universo te da un fuerte sentido de seguridad conforme construyes tu fortuna y tomas decisiones de inversión. Tienes una visión clara sobre el lugar donde quieres acabar y no quieres dejar las cosas al azar. Las únicas dificultades provienen de cierta desestabilización en tu sector de deuda que nubla tu visión.
+La actividad astral de esta semana tiene lugar en tu sector de carrera y autoridad. El Universo te pide que pongas más de tu enfoque en su avance. No es suficiente el dejar tu vida laboral al azar. En cambio, los pasos cuidadosos hacia un objetivo profesional concreto te obtendrán los mejores resultados y la máxima rentabilidad.
