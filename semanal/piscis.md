@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 23 de diciembre 2019 al 29 de diciembre 2019 
-description: Horóscopo semanal piscis 23 de diciembre 2019 al 29 de diciembre 2019. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+title: piscis 30 de diciembre 2019 al 05 de enero 2020 
+description: Horóscopo semanal piscis 30 de diciembre 2019 al 05 de enero 2020. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-23'
+ lastmod: '2019-12-30'
 ---
 
 
 
-## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 
-A veces las cosas tienen que ser a tu manera o a ninguna piscis, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada piscis. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
-Tu vida social se ve lista para rockear esta semana con mucha acción en este sector de tu carta. Mercurio se torna retrógrado el martes, por lo que es posible que viejos amigos o incluso viejos amantes regresen de nuevo a tu vida. Las próximas tres semanas podrían traer oportunidades para reuniones y así hacer las paces. El Eclipse Solar del jueves podría traer cambios con respecto a tu situación social actual. Pase lo que pase, es posible que hagas nuevas amistades que podrían catapultarte al éxito.
+piscis, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo piscis. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
+Podrían surgirte oportunidades románticas esta semana, sobre todo cuando la Luna Llena se manifieste en tu sector de ocio y placer. El martes podría ser el día perfecto para invitar a un interés amoroso a una primera cita o salir con tu pareja a una lujosa cena con el fin de mostrarle lo mucho que te importa. Poderosos sentimientos podían salir a la superficie, por lo que te ayudaría pensar antes de hablar. Tu vida social se vislumbra mucho más animada, trayendo consigo una vibra perfecta para una extravagante noche de Halloween.
 
 ## Dinero
 
-Para ti, esta semana se trata de tomar ventaja de las circunstancias que se presentan en tu vida laboral. Tienes suerte, así que puede que encuentres que tienes la oportunidad de impresionar a alguien que tiene poder para tomar decisiones financieras. Estas afectarán de manera positiva tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personales y financieras, el incorporarlas a tu vida cotidiana te hace más fuerte.
+Te diriges a un periodo de gran riqueza en términos de finanzas e información que te ayudará a obtener más seguridad. Tienes un increíble poder psíquico ahora. El Universo está agitando tu sector de karma, vidas pasadas, e instituciones,  con el fin de acudir a estas áreas para hacer más dinero, encontrar nuevas ideas para productos y servicios únicos, o localizar lugares para invertir tu dinero para maximizar tus ganancias.
