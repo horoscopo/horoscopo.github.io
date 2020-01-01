@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo piscis diciembre 2019
-description: El Horóscopo diciembre de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo piscis enero 2020
+description: El Horóscopo enero de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/piscis/
 amplink: /horoscopo-mensual/amp/piscis/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo piscis diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo piscis enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
  video:  
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Mercurio entra a Capricornio el 2 de diciembre y tu lado inteligente y práctico entra a un estado de saturación. Logra todo lo que te has propuesto hacer, y aún más. La Luna Llena del 13 de diciembre se manifiesta en tu signo. Tu vida social se moverá a la velocidad de un torbellino, lo que podría hacer difícil que dejes de hablar. Esto está bien porque las personas están fascinadas contigo y con cada una de tus palabras. No las decepciones. El 28 de diciembre trae consigo una intensa Luna Nueva junto con Mercurio retrógrado. Para variar, permite que la gente venga a ti en lugar de perseguirles tanto. No tengas miedo - no terminarás en soledad. 
+La Luna Nueva del 8 de enero podría agregarle una ligera complicación a tu vida de por sí ya complicada. Si es así, ciertas personas también podrían aparecer con los recursos, experiencia o sugerencias que necesites en este momento. Relájate y toma las cosas con calma. Anda y decídete a hacer algo que has querido hacer desde hace mucho tiempo bajo el brillo de la Luna Llena del 22 de enero en tu novena casa, la regente de los amplios horizontes. Haz nuevos amigos y prueba nueva comida, música, ropa y películas. Por último, la conjunción entre el Sol y Neptuno del 28 de enero enciende un poderoso y profundo sueño en ti. Continúa nutriendo ese sueño y obtendrás felicidad futura.

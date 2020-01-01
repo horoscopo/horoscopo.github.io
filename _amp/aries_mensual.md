@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo aries diciembre 2019 
+title: Horoscopo aries enero 2020 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El 6 de diciembre es un dulce día con la Luna conjuntando a Venus y luego a Saturno. Una gran cantidad de belleza podría estar ocultándose inclusive en los lugares más humildes. La Luna Nueva del 9 de diciembre le da un productivo y potente inicio a tu año. Mantén la calma, ten seguridad en tus propias capacidades y no dejes que nada ni nadie te desanime. Una dosis de buena suerte laboral está por llegarte. Si es el momento de empezar algo nuevo o asumir más responsabilidad, hazlo. Todo es fácil para ti alrededor de la Luna Llena del 23 de diciembre. Si has sentido desconcierto o desánimo por algo, esos sentimientos y actitudes ahora comenzarán a derretirse.
+La Luna Nueva del 4 de enero te hace la estrella en tu trabajo durante la segunda semana del mes. Disfruta de tener una gran química con compañeros de trabajo y todos los demás. Algo que gratamente podría mejorar tus finanzas hogareñas también. La Luna Llena del 19 de enero emana su brillo en tu entorno hogareño y familiar. Los sentimientos serán profundos, y puede que imagines fricción donde no la hay. Una gran cantidad de personas están distraídas ahora, algunas cercanas a ti. Siéntete bien en tu propia piel y tu propio espacio, y deja que la charla de fondo se desvanezca. El sextil entre la Luna y Venus del 30 de enero marca el comienzo de un fin de semana social y deliciosamente divertido. 

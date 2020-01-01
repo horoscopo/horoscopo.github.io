@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo virgo diciembre 2019
-description: El Horóscopo diciembre de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo virgo enero 2020
+description: El Horóscopo enero de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo virgo diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo virgo enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video:  
@@ -16,6 +16,4 @@ sitemap:
 ---
 
 
-Deja que tu niño interior salga a jugar bajo la Luna Llena del 9 de diciembre. Inspírate y diviértete más haciendo algo ordinario de la forma más extraordinaria. Todo niño sabe que, muchas veces, ciertas cosas que son puestas al revés son en realidad verdades disfrazadas. La oposición entre el Sol y Saturno del 15 de diciembre te da más autoridad de la que esperabas. Alrededor de la Luna Nueva del 23 de diciembre, podrías tener muchísimas tareas e involucrarte en la vida de manera introvertida. Si has observado un cambio en una relación o romance, tómate todo el tiempo que sea necesario para comprenderlo y hacer que las cosas funcionen a tu favor.
-
-Mejores días: 3, 18, 21Peores días: 4, 12
+Comienza a analizar más el panorama completo con respecto a tus objetivos a largo plazo conforme Marte entra a Acuario el 8 de enero. Una oportunidad para ganar más dinero podría llegarte bajo la Luna Llena del 14 de enero. Puede que suene como algo radical o que no tenga ninguna relación con nada presente en tu vida, pero tal vez lo que necesitas es un nuevo pasatiempo; uno que pudiera pagarse por sí mismo. Adoptar uno bien podría aumentar tu autoestima. La Luna Nueva del 29 de enero estimula una actitud traviesa y un comportamiento social un tanto problemático. Bajo este aspecto, no tienes inclinación a tener cuidado, pero bien puedes frenar aquellos impulsos que muestren ser excesivos.

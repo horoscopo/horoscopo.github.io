@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo acuario diciembre 2019 
+title: Horoscopo acuario enero 2020 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La cuadratura entre la Luna y Mercurio del 1 de diciembre quizás intente disminuir tu nivel de confianza personal, pero no se lo permitas. Siente tu gran prosperidad bajo la Luna Llena del 8 de diciembre. Estás de humor para producir dinero y puedes ver mucho éxito. El repentino cambio de humor o fortuna de otra persona podría crear oportunidades que te permitan alardear del éxito que puedes tener. La Luna Nueva del 23 de diciembre podría dar comienzo a una temporada de fiestas y reuniones con amistades y gente de tu vecindario que fueron difíciles de encontrar a principio de año. La gente puede ir y venir con más frecuencia, pero será agradable ver tantos rostros de nuevo. 
+Produce tu mejor y más importante obra detrás de escenas bajo la manifestación de la Luna Nueva del 9 de enero. La discreción te permite hacer más de lo que quieres hacer con menos interferencias. Visiblemente te ocuparás como habitualmente lo estás, pero lo que hagas más en privado será más importante y satisfactorio. La Luna conjunta a Urano el 15 de enero, cuando deberías adoptar un enfoque diferente y pensar radicalmente. Bajo la Luna Llena del 23 de enero, un adorador y nuevo interés amoroso podría aparecer para impresionarte y hacerte saber lo verdaderamente especial que eres muy en el fondo. Alternativamente, tu muy dedicada pareja podría irradiarte gran amor para ayudarte a recordarlo.

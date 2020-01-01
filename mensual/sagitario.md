@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo sagitario diciembre 2019
-description: El Horóscopo diciembre de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo sagitario enero 2020
+description: El Horóscopo enero de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo sagitario diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo sagitario enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video:  
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-El 1 de diciembre es el día posterior a una luna llena, y el 28 de diciembre es el día previo a otra. Los corazones podrían latir más fuerte al comienzo y al final del mes. Puede que no haya luna llena este mes, pero la luna nueva (y el eclipse solar) del día 15 se posiciona para traer un nuevo amor o asociación de negocios a tu vida. Una posible pareja podría estar a la vuelta de la esquina. No parpadees. Si crees que ya te has cansado del amor, esconderte no te ayudará. El sol ingresa a Piscis el 18 de diciembre. Sé una persona generosa con tu tiempo, pero mantente dentro de límites razonables. 
+Un aspecto de tu vida diaria podría adquirir más importancia para ti durante la primera semana. La Luna Llena del 2 de enero hace que sea fácil para ti realizar múltiples tareas y aun así lidiar con varias distracciones a la vez. Las cosas podrían desarrollarse tan pacíficamente que es posible que apenas lo notes en el momento. La Luna Nueva del 16 de enero podría revelar una serie de pequeños y enterrados miedos y sospechas, pero también tendrás una gran confianza personal para sobrellavarlos. Disipar esos pequeños demonios ahora hará que experimentes más felicidad y seguridad que nunca. Es posible que sientas ganas de celebrar cuando el Sol entre a Cáncer y el verano comience el 21 de enero. ¡Adelante!

@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo libra diciembre 2019 
+title: Horoscopo libra enero 2020 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
@@ -14,7 +14,10 @@ sitemap:
 ---
 
 
-Urano entra a Tauro, tu sector de profesión e imagen profesional, lo que trae un cambio de dirección que podrías no haber visto venir. Esto podría sacudir tu mundo y desencadenar inseguridades profundas, pero evita aferrarte a alguien o algo, en especial tu posición o lugar. 
-Cualquier cosa que se aleje está revelando tu misión real, y catapultándote hacia nuevas alturas. No puedes contener un diluvio, ni puedes esconder tu luz. Aunque te expongas mucho, fluye con los cambios, y podrás facilitar la transición. Esta es una oportunidad para reevaluar y renegociar los compromisos importantes en lo económico y lo personal, con el fin de que te ofrezcan la seguridad que necesitas. 
-En el fondo, este es un proceso de muerte y resurrección de tu ego. Aclara tus valores, mantén tu perspectiva y desapego, y podrás reivindicar tu poder para tomar decisiones sabias que redireccionen el camino de tu vida. Tu dedicación, compromiso y habilidad para seguir avanzando (incluso cuando el mundo se está cayendo a pedazos) es fuente de inspiración. No pasará mucho tiempo hasta que las personas descubran tu genio. Ten más fe en ti, sé humilde, y tu espíritu se elevará. 
-Días destacados: 9, 14, 20Días desafiantes: 6, 13, 22
+Mercurio entra a Virgo el 5 de enero. Vuelve tu atención a todas aquellas pequeñas cosas favoritas que has dejado de lado, que harán que tu vida sea mucho mejor. 
+La luna nueva del día 9 está llena de sueños e ilusiones. Si piensas antes de hablar y actuar, será más fácil separar las ilusiones de la realidad. Tus primeras impresiones son buenas, así que confía en ellas. 
+El sol forma una conjunción con Mercurio el 20 de enero. Ahora confía en tus instintos más que en tu intelecto. El corazón tiene su propia sabiduría. 
+El sol sale de Virgo y entra a Libra al comienzo del otoño el día 22. La vida social y las comodidades ganan un poco más de prioridad. La vida diaria puede volverse más agradable y aún así mantenerse organizada y armoniosa. 
+Gasta dinero de forma prudente durante la luna llena del 24 de enero. Debes preservar, reparar o mantener algo que es importante para ti. Los valores ajenos son secundarios. Puede que los demás solo vean las cosas de forma diferente. 
+Días destacados: 3, 16, 23
+Días desafiantes: 23, 30

@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo tauro diciembre 2019 
+title: Horoscopo tauro enero 2020 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-No ponerte en primer lugar es la mejor manera de avanzar bajo la Luna Nueva del 7 de diciembre. Sin comportarte entrometidamente, puedes ayudar o animar a alguien y cambiar tanto su vida como la tuya también. Eres alguien más poderoso e influyente de lo que crees. La Luna Llena del 21 de diciembre se trata de tu vida social, pudiendo aumentar tu deseo de ser popular y de rodearte de gente más divertida. Disfruta de esa inclinación y de la compañía de nuevas personas. Socializar no tiene que ser caro. Mercurio se torna retrógrado el 28 de diciembre. Toma las cosas más lentamente y comprueba hechos y cifras más de una vez. 
+La paz y la tranquilidad pueden ser muy valiosas bajo la Luna Llena del 9 de enero. Podría ser difícil escapar de todas las actividades y demandas de tu tiempo. Encuentra refugio en la música, la lectura y los momentos de soledad, incluso si estás en medio de una multitud. El 15 de enero, la oposición entre el Sol y Saturno podría crear una lucha de poder que podrías aprovechar. La Luna Nueva del 23 de enero trae más amor, afecto y atención de la que una persona podría querer. Disfrútalos. Te mereces la adoración, y te mereces que te traten bien. Siente como tu autoestima se eleva, y siéntete bien al respecto.

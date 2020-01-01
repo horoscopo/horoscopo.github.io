@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo escorpio diciembre 2019
-description: El Horóscopo diciembre de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo escorpio enero 2020
+description: El Horóscopo enero de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo escorpio diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo escorpio enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video:  
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-El 2 de diciembre, una oferta romántica puede parecer rara al principio, pero el verdadero afecto podría estar allí. Sé amable. La Luna Nueva del 14 de diciembre alienta un mayor sentido de diversión y aventura. Permite que un amigo - o el hijo de un amigo - sugiera un nuevo lugar para visitar y algo nuevo que ver y hacer. No tienes que hacerlo de nuevo si no quieres y hasta puede que te guste. Bajo la Luna Nueva del 29 de diciembre, algunos familiares podrían recurrir a ti, o puede que simplemente todos se aparezcan en tu casa, con buenas intenciones, por supuesto. Relájate. Tú bien sabes cómo reservar tu propio espacio personal.
+El 8 de enero, el sol forma una conjunción con Mercurio retrógrado. Es más fácil leer entre líneas y escuchar lo que no se dice del todo en voz alta. La luna nueva y el eclipse solar del 11 de enero podría traer una oportunidad repentina para hacer algo importante. Tal vez has querido hacer esto durante mucho tiempo, o puede que nunca antes se te haya ocurrido. Mercurio se torna directo el día 18, cuando podrías creer que ya es hora de lanzarte a un nuevo proyecto, pero tómate un tiempo para que las condiciones sean propicias. El sol sale de Leo y entra a Virgo el día 22. Aprovecha el ritmo más lento y el tener tiempo para abordar proyectos más agradables. La luna llena del 26 de enero te demuestra cómo se sienten realmente algunas personas sobre un asunto del que se han quejado bastante. El problema puede ser real, pero no es tan importante. A algunas personas simplemente les gusta quejarse. Días destacados: 9, 17, 25Días desafiantes: 6, 21</div>

@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo capricornio diciembre 2019
-description: El Horóscopo diciembre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo capricornio enero 2020
+description: El Horóscopo enero de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo capricornio diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo capricornio enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video:  
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-La Luna Llena del 9 de diciembre es una luna festiva y orientada a la familia. Podrías recibir llamadas telefónicas, fotos o mensajes de texto de parientes que quieren ver tu hermoso rostro y escuchar tu dulce voz. Ríndete ante la atención. No durará mucho tiempo. El 13 de diciembre, el trígono entre Mercurio y Júpiter mejora tu suerte y tu visión sobre un problema determinado. La Luna Nueva del 23 de diciembre abre tu vida social a una gran diversión y entusiasmo. Puede que estés a punto de tener un poco más de entusiasmo en tu vida, y tal vez seas tú quien lo genere. Las personas quieren estar cerca de ti.
+Sin importar qué tan ocupada se vuelva la escena social, nada puede competir con el placer de quedarse a solas en casa. Recarga tus baterías emocionales bajo la luz de la Luna Llena del 3 de enero para recibir fresca y fuertemente lo que sea que el mundo te termine lanzando. Comportarte audazmente en tu trabajo posterior a la Luna Nueva del 17 de enero podría crearte una gran oportunidad. Adoptar más responsabilidades te ganará apoyo. Si te interesa un cambio de trabajo o carrera, puede que te sea posible hacerlo ahora. El fin de semana del 23 de enero será muy divertido pero no demasiado loco. Podrás sentir tu riqueza y a la vez tu responsabilidad.  

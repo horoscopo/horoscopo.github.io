@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo capricornio diciembre 2019 
+title: Horoscopo capricornio enero 2020 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La Luna Llena del 9 de diciembre es una luna festiva y orientada a la familia. Podrías recibir llamadas telefónicas, fotos o mensajes de texto de parientes que quieren ver tu hermoso rostro y escuchar tu dulce voz. Ríndete ante la atención. No durará mucho tiempo. El 13 de diciembre, el trígono entre Mercurio y Júpiter mejora tu suerte y tu visión sobre un problema determinado. La Luna Nueva del 23 de diciembre abre tu vida social a una gran diversión y entusiasmo. Puede que estés a punto de tener un poco más de entusiasmo en tu vida, y tal vez seas tú quien lo genere. Las personas quieren estar cerca de ti.
+Sin importar qué tan ocupada se vuelva la escena social, nada puede competir con el placer de quedarse a solas en casa. Recarga tus baterías emocionales bajo la luz de la Luna Llena del 3 de enero para recibir fresca y fuertemente lo que sea que el mundo te termine lanzando. Comportarte audazmente en tu trabajo posterior a la Luna Nueva del 17 de enero podría crearte una gran oportunidad. Adoptar más responsabilidades te ganará apoyo. Si te interesa un cambio de trabajo o carrera, puede que te sea posible hacerlo ahora. El fin de semana del 23 de enero será muy divertido pero no demasiado loco. Podrás sentir tu riqueza y a la vez tu responsabilidad.  
