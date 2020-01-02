@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: cancer hoy gratis 2020-01-01 
+title: cancer hoy gratis 02 de enero del 2020  
 permalink: /horoscopo-diario-gratis/amp/cancer/
 normallink: /horoscopo-diario-gratis/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/cancer_char.png
 sitemap:
  priority: 1

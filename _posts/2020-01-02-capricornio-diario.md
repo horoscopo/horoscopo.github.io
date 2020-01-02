@@ -1,15 +1,15 @@
 ---
 layout: horoscopos
-title: capricornio hoy gratis 2020-01-01 
-description: Horóscopo del dia de hoy para capricornio. Horoscopo de hoy 2020-01-01. Las predicciones de amor, trabajo, vida personal gratis.
+title: capricornio hoy gratis 02 de enero del 2020  
+description: Horóscopo del dia de hoy para capricornio. Horoscopo de hoy 02 de enero del 2020 . Las predicciones de amor, trabajo, vida personal gratis.
 permalink: /horoscopo-diario-gratis/capricornio/
 amplink: /horoscopo-diario-gratis/amp/capricornio/
 home: FALSE
 redirect_from: /p/capricornio.html
-keywords: capricornio,horoscopo,horoscopo capricornio enero 2020,horoscopo capricornio hoy,tarot capricornio enero 2020,horoscopo capricornio,tarot capricornio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy capricornio,horoscopo diario del tarot, Horoscopo de hoy capricornio 2020-01-01,horóscopo del día
+keywords: capricornio,horoscopo,horoscopo capricornio enero 2020,horoscopo capricornio hoy,tarot capricornio enero 2020,horoscopo capricornio,tarot capricornio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy capricornio,horoscopo diario del tarot, Horoscopo de hoy capricornio 02 de enero del 2020 ,horóscopo del día
 horoscopo:
  signo: capricornio
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1

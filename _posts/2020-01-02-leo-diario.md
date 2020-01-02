@@ -1,15 +1,15 @@
 ---
 layout: horoscopos
-title: leo hoy gratis 2020-01-01 
-description: Horóscopo del dia de hoy para leo. Horoscopo de hoy 2020-01-01. Las predicciones de amor, trabajo, vida personal gratis.
+title: leo hoy gratis 02 de enero del 2020  
+description: Horóscopo del dia de hoy para leo. Horoscopo de hoy 02 de enero del 2020 . Las predicciones de amor, trabajo, vida personal gratis.
 permalink: /horoscopo-diario-gratis/leo/
 amplink: /horoscopo-diario-gratis/amp/leo/
 home: FALSE
 redirect_from: /p/leo.html
-keywords: leo,horoscopo,horoscopo leo enero 2020,horoscopo leo hoy,tarot leo enero 2020,horoscopo leo,tarot leo hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy leo,horoscopo diario del tarot, Horoscopo de hoy leo 2020-01-01,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
+keywords: leo,horoscopo,horoscopo leo enero 2020,horoscopo leo hoy,tarot leo enero 2020,horoscopo leo,tarot leo hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy leo,horoscopo diario del tarot, Horoscopo de hoy leo 02 de enero del 2020 ,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: leo
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1

@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: libra hoy gratis 2020-01-01 
+title: libra hoy gratis 02 de enero del 2020  
 permalink: /horoscopo-diario-gratis/amp/libra/
 normallink: /horoscopo-diario-gratis/libra/
 home: FALSE
 horoscopo:
  signo: libra
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/libra_char.png
 sitemap:
  priority: 1

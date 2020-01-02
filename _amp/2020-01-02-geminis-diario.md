@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: geminis hoy gratis 2020-01-01 
+title: geminis hoy gratis 02 de enero del 2020  
 permalink: /horoscopo-diario-gratis/amp/geminis/
 normallink: /horoscopo-diario-gratis/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/geminis_char.png
 sitemap:
  priority: 1

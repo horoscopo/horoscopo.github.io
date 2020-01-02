@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: leo hoy gratis 2020-01-01 
+title: leo hoy gratis 02 de enero del 2020  
 permalink: /horoscopo-diario-gratis/amp/leo/
 normallink: /horoscopo-diario-gratis/leo/
 home: FALSE
 horoscopo:
  signo: leo
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1

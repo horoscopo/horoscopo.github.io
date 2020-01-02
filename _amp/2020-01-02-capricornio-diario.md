@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: capricornio hoy gratis 2020-01-01 
+title: capricornio hoy gratis 02 de enero del 2020  
 permalink: /horoscopo-diario-gratis/amp/capricornio/
 normallink: /horoscopo-diario-gratis/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1

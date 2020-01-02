@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: tauro hoy gratis 2020-01-01 
+title: tauro hoy gratis 02 de enero del 2020  
 permalink: /horoscopo-diario-gratis/amp/tauro/
 normallink: /horoscopo-diario-gratis/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/tauro_char.png
 sitemap:
  priority: 1

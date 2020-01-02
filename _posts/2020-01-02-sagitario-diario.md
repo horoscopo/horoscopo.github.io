@@ -1,15 +1,15 @@
 ---
 layout: horoscopos
-title: sagitario hoy gratis 2020-01-01 
-description: Horóscopo del dia de hoy para sagitario. Horoscopo de hoy 2020-01-01. Las predicciones de amor, trabajo, vida personal gratis.
+title: sagitario hoy gratis 02 de enero del 2020  
+description: Horóscopo del dia de hoy para sagitario. Horoscopo de hoy 02 de enero del 2020 . Las predicciones de amor, trabajo, vida personal gratis.
 permalink: /horoscopo-diario-gratis/sagitario/
 amplink: /horoscopo-diario-gratis/amp/sagitario/
 home: FALSE
 redirect_from: /p/sagitario.html
-keywords: sagitario,horoscopo,horoscopo sagitario enero 2020,horoscopo sagitario hoy,tarot sagitario enero 2020,horoscopo sagitario,tarot sagitario hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy sagitario,horoscopo diario del tarot, Horoscopo de hoy sagitario 2020-01-01,horóscopo del día, el horoscopo de hoy
+keywords: sagitario,horoscopo,horoscopo sagitario enero 2020,horoscopo sagitario hoy,tarot sagitario enero 2020,horoscopo sagitario,tarot sagitario hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy sagitario,horoscopo diario del tarot, Horoscopo de hoy sagitario 02 de enero del 2020 ,horóscopo del día, el horoscopo de hoy
 horoscopo:
  signo: sagitario
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/sagitario_char.png
 sitemap:
  priority: 1

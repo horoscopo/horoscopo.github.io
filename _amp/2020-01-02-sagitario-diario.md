@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: sagitario hoy gratis 2020-01-01 
+title: sagitario hoy gratis 02 de enero del 2020  
 permalink: /horoscopo-diario-gratis/amp/sagitario/
 normallink: /horoscopo-diario-gratis/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/sagitario_char.png
 sitemap:
  priority: 1

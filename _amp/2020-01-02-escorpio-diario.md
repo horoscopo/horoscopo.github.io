@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: escorpio hoy gratis 2020-01-01 
+title: escorpio hoy gratis 02 de enero del 2020  
 permalink: /horoscopo-diario-gratis/amp/escorpio/
 normallink: /horoscopo-diario-gratis/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1

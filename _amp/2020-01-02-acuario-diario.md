@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: acuario hoy gratis 2020-01-01 
+title: acuario hoy gratis 02 de enero del 2020  
 permalink: /horoscopo-diario-gratis/amp/acuario/
 normallink: /horoscopo-diario-gratis/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1

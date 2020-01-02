@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: piscis hoy gratis 2020-01-01 
+title: piscis hoy gratis 02 de enero del 2020  
 permalink: /horoscopo-diario-gratis/amp/piscis/
 normallink: /horoscopo-diario-gratis/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1

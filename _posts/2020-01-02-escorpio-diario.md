@@ -1,15 +1,15 @@
 ---
 layout: horoscopos
-title: escorpio hoy gratis 2020-01-01 
-description: Horóscopo del dia de hoy para escorpio. Horoscopo de hoy 2020-01-01. Las predicciones de amor, trabajo, vida personal gratis.
+title: escorpio hoy gratis 02 de enero del 2020  
+description: Horóscopo del dia de hoy para escorpio. Horoscopo de hoy 02 de enero del 2020 . Las predicciones de amor, trabajo, vida personal gratis.
 permalink: /horoscopo-diario-gratis/escorpio/
 amplink: /horoscopo-diario-gratis/amp/escorpio/
 home: FALSE
 redirect_from: /p/escorpio.html
-keywords: escorpio,horoscopo,horoscopo escorpio enero 2020,horoscopo escorpio hoy,tarot escorpio enero 2020,horoscopo escorpio,tarot escorpio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy escorpio,horoscopo diario del tarot, Horoscopo de hoy escorpio 2020-01-01,horóscopo del día, el horoscopo de hoy
+keywords: escorpio,horoscopo,horoscopo escorpio enero 2020,horoscopo escorpio hoy,tarot escorpio enero 2020,horoscopo escorpio,tarot escorpio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy escorpio,horoscopo diario del tarot, Horoscopo de hoy escorpio 02 de enero del 2020 ,horóscopo del día, el horoscopo de hoy
 horoscopo:
  signo: escorpio
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1

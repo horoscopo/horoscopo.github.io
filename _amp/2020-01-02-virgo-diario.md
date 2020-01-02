@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: virgo hoy gratis 2020-01-01 
+title: virgo hoy gratis 02 de enero del 2020  
 permalink: /horoscopo-diario-gratis/amp/virgo/
 normallink: /horoscopo-diario-gratis/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/virgo_char.png
 sitemap:
  priority: 1

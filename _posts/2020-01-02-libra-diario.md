@@ -1,15 +1,15 @@
 ---
 layout: horoscopos
-title: libra hoy gratis 2020-01-01 
-description: Horóscopo del dia de hoy para libra. Horoscopo de hoy 2020-01-01. Las predicciones de amor, trabajo, vida personal gratis.
+title: libra hoy gratis 02 de enero del 2020  
+description: Horóscopo del dia de hoy para libra. Horoscopo de hoy 02 de enero del 2020 . Las predicciones de amor, trabajo, vida personal gratis.
 permalink: /horoscopo-diario-gratis/libra/
 amplink: /horoscopo-diario-gratis/amp/libra/
 home: FALSE
 redirect_from: /p/libra.html
-keywords: libra,horoscopo,horoscopo libra enero 2020,horoscopo libra hoy,tarot libra enero 2020,horoscopo libra,tarot libra hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy libra,horoscopo diario del tarot, Horoscopo de hoy libra 2020-01-01,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
+keywords: libra,horoscopo,horoscopo libra enero 2020,horoscopo libra hoy,tarot libra enero 2020,horoscopo libra,tarot libra hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy libra,horoscopo diario del tarot, Horoscopo de hoy libra 02 de enero del 2020 ,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: libra
- video: g_VIh3NkXjc
+ video: XwiV1acJo78 
 ogimg: /images/libra_char.png
 sitemap:
  priority: 1
