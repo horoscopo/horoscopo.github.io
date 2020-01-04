@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de enero 2020
-description: Horóscopos del dia de hoy 03 de enero 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de enero 2020
+description: Horóscopos del dia de hoy 04 de enero 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-01-03
+ lastmod: 2020-01-04
 ---
-¡Aviso! Algo que ocurre hoy tiene repercusiones o desencadena reacciones en las próximas dos semanas. No es para preocuparse. Podría ser un golpe de suerte si es que has hecho lo correcto. Relájate, practica ser más flexible y evita malentendidos. Los solteros pueden notar algo esta noche que no notaron en un primer encuentro.
+Con Mercurio cuadrando a Saturno, las personas podrían quedarse sin palabras hoy. Lo cual puede que sea algo bueno. Sí, a veces el silencio es oro. Las chispas vuelan mientras Venus cuadra a Marte esta noche. El amor se desarrolla más fácil con ciertas personas. Solteros, algunas personas con las que se topan son peores que otras. Confíen en su instinto.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
