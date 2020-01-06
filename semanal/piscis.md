@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 30 de diciembre 2019 al 05 de enero 2020 
-description: Horóscopo semanal piscis 30 de diciembre 2019 al 05 de enero 2020. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+title: piscis 06 de enero 2020 al 12 de enero 2020 
+description: Horóscopo semanal piscis 06 de enero 2020 al 12 de enero 2020. Recuerda que ha empezado la época de los piscis… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-30'
+ lastmod: '2020-01-06'
 ---
 
 
 
-## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+## Recuerda que ha empezado la época de los piscis… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 
-piscis, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo piscis. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
-Podrían surgirte oportunidades románticas esta semana, sobre todo cuando la Luna Llena se manifieste en tu sector de ocio y placer. El martes podría ser el día perfecto para invitar a un interés amoroso a una primera cita o salir con tu pareja a una lujosa cena con el fin de mostrarle lo mucho que te importa. Poderosos sentimientos podían salir a la superficie, por lo que te ayudaría pensar antes de hablar. Tu vida social se vislumbra mucho más animada, trayendo consigo una vibra perfecta para una extravagante noche de Halloween.
+Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
+Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
+Pensamientos sobre viajes y destinos exóticos podrían alimentar tu deseo de hacer planes de vacaciones o de darte una escapada para tomarte un breve descanso si es que necesitas un cambio de ritmo. Y tal parece que no te faltarán oportunidades románticas, especialmente con Venus y Marte aumentando la probabilidad de atracciones instantáneas y alegres citas. En otra nota, la Luna Nueva del miércoles en tu sector profesional podría ser uno de los mejores momentos para poner en marcha la siguiente etapa de un plan de negocios.
 
 ## Dinero
 
-Te diriges a un periodo de gran riqueza en términos de finanzas e información que te ayudará a obtener más seguridad. Tienes un increíble poder psíquico ahora. El Universo está agitando tu sector de karma, vidas pasadas, e instituciones,  con el fin de acudir a estas áreas para hacer más dinero, encontrar nuevas ideas para productos y servicios únicos, o localizar lugares para invertir tu dinero para maximizar tus ganancias.
+Es posible que ahora luches por una mayor libertad en tu vida y la tentación de renunciar a tu trabajo sea más fuerte que nunca. Pero no es le momento de apretar el gatillo todavía. Los mensajes de tus sueños o flashes psíquicos puede proporcionar la información que necesitas para hacer cambios significativos para bien. El  trabajo mejora y luego viene el dinero.
