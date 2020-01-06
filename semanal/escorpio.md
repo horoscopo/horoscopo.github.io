@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 30 de diciembre 2019 al 05 de enero 2020 
-description: Horóscopo semanal escorpio 30 de diciembre 2019 al 05 de enero 2020. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+title: escorpio 06 de enero 2020 al 12 de enero 2020 
+description: Horóscopo semanal escorpio 06 de enero 2020 al 12 de enero 2020. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-30'
+ lastmod: '2020-01-06'
 ---
 
 
 
-## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 
-Madura escorpio, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte escorpio, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu escorpio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-El comienzo de la semana podría encontrarte con ganas de animar un poco tu vida, tal vez organizando una fiesta u otro tipo de divertida reunión. También hay un cambio de ritmo a medida que el vital Marte ingresa a su fase retrógrada en tu sector de relaciones el 26 de $MES y se queda allí hasta el 27 de $MES. Este no sería un buen momento para asociarte con alguien, ya sea para colaborar en una idea o negocio, o bien para avanzar en una relación romántica. Por ahora, aguarda a que llegue el momento justo, ya que se avecinan cambios. 
-La luna llena en tu sector de estilo de vida el miércoles podría poner bajo enfoque algunas cuestiones. Puede que te des cuenta cuánto tiempo has pasado trabajando y qué poco te dedicaste a disfrutar de la vida. Podrías tomar algunas decisiones clave como resultado de esto. Por último, el ingreso del interactivo Mercurio a tu signo del jueves podría inspirarte a compartir tus ideas, en especial las relacionadas con lo creativo.
+Tienes que improvisar más escorpio, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira escorpio, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado escorpio… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no escorpio, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana escorpio.
+Aunque Marte en tu sector profesional te anima a aceptar tus sueños y metas, tal choca con Plutón más adelante en la semana. Podrías sentir tensión desde mediados de semana, cuando podrías tener una diferencia de opinión con un superior o sentir que alguien te está engañando en referente a un contrato o un acuerdo. Por ahora, lo mejor es tomarte tu tiempo, sobre todo porque la claridad parece ser escasa. Espera a tener los hechos antes de tomar acción. Mientras tanto, Venus en Escorpión insinúa una atracción romántica.
 
 ## Dinero
 
-Esta semana te preparas para lo peor cuando se trata de rembolsar cualquier dinero que debas. Es posible que te estés esforzando para finalmente deshacerte de esa sensación de deuda y encontrar esa maravillosa libertad que viene de la reducción de saldo en las tarjetas de crédito. Estás trabajando hacia esta realidad poco a poco. Mientras tanto, piensa en cómo puedes usar tu creatividad e intuición en tu vida de inversión. Puede que encuentres algunas ideas lucrativas en los lugares más extraños, así que debes mantener apertura.
+Estás entrando en lo tuyo ahora. Hay una especie de seriedad a tu alrededor, y otros no pueden evitar el notar la diferencia. Pero es tu casa la que tal vez requiera que gastes más de lo que habías previsto o presupuestado. Si encuentras que necesitas retroceder temporalmente, eso está bien. Sin embargo, puede que el trata de forzar que tus ideas se hagan realidad no sea posible.

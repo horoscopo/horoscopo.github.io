@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 30 de diciembre 2019 al 05 de enero 2020 
-description: Horóscopo semanal virgo 30 de diciembre 2019 al 05 de enero 2020. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+title: virgo 06 de enero 2020 al 12 de enero 2020 
+description: Horóscopo semanal virgo 06 de enero 2020 al 12 de enero 2020. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-30'
+ lastmod: '2020-01-06'
 ---
 
 
 
-## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 
-Es mejor reflexionar que lamentar virgo. Siempre. 
-Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así virgo, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
-Puedes dar un suspiro de alivio esta semana cuando las tensiones comienzan a aliviarse y te empiezas a relajar más. Y con Mercurio, el planeta de la comunicación, ingresando al práctico signo de Tauro, este puede ser un buen momento para planear a futuro y preparar el terreno para nuevos proyectos. Además, serás capaz de pensar con originalidad y adoptar nuevas ideas de una forma muy práctica. Estudiar y establecer nuevas redes de contacto también podría ser importante.
+Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
+Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
+El Cuarto Lunar puede motivarte a que frecuentes nuevos círculos sociales, incluso si tus valores e ideales difieren ampliamente. Abrir tu mente a nuevas ideas puede llevarte a hacer nuevas amistades y conseguir oportunidades que tal vez nunca antes has considerado. Al mismo tiempo, con Mercurio avanzando en tu sector de carrera y ambición, tal vez percibas que el ritmo se acelera con respecto a los negocios o los proyectos profesionales. Aun así, no estaría mal esperar lo inesperado alrededor del 3 de $MES.
 
 ## Dinero
 
-La actividad astral de esta semana tiene lugar en tu sector de carrera y autoridad. El Universo te pide que pongas más de tu enfoque en su avance. No es suficiente el dejar tu vida laboral al azar. En cambio, los pasos cuidadosos hacia un objetivo profesional concreto te obtendrán los mejores resultados y la máxima rentabilidad.
+Esta semana se trata de aspectos que afectan tus áreas de romance, niños, familia y diversión. Mientras que puedes tener la tentación de no ir al trabajo para darte una corta escapada, ¡tratar de resistirte! Es mejor aplicar tu energía a resolver un problema que es común en tu área. Ganar más dinero va a ser fácil cuando lo hagas.

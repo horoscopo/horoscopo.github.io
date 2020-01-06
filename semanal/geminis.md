@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 30 de diciembre 2019 al 05 de enero 2020 
-description: Horóscopo semanal geminis 30 de diciembre 2019 al 05 de enero 2020. Esta semana relájate un poco geminis, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: geminis 06 de enero 2020 al 12 de enero 2020 
+description: Horóscopo semanal geminis 06 de enero 2020 al 12 de enero 2020. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche geminis, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-30'
+ lastmod: '2020-01-06'
 ---
 
 
 
-## Esta semana relájate un poco geminis, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche geminis, abre las puertas y ciao. No tienes que mantener nada…
 
-Parece que no todo va tan mal, no ¿geminis? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-Si has estado pensando en realizar una práctica espiritual, como meditar, hacer yoga o escribir un diario, esta es la semana para comenzar. Puede que la Luna Nueva en un sector alejado de tu carta te motive para hacer un viaje introspectivo y llegar a profundidades desconocidas. Aunque hay algo más, ya que sientes la inquietud de comenzar un proyecto que se quedó a medio camino. Después de analizarlo detenidamente, puede que te des cuenta de que tienes más potencial del que creías.
+Organízate geminis, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres geminis, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
+Con Marte ahora atravesando tu sector de viajes y aventura, es momento de encender tu fantástica luz y explorar horizontes lejanos y nuevas posibilidades. Sin embargo, antes de agarrar camino, tendrás que tener en cuenta que tanto Mercurio como Júpiter comienzan a retroceden a partir de esta semana. Sea lo que sea que estés planeando, primero comprueba dos veces cada uno de los detalles. También evita firmar documentos importantes, ya que los términos y condiciones podrían cambiar inclusive antes de que la tinta se seque.
 
 ## Dinero
 
-Tú necesitas sentir seguridad en todos los aspectos de tu vida, lo que por lo general requiere de dinero en efectivo. Ahora, tus relaciones se vuelven muy importantes cuando se trata de hacer más dinero. Si necesitas un nuevo puesto de trabajo o una recomendación, pídele el favor a la persona más poderosa que conozcas. El aspecto actual es favorable para que las cosas se resuelvan y para que logres la felicidad que anhelas.
+Hay una sorpresa muy especial para ti ahora. Un aspecto armonioso te ofrece un montón de ideas creativas, por no mencionar el talento para lograrlas. Mientras tanto, también recibes el impulso para tomar medidas sobre todo lo que quieres lograr. Dado que tu sentido de auto-expresión se ve afectado, es un buen momento para vender tus productos o servicios. Formula una lluvia de ideas para lograr llegar a un plan.

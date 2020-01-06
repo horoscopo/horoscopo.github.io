@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 30 de diciembre 2019 al 05 de enero 2020 
-description: Horóscopo semanal tauro 30 de diciembre 2019 al 05 de enero 2020. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: tauro 06 de enero 2020 al 12 de enero 2020 
+description: Horóscopo semanal tauro 06 de enero 2020 al 12 de enero 2020. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza tauro. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-30'
+ lastmod: '2020-01-06'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza tauro. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 
-En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien tauro…
-Disfrutarás de planificar hacia futuro y hacer lo que sea necesario con tal de hacer un sueño realidad. El actual enfoque en Virgo te anima a investigar tus opciones y tomar medidas diarias para manifestar tus metas. No le hagas caso a cualquiera que trate de estropear tus planes, especialmente a principios de semana. Si tienes la suficiente confianza y la capacidad, es el momento de ir por ello. Tu vida romántica podría mostrar progreso por primera vez en mucho tiempo a partir del domingo, cuando Venus comience a gira directamente.
+El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
+Marte sale de tu sector hogareño para entrar a tu sector de ocio y placer el sábado. Antes de que un problema relacionado a asuntos de familia y hogar en el que has estado trabajando estalle una vez más, esta es tu oportunidad de mirarlo de frente y resolverlo de una vez por todas. Si logras hacer esto, te percatarás de que tendrás más energía para llevar a cabo actividades creativas y divertidas. A partir del sábado, te beneficiarás de encontrar maneras de ahorrar dinero.
 
 ## Dinero
 
-Lo tuyo es el poder ahora. Los demás acuden a ti en busca de respuestas y tú se las proporcionas - por un precio. Cierta tensión puede surgir entre tu tiempo de descanso y tu imagen. Cierta actividad en tu sector de viajes y educación superior indica que piensas en qué parte te vendría bien reforzar tus habilidades. Clases de fin de semana podrían permitirte cobrar más.
+Para ti este período se trata de cachar ofertas y de tomar ventaja de las nuevas oportunidades para ganar más dinero. Los aspectos afectan al sector de dinero y valores, indicando un tiempo de crecimiento en ese sector. Eres una fuente de ideas ahora, así que asegúrate de escribirlas para no perder de vista un flujo de ingresos futuros. Si sientes agobio, ponlas en práctica de una en una.

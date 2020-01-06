@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 30 de diciembre 2019 al 05 de enero 2020 
-description: Horóscopo semanal cancer 30 de diciembre 2019 al 05 de enero 2020. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+title: cancer 06 de enero 2020 al 12 de enero 2020 
+description: Horóscopo semanal cancer 06 de enero 2020 al 12 de enero 2020. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,18 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-30'
+ lastmod: '2020-01-06'
 ---
 
 
 
-## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 
-Cada día que pasa te das más cuenta de que mereces cosas buenas cancer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana cancer.
-Con la Luna Llena en el sector de tu carta relacionado con los horizontes lejanos, podrías anhelar un escape del ajetreo y bullicio de la vida cotidiana. Esta puede ser una oportunidad para reservar un viaje y relajarte. La semana también podría traer noticias inusuales que coincidan con una oportunidad o tal vez un encuentro que no te harán ninguna gracia. Algo o alguien intrigante y refrescantemente distintos podrían ingresar a tu vida, lo que tiene que ser bueno.
+Últimamente sientes que las decisiones que has tomado no han sido las más acertadas pero todo se puede arreglar. 
+Como si, por momentos, no fueras capaz de encontrar salida a tus preocupaciones, a todo ese estrés mental, a ese círculo en el que te has metido solo.
+Tu vida social podría ser muy divertida. También es necesario para tu salud y bienestar. La oportunidad de relajarte con una buena compañía puede ser justo lo que necesitas para contrarrestar todo el arduo trabajo que has estado haciendo. Además, el sensual Venus en tu sector de estilo de vida te anima a cuidar de tu cuerpo con suficiente descanso, buena comida y ejercicio. Puede haber una tendencia a subestimar todas estas cosas en tu deseo de avanzar. 
+  Si el intenso enfoque de la última semana hizo que te quedaras sin energías, prueba con un masaje u otro tratamiento que te ayude a aliviar la tensión y revitalizarte. La presencia del sol en tu sector de creatividad puede ser un indicio de que debes enfocarte en los pasatiempos o las manualidades que disfrutas, ya que esto también puede ser terapéutico. Cuanto más tiempo tardes en nutrirte y renovar tu energía, más sencillo será avanzar.
 
 ## Dinero
 
-Ya eres más social de lo que eras antes. Tienes una semana de sorpresas agradables. Tienes que aprender algo que pensaste que ya sabías, o de repente puedes tener la tentación de ampliar tu educación con nuevos cursos y talleres. Esto es positivo para reforzar tu balance y ganar más dinero a través de las ventas al exterior.
+Es hora de pensar cómo es que puedes contactar a otros para obtener información adicional sobre tu situación financiera. Con cierta actividad en tu sector del dinero y valores, es imperativo que comuniques tus necesidades, así como tus metas. Las formas en las que solías pensar acerca del dinero en general ya no son sustentables. El cambio es necesario para que puedas seguir adelante y obtener más prosperidad.

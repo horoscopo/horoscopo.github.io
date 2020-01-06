@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 30 de diciembre 2019 al 05 de enero 2020 
-description: Horóscopo semanal leo 30 de diciembre 2019 al 05 de enero 2020. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. leo, esta semana has de cerrar algunos ciclos de verdad.
+title: leo 06 de enero 2020 al 12 de enero 2020 
+description: Horóscopo semanal leo 06 de enero 2020 al 12 de enero 2020. Da la bienvenida a tu nueva vida leo, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2019-12-30'
+ lastmod: '2020-01-06'
 ---
 
 
 
-## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. leo, esta semana has de cerrar algunos ciclos de verdad.
+## Da la bienvenida a tu nueva vida leo, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón leo, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
-Las cuestiones laborales y de estilo de vida continúan manteniendo tu tiempo ocupado esta semana, especialmente si recientemente adoptaste la práctica de un nuevo deporte o decidiste ponerte en forma y perder peso. Te ayudaría perseverar, a pesar de que es posible que lo encuentres difícil en las próximas semanas. Si logras comenzar vigorosamente, tendrás propensión a alcanzar tus metas. La presencia de Mercurio en Virgo podría favorecer una conexión con alguien que tenga buenos consejos para ti.
+Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
+Tu vida amorosa se vislumbra prometedora, y esta semana podría traer consigo el punto crucial que has estado esperando. Si has retrasando tomar una decisión clave en relación a un interés amoroso o pareja romántica, sentirás más confianza una vez que esta semana haya terminado. Es hora de aprovechar cualquier idea o visión que hayas cosechado mientras Venus estuvo retrógrado. Ahora que comienza a avanzar desde el domingo, es el momento adecuado de mantenerte firme y tomar medidas. Tus finanzas también se vislumbran mucho más prometedoras.
 
 ## Dinero
 
-Es probable que un aspecto armonioso te haga sentir más comodidad y respeto esta semana. La gente está tratando de comunicarse contigo acerca de todo tipo de cosas, incluyendo tu trabajo y el dinero que se te paga por hacerlo. Mira a tu sector de profesión en busca de inspiración e ideas nuevas.
+Si has estado buscando maneras de tener más apertura acerca de tus actividades monetarias, el cosmos te provee soluciones de todo tipo. Tendrás apoyo a la hora de comunicar tus necesidades y deseos relacionados con dinero. Si ha pasado mucho tiempo desde la última vez que recibiste un aumento de sueldo, habla con tu jefe acerca de las razones por la cuales te lo mereces. Alguien como tú no malgasta las horas de trabajo, eres un valioso contribuyente.
