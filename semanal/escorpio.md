@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 06 de enero 2020 al 12 de enero 2020 
-description: Horóscopo semanal escorpio 06 de enero 2020 al 12 de enero 2020. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+title: escorpio 13 de enero 2020 al 19 de enero 2020 
+description: Horóscopo semanal escorpio 13 de enero 2020 al 19 de enero 2020. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-06'
+ lastmod: '2020-01-13'
 ---
 
 
 
-## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 
-Tienes que improvisar más escorpio, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira escorpio, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado escorpio… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no escorpio, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana escorpio.
-Aunque Marte en tu sector profesional te anima a aceptar tus sueños y metas, tal choca con Plutón más adelante en la semana. Podrías sentir tensión desde mediados de semana, cuando podrías tener una diferencia de opinión con un superior o sentir que alguien te está engañando en referente a un contrato o un acuerdo. Por ahora, lo mejor es tomarte tu tiempo, sobre todo porque la claridad parece ser escasa. Espera a tener los hechos antes de tomar acción. Mientras tanto, Venus en Escorpión insinúa una atracción romántica.
+No es que estés cambiando escorpio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
+El delicioso Venus ingresa a tu sector de habla y pensamiento el lunes, por lo que los próximos días pueden ayudarte a limar cualquier aspereza que hayas tenido con los demás. Una sonrisa también puede ser un excelente activo al entablar conexiones y comercializar tus bienes y servicios. 
+Aun así, podrías sentir algo de anticipación. El eclipse solar en tu signo el jueves se anticipará durante toda la semana. Esto puede ser indicio de la posibilidad de cambio y, tal vez, de librarte de una dominante influencia. Este eclipse se opone al poderoso Plutón en tu sector de relaciones, por lo que quizás decidas mantenerte firme y deshacerte de cualquier influencia que se haya vuelto demasiado controladora. Esta semana también tiene otros momentos positivos. El expansivo Júpiter se vuelve directo en tu sector de recreación, lo que puede hacer que las próximas semanas sean un buen momento para lanzar una nueva empresa.
 
 ## Dinero
 
-Estás entrando en lo tuyo ahora. Hay una especie de seriedad a tu alrededor, y otros no pueden evitar el notar la diferencia. Pero es tu casa la que tal vez requiera que gastes más de lo que habías previsto o presupuestado. Si encuentras que necesitas retroceder temporalmente, eso está bien. Sin embargo, puede que el trata de forzar que tus ideas se hagan realidad no sea posible.
+Te preparas para gastar en cosas bonitas para hacer de tu vida una más cómoda y relajada. Pero tal vez no necesitas todos esos aparatos o esos viajes con todo pagado. El cortar un poco en gastos puede dejar más espacio para futuros proyectos, viajes y actividades que realmente enciendan tu fuego. Tus amigos pueden ayudarte a mantenerte por buen camino.

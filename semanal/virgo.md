@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 06 de enero 2020 al 12 de enero 2020 
-description: Horóscopo semanal virgo 06 de enero 2020 al 12 de enero 2020. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+title: virgo 13 de enero 2020 al 19 de enero 2020 
+description: Horóscopo semanal virgo 13 de enero 2020 al 19 de enero 2020. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,17 +12,18 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-06'
+ lastmod: '2020-01-13'
 ---
 
 
 
-## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
-Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
-El Cuarto Lunar puede motivarte a que frecuentes nuevos círculos sociales, incluso si tus valores e ideales difieren ampliamente. Abrir tu mente a nuevas ideas puede llevarte a hacer nuevas amistades y conseguir oportunidades que tal vez nunca antes has considerado. Al mismo tiempo, con Mercurio avanzando en tu sector de carrera y ambición, tal vez percibas que el ritmo se acelera con respecto a los negocios o los proyectos profesionales. Aun así, no estaría mal esperar lo inesperado alrededor del 3 de $MES.
+¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
+ lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa virgo.
+El deseo de viajar podría estar entre tus prioridades durante la próxima semana. Sin embargo, puede que tengas la oportunidad de ir más lejos de lo que planeabas, ya que el eclipse en tu sector de viajes te anima a dar un audaz paso hacia adelante. Este eclipse se produce durante el fin de semana, pero podrías sentir su influencia mucho antes. Puedes tener en tus manos la oportunidad de aprovechar una oportunidad que te lleva a otro país o tal vez te anime a estudiar. 
+¿Podría el romance estar en tus cartas? Cuando el seductor Venus ingresa a tu sector social, la posibilidad es alta. Esta animada influencia durará el resto del mes. Cuando el dulce Venus se alinea con el vital Marte en tu sector de comunicación a mitad de semana, puede que te pongas en contacto con una de tus viejas amistades o incluso con un amor del pasado. De hecho, si hay heridas por sanar, este podría ser el momento para hacerlo.
 
 ## Dinero
 
-Esta semana se trata de aspectos que afectan tus áreas de romance, niños, familia y diversión. Mientras que puedes tener la tentación de no ir al trabajo para darte una corta escapada, ¡tratar de resistirte! Es mejor aplicar tu energía a resolver un problema que es común en tu área. Ganar más dinero va a ser fácil cuando lo hagas.
+Tal vez tengas que revisar una y otra vez tu grado de comunicación. Algunas ideas pueden ser el punto de inicio para nuevos proyectos, pero habría la posibilidad de que el mensaje se quede a medias. El utilizar tu energía creativa para aprender otro idioma (el cuál posiblemente te serviría en el trabajo) o mejorar tu educación, podría hacer la diferencia.
