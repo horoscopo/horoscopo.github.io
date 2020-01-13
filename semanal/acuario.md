@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 06 de enero 2020 al 12 de enero 2020 
-description: Horóscopo semanal acuario 06 de enero 2020 al 12 de enero 2020. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagi, ¡NO MEZCLES!
+title: acuario 13 de enero 2020 al 19 de enero 2020 
+description: Horóscopo semanal acuario 13 de enero 2020 al 19 de enero 2020. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,18 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-06'
+ lastmod: '2020-01-13'
 ---
 
 
 
-## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagi, ¡NO MEZCLES!
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-Estás alcanzando una madurez acuario, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte acuario y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
-Disfrutarás de salir, conocer gente nueva e involucrarte en proyectos comunitarios y eventos de caridad. Socializar parece sacar lo mejor de tu personalidad ahora mientras te da la oportunidad de mostrar tus habilidades y capacidades. Recuerda tomarte tiempo para relajarte y recargar baterías. El actual enfoque en tu sector espiritual te alienta a que prestarle atención a tus sueños y reflexionar sobre tus problemas y cómo hacerles frente. Las perspectivas que obtengas de hacerlo podrían ser muy valiosas.
+Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
+ y es que no puedes parar, de verdad.
+Podrías ser la estrella del show cuando el sol se alinea con el encantador Mercurio en tu sector profesional. Este puede ser el momento para dar una buena impresión o quizás para lograr algo que te destaque como una persona muy talentosa. Debido a que el escurridizo Neptuno está en tu sector de relaciones, puede que alguien busque subestimarte. Puede que solo sea algo temporal, pero a menos que tengas cuidado, podrías tomártelo a pecho. La clave es no tomar demasiado en serio las palabras de esta persona.
+El animado Venus se opone al ferviente Plutón a través de tu eje de recreación, de modo que esta sensación de celos podría extenderse a tu vida social. Nuevamente, no te tomes las cosas a pecho. En lugar de esto, rodéate de personas comprensivas y cariñosas. Marte, que se encuentra en tu sector de estilo de vida, podría hacer que tengas una actitud muy positiva con respecto a la salud y el bienestar, lo que solo trae beneficios.
 
 ## Dinero
 
-Esta semana es acerca de tus relaciones y te hace mucho más comunicativo/a sobre lo que necesitas. Te estableces ahora así con el fin de hacer que tus objetivos sean fuertes y claros. Estás cambiando las personas con las que pasas tiempo, y tales te están cambiando de una buena manera. Ganarás más dinero si tomas sus consejos en lugar de luchar contra ellos.
+Puede que no te sientas tan feliz y despreocupado/a como normalmente lo estás, pero este es un momento de increíble crecimiento a medida que aceptas la responsabilidad de ser completamente fiel a ti mismo/a con todos los que conoces. Suena fácil, aunque es todo lo contrario. Puede que sientas más arraigo y te sientas más terrenal que nunca, sobre todo cuando se trata de ahorrar en comparación con el gasto. Estás haciendo todos los movimientos correctos, por lo que confía en ti mismo/a.
