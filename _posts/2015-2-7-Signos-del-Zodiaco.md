@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de enero 2020
-description: Horóscopos del dia de hoy 16 de enero 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de enero 2020
+description: Horóscopos del dia de hoy 17 de enero 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-01-16
+ lastmod: 2020-01-17
 ---
-Te gustaría pensar que has logrado un éxito reciente por tu cuenta, pero requirió de una red de interconexión. Ahora, los involucrados esperan un humilde agradecimiento de tu parte. Esta noche, las relaciones íntimas con fuertes sentimientos y diferencias de opinión abundan. Para convertir esto en algo positivo, trata de ver todas las distintas posibilidades que hay en la vida.
+Prepárate para mostrar tu excepcional tacto cuando durante todo el día y toda la noche se te pida que recuerdes la sabiduría de decir las cosas en el más suave de los tonos. Con un tono diplomático y relajado, mientras mejor te lleves con los demás, más vas a lograr. Un poco de amor incondicional también funciona bien dentro de tus relaciones importantes.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
