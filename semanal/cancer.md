@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 13 de enero 2020 al 19 de enero 2020 
-description: Horóscopo semanal cancer 13 de enero 2020 al 19 de enero 2020. A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+title: cancer 20 de enero 2020 al 26 de enero 2020 
+description: Horóscopo semanal cancer 20 de enero 2020 al 26 de enero 2020. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,18 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-13'
+ lastmod: '2020-01-20'
 ---
 
 
 
-## A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo.
-Tus finanzas están firmemente bajo enfoque esta semana y podrían ser agitadas por el Eclipse Solar manifestándose en tu sector de recursos compartidos. Pase lo que pase en los próximos días, trata de no reaccionar de forma exagerada. Haz lo que tengas que hacer con el fin de contener la situación o apoderarte de una oportunidad. Más allá de eso, tómate tu tiempo hasta la próxima semana, cuando tendrás una mejor idea de la situación. Entonces se te facilitará mucho más tomar la decisión correcta.
+Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro cancer, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Pececito, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
+Sigue habiendo un intenso enfoque en tu sector de comunicación, que continuará durante algún tiempo más. Sin embargo, el lunes podría coincidir con un malentendido, que podría deberse a un genuino error. Antes de que digas cualquier cosa, puede que lo prudente sea dejar que las cosas se tranquilicen durante uno o dos días, ya que todo podría terminar en la nada. 
+El martes puede ser un buen día para una cita romántica o un divertido evento social. Si alguien te hace una invitación, aprovéchala al máximo.
+El fin de semana podría encontrarte buscando una vía de escape de tu rutina habitual. Cuando el expresivo Mercurio se conecta con el incansable Urano, puede que no estés a gusto con tus actividades normales. De ser así, este puede ser un buen momento para experimentar con nuevas ideas o inscribirte en una interesante clase o experiencia. Nunca sabes si esto podría llevarte a nuevos y positivos desarrollos en el futuro.
 
 ## Dinero
 
-Este período es acerca de los desafíos a los que el Universo nos lleva con todo tipo de emociones, algunas de los cuales pueden ser útiles cuando se trata de hacer dinero. Tu cerebro está liberando algunos de tus materiales más creativos, por lo que ten a la mano lápiz y papel para anotar lo que experimentas. ¡Conviértelo en algo especial y ponte a trabajar en venderlo para obtener el máximo beneficio posible!
+Tu situación en casa y emociones internas indican un posible cambio para ti. ¿Has estado pensando en crear más espacio para ti? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener el néctar que fluirá hacia un nuevo trabajo o nueva fuente de ingresos. El truco está en no exagerar éste esfuerzo, busca un balance entre el gasto y el ahorro.

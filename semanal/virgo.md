@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 13 de enero 2020 al 19 de enero 2020 
-description: Horóscopo semanal virgo 13 de enero 2020 al 19 de enero 2020. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: virgo 20 de enero 2020 al 26 de enero 2020 
+description: Horóscopo semanal virgo 20 de enero 2020 al 26 de enero 2020. Deja que duela virgo, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,18 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-13'
+ lastmod: '2020-01-20'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## Deja que duela virgo, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa virgo.
-El deseo de viajar podría estar entre tus prioridades durante la próxima semana. Sin embargo, puede que tengas la oportunidad de ir más lejos de lo que planeabas, ya que el eclipse en tu sector de viajes te anima a dar un audaz paso hacia adelante. Este eclipse se produce durante el fin de semana, pero podrías sentir su influencia mucho antes. Puedes tener en tus manos la oportunidad de aprovechar una oportunidad que te lleva a otro país o tal vez te anime a estudiar. 
-¿Podría el romance estar en tus cartas? Cuando el seductor Venus ingresa a tu sector social, la posibilidad es alta. Esta animada influencia durará el resto del mes. Cuando el dulce Venus se alinea con el vital Marte en tu sector de comunicación a mitad de semana, puede que te pongas en contacto con una de tus viejas amistades o incluso con un amor del pasado. De hecho, si hay heridas por sanar, este podría ser el momento para hacerlo.
+Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real virgo, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Capri. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría virgo, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
+¿Has estado considerando invitar a una persona especial a una cita? El lunes podría ser el día indicado para hacerlo. Con Mercurio en Libra, encantadoras conversaciones podrían allanar el camino para futuras salidas. Sin embargo, puede ser que tengas más cautela a la hora de involucrarte, prefiriendo tomarte las cosas con calma en lugar de saltar a la relación de inmediato. Tu vida hogareña y familiar parece bastante emocionante con la alineación actual invitándote a comenzar ambiciosos proyectos.
 
 ## Dinero
 
-Tal vez tengas que revisar una y otra vez tu grado de comunicación. Algunas ideas pueden ser el punto de inicio para nuevos proyectos, pero habría la posibilidad de que el mensaje se quede a medias. El utilizar tu energía creativa para aprender otro idioma (el cuál posiblemente te serviría en el trabajo) o mejorar tu educación, podría hacer la diferencia.
+Este período es acerca de cómo adoptar un amplio plan de pago de deuda para lograr que esa parte de tu vida sea resuelva por última vez. Es posible que en el pasado hayas sentido agobio por la cantidad que debías en tarjetas de crédito, crédito hipotecario, o préstamos de familiares y amigos. Sin embargo, ahora tienes la ventaja y el impulso para nivelarte. Desvía el diez por ciento de tu ingreso hacia esta área.
