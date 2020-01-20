@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 13 de enero 2020 al 19 de enero 2020 
-description: Horóscopo semanal piscis 13 de enero 2020 al 19 de enero 2020. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: piscis 20 de enero 2020 al 26 de enero 2020 
+description: Horóscopo semanal piscis 20 de enero 2020 al 26 de enero 2020. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho piscis. Más que nunca…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-13'
+ lastmod: '2020-01-20'
 ---
 
 
 
-## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho piscis. Más que nunca…
 
-¿Cómo quieres gastar tu vida piscis? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente piscis, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida piscis, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro piscis. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana piscis.
-Hay mucha actividad en tu zona financiera en las próximas semanas, pero esta semana, un evento en particular te alienta a solucionar tus asuntos. Te sientes mejor una vez que te enfrentas a las dificultades y haces lo necesario para resolverlas. La entrada de Venus a tu signo puede ser una llamada de atención para que busques estar con amistades, especialmente si estuviste haciendo otras cosas últimamente. Te sientes mejor porque puedes relajarte.
+Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
+ En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
+Prepárate para una o dos alteraciones esta semana que podrían en realidad funcionar a tu favor. Un evento inesperado podría arrancarte de tu arrogancia, y motivarte a que entres en acción para recuperar una oportunidad o aceptar una idea que tiene consecuencias positivas para ti. Con Mercurio avanzando a partir del 3 de $MES, puedes ver que los retrasos en el trabajo o las herramientas informáticas que te dan problemas se solucionan poco a poco, lo que te permite avanzar en tu trabajo.
 
 ## Dinero
 
-Puede que esta semana sea necesario protegerte contra el engaño, incluso si se hace en nombre de la protección de los sentimientos de alguien. Algunos aspectos de tu sector de relaciones demuestra que tú o alguien más podría tener la tentación de torcer la verdad en cierta correspondencia. Pon más atención y responsabilidad en tus comunicaciones. Las mentiras, no importa cuán pequeñas o bien intencionadas sean, pueden ser contraproducentes ahora y corres el riesgo de arruinar lo que podría ser una sociedad financiera importante.
+Esta semana tiene que ver con el Universo poniendo nuevas ofertas sobre la mesa y más maniobras en tus inversiones. Puede que te preocupe el que no hayas avanzado lo suficiente con tu dinero o que no hayas escalado más en la escalera corporativa. Pero tus relaciones profesionales en tu sector de carrera están a punto de hacer una transformación positiva muy grande. ¡Celebra tu buena fortuna!
