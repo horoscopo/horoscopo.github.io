@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 20 de enero 2020 al 26 de enero 2020 
-description: Horóscopo semanal acuario 20 de enero 2020 al 26 de enero 2020. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+title: acuario 27 de enero 2020 al 02 de febrero 2020 
+description: Horóscopo semanal acuario 27 de enero 2020 al 02 de febrero 2020. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-20'
+ lastmod: '2020-01-27'
 ---
 
 
 
-## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 
-Está bien hacerse ilusiones acuario, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas acuario, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada acuario. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
-La Luna Nueva del lunes podría coincidir con un nuevo comienzo para tus finanzas, con la posibilidad de reducir el estrés y poner todo en orden. Evita hacer compras impulsivas que pudieran retrasarte más en lugar de contribuir a tus ganancias. Establecerte un práctico presupuesto puede ser de gran ayuda en estos momentos. Pareces estar en una buena racha con una positiva alineación de planetas atravesando tu signo. Esta semana es perfecta para comenzar un proyecto creativo, sobre todo si se te presenta como un reto.
+Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
+Quizá cualquier plan que hayas iniciado hace poco ya esté dando frutos. Debido al poderoso enfoque en tu sector de aventuras, la presente alineación te anima activamente a tomar cualquier nueva oportunidad. Además, debido a que el precavido Saturno y el ferviente Plutón están retrógrados en este sector, podrías tener motivos más profundos para querer que algunos aspectos de tu vida cambien. Tus ideas y creencias podrían cambiar durante las próximas semanas o meses. Quizá te des cuenta de que has organizado tu vida de acuerdo con las expectativas de otras personas y esto te ha jugado en tu contra. Este puede ser el momento de distinguir qué creencias son auténticamente tuyas y cuáles pueden ser de tus padres o del pasado. 
+   En un tono más ligero, el amoroso Venus en tu sector monetario puede hacer que las compras sean pura delicia. Disfrútalas. El fin de semana, escuchar los problemas de una de tus amistades puede ayudarle muchísimo. Es posible que también disfrutes de ir al cine o a un concierto con tus amistades.
 
 ## Dinero
 
-Es posible que esta semana te rebeles en contra de las figuras de autoridad, al menos en tu mente. Algunos aspectos indican que necesitarás de ayuda para mantener la calma. Seguro que andas muy comunicativo/a, pero trata de no expresar demasiada agresión en cuanto a lo que quieres y necesitas. Los demás tienen que ser considerados también. Algunas restricciones y limitaciones pueden hacerte sentir como que todo es personal, pero lo más probable es que realmente no lo sea.
+No hay muchos cambios avecinándose hacia tu sector del dinero durante por los próximos años. Ciertas formas de hacer dinero mueren en favor de otras nuevas, considera cómo quieres vivir en cinco o diez años en el futuro. El poner todo este cambio a trabajar a tu favor, rendirá grandes dividendos para el tiempo que necesites dinero. Recuerda que debes pedir ayuda cuando la necesites.
