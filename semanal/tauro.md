@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 20 de enero 2020 al 26 de enero 2020 
-description: Horóscopo semanal tauro 20 de enero 2020 al 26 de enero 2020. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+title: tauro 27 de enero 2020 al 02 de febrero 2020 
+description: Horóscopo semanal tauro 27 de enero 2020 al 02 de febrero 2020. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,20 +12,17 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-20'
+ lastmod: '2020-01-27'
 ---
 
 
 
-## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 
-Por fin vas a finalizar ciclos tauro, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse tauro, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres tauro joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien tauro. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana tauro, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
-La luna nueva en tu signo del martes, que da inicio a una dinámica nueva etapa, podría hacer que estés a punto de comenzar un nuevo recorrido. Esta podría ser una muy memorable luna nueva para ti. 
-El mismo día, el innovador Urano ingresa a tu signo, lo que podría coincidir con una decisión de expresar más tu auténtica naturaleza. Puede que tengas noticias que compartir que te has estado guardando para ti o tal vez conectes con alguien que consideras una inspiración o un modelo a seguir.
-También el martes, el fogoso Marte ingresa a Acuario y a tu sector de metas profesionales, lo que podría animarte a concretar tus ambiciones de forma más afirmativa. 
-Por otro lado, el encantador Venus ingresa a Cáncer el sábado, lo que podría inspirarte a organizar una reunión con tus viejas amistades. 
-El sol ingresa a Géminis el domingo. Este podría ser un buen momento para evaluar tus finanzas.
+Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte tauro, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo tauro, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande tauro pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+Cuando el expresivo Mercurio, tu planeta regente, forma una armoniosa alineación con el animado Júpiter en tu sector de comunicación, el comienzo de la semana podría ser bastante inspirador. Las oportunidades laborales en estrecha relación con alguien podrían ser muy gratificantes y conectarte con una nueva y comprensiva amistad. Además, debido a que el etéreo Neptuno está retrógrado en tu sector de relaciones, puedes tener conocimientos a tu disposición que te ayuden a aprovechar al máximo tus relaciones más cercanas. 
+Tu vida social tendrá una chispa adicional a partir del jueves, momento en que el sol ingresa a este sector para una estadía de cuatro semanas. Esta puede ser tu oportunidad para evaluar y considerar en dónde quieres invertir tu energía. Puede que algunos grupos hayan perdido su atractivo y tal vez quieras alejarte de ellos y centrarte en otros más interesantes. Lo más sabio sería adoptar un enfoque amable el fin de semana, ya que la más leve crítica podría malinterpretarse.
 
 ## Dinero
 
-Puede que te encuentres en plena acción, llamando a compañías de tarjetas de crédito, pagando saldos y destruyendo viejas tarjetas de crédito. ¡Buen trabajo! Esta misma ráfaga de energía te ayudará a establecer un curso financiero nuevo en este momento de tu vida. Sin embargo, tu lugar de trabajo podría necesitar un cambio. Sin embargo, es demasiado pronto para renunciar, así que trata de verle la mejor cara.
+Eres una fuente inagotable de expresión personal. Tu individualidad, en particular, es importante ahora. Los aspectos apoyan esta posición, afectando a las actividades familiares, el romance, los niños y la diversión. La forma en la que llevas esto, para bien o para mal, puede marcar la diferencia entre el recibir aceptación o no. ¡Empieza con tu mejor pie! Mientras tanto, piensa en lo que tienes que dejar ir. ¿Realmente necesitas esas botas que has tenido desde 1992?

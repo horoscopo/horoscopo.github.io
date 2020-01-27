@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 20 de enero 2020 al 26 de enero 2020 
-description: Horóscopo semanal virgo 20 de enero 2020 al 26 de enero 2020. Deja que duela virgo, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+title: virgo 27 de enero 2020 al 02 de febrero 2020 
+description: Horóscopo semanal virgo 27 de enero 2020 al 02 de febrero 2020. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-20'
+ lastmod: '2020-01-27'
 ---
 
 
 
-## Deja que duela virgo, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 
-Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real virgo, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Capri. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría virgo, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
-¿Has estado considerando invitar a una persona especial a una cita? El lunes podría ser el día indicado para hacerlo. Con Mercurio en Libra, encantadoras conversaciones podrían allanar el camino para futuras salidas. Sin embargo, puede ser que tengas más cautela a la hora de involucrarte, prefiriendo tomarte las cosas con calma en lugar de saltar a la relación de inmediato. Tu vida hogareña y familiar parece bastante emocionante con la alineación actual invitándote a comenzar ambiciosos proyectos.
+Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien virgo pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
+No te exijas demasiado si un proyecto creativo no sale como lo planeaste. Puede que las críticas aparezcan desde el principio, cuando probablemente no hay necesidad de tenerlas. Pero a medida que la semana avanza, la idea de relajarte y disfrutar de la vida podría apoderarse de ti. El ingreso de Venus a tu sector de recreación el viernes podría animarte a salir y disfrutar de románticos descansos o relajadas citas. La luna llena podría intensificar los sentimientos el domingo; sin embargo, pensar antes de hablar puede ayudar a evitar arrepentimientos posteriores.
 
 ## Dinero
 
-Este período es acerca de cómo adoptar un amplio plan de pago de deuda para lograr que esa parte de tu vida sea resuelva por última vez. Es posible que en el pasado hayas sentido agobio por la cantidad que debías en tarjetas de crédito, crédito hipotecario, o préstamos de familiares y amigos. Sin embargo, ahora tienes la ventaja y el impulso para nivelarte. Desvía el diez por ciento de tu ingreso hacia esta área.
+Esta semana, tu sensible naturaleza puede desear dinero para las cosas más suaves de la vida, como la búsqueda de la belleza y la verdad. Pero tu atención se dirige a tus vidas pasadas y el karma, donde es posible que tengas que hacer un poco de curación. Mientras tanto, tu medio de subsistencia es mucho más comunicativo. Cuanto más digas, sobre todo de la manera correcta, más serás capaz de ganar.

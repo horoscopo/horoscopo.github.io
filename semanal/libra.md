@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 20 de enero 2020 al 26 de enero 2020 
-description: Horóscopo semanal libra 20 de enero 2020 al 26 de enero 2020. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+title: libra 27 de enero 2020 al 02 de febrero 2020 
+description: Horóscopo semanal libra 27 de enero 2020 al 02 de febrero 2020. Estás en una etapa súper confusa libra, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-20'
+ lastmod: '2020-01-27'
 ---
 
 
 
-## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+## Estás en una etapa súper confusa libra, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 
-No puedes ser sumiso Sagi, al final, tus necesidades siempre acaban saliendo a la luz porque no puedes limitarte ni encasillarte con nada. No puedes pasarte la vida sabiendo qué es lo que debes hacer pero sin hacerlo, no puedes pasarte la vida queriendo hacer algo y que al final ese algo sólo se quede en tu cabeza, en tus pensamientos. Tienes que romper con eso. Esta semana céntrate en cumplir cada una de tus metas, trata de hacer lo que te pida el cuerpo sin necesidad de quejarte, piensa en qué es lo que está en tu mano, en qué es lo que tú puedes hacer, y hazlo. No hagas de tu tiempo tiempo perdido, con nada, con nadie… Si no vas a por todo, mejor no vayas. Es uno de tus lemas, pero a veces te olvidas de aplicártelo a ti, y sí, empiezas algo y por unas cosas u otras, no lo acabas. Piensa que así es como te frustras y piensa que es el motivo por el cual te pones de muy mala hostia un día sí y otro también. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo. No te compliques y al lío Sagi. Ponte en marcha de una vez esta semana, y no pienses en lo que perdiste o en lo que ganaste, piensa en lo que llegará si de verdad te pones las pilas.
-Otras personas podrían tener un efecto dinámico en tu vida esta semana, tal vez más de lo habitual. Esto será debido al Eclipse Solar en este sector, lo que podría coincidir con una historia o propuesta de amor. Del mismo modo, podrías tener la tentación de unirte a una asociación de negocios u alguna otra colaboración. Pase lo que pase, no te apresures a involucrarte. Piensa en ello cuidadosamente durante las próximas tres semanas antes de tomar una decisión.
+Ojalá pudiéramos tener un botón de reinicio en la vida libra, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
+Necesitarás tomar una decisión con respecto a si deseas algo o no. Poderosas influencias surgiendo en este momento podían hacerte dudar, lo que podría resultar ser fatal. Si sientes incierto con respecto a algo, deja que tus instintos sean tu guía. Sin embargo, puede que confiar en tu intuición no sea tan fácil como debería ser. En ese caso, acudir a una amistad de confianza puede ser tu mejor alternativa. Tal persona podría ser capaz de detectar ciertos defectos o ventajas que tú no pudiste distinguir.
 
 ## Dinero
 
-Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.
+Ciertos aspectos se unen en tu sector de dinero y valores esta semana. Esto puede explicar por qué a pesar de que hay ciertas oportunidades aproximándose, algunas de ellas requieren de más trabajo o más educación del que actualmente tienes o puedes ofrecer. No te preocupes. Te enfrentas a un momento en el que es necesario centrarse en la política de tu empresa. Invita a tu jefe a comer.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 20 de enero 2020 al 26 de enero 2020 
-description: Horóscopo semanal capricornio 20 de enero 2020 al 26 de enero 2020. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+title: capricornio 27 de enero 2020 al 02 de febrero 2020 
+description: Horóscopo semanal capricornio 27 de enero 2020 al 02 de febrero 2020. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-20'
+ lastmod: '2020-01-27'
 ---
 
 
 
-## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 
-Tienes que esforzarte capricornio, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien capricornio, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti capricornio, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo capricornio, sin remordimiento de ningún tipo, y espera a que el resto te busque…
-Este es un excelente momento para enfocarte en tus metas e intereses personales. Sin embargo, no te apures a tomar cualquier decisión. Mientras Mercurio continúe en su fase retrógrada, puede que debas hacer cambios de todos modos. Mientras tanto, lo mejor sería que investigues cuáles son tus opciones. También podrías considerar una idea que habías rechazado pero que ahora te atrae mucho. De hecho, a medida que el sol y el diplomático Venus conectan con el comunicativo Mercurio, analizar esto con los demás puede ayudarte a decidir si debes seguir adelante o no.
+Deberían valorarte más capricornio, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para capricornio, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
+Marca esta semana en tu calendario como una que podría ser de gran cambio con el desarrollo del Eclipse Solar pudiendo animarte a tomar una decisión clave. Podrías encontrar información que le dé un nuevo giro a las cosas, y es posible que desees aprovechar una oportunidad asociada con ello. Este podría ser un emocionante momento en el que te aventures hacia nuevo territorio y comiences a ver posibilidades que no has considerado antes. Con Júpiter empujándote a ampliar tus opciones, este es definitivamente el momento de lanzarte a ello.
 
 ## Dinero
 
-Para ti, esta semana es sobre la energía acumulada en el sector del hogar, lo que te ha llevado a pensar en términos completamente diferentes. Más vida en esta zona significa que puede que tengas que recibir a más clientes en tu oficina o hacer muchos nuevos negocios desde ese espacio. Del mismo modo, tu creatividad está en alza. Si sientes esa inclinación, un negocio desde casa como decoración o construcción podría ser de gran beneficio.
+Esta semana tienes una situación única en tus manos con respecto a tu deuda y el dinero de otras personas. Aunque parte de ti quiere progresar en el frente de pago de deuda, otra parte puede contenerte de hacer mucho. Una cosa es segura – tener una actitud proactiva y la aceptación de todas tus responsabilidades te obtendrá los mejores resultados a largo plazo.

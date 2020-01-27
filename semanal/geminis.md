@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 20 de enero 2020 al 26 de enero 2020 
-description: Horóscopo semanal geminis 20 de enero 2020 al 26 de enero 2020. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+title: geminis 27 de enero 2020 al 02 de febrero 2020 
+description: Horóscopo semanal geminis 27 de enero 2020 al 02 de febrero 2020. Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-20'
+ lastmod: '2020-01-27'
 ---
 
 
 
-## En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+## Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
-No puedes estancarte con algo geminis, no debes dejar de crecer nunca. Esta semana vas a estar pensando y analizando la situación de tu vida, ¿estás haciendo lo que realmente quieres hacer? No geminis, hay cosas que quieres cambiar pero tienes que cambiarlas ya, empezar y terminar. No puedes conformarte con la vida que estás llevando, el tiempo pasa muy deprisa y cuando te quieras dar cuenta quizás ya sea demasiado tarde, o quizás te sea mucho más complicado tomar decisiones. Sigue con tus proyectos y no te amargues cuando no veas resultados inmediatos. Lo bueno siempre tarda en llegar. Lo que tienes que hacer es no desanimarte. Saca tu verdadero yo, no te metas en nada superficial, al fin y al cabo esas cosas te merman mucho, no es lo tuyo geminis. No vale ni un segundo de tu tiempo. No te calientes demasiado acordándote de cosas que ya fueron y que ahora no son, que jamás podrán volver a ser, sigues perdiendo tu tiempo como lo hagas así. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. No eres mediocre geminis así que, no quieras llevar esa vida, agarra el amor propio que te sale para buscar mejores oportunidades. No es que seas egoísta, no es que te vuelvas egoísta, es que es algo vital que hagas tu vida.
-Toma nota de cualquier impulso intuitivo que aparezca, porque podría ayudarte a progresar en ciertas áreas de tu vida. Además, el eclipse solar en tu sector espiritual podría coincidir con la oportunidad de resolver un problema que tienes actualmente. Si has estado luchando contra esto durante algún tiempo, los eventos podrían mostrarte una salida. Tomar esta salida podría hacer que finalmente te liberes de este problema y sientas un gran alivio. Te sentirás completamente a gusto una vez que el sol ingrese a tu signo este fin de semana.
+Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capri, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
+Esta semana podría aumentar la tensión en el hogar. Esto podría ser provocado por la fusión del vital Marte y el potente Plutón. Puede que alguien tenga la determinación de concretar una idea o plan sin tener en cuenta los sentimientos de los demás. Sin embargo, también existe la posibilidad de que esto involucre las finanzas o una posible compra. 
+ Desde tu perspectiva, podría parecer una buena idea. Pero debido a que el animado Júpiter está en tu sector de dinero, actualmente eres más optimista en torno a todos los asuntos relacionados con el dinero y los gastos. Puede que sea cuestión de investigar un poco, leer opiniones y evaluar si realmente puedes permitirte hacer esta compra. Luego de que tú y los demás estén satisfechos con esta evaluación, deberías poder concretarla. Además, el encantador Venus (tu planeta regente) ingresa a tu sector de lejanos horizontes el martes, lo que podría sugerir que se desarrollen amistades durante viajes o el estudio.     
 
 ## Dinero
 
-Es una gran semana para trazar un plan de negocios y pensar en cómo recaudar dinero para éste. Podrías estar pensando en cómo recaudar fondos a través de beneficios, préstamos, subvenciones e incluso donaciones en especie de empresas de mayor tamaño. Ahora más que nunca es posible que recibas una respuesta positiva. El Universo indica un momento de expansión en tu círculo social.
+Tienes el apoyo del Universo esta semana, el cuál afecta a tu área asociada con los viajes al extranjero y la educación superior. Aunque pueda parecer contradictorio, es posible que tengas que mirar muy lejos de donde estás con el fin de ganar más dinero. El explorar mercados extranjeros para productos e inversiones extranjeras de ahorro ayudará a diversificar tu cartera y ganar más a largo plazo. Y aprender un nuevo idioma te ayudará con la comunicación.

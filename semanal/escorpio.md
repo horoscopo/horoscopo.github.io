@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 20 de enero 2020 al 26 de enero 2020 
-description: Horóscopo semanal escorpio 20 de enero 2020 al 26 de enero 2020. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: escorpio 27 de enero 2020 al 02 de febrero 2020 
+description: Horóscopo semanal escorpio 27 de enero 2020 al 02 de febrero 2020. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-20'
+ lastmod: '2020-01-27'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 
-No te calientes escorpio, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no escorpio, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien escorpio, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
-El enlace entre el Sol y Urano podría poner un encuentro inesperado en tu camino que pudiera tener un fuerte impacto, sobre todo al comienzo de la semana. Esta persona podría tener información o ideas que te ayuden a poner en marcha tus propios planes. Sin embargo, si conoces a alguien mientras estás de vacaciones, es igualmente posible que puedas entablar una amistad o incluso iniciar un romance. Más adelante en la semana, abandona el tacto y exprésate de forma directa si alguien te pide que hagas algo que no quieres hacer.
+Bueno escorpio, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
+Dado que el sensual Venus está en tu sector de relaciones y se opone al etéreo Neptuno en tu signo, una persona podría no tener claros cuáles son tus sentimientos hacia ella. Puede que debas expresarte claramente, o la confusión podría continuar y afectar su relación.El expresivo Mercurio ingresa a su fase retrógrada en tu sector de estilo de vida el 25 de $MES, lo que puede indicar que debes tener precaución durante las próximas tres semanas. Asegúrate de respaldar los archivos importantes de tu computadora y de que el software antivirus esté actualizado. Puede que necesites más tiempo para completar proyectos y cumplir con las fechas límite. 
+El eclipse lunar en tu sector espiritual del viernes podría ser una llamada a tener más confianza en un plan espiritual mayor que guía tu vida desde el interior. Si escuchas cualquier intuitivo impulso, te resultará más sencillo participar en el plan divino y dejarte llevar.
 
 ## Dinero
 
-Es hora de renovar tus habilidades comunicativas. ¿Te cansa que se les promueva a los demás y no a ti? No es la calidad de su trabajo, sino la forma en la que son capaces de lograr que sus superiores se den cuenta de lo que hacen. Ahora, con algunas personas realmente únicas entrando en tu círculo social, eres capaz de sentir más comodidad con tu falta de normalidad. A partir de ahí, todo lo que tienes que hacer es pedir lo que vales.
+Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.

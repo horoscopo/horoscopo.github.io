@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 20 de enero 2020 al 26 de enero 2020 
-description: Horóscopo semanal leo 20 de enero 2020 al 26 de enero 2020. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies leo, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres leo, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+title: leo 27 de enero 2020 al 02 de febrero 2020 
+description: Horóscopo semanal leo 27 de enero 2020 al 02 de febrero 2020. Hay cosas que no quieres que ocurran pero que debes aceptar leo, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-20'
+ lastmod: '2020-01-27'
 ---
 
 
 
-## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies leo, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres leo, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+## Hay cosas que no quieres que ocurran pero que debes aceptar leo, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 
-Al final, sólo te lamentarás de las posibilidades que no tomaste leo así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo leo. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
-La comunicación es subrayada de una forma que ofrece respuestas a los dilemas cotidianos. Es probable que seas una mina de información en tu trabajo y tu amplio conocimiento mejore tu innata capacidad para vender una idea. La Luna Nueva del Martes puede ser útil para comenzar un nuevo trabajo, comprometerte a un contrato, o iniciar tu propio negocio. Las relaciones son puestas bajo enfoque desde el Domingo. El movimiento del Sol hacia Cáncer aumenta sentimientos, fomentando una mayor empatía e intimidad con tu pareja.
+No tengas la menor duda de que la vida hará pagar por todas las malas acciones a quien las cometa, por eso tú preocúpate por hacer el bien a los demás y recibirás una gran recompensa. Párate a pensar si ahora eres feliz, mírate hacia dentro y piensa si para cerrar el ciclo que a veces te atormenta necesitas hablar con alguien, con alguna persona especial… Nada volverá a ser lo mismo leo, pero a veces, para que nuestra mente descanse en paz de verdad lo mejor es sacar lo que quizás tenemos dentro y nos costó tanto tiempo decir. Es probable que no sea el momento, eres leo y muy a menudo, cuando tienes que decir algo en el instante que deberías no lo dices, por miedo, por vergüenza, por lo que sea, y otras veces, cuando lo mejor es estar callado, sueltas cualquier burrada que hace que al final te acabes por sentir mal. Las cosas por ahora no van a cambiar mucho, pero tu estado de ánimo sí, y ya no tu estado, si no esa inseguridad que se ha ido forjando en ti este tiempo atrás, esa sensación a veces, como de pérdida… Ahora necesitas centrarte en cosas que te mantengan ocupada la mente, aunque suene un poco mal decirlo, no pensar demasiado en nada, ni en todo, simplemente fluir con lo que venga, con lo que pase, sin buscar, sin forzar. Será una racha, un tiempo en el que quizás te sientas como vacío, a veces incluso un poco fuera de lugar, como si los sentimientos de repente se hubieran entrelazado y lo mismo amas que odias, lo mismo quieres ser el más feliz del mundo que quieres echarte a llorar como un niño. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+Las relaciones irradian promesas. Puedes descubrir que cualquier conversación importante parece funcionar bien. Si estás buscando un compromiso o esperas subsanar una complicada situación, probablemente puedas hacerlo. Cuando el sol ingresa a tu sector de relaciones el martes, podrías descubrir maneras de mejorar algunas relaciones. Esto podría significar que debes reescribir algunas de esas tácitas reglas, pero puede ser muy beneficioso. Sin embargo, a partir el jueves, la fase retrógrada del animado Mercurio sugiere la posibilidad de malentendidos. ¡Ten cuidado!
 
 ## Dinero
 
-Esta semana te pide que pongas más atención en tu carrera. Si es que por lo general eres bastante tradicional y conservador/a por naturaleza, ahora es tu turno de hablar - un poco, por lo menos. Si dejas que los demás sepan cuáles son tus metas, incluyendo la posición y el sueldo que requieres, podrías ser sorprendido/a por la voluntad de tus empleadores de darte lo que pides. Sé extremadamente detallista con esto.
+Hay nuevas oportunidades para trabajar horas extras o encontrar un nuevo empleo con mejor salario y beneficios. Cierta actividad en tu sector de romance, familia y diversión, infiere que se te está forzado a encontrar ese delicado equilibrio entre trabajo y vida que todos se esfuerzan por tener cada día. Tú puedes encontrarlo.
