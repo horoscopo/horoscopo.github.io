@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo enero, horoscopos en español, horóscopo geminis enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
- video:  
+ video: g_VIh3NkXjc
 ogimg: /images/mes/geminis_mes.png
 sitemap:
  priority: 1

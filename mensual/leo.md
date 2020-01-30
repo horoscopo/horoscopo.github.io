@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo enero, horoscopos en español, horóscopo leo enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
- video:  
+ video: g_VIh3NkXjc
 ogimg: /images/mes/leo_mes.png
 sitemap:
  priority: 1

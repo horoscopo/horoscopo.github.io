@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo enero, horoscopos en español, horóscopo libra enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
- video:  
+ video: g_VIh3NkXjc
 ogimg: /images/mes/libra_mes.png
 sitemap:
  priority: 1

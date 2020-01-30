@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo enero, horoscopos en español, horóscopo tauro enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
- video:  
+ video: g_VIh3NkXjc
 ogimg: /images/mes/tauro_mes.png
 sitemap:
  priority: 1

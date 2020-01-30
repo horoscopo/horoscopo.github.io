@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo enero, horoscopos en español, horóscopo sagitario enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
- video:  
+ video: g_VIh3NkXjc
 ogimg: /images/mes/sagitario_mes.png
 sitemap:
  priority: 1

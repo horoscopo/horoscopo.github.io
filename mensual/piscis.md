@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo enero, horoscopos en español, horóscopo piscis enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
- video:  
+ video: g_VIh3NkXjc
 ogimg: /images/mes/piscis_mes.png
 sitemap:
  priority: 1

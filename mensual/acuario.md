@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo enero, horoscopos en español, horóscopo acuario enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
- video:  
+ video: g_VIh3NkXjc
 ogimg: /images/mes/acuario_mes.png
 sitemap:
  priority: 1

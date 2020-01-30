@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo enero, horoscopos en español, horóscopo escorpio enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
- video:  
+ video: g_VIh3NkXjc
 ogimg: /images/mes/escorpio_mes.png
 sitemap:
  priority: 1

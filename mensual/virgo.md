@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo enero, horoscopos en español, horóscopo virgo enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
- video:  
+ video: g_VIh3NkXjc
 ogimg: /images/mes/virgo_mes.png
 sitemap:
  priority: 1

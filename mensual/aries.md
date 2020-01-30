@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo enero, horoscopos en español, horóscopo aries enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
- video:  
+ video: g_VIh3NkXjc
 ogimg: /images/mes/aries_mes.png
 sitemap:
  priority: 1

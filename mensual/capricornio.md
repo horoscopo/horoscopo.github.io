@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo enero, horoscopos en español, horóscopo capricornio enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
- video:  
+ video: g_VIh3NkXjc
 ogimg: /images/mes/capricornio_mes.png
 sitemap:
  priority: 1
