@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo virgo enero 2020 
+title: Horoscopo virgo febrero 2020 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Comienza a analizar más el panorama completo con respecto a tus objetivos a largo plazo conforme Marte entra a Acuario el 8 de enero. Una oportunidad para ganar más dinero podría llegarte bajo la Luna Llena del 14 de enero. Puede que suene como algo radical o que no tenga ninguna relación con nada presente en tu vida, pero tal vez lo que necesitas es un nuevo pasatiempo; uno que pudiera pagarse por sí mismo. Adoptar uno bien podría aumentar tu autoestima. La Luna Nueva del 29 de enero estimula una actitud traviesa y un comportamiento social un tanto problemático. Bajo este aspecto, no tienes inclinación a tener cuidado, pero bien puedes frenar aquellos impulsos que muestren ser excesivos.
+La Luna Nueva del 9 de febrero brilla sobre tu hogar y entorno familiar. Es un nuevo año y puedes hacer cualquier cambio que desees que llevará a tu hogar cerca de la perfección. Tienes los recursos, la energía y el apoyo necesarios. Piensa en ello. Vístete bien y vuélvete el centro de atención bajo la Luna Llena del 23 de febrero. Sin importar tu apariencia, tu divertida y feliz personalidad te hará la persona más atractiva en la habitación. El 29 de febrero, la Luna se encuentra en Libra y Mercurio conjunta a Plutón. Tus colegas podrían tener dificultades al expresarse, así que sé paciente.

@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo leo enero 2020
-description: El Horóscopo enero de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo leo febrero 2020
+description: El Horóscopo febrero de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo leo enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo leo febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: g_VIh3NkXjc
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Permite que tus amistades y gente del vecindario te den fuerzas para seguir adelante durante la luna llena del 1 de enero. Tus propias inclinaciones podrían guiarte en una dirección maravillosa, pero sin salida. La luna nueva del día 17 podría mostrarte qué tan grande es el mundo en realidad. No tendrás miedo, y puede que no dure mucho, pero aprovecha cada momento sorpresivo que tengas. Tal vez estas percepciones te sirvan luego. El 29 de enero, el sol forma una cuadratura con Saturno en Capricornio. Aprende una valiosa lección a partir de la dificultad de alguien más. Considera tomarte un buen descanso durante la luna llena, y luna azul, en el último día del mes. Tal vez puedes invitar a algunas exclusivas personas a pasar un buen rato en tu morada.Días destacados: 6, 13, 19
+Puede que los fantasmas de amores pasados te tienten durante la luna llena del 6 de febrero. Deja que tus contactos sociales te mantengan con los pies en la tierra. Puede que no notes a un nuevo pretendiente que quiera ser más que eso. El sol forma un trígono con Plutón el 9 de febrero. No perderás tu equilibrio, pero puede que los demás sí. La luna nueva del 19 de febrero podría sorprenderte al hacerte notar lo mucho que tu escena social ha crecido. Puede que aparezcan personas de repente y que al conocerlas te agraden casi todas. Elige formas estándar de entretenimiento y no exageres con la creatividad. No todas las personas toleran el mismo nivel de entusiasmo que tú. 

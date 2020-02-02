@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo capricornio enero 2020
-description: El Horóscopo enero de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo capricornio febrero 2020
+description: El Horóscopo febrero de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo capricornio enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo capricornio febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: g_VIh3NkXjc
@@ -16,4 +16,7 @@ sitemap:
 ---
 
 
-Sin importar qué tan ocupada se vuelva la escena social, nada puede competir con el placer de quedarse a solas en casa. Recarga tus baterías emocionales bajo la luz de la Luna Llena del 3 de enero para recibir fresca y fuertemente lo que sea que el mundo te termine lanzando. Comportarte audazmente en tu trabajo posterior a la Luna Nueva del 17 de enero podría crearte una gran oportunidad. Adoptar más responsabilidades te ganará apoyo. Si te interesa un cambio de trabajo o carrera, puede que te sea posible hacerlo ahora. El fin de semana del 23 de enero será muy divertido pero no demasiado loco. Podrás sentir tu riqueza y a la vez tu responsabilidad.  
+Escucha a tu cuerpo con más atención alrededor de la luna nueva del 15 de febrero. Si no te alteras, o haces demasiado y vas demasiado rápido, todo debería estar bien. Aun así, ¿está tu digestión intentando decirte algo? Simplemente escucha. La conjunción entre Marte y Plutón el día 26 podría ser un desafío para todos. Controla tu temperamento, y no permitas que una pequeña discusión explote. Durante la luna llena del 29 de febrero, sé transparente y tendrás suerte extra. Fija tu propia agenda y sé feliz. Tal también complacerá a quienes te quieren. Deja que el mundo se entretenga a sí mismo. Tienes mejores cosas que hacer. 
+
+Días destacados: 2, 10, 23
+Días desafiantes: 22, 26

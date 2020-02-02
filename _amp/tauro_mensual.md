@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo tauro enero 2020 
+title: Horoscopo tauro febrero 2020 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La paz y la tranquilidad pueden ser muy valiosas bajo la Luna Llena del 9 de enero. Podría ser difícil escapar de todas las actividades y demandas de tu tiempo. Encuentra refugio en la música, la lectura y los momentos de soledad, incluso si estás en medio de una multitud. El 15 de enero, la oposición entre el Sol y Saturno podría crear una lucha de poder que podrías aprovechar. La Luna Nueva del 23 de enero trae más amor, afecto y atención de la que una persona podría querer. Disfrútalos. Te mereces la adoración, y te mereces que te traten bien. Siente como tu autoestima se eleva, y siéntete bien al respecto.
+El 7 de febrero tiene un buen comienzo, pero una inesperada tensión podría aumentar conforme surgen pequeños problemas. Prepárate y no pierdas tu equilibrio. La Luna Llena del 15 de febrero podría traer un cambio radical en tu trabajo que resulte ser sólo una sugerencia o prospecto momentáneo. Siente confianza en relación a tus propios talentos, habilidades y percepciones. No tienes que seguirle el juego a alguien que quiere más poder. Tu vida social recibe una inyección de vida y frescura con la Luna Nueva del 30 de febrero. Deja que alguien te lleve a un lugar especial. Conoce a todo un nuevo conjunto de fascinantes personas. No tienes que ser quien comience las conversaciones. 

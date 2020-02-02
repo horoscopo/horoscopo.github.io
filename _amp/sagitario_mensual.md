@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo sagitario enero 2020 
+title: Horoscopo sagitario febrero 2020 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Un aspecto de tu vida diaria podría adquirir más importancia para ti durante la primera semana. La Luna Llena del 2 de enero hace que sea fácil para ti realizar múltiples tareas y aun así lidiar con varias distracciones a la vez. Las cosas podrían desarrollarse tan pacíficamente que es posible que apenas lo notes en el momento. La Luna Nueva del 16 de enero podría revelar una serie de pequeños y enterrados miedos y sospechas, pero también tendrás una gran confianza personal para sobrellavarlos. Disipar esos pequeños demonios ahora hará que experimentes más felicidad y seguridad que nunca. Es posible que sientas ganas de celebrar cuando el Sol entre a Cáncer y el verano comience el 21 de enero. ¡Adelante!
+Tendrás la facultad de resolver un difícil asunto bajo la Luna Nueva del 6 de febrero. Tal problema podría ser de mayor importancia para alguien cercano a ti más que para ti y podría involucrar dinero, bienes, o alguna otra cosa de valor material. Puede que no le parezca fácil a otros, pero no será difícil para ti. A tus amistades se les podría dificultar mantenerse al día contigo en torno a los días de Luna Llena del 21 de febrero. Sal de casa y acude a lugares que te fascinan. Te sorprenderás de quienes quieran acompañarte. El trígono entre la Luna y Venus del 26 de febrero le da un agradable y romántico final a tu mes.

@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo acuario enero 2020 
+title: Horoscopo acuario febrero 2020 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Produce tu mejor y más importante obra detrás de escenas bajo la manifestación de la Luna Nueva del 9 de enero. La discreción te permite hacer más de lo que quieres hacer con menos interferencias. Visiblemente te ocuparás como habitualmente lo estás, pero lo que hagas más en privado será más importante y satisfactorio. La Luna conjunta a Urano el 15 de enero, cuando deberías adoptar un enfoque diferente y pensar radicalmente. Bajo la Luna Llena del 23 de enero, un adorador y nuevo interés amoroso podría aparecer para impresionarte y hacerte saber lo verdaderamente especial que eres muy en el fondo. Alternativamente, tu muy dedicada pareja podría irradiarte gran amor para ayudarte a recordarlo.
+No hay luna llena este mes. Sin embargo, hubo dos en febrero y habrá dos en febrero, así que no te sientas en desventaja. El 13 de febrero es Mardi Gras, con un sextil entre el sol y Urano. Hay una posibilidad de divertirte a lo grande, loca y salvajemente. La luna nueva (y el eclipse solar) del día 15 está llena de encanto, inteligencia, y quizás el retorno de algunos viejos hábitos, para bien o para mal. No importa cómo te sientes, el mundo quiere que seas optimista y te diviertas. El 26 de febrero, la cuadratura entre la luna y Urano podría hacer que lo pienses dos veces. No te castigues demasiado. 
