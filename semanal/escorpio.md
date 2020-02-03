@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 27 de enero 2020 al 02 de febrero 2020 
-description: Horóscopo semanal escorpio 27 de enero 2020 al 02 de febrero 2020. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+title: escorpio 03 de febrero 2020 al 09 de febrero 2020 
+description: Horóscopo semanal escorpio 03 de febrero 2020 al 09 de febrero 2020. Escapa escorpio, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-27'
+ lastmod: '2020-02-03'
 ---
 
 
 
-## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+## Escapa escorpio, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
 
-Bueno escorpio, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
-Dado que el sensual Venus está en tu sector de relaciones y se opone al etéreo Neptuno en tu signo, una persona podría no tener claros cuáles son tus sentimientos hacia ella. Puede que debas expresarte claramente, o la confusión podría continuar y afectar su relación.El expresivo Mercurio ingresa a su fase retrógrada en tu sector de estilo de vida el 25 de $MES, lo que puede indicar que debes tener precaución durante las próximas tres semanas. Asegúrate de respaldar los archivos importantes de tu computadora y de que el software antivirus esté actualizado. Puede que necesites más tiempo para completar proyectos y cumplir con las fechas límite. 
-El eclipse lunar en tu sector espiritual del viernes podría ser una llamada a tener más confianza en un plan espiritual mayor que guía tu vida desde el interior. Si escuchas cualquier intuitivo impulso, te resultará más sencillo participar en el plan divino y dejarte llevar.
+Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
+ No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
+Trata de organizar tus asuntos al principio de la semana, porque podrías sentir menos inclinación hacia la planificación durante el fin de semana. ¿Estás lidiando con una fecha límite? Enfocarte en ella el lunes puede permitirte terminarla fácilmente. Las cosas pueden fluir más a medida que el adorable Venus ingresa a Sagitario, lo que te anima a salir en busca de una aventura amorosa y algún tipo de diversión exótica. La luna llena del domingo podría intensificar los sentimientos. Actúa con tranquilidad para evitar hacer o decir algo de lo que después podrías arrepentirte.
 
 ## Dinero
 
-Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.
+Esta semana se trata de un aspecto tenso que afecta a tu sector de deuda o el dinero de otros. Es imperativo que adoptes una nueva forma de ver la deuda en tu vida. Si puedes, págala por completo o comienza a usar tu tarjeta con menos frecuencia.

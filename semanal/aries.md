@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 27 de enero 2020 al 02 de febrero 2020 
-description: Horóscopo semanal aries 27 de enero 2020 al 02 de febrero 2020. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes aries.
+title: aries 03 de febrero 2020 al 09 de febrero 2020 
+description: Horóscopo semanal aries 03 de febrero 2020 al 09 de febrero 2020. Estás renaciendo aries, renaciendo de las cenizas… Y ya era hora…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-27'
+ lastmod: '2020-02-03'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes aries.
+## Estás renaciendo aries, renaciendo de las cenizas… Y ya era hora…
 
-Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
-Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
-Mientras que Júpiter en tu sector de placer te anima a sacarle el mayor provecho a la temporada de festividades y apoderarte de cualquier oportunidad para pasártela bien, prepárate para sufrir una o dos interrupciones esta semana. Harás tu vida más fácil si te organizas y planificas a futuro. Crearte un presupuesto para esta temporada también podría ser bueno. El jueves, el ritmo en el trabajo podría hacer que sientas un poco de presión. Alternativamente, un problema inesperado podría retrasar el cumplimiento de plazos. No dejes que te afecte, ve con la corriente.
+Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
+ No lo has pasado del todo bien pero empiezas a renacer aries. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
+A medida que Plutón se torna retrógrado en tu sector de romance y creatividad el lunes, podrías centrarte más en una nueva relación o proyecto artístico. Sin embargo, podrías obsesionarte un poco, lo que ciertamente no será de ayuda. Tómate tiempo para dar un paso atrás e involucrarte en otras cosas, ya que de ese modo el resultado será más positivo. De hecho, el movimiento del Sol a Tauro puede ser una invitación a explorar nuevos territorios o tomarte un descanso, lo que debería ayudarte a relajarte en cada nivel.
 
 ## Dinero
 
-Esta semana tiene algunos cambios importantes para ti en las áreas de niños, romance y diversión. Si tu profesión es la enseñanza,  el romance de algún tipo o proveer risa de algún tipo, te ganarás mucho dinero en efectivo. Las profesiones que involucran hablar y escribir te enviarán a buenas situaciones.
+Puede parecer que tu situación monetaria va hacia atrás en lugar de ir hacia adelante. Pareciera que algunas influencias te están restringiendo pero puede que sea solo una ilusión. Eleva tu nivel de madurez y responsabilidad,  esto podría finalmente determinar de una vez por todas, el significado del dinero en tu vida. ¿Sientes comodidad con tu situación actual, o crees necesitar más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.

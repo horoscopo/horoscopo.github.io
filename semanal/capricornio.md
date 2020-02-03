@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 27 de enero 2020 al 02 de febrero 2020 
-description: Horóscopo semanal capricornio 27 de enero 2020 al 02 de febrero 2020. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: capricornio 03 de febrero 2020 al 09 de febrero 2020 
+description: Horóscopo semanal capricornio 03 de febrero 2020 al 09 de febrero 2020. Llega una buenísima semana capricornio pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-27'
+ lastmod: '2020-02-03'
 ---
 
 
 
-## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+## Llega una buenísima semana capricornio pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 
-Deberían valorarte más capricornio, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para capricornio, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
-Marca esta semana en tu calendario como una que podría ser de gran cambio con el desarrollo del Eclipse Solar pudiendo animarte a tomar una decisión clave. Podrías encontrar información que le dé un nuevo giro a las cosas, y es posible que desees aprovechar una oportunidad asociada con ello. Este podría ser un emocionante momento en el que te aventures hacia nuevo territorio y comiences a ver posibilidades que no has considerado antes. Con Júpiter empujándote a ampliar tus opciones, este es definitivamente el momento de lanzarte a ello.
+A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto capricornio? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito capricornio. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
+¿Sería posible que abandones tu rutina de estilo de vida esta semana? Es posible, sobre todo si te has hartado de tu trabajo, rutina de ejercicio o de tu estilo de vida en general. El Eclipse Solar de esta semana podría hacer que renuncies a tus intentos, sobre todo si se trata de algo en lo que realmente no tienes ningún interés. Sin embargo, también es una oportunidad bastante significativa para un nuevo comienzo. Si algo te llama la atención, no lo persigas. Espera un poco y algo aún más sorprendente podría llegar para llenar ese vacío.
 
 ## Dinero
 
-Esta semana tienes una situación única en tus manos con respecto a tu deuda y el dinero de otras personas. Aunque parte de ti quiere progresar en el frente de pago de deuda, otra parte puede contenerte de hacer mucho. Una cosa es segura – tener una actitud proactiva y la aceptación de todas tus responsabilidades te obtendrá los mejores resultados a largo plazo.
+Es una semana de desarrollo en tu sector de relaciones. Esto podría significar que alguien a quien has dudado contactar es todo oídos ahora, o que recibes energía de apoyo para ir más profundo, ya sea personal o profesional. Si has estado buscando una fusión de empresas, el Universo puede ayudarte. Mientras tanto, tu vida en el hogar necesita más atención y algunos gastos adicionales.

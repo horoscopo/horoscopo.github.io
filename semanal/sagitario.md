@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 27 de enero 2020 al 02 de febrero 2020 
-description: Horóscopo semanal sagitario 27 de enero 2020 al 02 de febrero 2020. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+title: sagitario 03 de febrero 2020 al 09 de febrero 2020 
+description: Horóscopo semanal sagitario 03 de febrero 2020 al 09 de febrero 2020. Crece #SIGNO, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-01-27'
+ lastmod: '2020-02-03'
 ---
 
 
 
-## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+## Crece #SIGNO, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 
-El mundo puede esperar Sagi, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate sagitario, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
-Te encuentras en el centro de atención cuando el Sol se mueve por el sector superior de tu carta astral. Esto indica que este es el momento ideal para que demuestres tus talentos y habilidades. Con el Eclipse Lunar en este eje, las propuestas de negocios, los contratos o los planes profesionales podrían cambiar. Cuando una puerta se cierra, otra se abre para traer nuevas oportunidades que resultan muy atractivas. Por otra parte, es posible que conectes con una vieja amistad que tiene algo importante para decirte.
+No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
+En los próximos días podrías involucrarte en algunas interesantes conversaciones que pueden impulsarte hacia nuevas aventuras. Lo que sea que ha estado rondando por tu cabeza podría convertirse en realidad. Cuando el sol ingresa a tu sector de comunicación y pensamiento el martes, puede que descubras una oportunidad que está esperando a ser aprovechada. Sin embargo, Mercurio, el mensajero, se vuelve retrógrado el jueves y permanecerá así hasta el 15 de $MES. Ten cuidado al cerrar tratos o comprar costosos objetos.
 
 ## Dinero
 
-Estás encaminado/a hacia un tiempo afortunado. No sólo te sientes más atractivo/a, también tienes una confianza agradable que los demás encuentran magnética. Esto durará durante las próximas semanas, así que asegúrate de recibir tratamiento de estrella durante ese tiempo. Eres presa de ideas creativas alrededor de tu casa. Sólo asegúrate de que tus planes no exceden tu presupuesto, o por lo menos ten un plan de factor de contingencia en caso de que te pases.
+Hay una energía extraña afectando tu trabajo y tu sector de dinero. Los aspectos que afectan tu sector de vidas pasadas, karma e instituciones, muestran que es posible que te vaya bien si estás pensando en  trabajar para una empresa más grande o asociarte con alguien que está un poco más establecido en tu línea de trabajo. Juntos serán imparables, y tal vez capaces de atraer más negocio de lo que podrían hacer por su cuenta.
