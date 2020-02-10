@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 03 de febrero 2020 al 09 de febrero 2020 
-description: Horóscopo semanal piscis 03 de febrero 2020 al 09 de febrero 2020. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+title: piscis 10 de febrero 2020 al 16 de febrero 2020 
+description: Horóscopo semanal piscis 10 de febrero 2020 al 16 de febrero 2020. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no piscis, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-03'
+ lastmod: '2020-02-10'
 ---
 
 
 
-## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+## Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no piscis, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
 
-No más paciencia Capri. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres piscis, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana Capri.
-Aunque podrías tener la capacidad práctica y saber cómo hacer las cosas, otra persona podría tener la inspiración. Puede que un vínculo vivaz esta semana te lleve a colaborar con otra persona en una idea que podría ser un éxito rotundo. Esta también puede ser una buena oportunidad para que reevalúes tu estilo de vida y tus rutinas de bienestar y consideres hacer algunos cambios. Dado que te encanta la eficiencia, reducir tu horario podría ser el secreto para disfrutar los días y las semanas por venir.
+Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande piscis, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. piscis, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
+Tendrás ganas de explorar el potencial de una idea que te llevaría a descubrir un nuevo territorio. Este podría ser un plan importante que te convendrá explorar con alguien más. Sin embargo, no te preocupes por los detalles ahora porque podría atrasar el proceso. Concéntrate en el panorama general. Ya tendrás tiempo para pulir tus planes. El viernes es una fantástica oportunidad para asistir a un evento social que realmente disfrutarás, ya sea una cita o solo una ocasión divertida.
 
 ## Dinero
 
-Se te está dando un empujón de buena suerte desatando un torrente de mensajes positivos por parte de empleadores, potenciales clientes y clientes. Todos quieren un pedazo de tu tiempo, lo que puede ser agotador, aunque también son buenas noticias. Mientras tanto, ¿has considerado entrar en negocio con un pariente, padre o hermano? Quizá sea el momento de pensar un poco en esto.
+Esta semana tienes una base sólida para construir sobre tu existente riqueza. Quieres hacer cosas poco convencionales con tu dinero, pero es mejor ser un poco más conservador/a debido a las proyecciones de ahora. Sin embargo, es un buen momento para la investigación de aspectos más salvajes relacionados con la inversión.
