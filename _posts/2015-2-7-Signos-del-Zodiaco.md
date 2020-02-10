@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 09 de febrero 2020
-description: Horóscopos del dia de hoy 09 de febrero 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 10 de febrero 2020
+description: Horóscopos del dia de hoy 10 de febrero 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-02-09
+ lastmod: 2020-02-10
 ---
-Compite con tal de poder ganar cuando el Sol aspecte a Plutón y Marte forme sextil con el suertudo Júpiter el día de hoy. Esta noche irradias luz desde tu interior, cortesía de Venus en el efusivo Leo. El planeta del amor forma trígono con Saturno, restringiendo un poco a las relaciones, pero te percatarás de que es algo bueno. 
+Cuando Mercurio aspecta a Marte, uno es sabio al decir lo que se tiene que decir, ya que causa problemas cuando no lo es. Se te respeta por expresar tu opinión. Y ya que has opinado tanto hoy, relájate y pasa un buen rato esta noche al reírte y hacer más de lo mismo. Las sonrisas surgen en el momento en el que las necesitas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.

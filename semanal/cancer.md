@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 03 de febrero 2020 al 09 de febrero 2020 
-description: Horóscopo semanal cancer 03 de febrero 2020 al 09 de febrero 2020. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
+title: cancer 10 de febrero 2020 al 16 de febrero 2020 
+description: Horóscopo semanal cancer 10 de febrero 2020 al 16 de febrero 2020. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar cancer porque no eres así. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-03'
+ lastmod: '2020-02-10'
 ---
 
 
 
-## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
+## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar cancer porque no eres así. 
 
-Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
-Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
-Esta podría ser una excelente oportunidad para comenzar de nuevo con respecto a tu camino espiritual. La Luna Nueva del lunes podría animarte a aprender a meditar, tomar clases de yoga o conectar con otras personas que compartan tus ideales. Aun así, ciertas creencias heredadas de tu infancia o de otra vida podrían entrar en conflicto con las ideas que quisieras adoptar. Tendrás que resolver esto de cualquier manera que sientas es la mejor. El Día de San Valentín combina la sensualidad de Tauro con la pasión de Escorpión, creando una ocasión bastante especial.
+Estás activo Cangrejo, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
+No sería extraño que te preguntaras qué está pasando con tu carrera. Un nuevo trabajo puede aparecer de la noche a la mañana sin que hagas demasiado para perseguirlo, mientras que los trabajos existentes podrían cambiar un poco. Piensa atentamente el jueves, ya que una situación puede generar una crisis. Puede que debas tomar una importante decisión. La luna llena en tu sector de bienestar del sábado puede ser una llamada a mimarte un poco y a que hagas de esto un hábito.
 
 ## Dinero
 
-Estás atrapado/a en un dilema. Hay acción en el frente de profesión y en el campo de las oportunidades. Sin embargo, estás siendo conducido/a por un estrecho sendero hacia el lidiar con tu situación en cuanto a cómo te relacionas. Puedes hacerlo a solas por sólo un determinado tiempo. Busca la mayor cantidad de ayuda que puedas encontrar.
+Piensa en cómo ahorrar e invertir tu dinero duramente ganado, así como la manera de ganar más dinero en general. Pasa unos cuantos minutos de cada día estudiando el intercambio de divisas y otros vehículos de inversión que te hagan ganar financieramente. No es que no hayas estado pensando en esto, por supuesto. Es posible que tengas más dinero atado en tu casa del que creíste.

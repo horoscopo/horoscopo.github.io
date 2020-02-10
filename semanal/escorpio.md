@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 03 de febrero 2020 al 09 de febrero 2020 
-description: Horóscopo semanal escorpio 03 de febrero 2020 al 09 de febrero 2020. Escapa escorpio, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
+title: escorpio 10 de febrero 2020 al 16 de febrero 2020 
+description: Horóscopo semanal escorpio 10 de febrero 2020 al 16 de febrero 2020. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro escorpio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-03'
+ lastmod: '2020-02-10'
 ---
 
 
 
-## Escapa escorpio, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
+## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro escorpio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 
-Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
- No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
-Trata de organizar tus asuntos al principio de la semana, porque podrías sentir menos inclinación hacia la planificación durante el fin de semana. ¿Estás lidiando con una fecha límite? Enfocarte en ella el lunes puede permitirte terminarla fácilmente. Las cosas pueden fluir más a medida que el adorable Venus ingresa a Sagitario, lo que te anima a salir en busca de una aventura amorosa y algún tipo de diversión exótica. La luna llena del domingo podría intensificar los sentimientos. Actúa con tranquilidad para evitar hacer o decir algo de lo que después podrías arrepentirte.
+No sueles dar la llave de tu corazón a nadie escorpio, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia escorpio, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana escorpio.
+Esta semana, guarda tu efectivo y conserva tu dinero tanto como te sea posible. La razón es que podrías recibir algunas facturas inesperadas o sentir un poco de inestabilidad sobre cuestiones financieras. Hasta que las cosas empiecen a vislumbrarse más seguras, es aconsejable controlar tus gastos. En cuanto a tu carrera profesional, podrías estar nadando contra corriente debido a Saturno entrando a su fase retrógrada el viernes. Sin embargo, esto te da un par de meses para explorar una nueva dirección y decidir si realmente es para ti.
 
 ## Dinero
 
-Esta semana se trata de un aspecto tenso que afecta a tu sector de deuda o el dinero de otros. Es imperativo que adoptes una nueva forma de ver la deuda en tu vida. Si puedes, págala por completo o comienza a usar tu tarjeta con menos frecuencia.
+Esta semana tienes una energía maravillosa y creativa en tu vida laboral diaria. Se te puede pedir asumir más tareas ahora, y vendrán con responsabilidades añadidas. Tómalas. Incluso si se trata de trabajar más a corto plazo, le darás una impresión indeleble en tu empleador a largo plazo. Es probable que recibas elogios por tus esfuerzos. Amplía tu comunicación.
