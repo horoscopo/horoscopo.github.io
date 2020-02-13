@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de febrero 2020
-description: Horóscopos del dia de hoy 12 de febrero 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de febrero 2020
+description: Horóscopos del dia de hoy 13 de febrero 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-02-12
+ lastmod: 2020-02-13
 ---
-A partir de hoy y durante los próximos días adquieres perspectivas completamente nuevas sobre ciertas cosas mientras el Sol forma un aspecto oportuno con Plutón. Las oportunidades golpean a tu puerta, pero trata de evitar tomar decisiones espontáneas impulsivas. Esta noche, Marte está a punto de cambiar de signo. Dándole seguimiento a la vibra anterior, deja pasar más tiempo hasta decir que sí. 
+Hoy, los sentidos son agudos de manera decidida y responsable bajo la Luna en Capricornio. Por la tarde, el trígono con Venus añade toques de luz y dulzura. Esta noche, los halagos no le consiguen nada a uno más que problemas cuando el Sol y la Luna están un poco en desacuerdo y la gente simplemente no está de humor.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
