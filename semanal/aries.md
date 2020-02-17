@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 10 de febrero 2020 al 16 de febrero 2020 
-description: Horóscopo semanal aries 10 de febrero 2020 al 16 de febrero 2020. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+title: aries 17 de febrero 2020 al 23 de febrero 2020 
+description: Horóscopo semanal aries 17 de febrero 2020 al 23 de febrero 2020. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-10'
+ lastmod: '2020-02-17'
 ---
 
 
 
-## No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 
-Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo aries. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que aries estalla, nadie se salva.
-Puede que sientas la tentación de exigirte, en especial al comienzo de la semana. Si has fijado una fecha límite, la conexión entre el dinámico Marte y el limitante Saturno podría coincidir con uno o dos obstáculos. Puede que lo mejor sea no ponerte demasiada presión. Cuanto más intentes, más difícil podría ser avanzar. Quizás descubras que salir de la rutina también es muy útil. Podrías estar pensando demasiado en una cuestión cuando un enfoque más relajado sería altamente beneficioso. 
-Tus planes podrían entrar en conflicto con los de tu familia, y puede que tus familiares tengan demasiadas ganas de hacerse oír. Debido a que el positivo Venus está en tu sector de recreación y diversión, podrías beneficiarte mucho de tomarte un tiempo para disfrutar. Y, si llevas a tu familia contigo, mucho mejor. El punto más importante es no pasar demasiado tiempo trabajando.    
+Disfruta de la vida aries, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven aries. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana aries.
+La Luna Nueva de esta semana puede ser una gran oportunidad para mejorar tus habilidades o considerar estudiar una carrera que te abra el camino a un mejor trabajo o a mejores oportunidades empresariales. Lo que pueda expandir tus horizontes puede ser muy bueno para ti en este momento. Y con Marte en el sector superior de tu carta alentándote a buscar tu lugar en el centro de atención, lo que te ayude a conseguirlo es bienvenido.
 
 ## Dinero
 
-Esta semana es acerca de los aspectos que afectan dinero y valores. Esto es extremadamente afortunado, dándote la oportunidad de mejorar tus finanzas ahora. Se te está empujando a centrarte en la familia y el romance. Podría ser bueno tomarte un descanso o renovar tu convicción de equilibrar tu vida laboral con tu vida personal.
+Para  ti, ésta semana se trata de tomar ventaja de las circunstancias que se presenten en tu vida laboral. Tienes suerte, así que puedes encontrar la oportunidad de impresionar a alguien que tiene el poder de tomar decisiones financieras. Estas oportunidades afectarán positivamente tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personal y financiera, incorporarlas en tu vida cotidiana te hará más fuerte.
