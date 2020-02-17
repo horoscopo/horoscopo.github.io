@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 10 de febrero 2020 al 16 de febrero 2020 
-description: Horóscopo semanal tauro 10 de febrero 2020 al 16 de febrero 2020. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+title: tauro 17 de febrero 2020 al 23 de febrero 2020 
+description: Horóscopo semanal tauro 17 de febrero 2020 al 23 de febrero 2020. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-10'
+ lastmod: '2020-02-17'
 ---
 
 
 
-## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 
-Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver tauro, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
- hasta que empieces a sentir que realmente merece la pena.
-Si un proyecto creativo ha sufrido demoras últimamente, el avance de Mercurio puede comenzar a marcar la diferencia. Y si tienes responsabilidades en tu hogar que demandan tu tiempo y energía, una alineación positiva sugiere que ya podrías haber encontrado la solución. Esta es una buena noticia para ti, especialmente si te comprometes a transformar una idea en un éxito total. De hecho, podría sentirse como un peso que es gradualmente levantado de tus hombros.
+Es muy importante que eches la vista atrás tauro, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
+A medida que el vital Marte sigue su viaje a través de tu signo, podrías sentirte más fuerte y con más valor que hace algún tiempo. Esta semana, se produce un potente enfoque (en la forma de un eclipse solar) en tu sector de habla y pensamiento. Esto podría coincidir con una idea a la que le ha llegado la hora, que parece especialmente adecuada para tu situación. Ya que este eclipse actúa como una súper cargada luna nueva, esta podría ser tu oportunidad para experimentar un nuevo comienzo. Más adelante, el enfoque cambia a los asuntos del hogar y la familia.
 
 ## Dinero
 
-Esta semana es de gran actividad para ti, ya que la atención se centra en las culturas extranjeras, viajes, idiomas y la educación superior. Es hora de pensar en invertir en mercados muy lejos de donde vives para hacer tu investigación. Los aspectos indican que es probable que te sientas optimista también.
+Estás poniendo tus metas profesionales en buen estado esta semana. Tu visibilidad laboral en el trabajo aumenta y tienes las herramientas necesarias para construir mensajes fuertes y claros. Mientras tanto, tienes la capacidad de hacer que tu caso sea convincente. Desde la creación de publicidad a la fabricación de folletos para atraer más clientes, haz que tu alcance sea persuasivo. No hay nada que no se pueda hacer ahora.

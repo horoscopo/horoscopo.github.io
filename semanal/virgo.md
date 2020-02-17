@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 10 de febrero 2020 al 16 de febrero 2020 
-description: Horóscopo semanal virgo 10 de febrero 2020 al 16 de febrero 2020. Estás a tope virgo, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: virgo 17 de febrero 2020 al 23 de febrero 2020 
+description: Horóscopo semanal virgo 17 de febrero 2020 al 23 de febrero 2020. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-10'
+ lastmod: '2020-02-17'
 ---
 
 
 
-## Estás a tope virgo, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 
-No te arrepientas de abrirte virgo, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles virgo, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar virgo, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos virgo, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
-Cuando el sol en tu sector de relaciones conecta con el incansable Urano, podría resultarte difícil ser paciente con ciertas personas. Los familiares podrían ser tu principal motivo de fastidio, pero las amistades también se suman. Lo que puede ayudarte es canalizar la energía mediante la actividad física, ya sea caminando o con una rutina de ejercicios. Hacerlo puede aumentar mucho tu nivel de tolerancia. El reflexivo Mercurio se vuelve retrógrado en tu sector de relaciones el miércoles y permanece así durante cerca de tres semanas, lo que podría coincidir con confusos mensajes y tal vez malentendidos. También puede ser un buen momento para analizar cuestiones que necesitan resolverse hace algún tiempo. Puede que, durante estas semanas, encuentres la solución. 
-Esta semana también es muy importante debido al eclipse lunar en tu signo el viernes. Esto significa que podrías sentir tener más ganas de tomar las riendas de tu vida. Las cuestiones relacionadas con la apariencia y la imagen también podrían ser importantes durante esta etapa.
+Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca virgo. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder virgo pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias virgo, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
+Con Venus uniéndose al Sol en Géminis, es buen momento para salir y relacionarte con personas importantes. Podrías hasta incluso encontrarte sintiendo atracción hacia alguien en el calor del momento. Sin embargo, llévatela leve. Debido a que Marte actualmente se encuentra retrógrado, podría terminar siendo una relación intermitente. También podrías percatarte de que un problema emocional o financiero reaparece con Marte regresando a Escorpión el viernes. Este es el momento perfecto para resolver problemas de deuda y poner tus finanzas en orden.
 
 ## Dinero
 
-Eres una persona inteligente, sobre todo cuando se trata de trabajo y dinero. No te contenta dejar las cosas como están (¡bien por ti!); y deseas hacer algunos cambios positivos. Tus relaciones señalan el camino hacia una vida mejor. Alguien (o más de una persona) quiere verte tener éxito. Escucha lo que tales personas tengan que decir al respecto.
+Estás pensando en maneras de atraer más dinero a la semana para poder disfrutar de un estilo de vida más cómodo. No es un mal plan, considerando todo. El reto será equilibrar tu deseo de divertirte con tu familia y pareja romántica con tu necesidad de establecer tu propia creatividad. Tu impulso de escribir, reproducir y crear, construye recompensas emocionales y rendimientos monetarios.

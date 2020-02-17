@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 10 de febrero 2020 al 16 de febrero 2020 
-description: Horóscopo semanal leo 10 de febrero 2020 al 16 de febrero 2020. Sumisión contigo van a encontrar poca ahora leo… Muy poca.
+title: leo 17 de febrero 2020 al 23 de febrero 2020 
+description: Horóscopo semanal leo 17 de febrero 2020 al 23 de febrero 2020. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,15 +12,17 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-10'
+ lastmod: '2020-02-17'
 ---
 
 
 
-## Sumisión contigo van a encontrar poca ahora leo… Muy poca.
+## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 
-Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo leo, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no leo, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
-Definitivamente estás en tu elemento al comienzo de la semana, lo que tal vez coincida con una fiesta o reunión de temporada. Con el jovial Júpiter en tu signo, una benevolente y bondadosa actitud puede encantar a los demás y hacer que ganes muchos admiradores. Sin embargo, ten cuidado con los mensajes confusos, ya que algunas cosas pueden ser diferentes de lo que parecen. La luna nueva en tu signo del sábado puede ser excelente para comenzar una nueva etapa en tu vida, pero puede que debas liberarte de algunas cosas antes.
+Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
+ Busca siempre la parte buena de cada momento en el que te encuentres.
+Puedes tener distintas opiniones con otra persona sobre cómo resolver una situación familiar al comienzo de la semana. Pero con Mercurio retomando su movimiento de avance, debería ser más fácil hablar al respecto en un tono más racional y productivo. Sin embargo, la Luna Llena puede despertar emociones y situaciones dramáticas, por lo que es posible que haya alguna reacción exagerada de alguna de las partes o de ambas. Espera a que tus sentimientos se apacigüen. Será más fácil llegar a un término medio si lo haces.
 
 ## Dinero
 
+Tienes mucho coraje cuando se trata de decisiones sobre tu futuro financiero. El Universo podría crear problemas entre tú y una institución (como tu lugar de trabajo), o entre el deseo de pasar tiempo en la oficina o viajando. Uno de los dos tiene que ceder o de lo contrario tu situación financiera se verá afectada negativamente. Procede con extrema precaución.
