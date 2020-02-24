@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 17 de febrero 2020 al 23 de febrero 2020 
-description: Horóscopo semanal capricornio 17 de febrero 2020 al 23 de febrero 2020. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar capricornio. 
+title: capricornio 24 de febrero 2020 al 01 de marzo 2020 
+description: Horóscopo semanal capricornio 24 de febrero 2020 al 01 de marzo 2020. Hay cosas que ya no funcionan capricornio, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-17'
+ lastmod: '2020-02-24'
 ---
 
 
 
-## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar capricornio. 
+## Hay cosas que ya no funcionan capricornio, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 
-Te estás dando cuenta de quien sí y quien no capricornio. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo capricornio pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope capricornio, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente capricornio, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar capricornio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
-¿Estás buscando una aventura? De ser así, el contexto de esta semana podría coincidir con un encuentro con una persona que tiene una interesante idea. Puede que te sugiera un viaje o una oportunidad de explorar nuevas ideas o recorrer nuevos terrenos. Por otra parte, obtener el apoyo de alguien en torno a una idea que tuviste puede ser crucial para tener la confianza necesaria para llevarla a cabo. Asegúrate de hablar sobre tu idea con esta persona. Finalmente, cuando el encantador Venus ingresa a Piscis y a tu sector profesional el sábado, puede que descubras que el encanto es la clave para progresar.
+Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás capricornio. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
+Con un mayor enfoque en un sector más aislado de tu carta, has estado disfrutando de un respiro. Sentirás un renacer una vez que el Sol entre a Géminis el viernes. Ahora es el momento de canalizar tu energía en proyectos y planes que has estado incubando durante las últimas semanas. Y con tu regente Mercurio finalmente avanzando desde el domingo, tendrás menos propensión a retrasos y frustraciones inesperadas. Sin embargo, ten cuidado el sábado, ya que la Luna Llena podría alentarte a expresar sentimientos de una forma un poco demasiado honesta.
 
 ## Dinero
 
-Esta semana tienes una gran cantidad de impulso para atraer más lana. Es posible que solo se trate de que tu ambición esté llegando a la superficie conforme los demás te ven como la persona exitosa en la que estás en proceso de convertirte. Podría haber cierta tensión con colegas o conocidos sociales. Sólo asegúrate de que no apostar la granja.
+Esta semana es sobre la comunicación y tu sector de empleo. Las cosas son propensas a dejar de romperse, lo que hará más fácil tu trabajo, pero el dinero se ve afectado también. ¿Has tenido demasiada timidez como para pedir lo que vales? Busca una abertura para demostrar el valor que aportas a la empresa. A continuación, solicita una reunión y haz valer tu caso, el éxito sigue.

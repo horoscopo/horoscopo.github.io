@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 17 de febrero 2020 al 23 de febrero 2020 
-description: Horóscopo semanal virgo 17 de febrero 2020 al 23 de febrero 2020. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+title: virgo 24 de febrero 2020 al 01 de marzo 2020 
+description: Horóscopo semanal virgo 24 de febrero 2020 al 01 de marzo 2020. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,18 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-17'
+ lastmod: '2020-02-24'
 ---
 
 
 
-## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 
-Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca virgo. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder virgo pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias virgo, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
-Con Venus uniéndose al Sol en Géminis, es buen momento para salir y relacionarte con personas importantes. Podrías hasta incluso encontrarte sintiendo atracción hacia alguien en el calor del momento. Sin embargo, llévatela leve. Debido a que Marte actualmente se encuentra retrógrado, podría terminar siendo una relación intermitente. También podrías percatarte de que un problema emocional o financiero reaparece con Marte regresando a Escorpión el viernes. Este es el momento perfecto para resolver problemas de deuda y poner tus finanzas en orden.
+Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
+ La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
+ Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
+La aventura te hace señas, así que prepárate para salirte de tu zona de confort y considerar ampliar tus horizontes. De hecho, si estás teniendo dificultades para avanzar en áreas clave de la vida, enfoca tu atención hacia explorar nuevas opciones que podrían permitirte canalizar tu energía en otra parte. Podrías experimentar este tipo de retrasos en el frente doméstico si es que ciertas responsabilidades familiares te impiden realizar tanto como deseas. Aun así, pequeñas incursiones en nuevo territorio pueden dejarte sintiendo optimista.
 
 ## Dinero
 
-Estás pensando en maneras de atraer más dinero a la semana para poder disfrutar de un estilo de vida más cómodo. No es un mal plan, considerando todo. El reto será equilibrar tu deseo de divertirte con tu familia y pareja romántica con tu necesidad de establecer tu propia creatividad. Tu impulso de escribir, reproducir y crear, construye recompensas emocionales y rendimientos monetarios.
+Esta semana, tu sector de carrera se ve afectado. El Universo te está empujando a tomar algunas decisiones que has estado posponiendo por un tiempo. Si has querido cambiar de carrera o hacer investigación adicional, es el momento de echarlo a andar. Este aspecto tiene tenencia a empujarte a hacer lo que es correcto.

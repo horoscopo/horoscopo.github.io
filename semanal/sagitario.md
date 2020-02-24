@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 17 de febrero 2020 al 23 de febrero 2020 
-description: Horóscopo semanal sagitario 17 de febrero 2020 al 23 de febrero 2020. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+title: sagitario 24 de febrero 2020 al 01 de marzo 2020 
+description: Horóscopo semanal sagitario 24 de febrero 2020 al 01 de marzo 2020. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,17 +12,15 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-17'
+ lastmod: '2020-02-24'
 ---
 
 
 
-## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+## Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 
-No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo sagitario pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
- Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
-La semana que se aproxima puede darte la oportunidad de que empieces un pasatiempo que disfrutas mucho. Los pequeños comienzos podrían resultar en un negocio y un futuro rentable si juegas bien tus cartas. El deseo de ser una persona más creativa y explorar tu potencial en esta área podría prepararte para grandes cosas si esto es algo que realmente te apasiona. La entrada de Venus a tu sector de hogar y familia sugiere que tienes grandes posibilidades de tener invitados en tu casa.
+A veces amas demasiado sagitario, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar sagitario, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. sagitario, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. sagitario, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos sagitario, y siente… Feliz semana…
+Esta podría ser una semana muy constructiva para ti, especialmente si estás trabajando en un proyecto creativo o deseas darle un gran comienzo a una idea empresarial. Sin embargo, en cuanto a romance, puede que no sea tan positiva. La energía de Saturno sugiere que una cita o una salida podría ser un poco restringida. La Luna Llena del martes podría irritarte un poco en el trabajo, pero tu vitalidad y alegría de vivir deberían de volver una vez que el Sol entre a tu signo el viernes.
 
 ## Dinero
 
-Provees un par de ojos frescos a los acontecimientos de esta semana con actividad en tu sector de apariencias. Una amistad puede tener una sugerencia útil sobre cómo ganar más dinero o conseguir la promoción que has estado buscando. Incluso si no piensas igual, escucha a esta persona. Tal ve esta situación con más claridad que tú. Se te pide traer un lado mucho más serio de tu personalidad a la mesa.

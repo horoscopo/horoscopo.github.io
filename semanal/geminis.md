@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 17 de febrero 2020 al 23 de febrero 2020 
-description: Horóscopo semanal geminis 17 de febrero 2020 al 23 de febrero 2020. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+title: geminis 24 de febrero 2020 al 01 de marzo 2020 
+description: Horóscopo semanal geminis 24 de febrero 2020 al 01 de marzo 2020. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca geminis.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-17'
+ lastmod: '2020-02-24'
 ---
 
 
 
-## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca geminis.
 
-Quizás deberías dejar de planear todo ahora geminis, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien geminis, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
-Venus entra a Sagitario y a tu sector social el martes, por lo que las próximas semanas podrían ser algunas de los mejores para el romance. Es igualmente útil si quieres hacer nuevos amigos o moverte hacia nuevos círculos. También podrías sentir mucha inquietud y emoción sin saber muy bien por qué. Una poderosa influencia en tu sector psicológico sugiere que ciertos sentimientos pueden salir a la superficie y necesitan ser reconocido y liberados. Si logras hacer esto, ¡te sentirás mucho mejor!
+Empieza a cambiar la mentalidad geminis, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado geminis, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+El encantador Venus y el atractivo Marte ingresan a tu sector de metas y ambición al comienzo de la semana, lo que podría animarte a que te expreses más. También puede que tengas ganas de hacer esas útiles conexiones que pueden ayudarte en tu apuesta al éxito. Cuando el filosófico Júpiter ingresa a su fase retrógrada en tu sector de recreación a mitad de semana, podrías involucrarte en un pasatiempo que disfrutabas en tu niñez. Esto podría ser muy gratificante durante los próximos meses. El fin de semana podría encontrarte provechando una oportunidad.
 
 ## Dinero
 
-Estás saliendo con una banda completamente nueva, y esto no puede hacerle daño a tu vida monetaria. Esta gente nueva sabe acerca de la buena comida y el vino, pero también saben cómo traer una cantidad seria de dinero. Estudia sus formas y puedes aprender los trucos que llevan utilizando por años. Al mismo tiempo, crea un plan de ahorros viables y con planes de inversión. Es ahora o nunca.
+Esta semana puede dar lugar a algunas ideas nuevas e interesantes que pueden proporcionarte el impulso y los medios para comenzar un negocio en el hogar. Desde la venta de cosas en línea al  desarrollo de un portal virtual de asistencia, estás definitivamente motivado/a. Debido a que tu sector de sueños también se ve afectado, presta atención a lo que tus sueños te están diciendo. Te están conduciendo en la dirección financiera adecuada.
