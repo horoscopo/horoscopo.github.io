@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 17 de febrero 2020 al 23 de febrero 2020 
-description: Horóscopo semanal piscis 17 de febrero 2020 al 23 de febrero 2020. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así piscis, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: piscis 24 de febrero 2020 al 01 de marzo 2020 
+description: Horóscopo semanal piscis 24 de febrero 2020 al 01 de marzo 2020. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar piscis, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-17'
+ lastmod: '2020-02-24'
 ---
 
 
 
-## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así piscis, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar piscis, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 
-Son muchos los que quieren arruinar tu vida piscis, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa piscis, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega piscis. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos piscis. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida piscis. Ahora brillas así que, aprovecha. Aprovecha todo.
-Un dinámico tránsito podría coincidir con un golpe de suerte, la oferta de un nuevo puesto de trabajo, o una oportunidad que es demasiado buena para dejarla pasar. Cualquiera que sea la experiencia que tengas, sentirás más riqueza a causa de ello. Prepárate para cuando Marte entre a tu signo a mitad de semana, dándote más vitalidad y coraje. Aun así, te ayudaría respetar las diferentes opiniones, ya que esta influencia podría llevarte a enojarte y caer en la trampa de alguien. Sin embargo, una disputa menor a veces puede aclarar las cosas, así que no hay necesidad de tener demasiada cautela.
+Céntrate en tus metas piscis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+La semana que comienza, que tiene un animado enfoque en tu sector doméstico, podría encontrarte con ganas de socializar con familiares y de ocuparte de los asuntos de tu hogar. Si recibirás a alguien que viene a quedarse, hacer una lista de todo lo que necesitas puede ser una buena idea. 
+El etéreo Neptuno está en tu signo, de modo que podrías tener una tendencia a perder el enfoque y distraerte con facilidad. Las tareas que debes hacer podrían parecer menos atractivas que leer un buen libro o ver una inspiradora película; ninguna de las cuales sería muy útil. Permítete tener mucha libertad, pero trata de crear un cronograma que te permita lograr todo a tiempo. Si lo haces, te sentirás mucho mejor. Por otro lado, alguien de tu círculo social podría sentir celos de ti, algo a lo que deberías prestar atención.
 
 ## Dinero
 
-Tienes una semana tensa por delante. Estás atrapado/a y puede que te sientas como una vaca siendo empujada a través de un canal de ganado vacuno. En situaciones como ésta, siempre es mejor ir con el flujo de las energías predominantes. El luchar en contra sólo empeorará las cosas. Ahora estás siendo empujado/a hacia tu casa y emociones internas. Consulta contigo mismo/a. ¿Estás realmente haciendo lo que quieras con tu vida?
+El Universo está afectando a tu sector de deuda y el dinero de los demás, mientras que le trae cambios a tu sector profesional. Este no es el momento de gastar en exceso. Más bien, es mejor invertir este tiempo en pagar tus deudas más urgentes mientras que consolidas tu carrera con otras actividades de desarrollo de habilidades, tales como seminarios. Te convertirás en un valor incalculable para tu empleador y también garantizarás tu seguridad en tu empleo.
