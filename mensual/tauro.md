@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo tauro febrero 2020
-description: El Horóscopo febrero de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo tauro marzo 2020
+description: El Horóscopo marzo de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/tauro/
 amplink: /horoscopo-mensual/amp/tauro/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo tauro febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo tauro marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
  video: g_VIh3NkXjc
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-El 7 de febrero tiene un buen comienzo, pero una inesperada tensión podría aumentar conforme surgen pequeños problemas. Prepárate y no pierdas tu equilibrio. La Luna Llena del 15 de febrero podría traer un cambio radical en tu trabajo que resulte ser sólo una sugerencia o prospecto momentáneo. Siente confianza en relación a tus propios talentos, habilidades y percepciones. No tienes que seguirle el juego a alguien que quiere más poder. Tu vida social recibe una inyección de vida y frescura con la Luna Nueva del 30 de febrero. Deja que alguien te lleve a un lugar especial. Conoce a todo un nuevo conjunto de fascinantes personas. No tienes que ser quien comience las conversaciones. 
+El mes pasado tuvo dos lunas llenas, y el próximo también las tendrá. Descansa luego de un posiblemente hiperactivo 1 de marzo, y prepárate para un ocupado 28 de marzo. La luna nueva (y el eclipse solar) del día 15 te mantendrá de fiesta con amistades, y encontrarás la diversión cerca de tu hogar. Algunas amistades y familiares más jóvenes pueden creer que son mejores que tú, pero están fuera de tu alcance. Muéstrales una de tus actividades favoritas de siempre. El quincuncio entre la Luna y Júpiter del 24 de marzo puede causar algunos momentos en que dudes de ti. No dejes que nada te saque del juego. Tienes las cosas bajo control. 

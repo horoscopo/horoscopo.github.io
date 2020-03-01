@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo piscis febrero 2020
-description: El Horóscopo febrero de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo piscis marzo 2020
+description: El Horóscopo marzo de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/piscis/
 amplink: /horoscopo-mensual/amp/piscis/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo piscis febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo piscis marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
  video: g_VIh3NkXjc
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Una situación laboral se resuelve a tu favor cuando la Luna forma sextil con Júpiter el 2 de febrero. Suavemente habla sobre una oportunidad que haga avanzar o expanda tu posición. La Luna Llena del 14 de febrero favorece las finanzas hogareñas y tu presupuesto personal. Descubre algo útil que ha sido pasado por alto, pero ahora, resuelve un pequeño misterio monetario. Haz un cambio sin mucho esfuerzo (compra marcas o en tiendas diferentes) que pudieran ahorrarte dinero todos los días. La Luna Nueva del 29 de febrero es positiva para ti y está llanea de inteligencia y sentido común. Cualquier nueva idea será tanto adecuada como exitosa. Las interacciones sociales también te beneficiarán. Anda y sal a mostrar toda esa gran energía.
+Debido al sextil formado entre la Luna y Venus, y Mercurio entrando a Acuario el 2 de marzo, ¡deberías prepararte para una temporada muy ocupada! La Luna Nueva del 8 de marzo es magia pura (algo de ello podría ser fantasía, pero aún sigue siendo divertido), pudiendo traer consigo buena suerte y dinero. Alguien espontáneamente te dirá lo que necesitas para que tal magia se manifieste. Piensa en grande bajo la Luna Llena del 23 de marzo. ¿Estás planeando un viaje? ¿Tienes ganas de probar una nueva técnica en tu trabajo o escuela? Experimenta a una escala más pequeña o cerca de casa, pero mantén esa intención de llevar tus nuevas habilidades a un escenario más grande. ¡Y no la abandones!

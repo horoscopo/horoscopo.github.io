@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo capricornio febrero 2020 
+title: Horoscopo capricornio marzo 2020 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
@@ -14,7 +14,4 @@ sitemap:
 ---
 
 
-Escucha a tu cuerpo con más atención alrededor de la luna nueva del 15 de febrero. Si no te alteras, o haces demasiado y vas demasiado rápido, todo debería estar bien. Aun así, ¿está tu digestión intentando decirte algo? Simplemente escucha. La conjunción entre Marte y Plutón el día 26 podría ser un desafío para todos. Controla tu temperamento, y no permitas que una pequeña discusión explote. Durante la luna llena del 29 de febrero, sé transparente y tendrás suerte extra. Fija tu propia agenda y sé feliz. Tal también complacerá a quienes te quieren. Deja que el mundo se entretenga a sí mismo. Tienes mejores cosas que hacer. 
-
-Días destacados: 2, 10, 23
-Días desafiantes: 22, 26
+La Luna Llena y el Eclipse Lunar del 7 de marzo podrían resaltar preocupaciones relacionadas con tu profesión. Toma una decisión para sentir seguridad con respecto a tus habilidades, talentos y posición actual. Si aparece una oportunidad, considérala, pero no te lances de inmediato. El 11 de marzo, el trígono que Venus forma con Neptuno hace que grandes sueños se junten con grandes sentimientos. Mercurio se torna retrógrado al día siguiente para desafiar esos sentimientos. La Luna Nueva y el Eclipse Solar total del 21 de marzo brillan sobre tu familia y ambiente doméstico. Termina un asunto importante que se ha estado demorando por demasiado tiempo. Prepárate mentalmente para comenzar con el próximo asunto importante. Quizás quieras pensar más en grande que antes. ¡Tú puedes! 

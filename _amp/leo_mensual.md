@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo leo febrero 2020 
+title: Horoscopo leo marzo 2020 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Puede que los fantasmas de amores pasados te tienten durante la luna llena del 6 de febrero. Deja que tus contactos sociales te mantengan con los pies en la tierra. Puede que no notes a un nuevo pretendiente que quiera ser más que eso. El sol forma un trígono con Plutón el 9 de febrero. No perderás tu equilibrio, pero puede que los demás sí. La luna nueva del 19 de febrero podría sorprenderte al hacerte notar lo mucho que tu escena social ha crecido. Puede que aparezcan personas de repente y que al conocerlas te agraden casi todas. Elige formas estándar de entretenimiento y no exageres con la creatividad. No todas las personas toleran el mismo nivel de entusiasmo que tú. 
+Analiza tus sentimientos durante la Luna Nueva del 8 de marzo y tal vez detecta un defecto personal que es fácil de remediar. Puede que sea algo pequeño que te ha estado irritando durante mucho tiempo. El presente es muy buen momento para fácilmente formar un nuevo y buen hábito. La Luna Llena del 23 de marzo les emana brillo a todas las relaciones en tu vida. Además, las uniones románticas reciben ternura. Anda y permite que esta vez sea tu amante quien te consienta. El lunes de Pascua, el 28 de marzo, es un día de alta energía debido a la conjunción entre Marte y la Luna. Puede que para entonces ya quieras comenzar algo que ha estado en tu mente durante todo el invierno. ¡Hazlo y hazlo bien!

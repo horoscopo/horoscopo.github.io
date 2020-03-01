@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo piscis febrero 2020 
+title: Horoscopo piscis marzo 2020 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Una situación laboral se resuelve a tu favor cuando la Luna forma sextil con Júpiter el 2 de febrero. Suavemente habla sobre una oportunidad que haga avanzar o expanda tu posición. La Luna Llena del 14 de febrero favorece las finanzas hogareñas y tu presupuesto personal. Descubre algo útil que ha sido pasado por alto, pero ahora, resuelve un pequeño misterio monetario. Haz un cambio sin mucho esfuerzo (compra marcas o en tiendas diferentes) que pudieran ahorrarte dinero todos los días. La Luna Nueva del 29 de febrero es positiva para ti y está llanea de inteligencia y sentido común. Cualquier nueva idea será tanto adecuada como exitosa. Las interacciones sociales también te beneficiarán. Anda y sal a mostrar toda esa gran energía.
+Debido al sextil formado entre la Luna y Venus, y Mercurio entrando a Acuario el 2 de marzo, ¡deberías prepararte para una temporada muy ocupada! La Luna Nueva del 8 de marzo es magia pura (algo de ello podría ser fantasía, pero aún sigue siendo divertido), pudiendo traer consigo buena suerte y dinero. Alguien espontáneamente te dirá lo que necesitas para que tal magia se manifieste. Piensa en grande bajo la Luna Llena del 23 de marzo. ¿Estás planeando un viaje? ¿Tienes ganas de probar una nueva técnica en tu trabajo o escuela? Experimenta a una escala más pequeña o cerca de casa, pero mantén esa intención de llevar tus nuevas habilidades a un escenario más grande. ¡Y no la abandones!

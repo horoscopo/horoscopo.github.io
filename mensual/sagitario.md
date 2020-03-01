@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo sagitario febrero 2020
-description: El Horóscopo febrero de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo sagitario marzo 2020
+description: El Horóscopo marzo de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo sagitario febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo sagitario marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: g_VIh3NkXjc
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Tendrás la facultad de resolver un difícil asunto bajo la Luna Nueva del 6 de febrero. Tal problema podría ser de mayor importancia para alguien cercano a ti más que para ti y podría involucrar dinero, bienes, o alguna otra cosa de valor material. Puede que no le parezca fácil a otros, pero no será difícil para ti. A tus amistades se les podría dificultar mantenerse al día contigo en torno a los días de Luna Llena del 21 de febrero. Sal de casa y acude a lugares que te fascinan. Te sorprenderás de quienes quieran acompañarte. El trígono entre la Luna y Venus del 26 de febrero le da un agradable y romántico final a tu mes.
+Tanto sueños como deseos podría surgir del trígono del 1 de marzo entre Venus y Neptuno en Signos de Agua. Tómalos con calma. Vivifica la energía de tu casa u organiza una gran fiesta o reunión familiar para la Luna Llena del 15 de marzo. Tanto la diversión, como la comida y la alegría serán el resaltado. Tu trabajo puede tratar de interferir, pero podrás manejarlo. Tu niño interior podría salir a jugar bajo la Luna Nueva del 30 marzo. Es posible que necesites placeres más juveniles en vez de infantiles, y vaya que mereces la comodidad y seguridad que te traen. Atrévete a danzar, bailar y correr bajo la lluvia, aunque sólo sea en tu imaginación.
