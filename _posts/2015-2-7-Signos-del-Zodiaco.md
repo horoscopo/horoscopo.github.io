@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de febrero 2020
-description: Horóscopos del dia de hoy 29 de febrero 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de marzo 2020
+description: Horóscopos del dia de hoy 01 de marzo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-02-29
+ lastmod: 2020-03-01
 ---
-Dirige e influye con asertividad, ya que recibes ayuda del Sol y Plutón. El trígono entre Marte y Saturno señala un curso definido de acción. Si es que buscas romance, espera un mejor momento al de esta noche. Las conversaciones podrían terminar incluso antes de haber comenzado con Mercurio a punto de cambiar de signo.
+Finaliza asuntos pendientes esta mañana. La conjunción de la tarde entre la Luna y Saturno asegura que cosas positivas sucederán si te apegas a la línea de acción que ya habías formulado. En una nota menos seria, la Luna en Sagitario de esta noche trae la sensación de querer hacer un par de travesuras. Ríete y diviértete.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
