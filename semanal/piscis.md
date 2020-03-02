@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 24 de febrero 2020 al 01 de marzo 2020 
-description: Horóscopo semanal piscis 24 de febrero 2020 al 01 de marzo 2020. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar piscis, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: piscis 02 de marzo 2020 al 08 de marzo 2020 
+description: Horóscopo semanal piscis 02 de marzo 2020 al 08 de marzo 2020. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-24'
+ lastmod: '2020-03-02'
 ---
 
 
 
-## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar piscis, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 
-Céntrate en tus metas piscis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-La semana que comienza, que tiene un animado enfoque en tu sector doméstico, podría encontrarte con ganas de socializar con familiares y de ocuparte de los asuntos de tu hogar. Si recibirás a alguien que viene a quedarse, hacer una lista de todo lo que necesitas puede ser una buena idea. 
-El etéreo Neptuno está en tu signo, de modo que podrías tener una tendencia a perder el enfoque y distraerte con facilidad. Las tareas que debes hacer podrían parecer menos atractivas que leer un buen libro o ver una inspiradora película; ninguna de las cuales sería muy útil. Permítete tener mucha libertad, pero trata de crear un cronograma que te permita lograr todo a tiempo. Si lo haces, te sentirás mucho mejor. Por otro lado, alguien de tu círculo social podría sentir celos de ti, algo a lo que deberías prestar atención.
+Sólo tú puedes salvar tu vida piscis. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú piscis. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+Ojalá que hayas recibido los beneficios de tomarte tiempo para relajarte y recargar baterías. Debido a que actualmente hay un fuerte énfasis en tu sector espiritual, continúa analizando tus sueños, haz tiempo para meditar y retírate de la vida cotidiana cuando sea necesario. Es crucial que disfrutes de algo de tiempo a solas, ya que hacerlo puede ayudarte a reflexionar y tomar decisiones importantes. Una vez que el Sol entre a tu signo el Domingo, tendrás más inclinación a contactar con los demás y ponerte a trabajar en tus planes personales.
 
 ## Dinero
 
-El Universo está afectando a tu sector de deuda y el dinero de los demás, mientras que le trae cambios a tu sector profesional. Este no es el momento de gastar en exceso. Más bien, es mejor invertir este tiempo en pagar tus deudas más urgentes mientras que consolidas tu carrera con otras actividades de desarrollo de habilidades, tales como seminarios. Te convertirás en un valor incalculable para tu empleador y también garantizarás tu seguridad en tu empleo.
+Estás a punto de tomar ventaja en una nueva empresa generadora de dinero. La suerte y la expansión vienen junto con la oportunidad, lo que significa que tendrás que prepararte para aceptar las ofertas de empresarios o inversionistas que quieran asegurarse de que tus ideas y productos tengan éxito. La ventana de oportunidad podría ser pequeña, por lo que ten todo preparado. Actualiza tu currículum y formula un plan de negocios.
