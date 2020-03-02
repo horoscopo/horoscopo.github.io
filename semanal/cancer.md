@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 24 de febrero 2020 al 01 de marzo 2020 
-description: Horóscopo semanal cancer 24 de febrero 2020 al 01 de marzo 2020. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+title: cancer 02 de marzo 2020 al 08 de marzo 2020 
+description: Horóscopo semanal cancer 02 de marzo 2020 al 08 de marzo 2020. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-24'
+ lastmod: '2020-03-02'
 ---
 
 
 
-## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 
-Quita importancia a las cosas cancer, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas cancer. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
-Tu vida social sigue siendo muy activa y positiva. Y parece ser que tienes amigos en posiciones de poder o autoridad que podrían ser de gran ayuda esta vez. Con el enérgico Marte y el alegre Júpiter en tu sector de amistad, las alineaciones clave con los planetas en tu signo podrían ayudarte a hacer un progreso increíble. Además, también tienes experiencia qué aportar y esta combinación puede ser perfecta para tener más éxito.
+Hay cosas que no deben hacer daño cancer, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo cancer, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo cancer, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa cancer, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+Las cuestiones de estilo de vida siguen manteniendo tu tiempo ocupado, lo que significa que tu semana estará ocupada mientas trabajas y vas al gimnasio. Si logras añadir creatividad a la hora de variar tu rutina diaria, te será más fácil apegarte a ella. Marte en tu sector de placer podría alentarte a explorar eventos culturales, como exposiciones de arte o artesanías, conciertos y mucho más. ¡Diviértete! La probabilidad de ganar algo de dinero extra durante el fin de semana podría volverse algo habitual.
 
 ## Dinero
 
-Sabes lo que quieres, financieramente hablando, y estás preparando un plan infalible que te ayude a alcanzar estos objetivos. Ciertos aspectos están facilitando nuevos logros en esta área de tu vida, y sientes más confianza que nunca. Pero el sólo hecho de tener una gran personalidad puede no ser la mejor manera de conseguir que los demás estén de tu lado. Logra un equilibrio entre construir tu caso y escuchar lo que tus compañeros de trabajo tienen que decir.
+Esta semana tienes una gran cantidad de impulso para atraer más dinero. No es sólo que tu ambición esta saliendo a la superficie. Es también la manera positiva en como te ven los demás como la persona exitosa que está en proceso de crecimiento. Podría haber cierta tensión con compañeros de trabajo o conocidos. Asegúrate de no apostar demasiado.

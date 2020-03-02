@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 24 de febrero 2020 al 01 de marzo 2020 
-description: Horóscopo semanal tauro 24 de febrero 2020 al 01 de marzo 2020. Fuera las preocupaciones. Tira del carro tauro, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+title: tauro 02 de marzo 2020 al 08 de marzo 2020 
+description: Horóscopo semanal tauro 02 de marzo 2020 al 08 de marzo 2020. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-24'
+ lastmod: '2020-03-02'
 ---
 
 
 
-## Fuera las preocupaciones. Tira del carro tauro, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 
-A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
- nada es para siempre, ni siquiera los problemas ni las preocupaciones…
-A medida que el eléctrico Urano retrocede en tu sector doméstico, noticias o eventos inesperados podrían tenerte saltando de felicidad. Esta influencia continuará, de modo que podría coincidir con cambiantes situaciones relacionadas con la dinámica de la familia o, tal vez, una mudanza. Venus ingresa a tu sector de relaciones, y esta tranquilizante influencia puede ayudar a aliviar cualquier dificultad y facilitar que se llegue a un compromiso. Sin embargo, otra conexión más convincente podría hacer que tengas ganas de lograr una meta cuando un enfoque relajado podría funcionar mejor.
+Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
+Podrías estar a punto de embarcarte en una aventura, en especial cuando el conversador Mercurio y el encantador Venus están pasando por tu sector de recreación. Si el costo parece inaccesible, puede que te preguntes si vale la pena. Piensa en la experiencia que esto representaría para ti y vuelve a considerarlo. Incluso si es costoso, podría ser beneficioso en varios aspectos. Por otro lado, la luna nueva en tu sector de hogar y familia podría traer cambios este fin de semana. Sin importar qué proyecto tengas en mente, este es el momento de comenzar.
 
 ## Dinero
 
-Tienes emoción de hacer nuevos y grandes contactos. Hagas lo que hagas para ganarte la vida, verás que es mucho más fácil el llevarse con amigos. El pedir ayuda a un mentor de confianza o simplemente presentarte a alguien que siempre ha sido una inspiración para ti es un gran uso de la energía actual. Algunos de estos mentores se pueden encontrar entre tus hijos, familiares y socios creativos.
+Para ti el dinero suele ser un medio para alcanzar un fin. Prefieres pensar en otras cosas que preocuparte acerca de cómo hacer más dinero. Pero ahora, con la actividad en tu sector de efectivo y valores, tienes tantas oportunidades que es difícil manejarlas todas. Si sientes agobio, mantén una lista de posibilidades y redúcela gradualmente hasta que solamente dejes las que son realistas. El dinero será abundante.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 24 de febrero 2020 al 01 de marzo 2020 
-description: Horóscopo semanal geminis 24 de febrero 2020 al 01 de marzo 2020. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca geminis.
+title: geminis 02 de marzo 2020 al 08 de marzo 2020 
+description: Horóscopo semanal geminis 02 de marzo 2020 al 08 de marzo 2020. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-24'
+ lastmod: '2020-03-02'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca geminis.
+## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 
-Empieza a cambiar la mentalidad geminis, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado geminis, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
-El encantador Venus y el atractivo Marte ingresan a tu sector de metas y ambición al comienzo de la semana, lo que podría animarte a que te expreses más. También puede que tengas ganas de hacer esas útiles conexiones que pueden ayudarte en tu apuesta al éxito. Cuando el filosófico Júpiter ingresa a su fase retrógrada en tu sector de recreación a mitad de semana, podrías involucrarte en un pasatiempo que disfrutabas en tu niñez. Esto podría ser muy gratificante durante los próximos meses. El fin de semana podría encontrarte provechando una oportunidad.
+Tienes que motivarte geminis. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino geminis. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro geminis, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa geminis, ¿tu tiempo no vale nada o qué?
+El sol, que sigue en tu signo, puede hacer que estés en tu elemento y que te prepares para explorar nuevas posibilidades. También hay mucha actividad en tu sector de finanzas personales, lo que indica que es un buen momento para buscar ofertas y, en general, hacer que tu dinero trabaje más para ti. 
+El jueves podría traer consigo la oportunidad para una salida que se convierta en una experiencia muy positiva. Al mismo tiempo, ten cuidado con los gastos. Tal vez quieras mucho algo, pero podrías decepcionarte cuando finalmente lo tengas en casa. Por si acaso, guarda los recibos. La luna en cuarto menguante del viernes puede ser la oportunidad para evaluar tus sentimientos acerca de una meta o plan actual. Si algo no se siente bien, puede que sea prudente investigarlo. Por último, el fin de semana podría encontrarte saliendo y tal vez visitando un lugar muy hermoso y con poderes sanadores.
 
 ## Dinero
 
-Esta semana puede dar lugar a algunas ideas nuevas e interesantes que pueden proporcionarte el impulso y los medios para comenzar un negocio en el hogar. Desde la venta de cosas en línea al  desarrollo de un portal virtual de asistencia, estás definitivamente motivado/a. Debido a que tu sector de sueños también se ve afectado, presta atención a lo que tus sueños te están diciendo. Te están conduciendo en la dirección financiera adecuada.
+El Universo lleva tu vida monetaria a un delicado equilibrio. Tus ideas creativas y enfoques son admirables ahora, y directamente afectarán a tu sector de viajes, aprendizaje y metafísica. Si sientes que necesitas aumentar tu educación, no dudes en gastar dinero en una clase o seminario. Todo esto es para el mejoramiento de tu futuro, y dará sus frutos monetarios en poco tiempo.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 24 de febrero 2020 al 01 de marzo 2020 
-description: Horóscopo semanal sagitario 24 de febrero 2020 al 01 de marzo 2020. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+title: sagitario 02 de marzo 2020 al 08 de marzo 2020 
+description: Horóscopo semanal sagitario 02 de marzo 2020 al 08 de marzo 2020. La vida es un ciclo #SIGNO, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-02-24'
+ lastmod: '2020-03-02'
 ---
 
 
 
-## Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+## La vida es un ciclo #SIGNO, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 
-A veces amas demasiado sagitario, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar sagitario, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. sagitario, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. sagitario, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos sagitario, y siente… Feliz semana…
-Esta podría ser una semana muy constructiva para ti, especialmente si estás trabajando en un proyecto creativo o deseas darle un gran comienzo a una idea empresarial. Sin embargo, en cuanto a romance, puede que no sea tan positiva. La energía de Saturno sugiere que una cita o una salida podría ser un poco restringida. La Luna Llena del martes podría irritarte un poco en el trabajo, pero tu vitalidad y alegría de vivir deberían de volver una vez que el Sol entre a tu signo el viernes.
+Tienes que empezar a vivir de nuevo Capri, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad Capri, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+Si tienes ganas de avanzar en un acuerdo o un asunto principal, te ayudará ser lo más flexible y adaptable que puedas. Además, asegúrate de que entiendas la idea central de las conversaciones importantes, ya que, con el ángulo que Mercurio forma con Neptuno, las cosas que deben ser claras quizás no lo sean. Además, cualquier malentendido podría ser la razón por la que no te atrae la idea de cooperar. Muchas cosas pueden comenzar a cambiar y mejorar una vez que las veas con más claridad.
 
 ## Dinero
 
+Algunos aspectos afectando tus vidas pasadas, sueños y karma liberan tus ideas más interesantes e individualistas. Lo que pudo estar bloqueado por obstáculos en el pasado se vuelve más libre y más fácil de conseguir ahora. Algunas de tus mejores ideas pueden surgir de tu subconsciente. Se te podría pedir que consideres trabajar desde casa o traer dinero extra mediante el uso de tu casa de manera creativa. Es tu decisión.
