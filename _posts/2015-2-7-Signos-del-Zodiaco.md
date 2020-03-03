@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 02 de marzo 2020
-description: Horóscopos del dia de hoy 02 de marzo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 03 de marzo 2020
+description: Horóscopos del dia de hoy 03 de marzo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-03-02
+ lastmod: 2020-03-03
 ---
-El Sol conjuntando a Neptuno hace que las cosas parezcan ser lo mismo, pero no lo son. No desearás conservar esa ilusión tanto como llegar al fondo de la misma. Esta noche, las circunstancias mejoran cuando la Luna forma sextil con el afortunado Júpiter. Tener suerte en el amor se ve favorecido. Parejas, ¿será que uno de ustedes hizo una promesa que necesita cumplir?
+Se dice que la intuición es más poderosa que el intelecto. No hay mejor momento que durante el sextil entre el Sol y Neptuno para probar esa teoría. Esta noche, revela honestamente lo que quieres bajo la Luna en Acuario. Es mucho mejor que pretender no necesitar algo o a alguien.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
