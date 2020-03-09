@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 02 de marzo 2020 al 08 de marzo 2020 
-description: Horóscopo semanal piscis 02 de marzo 2020 al 08 de marzo 2020. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+title: piscis 09 de marzo 2020 al 15 de marzo 2020 
+description: Horóscopo semanal piscis 09 de marzo 2020 al 15 de marzo 2020. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-02'
+ lastmod: '2020-03-09'
 ---
 
 
 
-## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 
-Sólo tú puedes salvar tu vida piscis. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú piscis. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
-Ojalá que hayas recibido los beneficios de tomarte tiempo para relajarte y recargar baterías. Debido a que actualmente hay un fuerte énfasis en tu sector espiritual, continúa analizando tus sueños, haz tiempo para meditar y retírate de la vida cotidiana cuando sea necesario. Es crucial que disfrutes de algo de tiempo a solas, ya que hacerlo puede ayudarte a reflexionar y tomar decisiones importantes. Una vez que el Sol entre a tu signo el Domingo, tendrás más inclinación a contactar con los demás y ponerte a trabajar en tus planes personales.
+A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada piscis. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No piscis, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres piscis, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas piscis pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
+Esta puede ser una oportunidad para aclarar las cosas y liberar cualquier tensión que se pueda haber creado entre tú y otra persona. Con el enérgico Marte en tu sector de relaciones, últimamente las personas en tu vida quizás hayan parecido menos dispuestas a llegar a un acuerdo. Pero si puedes señalarles los beneficios, entonces tal vez se dispongan más a encontrar un camino intermedio. Ciertas relaciones pueden atravesar un cambio, en particular si es posible discutir aspectos del vínculo que, si se trabajan, pueden hacer una diferencia positiva.
 
 ## Dinero
 
-Estás a punto de tomar ventaja en una nueva empresa generadora de dinero. La suerte y la expansión vienen junto con la oportunidad, lo que significa que tendrás que prepararte para aceptar las ofertas de empresarios o inversionistas que quieran asegurarse de que tus ideas y productos tengan éxito. La ventana de oportunidad podría ser pequeña, por lo que ten todo preparado. Actualiza tu currículum y formula un plan de negocios.
+Es posible que esta semana te reveles contra figuras de autoridad, por lo menos en tu mente. Los aspectos indican que necesitarás ayuda para mantener la calma. Es seguro que estás más comunicativo/a, pero trata de no ser demasiado agresivo/a en cuanto a lo que quieres y necesitas. Los demás también tienen que ser tomados en cuenta. Algunas restricciones y limitaciones pueden hacerte sentir como si fuera personal, pero lo más probable es que realmente no lo es.
