@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 02 de marzo 2020 al 08 de marzo 2020 
-description: Horóscopo semanal libra 02 de marzo 2020 al 08 de marzo 2020. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+title: libra 09 de marzo 2020 al 15 de marzo 2020 
+description: Horóscopo semanal libra 09 de marzo 2020 al 15 de marzo 2020. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-02'
+ lastmod: '2020-03-09'
 ---
 
 
 
-## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 
-Llegan oportunidades grandes libra y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias libra, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no libra, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
-Cuando el amoroso Venus se mueve más profundamente hacia tu sector personal, el deseo de hacer nuevas amistades podría aumentar. Puede que decidas llegar a un compromiso y buscar soluciones en las que todas las personas involucradas ganen. Otra faceta de esta situación puede ser el deseo de cambiar tu imagen, ya sea comprando ropa nueva, cambiando tu corte de pelo o incluso optando por un tatuaje o algo que tenga un profundo significado para ti. Este deseo de cambio de apariencia podría relacionarse con una transformación más profunda que estás atravesando. 
-  Debido a que el solemne Saturno y el intenso Plutón están retrógrados en tu sector psicológico, podrías estar a punto de deshacerte de todo lo que ya no te sirve, como si fueras una serpiente que muda de piel. De hecho, los próximos años pueden ser una etapa de renovación y renacimiento. Este fin de semana, la práctica de meditación o yoga con tus amistades puede ayudarte a sentir más calma y satisfacción. 
+No desperdicies ni un solo día de tu vida libra porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio libra, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la libra de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida libra. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
+Si te cuesta estar de acuerdo con un miembro de la familia, puede que se deba al eclipse lunar. Puede que tengas fuertes opiniones al respecto de un asunto y no quieras echarte atrás. Si intentas ponerte en su lugar, quizá veas las cosas de otra manera. No tienen que estar completamente de acuerdo, pero hacer un esfuerzo podría asegurar una tregua. En los últimos días de la semana, el conversador Mercurio entra a tu sector de ambiciones, por lo que quizá sea hora de contarle tus planes a una persona que pueda ayudarte. 
 
 ## Dinero
 
-Tienes actividad en tu sector de dinero y valores. Podría significar fortuna extrema que podría ya ser inestable o de corta duración. Si eres del tipo que arriesga, no es una mala semana para darle un giro a la rueda de la ruleta, pero guárdate la mitad de lo que ganes en el bolsillo - y no lo toques. Debido a que tu sector  de relaciones se ve afectado, puedes irritar a alguien si no tienes el suficiente cuidado.
+Tanto está pasando en tu vida laboral que puede que tengas que evitar el agobio o el cansancio. Sin embargo, las oportunidades están ahí, para que construyas tu propio pequeño imperio. Tu influencia se amplía sobre los grupos, por lo que asegúrate de que tu mensaje está pulido y listo para atacar. El dinero te sigue cuando eres fiel a lo que eres y lo que quieres decir.

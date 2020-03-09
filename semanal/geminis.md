@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 02 de marzo 2020 al 08 de marzo 2020 
-description: Horóscopo semanal geminis 02 de marzo 2020 al 08 de marzo 2020. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: geminis 09 de marzo 2020 al 15 de marzo 2020 
+description: Horóscopo semanal geminis 09 de marzo 2020 al 15 de marzo 2020. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-02'
+ lastmod: '2020-03-09'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 
-Tienes que motivarte geminis. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino geminis. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro geminis, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa geminis, ¿tu tiempo no vale nada o qué?
-El sol, que sigue en tu signo, puede hacer que estés en tu elemento y que te prepares para explorar nuevas posibilidades. También hay mucha actividad en tu sector de finanzas personales, lo que indica que es un buen momento para buscar ofertas y, en general, hacer que tu dinero trabaje más para ti. 
-El jueves podría traer consigo la oportunidad para una salida que se convierta en una experiencia muy positiva. Al mismo tiempo, ten cuidado con los gastos. Tal vez quieras mucho algo, pero podrías decepcionarte cuando finalmente lo tengas en casa. Por si acaso, guarda los recibos. La luna en cuarto menguante del viernes puede ser la oportunidad para evaluar tus sentimientos acerca de una meta o plan actual. Si algo no se siente bien, puede que sea prudente investigarlo. Por último, el fin de semana podría encontrarte saliendo y tal vez visitando un lugar muy hermoso y con poderes sanadores.
+A veces sientes como si no avanzaras geminis, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba geminis, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo geminis, feliz semana.
+Después de un mes un poco intenso, las cosas podrían ponerse un poco más livianas y luminosas. Un enfoque renovado en tu sector de viajes y exploración podría poner el enfoque en nuevos caminos e interesantes oportunidades. Podrías descubrir que el regreso de Mercurio a tu sector de recursos compartidos te anima a trabajar más duro para resolver cualquier problema financiero. Marte ingresa a tu sector de metas y ambiciones el viernes, lo que podría impulsarte a lograr grandes cosas.
 
 ## Dinero
 
-El Universo lleva tu vida monetaria a un delicado equilibrio. Tus ideas creativas y enfoques son admirables ahora, y directamente afectarán a tu sector de viajes, aprendizaje y metafísica. Si sientes que necesitas aumentar tu educación, no dudes en gastar dinero en una clase o seminario. Todo esto es para el mejoramiento de tu futuro, y dará sus frutos monetarios en poco tiempo.
+Te encuentras en un momento de aumento de actividad social, lo que puede ayudar a cualquier empresa de negocios puesta en marcha recientemente. Con cierto enfoque en grupos, política y negocios personales, estás a punto de hacer un gran cambio en tu vida; uno que puede acabar afectando la forma en la que vives. Es más fácil comunicarse con grupos acerca de tus ideas y de influir en la opinión pública a tu favor.

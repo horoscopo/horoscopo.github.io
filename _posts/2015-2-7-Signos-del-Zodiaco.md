@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de marzo 2020
-description: Horóscopos del dia de hoy 08 de marzo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de marzo 2020
+description: Horóscopos del dia de hoy 09 de marzo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-03-08
+ lastmod: 2020-03-09
 ---
-Expresa tu opinión. Las vibras provenientes de la conjunción entre el Sol en Escorpión y Mercurio son oportunas si necesitas respaldar algo que es importante para ti. La vida va un poco más allá de lo que crees querer y es más sobre lo que está destinado a ser cuando la Luna forma trígono con Venus esta noche.
+Los recuerdos y el amor hacen la diferencia, y vaya que es una muy buena diferencia en un domingo de septiembre. Haz algo que sea refrescantemente positivo. Todos tenemos cosas favoritas. Tú seguramente tienes una en mente. Esta noche, disfruta de la gente orbitando a tu alrededor bajo la Luna en el divertido Leo. Es una buena noche para la conversación.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
