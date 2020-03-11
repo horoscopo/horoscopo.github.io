@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de marzo 2020
-description: Horóscopos del dia de hoy 10 de marzo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 11 de marzo 2020
+description: Horóscopos del dia de hoy 11 de marzo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-03-10
+ lastmod: 2020-03-11
 ---
-El día de hoy puede ser un caleidoscopio de emociones que sirve como herramienta para hacerle frente a la cuadratura entre la Luna y Plutón. El resultado es un complejo patrón que hay que ordenar cuando los pajares son enormes y las agujas son muy, muy pequeñas. Tal energía continúa a lo largo de una noche que debería ser pasada en casa en un ambiente tranquilo y sereno.
+Con su intensa comunicación, el día de hoy es una llamada para deshacerse de una buena parte de lo que le llega a uno con el fin de encontrar lo bueno. Sí, hay cosas buenas. Esta noche, el sextil entre la Luna y Marte aumenta la atracción magnética. Lo positivo es que descubrirás compatibilidad más allá de la química.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
