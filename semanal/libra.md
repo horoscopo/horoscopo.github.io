@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 09 de marzo 2020 al 15 de marzo 2020 
-description: Horóscopo semanal libra 09 de marzo 2020 al 15 de marzo 2020. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+title: libra 16 de marzo 2020 al 22 de marzo 2020 
+description: Horóscopo semanal libra 16 de marzo 2020 al 22 de marzo 2020. Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,18 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-09'
+ lastmod: '2020-03-16'
 ---
 
 
 
-## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+## Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
-No desperdicies ni un solo día de tu vida libra porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio libra, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la libra de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida libra. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
-Si te cuesta estar de acuerdo con un miembro de la familia, puede que se deba al eclipse lunar. Puede que tengas fuertes opiniones al respecto de un asunto y no quieras echarte atrás. Si intentas ponerte en su lugar, quizá veas las cosas de otra manera. No tienen que estar completamente de acuerdo, pero hacer un esfuerzo podría asegurar una tregua. En los últimos días de la semana, el conversador Mercurio entra a tu sector de ambiciones, por lo que quizá sea hora de contarle tus planes a una persona que pueda ayudarte. 
+No puedes esperar a que las cosas pasen libra, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres libra, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA libra. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+Tus pensamientos pueden ser profundos, y —al parecer— esta enternecedora y espiritual etapa durará un tiempo más. Pero no dejes que eso retrase las actividades que, a primera vista, parezcan triviales o superficiales. Necesitas los momentos serios y también la diversión. Y cuando el conversador Mercurio pasa por tu sector de comunicación, es un excelente momento para conectar con las personas que pueden ayudarte a cumplir una meta personal.
+El martes puede ser un encantador día para una cita especial con tu pareja o incluso para una primera cita con un interés romántico. El sol en tu sector de romance se alinea con el positivo Júpiter. Prepárate para que sucedan cosas buenas.
+Debido a que el activo Urano está a punto de abandonar tu sector de comunicación, que no te sorprenda si los próximos días coinciden con un encuentro o con información que cambia tu perspectiva sobre la vida. Y ya que el eléctrico Urano ingresará a tu sector hogareño la semana próxima, podrías cumplir ese tan ansiado logro importante.
 
 ## Dinero
 
-Tanto está pasando en tu vida laboral que puede que tengas que evitar el agobio o el cansancio. Sin embargo, las oportunidades están ahí, para que construyas tu propio pequeño imperio. Tu influencia se amplía sobre los grupos, por lo que asegúrate de que tu mensaje está pulido y listo para atacar. El dinero te sigue cuando eres fiel a lo que eres y lo que quieres decir.
+Tienes una situación interesante esta semana. Tu vida puede ser más difícil de lo que es, sobre todo cuando se trata de lo que es tuyo. Definir cómo vas a ganar dinero ahora y en el futuro es mejor que dejarlo todo al azar. Confiar excesivamente en los demás no es la mejor opción ahora.

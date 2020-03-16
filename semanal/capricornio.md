@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 09 de marzo 2020 al 15 de marzo 2020 
-description: Horóscopo semanal capricornio 09 de marzo 2020 al 15 de marzo 2020. Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+title: capricornio 16 de marzo 2020 al 22 de marzo 2020 
+description: Horóscopo semanal capricornio 16 de marzo 2020 al 22 de marzo 2020. Da la bienvenida a tu nueva vida capricornio, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-09'
+ lastmod: '2020-03-16'
 ---
 
 
 
-## Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+## Da la bienvenida a tu nueva vida capricornio, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 
-A veces quieres llegar al fondo de cualquier cosa capricornio, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo capricornio. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a capricornio, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona capricornio así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
-Asegúrate de destinar mucho tiempo para ti si tienes plazos con los que debes cumplir. Es mejor no dejar todo para el último momento, siempre y cuando el conversador Mercurio siga en su fase retrógrada. Sin embargo, hay buenas noticias el viernes, cuando Mercurio conjunta a Venus. Esto podría hacer que conectes con una persona que te recuerda a alguien del pasado. Debido a esto, puede que se lleven excepcionalmente bien. La luna nueva del domingo podría coincidir con una oportunidad de oro. ¿La tomarás?
+Has caído en la rutina capricornio, quieres pelear por personas que quizás no tengan mucho en común contigo pero aún así, te sigues aferrando a algo que quizás tenga fecha de caducidad. Necesitas hablar, conversar, pero un largo tiempo y de verdad poner todas y cada una de las cartas sobre la mesa. Te guardas demasiado para ti, para dentro, y por más que intentas sacarlo es como si algo te lo impidiera. Esta semana es buena para hacer balance de lo que quieres, de lo que buscas y de lo que necesitas. No vas a parar, tienes muchas cosas que hacer y eso será lo que te aleje de algunos problemas. Pero cuando eso que hagas se acabe, el problema seguirá estando presente, seguirá en el mismo sitio donde lo dejaste, y como no lo soluciones permanecerá ahí todo el tiempo. No te agobies y respira hondo cuando algo se ponga difícil. De todo se sale capricornio, ya lo sabes. Las pequeñas cosas cuentan mucho ahora así que, empieza a decir que “si” a cualquier plan que te propongan, por pequeño que sea. Si quieres salvar algo, habla capricornio, habla y saca de una vez todo ese universo de sentimientos y de emociones que tienes dentro. Como no seas claro de verdad y sólo tragues y tragues, todo va a salir mal. Disfruta esta semana pero aclárate un poco…
+Es esa época del año en la que necesitas tomarte tiempo para relajarte y disfrutar un poco de la vida. Toma conciencia de todo lo que has logrado y analiza tus metas y planes para los próximos doce meses. Asegúrate de dejar mucho tiempo para socializar y divertirte, ya que hay una poderosa alineación que te anima a conocer gente, entablar contactos y formar parte de tu comunidad. Si una excepcional oferta o invitación se te presenta este fin de semana, es posible que te beneficies enormemente de aceptarla.
 
 ## Dinero
 
-Esta semana se trata de alguien que conoces probablemente dirigiéndote a un mal camino o distrayéndote mucho de tus metas monetarias o laborales dificultando tu balance. No puedes evitar ser irresistible, pero bien puedes utilizar la energía del Universo a mitad de semana. Tu atención debe estar en la eliminación de viejas deudas.
+Esta semana estás pensando en dónde poner tu foco de atención. Esto se hace aún más importante con los aspectos afectando a tu sector de hogar y emociones internas. Conforme consideras dónde establecerte, es posible que también estés pensando en dónde quieres estar en cinco o diez años. Un aspecto favorable ayuda a que tu vida laboral sea más creativa y satisfactoria. Todo lo que necesitas hacer es poner tu plan en marcha y el dinero llegará.

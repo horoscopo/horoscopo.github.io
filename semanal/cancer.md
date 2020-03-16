@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 09 de marzo 2020 al 15 de marzo 2020 
-description: Horóscopo semanal cancer 09 de marzo 2020 al 15 de marzo 2020. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: cancer 16 de marzo 2020 al 22 de marzo 2020 
+description: Horóscopo semanal cancer 16 de marzo 2020 al 22 de marzo 2020. Llega una semana bonita cancer, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención cancer, y seguramente la persona que menos te esperabas…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-09'
+ lastmod: '2020-03-16'
 ---
 
 
 
-## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+## Llega una semana bonita cancer, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención cancer, y seguramente la persona que menos te esperabas…
 
-Crees que puedes con todo cancer. 
- Es tan complicado…
-Los planes que dabas por inamovibles podrían cambiar. Sin embargo, esto es algo que te agradaría. Si debes encargarte de tus responsabilidades, puede que tengas ganas de rebelarte y hacer lo que quieras. Y con la Luna Llena alentándote a salir de tu zona de confort, conservar el statu quo podría ser la opción más aburrida. Sin embargo, te convendría ponerte a trabajar en serio y encargarte de estos asuntos de una vez por todas. Tendrás tiempo para divertirte una vez que los hayas terminado.
+Bueno cancer, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
+Aunque la Luna Nueva se manifiesta en el social Acuario, analiza cuidadosamente la posibilidad de hacer un nuevo comienzo esta semana. Si bien esta puede ser una excelente oportunidad para entrar a nuevos círculos, te ayudaría investigar un poco antes de involucrarte demasiado. Esto se aplica a nuevas relaciones románticas también. Hay una gran cantidad de oportunidades apareciendo en el frente laboral, aunque lo más seguro es que coseches sus beneficios a la larga. El Día de San Valentín se vislumbra sensual, un poco intenso y divertido.
 
 ## Dinero
 
-Es probable que busques maneras de hacer que tu creatividad fluya. Tienes que usar tus emociones para ganarte la vida de alguna manera. Puesto que los aspectos presentes afectan tu sector de romance, niños y familia; buscar productos que todos disfruten te rendirá los mejores resultados. Planea cómo entretener, o como servir a tu demográfico elegido y verás la mayor cantidad de dinero al final.
+Esta semana tienes un nuevo enfoque en tu sector del hogar y las emociones internas. Si has estado pensando en el concepto del hogar y lo que éste significa para ti, es posible que desees echar raíces, tal vez por primera vez en tu vida. Conforme estás tratando de tomar el control de tu vida hogareña, asegúrate de también proyectar tu presupuesto de gastos de manutención durante el resto del año. Lo que quieres tiene la posibilidad de hacerse real si lo planeas con anticipación.

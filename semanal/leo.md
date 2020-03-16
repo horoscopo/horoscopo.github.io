@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 09 de marzo 2020 al 15 de marzo 2020 
-description: Horóscopo semanal leo 09 de marzo 2020 al 15 de marzo 2020. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+title: leo 16 de marzo 2020 al 22 de marzo 2020 
+description: Horóscopo semanal leo 16 de marzo 2020 al 22 de marzo 2020. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-09'
+ lastmod: '2020-03-16'
 ---
 
 
 
-## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 
-Mira piscis, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer leo, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
-Hay una energía tan positiva en la semana que está por venir que podría ser muy productiva para ti. Por ejemplo, cuando el seguro Marte, tu planeta regente, se alinea con el apasionado Plutón, puede que quieras enfocarte por completo en una meta que es de suma importancia. Una vez que des el primer paso, el resto vendrá solo. Las personas indicadas y el momento indicado también podrían aparecer para ayudarte. Puede que durante el fin de semana tomes un camino más independiente.
+Tienes que motivarte leo. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino leo. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro leo, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa leo, ¿tu tiempo no vale nada o qué?
+Conforme Júpiter continúa su fase retrógrada en tu sector de amistades, las conexiones del pasado podrían volver a aparecer y tener un rol protagónico durante las próximas semanas y los próximos meses. Además, cierta información podría hacer que explores algunas oportunidades fascinantes, pero antes de meterte de lleno, asegúrate de que sean sólidas y reales y no un simple espejismo. Además, puede que debas dejar algo atrás para poder aprovechar la oportunidad, así que asegúrate de hacer lo correcto desde el principio.
 
 ## Dinero
 
-Esta semana podría ser tensa para ti. Considera seriamente la posibilidad  de hacerle caso a los mensajes que estás recibiendo de tus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están en lo correcto y dándole al tino. Al mismo tiempo, sigue añadiendo habilidades al asistir a clases, talleres y seminarios. Tienes lo que se necesitas, pero sería bueno el tener un poco más.
+La buena noticia es que el Universo te está haciendo parecer interesante y único/a con todos. La mala noticia es que aporta una buena dosis de tensión a tu sector de profesión. Es posible que desees que tu individualidad y  tus buenas ideas brillen, pero alguien en el trabajo quiere mantener el statu quo. El dinero viene cuando eres capaz de alzar la línea sólo un poco con tal de encontrar un foro de apoyo para tus habilidades.

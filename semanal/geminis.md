@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 09 de marzo 2020 al 15 de marzo 2020 
-description: Horóscopo semanal geminis 09 de marzo 2020 al 15 de marzo 2020. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+title: geminis 16 de marzo 2020 al 22 de marzo 2020 
+description: Horóscopo semanal geminis 16 de marzo 2020 al 22 de marzo 2020. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-09'
+ lastmod: '2020-03-16'
 ---
 
 
 
-## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 
-A veces sientes como si no avanzaras geminis, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba geminis, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo geminis, feliz semana.
-Después de un mes un poco intenso, las cosas podrían ponerse un poco más livianas y luminosas. Un enfoque renovado en tu sector de viajes y exploración podría poner el enfoque en nuevos caminos e interesantes oportunidades. Podrías descubrir que el regreso de Mercurio a tu sector de recursos compartidos te anima a trabajar más duro para resolver cualquier problema financiero. Marte ingresa a tu sector de metas y ambiciones el viernes, lo que podría impulsarte a lograr grandes cosas.
+A veces dejas las puertas medio abiertas geminis, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar geminis porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien geminis, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado geminis, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
+Tus interacciones diarias, administrativas, de escritura y de enseñanza podrían incrementar, aumentando mucho más tu carga de trabajo. Puede que inclusive logres terminar aún más si logras formular una estrategia que te ayude a lo largo de este ocupado período. La posibilidad de un trato lucrativo que surja el lunes podría ser demasiado buena para dejarla pasar. A pesar de que estés trabajando tanto, no descuides la oportunidad de divertirte. De hecho, si haces de ello una prioridad, tu ser se sentirá rejuvenecido y más optimista. Decorar tu hogar podría estar en tus planes del domingo.
 
 ## Dinero
 
-Te encuentras en un momento de aumento de actividad social, lo que puede ayudar a cualquier empresa de negocios puesta en marcha recientemente. Con cierto enfoque en grupos, política y negocios personales, estás a punto de hacer un gran cambio en tu vida; uno que puede acabar afectando la forma en la que vives. Es más fácil comunicarse con grupos acerca de tus ideas y de influir en la opinión pública a tu favor.
+Tu sector social está iluminado, trayendo gente nueva que es absolutamente necesario que conozcas y ayudándote a formar uniones estratégicas beneficiosas para tus planes profesionales a largo plazo. Sin embargo, es momento de que te vuelvas más responsable con las deudas de tu vida. El no pagar las facturas pendientes solo agrava las cosas, ya que los planetas a veces pueden traer pena y pérdida.
