@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 09 de marzo 2020 al 15 de marzo 2020 
-description: Horóscopo semanal piscis 09 de marzo 2020 al 15 de marzo 2020. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+title: piscis 16 de marzo 2020 al 22 de marzo 2020 
+description: Horóscopo semanal piscis 16 de marzo 2020 al 22 de marzo 2020. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-09'
+ lastmod: '2020-03-16'
 ---
 
 
 
-## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada piscis. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No piscis, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres piscis, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas piscis pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-Esta puede ser una oportunidad para aclarar las cosas y liberar cualquier tensión que se pueda haber creado entre tú y otra persona. Con el enérgico Marte en tu sector de relaciones, últimamente las personas en tu vida quizás hayan parecido menos dispuestas a llegar a un acuerdo. Pero si puedes señalarles los beneficios, entonces tal vez se dispongan más a encontrar un camino intermedio. Ciertas relaciones pueden atravesar un cambio, en particular si es posible discutir aspectos del vínculo que, si se trabajan, pueden hacer una diferencia positiva.
+Disfruta de la vida piscis, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven piscis. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana piscis.
+Debido a que el perseverante Marte continúa su fase retrógrada en tu signo, podría parecer que la vida va en contra de tus deseos e intenciones. Sin embargo, esta puede ser la oportunidad para reflexionar sobre lo que en verdad quieres. Tal vez descubras que lo que más satisfacción te produce es algo mucho más profundo y sentido de lo que pensabas. 
+El vital Marte forma un tenso ángulo con el eléctrico Urano en tu sector del hogar. Durante los próximos días, podrías frustrarte por la falta de progreso. Marte se vuelve directo más adelante en el mes, pero hasta ese momento usa esta oportunidad para librarte de aquellas cuestiones que ya no te benefician. Puede ser muy liberador. Además, la luna en cuarto menguante en tu sector del hogar el sábado podría animarte a entablar conexiones con respecto a proyectos y compromisos familiares. Pedir opiniones puede ser fundamental para lograr el éxito.
 
 ## Dinero
 
-Es posible que esta semana te reveles contra figuras de autoridad, por lo menos en tu mente. Los aspectos indican que necesitarás ayuda para mantener la calma. Es seguro que estás más comunicativo/a, pero trata de no ser demasiado agresivo/a en cuanto a lo que quieres y necesitas. Los demás también tienen que ser tomados en cuenta. Algunas restricciones y limitaciones pueden hacerte sentir como si fuera personal, pero lo más probable es que realmente no lo es.
+Esta semana tienes un tipo especial de energía en el frente de trabajo. Parece que no puedes hacer nada mal, lo cuál es una buena cosa que mostrarle a tus superiores. Mientras que tu creatividad es fuerte y los sueños son fuente de inspiración, no elimines ciertos aspectos con tal de llegar a la meta más rápido. ¡So lo haces esta semana, sólo quedaras atrapado/a!
