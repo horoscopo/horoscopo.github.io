@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de marzo 2020
-description: Horóscopos del dia de hoy 17 de marzo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de marzo 2020
+description: Horóscopos del dia de hoy 18 de marzo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-03-17
+ lastmod: 2020-03-18
 ---
-La cuadratura de hoy entre Plutón y la Luna en Libra enciende las emociones. No te apresures, ve más despacio y mantén el equilibrio. Esta noche, la Luna saliéndose de su órbita después de manifestarse como Luna Nueva sugiere la necesidad de una pizca de equilibrio. Es hora de respirar profundamente y serenarse. Solteros, no es buen momento para empezar nuevas relaciones.
+Disfruta de lo inesperado cuando la Luna aspecte a Mercurio y a Plutón. Puede que hasta te resulte divertido que se te tome por sorpresa. El aspecto de esta noche entre Venus y la Luna en Piscis es un poco difícil para el romance, pero eso no quiere decir que no puedas disfrutar de pasar tiempo con amigos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
