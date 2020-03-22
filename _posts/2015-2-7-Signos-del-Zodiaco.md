@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de marzo 2020
-description: Horóscopos del dia de hoy 21 de marzo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 22 de marzo 2020
+description: Horóscopos del dia de hoy 22 de marzo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-03-21
+ lastmod: 2020-03-22
 ---
-No es raro encontrar la vida llena de propósitos más específicos y la motivación para descubrir maneras de lograrlos cuando Mercurio transita en Capricornio. Las parejas encuentran increíble lo que puede hacer el poder transformador del amor. Los solteros se percatan de que la química con alguien es algo especial conforme sienten cómo se sobrecalienta el aire.
+¡Feliz cumpleaños a Cáncer en los próximos 30 días! Entra a la etapa de planificación, porque tienes un buen periodo de tiempo por delante con Marte en Cáncer prometiéndote tanto velocidad como estabilidad. El misterio y el magnetismo se vuelven el nombre del juego esta noche cuando Venus, el planeta del amor, aspecta al complejo Plutón.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
