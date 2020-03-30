@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 23 de marzo 2020 al 29 de marzo 2020 
-description: Horóscopo semanal aries 23 de marzo 2020 al 29 de marzo 2020. Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
+title: aries 30 de marzo 2020 al 05 de abril 2020 
+description: Horóscopo semanal aries 30 de marzo 2020 al 05 de abril 2020. Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,17 +12,19 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-23'
+ lastmod: '2020-03-30'
 ---
 
 
 
-## Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
+## Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 
-Últimamente sientes que las decisiones que has tomado no han sido las más acertadas pero todo se puede arreglar. 
-Como si, por momentos, no fueras capaz de encontrar salida a tus preocupaciones, a todo ese estrés mental, a ese círculo en el que te has metido solo.
-Tus habilidades de organización mejoran desde el martes, cuando tu aportación en tu lugar de trabajo y en tu vida diaria puede ayudarte a traerle orden al desorden. Sin embargo, puede que te resulte difícil evitar escenarios caóticos el jueves, cuando un plan que salga mal lo haga de una manera espectacular. No pierdas el tiempo preocupándote y enojándote. Te irá mejor si tratas de ceder y al mismo tiempo aportar tu ayuda. Establecerle a la gente ultimátums desde luego no va a funcionar. En cuanto a romance, un encuentro podría ser candente.
+Llega una buenísima semana aries pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien aries, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado aries, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo aries, pelea por lo que te mereces.
+Todavía hay mucha actividad en tu signo, lo que podría hacer que los próximos meses sean bastante intensos. Aun así, eres el tipo de persona que disfruta de un desafío y de usar sus fortalezas innatas. 
+Esta semana, puede que necesites llegar a un compromiso con algunos familiares si quieres avanzar con tus planes. Ofrecerte a tener un buen gesto con ellos más adelante en la semana puede ser suficiente incentivo. 
+El martes podría ser un día muy positivo y animado en el que un evento social sea muy placentero. Si estás dudando respecto de si debes aceptar una invitación, hazlo. Podría ser muy divertido.
+La vida hogareña podría estar repleta de actividades el fin de semana. Cuando el conversador Mercurio se alinea con el incansable Urano, tus mejores planes podrían quedar en la nada. Es posible que lleguen inesperadas visitas o invitados, y que debas atenderlos en lugar de hacer lo que habías planificado.
 
 ## Dinero
 
-Esta semana es para ti de redes sociales, las cuáles son cada vez más importantes. Tus amigos realmente te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo muchos cambios que pueden haber afectado la forma en cómo te ves y te presentas a ti mismo/a. A algunos de tus amigos podría no gustarles éste proceso. Sea amable con ellos ya que no entienden hacia dónde te diriges y que éste es sólo un viaje de uno.
+Para ti, esta semana se trata de tus relaciones. Tu vida personal y tus contactos profesionales serán muy importantes ahora. Si tienes una comida o cena de negocios, paga por una o ambas de las cuentas si piensas que es necesario. Reunirse con amigos poderosos generalmente tiende a valer la pena al final.

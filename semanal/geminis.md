@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 23 de marzo 2020 al 29 de marzo 2020 
-description: Horóscopo semanal geminis 23 de marzo 2020 al 29 de marzo 2020. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+title: geminis 30 de marzo 2020 al 05 de abril 2020 
+description: Horóscopo semanal geminis 30 de marzo 2020 al 05 de abril 2020. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad geminis, ahora estás que lo partes.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,18 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-23'
+ lastmod: '2020-03-30'
 ---
 
 
 
-## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad geminis, ahora estás que lo partes.
 
-Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
-Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
-Puede que sientas enfado por no conseguir lo que quieres lo suficientemente rápido. Un tenso aspecto que se desarrolla esta semana puede animarte a tomar atajos para obtener resultados más rápidos. Resiste la tentación: tu reputación podría estar en riesgo. Tienes acceso a una potente fuente de energía que puede ayudarte a lograr resultados positivos, si sabes cómo conectarla con la tierra. El ejercicio puede ser beneficioso en este caso, ya que mover el cuerpo puede centrarte y calmarte. 
-El dinámico Marte continúa en su fase retrógrada hasta la última parte del mes. No bajes los brazos si los resultados que esperabas tardan en llegar. Usa este tiempo para hacer los ajustes necesarios antes de seguir adelante. Debido a que el encantador Venus continúa en Virgo y en tu sector de romance, puede que tengas algunas maravillosas citas con una persona afín. El arte y las manualidades también pueden captar tu atención durante este período.
+A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario Capri, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada.
+Que no te sorprenda sentirte más emocional de lo usual durante esta semana. De ser así, puede que te sea útil quitar algunos compromisos de tu agenda y, tal vez, delegar parte de tu trabajo. El motivo puede ser un incómodo aspecto que podría hacer resurgir sentimientos del pasado. Si dejas que estos interfieran en tu experiencia, esto podría afectar tu trabajo y cualquier decisión clave. Hablar con alguna de tus amistades cercanas o con un confidente sobre tus asuntos puede ayudarte a tener más tranquilidad.
 
 ## Dinero
 
-Es una época de grandes cambios para ti. Puede que tu lugar de trabajo se esté moviendo en una dirección más agradable, y que tú seas capaz de crear un poco de paz por ti mismo/a en medio de la tensión de los demás. Pero el Universo exige nada menos que la completa transformación cuando se trata de tus patrones de gastos con los miembros de la familia, los niños, o parejas románticas. Poco hace que tu punto de vista sea entendido, no tienes que irte por la borda.
+Ahora es más fácil que te llegue dinero y que también lo ahorres o gastes de la misma manera. Te estás dando cuenta de lo mucho que tu trabajo realmente vale la pena y eres lo suficientemente valiente como para cargar con consecuencia. El Universo destaca tu hogar y emociones internas. ¿Cómo puedes liberarte de tus viejos patrones en cuanto a dinero para poder saldar tu deuda?

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 23 de marzo 2020 al 29 de marzo 2020 
-description: Horóscopo semanal capricornio 23 de marzo 2020 al 29 de marzo 2020. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+title: capricornio 30 de marzo 2020 al 05 de abril 2020 
+description: Horóscopo semanal capricornio 30 de marzo 2020 al 05 de abril 2020. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-23'
+ lastmod: '2020-03-30'
 ---
 
 
 
-## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
-¿En qué es lo que más quieres invertir? Sea lo que sea, la Luna Nueva del lunes te anima a moverte hacia la dirección que te traiga el mejor resultado posible. Podrías tener más recursos a tu disposición de los que crees tener, lo que incluye tener fe en ti y en lo que estás esperando alcanzar. Si te preocupa lo que podrías acabar perdiendo, podría ser debido a que ciertos temores están bloqueando el proceso. Puede que tales comiencen a disiparse cuando des el primer paso.
+Se avecinan cosas nuevas capricornio, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar capricornio, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin capricornio, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
+Con Júpiter adentrándose más profundamente en Virgo, pareces querer explorar horizontes lejanos. También pareces tener más disposición a experimentar con nuevas ideas y oportunidades. En cuanto a relaciones se refiere, ten cuidado el lunes, ya que alguien podría tener una agenda oculta. Puede que tengas que leer entre líneas. Algunos de tus deseos subconscientes podrían entrar en conflicto con tus planes, por lo que pasa algo de tiempo reflexionando sobre lo que realmente quieres. Una vez que tengas eso claro, logarás un gran progreso. Por último, puede que sea momento de compartir un secreto.
 
 ## Dinero
 
-Esta semana tienes aspectos que te dan más magnetismo. La parte difícil es que tu sector de profesión requiere de más atención ahora para que puedas hacer tu trabajo más sostenible, rentable y seguro. No dejes nada al azar por ahora. Construye lo que quieres ver.
+Esta semana recibes un fuerte mensaje del Universo. Con tanta energía tensa volando por ahí, necesitas buscar respuestas en el área de tu carta que rige la transformación personal. ¿Qué imagen quieres proyectar hacia el exterior? Puedes marcar la diferencia ahora.

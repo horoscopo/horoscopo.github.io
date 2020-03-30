@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 23 de marzo 2020 al 29 de marzo 2020 
-description: Horóscopo semanal cancer 23 de marzo 2020 al 29 de marzo 2020. Nada tiene que ser ahora suficiente para ti cancer, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
+title: cancer 30 de marzo 2020 al 05 de abril 2020 
+description: Horóscopo semanal cancer 30 de marzo 2020 al 05 de abril 2020. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-23'
+ lastmod: '2020-03-30'
 ---
 
 
 
-## Nada tiene que ser ahora suficiente para ti cancer, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
+## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
 
-Deja de esperar al futuro cancer, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz cancer, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio cancer, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir cancer, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor cancer, sin remordimientos.
-Comenzarás a sentirte en tu elemento mientras el Sol se sumerja aún más en tu signo. No será ninguna sorpresa sentir la motivación de afrontar proyectos con los que has estado soñando últimamente. Cualquier cosa que tenga un significado personal podría inspirarte a que des lo mejor de ti. Con la Luna Nueva del 25 de $MES manifestándose en tu signo, esta oportunidad especial te permite empezar de cero en cualquier área que escojas. Hacer una lista de tus objetivos puede ayudarte a que te encamines en la dirección correcta.
+Empieza a hacerte promesas a ti mismo cancer, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura cancer. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
+Tu curiosidad podría despertarse con las imágenes de lugares lejanos o con planes de tomar una clase relacionada con algún interés tuyo. Al mismo tiempo, podrías aplicar un esfuerzo conjunto para encargarte de ciertas responsabilidades o avanzar en tus objetivos o planes. Sin embargo, en los últimos días de la semana, el enfoque se desplaza, cuando Marte entra a tu sector social, lo que te motiva para que tengas una actitud más proactiva en esta área. Además, la Luna Nueva podría ayudarte para que des un paso hacia una nueva dirección.
 
 ## Dinero
 
-Si lo que quieres es cierto equilibrio, mira a tu signo. No es casualidad que seas un excelente anfitrión. Actualmente tu vida profesional se opone a tu vida hogareña. Ambos quieren la totalidad de tu tiempo y una de las dos tiene que ceder. Por ejemplo, cambia tu vida en el hogar para dar cabida a tu vida laboral convirtiendo un cuarto extra en una oficina; lo cuál hará de tus horas de trabajo mucho más productivas, equilibradas y lucrativas.
+Te diriges a un período emocionante por delante. No se te puede ignorar sin importar lo que hagas. Puede que se te vea como el rebelde del grupo, lo cual puede funcionar a tu ventaja. Esto te distingue de los demás en tu trabajo, en tu campo y en todas partes. Muestra que tan diferente eres y atraerás más cada día.
