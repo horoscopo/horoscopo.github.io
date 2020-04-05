@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo cancer marzo 2020 
+title: Horoscopo cancer abril 2020 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
@@ -14,9 +14,9 @@ sitemap:
 ---
 
 
-Cuídate bien y no te dejes llevar demasiado durante la luna nueva del 7 de marzo. Siempre hay más cosas para hacer que tiempo para hacerlas. Tómatelo con calma y enfócate. No necesitarás volver a hacer algo que consigues terminar ahora. 
-El día 9, la luna forma una conjunción con Mercurio. Piensa mucho y en profundidad sobre algo importante. Mercurio se torna retrógrado el 16 de marzo, justo después de que Venus se torna directo. No te apresures en hablar sin pensar, en especial sobre amor. 
-Para la luna llena del día 22, verás aspectos de ti en tu pareja. Sé una persona más generosa. Te sorprenderá la cantidad de afecto y buena voluntad que vuelve a ti. Ahora salgan más y sean más ambiciosos juntos. 
-Mercurio forma una cuadratura con Marte el 26 de marzo. Analiza, pero no te critiques demasiado. Al día siguiente, el sol y luego Júpiter forman una conjunción con Mercurio. Ahora los instintos y las primeras impresiones podrían ser más útiles. 
-Días destacados: 9, 14, 19
-Días desafiantes: 16, 26
+Saturno se torna directo el 6 de abril, luego de haber estado retrógrado desde el 17 de abril. Sé una persona más disciplinada, sin ser cruel contigo. 
+La luna nueva del día 9 podría abrir las puertas de par en par para un asunto que ha estado trabado durante mucho tiempo. Tal vez no sea un asunto grande, pero podría ser importante para ti. Si es así, no dudes, ni te contengas las ganas de hacer algo. No serás quien empiece nada. Simplemente, sucederá. 
+Reduce el estrés y encuentra un ritmo más saludable y feliz en tu trayectoria profesional o imagen pública durante la luna llena del 24 de abril. Relájate, y dale con menos fuerza a un objetivo o ambición. Es posible esforzarte demasiado y obtener menos resultados. Por ahora, intenta un toque suave. 
+El sol forma una cuadratura con Saturno el día 25. Ahora ponte el cinturón, y toma el control de un proyecto difícil. Sé fuerte, realista y ten respeto. 
+Días destacados: 8, 17, 27
+Días desafiantes: 10, 23

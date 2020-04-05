@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo libra marzo 2020 
+title: Horoscopo libra abril 2020 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El 5 de marzo, el trígono entre Marte y Plutón podría ayudarte a lograr una meta muy añorada. El dulce amor y el romance se ponen en tu camino bajo la Luna Llena del 10 de marzo. Si te sientes un poco egoísta, está bien, es parte de tu encanto. Relájate y haz lo que se te antoje. No hay que moverse con prisa cuando Venus está retrógrado como lo está ahora. La Luna Nueva del 26 de marzo podría traerte una ganancia monetaria, o tal vez, una deseada adquisición podría volverse más fácil de conseguir ahora. Una decisión financiera que te parece obvia a ti podría sorprender a otros, pero tus instintos superarán cualquier tipo de consejo que tales te den. Sin embargo, sé inteligente y no te apresures.
+El 4 abril es productivo, divertido y a veces emocionante conforme Venus forma trígono con Urano. La Luna Llena del 14 de abril cree que necesitas más diversión en tu vida. Y vaya que te también la mereces. Elige algo que sea cómodo, delicioso y que sea calmante para tu ser interior. Puede ser el más simple de los placeres. Emociónate al mirar hacia futuro y por tener una vida privada más vibrante bajo la llegada de la Luna Nueva del 29 de abril. A pesar de tener más tiempo a solas y en silencio, más personas podrían unirse a tu círculo íntimo de confianza; pero no todas al mismo tiempo, por supuesto. Además, es probable que no quieras estar a solas tanto como originalmente pensabas.

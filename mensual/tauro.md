@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo tauro marzo 2020
-description: El Horóscopo marzo de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo tauro abril 2020
+description: El Horóscopo abril de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/tauro/
 amplink: /horoscopo-mensual/amp/tauro/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo tauro marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo tauro abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
  video: g_VIh3NkXjc
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-El mes pasado tuvo dos lunas llenas, y el próximo también las tendrá. Descansa luego de un posiblemente hiperactivo 1 de marzo, y prepárate para un ocupado 28 de marzo. La luna nueva (y el eclipse solar) del día 15 te mantendrá de fiesta con amistades, y encontrarás la diversión cerca de tu hogar. Algunas amistades y familiares más jóvenes pueden creer que son mejores que tú, pero están fuera de tu alcance. Muéstrales una de tus actividades favoritas de siempre. El quincuncio entre la Luna y Júpiter del 24 de marzo puede causar algunos momentos en que dudes de ti. No dejes que nada te saque del juego. Tienes las cosas bajo control. 
+Tu astro regente, Venus, entra al sexy y reservado Escorpión el 4 de abril. El romance y la necesidad de amor se vuelven impulsivas fuerzas, incluso si no quieres explicar por qué te sientes cómo te sientes. Las personas a tu alrededor mantendrán tu tiempo ocupado durante todo el mes, esto pudiendo alcanzar su punto máximo con la Luna Nueva del 11 de abril. Vuélvete la fuente de consejo y consuelo para cierta persona que necesita estímulo o redirección. O puede que simplemente puedas ser el ejemplo que todos necesitan ver. Tanto amigos como vecinos y conocidos calientan tu corazón durante la Luna Llena del 25 de abril, cuando también podrías conocer a otras personas por primera vez.

@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo acuario marzo 2020 
+title: Horoscopo acuario abril 2020 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Disfruta de un Año Nuevo tan sólido como una roca bajo la Luna Nueva del 9 de marzo. Puede que te sorprenda la gran cantidad de paciencia que tienes y lo rápido que puedes analizar los problemas y averiguar qué necesitas corregir. Sin embargo, no quemes toda tu energía tratando de hacerlo todo. El 20 de marzo brilla con gran ingenio, diversión y tal vez un poco de travesura conforme la Luna en tu signo toma ventaja del Sol entrando al intelectual Acuario. Tanto amigos como vecinos mantienen tu tiempo ocupado alrededor de la Luna Llena del 23 de marzo. Puede que tales tengan algunas increíbles y locas nociones de lo que es diversión, y es posible que tú estés en estado de ánimo para ellas, así que ten cuidado.
+¿Estás realmente cuidándote? La luna llena del 6 de abril podría ser un llamado de atención para que hagas un mayor esfuerzo por ti. También es muy probable que un problema de salud te ponga muy sensible. Confronta la realidad y busca una solución. La luna nueva del 19 de abril te pone en la posición del verdadero maestro secreto de tu vida. Puede que los demás piensen que te estás encerrando cuando rechazas invitaciones que por lo general aceptarías, lo cual y está bien.  Estás trabajando en tu superación personal e interna. El sol entra a Libra el 22 de abril, lo que te hace el centro de atención en el plano social. Haz planes con anticipación. 

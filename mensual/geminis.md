@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo geminis marzo 2020
-description: El Horóscopo marzo de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo geminis abril 2020
+description: El Horóscopo abril de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo geminis marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo geminis abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: g_VIh3NkXjc
@@ -16,6 +16,4 @@ sitemap:
 ---
 
 
-La paz y la tranquilidad pueden ser muy valiosas bajo la Luna Llena del 9 de marzo. Podría ser difícil escapar de todas las actividades y demandas de tu tiempo. Encuentra refugio en la música, la lectura y los momentos de soledad, incluso si estás en medio de una multitud. El 15 de marzo, la oposición entre el Sol y Saturno podría crear una lucha de poder que podrías aprovechar. La Luna Nueva del 23 de marzo trae más amor, afecto y atención de la que una persona podría querer. Disfrútalos. Te mereces la adoración, y te mereces que te traten bien. Siente como tu autoestima se eleva, y siéntete bien al respecto.
-
-Mejores días: 1, 19, 24Peores días: 18, 29
+Para la luna llena del 1 de abril, llega al gran escenario sin tener que estar en el centro de atención todo el tiempo. Róbate la escena, o el espectáculo completo. Mercurio ingresa a Aries el día 5. Una nueva idea, genial y atrevida, podría aparecer en cualquier momento. Durante la luna nueva del 17 de abril, disfruta de todos tus sueños preferidos, maravillosos e incluso los más alocados. Sé extravagante y sentimental, y no pidas disculpas. Busca paz y tranquilidad durante la luna llena, una luna azul, el último día del mes. Incluso si sales, busca la paz interior y sé más feliz. Déjate cautivar por la belleza que te rodea, que en general pasa desapercibida.

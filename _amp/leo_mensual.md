@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo leo marzo 2020 
+title: Horoscopo leo abril 2020 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Analiza tus sentimientos durante la Luna Nueva del 8 de marzo y tal vez detecta un defecto personal que es fácil de remediar. Puede que sea algo pequeño que te ha estado irritando durante mucho tiempo. El presente es muy buen momento para fácilmente formar un nuevo y buen hábito. La Luna Llena del 23 de marzo les emana brillo a todas las relaciones en tu vida. Además, las uniones románticas reciben ternura. Anda y permite que esta vez sea tu amante quien te consienta. El lunes de Pascua, el 28 de marzo, es un día de alta energía debido a la conjunción entre Marte y la Luna. Puede que para entonces ya quieras comenzar algo que ha estado en tu mente durante todo el invierno. ¡Hazlo y hazlo bien!
+Grandes preocupaciones financieras y los planes importantes de otras personas llegan con la luna llena del 1 de abril. Confía en tus instintos, y luego puedes comprometerte de lleno en un nuevo proyecto o trabajo que ya está en progreso. Durante la luna nueva del día 17, deja que el mundo exterior exija y demande tu tiempo y atención. No tienes que acceder, pero sé amable al respecto. El 20 de abril, el sol ingresa a Aries. Si tienes planes pendientes, empieza ahora. Si no, ¡haz esos planes! La luna llena, una luna azul, activa el área de tu vecindario el último día del mes. ¿No conoces a tus vecinos? Puede que lo hagas pronto.
