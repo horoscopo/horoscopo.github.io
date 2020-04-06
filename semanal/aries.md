@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 30 de marzo 2020 al 05 de abril 2020 
-description: Horóscopo semanal aries 30 de marzo 2020 al 05 de abril 2020. Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+title: aries 06 de abril 2020 al 12 de abril 2020 
+description: Horóscopo semanal aries 06 de abril 2020 al 12 de abril 2020. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,19 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-30'
+ lastmod: '2020-04-06'
 ---
 
 
 
-## Perdona Capri, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 
-Llega una buenísima semana aries pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien aries, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado aries, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo aries, pelea por lo que te mereces.
-Todavía hay mucha actividad en tu signo, lo que podría hacer que los próximos meses sean bastante intensos. Aun así, eres el tipo de persona que disfruta de un desafío y de usar sus fortalezas innatas. 
-Esta semana, puede que necesites llegar a un compromiso con algunos familiares si quieres avanzar con tus planes. Ofrecerte a tener un buen gesto con ellos más adelante en la semana puede ser suficiente incentivo. 
-El martes podría ser un día muy positivo y animado en el que un evento social sea muy placentero. Si estás dudando respecto de si debes aceptar una invitación, hazlo. Podría ser muy divertido.
-La vida hogareña podría estar repleta de actividades el fin de semana. Cuando el conversador Mercurio se alinea con el incansable Urano, tus mejores planes podrían quedar en la nada. Es posible que lleguen inesperadas visitas o invitados, y que debas atenderlos en lugar de hacer lo que habías planificado.
+No eres frágil aries, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo aries, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra aries, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz aries, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando aries, y sabes lo complicado que es salir de ahí después…
+Evita entrar a una disputa entre semana, cuando la Luna Llena podría llevarte a hacer cierto incidente más grande de lo necesario. Sería mejor aminorar las dificultades en vez de hacer una montaña de un grano de arena. Estarás en el centro de atención te guste o no. Con una influencia muy optimista beneficiándote, este es un momento excelente para mostrar tus habilidades. Tu vida profesional se vislumbra positiva, sobre todo cuando te dispones a ponerte en contacto y conectar con personas de ideas afines.
 
 ## Dinero
 
-Para ti, esta semana se trata de tus relaciones. Tu vida personal y tus contactos profesionales serán muy importantes ahora. Si tienes una comida o cena de negocios, paga por una o ambas de las cuentas si piensas que es necesario. Reunirse con amigos poderosos generalmente tiende a valer la pena al final.
+Podrías llegar a tener sueños extraños y flashes psíquicos esta semana debido a los aspectos particulares de tu carta. Lo maternal, el hogar y las emociones internas son lo más afectado. ¿Estás pensando en tener o adoptar a un ser bajo tu alá (las mascotas cuentan también)? La adopción de una nueva compañía puede costar un poco, pero todos los placeres que tal ofrece hacen que valga la pena al final.

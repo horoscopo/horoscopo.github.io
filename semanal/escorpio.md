@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 30 de marzo 2020 al 05 de abril 2020 
-description: Horóscopo semanal escorpio 30 de marzo 2020 al 05 de abril 2020. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+title: escorpio 06 de abril 2020 al 12 de abril 2020 
+description: Horóscopo semanal escorpio 06 de abril 2020 al 12 de abril 2020. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-30'
+ lastmod: '2020-04-06'
 ---
 
 
 
-## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
 
-Parece que no todo va tan mal, no ¿escorpio? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-Tu sector social está muy activo, pero con el movimiento del vivaz Mercurio en conexión con el fogoso Marte, no tendrás miedo a dar tu opinión. Es más, puede que las demás personas se irriten cuando lo hagas e incluso te respondan. Si quieres conservar la paz en los próximos días, sería recomendable que pienses en cómo abordas ciertos temas. Por otra parte, mantente alerta ya que puede que tengas la oportunidad de demostrar una nueva habilidad.
+Quizás deberías dejar de planear todo ahora escorpio, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien escorpio, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
+Si andas en busca de un nuevo trabajo, este es un excelente momento para enviar tu currículum y hacerles saber a todos cuales son tus planes. Tus esfuerzos sociales también se desarrollan bien, haciendo de esta una de las mejores semanas para invitar a un interés amoroso a una cita o hacer nuevas amistades. Aun así, elige bien a qué te comprometes a la hora de planear tu rutina diaria. A partir de esta semana, cancela actividades que no sean estrictamente necesarias, dándote más tiempo para relajarte y recargar baterías.
 
 ## Dinero
 
-A pesar de que tu mente se encuentra tanto en posibles viajes como en el aprendizaje en este momento, fomentarte más educación puede ser tu mejor apuesta. Las certificaciones pueden traerte un mayor flujo de efectivo y establecerte como una fuerza en tu industria en particular. Mientras tanto, se te insta a centrarte más en cómo puedes ampliar tu base de clientes. Las ventas de bienes y servicios dependen de ello.
+Es posible que te enfrentes al reto de hacer que ciertas relaciones personales funcionen, sobre todo en tu vida laboral y monetaria. Puede que alguien no esté cooperando ahora, pero si te mantienes con calma y diplomacia (no con estrés o confrontación), puedes establecer un maravilloso compromiso en el que todos ganen. Adopta una postura de negociación en todos los asuntos comerciales.

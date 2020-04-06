@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 30 de marzo 2020 al 05 de abril 2020 
-description: Horóscopo semanal tauro 30 de marzo 2020 al 05 de abril 2020. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento tauro. Hay personas a las que TÚ debes dar ese escarmiento.
+title: tauro 06 de abril 2020 al 12 de abril 2020 
+description: Horóscopo semanal tauro 06 de abril 2020 al 12 de abril 2020. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-30'
+ lastmod: '2020-04-06'
 ---
 
 
 
-## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento tauro. Hay personas a las que TÚ debes dar ese escarmiento.
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante tauro, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-Con el optimista Júpiter, tu planeta regente, ahora en un sector más aislado de tu carta astral, puedes aprender mucho de tus sueños y encontrar el éxito si escuchas a tu intuición. La semana por delante, en particular el miércoles, podría traer una reflexión o revelación que te ayuda a avanzar con un proyecto personal emocionante. También, la luna nueva en tu sector social trae una oportunidad para moverte hacia nuevos círculos. Este también es un buen momento para conectar con alguien que sientes que podría convertirse en una amistad cercana.
+A veces te confundes tauro, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso tauro. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. tauro, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo tauro, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+La semana se vislumbra normal y no muy divertida debido a que la alineación de esta semana se enfoca en tu sector laboral. Es eso, o puede que te encuentres en una fase saludable que esté manteniendo tus días muy activos con entrenamientos diarios. La Luna Llena del martes podría hacerte querer darte gustos. Podrías dejarte tentar por alimentos o bebidas que normalmente evitarías. Si estás planeando una fiesta de disfraces, el Sol en Escorpión podría hacer la ocasión perversamente divertida.
 
 ## Dinero
 
-Los aspectos son ideales no sólo para la energía y el hacer las cosas, sino también para realizar actividades físicas como ejercicio. Si has tenido la intención de salir más o comenzar una nueva práctica de yoga, esta es la semana para empezar. También es ideal para sublimar esa energía hacia cambiar tu situación financiera para bien. Comienza con un plan serio para acabar de pagar tu deuda.
+Nunca ha sido tu punto fuerte el aceptar ciertas cosas, y tal sentimiento se duplicará esta semana. Algunos aspectos negativos crearán olas. Trata de sobrellevar las facciones beligerantes de tus redes sociales de regreso a la mesa de la paz mientras te haces cargo de propiedades que compartas con otra persona.  El dejarla en sus manos no traerá los mejores resultados ahora. Tu sabes que es lo mejor para los dos.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 30 de marzo 2020 al 05 de abril 2020 
-description: Horóscopo semanal cancer 30 de marzo 2020 al 05 de abril 2020. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+title: cancer 06 de abril 2020 al 12 de abril 2020 
+description: Horóscopo semanal cancer 06 de abril 2020 al 12 de abril 2020. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-30'
+ lastmod: '2020-04-06'
 ---
 
 
 
-## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 
-Empieza a hacerte promesas a ti mismo cancer, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura cancer. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
-Tu curiosidad podría despertarse con las imágenes de lugares lejanos o con planes de tomar una clase relacionada con algún interés tuyo. Al mismo tiempo, podrías aplicar un esfuerzo conjunto para encargarte de ciertas responsabilidades o avanzar en tus objetivos o planes. Sin embargo, en los últimos días de la semana, el enfoque se desplaza, cuando Marte entra a tu sector social, lo que te motiva para que tengas una actitud más proactiva en esta área. Además, la Luna Nueva podría ayudarte para que des un paso hacia una nueva dirección.
+A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
+ nada es para siempre, ni siquiera los problemas ni las preocupaciones…
+La Luna Llena del lunes podría coincidir con un proyecto que ha llegado a la etapa de finalización. Podría ser momento de dejarlo ir y pasar a algo nuevo. Evita pasar tiempo con personas que se quejan todo el tiempo. Mantente cerca de aquellas personas que son alegres y tu semana tendrá un excelente comienzo. También deberías esperar lo inesperado, ya que podrías descubrir que una información o invitación hace una gran diferencia para ti.
 
 ## Dinero
 
-Te diriges a un período emocionante por delante. No se te puede ignorar sin importar lo que hagas. Puede que se te vea como el rebelde del grupo, lo cual puede funcionar a tu ventaja. Esto te distingue de los demás en tu trabajo, en tu campo y en todas partes. Muestra que tan diferente eres y atraerás más cada día.
+Esta semana puede que sientas frustración en tu objetivo de salir adelante económicamente. Hay atención no deseada sobre tu situación de deuda. Podrías caer fácilmente en la  depresión si no tienes cuidado. La buena noticia es que tienes la suficiente energía para perseverar y pagar lo que debes. Es posible que desees gastarlo todo en tu familia y diversión. Resiste la tentación, sólo por esta semana.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 30 de marzo 2020 al 05 de abril 2020 
-description: Horóscopo semanal sagitario 30 de marzo 2020 al 05 de abril 2020. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+title: sagitario 06 de abril 2020 al 12 de abril 2020 
+description: Horóscopo semanal sagitario 06 de abril 2020 al 12 de abril 2020. Semana de reflexión sagitario, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya sagitario. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,18 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-30'
+ lastmod: '2020-04-06'
 ---
 
 
 
-## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+## Semana de reflexión sagitario, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya sagitario. 
 
-Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
-Si sientes agobio y algo de falta de reconocimiento en tu trabajo actual, la idea de tomarte un descanso para viajar y relejarte podría resultarte muy atractiva. Una extraña combinación de energías podría hacer que te sientas culpable por no poder dar lo mejor de ti y, al mismo tiempo, que tengas muchas ganas de alejarte para disfrutar durante un tiempo. Sería útil delegar algunas de tus tareas, en especial si sientes que no te quedan energías. 
-El animado Marte se encuentra actualmente en tu sector de recreación, de modo que el cosmos te anima a conectar con tus pasatiempos favoritos y a dedicarle un tiempo a alegres y divertidas actividades. El escurridizo Neptuno, que actualmente se está moviendo en tu sector de trabajo y servicio, hace que sientas la tentación de hacer demasiado. No te sientas mal si debes bajar unos escalones y delegar algunas tareas a otra persona. Haz solo lo que puedas cumplir razonablemente.
+Llevabas un ritmo un poco alocado sagitario, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate sagitario, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más sagitario, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
+Puede que te preguntarse si deberías ser amable y hacer todo lo que esté en tu poder para ayudar a otros o apegarte a tu propia agenda. La mezcla actual de energías insinúa que podrías fluctuar entre estas opciones e incluso terminar no haciendo nada si no puedes decidir qué camino to Sin embargo, puede que encuentres la manera de ceder incluso si tienes dudas acerca de ello. Si el resultado te ahorra un choque con los demás y malos sentimientos, podría valer la pena.
 
 ## Dinero
 
-Andas muy comunicativo/a ahora. El hablar, chatear, o incluso el uso de sitios de redes sociales trabaja a tu favor y son parte de tu persona por ahora. Pero estás llevándolo a otro nivel, inclusive al hablar de que estás pensar en escribir tus memorias. Tienes una increíble cantidad de energía creativa en este momento, úsala a tu ventaja financieramente y para encontrar a tu público, después, busca los mercados con el más amplio alcance para obtener los mejores resultados.
+Es una semana llena de retos para ti. Tus sueños pueden ser algo más que una fuente de inspiración. Sus imágenes e ideas te ayudarán a determinar el negocio que sería bueno y la forma de avanzar en esa área. También es necesario reforzar tus ahorros. El cambio se aproxima y querrás prepararte para ello.
