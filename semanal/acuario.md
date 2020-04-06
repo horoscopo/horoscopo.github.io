@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 30 de marzo 2020 al 05 de abril 2020 
-description: Horóscopo semanal acuario 30 de marzo 2020 al 05 de abril 2020. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
+title: acuario 06 de abril 2020 al 12 de abril 2020 
+description: Horóscopo semanal acuario 06 de abril 2020 al 12 de abril 2020. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,17 +12,19 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-03-30'
+ lastmod: '2020-04-06'
 ---
 
 
 
-## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
+## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 
-Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
-Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
-Podrías experimentar un poco de conflicto con respecto a un objetivo o plan y esto podría dificultar que progreses tanto como te gustaría durante los próximos días. Si a ti y a otra persona les resulta difícil llegar a un acuerdo, ponerte en sus zapatos podría ayudarte a entender sus pensamientos y sentimientos. No tienes que estar de acuerdo, pero un consenso quizás te ayude a sacarle el mayor provecho a una situación incómoda. Ciertas ideas clave también podrían cambiar tu perspectiva con respecto a un asunto financiero.
+El mundo puede esperar Sagi, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate acuario, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
+Esta semana, podría haber momentos en que te resulte difícil estar de acuerdo con un familiar en torno a un asunto de suma importancia. No dejes que esto te afecte. Si usas tu tacto y diplomacia, tal vez puedas sacar lo mejor de una complicada situación. 
+El sol crea una conexión con el afortunado Júpiter el martes, lo que podría hacer que este sea un animado y positivo día. Podrías recibir un inesperado obsequio o una pequeña cantidad de dinero, lo que definitivamente mejoraría tu estado de ánimo.
+El mejor día para atender los asuntos familiares podría ser el viernes, cuando una discusión clave podría llevar a una firme decisión. Deberías sentirte mejor luego de resolver esto. 
+Tus amistades o pareja podrían parecer poco fiables el domingo; tal vez cancelen un evento a último momento. Si este es el caso, usa esta oportunidad para hacer algo que en verdad disfrutes. Te hará sentir mucho mejor.
 
 ## Dinero
 
-Esta semana trae un positivo suspiro de alivio entre la comunicación y las ideas, y la individualidad y el cambio repentino. Ciertos aspectos afectan a la familia, el romance y la creatividad mientras que amplificas tus esfuerzos para llevar tu producto o servicio a una audiencia global. Tienes confianza en tus capacidades, lo cual es genial. ¡Tienes mucho poder para lograr lo que quieres!
+Este período es sobre profesión y figuras de autoridad. Es posible que hayas seguido los pasos de alguien durante mucho tiempo sólo para darte cuenta de que ahora tienes el mismo o un mayor nivel de experiencia que él o ella. Es hora de que asumas un nuevo rol en tu vida y aceptes el salario que va con ello. Cuando lo hagas, te convertirás en todo lo que has admirado desde siempre.
