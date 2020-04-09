@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de abril 2020
-description: Horóscopos del dia de hoy 08 de abril 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de abril 2020
+description: Horóscopos del dia de hoy 09 de abril 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-04-08
+ lastmod: 2020-04-09
 ---
-Intenta pensar de manera diferente para celebrar la entrada de Mercurio a Acuario. Mientras Marte forme sextil con Júpiter, inventa nuevas combinaciones derivadas de cosas viejas. La noche está llena de sentimentales emociones cuando la Luna en Tauro forma sextil con Neptuno. Es una oportunidad para descubrir lo que alguien siente, emocionalmente hablando.
+A veces el día parece ser demasiado largo. Hoy es uno de esos días en los que el tiempo parece extenderse. ¡Cuidado! No cedas a la tentación de operar en piloto automático. La Luna Nueva aspectando a Marte en Piscis a las altas horas de la noche provocando algún tipo de acción que podría venir directamente del corazón y las emociones.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
