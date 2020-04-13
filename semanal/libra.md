@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 06 de abril 2020 al 12 de abril 2020 
-description: Horóscopo semanal libra 06 de abril 2020 al 12 de abril 2020. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+title: libra 13 de abril 2020 al 19 de abril 2020 
+description: Horóscopo semanal libra 13 de abril 2020 al 19 de abril 2020. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-06'
+ lastmod: '2020-04-13'
 ---
 
 
 
-## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
-El deseo de empezar un negocio desde casa podría entusiasmarte esta semana y no aguantarás las ganas de comenzar. Pero sería prudente que primero evalúaras los detalles y te asegures de que vas por el camino correcto. Por más fabulosa que parezca una oportunidad, podría haber obstáculos que no previste y que debes tener en cuenta. Venus se vuelve retrógrado, por lo que podrías resolver cierta cuestión financiera de manera ordenada.
+No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
+Ciertos asuntos profesionales dan paso a opciones más sociables conforme Venus sale de Capricornio y entra a Acuario. Esta semana trae consigo uno o dos cambios astrológicos que sin duda cambiarán tu enfoque. Sin embargo, si se te presenta la oportunidad de seguir adelante con una idea empresarial, o consigues financiación para un negocio, tendrás ansias de analizarla. El Sol entra a Piscis el jueves, trayéndote la oportunidad de dejar de lado todo lo que ya no te sirve con el fin de hacer espacio para que cosas nuevas entren a tu vida.
 
 ## Dinero
 
-Gran parte de la energía celeste indica que alguien o algo del pasado volverá para que puedas lidiar con ello de una vez por todas. Por otra parte, tu sector de trabajo por cuenta propia y de grupos sociales está resaltado. Conectar con gente con quién hayas perdido contacto puede conducirte a más dinero en el futuro.

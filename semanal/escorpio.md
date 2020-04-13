@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 06 de abril 2020 al 12 de abril 2020 
-description: Horóscopo semanal escorpio 06 de abril 2020 al 12 de abril 2020. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+title: escorpio 13 de abril 2020 al 19 de abril 2020 
+description: Horóscopo semanal escorpio 13 de abril 2020 al 19 de abril 2020. Hay cosas que no quieres que ocurran pero que debes aceptar escorpio, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-06'
+ lastmod: '2020-04-13'
 ---
 
 
 
-## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+## Hay cosas que no quieres que ocurran pero que debes aceptar escorpio, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 
-Quizás deberías dejar de planear todo ahora escorpio, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien escorpio, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
-Si andas en busca de un nuevo trabajo, este es un excelente momento para enviar tu currículum y hacerles saber a todos cuales son tus planes. Tus esfuerzos sociales también se desarrollan bien, haciendo de esta una de las mejores semanas para invitar a un interés amoroso a una cita o hacer nuevas amistades. Aun así, elige bien a qué te comprometes a la hora de planear tu rutina diaria. A partir de esta semana, cancela actividades que no sean estrictamente necesarias, dándote más tiempo para relajarte y recargar baterías.
+No te bajonees porque un día no hayas conseguido todo lo que te habías propuesto, al día siguiente podrás crear otro tipo de oportunidades que te lleven a donde quieres. 
+Roma no se hizo en un día. Y sal un poco más, que hay gente que te echa de menos, que echa de menos tu positividad, tus risas, tu ingenio, tus ganas…
+Tu sector de recreación y romance brilla esta semana, con una completa alineación que te anima a darte el gusto disfrutando de algunos de tus pasatiempos preferidos o pasando un tiempo con esa persona especial. Y cuando el encantador Venus conecta con el soñador Neptuno a mitad de semana, esta puede ser la oportunidad perfecta para una cita especial. Sin embargo, el cuarto de luna en Géminis del viernes podría animarte a celebrar el primer logro importante de una nueva relación, tal vez dando un paso más. Confía en tus instintos. Si se siente bien, considéralo seriamente.
 
 ## Dinero
 
-Es posible que te enfrentes al reto de hacer que ciertas relaciones personales funcionen, sobre todo en tu vida laboral y monetaria. Puede que alguien no esté cooperando ahora, pero si te mantienes con calma y diplomacia (no con estrés o confrontación), puedes establecer un maravilloso compromiso en el que todos ganen. Adopta una postura de negociación en todos los asuntos comerciales.
+El dinero es una forma de encontrar la seguridad que buscas. Es probable que notes que ahora, tus lados masculino y femenino están bastante equilibrados. ¡Buen trabajo! Dado que esto afecta a tu empleo, salud, y actividades cotidianas, es probable que todo en el trabajo vaya bien. Les estás dando una buena  impresión a los jefes. Si quieres llevar esto un paso más allá, proponte para voluntariamente encabezar un proyecto especial. ¡Generarás una increíble opinión en tus jefes!

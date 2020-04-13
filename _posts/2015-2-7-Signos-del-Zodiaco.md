@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de abril 2020
-description: Horóscopos del dia de hoy 12 de abril 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de abril 2020
+description: Horóscopos del dia de hoy 13 de abril 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-04-12
+ lastmod: 2020-04-13
 ---
-El Sol oponiéndose a Júpiter durante los próximos cuatro días causa una tendencia a culpar a otras personas con el fin de mejorar nuestra propia autoestima. Ponte de pie, no te tomes las críticas personalmente y todo saldrá muy bien. Esta noche, el destino se encuentra en acción bajo el Eclipse Solar en Piscis; pero puede que no sepas exactamente cómo durante seis meses.
+Debes tener experiencias para aprender, y hoy tendrás un montón de oportunidades para obtener mucha experiencia. Toma las cosas un paso a la vez. ¿Cómo está todo en el mundo real? La respuesta surge esta noche cuando Venus cuadra a Saturno. Este último les añade credibilidad a las respuestas. Es posible que desees hacer todas las preguntas que son importantes para ti.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.

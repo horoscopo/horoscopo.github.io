@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 06 de abril 2020 al 12 de abril 2020 
-description: Horóscopo semanal capricornio 06 de abril 2020 al 12 de abril 2020. Empieza a hacerte promesas a ti mismo capricornio, empieza a prometerte amor propio, hoy y siempre. 
+title: capricornio 13 de abril 2020 al 19 de abril 2020 
+description: Horóscopo semanal capricornio 13 de abril 2020 al 19 de abril 2020. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-06'
+ lastmod: '2020-04-13'
 ---
 
 
 
-## Empieza a hacerte promesas a ti mismo capricornio, empieza a prometerte amor propio, hoy y siempre. 
+## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 
-Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás capricornio. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
-Si bien puede que tengas muchas ocupaciones, podrías sentir un deseo fuerte de descansar y relajarte al comienzo de la semana. También podrías descubrir que se presentan tareas o plazos inesperados. Si puedes liberar tu agenda de actividades innecesarias por adelantado, esto podría ayudarte a transitar el período de Luna Llena de forma positiva. La otra gran noticia es que tu planeta personal, Venus, se dirige hacia adelante, llevándote a tomar algunas decisiones clave con respecto de tu vida social.
+Tu cabeza quiere un cambio capricornio, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira capricornio, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero capricornio por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
+Tu vida social se vislumbra muy optimista e interesante en los próximos días. Ambos, Venus y el Sol, conectando con el soñador Neptuno, podían despertar en ti un sentimiento idealista. Sin embargo, si estás fuera de casa con amigos o en busca de una cita, recuerda que no todo lo que brilla es necesariamente oro. O, por el contrario, alguien que inicialmente te dio desconfianza podría convertirse en una amistad de gran apoyo. Además, Marte avanzando desde mitad de semana podría hacer que una relación que parecía estancada muestre señales de mejora.
 
 ## Dinero
 
-Con el Universo afectando tu sector profesional, puede que se trate sobre el pasado, trabajos anteriores, las elecciones pasadas de carrera, o incluso empleadores anteriores. Sin embargo, un aspecto armonioso afecta a tu sector de vidas pasadas, karma, e instituciones, por lo que puede que no sea una mala idea prestarle atención a los aspectos más esotéricos de tu vida. Lo que haces para ganarte la vida afecta a los demás, no importa cuánto dinero ganes. Asegúrate de que es algo que no te genere consecuencias kármicas más tarde.
+Con ciertos aspectos afectando tu vida hogareña y emociones internas, puede que desees regresar el tiempo en tu vida para poder volver atrás y corregir los errores del pasado. Pero estamos aquí para aprender, no para controlar. Cierta actividad en tu sector de viajes, idiomas y educación superior afirma que puedes encontrar un mayor acceso a dinero si logras exponer tus habilidades en mercados fuera de tu país. Enfoca tus esfuerzos en Internet para conectar con nuevos clientes.

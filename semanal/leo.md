@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 06 de abril 2020 al 12 de abril 2020 
-description: Horóscopo semanal leo 06 de abril 2020 al 12 de abril 2020. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+title: leo 13 de abril 2020 al 19 de abril 2020 
+description: Horóscopo semanal leo 13 de abril 2020 al 19 de abril 2020. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes leo.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-06'
+ lastmod: '2020-04-13'
 ---
 
 
 
-## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes leo.
 
-Tienes que esforzarte leo, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien leo, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti leo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo leo, sin remordimiento de ningún tipo, y espera a que el resto te busque…
-Podrías recibir noticias de la nada que involucren a un amigo o pariente que necesita de tu ayuda y apoyo. El enfoque actual en tu sector espiritual sugiere que puede que se te llame a sacrificar tiempo y energía con el fin de mejorar el ánimo de los demás. Esta semana, también te podrían surgir más obstáculos a superar el Jueves y Viernes. Tener paciencia te ayudará a evitar tensión y dificultades. Pero para cuando llegue el fin de semana, ¡ya te habrás preparado para relajarte con amigos y divertirte un poco!
+En serio, leo, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres leo por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal leo, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
+Has estado buscando los significados más profundos de la vida y de las relaciones. Cualquier conclusión que saques puede ser liberadora, pero también podría animarte a buscar otras posibilidades dentro de tus vínculos más cercanos. Puede que haya más opciones de las que sepas. Venus, el planeta que rige tus relaciones, entra a Aries esta semana, lo que podría hacerte pensar sobre una conexión en particular que es muy especial para ti. La respuesta podría no ser la que esperas.
 
 ## Dinero
 
-El Universo está iluminando tu sector de comunicación. Lo que esto significa es que tienes mucho trabajo que hacer para ganar dinero, y que no es el mejor momento para gastar en exceso. Estudia e imita las formas de los inversionistas exitosos en la medida de tu capacidad.
+La atención de esta semana se centra en las relaciones conforme el Universo trae todo tipo de personas de tu pasado de regreso a tu vida. Si éstas no hacen una aparición personal, podría estar en tus pensamientos. ¿Qué has aprendido desde la última vez que aparecieron en tu vida? ¿Has cambiado o sigues igual? Ciertos aspectos indican que puedes estar pensando en maneras más creativas de ganar dinero, tal vez mediante el uso de un hobby.

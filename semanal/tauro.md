@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 06 de abril 2020 al 12 de abril 2020 
-description: Horóscopo semanal tauro 06 de abril 2020 al 12 de abril 2020. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+title: tauro 13 de abril 2020 al 19 de abril 2020 
+description: Horóscopo semanal tauro 13 de abril 2020 al 19 de abril 2020. tauro, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-06'
+ lastmod: '2020-04-13'
 ---
 
 
 
-## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+## tauro, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 
-A veces te confundes tauro, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso tauro. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. tauro, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo tauro, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
-La semana se vislumbra normal y no muy divertida debido a que la alineación de esta semana se enfoca en tu sector laboral. Es eso, o puede que te encuentres en una fase saludable que esté manteniendo tus días muy activos con entrenamientos diarios. La Luna Llena del martes podría hacerte querer darte gustos. Podrías dejarte tentar por alimentos o bebidas que normalmente evitarías. Si estás planeando una fiesta de disfraces, el Sol en Escorpión podría hacer la ocasión perversamente divertida.
+Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa tauro, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
+El Sol en tu sector de ocio y placer te invita a adoptar más aficiones, pasatiempos o actividades deportivas que te llamen la atención. La Luna Llena del martes podría coincidir con una fiesta, celebración, o incluso una fiesta de Halloween. Es excelente para reunir a la gente y pasársela de lo lindo. El movimiento de Mercurio a Escorpión del fin de semana podría inspirarte a conectar con un interés amoroso y derretir el hielo iniciando una conversación. ¡Cosas buenas podrían suceder como resultado!
 
 ## Dinero
 
-Nunca ha sido tu punto fuerte el aceptar ciertas cosas, y tal sentimiento se duplicará esta semana. Algunos aspectos negativos crearán olas. Trata de sobrellevar las facciones beligerantes de tus redes sociales de regreso a la mesa de la paz mientras te haces cargo de propiedades que compartas con otra persona.  El dejarla en sus manos no traerá los mejores resultados ahora. Tu sabes que es lo mejor para los dos.
+Puede que te encuentres considerando tu siguiente paso en este momento. Esto se debe a que algunos de tus aspectos en el sector financiero pueden estar frenando lo que se avecina. ¡No entres en pánico! Cuando el Universo cierra una ventana en un área, otra ventana se abre en otra parte. Usa tu imaginación para idear nuevas formas de ganar dinero, sobre todo en lo que respecta a tu vida laboral diaria. Es posible que incluso movimientos inusuales traigan más dinero en efectivo.
