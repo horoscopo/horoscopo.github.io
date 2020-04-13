@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 06 de abril 2020 al 12 de abril 2020 
-description: Horóscopo semanal piscis 06 de abril 2020 al 12 de abril 2020. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: piscis 13 de abril 2020 al 19 de abril 2020 
+description: Horóscopo semanal piscis 13 de abril 2020 al 19 de abril 2020. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-06'
+ lastmod: '2020-04-13'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 
-Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
-así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final.
-Estás en esa fase del año en la que el cosmos te anima a bajar tu ritmo y tomarte un tiempo para reflexionar sobre tu vida. Si bien sigues teniendo muchas ocupaciones, tener tiempo para ti puede ser la clave del éxito durante las semanas y los meses por venir. Ver las cosas en perspectiva y considerar tus prioridades puede ser muy útil para planificar metas futuras. También es un buen momento para deshacerte de cualquier equipaje emocional que puede haber estado retrasándote.
+Esta semana estás un poco impredecible piscis, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica piscis… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
+Hay un enfoque bastante intenso en un sector sensible de tu carta, lo que puede darte la oportunidad de aclarar problemas que podrían haber obstaculizado tus decisiones. Por otro lado, un alegre enfoque en tu sector de viajes y aventura te anima a seguir el proceso de aprendizaje y exploración de nuevos terrenos. El eclipse solar en este sector el jueves podría ser una señal de que debes comenzar algún estudio o invertir en los servicios de un consejero de vida que te ayude a vivir a tu máximo potencial.
 
 ## Dinero
 
-Tienes una semana de mucho trabajo por delante con planetas afectando tu sector de carrera y autoridad. Estás asumiendo una posición más poderosa en el trabajo ahora, y posiblemente un título o una nueva posición junto con ello. Celebra tu éxito en lugar de buscar una posición aún mayor. Ciertos aspectos indican un momento de tener más seriedad en el desarrollo de redes de profesionales que te pueden apoyar en los momentos de apuro.
+Tus pensamientos e ideas pueden tornarse a la familia y la diversión por ahora, pero el Universo te está empujando a pensar en instituciones grandes como una forma de ganar dinero. Si tu dinero está en un banco pequeño o local, puede ser momento de darles a los bancos grandes una oportunidad. Mejores tarifas y opciones de ahorro significan más dinero para ti y tu clan.
