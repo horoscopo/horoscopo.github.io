@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de abril 2020
-description: Horóscopos del dia de hoy 14 de abril 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de abril 2020
+description: Horóscopos del dia de hoy 15 de abril 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-04-14
+ lastmod: 2020-04-15
 ---
-El movimiento directo de Saturno hace que sea más fácil permitir que las tareas de uno le absorban. Ponte a trabajar - postergaste hacer algo tanto como pudiste. Aquellos en pareja se vuelven sentimentales románticos incurables bajo la Luna de esta noche en el emocional Piscis. Los solteros toman la vida de una manera tranquila, apacible, y sin prisas; siempre una buena actitud durante el inicio de un romance.   
+Prepárate para una gran cantidad de demandas y obligaciones mientras el Sol conjunte a Plutón hoy. Finaliza los proyectos y luego tómate una refrescante y rejuvenecedora pausa esta noche mientras la Luna forme trígono con el dúo Sol/Plutón. Los solteros experimentan una encantadora velada, principalmente porque alguien nuevo y fascinante aparece en la escena.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
