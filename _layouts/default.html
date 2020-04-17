@@ -3,10 +3,11 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns#">
+<html prefix="og: http://ogp.me/ns#" lang="en">
   <head>
     
     {% if site.googletagmanager%}
+    <link rel="preconnect" href="https://www.googletagmanager.com">
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -17,21 +18,24 @@ layout: compress
     {% endif %}
     
     <title>{% if page.title %}{{ page.title }} - {{ site.name }}{% else %} {{ site.name }}{% endif %}</title>
+    {% include analytics.html %}
 
     {% include meta.html %}
+    <link rel="preconnect" href="https://www.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
     {% include styles.html %}
-    <script src="https://apis.google.com/js/platform.js" async defer></script>
-    {% include fbapp.html %}
-    {% include fbpixel.html %}
-   
+
     {% include schema.html %}
-   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-7033627990045927",
-    enable_page_level_ads: true
-  });
-</script>
+    {% if site.adsense %}
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com">
+    <link rel="preconnect" href="https://adservice.google.com/">
+    <link rel="preconnect" href="https://googleads.g.doubleclick.net/">
+    <link rel="preconnect" href="https://www.googletagservices.com/">
+    <link rel="preconnect" href="https://tpc.googlesyndication.com/">
+    <!--Automatic Ads-->
+    <script data-ad-client="{{ site.adsense }}" defer
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    {% endif %}
   </head>
 
   <body>
@@ -61,14 +65,14 @@ layout: compress
 	</div>
 	
     </div>
-    {% include analytics.html %}
+
+    {% include lazysizes.html %}
     <!-- JavaScripts Plugins al final para mejorar la carga-->
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="{{ site.url }}/js/all.js" async defer></script>
+    <script src="/js/all.js" defer></script>
     {% if page.oraculo_si_no  %}
-    <script src="{{ site.url }}/js/oraculo_si_no.js"></script>
+    <script src="/js/oraculo_si_no.js"></script>
     {% endif  %}
-    <script src="//load.sumome.com/" data-sumo-site-id="2e0034d6eadd377c06ce5faab029fc068e969887401c213bc0d6432363c03034" async="async"></script>
     <!--<script type="application/javascript" src="https://app.cotorrachatbot.com/static/js/script.js"></script>-->
     
   </body>

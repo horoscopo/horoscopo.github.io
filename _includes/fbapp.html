@@ -1,5 +1,6 @@
 {% if site.facebook_app %}
-    <script>
+    <link rel="preconnect" href="//connect.facebook.net">
+    <script defer>
       window.fbAsyncInit = function() {
         FB.init({
           appId      : '{{ site.facebook_app }}',

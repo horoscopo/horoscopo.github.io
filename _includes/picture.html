@@ -1,0 +1,4 @@
+<picture>
+    <source type="image/webp" data-srcset="{{ include.img | replace: '.png', '.webp' | replace: '.jpg', '.webp' }}">
+    <img data-srcset="{{ include.img }}" alt="{{ include.alt }}"  class="lazyload {{ include.class }}">
+</picture>
