@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 13 de abril 2020 al 19 de abril 2020 
-description: Horóscopo semanal leo 13 de abril 2020 al 19 de abril 2020. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes leo.
+title: leo 20 de abril 2020 al 26 de abril 2020 
+description: Horóscopo semanal leo 20 de abril 2020 al 26 de abril 2020. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza leo. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,20 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-13'
+ lastmod: '2020-04-20'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes leo.
+## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza leo. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 
-En serio, leo, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres leo por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal leo, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
-Has estado buscando los significados más profundos de la vida y de las relaciones. Cualquier conclusión que saques puede ser liberadora, pero también podría animarte a buscar otras posibilidades dentro de tus vínculos más cercanos. Puede que haya más opciones de las que sepas. Venus, el planeta que rige tus relaciones, entra a Aries esta semana, lo que podría hacerte pensar sobre una conexión en particular que es muy especial para ti. La respuesta podría no ser la que esperas.
+Sólo hace falta que tu mente haga click leo, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
+Tu sector de relaciones parece ocupado durante algún tiempo. El martes, la luna nueva en este sector hace que los próximos días puedan ser tu oportunidad de llevar una relación al próximo nivel. 
+Sin embargo, cuando el incansable Urano ingresa a este sector el mismo día, tus relaciones y tu vida amorosa podrían dar un vuelco durante los meses y años venideros. Y debido a que el expresivo Mercurio está cerca, podrías encontrarte con una repentina noticia u oportunidad. 
+Además, el fogoso Marte ingresa a Acuario más adelante el mismo día. Esto te anima a actuar de forma más proactiva, en especial cuando se trata de eliminar el exceso de objetos y de completar proyectos hogareños.
+Si estás buscando una aventura amorosa, el ingreso de Venus a tu sector de viajes el sábado podría ser el boleto que necesitas. Irte de viaje podría ser beneficioso para todos. 
+Por último, el ingreso del sol a Géminis y a un sector más intenso de tu carta el domingo podría animarte a evaluar las cuestiones financieras, las inversiones y la profundidad de ciertos lazos personales.
 
 ## Dinero
 
-La atención de esta semana se centra en las relaciones conforme el Universo trae todo tipo de personas de tu pasado de regreso a tu vida. Si éstas no hacen una aparición personal, podría estar en tus pensamientos. ¿Qué has aprendido desde la última vez que aparecieron en tu vida? ¿Has cambiado o sigues igual? Ciertos aspectos indican que puedes estar pensando en maneras más creativas de ganar dinero, tal vez mediante el uso de un hobby.
+Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.

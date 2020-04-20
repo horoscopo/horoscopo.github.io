@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 13 de abril 2020 al 19 de abril 2020 
-description: Horóscopo semanal geminis 13 de abril 2020 al 19 de abril 2020. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario geminis.
+title: geminis 20 de abril 2020 al 26 de abril 2020 
+description: Horóscopo semanal geminis 20 de abril 2020 al 26 de abril 2020. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así geminis, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-13'
+ lastmod: '2020-04-20'
 ---
 
 
 
-## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario geminis.
+## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así geminis, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 
-Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás geminis. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta geminis, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea geminis, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones geminis, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas geminis, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
-Sientes que ya puedes explorar los últimos avances tecnológicos, ya sea actualizando tus dispositivos actuales o tomando una clase. Durante esta semana y las siguientes, encuentras nuevas oportunidades para hacer amigos y encarar proyectos creativos en las redes sociales y en Internet. En cuanto a las finanzas, reconoces la necesidad de invertir de manera inteligente y aprovechar al máximo tu dinero. Y en cuanto al plano afectivo, invertir en tus relaciones también puede ser satisfactorio.
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
+La semana comienza con una cuota de indulgencia perfecta para una cita romántica o una comida con tus amistades. Sin importar lo que hagas, debería ser muy divertido. Tendrás mucho éxito esta semana, una vez que el sol haga en su entrada a tu signo, lo que mejora tu vitalidad y te anima a poner en movimiento cualquier plan importante para ti. 
+Cuando el ejemplar Saturno y el ferviente Plutón ingresan a su fase retrógrada, podrías involucrarte en una situación o relación que quizás no sean lo mejor para ti. Si puedes, presta atención a esto. Si quieres lograr el progreso que deseas, necesitarás toda la libertad que puedas tener. Al mismo tiempo, tendrás la oportunidad de deshacerte de algunas restrictivas creencias y adoptar otras más nuevas y que mejoren tu vida. Puede que esto no pase de la noche a la mañana, pero deberías notar la diferencia en los próximos meses.    
 
 ## Dinero
 
-Estás experimentando un impulso de energía en tus finanzas. Tienes mucha creatividad en cuanto a la creación de ideas nuevas de cómo traer dinero a tu vida. Es posible que tengas nuevos conceptos para un segundo negocio o simplemente ideas innovadoras y de bajo costo para promover un negocio que ya tengas. Los planetas apoyan estos esfuerzos en una gran forma. ¡Estás en la cima del mundo!

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 13 de abril 2020 al 19 de abril 2020 
-description: Horóscopo semanal virgo 13 de abril 2020 al 19 de abril 2020. De verdad virgo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+title: virgo 20 de abril 2020 al 26 de abril 2020 
+description: Horóscopo semanal virgo 20 de abril 2020 al 26 de abril 2020. Vienen emociones fuertes virgo, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-13'
+ lastmod: '2020-04-20'
 ---
 
 
 
-## De verdad virgo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+## Vienen emociones fuertes virgo, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 
-Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte virgo, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo virgo, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande virgo pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
-Una oportunidad podría presentarse al comienzo de la semana, y si decides aprovecharla, podrías lograr un progreso durante las próximas semanas. Con Mercurio retrógrado, debes anticipar algunos retrasos y cambios de planes. Sin embargo, es posible que esto no sea malo y que incluso funcione a tu favor. Los asuntos del hogar y la familia también adquieren relevancia a mediados de la semana, y brindan la oportunidad de limpiar, tirar la basura y poner todo en perfecto orden.
+Vives tanto con tantísima intensidad que a veces te olvidas de la realidad, de lo que aún tienes pendiente, de lo que necesitas conseguir y sobretodo de lo que necesitas cerrar y zanjar. Y es que virgo, cuando las cosas empiezan a ir un poquito mejor se te olvida todo lo malo por lo que has pasado, por lo que te han hecho pasar. Y estás bien, porque así es como vives el presente, el minuto, el momento, pero a la vez si después viene otra golpe, vuelve a doler. Lo que pasa es que ya no duele igual, ya duele menos, porque te insensibilizas, y eso en realidad no es del todo bueno. Es como si lo esperaras, como si ya supieras que después de una discusión vendrá una reconciliación, con todo, con la gente que está a tu alrededor, con tu vida. Y todo se repite, una y otra vez, y no sales de ese círculo, y lo que antes te rompía el corazón ya no te rompe, porque sabes lo que vendrá después, y así todo el tiempo. Y eso se llama conformismo virgo. ¿Hace cuanto no te paras a pensar solo si realmente eres feliz con lo que tienes? En la vida puedes estar contento con muchas cosas que no van mal a tu alrededor, pero también tienes que saber cuáles son las que van mal para cambiarlas. Porque aunque no lo creas, una manzana podrida en el cesto puede pudrir las demás si no se saca a tiempo. Y es que, tienes que hacer una limpia en tu vida, no puedes pensar que “bueno, en la vida hay cosas buenas y cosas malas”, claro que es así, pero ahí estás tu para poder cambiar las malas. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes virgo.
+Puede que tus instintos estén sintonizados a tu pareja o interés amoroso y que te hagan leer sus sentimientos. Sin embargo, lo que descubras podría sorprenderte. En lugar de sentir cualquier molestia, opta por tener una charla de corazón a corazón. Puede que hacerlo ayude a que todo se resuelva de muy buena manera. Puede que te percates de que tu atractivo sexual aumenta cuando Marte entre a tu signo. Es hora de ponerte a trabajar en los proyectos personales que son más significativos para ti. Además, querrás atrapar algunas gangas una vez que las ventas de Año Nuevo comiencen.
 
 ## Dinero
 
-Esta semana te está pidiendo el centrarte más en tu carrera. Sueles ser bastante tradicional y conservador/a por naturaleza, pero ahora es posible que te hayas olvidado de tales cualidades, aunque sólo un rato. Si dejas que los demás sepan cuáles son tus metas, incluyendo la posición y el sueldo que quisieras, podrías ser sorprendido/a con lo dispuestos que tus patrones estarían para cumplirlo. Sólo sé extremadamente claro/a.
+Es posible que necesites proteger tu salud esta semana. Si la comunicación es muy importante para ti, puede ser necesario que tengas que proteger tu voz. Tantas llamadas, textos y correos electrónicos; tan poco tiempo. El poder manejar tus citas se convierte en algo fundamental, especialmente en los aspectos actuales. Tu vida social está estallando. Asegúrate de tener por el mango el saber cómo, quién, qué, cuándo y dónde obtener los mejores resultados financieros.

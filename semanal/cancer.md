@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 13 de abril 2020 al 19 de abril 2020 
-description: Horóscopo semanal cancer 13 de abril 2020 al 19 de abril 2020. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda cancer, pero sé constante.
+title: cancer 20 de abril 2020 al 26 de abril 2020 
+description: Horóscopo semanal cancer 20 de abril 2020 al 26 de abril 2020. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,17 +12,18 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-13'
+ lastmod: '2020-04-20'
 ---
 
 
 
-## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda cancer, pero sé constante.
+## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 
-No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
- sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
-Puede que la razón por la que brilles esta semana no sea gracias a alguien, sino por la razón de haber ignorado a alguien. De hecho, una positiva mezcla de energías en la parte superior de tu carta podía verte haciendo un gran esfuerzo por alcanzar un objetivo o un sueño. Y aunque otros refuten, tendrás la fe para seguir adelante. Por otro lado, una positiva alineación entre semana podía llevarte a invertir en bienes, beneficiarte de la generosidad de tu familia o a compartir un golpe de suerte.
+Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
+Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
+Cuando el inquisidor Mercurio se sitúa en tu sector de viaje y estudio, las próximas semanas pueden encontrarte con ganas de explorar nuevos lugares e investigar fascinantes ideas. Y debido a que el vital Marte está en tu sector de habla y pensamiento, este patrón también puede aplicarse a tu entorno local y a la enseñanza o escritura. Se siente una especie de intranquilidad en el aire que podría animarte a buscar respuestas y oportunidades en todas partes. 
+La luna en cuarto creciente del jueves podría hacer que te preguntes si debes compartir un secreto con alguien. Hazlo solo si tu intuición te dice que es lo correcto. El sol ingresa a Leo y a tu sector de viajes el fin de semana, lo que podría animarte a reservar esas vacaciones o programa de estudios. Si bien puede que hayas estado pensando en esto, ahora querrás concretarlo. Y si también puedes pasar un tiempo al aire libre, será excelente para ti.
 
 ## Dinero
 
-Esta semana tu sector de labor te trae todo tipo de elogios en el trabajo. Los de arriba están notando tu trabajo y quieren verte tener éxito. Se te alienta a hablar de tus metas personales y de tu visión para la empresa en conjunto. Tus esfuerzos son muy apreciados. Van a ser recompensados económicamente y con más beneficios.
+Aspectos en tu sector de apariencia personal y autoexpresión muestran que, si bien es posible que te centres en la búsqueda de un nuevo trabajo o una nueva posición con tu empleador actual, el dinero real puede estar en la mejora de tu aspecto para que se te perciba de una manera diferente. Conseguir tener la ropa y el peinado adecuado puede hacer toda la diferencia del mundo.
