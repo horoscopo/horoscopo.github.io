@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 20 de abril 2020 al 26 de abril 2020 
-description: Horóscopo semanal tauro 20 de abril 2020 al 26 de abril 2020. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+title: tauro 27 de abril 2020 al 03 de mayo 2020 
+description: Horóscopo semanal tauro 27 de abril 2020 al 03 de mayo 2020. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-20'
+ lastmod: '2020-04-27'
 ---
 
 
 
-## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 
-A veces, no es fácil vivir la vida tauro, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera tauro. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-Esta semana hay mucha actividad en tu sector hogareño con cierta cuestión desarrollándose y pudiendo llegar a un punto crítico. La manifestación del Eclipse Solar en ese mismo sector podría despertar sentimientos, animar arrebatos y charlas de corazón a corazón. Cualquiera que sea la situación, es posible que se llegue a un punto en el que algo se tenga que hacer. De hecho, la tensión podría crecer tanto que podría volverse imposible de evitar. Sin embargo, no actúes bajo el calor del momento. Si tienes que tomar una decisión, debe ser una informada.
+Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
+Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
+Si puedes despejar tu agenda el 1 de $MES, piensa en hacerlo realmente. La luna llena en Cáncer te motiva para que te tranquilices un poco y sigas tus sentimientos. Con un enfoque definido en tu sector espiritual, puede que necesites tiempo para reflexionar sobre algunos problemas y buscar maneras de resolverlos. Puede que hablar al respecto con una amistad cercana te ayude a superar estos asuntos. Dejar atrás tu bagaje emocional puede ayudarte a comenzar el 2018 con el pie derecho.
 
 ## Dinero
 
-Has tenido la intención de mejorar de alguna manera tanto tu vida laboral como monetaria, y este periodo ofrece la combinación ideal de energías para hacerlo. Es un buen momento para actualizar tu currículum y buscar un nuevo trabajo –si así lo deseas– o ganarte la atención de tus superiores para obtener mejores asignaciones. Ofrécete para voluntariamente trabajar en las que creas que son mejores y es probable que recibas un aumento.
+Si has estado buscando maneras de ganar más dinero, es posible que mirar hacia el pasado traiga los mejores resultados esta semana. Esto se debe en parte a tu casa del dinero y valores. Explora antiguos puestos de trabajo, empresarios y habilidades para atraer más dinero en efectivo. Podrías ser capaz de usar tales para conectar con conocidos de una época anterior de tu vida que podrían ayudarte a crear una cartera de inversiones para proteger tu futuro.

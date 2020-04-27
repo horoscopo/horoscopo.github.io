@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 20 de abril 2020 al 26 de abril 2020 
-description: Horóscopo semanal leo 20 de abril 2020 al 26 de abril 2020. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza leo. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+title: leo 27 de abril 2020 al 03 de mayo 2020 
+description: Horóscopo semanal leo 27 de abril 2020 al 03 de mayo 2020. Mira leo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,20 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-20'
+ lastmod: '2020-04-27'
 ---
 
 
 
-## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza leo. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+## Mira leo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 
-Sólo hace falta que tu mente haga click leo, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
-Tu sector de relaciones parece ocupado durante algún tiempo. El martes, la luna nueva en este sector hace que los próximos días puedan ser tu oportunidad de llevar una relación al próximo nivel. 
-Sin embargo, cuando el incansable Urano ingresa a este sector el mismo día, tus relaciones y tu vida amorosa podrían dar un vuelco durante los meses y años venideros. Y debido a que el expresivo Mercurio está cerca, podrías encontrarte con una repentina noticia u oportunidad. 
-Además, el fogoso Marte ingresa a Acuario más adelante el mismo día. Esto te anima a actuar de forma más proactiva, en especial cuando se trata de eliminar el exceso de objetos y de completar proyectos hogareños.
-Si estás buscando una aventura amorosa, el ingreso de Venus a tu sector de viajes el sábado podría ser el boleto que necesitas. Irte de viaje podría ser beneficioso para todos. 
-Por último, el ingreso del sol a Géminis y a un sector más intenso de tu carta el domingo podría animarte a evaluar las cuestiones financieras, las inversiones y la profundidad de ciertos lazos personales.
+Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo leo… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Sagi, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Sagi. Lo vas a agradecer… Feliz semana.
+A medida que Saturno entra más profundamente a tu signo, podría animarte a tomar mucho más en serio tus objetivos, planes y ambiciones. La Luna Llena del martes podría coincidir con un evento inesperado que pudiera exigir una solución espontánea. Déjate guiar por tus instintos con respecto a este tema, lo que sientas que es lo correcto, probablemente lo es. Además, el actual enfoque en la parte superior de tu carta podría animarte a convertirte en un fiel miembro de tu comunidad y asumir responsabilidades para su beneficio.
 
 ## Dinero
 
-Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.
+Tu inclinación natural a disfrutar de las cosas buenas de la vida puede ser activada esta semana. Ampliar las oportunidades podría permitir que consigas satisfacer tus necesidades a través de todo tipo de redes sociales y empresariales. Un aspecto de apoyo afecta a tu sector de comunicaciones, por lo que respecta a cuestiones de dinero, significa que tienes una mejor oportunidad de alcanzar tus metas. No asumas que los demás saben lo que estás buscando.
