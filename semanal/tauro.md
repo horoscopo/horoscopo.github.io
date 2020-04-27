@@ -21,7 +21,7 @@ sitemap:
 
 Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
 Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
-Si puedes despejar tu agenda el 1 de $MES, piensa en hacerlo realmente. La luna llena en Cáncer te motiva para que te tranquilices un poco y sigas tus sentimientos. Con un enfoque definido en tu sector espiritual, puede que necesites tiempo para reflexionar sobre algunos problemas y buscar maneras de resolverlos. Puede que hablar al respecto con una amistad cercana te ayude a superar estos asuntos. Dejar atrás tu bagaje emocional puede ayudarte a comenzar el 2018 con el pie derecho.
+Si puedes despejar tu agenda el 1 de $MES, piensa en hacerlo realmente. La luna llena en Cáncer te motiva para que te tranquilices un poco y sigas tus sentimientos. Con un enfoque definido en tu sector espiritual, puede que necesites tiempo para reflexionar sobre algunos problemas y buscar maneras de resolverlos. Puede que hablar al respecto con una amistad cercana te ayude a superar estos asuntos. Dejar atrás tu bagaje emocional puede ayudarte a comenzar el 2020 con el pie derecho.
 
 ## Dinero
 
