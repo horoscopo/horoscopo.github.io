@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo virgo abril 2020 
+title: Horoscopo virgo mayo 2020 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Mantén tus emociones bajo control durante el fin de semana de Luna Llena del 4 de abril. Varias viejas amistades podrían traerte historias y recuerdos que despierten algunos sentimientos incómodos. Escucha, aprende, y puede que hasta encuentres un nuevo amor. Sorpréndete tanto a ti - como a otros - durante la Luna Nueva del 18 de abril. Ellos también estarán esforzándose de más para sorprenderte. Mantener las situaciones divertidas hará que los sentimientos no se vean afectados. A veces, un viejo truco puede aún funcionar. La última semana del mes es más tranquila y muy productiva, con más diversión del tipo casual. A partir del 29 de abril, el progreso podría llegar en pequeños pasos, pero será constante.
+Explora nuevas e interesantes ideas bajo la Luna Nueva del 8 de mayo. El mundo es mucho más grande de lo que imaginas. No es el momento de dejar que la timidez se interponga en tu camino. Sal a conocer gente y a probar cosas nuevas, por lo menos esos restaurantes de comida exótica que te han llamado la atención. La Luna Llena del 23 de mayo ilumina tu sector profesional. Ten un buen desempeño y formula todas las ideas inteligentes y soluciones que necesites. Además, algo en tu hogar también podría estar creando profundos sentimientos, por lo que presta atención. El sextil entre la Luna y Neptuno del 31 de mayo es favorable hacia un añorado sueño. Puede que requiera de un poco de esfuerzo, pero darle tu suave toque será lo que le lleve al éxito.

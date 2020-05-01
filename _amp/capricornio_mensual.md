@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo capricornio abril 2020 
+title: Horoscopo capricornio mayo 2020 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Puede que abril no tenga luna llena este año, pero el 1 de abril es el día posterior a una luna llena, y el 28 de abril es el día previo a otra. Las emociones podrían fluctuar salvajemente en esos momentos, así que haz tus planes en consecuencia. La luna nueva (y el eclipse solar) del día 15 te invita a jugar más y ser una persona más creativa. No hay pero que valga. Haz lo que te haga feliz y encienda tu luz interior. Puede ser algo que te ha encantado por mucho tiempo. El 21 de abril, la conjunción entre Venus y Neptuno en el emocional Piscis podría revitalizar un romance estancado, o abrir tus ojos y tu corazón a un inesperado interés romántico. Recuerda que también debes amarte a ti. 
+Tu ansia de diversión pura es iluminada por la Luna Nueva del 6 de mayo. Encuentra alegría en algo nuevo y sorprendente. Algunas de tus amistades podrían no sorprenderse, pero estarán felices por ti. ¡Hazlo y ve hacia dónde te lleva! La Luna Llena del 21 de mayo te otorga poder detrás de escenas en una situación social o familiar. Tú bien sabes cómo restarles importancia a tus ventajas y hacer las cosas a tu manera. No tendrás que aplicar ninguna presión o persuasión para conseguir lo que deseas. La cuadratura entre Júpiter y Saturno del 26 de mayo es una ocurrencia rara, otorgándote más potencia e influencia. Utiliza ambos sabiamente y con cuidado.

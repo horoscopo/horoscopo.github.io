@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo leo abril 2020
-description: El Horóscopo abril de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo leo mayo 2020
+description: El Horóscopo mayo de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo leo abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo leo mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: g_VIh3NkXjc
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Grandes preocupaciones financieras y los planes importantes de otras personas llegan con la luna llena del 1 de abril. Confía en tus instintos, y luego puedes comprometerte de lleno en un nuevo proyecto o trabajo que ya está en progreso. Durante la luna nueva del día 17, deja que el mundo exterior exija y demande tu tiempo y atención. No tienes que acceder, pero sé amable al respecto. El 20 de abril, el sol ingresa a Aries. Si tienes planes pendientes, empieza ahora. Si no, ¡haz esos planes! La luna llena, una luna azul, activa el área de tu vecindario el último día del mes. ¿No conoces a tus vecinos? Puede que lo hagas pronto.
+Las preocupaciones profesionales son energizadas con la Luna Nueva del 8 de mayo. Si es el momento para un cambio o ajuste, pues es el momento. Pero si no lo es, eso también está bien. Haz algunas observaciones sobre el presente y formula planes para más tarde. La Luna estará en Tauro el 14 de mayo, para el Día de San Valentín. Disfruta de lo que más te agrada y comparte el amor. Tu vida social se calienta con la llegada de la Luna Llena del 22 de mayo. Cuando tendrás brillantes y divertidas ideas a las que tu círculo social se adaptará. Diviértete en grande al estar fuera del centro de atención y tal vez escucha el sueño privado que una amistad especial te confíe.

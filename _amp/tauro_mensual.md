@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo tauro abril 2020 
+title: Horoscopo tauro mayo 2020 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Tu astro regente, Venus, entra al sexy y reservado Escorpión el 4 de abril. El romance y la necesidad de amor se vuelven impulsivas fuerzas, incluso si no quieres explicar por qué te sientes cómo te sientes. Las personas a tu alrededor mantendrán tu tiempo ocupado durante todo el mes, esto pudiendo alcanzar su punto máximo con la Luna Nueva del 11 de abril. Vuélvete la fuente de consejo y consuelo para cierta persona que necesita estímulo o redirección. O puede que simplemente puedas ser el ejemplo que todos necesitan ver. Tanto amigos como vecinos y conocidos calientan tu corazón durante la Luna Llena del 25 de abril, cuando también podrías conocer a otras personas por primera vez.
+La creatividad (o quizás tan solo tu ya brillante sentido del humor) estallará durante la luna llena del 5 de mayo. Haz lo que haga más feliz a tu corazón sin gastarte en ello el dinero de la renta. Algunas amistades también quieren jugar e inspirarse. Júpiter sale de Libra y entra a Escorpión el 10 de mayo. Enfócate en lo que más te importa y haz un gran progreso durante los próximos meses. Durante la luna nueva del 19 de mayo, libérate de tu multitud social de siempre e intenta algo diferente. No lo pienses tanto. Quizás te concentras demasiado en el trabajo y podrías aprovechar algunas ideas nuevas para divertirte y entretenerte. 

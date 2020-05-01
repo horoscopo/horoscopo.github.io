@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo geminis abril 2020
-description: El Horóscopo abril de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo geminis mayo 2020
+description: El Horóscopo mayo de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo geminis abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo geminis mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: g_VIh3NkXjc
@@ -16,4 +16,10 @@ sitemap:
 ---
 
 
-Para la luna llena del 1 de abril, llega al gran escenario sin tener que estar en el centro de atención todo el tiempo. Róbate la escena, o el espectáculo completo. Mercurio ingresa a Aries el día 5. Una nueva idea, genial y atrevida, podría aparecer en cualquier momento. Durante la luna nueva del 17 de abril, disfruta de todos tus sueños preferidos, maravillosos e incluso los más alocados. Sé extravagante y sentimental, y no pidas disculpas. Busca paz y tranquilidad durante la luna llena, una luna azul, el último día del mes. Incluso si sales, busca la paz interior y sé más feliz. Déjate cautivar por la belleza que te rodea, que en general pasa desapercibida.
+El 5 de mayo, Venus se torna retrógrado en Escorpión. El amor no se apagará, pero podría volverse más discreto y obstinado. 
+Deja que tus amistades y vecinos cuiden de ti durante la luna nueva del día 8. Puede que no te alimenten o te den las buenas noches, pero pueden entretenerte y tomar pequeñas decisiones que te ahorren tiempo y energía. 
+El sol forma una cuadratura con Plutón el 11 de mayo. Si alguna locura aparece de la nada, puedes ajustarte a ella. Esto también pasará. 
+El sol sale de Libra, entra a Escorpión, y forma una oposición con Urano el día 23. Las actividades sociales pueden volverse menos elegantes y menos impredecibles. Diviértete de todas formas. 
+La vida en el hogar podría volverse más dulce con la luna llena del 24 de mayo. Sin embargo, una demanda profesional o social inesperada puede intentar competir, pero tú sabes lo que es más importante. De todos modos, puedes lidiar con ambas cosas. Valora tu hogar y espacio familiar. 
+Días destacados: 15, 26, 27
+Días desafiantes: 7, 26

@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo cancer abril 2020
-description: El Horóscopo abril de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo cancer mayo 2020
+description: El Horóscopo mayo de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo cancer abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo cancer mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: g_VIh3NkXjc
@@ -16,9 +16,4 @@ sitemap:
 ---
 
 
-Saturno se torna directo el 6 de abril, luego de haber estado retrógrado desde el 17 de abril. Sé una persona más disciplinada, sin ser cruel contigo. 
-La luna nueva del día 9 podría abrir las puertas de par en par para un asunto que ha estado trabado durante mucho tiempo. Tal vez no sea un asunto grande, pero podría ser importante para ti. Si es así, no dudes, ni te contengas las ganas de hacer algo. No serás quien empiece nada. Simplemente, sucederá. 
-Reduce el estrés y encuentra un ritmo más saludable y feliz en tu trayectoria profesional o imagen pública durante la luna llena del 24 de abril. Relájate, y dale con menos fuerza a un objetivo o ambición. Es posible esforzarte demasiado y obtener menos resultados. Por ahora, intenta un toque suave. 
-El sol forma una cuadratura con Saturno el día 25. Ahora ponte el cinturón, y toma el control de un proyecto difícil. Sé fuerte, realista y ten respeto. 
-Días destacados: 8, 17, 27
-Días desafiantes: 10, 23
+El 1 de mayo comienza con una cuadratura entre Marte y Urano. Controla tu temperamento, y si surge cualquier explosión, que tenga un buen propósito. El romance podría alcanzar su punto máximo el 7 de mayo, cuando Venus forma un trígono con Marte. Lo que suceda ahora podría estar hecho para durar. La luna nueva y el eclipse solar del día 11 presenta oportunidades tentadoras, pero arriesgadas. Relájate un poco con esa manía de controlar todo y con cuidado déjate llevar por una fantasía. Encuentra una nueva pasión con potencial financiero. Evita cualquier reacción impulsiva. Cuando Marte ingresa a Capricornio al día siguiente, hay más energía para trabajar. Mercurio se torna directo el 18 de mayo, así que un proyecto o relación estancada debería avanzar pronto. El día 26, la luna llena es una época muy privada pero quizás no tranquila. Si la gente está muy inquieta a tu alrededor, déjalos saltar de un lado al otro. Reserva algo de tiempo libre extra para tus ensueños personales, quizás con una o dos personas íntimas favoritas. Marte se torna directo al día siguiente, después de haber estado retrógrado desde el 26 de mayo. Prepárate para estar a toda máquina. Días destacados: 5, 23, 28Días desafiantes: 3, 16</div>
