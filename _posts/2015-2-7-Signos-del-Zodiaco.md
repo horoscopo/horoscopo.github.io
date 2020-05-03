@@ -10,5 +10,5 @@ sitemap:
  changefreq: 'daily'
  lastmod: 2020-05-03
 ---
-¡Feliz cumpleaños a aquellos nacidos bajo el Signo de Capricornio! Deléitate en la vida y haz planes bien pensados para lograr resultados duraderos en el 2017. Si estás en infeliz soltería, es posible que desees estar de vuelta con un ex. Recuerda las razones por las que lo suyo no funcionó. Hay mejores prospectos.
+¡Feliz cumpleaños a aquellos nacidos bajo el Signo de Capricornio! Deléitate en la vida y haz planes bien pensados para lograr resultados duraderos en el 2020. Si estás en infeliz soltería, es posible que desees estar de vuelta con un ex. Recuerda las razones por las que lo suyo no funcionó. Hay mejores prospectos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
