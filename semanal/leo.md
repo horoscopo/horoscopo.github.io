@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 27 de abril 2020 al 03 de mayo 2020 
-description: Horóscopo semanal leo 27 de abril 2020 al 03 de mayo 2020. Mira leo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+title: leo 04 de mayo 2020 al 10 de mayo 2020 
+description: Horóscopo semanal leo 04 de mayo 2020 al 10 de mayo 2020. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho leo. Más que nunca…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-27'
+ lastmod: '2020-05-04'
 ---
 
 
 
-## Mira leo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho leo. Más que nunca…
 
-Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo leo… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Sagi, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Sagi. Lo vas a agradecer… Feliz semana.
-A medida que Saturno entra más profundamente a tu signo, podría animarte a tomar mucho más en serio tus objetivos, planes y ambiciones. La Luna Llena del martes podría coincidir con un evento inesperado que pudiera exigir una solución espontánea. Déjate guiar por tus instintos con respecto a este tema, lo que sientas que es lo correcto, probablemente lo es. Además, el actual enfoque en la parte superior de tu carta podría animarte a convertirte en un fiel miembro de tu comunidad y asumir responsabilidades para su beneficio.
+Mira piscis, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer leo, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
+Puede que tu cuerpo comience a sentirse más relajado y menos cansado cuando el Sol salga de tu sector profesional y entre a tu sector social. Has estado pasado por una fase bastante agitada recientemente, pero con el actual enfoque en el Signo de Tauro, es momento de relajarte y pasar un buen rato. En otra nota, no le prestes demasiada atención a la opinión de alguien, sobre todo si te parece un tanto negativa. Además, la Luna Llena del jueves podría verte teniendo mucha pasión hacia la persona que amas.
 
 ## Dinero
 
-Tu inclinación natural a disfrutar de las cosas buenas de la vida puede ser activada esta semana. Ampliar las oportunidades podría permitir que consigas satisfacer tus necesidades a través de todo tipo de redes sociales y empresariales. Un aspecto de apoyo afecta a tu sector de comunicaciones, por lo que respecta a cuestiones de dinero, significa que tienes una mejor oportunidad de alcanzar tus metas. No asumas que los demás saben lo que estás buscando.
+Es un buen momento para ti, queriendo más que nada iniciar una nueva cuenta de ahorro y plan de inversiones para asegurar tu futuro. Pero hay tentaciones por todas partes debido a cierta actividad en tu sector de viajes, educación y espiritualidad. La necesidad de viajar y aprender tiene mucho poder sobre ti, y el dinero constantemente se sale de ese agujero en tu bolsillo. Trata de resistirte a la tentación de derrochar. Siempre se puede aprender de los acontecimientos de la vida.

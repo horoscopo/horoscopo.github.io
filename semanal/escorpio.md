@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 27 de abril 2020 al 03 de mayo 2020 
-description: Horóscopo semanal escorpio 27 de abril 2020 al 03 de mayo 2020. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+title: escorpio 04 de mayo 2020 al 10 de mayo 2020 
+description: Horóscopo semanal escorpio 04 de mayo 2020 al 10 de mayo 2020. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-27'
+ lastmod: '2020-05-04'
 ---
 
 
 
-## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagi, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 
-No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
-Si bien todos los aspectos de tu mundo parecen bastante estables en este momento, no puedes evitar sentir un poco de nervios. La inquietud que sientes no tiene un motivo claro. Puede que haya una idea, visión o sueño dentro de ti que están esperando para salir. Entre las ocupaciones de tu vida diaria, trata de encontrar un momento para la reflexión y bríndale a esta idea o profundo deseo la oportunidad de revelarse. Así sabrás que hacer. El jueves, no te apresures demasiado. Piensa bien las cosas.
+Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea escorpio. 
+ Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
+El actual enfoque en tu sector espiritual sugiere que si sientes cansancio y exceso de energía al mismo tiempo, deberías cortar actividades para que puedas relajare y recargar baterías. En este caso, es posible que te percates de que prestarle atención a tus impulsos creativos es tanto inspirador como curativo. Si tienes ganas de aprender una nueva habilidad o instrumento musical, este es buen momento para empezar. Tal podría convertirse en tu nueva manera de relajarte en el futuro. Más tarde, Venus entrando a tu signo te permitirá deleitarte al poder serle fiel a tu personalidad.
 
 ## Dinero
 
-Esta semana ilumina las áreas de tu carta que quieren salir y explorar todo lo que la vida tiene que ofrecer; desde lo emocional, a lo físico, a lo espiritual. Es imprescindible ir con la corriente cuando se trata de los cambios en el frente monetario. Estos no son malos, pero van a requerir de un poco de paciencia.
+Esta semana estás pensando en la manera de expresar tu lado serio. Tienes algunas cosas pesadas en la mente, y mantenerlas dentro  no le hace bien a nadie. En vez de eso, encuentra a tu locutor interno, y dale la noticia de una manera neutral e imparcial. Al menos tu sector de trabajo es un lugar seguro en el que puedes dejar que tu nuevo “yo” salga. La gente quiere escuchar lo que tienes que decir, sobre todo tus ideas sobre cómo ahorrarle dinero a la empresa.

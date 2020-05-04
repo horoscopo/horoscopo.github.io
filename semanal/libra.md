@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 27 de abril 2020 al 03 de mayo 2020 
-description: Horóscopo semanal libra 27 de abril 2020 al 03 de mayo 2020. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida libra. Ahora brillas así que, aprovecha. Aprovecha todo.
+title: libra 04 de mayo 2020 al 10 de mayo 2020 
+description: Horóscopo semanal libra 04 de mayo 2020 al 10 de mayo 2020. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca libra.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-27'
+ lastmod: '2020-05-04'
 ---
 
 
 
-## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida libra. Ahora brillas así que, aprovecha. Aprovecha todo.
+## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca libra.
 
-Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
-¿Qué significa cuando el planeta de la buena fortuna se torna directo en tu sector psicológico? Podría ser que comiences a confiar en tu intuición y tengas más receptividad a sus mensajes y sutiles toques. El arduo esfuerzo que has puesto en cierta disciplina espiritual como la mediación, yoga o terapia podría comenzar a mostrar resultados. Difíciles situaciones en tu vida social también podrían mejorar considerablemente. En cuanto a finanzas se refiere, un aparente retraso podría venir con ventajas ocultas. ¡Mantente alerta!
+Tienes que improvisar más libra, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira libra, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado libra… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no libra, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana libra.
+El martes trae un nuevo amanecer a medida que el revelador sol brilla en tu signo durante cuatro semanas. Puede que sientas que tu vitalidad comienza a aumentar y que ahora puedes disfrutar de ser completamente como tú eres. Las próximas semanas pueden ser una oportunidad para iniciar proyectos que últimamente han estado revoloteado en tu mente. También es una excelente etapa para reafirmar tu vida, durante la que puedes sentirte muy bien al expresarte. El fin de semana podría traer una visita sorpresa o una invitación demasiado buena como para dejarla pasar.
 
 ## Dinero
 
-Para aprender más sobre los caminos del amor, les pides consejos a tus amistades. Entiendes lo que es tener una pareja, cuidarla, y balancear a otra persona de una manera íntima. Los aspectos que combinan trabajo y dinero, funcionan de la misma manera. Exhibe tu interés en obtener una nueva y mejor posición. ¡Tienes posibilidades de obtener tanto eso como un aumento! Pide lo que quieres y no lo que piensas que la compañía puede pagar.
+Le estás dando nueva vida a algo por lo que perdiste interés hace mucho tiempo, gran parte de tu energía se está moviendo en esta dirección. De hecho, puedes hasta disfrutar de un golpe de suerte que lo haga suceder esta vez y de verdad. Asegúrate de que tu flujo de efectivo se mantenga estable al gastarlo proporcionalmente. Podrías estar viendo tu situación financiera a través de lentes de color de rosa.

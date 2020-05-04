@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 27 de abril 2020 al 03 de mayo 2020 
-description: Horóscopo semanal sagitario 27 de abril 2020 al 03 de mayo 2020. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+title: sagitario 04 de mayo 2020 al 10 de mayo 2020 
+description: Horóscopo semanal sagitario 04 de mayo 2020 al 10 de mayo 2020. Estás renaciendo sagitario, renaciendo de las cenizas… Y ya era hora…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-27'
+ lastmod: '2020-05-04'
 ---
 
 
 
-## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+## Estás renaciendo sagitario, renaciendo de las cenizas… Y ya era hora…
 
-No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues sagitario, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe…
-A medida que Marte ingresa a tu signo, puede que sientas mucha satisfacción con el progreso que has logrado hasta el momento. Sin embargo, dos planetas se vuelven retrógrados esta semana, lo que podría retrasar tus planes. La fase retrógrada de Mercurio en particular podría significar que deberás ponerle un alto a una idea, ya que podría necesitarse más información. Además, algunos eventos hacen que sientas menos confianza de la habitual, en especial con respecto a un asunto comercial. ¡Hacer el trabajo preliminar primero puede ayudarte a recuperar tu entusiasmo!
+Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad sagitario, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
+Mientras Venus se vuelve retrógrado en tu sector de finanzas personales, podrías estar más consciente de la forma en que inviertes tu dinero y descubrir cómo puedes ahorrar más en el futuro. Y con Mercurio volviéndose retrógrado esta semana, podría ser inteligente evitar comprar artículos de gran valor, al menos durante las próximas tres semanas. En lugar de esto, disfruta de algunos pequeños lujos. Por último, podrías sentir la carga de las demandas de determinada persona. De ser así, todo lo que debes hacer es decir no.
 
 ## Dinero
 
-Tienes una semana llena de tensión por delante. Es posible que tengas que comprometer más de lo que quisieras. Tu vida hogareña, más que tu carrera o cartera de inversiones es donde debes buscar si quieres ganar más plata.
+Tu sector de dinero se destaca esta semana. La forma en la que ves el dinero en tu vida entra en cuestión, así como la sabiduría de tus planes monetarios más recientes. Este es el momento de cuestionar todo - incluso lo que decidiste que fue bueno hace unos meses. Alentar las señales del Universo se relacionan con tu capacidad de obtener ingresos, mientras que los detalles de cualquier noticia negativa se suavizan. Estás en el camino correcto en ambos sentidos.

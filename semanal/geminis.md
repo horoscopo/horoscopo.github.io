@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 27 de abril 2020 al 03 de mayo 2020 
-description: Horóscopo semanal geminis 27 de abril 2020 al 03 de mayo 2020. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+title: geminis 04 de mayo 2020 al 10 de mayo 2020 
+description: Horóscopo semanal geminis 04 de mayo 2020 al 10 de mayo 2020. Recuerda que ha empezado la época de los geminis… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-04-27'
+ lastmod: '2020-05-04'
 ---
 
 
 
-## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+## Recuerda que ha empezado la época de los geminis… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 
-El mundo no te entiende geminis, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales geminis, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo geminis, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
-
+Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
+ sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
+A medida que Marte continúa su paso por tu sector de salud y estilo de vida, puede que tengas ganas de cambiar tu rutina diaria. Esto podría ser renovar tu dieta o tu rutina de ejercicios o reprogramar actividades para que tengas más tiempo para relajarte y divertirte. Puede que notes que una amistad y tú tienen ideas muy diferentes, lo que podría crear un poco de distancia entre ustedes. Trata de mantener la calma. Es posible que todo se resuelva la semana que vi
 
 ## Dinero
 
-Hay una interesante energía concentrándose alrededor de tu trabajo y dinero. Un aspecto favorable indica que ciertas instituciones como compañías de tarjetas de crédito o bancos están tratando de trabajar contigo para desarrollar un amplio plan de pago de deuda. Es un momento positivo para la recaudación de fondos también. Si estás tratando de deshacerte de tu deuda, este es un gran momento para intentarlo.
+Estás en una fase de redefinición ahora. Puede que la gente esté acostumbrada a que juegues cierto tipo de papel en sus vidas, lo cuál no ha sido lo mejor para tu vida financiera. No importa. Eres una persona magnética y hay mucha suerte en tu sector de comunicaciones. Podrías percatarte de que mientras más se te vea y se te escuche, puedes conseguir que tus necesidades financieras se cumplan.
