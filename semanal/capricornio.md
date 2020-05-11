@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 04 de mayo 2020 al 10 de mayo 2020 
-description: Horóscopo semanal capricornio 04 de mayo 2020 al 10 de mayo 2020. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+title: capricornio 11 de mayo 2020 al 17 de mayo 2020 
+description: Horóscopo semanal capricornio 11 de mayo 2020 al 17 de mayo 2020. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-04'
+ lastmod: '2020-05-11'
 ---
 
 
 
-## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+## En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 
-No te arrepientas de abrirte capricornio, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles capricornio, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar capricornio, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos capricornio, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
-No cedas a la tentación de dar demasiada información, sobre todo si realmente no te lo puedes permitir. El Eclipse Solar de esta semana podría despertar sentimientos dentro de ti. Si escuchas que alguien necesita ayuda, puede que seas la primera persona en ponerte en contacto con tal. Sin embargo, antes de sacar del banco tu dinero arduamente ganado, asegúrate de no estarlo haciendo en vano. Hay muchas razones por las que las cosas podrían no ser lo que parecen. Muestra tu usual generosidad, pero sí debes saber dónde trazar la línea.
+Céntrate en tus metas capricornio, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+Hay un nuevo comienzo con la poderosa entrada de Marte a tu sector de hogar y familia, lo que te alienta a despejar los malos aires. En esta semana, puede que sientas que es hora de mimarte un poco y darte gusto con algunos lujos. Pero es posible que no dejes pasar una oferta. Con Mercurio entrando a Géminis, estarás al tanto de los precios a tu alcance y te prepararás para hacer una buena compra. Además, un sentido de aventura podría motivarte para que reserves unas vacaciones.
 
 ## Dinero
 
-Este período es acerca de cómo enfocar tus emociones hacia una empresa que produzca dinero de algún tipo. Puede sonar difícil, pero podría sorprenderte lo fácil que es. Tu vida emocional está justo en la superficie y en busca de una manera de expresarse. Esto seguro es muy bueno si eres del tipo creativo, ¡por lo que aprovecha y haz algo con ello!
+Estás tratando de expresarte más en lo que se refiere a trabajo y dinero ahora. Es el momento perfecto para hablar acerca de tus prioridades y que se te escuche en lo que se refiere a dinero en efectivo. No dejes que alguien más en el trabajo o en una relación estrecha sea demasiado dominante con sus ideas sobre el dinero. Juntos, pueden mover montañas – a solas, no tanto.

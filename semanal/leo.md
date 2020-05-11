@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 04 de mayo 2020 al 10 de mayo 2020 
-description: Horóscopo semanal leo 04 de mayo 2020 al 10 de mayo 2020. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho leo. Más que nunca…
+title: leo 11 de mayo 2020 al 17 de mayo 2020 
+description: Horóscopo semanal leo 11 de mayo 2020 al 17 de mayo 2020. Hay personas que juegan en otra liga leo, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-04'
+ lastmod: '2020-05-11'
 ---
 
 
 
-## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho leo. Más que nunca…
+## Hay personas que juegan en otra liga leo, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 
-Mira piscis, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer leo, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
-Puede que tu cuerpo comience a sentirse más relajado y menos cansado cuando el Sol salga de tu sector profesional y entre a tu sector social. Has estado pasado por una fase bastante agitada recientemente, pero con el actual enfoque en el Signo de Tauro, es momento de relajarte y pasar un buen rato. En otra nota, no le prestes demasiada atención a la opinión de alguien, sobre todo si te parece un tanto negativa. Además, la Luna Llena del jueves podría verte teniendo mucha pasión hacia la persona que amas.
+A veces las cosas tienen que ser a tu manera o a ninguna leo, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada leo. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
+Tratar de hacer cualquier avance esta semana podría ser complicado. Los demás pueden ser bastante demandantes, y sus necesidades podrían ocupar una gran parte de tu tiempo y energía. Tú también tienes planes con los que debes cumplir, e incluso la presencia de Mercurio retrógrado puede provocar demoras. Si sientes demasiada presión, tendrás que poner límites firmes. Hazles saber a los demás que solo puedes cumplir hasta determinado punto y mantente firme. La capacidad de decir que no y mantenerte firme en tu respuesta puede resultarte especialmente útil en los próximos días. 
+Aun así, tus amistades podrían brindarte mucho apoyo y tener ganas de ayudarte en lo que puedan. Cuando el encantador Venus, que está en tu sector social, se dirige al ejemplar Saturno el fin de semana, alguien podría intervenir o darte un invaluable consejo. No sientas que debes manejar esta situación sin ayuda; simplemente pídela.
 
 ## Dinero
 
-Es un buen momento para ti, queriendo más que nada iniciar una nueva cuenta de ahorro y plan de inversiones para asegurar tu futuro. Pero hay tentaciones por todas partes debido a cierta actividad en tu sector de viajes, educación y espiritualidad. La necesidad de viajar y aprender tiene mucho poder sobre ti, y el dinero constantemente se sale de ese agujero en tu bolsillo. Trata de resistirte a la tentación de derrochar. Siempre se puede aprender de los acontecimientos de la vida.
+Con tanta actividad en tu sector de dinero y valores, puede que estés revisando tus finanzas con un peine muy fino. El gasto está bajo control, excepto cuando se trata de embellecer tu entorno. Puede que exijas el tener interesantes colores, texturas y olores en tu hogar y en tu cuerpo. Tienes un intercambio armonioso de energía entre tu carrera y vida monetaria, pero asegúrate de que de verdad amas ese objeto antes de comprarlo y salir de la tienda.

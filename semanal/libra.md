@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 04 de mayo 2020 al 10 de mayo 2020 
-description: Horóscopo semanal libra 04 de mayo 2020 al 10 de mayo 2020. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca libra.
+title: libra 11 de mayo 2020 al 17 de mayo 2020 
+description: Horóscopo semanal libra 11 de mayo 2020 al 17 de mayo 2020. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar libra. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-04'
+ lastmod: '2020-05-11'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca libra.
+## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar libra. 
 
-Tienes que improvisar más libra, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira libra, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado libra… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no libra, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana libra.
-El martes trae un nuevo amanecer a medida que el revelador sol brilla en tu signo durante cuatro semanas. Puede que sientas que tu vitalidad comienza a aumentar y que ahora puedes disfrutar de ser completamente como tú eres. Las próximas semanas pueden ser una oportunidad para iniciar proyectos que últimamente han estado revoloteado en tu mente. También es una excelente etapa para reafirmar tu vida, durante la que puedes sentirte muy bien al expresarte. El fin de semana podría traer una visita sorpresa o una invitación demasiado buena como para dejarla pasar.
+No te calientes libra, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no libra, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien libra, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
+Tu vida social parece particularmente alegre esta semana debido a una mezcla vivaz de energías que dan lugar a muchos tipos de interacciones. También es posible que una vieja amistad te llame para invitarte a que se reencuentren. Si lo hace, podría ser un reencuentro de lo más conmovedor. Estarás en tu elemento mientras Marte se impulsa hacia tu signo a mitad de la semana para darte la fortaleza que necesitas para seguir adelante con tus planes personales. No habrá quién te detenga hasta que cumplas tus sueños y muestres tus habilidades.
 
 ## Dinero
 
-Le estás dando nueva vida a algo por lo que perdiste interés hace mucho tiempo, gran parte de tu energía se está moviendo en esta dirección. De hecho, puedes hasta disfrutar de un golpe de suerte que lo haga suceder esta vez y de verdad. Asegúrate de que tu flujo de efectivo se mantenga estable al gastarlo proporcionalmente. Podrías estar viendo tu situación financiera a través de lentes de color de rosa.
+Mirando a tu sector de relaciones significativas, todo está bien en ese frente, pero no estaría de más revisar las finanzas compartidas para asegurarse de que ambos están al tanto del ahorro y el pago de la deuda o las cuentas. Mientras tanto, tu sector de comunicación está haciendo la pregunta, ¿cómo puede usar tus habilidades comunicativas para atraer más dinero? La escritura, en particular, puede ser lucrativa.

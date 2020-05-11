@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 04 de mayo 2020 al 10 de mayo 2020 
-description: Horóscopo semanal sagitario 04 de mayo 2020 al 10 de mayo 2020. Estás renaciendo sagitario, renaciendo de las cenizas… Y ya era hora…
+title: sagitario 11 de mayo 2020 al 17 de mayo 2020 
+description: Horóscopo semanal sagitario 11 de mayo 2020 al 17 de mayo 2020. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-04'
+ lastmod: '2020-05-11'
 ---
 
 
 
-## Estás renaciendo sagitario, renaciendo de las cenizas… Y ya era hora…
+## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 
-Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad sagitario, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
-Mientras Venus se vuelve retrógrado en tu sector de finanzas personales, podrías estar más consciente de la forma en que inviertes tu dinero y descubrir cómo puedes ahorrar más en el futuro. Y con Mercurio volviéndose retrógrado esta semana, podría ser inteligente evitar comprar artículos de gran valor, al menos durante las próximas tres semanas. En lugar de esto, disfruta de algunos pequeños lujos. Por último, podrías sentir la carga de las demandas de determinada persona. De ser así, todo lo que debes hacer es decir no.
+Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección sagitario, y ahora puedes elegir lo que quieras.
+Hay mucho sucediendo en tu sector de ocio esta semana, comenzando con el potencial para una reunión especial con connotaciones románticas. El Eclipse Solar del jueves en este sector sugiere que hay que tener cuidado si terminas cayendo en enamoramiento. Las relaciones pueden tomar giros inusuales si comienzan alrededor de un Eclipse Solar, por lo que es bueno tener cautela. Además, Mercurio rebobinando sugiere que lo mejor sería que no llevaras las cosas al siguiente nivel.
 
 ## Dinero
 
-Tu sector de dinero se destaca esta semana. La forma en la que ves el dinero en tu vida entra en cuestión, así como la sabiduría de tus planes monetarios más recientes. Este es el momento de cuestionar todo - incluso lo que decidiste que fue bueno hace unos meses. Alentar las señales del Universo se relacionan con tu capacidad de obtener ingresos, mientras que los detalles de cualquier noticia negativa se suavizan. Estás en el camino correcto en ambos sentidos.
+Tienes una situación muy interesante esta semana conforme aspectos celestiales te presionan a tener una mayor productividad. La actividad en tu sector asociado con viajes al extranjero, la metafísica y la educación superior te empuja a ampliar tu negocio en territorio desconocido. Haz que ocurra este año y estarás cosechando los beneficios el próximo año.

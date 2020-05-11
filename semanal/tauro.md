@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 04 de mayo 2020 al 10 de mayo 2020 
-description: Horóscopo semanal tauro 04 de mayo 2020 al 10 de mayo 2020. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+title: tauro 11 de mayo 2020 al 17 de mayo 2020 
+description: Horóscopo semanal tauro 11 de mayo 2020 al 17 de mayo 2020. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo tauro, se llama dignidad. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,17 +12,19 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-04'
+ lastmod: '2020-05-11'
 ---
 
 
 
-## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo tauro, se llama dignidad. 
 
-Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
- y es que no puedes parar, de verdad.
-Un deseo en particular podría ser tan fuerte que se apodere de tu mente y sentidos, sobre todo a principios de semana, cuando podrías preguntarte qué fue lo que te golpeó; algo que valdría la pena analizar más profundamente. Puede que hasta termines recibiendo más de lo que esperabas. El actual enfoque en tu sector hogareño podría hacer que te preguntes sobre los motivos de ciertos miembros de tu familia. Una charla de corazón a corazón podría ser mejor a quedarte con innecesarias sospechas. A partir del domingo, Venus en Libra puede ser útil para las negociaciones y el romanticismo.
+No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo tauro pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
+ Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
+Cuando el sol está en tu sector social, puede ser un buen momento para disfrutar del apoyo de tus amistades. Sin embargo, debido a que existe un importante enfoque en tu sector de relaciones, al parecer tus asociaciones están atravesando importantes cambios ahora y en los próximos meses. 
+  Debido a que ahora tanto el precavido Saturno como el radical Plutón están retrógrados en este sector, podrías ver algunas conexiones desde una nueva perspectiva, lo que es bueno. Distinguir entre las que son beneficiosas para ti y las que no lo son puede producir drásticas decisiones. Nada de esto sucederá de la noche a la mañana. Será un descubrimiento más gradual. 
+  La presencia del delicioso Venus en tu sector espiritual te ofrece la posibilidad de mejorar tu relación con tu persona, algo muy importante. Este fin de semana, puede que te pidan ayuda con un evento de caridad o de otro tipo. Hacerlo debería ser muy agradable.      
 
 ## Dinero
 
-Puede que sientas inquietud y satisfacción esta semana. ¿Cuándo fue la última vez que te sentiste feliz y libre? Probablemente cuando estuviste viajando y aprendiendo algo nuevo. Tu cerebro quiere ser usado. Gastar dinero en una clase o libro interesante o salir a una expedición guiada puede ser justo lo que necesitas para defenderte del aburrimiento. Los planetas se preguntan cómo te cambia lo que aprendes. Te podría sorprender la respuesta.
+Es hora de mostrar una presencia real con tu ropa, tu conducta y manera de hablar. No hay lugar para personas tímidas aquí, solo personas con autoridad y claridad pueden dar su punto a entender con eficacia. Acude a tu hogar para obtener ideas para ahorrar dinero o formas de ganar dinero. Un negocio basado en tu hogar no es una mala idea en lo absoluto.
