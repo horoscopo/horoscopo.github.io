@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de mayo 2020
-description: Horóscopos del dia de hoy 14 de mayo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de mayo 2020
+description: Horóscopos del dia de hoy 15 de mayo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-05-14
+ lastmod: 2020-05-15
 ---
-La cuadratura Sol-Plutón recomienda desechar lo no esencial durante los próximos cuatro días. Visualiza proyectos antes de intentarlos bajo el actual aspecto entre Mercurio y Saturno. Esta noche, extrañas sensaciones son reveladas cuando Marte se opone a Neptuno. Ciertos eventos parecen ser una coincidencia, pero no lo son. Solteros, los fuegos artificiales iniciales podrían terminar en un fiasco.  
+La intuición reacciona mucho antes de lo que lo hace el cerebro cuando la Luna cuadra a Neptuno hoy. Ten cuidado, porque el salto que tomas podría equivocarse de dirección - saltando a la conclusión errónea. La noche es tranquila y reservada, pero también hay calidez. Los cerebros necesitan paz y tranquilidad.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
