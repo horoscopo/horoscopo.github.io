@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 11 de mayo 2020 al 17 de mayo 2020 
-description: Horóscopo semanal tauro 11 de mayo 2020 al 17 de mayo 2020. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo tauro, se llama dignidad. 
+title: tauro 18 de mayo 2020 al 24 de mayo 2020 
+description: Horóscopo semanal tauro 18 de mayo 2020 al 24 de mayo 2020. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor tauro, sin remordimientos.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,19 +12,17 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-11'
+ lastmod: '2020-05-18'
 ---
 
 
 
-## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo tauro, se llama dignidad. 
+## Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor tauro, sin remordimientos.
 
-No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo tauro pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
- Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
-Cuando el sol está en tu sector social, puede ser un buen momento para disfrutar del apoyo de tus amistades. Sin embargo, debido a que existe un importante enfoque en tu sector de relaciones, al parecer tus asociaciones están atravesando importantes cambios ahora y en los próximos meses. 
-  Debido a que ahora tanto el precavido Saturno como el radical Plutón están retrógrados en este sector, podrías ver algunas conexiones desde una nueva perspectiva, lo que es bueno. Distinguir entre las que son beneficiosas para ti y las que no lo son puede producir drásticas decisiones. Nada de esto sucederá de la noche a la mañana. Será un descubrimiento más gradual. 
-  La presencia del delicioso Venus en tu sector espiritual te ofrece la posibilidad de mejorar tu relación con tu persona, algo muy importante. Este fin de semana, puede que te pidan ayuda con un evento de caridad o de otro tipo. Hacerlo debería ser muy agradable.      
+Por fin has tomado decisiones, y además decisiones que te benefician, 
+por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
+Si bien puede que estés entablando nuevas conexiones y disfrutando de las conversaciones que tienes durante este período, esta semana podría tener un costado más errático. Esto podría deberse al eclipse solar en tu sector de dinero y su conexión con el potente Plutón. Si tienes planes pero no puedes obtener respaldo financiero o los bancos u otras instituciones te presionan, esto podría animarte a hacer algo positivo. Sin embargo, puede que lo mejor sea no hacer nada de manera precipitada. Es mejor esperar hasta que se hayan tranquilizado las energías del eclipse. Esto puede ayudarte a tomar las mejores decisiones para ti. Cuando el encantador Venus ingresa a tu sector de hogar esta semana, podrías disfrutar mucho de recibir invitados y embellecer tu casa. Si disfrutas de hacer decoraciones para el hogar, esta actividad puede ser muy terapéutica.
 
 ## Dinero
 
-Es hora de mostrar una presencia real con tu ropa, tu conducta y manera de hablar. No hay lugar para personas tímidas aquí, solo personas con autoridad y claridad pueden dar su punto a entender con eficacia. Acude a tu hogar para obtener ideas para ahorrar dinero o formas de ganar dinero. Un negocio basado en tu hogar no es una mala idea en lo absoluto.
+Es una semana de subidas y bajadas para ti. Por un lado, gran parte del enfoque de esta semana es sobre el dinero y el estatus. Por otro lado, los aspectos afectarán a tu sector de deuda y el dinero de otras personas. El Universo quiere que resuelvas esto antes de que empeore.

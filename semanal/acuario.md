@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 11 de mayo 2020 al 17 de mayo 2020 
-description: Horóscopo semanal acuario 11 de mayo 2020 al 17 de mayo 2020. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+title: acuario 18 de mayo 2020 al 24 de mayo 2020 
+description: Horóscopo semanal acuario 18 de mayo 2020 al 24 de mayo 2020. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,18 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-11'
+ lastmod: '2020-05-18'
 ---
 
 
 
-## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 
-Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
-Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
-El encantador Venus se traslada más profundamente a tu sector profesional, lo que mejora tu capacidad de conectar con personas importantes. Esto podría encontrarte avanzando significativamente en las próximas semanas. Al mismo tiempo, hay algunas poderosas fuerzas trabajando en tu sector de creatividad y romance. Si bien, al parecer, tus relaciones con las personas que ves todos los días son buenas en general, las relaciones con una pareja a largo plazo o con un nuevo romance podrían ser muy intensas y bastante demandantes. Lo mismo se aplica a los planes creativos, que pueden representar un intenso proceso de comienzo a fin. 
-  Debido a que el práctico Saturno y el radical Plutón ahora están retrógrados en este sector, se podrían estar gestando profundos cambios lentamente. Los obstáculos para la creatividad y el flujo de emociones podrían desvanecerse de a poco con el tiempo. Este fin de semana, la conexión del sol con el soñador Neptuno sugiere que un nuevo programa o filosofía espiritual podrían llamarte la atención.
+No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse acuario, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo acuario, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
+Has estado jugando al juego del gato y el ratón con una de tus amistades. De ser así, los próximos días te animarán a expresar cualquier problema en voz alta. Si no quieres hacerlo, la Luna Llena del 8 de $MES podría forzar la cuestión. Puede que te encuentres compartiendo cosas que no hubieras expresado hace unos días. Pero esto podría hacer que te ganes el cariño de esta persona o este grupo al revelar tu lado más vulnerable, algo con lo que los demás pueden relacionarse.
 
 ## Dinero
 
-Todavía necesitas ser un poco más específico/a. Puede que tengas que hacerle a otros saber lo mucho que difieres de ellos en sus necesidades, deseos y metas. A veces, el hacer esto funciona más de lo que se espera. Se te está pidiendo tener un poco más de seriedad en el desarrollo de tus relaciones profesionales. Quieres aprender de ellas y aportar esta experiencia a tu vida monetaria.
+Tienes algunos desafíos a la espera. Tus relaciones son las más afectadas por las configuraciones celestes actuales. El Universo te está empujando a extenderte un poco más, sobre todo cuando se trata de tus compañeros de trabajo. Trata de conocerles mejor y es posible que llegues a tener más cercanía con ellos de la que tienes ahora. ¡Necesitas de todos los amigos que puedas conseguir!

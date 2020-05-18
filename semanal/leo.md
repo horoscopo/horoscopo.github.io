@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 11 de mayo 2020 al 17 de mayo 2020 
-description: Horóscopo semanal leo 11 de mayo 2020 al 17 de mayo 2020. Hay personas que juegan en otra liga leo, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+title: leo 18 de mayo 2020 al 24 de mayo 2020 
+description: Horóscopo semanal leo 18 de mayo 2020 al 24 de mayo 2020. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón leo, no hay casualidades ni coincidencias.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-11'
+ lastmod: '2020-05-18'
 ---
 
 
 
-## Hay personas que juegan en otra liga leo, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón leo, no hay casualidades ni coincidencias.
 
-A veces las cosas tienen que ser a tu manera o a ninguna leo, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada leo. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
-Tratar de hacer cualquier avance esta semana podría ser complicado. Los demás pueden ser bastante demandantes, y sus necesidades podrían ocupar una gran parte de tu tiempo y energía. Tú también tienes planes con los que debes cumplir, e incluso la presencia de Mercurio retrógrado puede provocar demoras. Si sientes demasiada presión, tendrás que poner límites firmes. Hazles saber a los demás que solo puedes cumplir hasta determinado punto y mantente firme. La capacidad de decir que no y mantenerte firme en tu respuesta puede resultarte especialmente útil en los próximos días. 
-Aun así, tus amistades podrían brindarte mucho apoyo y tener ganas de ayudarte en lo que puedan. Cuando el encantador Venus, que está en tu sector social, se dirige al ejemplar Saturno el fin de semana, alguien podría intervenir o darte un invaluable consejo. No sientas que debes manejar esta situación sin ayuda; simplemente pídela.
+Te van a echar de menos leo, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio leo, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
+La Luna Nueva del martes podría ser un llamado a reorganizar ciertos hábitos clave. Si has estado considerando iniciar una rutina de dieta o ejercicio, este es el momento de hacerla avanzar. Además, con Marte reingresando a tu sector profesional, tendrás ganas de jugar un papel importante en los asuntos de tu comunidad; o puede que sientas entusiasmo acerca de un objetivo que habías puesto en un segundo plano. El fin de semana requiere de un poco de cuidado, ya que podría haber un malentendido.
 
 ## Dinero
 
-Con tanta actividad en tu sector de dinero y valores, puede que estés revisando tus finanzas con un peine muy fino. El gasto está bajo control, excepto cuando se trata de embellecer tu entorno. Puede que exijas el tener interesantes colores, texturas y olores en tu hogar y en tu cuerpo. Tienes un intercambio armonioso de energía entre tu carrera y vida monetaria, pero asegúrate de que de verdad amas ese objeto antes de comprarlo y salir de la tienda.
+La atención se centra en las relaciones serias y matrimoniales esta semana. No es el momento de concentrarse en el dinero – por lo menos no al principio. Podrías darte cuenta de que los problemas de dinero surgen mientras que te acercas más a esa persona especial. Es importante asegurarte de que ambos estén en la misma frecuencia en el futuro. Los planetas te ayudan con calma y explican con claridad tu posición en cuestiones de dinero para rápidamente llegar a una solución mutuamente beneficiosa.

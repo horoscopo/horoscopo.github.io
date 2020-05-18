@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 11 de mayo 2020 al 17 de mayo 2020 
-description: Horóscopo semanal sagitario 11 de mayo 2020 al 17 de mayo 2020. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+title: sagitario 18 de mayo 2020 al 24 de mayo 2020 
+description: Horóscopo semanal sagitario 18 de mayo 2020 al 24 de mayo 2020. Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-11'
+ lastmod: '2020-05-18'
 ---
 
 
 
-## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+## Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 
-Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección sagitario, y ahora puedes elegir lo que quieras.
-Hay mucho sucediendo en tu sector de ocio esta semana, comenzando con el potencial para una reunión especial con connotaciones románticas. El Eclipse Solar del jueves en este sector sugiere que hay que tener cuidado si terminas cayendo en enamoramiento. Las relaciones pueden tomar giros inusuales si comienzan alrededor de un Eclipse Solar, por lo que es bueno tener cautela. Además, Mercurio rebobinando sugiere que lo mejor sería que no llevaras las cosas al siguiente nivel.
+No pienses tanto por favor sagitario, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres sagitario por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
+ cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
+Si bien el enfoque en tu sector financiero podría inspirarte a evaluar tu situación monetaria, también podría llevarte a gastar dinero. En las próximas semanas, quizá quieras comprar cosas que realmente no necesitas para sentirte mejor o para calmar la ansiedad en una situación determinada. Pero puede que te des cuenta de que darte pequeños gustos es igual de satisfactorio que comprarte grandes lujos. Mimarte un poco con un día de spa o disfrutar de un lujoso tratamiento podría incluso hacerte sentir mejor.
 
 ## Dinero
 
-Tienes una situación muy interesante esta semana conforme aspectos celestiales te presionan a tener una mayor productividad. La actividad en tu sector asociado con viajes al extranjero, la metafísica y la educación superior te empuja a ampliar tu negocio en territorio desconocido. Haz que ocurra este año y estarás cosechando los beneficios el próximo año.
+Esta semana podría ser un reto para ti. Podías sentir como si alguien te obligara a hacer algo contra tu voluntad. Pero el Universo está simplemente tratando de empujarte hacia tu hogar y a los sentimientos internos. Esto podría revelar algo importante acerca de cómo ganar más dinero a corto plazo. Trabajar en casa puede ser una buena opción.

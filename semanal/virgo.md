@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 11 de mayo 2020 al 17 de mayo 2020 
-description: Horóscopo semanal virgo 11 de mayo 2020 al 17 de mayo 2020. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+title: virgo 18 de mayo 2020 al 24 de mayo 2020 
+description: Horóscopo semanal virgo 18 de mayo 2020 al 24 de mayo 2020. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. virgo, esta semana has de cerrar algunos ciclos de verdad.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,17 +12,18 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-11'
+ lastmod: '2020-05-18'
 ---
 
 
 
-## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. virgo, esta semana has de cerrar algunos ciclos de verdad.
 
-Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
- a personas de las que “piensas” que dependes…
-La primera parte de la semana podía verte con una actitud práctica y realista con respecto a un proyecto y beneficiarte a causa de ello. Sin embargo, ciertas partes de la semana podrían resultar problemáticas si no te dispones a hacer concesiones. Mientras que por lo general eres el tacto y la discreción personificadas, puede que desees fortalecer tu posición al hacerle saber a alguien que no dejarás que se aproveche de ti. Todo esto es por buena razón. Es posible que encuentres esta actitud tan liberadora que decidas mantenerla.
+Para alcanzar la felicidad, TÚ FELICIDAD, 
+y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible…
+El comienzo de la semana podría ser muy agradable, ya que te ofrece la oportunidad de conectar con alguien que es una excelente compañía. Este animado comienzo de la semana puede impulsar tu estado de ánimo y dejarte con mucha energía. Debido a que el prudente Saturno y el potente Plutón giran en tu sector de romance y creatividad, podrías centrarte en una nueva relación o proyecto artístico. Sin embargo, también podrías obsesionarte un poco, lo que definitivamente no será útil. Dedica un tiempo a involucrarte en otras cosas. El resultado será más positivo si lo haces. 
+ A mitad de semana, podrías recibir una sorpresa, ya sea dinero caído del cielo inesperadamente o un pequeño obsequio. Presta atención a esto. A partir del jueves, el ingreso del sol a Tauro puede ser una invitación a explorar nuevos territorios o a tomarte un pequeño descanso. Esto debería ayudarte a relajarte en todos los niveles. 
 
 ## Dinero
 
-Te enfrentas a una época de cambios monetarios. Puede que la forma en la que ganas dinero o lo que piensas sobre el papel que el dinero juega en tu vida puede estar cambiando. De cualquier manera, estarás recibiendo gran cantidad de información acerca de cómo obtenerlo y guardarlo. Algunos de estos mensajes pueden provenir de lugares no convencionales, como sueños y destellos psíquicos, pero ¿por qué no analizarlos de todos modos?
+Este período tiene que ver con los opuestos. Puede que estés tratando de manifestar una nueva relación en tu vida con un mentor, empleador o socio de negocios. Y con cierta actividad en el área que rige las relaciones serias, podrías conocer a la persona adecuada en el momento adecuado. Juntos, pueden mover montañas en el mundo de los negocios, ¡por lo que definan parámetros y manos a la obra! Más deben actuar con rapidez.
