@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 18 de mayo 2020 al 24 de mayo 2020 
-description: Horóscopo semanal sagitario 18 de mayo 2020 al 24 de mayo 2020. Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+title: sagitario 25 de mayo 2020 al 31 de mayo 2020 
+description: Horóscopo semanal sagitario 25 de mayo 2020 al 31 de mayo 2020. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-18'
+ lastmod: '2020-05-25'
 ---
 
 
 
-## Deberías empezar a poner las cosas claras Sagi, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
 
-No pienses tanto por favor sagitario, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres sagitario por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
- cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
-Si bien el enfoque en tu sector financiero podría inspirarte a evaluar tu situación monetaria, también podría llevarte a gastar dinero. En las próximas semanas, quizá quieras comprar cosas que realmente no necesitas para sentirte mejor o para calmar la ansiedad en una situación determinada. Pero puede que te des cuenta de que darte pequeños gustos es igual de satisfactorio que comprarte grandes lujos. Mimarte un poco con un día de spa o disfrutar de un lujoso tratamiento podría incluso hacerte sentir mejor.
+Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. sagitario, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota sagitario, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando sagitario. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce sagitario, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+La comunicación puede ser la clave del éxito esta semana, aunque la claridad también es esencial. Si alguien tiene algo importante que decirte, puede que debas leer entre líneas para comprender en verdad lo que te está diciendo. Sin embargo, con el ejemplar Saturno involucrado en la mezcla, podrías descubrir que la comprensión comienza a hacer su aparición, en especial si haces las preguntas correctas. Cuando el encantador Venus se alinea con el vital Marte, puede que sientas atracción hacia una persona que consideras está en tu misma sintonía, incluso si no es tan obvio.
 
 ## Dinero
 
-Esta semana podría ser un reto para ti. Podías sentir como si alguien te obligara a hacer algo contra tu voluntad. Pero el Universo está simplemente tratando de empujarte hacia tu hogar y a los sentimientos internos. Esto podría revelar algo importante acerca de cómo ganar más dinero a corto plazo. Trabajar en casa puede ser una buena opción.
+Esta semana tienes la oportunidad de mejorar recientes problemas financieros y de obtener inspiración y buenas ideas. Este es un momento estimulante para la mente, y puedes darte cuenta que realmente estás en tu elemento ahora. A medida que restringes tu gasto en la vida familiar, los viajes, la lectura, la enseñanza y la metafísica se abren. En algún lugar hay un cheque con tu nombre escrito en él.

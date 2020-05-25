@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 18 de mayo 2020 al 24 de mayo 2020 
-description: Horóscopo semanal escorpio 18 de mayo 2020 al 24 de mayo 2020. Tienes que empezar a dejar que el resto luche por tu escorpio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+title: escorpio 25 de mayo 2020 al 31 de mayo 2020 
+description: Horóscopo semanal escorpio 25 de mayo 2020 al 31 de mayo 2020. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-18'
+ lastmod: '2020-05-25'
 ---
 
 
 
-## Tienes que empezar a dejar que el resto luche por tu escorpio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 
-No tengas la menor duda de que la vida hará pagar por todas las malas acciones a quien las cometa, por eso tú preocúpate por hacer el bien a los demás y recibirás una gran recompensa. Párate a pensar si ahora eres feliz, mírate hacia dentro y piensa si para cerrar el ciclo que a veces te atormenta necesitas hablar con alguien, con alguna persona especial… Nada volverá a ser lo mismo escorpio, pero a veces, para que nuestra mente descanse en paz de verdad lo mejor es sacar lo que quizás tenemos dentro y nos costó tanto tiempo decir. Es probable que no sea el momento, eres escorpio y muy a menudo, cuando tienes que decir algo en el instante que deberías no lo dices, por miedo, por vergüenza, por lo que sea, y otras veces, cuando lo mejor es estar callado, sueltas cualquier burrada que hace que al final te acabes por sentir mal. Las cosas por ahora no van a cambiar mucho, pero tu estado de ánimo sí, y ya no tu estado, si no esa inseguridad que se ha ido forjando en ti este tiempo atrás, esa sensación a veces, como de pérdida… Ahora necesitas centrarte en cosas que te mantengan ocupada la mente, aunque suene un poco mal decirlo, no pensar demasiado en nada, ni en todo, simplemente fluir con lo que venga, con lo que pase, sin buscar, sin forzar. Será una racha, un tiempo en el que quizás te sientas como vacío, a veces incluso un poco fuera de lugar, como si los sentimientos de repente se hubieran entrelazado y lo mismo amas que odias, lo mismo quieres ser el más feliz del mundo que quieres echarte a llorar como un niño. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
-Con el 2016 ya en marcha, es posible que tengas que dar uno o dos pasos hacia atrás con el fin de poder avanzar. Esto se debe tanto a Mercurio como Júpiter entrando a su fase retrógrada esta semana, pudiendo descarrilar ciertos planes. Si sientes decepción debido a la falta de progreso, ¡no cedas ante ella! Esta puede ser una excelente oportunidad para revisar tus metas y objetivos para el año por venir. Si sientes menos entusiasmo acerca de una de tus ideas, este es el momento de hacer cambios.
+Empieza a cambiar la mentalidad escorpio, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado escorpio, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+La Luna Nueva en tu signo de esta semana te trae una increíble oportunidad para un nuevo comienzo. Si te esfuerzas por iniciar un nuevo proyecto, trabajo, o desafío durante o poco después de mitad de semana, la marea de la Luna impulsará tus esfuerzos, dando lugar a un resultado más exitoso. Además, Marte entrando a Libra te anima a deshacerte de parte del equipaje emocional que has estado cargando durante algún tiempo. La meditación, otras prácticas espirituales, o escribir en un diario pueden ayudarte con el proceso.
 
 ## Dinero
 
-Te beneficiarás de dos maneras cruciales en estos momentos. Dado que ciertos aspectos están afectando a tu sector de grupos, política y trabajo por cuenta propia, puede que estés considerando trabajar desde casa o iniciar un nuevo negocio desde la comodidad de tu habitación. La suerte se combina con repentinas ideas brillantes. Puede parecer una broma, pero puede que de verdad funcione.
+Estás tratando de encontrarle solución a un dilema monetario en curso. Te estás convirtiendo en una figura de autoridad en tu campo. Y ahora te preparas para aprovechar todo lo que has cultivado. El cosmos está afectando a tu sector de dinero y valores, mostrando que el flujo de efectivo debería de aumentar muy pronto con un poco de esfuerzo y decisión.

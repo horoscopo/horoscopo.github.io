@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 18 de mayo 2020 al 24 de mayo 2020 
-description: Horóscopo semanal leo 18 de mayo 2020 al 24 de mayo 2020. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón leo, no hay casualidades ni coincidencias.
+title: leo 25 de mayo 2020 al 31 de mayo 2020 
+description: Horóscopo semanal leo 25 de mayo 2020 al 31 de mayo 2020. Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-18'
+ lastmod: '2020-05-25'
 ---
 
 
 
-## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón leo, no hay casualidades ni coincidencias.
+## Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
 
-Te van a echar de menos leo, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio leo, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
-La Luna Nueva del martes podría ser un llamado a reorganizar ciertos hábitos clave. Si has estado considerando iniciar una rutina de dieta o ejercicio, este es el momento de hacerla avanzar. Además, con Marte reingresando a tu sector profesional, tendrás ganas de jugar un papel importante en los asuntos de tu comunidad; o puede que sientas entusiasmo acerca de un objetivo que habías puesto en un segundo plano. El fin de semana requiere de un poco de cuidado, ya que podría haber un malentendido.
+No te conformes con poco leo, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche leo, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
+No sientas que debes exigirte más de la cuenta para cumplir con tus metas y objetivos. Tienes una actitud competitiva que puede durar varias semanas, pero es mejor ir despacio. Te conviene tener un plan en mente, así logras un equilibrio sano que te permita trabajar y divertirte. Las conversaciones con una pareja o un miembro de la familia pueden generar confusión en vez de dejarte ver las cosas con claridad si te desvías del tema principal.
 
 ## Dinero
 
-La atención se centra en las relaciones serias y matrimoniales esta semana. No es el momento de concentrarse en el dinero – por lo menos no al principio. Podrías darte cuenta de que los problemas de dinero surgen mientras que te acercas más a esa persona especial. Es importante asegurarte de que ambos estén en la misma frecuencia en el futuro. Los planetas te ayudan con calma y explican con claridad tu posición en cuestiones de dinero para rápidamente llegar a una solución mutuamente beneficiosa.
+Puede que estés a punto de cambiar de empleo o ascender de posición. No es sólo que el puesto te llame la atención, es el salario que viene junto con él. Da rienda suelta a tu ambición de forma gratuita siempre y cuando tengas al sartén por el mango. Podría ser la forma en la que te comunicas, o la falta de ella lo que pone a los demás en tu contra. Mantén todo claro y sin problemas mediante la claridad y el ser conciso/a.

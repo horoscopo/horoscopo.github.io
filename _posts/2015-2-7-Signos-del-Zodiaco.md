@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de mayo 2020
-description: Horóscopos del dia de hoy 24 de mayo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de mayo 2020
+description: Horóscopos del dia de hoy 25 de mayo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-05-24
+ lastmod: 2020-05-25
 ---
-¿Crees no haber hecho un buen trabajo a la primera? El retroceso de Mercurio (hasta el 9 de Octubre) es como una segunda oportunidad para que hagas lo correcto. Y con Saturno ahora en Sagitario, te comprometes a ello con una gran fe. Espera punzadas de celos cuando la Luna en Escorpión cuadre a Venus y las palabras pudieran ser instantáneamente lamentadas esta noche.
+Hoy surgen fragmentos de información apoyados por los hechos. La comunicación constructiva trabaja en cooperación con la acción expansiva cuando Mercurio forma sextil con Júpiter. Esta noche, las acciones de la gente podrían sorprenderte mucho. Escuchar y observar te permiten echarle una mirada al futuro, una que es más emocionante.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.

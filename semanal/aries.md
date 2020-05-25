@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 18 de mayo 2020 al 24 de mayo 2020 
-description: Horóscopo semanal aries 18 de mayo 2020 al 24 de mayo 2020. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+title: aries 25 de mayo 2020 al 31 de mayo 2020 
+description: Horóscopo semanal aries 25 de mayo 2020 al 31 de mayo 2020. No es que estés cambiando aries, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-18'
+ lastmod: '2020-05-25'
 ---
 
 
 
-## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+## No es que estés cambiando aries, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace aries… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas aries, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
-Un tesoro oculto podría salir a la luz esta semana. Si has estado pensando en maneras de aumentar tu flujo de efectivo, opta por hurgar en el ático, sótano u otros rincones escondidos. Además, podías oír buenas noticias con respecto a un proyecto que pensaste que habías perdido, así que mantente alerta a una carta o llamada telefónica. Si sientes la motivación para intentarlo de nuevo después de una falla anterior, tus esfuerzos podrían ser recompensados. Con Júpiter ahora avanzando, tus opciones laborales sin duda se vislumbran mucho más prometedoras.
+Ojalá pudiéramos tener un botón de reinicio en la vida aries, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
+Podrías experimentar un cambio de ritmo esta semana, cuando el reflexivo Mercurio sale de tu sector de relaciones e ingresa a un sector más emocional de tu carta el martes. Podrías estar más en sintonía con tus instintos, que pueden ofrecer una valiosa guía. 
+El miércoles, la luna nueva en tu sector de relaciones puede darte la oportunidad de hacer cambios clave en un cercano lazo. Si han tenido algunas diferencias, esta influencia podría inspirarte a hacer borrón y cuenta nueva y a avanzar de allí en adelante. También podría darte la posibilidad de llevar un nuevo romance al próximo nivel. Pero también puede que sea útil esperar lo inesperado, ya que ciertos encuentros podrían ser una fuente de información muy valiosa para ti. De hecho, tal vez quieras actuar de inmediato. Sin embargo, el viernes podría ser más complicado, ya que una extraña combinación de energías podría encontrarte en desacuerdo con quien manda. 
 
 ## Dinero
 
-Para ti, esta semana es sobre los aspectos de apoyo que afectan a tu sector de las relaciones y el matrimonio. Es probable que te percates de que los demás estarán de acuerdo con tus distintos planes financieros. Eso sí, no te sorprendas si uno o más de ellos quieren revisar tu plan de negocios para evitar cualquier defecto o volver a revisar tus matemáticas. No te ofendas. Esta es su manera de ayudarte, ten agradecimiento.
+Es hora de pensar en cómo pudiste haber tomado la palabra de otras personas en asuntos de dinero o hayas tomado cierto esquema de inversión que es demasiado bueno para ser verdad. Puede ser que alguien te haya estado vendiendo difícilmente algo relacionado con las inversiones. Necesitas más tiempo para considerar el mejor camino para ti. Sé firme pero amable y asegúrate de que tienes el tiempo que necesitas. Tú sabes que es lo mejor para ti.
