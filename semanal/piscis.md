@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 18 de mayo 2020 al 24 de mayo 2020 
-description: Horóscopo semanal piscis 18 de mayo 2020 al 24 de mayo 2020. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+title: piscis 25 de mayo 2020 al 31 de mayo 2020 
+description: Horóscopo semanal piscis 25 de mayo 2020 al 31 de mayo 2020. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada piscis. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-18'
+ lastmod: '2020-05-25'
 ---
 
 
 
-## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada piscis. 
 
-Son muchos los que quieren arruinar tu vida piscis, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa piscis, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega piscis. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos piscis. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida piscis. Ahora brillas así que, aprovecha. Aprovecha todo.
-Los asuntos de negocio podrían desarrollarse sin problemas y si te enfocas en lo primordial, puedes llegar lejos. Quizá puedas ver cómo tu esfuerzo y determinación generan grandes transformaciones en tus finanzas. Prepárate para dejarte llevar por una serie de eventos y encuentros que podrían ser muy prácticos, pero también extremadamente emocionantes. Mercurio, tu planeta guía, entra a Capricornio y esto también quizá te ayude a saber manejar bien tu dinero y tus negocios. 
+Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro piscis, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Pececito, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
+Tu sector de comunicación recibe un impulso a partir del martes a medida que el interactivo Mercurio y el sociable Venus ingresan. Las próximas semanas podrían animarte a entablar relaciones y comunicarte con otras personas que puedan ayudarte a lograr tus metas y planes. Y con el vital Marte que continúa su viaje a través de tu sector social, asistir a eventos clave puede ser otra manera de forjar nuevas conexiones y de divertirte. Debido a que Júpiter retrocede en tu sector más importante a partir del jueves, puede que sea momento de volver a evaluar tus metas en la vida y, tal vez, hacer algunos importantes ajustes.
 
 ## Dinero
 
-Eres una de las personas más inteligentes cuando se trata de trabajo y dinero. Entiendes cómo funcionan las estructuras internas y tienes facilidad para la planificación y ejecución de planes de inversión. Ahora tienes el apoyo del Universo para busca socios para una nueva empresa o ampliar tu red de contactos en los negocios. Los aspectos te proporcionan suerte e ideas. Sólo tú sabes a dónde llegarás con el tiempo.
+Eres uno de los mejores Signos del Zodíaco para manifestar cosas. Con un énfasis en tu sector de dinero, las habilidades que pensaste haber dejado atrás, traen la mayor cantidad de efectivo. Piensa en las personas o los trabajos de una época anterior de tu vida y tendrás la respuesta financiera a tu dilema actual. Un aspecto de apoyo hace que tu trabajo diario sea mucho más fácil de digerir. Si has logrado dar una gran impresión últimamente, pide ese aumento. Ellos te necesitan.
