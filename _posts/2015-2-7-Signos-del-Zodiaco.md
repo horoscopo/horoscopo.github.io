@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de mayo 2020
-description: Horóscopos del dia de hoy 25 de mayo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de mayo 2020
+description: Horóscopos del dia de hoy 26 de mayo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-05-25
+ lastmod: 2020-05-26
 ---
-Hoy surgen fragmentos de información apoyados por los hechos. La comunicación constructiva trabaja en cooperación con la acción expansiva cuando Mercurio forma sextil con Júpiter. Esta noche, las acciones de la gente podrían sorprenderte mucho. Escuchar y observar te permiten echarle una mirada al futuro, una que es más emocionante.
+Hoy, sé tanto amable como flexible cuando la Luna forme sextil con el excéntrico Urano. Alguien podría desempeñar un papel inusual detrás de escenas en una futura oportunidad. ¿Algo misterioso? Sí. ¿Emocionante? ¡Mantente al tanto! Más tarde, esta noche tienes la oportunidad de darle un gesto de bienvenida a la reconciliación cuando la Luna forme sextil con Venus retrógrado.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
