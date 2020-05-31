@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de mayo 2020
-description: Horóscopos del dia de hoy 30 de mayo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 31 de mayo 2020
+description: Horóscopos del dia de hoy 31 de mayo 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-05-30
+ lastmod: 2020-05-31
 ---
-Dale a los proyectos el toque final hoy mientras Marte se encuentre a punto de cambiar de signo. Termina las cosas y respira un gran suspiro de alivio. Esta noche, la gente parece necesitar que alguien más tome la iniciativa. Si estás buscando amor y tienes interés en conocer a alguien, da el primer paso.  
+El sentimiento de irritación puede ser el efecto de la lucha. Si resuelves la lucha, alivias la situación. Pista: Se encuentra en el arte del compromiso. Esta noche, los solteros danzan lentamente, y eso significa que el ritmo es más calmado. Existe la oportunidad de que una nueva relación se vuelva permanente conforme Venus conjunta a Saturno.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
