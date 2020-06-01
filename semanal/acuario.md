@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 25 de mayo 2020 al 31 de mayo 2020 
-description: Horóscopo semanal acuario 25 de mayo 2020 al 31 de mayo 2020. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: acuario 01 de junio 2020 al 07 de junio 2020 
+description: Horóscopo semanal acuario 01 de junio 2020 al 07 de junio 2020. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-25'
+ lastmod: '2020-06-01'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 
-Tienes que tener claro que en este mundo no estamos para gustar a todos, o quizás gustas a todos, pero el problema es que hay mucha envidia cerca aunque no siempre seas capaz de verla… 
-Aprende a marcharte acuario… Sin complicaciones…
-Con Júpiter en Libra creando un incómodo ángulo con Plutón en tu sector hogareño, un problema familiar podría llegar a un punto crítico, lo que significa que podría dar como resultado un importante logro. Sin embargo, necesitarás mucho tacto y diplomacia —tal vez más de lo usual— para ayudar a que esto sea una realidad. Con Venus, tu planeta regente, trasladándose al sector superior de tu carta, tus excelentes sugerencias podrían hacer la diferencia y hacer que esto tenga una provechosa conclusión.
+Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
+ Busca siempre la parte buena de cada momento en el que te encuentres.
+El Sol entra a un sector más tranquilo y alejado de tu carta astral justo cuando comienza esta semana festiva. Esto marca un período del año donde prefieres tomarte tu tiempo para reflexionar sobre tus prioridades. No te niegues esta oportunidad, ya que te rodean influencias que fomentan el cambio progresivo y constructivo. Te conviene pensar cómo se aplica esto a tu vida y cómo podría cambiarla por completo. La semana festiva se ve muy divertida y esto es algo que disfrutas al máximo.
 
 ## Dinero
 
-Tienes una semana tensa por delante. Estás atrapado/a y puede que te sientas como vaca dentro del ganado. En situaciones como ésta, siempre es mejor ir con el flujo de las energías predominantes. La lucha en contra sólo empeorará las cosas. Estás siendo empujado/a hacia tu hogar y emociones. Checa tus sentimientos internos. ¿Estás realmente haciendo lo que quieres hacer con tu vida?
+Esta semana se le puede considerar un cese al fuego de todo tipo. Los aspectos en tu casa de vidas pasadas, sueños y karma significan que es extremadamente importante el ser amable y cortés con los demás. Recuerda los modales que te enseñó tu madre. Así como ella dijo, una cucharada de azúcar ayuda a mejorar incluso hasta las noticias financieras más desagradables. Todo mejorará en poco tiempo. Hasta entonces, lucha por tener paciencia.
