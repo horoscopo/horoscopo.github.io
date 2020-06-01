@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo aries mayo 2020 
+title: Horoscopo aries junio 2020 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Préstale atención a un detalle financiero el Viernes 3 de mayo, y sé prudente con tu dinero durante el fin de semana de Luna Llena del 4 de mayo. La gente podría presionarte para que copies su comportamiento, pero tú tomas tus propias decisiones. Respeta tu propia situación y necesidades. La Luna Nueva del 18 de mayo podría ser hiperactiva para ti. Tanto tu espíritu como tu apetito por emoción están en alto. Come, bebe, y sé feliz, pero compórtate sana y seguramente también. Básicamente no te arriesgues demasiado a algo que sea peligroso. Cálmate un poco durante el 29 y 30 de mayo, sé feliz, y logra hacer más de lo que pensabas poder hacer.
+Marte forma una cuadratura con Urano el 1 de junio. Controla tu temperamento, y no dejes que nadie te provoque (puede que lo intenten). Busca un logro en el trabajo o en algún entorno social durante la luna nueva y el eclipse solar del día 11. Puede que haya fricciones o resistencia al principio, pero luego serás quien avance. Mercurio se torna estacionario directo el día 18. Tómate tu tiempo para reorganizarte y volver a contactar a alguien que te quedó mal recientemente. Durante la luna llena del 26 de junio, rodéate de gente feliz que parece estar divirtiéndose más que tú. Sin embargo, las cosas pueden no ser lo que parecen. Ponte alegre y decide por tu cuenta lo que es agradable y entretenido. Marte se torna estacionario directo al día siguiente. Puede que lleve algunos días tener más motivación, reunirte con una vieja pasión, y volver a estar a toda marcha, pero lo lograrás. Días destacados: 7, 12, 28Días desafiantes: 9, 21</div>

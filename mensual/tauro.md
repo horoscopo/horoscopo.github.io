@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo tauro mayo 2020
-description: El Horóscopo mayo de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo tauro junio 2020
+description: El Horóscopo junio de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/tauro/
 amplink: /horoscopo-mensual/amp/tauro/
 home: FALSE
-keywords: horóscopo mayo, horoscopos en español, horóscopo tauro mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo junio, horoscopos en español, horóscopo tauro junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
  video: g_VIh3NkXjc
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-La creatividad (o quizás tan solo tu ya brillante sentido del humor) estallará durante la luna llena del 5 de mayo. Haz lo que haga más feliz a tu corazón sin gastarte en ello el dinero de la renta. Algunas amistades también quieren jugar e inspirarse. Júpiter sale de Libra y entra a Escorpión el 10 de mayo. Enfócate en lo que más te importa y haz un gran progreso durante los próximos meses. Durante la luna nueva del 19 de mayo, libérate de tu multitud social de siempre e intenta algo diferente. No lo pienses tanto. Quizás te concentras demasiado en el trabajo y podrías aprovechar algunas ideas nuevas para divertirte y entretenerte. 
+Adopta un hábito o una visión más saludable bajo la Luna Llena del 8 de junio. La buena comida, buena compañía y tal vez una salida romántica casual podrían hacer que te sientas como una persona totalmente nueva. Te lo mereces, así que planea algo. El romance podría florecer alrededor de la Luna Llena del 22 de junio. Los corazones andarán sensibles y generosos, así que no bajes la guardia o te dejes agobiar. Protege tu corazón, pero tampoco crees demasiadas barreras. Algo de esto podría llegar a tener una conexión kármica. Durante la mañana del 28 de junio, la cuadratura entre la Luna y Mercurio podría resolver una vieja duda sobre una fantasía. Si no es lo que esperabas, de todos modos, disfruta de los dulces recuerdos.

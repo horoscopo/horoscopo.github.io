@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo sagitario mayo 2020 
+title: Horoscopo sagitario junio 2020 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
@@ -14,4 +14,9 @@ sitemap:
 ---
 
 
-Durante la luna llena del 1 de mayo, enfócate en tu vida diaria o espacio doméstico. Haz un pequeño cambio ahora y transforma un buen lugar en un paraíso para refugiarte del tempestuoso mundo. Durante la luna nueva del día 17, promulga tu resolución de ser más saludable y tener una vida más activa. O de pasar la aspiradora o limpiar la caja de arena más seguido. Las buenas intenciones pueden no llevarte a ningún lado, pero aun así son buenas. El 28 de mayo, Venus forma una conjunción con Urano. El amor podría surgir de la nada y sorprenderte ese día. El mundo te adora durante la luna llena, una luna azul, el último día del mes. Sé inteligente y ten discreción. Nadie puede resistirse a ti ahora.
+Con la luna nueva del 6 de junio, deja que las próximas festividades hagan su magia para ti en tu profesión o imagen pública. Si hay algo específico que hayas estado deseando que suceda, dale la oportunidad de manifestarse y aparecer frente a tus ojos. Mercurio se torna estacionario directo también ese día. Los malentendidos pueden perdurar, pero los apuros o complicaciones comienzan a perder su influencia. 
+La conjunción entre Marte y Neptuno del 7 de junio te abre la puerta a un sueño mayor, mejor y más posible. Haz que suceda si puedes. 
+El trígono entre Venus y Neptuno el día 21 hacen que la hermosa temporada de festividades sea incluso más bella. Mercurio forma una conjunción con Júpiter también ese día. Piensa (y actúa) de una forma bella y brillante. 
+ La luna llena del 22 de junio te permite ser muy sensible sin volverte vulnerable. Remarca físicamente lo que alguien quiere y necesita pero no puede expresar abiertamente. Disfruta de pasar tiempo con alguien que quiere darte ánimos. Le alegrará el día. 
+Días destacados: 2, 9, 19
+Días desafiantes: 24, 27

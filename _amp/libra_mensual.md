@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo libra mayo 2020 
+title: Horoscopo libra junio 2020 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El trabajo puede intentar apartarte de tu hogar durante la luna llena del 3 de mayo, pero tú sabes dónde está tu corazón. Incluso si es una anticipada fiesta de fin de año, quizás quieras dejarla pasar. Sal a la luz durante la luna nueva del día 17. La gente quiere estar contigo y hacer lo que estás haciendo. Participa en un evento de caridad de fin de año para niños o ancianos o ambos. Siente el placer de hacer las cosas más simples. La luna forma una conjunción con Neptuno el 24 de mayo. El corazón de las festividades podría ser el momento más soñado, dulce y hermoso de todos. 
+La gente es más agradable el 7 de junio, cuando la Luna en Acuario forma sextil con Saturno y luego con Urano. La Luna Llena del 14 de junio podría desencadenar un cambio de corazón sobre un miembro de tu familia o algo en casa. Siempre puedes hablar de ello primero y luego actuar. Una reacción instintiva puede ser tentadora, pero probablemente no es prudente. Con la llegada de la Luna Nueva del 29 de junio, algunas nuevas personas podrían mantener tu tiempo ocupado más que nunca. Respeta el tiempo de todos (incluido el tuyo) y participa en tanto o tan poco como quieras. Vas a tener formas agradables de prevenir que tu tiempo sea devorado por los demás.

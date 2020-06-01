@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo cancer mayo 2020 
+title: Horoscopo cancer junio 2020 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El 1 de mayo comienza con una cuadratura entre Marte y Urano. Controla tu temperamento, y si surge cualquier explosión, que tenga un buen propósito. El romance podría alcanzar su punto máximo el 7 de mayo, cuando Venus forma un trígono con Marte. Lo que suceda ahora podría estar hecho para durar. La luna nueva y el eclipse solar del día 11 presenta oportunidades tentadoras, pero arriesgadas. Relájate un poco con esa manía de controlar todo y con cuidado déjate llevar por una fantasía. Encuentra una nueva pasión con potencial financiero. Evita cualquier reacción impulsiva. Cuando Marte ingresa a Capricornio al día siguiente, hay más energía para trabajar. Mercurio se torna directo el 18 de mayo, así que un proyecto o relación estancada debería avanzar pronto. El día 26, la luna llena es una época muy privada pero quizás no tranquila. Si la gente está muy inquieta a tu alrededor, déjalos saltar de un lado al otro. Reserva algo de tiempo libre extra para tus ensueños personales, quizás con una o dos personas íntimas favoritas. Marte se torna directo al día siguiente, después de haber estado retrógrado desde el 26 de mayo. Prepárate para estar a toda máquina. Días destacados: 5, 23, 28Días desafiantes: 3, 16</div>
+La Luna Nueva del 8 de junio se manifiesta fuertemente en tu undécima casa, el sector de amigos, clubes y vida social. Puede que tengas unas cuantas fantasías personales y sueños de diversión que no puedas expresar en público, pero te rodearás de tantas personas, que no sentirás aburrimiento o depravación. La Luna Llena del 22 de junio te recuerda que debes ser tu propio mejor aliado. Planea más buenos ratos en privado y menos tiempo de maníaca acción con tal de enfocarte en lo que podría o no ser de tu mayor interés. Al final del mes, la conjunción entre la Luna y Marte del 29 de junio podría despertar malos ánimos y aumentar la intolerancia. Compórtate discretamente si es que puedes.

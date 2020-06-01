@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo leo mayo 2020 
+title: Horoscopo leo junio 2020 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Las preocupaciones profesionales son energizadas con la Luna Nueva del 8 de mayo. Si es el momento para un cambio o ajuste, pues es el momento. Pero si no lo es, eso también está bien. Haz algunas observaciones sobre el presente y formula planes para más tarde. La Luna estará en Tauro el 14 de mayo, para el Día de San Valentín. Disfruta de lo que más te agrada y comparte el amor. Tu vida social se calienta con la llegada de la Luna Llena del 22 de mayo. Cuando tendrás brillantes y divertidas ideas a las que tu círculo social se adaptará. Diviértete en grande al estar fuera del centro de atención y tal vez escucha el sueño privado que una amistad especial te confíe.
+Amistades y vecinos pueden llamar a tu puerta durante la Luna Llena y el Eclipse Lunar del 7 de junio. Tales tendrán planes elaborados, y posiblemente caros. Quizás sea difícil decir que no. La Luna Nueva y el Eclipse Solar total del 21 de junio podrían abrir tu mundo de par en par. Haz un recorrido por el mundo ahora o en algún momento del año, aunque sea solo en tu mente, y lleva a tus amistades contigo. Viajar de verdad definitivamente también es una posibilidad. O deja que el mundo venga hacia ti. Lo hará. La Luna forma una conjunción con Júpiter el 25 de junio, cuando Saturno se torna directo en Sagitario. Siéntete con suerte. 

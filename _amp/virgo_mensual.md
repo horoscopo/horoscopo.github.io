@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo virgo mayo 2020 
+title: Horoscopo virgo junio 2020 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
@@ -14,4 +14,9 @@ sitemap:
 ---
 
 
-Explora nuevas e interesantes ideas bajo la Luna Nueva del 8 de mayo. El mundo es mucho más grande de lo que imaginas. No es el momento de dejar que la timidez se interponga en tu camino. Sal a conocer gente y a probar cosas nuevas, por lo menos esos restaurantes de comida exótica que te han llamado la atención. La Luna Llena del 23 de mayo ilumina tu sector profesional. Ten un buen desempeño y formula todas las ideas inteligentes y soluciones que necesites. Además, algo en tu hogar también podría estar creando profundos sentimientos, por lo que presta atención. El sextil entre la Luna y Neptuno del 31 de mayo es favorable hacia un añorado sueño. Puede que requiera de un poco de esfuerzo, pero darle tu suave toque será lo que le lleve al éxito.
+La luna nueva del 7 de junio reúne amistades y vecinos. Tal vez no sea una fiesta de todo el vecindario, pero se sentirá como una. Recibe cooperación y haz muchas conexiones prácticas. 
+ El día 16, Venus se torna directo justo antes de que Mercurio se torne retrógrado. Mantén la organización, tómatelo con calma al tomar decisiones, y deja que un asunto romántico se resuelva antes de celebrar. 
+Conocidos y colegas podrían demandar tu tiempo durante la luna llena del 22 de junio, pero deberías ser capaz de aplacarlos sin problemas. Esto puede sacar un poco de tiempo de tu vida familiar o doméstica, pero no debería ser nada muy severo. Ahora puedes hacer feliz a mucha gente. 
+Mercurio forma una cuadratura con Marte el día 26. Al día siguiente, el sol y luego Júpiter forman una conjunción con Mercurio. Durante estos dos días, confía en tus instintos y emociones más que en tu intelecto. Razonar está bien, pero los sentimientos son más reveladores. 
+Días destacados: 14, 16, 27
+Días desafiantes: 19, 29
