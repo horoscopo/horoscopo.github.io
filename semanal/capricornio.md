@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 25 de mayo 2020 al 31 de mayo 2020 
-description: Horóscopo semanal capricornio 25 de mayo 2020 al 31 de mayo 2020. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no capricornio, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+title: capricornio 01 de junio 2020 al 07 de junio 2020 
+description: Horóscopo semanal capricornio 01 de junio 2020 al 07 de junio 2020. capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,21 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-05-25'
+ lastmod: '2020-06-01'
 ---
 
 
 
-## Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no capricornio, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+## capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 
-Abre los ojos de una vez capricornio. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas capricornio, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero capricornio, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también capricornio. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. capricornio por favor, te tenían que tener en un altar… Y lo sabes…
-Podrías encontrarte en desacuerdo con alguien justo cuando sientes tanto entusiasmo en seguir adelante con un nuevo plan o idea. Como resultado, una charla de corazón a corazón bien podría ser necesaria. Encontrarás la manera de comprometerte o tendrás que dejar claro que tienes la intención de seguir tu propia estrella. La tensión se suaviza a lo largo del fin de semana a pesar de que la pasión se mantiene fuerte mientras llega el Día de San Valentín. La sensualidad combinada con oportunidad podría provocar una noche embriagadora ya sea que estés buscando amor o ya tengas pareja.
+No puedes poner piezas en lugares que no corresponden capricornio, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo capricornio, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso capricornio, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte capricornio, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho capricornio, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
+Esta semana habrá mucha actividad en tu sector de finanzas personales, ya que se abrirán nuevas oportunidades para ti. 
+El martes, la luna nueva en este sector trae consigo un nuevo comienzo y viene acompañada del animado Urano, que ingresa a este mismo sector. Como resultado de esto, los valores podrían cambiar, al igual que tu manera de ganar dinero. 
+Ya que el conversador Mercurio está cerca del excéntrico Urano esta semana, podrías recibir importantes noticias o quizás una atractiva oferta. Además, el martes el dinámico Marte ingresa a Acuario, lo que le agrega una chispa adicional a tu vida social. 
+Ve con calma el miércoles ya que existe la posibilidad de que actúes impulsivamente, lo que podría traer más consecuencias que beneficios. 
+El sábado, el delicioso Venus ingresa a Cáncer y a tu sector del hogar. Puede ser la ocasión perfecta para una reunión familiar. 
+El sol ingresa a Géminis el domingo, lo que podría inspirarte a entablar relaciones y conectar con gente.
 
 ## Dinero
 
-Te enfrentas a un momento interesante. Por un lado, las redes sociales son cada vez más grandes y más solidarias. Por otro lado, alguien no está siendo totalmente honesto sobre lo que quiere sacar de tu amistad. En lugar de terminar la relación o tomarlo como algo personal, atribúyeselo a tu irresistible forma de vivir la vida. Tal quiere estar cerca de ti porque eres una persona exitosa y puede ser capaz de ayudarte a alcanzar tus sueños.
+Puede parecer como si estuvieras yendo hacia atrás con ciertos aspectos en tu sector de efectivo y valores. Es posible que estés pensando en dinero, pero ciertas cuestiones siguen interponiéndose o atrasándote. Es desesperante y, afortunadamente, temporal. La buena noticia es que es fácil comunicarse en todas las áreas de tu vida. Si necesitas un préstamo de banco, organiza toda tu documentación y lánzate a ello.
