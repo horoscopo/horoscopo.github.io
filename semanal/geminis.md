@@ -1,27 +1,26 @@
 ---
 layout: horoscopos
-title: geminis 01 de junio 2020 al 07 de junio 2020 
-description: Horóscopo semanal geminis 01 de junio 2020 al 07 de junio 2020. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+title: geminis 08 de junio 2020 al 14 de junio 2020 
+description: Horóscopo semanal geminis 08 de junio 2020 al 14 de junio 2020. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana geminis.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video:  
+ video: $VIDEO
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-01'
+ lastmod: '2020-06-08'
 ---
 
 
 
-## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana geminis.
 
-Hay cosas que no se pueden cambiar geminis, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos geminis, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia geminis pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
-Con un generoso y optimista aspecto entre el Sol y Júpiter al inicio de la semana, las negociaciones y ofertas pueden tener un comienzo positivo. Sin embargo, si realmente quieres que las cosas vayan bien, planea tener tus discusiones importantes para el viernes, cuando la Luna Nueva en Libra podría darles un giro afortunado. Mientras tanto, Marte entra a tu sector laboral y de salud, lo que podría significar que tu espíritu será más competitivo en ambas áreas. Así, podrías aprovechar cualquier oportunidad que tengas para poder avanzar.
+Sólo tú puedes salvar tu vida geminis. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú geminis. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas. A medida que el Sol entra a tu sector de metas y ambiciones, las próximas cuatro semanas te traen la oportunidad de explorar maneras de lograr tus planes. De hecho, podrías sentir bastante ánimo por el potencial que ahora se te está mostrando. Sin embargo, no te dejes llevar por el ansia de avanzar demasiado desde mediados de la semana, ya que podrías enfrentarte a algunos retrasos. Este podría ser el mejor momento para hacer una investigación y así realizar los cambios necesarios. El sábado se muestra prometedor en más de un sentido.
 
 ## Dinero
 
-Con cierta actividad en tu sector de relaciones, puede que sientas como que eres ser más social. Incluso si no estás buscando un favor por parte de alguien, estar en contacto con tus contactos profesionales es una buena idea para recordarles de tus habilidades. Es posible que tengas que preocuparte un poco más por las primeras apariencias e impresiones y asegurarte de poner tu mejor pie  por delante con el fin de mejorar tu futuro financiero.
+Si has estado buscando maneras de ganar más dinero, puedes encontrar que mirar hacia el pasado es la mejor manera de obtener buenos resultados esta semana. Esto se debe en parte a tu casa del dinero y valores. Busca antiguos puestos, compañeros de trabajo y habilidades para traer más dinero en efectivo, ya que podrías ser capaz de usarlos para conectar con conocidos de una época anterior en tu vida que pueden ayudarte a crear una cartera de inversiones para proteger tu futuro.

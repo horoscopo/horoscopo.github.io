@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 01 de junio 2020 al 07 de junio 2020 
-description: Horóscopo semanal acuario 01 de junio 2020 al 07 de junio 2020. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
+title: acuario 08 de junio 2020 al 14 de junio 2020 
+description: Horóscopo semanal acuario 08 de junio 2020 al 14 de junio 2020. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video:  
+ video: $VIDEO
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-01'
+ lastmod: '2020-06-08'
 ---
 
 
 
-## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
- Busca siempre la parte buena de cada momento en el que te encuentres.
-El Sol entra a un sector más tranquilo y alejado de tu carta astral justo cuando comienza esta semana festiva. Esto marca un período del año donde prefieres tomarte tu tiempo para reflexionar sobre tus prioridades. No te niegues esta oportunidad, ya que te rodean influencias que fomentan el cambio progresivo y constructivo. Te conviene pensar cómo se aplica esto a tu vida y cómo podría cambiarla por completo. La semana festiva se ve muy divertida y esto es algo que disfrutas al máximo.
+Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
+ No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien. Puede que te encuentres más en armonía con tus sentimientos a partir del martes, cuando el planeta del habla y el pensamiento entra a tu sector espiritual. La presencia del expresivo Mercurio aquí puede animarte a explorar emociones que han estado debajo de la superficie durante algún tiempo. Si trabajas en ellas, podrías sentirte mucho mejor con tu persona. 
+La luna nueva en tu sector social del miércoles podría encontrarte aprovechando oportunidades para unirte a grupos o conectar con determinadas personas. Puede que sientas el impulso de unirte a un proyecto comunitario que resulta muy gratificante. También el miércoles, el ingreso del encantador Venus a Leo y a tu sector de comunicación podría facilitar la negociación o discusión de temas difíciles. Puedes lograr mucho si haces uso de las diplomáticas cualidades de este planeta. Sin embargo, ten cuidado el viernes, ya que el animado Mercurio se opone al ejemplar Saturno en tu sector de trabajo. Podrías resistirte a una tarea que se debe hacer.
 
 ## Dinero
 
-Esta semana se le puede considerar un cese al fuego de todo tipo. Los aspectos en tu casa de vidas pasadas, sueños y karma significan que es extremadamente importante el ser amable y cortés con los demás. Recuerda los modales que te enseñó tu madre. Así como ella dijo, una cucharada de azúcar ayuda a mejorar incluso hasta las noticias financieras más desagradables. Todo mejorará en poco tiempo. Hasta entonces, lucha por tener paciencia.
+Esta semana, el Universo pone de relieve tu sector de amistades, compañeros y otras relaciones serias. Algo que reciente se formó es cada vez más serio. Esta podría ser una unión comercial mutuamente beneficiosa o incluso una asociación o fusión entre tu empresa y otro negocio. Puede que no se mueva tan rápido como te gustaría, pero es algo genial a largo plazo. Busca nuevas oportunidades en lo desconocido o en un campo completamente original.

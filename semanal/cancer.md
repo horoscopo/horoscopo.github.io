@@ -1,27 +1,26 @@
 ---
 layout: horoscopos
-title: cancer 01 de junio 2020 al 07 de junio 2020 
-description: Horóscopo semanal cancer 01 de junio 2020 al 07 de junio 2020. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: cancer 08 de junio 2020 al 14 de junio 2020 
+description: Horóscopo semanal cancer 08 de junio 2020 al 14 de junio 2020. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video:  
+ video: $VIDEO
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-01'
+ lastmod: '2020-06-08'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 
-No más paciencia Cáncer. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres cancer, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana Cáncer.
-La presión podría estar relacionada con tu trabajo o algo de tu rutina diaria. Durante los próximos días, una situación podría llegar a un punto crítico que requiera de un manejo hábil. Evita enojarte o provocar una discusión, ya que esto podría empeorar las cosas. Puede que sientas como si estuvieras caminando sobre arenas movedizas, pero es vital que trates de dirigir esto hacia un camino positivo. De hecho, tener diplomacia realmente podría serte muy útil. Desde el viernes, tómate algo de tiempo para recargar baterías, si te es posible.
+Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana. La próxima semana puede ser muy sociable. Deberías disfrutarla mucho. Puede que haya ocasiones en las que sientas la obligación de asistir a un evento, incluso cuando no quieras. Tómatelo con buen humor, ya que puede que alguien te agradezca pasar tiempo en su compañía. La encantadora conexión en tu signo entre el dinámico Marte y el soñador Neptuno del 27 de $MES podría animarte a darte una escapada. Un corto descanso o un viaje a un spa local podrían renovarte.
 
 ## Dinero
 
-Tienes luz verde para escribir esas cartas, enviar esos paquetes, y en general lanzar una ofensiva en cuanto a comunicación empresarial se refiere. Si quieres ganar más dinero, cambiar de profesión, o hacerles saber a los demás que tienes una nueva habilidad que ofrecer, hazlo. Tienes todo el apoyo que puedes desear del Universo para captar la atención de los demás. Pon tu mejor pie por adelante.
+Esta semana hay ciertos aspectos afectando tu expresión personal. Es posible que sientas inspiración por los estilos del pasado o simplemente una forma relacionada con la forma en la que solías pensar en ti y cómo cambiar tu enfoque. El cosmos te ayuda a atraer más a corto plazo y considerar cómo podrías añadir más fuentes de ingresos.

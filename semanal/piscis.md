@@ -1,27 +1,26 @@
 ---
 layout: horoscopos
-title: piscis 01 de junio 2020 al 07 de junio 2020 
-description: Horóscopo semanal piscis 01 de junio 2020 al 07 de junio 2020. Toma decisiones YA, AQUÍ y AHORA piscis. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+title: piscis 08 de junio 2020 al 14 de junio 2020 
+description: Horóscopo semanal piscis 08 de junio 2020 al 14 de junio 2020. No te mereces poco piscis… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video:  
+ video: $VIDEO
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-01'
+ lastmod: '2020-06-08'
 ---
 
 
 
-## Toma decisiones YA, AQUÍ y AHORA piscis. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+## No te mereces poco piscis… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 
-Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
-Si estás viendo tu vida de manera más intensa, esto puede ser porque el Sol y Marte han ingresado a un sector más emocional de tu carta. Tu atención podría virar hacia asuntos financieros y a cómo hacer que tu dinero trabaje más para ti. También podrías estar consciente de corrientes más profundas que te animen a trabajar sobre cuestiones que han estado en segundo plano durante algún tiempo. Analizarlas con la persona adecuada podría ayudarte a hacer un dramático cambio en tu vida.
+Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas piscis. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva piscis. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien piscis, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo. Podrías tener varias ocupaciones, pero un animado enfoque en tu sector de recreación sugiere que disfrutarás de cada momento. Esta semana de fiestas puede traer muchos buenos momentos que disfrutarás de compartir con tus amistades y familiares. Aun así, la presencia del práctico Saturno en el mismo sector puede encontrarte planificando tu próximo gran proyecto. Un encuentro (en especial alrededor del 27 de $MES) podría hacer volar tu imaginación, lo que podría dar como resultado una colaboración creativa durante el 2018.
 
 ## Dinero
 
-Hay aspectos positivos afectando tu sector de empleo ahora. Es posible que te ofrezcan un nuevo trabajo, un aumento o una promoción. Puede haber cierta inestabilidad en tu lugar de trabajo, pero si puedes volverte la presencia calmada y madura, asegurarás tu futuro como un valioso empleado.
+Es una semana difícil para ti. Es tu responsabilidad decir lo que necesitas decir de una forma amable y gentil. Pero cuando se trata de tu vida hogareña y emociones internas, puede ser difícil reunir ese tipo de paciencia. En vez, puede que sientas presión y falta de respeto al tratar de salir adelante. La semana que viene será mejor en general.

@@ -1,32 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 01 de junio 2020 al 07 de junio 2020 
-description: Horóscopo semanal capricornio 01 de junio 2020 al 07 de junio 2020. capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+title: capricornio 08 de junio 2020 al 14 de junio 2020 
+description: Horóscopo semanal capricornio 08 de junio 2020 al 14 de junio 2020. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video:  
+ video: $VIDEO
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-01'
+ lastmod: '2020-06-08'
 ---
 
 
 
-## capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 
-No puedes poner piezas en lugares que no corresponden capricornio, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo capricornio, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso capricornio, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte capricornio, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho capricornio, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
-Esta semana habrá mucha actividad en tu sector de finanzas personales, ya que se abrirán nuevas oportunidades para ti. 
-El martes, la luna nueva en este sector trae consigo un nuevo comienzo y viene acompañada del animado Urano, que ingresa a este mismo sector. Como resultado de esto, los valores podrían cambiar, al igual que tu manera de ganar dinero. 
-Ya que el conversador Mercurio está cerca del excéntrico Urano esta semana, podrías recibir importantes noticias o quizás una atractiva oferta. Además, el martes el dinámico Marte ingresa a Acuario, lo que le agrega una chispa adicional a tu vida social. 
-Ve con calma el miércoles ya que existe la posibilidad de que actúes impulsivamente, lo que podría traer más consecuencias que beneficios. 
-El sábado, el delicioso Venus ingresa a Cáncer y a tu sector del hogar. Puede ser la ocasión perfecta para una reunión familiar. 
-El sol ingresa a Géminis el domingo, lo que podría inspirarte a entablar relaciones y conectar con gente.
+Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
+ aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos. Los deportes competitivos o el ejercicio aeróbico pueden ser realmente buenos para ti ahora y en las próximas semanas. Si sientes la frustración que conlleva cumplir con grandes responsabilidades, esta puede ser una buena manera de desahogarte y aumentar tu energía. Júpiter, tu planeta personal, se vuelve retrógrado en tu sector social al final de la semana, por lo que puede que tengas que obligarte a moverte hacia nuevos círculos, pero puede que valga la pena.
 
 ## Dinero
 
-Puede parecer como si estuvieras yendo hacia atrás con ciertos aspectos en tu sector de efectivo y valores. Es posible que estés pensando en dinero, pero ciertas cuestiones siguen interponiéndose o atrasándote. Es desesperante y, afortunadamente, temporal. La buena noticia es que es fácil comunicarse en todas las áreas de tu vida. Si necesitas un préstamo de banco, organiza toda tu documentación y lánzate a ello.
+Puede que por lo general no se te conozca por tu astucia en el dinero, ya que a menudo es sólo un medio para sentirte libre de restricciones. Pero ahora te conectas a tus redes sociales de una manera poderosa y haces que funcionen para ti. Si buscas una nueva posición o un mejor trabajo con buenos beneficios, serás capaz de conectar con nuevos empleadores. Un socio podría necesitar un poco de ayuda extra con un pequeño negocio. A partir de ahí, sólo tienes que demostrar tu valor.
