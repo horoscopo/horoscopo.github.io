@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de junio 2020
-description: Horóscopos del dia de hoy 12 de junio 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de junio 2020
+description: Horóscopos del dia de hoy 13 de junio 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-06-12
+ lastmod: 2020-06-13
 ---
-¡Mantén la calma! La cuadratura entre la Luna y Plutón de esta mañana puede elevarse a alturas vertiginosas como un tornado - temporal - de emociones. La calma vuelve después y las intenciones románticas decisivas iluminan vidas conforme Venus se acomoda en Libra. Las parejas se sienten particularmente apreciadas porque, después de todo, la Luna también se encuentra en Libra esta noche.
+Evita cerrarte en tu mundo y no expresar tus creencias cuando el Sol cuadre a Marte. No puedes enmascarar tus emociones, contrario a lo que piensas. Hoy, los solteros están más inclinados a comprometerse a largo plazo cuando Venus en Capricornio forma sextil con Marte en Escorpión. Por su parte, las parejas estarán bien si se comprometen con el plan en turno.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
