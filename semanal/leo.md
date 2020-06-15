@@ -19,7 +19,7 @@ sitemap:
 
 ## Todo acaba cicatrizando, pero tienes que dejar que cicatrice leo. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 
-Estás activo Cangrejo, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún… Puede que tengas dinero para empezar un proyecto doméstico y esto podría ser una gran satisfacción para ti. Quizá no sea nada muy importante, pero sin duda vale la pena si le da un brillo extra a tu hogar. Además, una reunión el día viernes podría ser una ocasión muy especial si la organizas en tu casa. Ya sea una reunión con compañeros de la escuela, del trabajo o tomar un café con los compañeros de ejercicio, podría ser el origen de nuevas amistades u oportunidades sociales.
+Estás activo Leo, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún… Puede que tengas dinero para empezar un proyecto doméstico y esto podría ser una gran satisfacción para ti. Quizá no sea nada muy importante, pero sin duda vale la pena si le da un brillo extra a tu hogar. Además, una reunión el día viernes podría ser una ocasión muy especial si la organizas en tu casa. Ya sea una reunión con compañeros de la escuela, del trabajo o tomar un café con los compañeros de ejercicio, podría ser el origen de nuevas amistades u oportunidades sociales.
 
 ## Dinero
 
