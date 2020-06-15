@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 08 de junio 2020 al 14 de junio 2020 
-description: Horóscopo semanal virgo 08 de junio 2020 al 14 de junio 2020. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+title: virgo 15 de junio 2020 al 21 de junio 2020 
+description: Horóscopo semanal virgo 15 de junio 2020 al 21 de junio 2020. No te destruyas virgo, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-08'
+ lastmod: '2020-06-15'
 ---
 
 
 
-## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+## No te destruyas virgo, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 
-Ommmm… Ommmm… Relax virgo, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira virgo, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas virgo, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros. ¿Tienes un secreto? Con un enfoque en un sector más apartado de tu carta, es posible que no quieras que nadie se entere de cierta relación. Y no hay razón por la cual debas de hablar hasta que sientas que es el momento adecuado. San Valentín es el día martes, y es posible que para celebrar elijas preparar una comida saludable pero seductora para la persona que amas. Si la comida es algo que le gusta a tu amor tanto como a ti, la pasarán fenomenal.
+Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre. Es importante que no dudes de ti esta semana, en especial si tienes una idea que podría valer su peso en oro. Al menos analízala con una de tus amistades y escucha su opinión. El expresivo Mercurio se vuelve directo en tu sector de comunicación más adelante esta semana, lo que es una buena noticia si has sufrido demoras y frustración generalizada en esta área. Trata de no firmar documentos importantes más o menos durante una semana más, ya que todavía podría haber confusión en el aire. Si debes avanzar, lee las cláusulas de condición. Además, consulta las opiniones antes de comprar un artículo para el hogar. Podrías terminar con algo que se ve bonito pero que no funciona. 
+ Con respecto a una importante meta o proyecto laboral, escuchar los consejos de tu intuición puede ayudarte a aprovecharlos al máximo. Por último, la luna nueva en tu sector de comunicación el domingo puede ser excelente para aprovechar una oportunidad y mejorar las conexiones sociales.    
 
 ## Dinero
 
-Este período se trata de las formas en las que te pones en contacto con los demás por negocios o por placer. Dado que cierta actividad armoniosa afecta a tu sector de grupos, actividades sociales y negocios propios, puede que estés pensando en cómo usar las redes sociales para lanzar una nueva empresa de algún tipo. Incluso si es un negocio secundario por un tiempo, puede que te percates de que la conexión con los demás puede hacer toda la diferencia.
+Ahora estás pensando no sólo en cómo hacer más dinero y establecer una mayor seguridad en tu vida, sino también en la manera de hacer que tu vida laboral sea más gratificante. Con un aspecto armonioso afectando tu sector laboral,  es probable que se note aún más. Esto te permitirá ascender de posición sin demasiados problemas. Asegúrate de pedir lo que vales en lugar de aceptar lo que sea que el jefe te ofrezca.

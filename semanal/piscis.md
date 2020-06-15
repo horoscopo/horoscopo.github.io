@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 08 de junio 2020 al 14 de junio 2020 
-description: Horóscopo semanal piscis 08 de junio 2020 al 14 de junio 2020. No te mereces poco piscis… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+title: piscis 15 de junio 2020 al 21 de junio 2020 
+description: Horóscopo semanal piscis 15 de junio 2020 al 21 de junio 2020. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche piscis, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-08'
+ lastmod: '2020-06-15'
 ---
 
 
 
-## No te mereces poco piscis… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche piscis, abre las puertas y ciao. No tienes que mantener nada…
 
-Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas piscis. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva piscis. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien piscis, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo. Podrías tener varias ocupaciones, pero un animado enfoque en tu sector de recreación sugiere que disfrutarás de cada momento. Esta semana de fiestas puede traer muchos buenos momentos que disfrutarás de compartir con tus amistades y familiares. Aun así, la presencia del práctico Saturno en el mismo sector puede encontrarte planificando tu próximo gran proyecto. Un encuentro (en especial alrededor del 27 de $MES) podría hacer volar tu imaginación, lo que podría dar como resultado una colaboración creativa durante el 2018.
+No sueles dar la llave de tu corazón a nadie piscis, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia piscis, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana piscis. Con los planetas acumulándose en un sector más aislado de tu carta, ésta es una buena oportunidad para tomarte algo de tiempo para reflexionar sobre la vida. Asimismo, el Eclipse Solar de esta semana en este mismo sector podría animarte a analizar lo que sea que parezca estar llegando a su fin por sí solo. Esto podría aplicarse a proyectos, objetivos, circunstancias y relaciones. Por último, asegúrate de leer bien las clausulas, las condiciones y ten en cuenta cada detalle si estás cerrando un acuerdo al final de la semana.
 
 ## Dinero
 
-Es una semana difícil para ti. Es tu responsabilidad decir lo que necesitas decir de una forma amable y gentil. Pero cuando se trata de tu vida hogareña y emociones internas, puede ser difícil reunir ese tipo de paciencia. En vez, puede que sientas presión y falta de respeto al tratar de salir adelante. La semana que viene será mejor en general.
+Es una semana de contradicciones. Puede que estés pensando en una reciente relación para ver lo que pudiste haber hecho de otra manera. Los mentores, socios comerciales e inversionistas pueden no ser todo lo que parecían ser hace unas semanas. Es hora de revaluar tus asociaciones. Mientras tanto, tu sector social se abre. Puedes encontrar nuevas personas que comparten tu misma visión para trabajar en conjunto si es necesario. Las mujeres serán especialmente útiles.

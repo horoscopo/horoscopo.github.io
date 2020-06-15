@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 08 de junio 2020 al 14 de junio 2020 
-description: Horóscopo semanal aries 08 de junio 2020 al 14 de junio 2020. Sumisión contigo van a encontrar poca ahora aries… Muy poca.
+title: aries 15 de junio 2020 al 21 de junio 2020 
+description: Horóscopo semanal aries 15 de junio 2020 al 21 de junio 2020. Por muy desconfiado y duro que parezcas ser, al final acabas confiando aries y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-08'
+ lastmod: '2020-06-15'
 ---
 
 
 
-## Sumisión contigo van a encontrar poca ahora aries… Muy poca.
+## Por muy desconfiado y duro que parezcas ser, al final acabas confiando aries y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 
-Necesitas tener un objetivo en la vida aries, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada aries, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo… Una mezcla dinámica y sociable de energías puede llevarte a aceptar un desafío que tal vez sea un poco rebuscado. Pero si se siente bien, ¡adelante! Y si alguien intenta decirte que no tienes lo que se necesita, ignóralo. El actual enfoque en tu sector de comunicación sugiere que puedes recibir todo el consejo que necesitas si lo pides. Aun así, con el atento Mercurio ahora en su fase retrógrada, no estaría mal revisar tus fuentes.
+Tienes conversaciones pendientes aries, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad aries, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas aries, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista. Mientras que es genial ser alguien generoso, es posible que te percates de que ciertas personas están empezando a tomar ventaja de tu afable carácter, lo que podría hacer que te preguntes cómo responder. No te sientas culpable por cortar esta rama de raíz, te sentirás mucho mejor si lo haces. Además, es posible que te estés quemando en tu interior por aprovechar una oportunidad que podría ser buena para ti, pero puede que el momento no sea el adecuado por el momento. Tal posibilidad debería estar a tu disposición por un tiempo, así que no hay necesidad de preocuparte.
 
 ## Dinero
 
-Puede que estés creando más tiempo en tu vida y más espacio en tu hogar para darle cabida a tus más recientes proyectos. Si querías crear desde tu casa, ya sea escribiendo un libro, desarrollando un curso de enseñanza en línea, o la venta de bienes raíces, este es el momento para empezar. Dale seguridad a tu plan con inversiones sólidas en instituciones de confianza.
+Esta semana, el Universo es de apoyo. Tu mente está enfocada en poner los planes de ahorro e inversión en su lugar, sobre todo para tu familia. Quieres llegar a ser más responsables en este ámbito y reducir los gastos impulsivos. Piensa en cómo tus necesidades son atendidas al trabajar para una gran institución. ¿Tal vez es hora de pensar en cómo iniciar tu propio negocio?
