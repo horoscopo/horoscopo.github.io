@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 15 de junio 2020 al 21 de junio 2020 
-description: Horóscopo semanal aries 15 de junio 2020 al 21 de junio 2020. Por muy desconfiado y duro que parezcas ser, al final acabas confiando aries y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+title: aries 22 de junio 2020 al 28 de junio 2020 
+description: Horóscopo semanal aries 22 de junio 2020 al 28 de junio 2020. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,15 +12,18 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-15'
+ lastmod: '2020-06-22'
 ---
 
 
 
-## Por muy desconfiado y duro que parezcas ser, al final acabas confiando aries y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 
-Tienes conversaciones pendientes aries, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad aries, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas aries, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista. Mientras que es genial ser alguien generoso, es posible que te percates de que ciertas personas están empezando a tomar ventaja de tu afable carácter, lo que podría hacer que te preguntes cómo responder. No te sientas culpable por cortar esta rama de raíz, te sentirás mucho mejor si lo haces. Además, es posible que te estés quemando en tu interior por aprovechar una oportunidad que podría ser buena para ti, pero puede que el momento no sea el adecuado por el momento. Tal posibilidad debería estar a tu disposición por un tiempo, así que no hay necesidad de preocuparte.
+Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen. Con un animado enfoque en tu sector de recreación, la semana que comienza podría encontrarte disfrutando de oportunidades para salir y divertirte. El único factor que podría ser un problema es el costo. El lunes, puede que te sientas culpable por hacer algo debido a los gastos que implica. Sin embargo, si es una experiencia única, ¿por qué no disfrutar un poco?
+El martes, el cosmos te anima a escuchar tus instintos. Si lo haces, podrías toparte con una prometedora oportunidad.
+Hacia el fin de semana, podrías sentir un poco más de rebeldía y determinación en cuanto a hacer lo que quieres. Cuando el conversador Mercurio se alinea con el eléctrico Urano en tu sector recreativo, prácticamente todo vale. 
+El domingo, podrías buscar experiencias emocionantes, pero riesgosas. No hay nada de malo en disfrutar, pero lo prudente es que los demás sepan a dónde vas.
 
 ## Dinero
 
-Esta semana, el Universo es de apoyo. Tu mente está enfocada en poner los planes de ahorro e inversión en su lugar, sobre todo para tu familia. Quieres llegar a ser más responsables en este ámbito y reducir los gastos impulsivos. Piensa en cómo tus necesidades son atendidas al trabajar para una gran institución. ¿Tal vez es hora de pensar en cómo iniciar tu propio negocio?
+El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.

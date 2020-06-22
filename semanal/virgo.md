@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 15 de junio 2020 al 21 de junio 2020 
-description: Horóscopo semanal virgo 15 de junio 2020 al 21 de junio 2020. No te destruyas virgo, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+title: virgo 22 de junio 2020 al 28 de junio 2020 
+description: Horóscopo semanal virgo 22 de junio 2020 al 28 de junio 2020. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-15'
+ lastmod: '2020-06-22'
 ---
 
 
 
-## No te destruyas virgo, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 
-Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre. Es importante que no dudes de ti esta semana, en especial si tienes una idea que podría valer su peso en oro. Al menos analízala con una de tus amistades y escucha su opinión. El expresivo Mercurio se vuelve directo en tu sector de comunicación más adelante esta semana, lo que es una buena noticia si has sufrido demoras y frustración generalizada en esta área. Trata de no firmar documentos importantes más o menos durante una semana más, ya que todavía podría haber confusión en el aire. Si debes avanzar, lee las cláusulas de condición. Además, consulta las opiniones antes de comprar un artículo para el hogar. Podrías terminar con algo que se ve bonito pero que no funciona. 
- Con respecto a una importante meta o proyecto laboral, escuchar los consejos de tu intuición puede ayudarte a aprovecharlos al máximo. Por último, la luna nueva en tu sector de comunicación el domingo puede ser excelente para aprovechar una oportunidad y mejorar las conexiones sociales.    
+Por fin vas a finalizar ciclos virgo, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse virgo, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres virgo joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien virgo. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana virgo, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida… El énfasis recae en un sector más tranquilo y espiritual de tu carta astral, por lo que el cosmos te alienta a que te calmes y tranquilices durante esta semana y las que siguen. Esta es tu oportunidad para encontrar el equilibrio y retomar la calma. Pero para hacerlo, quizá debas resolver algunos problemas que se han estado prolongando por un tiempo y dejarlos atrás. Es tu oportunidad para hacer borrón y cuenta nueva y recargar energías, lo que resulta necesario si quieres progresar en los próximos meses.
 
 ## Dinero
 
-Ahora estás pensando no sólo en cómo hacer más dinero y establecer una mayor seguridad en tu vida, sino también en la manera de hacer que tu vida laboral sea más gratificante. Con un aspecto armonioso afectando tu sector laboral,  es probable que se note aún más. Esto te permitirá ascender de posición sin demasiados problemas. Asegúrate de pedir lo que vales en lugar de aceptar lo que sea que el jefe te ofrezca.
+¡Puede que tengas que hacer muchos ajustes con todos los aspectos astrológicos de esta semana! El Universo puede traer un montón de noticias y ofertas, lo cuál es genial, pero se quedarán cortas, por lo que prepárate y alístate para entrar en acción. Si recibes malas noticias, asegúrate de tomar un descanso para recuperarte.

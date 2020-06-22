@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 15 de junio 2020 al 21 de junio 2020 
-description: Horóscopo semanal leo 15 de junio 2020 al 21 de junio 2020. Todo acaba cicatrizando, pero tienes que dejar que cicatrice leo. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: leo 22 de junio 2020 al 28 de junio 2020 
+description: Horóscopo semanal leo 22 de junio 2020 al 28 de junio 2020. No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-15'
+ lastmod: '2020-06-22'
 ---
 
 
 
-## Todo acaba cicatrizando, pero tienes que dejar que cicatrice leo. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+## No más paciencia #SIGNO. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 
-Estás activo Leo, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún… Puede que tengas dinero para empezar un proyecto doméstico y esto podría ser una gran satisfacción para ti. Quizá no sea nada muy importante, pero sin duda vale la pena si le da un brillo extra a tu hogar. Además, una reunión el día viernes podría ser una ocasión muy especial si la organizas en tu casa. Ya sea una reunión con compañeros de la escuela, del trabajo o tomar un café con los compañeros de ejercicio, podría ser el origen de nuevas amistades u oportunidades sociales.
+Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar. Cultivar tu gusto por las ideas y la gente nueva o exótica puede abrirte a maravillosas nuevas experiencias. Explora oportunidades que puedan ayudarte a promover tus intereses y a ampliar tus horizontes. Mercurio se torna retrógrado el Lunes durante aproximadamente tres semanas, provocando retrasos y mensajes contradictorios. Piensa dos veces antes de firmar documentos importantes, sobre todo si hay mucho dinero de por medio. Esta fase también puede aportarle nuevas perspectivas a problemas actuales, fomentando ingeniosas soluciones.
 
 ## Dinero
 
-Esta semana tiene algunas sorpresas para ti. Ciertos aspectos de tu sector profesional te exhortan a poner mucha energía y esfuerzo aquí. Puede ser que estés mucho más ocupado/a que de costumbre y bajo presión de entregas. En pocas palabras, no tendrás mucho tiempo para la diversión. Sin embargo, te podría sorprender el encontrar que has gastado más de lo previsto y necesitas ajustar tus patrones de gasto.
+¡Qué emoción! Las máquinas funcionan muy bien y el correo llega a tiempo. La comunicación facilita. De por si ya te sientes muy rebelde en lo que estás haciendo actualmente para ganarte la vida. Es posible que te des cuenta de que ésta particular visión de llevar tus finanzas funciona mejor para ti ahora. El expresar tus opiniones no tiene por qué convertirse en un trabajo de tiempo completo. Deja que tu trabajo hable por ti.

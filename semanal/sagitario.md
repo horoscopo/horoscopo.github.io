@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 15 de junio 2020 al 21 de junio 2020 
-description: Horóscopo semanal sagitario 15 de junio 2020 al 21 de junio 2020. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: sagitario 22 de junio 2020 al 28 de junio 2020 
+description: Horóscopo semanal sagitario 22 de junio 2020 al 28 de junio 2020. Retírate del mundo artificial sagitario, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-15'
+ lastmod: '2020-06-22'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## Retírate del mundo artificial sagitario, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos sagitario así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar sagitario, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz. Se te motivará a modificar tu dieta y también tu régimen de ejercicio. Tu nivel de energía podría alcanzar su máximo en las próximas semanas, dándote tendencia a sentir inquietud. Entrenamientos diarios, excursiones, y todo tipo de ejercicios vigorosos podrían ayudarte a mantener la calma y control incluso en circunstancias estresantes. Permítete suficiente espacio para maniobrar el Jueves, cuando las cosas podrían no ir según lo previsto. El Sábado ofrece la posibilidad de una relación romántica inolvidable. ¡Una que quizás tengas ansias de repetir!
+Es muy importante que eches la vista atrás sagitario, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones. Si tienes dinero para gastar, puede que tengas ganas de invertirlo en algo que te dé una ventaja laboral. Invertir en una clase podría ser una de las adquisiciones más inteligentes de la semana, ya que podría darte la capacidad de buscar un trabajo que tenga mejor salario. Por otro lado, quizá te convenga comprar cosas que le den más alegría a tu hogar. Si tienes invitados, quizá te convenga recibirlos con algo especial.
 
 ## Dinero
 
-Puedes darte cuenta de que las oportunidades para ganar y ahorrar dinero se duplican e incluso triplican en las próximas semanas. Mientras que te ocupas recogiendo las mejores oportunidades financiera a tu alrededor, no descuides la familia, los niños, el romance y la creatividad. A pesar de que estés recibiendo más, diviértete y prueba cosas nuevas y asegúrate de cumplir con tu presupuesto. Durante algunas semanas, tendrás la oportunidad de salir de los viejos patrones.
+Los planetas están dando un impulso de energía necesaria para tenerlo todo listo a tiempo y bajo presupuesto. Tu ambición está en su máximo punto, y puede que no haya nadie a quien delegarle responsabilidades - todavía. Pero tus finanzas mejorarán, siempre y cuando mantengas la cabeza hacia abajo y hagas tu trabajo. Los planetas en tu sector de relaciones traerán la ayuda que necesitas a tiempo. La paciencia no es opcional – es requerida.

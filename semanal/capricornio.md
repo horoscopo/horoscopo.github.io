@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 15 de junio 2020 al 21 de junio 2020 
-description: Horóscopo semanal capricornio 15 de junio 2020 al 21 de junio 2020. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+title: capricornio 22 de junio 2020 al 28 de junio 2020 
+description: Horóscopo semanal capricornio 22 de junio 2020 al 28 de junio 2020. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-15'
+ lastmod: '2020-06-22'
 ---
 
 
 
-## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 
-Se avecinan cambios Capri, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Capri, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Capri. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana capricornio. La dinámica energía responsable por todo el arduo trabajo que has hecho últimamente todavía está bajo enfoque. Existe la posibilidad de que te surja una oportunidad de oro que sea demasiado buena para dejarla pasar y que termine aumentando tu carga de trabajo. Aunque gozas de gran astucia y no te dejas engañar fácilmente, desde mediados de semana, asegúrate de que todo esté en orden al comprobar cada detalle y cláusula. Una vez que Venus entre a Libra el domingo, te dispondrás a hacer concesiones, incluso si hacerlo implica tener que comprometerte a algo.
+A veces sientes como si no avanzaras capricornio, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba capricornio, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo capricornio, feliz semana. El cosmos te invita a disfrutar de esas prácticas que por naturaleza conoces bien. Por otra parte, las próximas semanas te pueden proporcionar la oportunidad de mostrar tus habilidades y hacerles saber a los demás el mucho talento que tienes. Ya sea que te dediques a la cocina, al arte o a la música, este no es momento para ocultar tu luz. ¡Déjala brillar! Por otro lado, una mezcla agitada de energías podría hacerte impaciente hacia alguien. Comportarte comprensiva y diplomáticamente podría ser la mejor respuesta.
 
 ## Dinero
 
-Esta semana trae un gran suspiro de alivio a medida que eres capaz de ser más productivo/a. Podrías estar considerando  mover tu oficina o base de operaciones, la cuál vendría con menos distracciones con las que has estado trabajando recientemente. Mientras tanto, prepárate para el cambio en el frente de la deuda. Los planetas tienen sorpresas con cambios en tasas de interés y plazos. Lee las clausulas con cuidado.
+Ciertos aspectos en tu sector de dinero en efectivo pueden limitar o restringir lo que eres capaz de ganar. En vez de entrar en pánico, piensa en cómo este período te puede proporcionar el tiempo que necesitas para planear tu próximo movimiento. Puedes hacer de un hobby,  un trabajo de tiempo completo con un poco de ingenio y acción concentrada. Tu imaginación no tiene rival ahora mismo. No dejes que un revés financiero te empuje fuera de curso.

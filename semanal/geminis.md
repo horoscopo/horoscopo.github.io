@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 15 de junio 2020 al 21 de junio 2020 
-description: Horóscopo semanal geminis 15 de junio 2020 al 21 de junio 2020. Estás en una etapa súper confusa geminis, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+title: geminis 22 de junio 2020 al 28 de junio 2020 
+description: Horóscopo semanal geminis 22 de junio 2020 al 28 de junio 2020. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-15'
+ lastmod: '2020-06-22'
 ---
 
 
 
-## Estás en una etapa súper confusa geminis, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+## No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón geminis, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas. Cualquier cambio que realices en tu interior podría permitirte tener más confianza y lograr más. Sin embargo, esta podría ser la razón por la que sientas que has perdido tu sentido de orientación. Realmente no ha desaparecido, se trata simplemente de que estás en el acto de redefinición de tus objetivos y propósito de vida. De hecho, el Eclipse Lunar de esta semana podría animarte a ir aún más profundo. Si te has preparado para alcanzar el éxito, el cosmos sugiere que el primer paso es conocerte como persona.
+A veces de bueno te pasas geminis. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio geminis, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa geminis, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso geminis y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda… Una vida social activa podría mantener tu tiempo ocupado, pero también será una fuente de gran placer. Un romance podría dar un paso hacia una mayor intimidad con la Luna Llena pudiendo sacar sentimientos a la luz. Aun así, asegúrate de no hacer o decir algo que pudieras lamentar más tarde. Los asuntos laborales se benefician de un enfoque intuitivo, al igual que las cuestiones familiares y de estilo de vida. Permite que tu sexto sentido te guíe. Hacerlo podría dar lugar a una mayor productividad y más vitalidad.
 
 ## Dinero
 
-Para ti, esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes la suerte de tener una ventana de tiempo para saldar cuentas viejas o investigar si es mejor comprar, mantener o vender inversiones compartidas. Sin embargo, sabes lo que quieres, y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.
+Te enfrentas a un período maravilloso y prometedor con el apoyo de tu sector de viajes, educación superior, y metafísica. La suerte sumada a grandes ideas y transformación significa que eres capaz de hacer mucho más dinero en campos como el derecho, la edición, la escritura, y hacerte de renombre en el extranjero también. Piensa cómo podrías llevar tu mensaje a un público más amplio y el dinero te llegará.
