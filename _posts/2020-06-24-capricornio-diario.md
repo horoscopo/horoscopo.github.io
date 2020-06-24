@@ -9,7 +9,7 @@ redirect_from: /p/capricornio.html
 keywords: capricornio,horoscopo,horoscopo capricornio junio 2020,horoscopo capricornio hoy,tarot capricornio junio 2020,horoscopo capricornio,tarot capricornio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy capricornio,horoscopo diario del tarot, Horoscopo de hoy capricornio 24 de junio del 2020,horóscopo del día
 horoscopo:
  signo: capricornio
- video: g_VIh3NkXjc
+ video: L4OG9Og2Pds
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1

@@ -9,7 +9,7 @@ redirect_from: /p/sagitario.html
 keywords: sagitario,horoscopo,horoscopo sagitario junio 2020,horoscopo sagitario hoy,tarot sagitario junio 2020,horoscopo sagitario,tarot sagitario hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy sagitario,horoscopo diario del tarot, Horoscopo de hoy sagitario 24 de junio del 2020,horóscopo del día, el horoscopo de hoy
 horoscopo:
  signo: sagitario
- video: g_VIh3NkXjc
+ video: L4OG9Og2Pds
 ogimg: /images/sagitario_char.png
 sitemap:
  priority: 1

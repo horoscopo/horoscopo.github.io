@@ -9,7 +9,7 @@ redirect_from: /p/cancer.html
 keywords: cancer,horoscopo,horoscopo cancer junio 2020,horoscopo cancer hoy,tarot cancer junio 2020,horoscopo cancer,tarot cancer hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy cancer,horoscopo diario del tarot, Horoscopo de hoy cancer 24 de junio del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: cancer
- video: g_VIh3NkXjc
+ video: L4OG9Og2Pds
 ogimg: /images/cancer_char.png
 sitemap:
  priority: 1

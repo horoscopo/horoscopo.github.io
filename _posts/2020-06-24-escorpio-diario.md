@@ -9,7 +9,7 @@ redirect_from: /p/escorpio.html
 keywords: escorpio,horoscopo,horoscopo escorpio junio 2020,horoscopo escorpio hoy,tarot escorpio junio 2020,horoscopo escorpio,tarot escorpio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy escorpio,horoscopo diario del tarot, Horoscopo de hoy escorpio 24 de junio del 2020,horóscopo del día, el horoscopo de hoy
 horoscopo:
  signo: escorpio
- video: g_VIh3NkXjc
+ video: L4OG9Og2Pds
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1

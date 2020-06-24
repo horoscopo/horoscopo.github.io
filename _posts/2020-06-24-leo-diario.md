@@ -9,7 +9,7 @@ redirect_from: /p/leo.html
 keywords: leo,horoscopo,horoscopo leo junio 2020,horoscopo leo hoy,tarot leo junio 2020,horoscopo leo,tarot leo hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy leo,horoscopo diario del tarot, Horoscopo de hoy leo 24 de junio del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: leo
- video: g_VIh3NkXjc
+ video: L4OG9Og2Pds
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1
