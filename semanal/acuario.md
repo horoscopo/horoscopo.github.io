@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 22 de junio 2020 al 28 de junio 2020 
-description: Horóscopo semanal acuario 22 de junio 2020 al 28 de junio 2020. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+title: acuario 29 de junio 2020 al 05 de julio 2020 
+description: Horóscopo semanal acuario 29 de junio 2020 al 05 de julio 2020. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: L4OG9Og2Pds
+ video: $VIDEO
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-22'
+ lastmod: '2020-06-29'
 ---
 
 
 
-## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 
-Vamos acuario, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida acuario, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie acuario pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás acuario. Así, tal cual. El deseo de gastar podría ser la razón por la que tu lista de compras se está haciendo más y más larga. La Luna Llena en Sagitario del Martes podría coincidir con una fuerte tentación de comprar un artículo costoso que has codiciado desde hace algún tiempo. No decidas comprarlo de inmediato. Espera unos días para ver cómo te sientes al respecto. El movimiento de Venus a Leo es excelente para el entretenimiento o para alojar huéspedes en tu hogar en las próximas semanas. Tu hogar se vislumbra con mucha actividad - en el buen sentido.
+Te estás dando cuenta de quien sí y quien no acuario. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo acuario pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope acuario, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente acuario, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar acuario, da igual tener la última palabra en algunos casos. A veces es mejor tener paz. Cuando el jovial Júpiter en tu signo conecta con el potente Plutón en tu sector de mente y comunicación, puede que tus pensamientos todavía giren en torno a un proyecto importante para ti. Sin embargo, esta puede ser una etapa de búsqueda y consolidación. Si te aseguras de que la base sea sólida, tienes el éxito prácticamente garantizado. No subestimes los detalles. Podrían ser fundamentales para el resultado. 
+  Al mismo tiempo, debido a que el práctico Saturno y el poderoso Plutón están retrógrados en tu sector de habla y pensamiento, podrías pasar por un proceso que te ayude a cambiar tu forma de pensar. Si bien hay muchas técnicas para hacerlo, confía en tus instintos y encontrarás la adecuada para ti. El fin de semana, el sol forma una positiva conexión con el etéreo Neptuno en tu sector de romance, lo que sugiere que un encuentro podría animarte a conocer mejor a una persona. Tómate tu tiempo. ¡No hay apuro!   
 
 ## Dinero
 
-Tus aspectos afectan el dinero y la deuda de otras personas. Esto señala la necesidad de comunicarse con aquellos a quienes les debes dinero y asegurarte de que los dos estén de acuerdo sobre lo que se pagará y cuándo. Hay un poco de tranquilidad en las inversiones compartidas. Esto podría ser capaz de ayudarte a salir de los atascos financieros que surjan desprevenidamente. Ten la seguridad de que serás atendido/a.
+Esta semana te diriges a un periodo de introspección, tanto literal como metafóricamente. Esto se debe a ciertos aspectos que afectan tu sector de hogar físico y profundas emociones internas. La forma en la que cuidas de ti mismo/a está en enfoque ahora. Debes decidir si llevas un poco de trabajo a casa o incluso establecer una oficina en ella que te permita hacer más con menos distracciones. El dinero procede a estos esfuerzos.

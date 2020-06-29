@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: capricornio 22 de junio 2020 al 28 de junio 2020 
-description: Horóscopo semanal capricornio 22 de junio 2020 al 28 de junio 2020. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
+title: capricornio 29 de junio 2020 al 05 de julio 2020 
+description: Horóscopo semanal capricornio 29 de junio 2020 al 05 de julio 2020. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: L4OG9Og2Pds
+ video: $VIDEO
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-22'
+ lastmod: '2020-06-29'
 ---
 
 
 
-## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
+## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 
-A veces sientes como si no avanzaras capricornio, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba capricornio, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo capricornio, feliz semana. El cosmos te invita a disfrutar de esas prácticas que por naturaleza conoces bien. Por otra parte, las próximas semanas te pueden proporcionar la oportunidad de mostrar tus habilidades y hacerles saber a los demás el mucho talento que tienes. Ya sea que te dediques a la cocina, al arte o a la música, este no es momento para ocultar tu luz. ¡Déjala brillar! Por otro lado, una mezcla agitada de energías podría hacerte impaciente hacia alguien. Comportarte comprensiva y diplomáticamente podría ser la mejor respuesta.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega capricornio. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda. El continuo enfoque en tu sector creativo hace de este uno de los mejores momentos del año para meterte de lleno y explorar tus talentos. Sin embargo, a principios de semana podrías elegir irte a lo seguro en vez de arriesgarte, lo que podría significar que te perdieras la oportunidad de ir aún más lejos con respecto a un plan o proyecto. Urano retrógrado desde el viernes podría incluso darte ganas de hacer lo que te venga en gana. Sin embargo, lo mejor sería que atendieras tus principales responsabilidades de todos modos.
 
 ## Dinero
 
-Ciertos aspectos en tu sector de dinero en efectivo pueden limitar o restringir lo que eres capaz de ganar. En vez de entrar en pánico, piensa en cómo este período te puede proporcionar el tiempo que necesitas para planear tu próximo movimiento. Puedes hacer de un hobby,  un trabajo de tiempo completo con un poco de ingenio y acción concentrada. Tu imaginación no tiene rival ahora mismo. No dejes que un revés financiero te empuje fuera de curso.
+Esta semana se trata del dinero de otras personas y de la deuda, así como la política, los grupos sociales, esperanzas y sueños. Puede que el dinero no esté allí para poder llevar un viejo sueño a la realidad, pero eso no significa que te debas olvidar de él. Las actividades en redes, incluso en línea, pueden ayudarte a atraer a los donantes que necesitas para hacer que esto suceda. Esfuérzate para mantener el equilibrio y la paciencia a medida que avanzas.

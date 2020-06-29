@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: virgo 22 de junio 2020 al 28 de junio 2020 
-description: Horóscopo semanal virgo 22 de junio 2020 al 28 de junio 2020. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+title: virgo 29 de junio 2020 al 05 de julio 2020 
+description: Horóscopo semanal virgo 29 de junio 2020 al 05 de julio 2020. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: L4OG9Og2Pds
+ video: $VIDEO
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-22'
+ lastmod: '2020-06-29'
 ---
 
 
 
-## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 
-Por fin vas a finalizar ciclos virgo, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse virgo, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres virgo joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien virgo. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana virgo, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida… El énfasis recae en un sector más tranquilo y espiritual de tu carta astral, por lo que el cosmos te alienta a que te calmes y tranquilices durante esta semana y las que siguen. Esta es tu oportunidad para encontrar el equilibrio y retomar la calma. Pero para hacerlo, quizá debas resolver algunos problemas que se han estado prolongando por un tiempo y dejarlos atrás. Es tu oportunidad para hacer borrón y cuenta nueva y recargar energías, lo que resulta necesario si quieres progresar en los próximos meses.
+No sabes cómo desviar tus sentimientos virgo, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas virgo… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez virgo. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos virgo que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte. Te estarás moviendo a toda máquina para lograr el progreso que deseas en objetivos profesionales y ambiciones personales. Tendrás la energía extra necesaria para obtener los resultados que buscas. Con Júpiter entrando a Virgo, obtendrás ayuda por parte de contactos y círculos sociales que podrían ponerte firmemente en camino hacia el éxito. No es sólo lo que conoces sino a quién conoces lo que cuenta para el futuro previsible. Tu vida romántica también recibe un impulso, al igual que tus amistades y relaciones bien establecidas.
 
 ## Dinero
 
-¡Puede que tengas que hacer muchos ajustes con todos los aspectos astrológicos de esta semana! El Universo puede traer un montón de noticias y ofertas, lo cuál es genial, pero se quedarán cortas, por lo que prepárate y alístate para entrar en acción. Si recibes malas noticias, asegúrate de tomar un descanso para recuperarte.
+Tienes toneladas de nueva energía para darles una impresión positiva a todos los que conoces. Es un buen momento para programar una entrevista de trabajo o hacer presentaciones para hacerle más publicidad a tus productos y servicios. El Universo pone más atención en el romance, los niños y la familia. Mientras más utilices tu personalidad para impresionar a los demás, mejor será la situación financiera de la gente que realmente te importa.
