@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo leo junio 2020
-description: El Horóscopo junio de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo leo julio 2020
+description: El Horóscopo julio de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo junio, horoscopos en español, horóscopo leo junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo julio, horoscopos en español, horóscopo leo julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: g_VIh3NkXjc
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Amistades y vecinos pueden llamar a tu puerta durante la Luna Llena y el Eclipse Lunar del 7 de junio. Tales tendrán planes elaborados, y posiblemente caros. Quizás sea difícil decir que no. La Luna Nueva y el Eclipse Solar total del 21 de junio podrían abrir tu mundo de par en par. Haz un recorrido por el mundo ahora o en algún momento del año, aunque sea solo en tu mente, y lleva a tus amistades contigo. Viajar de verdad definitivamente también es una posibilidad. O deja que el mundo venga hacia ti. Lo hará. La Luna forma una conjunción con Júpiter el 25 de junio, cuando Saturno se torna directo en Sagitario. Siéntete con suerte. 
+Las personas estarán de tu lado durante la Luna Nueva del 4 de julio. Simplemente sentirán inspiración para estar contigo. Es probable que no se te pida que hagas o digas algo, pero puede haber muy poco tiempo de inactividad. Disfruta de ser popular. Los asuntos monetarios y financieros podrían ser importantes durante la Luna Llena del 19 de julio. Si tienes que tomar una decisión financiera, adopta un método y confía en tu juicio. Eres alguien que bien sabe cómo cuidar de sus propios intereses sin hacerle mal a cualquier otra persona. El trígono entre la Luna y Júpiter del 27 de julio hará que sea te haga más fácil lidiar con todas las cuestiones prácticas.

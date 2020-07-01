@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo sagitario junio 2020 
+title: Horoscopo sagitario julio 2020 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
@@ -14,9 +14,4 @@ sitemap:
 ---
 
 
-Con la luna nueva del 6 de junio, deja que las próximas festividades hagan su magia para ti en tu profesión o imagen pública. Si hay algo específico que hayas estado deseando que suceda, dale la oportunidad de manifestarse y aparecer frente a tus ojos. Mercurio se torna estacionario directo también ese día. Los malentendidos pueden perdurar, pero los apuros o complicaciones comienzan a perder su influencia. 
-La conjunción entre Marte y Neptuno del 7 de junio te abre la puerta a un sueño mayor, mejor y más posible. Haz que suceda si puedes. 
-El trígono entre Venus y Neptuno el día 21 hacen que la hermosa temporada de festividades sea incluso más bella. Mercurio forma una conjunción con Júpiter también ese día. Piensa (y actúa) de una forma bella y brillante. 
- La luna llena del 22 de junio te permite ser muy sensible sin volverte vulnerable. Remarca físicamente lo que alguien quiere y necesita pero no puede expresar abiertamente. Disfruta de pasar tiempo con alguien que quiere darte ánimos. Le alegrará el día. 
-Días destacados: 2, 9, 19
-Días desafiantes: 24, 27
+La Luna Nueva del 9 de julio ilumina tu vida social y tu compromiso hacia cualquier club u organización a los que perteneces. Una causa o grupo podría llamarle la atención a tu sentido de servicio público y podría darte inspiración para unirte como voluntario. En cualquier caso, tu interés inspirará a otros. Escucha lo que tus corazonadas te digan cuando la Luna conjunte a Neptuno el 13 de julio. Haz uso de tu intuición y ten un gran día en el trabajo. Brilla saludable y felizmente bajo la Luna Llena del 23 de julio. Puede que incluso te encuentres cuidando de una nueva mascota, si no es que de una nueva y noble causa. Disfruta de ese brillo dorado interior.   

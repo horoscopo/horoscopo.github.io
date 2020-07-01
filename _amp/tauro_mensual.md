@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo tauro junio 2020 
+title: Horoscopo tauro julio 2020 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Adopta un hábito o una visión más saludable bajo la Luna Llena del 8 de junio. La buena comida, buena compañía y tal vez una salida romántica casual podrían hacer que te sientas como una persona totalmente nueva. Te lo mereces, así que planea algo. El romance podría florecer alrededor de la Luna Llena del 22 de junio. Los corazones andarán sensibles y generosos, así que no bajes la guardia o te dejes agobiar. Protege tu corazón, pero tampoco crees demasiadas barreras. Algo de esto podría llegar a tener una conexión kármica. Durante la mañana del 28 de junio, la cuadratura entre la Luna y Mercurio podría resolver una vieja duda sobre una fantasía. Si no es lo que esperabas, de todos modos, disfruta de los dulces recuerdos.
+La luna llena del 1 de julio inunda tu hogar y vida familiar de amor y devoción. Puede que haya roces, pero eso es solo porque todos se preocupan tanto por los demás. Da las gracias. El día 16, la luna nueva podría abrirte una puerta en tu vida profesional o pública. Serás la persona más inteligente, responsable, respetada y encantadora de la sala. Ten respeto por tus capacidades y toma por las astas una oportunidad apropiada. El 31 de julio, una segunda luna nueva (y eclipse lunar) te lleva a ser una persona más creativa y juguetona. Olvídate del potencial para ganar dinero, cuida tus gastos, y luego libera a tu artista interior. 

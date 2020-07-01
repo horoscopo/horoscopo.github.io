@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo virgo junio 2020
-description: El Horóscopo junio de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo virgo julio 2020
+description: El Horóscopo julio de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo junio, horoscopos en español, horóscopo virgo junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo julio, horoscopos en español, horóscopo virgo julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video: g_VIh3NkXjc
@@ -16,9 +16,4 @@ sitemap:
 ---
 
 
-La luna nueva del 7 de junio reúne amistades y vecinos. Tal vez no sea una fiesta de todo el vecindario, pero se sentirá como una. Recibe cooperación y haz muchas conexiones prácticas. 
- El día 16, Venus se torna directo justo antes de que Mercurio se torne retrógrado. Mantén la organización, tómatelo con calma al tomar decisiones, y deja que un asunto romántico se resuelva antes de celebrar. 
-Conocidos y colegas podrían demandar tu tiempo durante la luna llena del 22 de junio, pero deberías ser capaz de aplacarlos sin problemas. Esto puede sacar un poco de tiempo de tu vida familiar o doméstica, pero no debería ser nada muy severo. Ahora puedes hacer feliz a mucha gente. 
-Mercurio forma una cuadratura con Marte el día 26. Al día siguiente, el sol y luego Júpiter forman una conjunción con Mercurio. Durante estos dos días, confía en tus instintos y emociones más que en tu intelecto. Razonar está bien, pero los sentimientos son más reveladores. 
-Días destacados: 14, 16, 27
-Días desafiantes: 19, 29
+Creativas y constructivas ideas surgen de casi toda persona con la que hablas bajo la Luna Nueva del 9 de julio, cuando también puedes divertirte mucho. Compórtate entusiastamente y deja que tu niño interior salga a jugar un poco más. Más tarde, la Luna Llena del 23 de julio podría inspirar en ti grandes intenciones y nobles planes. Elige tu favorito y el que sea más cordial y sorpréndete con qué tan posible realmente puede llegar a ser. Es un buen momento para tener sueños grandes que no tienes que compartir con nadie. El amor podría volverse emocionante cuando Mercurio conjunte a Plutón el 29 de julio. Tu pareja o un interés amoroso podrían tratar de sorprenderte, pero lo verás venir.   

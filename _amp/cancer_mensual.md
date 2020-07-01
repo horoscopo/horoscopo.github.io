@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo cancer junio 2020 
+title: Horoscopo cancer julio 2020 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La Luna Nueva del 8 de junio se manifiesta fuertemente en tu undécima casa, el sector de amigos, clubes y vida social. Puede que tengas unas cuantas fantasías personales y sueños de diversión que no puedas expresar en público, pero te rodearás de tantas personas, que no sentirás aburrimiento o depravación. La Luna Llena del 22 de junio te recuerda que debes ser tu propio mejor aliado. Planea más buenos ratos en privado y menos tiempo de maníaca acción con tal de enfocarte en lo que podría o no ser de tu mayor interés. Al final del mes, la conjunción entre la Luna y Marte del 29 de junio podría despertar malos ánimos y aumentar la intolerancia. Compórtate discretamente si es que puedes.
+El 1 de julio puede ser un día muy emocional debido al Sol formando trígono con Neptuno. Sé consciente de cualquier grande sueño o expectativa que sea poco razonable. Las tensiones sociales deberían suavizarse con la llegada de la Luna Llena del 14 de julio. Relájate, siente más comodidad con tus nuevos conocidos y rodéate de algunas de tus de cosas más preferidas. Ordena lo que más te gusta del menú (respetando tu presupuesto, por supuesto) y olvídate de las apariencias. La Luna Nueva del 29 de julio te anima a ponerte en primer lugar. Come bien, descansa, ten una vida activa y una rutina saludable. Después, salta a tus asuntos familiares y sociales. Es posible que hasta la gente te diga lo bien que te ves. 

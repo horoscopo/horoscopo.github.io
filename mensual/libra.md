@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo libra junio 2020
-description: El Horóscopo junio de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo libra julio 2020
+description: El Horóscopo julio de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo junio, horoscopos en español, horóscopo libra junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo julio, horoscopos en español, horóscopo libra julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: g_VIh3NkXjc
@@ -16,4 +16,8 @@ sitemap:
 ---
 
 
-La gente es más agradable el 7 de junio, cuando la Luna en Acuario forma sextil con Saturno y luego con Urano. La Luna Llena del 14 de junio podría desencadenar un cambio de corazón sobre un miembro de tu familia o algo en casa. Siempre puedes hablar de ello primero y luego actuar. Una reacción instintiva puede ser tentadora, pero probablemente no es prudente. Con la llegada de la Luna Nueva del 29 de junio, algunas nuevas personas podrían mantener tu tiempo ocupado más que nunca. Respeta el tiempo de todos (incluido el tuyo) y participa en tanto o tan poco como quieras. Vas a tener formas agradables de prevenir que tu tiempo sea devorado por los demás.
+Después de semanas de estar en una búsqueda interior, estás de vuelta en tu elemento. Tu regente, Marte, está en su casa de Aries, y está listo para ponerse en marcha. Pero primero, mientras julio comienza, tómate el tiempo para enfocarte en el panorama completo, aclarar tus objetivos a largo plazo, y dejar atrás aquellos que superaste. Luego, cuando la luna nueva en Capricornio y el eclipse se alinean el 5 de julio, puedes avanzar con una renovada razón de ser y una nueva dirección. 
+Hay oportunidades tentadoras en el horizonte, y habrá algunos vaivenes y altibajos, pero no pierdas de vista el premio y apunta a la victoria. 
+El día 20, la luna llena en Leo y el eclipse lunar iluminan un deseo profundo, lo que te invita a correr riesgos. Deshazte de todo aquello que piensas que significa tener éxito, y podrás descubrir el verdadero sentido del éxito: la libertad de ser quien eres, y que te aprecien por ello. Los dioses, diosas y poderes superiores te están sonriendo. Atrévete a ser una persona auténtica. Ten más fe en ti, y darás en el blanco. 
+Días destacados: 18, 22, 25 
+Días desafiantes: 8, 11, 21 

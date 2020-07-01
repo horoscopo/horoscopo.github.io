@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo geminis junio 2020 
+title: Horoscopo geminis julio 2020 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Este mes no tiene luna llena, pero el 1 de junio es el día posterior a una, y el 28 de junio es el día previo a otra. Puedes esperar que las emociones estén elevadas al comienzo y al final del mes. La luna nueva (y el eclipse solar) del día 15 podría plantear una cuestión familiar que está lista para ser resuelta. Mira con admiración una solución inteligente y utilízala, no importa quién piense en ella (aunque probablemente seas tú). El 27 de junio, Venus forma un sextil con Plutón para añadir una alta dosis de emoción y picardía a lo que podría ser un día común. Bien podría ser un encuentro romántico. 
+En la primera semana del mes, trabaja duro y haz que se sienta como algo divertido. Incluso si no te estás divirtiendo completamente haciéndolo, tus jefes y compañeros de trabajo querrán darte más oportunidades. Podrás salir adelante en el marco de la Luna Llena del 3 de julio. Y además, podrías darle los toques finales a algo grande y hermoso en tu hogar alrededor de la Luna Nueva del 17 de julio. Si un proyecto o problema ha estado desafiándote al persistir, ahora tienes el fuego y la energía para encargarte de él. El 29 de julio podrás ver el valor del impacto de algo y decidir si realmente tiene valor para ti.

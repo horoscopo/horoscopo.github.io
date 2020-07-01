@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo piscis junio 2020
-description: El Horóscopo junio de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo piscis julio 2020
+description: El Horóscopo julio de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/piscis/
 amplink: /horoscopo-mensual/amp/piscis/
 home: FALSE
-keywords: horóscopo junio, horoscopos en español, horóscopo piscis junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo julio, horoscopos en español, horóscopo piscis julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
  video: g_VIh3NkXjc
@@ -16,7 +16,9 @@ sitemap:
 ---
 
 
-Mercurio entra a Cáncer el 12 de junio, y los pensamientos se centran en el hogar, asuntos domésticos y en terminar un importante proyecto prolongado. Haz lo que puedas y luego relájate. El día 13, la luna nueva te muestra nuevas formas de proyectar tus habilidades y talentos. Ahora será más fácil para el mundo encontrarte. También podrías descubrir una nueva manera de promover una causa favorita. La luna llena del 27 de junio podría mostrarte una forma de superar una situación complicada. Un acontecimiento de último momento podría brindar una oportunidad que te permita entrar en acción. Presta atención, y disponte a hacer algo fuera de lo común. 
-
-Días destacados: 1, 14, 19
-Días desafiantes: 15, 23
+La luna nueva del 7 de julio podría traerte dinero o algo tangible de gran valor. Tal vez no pueda ser medido en dinero instantáneo, pero la oportunidad de hacer que suceda pronto ya está ahí. 
+El día 9, Venus forma un trígono con Marte, y el amor podría volverse más fácil de sentir, pero no será más fácil de compartir o expresar. El 16 de julio, Venus al fin se torna directo justo antes de que Mercurio se torne retrógrado. Habla con cuidado, si es que hablas. Tal vez sea una buena idea simplemente escuchar. 
+Cuando la luna llena llega el 22 de julio, tu mente podría estar de aquí para allá, pero intenta limitar las reacciones bruscas. Que tu interés y curiosidad deambulen libremente, y verás las cosas nuevas que puedes descubrir y aprender. Cualquier sentimiento de inquietud será efímero, y puede que simplemente encuentres una nueva pasión o interés intelectual. 
+Venus forma una oposición con Urano el día 30. Puede que un sorprendente interés romántico no tenga una recepción cálida al principio. 
+Días destacados: 6, 9, 16
+Días desafiantes: 20, 28

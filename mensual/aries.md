@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo aries junio 2020
-description: El Horóscopo junio de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo aries julio 2020
+description: El Horóscopo julio de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/aries/
 amplink: /horoscopo-mensual/amp/aries/
 home: FALSE
-keywords: horóscopo junio, horoscopos en español, horóscopo aries junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo julio, horoscopos en español, horóscopo aries julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
  video: g_VIh3NkXjc
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Marte forma una cuadratura con Urano el 1 de junio. Controla tu temperamento, y no dejes que nadie te provoque (puede que lo intenten). Busca un logro en el trabajo o en algún entorno social durante la luna nueva y el eclipse solar del día 11. Puede que haya fricciones o resistencia al principio, pero luego serás quien avance. Mercurio se torna estacionario directo el día 18. Tómate tu tiempo para reorganizarte y volver a contactar a alguien que te quedó mal recientemente. Durante la luna llena del 26 de junio, rodéate de gente feliz que parece estar divirtiéndose más que tú. Sin embargo, las cosas pueden no ser lo que parecen. Ponte alegre y decide por tu cuenta lo que es agradable y entretenido. Marte se torna estacionario directo al día siguiente. Puede que lleve algunos días tener más motivación, reunirte con una vieja pasión, y volver a estar a toda marcha, pero lo lograrás. Días destacados: 7, 12, 28Días desafiantes: 9, 21</div>
+Mantén la calma durante la oposición entre Marte y Plutón el 2 de julio. No es tu culpa. El amor te busca durante la Luna Llena del 8 de julio. Quizás no te preparaste, pero no te hará bien escaparte o esconderte. Toda esta atención quizás te angustie por un tiempo, pero podrías tener un cambio de actitud y animarte. La Luna Nueva del 23 de julio puede complicar tu vida y poner algunas distracciones en tu camino, pero puedes manejarlas. Sé paciente y deja que un problema aparezca por completo antes de enfrentarte a él. Tomar medidas débiles o hacer intentos a medias solo aumentará a la confusión. 

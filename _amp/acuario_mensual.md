@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo acuario junio 2020 
+title: Horoscopo acuario julio 2020 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
@@ -14,6 +14,4 @@ sitemap:
 ---
 
 
-Te sentirás con energía (tal vez, demasiada) durante la Luna Llena del 9 de junio. Mantén una vida diaria simple y no te distraigas con interrupciones ni preocupaciones de personas que están mucho más distraídas que tú. Es un periodo de tiempo ajetreado, y muchos podrían descontrolarse. La Luna Nueva del 23 de junio viene cargada de energía y ambición. Podría ser difícil pensar sin sentir distintas emociones. Si evitas la impaciencia o impulsividad, todo puede estar bien. El 28 de junio, la conjunción entre Mercurio y Marte en Cáncer te otorga capacidades y poder adicional para lograr algo difícil que ha estado pendiente.
-
-Mejores días: 4, 10, 21Peores días: 13, 30
+Si sientes limitaciones o restricciones, la luna llena del 3 de julio te permite desatarte y ser libre. Puede que no quieras hacer nada extremo, pero tienes bastante apoyo y gente que te alienta si lo haces. Mercurio ingresa a Sagitario el día 5, y quizás sea difícil concentrarte en los detalles de importancia. Haz lo mejor que puedas. Mantente cerca de casa durante la luna nueva del 18 de julio. Habrá muchas cosas que quieras hacer con tus amistades. Si aparecen tus hermanos o hermanas, deja que descubran su propia forma de encajar en lo que actualmente está sucediendo. 
