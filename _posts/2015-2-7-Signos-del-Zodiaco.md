@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 02 de julio 2020
-description: Horóscopos del dia de hoy 02 de julio 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 03 de julio 2020
+description: Horóscopos del dia de hoy 03 de julio 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-07-02
+ lastmod: 2020-07-03
 ---
-La adrenalina te da vida en los próximos tres días con Marte aspectando a Plutón. Puedes hacer grande maniobras profesionales, por lo que vale la pena el esfuerzo. Podría haber nuevos encuentros esta noche gracias a la ayuda de amistades solteras. Por su parte, las parejas comparten un fuerte afecto con el trígono entre la Luna y Júpiter elevando los espíritus.
+Tu intuición te apunta en la dirección correcta cuando la Luna aspecta tanto a Mercurio como a Neptuno. Debido a que ya sabes sobre el tema, esta vez, ya te habrás preparado para escuchar sobre él. Algunas cosas se quedan sin decir conforme Venus se prepara para cambiar de signo esta noche. Las parejas deben honrar sus promesas incluso si no desean hacerlo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
