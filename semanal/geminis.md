@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 29 de junio 2020 al 05 de julio 2020 
-description: Horóscopo semanal geminis 29 de junio 2020 al 05 de julio 2020. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al geminis de siempre…
+title: geminis 06 de julio 2020 al 12 de julio 2020 
+description: Horóscopo semanal geminis 06 de julio 2020 al 12 de julio 2020. Esta semana vas a abrir los ojos geminis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-29'
+ lastmod: '2020-07-06'
 ---
 
 
 
-## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al geminis de siempre…
+## Esta semana vas a abrir los ojos geminis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 
-Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
- No lo has pasado del todo bien pero empiezas a renacer geminis. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado. Las personas en tu vida serán estimulantes y refrescantes con Marte brillando en tu sector de relaciones. Los individuos con los que conectes podrían actuar como catalizadores, animándote a probar nuevas ideas y oportunidades. También puede haber momentos en los que choques con ellos, pero incluso esto puede tener un resultado productivo. ¿Ya tienes pareja? Tú y tu amor podrían tener una vida social muy activa y un montón de planes. ¿Buscando amor? Salir a citas debería ser muy divertido, ¡que disfrutes!
+Esfuérzate un poco más de lo que hiciste ayer geminis, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
+ de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz. Esta semana podría llegar a ser un punto culminante para ti, sobre todo con un Eclipse Lunar en tu sector de ocio y placer. Ciertos sentimientos podrían ser exaltados, por lo que éste no es el mejor momento para involucrarte en un romance o comprometerte a algo sin pensar las cosas. Al mismo tiempo, tú y alguien podrían entrar en conflicto con respecto a la mejor manera de manejar un problema familiar. Desde el viernes, tu pareja podría de hecho ser una fuerza a tener en cuenta y debería ser persuadida a cooperar.
 
 ## Dinero
 
-El Universo te enseña a aceptar más responsabilidad con respecto a cómo te proyectas al mundo. Alguien ha sido capaz de ascender en la escala más rápidamente debido a su buen vestir o a una mejor manera de hablar, pero tú también lo puedes hacer. Práctica tu confianza en frente de un espejo hasta que la perfecciones. Cada detalle ayuda.
+Para ti, esta semana se trata de aumentar considerablemente tu potencial de ingresos. Dondequiera que detectes una oportunidad, haz valer tu voluntad, tus necesidades y tu individualidad. Con la ayuda de los útiles aspectos, el dinero viene cuando cultivas la creatividad en tu pensamiento. En otras palabras, mientras menos hagas las cosas de la misma vieja manera, más lo agradecerás. Es bastante brillante si piensas en ello.

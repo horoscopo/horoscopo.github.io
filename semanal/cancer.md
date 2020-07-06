@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 29 de junio 2020 al 05 de julio 2020 
-description: Horóscopo semanal cancer 29 de junio 2020 al 05 de julio 2020. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+title: cancer 06 de julio 2020 al 12 de julio 2020 
+description: Horóscopo semanal cancer 06 de julio 2020 al 12 de julio 2020. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-29'
+ lastmod: '2020-07-06'
 ---
 
 
 
-## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
 
-Al final, sólo te lamentarás de las posibilidades que no tomaste cancer así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo cancer. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más. La semana que comienza —con una carismática combinación de energías que da vida a tu sector de recreación— podría encontrarte dándote un gusto con un pasatiempo o aprovechando cualquier oportunidad romántica. Mientras tanto, debido a que el sol está en tu sector de hogar y familia, es un buen momento para enfocarte en los asuntos hogareños y disfrutar de algunos mimos y cuidados. 
-Un encantador aspecto entre el sol y el jovial Júpiter el 5 de $MES puede ser maravilloso para una especial cita y darte la oportunidad de acercarte a la persona que amas. Al mismo tiempo, una conexión más extraña entre el conversador Mercurio y el vital Marte podría hacer surgir una discusión, que tal vez involucre a amistades con visiones distintas a la tuya. Las cosas podrían calentarse bastante, a menos que acepten estar en desacuerdo. El domingo trae consigo una vibra más relajada a esta combinación. Puede que disfrutes de una inspiradora película o libro este fin de semana.
+Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida cancer, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo cancer, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti. Definitivamente deberías considerar tomarte un descanso y hacer algo que te guste. Y si crees que tu tiempo está demasiado ocupado para el romance, es posible que tengas que reconsiderar esa opinión. El muy optimista aspecto del martes podría deslumbrarte con un encuentro especial. ¿Llegará a algo? ¡Eso depende de ti! Sin embargo, debido a que Marte retrocede en tu signo a partir del domingo, sería mejor no precipitarte a nada. Toma cada día como venga y ver cómo se desarrolla la relación.
 
 ## Dinero
 
-Te enfrentas a una semana de crecimiento financiero. Usualmente te inclinas a la organización con respecto al gasto y esta puede ser una gran semana para discutir la ejecución presupuestaria y revisarla. ¿El actual está trabajando para ti o es necesario algún ajuste? Puede ser útil el registrarse en un servicio de banca en línea o usar herramientas en línea para calcular lo que necesitas para tu jubilación.
+Estás a punto de tomar ventaja de algunas nuevas oportunidades en el trabajo y los negocios. El Universo destaca tu sector que rige el dinero y los valores, por lo que no sólo vas a ser capaz de ganar más, sino que también lo usarás racionalmente. Esto puede significar que inviertas en tu futuro mediante la financiación de un nuevo negocio, o encuentres un millón de nuevas formas de recaudar más dinero.

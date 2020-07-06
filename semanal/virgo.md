@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 29 de junio 2020 al 05 de julio 2020 
-description: Horóscopo semanal virgo 29 de junio 2020 al 05 de julio 2020. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+title: virgo 06 de julio 2020 al 12 de julio 2020 
+description: Horóscopo semanal virgo 06 de julio 2020 al 12 de julio 2020. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-29'
+ lastmod: '2020-07-06'
 ---
 
 
 
-## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
 
-No sabes cómo desviar tus sentimientos virgo, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas virgo… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez virgo. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos virgo que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte. Te estarás moviendo a toda máquina para lograr el progreso que deseas en objetivos profesionales y ambiciones personales. Tendrás la energía extra necesaria para obtener los resultados que buscas. Con Júpiter entrando a Virgo, obtendrás ayuda por parte de contactos y círculos sociales que podrían ponerte firmemente en camino hacia el éxito. No es sólo lo que conoces sino a quién conoces lo que cuenta para el futuro previsible. Tu vida romántica también recibe un impulso, al igual que tus amistades y relaciones bien establecidas.
+No te calientes virgo, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no virgo, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien virgo, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada. Tu vida social se anima con Venus entrando a tu sector social esta semana, trayendo consigo oportunidades para buenos momentos y muchas posibilidades de citas. Mientras tanto, podrías estarte enfrentando a un pequeño desafío en relación con un amigo o grupo y estarte preguntando qué pasos debes seguir para resolverlo. El éxito podría radicar en sacudir una anticuada mentalidad y en adoptar una forma más flexible de visualizar la situación. Este fin de semana podría poner una agradable sorpresa en tu camino.
 
 ## Dinero
 
-Tienes toneladas de nueva energía para darles una impresión positiva a todos los que conoces. Es un buen momento para programar una entrevista de trabajo o hacer presentaciones para hacerle más publicidad a tus productos y servicios. El Universo pone más atención en el romance, los niños y la familia. Mientras más utilices tu personalidad para impresionar a los demás, mejor será la situación financiera de la gente que realmente te importa.
+Esta semana, te desafía cierto aspecto en tu sector de carrera y autoridad. Aunque puede traer noticias e incentivos adicionales a esta área, puede que no te sientas de lo mejor con lo que está sucediendo. O puede que lo percibas como un golpe a tu ego. Debes saber que lo que sucede no es personal y sólo mejorará tus oportunidades para el futuro.

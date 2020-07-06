@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 29 de junio 2020 al 05 de julio 2020 
-description: Horóscopo semanal leo 29 de junio 2020 al 05 de julio 2020. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también leo. Pero sigue protegiéndote a ti mismo…
+title: leo 06 de julio 2020 al 12 de julio 2020 
+description: Horóscopo semanal leo 06 de julio 2020 al 12 de julio 2020. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-29'
+ lastmod: '2020-07-06'
 ---
 
 
 
-## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también leo. Pero sigue protegiéndote a ti mismo…
+## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 
-Nadie se cura por herir a otro leo. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño. La creación de contactos es una buena manera de impulsar tu actividad económica y salir adelante. La presencia de Júpiter en tu sector social es sin duda alentadora para moverte hacia nuevos círculos y disfrutar de conocer a otras personas. Sin embargo, puede que tengas que alcanzar un mejor equilibrio entre tu trabajo y tu tiempo de descanso conforme el Sol entra a Libra y a tu sector espiritual. Estás entrando a una fase en la que te ayuda tomarte tiempo para relajarte y recargar baterías. Todavía querrás salir de fiesta, pero también querrás disfrutar de momentos de tranquilidad.
+Deja de esperar al futuro leo, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz leo, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio leo, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir leo, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor leo, sin remordimientos. Puede que estés a punto de darte un gusto con un frenesí de gastos, ya que el seductor Venus ingresa a Virgo y a tu sector de dinero el lunes. Si esto se relaciona con mejorar tu salud, de seguro vas por buen camino. Además, el positivo Júpiter en tu sector del hogar se vuelve directo el martes. Si tienes planes relacionados con bienes inmuebles, las próximas semanas pueden ser el momento de ponerlos en marcha. Lo mismo se aplica a cualquier trabajo de remodelación. 
+La noticia más importante es el eclipse solar en tu sector espiritual y psicológico el jueves. Este eclipse puede actuar como una luna nueva turbo que te ofrece la oportunidad de un nuevo comienzo. Pero debido a que también conecta con el potente Plutón, podría significar una completa ruptura con un aspecto del pasado para poder dar el siguiente paso en tu camino de evolución.
 
 ## Dinero
 
-Puede ser que aspectos en tu sector del dinero te traigan pánico acerca de dónde vendrá tu dinero. En lugar de entrar en modo de supervivencia, piensa en donde se puede construir o en dónde has construido en el pasado. El Universo recompensa el trabajo duro realizado durante un largo período de tiempo. Dicho esto, cierto aspecto positivo de esta semana indica que algo que ver con el hogar en general, podría darte acceso a un dinero que no sabías que existía.
+Esta semana para ti es acerca de relaciones no solidarias. Quieres lanzarte hacia metas financieras y relacionadas con el trabajo. La decisión puede estar entre brillar con luz propia como individuo o como miembro de un equipo. Una parte de ti quiere alimentar tu ego, pero la otra parte, la más inteligente, se da cuenta de que también dependes de tu equipo. Escucha a la mejor parte que tienes.

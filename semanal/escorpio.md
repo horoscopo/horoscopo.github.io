@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 29 de junio 2020 al 05 de julio 2020 
-description: Horóscopo semanal escorpio 29 de junio 2020 al 05 de julio 2020. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos escorpio. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+title: escorpio 06 de julio 2020 al 12 de julio 2020 
+description: Horóscopo semanal escorpio 06 de julio 2020 al 12 de julio 2020. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-29'
+ lastmod: '2020-07-06'
 ---
 
 
 
-## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos escorpio. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 
-Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver escorpio, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
- hasta que empieces a sentir que realmente merece la pena. Si alguien parece un poco distante al comienzo de la semana, no te lo tomes a pecho. Puede que sus propios proyectos y planes mantengan su mente ocupada, y probablemente tenga tiempo de sobra cuando termine. Las cosas se vuelven más ligeras y sencillas cuando Venus ingresa a tu sector de relaciones durante el fin de semana. Esto abre una oportunidad para resolver cualquier dificultad y llegar a un compromiso, si fuera necesario. El conversador Mercurio, astro que te rige, se torna retrógrado el sábado. Puede que sea prudente terminar tus preparativos para la temporada de fiestas antes de lo anticipado.
+Hay gente que no respeta que puedas crecer escorpio, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los escorpio pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece escorpio, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela! Dado que el animado Mercurio está en tu sector de carrera, esta y las próximas semanas pueden darte la chance de demostrar tu experiencia y lo que sabes hacer a los demás. Al mismo tiempo, cuando el atractivo Venus ingresa a tu sector social el lunes, esta área de tu vida podría tener una chispa extra, con oportunidades románticas en el horizonte. Si has trabajado mucho para alcanzar una meta y, al parecer, no has logrado demasiado, el avance de Júpiter el martes sugiere que esto podría estar a punto de cambiar. Durante las próximas semanas, podrías obtener tu recompensa. 
+El eclipse solar en tu sector de viajes y exploración el jueves puede inspirarte a aprovechar la oportunidad de experimentar cosas nuevas. Puede que tu actitud sea lo único que te impide avanzar. Librarte de las influencias que te detienen podría permitirte dar un audaz paso adelante.
 
 ## Dinero
 
-Esta semana trae actividad a tu sector de dinero. Mientras que orientas tu vida en torno a ganar más dinero, también es necesario construir una base que sea sólida. Asegurarte de que tu ingreso sea estable y consistente es de primordial importancia. A medida que tu empleo y tu lugar de trabajo puedan estar cambiando, hay un gran potencial sin explotar en el extranjero. Explora otras posibilidades de trabajo y de ganar dinero en línea o en los crecientes mercados extranjeros.
+Tienes ganas de dejar que tu personalidad real salga a flote. En el trabajo, en tus relaciones personales y en público, quieres dejar todo salga, pero tu carrera (y sobre todo tu salario) puede sufrir si vas demasiado lejos. Ten un poco más de control con el fin de recoger los frutos. Tu individualidad brilla cuando haces un gran trabajo y asumes un rol de autoridad.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 29 de junio 2020 al 05 de julio 2020 
-description: Horóscopo semanal capricornio 29 de junio 2020 al 05 de julio 2020. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+title: capricornio 06 de julio 2020 al 12 de julio 2020 
+description: Horóscopo semanal capricornio 06 de julio 2020 al 12 de julio 2020. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-06-29'
+ lastmod: '2020-07-06'
 ---
 
 
 
-## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 
-Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega capricornio. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda. El continuo enfoque en tu sector creativo hace de este uno de los mejores momentos del año para meterte de lleno y explorar tus talentos. Sin embargo, a principios de semana podrías elegir irte a lo seguro en vez de arriesgarte, lo que podría significar que te perdieras la oportunidad de ir aún más lejos con respecto a un plan o proyecto. Urano retrógrado desde el viernes podría incluso darte ganas de hacer lo que te venga en gana. Sin embargo, lo mejor sería que atendieras tus principales responsabilidades de todos modos.
+Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas capricornio, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real capricornio, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así capricornio. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría capricornio, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana… Una decisión tomada al comienzo de la semana podría encontrarte involucrándote más (o, tal vez, menos) en un proyecto creativo. La presencia del sol en tu sector de recursos compartidos sugiere que tal vez valga la pena seguir por la experiencia que obtendrás como resultado de este proyecto. Por otro lado, una animada conexión entre el armonioso Venus y el dinámico Marte es señal de una reunión con alguien que no ves muy seguido. Si lo haces, puede ser una maravillosa y memorable ocasión. 
+  A partir del sábado, una positiva conexión entre el jovial Júpiter y el potente Plutón podría encontrarte colaborando con una idea que había quedado atrás. Inyectarle energía podría hacer que tenga un productivo resultado. Por último, cuando Mercurio se vuelve directo en tu sector de recursos compartidos el domingo, los asuntos financieros pueden comenzar a mejorar. La luna nueva en este mismo sector sugiere la opción de un nuevo comienzo.   
 
 ## Dinero
 
-Esta semana se trata del dinero de otras personas y de la deuda, así como la política, los grupos sociales, esperanzas y sueños. Puede que el dinero no esté allí para poder llevar un viejo sueño a la realidad, pero eso no significa que te debas olvidar de él. Las actividades en redes, incluso en línea, pueden ayudarte a atraer a los donantes que necesitas para hacer que esto suceda. Esfuérzate para mantener el equilibrio y la paciencia a medida que avanzas.
+Eres alguien poco convencional ahora al traerle una ola repentina de genialidad a ciertos acontecimientos. El Universo le envía vibraciones de suerte a tu sector de efectivo y valores. Ahora te llegan oportunidades para mayor número de horas, mejores salarios y proyectos más deseables, al igual que la posibilidad de disfrutar de lo que haces para ganarte la vida. Es un momento muy bueno en general.
