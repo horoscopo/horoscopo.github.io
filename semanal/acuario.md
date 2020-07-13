@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 06 de julio 2020 al 12 de julio 2020 
-description: Horóscopo semanal acuario 06 de julio 2020 al 12 de julio 2020. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: acuario 13 de julio 2020 al 19 de julio 2020 
+description: Horóscopo semanal acuario 13 de julio 2020 al 19 de julio 2020. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,15 +12,17 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-06'
+ lastmod: '2020-07-13'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 
-No desperdicies ni un solo día de tu vida acuario porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio acuario, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la acuario de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida acuario. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida. Los asuntos monetarios siguen siendo importantes, sobre todo a principios de semana. Ayudaría que dejaras de darte gustos pequeños con el fin de ahorrar para algo un poco especial. El equilibrio entre tu vida diaria y vida laboral podría requerir de atención durante los próximos días, sobre todo si tus familiares se oponen a tus planes. Tu enfoque actual se centra en hacer avanzar tu carrera o atender ambiciones personales, pero puede que tengas que cambiar tu horario con tal de atender responsabilidades familiares. Más tarde, Venus en Virgo te anima a guardar un secreto.
+Últimamente sientes que las decisiones que has tomado no han sido las más acertadas pero todo se puede arreglar. 
+Como si, por momentos, no fueras capaz de encontrar salida a tus preocupaciones, a todo ese estrés mental, a ese círculo en el que te has metido solo. Una de tus amistades o tu pareja podrían ser muy generosas con sus halagos y ánimos, lo que podría aumentar tu confianza sobre el camino que has elegido. Por otro lado, el vital Marte en tu signo se vuelve retrógrado el martes y permanece así hasta el 27 de $MES, lo que podría brindarte la oportunidad de revisar tus planes. Si bien por lo general las fases retrógradas tienen mala fama, esta puede ser la oportunidad para hacer cambios fundamentales que allanen el camino que tienes por delante. Tal vez lo más inteligente sea no comenzar cualquier proyecto importante hasta que el animado Mercurio avance nuevamente, ya que un cambio de opinión o las circunstancias podrían echar tus planes por tierra. 
+El miércoles, la luna llena en Capricornio y en un sector más recluido de tu carta podría animarte a resolver una cuestión que te preocupa desde hace un tiempo. Hacerlo podría darte un tremendo alivio. Por último, el ingreso del conversador Mercurio a tu sector de relaciones puede ayudarte con negociaciones e importantes discusiones.
 
 ## Dinero
 
-Estás en medio de un replanteamiento serio cuando se trata de gastar. Puede que te estés preguntando cómo proteger a tu familia a largo plazo, lo que te podría llevar a considerar la contratación de un asesor financiero u otro experto. Otros miembros de tu tribu pueden tener ideas sorprendentemente buenas acerca de cómo ahorrar e invertir para un futuro compartido. Escucha.
+Este es un período importante para ti porque la expansión y la suerte a menudo se combinan con ideas repentinas y creativas. Esto indica una época de gran fortuna cuando se trata de atraer a personas y oportunidades hacia ti. Tu energía es magnética ahora. Úsala a tu ventaja al realizar llamadas, aplicar para puestos de trabajo, y al usar tus conexiones sociales para conocer gente nueva e interesante. Hay posibilidades de que surja una maravillosa colaboración.

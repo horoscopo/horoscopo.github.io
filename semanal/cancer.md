@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 06 de julio 2020 al 12 de julio 2020 
-description: Horóscopo semanal cancer 06 de julio 2020 al 12 de julio 2020. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: cancer 13 de julio 2020 al 19 de julio 2020 
+description: Horóscopo semanal cancer 13 de julio 2020 al 19 de julio 2020. No desaproveches las oportunidades más cancer, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-06'
+ lastmod: '2020-07-13'
 ---
 
 
 
-## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capri, por qué te lo callas y te lo llevas callando tanto tiempo? 
+## No desaproveches las oportunidades más cancer, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida pececito. No le debes ninguna explicación a nadie.
 
-Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida cancer, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo cancer, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti. Definitivamente deberías considerar tomarte un descanso y hacer algo que te guste. Y si crees que tu tiempo está demasiado ocupado para el romance, es posible que tengas que reconsiderar esa opinión. El muy optimista aspecto del martes podría deslumbrarte con un encuentro especial. ¿Llegará a algo? ¡Eso depende de ti! Sin embargo, debido a que Marte retrocede en tu signo a partir del domingo, sería mejor no precipitarte a nada. Toma cada día como venga y ver cómo se desarrolla la relación.
+Sólo tú puedes salvar tu vida cancer. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú cancer. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas. Puede que sientas que tus familiares te presionan para tomar un curso de acción que te molesta. Un toque de diplomacia puede ayudar a inclinar más la balanza a tu gusto. Puede que te percates de que los retrasos empiezan a desaparecer con bastante rapidez cuando Mercurio comienza a avanzar, permitiéndote seguir adelante con planes y proyectos que han estado en un segundo plano. Si te surge un intuitivo presentimiento para ir a alguna parte o conectar con alguien durante el fin de semana, escúchalo. Podría valer la pena.
 
 ## Dinero
 
-Estás a punto de tomar ventaja de algunas nuevas oportunidades en el trabajo y los negocios. El Universo destaca tu sector que rige el dinero y los valores, por lo que no sólo vas a ser capaz de ganar más, sino que también lo usarás racionalmente. Esto puede significar que inviertas en tu futuro mediante la financiación de un nuevo negocio, o encuentres un millón de nuevas formas de recaudar más dinero.
+Este periodo es acerca de los aspectos armoniosos trayéndole amor a tu vida hogareña y permitiendo que los sentimientos y recuerdos cálidos emerjan. Al mismo tiempo, se te recomienda abrirte a ellos y tal vez incluso utilizarlos en tu trabajo. Deja que tu imaginación vuele y puede que te percates de que tienes grandes ideas para generar más dinero.

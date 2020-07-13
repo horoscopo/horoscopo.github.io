@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 06 de julio 2020 al 12 de julio 2020 
-description: Horóscopo semanal sagitario 06 de julio 2020 al 12 de julio 2020. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+title: sagitario 13 de julio 2020 al 19 de julio 2020 
+description: Horóscopo semanal sagitario 13 de julio 2020 al 19 de julio 2020. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-06'
+ lastmod: '2020-07-13'
 ---
 
 
 
-## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 
-Quieres sonreír cuando pase el tiempo y sobretodo no quedarte con las ganas por no haber hecho lo que sentías. No te encierres en lo que debes o no debes hacer sagitario, ahora simplemente fluye… Con la vida, con tus amigos, con tu gente, con los que quieres… 
-porque así es como la vida te acaba compensando con nuevas bienvenidas. Si ciertas personas han estado incumpliendo promesas y esquivando responsabilidades, las cosas podrían cambiar a medida que Mercurio comienza a girar hacia adelante a partir del lunes. Puede que experimentes una sensación de alivio cuando las cosas vuelvan a la normalidad. Y con Venus ahora moviéndose a través de Capricornio, la actitud de cierta persona hacia ti podría parecer mucho más dulce y más considerada de lo que ha sido por un tiempo. Es posible que desees concretar una cita para el sábado, la que podría ayudarte a revivir la chispa de la pasión. El domingo, ¡una noticia podría sorprenderte!
+Para alcanzar la felicidad, TÚ FELICIDAD, 
+y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible… Aunque te gustaría dejar tus responsabilidades a un lado y tomarte tiempo de descanso, puede que todavía no sea posible. Sin embargo, esto no es razón para que dejes de soñar. Con un agradable vínculo entre el expansivo Júpiter y el inquieto Urano, podrías evaluar la posibilidad de tomarte unas vacaciones que te ofrezcan un cambio de panorama. Puede que insistas en que no tienes tiempo, pero si delegas tus tareas a otra persona, podrías darte cuenta de que eres capaz de hacerlo después de todo.
 
 ## Dinero
 
-Estás trabajando duro para saldar tus deudas para poder disfrutar de una mejor calidad de vida. Ponte en contacto mediante llamadas telefónicas y cartas a las empresas a las que les debes dinero con el fin de organizar planes realistas de pago. Al mismo tiempo, gasta algo en tu familia, pareja romántica y actividades creativas. El balance debe ser mantenido.
+Es posible que sientas un urgencia grave esta semana - de viajar, aprender algo nuevo, de hacer una amistad en el extranjero, o hablar un nuevo idioma. Cada uno de estos tiene una ventaja única para tu vida monetaria en el futuro, así que vale la pena checar qué es lo que te parece más interesante. Puede que no puedas resistirte a hacerlo de todas maneras ya que tu vida social podría bajar de ritmo lo suficiente para que puedas hacer estas cosas.

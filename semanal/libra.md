@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 06 de julio 2020 al 12 de julio 2020 
-description: Horóscopo semanal libra 06 de julio 2020 al 12 de julio 2020. Tienes que plantarte libra, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+title: libra 13 de julio 2020 al 19 de julio 2020 
+description: Horóscopo semanal libra 13 de julio 2020 al 19 de julio 2020. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. libra, esta semana has de cerrar algunos ciclos de verdad.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-06'
+ lastmod: '2020-07-13'
 ---
 
 
 
-## Tienes que plantarte libra, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. libra, esta semana has de cerrar algunos ciclos de verdad.
 
-Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí libra, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor. Podría haber un problema que hace que sientas tensión o nervios, cuestión que puede coincidir con la fusión del fogoso Marte y el práctico Saturno. Esto podría relacionarse con una experiencia del pasado o con algo que estás atravesando. Sin embargo, lo que marca la diferencia es cómo lidias con ello. Intenta no sentirte culpable por esto. En lugar de esto, considera analizar la cuestión con otras personas para que te brinden su opinión. 
-Un extraño ángulo entre Saturno y el conversador Mercurio retrógrado sugiere que, tal vez, no quieras compartirlo todo. Sin embargo, podrías descubrir que analizar las cuestiones más delicadas con alguien de tu absoluta confianza puede aliviarte y, al mismo tiempo, darte soluciones. La presencia del dulce Venus en tu sector hogareño te anima activamente a cuidar de tu persona. Descansa mucho, come bien y disfruta de darte algunos gustos. Independientemente de lo que estés trabajando en tu interior, intenta ser gentil con tu persona.  
+El mundo puede esperar libra, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate libra, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada. Cuando el innovador Urano se acerca a tu sector de comunicación, puede que quieras agregar más tecnología a tu hogar si esto significa simplificar tu vida. Comprar una nueva computadora o la última versión de tu teléfono o tableta puede ser muy satisfactorio. Y puede que también quieras dar el salto hacia tener dispositivos tecnológicos que gestionen parte de los asuntos del hogar o la familia. 
+El sol está en tu sector de recreación durante la mayor parte de la semana, y esta podría ser la inspiradora fuerza detrás de algunas creativas obras de arte. Disfruta de esta etapa y aprovéchala al máximo. Antes del fin de semana, cuando el sol ingresa a Leo y a tu sector de estilo de vida, podrías sentir una mayor inspiración que te ayude a terminar las tareas y el trabajo antes de cualquier fecha límite. La concreción de tus metas puede subir algunos escalones en la escala de prioridades. El fin de semana también trae consigo la posibilidad de un maravilloso viaje que te deja con una sensación de extrema alegría.
 
 ## Dinero
 
-Hay un poco de tensión en el aire esta semana. La actividad en tu sector de dinero y valores indica que es el momento de determinar si la forma en la que actualmente ganas dinero está funcionando para ti, si no, este aspecto insta enérgica acción hacia una mejor solución. No lo dejes al azar o asumas que alguien más lo hará por ti. La vida puede ser de la manera que quieres que sea.
+Tienes una situación interesante en tus manos esta semana. Se te está pidiendo prestar más atención a cómo te ves, actúas y te proyectar hacia el mundo. Esto es especialmente importante si estás buscando un nuevo trabajo o simplemente quieres cambiar tu imagen en tu empleo actual.
