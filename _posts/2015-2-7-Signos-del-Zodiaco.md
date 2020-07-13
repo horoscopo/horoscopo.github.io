@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de julio 2020
-description: Horóscopos del dia de hoy 12 de julio 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de julio 2020
+description: Horóscopos del dia de hoy 13 de julio 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-07-12
+ lastmod: 2020-07-13
 ---
-Pocos hacen lo que los demás esperan bajo la Luna Llena en Acuario de hoy. La vida trae consigo rareza y sorpresa. En una nota positiva, Venus regresa a Leo, pudiendo darle a alguien una excusa para volver. Sin embargo, no podrán reanudar la relación donde la dejaron - ya que ambos cambiaron durante el intermedio.
+Aunque en un principio podrías pensar que no es así, algo de lo que te enteras es en realidad una buena noticia. Prepárate para meterte de lleno en cierto asunto o saltarle a una buena oportunidad mientras Marte aspecte a Urano hoy. Esta noche, cierta persona te recuerda a alguien del pasado. Venus conjuntando a Plutón te advierte que serías prudente al tratar de recordar reacciones anteriores.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
