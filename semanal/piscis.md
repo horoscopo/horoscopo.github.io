@@ -7,7 +7,7 @@ home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: $VIDEO
+ video: iIGW3AwMM10
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1

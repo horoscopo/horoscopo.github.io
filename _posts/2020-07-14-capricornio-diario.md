@@ -9,7 +9,7 @@ redirect_from: /p/capricornio.html
 keywords: capricornio,horoscopo,horoscopo capricornio julio 2020,horoscopo capricornio hoy,tarot capricornio julio 2020,horoscopo capricornio,tarot capricornio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy capricornio,horoscopo diario del tarot, Horoscopo de hoy capricornio 14 de julio del 2020,horóscopo del día
 horoscopo:
  signo: capricornio
- video: g_VIh3NkXjc
+ video: iIGW3AwMM10
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1

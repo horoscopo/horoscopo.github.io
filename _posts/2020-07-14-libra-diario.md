@@ -9,7 +9,7 @@ redirect_from: /p/libra.html
 keywords: libra,horoscopo,horoscopo libra julio 2020,horoscopo libra hoy,tarot libra julio 2020,horoscopo libra,tarot libra hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy libra,horoscopo diario del tarot, Horoscopo de hoy libra 14 de julio del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: libra
- video: g_VIh3NkXjc
+ video: iIGW3AwMM10
 ogimg: /images/libra_char.png
 sitemap:
  priority: 1
