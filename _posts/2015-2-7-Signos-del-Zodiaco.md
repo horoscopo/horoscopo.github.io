@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de julio 2020
-description: Horóscopos del dia de hoy 16 de julio 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de julio 2020
+description: Horóscopos del dia de hoy 17 de julio 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-07-16
+ lastmod: 2020-07-17
 ---
-Tus originales ideas reciben una buena reacción cuando las compartes mientras Mercurio se encuentre en Acuario durante las próximas semanas. Con Júpiter retrógrado, presenta de nuevo aquellos conceptos en los que firmemente crees. Esta noche, escucha a tu intuición mientras la Luna en Cáncer forma trígono con Neptuno. Te dirige hacia la dirección correcta.
+Captura oportunidades de oro cuando el Sol forme sextil con Júpiter. De hecho, también aprovecha el día con confianza y sin esfuerzo. Esta noche, será casi imposible notar ciertas similitudes cuando la Luna forme conjunción con Neptuno, el planeta de las ideas escalofriantes. Podría haber un valioso recordatorio sobre las lecciones aprendidas acerca de la paciencia.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
