@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 13 de julio 2020 al 19 de julio 2020 
-description: Horóscopo semanal acuario 13 de julio 2020 al 19 de julio 2020. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
+title: acuario 20 de julio 2020 al 26 de julio 2020 
+description: Horóscopo semanal acuario 20 de julio 2020 al 26 de julio 2020. Mira acuario, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,17 +12,15 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-13'
+ lastmod: '2020-07-20'
 ---
 
 
 
-## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
+## Mira acuario, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 
-Últimamente sientes que las decisiones que has tomado no han sido las más acertadas pero todo se puede arreglar. 
-Como si, por momentos, no fueras capaz de encontrar salida a tus preocupaciones, a todo ese estrés mental, a ese círculo en el que te has metido solo. Una de tus amistades o tu pareja podrían ser muy generosas con sus halagos y ánimos, lo que podría aumentar tu confianza sobre el camino que has elegido. Por otro lado, el vital Marte en tu signo se vuelve retrógrado el martes y permanece así hasta el 27 de Julio, lo que podría brindarte la oportunidad de revisar tus planes. Si bien por lo general las fases retrógradas tienen mala fama, esta puede ser la oportunidad para hacer cambios fundamentales que allanen el camino que tienes por delante. Tal vez lo más inteligente sea no comenzar cualquier proyecto importante hasta que el animado Mercurio avance nuevamente, ya que un cambio de opinión o las circunstancias podrían echar tus planes por tierra. 
-El miércoles, la luna llena en Capricornio y en un sector más recluido de tu carta podría animarte a resolver una cuestión que te preocupa desde hace un tiempo. Hacerlo podría darte un tremendo alivio. Por último, el ingreso del conversador Mercurio a tu sector de relaciones puede ayudarte con negociaciones e importantes discusiones.
+No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado acuario, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo… Te encanta aprender y enseñar, motivo por el que la disposición planetaria actual es tan buena para ti. Si tienes conocimientos que nadie más tiene, podrías ganar mucho dinero vendiendo estas capacidades. Además, es un buen momento para planificar y, tal vez, ganar una fortuna. Si bien el animado Júpiter en tu sector de comunicación está en su fase retrógrada, no te preocupes. Es mejor comenzar que no molestarse en lo absoluto. Cuando llegue la luna llena el sábado, trata de evitar gastar demasiado.
 
 ## Dinero
 
-Este es un período importante para ti porque la expansión y la suerte a menudo se combinan con ideas repentinas y creativas. Esto indica una época de gran fortuna cuando se trata de atraer a personas y oportunidades hacia ti. Tu energía es magnética ahora. Úsala a tu ventaja al realizar llamadas, aplicar para puestos de trabajo, y al usar tus conexiones sociales para conocer gente nueva e interesante. Hay posibilidades de que surja una maravillosa colaboración.
+Esta semana, el Universo afecta el área de tu carta que rige tu hogar. Es hora de poner no sólo palabras, sino también ideas en práctica. Te has estado sentando en una potencial mina de oro. El llevar tus talentos al Internet significará ventas directas, suscriptores de correo electrónico, y potencialmente clientes para el futuro y a largo plazo.

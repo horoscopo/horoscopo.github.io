@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 13 de julio 2020 al 19 de julio 2020 
-description: Horóscopo semanal libra 13 de julio 2020 al 19 de julio 2020. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. libra, esta semana has de cerrar algunos ciclos de verdad.
+title: libra 20 de julio 2020 al 26 de julio 2020 
+description: Horóscopo semanal libra 20 de julio 2020 al 26 de julio 2020. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-13'
+ lastmod: '2020-07-20'
 ---
 
 
 
-## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. libra, esta semana has de cerrar algunos ciclos de verdad.
+## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 
-El mundo puede esperar libra, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate libra, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada. Cuando el innovador Urano se acerca a tu sector de comunicación, puede que quieras agregar más tecnología a tu hogar si esto significa simplificar tu vida. Comprar una nueva computadora o la última versión de tu teléfono o tableta puede ser muy satisfactorio. Y puede que también quieras dar el salto hacia tener dispositivos tecnológicos que gestionen parte de los asuntos del hogar o la familia. 
-El sol está en tu sector de recreación durante la mayor parte de la semana, y esta podría ser la inspiradora fuerza detrás de algunas creativas obras de arte. Disfruta de esta etapa y aprovéchala al máximo. Antes del fin de semana, cuando el sol ingresa a Leo y a tu sector de estilo de vida, podrías sentir una mayor inspiración que te ayude a terminar las tareas y el trabajo antes de cualquier fecha límite. La concreción de tus metas puede subir algunos escalones en la escala de prioridades. El fin de semana también trae consigo la posibilidad de un maravilloso viaje que te deja con una sensación de extrema alegría.
+En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien libra… A medida que el Sol entra a tu sector de estilo de vida, puede que quieras comenzar ciertas rutinas desde cero para comenzar el año nuevo de manera saludable. Y si todavía no has puesto en práctica ninguna de tus resoluciones de Año Nuevo, no es muy tarde para empezar. La entrada de Marte a un sector más intenso de tu carta astral podría motivarte para que hagas cambios más profundos. Ahora es el momento de cambiar patrones o solucionar problemas que podrían ser un lastre.
 
 ## Dinero
 
-Tienes una situación interesante en tus manos esta semana. Se te está pidiendo prestar más atención a cómo te ves, actúas y te proyectar hacia el mundo. Esto es especialmente importante si estás buscando un nuevo trabajo o simplemente quieres cambiar tu imagen en tu empleo actual.
+Puede que estés en medio de un cambio de vida grande. Puede que en el pasado no te haya importado la forma en la que te dirigías a los demás con tal de avanzar en la escalera corporativa. En este momento, el Universo te está empujando hacia una forma más diplomática pero seria de expresarte. Hay aspectos que realzan tu creatividad, así como a tu familia y la exuberancia. El efectivo viene cuando les muestras de lo que estás hecho/a.

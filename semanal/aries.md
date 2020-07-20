@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 13 de julio 2020 al 19 de julio 2020 
-description: Horóscopo semanal aries 13 de julio 2020 al 19 de julio 2020. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no aries. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+title: aries 20 de julio 2020 al 26 de julio 2020 
+description: Horóscopo semanal aries 20 de julio 2020 al 26 de julio 2020. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar aries porque no eres así. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,14 +12,15 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-13'
+ lastmod: '2020-07-20'
 ---
 
 
 
-## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no aries. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar aries porque no eres así. 
 
-No puedes ser sumiso aries, al final, tus necesidades siempre acaban saliendo a la luz porque no puedes limitarte ni encasillarte con nada. No puedes pasarte la vida sabiendo qué es lo que debes hacer pero sin hacerlo, no puedes pasarte la vida queriendo hacer algo y que al final ese algo sólo se quede en tu cabeza, en tus pensamientos. Tienes que romper con eso. Esta semana céntrate en cumplir cada una de tus metas, trata de hacer lo que te pida el cuerpo sin necesidad de quejarte, piensa en qué es lo que está en tu mano, en qué es lo que tú puedes hacer, y hazlo. No hagas de tu tiempo tiempo perdido, con nada, con nadie… Si no vas a por todo, mejor no vayas. Es uno de tus lemas, pero a veces te olvidas de aplicártelo a ti, y sí, empiezas algo y por unas cosas u otras, no lo acabas. Piensa que así es como te frustras y piensa que es el motivo por el cual te pones de muy mala hostia un día sí y otro también. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo. No te compliques y al lío aries. Ponte en marcha de una vez esta semana, y no pienses en lo que perdiste o en lo que ganaste, piensa en lo que llegará si de verdad te pones las pilas. Parece que tu vida social estará muy agitada en estos momentos. Conectarte con otros te motivará a que conozcas mejor a ciertas personas, ya sea en términos de una relación de negocios o un nuevo romance. También, tal vez sientas ganas de tomar una decisión con respecto a tus proyectos creativos. Si ya has postergado esto por mucho tiempo, esta semana podría ser la mejor para comenzar. Finalmente, una reluciente mezcla de energías a mitad de semana podría ser perfecta para el romance.
+Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad aries, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro. Tanto el trabajo como la diversión tienen prioridad en tu agenda esta semana con el vivaz Marte animándote a exhibir tus mejores habilidades e incursionar en tus pasatiempos preferidos. Las actividades diarias también pueden ser una gran fuente de placer, en especial si estás considerando expandir tus opciones. Una adorable alineación entre el lujurioso Venus y el ostentoso Júpiter sugiere que una reunión podría presentarte una oportunidad demasiado buena como para dejarla pasar. Durante el fin de semana, tener límites firmes pueden ayudar a esquivar cualquier batalla de poder.
 
 ## Dinero
 
+Esta semana se trata de tu dinero y tus valores. Algunos aspectos te traerán suerte y ampliarán tus oportunidades, mientras que otros lograrán un cambio repentino, a veces violento. Si has estado tratando de eliminar ciertas ideas anticuadas con respecto al dinero (o la cantidad que se te permite tener), este es el momento de dejarlas ir. Tu comunicación anda en alto y eso vale la pena.

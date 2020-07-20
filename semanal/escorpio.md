@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 13 de julio 2020 al 19 de julio 2020 
-description: Horóscopo semanal escorpio 13 de julio 2020 al 19 de julio 2020. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+title: escorpio 20 de julio 2020 al 26 de julio 2020 
+description: Horóscopo semanal escorpio 20 de julio 2020 al 26 de julio 2020. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro escorpio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,18 +12,15 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-13'
+ lastmod: '2020-07-20'
 ---
 
 
 
-## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro escorpio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes. Presta atención a las finanzas esta semana, ya que algo que parece una excelente oportunidad podría no serlo. Si una de tus amistades o un colega te anima a que compres una membresía para un gimnasio o club, no aceptes de inmediato. Sería útil revisar bien los términos y condiciones, y descubrir el costo exacto antes de firmar cualquier documento. Lo más probable es que haya una o dos cláusulas ocultas que sumen bastante más de lo que pensabas en términos del precio final. 
-El encantador Venus, tu planeta regente, se opone al poderoso Plutón a través de tu eje de comunicación. Tal vez estés deseando saber noticias de alguien. Y si hace bastante que no ves a esta persona , tus emociones podrían convertirse en una fiebre. La verdad es que tendrás más chances de hablar con ella si no demuestras tantas ganas de hacerlo. Si adoptas un tranquilo y relajado enfoque, puedes lograr resultados positivos.
+Deja que duela escorpio, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser escorpio estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien escorpio pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida escorpio, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien… Gracias al fuerte enfoque en tu sector de rutinas, este podría ser un buen momento para recuperar el orden de tu vida y desarrollar el hábito de la organización tanto como sea posible. Con la Luna Llena desenvolviéndose en Libra, prepárate para uno o dos eventos inesperados que podrían interrumpir tu programa habitual durante el fin de semana. Descartar las actividades menos importantes podría ser lo mejor para ti. El cosmos también sugiere que explores maneras de organizar tus finanzas.
 
 ## Dinero
 
-Podrías estar considerando la forma de lograr realizar viejas esperanzas y sueños. Las amistades, los contactos sociales, las maniobras políticas y los grupos te ayudan a estar un paso adelante y establecerte como experto en tu campo. A medida que expandes tu influencia en estos reinos, haz todo lo posible para preservar las inversiones y propiedades compartidas. Si es necesario, gasta para mantenerlas o mejorarlas hasta que las puedas vender directamente.
+Tienes la oportunidad de aumentar dramáticamente tus habilidades para ganar dinero esta semana si tienes el suficiente cuidado. La advertencia se debe a una confrontación relacionada con tus asuntos monetarios. Tienes un montón de posibilidades para atraer a más, pero también hay una atención a la deuda. Esta lucha no tiene por qué ser fea. En lugar de perder la paciencia y cortar todas las tarjetas de crédito en un ataque de resentimiento, busca un equilibrio entre lo que viene con lo que sale.
