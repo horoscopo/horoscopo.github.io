@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 20 de julio 2020 al 26 de julio 2020 
-description: Horóscopo semanal tauro 20 de julio 2020 al 26 de julio 2020. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+title: tauro 27 de julio 2020 al 02 de agosto 2020 
+description: Horóscopo semanal tauro 27 de julio 2020 al 02 de agosto 2020. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-20'
+ lastmod: '2020-07-27'
 ---
 
 
 
-## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 
-A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
- nada es para siempre, ni siquiera los problemas ni las preocupaciones… La presencia de Marte en tu sector de estilo de vida podría darte ganas de hacer ejercicio más vigorosamente y con más regularidad. Tendrás más energía a tu disposición, por lo que utiliza esto para perder algunas libras si es lo que quieres o simplemente tonifica tus músculos con tal de sentirte mejor con tu cuerpo. Por otro lado, tus relaciones románticas o empresariales son bendecidas por la presencia de Júpiter en Virgo. Durante esta semana y las próximas semanas y meses, verás mejoras y disfrutarás de más oportunidades para colaborar e interactuar.
+Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti tauro. El enfoque en tu misión continúa con la Luna Nueva indicando que ahora puedes comenzar a centrarte en un objetivo clave. Es posible que tengas la opción de aprovechar una oportunidad que parece estar hecha a tu medida. Mientras tanto, el regreso de Venus a tu sector de viajes podría encontrarte desempolvando un plan de viajes y volviéndolo a formular para que se adapte a tu nuevo horario. Una tentadora e inesperada oferta podría hacer que viajes antes de lo esperado.
 
 ## Dinero
 
-Es importante que ésta semana comuniques tus ideas y necesidades lo más claramente posible. Notifica las cosas difíciles en reuniones con mentores y profesores. Mientras más pronto lo hagas, más pronto regresarás a la normalidad. Mientras tanto tus sueños pueden ser un poco borrosos. Tomate el tiempo necesario para enfocarte en tus metas personales y financieras.
+Te encuentras ahora en una situación interesante con cierta actividad en tu sector de vidas pasadas, sueños e instituciones. Puede que sientas que tu vida laboral no está haciendo todo lo posible por ti. Puede que tengas más suerte trabajando para una entidad mayor. Gracias a tu sector de grupos, tus amistades te conectarán a una nueva compañía con más capacidad de pagarte lo que vales. Sueña en grande.

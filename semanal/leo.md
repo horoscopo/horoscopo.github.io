@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 20 de julio 2020 al 26 de julio 2020 
-description: Horóscopo semanal leo 20 de julio 2020 al 26 de julio 2020. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+title: leo 27 de julio 2020 al 02 de agosto 2020 
+description: Horóscopo semanal leo 27 de julio 2020 al 02 de agosto 2020. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-20'
+ lastmod: '2020-07-27'
 ---
 
 
 
-## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto leo? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito leo. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA. La Luna Nueva en tu sector de estilo de vida podría motivarte para que veas cómo se está desenvolviendo tu vida actual. ¿Será que es momento de hacer un cambio? La mezcla actual de energías sugiere que lo es. Si empiezas con los asuntos de salud y bienestar, puede que vayas por un camino más optimista. Además, puede que debas hacerle unos ajustes a un plan que significa mucho para ti a nivel personal antes de comenzar.
+Es mejor reflexionar que lamentar leo. Siempre. 
+Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así leo, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie. Un encuentro o evento social podría tener un profundo efecto en tu vida, y puede ser un momento crucial. Debido a esto, puedes tomar una decisión clave o quizás decidas seguir un nuevo camino que podría resultar especialmente fructífero. Más tarde, cuando el Sol ingrese a un sector más aislado y espiritual de tu carta astral, entrarás a una fase en la que será de ayuda tomarte un tiempo para estar a solas. Durante las próximas cuatro semanas, reflexionar en silencio puede ser particularmente gratificante.
 
 ## Dinero
 
-Las obras creativas y la acción se unen ahora. Esto va a cambiar la forma en la que conectas con grupos sociales, y es posible que empiece a hacerte pensar en cómo trabajar por cuenta propia en un futuro próximo. Este aspecto afirme que tus ideas son sólidas. Todo lo que necesitas es el coraje para hacer esta transición y ver a través de ella. El dinero viene cuando le das seguimiento a lo que has tenido la suerte de crear.
+Tu lugar de trabajo está lleno de acción con ciertos cambios que vienen desde arriba. Algunos de estos son de rutina, mientras que otros parecen positivamente revolucionarios. En lugar de instalarte en la necedad, trata de seguirle la corriente al flujo de la energía dominante. Podrías percatarte de que personalmente puedes beneficiarte en el plano financiero. Esto, a su vez, te da acceso a todo tipo de información que puede ayudarte a mejorar tu vida profesional.

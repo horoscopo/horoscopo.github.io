@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 20 de julio 2020 al 26 de julio 2020 
-description: Horóscopo semanal virgo 20 de julio 2020 al 26 de julio 2020. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+title: virgo 27 de julio 2020 al 02 de agosto 2020 
+description: Horóscopo semanal virgo 27 de julio 2020 al 02 de agosto 2020. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-20'
+ lastmod: '2020-07-27'
 ---
 
 
 
-## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
 
-Por fin has tomado decisiones, y además decisiones que te benefician, 
-por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez. Marte, tu planeta personal, ingresa a Piscis y a un sector más alejado de tu carta astral, por lo cual podrías comenzar a dirigir tu enfoque hacia ti. Esto quizá no sea tan malo. Con algunos aspectos cruciales a la vista que fomentan un cambio positivo en tu vida, si das un paso atrás puedes aprovecharlo al máximo, especialmente si usas este momento para evaluar tus prioridades. Mercurio se vuelve retrógrado el 21 de Julio, así que evita comprometerte con asuntos legales o cualquier asunto que implique invertir grandes cantidades de dinero.
+Hace mucho tiempo que no te das un buen capricho virgo, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes virgo. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo. Podrían avecinarse nuevas aventuras, especialmente después del eclipse solar de la semana pasada en tu sector de viajes y exploración. Puede que todavía estés considerando tus opciones; en este caso, tal vez tenga algo que ver con la baja autoestima. Superarlo puede ser la clave para obtener nuevas oportunidades y mayor libertad. Además, el animado Marte en tu sector de hogar y familia hace que esta sea una de las mejores etapas para poner a punto tu casa y terminar esos proyectos DIY que dejaste en el tintero hace algún tiempo. 
+ Cuando el atractivo Venus conecta con el generoso Júpiter, el fin de semana luce muy prometedor en términos de la vida social y amorosa. Sin importar lo que hagas, pasarás un maravilloso momento. Además, cuando el iluminador sol ingresa a tu sector de carrera y ambición el domingo, las próximas semanas pueden darte la oportunidad de ser el centro de atención y de disfrutarlo.
 
 ## Dinero
 
-Puede que encuentres que será mejor ser paciente en lugar de avanzar en las metas financieras de esta semana. Los aspectos afectan a la educación superior y los viajes, así como tu trabajo de todos los días. Estas dos áreas no están trabajando bien juntas, por lo que no es un buen momento para insistir en tomar tiempo libre para estudiar o viajar, o hacer caso omiso de tu educación para hacer lo que siempre haces. Comprométete.
+El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.

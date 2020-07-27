@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 20 de julio 2020 al 26 de julio 2020 
-description: Horóscopo semanal piscis 20 de julio 2020 al 26 de julio 2020. Esta semana no te reniegues piscis, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
+title: piscis 27 de julio 2020 al 02 de agosto 2020 
+description: Horóscopo semanal piscis 27 de julio 2020 al 02 de agosto 2020. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-20'
+ lastmod: '2020-07-27'
 ---
 
 
 
-## Esta semana no te reniegues piscis, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
+## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón piscis, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas. El deseo de alejarse de todo podría aumentar en gran medida esta semana, cuando el sol en tu sector de viajes se dirige al eléctrico Urano en tu sector de trabajo y rutina. Podrías sentir demasiada intranquilidad por completar todos tus proyectos. Sería útil encontrar una forma de canalizar esta energía para aumentar la productividad. Alejarse de todo también hace maravillas. Aun así, las aventuras relacionadas con los viajes podrían demorarse cuando el inquisitivo Mercurio se vuelve retrógrado en tu sector de lejanos horizontes el 25 de Julio. Dado que esta fase durará alrededor de tres semanas, puede que lo mejor sea verificar cualquier reservación y asegurarte de que tengas todo lo necesario antes de viajar. 
-El eclipse lunar en tu sector de comunicación conecta con el vital Marte el viernes. Como resultado de esto, podrías recibir un empujón cósmico para aumentar la proactividad en tu localidad.
+Se avecinan cosas nuevas piscis, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar piscis, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin piscis, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche… Tendrás que tener un poco de cuidado esta semana, especialmente si estás discutiendo asuntos importantes. Existe la posibilidad de que haya un malentendido. Afortunadamente, tu sexto sentido te hará saber en cuales personas puedes confiar y en cuales no, así que asegúrate de hacer uso de él. Si tu dieta y rutina regular de ejercicio han sufrido últimamente, podrías tener ansias de explorar otras opciones cuando el Sol entre a Acuario el miércoles. Este sábado, ¡evita excederte al comer!
 
 ## Dinero
 
-Puede que tus ideas sean increíblemente creativas ahora, especialmente en lo que se refiere a cualquier tipo de comunicación. ¡Podrías estar sintiendo suficiente inspiración como para escribir un libro sobre tus experiencias y encontrar que prácticamente se escribe sólo! Estás siendo divinamente guiado/a ahora y sólo hay que asegurarse de que estés durmiendo lo suficiente, comiendo y tomando la suficiente agua.  Y mientras que estás creando tu obra maestra, es doblemente importante que dejes tiempo para las cosas prácticas.
+Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.
