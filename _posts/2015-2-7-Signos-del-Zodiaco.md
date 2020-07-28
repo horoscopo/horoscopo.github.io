@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de julio 2020
-description: Horóscopos del dia de hoy 27 de julio 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de julio 2020
+description: Horóscopos del dia de hoy 28 de julio 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-07-27
+ lastmod: 2020-07-28
 ---
-Las noticias vuelan cuando Mercurio forma sextil con Urano. Pequeñas sorpresas - algunas bastante agradables - abundan. Esta noche, los solteros no se apresuran a involucrarse a pesar de que parecían estar interesados en un primer momento bajo la Luna fuera de órbita en el indeciso Libra. ¡Recobren el tema más tarde! Por su parte, aquellos en pareja serían prudentes al esperar un mejor momento para hacer preguntas profundas.
+Todos ponen sus propias agendas primero bajo la Luna en Aries. La salida es tomar caminos separados y reunirse más tarde en lugar de discutir sobre ello. Esta noche, el Eclipse Lunar borra los recuerdos de aquello de lo que la gente huye o hacia dónde se dirige. ¡Deja de vivir en el pasado y permítete tener nuevos intereses y desafíos!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
