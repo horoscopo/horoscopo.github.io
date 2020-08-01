@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 31 de julio 2020
-description: Horóscopos del dia de hoy 31 de julio 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de agosto 2020
+description: Horóscopos del dia de hoy 01 de agosto 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-07-31
+ lastmod: 2020-08-01
 ---
-Es un nuevo día en el que presumes lo que tienes y lo haces de una manera más brillante y más audaz. Si hay algo que todos debemos hacer hoy es encargarnos de situaciones sin resolver con Mercurio a punto de cambiar de signo. Esta noche, la tensión entra eléctricamente a la escena cuando la Luna cuadra a Marte.
+¿Fue la locura de ayer demasiado para ti? Puedes apegarte a tu posición y aun así mantener la calma cuando la Luna en Tauro mantiene las cosas constantes. Un ritmo más lento al de ayer es agradable. Esta noche, mira profundamente los ojos de alguien y lee sus buenos sentimientos y pensamientos cuando la Luna aspecta a Júpiter y Neptuno.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
