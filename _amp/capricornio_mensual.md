@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo capricornio julio 2020 
+title: Horoscopo capricornio agosto 2020 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
@@ -14,7 +14,4 @@ sitemap:
 ---
 
 
-La conjunción entre el sol y Mercurio el 1 de julio te permite divertirte más y ser una persona más traviesa que nunca. La luna nueva del día 15 consiste en socializar. Ve a un concierto en un gran escenario y baila con locura. Relaciónate con la multitud y con personas mayores, más jóvenes y de entornos diferentes. Descubrirás que tienen mucho en común. Además, Mercurio se torna directo ese día. Cobra impulso. Si has querido adoptar a un animal, la luna llena del 29 de julio podría traerte la mascota perfecta. O haz un cambio agradable en tu rutina diaria, sé mucho más feliz y siéntete más a gusto. 
-
-Días destacados: 14, 18, 23
-Días desafiantes: 4, 25
+Amor y romance surgen naturalmente con la luna llena del 1 de agosto. No eres el tipo de pareja mediocre. No. Tú eres el eje que hace girar la rueda del amor, y el amor depende de ti. El día 4, el sol forma una conjunción con Neptuno en Piscis. Esto podría hacer que una fantasía romántica sea irresistible. Durante la luna nueva del 17 de agosto, celebra un nuevo más brillante y valiente tú. Tal vez piensas que eres la misma persona, pero la gente se dará cuenta y te valorará más. Debes apreciar esto y estar a la altura de las circunstancias. Durante la luna llena, y luna azul, del último día del mes, sé la persona arbitraria o mediadora entre gente que discute. Será fácil.

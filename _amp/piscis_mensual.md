@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo piscis julio 2020 
+title: Horoscopo piscis agosto 2020 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
@@ -14,9 +14,7 @@ sitemap:
 ---
 
 
-La luna nueva del 7 de julio podría traerte dinero o algo tangible de gran valor. Tal vez no pueda ser medido en dinero instantáneo, pero la oportunidad de hacer que suceda pronto ya está ahí. 
-El día 9, Venus forma un trígono con Marte, y el amor podría volverse más fácil de sentir, pero no será más fácil de compartir o expresar. El 16 de julio, Venus al fin se torna directo justo antes de que Mercurio se torne retrógrado. Habla con cuidado, si es que hablas. Tal vez sea una buena idea simplemente escuchar. 
-Cuando la luna llena llega el 22 de julio, tu mente podría estar de aquí para allá, pero intenta limitar las reacciones bruscas. Que tu interés y curiosidad deambulen libremente, y verás las cosas nuevas que puedes descubrir y aprender. Cualquier sentimiento de inquietud será efímero, y puede que simplemente encuentres una nueva pasión o interés intelectual. 
-Venus forma una oposición con Urano el día 30. Puede que un sorprendente interés romántico no tenga una recepción cálida al principio. 
-Días destacados: 6, 9, 16
-Días desafiantes: 20, 28
+Que siga la fiesta durante la luna nueva del 15 de agosto. Actúa con cuidado y delicadeza sin dejar de divertirte con el grupo. El tiempo es breve, y tal vez no llegues a hacer todo lo que quieres, pero puedes intentarlo. Venus entra a Cáncer el día 19. Prepárate para una explosión de popularidad. La gente te verá como una persona más atractiva, sin importar cómo te sientas. Alrededor de la luna llena del 29 de agosto, pasar tiempo con otros podría resultar ser la mejor forma de cuidar de ti. Ten introspección, pero no te salgas de vista y te aísles. Está bien no ser una persona hiperactiva. 
+
+Días destacados: 7, 18, 27
+Días desafiantes: 5, 24

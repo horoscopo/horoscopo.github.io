@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo libra julio 2020
-description: El Horóscopo julio de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo libra agosto 2020
+description: El Horóscopo agosto de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo libra julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo libra agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: g_VIh3NkXjc
@@ -16,8 +16,10 @@ sitemap:
 ---
 
 
-Después de semanas de estar en una búsqueda interior, estás de vuelta en tu elemento. Tu regente, Venus, está en su casa de Aries, y está listo para ponerse en marcha. Pero primero, mientras julio comienza, tómate el tiempo para enfocarte en el panorama completo, aclarar tus objetivos a largo plazo, y dejar atrás aquellos que superaste. Luego, cuando la luna nueva en Capricornio y el eclipse se alinean el 5 de julio, puedes avanzar con una renovada razón de ser y una nueva dirección. 
-Hay oportunidades tentadoras en el horizonte, y habrá algunos vaivenes y altibajos, pero no pierdas de vista el premio y apunta a la victoria. 
-El día 20, la luna llena en Leo y el eclipse lunar iluminan un deseo profundo, lo que te invita a correr riesgos. Deshazte de todo aquello que piensas que significa tener éxito, y podrás descubrir el verdadero sentido del éxito: la libertad de ser quien eres, y que te aprecien por ello. Los dioses, diosas y poderes superiores te están sonriendo. Atrévete a ser una persona auténtica. Ten más fe en ti, y darás en el blanco. 
-Días destacados: 18, 22, 25 
-Días desafiantes: 8, 11, 21 
+Apuesta todo con la luna nueva del 7 de agosto. Tienes poder y recursos que la mayoría de la gente no puede ni imaginar, y que nadie más siquiera puede ver. Escoge algo significativo y bueno, y hazlo. 
+Venus forma un trígono con Marte el día 9. El amor puede verse fortalecido, pero aún está oculto. 
+El 15 de agosto, Marte entra a Piscis. Puede que ahora te resulte más fácil leer a las personas. Venus se torna retrógrado y Mercurio se torna directo al día siguiente. Sé paciente con un amor que puede estar teniendo dificultades para expresarse con claridad. 
+La gente podría poner tus nervios de punta durante la luna llena del día 22, pero no tiene por qué ser así. Tienes inteligencia y recursos que otros no tienen, y tal vez hay unos celos pasivo-agresivos dirigidos hacia ti. No dejes que nada ni nadie te amenace. Siéntete en calma y seguridad. 
+Mercurio forma una cuadratura con Marte el 26 de agosto. Puede que necesites comenzar algo más de una vez. 
+Días destacados:5, 15, 16
+Días desafiantes: 12, 19

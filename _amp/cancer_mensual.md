@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo cancer julio 2020 
+title: Horoscopo cancer agosto 2020 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El 1 de julio puede ser un día muy emocional debido al Sol formando trígono con Neptuno. Sé consciente de cualquier grande sueño o expectativa que sea poco razonable. Las tensiones sociales deberían suavizarse con la llegada de la Luna Llena del 14 de julio. Relájate, siente más comodidad con tus nuevos conocidos y rodéate de algunas de tus de cosas más preferidas. Ordena lo que más te gusta del menú (respetando tu presupuesto, por supuesto) y olvídate de las apariencias. La Luna Nueva del 29 de julio te anima a ponerte en primer lugar. Come bien, descansa, ten una vida activa y una rutina saludable. Después, salta a tus asuntos familiares y sociales. Es posible que hasta la gente te diga lo bien que te ves. 
+La Luna Nueva del 4 de agosto está llena de diversión, amigos y familia. Si tienes planes para ese fin de semana, olvídate de cualquier tipo de rutina. Disfruta de los preparativos y participa en las festividades. Con tanta gente involucrada, no habrá mucho qué hacer para ti. La Luna Llena del 19 de agosto emana su luz en un cambio o situación de la que sabes pero que no has reconocido plenamente. Haz mejoras graduales y ve cómo tu vida diaria se vuelve más fácil. Urano se torna retrógrado el viernes 29 de agosto. Todavía habrá un sentimiento de travesura en el aire, pero puede que se vuelva más sutil y menos emocionante. No te desanimes.

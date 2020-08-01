@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo geminis julio 2020
-description: El Horóscopo julio de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo geminis agosto 2020
+description: El Horóscopo agosto de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo geminis julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo geminis agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: g_VIh3NkXjc
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-En la primera semana del mes, trabaja duro y haz que se sienta como algo divertido. Incluso si no te estás divirtiendo completamente haciéndolo, tus jefes y compañeros de trabajo querrán darte más oportunidades. Podrás salir adelante en el marco de la Luna Llena del 3 de julio. Y además, podrías darle los toques finales a algo grande y hermoso en tu hogar alrededor de la Luna Nueva del 17 de julio. Si un proyecto o problema ha estado desafiándote al persistir, ahora tienes el fuego y la energía para encargarte de él. El 29 de julio podrás ver el valor del impacto de algo y decidir si realmente tiene valor para ti.
+El sol forma una cuadratura con Júpiter el 6 de agosto. Si tus generosos impulsos son pasados por alto o incomprendidos, déjalo pasar. Que la luna nueva y eclipse solar del 11 de agosto amplíen tu mundo. Alguna reprobación o barrera puede bloquear tus caminos hacia la aventura, pero hay varias propuestas para satisfacer tus sueños y amor por la aventura. Mercurio se torna estacionario directo el día 18. Quizás no puedas desenredar de inmediato el nudo que causó la fase retrógrada, pero todo se enderezará. Tal vez quieras pasar menos tiempo en casa durante la luna llena del 26 de agosto. Puede que estén sucediendo muchas cosas contigo o tu familia, que se resolverán solas si les das tiempo; alternativamente, puede que quizás quieras intervenir y expresarte. Al día siguiente, Marte se torna estacionario directo después de haber estado retrógrado desde el 26 de agosto. Marte directo en Capricornio puede querer que te enfoques primero en asuntos laborales y en tus deseos. Ten más ambición. Días destacados: 17, 19, 27Días desafiantes: 4, 10</div>

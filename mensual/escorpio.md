@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo escorpio julio 2020
-description: El Horóscopo julio de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo escorpio agosto 2020
+description: El Horóscopo agosto de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo escorpio julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo escorpio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: g_VIh3NkXjc
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-La cuadratura entre la Luna y Mercurio del 8 de julio podría hacerte dudar una decisión anterior. Nunca está de más comprobar en caso de que algo haya cambiado. Tu carrera y presencia pública son destacadas bajo la Luna Llena del 13 de julio. Si tu oficina o interacciones con clientes requieren de un poco más de alegría y atención, te habrás preparado para ello. Expón tu lado creativo con la Luna Nueva del 28 de julio. Tus obligaciones serán cumplidas, las festividades estarán bajo control y tú te mereces algo de diversión sólo para ti. Prueba algo fuera de lo común y no te preocupes por cómo resulta. Para variar, haz lo que te haga intensamente feliz.
+Serás la estrella más brillante en tu carrera o trabajo bajo la Luna Llena del 8 de agosto. Esto atraerá mucha atención positiva y más cooperación. Quizás tus amistades o familia se sientan intranquilos sobre lo mucho que te destacas, pero eso pasará. La Luna Nueva del 23 de agosto te pone en el centro de tu escenario social o actividades en comunidad. Prepárate para que la gente te admire y te trate como la persona experta que eres. Ahora puedes darle aliento a mucha gente. Venus ingresa a Cáncer el 31 de agosto. Considera embellecer tu hogar y quizás organiza una cena con invitados. 
