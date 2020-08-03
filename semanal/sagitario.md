@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 27 de julio 2020 al 02 de agosto 2020 
-description: Horóscopo semanal sagitario 27 de julio 2020 al 02 de agosto 2020. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos sagitario. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+title: sagitario 03 de agosto 2020 al 09 de agosto 2020 
+description: Horóscopo semanal sagitario 03 de agosto 2020 al 09 de agosto 2020. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,15 +12,18 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-27'
+ lastmod: '2020-08-03'
 ---
 
 
 
-## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos sagitario. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 
-Por fin vas a finalizar ciclos sagitario, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse sagitario, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres sagitario joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien sagitario. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana sagitario, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida… Decides darle a alguien el beneficio de la duda, lo cual es algo bueno, ya que esta persona puede ayudarte a salir de una difícil situación. Todo lo que das vuelve a ti esta semana de una manera muy práctica. En cuanto a finanzas, sin embargo, es mejor que actualices tu presupuesto. Ganas más dinero, pero también gastas más y esto es algo que debes tener en cuenta.
+Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección sagitario, y ahora puedes elegir lo que quieras. Deja que tu intuición te guíe, en especial durante la primera parte de la semana. Cuando el expresivo Mercurio forma un positivo aspecto con el animado Júpiter y el etéreo Neptuno el martes, hay una energía mística en el aire que puedes aprovechar. Deja que te guíe tu sabiduría innata; podrías cosechar los frutos y, tal vez, ahorrar tiempo y dinero. 
+La positiva conexión del sol con el vital Marte en tu sector de comunicación el martes sugiere que el trabajo en equipo podría ser la mejor manera de abordar un proyecto clave, y que la mitad de semana es el mejor momento para comenzar. Si tienes un objetivo claro en mente, podrías tener mucho éxito. 
+El viernes, podrías estar a punto de ayudar en una celebración familiar o de ofrecer tu oído si alguien necesita hablar. 
+El viernes o sábado, podrías experimentar un problema de flujo de dinero temporal. Piensa en ahorrar algo de dinero, por si acaso.
 
 ## Dinero
 
-Esta semana tienes actividad en tu sector de dinero y valores, trayendo de vuelta una habilidad del pasado cuando se trata de ganar dinero en efectivo. Otros aspectos afectan tu sector de deuda o el dinero de otros. Si necesitas mejorar tu calificación de crédito, pide un poco de dinero prestado de una institución de dinero o banco y págalo antes del tiempo estimado.
+Puede que esta semana tengas la tentación de ampliar tus esfuerzos de ganar dinero, los cuales incluyen la escritura, el Internet y la creación de contenidos. Pero puede ser que una parte de ti sienta atracción a educación adicional para que puedas cobrar más por tus servicios. Ya que tu principal trabajo cae en medio de esto, no dejes que sea la cosa que sufra. La atención cuidadosa a los detalles te permitirá lograr todo lo que quieras y más.

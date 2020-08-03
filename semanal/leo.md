@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 27 de julio 2020 al 02 de agosto 2020 
-description: Horóscopo semanal leo 27 de julio 2020 al 02 de agosto 2020. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+title: leo 03 de agosto 2020 al 09 de agosto 2020 
+description: Horóscopo semanal leo 03 de agosto 2020 al 09 de agosto 2020. Tienes que plantarte leo, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-27'
+ lastmod: '2020-08-03'
 ---
 
 
 
-## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+## Tienes que plantarte leo, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
 
-Es mejor reflexionar que lamentar leo. Siempre. 
-Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así leo, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie. Un encuentro o evento social podría tener un profundo efecto en tu vida, y puede ser un momento crucial. Debido a esto, puedes tomar una decisión clave o quizás decidas seguir un nuevo camino que podría resultar especialmente fructífero. Más tarde, cuando el Sol ingrese a un sector más aislado y espiritual de tu carta astral, entrarás a una fase en la que será de ayuda tomarte un tiempo para estar a solas. Durante las próximas cuatro semanas, reflexionar en silencio puede ser particularmente gratificante.
+Tienes que tener claro que en este mundo no estamos para gustar a todos, o quizás gustas a todos, pero el problema es que hay mucha envidia cerca aunque no siempre seas capaz de verla… 
+Aprende a marcharte leo… Sin complicaciones… Lo mejor sería tomar cierto tema con paciencia a pesar de que tu instinto sea darte prisa. Te beneficiarás de abordar las cuestiones financieras lentamente y de manera eficiente, sobre todo si estás en busca de fondos para iniciar un proyecto o negocio. Ve los inevitables retrasos con humor y todo se resolverá por si solo gradualmente. Es posible que sientas más motivación a probar nuevas rutinas de dieta o ejercicio cuando Marte entre a Sagitario el sábado. Hazlo. Comenzar ahora te garantizará el mejor resultado posible.
 
 ## Dinero
 
-Tu lugar de trabajo está lleno de acción con ciertos cambios que vienen desde arriba. Algunos de estos son de rutina, mientras que otros parecen positivamente revolucionarios. En lugar de instalarte en la necedad, trata de seguirle la corriente al flujo de la energía dominante. Podrías percatarte de que personalmente puedes beneficiarte en el plano financiero. Esto, a su vez, te da acceso a todo tipo de información que puede ayudarte a mejorar tu vida profesional.
+Puede que estés pensando en hacer un cambio de carrera. Ciertos aspectos en tu sector del hogar y emociones internas te dan un poco de inquietud desde el interior. Podrías darte cuenta de que preferirías estar haciendo otra cosa para ganarte la vida. Primero que nada, paga cualquier deuda que tengas y luego comienza tu investigación.

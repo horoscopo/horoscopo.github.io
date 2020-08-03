@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 27 de julio 2020 al 02 de agosto 2020 
-description: Horóscopo semanal piscis 27 de julio 2020 al 02 de agosto 2020. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: piscis 03 de agosto 2020 al 09 de agosto 2020 
+description: Horóscopo semanal piscis 03 de agosto 2020 al 09 de agosto 2020. Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-27'
+ lastmod: '2020-08-03'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## Es difícil comprenderte Capri, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 
-Se avecinan cosas nuevas piscis, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar piscis, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin piscis, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche… Tendrás que tener un poco de cuidado esta semana, especialmente si estás discutiendo asuntos importantes. Existe la posibilidad de que haya un malentendido. Afortunadamente, tu sexto sentido te hará saber en cuales personas puedes confiar y en cuales no, así que asegúrate de hacer uso de él. Si tu dieta y rutina regular de ejercicio han sufrido últimamente, podrías tener ansias de explorar otras opciones cuando el Sol entre a Acuario el miércoles. Este sábado, ¡evita excederte al comer!
+Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
+Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás… Puede que la comida y la cocina sean algo que disfrutes hacer en casa mientras Venus se encuentre en el afectuoso signo de Tauro y en tu sector de familia. De hecho, puede que esto sea la excusa perfecta para invitar a todas tus amistades y disfrutar recibirlos a todos. También hay otras opciones placenteras, ya que te pueden atraer distintas actividades culturales, especialmente exposiciones, conciertos o cualquier otra cosa que despierte tu creatividad. Júpiter comienza a avanzar esta semana, cuando una amistad puede evolucionar hacia algo más.
 
 ## Dinero
 
-Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.
+Esta semana es acerca de los aspectos que afectan a tu sector de deuda y el dinero de otros. Tu carrera está afectando a este sector también. Sin embargo, puede que se te ponga a prueba en el sector de amistades u otros grupos. Tales son simplemente inestables y pueden ser de apoyo un día, pero no al siguiente. Es mejor ir en solitario hasta que puedas encontrar gente en quién puedas confiar.

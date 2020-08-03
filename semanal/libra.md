@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 27 de julio 2020 al 02 de agosto 2020 
-description: Horóscopo semanal libra 27 de julio 2020 al 02 de agosto 2020. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+title: libra 03 de agosto 2020 al 09 de agosto 2020 
+description: Horóscopo semanal libra 03 de agosto 2020 al 09 de agosto 2020. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,17 +12,15 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-07-27'
+ lastmod: '2020-08-03'
 ---
 
 
 
-## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
-Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
-como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale. Tus asuntos monetarios se vislumbran dinámicos y podrían permanecer así si te dispones a planear tu éxito. Con ese fin, el Eclipse Solar que está a punto de manifestarse esta semana podría animarte a salirte de tu zona de confort. Pero no tienes que hacerlo todo a la vez - ¡dar pasos pequeños te funcionaría bien! Incluso podrías descubrir que alguien te pagaría por una habilidad que realmente no has sabido apreciar. Marte en tu signo podría darte mucha determinación para hacer realidad tus sueños.
+Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena. Puede que esta semana te ocupes con tareas administrativas y otros trámites. Si tu oficina se ha vuelto un poco desorganizada, podrías sentir motivación a crear un sistema nuevo y más eficiente. Podrías descubrir lo liberador que es el poder administrar tu tiempo, tachar todo de tu lista de tareas pendientes y progresar satisfactoriamente. Aun así, el impulso de gastar también podría verte saliendo al centro comercial o tu tienda favorita con tal de aprovechar las gangas de temporada.
 
 ## Dinero
 
-Cierta actividad en tu sector de dinero recibido corresponde a un tiempo de golpes de suerte en tal sector. Los sueños y flashes psíquicos te pueden dar todo tipo de mensajes acerca de cómo ganar más dinero. No los descartes, ya que contienen la sabiduría que requieres. Es fundamental ser realista y no idealista en cuanto a tu dinero.
+Esta semana se trata de las configuraciones celestes creando mucha tensión para ti. Se inicia en tu sector de expresión personal y autoestima, lo que indica la necesidad de abordar la forma en la que uno se proyecte al mundo. Puedes ser quien quieras ser ahora.
