@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 03 de agosto 2020 al 09 de agosto 2020 
-description: Horóscopo semanal libra 03 de agosto 2020 al 09 de agosto 2020. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+title: libra 10 de agosto 2020 al 16 de agosto 2020 
+description: Horóscopo semanal libra 10 de agosto 2020 al 16 de agosto 2020. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-03'
+ lastmod: '2020-08-10'
 ---
 
 
 
-## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 
-Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena. Puede que esta semana te ocupes con tareas administrativas y otros trámites. Si tu oficina se ha vuelto un poco desorganizada, podrías sentir motivación a crear un sistema nuevo y más eficiente. Podrías descubrir lo liberador que es el poder administrar tu tiempo, tachar todo de tu lista de tareas pendientes y progresar satisfactoriamente. Aun así, el impulso de gastar también podría verte saliendo al centro comercial o tu tienda favorita con tal de aprovechar las gangas de temporada.
+No más paciencia libra. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres libra, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana libra. Tu vida puede adquirir un enfoque más profundo que te anime a mirar por debajo de la superficie, en especial si debes resolver problemas que necesitan una perspectiva profunda. Este período de cuatro semanas también podría mejorar tu vida amorosa y animarte a evaluar tus finanzas en relación con los préstamos, las hipotecas, las inversiones y demás. También podrías sentirte culpable por haber decepcionado a alguien, pero si no puedes evitarlo, una explicación diplomática puede ser de ayuda. El deseo de tomar vacaciones o de hacer un viaje corto podría ser muy fuerte.
 
 ## Dinero
 
-Esta semana se trata de las configuraciones celestes creando mucha tensión para ti. Se inicia en tu sector de expresión personal y autoestima, lo que indica la necesidad de abordar la forma en la que uno se proyecte al mundo. Puedes ser quien quieras ser ahora.
+Estás buscando la manera de correr la voz acerca de tus maravillosos productos y servicios, pero la publicidad es demasiado cara. Las redes sociales pueden ayudar. El Universo le ofrece soluciones creativas a la cuestión expuesta y te da todo lo que necesitas para darte a conocer al mundo. A partir de ahí, es un corto viaje a la riqueza.

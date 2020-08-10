@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 03 de agosto 2020 al 09 de agosto 2020 
-description: Horóscopo semanal geminis 03 de agosto 2020 al 09 de agosto 2020. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: geminis 10 de agosto 2020 al 16 de agosto 2020 
+description: Horóscopo semanal geminis 10 de agosto 2020 al 16 de agosto 2020. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida geminis. Ahora brillas así que, aprovecha. Aprovecha todo.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,15 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-03'
+ lastmod: '2020-08-10'
 ---
 
 
 
-## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida geminis. Ahora brillas así que, aprovecha. Aprovecha todo.
 
-No es que estés cambiando geminis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a… Podrías volver a viejo terreno nuevamente a medida que Saturno se vuelve retrógrado el miércoles. Debido a que esta fase durará algunos meses, el progreso podría retrasarse. Sin embargo, hacer el trabajo necesario ahora y crear una estructura sólida para un mayor desarrollo pueden garantizar el éxito futuro. Mercurio también se vuelve retrógrado esta semana, de modo que recuerda hacer una copia de seguridad en tu computadora y tener cuidado al cerrar tratos clave. ¡La Luna Llena que se desenvuelve durante el fin de semana puede ser excelente para salir de fiesta!
+Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
+ sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán. A partir del martes, puede que te resulte más sencillo analizar cuestiones importantes con tu pareja o con otras personas cercanas a ti. El ingreso del conversador Mercurio a tu sector de relaciones ese día puede ayudarte a conectar con tus sentimientos y a expresarlos con más facilidad. Tener importantes conversaciones puede conducir a ese importante logro que has estado esperando. 
+La luna nueva en tu sector de estilo de vida del miércoles podría establecer un nuevo ritmo en cuanto a un proyecto clave o tal vez tu trabajo. Si tienes ganas de iniciar algo, definitivamente es el momento de hacerlo. Y si estás a punto de hacer cambios en tu rutina de bienestar, ahora también es el momento para hacerlo. El mismo día, el atractivo Venus ingresa a Leo y a un sector más sensible de tu carta. Su presencia allí puede aportar una chispa a tu vida sexual y reavivar la llama del romance. Por último, mantén la mente abierta el fin de semana. Esto podría hacer que la vida sea más sencilla.
 
 ## Dinero
 
-No siempre se te conoce por tu sutileza, y esta semana no es diferente. Tus habilidades comunicativas y estilo personal pueden ser poco convencionales, por lo que bájale un poco al tono si estás tratando de dar una buena primera impresión. Estás pensando en cómo hacer que tu carrera sea un poco más independiente y menos centrada en la oficina. Muéstreles que pueden confiar en ti y que eres capaz de hacerlo bien.
+Estás a punto de tomar ventaja de nuevas oportunidades. Tus energías masculinas y femeninas están trabajando en conjunto, lo que tiene un efecto positivo en tu balance final. Tus inversiones y propiedad compartida pueden requerir alguna acción de tu parte. Espera unos días antes de firmar cualquier documento o convenio. Tú y tu pareja deben de estar en la misma frecuencia.

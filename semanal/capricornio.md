@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 03 de agosto 2020 al 09 de agosto 2020 
-description: Horóscopo semanal capricornio 03 de agosto 2020 al 09 de agosto 2020. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+title: capricornio 10 de agosto 2020 al 16 de agosto 2020 
+description: Horóscopo semanal capricornio 10 de agosto 2020 al 16 de agosto 2020. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-03'
+ lastmod: '2020-08-10'
 ---
 
 
 
-## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace capricornio… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas capricornio, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate. Quizás se te pida que voluntariamente otorgues de tus servicios con la bondad de tu corazón. La generosa mezcla de energías de esta semana te podía poner al centro de actividades vinculadas a campañas comunitarias o de caridad con el fin de ayudar a personas vulnerables. Por otro lado, salirte de tu zona de confort podría hacer surgir ideas creativas que podrían resultarte útiles para un proyecto artístico. Finalmente, Marte avanzando en tu signo comenzará a aumentar tu motivación y vitalidad.
+Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
+Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento. Podrías sentir como si te jalaran hacia dos direcciones diferentes, sobre todo si tienes ansias por invertirle recursos a una nueva idea empresarial. Otros planes o proyectos podrían afectar tu capacidad para seguir adelante. Es posible que tengas que elegir entre ambos si te es imposible manejar ambas opciones a la vez. Esta semana, todavía hay un intenso enfoque en las relaciones, y con esta siendo la semana del Día de San Valentín, la pasión podría crecer dentro de una relación. Sin embargo, los días más románticamente intensos podrían ser los de principios de semana.
 
 ## Dinero
 
-Es una gran semana para ti. Una gran cantidad de energía te rodea, y ahora podrás atraer lo que quieres y necesitas. En cuanto a dinero, vas en la dirección correcta y habrá más comunicación al respecto. Los aspectos demuestran que tu deuda actual está en descenso, gracias a tu esfuerzo diligente y la planificación. ¡Buen trabajo!
+La buena noticia es que tienes actividad en tu sector de rutina diaria de trabajo, lo que puede aportar muchas nuevas oportunidades para expandir tu presencia o hacer que tu trabajo destaque. El Universo tiende a cambiar las cosas, pero a veces las cambia de nuevo con la misma rapidez. Muévete rápido para aprovechar los dones que se te proveen. Mientras tanto, lo mejor es cooperar en el trabajo para que nadie pierda los estribos.

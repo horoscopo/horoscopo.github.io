@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 03 de agosto 2020 al 09 de agosto 2020 
-description: Horóscopo semanal tauro 03 de agosto 2020 al 09 de agosto 2020. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: tauro 10 de agosto 2020 al 16 de agosto 2020 
+description: Horóscopo semanal tauro 10 de agosto 2020 al 16 de agosto 2020. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar tauro, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-03'
+ lastmod: '2020-08-10'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar tauro, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 
-Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar. Puede que no sea ninguna sorpresa que cierta relación esté al rojo vivo en este momento, sobre todo a principios de semana, con el enlace entre Venus y Marte insinuando candentes sesiones en la cama. También aprenderás mucho de los demás, especialmente en relación a monitorear tus reacciones en situaciones clave. Las personas que actualmente te rodean pueden enseñarte mucho acerca de lo que es importante para ti y dónde podrías requerir de un cambio de actitud. Por último, la entrada de Venus a Libra alude a la posibilidad de acuerdos lucrativos.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega tauro. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda. Los horizontes lejanos te atraen con la maravillosa Luna Nueva de principios de semana llamándote a lanzarte a nuevas aventuras. Este podría ser un momento en el que decidas tomar una clase, viajar o incluso trabajar o retirarte en el extranjero. Lo que podría impedirte dar ese primer paso sería el deseo de aferrarte al pasado. Sin embargo, nada permanecerá igual. La necesidad que sientes de avanzar y asumir nuevos retos es una que debes considerar muy seriamente.
 
 ## Dinero
 
-¡Vas con todo esta semana! Esto proporciona una gran explosión de energía destinada a mejorar tu publicidad para atraer a nuevos compradores o esfuerzos de ganar dinero, como iniciar un nuevo negocio. Si estás buscando una nueva posición, primero pregunta sobre el salario para que no te decepciones después de haber hecho la entrevista. Un aspecto inarmónico podría significar que la familia y el romance se ponen en segundo plano durante un tiempo.
+Este período es acerca de los aspectos que afectan a tu sector del matrimonio y las relaciones serias. Asegúrate de que tu calendario y contactos estén actualizados. Con el fin de hacer más dinero, tendrás que contactar a estas personas regularmente. Planea almuerzos, cenas y horas felices para establecer redes de contacto. Tu cuenta bancaria, como tu ego, te lo agradecerán más tarde.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 03 de agosto 2020 al 09 de agosto 2020 
-description: Horóscopo semanal leo 03 de agosto 2020 al 09 de agosto 2020. Tienes que plantarte leo, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+title: leo 10 de agosto 2020 al 16 de agosto 2020 
+description: Horóscopo semanal leo 10 de agosto 2020 al 16 de agosto 2020. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-03'
+ lastmod: '2020-08-10'
 ---
 
 
 
-## Tienes que plantarte leo, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 
-Tienes que tener claro que en este mundo no estamos para gustar a todos, o quizás gustas a todos, pero el problema es que hay mucha envidia cerca aunque no siempre seas capaz de verla… 
-Aprende a marcharte leo… Sin complicaciones… Lo mejor sería tomar cierto tema con paciencia a pesar de que tu instinto sea darte prisa. Te beneficiarás de abordar las cuestiones financieras lentamente y de manera eficiente, sobre todo si estás en busca de fondos para iniciar un proyecto o negocio. Ve los inevitables retrasos con humor y todo se resolverá por si solo gradualmente. Es posible que sientas más motivación a probar nuevas rutinas de dieta o ejercicio cuando Marte entre a Sagitario el sábado. Hazlo. Comenzar ahora te garantizará el mejor resultado posible.
+Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
+ aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos. El meditativo enfoque en un sector aislado de tu carta continúa, animándote a hacerle frente a cualquier problema personal que te haya estado drenando desde hace algún tiempo. Los días de entre semana podrían ser decisivos al animarte a hacer una elección entre aferrarte a viejos patrones o finalmente dejarlos ir. La Luna Llena se manifiesta en tu sector de ocio y placer, por lo que ten cuidado si te encuentras cayendo en enamoramiento. Asegúrate de conocer a la persona mejor antes de llevar las cosas más lejos.
 
 ## Dinero
 
-Puede que estés pensando en hacer un cambio de carrera. Ciertos aspectos en tu sector del hogar y emociones internas te dan un poco de inquietud desde el interior. Podrías darte cuenta de que preferirías estar haciendo otra cosa para ganarte la vida. Primero que nada, paga cualquier deuda que tengas y luego comienza tu investigación.
+Podría parecer que tu vida monetaria va hacia atrás en lugar de avanzar hacia delante. Ciertas influencias parecen restringir y limitar lo que viene, pero puede que esto sea sólo una ilusión. Considera tener un poco más de madurez y responsabilidad.  Esto significa que probablemente tengas que determinar de una vez por todas lo que significa el dinero en tu vida. ¿Sientes comodidad con el dinero que ganas, o  necesitas más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.

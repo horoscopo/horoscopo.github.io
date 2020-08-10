@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 03 de agosto 2020 al 09 de agosto 2020 
-description: Horóscopo semanal sagitario 03 de agosto 2020 al 09 de agosto 2020. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: sagitario 10 de agosto 2020 al 16 de agosto 2020 
+description: Horóscopo semanal sagitario 10 de agosto 2020 al 16 de agosto 2020. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,18 +12,15 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-03'
+ lastmod: '2020-08-10'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 
-Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección sagitario, y ahora puedes elegir lo que quieras. Deja que tu intuición te guíe, en especial durante la primera parte de la semana. Cuando el expresivo Mercurio forma un positivo aspecto con el animado Júpiter y el etéreo Neptuno el martes, hay una energía mística en el aire que puedes aprovechar. Deja que te guíe tu sabiduría innata; podrías cosechar los frutos y, tal vez, ahorrar tiempo y dinero. 
-La positiva conexión del sol con el vital Marte en tu sector de comunicación el martes sugiere que el trabajo en equipo podría ser la mejor manera de abordar un proyecto clave, y que la mitad de semana es el mejor momento para comenzar. Si tienes un objetivo claro en mente, podrías tener mucho éxito. 
-El viernes, podrías estar a punto de ayudar en una celebración familiar o de ofrecer tu oído si alguien necesita hablar. 
-El viernes o sábado, podrías experimentar un problema de flujo de dinero temporal. Piensa en ahorrar algo de dinero, por si acaso.
+A veces te confundes sagitario, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso sagitario. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. sagitario, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo sagitario, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza. Puede que te des cuenta de que te llevas mucho mejor con cierta persona, quizá porque comparten una pasión o un interés. Tener esto en común puede alentarte a que se conviertan en buenos amigos por un largo tiempo. Al mismo tiempo, otro enfoque fundamental podría motivarte para ayudar a otras personas y apoyar a quienes lo necesiten. Sin embargo, no te excedas con este plan si ya tienes muchos asuntos personales pendientes. Saber cuándo poner el freno te puede ayudar a conservar tu energía.
 
 ## Dinero
 
-Puede que esta semana tengas la tentación de ampliar tus esfuerzos de ganar dinero, los cuales incluyen la escritura, el Internet y la creación de contenidos. Pero puede ser que una parte de ti sienta atracción a educación adicional para que puedas cobrar más por tus servicios. Ya que tu principal trabajo cae en medio de esto, no dejes que sea la cosa que sufra. La atención cuidadosa a los detalles te permitirá lograr todo lo que quieras y más.
+Es una semana un poco difícil. Probablemente quieres tomar medidas, sobre todo cuando se trata de gastar en tu casa. Sin embargo, los aspectos restringen tal para tu disgusto. El hacer las cosas de la manera más tradicional o conservadora trae los mejores resultados cuando se trata de la línea de fondo. Es probable que el presionar demasiado fuerte para lo que quieres sea rechazado por las energías más fuertes.
