@@ -10,5 +10,4 @@ sitemap:
  changefreq: 'daily'
  lastmod: 2020-08-13
 ---
-Halloween de sábado por la noche cierra el mes con broche de oro. Y con Mercurio encontrándose a punto de salir de Libra, ¡es difícil decidir a qué fiesta asistir! Ponte tu disfraz y sal a divertirte. Sin embargo, los solteros deber recordar que más allá de los disfraces, las apariencias realmente engañan. 
-¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
+¡Agárrate! El día de hoy es como una montaña rusa de altas y bajas mientras la Luna cuadra a Urano, el planeta del cambio. Y el aspecto añadido por la Luna y Saturno la hace una experiencia de aprendizaje. Las lecciones extremadamente personales de esta noche podrían tratarse sobre el control de los sentimientos. Los solteros, sobre todo, deben hacen uso de esta noción.
