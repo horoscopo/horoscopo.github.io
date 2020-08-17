@@ -9,7 +9,7 @@ redirect_from: /p/piscis.html
 keywords: piscis,horoscopo,horoscopo piscis agosto 2020,horoscopo piscis hoy,tarot piscis agosto 2020,horoscopo piscis,tarot piscis hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy piscis,horoscopo diario del tarot, Horoscopo de hoy piscis 17 de agosto del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: piscis
- video: 15iwRMb4ryg
+ video: P0tnT6z3gZo
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1
