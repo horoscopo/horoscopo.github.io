@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
 title: escorpio 17 de agosto 2020 al 23 de agosto 2020 
-description: Horóscopo semanal escorpio 17 de agosto 2020 al 23 de agosto 2020. Dedícate la semana a ti Cangrejo, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+description: Horóscopo semanal escorpio 17 de agosto 2020 al 23 de agosto 2020. Dedícate la semana a ti Escorpio, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -17,7 +17,7 @@ sitemap:
 
 
 
-## Dedícate la semana a ti Cangrejo, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+## Dedícate la semana a ti Escorpio, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 
 Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
  No lo has pasado del todo bien pero empiezas a renacer escorpio. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado. Este mes podría ser bastante intenso en más de un aspecto, en especial cuando el conversador Mercurio permanece en un sector profundamente emocional de tu carta durante algún tiempo. Su presencia aquí podría fomentar tu curiosidad sobre el funcionamiento más profundo de tu subconsciente y qué puede significar esto para ti.Al mismo tiempo, el hermoso Venus ingresa a Virgo y a tu sector de viajes y exploración el lunes, lo que puede traer una aventura amorosa y agregar un poco de chispa a una relación actual. 
