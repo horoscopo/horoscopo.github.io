@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 10 de agosto 2020 al 16 de agosto 2020 
-description: Horóscopo semanal tauro 10 de agosto 2020 al 16 de agosto 2020. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar tauro, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: tauro 17 de agosto 2020 al 23 de agosto 2020 
+description: Horóscopo semanal tauro 17 de agosto 2020 al 23 de agosto 2020. Semana intensa tauro, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-10'
+ lastmod: '2020-08-17'
 ---
 
 
 
-## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar tauro, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+## Semana intensa tauro, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 
-Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega tauro. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda. Los horizontes lejanos te atraen con la maravillosa Luna Nueva de principios de semana llamándote a lanzarte a nuevas aventuras. Este podría ser un momento en el que decidas tomar una clase, viajar o incluso trabajar o retirarte en el extranjero. Lo que podría impedirte dar ese primer paso sería el deseo de aferrarte al pasado. Sin embargo, nada permanecerá igual. La necesidad que sientes de avanzar y asumir nuevos retos es una que debes considerar muy seriamente.
+A veces quieres llegar al fondo de cualquier cosa tauro, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo tauro. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a tauro, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona tauro así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie. Es posible que tu mente esté cautivada con todo tipo de aventuras y oportunidades. A pesar de ello, trata de no dejarte llevar demasiado por la emoción. Con Marte en Aries y en tu sector de viajes y exploración, puede que no sea fácil apegarte a un plan o idea debido a que el aburrimiento podría invadirte con bastante rapidez. Sin embargo, si vas a llegar a alguna parte en lo absoluto, tendrás que tomar una decisión y apegarte a ella. Tal vez no tendrás tanta tentación a abandonar el barco si involucras a otros en tus planes.
 
 ## Dinero
 
-Este período es acerca de los aspectos que afectan a tu sector del matrimonio y las relaciones serias. Asegúrate de que tu calendario y contactos estén actualizados. Con el fin de hacer más dinero, tendrás que contactar a estas personas regularmente. Planea almuerzos, cenas y horas felices para establecer redes de contacto. Tu cuenta bancaria, como tu ego, te lo agradecerán más tarde.
+Es posible que tu trabajo cambie a lo largo de los próximos meses. La expansión de oportunidades indica un buen momento para cambiar de trabajo si has tenido esa intención, o hacer de tu trabajo existente uno más lucrativo. Puedes incluso tomar medidas para hacer que tu lugar de trabajo sea más favorable a tus necesidades mediante la negociación de horarios flexibles o beneficios adicionales. Hacer un plan concreto para pagar tu deuda aumenta tu tranquilidad.

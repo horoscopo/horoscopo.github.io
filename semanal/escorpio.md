@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 10 de agosto 2020 al 16 de agosto 2020 
-description: Horóscopo semanal escorpio 10 de agosto 2020 al 16 de agosto 2020. Esta semana relájate un poco escorpio, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: escorpio 17 de agosto 2020 al 23 de agosto 2020 
+description: Horóscopo semanal escorpio 17 de agosto 2020 al 23 de agosto 2020. Dedícate la semana a ti Cangrejo, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,15 +12,17 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-10'
+ lastmod: '2020-08-17'
 ---
 
 
 
-## Esta semana relájate un poco escorpio, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## Dedícate la semana a ti Cangrejo, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 
-Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas escorpio. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva escorpio. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien escorpio, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo. Las influencias actuales podrían empujarte a alcanzar una meta que requiere encanto al igual que persistencia. Ahora el cosmos puede darte ambas cualidades, aunque el apoyo de tus amistades puede ser lo que te motive para seguir. Pero puede haber grandes ganancias si sigues tu plan sin importar qué tan difícil sea. Es posible que tengas plena conciencia del panorama completo, pero los detalles son más importantes en este momento.
+Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
+ No lo has pasado del todo bien pero empiezas a renacer escorpio. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado. Este mes podría ser bastante intenso en más de un aspecto, en especial cuando el conversador Mercurio permanece en un sector profundamente emocional de tu carta durante algún tiempo. Su presencia aquí podría fomentar tu curiosidad sobre el funcionamiento más profundo de tu subconsciente y qué puede significar esto para ti.Al mismo tiempo, el hermoso Venus ingresa a Virgo y a tu sector de viajes y exploración el lunes, lo que puede traer una aventura amorosa y agregar un poco de chispa a una relación actual. 
+Sin embargo, puede que las relaciones atraviesen cambios durante este mes debido al eclipse solar en Cáncer y en tu sector de relaciones. Como esto conectará con el poderoso Plutón en tu signo, quizá debas cambiar tu enfoque o actitud para que tu relación pueda crecer y desarrollarse de forma positiva. Si no puedes hacerlo, existe la posibilidad de que la conexión termine.
 
 ## Dinero
 
-Esta semana se te está pidiendo asumir una mayor responsabilidad en tus relaciones personales o profesionales. No les des una atención a medias. De verdad intenta hacerles sentir su valor. Entre semana se destaca la labor de día tras día. Puede que el dinero sea temporalmente inestable, pero estás recibiendo muy buenas ideas sobre cómo hacer más. ¡Anótalas!
+Tienes una calidad de ideas y de ensueño que es muy atractiva para los demás en este momento. Sin embargo, ten cuidado con parecer como que saliste de un cuento de hadas o con parecer excesivamente intelectual. Puede que tu mensaje no sea entendido por las cabezas de algunas personas que necesites a bordo en tus planes personales y económicos. Al mismo tiempo, un aspecto de apoyo muestra que eres maestro/a por naturaleza. Considera cómo puedes compartir tus conocimientos con los demás por algo extra de dinero.

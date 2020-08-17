@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 10 de agosto 2020 al 16 de agosto 2020 
-description: Horóscopo semanal leo 10 de agosto 2020 al 16 de agosto 2020. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+title: leo 17 de agosto 2020 al 23 de agosto 2020 
+description: Horóscopo semanal leo 17 de agosto 2020 al 23 de agosto 2020. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda leo, pero sé constante.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-10'
+ lastmod: '2020-08-17'
 ---
 
 
 
-## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda leo, pero sé constante.
 
-Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
- aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos. El meditativo enfoque en un sector aislado de tu carta continúa, animándote a hacerle frente a cualquier problema personal que te haya estado drenando desde hace algún tiempo. Los días de entre semana podrían ser decisivos al animarte a hacer una elección entre aferrarte a viejos patrones o finalmente dejarlos ir. La Luna Llena se manifiesta en tu sector de ocio y placer, por lo que ten cuidado si te encuentras cayendo en enamoramiento. Asegúrate de conocer a la persona mejor antes de llevar las cosas más lejos.
+Abre los ojos de una vez leo. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas leo, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero leo, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también leo. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. leo por favor, te tenían que tener en un altar… Y lo sabes… Aunque estés exhibiendo tus mejores cualidades en tu trabajo, la incompetencia de alguien podría echar a perder tu turno bajo los reflectores. Perturbadoras e inquietantes influencias podrían causar malentendidos, citas perdidas y mensajes confusos. Si quieres algo hecho esta semana, lo mejor sería encargarte de ello personalmente. Dejárselo a los demás podría arruinar tu reputación. Aunque haya muchas oportunidades románticas abiertas para ti, elige con cuidado. Alguien podría aprovecharse de tu buena y generosa voluntad.
 
 ## Dinero
 
-Podría parecer que tu vida monetaria va hacia atrás en lugar de avanzar hacia delante. Ciertas influencias parecen restringir y limitar lo que viene, pero puede que esto sea sólo una ilusión. Considera tener un poco más de madurez y responsabilidad.  Esto significa que probablemente tengas que determinar de una vez por todas lo que significa el dinero en tu vida. ¿Sientes comodidad con el dinero que ganas, o  necesitas más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.
+Lo más importante ahora no es cuánto tienes, sino la calidad de tu vida a medida que estudias la forma de hacer algunos cambios importantes. El amor y el afecto se unen a la acción y al tino para ayudarte a participar en actividades creativas como proyectos de escritura, cine, radio y televisión. Si secretamente has abrigado el deseo de participar en esto, toma una clase o un seminario.

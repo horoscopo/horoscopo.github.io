@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 10 de agosto 2020 al 16 de agosto 2020 
-description: Horóscopo semanal libra 10 de agosto 2020 al 16 de agosto 2020. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: libra 17 de agosto 2020 al 23 de agosto 2020 
+description: Horóscopo semanal libra 17 de agosto 2020 al 23 de agosto 2020. Vienen emociones fuertes libra, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-10'
+ lastmod: '2020-08-17'
 ---
 
 
 
-## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+## Vienen emociones fuertes libra, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 
-No más paciencia libra. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres libra, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana libra. Tu vida puede adquirir un enfoque más profundo que te anime a mirar por debajo de la superficie, en especial si debes resolver problemas que necesitan una perspectiva profunda. Este período de cuatro semanas también podría mejorar tu vida amorosa y animarte a evaluar tus finanzas en relación con los préstamos, las hipotecas, las inversiones y demás. También podrías sentirte culpable por haber decepcionado a alguien, pero si no puedes evitarlo, una explicación diplomática puede ser de ayuda. El deseo de tomar vacaciones o de hacer un viaje corto podría ser muy fuerte.
+Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca libra. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder libra pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias libra, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo. La idea del cambio podría interesarte, pero no sucederá a nada menos que hagas algo al respecto. Un importante enfoque en un área sensible de tu carta puede hacer que conectes con sentimientos que han estado enterrados durante algún tiempo. Esto puede animarte a que los proceses. Sin embargo, no te apresures demasiado. Lo mejor es adoptar un enfoque gentil. Por otro lado, con el encantador Venus dirigiéndose hacia el vital Marte, el deseo de apurar una relación romántica podría no ser beneficioso. Puede que lo mejor sea ir con la corriente.
 
 ## Dinero
 
-Estás buscando la manera de correr la voz acerca de tus maravillosos productos y servicios, pero la publicidad es demasiado cara. Las redes sociales pueden ayudar. El Universo le ofrece soluciones creativas a la cuestión expuesta y te da todo lo que necesitas para darte a conocer al mundo. A partir de ahí, es un corto viaje a la riqueza.
+Esta semana puedes estar tratando de encontrar una manera de obtener tu rebanada de pastel y comértela también. Tu mente está trabajando horas extras para sacarte de cualquier obligación financiera que puedas tener, y el Universo te ayuda a llevar esto al siguiente nivel. Asegúrate de volver a revisar todas las cifras antes de firmar cualquier cosa.

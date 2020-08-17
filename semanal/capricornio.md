@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 10 de agosto 2020 al 16 de agosto 2020 
-description: Horóscopo semanal capricornio 10 de agosto 2020 al 16 de agosto 2020. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+title: capricornio 17 de agosto 2020 al 23 de agosto 2020 
+description: Horóscopo semanal capricornio 17 de agosto 2020 al 23 de agosto 2020. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-10'
+ lastmod: '2020-08-17'
 ---
 
 
 
-## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 
-Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
-Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento. Podrías sentir como si te jalaran hacia dos direcciones diferentes, sobre todo si tienes ansias por invertirle recursos a una nueva idea empresarial. Otros planes o proyectos podrían afectar tu capacidad para seguir adelante. Es posible que tengas que elegir entre ambos si te es imposible manejar ambas opciones a la vez. Esta semana, todavía hay un intenso enfoque en las relaciones, y con esta siendo la semana del Día de San Valentín, la pasión podría crecer dentro de una relación. Sin embargo, los días más románticamente intensos podrían ser los de principios de semana.
+Fíate de ti mismo capricornio, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando capricornio y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes. Puede que en la primera semana del nuevo año pases más tiempo libre con tu familia, tus amistades o quizá con la persona que te interesa últimamente. Y con el romántico Venus paseándose por Piscis y tu casa de diversión y juegos, este podría ser el momento ideal para revivir una relación amorosa. ¿Por tu cuenta? Puede que te atraiga una persona un tanto misteriosa. Este puede ser el momento perfecto para llegar a conocerla.
 
 ## Dinero
 
-La buena noticia es que tienes actividad en tu sector de rutina diaria de trabajo, lo que puede aportar muchas nuevas oportunidades para expandir tu presencia o hacer que tu trabajo destaque. El Universo tiende a cambiar las cosas, pero a veces las cambia de nuevo con la misma rapidez. Muévete rápido para aprovechar los dones que se te proveen. Mientras tanto, lo mejor es cooperar en el trabajo para que nadie pierda los estribos.
+Te estás preparando para hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Una energía madura y  sensible entra a tu sector del trabajo. Mientras más puedas aprender a aceptar las responsabilidades y demostrar que los demás pueden contar contigo, más recompensa económica vendrá. No te alejes de lo que podría hacerte avanzar potencialmente.

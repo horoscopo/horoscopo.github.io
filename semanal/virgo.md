@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 10 de agosto 2020 al 16 de agosto 2020 
-description: Horóscopo semanal virgo 10 de agosto 2020 al 16 de agosto 2020. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+title: virgo 17 de agosto 2020 al 23 de agosto 2020 
+description: Horóscopo semanal virgo 17 de agosto 2020 al 23 de agosto 2020. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana virgo.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-10'
+ lastmod: '2020-08-17'
 ---
 
 
 
-## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana virgo.
 
-Tienes grandes planes virgo, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes virgo, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el virgo de siempre… Esta semana te sentirás mucho más en control de ciertas situaciones y circunstancias. Las semanas por delante pueden ser excelentes para ir tras los planes y proyectos que tienen un significado personal para ti. También es el momento de hacer un balance de tus objetivos, ya que algunos de ellos podrían ya no ser aplicables. Tu rutina podría sufrir interrupciones durante esta semana conforme inesperados eventos podrían entrometerse. Ten esto en mente al dejar suficiente espacio libre en tu agenda. ¡No dejes nada para el último minuto!
+Tu cabeza quiere un cambio virgo, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira virgo, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero virgo por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip. Los asuntos familiares siguen siendo importantes, tal vez con la necesidad de desentrañar una cuestión clave que ha sido molesta recientemente. A mediados de semana, tendrás que hacer algo al respecto a pesar de que podría implicar un grado de conflicto. Tal parece que vas a elegir un cambio en el estatus quo. Por otro lado, cualquier relación problemática podría hacerse más fácil una vez que Saturno comience a avanzar a mitad de semana. Es posible que aún requieras de paciencia, pero te será recompensada.
 
 ## Dinero
 
-Es una semana confusa apara ti. Una energía individualista pero impredecible afectando la zona de la familia, los niños, y el romance indica un momento difícil de equilibrio entre tu trabajo y la vida económica con tu necesidad de relajarte con la gente que amas. Es necesario ajustar la forma de pensar sobre el dinero en tu vida. ¿Tienes que trabajar tanto o puedes reducir un poco con el fin de obtener el descanso que necesitas?
+Es una semana complicada para ti aunque las cosas parezcan estar bien, sobre todo cuando se trata de tu relación. Vas avanzando en tus uniones con los sindicatos profesionales y personales y todo es bueno en ese frente. Sin embargo, los aspectos que afectan a tu carrera hacen que sea difícil ver el bosque por los árboles. Tómate el tiempo necesario para establecer un camino claro hacia tus metas.

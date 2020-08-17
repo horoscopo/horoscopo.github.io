@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 10 de agosto 2020 al 16 de agosto 2020 
-description: Horóscopo semanal aries 10 de agosto 2020 al 16 de agosto 2020. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Aries, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+title: aries 17 de agosto 2020 al 23 de agosto 2020 
+description: Horóscopo semanal aries 17 de agosto 2020 al 23 de agosto 2020. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-10'
+ lastmod: '2020-08-17'
 ---
 
 
 
-## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Aries, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 
-Te van a echar de menos aries, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio aries, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana. Los asuntos empresariales parecen florecer con Júpiter entrando a tu sector de finanzas compartidas. Si has estado considerando tener un socio de negocios o unir tus recursos a los de alguien, es momento de investigar tus opciones. Venus continúa retrógrado, por lo que no te comprometas a nada por el momento. Espera hasta después del 16 de Agosto para tomar una decisión. Mercurio en Libra a partir del Jueves podría hacerte coquetear con alguien con la esperanza de impresionarle. Si sales de compras el Sábado, evitar comprar por impulso.
+Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
+ Tienes que acabar de una vez con todo aries. Ideas sobre tu potencial creativo y tus opciones de diversión surgen esta semana a medida que el Sol revitaliza este sector de tu carta. Sientes ganas de volver a probar un hobby que te gustaba mucho en tu infancia y descubres que disfrutas enormemente al retomarlo de nuevo. Sin embargo, surge un aspecto esta semana que tiene la capacidad de mejorar tu trabajo o tus negocios. Haz el trabajo preliminar primero. Puede cambiar tu situación por completo.
 
 ## Dinero
 
-Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.
+Esta semana es sobre la energía que recibes del Universo que afecta a tu vida laboral. Es posible que desees asociarte con alguien que no conoces muy bien con el fin de terminar cierto trabajo, o aliarte con otras personas que quieren salir adelante. No te aproveches ni de los demás o del poder que tengas. Un paso lento pero constante gana la carrera. Formula tu estrategia con prudencia.
