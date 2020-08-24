@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 17 de agosto 2020 al 23 de agosto 2020 
-description: Horóscopo semanal libra 17 de agosto 2020 al 23 de agosto 2020. Vienen emociones fuertes libra, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+title: libra 24 de agosto 2020 al 30 de agosto 2020 
+description: Horóscopo semanal libra 24 de agosto 2020 al 30 de agosto 2020. libra, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-17'
+ lastmod: '2020-08-24'
 ---
 
 
 
-## Vienen emociones fuertes libra, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+## libra, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 
-Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca libra. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder libra pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias libra, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo. La idea del cambio podría interesarte, pero no sucederá a nada menos que hagas algo al respecto. Un importante enfoque en un área sensible de tu carta puede hacer que conectes con sentimientos que han estado enterrados durante algún tiempo. Esto puede animarte a que los proceses. Sin embargo, no te apresures demasiado. Lo mejor es adoptar un enfoque gentil. Por otro lado, con el encantador Venus dirigiéndose hacia el vital Marte, el deseo de apurar una relación romántica podría no ser beneficioso. Puede que lo mejor sea ir con la corriente.
+Esta semana tienes que tomarte las cosas con más calma libra. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
+ Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse. Puede que sientas ganas de estudiar, especialmente si te ayuda a avanzar en tu profesión y en tus objetivos. Mientras tanto, la presencia de Venus en tu sector de comunicaciones puede ser de gran ayuda para encontrar el amor en línea o en la vida real. El Eclipse Lunar en tu sector de relaciones podría invitarte a explorar aquellas opciones que mejoren tu conexión con una amistad o tu pareja actual. Puede que haya algo de lo que deban hablar, y la forma en que lo hagan puede ser la clave del éxito.
 
 ## Dinero
 
-Esta semana puedes estar tratando de encontrar una manera de obtener tu rebanada de pastel y comértela también. Tu mente está trabajando horas extras para sacarte de cualquier obligación financiera que puedas tener, y el Universo te ayuda a llevar esto al siguiente nivel. Asegúrate de volver a revisar todas las cifras antes de firmar cualquier cosa.
+Ahora estás en un período de redefinición de lo que eres y cómo te proyectas al mundo. El Universo te está pidiendo que prestes mucha atención a tu carrera. Si no es la que deseas tener, este es el momento de cambiarlo. No vas a conseguir mucho más apoyo del que ya tienes.

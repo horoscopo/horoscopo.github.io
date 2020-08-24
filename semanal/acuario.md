@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 17 de agosto 2020 al 23 de agosto 2020 
-description: Horóscopo semanal acuario 17 de agosto 2020 al 23 de agosto 2020. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud acuario, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+title: acuario 24 de agosto 2020 al 30 de agosto 2020 
+description: Horóscopo semanal acuario 24 de agosto 2020 al 30 de agosto 2020. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-17'
+ lastmod: '2020-08-24'
 ---
 
 
 
-## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud acuario, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 
-Hay cosas que no deben hacer daño acuario, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo acuario, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo acuario, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa acuario, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro… Mercurio en se une al Sol y a Venus en tu sector de recursos compartidos, lo que podría ponerte a buscar maneras de hacer que tu dinero te rinda más. Cuando el tema sea inversiones, podría ser aconsejable obtener consejos profesionales debido a que la presencia de Neptuno sugiere que una oferta podría no ser tan buena como aparenta ser. Desde mediados de semana, Marte, el astro de la acción, avanza en tu sector kármico, pudiendo permitirte darle cierre a un tema incómodo.
+No eres frágil acuario, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo acuario, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra acuario, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz acuario, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando acuario, y sabes lo complicado que es salir de ahí después… Con Júpiter en tu signo enlazándose con Urano y Saturno, tus relaciones pueden ser la fuente de nuevas ideas que cambien tu vida de alguna manera. La sensación de que algo tiene que ceder puede ser la oportunidad para que explores una nueva relación que sea productiva para ambos. Es posible que no sea una relación romántica, pero puede serlo. Algo sugiere que podrían hacer negocios juntos y tener éxito como socios en cualquier proyecto que emprendan.
 
 ## Dinero
 
-Ciertos aspectos afectando tu sector de comunicaciones pueden llevarte a ponerte en contacto con una o muchas personas. En medio de las llamadas, los correos electrónicos y mensajes de texto, existe la repentina urgencia de capturar tu experiencia para la posteridad. Este es un buen momento para empezar a escribir una nueva historia, no importa cuál sea tu pasión. Tienes todo lo que necesitas. Los grupos sociales y las redes a tu alcance pueden ser de gran ganancia.
+Que nunca se diga que no eres inteligente con el dinero. En el pasado, podría muy bien haber sido que se te escapó de las manos como el agua. Pero ahora tienes más disciplina sobre la forma en la que ganas y gastas. Es posible que desees ampliar tu forma de pensar acerca de inversiones. Las instituciones más grandes pueden tener una ventaja en este momento, y podrías percatarte de que están mejor equipadas para manejar tus fondos.

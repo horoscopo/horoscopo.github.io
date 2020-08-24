@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 17 de agosto 2020 al 23 de agosto 2020 
-description: Horóscopo semanal escorpio 17 de agosto 2020 al 23 de agosto 2020. Dedícate la semana a ti Escorpio, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+title: escorpio 24 de agosto 2020 al 30 de agosto 2020 
+description: Horóscopo semanal escorpio 24 de agosto 2020 al 30 de agosto 2020. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,17 +12,15 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-17'
+ lastmod: '2020-08-24'
 ---
 
 
 
-## Dedícate la semana a ti Escorpio, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 
-Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
- No lo has pasado del todo bien pero empiezas a renacer escorpio. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado. Este mes podría ser bastante intenso en más de un aspecto, en especial cuando el conversador Mercurio permanece en un sector profundamente emocional de tu carta durante algún tiempo. Su presencia aquí podría fomentar tu curiosidad sobre el funcionamiento más profundo de tu subconsciente y qué puede significar esto para ti.Al mismo tiempo, el hermoso Venus ingresa a Virgo y a tu sector de viajes y exploración el lunes, lo que puede traer una aventura amorosa y agregar un poco de chispa a una relación actual. 
-Sin embargo, puede que las relaciones atraviesen cambios durante este mes debido al eclipse solar en Cáncer y en tu sector de relaciones. Como esto conectará con el poderoso Plutón en tu signo, quizá debas cambiar tu enfoque o actitud para que tu relación pueda crecer y desarrollarse de forma positiva. Si no puedes hacerlo, existe la posibilidad de que la conexión termine.
+A veces dejar ir las cosas es mucho más complicado de lo que piensas escorpio. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad escorpio, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres escorpio. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero escorpio, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. escorpio, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente. Mientras que tu mente está concentrada en aventuras de viaje, oportunidades de estudio, o en la ampliación de tus horizontes, podrías perderte de un evento que termine haciéndote sentir confusión. Prepárate para una posible disputa en una relación que bien podrías evitar si eres lo suficientemente sensible para detectar lo que realmente está pasando. Puede que estés enterrando la cabeza en la arena porque no quieres ver lo que está sucediendo. Es mejor hablar que acabar en una pelea. Escucha el llamado de la Luna Nueva del Viernes a salirte de tu zona de confort.
 
 ## Dinero
 
-Tienes una calidad de ideas y de ensueño que es muy atractiva para los demás en este momento. Sin embargo, ten cuidado con parecer como que saliste de un cuento de hadas o con parecer excesivamente intelectual. Puede que tu mensaje no sea entendido por las cabezas de algunas personas que necesites a bordo en tus planes personales y económicos. Al mismo tiempo, un aspecto de apoyo muestra que eres maestro/a por naturaleza. Considera cómo puedes compartir tus conocimientos con los demás por algo extra de dinero.
+Esta semana, actividad en tu sector de trabajo indica que es probable que tu trabajo se vuelva más fácil ahora. El Universo te proporciona la energía que necesitas para hacer las cosas y avanzar en la escalera del éxito al lograr que tu trabajo sea notado y apreciado. Al mismo tiempo, tienes que asumir una mayor responsabilidad antes de poder ganar más dinero.
