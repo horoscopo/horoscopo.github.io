@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de agosto 2020
-description: Horóscopos del dia de hoy 27 de agosto 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de agosto 2020
+description: Horóscopos del dia de hoy 28 de agosto 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-08-27
+ lastmod: 2020-08-28
 ---
-El Universo temporalmente se siente como si estuviera en un estado suspendido de animación bajo la Luna saliéndose de su órbita. Utiliza esta momentánea pausa a tu conveniencia y te irá bien. Todo está sazonado con el sabor del amor. Solteros, esta noche, Venus y Neptuno podrían desencadenar una mágica reunión.
+Espera que el romance sea más fácilmente guiado en la dirección correcta a partir de hoy cuando Venus, el planeta del amor, termine su retroceso. Esta noche, la Luna aspecta al responsable Saturno, y la buena noticia es que la conexión añade un poder de permanencia y enfoque en las tareas hasta que sean terminadas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
