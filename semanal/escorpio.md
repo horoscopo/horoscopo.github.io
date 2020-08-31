@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 24 de agosto 2020 al 30 de agosto 2020 
-description: Horóscopo semanal escorpio 24 de agosto 2020 al 30 de agosto 2020. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+title: escorpio 31 de agosto 2020 al 06 de septiembre 2020 
+description: Horóscopo semanal escorpio 31 de agosto 2020 al 06 de septiembre 2020. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: P0tnT6z3gZo
+ video: TTMGb3yIPio 
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-24'
+ lastmod: '2020-08-31'
 ---
 
 
 
-## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 
-A veces dejar ir las cosas es mucho más complicado de lo que piensas escorpio. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad escorpio, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres escorpio. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero escorpio, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio pececito, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. escorpio, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente. Mientras que tu mente está concentrada en aventuras de viaje, oportunidades de estudio, o en la ampliación de tus horizontes, podrías perderte de un evento que termine haciéndote sentir confusión. Prepárate para una posible disputa en una relación que bien podrías evitar si eres lo suficientemente sensible para detectar lo que realmente está pasando. Puede que estés enterrando la cabeza en la arena porque no quieres ver lo que está sucediendo. Es mejor hablar que acabar en una pelea. Escucha el llamado de la Luna Nueva del Viernes a salirte de tu zona de confort.
+Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre. Cuando el conversador Mercurio hace su entrada a tu sector de recreación y diversión, este puede ser el momento ideal para conectar con otras personas que compartan tus mismos intereses. Su presencia en este sector también puede animarte a aprender un oficio o deporte que requiera habilidad y destreza. El desafío y la oportunidad de competir con los demás hacen que prosperes. 
+  El enfoque en tu sector de valores sugiere que tal vez se estén produciendo cambios en tu actitud con respecto al dinero, los bienes materiales y cómo te ganas la vida. Esto podría llevar un tiempo, pero dichos cambios pueden generar desarrollos positivos que te permitan explotar al máximo tus capacidades, habilidades, dinero y recursos. El delicioso Venus en tu sector de relaciones sugiere que otras personas podrían mostrarte su comprensión y apoyo en las próximas semanas. Además, los eventos sociales podrían ser una excelente manera de aumentar tu círculo de amistades o encontrar a esa especial compañía si estás buscando el amor.   
 
 ## Dinero
 
-Esta semana, actividad en tu sector de trabajo indica que es probable que tu trabajo se vuelva más fácil ahora. El Universo te proporciona la energía que necesitas para hacer las cosas y avanzar en la escalera del éxito al lograr que tu trabajo sea notado y apreciado. Al mismo tiempo, tienes que asumir una mayor responsabilidad antes de poder ganar más dinero.
+Estás fomentando la confianza en ti mismo/a y acelerando el gasto alrededor de la familia, el romance, la creatividad y la diversión. Tu interés se despierta en términos del aprendizaje de nuevas habilidades que se pueden aplicar a tu potencial de ingresos. Dado que los aspectos son favorables para ganar dinero y seguridad, estás operando desde una posición de fuerza. Lucha no sólo por disfrutar de tu vida a través del gasto, sino también para invertir lo que puedas para asegurarte de que tu estabilidad se dé a largo plazo.

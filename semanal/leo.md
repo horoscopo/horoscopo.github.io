@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: leo 24 de agosto 2020 al 30 de agosto 2020 
-description: Horóscopo semanal leo 24 de agosto 2020 al 30 de agosto 2020. Por muy desconfiado y duro que parezcas ser, al final acabas confiando leo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+title: leo 31 de agosto 2020 al 06 de septiembre 2020 
+description: Horóscopo semanal leo 31 de agosto 2020 al 06 de septiembre 2020. Retírate del mundo artificial leo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: P0tnT6z3gZo
+ video: TTMGb3yIPio 
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-24'
+ lastmod: '2020-08-31'
 ---
 
 
 
-## Por muy desconfiado y duro que parezcas ser, al final acabas confiando leo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+## Retírate del mundo artificial leo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 
-Tienes que plantarte leo, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana leo. Una discusión podría llegar a un punto crítico alrededor de la Luna Llena del Miércoles y podría empujarte a tomar una decisión. Sería mejor no precipitarte a nada si es que puedes evitarlo, sobre todo si es algo importante. Mientras tanto, el ambiente en tu hogar está lleno de diversión y es perfecto para el entretenimiento. Varias influencias optimistas hacen del Miércoles particularmente un buen día para una celebración. El resto de la semana sigue prometiendo diversión con planes y proyectos creativos.
+Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
+así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final. Trabajo, finanzas, así como progreso pueden ocupar tu mente. Sin embargo, si escuchas a amigos o supuestos expertos, puede que te preguntes si estás haciendo lo correcto. Lo mejor es escuchar lo que tu corazón te diga y avanzar acorde a ello. Las cosas podrían funcionar incluso mejor de lo esperado. Ten cuidado si estás a cargo de grandes cantidades de dinero, ya que Venus retrógrado podría causar retrasos imprevistos. Guarda bien tu papeleo y recibos en caso de que los necesites más adelante.
 
 ## Dinero
 
-Puede parecer que esta semana las cosas que se mueve en cámara lenta o incluso que se estén moviendo hacia atrás, sobre todo cuando se trata de tu capacidad de viajar, asistir a la escuela, o buscar las verdades más amplias de la vida. No te preocupes que al final las encontrarás. Mientras tanto, lo mejor es mantener tu dinero en efectivo guardado en un lugar seguro. En pocos meses, será más fácil el mover tus metas más cerca de la finalización.
+A veces puedes tener demasiada timidez para la confrontación. Es posible que ésta semana sientas aún más preocupación por llevarte bien con todos. Tu situación financiera florece positivamente. Con tanta energía concentrada allí, estás logrando todo tipo de avances en la obtención de ingresos, el pago de deudas,  y el ahorro. Ves que es más valioso compartir momentos de amor con tus hijos y miembros de tu familia que gastar.

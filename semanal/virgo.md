@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: virgo 24 de agosto 2020 al 30 de agosto 2020 
-description: Horóscopo semanal virgo 24 de agosto 2020 al 30 de agosto 2020. Hay cosas que ya no funcionan virgo, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+title: virgo 31 de agosto 2020 al 06 de septiembre 2020 
+description: Horóscopo semanal virgo 31 de agosto 2020 al 06 de septiembre 2020. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: P0tnT6z3gZo
+ video: TTMGb3yIPio 
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-24'
+ lastmod: '2020-08-31'
 ---
 
 
 
-## Hay cosas que ya no funcionan virgo, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 
-No puedes esperar a que las cosas pasen virgo, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres virgo, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA virgo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer. Conectar con otras personas o trabajar junto a ellas puede ser una experiencia muy positiva y lucrativa. Con un resplandeciente aspecto entre el vivaz Júpiter y el intenso Plutón, puedes lograr muchas cosas si trabajas con personas que están en tu misma sintonía. Y la luna nueva en tu sector de relaciones puede darle el mejor impulso a cualquier proyecto que tengas. A medida que avanza la semana, tu atención podría desplazarse hacia los asuntos financieros y de negocios y puede que ya quieras solucionar algunos problemas clave. 
+Cada día que pasa te das más cuenta de que mereces cosas buenas virgo, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana virgo. A partir del martes, el énfasis cambia hacia tu sector de exploración y lejanos horizontes, lo que podría animarte a salir de tu zona de confort. Puede que notes cuántas ganas tienes de sumergirte en nuevos temas, viajes y, en general, de explorar nuevas tierras. Cuando el sol, que está en un sector más intenso de tu carta, se alinea con el potente Plutón, podrías tomar una decisión que tenga trascendentales consecuencias y que podría inspirar un radical cambio. Sin embargo, también podrías dejarte llevar por tus impulsos un poco.
 
 ## Dinero
 
-Es posible que tengas arrinconado al mercado de la hospitalidad y las industrias de planificación de eventos, pero esta semana el Universo te está pidiendo que ramifiques y utilices tus habilidades de una nueva manera. Hay tensión entre tu familia, tu vida romántica y el sector de deuda. El gasto puede haberse vuelto mayor recientemente a lo que tu presupuesto puede manejar. Esto está causando estragos en tus planes a largo plazo. Reduce gastos en consecuencia.
+Tu sector de relaciones se pone de relieve, lo que significa que puedes tener la tentación de socializar más, conocer gente nueva y cultivar uniones existentes con los demás. Sin embargo, también puedes tener la tentación de mudarte o vender una propiedad por un pequeño margen de ganancia por el simple hecho de salirte. Muévete lentamente para que no te arrepientas de tu decisión después.
