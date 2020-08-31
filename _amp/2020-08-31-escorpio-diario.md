@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
- video: TTMGb3yIPio 
+ video: pe-RhLMeESs 
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1

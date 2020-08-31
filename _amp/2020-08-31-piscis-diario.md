@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
- video: TTMGb3yIPio 
+ video: pe-RhLMeESs 
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1

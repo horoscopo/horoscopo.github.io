@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/libra/
 home: FALSE
 horoscopo:
  signo: libra
- video: TTMGb3yIPio 
+ video: pe-RhLMeESs 
 ogimg: /images/libra_char.png
 sitemap:
  priority: 1

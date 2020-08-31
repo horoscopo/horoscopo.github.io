@@ -9,7 +9,7 @@ redirect_from: /p/capricornio.html
 keywords: capricornio,horoscopo,horoscopo capricornio agosto 2020,horoscopo capricornio hoy,tarot capricornio agosto 2020,horoscopo capricornio,tarot capricornio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy capricornio,horoscopo diario del tarot, Horoscopo de hoy capricornio 31 de agosto del 2020,horóscopo del día
 horoscopo:
  signo: capricornio
- video: TTMGb3yIPio 
+ video: pe-RhLMeESs 
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1

@@ -9,7 +9,7 @@ redirect_from: /p/geminis.html
 keywords: geminis,horoscopo,horoscopo geminis agosto 2020,horoscopo geminis hoy,tarot geminis agosto 2020,horoscopo geminis,tarot geminis hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy geminis,horoscopo diario del tarot, Horoscopo de hoy geminis 31 de agosto del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: geminis
- video: TTMGb3yIPio 
+ video: pe-RhLMeESs 
 ogimg: /images/geminis_char.png
 sitemap:
  priority: 1

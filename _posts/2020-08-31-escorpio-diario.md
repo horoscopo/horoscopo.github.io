@@ -9,7 +9,7 @@ redirect_from: /p/escorpio.html
 keywords: escorpio,horoscopo,horoscopo escorpio agosto 2020,horoscopo escorpio hoy,tarot escorpio agosto 2020,horoscopo escorpio,tarot escorpio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy escorpio,horoscopo diario del tarot, Horoscopo de hoy escorpio 31 de agosto del 2020,horóscopo del día, el horoscopo de hoy
 horoscopo:
  signo: escorpio
- video: TTMGb3yIPio 
+ video: pe-RhLMeESs 
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1

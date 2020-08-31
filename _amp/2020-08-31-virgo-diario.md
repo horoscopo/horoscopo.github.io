@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: TTMGb3yIPio 
+ video: pe-RhLMeESs 
 ogimg: /images/virgo_char.png
 sitemap:
  priority: 1

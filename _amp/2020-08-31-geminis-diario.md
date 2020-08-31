@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
- video: TTMGb3yIPio 
+ video: pe-RhLMeESs 
 ogimg: /images/geminis_char.png
 sitemap:
  priority: 1
