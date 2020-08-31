@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de agosto 2020
-description: Horóscopos del dia de hoy 30 de agosto 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 31 de agosto 2020
+description: Horóscopos del dia de hoy 31 de agosto 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-08-30
+ lastmod: 2020-08-31
 ---
-Una suertuda oportunidad podría surgirte esta mañana. Esta tarde, trata de evitar conectar con muchas de las responsabilidades asociadas con tu pasado. Se trata de un nuevo camino. Esta noche, el trígono Luna/Plutón es transformador después de explorar los sentimientos internos. Tal estimula las emociones interpersonales positivas con un momento de epifanía. 
+Espera lindas sonrisas y corazones cálidos mientras Venus conecte con Júpiter esta mañana. La Luna en Capricornio pone todo en estado de reservada discreción. Pero hoy, puedes confiar en tu intuición mientras el Sol forme trígono con el instintivo Neptuno. Además, tu alegre imaginación es un hermoso bono. Tu próxima tarea será consolidar tus ideas y darles sentido.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
