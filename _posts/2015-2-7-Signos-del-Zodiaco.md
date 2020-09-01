@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 31 de agosto 2020
-description: Horóscopos del dia de hoy 31 de agosto 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de septiembre 2020
+description: Horóscopos del dia de hoy 01 de septiembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-08-31
+ lastmod: 2020-09-01
 ---
-Espera lindas sonrisas y corazones cálidos mientras Venus conecte con Júpiter esta mañana. La Luna en Capricornio pone todo en estado de reservada discreción. Pero hoy, puedes confiar en tu intuición mientras el Sol forme trígono con el instintivo Neptuno. Además, tu alegre imaginación es un hermoso bono. Tu próxima tarea será consolidar tus ideas y darles sentido.
+El día de hoy comienza un periodo de diez días de entendimiento intuitivo. Las personas tienden a saber lo que otros están pensando sin que nada haya sido dicho mientras Júpiter se opone a Neptuno. ¡No juegues esta noche! Las emociones no deben ser alteradas bajo la Luna en Escorpión. Las parejas deben evitar tocar sus puntos débiles y decir lo que más podría perjudicarles.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
