@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo capricornio agosto 2020
-description: El Horóscopo agosto de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo capricornio septiembre 2020
+description: El Horóscopo septiembre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo capricornio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo capricornio septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
- video: g_VIh3NkXjc
+ video: pe-RhLMeESs 
 ogimg: /images/mes/capricornio_mes.png
 sitemap:
  priority: 1
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Amor y romance surgen naturalmente con la luna llena del 1 de agosto. No eres el tipo de pareja mediocre. No. Tú eres el eje que hace girar la rueda del amor, y el amor depende de ti. El día 4, el sol forma una conjunción con Neptuno en Piscis. Esto podría hacer que una fantasía romántica sea irresistible. Durante la luna nueva del 17 de agosto, celebra un nuevo más brillante y valiente tú. Tal vez piensas que eres la misma persona, pero la gente se dará cuenta y te valorará más. Debes apreciar esto y estar a la altura de las circunstancias. Durante la luna llena, y luna azul, del último día del mes, sé la persona arbitraria o mediadora entre gente que discute. Será fácil.
+Sé una dedicada persona hogareña durante la luna llena del 1 de septiembre. Si tu trabajo o un grupo social se vuelve demasiado demandante o ambicioso, deja que tu hogar te acoja con paz y tranquilidad hechas a tu medida. Tanto tu profesión como condición social se ven impactadas por la luna nueva del día 17. Tal vez termines eligiendo otra cosa, pero verás lo que se puede hacer de una forma u otra. Ten fe en tus muchas habilidades y talentos. El 22 de septiembre, Mercurio se torna retrógrado en Aries. Esto te permite tomarte las cosas con mayor calma. Sé una persona elegante y encantadora para la luna llena, una luna azul, el último día del mes. Puede que los demás prefieran algo más descarado y emocionante. Déjalos.

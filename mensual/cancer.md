@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo cancer agosto 2020
-description: El Horóscopo agosto de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo cancer septiembre 2020
+description: El Horóscopo septiembre de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo cancer agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo cancer septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
- video: g_VIh3NkXjc
+ video: pe-RhLMeESs 
 ogimg: /images/mes/cancer_mes.png
 sitemap:
  priority: 1
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-La Luna Nueva del 4 de agosto está llena de diversión, amigos y familia. Si tienes planes para ese fin de semana, olvídate de cualquier tipo de rutina. Disfruta de los preparativos y participa en las festividades. Con tanta gente involucrada, no habrá mucho qué hacer para ti. La Luna Llena del 19 de agosto emana su luz en un cambio o situación de la que sabes pero que no has reconocido plenamente. Haz mejoras graduales y ve cómo tu vida diaria se vuelve más fácil. Urano se torna retrógrado el viernes 29 de agosto. Todavía habrá un sentimiento de travesura en el aire, pero puede que se vuelva más sutil y menos emocionante. No te desanimes.
+Tu situación económica será sólida alrededor de la Luna Nueva del 9 de septiembre, más no  te excedas en tus gastos. Permite que tus amigos sean gseptiembresos y te duchen con sorpresas. Hacerlo les hará sentir bien y no dañará sus presupuestos. La vida cotidiana te hará sentir claustrofobia bajo la Luna Llena del 23 de septiembre. Sabes que el mundo es más grande que eso y desearás hacer más, ver más y escuchar más. Absorbe de la vida tanto como puedas y tal vez haz nuevas amistades también. El 27 de septiembre es tu día de suerte, sobre todo en el trabajo. Mantén tus expectativas bajas y déjate gratamente recompensar por una obra realizada anteriormente.
