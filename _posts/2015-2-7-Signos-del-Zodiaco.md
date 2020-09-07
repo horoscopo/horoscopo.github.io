@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de septiembre 2020
-description: Horóscopos del dia de hoy 06 de septiembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de septiembre 2020
+description: Horóscopos del dia de hoy 07 de septiembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-09-06
+ lastmod: 2020-09-07
 ---
-Neptuno da un gran salto hacia adelante para volverse directo el día de hoy. La gente es más específica y hay menos ocasiones para la evasión, la vaguedad y la superficialidad. Esta noche, Venus, el planeta del amor, inspira coquetería con el aspecto oportuno que forma con Neptuno. Pasa una velada agradable, cuando el buen espíritu es contagioso.
+Los sentimientos son susceptibles el día de hoy. Por lo que no agites aún más las cosas cuando la Luna en el feroz Leo aspecte a Urano y a Plutón. Venus se encuentra a punto de cambiar de signo esta noche, cuando las parejas deberían de darse el beneficio de la duda. Solteros, el planeta del amor encontrándose en zona neutral despierta mucha incertidumbre. Este no es buen momento para empezar algo nuevo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
