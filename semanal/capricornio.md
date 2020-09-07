@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 31 de agosto 2020 al 06 de septiembre 2020 
-description: Horóscopo semanal capricornio 31 de agosto 2020 al 06 de septiembre 2020. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+title: capricornio 07 de septiembre 2020 al 13 de septiembre 2020 
+description: Horóscopo semanal capricornio 07 de septiembre 2020 al 13 de septiembre 2020. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-31'
+ lastmod: '2020-09-07'
 ---
 
 
 
-## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 
-Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
- La gente es como es y no debes martirizarte por ello capricornio. Puede que las emociones sean bastante intensas durante la semana de San Valentín, al punto de que podrían estallar. Si no le has dicho a nadie cómo te sientes y mueres por hacerlo, trata de controlar tus ansias. La persona en cuestión podría sentirse abrumada si le cuentas todo de golpe. ¿Ya tienes compromiso con alguien? A tu amor le encantaría un regalo especial que podría ser más que suficiente para mostrar cuánto te importa ahora, y siempre.
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo capricornio. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que capricornio estalla, nadie se salva. El comienzo de la semana podría encontrarte enfrentándote a muchas distracciones. Cuando el simpático Venus se dirige al etéreo Venus, podrías descubrir que te resulta difícil concentrarte en una tarea si alguien está tratando de llamar tu atención. Si el trabajo es importante, puede que debas ponerte firme con esta persona. 
+El martes, el sol conecta con el positivo Júpiter, lo que debería hacer que el día sea bastante positivo. Algunos consejos o una posible oportunidad podrían mejorar considerablemente tu estado de ánimo.
+El conversador Mercurio forma un extraño ángulo con el vital Marte el fin de semana. Puede que te resulte difícil estar de acuerdo con alguien. Y si añadimos al incansable Urano a la mezcla, podrías sentirte independiente y sin ganas de llegar a un compromiso, incluso si es lo mejor para ti. Si esto significa que harás enojar a una de tus comprensivas amistades, piénsalo dos veces.
 
 ## Dinero
 
-Tienes energía en tu sector de trabajo. Esto hace que sea más fácil el sobrellevar largos días si has sentido cansancio, o el poder realizar presentaciones, reuniones o papeleo. Mide tu energía durante todo el día para no quedarte sin nada antes del almuerzo. Puede que no tengas el poder de cambiar por completo tu situación todavía, pero definitivamente puedes mejorarla mucho más del estado en el que ha estado últimamente. Persevera.
+Esta semana hay actividad en tu sector de herencia y propiedad compartida. Necesitas prestar más atención a tu principal fuente de dinero - tu carrera. A pesar de que una herencia podría apoyar tus sueños a largo plazo, tu carrera te apoya emocionalmente también. El Universo te proporciona un mayor descanso del que pudiste haber gozado en los últimos tiempos. Puedes utilizar toda la estabilidad que pudiste haber reunido en otras áreas.

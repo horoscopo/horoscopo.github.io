@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 31 de agosto 2020 al 06 de septiembre 2020 
-description: Horóscopo semanal geminis 31 de agosto 2020 al 06 de septiembre 2020. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca geminis.
+title: geminis 07 de septiembre 2020 al 13 de septiembre 2020 
+description: Horóscopo semanal geminis 07 de septiembre 2020 al 13 de septiembre 2020. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-31'
+ lastmod: '2020-09-07'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca geminis.
+## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 
-Esta semana va a estar cargada de altibajos geminis, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre geminis, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza geminis, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite geminis, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas… Evita volverte demasiado inflexible, sobre todo si una cuestión llama tu atención más que cualquier otra cosa. Existe la posibilidad de que estés pensando en una proposición o planeando un viaje y te estanques en los detalles. Si esperas hasta el final de la semana, es posible que el proceso se vuelva mucho más fácil, ya que Mercurio estará moviéndose hacia adelante. Hasta entonces, toma las ofertas u opciones con escepticismo. Finalmente, con Venus danzando hacia Escorpión, una relación puede volverse más apasionante.
+Céntrate en tus metas geminis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti. Tienes ganas de divertirte y te has preparado mejor para tomar riesgos, ya sea al iniciar un romance o embarcarte en una aventura. Si bien el costo podría ser un problema, puede que quieras pagar un dinero extra si la experiencia lo vale. Cuando el burbujeante Venus ingresa a tu sector de estilo de vida el viernes, un relajante masaje podría ser perfecto. La luna llena en tu sector social el fin de semana puede ser la ocasión perfecta para una celebración u otra reunión, y ambas podrían ser muy divertidas.
 
 ## Dinero
 
-Puede que tu progreso financiero haya disminuido, pero las cosas están definitivamente mejorando. Se te pide que investigues tus gastos en cuestiones relacionadas con la familia, los niños, romance y diversión. Puede que te des cuenta de que había más de los que pensabas. El recortar algunos de estos -aunque sea un poco- podría significar más diversión a largo plazo, junto con menos preocupación. Te mereces un futuro libre de estrés.
+Estás pasando por una etapa de echar raíces nuevas. Estás pensando en dónde quieres estar en los próximos cinco o diez años en el futuro. Si tu trabajo no está funcionando para ti, las inversiones o la propiedad que posees con al menos una persona podrían ser una respuesta. Vende lo que no sea necesario para financiar este movimiento y te lleve a donde quieras estar.

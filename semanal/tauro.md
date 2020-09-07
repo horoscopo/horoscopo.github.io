@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 31 de agosto 2020 al 06 de septiembre 2020 
-description: Horóscopo semanal tauro 31 de agosto 2020 al 06 de septiembre 2020. Cada día que pasa te das más cuenta de que mereces cosas buenas tauro, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: tauro 07 de septiembre 2020 al 13 de septiembre 2020 
+description: Horóscopo semanal tauro 07 de septiembre 2020 al 13 de septiembre 2020. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate tauro, que no te entre la locura.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-31'
+ lastmod: '2020-09-07'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas tauro, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate tauro, que no te entre la locura.
 
-Quizás deberías dejar de planear todo ahora tauro, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien tauro, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder… Aunque puede que sientas que salir con una persona determinada es una buena idea, su práctica actitud hacia la situación podría revelar que no lo es. Es incluso posible que pudieran tener una mejor relación si se mantienen como amigos. La alineación de esta semana sugiere que aunque tienes estrellitas en los ojos, podrías bajar rápidamente a la tierra. El movimiento de Saturno a tu sector financiero podría darte una actitud mucho más empresarial en relación a dinero. El deseo de aumentar tus ingresos podría llevarte a formular planes.
+No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse tauro, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo tauro, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie… Puede que no pares de pensar en los primeros días de la semana cuando las influencias clave te motivan para evaluar cierto asunto en profundidad antes de avanzar. Pero quizá solo baste con intuir que todo saldrá bien. También entras a una fase natural cuando el cosmos te inspira a descansar y darte el lujo del cuidado propio. El enfoque en tu sector doméstico puede ser una oportunidad para pasar tiempo con tus seres queridos, como también para disfrutar un poco de mimos y atención.
 
 ## Dinero
 
-Hay varios aspectos problemáticos afectando tu sector de dinero esta semana. De la misma manera, hay actividad en tu sector de dinero que te regresa a tiempos más simples. Pero también se ve afectado tu sector de deuda o de dinero de otras personas, desafiándote a pagar o pedir prestado para que puedas ampliar tus actividades empresariales.
+Es probable que esta semana encuentres más de una zona de la cuál sacar más dinero en efectivo. Como un imán, los aspectos te colocan en el lugar correcto en el momento adecuado para conocer a las personas adecuadas. Tu personalidad dará una buena impresión. Es tu sector de vidas pasadas, karma y sueños el que está haciendo una contribución clave a esto. Incluso si no es inmediatamente obvio, estás siendo conducido/a en la dirección financiera adecuada.

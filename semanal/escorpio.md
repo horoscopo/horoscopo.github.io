@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 31 de agosto 2020 al 06 de septiembre 2020 
-description: Horóscopo semanal escorpio 31 de agosto 2020 al 06 de septiembre 2020. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
+title: escorpio 07 de septiembre 2020 al 13 de septiembre 2020 
+description: Horóscopo semanal escorpio 07 de septiembre 2020 al 13 de septiembre 2020. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-08-31'
+ lastmod: '2020-09-07'
 ---
 
 
 
-## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
+## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 
-Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre. Cuando el conversador Mercurio hace su entrada a tu sector de recreación y diversión, este puede ser el momento ideal para conectar con otras personas que compartan tus mismos intereses. Su presencia en este sector también puede animarte a aprender un oficio o deporte que requiera habilidad y destreza. El desafío y la oportunidad de competir con los demás hacen que prosperes. 
-  El enfoque en tu sector de valores sugiere que tal vez se estén produciendo cambios en tu actitud con respecto al dinero, los bienes materiales y cómo te ganas la vida. Esto podría llevar un tiempo, pero dichos cambios pueden generar desarrollos positivos que te permitan explotar al máximo tus capacidades, habilidades, dinero y recursos. El delicioso Venus en tu sector de relaciones sugiere que otras personas podrían mostrarte su comprensión y apoyo en las próximas semanas. Además, los eventos sociales podrían ser una excelente manera de aumentar tu círculo de amistades o encontrar a esa especial compañía si estás buscando el amor.   
+No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues escorpio, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe… Te mereces de un tiempo para disfrutar de la vida, pero puede que te sientas culpable por ello. Es muy posible que últimamente hayas estado trabajando mucho más duro de lo habitual y de que estés muy consciente de tus responsabilidades hacia los demás. Todo esto puede ser agotador a menos que aprendas a controlar tu propio ritmo. Es importante que te tomes un poco de tiempo para descansar y relajarte; ya que el exceso de trabajo puede opacar tu capacidad creativa. Por otro lado, el fin de semana podría traer consigo una oportunidad romántica.
 
 ## Dinero
 
-Estás fomentando la confianza en ti mismo/a y acelerando el gasto alrededor de la familia, el romance, la creatividad y la diversión. Tu interés se despierta en términos del aprendizaje de nuevas habilidades que se pueden aplicar a tu potencial de ingresos. Dado que los aspectos son favorables para ganar dinero y seguridad, estás operando desde una posición de fuerza. Lucha no sólo por disfrutar de tu vida a través del gasto, sino también para invertir lo que puedas para asegurarte de que tu estabilidad se dé a largo plazo.
+Actualmente los aspectos afectan tu sector de dinero y valores. Pero la gran novedad está en tu sector de negocio propio y de grupos. Es hora de correr la voz sobre lo que haces para poder atraer a más clientes, ganar más dinero, e incluso empezar la cuenta de jubilación que has estado planeando.
