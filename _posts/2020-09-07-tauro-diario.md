@@ -9,7 +9,7 @@ redirect_from: /p/tauro.html
 keywords: tauro,horoscopo,horoscopo tauro septiembre 2020,horoscopo tauro hoy,tarot tauro septiembre 2020,horoscopo tauro,tarot tauro hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy tauro,horoscopo diario del tarot, Horoscopo de hoy tauro 07 de septiembre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: tauro
- video: pe-RhLMeESs 
+ video: HbfX4z6rZSQ 
 ogimg: /images/tauro_char.png
 sitemap:
  priority: 1
