@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 07 de septiembre 2020 al 13 de septiembre 2020 
-description: Horóscopo semanal sagitario 07 de septiembre 2020 al 13 de septiembre 2020. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+title: sagitario 14 de septiembre 2020 al 20 de septiembre 2020 
+description: Horóscopo semanal sagitario 14 de septiembre 2020 al 20 de septiembre 2020. Llega una buenísima semana sagitario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: pe-RhLMeESs 
+ video: pe-RhLMeESs
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-07'
+ lastmod: '2020-09-14'
 ---
 
 
 
-## No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+## Llega una buenísima semana sagitario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 
-Madura sagitario, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte sagitario, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu sagitario, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla. Una amistad o un ser amado podría darte una sorpresa, en particular a mitad de semana. Si un plan parecía ser inamovible, las cosas podrían cambiar en los próximos días y requerir que seas flexible. Con Mercurio avanzando en tu sector de relaciones, probablemente habrá menos malentendidos y más chances de tener intercambios constructivos. Por mucho que desees conectarte con otras personas y ayudarlas, necesitarás mantenerte firme si necesitas tiempo para recargar tus baterías.
+No te bajonees porque un día no hayas conseguido todo lo que te habías propuesto, al día siguiente podrás crear otro tipo de oportunidades que te lleven a donde quieres. 
+Roma no se hizo en un día. Y sal un poco más, que hay gente que te echa de menos, que echa de menos tu positividad, tus risas, tu ingenio, tus ganas… Las relaciones podrían volverse el centro de atención en las siguientes cuatro semanas, a medida que el Sol, tu planeta regente, entra a Acuario el jueves. Cuando se trata de un nuevo romance, las cosas podrían no salir tan bien como esperabas. Pero no lo tomes como una señal de que no está destinado a ser. Puede que solo se trate de pequeños problemas. De hecho, la pasión podría dar resultados interesantes a medida que se acerca el fin de semana. ¿Ya estás en una relación? Trabajar en equipo para superar un desafío puede fortalecer el vínculo.
 
 ## Dinero
 
-Esta semana tu carrera y autoridad necesitan más atención. Convertirte en el experto que pareces ser significa más dinero en tu cuenta bancaria y más espacio para crecer. Ciertos aspectos astrales afectan tu sector de dinero en el buen sentido. Acumula lo más que puedas para una jubilación cómoda.
+Esta semana te encuentras atrapado/a en el medio. Podrías estar sintiendo como si estuvieras siendo arreado/a (tal vez en contra de tu voluntad) hacia una determinada persona o situación. Tu sector de profesión es el área que necesita más atención ahora. Trabaja en un plan de cinco años para avanzar en tu posición y compensación.

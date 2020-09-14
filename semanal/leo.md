@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: leo 07 de septiembre 2020 al 13 de septiembre 2020 
-description: Horóscopo semanal leo 07 de septiembre 2020 al 13 de septiembre 2020. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+title: leo 14 de septiembre 2020 al 20 de septiembre 2020 
+description: Horóscopo semanal leo 14 de septiembre 2020 al 20 de septiembre 2020. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: pe-RhLMeESs 
+ video: pe-RhLMeESs
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-07'
+ lastmod: '2020-09-14'
 ---
 
 
 
-## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada leo. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No leo, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres leo, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas leo pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más… Aunque el actual clima astrológico te anima a ceder ante los demás para llegar a un acuerdo, es posible que en práctica no te resulte tan fácil hacerlo. Esta semana, una práctica gama de energías te anima a ponerte a trabajar y cumplir con los plazos, encargarte de tus responsabilidades y terminar proyectos. Con el fin de lograr esto tendrás que derribar obstáculos, y es posible que te percates de que cooperar con los demás puede llegar a arruinar el plan que has trazado. Te irá muy bien si es que logras combinar tu encanto con tus perspicaces técnicas.
+El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto. El Sol y Mercurio entran a tu signo a mediados de la semana, lo que da por finalizado un período más introspectivo. Ahora el cosmos te inspira a expresar lo que sientes y revelar tu verdadero ser. Esta también puede ser una oportunidad para que expreses esas ideas en las que has soñado durante semanas. Con la Luna Nueva en Cáncer del viernes, es el momento perfecto para que empieces un proyecto que significa mucho para ti.
 
 ## Dinero
 
-Puede que te percates de que te estás dando más golpes de pecho de los que deberías. En lugar de añadir a las recientes decepciones con autocríticas innecesarias, ve dónde radica realmente la culpa. Es posible que te sientas más estable que nunca, y eso puede ayudarte a hacer tus próximos movimientos. Un buen movimiento sería enlistar el apoyo financiero de amigos, familiares, colegas y mentores.
+Este es el momento de centrarte en cómo puedes hacer más cosas como parte de un equipo que como un individuo. Hay tanto sucediendo en tu sector de relaciones que simplemente eres capaz de atraer a ciertos socios de una empresa de nuevos negocios cuyas habilidades se complementen perfectamente con las tuyas. Al mismo tiempo, tus redes sociales, la influencia política y el acceso a tus esperanzas y sueños se amplían. Te manifiestas a un alto nivel ahora. Pide lo que quieras.

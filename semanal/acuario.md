@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: acuario 07 de septiembre 2020 al 13 de septiembre 2020 
-description: Horóscopo semanal acuario 07 de septiembre 2020 al 13 de septiembre 2020. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+title: acuario 14 de septiembre 2020 al 20 de septiembre 2020 
+description: Horóscopo semanal acuario 14 de septiembre 2020 al 20 de septiembre 2020. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: pe-RhLMeESs 
+ video: pe-RhLMeESs
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-07'
+ lastmod: '2020-09-14'
 ---
 
 
 
-## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 
-No puedes poner piezas en lugares que no corresponden acuario, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo acuario, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso acuario, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte acuario, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho acuario, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda! Esta puede ser una semana en la que los sueños románticos o creativos reinen. Con Venus y el Sol alineándose con Neptuno en Piscis, tu imaginación podría ofrecerte ideas muy ricas y creativas. Sin embargo, si quieres sacarle el máximo provecho a una idea brillante, puede que tengas que tomar una hoja del libro de Virgo o Capricornio. Debido a la potente, pero a la vez práctica conexión entre Júpiter y Plutón, obtener consejos por parte de amistades más realistas podría darle vida a uno de tus sueños.
+Eres demasiado honesto con el resto acuario y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte acuario, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip acuario, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales. Con Mercurio en una zona más escondida de tu carta, se te hará mucho más fácil conectar con tus sentimientos más profundos y forjar una relación con tu ser interior. Si tomas nota de tus sueños, tales podrían ser la fuerza impulsora detrás de un plan o proyecto profesional. En el tema de romance, la deliciosa mezcla de energías del martes podría coincidir con un encuentro que te robe el aliento. Pero debido a que Marte comienza a retrocedes este domingo, puede que sea mejor no esperar demasiado en esta área.
 
 ## Dinero
 
-Te encanta hacer que tu lugar de trabajo sea tan cómodo como tu casa, y esto podría implicar hacer que los demás en el trabajo se sientan como en familia. Con un aspecto armonioso ahora, es muy probable que lleves esto un paso más allá debido a que afecta la zona de tu gráfico que rige los niños, familia, romance y diversión. Suena como si organizar un evento para la empresa no fuera una mala idea para mantener la moral alta. Organizar juegos para entretener a todos será más que bueno.
+Andas muy comunicativo/a ahora. El hablar, conversar en línea e incluso en sitios de redes sociales de internet está  a tu favor. Lo estás llevando a otro nivel, estés pensando en escribir tus memorias. Tienes una cantidad increíble de energía creativa en este momento. Utilízala para tu beneficio financiero teniendo en cuenta tu audiencia; a continuación, busca los mercados con el mayor alcance para obtener los mejores resultados.

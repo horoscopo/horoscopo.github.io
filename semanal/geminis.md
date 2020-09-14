@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: geminis 07 de septiembre 2020 al 13 de septiembre 2020 
-description: Horóscopo semanal geminis 07 de septiembre 2020 al 13 de septiembre 2020. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: geminis 14 de septiembre 2020 al 20 de septiembre 2020 
+description: Horóscopo semanal geminis 14 de septiembre 2020 al 20 de septiembre 2020. Crece geminis, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: pe-RhLMeESs 
+ video: pe-RhLMeESs
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-07'
+ lastmod: '2020-09-14'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## Crece geminis, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 
-Céntrate en tus metas geminis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti. Tienes ganas de divertirte y te has preparado mejor para tomar riesgos, ya sea al iniciar un romance o embarcarte en una aventura. Si bien el costo podría ser un problema, puede que quieras pagar un dinero extra si la experiencia lo vale. Cuando el burbujeante Venus ingresa a tu sector de estilo de vida el viernes, un relajante masaje podría ser perfecto. La luna llena en tu sector social el fin de semana puede ser la ocasión perfecta para una celebración u otra reunión, y ambas podrían ser muy divertidas.
+Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás geminis. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta geminis, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea geminis, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones geminis, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas geminis, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo. Al parecer te encuentras en buen momento y a punto de compartir tu amor por la vida con el mundo. Poner algunas de tus mejores ideas creativas en acción debería causarte una profunda sensación de satisfacción ahora y en las próximas semanas. Esta es una excelente oportunidad para hacerles saber a los demás lo que puedes hacer e involucrarte en proyectos que tengan un significado profundo para ti. Con respecto a una idea, puede que te resulte fácil aceptar hacer demasiado. Piensa en esto antes de comprometerte.
 
 ## Dinero
 
-Estás pasando por una etapa de echar raíces nuevas. Estás pensando en dónde quieres estar en los próximos cinco o diez años en el futuro. Si tu trabajo no está funcionando para ti, las inversiones o la propiedad que posees con al menos una persona podrían ser una respuesta. Vende lo que no sea necesario para financiar este movimiento y te lleve a donde quieras estar.
+Es necesario que esta semana recuerdes lo que aportas a la mesa. Tu panorama de deuda está a punto de ponerse de color de rosa, porque es posible establecer con cuidado y de manera realista los planes de pago con los bancos y los acreedores. Pero puede que no puedas conseguir todo el apoyo que requieres de tus redes sociales. En lugar de venderte a un precio muy caro, recuerda lo que tienes que dar. Es mejor el saber lo que vales, aunque no sea evidente ahora.

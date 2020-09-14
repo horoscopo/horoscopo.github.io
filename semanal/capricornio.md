@@ -1,28 +1,26 @@
 ---
 layout: horoscopos
-title: capricornio 07 de septiembre 2020 al 13 de septiembre 2020 
-description: Horóscopo semanal capricornio 07 de septiembre 2020 al 13 de septiembre 2020. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+title: capricornio 14 de septiembre 2020 al 20 de septiembre 2020 
+description: Horóscopo semanal capricornio 14 de septiembre 2020 al 20 de septiembre 2020. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: pe-RhLMeESs 
+ video: pe-RhLMeESs
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-07'
+ lastmod: '2020-09-14'
 ---
 
 
 
-## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 
-Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo capricornio. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que capricornio estalla, nadie se salva. El comienzo de la semana podría encontrarte enfrentándote a muchas distracciones. Cuando el simpático Venus se dirige al etéreo Venus, podrías descubrir que te resulta difícil concentrarte en una tarea si alguien está tratando de llamar tu atención. Si el trabajo es importante, puede que debas ponerte firme con esta persona. 
-El martes, el sol conecta con el positivo Júpiter, lo que debería hacer que el día sea bastante positivo. Algunos consejos o una posible oportunidad podrían mejorar considerablemente tu estado de ánimo.
-El conversador Mercurio forma un extraño ángulo con el vital Marte el fin de semana. Puede que te resulte difícil estar de acuerdo con alguien. Y si añadimos al incansable Urano a la mezcla, podrías sentirte independiente y sin ganas de llegar a un compromiso, incluso si es lo mejor para ti. Si esto significa que harás enojar a una de tus comprensivas amistades, piénsalo dos veces.
+Llega una etapa buena capricornio, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no capricornio. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea… Este puede ser buen momento para invitar a tus amigos a una fiesta en tu lugar. Con Venus actualmente en tu sector hogareño y familiar, es seguro que tus fabulosas habilidades culinarias les impresionarán. Pero si te das demasiados gustos, puede que termines subiendo de peso un poco. Aun así, el fin de semana se vislumbra muy divertido con la Luna Llena animándote a salir de casa. Finalmente, reflexiona sobre cualquier promesa que hagas, ya que es posible que veas las cosas de manera diferente unos días más tarde.
 
 ## Dinero
 
-Esta semana hay actividad en tu sector de herencia y propiedad compartida. Necesitas prestar más atención a tu principal fuente de dinero - tu carrera. A pesar de que una herencia podría apoyar tus sueños a largo plazo, tu carrera te apoya emocionalmente también. El Universo te proporciona un mayor descanso del que pudiste haber gozado en los últimos tiempos. Puedes utilizar toda la estabilidad que pudiste haber reunido en otras áreas.
+Puede que los aspectos en tu sector de dinero y valores te molesten más que a la mayoría. Justo cuando estás a punto de cerrar el trato, las cosas se te escapan de las manos o simplemente se retrasan. No importa, ya que se pondrán mejor. Hasta entonces, haz negocios o trabaja para instituciones y corporaciones más grandes. Esto mejorará tu presupuesto anual.

@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 07 de septiembre 2020 al 13 de septiembre 2020 
-description: Horóscopo semanal escorpio 07 de septiembre 2020 al 13 de septiembre 2020. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+title: escorpio 14 de septiembre 2020 al 20 de septiembre 2020 
+description: Horóscopo semanal escorpio 14 de septiembre 2020 al 20 de septiembre 2020. Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: pe-RhLMeESs 
+ video: pe-RhLMeESs
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-07'
+ lastmod: '2020-09-14'
 ---
 
 
 
-## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+## Llega una buena semana Sagi, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 
-No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues escorpio, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe… Te mereces de un tiempo para disfrutar de la vida, pero puede que te sientas culpable por ello. Es muy posible que últimamente hayas estado trabajando mucho más duro de lo habitual y de que estés muy consciente de tus responsabilidades hacia los demás. Todo esto puede ser agotador a menos que aprendas a controlar tu propio ritmo. Es importante que te tomes un poco de tiempo para descansar y relajarte; ya que el exceso de trabajo puede opacar tu capacidad creativa. Por otro lado, el fin de semana podría traer consigo una oportunidad romántica.
+Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
+ A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena. Puede que estés a punto de implementar algunos cambios en tu estilo de vida a medida que el Sol y Marte ingresan a tu sector de bienestar. Estas estimulantes energías pueden inspirarte a que te comprometas con una dieta o rutina de ejercicios que haga que te veas y sientas mucho mejor. La clave de sentirse bien puede estar en observar más de cerca tus rutinas diarias y eliminar aquellas que ya no funcionan para ti. Introducir actividades que te encanten puede hacer una diferencia positiva.
 
 ## Dinero
 
-Actualmente los aspectos afectan tu sector de dinero y valores. Pero la gran novedad está en tu sector de negocio propio y de grupos. Es hora de correr la voz sobre lo que haces para poder atraer a más clientes, ganar más dinero, e incluso empezar la cuenta de jubilación que has estado planeando.
+Esta semana estás acudiendo a tus amigos más cercanos, mentores, socios o compañeros para obtener más información financiera y apoyo. Puede ser tan simple como poner una idea de negocios en marcha durante el desayuno o el asesoramiento en un nuevo y complicado plan de negocios. De cualquier manera, te diriges a un nuevo tiempo de suerte y creatividad. No te encuentras solo/a en lo que estás haciendo ahora. Todos los ojos están puestos en ti y la gente llama a tu éxito.
