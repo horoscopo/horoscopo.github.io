@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 14 de septiembre 2020 al 20 de septiembre 2020 
-description: Horóscopo semanal piscis 14 de septiembre 2020 al 20 de septiembre 2020. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+title: piscis 21 de septiembre 2020 al 27 de septiembre 2020 
+description: Horóscopo semanal piscis 21 de septiembre 2020 al 27 de septiembre 2020. A veces sientes como si no avanzaras piscis, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-14'
+ lastmod: '2020-09-21'
 ---
 
 
 
-## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+## A veces sientes como si no avanzaras piscis, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 
-Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana. Incluso si no tienes planes de viaje, tus pensamientos podrían ser acerca de personas y lugares lejanos. El inicio de la semana podría ver una conexión desarrollándose y fortaleciéndose durante las semanas y meses por venir. Aunque podría ser a larga distancia, puede que aún esté muy cerca de tu corazón. Marte agita tu sector espiritual, aumentando el deseo de resolver problemas emocionales que pudieran haber persistido durante algún tiempo. Utiliza la Luna Nueva del viernes para poner en acción un plan lucrativo.
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio. Puede que te preguntes si deberías jugar a lo seguro o comprar un costoso artículo o experiencia. Con Mercurio retrógrado en tu sector financiero, puede que sea mejor esperar hasta después de 21 de $MES, ya que darte un pequeño lujo o capricho podría atarte a algo. Además, ciertas emociones podrían salir a la superficie con el Eclipse Lunar en tu sector de bienes compartidos. Teniendo esto en cuenta, podría ser prudente irte a lo seguro si sientes preocupación debido a gastos inesperados.
 
 ## Dinero
 
-El enfoque de tu vida recae en tus relaciones con los demás, especialmente en las personas relacionadas con ambas, tu vida profesional y financiera. Puedes percatarte de que los intercambios que tienen juntos son de amor y de apoyo, incluso ahora. Hay una energía maravillosamente creativa entre ustedes. Sin embargo, puesto que la verdad también puede ser empañada, traten de encontrarla en conjunto.
+Puede ser que tus ideas no tengan esa habitual ligereza ahora y podrían incluir algunos conceptos muy serios. La buena noticia es que podrán ser puestos a buen uso muy pronto. Hasta entonces, la preocupación por tu hogar domina tu pensamiento. Puedes darte cuenta de que tiene mucha tentación en gastar en renovaciones o redecorar, especialmente si estás estableciendo una oficina dentro de tu hogar. Sin embargo, no necesitas de mucho.

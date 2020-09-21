@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 14 de septiembre 2020 al 20 de septiembre 2020 
-description: Horóscopo semanal sagitario 14 de septiembre 2020 al 20 de septiembre 2020. Llega una buenísima semana sagitario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+title: sagitario 21 de septiembre 2020 al 27 de septiembre 2020 
+description: Horóscopo semanal sagitario 21 de septiembre 2020 al 27 de septiembre 2020. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes sagitario.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-14'
+ lastmod: '2020-09-21'
 ---
 
 
 
-## Llega una buenísima semana sagitario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes sagitario.
 
-No te bajonees porque un día no hayas conseguido todo lo que te habías propuesto, al día siguiente podrás crear otro tipo de oportunidades que te lleven a donde quieres. 
-Roma no se hizo en un día. Y sal un poco más, que hay gente que te echa de menos, que echa de menos tu positividad, tus risas, tu ingenio, tus ganas… Las relaciones podrían volverse el centro de atención en las siguientes cuatro semanas, a medida que el Sol, tu planeta regente, entra a Acuario el jueves. Cuando se trata de un nuevo romance, las cosas podrían no salir tan bien como esperabas. Pero no lo tomes como una señal de que no está destinado a ser. Puede que solo se trate de pequeños problemas. De hecho, la pasión podría dar resultados interesantes a medida que se acerca el fin de semana. ¿Ya estás en una relación? Trabajar en equipo para superar un desafío puede fortalecer el vínculo.
+Tu mente lo está analizando absolutamente todo sagitario, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez sagitario… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas sagitario, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana sagitario, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez. El enfoque en el hogar y las reuniones familiares es muy importante esta semana a medida que el resplandeciente sol ingresa a tu sector doméstico, donde se quedará durante cuatro semanas. Puede que des la bienvenida a personas que vienen desde muy lejos, o bien puede que decidas viajar y disfrutar de hogareñas comodidades en algún otro lugar del mundo. Con el aventurero Júpiter en tu sector de viajes, puede que sientas que tienes el mundo a tus pies y que pases fácilmente de un destino al próximo. Sin embargo, espera lo inesperado el fin de semana.
 
 ## Dinero
 
-Esta semana te encuentras atrapado/a en el medio. Podrías estar sintiendo como si estuvieras siendo arreado/a (tal vez en contra de tu voluntad) hacia una determinada persona o situación. Tu sector de profesión es el área que necesita más atención ahora. Trabaja en un plan de cinco años para avanzar en tu posición y compensación.
+Es un momento tenso para ti. Tus relaciones más cercanas apoyan plenamente los objetivos que te has fijado para ti mismo/a, en particular las que involucran tu situación financiera, y tu carrera está en expansión. Hay tantas cosas pasando en tu vida ahora que puede que sientas agobio, falta de apreciación y que no te pagan lo suficiente. Descansa lo más que puedas.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 14 de septiembre 2020 al 20 de septiembre 2020 
-description: Horóscopo semanal escorpio 14 de septiembre 2020 al 20 de septiembre 2020. Llega una buena semana Escorpio, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+title: escorpio 21 de septiembre 2020 al 27 de septiembre 2020 
+description: Horóscopo semanal escorpio 21 de septiembre 2020 al 27 de septiembre 2020. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-14'
+ lastmod: '2020-09-21'
 ---
 
 
 
-## Llega una buena semana Escorpio, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 
-Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
- A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena. Puede que estés a punto de implementar algunos cambios en tu estilo de vida a medida que el Sol y Marte ingresan a tu sector de bienestar. Estas estimulantes energías pueden inspirarte a que te comprometas con una dieta o rutina de ejercicios que haga que te veas y sientas mucho mejor. La clave de sentirse bien puede estar en observar más de cerca tus rutinas diarias y eliminar aquellas que ya no funcionan para ti. Introducir actividades que te encanten puede hacer una diferencia positiva.
+Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
+ a personas de las que “piensas” que dependes… Seguir tus instintos puede ser el camino indicado esta semana, particularmente si estás a punto de poner en marcha un proyecto importante. Cuando el positivo Júpiter se alinea con el apasionado Plutón, tus instintos podrían cumplir un rol muy importante en cómo resultan las cosas. Además, hay un enfoque muy positivo cuando el seductor Venus y el sol entran a tu signo el 17 de $MES y el 19 de $MES, respectivamente. Esto podría ser algo parecido a renacer y también significar que tienes la oportunidad de retomar otros proyectos que has dejado en pausa.
 
 ## Dinero
 
-Esta semana estás acudiendo a tus amigos más cercanos, mentores, socios o compañeros para obtener más información financiera y apoyo. Puede ser tan simple como poner una idea de negocios en marcha durante el desayuno o el asesoramiento en un nuevo y complicado plan de negocios. De cualquier manera, te diriges a un nuevo tiempo de suerte y creatividad. No te encuentras solo/a en lo que estás haciendo ahora. Todos los ojos están puestos en ti y la gente llama a tu éxito.
+Te enfrentas a un desafío con actividad afectando tu hogar y emociones internas. Aunque los planetas equilibran perfectamente las energías masculina y femenina dentro de ti, también pueden sacar a relucir temas que prefieres no tratar ahora. Trata de lidiar con ellos uno a la vez. En última instancia, este momento proporciona el espacio necesario para el surgimiento de nuevas ideas, ¡muchas de ellas lucrativas!

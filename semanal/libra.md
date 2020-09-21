@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 14 de septiembre 2020 al 20 de septiembre 2020 
-description: Horóscopo semanal libra 14 de septiembre 2020 al 20 de septiembre 2020. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar libra. 
+title: libra 21 de septiembre 2020 al 27 de septiembre 2020 
+description: Horóscopo semanal libra 21 de septiembre 2020 al 27 de septiembre 2020. libra, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-14'
+ lastmod: '2020-09-21'
 ---
 
 
 
-## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar libra. 
+## libra, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 
-No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
- sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más. El comienzo de la semana trae una vivaz Luna Llena manifestándose en tu signo, lo cual intensifica tus sentimientos. Es posible que reveles más información de lo necesario, pero esto puede ser algo bueno. Aun así, es mejor pensar antes de hablar para evitar decir algo de lo que te puedas arrepentir. En cuanto a asuntos de dinero, tómate tu tiempo para realizar una compra o firmar un contrato. Si tienes alguna duda, es prudente que pidas más tiempo para pensar mejor en los detalles.
+No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos. A medida que el dinámico Marte continúa su viaje a través de tu sector de comunicación, puede que descubras algunas oportunidades que te están esperando. Lo único que necesitas es el valor para aprovecharlas. Los próximos días y semanas podrían encontrarte haciendo exactamente eso. Hay mucha actividad en tu sector de rutinas y bienestar, y el cosmos te anima a involucrarte con aquellas cosas que más te interesan. Si quieres ejercitarte diariamente, elige algo que disfrutes. De ese modo, mantendrás la disciplina.
 
 ## Dinero
 
-El Universo está indicando la necesidad de abordar tu aspecto personal. Tus relaciones personales y profesionales son las más afectadas. Toma medidas concretas para volver a conectar con viejos conocidos o profundizar las amistades profesionales existentes. El dinero es lo que le sigue.
+Esta semana trae ambos, suerte y sorpresas por igual a tu sector de dinero y valores. El Universo  expande tus oportunidades de ganar más dinero (e incluso tus ideas para hacerlo), mientras que trae destellos repentinos de intuición e ingenio. Puede que te sorprenda lo increíblemente útil que es la gente que conoces, incluso en las maneras más insignificantes. Te percatarás de que estas personas están dispuestas a ayudar de nuevo también.
