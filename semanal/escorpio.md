@@ -20,7 +20,7 @@ sitemap:
 ## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 
 Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
- a personas de las que “piensas” que dependes… Seguir tus instintos puede ser el camino indicado esta semana, particularmente si estás a punto de poner en marcha un proyecto importante. Cuando el positivo Júpiter se alinea con el apasionado Plutón, tus instintos podrían cumplir un rol muy importante en cómo resultan las cosas. Además, hay un enfoque muy positivo cuando el seductor Venus y el sol entran a tu signo el 17 de $MES y el 19 de $MES, respectivamente. Esto podría ser algo parecido a renacer y también significar que tienes la oportunidad de retomar otros proyectos que has dejado en pausa.
+ a personas de las que “piensas” que dependes… Seguir tus instintos puede ser el camino indicado esta semana, particularmente si estás a punto de poner en marcha un proyecto importante. Cuando el positivo Júpiter se alinea con el apasionado Plutón, tus instintos podrían cumplir un rol muy importante en cómo resultan las cosas. Además, hay un enfoque muy positivo cuando el seductor Venus y el sol entran a tu signo el Miercoles y el Viernes, respectivamente. Esto podría ser algo parecido a renacer y también significar que tienes la oportunidad de retomar otros proyectos que has dejado en pausa.
 
 ## Dinero
 
