@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 21 de septiembre 2020 al 27 de septiembre 2020 
-description: Horóscopo semanal acuario 21 de septiembre 2020 al 27 de septiembre 2020. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+title: acuario 28 de septiembre 2020 al 04 de octubre 2020 
+description: Horóscopo semanal acuario 28 de septiembre 2020 al 04 de octubre 2020. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo acuario, se llama dignidad. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-21'
+ lastmod: '2020-09-28'
 ---
 
 
 
-## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo acuario, se llama dignidad. 
 
-Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
- Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
-pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado… Si tu tiempo ha estado ocupado últimamente, disfrutarás de la oportunidad de pasar tiempo en casa. Podría incluso sentirse como un retiro personal, ayudándote a relajarte y recargar baterías. Aunque tu agenda esté ocupada, también apreciarás de estar lejos del ajetreo y bullicio del mundo y sentir seguridad en tu propio capullo privado. Esta semana y durante las próximas semanas, te beneficiarás de pasar tiempo reflexionando y adquiriendo nuevas perspectivas. También podría ser divertido invitar a amigos y familia a tu morada.
+Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
+ La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa acuario? 
+ todo lo que desea. Aunque no lo quieres admitir, tal vez tengas ganas de asegurarte un primer lugar relacionado con una aspiración o jugada profesional. Esta semana, emocionantes influencias podrían llevarte a hacer una movida audaz, sea prudente o no. Además, con la Luna Llena del miércoles en un sector superior de tu carta astral, podrías encontrarte en el centro de atención. Por este motivo, ayuda estar consciente de tus decisiones y de cualquier posible consecuencia.
 
 ## Dinero
 
-Esta semana entras a un momento de mayor curiosidad. Los planetas afectan tu carta gobernando el sector de la educación, aprendizaje, enseñanza, viajes, la metafísica y la ley. En los aspectos afortunados encontrarás que serás capaz de atraer dinero de una o más de estas actividades, o que la adición de nuevas habilidades te permite ganar más para el futuro. ¡Qué emocionante!
+Algunos aspectos en tu sector de profesión te ponen de nuevo en contacto con la gente y los proyectos de tu pasado. Tienes tanta suerte en esta área de tu vida que te verás en la obligación de rechazar algunos de los trabajos que se te presenten. Evita el exceso de estrés mediante la adopción de algún tiempo de inactividad necesario. Un aspecto feliz muestra que tu lugar de trabajo está inundado de creatividad y buena voluntad. ¿Está detrás de todos estos cambios positivos? Sólo tú sabes a ciencia cierta.

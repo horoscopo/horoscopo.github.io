@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 21 de septiembre 2020 al 27 de septiembre 2020 
-description: Horóscopo semanal cancer 21 de septiembre 2020 al 27 de septiembre 2020. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+title: cancer 28 de septiembre 2020 al 04 de octubre 2020 
+description: Horóscopo semanal cancer 28 de septiembre 2020 al 04 de octubre 2020. Empieza a hacerte promesas a ti mismo cancer, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-21'
+ lastmod: '2020-09-28'
 ---
 
 
 
-## Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+## Empieza a hacerte promesas a ti mismo cancer, empieza a prometerte amor propio, hoy y siempre. 
 
-Por fin llega lo que tanto estabas esperando cancer, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo cancer. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana cancer, disfrútala al máximo. Ha llegado el momento de permitir que tu lado más juguetón salga a la luz. Si has mantenido tu agenda ocupada con responsabilidades, el escenario estelar podría llevarte a explorar tu relación con tu ser interior y pasar algo de tiempo enfocándote en ti. Intenta involucrarte en actividades liberadoras y terapéuticas. Pintar, dibujar, jugar con colores y materiales brillantes, o usar plumas y lentejuelas puede desencadenar un remolino de creatividad, y tal vez encuentres que esto también se extiende a otras áreas de tu vida.
+Tienes conversaciones pendientes cancer, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad cancer, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas cancer, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista. Si ha habido problemas entre tú y cierta persona, la entrada de Venus a tu sector de relaciones puede darte la oportunidad de limar asperezas. Esta encantadora influencia también puede tener un lado persuasivo y seductor, así que, si quieres impresionar a una persona especial, debería ser mucho más fácil ahora y en las semanas posteriores. Por otro lado, puede que el enfoque en tu sector de recursos y negocios te motive para calcular el costo de nuevas ideas y también considerar las ganancias.
 
 ## Dinero
 
-Es una temporada muy ocupada conforme pasas de una tarea a otra. Te estás reuniendo con compañeros de trabajo y superiores con el fin de consolidar tu participación en la jerarquía, pero eso no es todo. Tu sentido psíquico da justo en el blanco con respecto a tu trabajo y dinero. Si tienes una corazonada con respecto a inversiones, ándate con cuidado. El aspecto astrológico presente es afortunado para los aumentos repentinos de riqueza.
+Tienes una gran cantidad de energía para conseguir un gran apoyo esta semana. Si has estado pensando en iniciar tu propio negocio, esta es una época maravillosa para darle vida a tus ideas. El énfasis está en la estructura, así que asegúrate de que la tuya sea muy fuerte. Si no sabes cuáles son los primeros pasos, consulta la información disponible para pequeñas empresas. Y si buscas en tus relaciones más cercanas, podrás ver que siempre tuvieron todas las respuestas.
