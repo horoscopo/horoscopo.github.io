@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo libra septiembre 2020
-description: El Horóscopo septiembre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo libra octubre 2020
+description: El Horóscopo octubre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo libra septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo libra octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
- video: pe-RhLMeESs 
+ video: HbfX4z6rZSQ
 ogimg: /images/mes/libra_mes.png
 sitemap:
  priority: 1
@@ -16,4 +16,6 @@ sitemap:
 ---
 
 
-La Luna forma sextil con Saturno el sábado 5 de septiembre, facilitando tu trato con cualquier persona difícil que se atraviese en tu camino. La Luna Nueva del 11 de septiembre te toca en un lugar profundo y privado. Entonces, podrías recibir cierta información que te enseñe una lección importante y te permita hacerle frente a la gente con mayor comodidad; especialmente en público. Más tarde, permite que la Luna Llena del 25 de septiembre ilumine tu vida amorosa y tal vez te traiga una nueva, cariñosa y amable persona. Puede que tal no se vuelva tu amante de inmediato, pero a veces, el amor te encuentra antes de que tú lo encuentres.
+Mercurio ingresa a Géminis el 6 de octubre, y de repente todo el mundo podría volverse más interesante. Despierta tu curiosidad y mantente así. El amor y romance brillan con fuerza para ti alrededor de la Luna Llena del 9 de octubre. De repente, un amante podría volverse generoso y afectivo (al punto de no creerlo). Acepta la atención y asegúrate de que cualquier acto de generosidad y bondad no tenga un compromiso implícito. La Luna Nueva del 23 de octubre empodera tus pronósticos financieros y monetarios. Una oportunidad de ingresos podría ser lucrativa y mantenerte con demasiadas ocupaciones como para gastar más de lo que necesitas o pretendes. Es ahora cuando podrías participar en una empresa creada recientemente.
+
+Mejores días: 13, 20, 29Peores días: 18, 27

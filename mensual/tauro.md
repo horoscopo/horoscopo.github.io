@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo tauro septiembre 2020
-description: El Horóscopo septiembre de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo tauro octubre 2020
+description: El Horóscopo octubre de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/tauro/
 amplink: /horoscopo-mensual/amp/tauro/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo tauro septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo tauro octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
- video: pe-RhLMeESs 
+ video: HbfX4z6rZSQ
 ogimg: /images/mes/tauro_mes.png
 sitemap:
  priority: 1
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-El Eclipse Solar de Luna Nueva del 1 de septiembre se manifiesta en tu signo. Ejerce tu poder personal de una manera suave. La gente hará todo lo imposible por complacerte, pero, sé razonable. Se te favorecerá en cada conflicto, sin embargo, no será olvidado. Los delicados placeres del amor llenarán tu mundo bajo el Eclipse de Luna Llena del 16 de septiembre. Puede que estés de humor para que te seduzcan y te tienten, pero después de un tiempo, sólo el amor verdadero será suficiente. Finalmente, la Luna Nueva del 30 de septiembre podría darle equilibrio a un asunto monetario. Tendrás una visión más clara y más completa de tu situación financiera.    
+Este es tu mes para trabajar bien con mucha gente, ya sea en grupo o en público. La gente te verá como alguien inteligente, creativo y entretenido; especialmente alrededor de la Luna Llena del 2 de octubre. Puede que tu mente esté desbordando con grandiosas nuevas y divertidas ideas a partir de la Luna Nueva del 16 de octubre. Una muy creativa podría convertirse en algo lucrativo, aunque sólo sea en forma de un pasatiempo que se pague a sí mismo. No tienes que hacerlo todo a la vez, incluso si tienes la energía para ello. El 28 de octubre se podría sentir como un día un poco rocoso, pero no te tomes las cosas como algo personal. Nadie está enojado contigo.

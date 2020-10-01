@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo sagitario septiembre 2020 
+title: Horoscopo sagitario octubre 2020 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
- video: pe-RhLMeESs 
+ video: HbfX4z6rZSQ
 ogimg: /images/sagitario_char.png
 sitemap:
  priority: 1
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Puede que un admirador que tiene poco que ofrecer te sofoque con poco durante el fin de semana de Luna Llena del 4 de septiembre. ¿Está tu corazón anhelando alguien diferente y menos dramático? Disfruta de la diversión y las sorpresas, pero la relación no durará por mucho tiempo. Pasa momentos pacíficos y de tranquilidad bajo la Luna Nueva del 18 de septiembre. Puede que veas una sociedad de negocios o uno o un par de romances sufrir en esa época, pero nada de eso te va a implicar o afectar directamente más simplemente requerir de tu simpatía. No tomes partido si es que puedes evitarlo. El 30 de septiembre es un día amable y divertido, incluso en el trabajo. Deja a las personas a tu alrededor sonriendo.
+Durante la Luna Llena en Cáncer el 12 de octubre, te dispondrás a sacrificarte por amor. Quizás sea el momento de un gran cambio. Un amante completamente nuevo podría aparecer de la nada, con la intención de sacrificarse por ti. El 16 de octubre, los sentimientos andarán frágiles y sería difícil herirlos. Habla con mucho cuidado, porque podría ser fácil decir lo incorrecto. La Luna Nueva del 27 de octubre te muestra con claridad una solución para lo que en verdad no es un gran problema. Quizás otras personas sientan agobio, pero tú tendrás una mejor perspectiva. Conserva la calma y la confianza. No permitas que los nervios de otra persona te inquieten.

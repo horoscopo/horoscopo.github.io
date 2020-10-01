@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo cancer septiembre 2020 
+title: Horoscopo cancer octubre 2020 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: pe-RhLMeESs 
+ video: HbfX4z6rZSQ
 ogimg: /images/cancer_char.png
 sitemap:
  priority: 1
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Tu situación económica será sólida alrededor de la Luna Nueva del 9 de septiembre, más no  te excedas en tus gastos. Permite que tus amigos sean gseptiembresos y te duchen con sorpresas. Hacerlo les hará sentir bien y no dañará sus presupuestos. La vida cotidiana te hará sentir claustrofobia bajo la Luna Llena del 23 de septiembre. Sabes que el mundo es más grande que eso y desearás hacer más, ver más y escuchar más. Absorbe de la vida tanto como puedas y tal vez haz nuevas amistades también. El 27 de septiembre es tu día de suerte, sobre todo en el trabajo. Mantén tus expectativas bajas y déjate gratamente recompensar por una obra realizada anteriormente.
+La Luna Llena del 5 de octubre te recuerda que debes cuidar de tus emociones y no seguir el camino de alguien cercano a ti a quien le parece estar yendo muy bien, pero que está sufriendo por dentro. Ofrece tu apoyo discretamente si crees que sería aceptado y no le ofendería. La Luna Nueva y Eclipse Solar del 20 de octubre tendrá un efecto tenue sobre ti. Los sentimientos y las opiniones serán fuertes, pero puede que te frustre el hecho de que no puedes hacer todo lo que quieres a la vez. Piensa y planifica más ahora y actúa después. La Luna forma un amigable sextil con Marte en Aries el 26 de octubre. Compórtate enérgicamente y tu competencia no te verá ni el polvo.

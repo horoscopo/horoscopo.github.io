@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo escorpio septiembre 2020 
+title: Horoscopo escorpio octubre 2020 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
- video: pe-RhLMeESs 
+ video: HbfX4z6rZSQ
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1
@@ -14,4 +14,7 @@ sitemap:
 ---
 
 
-La Luna Llena del 10 de septiembre ilumina tu carrera u oportunidades laborales. Buenas noticias podrían estar en camino si has estado compitiendo por una nueva posición o proyecto. Espera formar parte de un equipo más grande y más cooperativo. El 17 de septiembre, el trígono entre el Sol y Saturno te concede más respeto y autoridad. Para cuando llegue la Luna Nueva del 26 de septiembre, encuentra más placer en algo que hasta ahora no ha sido divertido. Trata de verle el valor a una cosa o acción que podrías haber descartado porque la juzgaste como frívola. No es que hayas cometido un error. Es probable que hayas tenido demasiada prisa como para analizarla cuidadosamente. Reduce tu ritmo y aprecia más.
+¿Hay un nuevo cachorro o gatito en tu vida? Si no, la luna nueva del 13 de octubre podría hacer que la idea suene tentadora. O tal vez sean orquídeas, plantas de interior, o un rincón de tu jardín. Añade un poco de vida nueva a tu ambiente. Eleva tus estándares (y expectativas) en el amor y el romance, cuando la luna llena forma una conjunción con Saturno el día 27. Un comportamiento maduro y responsable no es mucho pedir de una pareja. Te lo mereces. Además, el sol forma una oposición con Saturno ese mismo día. Podría haber un tira y afloja de autoridad, en especial en el hogar. Sé razonable y disponte a escuchar, pero mantente firme con lo que más importa. 
+
+Días destacados: 10, 18, 23
+Días desafiantes: 14, 29

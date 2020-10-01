@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo tauro septiembre 2020 
+title: Horoscopo tauro octubre 2020 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
- video: pe-RhLMeESs 
+ video: HbfX4z6rZSQ
 ogimg: /images/tauro_char.png
 sitemap:
  priority: 1
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El Eclipse Solar de Luna Nueva del 1 de septiembre se manifiesta en tu signo. Ejerce tu poder personal de una manera suave. La gente hará todo lo imposible por complacerte, pero, sé razonable. Se te favorecerá en cada conflicto, sin embargo, no será olvidado. Los delicados placeres del amor llenarán tu mundo bajo el Eclipse de Luna Llena del 16 de septiembre. Puede que estés de humor para que te seduzcan y te tienten, pero después de un tiempo, sólo el amor verdadero será suficiente. Finalmente, la Luna Nueva del 30 de septiembre podría darle equilibrio a un asunto monetario. Tendrás una visión más clara y más completa de tu situación financiera.    
+Este es tu mes para trabajar bien con mucha gente, ya sea en grupo o en público. La gente te verá como alguien inteligente, creativo y entretenido; especialmente alrededor de la Luna Llena del 2 de octubre. Puede que tu mente esté desbordando con grandiosas nuevas y divertidas ideas a partir de la Luna Nueva del 16 de octubre. Una muy creativa podría convertirse en algo lucrativo, aunque sólo sea en forma de un pasatiempo que se pague a sí mismo. No tienes que hacerlo todo a la vez, incluso si tienes la energía para ello. El 28 de octubre se podría sentir como un día un poco rocoso, pero no te tomes las cosas como algo personal. Nadie está enojado contigo.

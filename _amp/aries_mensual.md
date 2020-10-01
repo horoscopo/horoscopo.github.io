@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo aries septiembre 2020 
+title: Horoscopo aries octubre 2020 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
- video: pe-RhLMeESs 
+ video: HbfX4z6rZSQ
 ogimg: /images/aries_char.png
 sitemap:
  priority: 1
@@ -14,4 +14,10 @@ sitemap:
 ---
 
 
-¿Está tu corazón listo para un romance torbellino? ¿Y qué tal un romance más lento y dulce? Cualquiera de los dos podría ser posible en este mes bajo la Luna Nueva del 4 de septiembre. Incluso si estás en una relación estable, prepárate para un cambio en tu actitud hacia el amor. Es posible que tu corazón experimente un repentino cambio alrededor de la Luna Llena del 19 de septiembre. Alternativamente, tu pareja o una amistad cercana podría experimentar un cambio de opinión acerca de algo importante. Apóyense el uno al otro y no duden en hablar en confianza. La Luna se opone a Saturno el 29 de septiembre, cuando es posible que desees reservarte tus juicios acerca de casi todo.
+Venus se torna estacionario retrógrado el 5 de octubre. El amor se vuelve intenso en formas más tranquilas, profundas y menos obvias. Examina y cultiva una relación, pero trata de posponer cualquier compromiso formal hasta después del 16 de octubre. 
+Piensa lo que quieras durante la luna nueva del día 8, pero la verdad se volverá obvia. Reconoce la realidad de una situación, y mira un conflicto dar un giro y así sanarse solo. 
+La luna forma una conjunción con Neptuno el 20 de octubre. Buenas amistades y buenas conversaciones podrían impulsar un nuevo sueño. Esto por sí solo mejora la moral. A veces es bueno soñar. 
+El mundo es un lugar hermoso durante la luna llena del día 24. Tu satisfacción será contagiosa, y la gente será capaz de ver más de tu belleza interna. Relájate, sé popular, y disfruta de la emoción y diversión. 
+Mercurio forma una conjunción con Júpiter el 29 de octubre. Piensa en grande, de una forma más práctica, y tendrás mucho para decir. Las personas quieren escuchar tu perspectiva. 
+Días destacados: 10, 11, 19
+Días desafiantes: 4, 26

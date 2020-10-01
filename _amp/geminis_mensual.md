@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo geminis septiembre 2020 
+title: Horoscopo geminis octubre 2020 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
- video: pe-RhLMeESs 
+ video: HbfX4z6rZSQ
 ogimg: /images/geminis_char.png
 sitemap:
  priority: 1
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El amor brilla en el aire a tu alrededor bajo la Luna Nueva del 4 de septiembre. Podrías conocer a alguien muy cercano al “demasiado bueno para ser verdad” cuyos encantos necesitarían sólo un día para disminuir a proporciones mortales. Alrededor de la Luna Llena del 20 de septiembre, alguien podría inesperadamente salir a tu rescate. Puede que incluso no hayas estado conscientes de que algo iba mal o faltaba. Tu superhéroe del momento también podría estar muy bien disfrazado. Anda y disfruta de que alguien te cuide, para variar. Finalmente, el trígono entre Júpiter y la Luna del 30 de septiembre termina el mes con dulzura; aunque tal vez después de algunos altibajos emocionales.
+¡Feliz año nuevo! El 1 de octubre, la luna llena quiere que estés saludable y feliz en todas las pequeñas cosas que haces día a día. Aprecia algo pequeño, ya sea una planta que florece en tu casa o una nueva taza para el café, y date cuenta de que, en realidad, que sea pequeño no significa que sea insignificante. La luna nueva del día 16 te promete un tiempo de descanso en privado muy enriquecedor. Úsalo con discreción, a solas o con algunas personas cercanas especiales, y adopta perspectivas que pueden mejorar el resto de tu año. El 31 de octubre, la segunda luna llena del mes (y el eclipse lunar) está cargada de amor y afecto. Puede que no aparezca tu alma gemela, pero es una posibilidad. 

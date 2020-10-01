@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo capricornio septiembre 2020
-description: El Horóscopo septiembre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo capricornio octubre 2020
+description: El Horóscopo octubre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo capricornio septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo capricornio octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
- video: pe-RhLMeESs 
+ video: HbfX4z6rZSQ
 ogimg: /images/mes/capricornio_mes.png
 sitemap:
  priority: 1
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Sé una dedicada persona hogareña durante la luna llena del 1 de septiembre. Si tu trabajo o un grupo social se vuelve demasiado demandante o ambicioso, deja que tu hogar te acoja con paz y tranquilidad hechas a tu medida. Tanto tu profesión como condición social se ven impactadas por la luna nueva del día 17. Tal vez termines eligiendo otra cosa, pero verás lo que se puede hacer de una forma u otra. Ten fe en tus muchas habilidades y talentos. El 22 de septiembre, Mercurio se torna retrógrado en Aries. Esto te permite tomarte las cosas con mayor calma. Sé una persona elegante y encantadora para la luna llena, una luna azul, el último día del mes. Puede que los demás prefieran algo más descarado y emocionante. Déjalos.
+La Luna Llena y el Eclipse Lunar el 7 de octubre le dan energía a tus finanzas y situación económica en general. Gasta más sabiamente y reconoce algunos caminos para aumentar tus ingresos. Todo debería suceder con naturalidad, así que no sufras por las diferentes posibilidades ni le des muchas vueltas a nada. La Luna forma una cuadratura con Plutón antes de que Mercurio se torne retrógrado el 12 de octubre. Tú bien puedes trabajar con este aspecto. La Luna Nueva y el Eclipse Solar total del 21 de octubre podrían hacer resaltar algo que sientes que es de vida o muerte. Tú estás en control y tienes todo el poder. No dudes de tu habilidad para enfrentar y conquistar cualquier problema. Estás por encima de todos ellos. 

@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo virgo septiembre 2020 
+title: Horoscopo virgo octubre 2020 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: pe-RhLMeESs 
+ video: HbfX4z6rZSQ
 ogimg: /images/virgo_char.png
 sitemap:
  priority: 1
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-A principios de mes, ponte de nuevo en contacto con algunas amistades que pudieran haber estado ausentes últimamente. Es posible que una de ellas se ponga en contacto contigo primero alrededor de la Luna Llena del 3 de septiembre. Dale el tiempo que puedas sin abandonar tus propios planes. Puede que anheles unas vacaciones o por lo menos una larga escapada a mediados de mes, alrededor de la Luna Nueva del 17 de septiembre. El simple hecho de aclarar tu mente y obtener un poco de tranquilidad podría ser la pausa que necesitas. El 30 de septiembre podría ser emocionalmente rocoso, pero no tomarás decisiones precipitadas. Si deseas tiempo para descansar, tómalo.
+La Luna Nueva del 9 de octubre te anima a que vivas la vida de una manera un poco más grandiosa y audazmente este año. ¿Están la educación o un posible viaje llamándote? Ciertas amistades de más edad te apoyan. Una persona enérgica, tal vez pareja romántica, también te apoya. Podrías sentir como si el 18 de octubre fuera tu día bajo la Luna en Tauro, sin embargo, pocas cosas podrían salir según lo previsto debido a la cuadratura entre Venus y Júpiter. Tu vida hogareña es iluminada por la Luna Llena del 23 de octubre. Tu pareja o actual mejor amigo o amiga podría querer que salgas de fiesta, pero puede que tú prefieras quedarte cerca de casa para una noche glamorosa. Tú tienes la elección. 
