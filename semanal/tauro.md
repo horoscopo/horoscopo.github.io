@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 28 de septiembre 2020 al 04 de octubre 2020 
-description: Horóscopo semanal tauro 28 de septiembre 2020 al 04 de octubre 2020. Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte tauro, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
+title: tauro 05 de octubre 2020 al 11 de octubre 2020 
+description: Horóscopo semanal tauro 05 de octubre 2020 al 11 de octubre 2020. Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-28'
+ lastmod: '2020-10-05'
 ---
 
 
 
-## Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte tauro, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
+## Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 
-Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
- No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien. Un sueño podría inspirarte a avanzar con una idea. Si en él te ves como una persona con confianza y a cargo, puede que este sentimiento se transmita a tu vida diaria y que tenga un efecto positivo. Sin embargo, el fogoso Marte se vuelve retrógrado en tu sector de estilo de vida el jueves y permanece así hasta el sabado, lo que podría provocar algunas demoras. Sin importar cuáles sean tus planes, prepárate para inesperadas interrupciones que podrían llevarte a hacer algunos ajustes. 
-El miércoles, la luna llena en Capricornio y tu sector de recreación conecta con el ejemplar Saturno, lo que podría animarte a analizar cualquier frustración respecto a un proyecto creativo o incluso un nuevo romance. El conversador Mercurio, tu planeta regente, ingresa a Leo y a un sector más recluido de tu carta el jueves. Esto podría conectarte más profundamente con tus sentimientos. Quizás sea un buen momento para comenzar con la meditación o cualquier otra práctica que calme tu mente.
+Crees que puedes con todo tauro. 
+ Es tan complicado… Si has estado buscando el trabajo perfecto, uno que te permita ganar dinero y tener la libertad de ser tu propio jefe, podrías estar a punto de descubrirlo. Durante las siguientes semanas, analiza tus opciones y desarrolla un plan. Si lo haces de forma práctica y metódica, la experiencia puede resultar provechosa y lucrativa. Con la Luna Llena en tu sector de finanzas, podrías gastar dinero en objetos que te hagan sentir bien pero que en realidad no necesitas.
 
 ## Dinero
 
-Tienes emoción y ganas de hacer nuevos contactos. Cualquiera que sea tu profesión, encontrarás que es más fácil hacerla con amigos. El pedirle ayuda a un mentor o el simple hecho de presentarte ante alguien que te inspira, es el mejor uso que le puedes dar a tu energía. Algunos de esos mentores podrían ser tus hijos, familiares o socios.
+Estás pensando en grande esta semana. Puede que tengas la tentación de ponerte en contacto con los profesionales calificados que te ayudarán a poner tus finanzas en orden o bien decidir de una vez por todas el dejar de vivir esperando cheque tras cheque. Usa tu inteligencia innata y el poder de organización para hablar a favor de lo que quieres, y haz un plan infalible para lograr que se haga. Mantén enfoque y claridad acerca de  lo que quieres lograr.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 28 de septiembre 2020 al 04 de octubre 2020 
-description: Horóscopo semanal acuario 28 de septiembre 2020 al 04 de octubre 2020. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo acuario, se llama dignidad. 
+title: acuario 05 de octubre 2020 al 11 de octubre 2020 
+description: Horóscopo semanal acuario 05 de octubre 2020 al 11 de octubre 2020. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,17 +12,15 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-09-28'
+ lastmod: '2020-10-05'
 ---
 
 
 
-## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo acuario, se llama dignidad. 
+## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 
-Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
- La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa acuario? 
- todo lo que desea. Aunque no lo quieres admitir, tal vez tengas ganas de asegurarte un primer lugar relacionado con una aspiración o jugada profesional. Esta semana, emocionantes influencias podrían llevarte a hacer una movida audaz, sea prudente o no. Además, con la Luna Llena del miércoles en un sector superior de tu carta astral, podrías encontrarte en el centro de atención. Por este motivo, ayuda estar consciente de tus decisiones y de cualquier posible consecuencia.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos acuario así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar acuario, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz. Tómate tiempo para relajarte y conectar con tus sentimientos y más sinceros deseos. Si te has estado ocupando cumpliendo plazos, lidiando con las presiones de la vida cotidiana, y manteniendo todo bajo control, es el momento de descansar y recargar baterías. Date tiempo para reflexionar sobre cualquier problema, proyecto creativo o inspiradora idea, ya que el tiempo dedicado a hacerlo puede traerte las respuestas que necesitas. La Luna Nueva del Miércoles te invita a hacer de la meditación u otras prácticas espirituales algo regular con el fin de obtener paz mental.
 
 ## Dinero
 
-Algunos aspectos en tu sector de profesión te ponen de nuevo en contacto con la gente y los proyectos de tu pasado. Tienes tanta suerte en esta área de tu vida que te verás en la obligación de rechazar algunos de los trabajos que se te presenten. Evita el exceso de estrés mediante la adopción de algún tiempo de inactividad necesario. Un aspecto feliz muestra que tu lugar de trabajo está inundado de creatividad y buena voluntad. ¿Está detrás de todos estos cambios positivos? Sólo tú sabes a ciencia cierta.
+Estás en el cielo con respecto a tu carrera esta semana. Estás asumiendo una posición más poderosa en el trabajo y disfrutas de los salarios y beneficios que van junto con ella. Tu sector de vidas pasadas y sueños se acentúa. Hay tantas cosas pasando por tu mente inconsciente que puedes hasta sorprenderte de la cantidad de buenas ideas que tienes una vez que éstas alcancen la superficie.
