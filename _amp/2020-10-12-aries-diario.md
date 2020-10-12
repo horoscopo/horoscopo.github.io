@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/aries/
 home: FALSE
 horoscopo:
  signo: aries
- video: HbfX4z6rZSQ
+ video: JZkfmjv1sd8
 ogimg: /images/aries_char.png
 sitemap:
  priority: 1

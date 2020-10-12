@@ -9,7 +9,7 @@ redirect_from: /p/aries.html
 keywords: aries,horoscopo,horoscopo aries octubre 2020,horoscopo aries hoy,tarot aries octubre 2020,horoscopo aries,tarot aries hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy aries,horoscopo diario del tarot, Horoscopo de hoy aries 12 de octubre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: aries
- video: HbfX4z6rZSQ
+ video: JZkfmjv1sd8
 ogimg: /images/aries_char.png
 sitemap:
  priority: 1

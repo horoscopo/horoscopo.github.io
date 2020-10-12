@@ -9,7 +9,7 @@ redirect_from: /p/tauro.html
 keywords: tauro,horoscopo,horoscopo tauro octubre 2020,horoscopo tauro hoy,tarot tauro octubre 2020,horoscopo tauro,tarot tauro hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy tauro,horoscopo diario del tarot, Horoscopo de hoy tauro 12 de octubre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: tauro
- video: HbfX4z6rZSQ
+ video: JZkfmjv1sd8
 ogimg: /images/tauro_char.png
 sitemap:
  priority: 1

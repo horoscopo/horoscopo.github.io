@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo octubre, horoscopos en español, horóscopo acuario octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
- video: HbfX4z6rZSQ
+ video: JZkfmjv1sd8
 ogimg: /images/mes/acuario_mes.png
 sitemap:
  priority: 1

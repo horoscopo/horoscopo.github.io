@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: HbfX4z6rZSQ
+ video: JZkfmjv1sd8
 ogimg: /images/cancer_char.png
 sitemap:
  priority: 1

@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo octubre, horoscopos en español, horóscopo sagitario octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
- video: HbfX4z6rZSQ
+ video: JZkfmjv1sd8
 ogimg: /images/mes/sagitario_mes.png
 sitemap:
  priority: 1
