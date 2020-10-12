@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 05 de octubre 2020 al 11 de octubre 2020 
-description: Horóscopo semanal piscis 05 de octubre 2020 al 11 de octubre 2020. Nada tiene que ser ahora suficiente para ti piscis, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
+title: piscis 12 de octubre 2020 al 18 de octubre 2020 
+description: Horóscopo semanal piscis 12 de octubre 2020 al 18 de octubre 2020. No te destruyas piscis, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-05'
+ lastmod: '2020-10-12'
 ---
 
 
 
-## Nada tiene que ser ahora suficiente para ti piscis, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
+## No te destruyas piscis, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 
-Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres… Esta semana y las que se aproximan podrían ser buenas para organizarte en el hogar, ya sea despejando clósets, haciendo las tareas de la casa y asegurándote de que todo esté en su lugar. Quizás seas capaz de ganar un dinero extra vendiendo artículos que ya no necesitas. Otro aspecto clave sugiere que, si te dispones a cooperar con alguna amistad o grupo, puede lograrse algo único. Mezclar información nueva con las técnicas confiables de siempre podría preparar el camino hacia el éxito.
+Bueno piscis, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así. Es posible que estés creando un problema que realmente no existe, especialmente si no has hablado con nadie al respecto y es una carga para ti. Durante los siguientes días, habla con una persona de confianza, ya que podría ayudarte a sentirte mucho mejor. Es posible que te des cuenta de que lo que te inquietaba no era tan grave como pensabas. La Luna Llena del 13 de $MES en tu eje de recreación puede coincidir con un encuentro fogoso.
 
 ## Dinero
 
-Ahora tienes ventaja en tu sector profesional. Tus metas profesionales a largo plazo se han estado poniendo en enfoque durante cierto tiempo. Pero ahora tienes la creatividad, la capacidad intelectual, el hambre y la inventiva para hacer las cosas. El único inconveniente es que los cambios de carrera que realices no siempre le sienten bien a tu ego. Debes saber que al final, son por tu bien.
+Se indica un tiempo de cambio con respecto a los asuntos de carrera y figuras de autoridad. El Universo apoya nuevos cambios que deseas hacer en tu carrera y te ofrece un impulso. Sin embargo, las influencias pueden ya sea ser creativas o confusas, dependiendo de cómo se usan. Elige tu camino con cuidado y con intención.

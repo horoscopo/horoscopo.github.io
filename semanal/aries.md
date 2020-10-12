@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 05 de octubre 2020 al 11 de octubre 2020 
-description: Horóscopo semanal aries 05 de octubre 2020 al 11 de octubre 2020. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: aries 12 de octubre 2020 al 18 de octubre 2020 
+description: Horóscopo semanal aries 12 de octubre 2020 al 18 de octubre 2020. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,17 +12,15 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-05'
+ lastmod: '2020-10-12'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 
-Estás bien aquí, estás bien allí, y en cuanto las cosas se complican un poquito, por poco que sea, huyes. Está bien que vivas de esas manera, buscando en realidad cualquier lugar que te de felicidad, cualquier momento sea cual sea y donde sea. Pero 
- un poquito de ella. Tu vida amorosa se ve positivamente radiante este mes, cuando el seductor Venus ingresa a Virgo y a tu sector de relaciones el lunes. Su presencia puede agregar algo de dulzura a su relación y aportar romance a los nuevos lazos.Además, el expansivo Júpiter se vuelve directo en tu sector de viajes y exploración, por lo que es el momento ideal para reservar unas vacaciones o planificar una aventura viajera. Además, cuando el delicioso Venus forma una animada conexión con el incansable Urano el miércoles, un encuentro podría agregar un toque especial a los próximos días. 
-Aun así, con el eclipse solar en tu sector de recreación y romance el jueves, pueden avecinarse beneficiosos cambios. Esta es la oportunidad de hacer borrón y cuenta nueva, y tal vez de alejarte de una amistad que parece un poco tóxica. Mantente firme con esto. Tu creatividad y las oportunidades románticas aumentarán cuando estés fuera del alcance de esta persona.
+Los finales no significan que hayas fallado en algo aries, los finales a veces sirven para abrir nuevas puertas a algo. aries, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza aries… Puede que tengas que pasar bruscamente tu atención al plano financiero, especialmente si una decisión tiene que ser hecha. Si estás considerando invertir en propiedades o cualquier otro negocio, investiga bien primero con tal de evitar decepciones o malos tratos. También podrías apreciar algo de tiempo a solas, especialmente si últimamente no has tenido mucho tiempo libre. Una vez que te salgas de tu zona de confort te divertirás mucho con la posibilidad de una conexión amorosa. ¡Evita gastar impulsivamente este fin de semana!
 
 ## Dinero
 
-Puede que te pongas las pilas esta semana. Tus habilidades de comunicación están aumentando, mostrando que se puede salir adelante a través de ser firme y claro/a con los que te rodean. Pide lo que deseas y es posible que lo consigas en el trabajo y en tu vida monetaria. Aunque las cosas pueden ser tensas, así que es mejor mantenerse limpios kármicamente hablando. No utilices tus palabras para hacer daño.
+Tienes actividad en tu sector de relaciones esta semana. Una nueva relación podría materializarse de la nada y resultar económicamente beneficiosa para ambas partes. En este momento, tu atención tiene que enfocarse en la construcción de tu carrera. La elaboración de un plan a cinco años puede no ser una mala idea tampoco. Es más fácil hacer que el dinero que deseas se manifieste cuando este paso se haya dado.
