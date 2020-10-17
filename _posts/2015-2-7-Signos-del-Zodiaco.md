@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de octubre 2020
-description: Horóscopos del dia de hoy 16 de octubre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de octubre 2020
+description: Horóscopos del dia de hoy 17 de octubre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-10-16
+ lastmod: 2020-10-17
 ---
-¡La vida no podía ser mejor! Prepárate para una vida llena de magia proveniente de Júpiter en tu signo. Lánzate a seguir tus sueños. Esta noche, Venus, el astro del amor, está a punto de cambiar de signo. Se requiere de un poco de comprensión para saber lo que las personas realmente quieren y no lo que dicen querer.
+Es hora de convertir al caos en orden conforme Mercurio entra al minimalista Virgo, el regente de la organizada simplicidad. Prepárate para reducir todo a sus elementos más simples. La atmósfera es a menudo emocional y pesada cuando la Luna aspecta a Plutón como lo hace esta noche. Una gran cantidad de sentimientos pueden ser desperdiciados en cosas que realmente no importan.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
