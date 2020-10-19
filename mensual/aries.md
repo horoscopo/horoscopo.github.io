@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo octubre, horoscopos en español, horóscopo aries octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
- video: JZkfmjv1sd8
+ video: NP7obINoakQ
 ogimg: /images/mes/aries_mes.png
 sitemap:
  priority: 1

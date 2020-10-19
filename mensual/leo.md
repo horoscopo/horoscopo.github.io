@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo octubre, horoscopos en español, horóscopo leo octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
- video: JZkfmjv1sd8
+ video: NP7obINoakQ
 ogimg: /images/mes/leo_mes.png
 sitemap:
  priority: 1

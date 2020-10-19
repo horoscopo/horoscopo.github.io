@@ -9,7 +9,7 @@ redirect_from: /p/acuario.html
 keywords: acuario,horoscopo,horoscopo acuario octubre 2020,horoscopo acuario hoy,tarot acuario octubre 2020,horoscopo acuario,tarot acuario hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy acuario,horoscopo diario del tarot, Horoscopo de hoy acuario 19 de octubre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: acuario
- video: JZkfmjv1sd8
+ video: NP7obINoakQ
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1

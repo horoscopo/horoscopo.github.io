@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
- video: JZkfmjv1sd8
+ video: NP7obINoakQ
 ogimg: /images/sagitario_char.png
 sitemap:
  priority: 1

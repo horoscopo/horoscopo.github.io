@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo octubre, horoscopos en español, horóscopo cancer octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
- video: JZkfmjv1sd8
+ video: NP7obINoakQ
 ogimg: /images/mes/cancer_mes.png
 sitemap:
  priority: 1

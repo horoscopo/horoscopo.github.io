@@ -9,7 +9,7 @@ redirect_from: /p/leo.html
 keywords: leo,horoscopo,horoscopo leo octubre 2020,horoscopo leo hoy,tarot leo octubre 2020,horoscopo leo,tarot leo hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy leo,horoscopo diario del tarot, Horoscopo de hoy leo 19 de octubre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: leo
- video: JZkfmjv1sd8
+ video: NP7obINoakQ
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1

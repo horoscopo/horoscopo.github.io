@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
- video: JZkfmjv1sd8
+ video: NP7obINoakQ
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1
