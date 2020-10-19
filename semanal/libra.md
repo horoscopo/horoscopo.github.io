@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 12 de octubre 2020 al 18 de octubre 2020 
-description: Horóscopo semanal libra 12 de octubre 2020 al 18 de octubre 2020. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+title: libra 19 de octubre 2020 al 25 de octubre 2020 
+description: Horóscopo semanal libra 19 de octubre 2020 al 25 de octubre 2020. Semana de reflexión libra, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya libra. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-12'
+ lastmod: '2020-10-19'
 ---
 
 
 
-## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+## Semana de reflexión libra, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya libra. 
 
-Llega una buenísima semana libra pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien libra, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado libra, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo libra, pelea por lo que te mereces. Una relación podría parecer muy especial y prometer mucho al principio de la semana. Sin embargo, si te da nervios el acercarte a esta persona, esto podría poner un obstáculo entre ustedes. Si sientes miedo y puedes vencerlo, puede que descubras que no había nada de qué preocuparse. El vital Marte ingresa a tu sector de comunicación y pensamiento el fin de semana, lo que puede darte la oportunidad de entablar relaciones y conectar con personas que estén en tu misma sintonía.
+Parece que no todo va tan mal, no ¿libra? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada. Estás en tu elemento y con ganas de explorar tu creatividad, romance y actividades de carácter empresarial. Tus mejores momentos suceden cuando piensas y organizas las cosas bajo presión. La Luna Llena en Acuario del Viernes les trae una agradable y optimista energía a eventos sociales clave, haciéndolos más agradables de lo habitual. Venus regresa de nuevo a tu signo, lo que podría llevarte a criticar un poco más tu imagen y darte el deseo de hacer algunos cambios. ¡El romance requiere de un manejo cuidadoso también!
 
 ## Dinero
 
-Esta semana trae el mensaje de que es el momento de tomar en serio tu carrera y las figuras de autoridad en tu vida. Si estás tratando de salir adelante, puede ser mejor que tomes una pausa de unos meses, preparándote para asumir una nueva posición y luego empezar después de este cambio. A pesar de que normalmente te orientas hacia la acción, el avance no pasará hasta que las cosas tengan que pasar.
+Esta semana es como una bolsa mixta de tu “yo”. Por un lado, tienes una energía repentina y expansiva afectando a tu sector de grupos y negocios propios, lo que sugiere que puede que estés pensando en convertir una habilidad en un negocio rentable. Por otro lado, tu sector de deuda y el dinero de otras personas entran en juego. No pidas prestado más de lo que te puedes permitir con el fin de lograr que este negocio entre en marcha.

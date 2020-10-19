@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 12 de octubre 2020 al 18 de octubre 2020 
-description: Horóscopo semanal tauro 12 de octubre 2020 al 18 de octubre 2020. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+title: tauro 19 de octubre 2020 al 25 de octubre 2020 
+description: Horóscopo semanal tauro 19 de octubre 2020 al 25 de octubre 2020. Deja que duela tauro, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-12'
+ lastmod: '2020-10-19'
 ---
 
 
 
-## No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+## Deja que duela tauro, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
 
-Ojalá pudiéramos tener un botón de reinicio en la vida tauro, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados. Podrías reflexionar bastante al comienzo de la semana. Esto puede llevarte a tomar una decisión que has estado ponderando durante algún tiempo. Una vez que la tomes, deberías sentir un gran alivio. En general, el cosmos te anima a relajarte y reflexionar cada vez que sea posible. Cuando el encantador Venus ingresa a un sector más privado de tu carta el viernes, esta sutil influencia te animará a mejorar tu relación con tu persona y tu lado espiritual. Por último, tus amistades podrían ser bastante idealistas, lo cual podría mejorar tu estado de ánimo.
+Ommmm… Ommmm… Relax tauro, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira tauro, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas tauro, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros. Tus oportunidades hogareñas continúan vislumbrándose buenas, incluyendo muchas opciones para expandirte. Esto podría significar abrir tu propio negocio desde tu hogar o mudarte a un lugar con más espacio. Sin embargo, es posible que tengas algunos problemas en el trabajo debido a que algunas personas podrían presionar para establecer su propia agenda. Requerirás de mucho tacto y diplomacia si quieres eludir cualquier demanda y mantenerte en buenos términos. Además, ¡una noticia inesperada con respecto a un plan o meta también podría ser de tu interés!
 
 ## Dinero
 
-Esta semana estás lidiando con un tipo de energía preocupante. El Universo quiere que intercambies información con los que te rodean, en especial respecto a tu vida monetaria. De hecho, puede que estés tan ocupado/a con tus planes de aumentar tu conocimiento que no tienes tiempo para atender a las demandas de tu lugar de trabajo. Error en el campo de la comunicación. Tu ambición depende de tu capacidad de decirle claramente a los demás lo que necesitas y deseas.
+Tienes una energía muy favorable en tu sector de profesión esta semana, ayudándote a convertirte en la figura de autoridad en tu propia vida. En lugar de depender de otros para crear tus oportunidades de ganar dinero, las estás haciendo tú mismo/a. Empezar un nuevo negocio podría traerte una gran cantidad de dinero. Se te proporciona el combustible para el fuego que puede traer todo tipo de ideas interesantes desde el Universo de ensueño.
