@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
- video: NP7obINoakQ
+ video: yfykjnyBZy8
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1

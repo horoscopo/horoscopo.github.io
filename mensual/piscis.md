@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo octubre, horoscopos en español, horóscopo piscis octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
- video: NP7obINoakQ
+ video: yfykjnyBZy8
 ogimg: /images/mes/piscis_mes.png
 sitemap:
  priority: 1

@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo octubre, horoscopos en español, horóscopo escorpio octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
- video: NP7obINoakQ
+ video: yfykjnyBZy8
 ogimg: /images/mes/escorpio_mes.png
 sitemap:
  priority: 1
