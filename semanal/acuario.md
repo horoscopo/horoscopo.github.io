@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 19 de octubre 2020 al 25 de octubre 2020 
-description: Horóscopo semanal acuario 19 de octubre 2020 al 25 de octubre 2020. Hay cosas que no quieres que ocurran pero que debes aceptar acuario, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+title: acuario 26 de octubre 2020 al 01 de noviembre 2020 
+description: Horóscopo semanal acuario 26 de octubre 2020 al 01 de noviembre 2020. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: NP7obINoakQ
+ video: JZkfmjv1sd8
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-19'
+ lastmod: '2020-10-26'
 ---
 
 
 
-## Hay cosas que no quieres que ocurran pero que debes aceptar acuario, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-A veces las cosas tienen que ser a tu manera o a ninguna acuario, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada acuario. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope. La alineación actual podría encontrarte considerando ideas empresariales en tu búsqueda de una que sea la correcta para ti. Pero debido a que Mercurio entró a la escena, no te limites a una o dos. Puede que encuentres un número de oportunidades que parezcan bastante prometedoras una vez que comiences a buscar. La entrada de Venus a Cáncer del viernes podría verte querer ampliar tu ámbito de acción. Si tu tiempo ha estado ocupado últimamente, la idea de una escapada a un lugar exótico bien podría llamarte la atención.
+Para alcanzar la felicidad, TÚ FELICIDAD, 
+y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible… Los asuntos monetarios se vislumbran prometedores esta semana, cuando podías recibir un golpe de suerte, reembolso, o una cantidad de dinero en efectivo justo en el momento ideal. Este podría ser uno de los mejores momentos para iniciar un negocio, especialmente el viernes, cuando la Luna Nueva en tu sector empresarial puede darle un buen comienzo. De hecho, te podría ir extremadamente bien durante los próximos doce meses. Tu vida social también está a punto de volverse muy activa, ¡así que prepárate!
 
 ## Dinero
 
-Esta semana estás en el meollo de las cosas con ciertos aspectos afectando tu sector de dinero y valores. Se te está forzando hacia cierta área de tu vida que ha sido desatendida durante demasiado tiempo. Pon un poco más de tu pensamiento y acción en cómo ganar dinero y cuánto quieres ganar en el futuro.
+Estás enfocado/a en tu carrera y la forma de acercarte a tus metas. Es posible que desees más seguridad en este momento de tu vida, y un salario con el que sabes que podrías vivir cómodamente. Aunque esto puede requerir que asumas una mayor responsabilidad o trabajar más horas, estás en buen camino hacia el logro de tus objetivos. Una luz brilla en tu sector deuda, págala mientras subes los escalones del éxito.

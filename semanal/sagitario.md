@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: sagitario 19 de octubre 2020 al 25 de octubre 2020 
-description: Horóscopo semanal sagitario 19 de octubre 2020 al 25 de octubre 2020. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento sagitario. Hay personas a las que TÚ debes dar ese escarmiento.
+title: sagitario 26 de octubre 2020 al 01 de noviembre 2020 
+description: Horóscopo semanal sagitario 26 de octubre 2020 al 01 de noviembre 2020. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
- video: NP7obINoakQ
+ video: JZkfmjv1sd8
 ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-19'
+ lastmod: '2020-10-26'
 ---
 
 
 
-## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento sagitario. Hay personas a las que TÚ debes dar ese escarmiento.
+## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 
-Hay cosas que no se pueden cambiar sagitario, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos sagitario, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia sagitario pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va. La Luna Nueva en tu signo del lunes es la mejor del año para ti, ya que te sirve de plataforma para lograr un nuevo comienzo. Esta Luna Nueva es como tener otro cumpleaños - cuando existe la posibilidad de que tus deseos sean concedidos. Valdría la pena pasar tiempo pensando en cuales son las cosas que quieres lograr en los próximos meses y escribirlas. Puede que te sorprendas de cuántas se vuelven realidad como resultado. Además, un nuevo romance también podría florecer.
+Nadie se cura por herir a otro sagitario. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño. Con Marte en tu sector de creatividad, las próximas semanas pueden ser una oportunidad de oro para mostrar tus habilidades y demostrarle al mundo lo que puedes hacer. Te destacas en los trabajos de diseño o cualquier otra actividad que sea artística o creativa. Si puedes usar medios tecnológicos para comunicarles tu mensaje a las personas indicadas, puedes hacerlo a la perfección. También es posible que descubras un talento que no aprovechas al máximo.
 
 ## Dinero
 
-Esta semana los aspectos ponen más atención en tu sector de relaciones. Puede ser que tu mente esté en la persona con quien estás saliendo (o con quien quieres salir) en lugar de tu trabajo o vida monetaria. Podrías estar examinando cómo ese alguien tan especial puede ayudarte a ganar más, ahorrar más y planificar un mejor futuro financiero. El agregar más a tu educación a través de clases y talleres podría hacerte una triple amenaza en el trabajo.
+Esta semana se trata no sólo de mejorar tu estilo personal (a pesar de que podría utilizar algo de ayuda también), sino también de la forma en que te expresas. Tiene ideas creativas acerca de cómo hacer esto, y sobre los medios para convencer a los demás de que tienes la razón. Después de todo, no todo el mundo va a estar de acuerdo con todos los cambios. Mientras tanto, ciertos aspectos aportan ideas únicas que nadie más tiene. Tu poder adquisitivo aumenta.

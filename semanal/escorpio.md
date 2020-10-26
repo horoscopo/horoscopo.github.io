@@ -1,27 +1,26 @@
 ---
 layout: horoscopos
-title: escorpio 19 de octubre 2020 al 25 de octubre 2020 
-description: Horóscopo semanal escorpio 19 de octubre 2020 al 25 de octubre 2020. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: escorpio 26 de octubre 2020 al 01 de noviembre 2020 
+description: Horóscopo semanal escorpio 26 de octubre 2020 al 01 de noviembre 2020. Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
- video: NP7obINoakQ
+ video: JZkfmjv1sd8
 ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-19'
+ lastmod: '2020-10-26'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## Tómate un tiempo Sagi, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
-Siempre estás sonriendo escorpio, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes escorpio pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio escorpio, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho. El martes, el incansable Mercurio ingresa a Cáncer y a tu sector de familia y hogar, lo que puede ser excelente para la organización, en especial si estás planeando hacer algunos proyectos u otras tareas del hogar. La luna nueva del miércoles en tu sector de comunicación puede ser la ocasión perfecta para comenzar un proyecto o hacer importantes cambios. Si fluyes con esta energía, quizás descubras que la marea de luna te lleva y que las cosas se acomodan más fácilmente gracias a ella. Sin embargo, no todo es trabajo. 
-El encantador Venus hace su entrada al carismático Leo también el miércoles, lo que podría animarte a disfrutar de más diversión. Si esto incluye creativos pasatiempos y un poco de romance, mejor. El adorable Venus también se dirige al eléctrico Urano, por lo que un encuentro podría hacerte reflexionar bastante. Por último, puede que sea difícil persuadir a alguien para que haga algo el viernes. Ni siquiera lo intentes. 
+Tu cabeza quiere un cambio escorpio, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira escorpio, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero escorpio por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip. El romance es una posibilidad si estás de viaje. O puede que tengas la posibilidad de revivir la llama del amor si es que ya tienes pareja. De cualquier modo, alejarte de todo puede tener una positiva recompensa y darte la posibilidad de desconectarte de todo después de una época de agenda ocupada. Verifica los detalles si planeas viajar, ya que una extraña conexión entre el acelerado Mercurio y el etéreo Neptuno sugiere la posibilidad de cometer errores. Puede que debas enfocarte en los intensos sentimientos entre tú y una de tus amistades si es que quieres llegar a un acuerdo.
 
 ## Dinero
 
-Es necesario el llegar a tener mucha más apertura y comunicación en el trabajo. Otros pueden estar contando contigo para obtener información que necesitan para realizar sus diversas funciones, así que asegúrate de no descuidar los e-mails o mensajes. El Universo te da aún más razones para hablar desde el corazón sobre lo que necesitas, tanto en el trabajo como en tu vida personal.
+Es una semana extraña en tu sector de empleo. Parte de ti quiere avanzar mientras que otra parte de ti quiere quedarse atrás, así que puede que te sea difícil avanzar en las diversas cuestiones relacionadas con el trabajo. Puede haber algo de tensión entre tu deseo de avanzar en tus objetivos de carrera y la realidad en cómo te estás proyectando actualmente hacia el mundo. Es hora de intensificar tu espíritu.

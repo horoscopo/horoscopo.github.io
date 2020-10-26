@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: tauro 19 de octubre 2020 al 25 de octubre 2020 
-description: Horóscopo semanal tauro 19 de octubre 2020 al 25 de octubre 2020. Deja que duela tauro, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+title: tauro 26 de octubre 2020 al 01 de noviembre 2020 
+description: Horóscopo semanal tauro 26 de octubre 2020 al 01 de noviembre 2020. El mundo puede esperar tauro, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: NP7obINoakQ
+ video: JZkfmjv1sd8
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-19'
+ lastmod: '2020-10-26'
 ---
 
 
 
-## Deja que duela tauro, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+## El mundo puede esperar tauro, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-Ommmm… Ommmm… Relax tauro, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira tauro, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas tauro, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros. Tus oportunidades hogareñas continúan vislumbrándose buenas, incluyendo muchas opciones para expandirte. Esto podría significar abrir tu propio negocio desde tu hogar o mudarte a un lugar con más espacio. Sin embargo, es posible que tengas algunos problemas en el trabajo debido a que algunas personas podrían presionar para establecer su propia agenda. Requerirás de mucho tacto y diplomacia si quieres eludir cualquier demanda y mantenerte en buenos términos. Además, ¡una noticia inesperada con respecto a un plan o meta también podría ser de tu interés!
+A veces amas demasiado tauro, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar tauro, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. tauro, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. tauro, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos tauro, y siente… Feliz semana… Esta podría ser una semana de cambios radicales debido a que el eclipse lunar en tu sector de transformación te alienta a dejar atrás tu pasado. Puede que tus instintos te estén diciendo que si deseas seguir con tu vida, deberás abandonar todas las condiciones y situaciones en tu vida que ya no te hacen bien. También es posible que sepas cuáles son estas condiciones y situaciones, solo que no quieres dejarlas ir. Es natural. No te apresures. La intención de tomar una decisión puede ser un positivo comienzo.
 
 ## Dinero
 
-Tienes una energía muy favorable en tu sector de profesión esta semana, ayudándote a convertirte en la figura de autoridad en tu propia vida. En lugar de depender de otros para crear tus oportunidades de ganar dinero, las estás haciendo tú mismo/a. Empezar un nuevo negocio podría traerte una gran cantidad de dinero. Se te proporciona el combustible para el fuego que puede traer todo tipo de ideas interesantes desde el Universo de ensueño.
+Puede que estés reconsiderando tus patrones de gasto conforme los estados de cuenta de tarjetas de crédito llegan esta semana. Si te sorprende lo mucho que has gastado (¿cuánto costaron esos últimos zapatos que compraste?), ¡culpa a los planetas! La ayuda proveniente de tu sector de hogar ya se encuentra en camino. Comenzar un negocio desde casa puede traer el dinero extra que necesitas a corto plazo. ¡Usa tus habilidades!
