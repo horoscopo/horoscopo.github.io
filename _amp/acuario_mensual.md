@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo acuario octubre 2020 
+title: Horoscopo acuario noviembre 2020 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La luna llena del 1 de octubre sugiere que mantengas un perfil bajo y disfrutes de un buen momento para relajarte intensamente y en privado. Medita sobre cosas importantes. Haz pequeñas cosas en la casa para maximizar la paz y la comodidad. Sé una persona más sana y mejor organizada con la luna nueva del día 16. Haz un leve cambio en tu dieta o en cómo ordenas tu guardarropa. Siéntete mejor sobre todas las cosas y continúa desde allí. La segunda luna llena del mes, el 31 de octubre, es un eclipse lunar en el nodo lunar norte. Mantente alerta sobre un giro kármico de eventos que te cuide y apoye. 
+La Luna Llena del 10 de noviembre es rica en misterio y secretos recién revelados. Desde tu tranquilo y objetivo punto de vista, podrías enterarte de más de lo que desearías saber, posiblemente sobre un largo grupo de personas. Marte entra a Géminis el 21 de noviembre, haciendo que las personas se pongan habladoras. Sé paciente y tómate algo de tiempo a solas si las cosas se vuelven demasiado intensas. La Luna Nueva del 26 de noviembre te trae una gran cantidad de nuevo amor. Podría ser un nuevo romance o una visión fresca y poderosa que enriquezca tu relación actual. Encuentren una nueva manera de hacer su amor más estable y confiable.

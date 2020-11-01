@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo capricornio octubre 2020 
+title: Horoscopo capricornio noviembre 2020 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
@@ -14,4 +14,6 @@ sitemap:
 ---
 
 
-La Luna Llena y el Eclipse Lunar el 7 de octubre le dan energía a tus finanzas y situación económica en general. Gasta más sabiamente y reconoce algunos caminos para aumentar tus ingresos. Todo debería suceder con naturalidad, así que no sufras por las diferentes posibilidades ni le des muchas vueltas a nada. La Luna forma una cuadratura con Plutón antes de que Mercurio se torne retrógrado el 12 de octubre. Tú bien puedes trabajar con este aspecto. La Luna Nueva y el Eclipse Solar total del 21 de octubre podrían hacer resaltar algo que sientes que es de vida o muerte. Tú estás en control y tienes todo el poder. No dudes de tu habilidad para enfrentar y conquistar cualquier problema. Estás por encima de todos ellos. 
+Una preocupación monetaria o material podría surgir cerca de la Luna Nueva del 9 de noviembre. No se verá ni sonará simple, pero lo será. No dejes que las opiniones de otras personas enturbien tus aguas mentales. Puedes hacerlo. La Luna Nueva del 23 de noviembre te abre la puerta a un rol mucho más grande en un mundo mucho más grande. Puede que estés reticente a avanzar y tomar tu lugar, pero podrás hacer y decir cosas fantásticas e impresionantes para ti y para los demás. El 29 de noviembre, la oposición Mercurio/Plutón podría revelar la agenda oculta o las verdaderas intenciones de una persona.
+
+Mejores días: 1, 11, 20Peores días: 8, 22

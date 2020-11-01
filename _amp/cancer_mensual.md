@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo cancer octubre 2020 
+title: Horoscopo cancer noviembre 2020 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La Luna Llena del 5 de octubre te recuerda que debes cuidar de tus emociones y no seguir el camino de alguien cercano a ti a quien le parece estar yendo muy bien, pero que está sufriendo por dentro. Ofrece tu apoyo discretamente si crees que sería aceptado y no le ofendería. La Luna Nueva y Eclipse Solar del 20 de octubre tendrá un efecto tenue sobre ti. Los sentimientos y las opiniones serán fuertes, pero puede que te frustre el hecho de que no puedes hacer todo lo que quieres a la vez. Piensa y planifica más ahora y actúa después. La Luna forma un amigable sextil con Marte en Aries el 26 de octubre. Compórtate enérgicamente y tu competencia no te verá ni el polvo.
+El Eclipse Solar de Luna Nueva el 1 de noviembre desencadena una explosión de diversión y alegría. La diversión puede tener un lado serio, así que no rechaces esta oportunidad de disfrutar de la vida. Tendrás gran atractivo y encanto sin importar tu estado de ánimo. El Eclipse de Luna Llena del 16 de noviembre ilumina tu vida social y cualquier club u organización que disfrutes o a la que pertenezcas. La gente a tu alrededor podría andar un poco sensible, pero eso no te ahuyentará. Sé la persona sensata en la habitación y deja que los demás se desahoguen si es lo que necesitan. Ponle orden a tu vida bajo la Luna Nueva del 30 de noviembre al darles a tus mascotas, plantas y posesiones un poco de cuidado extra.

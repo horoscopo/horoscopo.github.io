@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo piscis octubre 2020 
+title: Horoscopo piscis noviembre 2020 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Podrías sentir inquietud e insatisfacción durante la Luna Llena y el Eclipse Lunar el 7 de octubre. No puedes ir a todos lados y hacerlo todo, todo el tiempo. Involúcrate en algo más cerca de casa, profundiza en ello, y descubre qué tan fascinante puede volverse. Mercurio se torna retrógrado en Virgo el 12 de octubre, ayudándote a atar muchos cabos. La Luna Nueva y el Eclipse Solar total del 21 de octubre reaniman una amistad o relación familiar que solías disfrutar más. Haz que tu niño o niña interior sea feliz, y haz que los demás también sean felices. Deja que tu curiosidad te lleve a donde quieres ir. 
+La Luna Nueva del 2 de noviembre te anima a salir adelante y comenzar ese nuevo y loco proyecto o iniciar ese difícil deporte. Te cuidado y monitorea tu presupuesto, pero, sobre todo, disfruta de satisfacer ese fantástico deseo. La Luna Llena del 18 de noviembre destella con una brillante vida social. Viste de lo mejor y acude a un lugar muy exclusivo. Es posible que gastes un poco más de dinero o pases más tiempo en él del que tenías planeado. Ponte tu sombrero de comandante el 24 de noviembre, cuando Marte y Saturno conecten en Virgo. Toma el mando y delega con habilidad. Cuando emitas ordenes, hazlas sonar como si fueran peticiones y las verás cumplidas al instante.

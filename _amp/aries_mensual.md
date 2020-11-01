@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo aries octubre 2020 
+title: Horoscopo aries noviembre 2020 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
@@ -14,10 +14,4 @@ sitemap:
 ---
 
 
-Venus se torna estacionario retrógrado el 5 de octubre. El amor se vuelve intenso en formas más tranquilas, profundas y menos obvias. Examina y cultiva una relación, pero trata de posponer cualquier compromiso formal hasta después del 16 de octubre. 
-Piensa lo que quieras durante la luna nueva del día 8, pero la verdad se volverá obvia. Reconoce la realidad de una situación, y mira un conflicto dar un giro y así sanarse solo. 
-La luna forma una conjunción con Neptuno el 20 de octubre. Buenas amistades y buenas conversaciones podrían impulsar un nuevo sueño. Esto por sí solo mejora la moral. A veces es bueno soñar. 
-El mundo es un lugar hermoso durante la luna llena del día 24. Tu satisfacción será contagiosa, y la gente será capaz de ver más de tu belleza interna. Relájate, sé popular, y disfruta de la emoción y diversión. 
-Mercurio forma una conjunción con Júpiter el 29 de octubre. Piensa en grande, de una forma más práctica, y tendrás mucho para decir. Las personas quieren escuchar tu perspectiva. 
-Días destacados: 10, 11, 19
-Días desafiantes: 4, 26
+Alrededor de la Luna Nueva del 11 de noviembre, sal a codearte con un gran número de gente nueva. Puede que vayas a algún lugar exótico, una gran fiesta o evento social. Déjate estimular tanto por gente como bromas y conversaciones. La Luna cuadra a Urano el 13 de noviembre, cuando podrías decidir que un plan anteriormente determinado podría ser divertido, pero también demasiado loco. Puede que se te mime con una modesta pero sincera celebración navideña alrededor de la Luna Llena del 25 de noviembre. Ya sea que se trate de Navidad o una de las otras fiestas de temporada, puede que se filtre en tu corazón y quizás cure una herida que no sabías que estaba allí.       

@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo leo octubre 2020 
+title: Horoscopo leo noviembre 2020 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
@@ -14,7 +14,4 @@ sitemap:
 ---
 
 
-Amistades y diversión cerca del hogar puede ser lo que buscas durante la luna nueva del 13 de octubre. ¿Para qué atascarte en el tránsito cuando puedes pasar un buen rato y estar más cerca? Concéntrate en divertirte con personas relajadas. El día 26, Marte se torna retrógrado en Acuario. Tómate tu tiempo para pensar, y no te apresures con nada. Mantén las pasiones bajo control, y dale una mayor oportunidad a la paciencia y buenos modales. La luna llena del 27 de octubre ilumina directamente tu camino profesional y condición social. Si te enfrentas a demandas u opiniones irracionales, sé paciente y firme. Hay gente que depende de tu sólido sentido común y desempeño. 
-
-Días destacados: 3, 20, 30
-Días desafiantes: 16, 21
+Tu salud resplandece bajo la Luna Nueva del 4 de noviembre. Si has estado bajo estrés o sintiéndote mal, esas nubes se están alejando. Adopta una vida más activa sin temor a sufrir de un esfuerzo excesivo o de un comienzo demasiado arrebatado. Puede que no estés pensando conscientemente en ti primero, pero a tu cuerpo le gustaría que así fuese. El tema de la Luna Llena del 20 de noviembre es amor. Es posible que a veces desees esconderte, pero no te molestes en hacerlo. El amor te está buscando y es más persistente que tú. El trígono entre Venus y Neptuno del 27 de noviembre trae consigo aún más oportunidades románticas, especialmente con el trígono entre la Luna y Saturno de altas horas de la noche.

@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo geminis octubre 2020 
+title: Horoscopo geminis noviembre 2020 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El 1 de octubre, la luna llena quiere que estés saludable y feliz en todas las pequeñas cosas que haces día a día. Aprecia algo pequeño, ya sea una planta que florece en tu casa o una nueva taza para el café, y date cuenta de que, en realidad, que sea pequeño no significa que sea insignificante. La luna nueva del día 16 te promete un tiempo de descanso en privado muy enriquecedor. Úsalo con discreción, a solas o con algunas personas cercanas especiales, y adopta perspectivas que pueden mejorar el resto de tu año. El 31 de octubre, la segunda luna llena del mes (y el eclipse lunar) está cargada de amor y afecto. Puede que no aparezca tu alma gemela, pero es una posibilidad. 
+Todos los ojos podrían estar en ti bajo la Luna Nueva del 8 de noviembre. Tómate tu tiempo, esfuérzate lo más que puedas y aprende de todo y de todos. Si repites un pequeño error de juicio, relájate. Tal tiene una solución simple y fácil que ya conoces. Algunas de tus amistades podrían querer tu opinión bajo la Luna Llena del 23 de noviembre. Tengan discusiones creativas y divertidas, más adviérteles a tus amigos que todo es un experimento y que deben escuchar lo que les dicte su corazón. Por último, la conjunción entre Mercurio y Urano del 31 de noviembre podría desencadenar salvajes pensamientos y locos planes. Juega a lo seguro, pero también déjate llevar.

@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo sagitario octubre 2020
-description: El Horóscopo octubre de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo sagitario noviembre 2020
+description: El Horóscopo noviembre de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo octubre, horoscopos en español, horóscopo sagitario octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo noviembre, horoscopos en español, horóscopo sagitario noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: yfykjnyBZy8
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Durante la Luna Llena en Cáncer el 12 de octubre, te dispondrás a sacrificarte por amor. Quizás sea el momento de un gran cambio. Un amante completamente nuevo podría aparecer de la nada, con la intención de sacrificarse por ti. El 16 de octubre, los sentimientos andarán frágiles y sería difícil herirlos. Habla con mucho cuidado, porque podría ser fácil decir lo incorrecto. La Luna Nueva del 27 de octubre te muestra con claridad una solución para lo que en verdad no es un gran problema. Quizás otras personas sientan agobio, pero tú tendrás una mejor perspectiva. Conserva la calma y la confianza. No permitas que los nervios de otra persona te inquieten.
+Un nuevo interés amoroso podría encontrarte alrededor de la Luna Llena del 5 de noviembre. Alternativamente, un actual o viejo amor podría comprenderte más profundamente y querer acercarse aún más a ti. Sin embargo, por más maravilloso que sea, no sucederá sin un poco de fricción. Mercurio aspecta al soñador Neptuno el 18 de noviembre. Mantén tu mente clara y no te dejes llevar por ilusiones, sobre todo en el trabajo. La Luna Nueva (y Eclipse Solar) del 20 de noviembre es tuya y muy poderosa. Pásala con alguien por quien tengas sentimientos profundos y haz algo que te importe profundamente. La intensidad no durará, pero los sentimientos perdurarán durante todo el año.
