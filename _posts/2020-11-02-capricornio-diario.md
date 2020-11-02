@@ -9,7 +9,7 @@ redirect_from: /p/capricornio.html
 keywords: capricornio,horoscopo,horoscopo capricornio noviembre 2020,horoscopo capricornio hoy,tarot capricornio noviembre 2020,horoscopo capricornio,tarot capricornio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy capricornio,horoscopo diario del tarot, Horoscopo de hoy capricornio 02 de noviembre del 2020,horóscopo del día
 horoscopo:
  signo: capricornio
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1

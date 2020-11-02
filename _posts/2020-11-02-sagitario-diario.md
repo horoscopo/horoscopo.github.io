@@ -9,7 +9,7 @@ redirect_from: /p/sagitario.html
 keywords: sagitario,horoscopo,horoscopo sagitario noviembre 2020,horoscopo sagitario hoy,tarot sagitario noviembre 2020,horoscopo sagitario,tarot sagitario hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy sagitario,horoscopo diario del tarot, Horoscopo de hoy sagitario 02 de noviembre del 2020,horóscopo del día, el horoscopo de hoy
 horoscopo:
  signo: sagitario
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/sagitario_char.png
 sitemap:
  priority: 1

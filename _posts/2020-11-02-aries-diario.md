@@ -9,7 +9,7 @@ redirect_from: /p/aries.html
 keywords: aries,horoscopo,horoscopo aries noviembre 2020,horoscopo aries hoy,tarot aries noviembre 2020,horoscopo aries,tarot aries hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy aries,horoscopo diario del tarot, Horoscopo de hoy aries 02 de noviembre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: aries
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/aries_char.png
 sitemap:
  priority: 1

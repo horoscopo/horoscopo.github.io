@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo escorpio noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/mes/escorpio_mes.png
 sitemap:
  priority: 1

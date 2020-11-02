@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo sagitario noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/mes/sagitario_mes.png
 sitemap:
  priority: 1

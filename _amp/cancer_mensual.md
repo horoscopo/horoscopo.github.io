@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/cancer_char.png
 sitemap:
  priority: 1

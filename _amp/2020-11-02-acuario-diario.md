@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/acuario_char.png
 sitemap:
  priority: 1

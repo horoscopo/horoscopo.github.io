@@ -7,7 +7,7 @@ home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1

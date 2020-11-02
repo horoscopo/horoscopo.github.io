@@ -7,7 +7,7 @@ home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1

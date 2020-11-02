@@ -9,7 +9,7 @@ redirect_from: /p/libra.html
 keywords: libra,horoscopo,horoscopo libra noviembre 2020,horoscopo libra hoy,tarot libra noviembre 2020,horoscopo libra,tarot libra hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy libra,horoscopo diario del tarot, Horoscopo de hoy libra 02 de noviembre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: libra
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/libra_char.png
 sitemap:
  priority: 1

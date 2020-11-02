@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/tauro_char.png
 sitemap:
  priority: 1

@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo virgo noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/mes/virgo_mes.png
 sitemap:
  priority: 1

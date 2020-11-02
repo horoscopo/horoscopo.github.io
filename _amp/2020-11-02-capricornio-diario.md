@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1

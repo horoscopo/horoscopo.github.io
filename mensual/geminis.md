@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo geminis noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/mes/geminis_mes.png
 sitemap:
  priority: 1

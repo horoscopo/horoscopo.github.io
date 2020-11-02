@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/leo/
 home: FALSE
 horoscopo:
  signo: leo
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1

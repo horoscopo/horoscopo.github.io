@@ -7,7 +7,7 @@ home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
- video: yfykjnyBZy8
+ video: wuPi9gxE1iM
 ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
