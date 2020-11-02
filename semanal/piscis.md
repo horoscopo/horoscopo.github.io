@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 26 de octubre 2020 al 01 de noviembre 2020 
-description: Horóscopo semanal piscis 26 de octubre 2020 al 01 de noviembre 2020. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida piscis, vuelve a brillar.
+title: piscis 02 de noviembre 2020 al 08 de noviembre 2020 
+description: Horóscopo semanal piscis 02 de noviembre 2020 al 08 de noviembre 2020. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,15 +12,17 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-26'
+ lastmod: '2020-11-02'
 ---
 
 
 
-## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida piscis, vuelve a brillar.
+## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 
-Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final. El comienzo de la semana podría encontrarte luchando con ciertas responsabilidades. Puede que no quieras enfrentarlas, pero es mejor hacerlas lo mejor posible y quitarlas del camino. Así, el resto de la semana puede desarrollarse tranquilamente. El expansivo Júpiter se alinea con el etéreo Neptuno en Piscis el fin de semana. Esto podría coincidir con el descubrimiento de una filosofía o de creencias que te resulten muy atractivas. Hay una buena chance de que quieras aprender más sobre ellas.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado… Si bien eres muy exuberante y tienes carisma, puede que tengas ganas de estar detrás de escena durante la organización de las fiestas. Hay mucho que hacer y estarás en el centro de la acción. Este enfoque se profundiza mientras Saturno ingresa a Capricornio y a tu sector de trabajo, salud y estilo de vida esta semana; junto con el sol y el seductor Venus. Puede que cuestiones tu trabajo, en especial si no es demasiado satisfactorio. Podría ser momento de buscar un trabajo que coincida con tu propósito de vida.
 
 ## Dinero
 
-Esta semana corresponde a un tiempo de devoción renovada en tu vida financiera. Examina algunos de los servicios ofrecidos por instituciones financieras. Podrías darte cuenta de que tu propio banco tiene las herramientas que pueden ayudarte a ahorrar más a través del tiempo. Piensa acerca de cómo puedes utilizar tu o ciertas habilidades para obtener dinero extra.
+Gracias a los aspectos armoniosos, sientes especialmente apoyo por parte del Universo. Toda esa energía que golpea ahora tu sector de niños, familia, romance y diversión, le hace un excelente momento para sentarte con tu pareja y planear un futuro compartido. Desde los ahorros que han hecho desde la universidad hasta cuentas de ahorro para la jubilación, cada quién tendrá una idea diferente sobre cómo proceder. Pero hay tanta creatividad y buena voluntad que será difícil tener malas discusiones.

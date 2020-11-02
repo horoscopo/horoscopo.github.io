@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 26 de octubre 2020 al 01 de noviembre 2020 
-description: Horóscopo semanal virgo 26 de octubre 2020 al 01 de noviembre 2020. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro virgo.
+title: virgo 02 de noviembre 2020 al 08 de noviembre 2020 
+description: Horóscopo semanal virgo 02 de noviembre 2020 al 08 de noviembre 2020. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón virgo, no hay casualidades ni coincidencias.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-26'
+ lastmod: '2020-11-02'
 ---
 
 
 
-## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro virgo.
+## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón virgo, no hay casualidades ni coincidencias.
 
-Tienes que empezar a vivir de nuevo virgo, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad virgo, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo. Marte en tu signo aumenta tu energía, otorgándote una mayor determinación para superar obstáculos en tu camino. Esto es para bien en este momento, ya que te percatarás de que tienes una mayor capacidad para manejar los retrocesos de Mercurio y Júpiter que comienzan esta semana. Con Mercurio moviéndose de nuevo a Capricornio, tendrás la oportunidad de revisar ciertos planes y quizás adoptar una perspectiva fresca hacia ciertos acuerdos que te interesan. Sin embargo, si logras evitar comprometerte ahora, podrías ahorrarte un montón de problemas más adelante.
+Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien virgo pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido. Tu sector de ocio y placer te anima a explorar tu creatividad. De hecho, disfrutar de tus aficiones favoritas puede ayudarte a exorcizar tus malas vibras internas mientras te ayuda a producir inspiradoras o intrigantes obras. No subestimes el poder de este tipo de actividades para sanar y restaurar tu estado de ánimo. Con Marte entrando a tu sector hogareño, puede que tengas que establecer límites firmes con respecto a las tareas hogareñas y cotidianas, sobre todo si eres tú quien se ha encargado de todas hasta ahora.
 
 ## Dinero
 
-Te diriges a un tiempo de transformación. Tanto está cambiando ahora en tu sector de carrera y figuras de autoridad que no tienes mucho tiempo para ti mismo/a. Haz valer tus necesidades en las negociaciones salariales, así como en cuestiones diarias de trabajo. Ahora estás subiendo de nivel y es posible que la carga adicional de responsabilidad sea a veces difícil de soportar. Sin embargo, estás cambiando para bien.
+Estás buscando maneras de utilizar tus prodigiosas habilidades de comunicación para ganarte la vida. Ahora la atención se centra en tus tareas diarias y lo que haces para ganarte la vida. Es un buen momento para una evaluación de desempeño, porque es seguro que tu revisión será alta y tienes una plataforma desde la cual lanzar nuevas ideas y críticas constructivas. Hacerte indispensable garantizará que asciendas la escalera del éxito.

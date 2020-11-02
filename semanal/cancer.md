@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 26 de octubre 2020 al 01 de noviembre 2020 
-description: Horóscopo semanal cancer 26 de octubre 2020 al 01 de noviembre 2020. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo cancer.
+title: cancer 02 de noviembre 2020 al 08 de noviembre 2020 
+description: Horóscopo semanal cancer 02 de noviembre 2020 al 08 de noviembre 2020. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-26'
+ lastmod: '2020-11-02'
 ---
 
 
 
-## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo cancer.
+## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 
-Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
-Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día… Si sientes entusiasmo en los próximos días, podría deberse a un aspecto clave que te anima a dar un salto de fe. Quizá sea algo que hace tiempo vienes pensando, pero puede que te tiente la seguridad de tu situación actual, la cual conoces y entiendes. De todas maneras, llega un momento en el que es más fácil dar el salto que quedarse en las mismas circunstancias. Esta semana podrías decidir ser valiente.
+No te bajonees porque un día no hayas conseguido todo lo que te habías propuesto, al día siguiente podrás crear otro tipo de oportunidades que te lleven a donde quieres. 
+Roma no se hizo en un día. Y sal un poco más, que hay gente que te echa de menos, que echa de menos tu positividad, tus risas, tu ingenio, tus ganas… A medida que el enfoque cambia hacia tu sector financiero, puede que sientas el deseo de reorganizar tu presupuesto y hacer que tu dinero te funcione más. Sin embargo, cuando el atractivo Venus se mueve junto con el lógico Mercurio, también puede que sientas que te mereces algunos gustos. Piensa en algo que pueda estimular tu bienestar, como un relajante masaje u otro tratamiento de cuidado. Por otro lado, el animado Júpiter ingresa a su fase retrógrada el jueves, lo que podría animarte a superar creencias clave para poder salir de tu zona de confort.
 
 ## Dinero
 
-Ciertos aspectos en tu sector de dinero y valores te dan mucho espacio para crecer esta semana. El desafío se presenta debido a que no siempre se siente fácil hacerlo, pero por lo general el esfuerzo obtiene resultados. Se te está empujando a ser más social ahora, considera el autoempleo como una forma de ganar más dinero y piensa cómo utilizar las políticas de oficina para tu ventaja.
+Te enfrentas a una época de cambios en el ámbito del dinero. Es probable que el Universo traiga noticias sobre tus finanzas y planes de inversión. Asegúrate de firmar, sellar y cerrar ciertos documentos tan pronto como sea posible para que puedas tomar ventaja de los resultados positivos. En cuanto a las actividades de grupo, encuentra un balance entre tus necesidades y las de los demás.

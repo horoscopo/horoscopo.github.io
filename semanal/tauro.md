@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 26 de octubre 2020 al 01 de noviembre 2020 
-description: Horóscopo semanal tauro 26 de octubre 2020 al 01 de noviembre 2020. El mundo puede esperar tauro, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: tauro 02 de noviembre 2020 al 08 de noviembre 2020 
+description: Horóscopo semanal tauro 02 de noviembre 2020 al 08 de noviembre 2020. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-26'
+ lastmod: '2020-11-02'
 ---
 
 
 
-## El mundo puede esperar tauro, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 
-A veces amas demasiado tauro, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar tauro, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. tauro, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. tauro, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos tauro, y siente… Feliz semana… Esta podría ser una semana de cambios radicales debido a que el eclipse lunar en tu sector de transformación te alienta a dejar atrás tu pasado. Puede que tus instintos te estén diciendo que si deseas seguir con tu vida, deberás abandonar todas las condiciones y situaciones en tu vida que ya no te hacen bien. También es posible que sepas cuáles son estas condiciones y situaciones, solo que no quieres dejarlas ir. Es natural. No te apresures. La intención de tomar una decisión puede ser un positivo comienzo.
+Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar. Puede que necesites examinar un proyecto que ya hayas completado o revisar los detalles de un plan, y podrías ver que las cosas funcionan mucho mejor si haces esto. Con esto, debido a la fase retrógrada del comunicativo Mercurio, tal vez necesites tener cuidado en general para evitar contratiempos. Quizás también quieras verte y sentirte más saludable, en especial si quieres impresionar a cierta persona. Pero no hagas demasiadas cosas demasiado pronto. Tomarte tu tiempo puede asegurarte los beneficios de tus esfuerzos.
 
 ## Dinero
 
-Puede que estés reconsiderando tus patrones de gasto conforme los estados de cuenta de tarjetas de crédito llegan esta semana. Si te sorprende lo mucho que has gastado (¿cuánto costaron esos últimos zapatos que compraste?), ¡culpa a los planetas! La ayuda proveniente de tu sector de hogar ya se encuentra en camino. Comenzar un negocio desde casa puede traer el dinero extra que necesitas a corto plazo. ¡Usa tus habilidades!
+Probablemente tienes un fuerte deseo de seguridad financiera. Para algunos esto puede traducirse en el deseo de controlar, mientras que para otros es sólo un deseo. Es hora de expresar lo que quieres y dejar que tus necesidades sean conocidas dentro de las alianzas empresariales y la oficina. Tienes la capacidad de comunicación y la creatividad para alcanzarlo.

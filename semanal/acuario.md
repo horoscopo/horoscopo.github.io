@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 26 de octubre 2020 al 01 de noviembre 2020 
-description: Horóscopo semanal acuario 26 de octubre 2020 al 01 de noviembre 2020. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+title: acuario 02 de noviembre 2020 al 08 de noviembre 2020 
+description: Horóscopo semanal acuario 02 de noviembre 2020 al 08 de noviembre 2020. Estás a tope acuario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-10-26'
+ lastmod: '2020-11-02'
 ---
 
 
 
-## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+## Estás a tope acuario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 
-Para alcanzar la felicidad, TÚ FELICIDAD, 
-y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible… Los asuntos monetarios se vislumbran prometedores esta semana, cuando podías recibir un golpe de suerte, reembolso, o una cantidad de dinero en efectivo justo en el momento ideal. Este podría ser uno de los mejores momentos para iniciar un negocio, especialmente el viernes, cuando la Luna Nueva en tu sector empresarial puede darle un buen comienzo. De hecho, te podría ir extremadamente bien durante los próximos doce meses. Tu vida social también está a punto de volverse muy activa, ¡así que prepárate!
+Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
+ y es que no puedes parar, de verdad. El cuarto de luna a mediados de la semana sugiere que algunos problemas sin resolver podrían ser el motivo por el cual estás evitando dar un paso o comenzar una nueva fase o proyecto. Si hay algún asunto que ha estado haciendo que pierdas la confianza, vale la pena tomarte el tiempo para resolverlo. Una vez que lo hagas, tendrás mucha más energía para cualquier plan sobre el que hayas estado meditando. El seductor Venus ingresa a tu sector de hogar el sábado. Es un gran momento para organizar algún evento o recibir invitados.
 
 ## Dinero
 
-Estás enfocado/a en tu carrera y la forma de acercarte a tus metas. Es posible que desees más seguridad en este momento de tu vida, y un salario con el que sabes que podrías vivir cómodamente. Aunque esto puede requerir que asumas una mayor responsabilidad o trabajar más horas, estás en buen camino hacia el logro de tus objetivos. Una luz brilla en tu sector deuda, págala mientras subes los escalones del éxito.
+Esta semana, el Universo afecta a tu sector de relaciones. Es posible que tengas algo de estrés entre tratar de ver a todos los que quieres ver y acabar todo tu trabajo a tiempo y dentro del presupuesto. Júpiter y Urano, en particular, pondrán un montón de nuevos proyectos y oportunidades en tu camino. Busca un balance entre los dos.
