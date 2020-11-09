@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 02 de noviembre 2020 al 08 de noviembre 2020 
-description: Horóscopo semanal cancer 02 de noviembre 2020 al 08 de noviembre 2020. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+title: cancer 09 de noviembre 2020 al 15 de noviembre 2020 
+description: Horóscopo semanal cancer 09 de noviembre 2020 al 15 de noviembre 2020. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-02'
+ lastmod: '2020-11-09'
 ---
 
 
 
-## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 
-No te bajonees porque un día no hayas conseguido todo lo que te habías propuesto, al día siguiente podrás crear otro tipo de oportunidades que te lleven a donde quieres. 
-Roma no se hizo en un día. Y sal un poco más, que hay gente que te echa de menos, que echa de menos tu positividad, tus risas, tu ingenio, tus ganas… A medida que el enfoque cambia hacia tu sector financiero, puede que sientas el deseo de reorganizar tu presupuesto y hacer que tu dinero te funcione más. Sin embargo, cuando el atractivo Venus se mueve junto con el lógico Mercurio, también puede que sientas que te mereces algunos gustos. Piensa en algo que pueda estimular tu bienestar, como un relajante masaje u otro tratamiento de cuidado. Por otro lado, el animado Júpiter ingresa a su fase retrógrada el jueves, lo que podría animarte a superar creencias clave para poder salir de tu zona de confort.
+Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres… Venus recientemente en tu signo significa que verdaderamente estás en tu elemento. La gente realmente apreciará los rasgos de tu personalidad, gracia y encanto. Marte entra a tu signo el jueves, pudiendo significar que vas a defender tus límites con firmeza, lo que definitivamente es algo bueno. Además, te será útil regatear cuando salgas de compras, especialmente si quieres adquirir artículos para tu hogar. Escucha a tu intuición, porque bien podría ganarte una ganga.
 
 ## Dinero
 
-Te enfrentas a una época de cambios en el ámbito del dinero. Es probable que el Universo traiga noticias sobre tus finanzas y planes de inversión. Asegúrate de firmar, sellar y cerrar ciertos documentos tan pronto como sea posible para que puedas tomar ventaja de los resultados positivos. En cuanto a las actividades de grupo, encuentra un balance entre tus necesidades y las de los demás.
+Esta semana, ciertos planetas se enfrentan en el cielo, cada uno ejerciendo su propia influencia. Su actividad cae en el sector de tu gráfico asociado con cambios de imagen. Es posible que estés cambiando tanto, que puede que no seas capaz de mantenerte al día con ello. Todo es por una buena causa - es decir, tu imagen.

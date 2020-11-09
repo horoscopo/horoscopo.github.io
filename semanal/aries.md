@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 02 de noviembre 2020 al 08 de noviembre 2020 
-description: Horóscopo semanal aries 02 de noviembre 2020 al 08 de noviembre 2020. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+title: aries 09 de noviembre 2020 al 15 de noviembre 2020 
+description: Horóscopo semanal aries 09 de noviembre 2020 al 15 de noviembre 2020. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no aries, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,15 +12,18 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-02'
+ lastmod: '2020-11-09'
 ---
 
 
 
-## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+## Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no aries, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
 
-No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues aries, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe… Podría ser demasiado fácil desviarte a menos que tengas objetivos muy claros esta semana, especialmente con ambos, tanto Mercurio como Júpiter comenzando su fase retrógrada, lo que sólo añade aún más confusión y retrasos. Puede que te topes con que tienes que adoptar una actitud particularmente seria con el fin de poder terminar las cosas. Sin embargo, evita desanimarte demasiado alrededor del viernes. En vez, toma esto como una oportunidad para reconsiderar un acuerdo o adoptar una nueva perspectiva en una relación que es importante para ti ahora.
+Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
+ La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa aries? 
+ todo lo que desea. Tu sector social y de recreación está bastante en foco esta semana, lo que podría coincidir con algunos desarrollos. El animado Mercurio se vuelve retrógrado en tu sector de recreación el Miercoles y permanece así durante cerca de tres semanas. Puede que tengas ganas de volver a ponerte en contacto con un pasatiempo que disfrutabas en tus años de juventud y tal vez incluso vuelvas a ponerlo en práctica. 
+Cuando el sol forja un ángulo hacia el incansable Urano en tu sector de dinero el miércoles, tal vez no pienses en los costos si una experiencia u oportunidad te atrae. Podrías hacer gastos impulsivos, pero puede que también disfrutes hacerlo.El eclipse lunar del viernes trae la posibilidad de cambios en tu escenario social. Este eclipse conecta con el dinámico Marte, por lo que los sentimientos pueden intensificarse. Tal vez debas librarte del apego que tienes a una persona y al drama de enamorarse.
 
 ## Dinero
 
-Es posible que despegues esta semana - literalmente. Parece que tienes más posibilidades que nunca para ganar dinero, atraer más a través de trabajos secundarios y de interés y obtener dividendos a través de inversiones inteligentes. Si necesitas ayuda en lo que respecta a la planificación financiera, los aspectos pueden ayudarte a atraer a la persona adecuada para tus necesidades. No lo dejes al azar, en todo caso, mereces mucho más.
+Los aspectos de esta semana podrían lanzar una llave inglesa hacia tus planes de dinero. Pon orden en tu propiedad compartida y las inversiones que tengas. La firma, el sellado y la entrega de estos materiales al lugar donde tienen que estar dejan espacio para crear una estrategia en otros lugares. Al mismo tiempo, considera la posibilidad de poner tu dinero en instituciones que sabes que son confiables. Confiar en las nuevas puede ser atractivo, pero no es la decisión correcta para este momento de tu vida.

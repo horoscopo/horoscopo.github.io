@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 02 de noviembre 2020 al 08 de noviembre 2020 
-description: Horóscopo semanal libra 02 de noviembre 2020 al 08 de noviembre 2020. Recuerda que ha empezado la época de los libra… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+title: libra 09 de noviembre 2020 al 15 de noviembre 2020 
+description: Horóscopo semanal libra 09 de noviembre 2020 al 15 de noviembre 2020. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-02'
+ lastmod: '2020-11-09'
 ---
 
 
 
-## Recuerda que ha empezado la época de los libra… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 
-Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti libra. Marte entra a lo más profundo de tu sector de relaciones, donde puede reactivar sentimientos que se encontraban latentes. Las próximas semanas pueden ser la oportunidad para que despejes el aire. Si tú y cierta persona tienen distintas ideas o planes, existe la oportunidad de llegar a un punto medio. El romance surge como posibilidad cuando Venus, el planeta del amor, entra a tu sector de romance el martes. Esta es la oportunidad para que disfrutes de los placeres sensuales con tu amor y aproveches al máximo tu tiempo libre.
+Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen. A medida que Marte entra a tu signo y permanece allí durante seis semanas, aumenta tu energía y te sientes más alegre y vivaz. Buscas cumplir metas y planes que tienen un significado especial, más aun si al hacerlo afirmas tu identidad. Cualquier actividad que te permita ser la persona que eres te hará sentir muy bien. La entrada de Mercurio a tu sector social puede allanar el camino para crear nuevas amistades y asociaciones.
 
 ## Dinero
 
-El Universo dice que es posible que estés proyectando una imagen interesante hacia los demás esta semana. Algunos pueden estarte viendo exactamente como les gustaría que fueras en lugar de como realmente eres, pero no te preocupes por ello. Mientras tanto, estás a punto de recibir un mensaje importante acerca de un nuevo negocio o una oportunidad financiera. Sólo asegúrate de devolver la llamada o responder a ese e-mail.
+Para ti esta semana es sobre nueva energía en el sector del hogar, donde el hambre de creatividad puede estarte haciendo querer gastar más de lo que tienes en restauración y redecoración. Sin embargo no se trata de lo que gastas. Algunos aspectos pueden servir como medida provisional para evitar que lo hagas. Después de todo cambiarás de opinión de lo que te gusta dentro de unos años de todos modos.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 02 de noviembre 2020 al 08 de noviembre 2020 
-description: Horóscopo semanal escorpio 02 de noviembre 2020 al 08 de noviembre 2020. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+title: escorpio 09 de noviembre 2020 al 15 de noviembre 2020 
+description: Horóscopo semanal escorpio 09 de noviembre 2020 al 15 de noviembre 2020. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-02'
+ lastmod: '2020-11-09'
 ---
 
 
 
-## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 
-Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana. Con Marte animándote a actuar más asertivamente, tu actitud podría ser más enérgica. Si alguien te ha estado molestando últimamente, podrías terminar perdiendo la calma durante mediados de semana. Pero hacerlo no sería necesariamente bueno para ti. Una charla franca en la que con mucho tacto digas lo que sientes podría ser mejor. Comenzar a planear podría ayudarte a que las próximas semanas se desarrollen con más facilidad. Firma contratos o cierra negocios después de la Luna Nueva del viernes.
+Tienes que plantarte escorpio, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana escorpio. Tu voluntad de aprender te coloca en una buena posición en este momento, no sólo porque te ofrece la oportunidad de actualizar tu conjunto de habilidades, sino también porque amplía tu comprensión de lo que es posible. Puede que tengas la oportunidad de aplicar tus nuevas habilidades cuando la Luna Nueva de esta semana te incite a considerar la posibilidad de un nuevo trabajo, promoción o contrato lucrativo que es perfecto para ti. La oportunidad de lanzarte a una aventura este fin de semana podría ser demasiado buena para dejarla pasar.
 
 ## Dinero
 
-Esta semana es acerca de visibilidad. Si te has sentido invisible en los últimos meses, definitivamente te encuentras a la vista ahora. Los demás no pueden dejar de escuchar todo lo que dices y respetar tus opiniones. Esto es especialmente cierto dado que los aspectos están afectando a tus redes sociales. Parece que todo el mundo sabe acerca del buen trabajo que haces. Agasájales con historias de tus recientes payasadas y futuros planes. El dinero es una cosa segura.
+Los aspectos activan tu sector de efectivo y valores. Hay tanta actividad ahí, que puede que tengas que establecer un tiempo para organizar tus finanzas o regresar las llamadas de tus muchos pretendientes financieros. Mientras clasificas las nuevas ofertas de empleo y las oportunidades para ganar dinero extra, no te olvides de la planificación de tu carrera. Por supuesto, trabajas para recibir un cheque, pero ¿qué otra recompensa se puede derivar de tu trabajo?
