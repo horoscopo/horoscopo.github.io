@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo capricornio noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
- video: wuPi9gxE1iM
+ video: n2RejR-HGHs
 ogimg: /images/mes/capricornio_mes.png
 sitemap:
  priority: 1

@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo cancer noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
- video: wuPi9gxE1iM
+ video: n2RejR-HGHs
 ogimg: /images/mes/cancer_mes.png
 sitemap:
  priority: 1

@@ -6,7 +6,7 @@ normallink: /horoscopo-diario-gratis/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
- video: wuPi9gxE1iM
+ video: n2RejR-HGHs
 ogimg: /images/sagitario_char.png
 sitemap:
  priority: 1

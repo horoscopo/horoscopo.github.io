@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
- video: wuPi9gxE1iM
+ video: n2RejR-HGHs
 ogimg: /images/libra_char.png
 sitemap:
  priority: 1
