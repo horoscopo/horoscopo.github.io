@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de noviembre 2020
-description: Horóscopos del dia de hoy 08 de noviembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de noviembre 2020
+description: Horóscopos del dia de hoy 09 de noviembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-11-08
+ lastmod: 2020-11-09
 ---
-Mucho se deja sin decir esta mañana. Por la tarde, un giro de 180 grados que se produce esta tarde se traduce a un terco e incluso poco confiable silencio. No es para preocuparse. Es sólo temporal, aunque puede que se robe todo el impulso que habías logrado reunir. Contrariamente, esta noche podría sentirse como una sobrecarga de información bajo la Luna aspectando al parlanchín Mercurio.
+Tienes encanto gracias a tu ingenio y porque estás al tanto, además de que dejarás a todos con la duda bajo la Luna Nueva en Géminis. Algunas personas podrían salir de su concha bajo la Luna en Cáncer de esta noche mientras que otras inhibidas podrían estar preparándose para hacerlo. Puede que seas tú quien tenga que dar el primer paso.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
