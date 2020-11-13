@@ -10,5 +10,5 @@ sitemap:
  changefreq: 'daily'
  lastmod: 2020-11-13
 ---
-Espera tener una mañana ocupada cuando la Luna forme sextil con Marte. Mientras más consigas lograr, más tiempo dejarás volar a tu imaginación cuando la Luna aspecte a Neptuno esta tarde. Poderes más allá de tu control podrían predominar mientras la Luna cuadre a Plutón esta noche. Ten cuidado, los celos excesivos podrían ser contraproducentes.
+Cuando las personas exageran bajo la Luna Nueva en Sagitario, el antídoto es ver y tomar las cosas de manera práctica. Tales te pueden decir todo lo que quieran decir, pero no pueden obligarte a creerlo. El tema de esta noche acentúa a complejas personas en complejas relaciones mientras Venus cuadra al impredecible Urano.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
