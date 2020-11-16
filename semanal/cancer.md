@@ -1,26 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 09 de noviembre 2020 al 15 de noviembre 2020 
-description: Horóscopo semanal cancer 09 de noviembre 2020 al 15 de noviembre 2020. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+title: cancer 16 de noviembre 2020 al 22 de noviembre 2020 
+description: Horóscopo semanal cancer 16 de noviembre 2020 al 22 de noviembre 2020. A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: n2RejR-HGHs
+ video: wuPi9gxE1iM
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-09'
+ lastmod: '2020-11-16'
 ---
 
 
 
-## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+## A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 
-Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres… Venus recientemente en tu signo significa que verdaderamente estás en tu elemento. La gente realmente apreciará los rasgos de tu personalidad, gracia y encanto. Marte entra a tu signo el jueves, pudiendo significar que vas a defender tus límites con firmeza, lo que definitivamente es algo bueno. Además, te será útil regatear cuando salgas de compras, especialmente si quieres adquirir artículos para tu hogar. Escucha a tu intuición, porque bien podría ganarte una ganga.
+Esta semana tienes que tomarte las cosas con más calma cancer. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
+ Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse. Puede que sientas la tentación de ceder ante el deseo de quedarte en casa en lugar de ir a trabajar o terminar tus tareas. Tal vez debas programar esto porque es importante descansar lo suficiente, pero quizá no al principio de la semana. Sin embargo, prepárate para relajarte a lo grande. 
+ Si sientes cansancio, el ingreso del sol a Tauro y a tu sector del hogar el jueves puede ser como regresar al vientre materno. Esta es tu oportunidad para cuidarte y renovar energías. Si alguien te llama para un interesante proyecto, no digas que sí ni te comprometas de inmediato. Necesitas este tiempo para volver a conectar con tu cuerpo y renovar tu estado de ánimo. Cuando el precavido Saturno y el poderoso Plutón se vuelven retrógrados en tu sector espiritual, podría ser momento de algunas reflexivas preguntas y de trabajo interior. Es mejor si estás en paz con tu persona.
 
 ## Dinero
 
-Esta semana, ciertos planetas se enfrentan en el cielo, cada uno ejerciendo su propia influencia. Su actividad cae en el sector de tu gráfico asociado con cambios de imagen. Es posible que estés cambiando tanto, que puede que no seas capaz de mantenerte al día con ello. Todo es por una buena causa - es decir, tu imagen.
+Tienes luz verde para cambiar tu forma de verte y actuar. Eso, a su vez, te ayudará a subir la escalera y hacer más dinero. Si has querido cambiar tu guardarropa, look, o forma de ser, esto es apoyado e incluso alentado ahora. Eclipsa a un mentor de confianza o forja tu propio camino. El Universo trae belleza, atracción, y una especie de afirmación hacia tus necesidades. Juntos, estos aumentan tu poder en el trabajo.

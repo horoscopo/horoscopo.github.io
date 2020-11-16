@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: leo 09 de noviembre 2020 al 15 de noviembre 2020 
-description: Horóscopo semanal leo 09 de noviembre 2020 al 15 de noviembre 2020. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+title: leo 16 de noviembre 2020 al 22 de noviembre 2020 
+description: Horóscopo semanal leo 16 de noviembre 2020 al 22 de noviembre 2020. Semana de reflexión leo, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya leo. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
- video: n2RejR-HGHs
+ video: wuPi9gxE1iM
 ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-09'
+ lastmod: '2020-11-16'
 ---
 
 
 
-## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+## Semana de reflexión leo, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya leo. 
 
-Abre los ojos de una vez leo. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas leo, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero leo, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también leo. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. leo por favor, te tenían que tener en un altar… Y lo sabes… Las cuestiones financieras o de negocios podrían requerir de un manejo cuidadoso esta semana, ya que la actual mezcla de energías sólo servirá para aumentar la confusión. No sería prudente invertir dinero en proyectos de los que conoces muy poco o que tienen dudosos elementos. De hecho, es probable que sea mejor posponer decisiones financieras importantes hasta la próxima semana. Entonces tendrás más claridad y más información a la mano. Aunque tu vida amorosa parece ser candente, alguien podría debilitar tu confianza. Mantente fuerte.
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio leo, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas! Cierta información o nuevas perspectivas podrían inspirarte a tomar un nuevo camino. Ya sea que este sea el resultado de leer un libro o escuchar un discurso, puedes descubrir nuevas herramientas que le den forma a tu destino. Entre semana, el enfoque cambia a tu sector de finanzas compartidas, despertando tu interés en tomar medidas para resolver tus dificultades monetarias. No optes por ignorar esto por demasiado tiempo, es mejor hacerle frente ahora con tal de disfrutar de una mayor tranquilidad.
 
 ## Dinero
 
-Es un tiempo muy ocupado para ti. Tanto está pasando que lo único que tus jefes quieren hacer es promocionarte, darte vino, llevarte a cenar y demás. Puede que te sea difícil encontrar tiempo para ti mismo/a. Esto sólo temporal. Un aspecto armónico te mueve en la posición de autoridad que por destino tienes que ocupar. ¡Que lo disfrutes!
+Ciertos aspectos muestran la necesidad de aportar más creatividad y belleza a tu vida laboral. Al mismo tiempo, hay una relación de jale y empuje entre el dinero que tienes y debes y el dinero que gastas. Es tiempo de encontrar un equilibrio entre los dos mediante la creación de un plan de pago para las tarjetas de crédito mientras que encuentras la manera de atraer más dinero cada mes.

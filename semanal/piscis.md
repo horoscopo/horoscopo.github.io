@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: piscis 09 de noviembre 2020 al 15 de noviembre 2020 
-description: Horóscopo semanal piscis 09 de noviembre 2020 al 15 de noviembre 2020. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada piscis. 
+title: piscis 16 de noviembre 2020 al 22 de noviembre 2020 
+description: Horóscopo semanal piscis 16 de noviembre 2020 al 22 de noviembre 2020. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
- video: n2RejR-HGHs
+ video: wuPi9gxE1iM
 ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-09'
+ lastmod: '2020-11-16'
 ---
 
 
 
-## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada piscis. 
+## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 
-Vamos piscis, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida piscis, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie piscis pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás piscis. Así, tal cual. Ten cuidado con lo que prometes o con lo que te comprometes esta semana, porque el eclipse lunar en tu sector de palabras y pensamientos podría impedirte avanzar. Puede que el cosmos tenga planes para ti distintos de los que tú tenías, por lo que quizá no te quede más opción que dejarte llevar. El eclipse puede traer una oportunidad inesperada o novedades imprevistas. También es posible que una puerta se cierre. Si esto sucede, ten en cuenta que otra puerta se abrirá en cuanto menos lo esperes.
+No puedes esperar a que las cosas pasen piscis, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres piscis, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA piscis. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer. Comenzarás a sentir una sensación más ligera, más feliz y más entusiasmo con respecto a tu futuro cuando Venus entre en tu sector de aventura y oportunidad. En las próximas semanas tendrás una excelente oportunidad para explorar el tipo de ideas que realmente te fascinan. ¡Planes de viaje también podrían estar en tus cartas! La entrada del Sol a Piscis y a tu sector de metas y ambiciones podría verte progresar. Y si tienes suficiente pasión por tus ideas, las próximas cuatro semanas podrían verte dar un gran salto.
 
 ## Dinero
 
-El Universo está exigiendo que pases más tiempo desarrollando tus relaciones más cercanas para que puedas beneficiarte personal y financieramente. El hacer más tiempo para aquellos que pudieran ayudarte a avanzar en tus objetivos no solamente es sensato/a, también es necesario para el logro de tus objetivos. Puede que estés en conversaciones para una mejor posición, la cuál llegará a lo grande.
+Es una semana extraña. Algunos planetas quieren que pienses en cómo hacer tu hogar más cómodo y acogedor, mientras que otros quieren que pases más tiempo desarrollando tu carrera profesional. El tira y afloja puede crear caos en tu vida social a corto plazo, pero con un poco de énfasis en el equilibrio, puedes hacer que funcione. El secreto está en estudiar la forma en la que tus amigos lo hacen. Con gracia, y con una sonrisa.

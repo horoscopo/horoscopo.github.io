@@ -1,29 +1,26 @@
 ---
 layout: horoscopos
-title: aries 09 de noviembre 2020 al 15 de noviembre 2020 
-description: Horóscopo semanal aries 09 de noviembre 2020 al 15 de noviembre 2020. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no aries, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+title: aries 16 de noviembre 2020 al 22 de noviembre 2020 
+description: Horóscopo semanal aries 16 de noviembre 2020 al 22 de noviembre 2020. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
- video: n2RejR-HGHs
+ video: wuPi9gxE1iM
 ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-09'
+ lastmod: '2020-11-16'
 ---
 
 
 
-## Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no aries, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
 
-Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
- La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa aries? 
- todo lo que desea. Tu sector social y de recreación está bastante en foco esta semana, lo que podría coincidir con algunos desarrollos. El animado Mercurio se vuelve retrógrado en tu sector de recreación el Miercoles y permanece así durante cerca de tres semanas. Puede que tengas ganas de volver a ponerte en contacto con un pasatiempo que disfrutabas en tus años de juventud y tal vez incluso vuelvas a ponerlo en práctica. 
-Cuando el sol forja un ángulo hacia el incansable Urano en tu sector de dinero el miércoles, tal vez no pienses en los costos si una experiencia u oportunidad te atrae. Podrías hacer gastos impulsivos, pero puede que también disfrutes hacerlo.El eclipse lunar del viernes trae la posibilidad de cambios en tu escenario social. Este eclipse conecta con el dinámico Marte, por lo que los sentimientos pueden intensificarse. Tal vez debas librarte del apego que tienes a una persona y al drama de enamorarse.
+Necesitas tener un objetivo en la vida aries, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada aries, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo… Asuntos de profesión y negocios siguen captando tu atención con la alineación actual que te lleva a expandir tus horizontes. Con respecto a tus ingresos, es posible que estés pensando en números mucho más grandes que antes, lo que es bueno. La luna llena en Tauro podría hacerte lidiar con el equilibrio entre tu trabajo y tu vida. Si puedes tomarte un tiempo el viernes para relajarte y recargar energías, te haría muy bien. Por último, tener conversaciones con gente influyente podría ser muy gratificante.
 
 ## Dinero
 
-Los aspectos de esta semana podrían lanzar una llave inglesa hacia tus planes de dinero. Pon orden en tu propiedad compartida y las inversiones que tengas. La firma, el sellado y la entrega de estos materiales al lugar donde tienen que estar dejan espacio para crear una estrategia en otros lugares. Al mismo tiempo, considera la posibilidad de poner tu dinero en instituciones que sabes que son confiables. Confiar en las nuevas puede ser atractivo, pero no es la decisión correcta para este momento de tu vida.
+No sólo estás soñando con el próximo gran invento, estás solucionando la mejor manera de construir y financiar su fabricación. También estás estudiando la manera de lograr que algunas de tus ideas de hecho se lleven a cabo. Tienes algo importante que compartir, así que no te vendas por poco. Lo que pones adelante ahora da recompensas favorables para tu familia más tarde.

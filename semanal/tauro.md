@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: tauro 09 de noviembre 2020 al 15 de noviembre 2020 
-description: Horóscopo semanal tauro 09 de noviembre 2020 al 15 de noviembre 2020. Perdona tauro, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+title: tauro 16 de noviembre 2020 al 22 de noviembre 2020 
+description: Horóscopo semanal tauro 16 de noviembre 2020 al 22 de noviembre 2020. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: n2RejR-HGHs
+ video: wuPi9gxE1iM
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-09'
+ lastmod: '2020-11-16'
 ---
 
 
 
-## Perdona tauro, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 
-Disfruta de la vida tauro, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven tauro. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana tauro. Progreso laboral podría ser el resultado de un optimista tránsito que mejore tus posibilidades de éxito. Si la oferta de un puesto de trabajo o contrato te llega y es algo que deseas - acéptala de inmediato. Esta es una oportunidad que no durará por mucho tiempo. Más tarde, planes de viaje podrían ser puestos en tu agenda - y puede que sientas atracción a lugares que tienen un aire místico. Este es también un buen momento para contratar a un entrenador o mentor que pueda ayudarte a alcanzar todo tu potencial.
+A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario tauro, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada. Venus, tu planeta personal, entra a tu signo el martes, donde se siente como en casa. Esta influencia puede ayudarte a sentirte bien y a disfrutar de los placeres simples de la vida. También hay una influencia vivaz que podría contagiarte las ansias de hacer nuevos amigos, pero de una manera en que se destaque tu lado tierno y cariñoso. El enfoque en tu sector de hogar también podría motivarte para que recibas visitas o pienses en redecorar tu casa.
 
 ## Dinero
 
-A pesar de que tu carrera está pasando por un poco de renacimiento ahora, con nuevas oportunidades para tomar las riendas, puede que tus relaciones no sientan todo el apoyo de tu nueva dirección. No es que no estés haciendo un buen trabajo, es que algunos de tus contactos pueden no saber cómo manejar tu nuevo poder. Pues mal por ellos, ¡porque vas para arriba con o sin ellos!
+El crecimiento y la suerte pueden ampliar tus posibilidades, así que asegúrate de mantenerte al tanto con tu programa de ejercicios. También se extenderá tu influencia en el mundo. Tienes el oído de tus superiores en el trabajo, así que asegúrate de programar reuniones regulares para mantenerte al tanto con ellos. Mientras tanto, tu vida social se acelera, por lo que es un buen momento para conocer gente nueva, conocer colegas y mejores mentores. Hay poder en tus relaciones.
