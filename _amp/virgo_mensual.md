@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: n2RejR-HGHs
+ video: 5uYluCQzi6I
 ogimg: /images/virgo_char.png
 sitemap:
  priority: 1

@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo piscis noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo piscis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
- video: n2RejR-HGHs
+ video: 5uYluCQzi6I
 ogimg: /images/mes/piscis_mes.png
 sitemap:
  priority: 1

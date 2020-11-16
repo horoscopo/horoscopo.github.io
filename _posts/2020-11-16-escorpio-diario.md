@@ -9,7 +9,7 @@ redirect_from: /p/escorpio.html
 keywords: escorpio,horoscopo,horoscopo escorpio noviembre 2020,horoscopo escorpio hoy,tarot escorpio noviembre 2020,horoscopo escorpio,tarot escorpio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy escorpio,horoscopo diario del tarot, Horoscopo de hoy escorpio 16 de noviembre del 2020,horóscopo del día, el horoscopo de hoy
 horoscopo:
  signo: escorpio
- video: wuPi9gxE1iM
+ video: 5uYluCQzi6I
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1

@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo libra noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
- video: n2RejR-HGHs
+ video: 5uYluCQzi6I
 ogimg: /images/mes/libra_mes.png
 sitemap:
  priority: 1

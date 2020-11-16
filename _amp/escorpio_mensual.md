@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
- video: n2RejR-HGHs
+ video: 5uYluCQzi6I
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1

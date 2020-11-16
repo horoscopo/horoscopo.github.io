@@ -9,7 +9,7 @@ redirect_from: /p/piscis.html
 keywords: piscis,horoscopo,horoscopo piscis noviembre 2020,horoscopo piscis hoy,tarot piscis noviembre 2020,horoscopo piscis,tarot piscis hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy piscis,horoscopo diario del tarot, Horoscopo de hoy piscis 16 de noviembre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: piscis
- video: wuPi9gxE1iM
+ video: 5uYluCQzi6I
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1

@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo acuario noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
- video: n2RejR-HGHs
+ video: 5uYluCQzi6I
 ogimg: /images/mes/acuario_mes.png
 sitemap:
  priority: 1
