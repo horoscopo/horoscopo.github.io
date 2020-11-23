@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 16 de noviembre 2020 al 22 de noviembre 2020 
-description: Horóscopo semanal piscis 16 de noviembre 2020 al 22 de noviembre 2020. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+title: piscis 23 de noviembre 2020 al 29 de noviembre 2020 
+description: Horóscopo semanal piscis 23 de noviembre 2020 al 29 de noviembre 2020. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-16'
+ lastmod: '2020-11-23'
 ---
 
 
 
-## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 
-No puedes esperar a que las cosas pasen piscis, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres piscis, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA piscis. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer. Comenzarás a sentir una sensación más ligera, más feliz y más entusiasmo con respecto a tu futuro cuando Venus entre en tu sector de aventura y oportunidad. En las próximas semanas tendrás una excelente oportunidad para explorar el tipo de ideas que realmente te fascinan. ¡Planes de viaje también podrían estar en tus cartas! La entrada del Sol a Piscis y a tu sector de metas y ambiciones podría verte progresar. Y si tienes suficiente pasión por tus ideas, las próximas cuatro semanas podrían verte dar un gran salto.
+Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí piscis, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor. Este podría ser un periodo de puro hablar, cuando es poco probable que te andes sin rodeos. La energía de esta semana podría verte tener dureza con alguien, sobre todo si sientes que tal persona te ha afectado de alguna manera. Sin embargo, las cualidades más sensibles de Venus y Neptuno en Piscis te permiten ponerte en sus zapatos; claro, si es que tienes disposición a ello. Si logras hacer esto, vas a entender por qué tal persona hizo lo que hizo y cuál debería ser tu reacción a ello.
 
 ## Dinero
 
-Es una semana extraña. Algunos planetas quieren que pienses en cómo hacer tu hogar más cómodo y acogedor, mientras que otros quieren que pases más tiempo desarrollando tu carrera profesional. El tira y afloja puede crear caos en tu vida social a corto plazo, pero con un poco de énfasis en el equilibrio, puedes hacer que funcione. El secreto está en estudiar la forma en la que tus amigos lo hacen. Con gracia, y con una sonrisa.
+Tu situación en el hogar y las emociones internas indican un posible cambio para ti ahora mismo. ¿Has estado pensando en la creación de más espacio para ti mismo/a? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener que los jugos que fluyan hacia un nuevo trabajo o fuente de ingresos. El truco estará en no irse por la borda con este esfuerzo. Busca un balance entre el gasto y el ahorro.

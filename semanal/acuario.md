@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 16 de noviembre 2020 al 22 de noviembre 2020 
-description: Horóscopo semanal acuario 16 de noviembre 2020 al 22 de noviembre 2020. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+title: acuario 23 de noviembre 2020 al 29 de noviembre 2020 
+description: Horóscopo semanal acuario 23 de noviembre 2020 al 29 de noviembre 2020. Hay cosas que ya no funcionan acuario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-16'
+ lastmod: '2020-11-23'
 ---
 
 
 
-## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+## Hay cosas que ya no funcionan acuario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 
-Parece que no todo va tan mal, no ¿acuario? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada. Esta semana presagia un nuevo comienzo que además de ser muy necesario podría ser muy bienvenido. La Luna Nueva del martes en tu sector creativo sugiere que este es el momento de poner en acción una idea empresarial en la que has estado trabajando y llevarla más lejos. Tu ser podía sentirse más ligero y tu mente más brillante una vez que Marte entre a tu sector de aventura de nuevo, animándote a ampliar tus horizontes. Sin embargo, es posible que tengas que ser paciente con los detalles este fin de semana, ya que el retraso y la confusión podrían entrometerse en tus planes.
+Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo. La semana por delante cuenta con un ritmo relajado, pero trata de evitar que te arrulle lo suficiente como para hacerte desaprovechar ciertas oportunidades. Aunque el enfoque actual se centra en el ocio, el placer, el romance y la diversión, el cosmos también te anima a retomar tu camino con respecto a un importante cambio de carrera o ambición personal. Con Saturno regresando a Escorpión el Domingo, tendrás una segunda oportunidad con respecto a un proyecto u oportunidad que pensabas que habías perdido.
 
 ## Dinero
 
-Tienes que pensar un poco acerca de tu casa. Desde la decoración, la organización, los muebles, tienes mucho que hacer por ahora. Pero hay cierta confusión en tus relaciones más cercanas. Ya sea que se trate de personal o profesional, la comunicación debe ser clara y concisa para que no se malinterprete. Mucho está en juego en éste aspecto.
+Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.

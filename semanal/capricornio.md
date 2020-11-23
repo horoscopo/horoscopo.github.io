@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 16 de noviembre 2020 al 22 de noviembre 2020 
-description: Horóscopo semanal capricornio 16 de noviembre 2020 al 22 de noviembre 2020. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+title: capricornio 23 de noviembre 2020 al 29 de noviembre 2020 
+description: Horóscopo semanal capricornio 23 de noviembre 2020 al 29 de noviembre 2020. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-16'
+ lastmod: '2020-11-23'
 ---
 
 
 
-## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada capricornio. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No capricornio, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres capricornio, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas capricornio pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más… Aunque puede que tengas grandes planes para las próximas semanas y meses, es posible que sientas un poco de nervios al llevarlos a cabo. El choque entre Saturno en tu sector profesional y Neptuno en tu signo continúa esta semana, pudiendo ser la razón de tu falta de confianza. En lugar de luchar contra ello, aprovecha esta oportunidad para aprovechar tu imaginación y capacidades creativas. Hacerlo podría darte ideas que refuercen tu coraje. Finalmente, la entada de Venus a Escorpión podría traer consigo un romance.
+Se avecinan cosas nuevas capricornio, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar capricornio, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin capricornio, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche… No compartas demasiada información accidentalmente, especialmente cuando se trate de una lluvia de ideas en tu trabajo o plan de ataque contra la competencia. La razón es que alguien podría estar prestando más atención de la que aparenta y podría terminar robándose tu idea. Asimismo, podría haber algunas personas sin escrúpulos que podrían parecer agradables, pero que en realidad no lo son. Sin embargo, la pasión puede florecer entre tú y alguien, pero puede que ésta tenga un tono obsesivo. Retroceder un par de pasos podría ayudarte a entender tus motivos.
 
 ## Dinero
 
-Estas a punto de cambiar de trabajo o de ascender de nivel. No es exactamente la posición que estás buscando pero el salario no está mal. Dale rienda suelta a tu ambición siempre y cuando la tengas del mango. Puede ser tu comunicación, o la falta de, la cuál pone a otros en tu contra. Trata de mantener todo del lado positivo al tener claridad y ser al ser conciso/a.
+Es una semana extraña para ti. Aunque habrá un movimiento hacia adelante en tu vida y menos problemas con la tecnología, hay problemas en el frente interno con los gastos inesperados. Mientras tanto, los cambios llegan a los lugares de trabajo y a su personal y políticas. Si todavía estás a bordo, esto va a mejorar. Si no, nunca va a ser lo que quieres. Piense acerca de cómo hacer un cambio saludable.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 16 de noviembre 2020 al 22 de noviembre 2020 
-description: Horóscopo semanal tauro 16 de noviembre 2020 al 22 de noviembre 2020. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+title: tauro 23 de noviembre 2020 al 29 de noviembre 2020 
+description: Horóscopo semanal tauro 23 de noviembre 2020 al 29 de noviembre 2020. Dedícate la semana a ti tauro, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-16'
+ lastmod: '2020-11-23'
 ---
 
 
 
-## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+## Dedícate la semana a ti tauro, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 
-A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario tauro, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada. Venus, tu planeta personal, entra a tu signo el martes, donde se siente como en casa. Esta influencia puede ayudarte a sentirte bien y a disfrutar de los placeres simples de la vida. También hay una influencia vivaz que podría contagiarte las ansias de hacer nuevos amigos, pero de una manera en que se destaque tu lado tierno y cariñoso. El enfoque en tu sector de hogar también podría motivarte para que recibas visitas o pienses en redecorar tu casa.
+Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
+Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día… La semana por delante podría ser un poco emocional con el Eclipse Lunar edificándose durante los próximos días y llegando a su punto máximo el viernes. Podrías percatarte de que tener un horario más ligero y más fácil te ayuda, ya que el Eclipse puede traer consigo eventos inesperados o incluso crear drama en tu vida cotidiana o profesional. Aun así, tienes el apoyo de los demás conforme el suertudo Júpiter comienza su viaje en tu sector de relaciones. Cualquiera que sea el problema, alguien saldrá a tu ayuda.
 
 ## Dinero
 
-El crecimiento y la suerte pueden ampliar tus posibilidades, así que asegúrate de mantenerte al tanto con tu programa de ejercicios. También se extenderá tu influencia en el mundo. Tienes el oído de tus superiores en el trabajo, así que asegúrate de programar reuniones regulares para mantenerte al tanto con ellos. Mientras tanto, tu vida social se acelera, por lo que es un buen momento para conocer gente nueva, conocer colegas y mejores mentores. Hay poder en tus relaciones.
+Un aspecto positivo le trae suerte a tu sector de educación, idiomas y espiritualidad. Últimamente has tenido tus ojos puestos en el horizonte, preguntándote cómo hacer que tus productos y servicios le lleguen a una audiencia internacional más amplia. Al considerar las medidas necesarias para ello, no descartes las ideas que parezcan locas. Puede que encuentres apoyo hasta en los lugares más extraños.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 16 de noviembre 2020 al 22 de noviembre 2020 
-description: Horóscopo semanal cancer 16 de noviembre 2020 al 22 de noviembre 2020. A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+title: cancer 23 de noviembre 2020 al 29 de noviembre 2020 
+description: Horóscopo semanal cancer 23 de noviembre 2020 al 29 de noviembre 2020. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,17 +12,15 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-16'
+ lastmod: '2020-11-23'
 ---
 
 
 
-## A veces sientes como si no avanzaras cancer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
 
-Esta semana tienes que tomarte las cosas con más calma cancer. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
- Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse. Puede que sientas la tentación de ceder ante el deseo de quedarte en casa en lugar de ir a trabajar o terminar tus tareas. Tal vez debas programar esto porque es importante descansar lo suficiente, pero quizá no al principio de la semana. Sin embargo, prepárate para relajarte a lo grande. 
- Si sientes cansancio, el ingreso del sol a Tauro y a tu sector del hogar el jueves puede ser como regresar al vientre materno. Esta es tu oportunidad para cuidarte y renovar energías. Si alguien te llama para un interesante proyecto, no digas que sí ni te comprometas de inmediato. Necesitas este tiempo para volver a conectar con tu cuerpo y renovar tu estado de ánimo. Cuando el precavido Saturno y el poderoso Plutón se vuelven retrógrados en tu sector espiritual, podría ser momento de algunas reflexivas preguntas y de trabajo interior. Es mejor si estás en paz con tu persona.
+No sabes cómo desviar tus sentimientos cancer, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas cancer… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez cancer. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos cancer que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte. Las cuestiones relacionadas a tu trabajo y bienestar siguen siendo predominantes. Y con Mercurio en su fase retrógrada hasta el 22 de $MES, es prudente prestar atención; en especial si estás tratando con documentos importantes. Júpiter está alegremente oculto en tu sector de recreación durante los próximos meses, de modo que todo tipo de actividades reciben un impulso. La llama de las relaciones a largo plazo y los nuevos romances brilla con fuerza, ayudada por el enérgico Marte. La luna nueva del fin de semana podría animarte a rechazar los malos hábitos y a adoptar algunos más saludables.
 
 ## Dinero
 
-Tienes luz verde para cambiar tu forma de verte y actuar. Eso, a su vez, te ayudará a subir la escalera y hacer más dinero. Si has querido cambiar tu guardarropa, look, o forma de ser, esto es apoyado e incluso alentado ahora. Eclipsa a un mentor de confianza o forja tu propio camino. El Universo trae belleza, atracción, y una especie de afirmación hacia tus necesidades. Juntos, estos aumentan tu poder en el trabajo.
+Esta semana tienes la base sobre la cual construir una seguridad adicional. La actividad en tu sector de  deuda hace que sea más fácil pagar las tarjetas y líneas de crédito. Eres capaz de ganar más dinero ahora y asignarlo como mejor te parezca.
