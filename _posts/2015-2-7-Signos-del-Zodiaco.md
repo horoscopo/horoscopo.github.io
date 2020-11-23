@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 22 de noviembre 2020
-description: Horóscopos del dia de hoy 22 de noviembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 23 de noviembre 2020
+description: Horóscopos del dia de hoy 23 de noviembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-11-22
+ lastmod: 2020-11-23
 ---
-Las ideas podrían parecer convencionales, pero no lo son bajo la Luna en Acuario. Por supuesto, eso es parte de su brillo. ¡Qué gran momento para formular soluciones a problemas! Esta noche, la química emocional podría estar fuera de sintonía. Es posible que desees tener cuidado cuando de sentimientos se trate.
+Prepárate para centrarte en datos y cifras cuando incluso los más pequeños detalles sean de gran importancia el día de hoy. Esta noche, las personas necesitan recibir elogios para sentir qué tan importantes son para otros, por lo que salen a pescar cumplidos bajo la Luna en Libra. Alguien en tu vida quiere escuchar algo. ¿Qué puedes decir para endulzar el proceso?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
