@@ -10,5 +10,4 @@ sitemap:
  changefreq: 'daily'
  lastmod: 2020-11-25
 ---
-Halloween de sábado por la noche cierra el mes con broche de oro. Y con Mercurio encontrándose a punto de salir de Libra, ¡es difícil decidir a qué fiesta asistir! Ponte tu disfraz y sal a divertirte. Sin embargo, los solteros deber recordar que más allá de los disfraces, las apariencias realmente engañan. 
-¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
+Hoy, el ruido tiene un tinte empresarial y la Luna en Capricornio les da una ventaja adicional a los equipos de personas ambiciosas y responsables. Esta noche es sobre cumplir las promesas que uno hizo, ya que no hay mejor momento para hacerlo. Solteros, Venus conecta con Júpiter retrógrado, por lo que no se sorprendan si la noche se siente un poco fuera de sincronización.
