@@ -10,6 +10,7 @@ sitemap:
     <link>{{ site.url }}</link>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }} </lastBuildDate>
     {% for post in site.posts %}
+        {% unless post.published == false %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <content:encoded><![CDATA[
@@ -95,6 +96,7 @@ sitemap:
         <link>{{ site.url }}{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       </item>
+        {% endunless %}
     {% endfor %}
     {% for page in site.pages %}
     {% if page.facebook.instant_article %}
