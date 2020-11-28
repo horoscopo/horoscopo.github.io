@@ -4,6 +4,7 @@ title: Aviso Legal y politicas de privacidad
 permalink: /aviso-legal-privacidad/
 sitemap:
  exclude: 'yes'
+ads: ["none"]
 ---
  
 # Aviso Legal
