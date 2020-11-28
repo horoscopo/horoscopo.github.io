@@ -4,6 +4,7 @@ title: Politicas de privacidad
 permalink: /privacidad-com.horoscopo_del_dia.freetarotapp/
 sitemap:
  exclude: 'yes'
+ads: ["none"]
 ---
  
 # Privacy Policy

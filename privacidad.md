@@ -4,6 +4,7 @@ title: Politicas de privacidad
 permalink: /privacidad/
 sitemap:
  exclude: 'yes'
+ads: ["none"]
 ---
  
 # Política de Privacidad.

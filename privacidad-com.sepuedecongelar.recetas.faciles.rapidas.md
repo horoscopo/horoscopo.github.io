@@ -4,6 +4,7 @@ title: Politicas de privacidad
 permalink: /privacidad-com.sepuedecongelar.recetas.faciles.rapidas/
 sitemap:
  exclude: 'yes'
+ads: ["none"]
 ---
  
 # Privacy Policy

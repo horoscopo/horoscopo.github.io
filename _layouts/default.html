@@ -26,15 +26,16 @@ layout: compress
     {% include styles.html %}
 
     {% include schema.html %}
-    {% if site.adsense %}
-    <link rel="preconnect" href="https://pagead2.googlesyndication.com">
-    <link rel="preconnect" href="https://adservice.google.com/">
-    <link rel="preconnect" href="https://googleads.g.doubleclick.net/">
-    <link rel="preconnect" href="https://www.googletagservices.com/">
-    <link rel="preconnect" href="https://tpc.googlesyndication.com/">
-    <!--Automatic Ads-->
-    <script data-ad-client="{{ site.adsense }}" defer
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    {% assign ads = page.ads | default: layout.ads %}
+    {% if site.adsense and ads contains "adsense" %}
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com">
+        <link rel="preconnect" href="https://adservice.google.com/">
+        <link rel="preconnect" href="https://googleads.g.doubleclick.net/">
+        <link rel="preconnect" href="https://www.googletagservices.com/">
+        <link rel="preconnect" href="https://tpc.googlesyndication.com/">
+        <!--Automatic Ads-->
+        <script data-ad-client="{{ site.adsense }}" defer
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     {% endif %}
     {% include mailchimp.html %}
   </head>

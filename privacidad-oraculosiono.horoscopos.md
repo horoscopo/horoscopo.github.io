@@ -4,6 +4,7 @@ title: Politicas de privacidad
 permalink: /privacidad-oraculosiono.horoscopos/
 sitemap:
  exclude: 'yes'
+ads: ["none"]
 ---
  
 # Privacy Policy
