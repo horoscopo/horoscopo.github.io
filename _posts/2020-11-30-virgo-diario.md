@@ -9,7 +9,7 @@ redirect_from: /p/virgo.html
 keywords: virgo,horoscopo,horoscopo virgo noviembre 2020,horoscopo virgo hoy,tarot virgo noviembre 2020,horoscopo virgo,tarot virgo hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy virgo,horoscopo diario del tarot, Horoscopo de hoy virgo 30 de noviembre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: virgo
- video: 5uYluCQzi6I
+ video: PUgPoaxY6Ek
 ogimg: /images/virgo_char.png
 sitemap:
  priority: 1

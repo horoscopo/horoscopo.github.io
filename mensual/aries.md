@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo aries noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
- video: 5uYluCQzi6I
+ video: PUgPoaxY6Ek
 ogimg: /images/mes/aries_mes.png
 sitemap:
  priority: 1

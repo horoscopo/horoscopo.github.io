@@ -9,7 +9,7 @@ redirect_from: /p/leo.html
 keywords: leo,horoscopo,horoscopo leo noviembre 2020,horoscopo leo hoy,tarot leo noviembre 2020,horoscopo leo,tarot leo hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy leo,horoscopo diario del tarot, Horoscopo de hoy leo 30 de noviembre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: leo
- video: 5uYluCQzi6I
+ video: PUgPoaxY6Ek
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1

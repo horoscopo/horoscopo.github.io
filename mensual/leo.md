@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo noviembre, horoscopos en español, horóscopo leo noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
- video: 5uYluCQzi6I
+ video: PUgPoaxY6Ek
 ogimg: /images/mes/leo_mes.png
 sitemap:
  priority: 1

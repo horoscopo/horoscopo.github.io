@@ -9,7 +9,7 @@ redirect_from: /p/geminis.html
 keywords: geminis,horoscopo,horoscopo geminis noviembre 2020,horoscopo geminis hoy,tarot geminis noviembre 2020,horoscopo geminis,tarot geminis hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy geminis,horoscopo diario del tarot, Horoscopo de hoy geminis 30 de noviembre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: geminis
- video: 5uYluCQzi6I
+ video: PUgPoaxY6Ek
 ogimg: /images/geminis_char.png
 sitemap:
  priority: 1
