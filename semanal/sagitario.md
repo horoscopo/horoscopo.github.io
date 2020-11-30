@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 23 de noviembre 2020 al 29 de noviembre 2020 
-description: Horóscopo semanal sagitario 23 de noviembre 2020 al 29 de noviembre 2020. De verdad sagitario, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+title: sagitario 30 de noviembre 2020 al 06 de diciembre 2020 
+description: Horóscopo semanal sagitario 30 de noviembre 2020 al 06 de diciembre 2020. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-23'
+ lastmod: '2020-11-30'
 ---
 
 
 
-## De verdad sagitario, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 
-A veces las cosas tienen que ser a tu manera o a ninguna sagitario, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada sagitario. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope. Puede que prefieras guardarte lo que sientes, particularmente en los primeros días de la semana, mientras todavía decides qué hacer. Sin embargo, una vez que hayas tomado una decisión, no te molestará contarles a las demás personas. De hecho, cuando el vivaz Mercurio se alinea con Júpiter, compartir tus ideas podría tener una conclusión positiva. Por otro lado, con el sol y el amoroso Venus en tu sector de viajes, la idea de tomarte vacaciones o un pequeño descanso es muy atractiva. Sin duda es algo que vale la pena considerar.
+Hay gente que no respeta que puedas crecer sagitario, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los sagitario pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece sagitario, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela! Proyectos creativos y actividades placenteras encabezan la agenda de esta semana, haciendo de este un buen momento para unas vacaciones o una corta escapada. Un romance parece estar a punto de florecer, con un solo toque - o pequeño gesto - pudiendo provocarlo. Aunque estarás muy al tanto de todo lo que necesitas llevar a cabo durante los días por venir, adoptar un enfoque divertido e intuitivo puede hacer toda la diferencia. Una idea brillante podría tener un mayor impacto del que imaginabas.
 
 ## Dinero
 
-Es posible que esta semana no desees otra cosa que pensar en cómo pagar la deuda, ahorrar para la jubilación y construir un plan financiero viable. Pero un aspecto en específico exige que pases algún tiempo asumiendo la responsabilidad de creaciones estrategias importantes. Trabaja ahora, para construir lo que se necesita en el futuro. Mientras tanto, otros aspectos iluminan tu sector profesional. Aprovecha el efectivo mientras puedas.
+Puede que necesites más tiempo que nunca en enfocar los objetivos de tus metas. Estos aspectos pueden crear maravillosas ideas o simplemente algún tiempo de inactividad para meditar y recopilar energías. Ideas y pensamientos orientados hacia el futuro se presentan conforme piensas acerca de cómo llevarlas a un mercado más amplio y más rentable. Afectará a tu sector de viajes, de aprendizaje, enseñanza, espiritualidad y ley. Estás entrando a tu propio paso.

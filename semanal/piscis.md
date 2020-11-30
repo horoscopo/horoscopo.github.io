@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 23 de noviembre 2020 al 29 de noviembre 2020 
-description: Horóscopo semanal piscis 23 de noviembre 2020 al 29 de noviembre 2020. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+title: piscis 30 de noviembre 2020 al 06 de diciembre 2020 
+description: Horóscopo semanal piscis 30 de noviembre 2020 al 06 de diciembre 2020. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-23'
+ lastmod: '2020-11-30'
 ---
 
 
 
-## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 
-Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí piscis, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor. Este podría ser un periodo de puro hablar, cuando es poco probable que te andes sin rodeos. La energía de esta semana podría verte tener dureza con alguien, sobre todo si sientes que tal persona te ha afectado de alguna manera. Sin embargo, las cualidades más sensibles de Venus y Neptuno en Piscis te permiten ponerte en sus zapatos; claro, si es que tienes disposición a ello. Si logras hacer esto, vas a entender por qué tal persona hizo lo que hizo y cuál debería ser tu reacción a ello.
+La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante piscis, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada… Con Marte en el sector transformador de tu carta astral, podrías descubrir que revoluciona tu paisaje interior de patrones y obsesiones y esto quizá te lleve a tomar ciertas medidas. ¿Sería prudente ceder ante la tentación? Podría no serlo si sabotean todo tu último esfuerzo. La otra manera de lidiar con esta situación es observarlos y no permitir que estos deseos influyan en ti. Al hacer esto todos los días, podrías ser libre de ellos de una vez por todas.
 
 ## Dinero
 
-Tu situación en el hogar y las emociones internas indican un posible cambio para ti ahora mismo. ¿Has estado pensando en la creación de más espacio para ti mismo/a? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener que los jugos que fluyan hacia un nuevo trabajo o fuente de ingresos. El truco estará en no irse por la borda con este esfuerzo. Busca un balance entre el gasto y el ahorro.
+Puede que estés pensando en maneras de embellecer tu área de trabajo o conseguir que tus colegas participen en un esfuerzo creativo. También tienes el apoyo total del Universo para hacer algunos movimientos importantes en la parte frontal de la deuda. Pagar las cosas te da una gran sensación en el interior, al igual que hacer un plan de ahorro global y mantenerte al tanto con él.

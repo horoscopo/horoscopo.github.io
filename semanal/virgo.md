@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 23 de noviembre 2020 al 29 de noviembre 2020 
-description: Horóscopo semanal virgo 23 de noviembre 2020 al 29 de noviembre 2020. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda virgo, pero sé constante.
+title: virgo 30 de noviembre 2020 al 06 de diciembre 2020 
+description: Horóscopo semanal virgo 30 de noviembre 2020 al 06 de diciembre 2020. Da la bienvenida a tu nueva vida virgo, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-23'
+ lastmod: '2020-11-30'
 ---
 
 
 
-## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda virgo, pero sé constante.
+## Da la bienvenida a tu nueva vida virgo, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 
-A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez virgo. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona virgo, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio. Tu corazón está enfocado en tu hogar cuando Marte entra a Géminis esta semana, animándote a poner en marcha tareas hogareñas y eliminar el desorden. Si has estado sintiendo agobio debido a tantas cosas, puede que sientas motivación a deshacerte de ellas; creando así más espacio para otros planes y proyectos. En el romance, Venus emana sus tiernos rayos sobre un especial encuentro amoroso. El Sábado es el mejor día para conectar con tu último amor. Un suave y seductor estado de ánimo podría tentarte a disfrutar al máximo.
+Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo virgo, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no virgo, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte… Con Marte en Piscis y en un sector más tranquilo de tu carta astral, podría resultarte difícil sentir la motivación que sueles sentir. Si lo vinculas con el ejemplar Saturno, podrías decidir quedarte donde estás y no alejarte de tu zona de confort. Sin embargo, puede que otras influencias te inspiren a que hagas exactamente eso. La curiosidad podría ser lo que finalmente te alienta a dar un paso adelante a costa de cualquier cosa. Por otra parte, el deseo podría abrir camino a una intensa conversación.
 
 ## Dinero
 
-Tienes la posibilidad de recibir mucho apoyo por parte de viajes al extranjero, aprender un nuevo idioma, o asistir a una clase o un seminario para reforzar tu educación. Cualquier cosa que puedas hacer para que tu conjunto de habilidades sea más formidable ayudará ahora, especialmente cuando se trata de pedir más dinero. Mientras tanto, analizando el área de tu carta relacionada con tu trabajo, ¿será que es hora de cambiar de profesión?
+Estás siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que pronto necesites sentir comodidad al hablar en público o iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas será muy importante ahora. Tu carrera necesita un poco de energía concentrada e intencional. Evita la confusión con el fin de recibir lo que se aproxima hacia ti.
