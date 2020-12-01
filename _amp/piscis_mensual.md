@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo piscis noviembre 2020 
+title: Horoscopo piscis diciembre 2020 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/piscis_char.png
 sitemap:
  priority: 1
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La Luna Nueva del 2 de noviembre te anima a salir adelante y comenzar ese nuevo y loco proyecto o iniciar ese difícil deporte. Te cuidado y monitorea tu presupuesto, pero, sobre todo, disfruta de satisfacer ese fantástico deseo. La Luna Llena del 18 de noviembre destella con una brillante vida social. Viste de lo mejor y acude a un lugar muy exclusivo. Es posible que gastes un poco más de dinero o pases más tiempo en él del que tenías planeado. Ponte tu sombrero de comandante el 24 de noviembre, cuando Marte y Saturno conecten en Virgo. Toma el mando y delega con habilidad. Cuando emitas ordenes, hazlas sonar como si fueran peticiones y las verás cumplidas al instante.
+Tus estelares características, talentos y opiniones mejor te servirán si haces las cosas en silencio. Permite que la gente hable contigo en privado en lugar de hacer sonar tu propia campana y tratar de llamar la atención. Tus inherentes talentos brillan con más intensidad en entornos más íntimos. La Luna Llena del 21 de diciembre podría transformarte en una persona atractiva, sexy y misteriosa. Si actualmente no estás cultivando activamente esta impresión de ti, aun así, puedes encontrar diversión y satisfacción debido a tanta popularidad y atención. Disfruta de esta corta dosis de glamour y tal vez inicia una gran nueva relación. Venus entra a Géminis el 24 de diciembre, haciendo que tu vida se vuelva más vibrante, colorida y divertida.   

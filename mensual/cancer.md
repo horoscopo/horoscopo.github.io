@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo cancer noviembre 2020
-description: El Horóscopo noviembre de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo cancer diciembre 2020
+description: El Horóscopo diciembre de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo cancer noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo cancer diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/mes/cancer_mes.png
 sitemap:
  priority: 1
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-El Eclipse Solar de Luna Nueva el 1 de noviembre desencadena una explosión de diversión y alegría. La diversión puede tener un lado serio, así que no rechaces esta oportunidad de disfrutar de la vida. Tendrás gran atractivo y encanto sin importar tu estado de ánimo. El Eclipse de Luna Llena del 16 de noviembre ilumina tu vida social y cualquier club u organización que disfrutes o a la que pertenezcas. La gente a tu alrededor podría andar un poco sensible, pero eso no te ahuyentará. Sé la persona sensata en la habitación y deja que los demás se desahoguen si es lo que necesitan. Ponle orden a tu vida bajo la Luna Nueva del 30 de noviembre al darles a tus mascotas, plantas y posesiones un poco de cuidado extra.
+El Sol forma trígono con Neptuno el 1 de diciembre, abriendo los corazones de las personas y haciendo algunos de ellos hipersensibles. Pisa con cuidado. La Luna Llena del 14 de diciembre ilumina tu sector profesional e imagen pública. Incluso si entonces sientes ganas de quedarte en casa, la gente te va a encontrar, por lo que puede que también participen plenamente en lo que estás haciendo. En tu trabajo, hazte visible y brilla. La Luna Nueva del 29 de diciembre te promete gran diversión sin tener que cruzar el límite de la imprudencia o la extravagancia. Tómate tu tiempo y elige bien tus diversiones. Lo que te parezca bien al principio podría dejarte un amargo sabor de boca más tarde. Sé exigente.

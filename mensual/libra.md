@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo libra noviembre 2020
-description: El Horóscopo noviembre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo libra diciembre 2020
+description: El Horóscopo diciembre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo libra noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo libra diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/mes/libra_mes.png
 sitemap:
  priority: 1
@@ -16,8 +16,4 @@ sitemap:
 ---
 
 
-La vida social recibe un gran impulso de la luna nueva del 6 de noviembre. Tómatelo con calma, y disfruta. Mercurio se torna estacionario directo también ese día. No dejes que las comunicaciones sin resolver sigan complicando tu vida. 
-El sol forma un trígono con Urano el 20 de noviembre. Sorpréndete, y siéntete a gusto contigo, es un momento de redescubrimiento. Tal vez no seas capaz de ir más despacio durante la luna llena del día 22, pero puedes hacer una pausa, y enfocarte en detalles importantes de tu rutina diaria. Lava los trastes, riega las orquídeas, y asegúrate de que aunque algo quede sin hacer, las cosas importantes estén cubiertas. Siente todas las virtudes que tienes. 
-La luna forma un trígono con Urano el 26 de noviembre. Un comentario o gesto inesperado puede enriquecer una situación agradable aún más. 
-Días destacados: 8, 17, 20
-Días desafiantes: 11, 30
+El amor brilla a todo tu alrededor bajo la Luna Nueva del 6 de diciembre. Un encantador e inteligente admirador podría aparecerse de la nada, o puede que te des cuenta de que le has dado una gran impresión y has atraído a alguien que admiras. Una relación amorosa - nueva o establecida - podría crecer y profundizarse. La Luna Llena del 21 diciembre acentúa asuntos monetarios. Eres una persona ambiciosa y llena de energía, por lo que otras personas querrán que les apoyes de cierta manera que beneficie a todos los involucrados. Lo único que tienes que haces es comportarte amable, graciosa e igual de competentemente como sueles hacerlo. Es durante éste periodo de tiempo en el que sería posible que encontraras un socio de negocios. Marte entra a Escorpión el 27 de diciembre para encender tu dedicación hacia mejorar tu vida. 

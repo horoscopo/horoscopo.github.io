@@ -1,14 +1,14 @@
 ---
 layout: horoscopos
-title: Horoscopo aries noviembre 2020
-description: El Horóscopo noviembre de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo aries diciembre 2020
+description: El Horóscopo diciembre de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/aries/
 amplink: /horoscopo-mensual/amp/aries/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo aries noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo aries diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/mes/aries_mes.png
 sitemap:
  priority: 1
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Alrededor de la Luna Nueva del 11 de noviembre, sal de tus pensamientos internos, dejate llevar almenos una vez por las experiencias de la vida. La Luna cuadra a Urano el 13 de noviembre, cuando podrías decidir que un plan anteriormente determinado podría ser divertido, pero también demasiado loco. Puede que se te mime con una modesta pero sincera celebración alrededor de la Luna Llena del 25 de noviembre. Puede que se filtre en tu corazón y quizás cure una herida que no sabías que estaba allí.       
+Durante la intensa conjunción entre el Sol y Plutón el 6 de diciembre, la Luna se encontrará en el imperturbable Tauro. Sea lo que sea que el mundo te eche encima, puedes convertirlo en algo maravilloso. Durante la Luna Llena del 12 de diciembre, nada resulta mejor que estar con amistades especiales. Quizás te dispongas a ocuparte de todo por tu cuenta, pero no te dejarán hacerlo. La Luna Nueva del 27 de diciembre enciende tu situación profesional y laboral. Podría abrirse una puerta a un nuevo proyecto importante y excitante. O quizás te asignen una posición sobresaliente en un proyecto que te permitirá demostrar todas tus mejores habilidades.   

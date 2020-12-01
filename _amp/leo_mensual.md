@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo leo noviembre 2020 
+title: Horoscopo leo diciembre 2020 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/leo_char.png
 sitemap:
  priority: 1
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Tu salud resplandece bajo la Luna Nueva del 4 de noviembre. Si has estado bajo estrés o sintiéndote mal, esas nubes se están alejando. Adopta una vida más activa sin temor a sufrir de un esfuerzo excesivo o de un comienzo demasiado arrebatado. Puede que no estés pensando conscientemente en ti primero, pero a tu cuerpo le gustaría que así fuese. El tema de la Luna Llena del 20 de noviembre es amor. Es posible que a veces desees esconderte, pero no te molestes en hacerlo. El amor te está buscando y es más persistente que tú. El trígono entre Venus y Neptuno del 27 de noviembre trae consigo aún más oportunidades románticas, especialmente con el trígono entre la Luna y Saturno de altas horas de la noche.
+Venus ingresa a Piscis el 2 de diciembre y el amor te buscará todo el mes. Para la Luna Llena del 12 de diciembre, libera tu creatividad y trata de ser más audaz. Haz algo fuera de lo común. No tengas miedo de salir de tu zona de confort. Y no permitas que una vida social ocupada te dicte lo que debes hacer. La Luna Nueva del 27 de diciembre está repleta de sueños grandes y pensamientos profundos. Quizás te preocupes tanto por los problemas y las necesidades del mundo que puedes olvidarte de tus propios cuidados. No tienes por qué hacer eso. Tú ya eres una parte importante del mundo.

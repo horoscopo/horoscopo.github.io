@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo capricornio noviembre 2020 
+title: Horoscopo capricornio diciembre 2020 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/capricornio_char.png
 sitemap:
  priority: 1
@@ -14,6 +14,7 @@ sitemap:
 ---
 
 
-Una preocupación monetaria o material podría surgir cerca de la Luna Nueva del 9 de noviembre. No se verá ni sonará simple, pero lo será. No dejes que las opiniones de otras personas enturbien tus aguas mentales. Puedes hacerlo. La Luna Nueva del 23 de noviembre te abre la puerta a un rol mucho más grande en un mundo mucho más grande. Puede que estés reticente a avanzar y tomar tu lugar, pero podrás hacer y decir cosas fantásticas e impresionantes para ti y para los demás. El 29 de noviembre, la oposición Mercurio/Plutón podría revelar la agenda oculta o las verdaderas intenciones de una persona.
+La conjunción entre la luna y Urano del 10 de diciembre te da la ventaja de la sorpresa si la necesitas. Siempre y cuando no seas imprudente, es probable que tengas éxito. Para la luna nueva del día 13, disfruta de una pasión personal que quizás has descuidado o pasado por alto durante un largo tiempo. Si nadie comparte tu pasión, mucho mejor. La luna llena del 27 de diciembre promueve una vida privada e interna más activa. En lugar de sobrecargarte, enfócate y tómate en serio el tiempo a solas. Una amistad o guía de mucho tiempo puede tener cosas importantes que decirte, o podrías recordar algo valioso y oportuno. 
 
-Mejores días: 1, 11, 20Peores días: 8, 22
+Días destacados: 18, 22, 23
+Días desafiantes: 14, 30</div>

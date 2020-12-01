@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo virgo noviembre 2020 
+title: Horoscopo virgo diciembre 2020 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/virgo_char.png
 sitemap:
  priority: 1
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La luna llena del 3 de noviembre podría poner dinero en tu camino. Podría venir desde lejos o incluso de gente que apenas conoces. También puede traer consigo una gran cantidad de consejos, pero tú sabes muy bien lo que quieres. Tienes todas las respuestas durante la luna nueva del día 17. Una gran variedad de personas y problemas pueden acudir a ti en busca de soluciones, y tú las tendrás. También te resultará fácil. Diviértete actuando como la persona experta que eres. La conjunción entre Venus y Saturno del 25 de noviembre brinda tranquilidad a los agitados días que has tenido. Aprecia tener noticias de familiares de mayor edad y viejas amistades. 
+Puedes divertirte igual estando a solas, como pasándotela con un grupo grande en público. También puede terminar costándote menos. Si tus amigos acuden a un concierto grande durante el fin de semana de Luna Llena del 3 de diciembre y la música no es de tu agrado, no tiene nada de malo cancelar tu asistencia. Rodéate de todas tus personas favoritas y pasa un buen rato alrededor de la Luna Nueva del 17 de diciembre. No te quedes en casa a aburrirte, tus amigos no lo permitirán. El 27 de diciembre, cura una vieja herida o simplemente hazte a ti y a otra persona más feliz.

@@ -1,12 +1,12 @@
 ---
 layout: amp
-title: Horoscopo tauro noviembre 2020 
+title: Horoscopo tauro diciembre 2020 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/tauro_char.png
 sitemap:
  priority: 1
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Tu situación monetaria se ve favorecida alrededor de la Luna Nueva del 7 de noviembre. Puede que las cosas no salgan según lo planeado, así que prepárate para ser un poco flexible. Sin embargo, lo más seguro es que los cambios repentinos y las reglas recién descubiertas o establecidas funcionen a tu beneficio. Puede haber muchas cosas que prefieras hacer alrededor de la Luna Llena del 21 de noviembre, pero tu círculo social podría tener otros planes. No eres alguien que suele decepcionar, y de todas maneras te divertirás; sin embargo, es posible que tus sugerencias son sean tomadas en cuenta. La Luna forma quincuncio con Júpiter el 30 de noviembre, tal vez dejándote con la sensación de que algo anda mal. Sensación que es meramente errónea. 
+Mantente alerta a un golpe de suerte en torno a la Luna Llena del 4 de diciembre. No te preocupes. Espera grandes cosas, incluso amor. Puede que no te ganes la lotería, pero es posible que al menos te escapes de la gripe que todo el mundo tidiciembre Durante la Luna Nueva del 18 de diciembre, alguien podría querer que te ocupes de algo que es más que un favor menor. Responde prácticamente y haz lo que puedas si piensas que es apropiado, o simpáticamente reúsate si piensas que es irrazonable o está más allá de tus capacidades. No sientas arrepentimiento al respecto. El 29 y 30 de diciembre son los principales días para informarte y mostrar tu inteligencia.
