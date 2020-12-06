@@ -4,6 +4,7 @@ title: Hóroscopo de hoy 30 de noviembre 2020
 description: Horóscopos del dia de hoy 30 de noviembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy-12/
 ogimg: /images/diario.png
+ads: ["none"]
 sitemap:
  exclude: 'yes'
 ---
