@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: cancer 30 de noviembre 2020 al 06 de diciembre 2020 
-description: Horóscopo semanal cancer 30 de noviembre 2020 al 06 de diciembre 2020. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles cancer, ¡NO MEZCLES!
+title: cancer 07 de diciembre 2020 al 13 de diciembre 2020 
+description: Horóscopo semanal cancer 07 de diciembre 2020 al 13 de diciembre 2020. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-30'
+ lastmod: '2020-12-07'
 ---
 
 
 
-## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles cancer, ¡NO MEZCLES!
+## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 
-Ommmm… Ommmm… Relax cancer, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira cancer, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas cancer, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros. Esta es una semana de cambios y transformaciones, no sólo porque termina el mes y uno nuevo comienza, también porque varios planetas cambian a nuevos signos. Con la Luna, tu planeta regente, entrando al atrevido Sagitario, podrías estarte preparando para algunas aventuras financieras. Sin embargo, te ayudaría cubrir bien tus bases e investigar antes de cerrar un trato u optar por trucos para enriquecerte rápidamente. Las relaciones se intensifican, pudiendo llevarte a que te dispongas a hacer cambios en áreas que los han requerido por un largo tiempo.
+Hay cosas que no se pueden cambiar cancer, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos cancer, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia cancer pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va. Esta semana podría darte la oportunidad de tomar una importante decisión con respecto a tu camino espiritual. El cuarto de luna del miércoles puede animarte a aprender a meditar, practicar yoga o conectar con otras personas que compartan tus ideas e ideales. Aun así, las creencias heredadas de tu infancia o de otra época de tu vida podrían entrar en conflicto con las ideas que quieres adoptar. Necesitas resolver esto de la mejor manera que creas posible. A medida que el seductor Venus ingresa a tu signo el sábado, es momento de disfrutar de mimarte un poco.
 
 ## Dinero
 
-Esta semana estás entrando a un torbellino social en grande. Estás saliendo de tu caparazón poco a poco y con cada vez más confianza en la manera de comunicar tus ideas. Esto es bueno para atraer a la gente significativa en tu vida y positivo para la promoción de tus sueños. Asegúrate de estar al corriente con el pago de tu deuda. Podría haber problemas si hay algo que permanece oculto.
+Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.

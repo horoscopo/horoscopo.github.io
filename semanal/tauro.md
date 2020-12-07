@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: tauro 30 de noviembre 2020 al 06 de diciembre 2020 
-description: Horóscopo semanal tauro 30 de noviembre 2020 al 06 de diciembre 2020. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+title: tauro 07 de diciembre 2020 al 13 de diciembre 2020 
+description: Horóscopo semanal tauro 07 de diciembre 2020 al 13 de diciembre 2020. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-30'
+ lastmod: '2020-12-07'
 ---
 
 
 
-## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 
-Tienes que enderezar un poco tu vida tauro, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario. La Luna Nueva de hoy podría darte la oportunidad de explorar una idea para un negocio o un plan financiero, especialmente si esto sugiere un nuevo comienzo. Esto te vendría bien, ya que la idea de darle la vuelta a la hoja es algo que podría atraete mucho en este momento. Solo debes dar los primeros pasos pronto y poner el plan en marcha. En los últimos días de la semana, una idea que tiene un gran significado para ti podría convertirse en tu prioridad más importante de una manera impresionante.
+Deja que duela tauro, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser tauro estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien tauro pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida tauro, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien… Venus se une a Mercurio en tu sector espiritual a principios de esta semana, aspecto que podría llevarte a contactar a alguien con el fin de ayudarle. Si una amistad está pasando por un momento difícil, estarás a su lado para escucharle y ofrecerle tus consejos. También te beneficiarás de prestarle atención a tus sueños, los cuales pueden parecer más vívidos de lo habitual, ya que podrían contener útil información. El gran evento astrológico de la semana es la entrada del Sol a tu signo del jueves. Tal permanecerá ahí durante las próximos cuatro semanas, aumentando tu vitalidad y carisma.
 
 ## Dinero
 
-Tu vida financiera está activa esta semana. Se te está pidiendo que cambies tu forma de ver el dinero en tu vida. Esto podría abrir un nuevo canal para manifestar nuevas fuentes de ingresos si mantienes tus ojos bien abiertos. Utiliza tus puntos fuertes para trabajar en pagar tu deuda. Tienes todo lo necesario para disminuir considerablemente esas facturas. Sólo destina de tus ingresos lo más que puedas y ve los números disminuir exorbitantemente.
+Tu saldo bancario crece cada vez más y más. ¡Es tiempo de celebrar! Eso sí, no dejes que tu típico exceso drene lo que has ganado con tanto esfuerzo. Mientras tanto, tu carrera está estallando de manera positiva para ti ahora,  y a medida que aumentan las responsabilidades, tu estado mejora y tu trabajo adquiere la forma de comunicación con la que sólo has soñado antes. Prepárate para la llegada, ya te encuentras cerca.

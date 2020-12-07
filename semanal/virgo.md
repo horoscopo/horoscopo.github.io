@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: virgo 30 de noviembre 2020 al 06 de diciembre 2020 
-description: Horóscopo semanal virgo 30 de noviembre 2020 al 06 de diciembre 2020. Da la bienvenida a tu nueva vida virgo, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+title: virgo 07 de diciembre 2020 al 13 de diciembre 2020 
+description: Horóscopo semanal virgo 07 de diciembre 2020 al 13 de diciembre 2020. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-30'
+ lastmod: '2020-12-07'
 ---
 
 
 
-## Da la bienvenida a tu nueva vida virgo, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 
-Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo virgo, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no virgo, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte… Con Marte en Piscis y en un sector más tranquilo de tu carta astral, podría resultarte difícil sentir la motivación que sueles sentir. Si lo vinculas con el ejemplar Saturno, podrías decidir quedarte donde estás y no alejarte de tu zona de confort. Sin embargo, puede que otras influencias te inspiren a que hagas exactamente eso. La curiosidad podría ser lo que finalmente te alienta a dar un paso adelante a costa de cualquier cosa. Por otra parte, el deseo podría abrir camino a una intensa conversación.
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo virgo. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que virgo estalla, nadie se salva. Si estás tratando de aumentar tu confianza, el efecto negativo de una celosa amistad podría no estarte ayudando. Teniendo esto en cuenta, la Luna Nueva en Aries del jueves podría ser una llamada a hablar sobre al asunto. Sin embargo, si esperas hasta que llegue el fin de semana, es posible que puedan resolverlo de una manera que les permita apreciar y disfrutar mutuamente de sus cualidades tan únicas. Evita tener esta discusión a mitad de semana, ya que el resultado podría no ser muy agradable.
 
 ## Dinero
 
-Estás siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que pronto necesites sentir comodidad al hablar en público o iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas será muy importante ahora. Tu carrera necesita un poco de energía concentrada e intencional. Evita la confusión con el fin de recibir lo que se aproxima hacia ti.
+Es un momento lleno de energía para ti ahora. Los viajes, el aprendizaje y la exploración pueden estar en lo alto de tu agenda. Pero también es hora de equilibrar las necesidades de tu trabajo diario con tu pasión por los viajes. A menos que encuentres la manera de poder hacer que los viajes o el aprendizaje formen parte de tu modelo de negocios, tiene que haber un compromiso. El Universo aligera el golpe.

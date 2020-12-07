@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: acuario 30 de noviembre 2020 al 06 de diciembre 2020 
-description: Horóscopo semanal acuario 30 de noviembre 2020 al 06 de diciembre 2020. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+title: acuario 07 de diciembre 2020 al 13 de diciembre 2020 
+description: Horóscopo semanal acuario 07 de diciembre 2020 al 13 de diciembre 2020. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
- video: PUgPoaxY6Ek
+ video: 5uYluCQzi6I
 ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-11-30'
+ lastmod: '2020-12-07'
 ---
 
 
 
-## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 
-Sólo tú puedes salvar tu vida acuario. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú acuario. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas. Las próximas semanas pueden ser una oportunidad para relajarte y darte el gusto de ir a una sesión saludable de cuidados que pueda ayudar a que te repongas. Sin embargo, con una mezcla compleja de energías que también se genera esta semana, puede que necesites ponerte firme con alguien que agota tu vitalidad. Poner límites claros podría ser esencial para mantener todo bajo control. Por último, con la entrada del sol a tu sector financiero el viernes, puede que debas revaluar tus recursos.
+Esta semana estás un poco impredecible acuario, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica acuario… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito. Para que puedas idear un plan para tener éxito, es mejor que le pidas consejo a una persona con más experiencia. Esto además puede tener un impacto positivo en otras áreas de tu vida. La Luna Nueva de esta semana el 28 de $MES podría coincidir con el deseo de reestructurar tus finanzas y analizar cómo tu dinero puede rendirte más. Es posible que seas el centro de atención en Año Nuevo y esto es algo que deberías tener en cuenta si buscas darle rienda suelta a tus impulsos.
 
 ## Dinero
 
-Tienes una buena dosis de apoyo del Universo conforme tratas de ganar más dinero y creas más estructura en tu vida. Los aspectos afectando tu sector de dinero y valores hacen de este un buen momento no sólo para ganar más dinero a través de mayores oportunidades, sino también para investigar la manera de invertir en el futuro. Empieza a actuar con cautela, luego, ramifícate conforme empiezas a sentir más comodidad.
+Te diriges a un periodo de gran riqueza en términos de finanzas e información que te ayudará a obtener más seguridad. Tienes un increíble poder psíquico ahora. El Universo está agitando tu sector de karma, vidas pasadas, e instituciones, con el fin de acudir a estas áreas para hacer más dinero, encontrar nuevas ideas para productos y servicios únicos, o localizar lugares para invertir tu dinero para maximizar tus ganancias.
