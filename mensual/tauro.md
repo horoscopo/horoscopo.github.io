@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo tauro diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/mes/tauro_mes.png
 sitemap:
  priority: 1

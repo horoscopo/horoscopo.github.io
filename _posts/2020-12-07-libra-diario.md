@@ -9,7 +9,7 @@ redirect_from: /p/libra.html
 keywords: libra,horoscopo,horoscopo libra diciembre 2020,horoscopo libra hoy,tarot libra diciembre 2020,horoscopo libra,tarot libra hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy libra,horoscopo diario del tarot, Horoscopo de hoy libra 07 de diciembre del 2020,horóscopo del día,signos zodiacales 2020, el horoscopo de hoy
 horoscopo:
  signo: libra
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/libra_char.png
 sitemap:
  priority: 1

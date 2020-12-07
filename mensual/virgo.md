@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo virgo diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/mes/virgo_mes.png
 sitemap:
  priority: 1

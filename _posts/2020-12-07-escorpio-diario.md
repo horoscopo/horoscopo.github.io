@@ -9,7 +9,7 @@ redirect_from: /p/escorpio.html
 keywords: escorpio,horoscopo,horoscopo escorpio diciembre 2020,horoscopo escorpio hoy,tarot escorpio diciembre 2020,horoscopo escorpio,tarot escorpio hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy escorpio,horoscopo diario del tarot, Horoscopo de hoy escorpio 07 de diciembre del 2020,horóscopo del día, el horoscopo de hoy
 horoscopo:
  signo: escorpio
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/escorpio_char.png
 sitemap:
  priority: 1

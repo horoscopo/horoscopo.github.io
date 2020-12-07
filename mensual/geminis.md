@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo geminis diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/mes/geminis_mes.png
 sitemap:
  priority: 1

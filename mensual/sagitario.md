@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo sagitario diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/mes/sagitario_mes.png
 sitemap:
  priority: 1

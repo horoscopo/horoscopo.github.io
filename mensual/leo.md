@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo leo diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/mes/leo_mes.png
 sitemap:
  priority: 1

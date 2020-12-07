@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/geminis_char.png
 sitemap:
  priority: 1

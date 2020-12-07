@@ -6,7 +6,7 @@ normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/tauro_char.png
 sitemap:
  priority: 1

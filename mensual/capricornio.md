@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo capricornio diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/mes/capricornio_mes.png
 sitemap:
  priority: 1

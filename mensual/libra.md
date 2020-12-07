@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo libra diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/mes/libra_mes.png
 sitemap:
  priority: 1

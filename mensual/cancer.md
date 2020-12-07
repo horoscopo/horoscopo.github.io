@@ -8,7 +8,7 @@ home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo cancer diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
- video: 5uYluCQzi6I
+ video: -DQpmrrAIeU
 ogimg: /images/mes/cancer_mes.png
 sitemap:
  priority: 1
