@@ -34,6 +34,9 @@ ads: ["adsense"]
 
     <!--Cuerpo del panel -->
     <div class="panel-body">
+    {% if page.ogimg %}
+        {% include picture.html img=page.ogimg class="img-responsive center-block" alt=page.title %}
+    {% endif %}
     {% include adsense.html %}
       {{ content }}
     {% include adsense.html %}
