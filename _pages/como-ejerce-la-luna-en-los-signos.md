@@ -14,8 +14,6 @@ sitemap:
  lastmod: '2018-06-06'
 ---
 
-![luna-signos](http://horoscopo-del-dia.com/images/luna-signos.png "Influencia de la Luna sobre cada signo")
-
 # ¿Cómo ejerce la luna en los signos?
 
 **Cada persona tiene una personalidad y distintas características y como muchos sabemos ciertos planetas nos afectan y cambian**, agregan o incrementan algunas de estas características así que dependiendo de la energía de planetas como la Júpiter, Marte o incluso la luna tiene un poder sobre nosotros y la energía que genera puede cambiarnos dependiendo de las características que ya presentes desde el comienzo.

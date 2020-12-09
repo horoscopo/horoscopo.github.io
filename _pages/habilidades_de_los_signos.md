@@ -14,8 +14,6 @@ sitemap:
  lastmod: '2019-05-13'
 ---
 
-![Habilidades de los signos del zodiaco]({{ site.url }}/images/habilidades-signos.png "Habilidades de los signos")
-
 Cada signo es diferente entre si ya sea porque radica su chakra en diferentes zonas o por los planetas que pasan por estas constelaciones en el momento siendo así cada uno de estos tiene habilidades especiales que pueden usar estas son:
 
 ## Aries

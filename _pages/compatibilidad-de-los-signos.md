@@ -14,8 +14,6 @@ sitemap:
  lastmod: '2018-09-04'
 ---
 
-![Compatiblidad en el amor de los signos del zodiaco]({{ site.url }}//images/compatibilidad-signos.png "Compatiblidad en el amor de los signos del zodiaco")
-
 # ¿Cuáles son los signos del zodiaco más compatibles en el amor?
 
 En la astrología los **signos zodiacales** son sorprendentes, ya que son capaces de expresar ciertos aspectos de nuestra naturaleza y como uno tiende a comportarse ante condiciones algo embarazosas. En el ámbito de las relaciones amorosas tiende a tener muchos aciertos y desaciertos, ciertamente depende de nuestro carácter se puede interpretar con quien nos llevaremos mejor o peor en una relación y la duración de esta.

@@ -18,8 +18,6 @@ sitemap:
 significa?, entonces no te preocupes, porque te explicaremos que
 significa y por supuesto de que se trata el equinoccio.
 
-![equinoccio](http://horoscopo-del-dia.com/images/equinoccio-1200x960.png "Que es el equinoccio")
-
 ## ¿Qué es un equinoccio?
 
 Se trata de uno de los eventos más esperados del año, donde el Sol es el
