@@ -17,16 +17,16 @@ sitemap:
 
 - [1. Virgo](#1-virgo)
 - [2. Escorpio](#2-escorpio)
-- [3. Sagitario:](#3-sagitario)
-- [4. Acuario:](#4-acuario)
-- [5. Capricornio:](#5-capricornio)
-- [6. Géminis:](#6-géminis)
-- [7. Leo:](#7-leo)
-- [8. Aries:](#8-aries)
-- [9. Tauro:](#9-tauro)
-- [10. Libra:](#10-libra)
-- [11. Piscis:](#11-piscis)
-- [12. Cáncer:](#12-cáncer)
+- [3. Sagitario](#3-sagitario)
+- [4. Acuario](#4-acuario)
+- [5. Capricornio](#5-capricornio)
+- [6. Géminis](#6-géminis)
+- [7. Leo](#7-leo)
+- [8. Aries](#8-aries)
+- [9. Tauro](#9-tauro)
+- [10. Libra](#10-libra)
+- [11. Piscis](#11-piscis)
+- [12. Cáncer](#12-cáncer)
 
 Algunas personas son difíciles de amar. Estás listo para darles todo lo que tienes, pero ellos hacen que sea muy difícil relacionarse con ellos.
 
@@ -60,7 +60,7 @@ Los escorpiones tienen el hábito de jugar juegos mentales y a menos que seas al
 
 Si estás enamorado de un Escorpión, hacer que decida lo que siente por ti será tu mayor tarea.
 
-## 3. Sagitario:
+## 3. Sagitario
 
 Los sagitarios son personas interesantes y aventureras que rara vez se quedan quietos. Son coquetos, en la vida y en el amor, y muy difíciles de comprometerse con algo.
 
@@ -76,7 +76,7 @@ Es emocionante estar con ellos a corto plazo, pero conseguir que se establezcan 
 
 Amarlos significa dejarlos tan libres como sea posible y seamos honestos, esto es difícilmente lo que una chica sueña.
 
-## 4. Acuario:
+## 4. Acuario
 
 Acuario es una persona muy amigable. Normalmente se hacen amigos de alguien antes de entrar en una relación con ellos.
 
@@ -86,7 +86,7 @@ En primer lugar, son muy independientes y creen que no necesitan a nadie para se
 
 La traición es algo de lo que no se recuperan fácilmente y si han sido traicionados en el pasado, hace aún más difícil llegar a conocerlos y amarlos.
 
-## 5. Capricornio:
+## 5. Capricornio
 
 Cuando se trata de Capricornio, lo que se interpone en su camino para encontrar el verdadero amor es su naturaleza práctica.
 
@@ -98,7 +98,7 @@ Amarlos puede ser difícil a pesar de sus muchas virtudes porque no dejan mucho 
 
 Conseguir que abran su corazón en lugar de su mente es increíblemente difícil pero posible.
 
-## 6. Géminis:
+## 6. Géminis
 
 Los Géminis aman con todo su corazón y realmente tienen fe en su relación.
 
@@ -112,7 +112,7 @@ Como su pareja, puede sentirse un poco abrumado por su personalidad y la forma e
 
 Puede hacer que te sientas atrapado e incapaz de explorar cuánto podrías amarlos realmente si se te diera un poco más de espacio.
 
-## 7. Leo:
+## 7. Leo
 
 Entendemos por qué te atrae tu Leo, ya que son interesantes, seguros y apasionados. En realidad pueden ser un buen compañero.
 
@@ -124,7 +124,7 @@ Si no te importa este inconveniente, amarlos no será TAN difícil.
 
 Pero si eres alguien que no soporta a los egocéntricos, tal vez deberías alejarte de los Leos, ya que amarlos puede ser una tarea difícil para ti.
 
-## 8. Aries:
+## 8. Aries
 
 Aries sabe lo que quiere y no tiene miedo de ir a buscarlo. No caerán sin luchar.
 
@@ -134,7 +134,7 @@ Una cosa es segura: mantienen las cosas interesantes. Su estilo de vida es basta
 
 Son impulsivos y pueden ser un poco demasiado feroces, así que si eres alguien con un carácter más calmado y frío, puede que te resulte difícil responder a su pasión.
 
-## 9. Tauro:
+## 9. Tauro
 
 Si te has enamorado de un Tauro, casi seguro que has elegido bien. Cuando un Tauro ama a alguien, todos están dentro.
 
@@ -146,7 +146,7 @@ En el lado negativo, pueden ser un poco demasiado lentos y aburridos, así que s
 
 Una cosa es segura, si necesitas algún mimo y dulce amor, elige un Tauro, no te decepcionarás.
 
-## 10. Libra:
+## 10. Libra
 
 Libra hará casi cualquier cosa para hacerte feliz. En serio, hacerte feliz los hace felices. Por eso es que usualmente es superfácil amar a Libra.
 
@@ -156,7 +156,7 @@ Solo quieren que mantengas sus mejores intereses en el corazón de la manera en 
 
 Solo tienes que amarlos lo mejor que sepas y ellos apreciarán cualquier esfuerzo que hagas.
 
-## 11. Piscis:
+## 11. Piscis
 
 Un amor compartido con Piscis es una experiencia única en la vida. Son muy emocionales y todo lo que hacen está en equilibrio con su espiritualidad, emociones y energía.
 
@@ -166,7 +166,7 @@ Amarles es increíble porque todo lo que das, recibes el doble a cambio.
 
 Por otro lado, si eres el tipo de persona que no ama demasiado profundamente, amar a Piscis será muy difícil para ti.
 
-## 12. Cáncer:
+## 12. Cáncer
 
 Cáncer es paciente, compasivo y cariñoso. Están hechos para el amor. Todo lo que hacen en su vida se basa en el amor que sienten por los demás y el amor que les dan.
 
@@ -177,4 +177,5 @@ No medirán tus pros y contras, no contarán cada error que cometas, te amarán 
 ***
 
 Ahora me gustaría saber tu experiencia.
+
 Contame que opinas y como es o han sido tus experiencias con los signos del zodiaco en cuanto al amor.
