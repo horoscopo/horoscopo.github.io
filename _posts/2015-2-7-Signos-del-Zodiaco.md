@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de diciembre 2020
-description: Horóscopos del dia de hoy 10 de diciembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 11 de diciembre 2020
+description: Horóscopos del dia de hoy 11 de diciembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-12-10
+ lastmod: 2020-12-11
 ---
-La vida se desarrolla suave y gratificantemente durante el sextil entre la Luna y Venus. Una corriente subterránea de tensión sale a la superficie cuando lo que se supone que debes hacer entra en conflicto con lo que quieres hacer. Siéntete feliz mientras la Luna forme sextil con Júpiter esta noche. Los solteros gozan de popularidad. Las parejas gozan de una ocasión con ambiente romántico (es como una simulada escapada romántica).
+Mantén tu paz mental en la cara del caos mientras la Luna en Piscis cuadre a Marte el día de hoy. Ten en cuenta que las respuestas pueden ser tanto muy emocionales, como visibles. Esta noche, no le digas a alguien que le amas, o incluso que te gusta, a menos que realmente sea cierto. Las emociones de la gente siguen siendo volátiles.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
