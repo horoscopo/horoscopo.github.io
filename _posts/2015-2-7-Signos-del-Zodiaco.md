@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de diciembre 2020
-description: Horóscopos del dia de hoy 11 de diciembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de diciembre 2020
+description: Horóscopos del dia de hoy 12 de diciembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-12-11
+ lastmod: 2020-12-12
 ---
-Mantén tu paz mental en la cara del caos mientras la Luna en Piscis cuadre a Marte el día de hoy. Ten en cuenta que las respuestas pueden ser tanto muy emocionales, como visibles. Esta noche, no le digas a alguien que le amas, o incluso que te gusta, a menos que realmente sea cierto. Las emociones de la gente siguen siendo volátiles.
+Este es el momento de empezar de nuevo y esperar lo mejor. ¡Hazlo! Atrévete a tener grandes expectativas y a confiar en el gran poder que tienes para alcanzarlas. El Trígono de Fuego de esta noche entre la Luna y Venus acentúa afecto y buen humor. Parejas, háganse felices el uno al otro.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
