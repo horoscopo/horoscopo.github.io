@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 07 de diciembre 2020 al 13 de diciembre 2020 
-description: Horóscopo semanal capricornio 07 de diciembre 2020 al 13 de diciembre 2020. A veces hay que llevar al límite las cosas capricornio, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+title: capricornio 14 de diciembre 2020 al 20 de diciembre 2020 
+description: Horóscopo semanal capricornio 14 de diciembre 2020 al 20 de diciembre 2020. Empieza a hacerte promesas a ti mismo capricornio, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-07'
+ lastmod: '2020-12-14'
 ---
 
 
 
-## A veces hay que llevar al límite las cosas capricornio, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+## Empieza a hacerte promesas a ti mismo capricornio, empieza a prometerte amor propio, hoy y siempre. 
 
-La zona de confort es un sitio bonito capricornio, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más capricornio, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida capricornio. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto capricornio, y tú mismo te lo notas, no la cagues por nada ni por nadie. A medida que Mercurio, tu planeta personal, entra a tu sector de rutinas y estilo de vida, las próximas semanas pueden ser una oportunidad para que explores distintas maneras de mejorar aspectos clave de tu vida diaria. El Eclipse Lunar de esta semana puede inspirarte a que dejes atrás los hábitos o las actividades que ya no te hacen bien. Puede que los próximos días traigan una serie de revelaciones en áreas donde podrías tener un punto ciego. Ciertos eventos pueden resaltar esto y motivarte para que entres en acción durante las semanas y los meses que se avecinan.
+El mundo puede esperar capricornio, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate capricornio, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada. Prepárate para encantarle ya sea a un jefe o superior o sonreírle con dulzura y persuadir a una persona de autoridad con el fin de salirte con la tuya. Venus en la parte más superior de tu carta te presta una gran cantidad de carisma, facilitando que las cosas salgan a tu favor. Aun así, una conexión incómoda entre Júpiter y Saturno sugiere que es posible que sientas restricción debido a responsabilidades hogareñas. Delega lo más que puedas y también debes saber que lo más seguro es que tal situación se calme durante las próximas semanas.
 
 ## Dinero
 
-Tu personalidad está más suave que de costumbre y es posible que desees probar diferentes sombreros. Esto puede ser literal o metafórico, pero piensa en cómo proyectas lo que eres en este momento. Con nueva vida en tu sector de estudios, viajes, metafísica y psicología, tus ideas son importantes con respecto a cómo hacer tu trabajo. Las habilidades que traes a la mesa son de vital importancia también. Si quieres más, aprende más.
+Hay mucho positivismo en tu camino esta semana. Puede que estés tratando de decidir si debes reforzar tu educación en cuestiones de dinero o comenzar a enseñarle a otros lo que ya conoces. Cuidado con el síndrome de sabelotodo, cuando uno cree saber todo lo que hay que saber. El Universo indica que el éxito de tu futura carrera, por no hablar de tu éxito financiero, depende de tu capacidad de ser una autoridad en tu campo sin creer que no hay nada más que aprender.

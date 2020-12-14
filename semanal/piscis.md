@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 07 de diciembre 2020 al 13 de diciembre 2020 
-description: Horóscopo semanal piscis 07 de diciembre 2020 al 13 de diciembre 2020. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+title: piscis 14 de diciembre 2020 al 20 de diciembre 2020 
+description: Horóscopo semanal piscis 14 de diciembre 2020 al 20 de diciembre 2020. El mundo puede esperar piscis, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-07'
+ lastmod: '2020-12-14'
 ---
 
 
 
-## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+## El mundo puede esperar piscis, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
-así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final. La semana por delante podría hacerte algunas exigencias a pesar de que ya tienes ganas de progresar. En casa, las ganas de prepararte para la época de fiestas podrían coincidir con la decisión de limpiar el desorden y poner todo en orden. En tu trabajo, tu situación actual podría requerir de un cambio, sobre todo si los viejos métodos y rutinas no están solucionando actuales problemas. Hacer algunos cambios podría mejorar las cosas. Por último, ya sea que tengas pareja o recientemente te hayas enamorado, tu vida romántica se percibe muy prometedora a partir del domingo.
+Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
+Cuando te sientas mal, tira de memoria piscis y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces. Hay mucha actividad en el frente doméstico, lo que podría significar que tendrás ganas de invitar a nuevas y viejas amistades a tu casa, impresionar a personas clave o simplemente pasar el rato con amistades cercanas. No te niegues esta oportunidad, ya que te vendría bien la oportunidad de relajarte e incluso mimarte un poco. Si recibes una invitación a una fiesta, definitivamente deberías aceptarla. También te vendría muy bien darte algunos tratamientos o pasar un día en el spa.
 
 ## Dinero
 
-Para ti, esta semana se trata de cultivar una imagen más grande hacia el mundo, rompiendo con viejas preocupaciones y expresando tus creencias y necesidades. Confianza se está convirtiendo en tu segundo nombre. Ahora, con ciertos aspectos en tu sector de enseñanza y aprendizaje, podrías darte cuenta de que puedes desarrollar formas creativas para compartir lo que sabes y también ganar más dinero. No te subestimes.
+Esta semana, estudia tu dinero y valores. Es muy importante el no gastar tu dinero tan pronto como lo ganes y viceversa. Este momento se trata de hacer un cambio concertado para tu futuro financiero a largo plazo. Tu sector de carrera se ve afectado también, lo que significa que necesitas ahorrar para algún momento en el que tu empresa no sea tan estable como lo es ahora.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 07 de diciembre 2020 al 13 de diciembre 2020 
-description: Horóscopo semanal virgo 07 de diciembre 2020 al 13 de diciembre 2020. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+title: virgo 14 de diciembre 2020 al 20 de diciembre 2020 
+description: Horóscopo semanal virgo 14 de diciembre 2020 al 20 de diciembre 2020. Eleva tu ego virgo, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-07'
+ lastmod: '2020-12-14'
 ---
 
 
 
-## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+## Eleva tu ego virgo, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
 
-Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo virgo. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que virgo estalla, nadie se salva. Si estás tratando de aumentar tu confianza, el efecto negativo de una celosa amistad podría no estarte ayudando. Teniendo esto en cuenta, la Luna Nueva en Aries del jueves podría ser una llamada a hablar sobre al asunto. Sin embargo, si esperas hasta que llegue el fin de semana, es posible que puedan resolverlo de una manera que les permita apreciar y disfrutar mutuamente de sus cualidades tan únicas. Evita tener esta discusión a mitad de semana, ya que el resultado podría no ser muy agradable.
+Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
+ A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena. Puede que te sea más fácil conectarte con tus pensamientos, sentimientos e intuición durante las próximas semanas. Y con el encantador Venus, tu planeta guía, en este aislado sector, puede que tengas ganas de pasar tiempo a solas. Los momentos de reflexión pueden hacerte bien ahora, ya que quizá te ayuden a comprender mejor un asunto que hace tiempo te confunde. Una vez que el sol entra a tu signo el viernes, puede que ya estés en condiciones de convertir tus sueños y fantasías en realidad.
 
 ## Dinero
 
-Es un momento lleno de energía para ti ahora. Los viajes, el aprendizaje y la exploración pueden estar en lo alto de tu agenda. Pero también es hora de equilibrar las necesidades de tu trabajo diario con tu pasión por los viajes. A menos que encuentres la manera de poder hacer que los viajes o el aprendizaje formen parte de tu modelo de negocios, tiene que haber un compromiso. El Universo aligera el golpe.
+Normalmente eres capaz de resolver cualquier dilema de dinero con inteligencia y tenacidad, y esta semana no es diferente. Los aspectos indican el éxito a través de propiedad compartida y las inversiones, así como las herencias que provienen de fuentes inesperadas. Tu trabajo y la salud se ven afectados. Pon un esfuerzo adicional en los proyectos de trabajo que impresionen a los de arriba para que seas el próximo en la línea de promoción. Sin embargo, protégete contra el cansancio extremo.

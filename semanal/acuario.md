@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 07 de diciembre 2020 al 13 de diciembre 2020 
-description: Horóscopo semanal acuario 07 de diciembre 2020 al 13 de diciembre 2020. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+title: acuario 14 de diciembre 2020 al 20 de diciembre 2020 
+description: Horóscopo semanal acuario 14 de diciembre 2020 al 20 de diciembre 2020. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca acuario.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-07'
+ lastmod: '2020-12-14'
 ---
 
 
 
-## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca acuario.
 
-Esta semana estás un poco impredecible acuario, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica acuario… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA ACUARIO. Tú solito. Para que puedas idear un plan para tener éxito, es mejor que le pidas consejo a una persona con más experiencia. Esto además puede tener un impacto positivo en otras áreas de tu vida. La Luna Nueva que se esta gestando esta semana, podría coincidir con el deseo de reestructurar tus finanzas y analizar cómo tu dinero puede rendirte más.
+La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace acuario… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas acuario, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate. La semana comienza con un poco de complacencia, en la que podrías disfrutar de una sesión de mimos o de una maratón de compras por diversión. ¿Y por qué no? Te lo mereces, después de haber trabajado tanto últimamente. 
+El dinámico Marte, tu planeta regente, se vuelve retrógrado en tu sector social el martes, y permanecerá así hasta el Viernes. Tus niveles de energía podrían tornarse más erráticos, y este aspecto también puede coincidir con demoras en planes y proyectos de suma importancia. Lo mejor es no aceptar nada muy importante hasta que haya transcurrido esta fase. A mitad de semana, la luna llena en Capricornio y en tu sector de carrera podría ser una llamada a tomar una importante decisión, pero puede que quieras esperar un día más o menos hasta que sientas una mayor tranquilidad y puedas tomar decisiones más inteligentes. Por último, puede que quieras comenzar un nuevo pasatiempo o deporte.
 
 ## Dinero
 
-Te diriges a un periodo de gran riqueza en términos de finanzas e información que te ayudará a obtener más seguridad. Tienes un increíble poder psíquico ahora. El Universo está agitando tu sector de karma, vidas pasadas, e instituciones, con el fin de acudir a estas áreas para hacer más dinero, encontrar nuevas ideas para productos y servicios únicos, o localizar lugares para invertir tu dinero para maximizar tus ganancias.
+Ciertas personas que conoces pueden bien servir a tu sector de deuda y dinero compartido. Ganarás más dinero cuando explotas las conexiones que ya tienes. Tus ideas son válidas. Sólo necesitas ayuda y financiamiento para seguir adelante. No te vendas por menos. Tienes todo lo que necesitas para tener éxito ahora.

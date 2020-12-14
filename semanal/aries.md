@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 07 de diciembre 2020 al 13 de diciembre 2020 
-description: Horóscopo semanal aries 07 de diciembre 2020 al 13 de diciembre 2020. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas aries, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: aries 14 de diciembre 2020 al 20 de diciembre 2020 
+description: Horóscopo semanal aries 14 de diciembre 2020 al 20 de diciembre 2020. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-07'
+ lastmod: '2020-12-14'
 ---
 
 
 
-## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas aries, por qué te lo callas y te lo llevas callando tanto tiempo? 
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea aries. 
- Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas. Con el conversador Mercurio, tu planeta personal, recién llegado a tu sector de relaciones, puede que sientas una mayor inclinación a comunicarte y conectar con nuevas y antiguas amistades. Además, esta puede ser una oportunidad para proponer los temas que deben discutirse y, tal vez, encontrar una solución. El enfoque en tu sector de estilo de vida también se intensifica. Esto puede tentarte a adaptar tu agenda diaria para permitirte explorar nuevas posibilidades y apuntar alto con respecto de tus metas clave de bienestar y trabajo.
+Cada día que pasa te das más cuenta de que mereces cosas buenas aries, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana aries. Marte en Leo da a entender que estás en modalidad de gerente, con ansias de hacer despejar proyectos y delegar cuando sea necesario. Tu determinación para proceder podría significar que te estás presionando para tener éxito. Este es absolutamente el momento para hacerlo. Tu vida social también brilla, con muchas posibilidades para asistir a emocionantes eventos. Si quieres salir a citas, puede que sientas más confianza con el resultado de la que has sentido en mucho tiempo. La Luna Llena del Sábado podría traerte gran romance y pasión.
 
 ## Dinero
 
-Es posible que tengas que pensar seriamente esta semana sobre el dinero de otras personas, o la deuda. La adopción de una actitud responsable es la mejor mientras haces el balance de la deuda, llega a una negociación realista de rentabilidad y apégate a ella. Ciertos aspectos indican que tu familia o niños pueden ser la mayor fuga de tu dinero por ahora. Esfuérzate para mantener el equilibrio a medida que te apegas a tu presupuesto.
+Esta semana estás considerando tu apariencia personal y reconsiderando la forma en la que te expones al mundo. Esto no es sólo cosmético, se trata de un serio replanteamiento de la siguiente fase de tu vida. Un vestuario profesional te ayudará a sentirte digno/a de una categoría tributaria más alta. Si tienes alguna pregunta acerca de lo que es apropiado, cultiva a los de arriba como mentores. Los aspectos indican que te reunirás con el éxito.
