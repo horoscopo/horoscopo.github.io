@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de diciembre 2020
-description: Horóscopos del dia de hoy 14 de diciembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de diciembre 2020
+description: Horóscopos del dia de hoy 15 de diciembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-12-14
+ lastmod: 2020-12-15
 ---
-Hoy, presta atención, ya que Saturno, el planeta que suele darle a uno lecciones, sugiere que pensemos seriamente ciertos problemas. Las parejas tienen la intención de preservar el espacio que tanto parecen necesitar bajo la Luna en Acuario de esta noche. Solteros, la atracción tiene mucho que ver con la actitud y el enfoque cuando Júpiter aspecta a Urano.
+Ves miles de cosas a tu alrededor bajo la repentina iluminación del Eclipse Lunar de hoy. A medida que el Sol conjunta a Mercurio, todos se quieren poner a trabajar para producir algo inmediatamente. Tu agenda es lo primero. Esta noche, la Luna en Libra estimula el deseo de compartir y mientras más te acercas a alguien, más sentimientos reprimidos salen a la superficie.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
