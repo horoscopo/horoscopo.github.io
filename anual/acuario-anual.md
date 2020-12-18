@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Acuario Horóscopo año nuevo 2020 
-description: Acuario 2020 Año Nuevo, amor, trabajo, vida personal. Todas las predicciones para Acuario gratis. Disfruta este año nuevo.
+title: Acuario Horóscopo 2021 
+description: Acuario horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Acuario 2021 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/acuario/
+amplink: /horoscopo-anual/amp/acuario/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Acuario 2020, horoscop, horóscopos gratis, horoscopo Acuario, horoscopo Acuario 2020 gratis, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Acuario 2021, horoscop, horóscopos gratis, horoscopo Acuario, horoscopo Acuario 2021 gratis, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/acuario_anual.png
 sitemap:
  priority: 0.5
@@ -13,33 +14,39 @@ sitemap:
 
 
 
-## Vida Personal
 
-El 2020 es un año con un sinfín de oportunidades para los Acuario. Habrá mucha energía que te llevará que cavar profundo para así lograr un tremendo progreso.
-También hay numerosas puertas abriéndose a nuevos y previamente considerados proyectos, intereses y asociaciones. Olvídate de esas nociones preconcebidas de lo que debes hacer o tienes que hacer. Este año, puedes hacer casi cualquier cosa.
-En enero, la conjunción Sol-Plutón en Capricornio mantiene tu atención en tu carrera y actividades públicas. Sin embargo, no tienes la limitación de invertir tu intensidad sólo en tu trabajo. Si tienes una pasión creativa o de otro tipo, puedes invertir tu intensidad en eso también.
-El 2020 comienza con Mercurio retrógrado en Capricornio, pero el planeta se vuelve directo en Acuario. Trabaja de manera constante, pero apunta alto. El cuarto y último retroceso de Mercurio se manifiesta enteramente en Acuario. Saturno se encuentra en Acuario durante todo el año, por lo que este periodo extra proveniente en diciembre sólo mejora tu comprensión sobre cualquier situación que se está desarrollando a tu alrededor.
-Cuando el Sol entra a Acuario en noviembre, los planetas se encuentran dispersos alrededor de todo el cielo. Sin embargo, hay una conjunción Mercurio-Saturno que agudiza tu mente y modera tus actividades sociales.
-El asteroide Ceres también estará transitando a lo largo del Nodo Norte Lunar en el glorioso Signo Leo. Cuidar tanto de ti como de tus seres queridos nunca ha sido más fácil o más satisfactorio.
+¡Seguramente hay mucho de qué hablar este año, Acuario! El 2021 es un año muy estimulante para tu creativo signo. Eres capaz de sentirte más en sintonía con tu máximo bienestar, y hasta puedes hacer algunas fantásticas amistades nuevas a lo largo del camino. Tal vez seas la persona a la que acudir cuando las cosas se ponen complicadas, sobre todo porque te adaptas muy fácil y rápido a las cosas, y eres capaz de verle la gracia a casi cualquier situación.
+Como el año comienza con algunas polémicas cuadraturas entre Júpiter en Acuario y Urano en Tauro, tendrás una favorable ola de abundancia delante de ti, incluso frente a algunas energías ásperas. Esto también vale para mediados de febrero, mayo y finales de diciembre, ya que el tránsito de Saturno en Acuario forma una cuadratura con Urano en Tauro, lo que mueve algunas olas caóticas en el mundo.
+Esto puede ser difícil para los demás durante gran parte del año; sin embargo, como Saturno estará en un buen ángulo con tu signo de aire, te traerá muchas reflexiones y momentos brillantes. Puede que ahora sea ese momento de encontrarte de un modo muy poderoso. Espera lo inesperado y agradece por los obsequios que recibes, ¡porque los mereces!
+Una pieza importante del rompecabezas del 2021 es considerar realmente el período de transición de tus meses de cumpleaños. Puede que te enredes un poco durante los ciclos de Mercurio retrógrado de este año, y todos ocurren en signos de aire. Uno de los ciclos más importantes para ti ocurre el 29 de mayo, seguido de un revolucionario eclipse lunar total en tu signo opuesto de Leo. Esta es una vibra que definitivamente te hará repensar muchas partes diferentes de un relato. Y aunque puede ser una época muy reveladora para todos los aspectos de tu vida, todavía hay mucho por hacer a lo largo del verano. En especial porque también te encuentras con un eclipse solar anular el 10 de junio, al mismo tiempo que Mercurio continúa en un delicado ciclo retrógrado en tu signo hasta el 22 de junio. 
 
-## Amor Parejas
+## Amor para Parejas
 
-El 2020 se vislumbra un año fuerte y que es de apoyo para tus relaciones, Acuario. Tú y tu pareja estarán de acuerdo la mayoría del tiempo y les resultará fácil cooperar y avanzar en sus planes y esfuerzos conjuntos.
-Un posible período difícil podría llegar a mediados de Febrero, cuando Venus conjunte a Marte en el ardiente Aries. Los temperamentos pueden estallar e irracionales pasiones pueden surgir. Bien pueden evadir este peligro si tienen paciencia y se esfuerzan por cooperar mutuamente. Tal aspecto no durará mucho tiempo, y se volverán más cercanos como resultado.
-Esta conjunción se repite el 31 de Agosto en el exaltado Leo, y luego una vez más el 2 de Noviembre en el más frío y tranquilo Virgo.
-El retroceso de Venus (Julio 25 a Septiembre 6) podría dirigir a ambos de ustedes a estar más centrados en sí mismos y por consecuencia ser menos apasionados; pero esto, tampoco durará mucho. Además, ¡el mes de Septiembre debería traerles pasión suficiente para compensarlo!
+En el 2021, el amor es fuerte, serio y sensual, Acuario. Puede que tu pareja recurra a ti para poder lograr más, pero puedes lidiar con eso. También habrá tiempo de sobra para divertirse juntos.
 
-## Amor Solteros
 
-El romance tiene un brillo mágico en el 2020. El año comienza con una conjunción Marte-Neptuno en Piscis. El deseo de un amor idealizado es fuerte y no se desvanecerá rápidamente.
-Venus retrógrado en marzo y abril puede disminuir el ritmo del romance, aunque no lo enfriará. Debido a que comienza en Aries, puede que tengas sensibilidad hacia los malos tratos. Cuando este retroceso termine en Piscis, los sentimientos serán más tenues. Si te encuentras planeando sellar una relación formal, considera esperar hasta que Venus se mueva directo de nuevo (después del 15 de abril).
-Júpiter en Libra pone muchas oportunidades románticas en tu camino. Muchas de estas personas podrían ser más glamorosas y tener gustos más extravagantes que el tuyo. Sé razonable, pero recuerda que no hay nada de malo en dejarte tratar de esa manera por parte de un sincero admirador.
-Una vez que Júpiter entre a Escorpión en octubre, el amor se vuelve más serio en general. La total integridad y la devoción son cruciales ahora. La intimidad física es más importante, deseada y también satisfactoria.
-En diciembre, brillarás durante la época navideña, después de que Saturno entre a Acuario el 19 de diciembre y el Sol se le haya unido en tu signo el 21 de diciembre. El amor será sensato, sólido y rico en consideración y respeto mutuo.   
+Venus es una influencia muy fuerte en el 2021, pero no está de humor para demasiadas tonterías. Enero y febrero pueden ser meses en los que ambos amen su trabajo y quieran compartir ese entusiasmo. ¡Adelante!
+
+
+Cuando Marte está retrógrado a finales de junio y agosto, Venus se encuentra en Leo y Virgo. Diviértanse pasando más tiempo en privado durante junio y julio. Y pónganse más cómodos y felices en su hogar en agosto.
+
+
+Cuando el sol entra a Acuario, Venus se encuentra en el sexy Escorpión. Digan lo que piensan, hagan lo que dijeron que harían, y así, se volverán cada vez más cercanos. 
+
+
+La fase retrógrada de Venus empieza a principios de octubre en Escorpión y termina a mediados de noviembre en Acuario. Esto puede intensificar los problemas dentro de su relación. Posterguen cualquier compra grande en conjunto o planes de viaje hasta que sepan con seguridad que están en la misma frecuencia.
+
+## Amor para Solteros
+
+¡A los Acuario solteros les espera un maravilloso año por delante! El 2021 no se guarda nada y de ningún modo lo hará cuando se trata de encontrar a alguien que estremezca tu alma. Este es uno de esos años para abrirte a lo que sea que venga. No puedes predecir nada de lo que vendrá este año, pero al mismo tiempo, ¡debes saber que así las cosas deben ser!
+¡Debes entregarte y apreciar el hecho de que no tienes ningún control sobre tu destino! Desde el 30 de enero hasta el 20 de febrero hay una pequeña demora en tus comunicaciones gracias a un ciclo de Mercurio retrógrado en tu signo, lo que puede ser difícil para quienes tengan conexiones a larga distancia o estén buscando el amor en aplicaciones de citas en línea.
+La buena noticia es que podrías simplemente conocer a alguien de forma orgánica e inesperada este año. Esto puede llegar en cualquier momento y con cualquier tránsito, sobre todo gracias al ciclo de Saturno en tu brillante signo. Este planeta quiere que encuentres una conexión estable, incluso en tu signo del portador de agua que muchas veces puede ser impulsivo.
+Para quienes han estado tanteando el terreno durante demasiado tiempo y ya están listos para encontrar a la persona indicada, ¡ten cuidado! porque estos eclipses no están jugando para nada. ¡Esto significa que tú tampoco puedes jugar con nadie! Todo lo que va, vuelve, y es cuestión de cómo tratas a alguien en primer lugar.
+Tendrás mucha claridad entre mayo y julio con respecto a una posible relación. De hecho, los últimos meses del 2021 van a reflejar hacia dónde está yendo tu vida. También puede significar que estás saliendo con una persona especial que realmente sientes como un alma gemela.
 
 ## Trabajo
 
-En el 2020, tu carrera profesional y situación monetaria reciben una gran cantidad de apoyo celestial, Escorpión. Toma las cosas paso a paso, permite que las situaciones se definan totalmente, y posteriormente dóblalas a tu voluntad.
-Los cuatro periodos retrógrados de Mercurio suceden en signos de Tierra, a tu ventaja. Puede que Escorpión sea un signo de Agua, pero tu astro regente, Plutón, se encuentra en Capricornio durante todo el año. Nada puede sacudir tu mundo demasiado este año, y si te caes de tu posición en un lugar cómodo, encontrarás algo mejor rápidamente.
-Toma el control de tus finanzas personales también, sobre todo en los dos últimos meses del año. Si todavía no tienes la costumbre de ahorrar, aún serás capaz de vislumbrar el panorama financiero completo mientras tratas con los detalles, plazos y fechas límites. 
-El simple hecho de ser responsable llevará a Escorpión lejos, tanto en el 2020, ¡como en el proximo año también!
+Las cuestiones profesionales, monetarias y laborales reciben poderosas ventajas por parte de tus estrellas en el 2021. Esto es asegurado al comienzo del año por la conjunción Sol-Plutón en Capricornio.
+Si tus anhelos de extravagancias pueden ser controlados en junio y principios de julio, cuando Venus se encuentre en el sensual Tauro, tus ingresos y ahorros pueden fácilmente ser aumentados.
+Durante la segunda mitad del año, Marte visitará a Cáncer al mismo tiempo que el Sol entrará a tu signo, periodo de tiempo en el que debes actuar más enérgica y ambiciosamente.  
+Trabaja de forma constante, mantén un buen registro y prepárate para un ambicioso diciembre, cuando es posible que las oportunidades abunden. En diciembre, Saturno entra al trabajador Capricornio y el Sol conecta con Saturno en el mismo día del Solsticio de Invierno. ¡Considera esto como un poderoso empuje para iniciar el 2022!

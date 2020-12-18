@@ -1,15 +1,12 @@
 ---
 layout: amp
-title: leo 2018 Horóscopo año nuevo 2018 
-description: leo horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para leo gratis. Disfruta este año nuevo.
-normallink: /horoscopo-anual/leo/
+title: Horóscopo Leo 2021 
 permalink: /horoscopo-anual/amp/leo/
+normallink: /horoscopo-anual/leo/
+description: Leo horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Leo 2021 gratis. Disfruta este año nuevo.
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo leo 2018, horoscop, horóscopos gratis, horoscopo leo, horoscopo leo 2018 gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Leo 2021, horoscop, horóscopos gratis, horoscopo Leo, horoscopo Leo 2021 gratis, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/leo_anual.png
-horoscopo:
- signo: leo
- video: 2XwOwtLD-gc
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -17,34 +14,36 @@ sitemap:
 
 
 
-## Vida Personal
 
-El 2018 será un poderoso año para ti, y la mayoría de lo que hagas va a suceder en público, a plena vista, y probablemente con la ayuda y cooperación de los demás.
-Tu círculo de amigos y asociados crecerá a partir de Enero y Febrero. No sentirás soledad en el 2018.
-Siéntete más audaz acerca de dinero, posesiones, y tu propio cuerpo en la primavera. Escucha a tu intuición e instintos como una manera de mirar antes de saltar a territorio desconocido - más ten valentía al hacerlo.  
-Más adelante, en Abril, Mayo y Junio, mientras Marte se encuentre retrógrado, tu enfoque mental y salud serán menos afectados que los de otros signos. Disfruta de este período de calma emocional. Tú bien sabes cómo sentir intensamente sin mostrarlo todo el tiempo.
-El Eclipse Solar de Marzo puede despertar eventos dentro de tu mundo, pero te habrás preparado para ello. El Eclipse Lunar en leo de Septiembre será más emocional para ti.
-Por su parte, la conjunción Mercurio-Venus en tu carta es un regalo que mantiene a tu mente inteligente, aguda y sensible durante todo el año.
+Este año tiene una energía difícil de identificar, Leo. Realmente tienes que adoptar el enfoque de aceptar la vida tal cual es para tu sensible signo.
+El tránsito más crucial que afecta tu carta astral incluye una serie de eclipses entre Géminis y Sagitario que activan tu décima casa y cuarta casa personal. Estas son, más específicamente, tus áreas de búsquedas profesionales y desarrollo familiar. Cada vez que sientas que estás perdiendo el control este año, una estrategia que realmente te ayudará es la de siempre seguir el camino que tienes trazado.
+Mientras Urano sigue traspasando fronteras en Tauro, este planeta exterior también se encuentra en una conflictiva cuadratura con Saturno en Acuario. Esto contiene el elemento de los extremos, en especial a mediados de febrero, mediados de junio y finales de diciembre, pero provoca ciertos eventos que también afectan a tu cariñoso signo a lo largo de todo el año.
+Sí, esta energía será un desafío para ti en muchos niveles, en especial para tus sectores de comunicación y desarrollo psíquico. Para aquellos Leo que están abiertos a sus dones, esto será extremadamente fácil para ti, y para aquellos que han reprimido su naturaleza intuitiva, a veces esto se sentirá un poco abrumador.
+Estás muy en sintonía con el mundo de lo oculto este año, y ¡puedes sentir que eres capaz de predecir las cosas antes de que sucedan! Es un buen año para trabajar con otras personas que te apoyan, y también para compartir tus dones. Durante este año fascinante, tu vida espiritual puede volverse aún más profunda. 
 
-## Amor Parejas
+## Amor para Parejas
 
-Tú y tu pareja harán su parte en el 2018 y tendrán una relación tan sólida como una roca. Cuando estén juntos, cualquier problema o desafío parecerá ser más simple y será remediado más fácilmente.
-Habrá una gran cantidad de ternura en su relación pero ambos estarán dispuestos a esforzarse para resolver las ocasionales dificultades. Si los niños se ponen rebeldes, las mascotas se vuelven bravuconas, o alguno de los dos tiene una mala racha profesional; trabajarán juntos y lograrán poner su vida juntos en marcha de nuevo.
-Ambos estarán dispuestos a verse con ojos de enamoramiento, especialmente al comienzo de la primavera. Este optimismo romántico neptuniano es tanto bueno, como dulce.
-El otoño podría ser la temporada más agitada con el Eclipse Solar en leo mientras Mercurio se encuentra retrógrado. Pero ambos tendrán los pies en la tierra y verán los malentendidos como los interludios cómicos que son.
-Tu vida familiar será agradable y también práctica en Noviembre y Diciembre, cuando Saturno ejerza su calmante influencia. Ambos sentirán comodidad al ser la persona más "madura en la habitación".
+Tus relaciones gozan de una hermosa y brillante luz a lo largo del 2021. Con Júpiter en Leo durante la mayor parte del año, tanto las parejas románticas como tus aliados son tremendamente importantes y atesorados. Si la extravagancia surge, juntos, pueden retirarse y evitar ser arrastrados por el deseo y la lujuria.
+El Sol, tu planeta regente, estará retrógrado durante la primavera. Tal movimiento comenzará en el egoísta Aries, pero concluirá en el empático Piscis. Cualquier rastro de egoísmo será vencido por un espíritu más generoso y profundamente amoroso.
+A medida que el Sol entra a Leo, el asteroide Ceres se encontrará a punto de salir del doméstico y tradicional Cáncer. El deseo y el impulso para cuidarse mutuamente nunca se desvanecerá durante todo el año.
+Venus se encontrará entrando a Virgo en ese mismo momento también. Esto aumentará aún más las posibilidades de una vida hogareña cómoda, agradable y cariñosa.
+Júpiter entrando a Escorpión en octubre sólo profundiza y fortalece el verdadero amor, la autenticidad, la integridad y la expresión de la verdadera intención amorosa.
+Si diciembre trae demandas y presiones del mundo profesional, eso no arruinará tu espíritu festivo. Saturno y el Sol en Capricornio prepararan el terreno para una maravillosa pero realista Noche de Año Nuevo que será rica en respeto mutuo.
 
-## Amor Solteros
+## Amor para Solteros
 
-En el 2018, lo emocionante e inusual podría llamarte más la atención, leo. No cambiarás muy drásticamente, pero la típica cita tranquila ya no te dará la satisfacción que solía darte.
-Tu paseo más salvaje podría ser a principios de año, por lo que mantén tu guardia en alto así como también tu ingenio. Toma nota - es posible que desees escribir tu experiencia más adelante. 
-En Marzo, el Eclipse Lunar en Libra podría ponerte cara a cara con otra aventura romántica. Pero si no estás de humor para ella, serás capaz de escaparte con gracia. 
-Después de Abril, tu vida amorosa debería calmarse pero aún ser divertida. Disfrutarás de acudir a más eventos grupales hasta Agosto y Septiembre, cuando podrías conocer, ligar y coquetear con encantadores prospectos. 
-El comienzo del invierno también será un periodo de fiesta conforme la época de festividades agarra vuelo y pudieras conectar con un espíritu afín, si no es que un alma gemela. Esta no será una conexión frívola, así que compórtate con la misma seriedad y sinceridad que deseas recibir a cambio.
+¡A los Leo solteros les espera un maravilloso año por delante! El 2021 no se guarda nada y de ningún modo lo hará cuando se trata de encontrar a alguien que estremezca tu alma. Este es uno de esos años para abrirte a lo que sea que venga. No puedes predecir nada de lo que vendrá este año, pero al mismo tiempo, ¡debes saber que así las cosas deben ser!
+¡Debes entregarte y apreciar el hecho de que no tienes ningún control sobre tu destino! Desde el 30 de enero hasta el 20 de febrero hay una pequeña demora en tus comunicaciones gracias a un ciclo de Mercurio retrógrado en tu signo, lo que puede ser difícil para quienes tengan conexiones a larga distancia o estén buscando el amor en aplicaciones de citas en línea.
+La buena noticia es que podrías simplemente conocer a alguien de forma orgánica e inesperada este año. Esto puede llegar en cualquier momento y con cualquier tránsito, sobre todo gracias al ciclo de Saturno en tu brillante signo. Este planeta quiere que encuentres una conexión estable, incluso en tu signo que muchas veces puede ser impulsivo.
+Para quienes han estado tanteando el terreno durante demasiado tiempo y ya están listos para encontrar a la persona indicada, ¡ten cuidado! porque estos eclipses no están jugando para nada. ¡Esto significa que tú tampoco puedes jugar con nadie! Todo lo que va, vuelve, y es cuestión de cómo tratas a alguien en primer lugar.
+Tendrás mucha claridad entre mayo y julio con respecto a una posible relación. De hecho, los últimos meses del 2021 van a reflejar hacia dónde está yendo tu vida. También puede significar que estás saliendo con una persona especial que realmente sientes como un alma gemela.
 
 ## Trabajo
 
-Tu carrera y situación monetaria reciben directo enfoque en el 2018, cuando tienes la energía para moverte e ir tras cualquier cosa que pudieras imaginarte y luego idear un plan para maximizar tus oportunidades. La conjunción Sol-Plutón de enero lo inicia todo, ayudándote a cambiar o crear algo para que te beneficies a lo largo del 2018.
-Cuando el Sol entra a leo, tu planeta regente Marte y el asteroide Ceres se encontrarán en el práctico y trabajador Tauro. Esto presagia muy bien para un aumento de dinero y todas las cosas materiales que te apoyan y nutren.
-En octubre, Júpiter sale del diplomático Libra y entra al determinado Escorpión. Los asuntos empresariales y relaciones de negocios se vuelven más austeros y enfocados en ganancias materiales. 
-En diciembre, Saturno entra a Capricornio, el signo que rige. Esta es la encarnación planetaria de la ética laboral y el impulso hacia el éxito. El Sol conjunta a Saturno a finales de diciembre, agudizando aún más el enfoque en profesión y progreso económico para el próximo año. Te encontrarás en una buena situación al final del año.
+Dirige tus esfuerzos laborales hacia donde más quieres tener éxito y verás grandes ganancias financieras. El año 2021 empieza con tu planeta, El Sol, en conjunción con el magistral Júpiter en Escorpión, signo comprometido a nivel emocional. El asteroide Vesta también está ahí. Te dispondrás a hacer sacrificios astutos para tomar la delantera.
+
+
+Marte está en Capricornio, signo orientado al trabajo, desde mediados de marzo hasta mediados de mayo. Ahora más que nunca, sé tu versión más ambiciosa, en especial si buscas un puesto nuevo o mejor. La fase retrógrada de Marte desde finales de junio hasta finales de agosto se manifiesta en su mayor parte en Capricornio. Si no estás conforme con tu ambiente laboral o ingresos, evalúa posibles mejoras ahora. Haz tu primera movida en septiembre o tal vez noviembre, cuando el sol forma una conjunción con el generoso Júpiter en Sagitario.
+
+
+Recarga tus energías en noviembre y diciembre. El pragmático Saturno ahora es tu aliado. Sé una persona paciente y sabia, y verás que todo da muy buenos frutos.

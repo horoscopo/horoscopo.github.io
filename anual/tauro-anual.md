@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Tauro Horóscopo año nuevo 2020 
-description: Tauro 2020 Año Nuevo, amor, trabajo, vida personal. Todas las predicciones para Tauro gratis. Disfruta este año nuevo.
+title: Tauro Horóscopo 2021 
+description: Tauro horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Tauro 2021 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/tauro/
+amplink: /horoscopo-anual/amp/tauro/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Tauro 2020, horoscop, horóscopos gratis, horoscopo Tauro, horoscopo Tauro 2020 gratis, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Tauro 2021, horoscop, horóscopos gratis, horoscopo Tauro, horoscopo Tauro 2021 gratis, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/tauro_anual.png
 sitemap:
  priority: 0.5
@@ -13,34 +14,52 @@ sitemap:
 
 
 
-## Vida Personal
 
-¡Permite que el mundo vea más a tu verdadero yo en el 2020 Tauro! Trabaja duro en lo que más amas y diviértete al hacerlo. Este año, más personas disfrutarán de trabajar contigo y tu vida social podría estar más ocupada también.
-El período en el que Marte estará retrógrado en la primavera podría ayudarte a reducir tu ritmo, enfocarte, y mantener tu mirada en lo que es más importante.
-Algunas personas podrían estar tratando de sacudir tu mundo durante todo el año, especialmente alrededor del Eclipse Solar en Piscis de Marzo y el Eclipse Lunar en Piscis de Septiembre. Mantén tu confianza en ti - bien puedes lograrlo.
-Ten bondad hacia ti, cuida tu salud, mantén tu cuerpo activo y haz buen uso de tu tiempo día con día. Comenzar el año con una rutina diaria firme - una que realmente disfrutes - te llevará lejos durante todo el año.
-Tanto dinero como oportunidades laborales te surgirán, por lo que trabajar duro y deja tu huella.
-Toma decisiones sabias en tu hogar y asume la autoridad que tus amigos y familiares te asignen. ¡Simplemente sé tan increíble como siempre lo eres Tauro!
+La vida tiene más sentido en el 2021, Tauro. Una perspectiva más clara hará mucho más fácil alcanzar tus objetivos y sueños.
 
-## Amor Parejas
 
-Tú y tu pareja se apoyarán el uno al otro de todas formas y en lo que más cuenta dentro de una relación. Cuida a tu pareja y deja que ella cuide de ti.
-El día después de que el Sol entre a Tauro, Mercurio forma trígono con el asteroide Ceres, ambos en Signos de Tierra. Una abundante honestidad y la capacidad de hablar de los temas más prácticos de la vida es muy posible (si no es que ya lo ha sido) sin que ninguno de ustedes sea demasiado consciente, dudoso, o temeroso de lo que el otro pudiera pensar o decir. 
-Complázcanse entre sí de maneras inusuales o sorprendentes este año. Fiestas sorpresa, regalos, o un viaje son posibles ejemplos. El Gran Trígono de Fuego (involucrando a Urano, Marte y la Luna) mantiene la emoción romántica viva durante todo el año, con momentos de auge en Abril, Agosto, y finales de Noviembre. 
-El Eclipse Solar del 13 de Septiembre en Tauro podría impactar un significativo plan que tengan en conjunto, como comprar una casa o el cierre de algún trato. Cuiden su salud durante este periodo. Mantengan el estrés a un mínimo y mímense entre sí. Mercurio retrógrado (del 17 de Septiembre al 9 de Octubre) ayuda a disminuir el ritmo de su rutina diaria, algo que ambos prefieren. 
+El día de año nuevo, el idealista Neptuno forma un cooperativo pero relajado sextil con el sol y Venus. Lo que tú ganas no es encanto superficial, es el tipo de gracia que te trae aliados y buena suerte.   
 
-## Amor Solteros
 
-El 2020 tiene más que su justa cuota de momentos divertidos y emocionantes para ti. También tendrá más que suficientes lujos y extravagancias. Cuida tu energía, tus gastos, y disfruta de salir con pretendientes que tengan disposición a gastar más dinero en ti o pasar más tiempo contigo.   
-El dinero no lo es todo, pero bien podría aumentar y mejorar el atractivo de algunos intereses amorosos en Enero y Febrero. Mantente alerta a prospectos más ambiciosos - y más amorosos - en Marzo y Abril.
-Una fantasía romántica podría brevemente cobrar vida en Marzo. Disfruta de la comodidad emocional y de los mimos. Sin embargo, es posible que para Abril te aburras, ya que el exceso de calma podría llegar a apagarte.
-Septiembre y Octubre te traen amor y entusiasmo con la mínima cantidad de estrés. En Octubre, un encuentro afortunado podría suavizar viejas asperezas y traerte de vuelta a un viejo amor.
-Además, es posible que conozcas a alguien especial en Diciembre... alguien con una personalidad que no es ni llamativa, ni derrochadora. Busca cualidades más profundas y conecta con alguien que comparta tu visión del mundo.
+Además, Marte y Júpiter siguen en un productivo sextil con el sol y Plutón. Puedes tener éxito en serio y hacerlo de la forma más constructiva.
+
+
+Tu planeta Venus ahora está en su hogar, Tauro, y esto te da un gran poder. En el verano, Marte se torna retrógrado en los primeros grados de Acuario y luego en Tauro. Ahora, reorienta y redirige estas grandes energías.
+
+
+Venus se torna retrógrado desde mediados de abril hasta principios de septiembre. Puede que tengas más ansiedad e impaciencia en ese momento. No le des vueltas a las dificultades u obstáculos. Ábrete camino entre ellos de forma metódica y resurgirás con mayor organización y respeto que nunca.
+
+## Amor para Parejas
+
+Para los Tauro en pareja, puede que este año realmente tengan que apoyarse mutuamente en cuestiones emocionales. Esta no va a ser una buena época para los corazones débiles, y tú eres un auténtico guerrero espiritual.
+Como eres un ser de luz, ves más allá de los velos de confusión, y al estar en un vínculo amoroso, sentirás una increíble conexión y aceptación. Acude a tu pareja para que sea tu guía cuando te pierdas, y tu amor también acudirá a ti.
+Este también puede ser un año muy bueno para experimentar un poco más y avivar el fuego, en especial en torno a la fantástica energía de los eclipses en mayo, junio y diciembre. ¡Nunca sabes lo que puedes descubrir! Es una mezcla de fantasía, diversión y exploración que realmente extiende tus límites, y va a sacudir el mundo de ambos en su combinación romántica.
+Para aquellas parejas que están pensando en agrandar la familia, este también es el año perfecto para buscar un embarazo o incluso considerar invertir en un nuevo hogar, ya que el nodo norte en Géminis te lleva a las profundidades de tu cuarta casa personal. Esta es una energía que te pone los pies sobre la tierra, lo que incluso puede convertirte en terapeuta de relaciones para tus amistades y seres queridos que están atravesando ciertas dificultades.
+Recuerda mantener un límite muy fuerte a tu alrededor y en torno a seres queridos, y ¡no te sobrepases si no es necesario! ¡Necesitarás toda la energía que puedas tener este año! Es una buena idea apreciar las pequeñas cosas como noches de citas románticas y acurrucarte con tu amor.
+
+## Amor para Solteros
+
+Para ti, el camino hacia una relación es como una escalera nivelada y constante este año. Primero, te enfrentarás a períodos en los que podrías sentir más ganas de estar a solas que costumbre, como a finales de Agosto, cuando la Luna conjunte a Saturno en Escorpión.
+
+
+En segundo lugar, ¡es posible que pases mucho tiempo sin ni siquiera saber que estás en una relación! Alguien por ahí puede estar pensando en ti como una influencia positiva en su vida, y puede que tú no tengas seguridad de que esa persona sea una amistad o algo más. Esta incertidumbre no va a evitar que te diviertas, por supuesto, pero sí puede que pases algunas noches preguntándotelo.  
+
+
+El verano te trae más promesas de una conexión más profunda, pero ese período solitario mencionado junto con algunos aspectos desconcertantes en Septiembre que frenan la comunicación, podrían alentar un poco el proceso de entrar a una  relación. Sin embargo, puedes darte el lujo de ser paciente. Si juegas bien tus cartas, al menos ninguno de los dos (tú y tu posible pareja) van a estar muy lejos el uno del otro.
+
 
 ## Trabajo
 
-En el 2020, eres tu propio mejor recurso, Tauro, por lo que mantén tu confianza personal fuerte y tu ambición en alto. Las ideas prácticas y las oportunidades que identifiques que otros pasen por alto no tendrán límite. Bien puedes crearte golpes de suerte, sobre todo en la primavera.
-Si buscas empleo o quieres hacer un cambio de carrera, piensa en grande y considera organizaciones y empresas más grandes también. Las entidades sin fines de lucro podrían ser una posibilidad.
-Este año, te comunicas con claridad y puedes impresionar ya sea a un grupo grande o en entrevistas uno a uno. Disponte a considerar campos dentro de la comunicación o posiciones con una gran cantidad de contacto personal.
-Tu situación monetaria se vislumbra positiva durante todo el año siempre y cuando no gastes de más, sobre todo a finales del verano.
-Tu situación financiera será más sólida en Noviembre y Diciembre, cuando Marte te aporte energía y ambición, y Saturno te otorgue paciencia, responsabilidad y poder de permanencia.
+Pensar de manera diferente será fácil este año – no que nunca se te dificulte mucho en lo absoluto. De hecho, para ti prácticamente no hay manera distinta. El feroz Aries posee a Urano este año, que junto con el místico Neptuno en Piscis, se asegurará de que tus soluciones a los problemas relacionados con tu trabajo logren sorprender a varios.
+
+
+Afortunadamente para ti, Mercurio danza a lo largo de Tauro y Piscis, fluctuando entre ambos hasta el 7 de Abril. Si bien esto significa un estancamiento para algunos, te sirve a ti de apoyo. La actitud en el trabajo se convierte en "intentar cualquier cosa una vez", haciendo que tus ideas sin duda sean atractivas.
+
+
+Tu situación financiera se ve bien también, pero puede que sientas un poco de conflicto sobre cómo manejarla. Ir a lo seguro en lugar de gastarse todo puede ser un gran dilema para ti la mayor parte del año con Urano apuntando a lo "seguro" y Saturno haciéndote "gastártelo todo".
+
+
+Con Júpiter transitando en Leo a mediados de Julio y prácticamente diciéndote que te liberes de la indecisión, puede que decidas quedarte justo en medio de ambos.
+
+
+Con el Sol en Sagitario formando trígono con la Luna en Aries el 1 de Diciembre, más tarde seguido de una temporada con el Sol y Venus en Capricornio, tus divididos instintos habrán valido la pena también.

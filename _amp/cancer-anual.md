@@ -1,15 +1,12 @@
 ---
 layout: amp
-title: cancer 2018 Horóscopo año nuevo 2018 
-description: cancer horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para cancer gratis. Disfruta este año nuevo.
-normallink: /horoscopo-anual/cancer/
+title: Horóscopo Cáncer 2021 
 permalink: /horoscopo-anual/amp/cancer/
+normallink: /horoscopo-anual/cancer/
+description: Cáncer horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Cáncer 2021 gratis. Disfruta este año nuevo.
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo cancer 2018, horoscop, horóscopos gratis, horoscopo cancer, horoscopo cancer 2018 gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Cáncer 2021, horoscop, horóscopos gratis, horoscopo Cáncer, horoscopo Cáncer 2021 gratis, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/cancer_anual.png
-horoscopo:
- signo: cancer
- video: nHoK0AyZ0gk
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -17,48 +14,47 @@ sitemap:
 
 
 
-## Vida Personal
+
+Este año, dos Signos de Fuego - Aries (agarrándose a Urano a principios de año) y Leo (aprovechando a Júpiter hacia el final) - actúan como estimulantes para ayudarte a sacar lo mejor de ti.
 
 
-El año 2018 resplandece con energía, desafíos y oportunidades de las más prácticas y trascendentales. ¡Tienes un año dorado por delante, cancer!
+Un amigo o conocido se sorprenderá del útil tesoro de información que eres. Al principio, puede que seas un poco indiferente, ¡ya que tendrás tanto que hacer que a apenas podrás lidiar con lo tuyo! Pero al final, este bien podría ser un canal para una nueva red de amigos o conocidos, ¡lo que te abre un nuevo mundo! Esta es una de esas veces en las que simplemente ser quien eres se te verá recompensado con creces. 
 
 
-Cuando el sol ingresa a cancer, ocurre un gran trígono de tierra, con Urano en el arraigado Tauro, Venus en el metódico Virgo, y Saturno y Plutón en el pragmático Capricornio. Lo que logres en el 2018 puede estar hecho para durar en el tiempo. Formula tus planes y procedimientos sabiamente.
+Además de tu progreso personal, esto significa también un momento en el que tu comunicación con los demás será más abierta y honesta. Y para ti, el llegar a conocer mejor a tu familia y amigos va a abrir diferentes puertas dentro de ti. Con Urano en Aries, ¡estarás viendo a tus compañeros de vida bajo una luz diferente y mucho más positiva!
 
 
-El nodo lunar norte se encuentra en cancer ahora. Los eventos en tu vida también podrían sentirse más kármicos y tener consecuencias más trascendentales.
+## Amor para Parejas
+
+El amor es abundante y sorprendente para las parejas en el 2021. En enero, la conjunción Marte-Neptuno mantiene vivo el romance sin importar qué pase. Tu sensibilidad hacia tu pareja estará en su punto más alto. Incluso puede haber momentos en los que parecieras tener puestos lentes color de rosa. Y saber quién cometió el error puede ser difícil en ciertas ocasiones. Tu deseo de un amor ideal e intenso no va a desaparecer.
+Júpiter en Libra prefiere mantener a las parejas juntas. Es posible que a veces se sientan un poco fuera de sincronía el uno con el otro, pero al final, siempre volverán a estar juntos.
+Venus estará retrógrado en marzo, comenzando en Aries y para cuando se vuelva directo a mediados de abril, estará en Piscis. Hacia el final del retroceso, es posible que sientas que te ahogas en emociones, pero estarán más cerca que antes como pareja.
+Una vez que Júpiter entre a Escorpión en octubre, las relaciones se harán más fuertes y ambos podrán construir aún más resistencia dentro de su relación. El atractivo sexual aumentará también. No importa lo que el mundo ponga en su camino, encontrarán seguridad en sus brazos mutuos.
+
+## Amor para Solteros
+
+Experimentarás un constante avance este año Cáncer. Es probable que te reúnas con alguien en la primera parte del año que despierte sentimientos de cariño dentro de ti, incluso si la relación no termina por manifestarse.
 
 
-Durante el eclipse lunar de enero, la luna se encontrará en cancer, lo que podría desatar problemas emocionales del pasado. Durante el eclipse lunar de julio, el sol estará en cancer. Te sientes con los pies más sobre la tierra ahora. El eclipse solar parcial de agosto podría afectar tu condición social o profesional. ¡Haz que sea algo bueno!
+Sin embargo, la coexistencia entre Venus y Neptuno en Piscis a partir del 11 de Abril recibirá un impulso por parte del tránsito de Júpiter en Cáncer. Toda esa actividad de Signos de Agua es un buen augurio para relajadas noches fuera,  conversaciones de ensueño, y cálidas y cariñosas noches.
 
 
-La fase retrógrada de Mercurio se manifiesta en cancer durante julio y agosto. Marte también estará en su fase retrógrada, y se manifestará en Acuario. Durante este periodo, sé un poco menos exigente, piensa más antes de actuar, y toma ventaja para llevar la delantera.
-   
+Una oportunidad de llevar una relación a un nivel superior se produce el 24 de Julio, cuando la Luna, Venus y Mercurio se colocan cómodamente en tu signo. Ambos, la Luna y Venus, en particular, forman acogedores trígonos con Neptuno en Piscis; mientras que el Sol conjunta a Júpiter en Leo creando un distante "fuego" para calentar las brasas de tu relación actual. Mientras que los incendios pueden salirse de control, tú y tu potencial pareja tienen la capacidad de enfriarlos cuando sea necesario. Pueden evitar que una discusión se convierta en un argumento, o que una verdad se convierta en una mentira.
 
 
-
-
-## Amor Parejas
-
-Tú, como cancer, le traes mucha pasión y energía a cualquier relación, pero este año, podría ser más difícil expresar abiertamente tus intensos deseos y necesidades. Complicadas situaciones al comienzo del año podrían resultar en sentimientos confusos, y no siempre te es claro cómo expresar tus preocupaciones. 
-No te preocupes – no estás perdiendo tu chispa o tu deseo sexual. Más bien, estás obteniendo una visión más profunda de la habitual de la selva emocional que es parte de la vida de todos.
-Tú y tu pareja podrían experimentar algo parecido a un descubrimiento o progreso hacia una mayor intimidad o compromiso, o simplemente alcanzar más honestidad durante el Eclipse Lunar del 27 de Septiembre. Algo de esto podría ser kármico. A veces es la unión de las almas; a veces es simplemente mejorar su vida cotidiana en conjunto. 
-En cualquier caso, y sin importar cuanto tiempo lleven juntos, toma consciencia de que ambos están aprendiendo profundas e importantes lecciones de amor este año.
-
-## Amor Solteros
-
-Para ti, el camino hacia una relación es como una escalera nivelada y constante este año. Primero, te enfrentarás a períodos en los que podrías sentir más ganas de estar a solas que costumbre, como a finales de Agosto, cuando la Luna conjunte a Saturno en Escorpión.
-
-
-En segundo lugar, ¡es posible que pases mucho tiempo sin ni siquiera saber que estás en una relación! Alguien por ahí puede estar pensando en ti como una influencia positiva en su vida, y puede que tú no tengas seguridad de que esa persona sea una amistad o algo más. Esta incertidumbre no va a evitar que te diviertas, por supuesto, pero sí puede que pases algunas noches preguntándotelo.  
-
-
-El verano te trae más promesas de una conexión más profunda, pero ese período solitario mencionado junto con algunos aspectos desconcertantes en Septiembre que frenan la comunicación, podrían alentar un poco el proceso de entrar a una  relación. Sin embargo, puedes darte el lujo de ser paciente. Si juegas bien tus cartas, al menos ninguno de los dos (tú y tu posible pareja) van a estar muy lejos el uno del otro.
+Todo depende de que conectes con tu interés amoroso y cambies tu estrategia de inmediato conforme el momento lo requiera. Estos momentos cruciales podrían marcar la diferencia para el resto del año, ¡así que aprovéchalos!
 
 
 ## Trabajo
 
-Si te interesa un cambio de carrera o una reubicación importante en cuanto a trabajo, la oferta perfecta podría llegarte en el 2018.
-Si eres feliz y sientes seguridad donde te encuentras ahora, mantente alerta de todos modos. El futuro nunca está escrito en piedra, y este año, podrías encontrar la semilla de la planta que más tarde crezca como un hermoso cambio o avance en tu vida.
-El deseo o tendencia a gastar en exceso pueden estar siempre presentes este año. Lo brillante, atractivo, y caro te llamará la atención a menudo en Junio, y de nuevo en Agosto; más no tienes que ceder al impulso. El autocontrol y la buena gestión presupuestaria le vienen a cancer más fácilmente también en Agosto, y de nuevo en Noviembre y Diciembre.
-Realmente es un año de lujos. Trata de ahorrar tan a menudo como gastes (siempre una buena fórmula), ¡y verás una gran prosperidad!
+Plutón en Capricornio impulsa un año fuerte y productivo, Cáncer. El cauto y responsable Saturno también se encuentra ahora en casa en el signo que rige, Capricornio. Cualquier cambio repentino en profesión o finanzas necesitará tener sus raíces en una realidad práctica para que Saturno participe.
+
+
+Los primeros dos meses podrían ser los más inestables, pero quizás no sea necesario hacer ningún cambio. Para marzo, podrías estar impaciente por una respuesta o resultado sobre un asunto económico o profesional, pero no apures las cosas.
+
+
+Urano está dando vueltas entre el final de Aries y el comienzo de Tauro este año, y el flujo de dinero puede fluctuar con esto. Date tiempo antes de hacer cualquier compra importante, tomar vacaciones costosas, o tomar decisiones sobre asuntos de bienes raíces.
+
+
+Para octubre, lo que necesitas hacer para conseguir exactamente lo que deseas será obvio. Sé diligente, no te salgas del presupuesto y tus planes de ahorro, y termina el año en perfectas condiciones.
+

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Géminis Horóscopo año nuevo 2020 
-description: Géminis 2020 Año Nuevo, amor, trabajo, vida personal. Todas las predicciones para Géminis gratis. Disfruta este año nuevo.
+title: Géminis Horóscopo 2021 
+description: Géminis horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Géminis 2021 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/geminis/
+amplink: /horoscopo-anual/amp/geminis/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Géminis 2020, horoscop, horóscopos gratis, horoscopo Géminis, horoscopo Géminis 2020 gratis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Géminis 2021, horoscop, horóscopos gratis, horoscopo Géminis, horoscopo Géminis 2021 gratis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/geminis_anual.png
 sitemap:
  priority: 0.5
@@ -13,61 +14,44 @@ sitemap:
 
 
 
-## Vida Personal
 
-El año 2020 es un libro abierto para ti, Géminis. Tienes acceso a todo lo que los astros tienen para ofrecer. Ya sea que se trate de trabajo, familia, finanzas, amor o cualquier otra cosa, habrá un planeta listo para darte una mano.
+¡Qué gran año para ser Géminis! Con tanta admiración, respeto y autoridad en tu futuro, hasta podría dificultársete recordar tener modestia. Sin embargo, haz el esfuerzo, ten cortesía y discreción, y la gente te respetará más. 
+Adopta un método, y luego confía en tu riguroso y crítico juicio. Tus juicios emocionales son fuertes y verdaderos también, sobre todo en Febrero. 
+Este año, Saturno en Géminis aumenta tu paciencia y cuidado al tratar con personas y situaciones. Tu familia y amigos pensarán bien de ti sin importar qué pase, y te otorgarán un lujoso afecto durante la primavera. 
+Ten una vida sana, activa, y evita ingerir demasiadas calorías con demasiada frecuencia sin importar qué tan deliciosas sean. Este podría ser un desafío permanente después de principios de Abril, cuando el retroceso de Júpiter termine. 
+¡El 2021 es un delicioso año para Géminis!
 
+## Amor para Parejas
 
-El día de año nuevo, la luna sale de Géminis y entra a Géminis. La luna también forma una oposición con el responsable Saturno. Siempre tendrás las habilidades e instintos para mantener todo en equilibrio y marchando sobre ruedas.
-
-
-En enero, el eclipse lunar con la luna en Leo podría empujarte un poco más de lo que te gustaría hacia el centro de atención. No importa. Es una experiencia para crecer que te enseñará a hacerte cargo de la situación y actuar con autoridad.
-
-
-Durante el eclipse lunar de finales de julio, la luna se encontrará en Acuario. Ten una visión más clara del mundo y piensa en términos más amplios sobre problemas más graves.
+Las parejas tienen un año especialmente armonioso, Géminis. A lo largo de enero, el sol y Venus forman una eficaz conjunción todo el mes. El año 2021 está lleno de encantos, placidez y actos de bondad al azar.
 
 
-La fase retrógrada de Júpiter que se manifiesta en el emocional Escorpión desde marzo hasta principios de julio te otorga incluso más poderes psíquicos. Después, intenta atravesar obstáculos para llegar a conclusiones más felices y exitosas.
+El eclipse lunar del 26 de Mayo podría hacerlos sentir vulnerables. Apóyense el uno al otro.
 
 
-## Amor Parejas
-
-El 2020 estará lleno de pasión y emoción, Géminis, ¡por lo que acepta todo este furor! Sus familiares podrían mantenerles ocupados, pero ambos tendrán más que suficiente energía y enfoque para mantener a todos contentos, incluidos ustedes mismos.
-Comiencen el año alcanzando un claro entendimiento entre ustedes y luego apéguense a él. Si la temporada de primavera se vuelve un tanto tumultuosa en el trabajo para uno de ustedes, no perturbará su vida familiar. Incluso podría acercarles más como pareja.
-El Eclipse Lunar en Libra de Marzo es una oportunidad de unión que los complazca a ambos.
-Si un gasto considerable o una adquisición surgen a finales del verano, ambos  sabrán si es prudente y necesario.
-Ambos estarán dispuestos a hacer sacrificios el uno por el otro, material y emocionalmente. Incluyan tantas bondades simbólicas en su relación como puedan. Los momentos de abrazos serán tan dulces como los momentos apasionados que tengan juntos, especialmente en el otoño.
-Si tienen sueños compartidos (o fantasías) de expandir su familia, Venus podría sonreírle a esta posibilidad a principios del invierno. Cuídense bien el uno al otro entonces también.
-
-## Amor Solteros
-
-Tú, Escorpión soltero, vas a estar en una especie de dilema en el 2020. Puede que no tengas completa certeza de si alguien que has estado viendo (o con quién quieres salir) tiene interés en ti románticamente, pero al mismo tiempo, no puedes ver a esta persona seriamente interesada en nadie más.
+Febrero se torna más emocional. Puede que ahora se abran a los sueños del otro. Escuchen de corazón y eviten cualquier tipo de resentimientos.
 
 
-Durante los primeros tres meses, con el sextil que la Luna forma con Venus en Capricornio extrañamente aumentado por la conjunción entre la Luna y Saturno en tu signo, señales mixtas puede ser la mejor manera de describir cómo se desarrollan tus experiencias comunicativas.
+Abril y mayo son momentos apasionados en lo que ustedes pueden no estar en la misma frecuencia. La tolerancia será de ayuda. Recuerda, Mercurio se encuentra retrógrado en Aries, significando que las prioridades y deseos pueden no coincidir bien hasta mediados de abril.
 
 
-Sin embargo, mientras que gran parte de la responsabilidad podría caer sobre ti para que expreses tus sentimientos más a menudo, no siempre se puede garantizar que estas expresiones vayan a obtener los resultados que tú desees.
+El eclipse lunar de Noviembre podría hacer surgir preguntas sobre qué tan divertido realmente es un lugar o algo. Lo superarán.
 
 
-Con Venus entrando a Piscis el 5 de Abril, puede que se te permita extender los límites un poco, pero esto es más bien un acuerdo aceptable que una verdadera comprensión.
+Octubre, noviembre y diciembre son momentos para ir más en serio con ustedes mismos. La fase retrógrada de Venus termina a mediados de noviembre, en Libra. Las promesas que más hay que cumplir pueden hacerse ahora.
 
 
-Sin embargo, este tipo de conexiones no deben ser despreciadas, ya que el Sol, la Luna y Venus en Escorpión el 23 de Octubre te van a abrir nuevas puertas. La intensidad de tu química romántica podría estar aumentando en ese momento, o alguien nuevo podría entrar en escena. Es cuestión de lo que decides hacer con esta y qué camino elijes tomar.
+## Amor para Solteros
 
+¡No hay nada más ni nada menos que prosperidad romántica en sintonía con el camino sinuoso que te trae el 2021! Tu signo prefiere estar en una relación sólida y estable para lograr un equilibrio. Tu destino es estar con tu alma gemela, eso seguro, ¡y el 2021 puede traer a alguien que sea completamente ideal para ti! Este puede ser el año en que, de hecho, conozcas al amor de tu vida. Hay un sentimiento constante de aceptar la naturaleza y espiritualidad que podría poner una asociación muy especial en tu camino.
+Puede que te hayas estancado en la rutina y necesites explorar el mundo de un modo completamente diferente, y ¡allí es donde encontrarás el amor! Esta persona siente lo mismo que tú, y están en la misma página. ¡Deja que los eclipses lunares y solares te ayuden a encontrar a alguien que merezca todo lo maravilloso que tienes para ofrecer! Sé paciente durante la primera mitad del año, incluso si a veces te sientes en soledad. ¡Estás exactamente donde debes estar!
+Los eclipses lunar y solar de mayo y junio están en perfecta sintonía con tu fantástica aura. ¡Confía en lo que el universo tiene planeado para ti! Podría haber un encuentro justo en esta época cuando alguien se destaca del resto. Nunca lo sabrás si no lo intentas, y este es el momento perfecto para abrirte a la infinidad de posibilidades.
+Aunque el 2021 cierra con tu planeta regente, Mecurio, retrógrado a partir del 19 de diciembre, te sorprenderá lo mucho que un nuevo aprendizaje o interés romántico te ayuda a sanar tu corazón.
 
 ## Trabajo
 
-Pensar de manera diferente será fácil este año – no que nunca se te dificulte mucho en lo absoluto. De hecho, para ti prácticamente no hay manera distinta. El feroz Aries posee a Urano este año, que junto con el místico Neptuno en Piscis, se asegurará de que tus soluciones a los problemas relacionados con tu trabajo logren sorprender a varios.
-
-
-Afortunadamente para ti, Mercurio danza a lo largo de Géminis y Piscis, fluctuando entre ambos hasta el 7 de Abril. Si bien esto significa un estancamiento para algunos, te sirve a ti de apoyo. La actitud en el trabajo se convierte en "intentar cualquier cosa una vez", haciendo que tus ideas sin duda sean atractivas.
-
-
-Tu situación financiera se ve bien también, pero puede que sientas un poco de conflicto sobre cómo manejarla. Ir a lo seguro en lugar de gastarse todo puede ser un gran dilema para ti la mayor parte del año con Urano apuntando a lo "seguro" y Saturno haciéndote "gastártelo todo".
-
-
-Con Júpiter transitando en Leo a mediados de Julio y prácticamente diciéndote que te liberes de la indecisión, puede que decidas quedarte justo en medio de ambos.
-
-
-Con el Sol en Sagitario formando trígono con la Luna en Aries el 1 de Diciembre, más tarde seguido de una temporada con el Sol y Venus en Capricornio, tus divididos instintos habrán valido la pena también.
+¡Tu encantador ingenio y personalidad deja a todo el mundo asombrado! Este es el año en que realmente puedes obtener lo que quieres si juegas bien tus cartas. Sí tienes que planificar el futuro para estar al máximo, aunque esto signifique que tienes que alejarte muchísimo de tu zona de confort.
+Hay partes de tu vida profesional que debes dejar fuera de la bolsa, en especial si son contratos que te han impedido avanzar o te han menospreciado en el pasado. Puede que tengas que enfrentar algo de competencia al comienzo del año, en especial cuando Saturno en Acuario experimenta una cuadratura con Urano en Tauro a mediados de febrero.
+Esta no es la parte más deseable del trabajo, pero te dispones a tomar las riendas por completo. Hay una evolución en este aprendizaje que no es del todo fácil para muchos, y puedes ver que otros colegas también están en la misma lucha. Formular un enfoque estructurado te ayudará a atravesar estos ciclos, que volverás a encontrar en mayo, junio y nuevamente en noviembre y diciembre.
+Las finanzas pueden estar yendo extremadamente bien, o quizás tengas que luchar para obtener el estatus que estás buscando. Recuerda dar las gracias y tener en cuenta todo lo que ya tienes. Tienes una enorme cantidad de cosas a tu favor si te tomas un momento y lo piensas detenidamente.
+Por último, puede que tengas que trabajar con un contador o asesor financiero de confianza para tener un buen control sobre tu fluidez monetaria. Trabajar con alguien que no tenga ninguna acción personal en tu vida puede ayudarte a ver y comprender el panorama completo durante el curso del año.

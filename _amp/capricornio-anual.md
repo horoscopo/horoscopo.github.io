@@ -1,15 +1,12 @@
 ---
 layout: amp
-title: capricornio 2018 Horóscopo año nuevo 2018 
-description: capricornio horoscopo 2018 año nuevo, amor, trabajo, vida personal. Todas las predicciones para capricornio gratis. Disfruta este año nuevo.
-normallink: /horoscopo-anual/capricornio/
+title: Horóscopo Capricornio 2021 
 permalink: /horoscopo-anual/amp/capricornio/
+normallink: /horoscopo-anual/capricornio/
+description: Capricornio horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Capricornio 2021 gratis. Disfruta este año nuevo.
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo capricornio 2018, horoscop, horóscopos gratis, horoscopo capricornio, horoscopo capricornio 2018 gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Capricornio 2021, horoscop, horóscopos gratis, horoscopo Capricornio, horoscopo Capricornio 2021 gratis, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/capricornio_anual.png
-horoscopo:
- signo: capricornio
- video: oepK86dMHyQ
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -17,34 +14,44 @@ sitemap:
 
 
 
-## Vida Personal
 
-El 2018 es un año estelar en el que capricornio debe tomar las riendas de su imagen pública y ¡sobresalir en la profesión de su elección! Tendrás que esforzarte, pero estarás a la altura del desafío. Con la Luna, Marte, Saturno y Urano en Signos de Fuego al comienzo del año, tienes más energía y tenacidad que la mayoría.
-El periodo de primavera puede poner a prueba tu paciencia con Marte retrocediendo desde mediados de Abril hasta finales de Junio. Perfecciona tus técnicas y métodos y posteriormente pon a prueba tus nuevas ideas a una escala más pequeña.
-A finales de verano y principios de otoño, respeta tus límites físicos y no te comprometas de más. Resístete al impulso de acudir a demasiados eventos, reuniones, clases, o trabajar demasiado tiempo extra. Tu salud y bienestar son tan importantes como cualquier alabanza o beneficio extra que pudieras recibir.
-Busca adoptar nuevas perspectivas tanto sobre ti como tus muchas amistades, sobre todo a medida que se acerca la víspera de Año Nuevo hacia el próximo año. En muchos sentidos, el 2018 es mágico, ¡así como también muy poderoso para ti!
+Este año, céntrate en tu propio bienestar por encima de todo. De esta manera, puedes aumentar tu riqueza material y salud, así como también estructurar un futuro más estable. Con Marte y el asteroide Ceres comenzando el año en tu signo, tienes la energía para crear y manifestar el futuro que deseas.
+A principios de enero, la conjunción Sol-Plutón se manifiesta en el Cardinal Signo de Tierra Tauro. A los Signos Cardinales les encanta iniciar cosas y los Signos de Tierra (como Capricornio y Tauro) son totalmente prácticos y realistas. Esta conjunción es una señal para hacer un gran cambio o formular un nuevo y ambicioso plan para hacer que el 2021 sea uno de tus mejores años.
+Saturno, tu planeta regente, se encuentra retrógrado este año. ¿Cuáles son las cosas y personas que te hacen más feliz? Una vez que este retroceso se termine, es posible que desees algo de tiempo para dejar que tus sentimientos se calmen con el fin de centrarte en lo que realmente importa.
+De los cuatro retrocesos de Mercurio, el segundo comienza en Capricornio. Durante este periodo (en abril), reconsidera decisiones anteriores y haz mejoras.
+La primavera puede ser complicada, pero el otoño se vuelve más simple y más serio cuando Júpiter entra a Escorpión en octubre. Diciembre será un mes muy poderoso para todos los Signos de Tierra conforme Saturno entra a Capricornio, su signo anfitrión. ¡Los cambios sucederán en todas partes!
 
-## Amor Parejas
+## Amor para Parejas
 
-El año comienza de una forma un tanto turbulenta, pero los pequeños malentendidos se pueden transformar en oportunidades para restablecer un vínculo. Además, la primera parte del año se compensa con momentos más fuertes en los que ambos están en la misma frecuencia. Depende de ustedes hacer que esos momentos cuenten, al expresar empatía sin reservas. Más de la mitad de las veces, un argumento no será acerca de si alguien está "bien". Se tratará de reconocer que los argumentos de ambas partes son válidos.
+Para los Capricornio en pareja, puede que este año realmente tengan que apoyarse mutuamente en cuestiones emocionales. Esta no va a ser una buena época para los corazones débiles, y tú eres un auténtico guerrero espiritual.
+Como eres un ser de luz, ves más allá de los velos de confusión, y al estar en un vínculo amoroso, sentirás una increíble conexión y aceptación. Acude a tu pareja para que sea tu guía cuando te pierdas, y tu amor también acudirá a ti.
+Este también puede ser un año muy bueno para experimentar un poco más y avivar el fuego, en especial en torno a la fantástica energía de los eclipses en mayo, junio y diciembre. ¡Nunca sabes lo que puedes descubrir! Es una mezcla de fantasía, diversión y exploración que realmente extiende tus límites, y va a sacudir el mundo de ambos en su combinación romántica.
+Para aquellas parejas que están pensando en agrandar la familia, este también es el año perfecto para buscar un embarazo o incluso considerar invertir en un nuevo hogar, ya que el nodo norte en Géminis te lleva a las profundidades de tu cuarta casa personal. Esta es una energía que te pone los pies sobre la tierra, lo que incluso puede convertirte en terapeuta de relaciones para tus amistades y seres queridos que están atravesando ciertas dificultades.
+Recuerda mantener un límite muy fuerte a tu alrededor y en torno a seres queridos, y ¡no te sobrepases si no es necesario! ¡Necesitarás toda la energía que puedas tener este año! Es una buena idea apreciar las pequeñas cosas como noches de citas románticas y acurrucarte con tu amor.
+
+## Amor para Solteros
+
+Las oportunidades para el romance se te hacen presentes, pero puede que se estén escondiendo en las esquinas y en los lugares más inesperados. Vas a tener que realmente mantenerte alerta durante los primeros meses del año, aunque en Abril dos increíbles conjunciones harán que las citas se vuelvan un poco más potentes y creen una impresión duradera en ambos de sus corazones.
 
 
-Sin embargo, una vez que el verano llegue, tú y tu pareja pueden empezar a sentirse más como una unidad sólida y querrán construir una atmósfera familiar. Nada crea una relación más sólida que tener un objetivo común, y su atención se centra decididamente en el horizonte hacia hacer que su hogar sea un mejor lugar para que tanto amigos como familiares visiten.
+Mientras que mantener una buena impresión siempre será importante, el verano posterior a un amigable Venus en Cáncer te da mucha más libertad para relajarte y ser tú mismo o misma. Los días de finales de Julio y principios de Agosto, en particular, crean un gran potencial para las vibras románticas. Las citas que sucedan durante este periodo cargarán tus baterías más, incluso durante los ocasionales momentos en los que tu ánimo ande bajo.
 
 
-A finales de año, Júpiter en capricornio estará bendiciendo el viaje que como pareja comparten. Cuando se trate de resolver problemas de vida, ¡dos cabezas son mejor que una!
+Escorpión, de hecho, le estará dando a tu vida romántica la ocasional agradable inyección durante todo el otoño; lo que podría proporcionarte, como mínimo, una semiestable pareja  con quien pasar la temporada navideña. ¡Buena suerte!
 
-
-## Amor Solteros
-
-Con Júpiter, tu planeta regente, en Libra desde enero hasta octubre, las relaciones amorosas se ven especialmente favorecidas. El mundo de las citas debería estar lleno de nuevas caras, nuevas voces, nuevos y emocionantes lugares a los cuales acudir, así como nuevos intereses y fuentes de entretenimiento.
-Con la conjunción Marte-Neptuno de enero, la neblina romántica podría persistir durante todo el año, permitiéndote disfrutar de dulces memorias del pasado, así como de la búsqueda activa de tu perfecto e ideal amor.
-Venus estará retrógrado desde marzo hasta mediados de abril. Disminuye el ritmo de tu vida social y deja que el amor sea menos urgente. Si estás a punto de hacer un compromiso permanente u oficial, considera esperar hasta que Venus comience a moverse directamente (después del 15 de abril).
-Júpiter deja al atractivo y agradable Libra para entrar a Escorpión el 10 de octubre. El amor se vuelve más profundo y serio. Es posible que tú prefieras el tipo de romance que es más ligero e informal, pero si te topas con alguien que realmente valga la pena este año, lo más probable es que sea durante estos últimos meses.
 
 ## Trabajo
 
-El 2018 está lleno de oportunidades para tu éxito laboral y profesional. Si vas a comenzar una nueva carrera o estás buscando trabajo, las oportunidades deberían abundar. Ten una clara visión de lo que quieres, ya que bien podría caerte del cielo de la nada, sobre todo después de Agosto. 
-Júpiter brilla en Leo durante el primer semestre del año, haciéndote deseable como empleado, socio, o contratista. Una vez que Júpiter entre a Virgo, tus competentes y eficientes cualidades brillarán. 
-Mantén un registro de tus gastos, inversiones (pero no de manera impulsiva), y ahorra por lo menos algo con regularidad. 
-El Sol, Mercurio, y Saturno se encuentran en capricornio a finales de Noviembre, el penúltimo mes del 2018, cuando estarás en tu punto más ingenioso, creativo, y práctico. Básicamente, ¡esto le garantiza un final financieramente positivo a un productivo año!
+Los negocios, tu profesión y finanzas se ven fuertes y vibrantes este año, Capricornio. Puede haber algunas ocasiones, en especial a finales de marzo o abril, en que un error de juicio de una pareja o colega provoque un contratiempo o confusión. Sin embargo, tienes muchas habilidades para lidiar con estas cosas.
+
+
+La conjunción entre el sol y Mercurio en septiembre hará que sigas siendo una persona astuta y creativa durante todo el año.
+
+
+Si una gran cantidad de posibles socios se te acerca con propuestas de negocios este año, practica ser más prudente de lo normal. Pueden ser sugerencias válidas, pero más para el largo plazo que para el corto plazo.
+
+
+Maneja las finanzas con cuidado y habrá menos sorpresas (si las hay) que desaceleren tu flujo de efectivo. Urano se encuentra en transición desde Aries hacia Tauro, para manifestarse en Tauro desde mediados de mayo hasta principios de noviembre. Ten cuidado con los altibajos con respecto al dinero en ese periodo de tiempo.
+
+
+Júpiter se encuentra retrógrado desde marzo hasta principios de julio. Entonces, será más fácil gastar menos y ahorrar más.

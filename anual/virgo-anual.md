@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Virgo Horóscopo año nuevo 2020 
-description: Virgo 2020 Año Nuevo, amor, trabajo, vida personal. Todas las predicciones para Virgo gratis. Disfruta este año nuevo.
+title: Virgo Horóscopo 2021 
+description: Virgo horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Virgo 2021 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/virgo/
+amplink: /horoscopo-anual/amp/virgo/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Virgo 2020, horoscop, horóscopos gratis, horoscopo Virgo, horoscopo Virgo 2020 gratis, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Virgo 2021, horoscop, horóscopos gratis, horoscopo Virgo, horoscopo Virgo 2021 gratis, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/virgo_anual.png
 sitemap:
  priority: 0.5
@@ -13,39 +14,33 @@ sitemap:
 
 
 
-## Vida Personal
 
-En el 2020, el enfoque está en ti, Virgo. Prepárate para que la gente acuda a ti en busca de consejos y liderazgo. Será fácil y se te dará como algo natural, así que relájate y disfruta de la atención.
+El 2021 es tu año, Virgo, por lo que cultiva los talentos y habilidades que te llevarán lejos y rápido. Puede que no se te otorguen todas las situaciones y oportunidades que elijas de inmediato, pero tendrás más que suficientes recursos y creatividad para hacer el mejor uso de todo lo que se te presente.
+El año podría comenzar lentamente con Mercurio (tu planeta regente) encontrándose retrógrado hasta principios de Mayo. Después de eso, tu energía personal y buena suerte deberían aumentar.
+Marte estará retrógrado en la primavera, pero esto no creará retrasos para ti. De hecho, deberías ser capaz de tener más cuidado y más éxito en tu trabajo. Puede que también les caigas mejor a las personas y tengas más disposición a aprender de ellas.
+El romance también te encontrará este año. El Eclipse Solar de Diciembre es especialmente favorable tanto para tu salud como para tu vida amorosa.
+¡Harás grandes cosas durante todo el año Virgo!
 
+## Amor para Parejas
 
-El día de año nuevo, Venus, tu planeta regente, absorbe una gran energía proveniente de una conjunción con el magnánimo sol y otra con el poderoso Plutón. Ejerce tu autoridad con gracia y generosidad. Esto da más motivos para que la gente te respete y te quiera.
+Las palabras y las acciones pueden llevar el mismo peso este año, Virgo. La confusión y los malentendidos entre tú y tu pareja pueden ser más frecuentes de lo habitual. El secreto de la felicidad radica en pedir más claridad, hacer menos suposiciones, y sobre todo, no reaccionar de forma exagerada. 
+Los retrocesos de Mercurio (21 de Enero al 11 de Febrero, 18 de Mayo al 11 de Junio, y particularmente del 17 de Septiembre al 9 de Octubre 9 en el signo de las relaciones, Libra) siempre requieren de extra atención. 
+El romance podría estallar como una brillante luz (o estar en riesgo) durante las conjunciones Venus-Marte (21 de Febrero, 31 de Agosto y 2 de Noviembre). Los sentimientos suelen ser fuertes, ardientes y pesados durante este aspecto, por lo que céntrense en agradarse el uno al otro y dejen que el mundo exterior se haga cargo de sí mismo por un tiempo. 
+A mediados de Junio, Saturno retrocede de nuevo en Escorpión, de donde no saldrá hasta mediados de Septiembre. Es la manera en que la naturaleza les dice que vayan despacio y se respeten mutuamente. Bien pueden tomar decisiones hábiles y cuidadosas en conjunto entonces. 
+Un interludio extremadamente feliz ocurre del 9 de Octubre al 8 de Noviembre, cuando Venus, Júpiter y Marte están en Virgo. Las cosas pequeñas son las más importantes, hermosas, y preciosas; ¡pero una vacaciones románticas y exóticas no serían inapropiadas tampoco!
 
+## Amor para Solteros
 
-Las tres fases retrógradas de Mercurio suceden en signos de fuego. Esto puede reducir la velocidad de una agitada vida cotidiana y luego concluir con una gran explosión de energía, y más. En agosto, sé una persona creativa y elegante. En noviembre y diciembre, ve a tu propio ritmo y prepárate para una intensa temporada de festividades.
-
-
-La fase retrógrada de Marte desde finales de junio hasta finales de agosto podría retrasar o desviar ciertos planes relacionados con tu profesión, pero al final, terminarás con una trayectoria profesional más estable.
-
-
-La fase retrógrada de Venus desde octubre hasta la primera mitad de noviembre, terminando en Virgo, te impacta más. ¡El amor reinará!
-
-## Amor Parejas
-
-Las relaciones podrían profundizarse y echar largas raíces para Virgo este año. Es difícil ser paciente y no adelantarse a la próxima aventura o sueño compartido de pareja, pero hay que intentarlo. 
-A medida que Saturno entra al feroz pero generoso Sagitario, deberían disfrutar de un enfoque más tranquilo al simplemente estar juntos. No hay que confundir esto con falta de interés o pasión. Nada es aburrido en esta relación para ninguno de los dos. 
-El año comienza con la Luna a punto de dejar a Tauro y entrando rápidamente a tu signo, Virgo. No deberían de tener problemas para comunicarse, especialmente en relación a  preocupaciones materiales o dinero. Esto deja espacio para gozar de mucho amor y afecto. Venus retrógrado en Leo (del 25 de Julio al 6 de Septiembre) podría revivir las brasas que se hayan apagado dentro de tu corazón. 
-Saturno se encuentra en Sagitario durante todo el año (a excepción de un corto período de tiempo) trayéndoles más paciencia y generosidad a ambos. Cualquier sentimiento temporal de deficiencia o de que algo falta en su relación es pura ilusión. ¡Mantengan sus ojos y corazón en el amor!
-
-## Amor Solteros
-
-Es un gran año para las citas y que te inviten a salir, ¡para coquetear y que coqueteen contigo! La conjunción entre Marte y Neptuno en Piscis irradia una luz romántica y soñadora durante todo el año.
-Júpiter en Virgo crea un sinnúmero de oportunidades para satisfacer, entretener y dejar que el amor te entretenga. ¡Por lo que sal a buscarlo!
-Venus comienza el año en el inteligente y sensible pero objetivo Acuario. En la primavera, Venus se torna retrógrado en el fogoso Aries y termina en el súper romántico Piscis. Si quieres o planeas casarte, considera la posibilidad de hacerlo después de que termine este retroceso, el cual será a mediados de abril.
-Júpiter entra a Escorpión en octubre, haciendo que el amor crezca y se vuelva más atractivo. Los amorosos afectos podrían encenderse desde entonces. 
-El mes de diciembre podría sentirse menos cálido, pero en realidad el amor se vuelve más responsable para poder mejorar posteriormente. Disfruta de momentos más dulces, sensibles y románticos conforme el Sol y Saturno se encuentran en Capricornio.
+El amor es mágico a lo largo del 2021, comenzando con la conjunción entre el apasionado Marte y el soñador Neptuno en el intuitivo y emocional Piscis.
+Cuando el Sol entra a Virgo, Mercurio y el Nodo Lunar Norte se unirán en Virgo. Hablar y escuchar te ayudará a formar algunas conexiones románticas y kármicas.
+Júpiter en Libra promete un sinfín de oportunidades sociales y atractivas, así como generosos compañeros. Sin embargo, tendrás que mantenerte a buen ritmo y tomarte algunos descansos a solas para obtener los mejores resultados.
+Venus estará retrocediendo desde principios de marzo hasta mediados de abril. Tu vida social podría pausar de manera natural ahora. Si para entonces ya estás en una relación fortalecida y esperas hacer un compromiso permanente, considera esperar hasta que el retroceso haya terminado.
+El amor se vuelve más serio y más profundo después de que Júpiter entra a Escorpión en octubre. Si el ritmo de tu vida social disminuye, la pasión y las expresiones íntimas podrían de hecho aumentar.En el 2021, tu situación monetaria, tu carrera y todos tus esfuerzos profesionales se ven destacados. De los cuatro periodos retrógrados de Mercurio, el segundo que se manifiesta desde principios de abril hasta principios de mayo comenzará en el trabajador y estable Tauro y terminará en el impulsivo Aries. Trabaja con diligencia, respeta cualquier limitación financiera y todo tu arduo trabajo podría poner grandes y largas recompensas en tu camino.
+Saturno retrocederá en el fogoso pero divertido Sagitario desde principios de abril hasta finales de agosto. Ten disciplina a lo largo de la primavera y el verano, ten metas claras y forma grandes alianzas con gente en lugares altos. Aunque tal vez no sea al instante, tus esfuerzos serán recompensados.
+Diciembre podrá ser el mes más exigente - y también rentable. El 19 de diciembre, Saturno regresará a Capricornio, su signo anfitrión. El 21 de diciembre, el Sol también entra al trabajador Capricornio y luego conjunta a Saturno. Toma la autoridad de tus acciones, esfuerzos y tu futuro ahora.
 
 ## Trabajo
 
-El campo de carrera profesional y trabajo se destacan este año para Escorpión. Puede que adquieras más responsabilidad y estés más en el ojo público y profesional. Esto puede ser incómodo durante el primer semestre del año, más persevera y cree en ti, tus talentos, y conocimientos. 
-Tus afilados instintos te alertarán de cualquier desafío peligroso. Cuando te defiendas, hazlo práctica, más no agresivamente. 
-Si andas en busca de empleo, inesperadas oportunidades podrían aparecer en Enero y Febrero. Mantén una mente abierta. Si tu impaciencia crece en Abril, respira profundamente, apégate a lo que estés haciendo, y mantén la fe. Tus finanzas se vislumbran protegidas, por lo que dale a las cosas el tiempo que necesitan.
+El 2021 es un año muy productivo para ti Virgo, cuando tus instintos e intelecto se unen para hacerte triunfar. Si estás lidiando con personas desafiantes en tu lugar de trabajo, o si estás entrevistando para una posición, tus habilidades sociales te harán brillar, especialmente en Octubre. 
+Podrías convertirte en ese sorprendente candidato adecuado que alguien busca en Abril. En Agosto, vas a estar en el lugar correcto en el momento adecuado. En Noviembre, un contacto social podría referirte a la persona adecuada. Las puertas se abrirán para ti en el 2021. ¡Anda y toca el timbre! 
+Manejaras tus finanzas fácilmente y con prudencia también. Un toque de austeridad en el otoño podría sentirse virtuoso y razonable. ¡Es un año lucrativo y lleno de suerte para ti Virgo!

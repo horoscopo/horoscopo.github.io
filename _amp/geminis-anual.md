@@ -1,15 +1,12 @@
 ---
 layout: amp
-title: geminis 2018 Horóscopo año nuevo 2018 
-description: geminis horoscopo del 16 de noviembre del 2017, amor, trabajo, vida personal. Todas las predicciones para geminis gratis. Disfruta este año nuevo.
-normallink: /horoscopo-anual/geminis/
+title: Horóscopo Géminis 2021 
 permalink: /horoscopo-anual/amp/geminis/
+normallink: /horoscopo-anual/geminis/
+description: Géminis horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Géminis 2021 gratis. Disfruta este año nuevo.
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo geminis 2018, horoscop, horóscopos gratis, horoscopo geminis, horoscopo geminis 2018 gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Géminis 2021, horoscop, horóscopos gratis, horoscopo Géminis, horoscopo Géminis 2021 gratis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/geminis_anual.png
-horoscopo:
- signo: geminis
- video: aSw0fAYCoAU
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -17,49 +14,44 @@ sitemap:
 
 
 
-## Vida Personal
 
-¡Qué gran año para ser geminis! Con tanta admiración, respeto y autoridad en tu futuro, hasta podría dificultársete recordar tener modestia. Sin embargo, haz el esfuerzo, ten cortesía y discreción, y la gente te respetará más. 
+¡Qué gran año para ser Géminis! Con tanta admiración, respeto y autoridad en tu futuro, hasta podría dificultársete recordar tener modestia. Sin embargo, haz el esfuerzo, ten cortesía y discreción, y la gente te respetará más. 
 Adopta un método, y luego confía en tu riguroso y crítico juicio. Tus juicios emocionales son fuertes y verdaderos también, sobre todo en Febrero. 
-Este año, Saturno en geminis aumenta tu paciencia y cuidado al tratar con personas y situaciones. Tu familia y amigos pensarán bien de ti sin importar qué pase, y te otorgarán un lujoso afecto durante la primavera. 
+Este año, Saturno en Géminis aumenta tu paciencia y cuidado al tratar con personas y situaciones. Tu familia y amigos pensarán bien de ti sin importar qué pase, y te otorgarán un lujoso afecto durante la primavera. 
 Ten una vida sana, activa, y evita ingerir demasiadas calorías con demasiada frecuencia sin importar qué tan deliciosas sean. Este podría ser un desafío permanente después de principios de Abril, cuando el retroceso de Júpiter termine. 
-¡El 2018 es un delicioso año para geminis!
+¡El 2021 es un delicioso año para Géminis!
 
-## Amor Parejas
+## Amor para Parejas
 
-Tanto el inteligente Mercurio como el agudo Marte se encuentran en el emocional Cáncer cuando el Sol entra a tu signo, geminis. Esto te prepara para un inteligente y sexy año que hará de ti y tu pareja un equipo fuerte y exitoso cuando se enfrenten al mundo. 
-Si buscan comprar casa, coche, o cualquier otra compra importante, los mejores periodos para hacerlo vienen en Julio, Agosto o Septiembre. Sin embargo, serán capaces de trabajar en conjunto con facilidad durante todo el año cuando tomen decisiones cruciales. 
-La comunicación entre ustedes debería ser más nítida y sensata en el verano. Venus retrógrado en geminis (del 25 de Julio al 6 de Septiembre) puede causar cierta confusión, sean metódicos y pacientes el uno con el otro. 
-Los días de finales de verano son los mejores para salir de vacaciones o darse una escapada romántica con Júpiter a punto de salir de geminis y Venus entrando a Virgo. Debería serles más económico también. 
-Los únicos periodos inciertos (cuando deberían evitar peleas) son durante las conjunciones Venus-Marte (21 de Febrero, 31 de Agosto y 2 de Noviembre). 
-
-## Amor Solteros
-
-Géminis, el 2018 es tu año para disfrutar de la emoción de la búsqueda romántica y encontrar exactamente el amor que deseas. A medida que el sol ingresa a Géminis, se encuentra en una conjunción con el dulce y sensacional Venus. Esto te llena quizás de más encanto del que quisieras tener a lo largo del año.
+Las parejas tienen un año especialmente armonioso, Géminis. A lo largo de enero, el sol y Venus forman una eficaz conjunción todo el mes. El año 2021 está lleno de encantos, placidez y actos de bondad al azar.
 
 
-Al mismo tiempo, Marte se encuentra en Acuario, signo tranquilo, calculador, pero a la vez sociable. Sabes cuál es el tipo de amor que te enciende, y no te tentará nada más. Bien por ti.
+El eclipse lunar del 26 de Mayo podría hacerlos sentir vulnerables. Apóyense el uno al otro.
 
 
-Además, Mercurio se acerca a una conjunción con el generoso y gentil Júpiter. La inteligencia y la diversión pondrán gente en tu camino a lo largo del año.
+Febrero se torna más emocional. Puede que ahora se abran a los sueños del otro. Escuchen de corazón y eviten cualquier tipo de resentimientos.
 
 
-Podría parecer que la fase retrógrada de Marte desde finales de junio hasta finales de agosto reduce las pasiones. En realidad, tu gusto en el romance simplemente se está volviendo más racional y menos salvaje. Estas son todas cosas buenas.
+Abril y mayo son momentos apasionados en lo que ustedes pueden no estar en la misma frecuencia. La tolerancia será de ayuda. Recuerda, Mercurio se encuentra retrógrado en Aries, significando que las prioridades y deseos pueden no coincidir bien hasta mediados de abril.
 
 
-De la misma forma, la fase retrógrada de Venus en octubre y mitad de noviembre puede reducir la marcha de tu vida social, pero quizás te prepares para un ritmo más lento. Tus posibilidades de encontrar a alguien mucho más ideal son más altas después de que Venus se torne directo de nuevo, en Libra.
+El eclipse lunar de Noviembre podría hacer surgir preguntas sobre qué tan divertido realmente es un lugar o algo. Lo superarán.
 
 
+Octubre, noviembre y diciembre son momentos para ir más en serio con ustedes mismos. La fase retrógrada de Venus termina a mediados de noviembre, en Libra. Las promesas que más hay que cumplir pueden hacerse ahora.
 
 
+## Amor para Solteros
 
-
-
-
+¡No hay nada más ni nada menos que prosperidad romántica en sintonía con el camino sinuoso que te trae el 2021! Tu signo prefiere estar en una relación sólida y estable para lograr un equilibrio. Tu destino es estar con tu alma gemela, eso seguro, ¡y el 2021 puede traer a alguien que sea completamente ideal para ti! Este puede ser el año en que, de hecho, conozcas al amor de tu vida. Hay un sentimiento constante de aceptar la naturaleza y espiritualidad que podría poner una asociación muy especial en tu camino.
+Puede que te hayas estancado en la rutina y necesites explorar el mundo de un modo completamente diferente, y ¡allí es donde encontrarás el amor! Esta persona siente lo mismo que tú, y están en la misma página. ¡Deja que los eclipses lunares y solares te ayuden a encontrar a alguien que merezca todo lo maravilloso que tienes para ofrecer! Sé paciente durante la primera mitad del año, incluso si a veces te sientes en soledad. ¡Estás exactamente donde debes estar!
+Los eclipses lunar y solar de mayo y junio están en perfecta sintonía con tu fantástica aura. ¡Confía en lo que el universo tiene planeado para ti! Podría haber un encuentro justo en esta época cuando alguien se destaca del resto. Nunca lo sabrás si no lo intentas, y este es el momento perfecto para abrirte a la infinidad de posibilidades.
+Aunque el 2021 cierra con tu planeta regente, Mecurio, retrógrado a partir del 19 de diciembre, te sorprenderá lo mucho que un nuevo aprendizaje o interés romántico te ayuda a sanar tu corazón.
 
 ## Trabajo
 
-Este año tendrás mucha pasión y energía para tu trabajo, ambición, y dinero geminis. Urano, Júpiter y Saturno te otorgan un Gran Trígono en Signos de Fuego, proporcionándote motivación, entusiasmo, y un sentido de orgullo para alcanzar el éxito. 
-Posiblemente en Abril, asume una nueva tarea e impresiona a la gente con tu éxito. En Agosto, Júpiter te concede mucho poder y visión para manejar proyectos grandes. En Noviembre, Saturno consolida tu autoridad en tu lugar de trabajo. 
-Si estás entrenando o cambiando de carrera, el 2018 te ofrece inspiración y energía. Hazte de un nicho o conoce a alguien importante en la primavera, proyecta una imagen poderosa y ganadora en el verano, y sé indiscutiblemente confiable y competente en el otoño. Este año, de verdad es tuyo geminis. 
-Tus finanzas también se vislumbran bien y con bases firmes. Ten sensibilidad al gastar tu dinero, ten un colchón financiero ligeramente más grueso en caso de una emergencia (improbable pero nunca imposible en Abril o en Octubre), ¡y prospera en el 2018!
+¡Tu encantador ingenio y personalidad deja a todo el mundo asombrado! Este es el año en que realmente puedes obtener lo que quieres si juegas bien tus cartas. Sí tienes que planificar el futuro para estar al máximo, aunque esto signifique que tienes que alejarte muchísimo de tu zona de confort.
+Hay partes de tu vida profesional que debes dejar fuera de la bolsa, en especial si son contratos que te han impedido avanzar o te han menospreciado en el pasado. Puede que tengas que enfrentar algo de competencia al comienzo del año, en especial cuando Saturno en Acuario experimenta una cuadratura con Urano en Tauro a mediados de febrero.
+Esta no es la parte más deseable del trabajo, pero te dispones a tomar las riendas por completo. Hay una evolución en este aprendizaje que no es del todo fácil para muchos, y puedes ver que otros colegas también están en la misma lucha. Formular un enfoque estructurado te ayudará a atravesar estos ciclos, que volverás a encontrar en mayo, junio y nuevamente en noviembre y diciembre.
+Las finanzas pueden estar yendo extremadamente bien, o quizás tengas que luchar para obtener el estatus que estás buscando. Recuerda dar las gracias y tener en cuenta todo lo que ya tienes. Tienes una enorme cantidad de cosas a tu favor si te tomas un momento y lo piensas detenidamente.
+Por último, puede que tengas que trabajar con un contador o asesor financiero de confianza para tener un buen control sobre tu fluidez monetaria. Trabajar con alguien que no tenga ninguna acción personal en tu vida puede ayudarte a ver y comprender el panorama completo durante el curso del año.

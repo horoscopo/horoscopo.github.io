@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Libra Horóscopo año nuevo 2020 
-description: Libra 2020 Año Nuevo, amor, trabajo, vida personal. Todas las predicciones para Libra gratis. Disfruta este año nuevo.
+title: Libra Horóscopo 2021 
+description: Libra horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Libra 2021 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/libra/
+amplink: /horoscopo-anual/amp/libra/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Libra 2020, horoscop, horóscopos gratis, horoscopo Libra, horoscopo Libra 2020 gratis, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Libra 2021, horoscop, horóscopos gratis, horoscopo Libra, horoscopo Libra 2021 gratis, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/libra_anual.png
 sitemap:
  priority: 0.5
@@ -13,37 +14,44 @@ sitemap:
 
 
 
-## Vida Personal
 
-Si pensaste que el 2020 iba a ser aburrido, piénsalo de nuevo. Y otra vez. ¡Y otra vez! Porque, de hecho, este será un año en el que vas a hacer muchas reevaluaciones.
-
-
-Para algunas personas, especialmente para Libra, esto podría traer el peligro de hundirse en el egocentrismo. Pero con todo lo que está pasando, sobre todo con la Luna de finales de Enero en Capricornio provocando una oleada de excesivo examen interno, sin duda tienes el derecho de reflexionar introspectivamente.
+Este año, tus objetivos van a hacer que tu mente tenga una sola meta. Y es muy probable que tengas un objetivo financiero personal que te dé un sentimiento algo extremista durante todo el año. Vas a enfrentarte a una serie de influencias planetarias que te harán medir tu progreso, lo que te dará una concreta sensación de avance.
 
 
-Sin embargo, otros podrían no verlo de esa manera. Con la excesiva influencia de Cáncer en el mes de Junio del 2020, tu atención naturalmente se dirigirá hacia las personas que amas: familia, amigos, e incluso conocidos - cada uno con sus propios problemas.
+Sin embargo, justo al cruzar la puerta de entrada, con la Luna del 7 de Enero en Aries opuesta a Marte en Libra, también sentirás tensión entre mantener una vida personal satisfactoria y el logro de un objetivo profundamente deseado. Puede que el hecho de que tus amigos deseen mantenerte “dentro del círculo" no ayude mucho, pero tus familiares, por otro lado, serán más de apoyo. Los miembros de tu familia pueden a veces sufrir de disputas menores, pero tales serán superadas con facilidad. 
 
 
-Hay un fuerte deseo de hacer de tu hogar un lugar de refugio, y el Sol de Agosto en Leo formando trígono con la Luna en Libra te trae la determinación para mejorar las cosas para los demás. Te ayuda a ti, ayuda a tus seres queridos - ¡todos terminan felices!
+El punto principal es que tu trabajo está produciendo resultados, y pocos realmente pueden oponerse a eso. Los aspectos astrológicos en conjunto son buenos para tus objetivos personales, siempre y cuando no dejes que personas ajenas te desvíen de tu curso. ¡Los verdaderos amigos van a entender tus necesidades!
 
 
-## Amor Parejas
+## Amor para Parejas
 
-Tu relación goza de una gran cantidad de magia práctica este año. Tú y tu pareja podrán ponerse de acuerdo sobre qué hacer y cómo hacerlo. También es fácil llegar a un acuerdo sobre lo que deben tener y adquirir. Mercurio inicia el año en el Signo de Tierra Capricornio. Cuando el Sol entra a Libra, Mercurio estará en Tauro, otro Signo de Tierra. Esto ayuda a que las cuestiones prácticas sean fáciles de analizar.
-A medida que el Sol entra a Libra, Venus y Marte formando sextil crean un ambiente relajado, pero también una atmosfera apasionada para el amor. Esperen pasar muchos momentos agradables juntos en público haciendo sus cosas favoritas. Y probablemente serás tú quien a menudo elija a dónde y cuándo.
-Si la pasión disminuye durante el retroceso de Venus en la primavera, la intimidad regresará magnificada cuando Venus avance directamente el 15 de abril en el sumamente romántico Piscis.
-Cuando Júpiter sale de Libra en octubre y entra a Escorpión, las relaciones pueden volverse más profundas y más serias. El refinamiento puede ser reemplazado por la dedicación.
-Diciembre será un mes animado, productivo y rico en respeto mutuo y una autoridad más compartida. El Sol, Saturno y Capricornio se encontrarán extremadamente fuertes entonces, así como también lo será su compromiso mutuo.
+¿Puede un año ser pacífico y emocionante al mismo tiempo? ¡El 2021 bien puede serlo para ti Libra! Tú y tu pareja tienen un gran corazón y quieren complacerse el uno al otro. Además, los problemas monetarios y los grandes y locos deseos estarán a un mínimo.    
+Tiernos sentimientos estarán cerca de la superficie durante todo el año, por lo que trátense con más consideración de la habitual durante el Eclipse Solar de Junio y el Eclipse Lunar de Noviembre. 
+Los cuatro retrocesos de Mercurio se manifiestan en signos de Tierra, por lo que puede que cualquier falla de comunicación sea sobre cuestiones prácticas. Anoten las cosas, paguen las cuentas a tiempo y ayúdense a encontrar sus llaves y teléfonos perdidos. 
+Si han tenido el anhelo de poseer su lugar propio, este podría ser el año indicado para ello, especialmente después de Agosto. ¡Investiguen al respecto!
+La pasión aumenta más adelante en el año. Uno (o ambos) de ustedes podría necesitar más intimidad y atención física en Noviembre y Diciembre. Sean comprensivos al respecto y apóyense mutuamente. ¡Qué increíble terminar con su relación siendo incluso más fuerte que cuando comenzó el año!
 
-## Amor Solteros
+## Amor para Solteros
 
-El 2020 está lleno de pasión y compañerismo Libra, pero llévatela con calma durante los primeros meses. Selecciona muy bien con quién pasas tu tiempo, sobre todo cuando Mercurio esté retrógrado en tu signo (Enero 21 a Febrero 11). Puede que esto no sea fácil, ya que durante los primeros tres meses gozarás de muchos agradables sextiles que te darán mucho atractivo, y también te harán ver atractivo en los demás. 
-Saturno estará retrógrado del 14 de Marzo al 1 de Agosto, haciéndote pensar que tienes menos interés en el mundo de las citas; aunque eso no impedirá que atractivos aspirantes logren encontrarte. Ten una mente abierta y mantente en contacto con la escena social, pero si requieres de un descanso, dilo de una buena manera y tomate tiempo a solas sin que tenga que haber consecuencias por ello. 
-Es difícil reducir la velocidad en un año tan ardiente como el 2020. El verano podría ser cuando conozcas a alguien con buena química y un atractivo que prevalezcan. Abre tu corazón y date una oportunidad. Si no sucede en el verano, entonces tal vez sea en Octubre, cuando el Nodo Norte Lunar pudiera traer un encuentro romántico y predestinado. 
+¡El amor te rodea en el 2021, Libra! Tu vida social está repleta de prospectos románticos y probablemente alguien nuevo estará a tu alcance para coincidir con tus gustos y deseos del momento.
+
+
+Por supuesto, esto puede ser tanto una bendición como una maldición. Acércate a las nuevas personas con un cálido optimismo, pero con una razonable precaución. Ya sabes esto, pero con el trígono que Venus forma con Urano para ti este año, es incluso más importante.
+
+
+Febrero y septiembre son momentos para ir despacio con los nuevos pretendientes. La influencia de Neptuno es fuerte en ese momento, lo que hace que las primeras impresiones sean menos confiables. 
+
+
+Las compañías divertidas y más confiables predominan en julio y agosto, cuando tus instintos están más afilados. Aquí, la fase retrógrada de Mercurio que se manifiesta en Libra es tu aliada. Es posible que la fase retrógrada de Marte haga lo mismo para controlar cualquier tipo de pasión salvaje.
+
+
+Durante octubre y noviembre, la fase retrógrada de Venus en Escorpión y luego en Libra posiblemente también sea tu aliada. Ya sabes que correr riesgos y apasionarte son elecciones que necesitan más respeto. Aun así, una conexión hecha ahora podría ser “la indicada.”
+
 
 ## Trabajo
 
-Es un año de mucho trabajo que a menudo podría requerir que seas la persona asignada o a cargo de un proyecto laboral. Sé exigente más no evadas a la gente debido a esto. La gente te percibirá como una persona ambiciosa sin importar cómo te sientas. El verano, sobre todo Agosto, podría ser el periodo más productivo y exitoso para ti. 
-Si buscas empleo, adopta una actitud más proactiva, disponte a buscar un empleo un poco más lejos (o trabajar desde casa), y dale más seguimiento a tus aplicaciones. 
-Los días anteriores al 19 de Enero (cuando Marte esté en conjunción con Neptuno y con la Luna en el trabajador Capricornio) pueden ser mágicos para ti. Lo que quieres se encuentra por ahí en algún lado, y te está buscando. 
-El dinero es suficiente y tal vez abundante si eres realista acerca de tus deseos y necesidades inmediatas. Una maravillosa oportunidad monetaria podría surgirte en Agosto, pero puede que sea una oferta de una sola vez. ¡Sácale el máximo provecho!
+Este año, tomar decisiones cruciales significa que siempre debes estar varios pasos adelante de todos los demás. Hay una fuerte posibilidad de que llegue la abundancia, en especial con grandes ganancias financieras que trae el tránsito de Júpiter en el signo de Acuario, más específicamente desde enero hasta mediados de mayo, y también desde mediados de octubre hasta finales de diciembre. También es muy probable que aceptes múltiples proyectos o abarques varios ámbitos laborales diferentes. Saturno atraviesa tu novena casa de aprendizaje y educación superior, lo que resalta tu insaciable sed de conocimiento.
+Tienes muchos caminos que puedes considerar tomar, tanto por las oportunidades financieras como por tu satisfacción espiritual en el mundo. Realmente puedes unirlo todo y ser extremadamente feliz con tus decisiones profesionales este año.
+Para quienes están apoyando a la familia o tienen un acuerdo colectivo de negocios, puede que terminen asumiendo un rol de liderazgo para el que no se habían preparado en un principio. El nodo norte del destino atraviesa tu intelectual signo y trae muchas oportunidades que ni siquiera habías notado, ¡y ya quieres aprovecharlas!
+¡El universo tiene grandes planes este año para tu dinámico signo! Todo lo que debes hacer es estar presente y tener ganas de aprender. Puede haber momentos en que fluyen tantas ideas que quizás sea difícil seguir el ritmo de tu mente veloz. Así que ten mucho cuidado y disponte a escuchar cada palabra que digan tus colegas, debido a toda la energía del innovador Urano que revuela en tu segunda casa solar de finanzas. 

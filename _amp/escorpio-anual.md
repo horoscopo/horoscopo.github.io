@@ -1,15 +1,12 @@
 ---
 layout: amp
-title: escorpio 2018 Horóscopo año nuevo 2018 
-description: escorpio horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para escorpio gratis. Disfruta este año nuevo.
-normallink: /horoscopo-anual/escorpio/
+title: Horóscopo Escorpio 2021 
 permalink: /horoscopo-anual/amp/escorpio/
+normallink: /horoscopo-anual/escorpio/
+description: Escorpio horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Escorpio 2021 gratis. Disfruta este año nuevo.
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo escorpio 2018, horoscop, horóscopos gratis, horoscopo escorpio, horoscopo escorpio 2018 gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Escorpio 2021, horoscop, horóscopos gratis, horoscopo Escorpio, horoscopo Escorpio 2021 gratis, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/escorpio_anual.png
-horoscopo:
- signo: escorpio
- video: HFJrySRKOew
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -17,42 +14,32 @@ sitemap:
 
 
 
-## Vida Personal
 
-Como una hermosa y compleja tela de araña, en el 2018 vas a conectar con los demás a través de distintas líneas de comunicación.
+Sin importar qué pase, el 2021 puede ser un año lleno de grandes logros, decisiones cruciales y grandes cambios para Escorpio. Tienes la posibilidad de hacer grandes cosas con tanta energía transformadora siendo dirigida hacia ti.
+En enero, la conjunción Sol-Plutón en Capricornio también forma una cuadratura con Júpiter en Acuario y Urano en Tauro. Esto crea una cuadratura T que apunta directamente hacia el Signo Escorpio. Tu vida hogareña, entorno doméstico, tu ciudad natal, tu país, y tu planeta Tierra rara vez reciben tanta atención celestial. Logra hacer tanto progreso en cualquiera o en todos estos frentes tan pronto como te sea posible.
+Es también un gran año para concluir con éxito un difícil o largo proyecto o para hacer un gran cambio que te lleve a un mejor lugar... geográfica, mental o emocionalmente.
+La conjunción de separación entre Marte y Neptuno en Piscis te otorga una mayor intuición e instinto. Esto te ofrece poderosas ventajas durante todo el año. ¿Las vas a aprovechar?
+Cuando el Sol entre a Escorpio, Marte también estará allí. Júpiter se encontrará en el corazón de Libra, tu Octava Casa del instinto de vida, capacidad de regeneracion y vida sexual. Puede que este año requiera de un arduo esfuerzo, pero una gran energía, suerte y generosidad están a tu alcance durante todo el año.
 
+## Amor para Parejas
 
-El 21 de Enero, la Luna entra a escorpio y crea un trígono con el Sol que ayuda a aumentar tus habilidades interpersonales. Ciertas personas que podrían haberte ignorado en años anteriores ahora te están buscando; y su búsqueda resulta en un valioso ser humano.
+Los Escorpio en pareja van a experimentar un gran compromiso durante el 2021, en especial si dejas que tu relación pase a segundo plano a través de los últimos ciclos del año. Presta especial atención a la ubicación de Saturno en tu carta astral y la de tu pareja
+Una gran parte de todo esto es aprender la poderosa lección de mantener el compromiso y dedicación no solo como pareja, sino también como mejores amigos. Realmente vas a tener que escuchar a tu amor a lo largo del 2021, lo que no siempre es tarea fácil si sientes que necesitas tener la razón y ejercer tu dominancia de algún modo.
+El eclipse lunar total del 26 de mayo en Sagitario va a presentar algunos eventos psíquicos que no solo reviven traumas del pasado, sino también revelan ciertas capas de tu vida personal que creías ocultas. Este es un momento extremadamente emocional para tu terrenal signo, ya que este ciclo lunar revoluciona tu doceava casa personal, lo que puede sentirse como nadar en el abismo emocional de lo desconocido.
+Mayo y junio son momentos muy específicos para hacer terapia de pareja o buscar apoyo emocional, porque todo es cuestión de pasar la prueba del tiempo y volverte más fuerte y estar más disponible en general.
+El final de año también refleja este ciclo desde una perspectiva más elevada. Debes derribar todos los muros para volver a construir desde un enfoque más sólido. Las parejas pueden profundizar sus compromisos por encima de las comprensiones espirituales, mentales y físicas. Mírense a los ojos, ¡y comenzarán a comprenderse aún más a sí mismos!
 
+## Amor para Solteros
 
-Por un lado, esto va a aumentar tu red personal. Por otro lado, te percatarás de que las personas que requieran de tus habilidades acudirán a ti con más frecuencia. Mientras que definitivamente te gusta ayudar a la gente, vas a tener que aprender a decir no de vez en cuando si lo que se te pide interfiere seriamente con tu vida.
-
-
-La mejor parte es que tu resistencia física será más fuerte hacia el final del año, especialmente el 24 de Septiembre, cuando el Sol se encuentre con la Luna en escorpio. Vas a necesitar ese nivel de resistencia, ya que podrías tener mucho que hacer por un tiempo.
-
-
-Hacia el final del año, vas a salir a hacer cosas - incluso cuando haya mal tiempo - ¡simplemente porque te sentirás tan bien acerca de la vida!
-
-
-## Amor Parejas
-
-La novedad y la emoción serán parte de la vida amorosa de escorpio en el 2018. Considéralo como un soplo de aire fresco romántico entre tú y tu pareja. Nada importante tiene que llegar o irse, pero los detalles de la vida cotidiana sí pueden simplemente volverse más radiantes y más felices.
-Puede que ambos hayan estado anhelando un poco más de diversión en sus vidas diarias. A partir de principios de primavera, Venus y Urano inspirarán para que esto suceda. Esperen más pequeñas y agradables sorpresas así como gestos o regalos simbólicos. Anticipen más actos naturalmente positivos. Y también recuerden saber regresar favores. 
-Ya sea que tomen o no tomen unas largas vacaciones, es posible que deseen más momentos románticos en Agosto y Septiembre. Acudan a un lugar que sea especial para los dos (o quédense en casa y hagan algo que sea igual de especial).
-Su relación podría volverse más seria en Noviembre y Diciembre. Los dos podrían asumir una causa o proyecto importante en conjunto y percatarse de que ello les ha acercado aún más como pareja. Será un año poderoso y muy íntimo.
-
-## Amor Solteros
-
-Tu corazón puede latir rápido desde Enero hasta Abril escorpio, por lo que limita tu consumo de cafeína o tal vez toma descafeinado durante esas citas de noche. 
-Tu juicio podría andar un tanto nublado (especialmente con el retroceso de Mercurio del 21 de Enero al 11 de Febrero), pero tus instintos y sentidos psíquicos seguirán siendo agudos. Esto te da la oportunidad de retirarte elegantemente si eso es lo que quieres. 
-El Eclipse Solar del 20 de Marzo (en escorpio) también podría traerte emoción del tipo romántico. Algo fundamental podría comenzar o terminar para ti. Presta atención y mantén tu antena psíquica en alto. 
-Es posible que conozcas una menor cantidad de personas desde finales de Abril hasta Agosto, pero puede que sea cuando desees un poco de descanso de todos modos. 
-Tu vida social y pensamiento crítico se recuperan y mejoran en el otoño, desde Octubre hasta finales de año. Si buscas a un buen prospecto que también sea atractivo, los días de finales de Octubre y finales de Noviembre son ventanas de oportunidad. 
-El 2018 es un año emocionante en el terreno romántico escorpio. Juega inteligentemente y a lo seguro, ¡y lánzate a la diversión! 
+El 2021 será un año ¡súper activo románticamente para ti Escorpio! Los encuentros casuales y las conversaciones, algunas de ellas inusuales, te traerá muchos prospectos amorosos. 
+En Mayo y Junio, un extraño podría ser irresistible o sentir la necesidad de hablar contigo. Intereses creativos o profesionales podrían crear atracción entre ustedes. Mantener su relación casual y al descubierto bajo la Luna en Géminis del 2021 les ayudará a mantenerse felices.
+En Abril podrías sentir necesidad de entusiasmo romántico, pero tenerlo te podría ser costoso. Lo bueno es que sabes cómo mantener el equilibrio. Si una apasionada aventura sucede, lo más probable es que sea en el otoño. Es raro que los sentimientos se apoderen de ti, pero la presencia de Marte en Escorpión es muy fuerte este año.
+La mayoría de tus nuevos contactos ocurrirán en grupos, a través de amigos en común, o en fiestas y eventos musicales o artísticos que unen a personas de ideas afines de forma natural. Ser socialmente inteligente, como de costumbre, hará que te diviertas abundantemente... ¡especialmente en Noviembre y Diciembre!
 
 ## Trabajo
 
-Tanto tus finanzas como tu carrera reciben un gran impulso en el 2018. La conjunción Sol-Plutón en Capricornio ilumina todos tus mejores planes e intenciones. Compórtate seria, intensa y decididamente.
-El retroceso de Júpiter en escorpio desde febrero hasta principios de junio puede disminuir el ritmo de cualquier cosa que esté creciendo demasiado rápido, o también disminuir la tendencia a gastar de más.
-A medida que el Sol entra a escorpio en septiembre, el Nodo Norte Lunar estará en el dramático y generoso Leo. Evita los psicodramas superficiales y céntrate en hacer cambios que sean igualmente dramáticos como para poder mejorar tu posición e imagen en el trabajo.
-Con el Sol y Saturno en Capricornio conforme termina el año, los asuntos monetarios serán sólidos, prácticos y estarán bajo control. Trata de que tu temporada navideña no sea tan cara y comenzarás el 2018 en una muy buena posición financiera.
+Si tienes una carrera sólida o tienes tu propio negocio, este es un buen año para ver las cosas cambiar a una mayor velocidad. Ten cuidado de no agotarte o de descaradamente trabajar de más, siempre posibilidades para ti.
+No adoptes más responsabilidades de las que tienes disposición a realizar. Este año, el riesgo de decir automáticamente que sí a todo es alto. Es bueno ser la persona a quien todo el mundo acuda, pero deja que tus compañeros de trabajo, jefes, o empleados te respeten por tu buen sentido común también.
+Si estás buscando un cambio de carrera o reubicarte, grandes oportunidades podrían abrírsete en el otoño e invierno. 
+A lo largo del año, tus finanzas parecen ser estables, aunque la tentación de gastar de más en el verano siempre se hace presente.
+Deja que tus buenos hábitos pasados te guíen, disponte a escuchar los consejos de amistades mayores y más experimentadas; y en el peor de los casos, trabaja duro y planea recuperarte completamente para Noviembre.

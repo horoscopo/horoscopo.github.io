@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Cáncer Horóscopo año nuevo 2020 
-description: Cáncer 2020 Año Nuevo, amor, trabajo, vida personal. Todas las predicciones para Cáncer gratis. Disfruta este año nuevo.
+title: Cáncer Horóscopo 2021 
+description: Cáncer horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Cáncer 2021 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/cancer/
+amplink: /horoscopo-anual/amp/cancer/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Cáncer 2020, horoscop, horóscopos gratis, horoscopo Cáncer, horoscopo Cáncer 2020 gratis, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Cáncer 2021, horoscop, horóscopos gratis, horoscopo Cáncer, horoscopo Cáncer 2021 gratis, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/cancer_anual.png
 sitemap:
  priority: 0.5
@@ -13,51 +14,47 @@ sitemap:
 
 
 
-## Vida Personal
 
-Espera éxito, elogios y placer, Cáncer. Sienta cabeza y trabaja sin descanso para lograr tus objetivos tanto personales como profesionales. El año 2020 empieza con tu planeta Marte en conjunción con el majestuoso Júpiter en el sensato Escorpión. ¡Prepárate para reinar!
-
-
-La fase retrógrada de Mercurio se manifiesta en Cáncer desde finales de marzo hasta mediados de abril. Mírate en el espejo y observa qué cambios puedes hacer para mejorar tu apariencia, imagen o proyección propia. Todo el mundo puede beneficiarse de algunas mejoras. Haz que emerja una versión mejorada, más brillante y más fuerte de ti.
+Este año, dos Signos de Fuego - Aries (agarrándose a Urano a principios de año) y Leo (aprovechando a Júpiter hacia el final) - actúan como estimulantes para ayudarte a sacar lo mejor de ti.
 
 
-Tu planeta Marte se torna retrógrado desde finales de junio hasta finales de agosto. La vida no se detiene. Tal fase retrógrada de Marte que se manifiesta en Acuario y Capricornio te lleva a tomarte la vida con calma y utilizar estrategias más sólidas para tu vida social y laboral.
+Un amigo o conocido se sorprenderá del útil tesoro de información que eres. Al principio, puede que seas un poco indiferente, ¡ya que tendrás tanto que hacer que a apenas podrás lidiar con lo tuyo! Pero al final, este bien podría ser un canal para una nueva red de amigos o conocidos, ¡lo que te abre un nuevo mundo! Esta es una de esas veces en las que simplemente ser quien eres se te verá recompensado con creces. 
 
 
-Cuando el sol ingresa a Cáncer, Mercurio forma una conjunción con Venus en Cáncer. Si desarrollas gustos más caros en la vida, tendrás la energía e inteligencia para satisfacerlos. Con Urano a punto de salir de Cáncer, hay chances de que todavía tengas algunas ideas o planes afilados y sorprendentes para cumplir esos deseos.
+Además de tu progreso personal, esto significa también un momento en el que tu comunicación con los demás será más abierta y honesta. Y para ti, el llegar a conocer mejor a tu familia y amigos va a abrir diferentes puertas dentro de ti. Con Urano en Aries, ¡estarás viendo a tus compañeros de vida bajo una luz diferente y mucho más positiva!
 
 
+## Amor para Parejas
 
-## Amor Parejas
+El amor es abundante y sorprendente para las parejas en el 2021. En enero, la conjunción Marte-Neptuno mantiene vivo el romance sin importar qué pase. Tu sensibilidad hacia tu pareja estará en su punto más alto. Incluso puede haber momentos en los que parecieras tener puestos lentes color de rosa. Y saber quién cometió el error puede ser difícil en ciertas ocasiones. Tu deseo de un amor ideal e intenso no va a desaparecer.
+Júpiter en Libra prefiere mantener a las parejas juntas. Es posible que a veces se sientan un poco fuera de sincronía el uno con el otro, pero al final, siempre volverán a estar juntos.
+Venus estará retrógrado en marzo, comenzando en Aries y para cuando se vuelva directo a mediados de abril, estará en Piscis. Hacia el final del retroceso, es posible que sientas que te ahogas en emociones, pero estarán más cerca que antes como pareja.
+Una vez que Júpiter entre a Escorpión en octubre, las relaciones se harán más fuertes y ambos podrán construir aún más resistencia dentro de su relación. El atractivo sexual aumentará también. No importa lo que el mundo ponga en su camino, encontrarán seguridad en sus brazos mutuos.
 
-Llevarse bien a diario como pareja es fácil en el 2020. Sus rutinas y horarios deberían engranar bien, y hacer planes no debería causar ansiedad. Júpiter retrógrado hasta Abril debería hacer su vida hogareña agradable, más no excesiva o extravagante.
-Desde Abril hasta Agosto, cuando Júpiter entra a Virgo, podrían sentir que sus gastos empiezan a salirse de control, pero si hacen cuentas, se percatarán de que todo está bien. 
-Sin embargo, las demandas emocionales pueden ser mayores, y ambos pueden anhelar una comprensión y compromiso más profundos. Este sentimiento podría fortalecerse con Saturno retrocediendo una vez más en los últimos grados de Escorpión. Hagan el esfuerzo de hablar las cosas. Más contacto físico y afecto pueden ayudar también. 
-Otras personas pueden hacerles demandas irrazonables este año. Sean de ayuda y apoyo, más no dejen que esto le añada estrés a su relación. El retroceso de Mercurio en Acuario (Enero 21 a Febrero 11) puede afectarles y conducirles a malentendidos en relación a acuerdos con otros. Mantengan la calma, pero también sean claros. 
-Tienen algo muy bueno como pareja, ¡disfrútense el uno al otro día a día!
+## Amor para Solteros
 
-## Amor Solteros
-
-¡Conoce a un millón de pretendientes amorosos en el 2020! Si decides visitar lugares lejanos en enero, conocerás hermosas personas con las cuales coquetear.
+Experimentarás un constante avance este año Cáncer. Es probable que te reúnas con alguien en la primera parte del año que despierte sentimientos de cariño dentro de ti, incluso si la relación no termina por manifestarse.
 
 
-En abril y mayo, sal más a la naturaleza y descubre un admirador práctico y agradecido que comparte tus mismos valores.
+Sin embargo, la coexistencia entre Venus y Neptuno en Piscis a partir del 11 de Abril recibirá un impulso por parte del tránsito de Júpiter en Cáncer. Toda esa actividad de Signos de Agua es un buen augurio para relajadas noches fuera,  conversaciones de ensueño, y cálidas y cariñosas noches.
 
 
-En julio, la fase retrógrada de Júpiter termina y con ello regresa un mayor deseo de estar entre la gente. A finales de agosto, la fase retrógrada de Marte concluye y las pasiones se vuelven más fuertes que antes. No te dejes llevar tan rápido.
+Una oportunidad de llevar una relación a un nivel superior se produce el 24 de Julio, cuando la Luna, Venus y Mercurio se colocan cómodamente en tu signo. Ambos, la Luna y Venus, en particular, forman acogedores trígonos con Neptuno en Piscis; mientras que el Sol conjunta a Júpiter en Leo creando un distante "fuego" para calentar las brasas de tu relación actual. Mientras que los incendios pueden salirse de control, tú y tu potencial pareja tienen la capacidad de enfriarlos cuando sea necesario. Pueden evitar que una discusión se convierta en un argumento, o que una verdad se convierta en una mentira.
 
 
-La fase retrógrada de Venus en octubre y noviembre podría frustrar el entusiasmo para el romance, pero es más probable que simplemente presione el botón de pausa en una relación que merece ser reevaluada. No apagará el amor, y el tener un pensamiento más selectivo casi nunca significa algo malo. Si entonces consideras asumir un compromiso formal, tal vez espera hasta la segunda mitad de noviembre.
-
-
-En diciembre, si aún no has conocido a nadie, podrías tener éxito y conectar con alguna persona muy dispuesta a hacer sacrificios solo para estar contigo.
-
+Todo depende de que conectes con tu interés amoroso y cambies tu estrategia de inmediato conforme el momento lo requiera. Estos momentos cruciales podrían marcar la diferencia para el resto del año, ¡así que aprovéchalos!
 
 
 ## Trabajo
 
-Si sueñas con una ocupación más satisfactoria en el 2020, busca posibilidades que se encuentren cerca. Tanto tus amigos como familiares pueden tener sugerencias, contactos, u ofrecerte ejemplos de algo que pague mejor y se adapte mejor a tu personalidad.
-Alternativamente, puede que desees trabajar desde casa medio tiempo para así reducir el tiempo que pasas transportándote. Este año podría moldear tu situación laboral para que engrane mejor con tu vida hogareña.
-Si ya te encuentras en una posición creativa o de servicios que te agrade, ¿por qué hacer cambios? El Eclipse Solar de Marzo te ayudará a hacer una revisión de tu realidad en caso de que tengas alguna duda.
-Este año también podrías ahorrar más dinero, lo que siempre es bueno. En Mayo podrías consolidar inversiones y obtener más seguridad financiera. Sé aún más exigente en tus decisiones monetarias, sobre todo mientras se acerque el periodo retrogrado de Mercurio en Septiembre.
-Cualquier error menor de cálculo será corregido fácilmente en Noviembre y Diciembre con Saturno manteniendo tu cautela y tus pies en la tierra. ¡Será un año productivo!
+Plutón en Capricornio impulsa un año fuerte y productivo, Cáncer. El cauto y responsable Saturno también se encuentra ahora en casa en el signo que rige, Capricornio. Cualquier cambio repentino en profesión o finanzas necesitará tener sus raíces en una realidad práctica para que Saturno participe.
+
+
+Los primeros dos meses podrían ser los más inestables, pero quizás no sea necesario hacer ningún cambio. Para marzo, podrías estar impaciente por una respuesta o resultado sobre un asunto económico o profesional, pero no apures las cosas.
+
+
+Urano está dando vueltas entre el final de Aries y el comienzo de Tauro este año, y el flujo de dinero puede fluctuar con esto. Date tiempo antes de hacer cualquier compra importante, tomar vacaciones costosas, o tomar decisiones sobre asuntos de bienes raíces.
+
+
+Para octubre, lo que necesitas hacer para conseguir exactamente lo que deseas será obvio. Sé diligente, no te salgas del presupuesto y tus planes de ahorro, y termina el año en perfectas condiciones.
+

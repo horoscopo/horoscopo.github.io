@@ -1,15 +1,12 @@
 ---
 layout: amp
-title: libra 2018 Horóscopo año nuevo 2018 
-description: libra horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para libra gratis. Disfruta este año nuevo.
-normallink: /horoscopo-anual/libra/
+title: Horóscopo Libra 2021 
 permalink: /horoscopo-anual/amp/libra/
+normallink: /horoscopo-anual/libra/
+description: Libra horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Libra 2021 gratis. Disfruta este año nuevo.
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo libra 2018, horoscop, horóscopos gratis, horoscopo libra, horoscopo libra 2018 gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Libra 2021, horoscop, horóscopos gratis, horoscopo Libra, horoscopo Libra 2021 gratis, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/libra_anual.png
-horoscopo:
- signo: libra
- video: 32d3Q9nvOEo
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -17,56 +14,44 @@ sitemap:
 
 
 
-## Vida Personal
 
-Tienes un año muy equilibrado por delante libra, con mucha pasión del elemento Fuego, sensibilidad del elemento Agua, sentido común del elemento Tierra, y energía diplomática del elemento Aire. 
-Neptuno te ofrecerá ilusión y cómodos escapes en Febrero. Urano te sorprenderá y energizará en Abril. Mercurio y Marte te causarán fuertes sentimientos de afecto y simpatía en relación a amor y familia en Julio. Venus hará tu vida cotidiana más agradable y cómoda que nunca en Septiembre. ¡Qué año! 
-Júpiter pasa la primera mitad del 2018 en tu signo, libra, trayéndote buena suerte y abundancia, pero también la tentación de disfrutar en exceso de las cosas buenas de la vida. Trata de moderarte en todo, sobre todo comer, en tu gasto, al socializar, y simplemente compartir tu riqueza. 
-Júpiter está retrógrado hasta el 8 de Abril, así que toma consciencia de mantener o mejorar tu integridad personal. 
-Tu energía podría desvanecerse y problemas menores de salud podrían convertirse en una preocupación en Noviembre, cuando el Sol (tu regente) se encuentre con Saturno. El equilibrio y un buen sentido común pueden solucionarlo todo. ¡Cuida bien de ti y disfruta cada día al máximo! 
-
-## Amor Parejas
-
-El amor es muy brillante para las parejas y tu vida hogareña en el 2018. Júpiter brilla en el social y amoroso signo de las relaciones, Libra. Desde enero hasta principios de octubre, puede haber muchas reuniones de amigos y familiares. Puede que también haya muchas ocasiones agradables y culturales como festivales y fiestas durante el día, así como también divertidas noches en la ciudad.
-Plutón en Capricornio, tu Séptima Casa del amor y parejas, te otorgará oportunidades para hacer cambios que fortalezcan los lazos entre tú y tu pareja. Podrán hablar de todo con facilidad y con frecuencia.
-Mercurio se encontrará a punto de salir del social Géminis cuando el Sol entre a Cáncer. Entonces habrá una conjunción entre la Luna y Venus en el práctico y placentero Tauro en el día en el que el Sol entra a Cáncer. Los sentimientos y la intuición proporcionarán la comodidad para mejorar todo en tu vida hogareña durante este periodo de tiempo.
-En octubre, Júpiter saldrá de Libra para entrar a Escorpión. El verdadero amor, la dedicación y lo que realmente es la base de tu relación se volverá mucho más importante. Esto también puede aumentar su atractivo sexual y expresión amorosa. Respétense el uno al otro y permitan que Júpiter en Escorpión haga grandes cosas por ustedes.
-
-## Amor Solteros
+Este año, tus objetivos van a hacer que tu mente tenga una sola meta. Y es muy probable que tengas un objetivo financiero personal que te dé un sentimiento algo extremista durante todo el año. Vas a enfrentarte a una serie de influencias planetarias que te harán medir tu progreso, lo que te dará una concreta sensación de avance.
 
 
-El romance ocupa un gran lugar a lo largo del 2018, libra, y tendrás la energía para mantenerte al día con todo. A veces, hasta podría parecer que el número de pretendientes que te buscan no tiene fin.
+Sin embargo, justo al cruzar la puerta de entrada, con la Luna del 7 de Enero en Aries opuesta a Marte en Libra, también sentirás tensión entre mantener una vida personal satisfactoria y el logro de un objetivo profundamente deseado. Puede que el hecho de que tus amigos deseen mantenerte “dentro del círculo" no ayude mucho, pero tus familiares, por otro lado, serán más de apoyo. Los miembros de tu familia pueden a veces sufrir de disputas menores, pero tales serán superadas con facilidad. 
 
 
-Las tensiones y demandas emocionales pueden ser más intensas en enero y febrero. Podrías conocer a alguien fascinante ahora, pero de igual forma coleccionarás un montón de historias fascinantes de personas que quieren ser tus amantes y que requieren de más atención que tú. Sé una persona compasiva, como siempre.
+El punto principal es que tu trabajo está produciendo resultados, y pocos realmente pueden oponerse a eso. Los aspectos astrológicos en conjunto son buenos para tus objetivos personales, siempre y cuando no dejes que personas ajenas te desvíen de tu curso. ¡Los verdaderos amigos van a entender tus necesidades!
 
 
-Marzo y abril traerán consigo más fantasías románticas y promesas idealistas de las que te imaginas. Y lo bueno es que tú bien sabes cómo distinguir las reales de las falsas, ¿cierto?
+## Amor para Parejas
+
+¿Puede un año ser pacífico y emocionante al mismo tiempo? ¡El 2021 bien puede serlo para ti Libra! Tú y tu pareja tienen un gran corazón y quieren complacerse el uno al otro. Además, los problemas monetarios y los grandes y locos deseos estarán a un mínimo.    
+Tiernos sentimientos estarán cerca de la superficie durante todo el año, por lo que trátense con más consideración de la habitual durante el Eclipse Solar de Junio y el Eclipse Lunar de Noviembre. 
+Los cuatro retrocesos de Mercurio se manifiestan en signos de Tierra, por lo que puede que cualquier falla de comunicación sea sobre cuestiones prácticas. Anoten las cosas, paguen las cuentas a tiempo y ayúdense a encontrar sus llaves y teléfonos perdidos. 
+Si han tenido el anhelo de poseer su lugar propio, este podría ser el año indicado para ello, especialmente después de Agosto. ¡Investiguen al respecto!
+La pasión aumenta más adelante en el año. Uno (o ambos) de ustedes podría necesitar más intimidad y atención física en Noviembre y Diciembre. Sean comprensivos al respecto y apóyense mutuamente. ¡Qué increíble terminar con su relación siendo incluso más fuerte que cuando comenzó el año!
+
+## Amor para Solteros
+
+¡El amor te rodea en el 2021, Libra! Tu vida social está repleta de prospectos románticos y probablemente alguien nuevo estará a tu alcance para coincidir con tus gustos y deseos del momento.
 
 
-Los meses con menos acción podrían ser junio y julio, cuando tal vez necesites un descanso del desfile de prospectos románticos de meses anteriores.
+Por supuesto, esto puede ser tanto una bendición como una maldición. Acércate a las nuevas personas con un cálido optimismo, pero con una razonable precaución. Ya sabes esto, pero con el trígono que Venus forma con Urano para ti este año, es incluso más importante.
 
 
-Cuando llegue septiembre, sé irresistible sin importar cómo te sientas. La fase retrógrada de Venus en octubre te permite elegir a tu propio ritmo. Y finalmente, una significativa oferta romántica podría aparecer en noviembre.
+Febrero y septiembre son momentos para ir despacio con los nuevos pretendientes. La influencia de Neptuno es fuerte en ese momento, lo que hace que las primeras impresiones sean menos confiables. 
 
 
+Las compañías divertidas y más confiables predominan en julio y agosto, cuando tus instintos están más afilados. Aquí, la fase retrógrada de Mercurio que se manifiesta en Libra es tu aliada. Es posible que la fase retrógrada de Marte haga lo mismo para controlar cualquier tipo de pasión salvaje.
 
 
+Durante octubre y noviembre, la fase retrógrada de Venus en Escorpión y luego en Libra posiblemente también sea tu aliada. Ya sabes que correr riesgos y apasionarte son elecciones que necesitan más respeto. Aun así, una conexión hecha ahora podría ser “la indicada.”
 
 
 ## Trabajo
 
-Los prospectos de negocios y el dinero pueden ir y venir, libra, pero tu entusiasmo y determinación harán que cada situación se vuelva una oportunidad. 
-
-
-Cada año tiene sus altas y bajas, pero en el 2018, experimentarás más altas que nunca. La primera fase retrógrada de Mercurio en Aries sucede a finales de marzo y principios de abril. Ten un poco más de paciencia y autocontrol en ese momento.
-
-
-Mientras Júpiter se encuentre retrocediendo desde marzo hasta principios de julio, los gastos se pueden reducir y será más fácil ahorrar.
-
-
-Saturno se torna retrógrado desde mediados de abril hasta principios de septiembre. Si las oportunidades para pedir un ascenso o mejorar tu flujo de efectivo parecen venir menos seguido, eso no siempre es algo malo. También es un momento para pensarlo dos veces. ¿Por qué tomar una decisión impulsiva de la que necesitarás recuperarte, por más optimista que sea?
-
-
-Para cuando noviembre y diciembre lleguen, demuestra tus habilidades organizacionales y de liderazgo, y de paso haz nuevas amistades. Además, terminarás el año con fortaleza económica.
-
+Este año, tomar decisiones cruciales significa que siempre debes estar varios pasos adelante de todos los demás. Hay una fuerte posibilidad de que llegue la abundancia, en especial con grandes ganancias financieras que trae el tránsito de Júpiter en el signo de Acuario, más específicamente desde enero hasta mediados de mayo, y también desde mediados de octubre hasta finales de diciembre. También es muy probable que aceptes múltiples proyectos o abarques varios ámbitos laborales diferentes. Saturno atraviesa tu novena casa de aprendizaje y educación superior, lo que resalta tu insaciable sed de conocimiento.
+Tienes muchos caminos que puedes considerar tomar, tanto por las oportunidades financieras como por tu satisfacción espiritual en el mundo. Realmente puedes unirlo todo y ser extremadamente feliz con tus decisiones profesionales este año.
+Para quienes están apoyando a la familia o tienen un acuerdo colectivo de negocios, puede que terminen asumiendo un rol de liderazgo para el que no se habían preparado en un principio. El nodo norte del destino atraviesa tu intelectual signo y trae muchas oportunidades que ni siquiera habías notado, ¡y ya quieres aprovecharlas!
+¡El universo tiene grandes planes este año para tu dinámico signo! Todo lo que debes hacer es estar presente y tener ganas de aprender. Puede haber momentos en que fluyen tantas ideas que quizás sea difícil seguir el ritmo de tu mente veloz. Así que ten mucho cuidado y disponte a escuchar cada palabra que digan tus colegas, debido a toda la energía del innovador Urano que revuela en tu segunda casa solar de finanzas. 

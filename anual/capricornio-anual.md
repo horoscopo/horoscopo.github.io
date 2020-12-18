@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Capricornio Horóscopo año nuevo 2020 
-description: Capricornio 2020 Año Nuevo, amor, trabajo, vida personal. Todas las predicciones para Capricornio gratis. Disfruta este año nuevo.
+title: Capricornio Horóscopo 2021 
+description: Capricornio horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Capricornio 2021 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/capricornio/
+amplink: /horoscopo-anual/amp/capricornio/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Capricornio 2020, horoscop, horóscopos gratis, horoscopo Capricornio, horoscopo Capricornio 2020 gratis, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Capricornio 2021, horoscop, horóscopos gratis, horoscopo Capricornio, horoscopo Capricornio 2021 gratis, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/capricornio_anual.png
 sitemap:
  priority: 0.5
@@ -13,56 +14,44 @@ sitemap:
 
 
 
-## Vida Personal
 
-¡Sacude tu mundo en el 2020! Tu planeta regente Venus es uno de los mejores conectados y una de las fuerzas más poderosas en el cielo este año.
+Este año, céntrate en tu propio bienestar por encima de todo. De esta manera, puedes aumentar tu riqueza material y salud, así como también estructurar un futuro más estable. Con Marte y el asteroide Ceres comenzando el año en tu signo, tienes la energía para crear y manifestar el futuro que deseas.
+A principios de enero, la conjunción Sol-Plutón se manifiesta en el Cardinal Signo de Tierra Tauro. A los Signos Cardinales les encanta iniciar cosas y los Signos de Tierra (como Capricornio y Tauro) son totalmente prácticos y realistas. Esta conjunción es una señal para hacer un gran cambio o formular un nuevo y ambicioso plan para hacer que el 2021 sea uno de tus mejores años.
+Saturno, tu planeta regente, se encuentra retrógrado este año. ¿Cuáles son las cosas y personas que te hacen más feliz? Una vez que este retroceso se termine, es posible que desees algo de tiempo para dejar que tus sentimientos se calmen con el fin de centrarte en lo que realmente importa.
+De los cuatro retrocesos de Mercurio, el segundo comienza en Capricornio. Durante este periodo (en abril), reconsidera decisiones anteriores y haz mejoras.
+La primavera puede ser complicada, pero el otoño se vuelve más simple y más serio cuando Júpiter entra a Escorpión en octubre. Diciembre será un mes muy poderoso para todos los Signos de Tierra conforme Saturno entra a Capricornio, su signo anfitrión. ¡Los cambios sucederán en todas partes!
 
+## Amor para Parejas
 
-Venus está sobrecargado el día de año nuevo, y tú también. Recién habiendo formado una conjunción con el pragmático Saturno en Capricornio, Venus ahora forma una conjunción con el sol. Tus metas y aspiraciones no serán negadas. Haz que sean significativas y honorables. 
+Para los Capricornio en pareja, puede que este año realmente tengan que apoyarse mutuamente en cuestiones emocionales. Esta no va a ser una buena época para los corazones débiles, y tú eres un auténtico guerrero espiritual.
+Como eres un ser de luz, ves más allá de los velos de confusión, y al estar en un vínculo amoroso, sentirás una increíble conexión y aceptación. Acude a tu pareja para que sea tu guía cuando te pierdas, y tu amor también acudirá a ti.
+Este también puede ser un año muy bueno para experimentar un poco más y avivar el fuego, en especial en torno a la fantástica energía de los eclipses en mayo, junio y diciembre. ¡Nunca sabes lo que puedes descubrir! Es una mezcla de fantasía, diversión y exploración que realmente extiende tus límites, y va a sacudir el mundo de ambos en su combinación romántica.
+Para aquellas parejas que están pensando en agrandar la familia, este también es el año perfecto para buscar un embarazo o incluso considerar invertir en un nuevo hogar, ya que el nodo norte en Géminis te lleva a las profundidades de tu cuarta casa personal. Esta es una energía que te pone los pies sobre la tierra, lo que incluso puede convertirte en terapeuta de relaciones para tus amistades y seres queridos que están atravesando ciertas dificultades.
+Recuerda mantener un límite muy fuerte a tu alrededor y en torno a seres queridos, y ¡no te sobrepases si no es necesario! ¡Necesitarás toda la energía que puedas tener este año! Es una buena idea apreciar las pequeñas cosas como noches de citas románticas y acurrucarte con tu amor.
 
+## Amor para Solteros
 
-Entonces, Venus también se acerca a Plutón en Capricornio. No te resistas a hacer un gran cambio o a alterar el estatus quo si es necesario.
-
-
-Una vez que el sol entra a Capricornio, Venus ya se encuentra allí. Rodéate de bellos pensamientos en bellos escenarios, no te comprometas, y no te apures. La madre naturaleza está definitivamente de tu lado este año.
-
-
-En octubre, Venus se torna retrógrado en Escorpión y directo en Libra en noviembre. Las relaciones se vuelven serias y se benefician al darles atención extra.
-
-
-Tendrás éxito en el mundo material también. Échale un buen vistazo al mundo que has construido a tu alrededor. Mantén aquello que funciona bien y lo que más te satisface. Sé una persona más constructiva y agradable. 
-
-
-
-## Amor Parejas
-
-Capricornio, el 2020 es un año fuerte para las parejas, en especial para aquellas que quieren trabajar juntas e impulsar la profesión y relaciones familiares del otro.
+Las oportunidades para el romance se te hacen presentes, pero puede que se estén escondiendo en las esquinas y en los lugares más inesperados. Vas a tener que realmente mantenerte alerta durante los primeros meses del año, aunque en Abril dos increíbles conjunciones harán que las citas se vuelvan un poco más potentes y creen una impresión duradera en ambos de sus corazones.
 
 
-Júpiter pasa la mayor parte del 2020 en Escorpión, donde las emociones son profundas pero pocas cosas importantes son confiadas o explicadas voluntariamente. Tu pareja puede a veces preguntarse qué está pasando en tu cabeza, pero no habrá ninguna duda sobre la sinceridad de tu corazón.
+Mientras que mantener una buena impresión siempre será importante, el verano posterior a un amigable Venus en Cáncer te da mucha más libertad para relajarte y ser tú mismo o misma. Los días de finales de Julio y principios de Agosto, en particular, crean un gran potencial para las vibras románticas. Las citas que sucedan durante este periodo cargarán tus baterías más, incluso durante los ocasionales momentos en los que tu ánimo ande bajo.
 
 
-Las tres fases retrógradas de Mercurio del 2020 suceden en signos de fuego, y esto puede impactarte un poco más a ti que a tu pareja. Pequeñas luchas de poder podrían surgir en marzo y abril. En agosto, tanto las opciones arriesgadas como las emocionantes ofertas podrían tentarte menos. 
+Escorpión, de hecho, le estará dando a tu vida romántica la ocasional agradable inyección durante todo el otoño; lo que podría proporcionarte, como mínimo, una semiestable pareja  con quien pasar la temporada navideña. ¡Buena suerte!
 
-
-En noviembre, cuando Mercurio se torna retrógrado en Capricornio, puede que necesites más tiempo para tomar decisiones. Cuando la fase retrógrada termine, con Mercurio en Escorpión a principios de diciembre, el amor se muestra mejor y más genuino.
-
-
-En octubre y la primera mitad de noviembre, Venus se torna retrógrado, primero en Escorpión y terminando en Libra. Los problemas en las relaciones ahora pueden confrontarse y mejorarse.
-
-## Amor Solteros
-
-Durante el 2020, puedes encender esa luz amorosa característica del León y ser muy popular. No tendrás que decir o hacer mucho para llamar la atención, sobre todo en Julio y Agosto. 
-Para los Capricornio solteros con intenciones de una relación más duradera, la conjunción Venus-Neptuno (1 de Febrero) les permite reexaminar la imagen de su pareja ideal y volver a alinear el deseo de su corazón con el de su cabeza. 
-Venus retrógrado en Capricornio (Julio 25 a Septiembre 6) te otorga un respiro para que experimentes buenos momentos con un interés amorosos más serio. 
-Las conjunciones Venus-Marte (21 de Febrero, 31 de Agosto y 2 de Noviembre) a veces pueden ser explosivas. Si tienes un involucramiento profundo con alguien, podría ser increíble. Si te encuentras en una relación difícil, simplemente deja que las cosas se enfríen durante unos días. 
-Gozas del beneficio de la energía de la Luna en Libra durante todo el 2020, ayudándote a atraer a prospectos románticos como abejas a la miel; o si así lo quieres, con mucho tacto puedes alejarte de ellos mientras te retiras elegantemente. Puede que tu mayor impacto en el mundo de las citas sea en Septiembre. 
 
 ## Trabajo
 
-En el 2020, tanto dinero como oportunidades laborales querrán encontrarte; y puede que seas capaz de quedarte con la mayor parte de lo que ganes. Sé paciente, analiza bien cada oferta que recibas y no te dejes presionar para tomar decisiones rápidas.
-El dinero se vislumbra más abundante en los primeros dos meses, por lo que ahorra tanto como puedas. De lo contrario, esos podrían ser días en lo que el dinero se vaya como agua. Afortunadamente, Plutón en Capricornio promueve decisiones financieras sólidas, independientemente de las presiones o cambios repentinos que surjan.
-Si estás explorando nuevas posiciones laborales o la expansión de tu carrera actual, el 2020 te trae un progreso lento pero constante.
-Ten fe en tu intuición cuando te enfrentes a situaciones relacionadas con transferencias, promociones u ofertas de empleo. Una conexión kármica podría dirigirte a un lugar mejor, sobre todo en Agosto o Septiembre.
-Ese mismo mes, Mercurio retrógrado alienta tomar decisiones laborales prudentes.
-En la última parte del año, compórtate modestamente en referente a planes financieros e inversiones para posiblemente recibir un reembolso considerable ya sea en Octubre o Noviembre; cuando Júpiter te traiga más suerte y recompensas.
+Los negocios, tu profesión y finanzas se ven fuertes y vibrantes este año, Capricornio. Puede haber algunas ocasiones, en especial a finales de marzo o abril, en que un error de juicio de una pareja o colega provoque un contratiempo o confusión. Sin embargo, tienes muchas habilidades para lidiar con estas cosas.
+
+
+La conjunción entre el sol y Mercurio en septiembre hará que sigas siendo una persona astuta y creativa durante todo el año.
+
+
+Si una gran cantidad de posibles socios se te acerca con propuestas de negocios este año, practica ser más prudente de lo normal. Pueden ser sugerencias válidas, pero más para el largo plazo que para el corto plazo.
+
+
+Maneja las finanzas con cuidado y habrá menos sorpresas (si las hay) que desaceleren tu flujo de efectivo. Urano se encuentra en transición desde Aries hacia Tauro, para manifestarse en Tauro desde mediados de mayo hasta principios de noviembre. Ten cuidado con los altibajos con respecto al dinero en ese periodo de tiempo.
+
+
+Júpiter se encuentra retrógrado desde marzo hasta principios de julio. Entonces, será más fácil gastar menos y ahorrar más.

@@ -1,15 +1,12 @@
 ---
 layout: amp
-title: piscis 2018 Horóscopo año nuevo 2018 
-description: piscis horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para piscis gratis. Disfruta este año nuevo.
-normallink: /horoscopo-anual/piscis/
+title: Horóscopo Piscis 2021 
 permalink: /horoscopo-anual/amp/piscis/
+normallink: /horoscopo-anual/piscis/
+description: Piscis horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Piscis 2021 gratis. Disfruta este año nuevo.
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo piscis 2018, horoscop, horóscopos gratis, horoscopo piscis, horoscopo piscis 2018 gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Piscis 2021, horoscop, horóscopos gratis, horoscopo Piscis, horoscopo Piscis 2021 gratis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/piscis_anual.png
-horoscopo:
- signo: piscis
- video: i1WwJUzSgEM
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -17,35 +14,42 @@ sitemap:
 
 
 
-## Vida Personal
 
-El 2018 es un año de gran potencial y crecimiento personal. También habrá trabajo arduo y éxito, pero es posible que tu mayor progreso sea hecho internamente en vez de externamente.
-La conjunción Sol-Plutón en Capricornio que sucede al inicio del 2018 mantiene tus ojos puestos en los premios materiales. La conjunción Marte-Neptuno mantendrá vivos tus amores, ideales y más altas esperanzas.
-La Luna y Venus también estarán en conjunción en piscis conforme el 2018 comienza. Esto te ayudará a tener relaciones personales más fáciles y cálidas con la gente.
-Cuando el Sol entra a piscis, la Luna y Júpiter estarán unidos en tu Novena Casa de la expansión y la educación superior. En el 2018, querrás aprender y entender a un nivel más complejo.
-El Eclipse Lunar del 10 de febrero sucederá cuando el Sol se encuentre en piscis. Y el Eclipse Lunar del 7 de agosto sucederá cuando la Luna se encuentre en piscis. Ciertos problemas emocionales podrían salir a la superficie en esos momentos. Pero si muestras tener bondad y buen corazón, las soluciones mismas te encontrarán.
-Tus planetas, Saturno y Urano, son increíblemente poderosos durante todo el año porque estarán formando trígono al inicio del 2018. Tanto nuevas ideas, como nuevos proyectos y personas, la sabiduría y la audacia estarán a tu alcance.
+En el 2021, aprovecha al máximo tus habilidades interpersonales, haz los grandes cambios que deseas y necesitas, y avanza hacia tus metas para el futuro. Vas a tener un sinfín de ideas y puntos de vista, pero puede que te sea difícil activarlos por tu propia cuenta. Habla, establece contactos, encuentra aliados y forma equipos cuando lo consideres apropiado.
+Mercurio, el Sol y Plutón en Capricornio comienzan con energía uno de tus años más prácticos y exitosos. Además, la oposición Júpiter-Urano te permite pensar de una manera tan innovadora y vasta como te apetezca. Piensa en grande y prepárate para hacer grandes cambios antes de que los cambios te encuentren a ti primero.
+El trígono Saturno-Urano te ofrece la disciplina y la libertad necesarias para crear el año que deseas sin sacrificar a aquellas personas o cosas que son importantes para tu felicidad y éxito.
+Venus y Júpiter se oponen poderosamente conforme el Sol entra a Piscis en el mes de mayo, dándote observaciones claras y la capacidad de tomar decisiones basadas en astucia y confianza. Marte también se encontrará en Piscis entonces. ¡Tus baterías se encontrarán completamente cargadas y listas para la acción!
 
-## Amor Parejas
+## Amor para Parejas
 
-¡Nuevas pasiones son encendidas para ti y tu pareja en el 2018! El amor se vuelve más alegre, tal vez con un toque de glamour. Si los niños que llevan dentro se encuentran cerca de la superficie, ¡prepárense para una gran diversión!
-Algunas disputas podrían surgir en Mayo y Junio. Ambos están en búsqueda de soluciones creativas y constructivas hacia algunos problemas, y estos desacuerdos podrían dar lugar a nuevos enfoques que les agraden a ambos. La Luna en Géminis de principios de Julio traerá consigo rápidas resoluciones.
-La generosidad mutua forma parte de esto. Mientras que es bueno ser más compasivos y dadivosos, recuerden que este no es un concurso para ver quién puede ser el más generoso. En Agosto y Septiembre, las influencias de Júpiter y el Nodo Norte Lunar pueden traer nuevos puntos de vista sobre cómo el pragmatismo y la generosidad material pueden funcionar bien juntas.
-Con Marte en Escorpión, la pasión podría alcanzar su punto máximo en Noviembre y Diciembre. Los sentimientos más fuertes requerirán de menos palabras. Vuélvanse más cercanos y cuídense el uno al otro.
+El 2021 estará lleno de pasión y emoción, Piscis, ¡por lo que acepta todo este furor! Sus familiares podrían mantenerles ocupados, pero ambos tendrán más que suficiente energía y enfoque para mantener a todos contentos, incluidos ustedes mismos.
+Comiencen el año alcanzando un claro entendimiento entre ustedes y luego apéguense a él. Si la temporada de primavera se vuelve un tanto tumultuosa en el trabajo para uno de ustedes, no perturbará su vida familiar. Incluso podría acercarles más como pareja.
+El Eclipse Lunar en Libra de Mayo es una oportunidad de unión que los complazca a ambos.
+Si un gasto considerable o una adquisición surgen a finales del verano, ambos  sabrán si es prudente y necesario.
+Ambos estarán dispuestos a hacer sacrificios el uno por el otro, material y emocionalmente. Incluyan tantas bondades simbólicas en su relación como puedan. Los momentos de abrazos serán tan dulces como los momentos apasionados que tengan juntos, especialmente en el otoño.
+Si tienen sueños compartidos (o fantasías) de expandir su familia, Venus podría sonreírle a esta posibilidad a principios del invierno. Cuídense bien el uno al otro entonces también.
 
-## Amor Solteros
+## Amor para Solteros
 
-El Eclipse Solar del 20 de Marzo podría ser un día muy emotivo, cuando la soledad o la insatisfacción te tienten a entablar una relación con alguien que nunca hubieras considerado - o a regresar con una expareja que es tóxica que más bien deberías mantener a distancia. Date tiempo para formarte una perspectiva clara y no simplemente saltes a los brazos de alguien que no es saludable y bueno para ti. Esto va para la mayor parte del año. 
-Por suerte, ¡tendrás una gran cantidad de admiradores y prospectos amorosos este año Cáncer! Así que relájate, sonríe, y tómate tu tiempo antes de aceptar ir a una cita, y sobre todo, comprometerte. 
-Tener paciencia para esto podría ser difícil cuando Venus esté en conjunción con Marte (21 de Febrero, 31 de Agosto y 2 de Noviembre), pero lograr hacerlo bien puede ahorrarte dolores de cabeza al final. 
-El 4 de Marzo es otro día emocionalmente poderoso, cuando Venus está en conjunción con Urano. Puede que sientas atracción a alguien inusual, pero debido a que la Luna se encontrará en el razonable Virgo, todo debería estar bien. 
+El encanto, ingenio mental y la emoción están de tu lado en el 2021. Esto puede hacer que el romance sea fácil de encontrar. Si estás disfrutando de tu libertad, deberías de pasártela de lo lindo antes de que Venus impacte con su retroceso el 4 de marzo.
+No es que las oportunidades románticas y los buenos ratos se vayan a terminar entonces, pero sí es que el ritmo disminuya. De hecho, es posible que estés en estado de ánimo para un descanso. Una vez que Venus avance directamente el 15 de abril, se encontrará en Piscis, para cuando es posible que ya haya ablandado y cambiado tus sentimientos.
+El segundo retroceso de Mercurio del año comienza en Tauro el 9 de abril. Además del aumento habitual en confusión y la desconexión en comunicación, el mundo de las citas podría implicar cosas buenas y más caras, así como un nivel de vida más alto hasta que Mercurio vuelva a entrar a Piscis el 20 de abril y tu fuerte y habitual sentido personal regrese. Cuando el retroceso termine el 3 de mayo, una mejor comunicación también debería de volver. 
+El amor se vuelve más serio en octubre, cuando Júpiter entra al sensual y atractivo Escorpión. Si es que se te antoja encender la llama de la pasión, podrías conseguir eso... ¡y más!
 
 ## Trabajo
 
-Por supuesto, el año comenzando con tal influencia dramática por parte de piscis implica que tu rutina de trabajo sufrirá una explosión de actividad. Tu vida social es igual de ocupada, y puede que tengas que luchar un poco para mantener el equilibrio.
+El primer y el último cuarto del 2021 pueden ser las partes más emocionantes del año, Piscis, pero la mitad del año está lejos de ser aburrida. Ahí es cuando las cosas pueden estar más estables y cuando puedes progresar más en serio.
 
 
-Con Júpiter en Cáncer, tienes acceso a útiles recursos que puedes llegar a utilizar. Lo que hay que recordar es que no tienes que hacerlo todo tú. Saturno está escondido en el reservado Escorpión, así que podrías llegar a sentir que los silencios de los demás implican que tienes que hacer a solas todo lo que haces. Pero no hay que olvidar que Venus está en piscis. Para obtener la ayuda que necesitas, ¡todo lo que tienes que hacer es pedirla!
+Los asuntos relacionados con el dinero o empleo de otra gente podrían competir con los tuyos, sobre todo en febrero y marzo. De todas formas, no te desviarás de tu camino. Podrías convertirte en la persona a la que todos acuden en el trabajo.
 
 
-Sin embargo, mientras tanto, ten cuidado con el dinero. La picadura de Saturno en Escorpión podría hacerte sentir como si pudieras comenzar a gastar, pero es posible que aún sigas siendo objeto de peticiones de dinero. Si un amigo o familiar está en serios problemas, ayúdale tanto como puedas pero no te excedas. Si alguien te está pidiendo extra donaciones o préstamos excesivos, ¡cortésmente di que no o mantenlas a un mínimo!
+Urano entra a Tauro a mediados de mayo. El flujo de efectivo y las acciones podrían volverse erráticas, pero te prepararás para cualquier cosa. A principios de noviembre, Urano se torna retrógrado de nuevo en Aries y es más fácil enfocarse en las motivaciones e intereses propios.
+
+
+Júpiter está retrógrado desde marzo hasta principios de julio. Reestructura presupuestos ahora y haz recortes en los lujos. Saturno está retrógrado desde abril hasta principios de septiembre. Gasta un poco más para ganar un poco más.
+
+
+La fase retrógrada de Marte que se manifiesta en Piscis durante el verano también te anima a moderarte. Por supuesto, con Saturno en Piscis todo el año, será difícil hacerte perder el equilibrio.
+
+

@@ -1,15 +1,12 @@
 ---
 layout: amp
-title: sagitario 2018 Horóscopo año nuevo 2018 
-description: sagitario horoscopo del 2018, amor, trabajo, vida personal. Todas las predicciones para sagitario gratis. Disfruta este año nuevo.
-normallink: /horoscopo-anual/sagitario/
+title: Horóscopo Sagitario 2021 
 permalink: /horoscopo-anual/amp/sagitario/
+normallink: /horoscopo-anual/sagitario/
+description: Sagitario horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Sagitario 2021 gratis. Disfruta este año nuevo.
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2018, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2018, horóscopo esperanza gracia, horoscopo sagitario 2018, horoscop, horóscopos gratis, horoscopo sagitario, horoscopo sagitario 2018 gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Sagitario 2021, horoscop, horóscopos gratis, horoscopo Sagitario, horoscopo Sagitario 2021 gratis, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/sagitario_anual.png
-horoscopo:
- signo: sagitario
- video: qEL67s5J_-8
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
@@ -17,47 +14,54 @@ sitemap:
 
 
 
-## Vida Personal
 
-El 2018 es tu tipo de año, Cáncer, cuando puedes encender ese brillante encanto lunar que tienes y  ¡asegurarte de que las personas en tu vida sean las que más anhelas cerca de ti!
-Tus familiares y amigos son resaltados de todas las mejores maneras, con muy poco o ningún estrés o complicaciones.
-El romance también es un punto fuerte para ti. Cuando tu pareja o intereses amorosos querrán escucharte y hacerte feliz. Permite que te hagan su prioridad en el 2018.
-Habrá muchas sorpresas y tendrás oportunidades para crecer y avanzar en el mundo. En el 2018, levanta algunas cejas y haz nuevos aliados en tus causas favoritas. Esto mantendrá tu periodo de primavera emocionante e interesante.
-Mercurio tendrá sus retrocesos en signos de Tierra este año. Entonces, tómate tu tiempo y construye una base firme para la vida cotidiana que deseas crear para ti.
-El Eclipse Solar de Marzo se manifiesta en Piscis y podría brevemente hacer al mundo muy emocional, pero tú le harás frente a esto mejor que la mayoría de los otros signos. No te estreses, respeta tu salud, ¡y disfruta de un encantador año!
-
-## Amor Parejas
-
-Tus relaciones gozan de una hermosa y brillante luz a lo largo del 2018. Con Júpiter en sagitario durante la mayor parte del año, tanto las parejas románticas como tus aliados son tremendamente importantes y atesorados. Si la extravagancia surge, juntos, pueden retirarse y evitar ser arrastrados por el deseo y la lujuria.
-Venus, tu planeta regente, estará retrógrado durante la primavera. Tal movimiento comenzará en el egoísta Aries, pero concluirá en el empático Piscis. Cualquier rastro de egoísmo será vencido por un espíritu más generoso y profundamente amoroso.
-A medida que el Sol entra a sagitario, el asteroide Ceres se encontrará a punto de salir del doméstico y tradicional Cáncer. El deseo y el impulso para cuidarse mutuamente nunca se desvanecerá durante todo el año.
-Venus se encontrará entrando a Virgo en ese mismo momento también. Esto aumentará aún más las posibilidades de una vida hogareña cómoda, agradable y cariñosa.
-Júpiter entrando a Escorpión en octubre sólo profundiza y fortalece el verdadero amor, la autenticidad, la integridad y la expresión de la verdadera intención amorosa.
-Si diciembre trae demandas y presiones del mundo profesional, eso no arruinará tu espíritu festivo. Saturno y el Sol en Capricornio prepararan el terreno para una maravillosa pero realista Noche de Año Nuevo que será rica en respeto mutuo.
-
-## Amor Solteros
-
-Mercurio y Venus, ambos vitales para la tarea de comunicar tus pensamientos de forma tanto verbal como no verbal, están involucrados en un peculiar tango durante todo el año. Venus comienza el año retrógrado, y para tus propósitos, principalmente obstaculiza cualquier posibilidad de que alcances a nuevos amigos a los que posiblemente quieras acercarte un poco más.
+A veces, cuando las personas dicen lo correcto, no sólo están animando a la persona que está pidiendo ayuda - a menudo se están ayudando a sí mismas. El 31 de Enero, la Luna conjunta a Mercurio en Sagitario, lo que desencadena un periodo de tiempo durante el cual tienes mucho que ofrecerles a los demás.
 
 
-Pero a medida que avanza el año, Mercurio entra a sagitario el 17 de Marzo, seguido por Venus el 5 de Abril. A este punto, si has fijado tu mirada en alguien, todo se ha alineado - incluso la Luna está en Cáncer para formar un lindo trígono con Venus y decir: "¿Te has preparado para que dos personas se conviertan en una?" Eres tú quien decide.
+Después, cuando Mercurio inicia su retroceso y aterriza en Acuario el 12 de Febrero, una amistad podría volver y corresponder a tu  ayuda de alguna manera. Aprovecha esto. Una buena acción siempre merece otra, y para ti, ¡esa "otra" podría ser beneficiosa para el resto del año!
 
 
-Cáncer, por supuesto, estimulará sentimientos de permanencia, lo que será aumentado por las influencias de los Signos de Fuego durante el verano conforme Júpiter entra a Leo el 16 de Julio, y el Sol y Mercurio se unen al rey de los planetas en las próximas semanas.
+Algo que necesitas recordar es mantener tu ritmo. Algunas personas podrían estar tratando de tomar ventaja de tu buena naturaleza. Con Marte y Saturno en Escorpión en Agosto, alguien podría incluso no ser lo suficientemente sutil al usarte. Mantén tu distancia tanto como puedas, incluso si la astuta persona en cuestión es el amigo de alguien que te importa.
 
 
-Hay un fuego justo por debajo de ti que hace que una relación nueva "importe" en un sentido más profundo. Puede que sientas como si no te hubieras preparado para tomar una decisión tan importante tan pronto, pero si realmente escuchas a tu corazón y tu alma, podrías percatarte de que te has preparado más de lo que piensas.
+No le serás de mucha ayuda a nadie, y menos a ti mismo o misma, si es que tratas de hacer más de lo que puedes sin la promesa de obtener más iluminación.
+
+
+## Amor para Parejas
+
+El 2021 es un año rico en cambios y oportunidades para una mayor y más profunda felicidad para ustedes. Sin embargo, tendrán que expresar los cambios que deseen para así lograr comenzar algunos de ellos.
+Gracias a la conjunción Mercurio-Venus en su carta, tú y tu pareja tendrán los pies en la tierra durante todo el año. Puede que compartan sueños de unas grandes vacaciones o de hacer grandes compras o incluso generosas donaciones a obras de caridad... pero ambos sabrán mantener estos sueños en espera, por lo menos para este año.
+A partir de mediados de verano, tu pareja podría ser el más emocional de los dos, por lo que trátense el uno al otro con mucho cuidado y amor. Apóyense, comuníquense y compartan más en vez de cerrarse y comportarse más necesitada y exigentemente. Cualquier debilidad mostrada les unirá más día con día.
+En el otoño y el invierno, decidan qué eventos sociales y grupales son más satisfactorios y enfoquen su energía y tiempo en ellos. ¡Divertirse puede llegar a ser intenso también!
+
+## Amor para Solteros
+
+¿A veces sientes como si no hablaras el mismo idioma que los demás? Este puede seguir siendo el caso durante la primera parte del año. Ya sea tu intención o no, por desgracia, habrá un tipo de desconexión cuando se trate de amor durante la primera parte del año debido a que Venus en el serio Capricornio ve con recelo a cualquier cosa que sea fuera de lo común.
+
+
+Al mismo tiempo, hay gente que te ve como alguien gracioso o intelectual, pero también inaccesible. El retroceso de Mercurio en Febrero no facilita las cosas tampoco.
+
+
+Sin embargo, tendrás un período de más suerte cuando Venus pase a través de Géminis a finales de Junio y principios de Julio. Es entonces cuando pequeños y reveladores detalles te hacen comenzar a pensar que esa persona que te está mirando es tan interesante para ti como lo eres tú para ella.  
+
+
+La energía del otoño hace que las potenciales conexiones sean mucho más fuertes, sobre todo cuando se elimina la influencia dominante de Saturno en Escorpión. No te sorprendas si te percatas de que estás abriendo interesantes puertas mentales y filosóficas sólo al estar con alguien. ¡Los planetas lo han colocado todo para ti!
 
 
 ## Trabajo
 
-Tu capacidad de captar y procesar información realmente te ayudará al comienzo del año. De buenas a primeras, el 1 de Enero, la fuerte influencia de Capricornio en tu carta te dará un fuerte impulso en relación al mundo de los negocios.
+Ahora que Saturno ha ingresado a su propio signo, Capricornio, tu sol en Sagitario tiene una relación especial con Saturno que simplifica y mejora tu profesión y prospectos financieros en 2021.
 
 
-Si tienes fuertes ideas, Venus en Capricornio te ayudará a hacerlas realidad. Aunque puede que haya cierta resistencia, aún puedes ganarte a la gente si  construyes tu caso de manera constante y con entusiasmo.
+Cuando el sol ingresa a Sagitario, formará una oposición con Saturno. Puedes tomar de forma rápida y fácil algunas decisiones que te llevarán a un ambiente laboral más feliz, quizás un ascenso, y también un poder adquisitivo más grande. Sé más profesional y capaz a lo largo del año.
 
 
-A finales de verano, los planetas entregan algunos mensajes interesantes y enigmáticos, pero aún positivos. Con la Luna en tu signo el 6 de Agosto en complicidad con el Sol, Júpiter, y Mercurio en Leo, se te podrían dar las llaves a una o dos puertas que conduzcan a más prosperidad. Incluso si recibes algunas señales cuestionables y no tienes seguridad de todos los detalles, puedes aún tomarte tiempo para resolver todo ello.
+La clave está en ser una persona más enérgica y promociónate en febrero. Sé una persona más práctica e ingeniosa en abril. Si una jugada arriesgada tiene éxito ahora, tendrá una gran capacidad para perdurar.
 
 
-Tu dinero no se irá a ninguna parte a menos que se lo pidas, y si hay un problema, lo encontrarás. En general, mientras que el año requiere de pensamiento rápido en muchos asuntos, la influencia de Leo en ti es magnánima y permite cierto margen de maniobra para tomar las decisiones correctas en su propio tiempo. Sólo recuerda que los resultados no siempre son demasiado buenos para ser verdad. ¡A veces pueden ser ambas cosas!
+Tu habilidad para establecer contactos puede alcanzar su punto máximo en julio. La fase retrógrada de Júpiter también termina ahora, lo que te trae más aliados posibles y personas que saben jugar en equipo. Sin embargo, la fase retrógrada de Marte ahora está en camino, y esto podría hacerte aminorar la marcha lo suficiente como para evitar cualquier paso en falso.
+
+
+La fase retrógrada de Saturno termina luego de la primera semana de septiembre. Tu juicio profesional y financiero sigue mejorando. Esto, sumado a tu intuición, te pone a la delantera. Para fin de año, tu saldo debería estar a favor sin problemas.
+
+

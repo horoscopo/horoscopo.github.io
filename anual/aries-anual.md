@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Aries Horóscopo año nuevo 2020 
-description: Aries 2020 Año Nuevo, amor, trabajo, vida personal. Todas las predicciones para Aries gratis. Disfruta este año nuevo.
+title: Aries Horóscopo 2021 
+description: Aries horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Aries 2021 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/aries/
+amplink: /horoscopo-anual/amp/aries/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2020, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2020, horóscopo esperanza gracia, horoscopo Aries 2020, horoscop, horóscopos gratis, horoscopo Aries, horoscopo Aries 2020 gratis, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Aries 2021, horoscop, horóscopos gratis, horoscopo Aries, horoscopo Aries 2021 gratis, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/aries_anual.png
 sitemap:
  priority: 0.5
@@ -13,35 +14,50 @@ sitemap:
 
 
 
-## Vida Personal
 
-En el 2020, eres una estrella en ascenso Aries. Todo tu arduo trabajo será reconocido y recompensado. La mayor parte de tu trabajo será mental y nunca carecerás de brillantes ideas, muchas de ellas aparentemente intrascendentes en el momento.
-Este año, reconocerás el potencial que otros podrían pasar por alto. La oposición Luna-Saturno en tu carta de este año garantiza cuidadosos pensamiento y planificación que no te defraudarán. Por su parte, la conjunción Mercurio-Plutón te dará el coraje necesario para ser audaz, pero sólo cuando sea prudente.
-Tu vida amorosa y vida social se vislumbran importantes, manteniendo tus días felices y ocupados en hermosos entornos y con gente encantadora. Aprópiate del lugar que te mereces y brilla.
-Un apetito por conocimiento y aventura podrían surgirte de la nada, y encontrarás maneras prácticas de satisfacer estos anhelos. El fuerte posicionamiento de Marte en Escorpión no te permitirá quedarte en sólo un lugar por mucho tiempo.    
-El progreso de tu carrera profesional será constante este año y puede conducirte gradualmente a un gran éxito. Saturno en Sagitario es tu amigo. ¡Aprovéchalo!
+Este es un año extremadamente importante para tu poderoso signo. Varios tránsitos traen un tira y afloja en puntos importantes de tu carta astral, lo que trae perspectivas completamente nuevas, y también requiere que tomes decisiones que contribuyan tanto a tu vida familiar como profesional.
+Esto combina varias áreas de tus asuntos personales y te pide analizar detenidamente tus acuerdos a largo plazo desde una perspectiva de liderar, cuidar y sanar. Como el 2021 trae una influyente cuadratura entre Jupiter en Acuario y Urano en Tauro, esto crea una prominente cuadratura en T en tu propia carta astral. Esta puede ser una energía astrológica difícil, y la experimentarás más puntualmente a mediados de febrero, a mediados de junio y a finales de diciembre, pero que en general lleva a un cambio radical en tu vida. Puede que haya muchos eventos no planificados que a fin de cuentas deciden tu destino y afectan tu vida doméstica y profesional. Hasta podrías considerar cambiar de trabajo o tener algún tipo de traslado.
+Marte, tu planeta regente, entra a un ciclo retrógrado en Capricornio entre el 28 de junio y el 7 de octubre, y este período de tiempo será un momento clave para revisar lo que todavía necesitas alcanzar para empoderarte y recuperar tu autoridad personal en ciertas áreas donde habías perdido tu confianza. Algunos te ven desde afuera y no tienen idea de lo que está burbujeando bajo la superficie. No pierdas de vista el panorama completo, y siempre recuerda que el universo quiere que tengas éxito en cualquier cosa que te propongas, y este año no es la excepción a esa regla.
 
-## Amor Parejas
+## Amor para Parejas
 
-Con Júpiter en el amable y amoroso Libra durante la mayor parte del año, las relaciones se ven especialmente favorecidas en el 2020. Tanto la generosidad como los compasivos sentimientos les mantendrán juntos y en ocasiones podrán suavizar sus desacuerdos o diferentes puntos de vista.
-Venus, el planeta del amor, estará en el curioso y parlanchín Géminis cuando el Sol entre a Aries. Deberían de ser capaces de hablar de cualquier cosa y tener discusiones sustanciales y decisivas durante este periodo de tiempo.
-Venus retrocederá en Aries desde principios de marzo y luego en Piscis hasta mediados de abril. Tu vida amorosa podría volverse más rica, más calmada y más tranquila entonces.    
-En octubre, cuando Júpiter se desplaza hacia el serio y atractivo Escorpión, las parejas podrían volverse aún más estrechas. La honestidad, la integridad y la devoción mutua serán esenciales. La intimidad física también puede intensificarse.
-
-## Amor Solteros
-
-Desde el principio, el 2020 será definido por particulares momentos. Sin embargo, parecerá estar lleno sólo de pequeños coqueteos inconexos sin llegar a nada estable. Una prometedora cita podría convertirse en una modesta amistad después de un tiempo, o alguien podría parecer prometedor, pero podría tener demasiados problemas o defectos como para que quieras profundizar la relación. Pero en medio de estas frustrantes e intermitentes asociaciones, hay una amistad sutil y lenta que se está construyendo por debajo de la superficie, tal vez incluso escapando de tu atención.
+Ábranse camino a través del 2021 como un equipo tranquilo y eficiente. El año puede empezar rápido mientras el sol forma una conjunción con Plutón en enero. Después de eso, ambos estarán más en control de sus vidas románticas y domésticas.
 
 
-Esto es algo que posiblemente no proceda de la forma en que un romance de cuento de hadas haría. A medida que avanza, podría estar yendo un paso por delante, como lo hará cuando la Luna en Géminis forme trígono con Marte en Aries el 28 de Mayo para abrirle las puertas a la comunicación.
+Mercurio retrógrado en Aries brinda una oportunidad para replantear y redistribuir responsabilidades domésticas. Podría ser tan fundamental como hacer más espacio en las agendas de ambos para más trabajo. El amor y la vida diaria siguen mejorando.
 
 
-Posteriormente podría dar un paso atrás alrededor del 18 de Noviembre, cuando Saturno forme una difícil conjunción con el Sol en Escorpión, creando barreras que no se superan inmediatamente. Puede que tengas que tratar a la relación como un juego de habilidades, ¡pero la empatía será la estrategia definitiva para el éxito!
+Abril y mayo prometen emoción y placeres sensuales de todo tipo. La luna está en el sensual pero sensible Tauro cuando el sol ingresa a Aries, cuando te puede atraer más darte gustos con comida y darte baños de espuma. Una escapada romántica durante este periodo sería genial. 
 
+
+El trabajo puede competir con el amor mientras Marte se torna retrógrado en Capricornio desde finales de junio hasta agosto. Después, la felicidad debería ser incuestionable y fácil, y posiblemente más accesible desde agosto hasta septiembre.
+
+
+En octubre y noviembre, Venus se torna retrógrado en Escorpión, terminando en Libra. Deben tomarse en serio, esforzarse en su relación, y tratar de tener una relación más fuerte y dulce. En noviembre, Júpiter ingresa a Sagitario y el amor se vuelve incluso más generoso.
+
+
+
+
+
+## Amor para Solteros
+
+El mundo de las citas será intenso y constante para los Aries durante la mayor parte del 2021. Con Júpiter en Libra durante diez meses del año, puedes salir y conocer a tantos nuevos prospectos románticos para los que tengas la suficiente energía.
+Venus estará retrógrado en marzo y principios de abril, lo que puede darte la oportunidad de recuperar tu aliento socialmente. Una vez que Venus avance directamente una vez más, el romance reanuda su luminoso brillo. También es un mejor período de tiempo para hacer un compromiso.
+Conforme Júpiter entra a Escorpión el 10 de octubre, los amantes pueden volverse más serios y hacer demandas más serias. Tú sientes comodidad con esto y puede que hasta lo prefieras. Cuando conectes con alguien que es tan dedicado y serio como tú lo eres, lo sentirás al instante.
+Diciembre también será un mes con un tono serio con el Sol y Saturno encontrándose en el pensativo y determinado Capricornio. Los temas relacionados al amor deberían de empezar a funcionar mejor para ti.
 
 ## Trabajo
 
-Si ya tienes trabajo Aries, puede que recibas una promoción o se espere que asumas más responsabilidad este año. 
-Si estás buscando trabajo o una nueva posición, es buen momento para ello. Es probable que hayas estado en entrenamiento, formado parte de un programa educativo, prácticas de algún tipo (incluso aunque no hayas estado consciente de ello como tal) y fácilmente podías pasar a una asignación de espera en el 2020, posiblemente a finales de Junio (cuando tendrás más energía y motivación personal) o en Noviembre (cuando proyectarás más autoridad). 
-Financieramente, tu mayor preocupación es evitar tener excesiva caridad hacia los demás. Incluso si tienes más de lo necesario, el exceso de generosidad puede conducirte a problemas. Simplemente sé realista, sobre todo a finales de Agosto. 
-Con tantos planetas en Signos de Fuego este año, la acuosa energía de Aries será un bienvenido alivio en tu lugar de trabajo. ¡Utiliza esto a tu ventaja durante todo el año!
+El año está lleno de oportunidades para ganar dinero, Aries. Baja la velocidad un poco y verás que las oportunidades pueden haber estado corriendo detrás de ti. Dales la oportunidad de alcanzarte. 
+
+
+Con Saturno ahora en Capricornio, todos se están esforzando por ser más eficientes y responsables. Tus métodos serán diferentes a los de los demás. Sabes lo que te funcionó en el pasado. Sele fiel a eso.
+
+
+Júpiter se encuentra retrógrado en el signo fijo de Escorpión desde marzo hasta principios de julio. Esto te favorece, ya que Aries es un signo fijo, y entiendes cómo apegarte a una agenda u objetivo. Sé paciente contigo y con tu progreso, y mantente dentro del presupuesto.
+
+
+Con respecto a tu profesión, es posible que quieras moverte demasiado rápido o ir demasiado lejos. La fase retrógrada de Marte desde finales de junio hasta finales de agosto se asegura de que te lo tomes con calma. 
+
+
+Progresa, sé una persona más productiva, ahorra la mayoría y empieza a construir desde ahí.
