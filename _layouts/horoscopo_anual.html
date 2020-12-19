@@ -13,12 +13,12 @@ ads: ["adsense"]
 	<h1 class="panel-title" rel='bookmark'><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a></h1>
 
 	{% include adsense.html %}
-	    <div>
+        <div>
 	      <ul class="pager">
-		<li><a href="{{ site.url }}/horoscopo-diario-gratis/{{ page.horoscopo.signo }}/">Hoy</a></li>
-		<li><a href="{{ site.url }}/horoscopo-semanal-gratis/{{ page.horoscopo.signo }}/">Semanal</a></li>
-		<li><a href="{{ site.url }}/horoscopo-mensual/{{ page.horoscopo.signo }}/">Mensual</a></li>
-		<li><a href="{{ site.url }}/horoscopo-anual/{{ page.horoscopo.signo }}/">{{ page.horoscopo.signo }} 2021</a></li>
+		<li>{% if page.horoscopo.signo %}<a href="{{ site.url }}/horoscopo-diario-gratis/{{ page.horoscopo.signo }}/">{% else %}<a href="{{ site.url }}/horoscopo-de-hoy/">{% endif %}Hoy</a></li>
+		{% if page.horoscopo.signo %}<li><a href="{{ site.url }}/horoscopo-semanal-gratis/{{ page.horoscopo.signo }}/">Semanal</a></li>{% endif %}
+		<li>{% if page.horoscopo.signo %}<a href="{{ site.url }}/horoscopo-mensual/{{ page.horoscopo.signo }}/">{% else %}<a href="{{ site.url }}/horoscopo-mensual/">{% endif %}Mensual</a></li>
+		<li>{% if page.horoscopo.signo %}<a href="{{ site.url }}/horoscopo-anual/{{ page.horoscopo.signo }}/">{{ page.horoscopo.signo }}{% else %}<a href="{{ site.url }}/horoscopo-anual/">Horóscopos{% endif %} 2021</a></li>
 	      </ul>
 	    </div>
       </div>	<!--/Titulo del panel -->
@@ -27,11 +27,6 @@ ads: ["adsense"]
       <div class="panel-body">
       
       {{ content }}
-      {% if page.horoscopo.video %}
-      <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ page.horoscopo.video }}" allowfullscreen></iframe>
-      </div>
-      {% endif %}
       
       {% include adsense.html %}
       
@@ -45,7 +40,7 @@ ads: ["adsense"]
 
 <div class="row">
   <div class="col-sm-8">
-  {% include signos-hoy-foot.html %}
+  {% include signos-anual-foot.html %}
   </div>
   <div class="col-sm-4">
   <div class="fb-page" data-href="https://www.facebook.com/horoscopodeldiagratis/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/horoscopodeldiagratis/"><a href="https://www.facebook.com/horoscopodeldiagratis/">Horóscopos del dia</a></blockquote></div></div>

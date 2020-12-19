@@ -7,6 +7,8 @@ description: Acuario horóscopo del 2021, amor, trabajo, vida personal. Todas la
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Acuario 2021, horoscop, horóscopos gratis, horoscopo Acuario, horoscopo Acuario 2021 gratis, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/acuario_anual.png
+horoscopo:
+ signo: acuario
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

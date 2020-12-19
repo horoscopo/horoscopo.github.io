@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_anual
 title: Capricornio Horóscopo 2021 
 description: Capricornio horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Capricornio 2021 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/capricornio/
@@ -7,6 +7,8 @@ amplink: /horoscopo-anual/amp/capricornio/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Capricornio 2021, horoscop, horóscopos gratis, horoscopo Capricornio, horoscopo Capricornio 2021 gratis, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/capricornio_anual.png
+horoscopo:
+ signo: capricornio
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

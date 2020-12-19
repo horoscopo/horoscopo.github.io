@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_anual
 title: Géminis Horóscopo 2021 
 description: Géminis horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Géminis 2021 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/geminis/
@@ -7,6 +7,8 @@ amplink: /horoscopo-anual/amp/geminis/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Géminis 2021, horoscop, horóscopos gratis, horoscopo Géminis, horoscopo Géminis 2021 gratis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/geminis_anual.png
+horoscopo:
+ signo: geminis
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

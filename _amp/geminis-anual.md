@@ -7,6 +7,8 @@ description: Géminis horóscopo del 2021, amor, trabajo, vida personal. Todas l
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Géminis 2021, horoscop, horóscopos gratis, horoscopo Géminis, horoscopo Géminis 2021 gratis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/geminis_anual.png
+horoscopo:
+ signo: geminis
 sitemap:
  priority: 0.5
  changefreq: 'yearly'

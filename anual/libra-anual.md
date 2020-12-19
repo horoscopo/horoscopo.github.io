@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_anual
 title: Libra Horóscopo 2021 
 description: Libra horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Libra 2021 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/libra/
@@ -7,6 +7,8 @@ amplink: /horoscopo-anual/amp/libra/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Libra 2021, horoscop, horóscopos gratis, horoscopo Libra, horoscopo Libra 2021 gratis, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/libra_anual.png
+horoscopo:
+ signo: libra
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
