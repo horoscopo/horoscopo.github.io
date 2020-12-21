@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 14 de diciembre 2020 al 20 de diciembre 2020 
-description: Horóscopo semanal acuario 14 de diciembre 2020 al 20 de diciembre 2020. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca acuario.
+title: acuario 21 de diciembre 2020 al 27 de diciembre 2020 
+description: Horóscopo semanal acuario 21 de diciembre 2020 al 27 de diciembre 2020. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-14'
+ lastmod: '2020-12-21'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca acuario.
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace acuario… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas acuario, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate. La semana comienza con un poco de complacencia, en la que podrías disfrutar de una sesión de mimos o de una maratón de compras por diversión. ¿Y por qué no? Te lo mereces, después de haber trabajado tanto últimamente. 
-El dinámico Marte, tu planeta regente, se vuelve retrógrado en tu sector social el martes, y permanecerá así hasta el Viernes. Tus niveles de energía podrían tornarse más erráticos, y este aspecto también puede coincidir con demoras en planes y proyectos de suma importancia. Lo mejor es no aceptar nada muy importante hasta que haya transcurrido esta fase. A mitad de semana, la luna llena en Capricornio y en tu sector de carrera podría ser una llamada a tomar una importante decisión, pero puede que quieras esperar un día más o menos hasta que sientas una mayor tranquilidad y puedas tomar decisiones más inteligentes. Por último, puede que quieras comenzar un nuevo pasatiempo o deporte.
+Ojalá pudiéramos tener un botón de reinicio en la vida acuario, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados. Hay mucha acción en tu sector de comunicación que puede ser muy productiva en las próximas semanas. Esta puede ser una excelente oportunidad para ampliar tu red de contactos, negociar y discutir importantes contratos o negocios. Aunque puede que sientas deseos de hacer avanzar las cosas, tu energía podría disminuir considerablemente una vez que Marte conecte con Saturno a mitad de semana y con Neptuno el viernes. Puede que tengas que aligerar tu horario y tomar las cosas con más lentitud. Volverás a la normalidad la próxima semana.
 
 ## Dinero
 
-Ciertas personas que conoces pueden bien servir a tu sector de deuda y dinero compartido. Ganarás más dinero cuando explotas las conexiones que ya tienes. Tus ideas son válidas. Sólo necesitas ayuda y financiamiento para seguir adelante. No te vendas por menos. Tienes todo lo que necesitas para tener éxito ahora.
+Esta semana es sobre la energía que recibes del Universo que afecta a tu vida laboral. Es posible que desees asociarte con alguien que no conoces muy bien con el fin de terminar cierto trabajo, o aliarte con otras personas que quieren salir adelante. No te aproveches ni de los demás o del poder que tengas. Un paso lento pero constante gana la carrera. Formula tu estrategia con prudencia.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 14 de diciembre 2020 al 20 de diciembre 2020 
-description: Horóscopo semanal capricornio 14 de diciembre 2020 al 20 de diciembre 2020. Empieza a hacerte promesas a ti mismo capricornio, empieza a prometerte amor propio, hoy y siempre. 
+title: capricornio 21 de diciembre 2020 al 27 de diciembre 2020 
+description: Horóscopo semanal capricornio 21 de diciembre 2020 al 27 de diciembre 2020. Crece capricornio, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-14'
+ lastmod: '2020-12-21'
 ---
 
 
 
-## Empieza a hacerte promesas a ti mismo capricornio, empieza a prometerte amor propio, hoy y siempre. 
+## Crece capricornio, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 
-El mundo puede esperar capricornio, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate capricornio, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada. Prepárate para encantarle ya sea a un jefe o superior o sonreírle con dulzura y persuadir a una persona de autoridad con el fin de salirte con la tuya. Venus en la parte más superior de tu carta te presta una gran cantidad de carisma, facilitando que las cosas salgan a tu favor. Aun así, una conexión incómoda entre Júpiter y Saturno sugiere que es posible que sientas restricción debido a responsabilidades hogareñas. Delega lo más que puedas y también debes saber que lo más seguro es que tal situación se calme durante las próximas semanas.
+Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande capricornio, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. capricornio, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara. Ahora te encuentras en un período natural en que el cosmos te lleva a tomar distancia de la vida y reflexionar sobre tu progreso. Mientras el Sol ingresa cada vez más a tu sector de espiritualidad, esto puede ser una oportunidad de llegar a un cierre en asuntos que pueden haberte estado molestando por algún tiempo. Tomarte un momento para hablar con la persona o personas en cuestión, y liberar algún sentimiento herido, puede ser un gran paso hacia la paz mental.
 
 ## Dinero
 
-Hay mucho positivismo en tu camino esta semana. Puede que estés tratando de decidir si debes reforzar tu educación en cuestiones de dinero o comenzar a enseñarle a otros lo que ya conoces. Cuidado con el síndrome de sabelotodo, cuando uno cree saber todo lo que hay que saber. El Universo indica que el éxito de tu futura carrera, por no hablar de tu éxito financiero, depende de tu capacidad de ser una autoridad en tu campo sin creer que no hay nada más que aprender.
+Puede parecer como si estuvieras yendo hacia atrás con ciertos aspectos en tu sector de efectivo y valores. Es posible que estés pensando en dinero, pero ciertas cuestiones siguen interponiéndose o atrasándote. Es desesperante y, afortunadamente, temporal. La buena noticia es que es fácil comunicarse en todas las áreas de tu vida. Si necesitas un préstamo de banco, organiza toda tu documentación y lánzate a ello.

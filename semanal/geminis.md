@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 14 de diciembre 2020 al 20 de diciembre 2020 
-description: Horóscopo semanal geminis 14 de diciembre 2020 al 20 de diciembre 2020. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: geminis 21 de diciembre 2020 al 27 de diciembre 2020 
+description: Horóscopo semanal geminis 21 de diciembre 2020 al 27 de diciembre 2020. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-14'
+ lastmod: '2020-12-21'
 ---
 
 
 
-## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 
-Llega una etapa buena geminis, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no geminis. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea… Podrías enfrentarte a una oposición que haga que tu confianza disminuya un poco. Sin embargo, con el Sol en el feroz Aries, puede que sea momento de tomar el control diciéndoles a los demás cómo te sientes. Podría haber formas de llegar a un compromiso, incluso si esto significa cambiar tus planes originales. Aun así, con Mercurio y Saturno volviéndose retrógrados esta semana, es mejor no apresurarte. Tómate el tiempo necesario para asegurarte de que todas las bases estén cubiertas. Es lo mejor de cara al futuro.
+Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver geminis, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
+ hasta que empieces a sentir que realmente merece la pena. La semana por delante puede ser excelente para los negocios siempre y cuando tengas disposición a investigar los hechos y no asumir absolutamente nada. Con Venus conectando con Saturno y Neptuno, tener un enfoque realista es esencial si es que vas a sacarle el mayor provecho a ciertas discusiones u ofertas. Es posible que tengas que andarte con cuidado en relación a un conflicto con tu pareja o un miembro de tu familia. Las cosas podrían estallar el viernes, por lo que acude al tacto y la diplomacia para mantener las cosas en calma.
 
 ## Dinero
 
-Puedes lograr cualquier cosa que te propongas esta semana. ¿Te acuerdas de esa lista de tareas que está  haciendo un agujero en tu bolsillo? Esta es la semana indicada para hacerle frente a los elementos más difíciles. ¡No te puedes negar a hacerlo! La suerte y la creatividad ayudan a que tu vida social explote. Así que, junta a los contactos que tengas para ver cómo se pueden ayudar mutuamente a subir la escalera del éxito. De esta manera, todo el mundo gana.
+Es una semana difícil para ti. Es tu responsabilidad decir lo que necesitas decir de una forma amable y gentil. Pero cuando se trata de tu vida hogareña y emociones internas, puede ser difícil reunir ese tipo de paciencia. En vez, puede que sientas presión y falta de respeto al tratar de salir adelante. La semana que viene será mejor en general.
