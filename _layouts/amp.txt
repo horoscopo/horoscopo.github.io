@@ -33,6 +33,16 @@
       {% endif %}
 
       {{ content }}
+      
+      {% if page.video %}
+      <amp-iframe width=300 height=300
+         sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
+         layout="responsive"
+         frameborder="0"
+         src="https://www.youtube.com/embed/{{ page.video }}">
+      </amp-iframe>  
+
+      {% endif %}
 
       {% if ogimg %}
       <amp-img src="{{ site.url }}{{ page.ogimg }}" width=527 height=193 layout="responsive"></amp-img>

@@ -40,6 +40,12 @@ ads: ["adsense"]
     {% include adsense.html %}
       {{ content }}
     {% include adsense.html %}
+    
+    {% if page.video %}
+      <div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ page.video }}" allowfullscreen></iframe>
+      </div>
+      {% endif %}
     </div>
     <!--/Cuerpo del panel -->
     <!--Extra -->
