@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 21 de diciembre 2020 al 27 de diciembre 2020 
-description: Horóscopo semanal aries 21 de diciembre 2020 al 27 de diciembre 2020. Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
+title: aries 28 de diciembre 2020 al 03 de enero 2021 
+description: Horóscopo semanal aries 28 de diciembre 2020 al 03 de enero 2021. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud aries, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,19 +12,15 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-21'
+ lastmod: '2020-12-28'
 ---
 
 
 
-## Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
+## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud aries, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 
-No te calientes aries, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no aries, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien aries, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada. A partir de esta semana, las nuevas influencias podrían darle una chispa adicional a tu vida social. La luna nueva en este sector el martes puede ser una excelente oportunidad para hacer cambios que traigan más satisfacción a esta área. 
-Sin embargo, debido a que el encantador Urano ingresa a este sector el mismo día para quedarse por muchos años, tu gusto por las amistades y los grupos podría alterarse de forma drástica. 
-También el mismo día, el vital Marte ingresa a Acuario y a tu sector de bienes compartidos e intensas emociones. Esta puede ser una oportunidad para escarbar en lo profundo y resolver cuestiones que has estado cargando durante algún tiempo.
-Debido a que el encantador Venus ingresa a tu signo el sábado, serás una atractiva opción y estarás a punto de salir y disfrutar de entablar nuevas conexiones. 
-La entrada del sol a tu sector espiritual el domingo puede ser una oportunidad para darte un respiro de la vida y reflexionar sobre tus planes futuros.
+No eres frágil aries, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo aries, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra aries, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz aries, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando aries, y sabes lo complicado que es salir de ahí después… Los viajes y emprendimientos educativos podrían resultarte muy atractivos, en especial porque puede que tengas grandes deseos de expandir tus horizontes. Es un buen momento para dejar que tu curiosidad te lleve a nuevas e interesantes aventuras. Puede que también tengas algunas dudas que hagan que pongas el freno. Posiblemente, esto se debe a la fase retrógrada del curioso Mercurio. Las palabras de una de tus sabias amistades pueden ser de utilidad en este momento, lo que te inspira de muchas maneras.
 
 ## Dinero
 
-Cierta actividad en tu sector de dinero recibido corresponde a un tiempo de golpes de suerte en tal sector. Los sueños y flashes psíquicos te pueden dar todo tipo de mensajes acerca de cómo ganar más dinero. No los descartes, ya que contienen la sabiduría que requieres. Es fundamental ser realista y no idealista en cuanto a tu dinero.
+Es una semana de subidas y bajadas para ti. Por un lado, gran parte del enfoque de esta semana es sobre el dinero y el estatus. Por otro lado, los aspectos afectarán a tu sector de deuda y el dinero de otras personas. El Universo quiere que resuelvas esto antes de que empeore.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 21 de diciembre 2020 al 27 de diciembre 2020 
-description: Horóscopo semanal virgo 21 de diciembre 2020 al 27 de diciembre 2020. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+title: virgo 28 de diciembre 2020 al 03 de enero 2021 
+description: Horóscopo semanal virgo 28 de diciembre 2020 al 03 de enero 2021. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida virgo, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-21'
+ lastmod: '2020-12-28'
 ---
 
 
 
-## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida virgo, vuelve a brillar.
 
-Mira virgo, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer virgo, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad. El enfoque se desplaza a un sector más espiritual e íntimo de tu carta astral, y es posible que esta etapa dure varias semanas. Esta puede ser una oportunidad para que veas tu vida desde una perspectiva más honesta y busques darles fin a situaciones o relaciones que ya no te hacen bien. Esto incluye toda la carga emocional que podrías dejar atrás. También es un periodo de tiempo durante el cual entender qué te motiva y te inspira puede permitirte tomar decisiones más inteligentes en el futuro.
+El mundo no te entiende virgo, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales virgo, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo virgo, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla. Tu vida financiera continúa floreciendo, aunque tendrás que mantener los pies en el suelo a principios de la semana. No te dejes llevar por ideas que pudieran ser un poco imprácticas. Querrás salir a explorar una vez que el Sol entre a Libra y a tu sector de viajes. Si aún no has reservado unas vacaciones, tal vez deberías hacerlo. Tu sector de finanzas compartidas y negocios recibe un impulso por parte de Marte a partir del jueves. Sentirás motivación para superar problemas y progresar.
 
 ## Dinero
 
-Puede que te pongas las pilas esta semana. Tus habilidades de comunicación están aumentando, mostrando que se puede salir adelante a través de ser firme y claro/a con los que te rodean. Pide lo que deseas y es posible que lo consigas en el trabajo y en tu vida monetaria. Aunque las cosas pueden ser tensas, así que es mejor mantenerse limpios kármicamente hablando. No utilices tus palabras para hacer daño.
+Te enfrentas a un periodo en el que tendrás que frenar el gasto para poder pagar una deuda vieja. Algo con lo que pensaste que habías lidiado en el pasado, de hecho, puede que no haya sido pagado. Puede que los intereses hayan aumentado, por lo que es imperativo que pongas manos a la obra con un plan de pago con el que puedas vivir con el fin de hacerle frente al problema por última vez. Vas a descansar más fácilmente si lo haces.
