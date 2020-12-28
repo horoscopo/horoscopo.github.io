@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de diciembre 2020
-description: Horóscopos del dia de hoy 27 de diciembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de diciembre 2020
+description: Horóscopos del dia de hoy 28 de diciembre 2020 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2020-12-27
+ lastmod: 2020-12-28
 ---
-No te sorprendas cuando destellos de intuición sean encendidos por Venus en Piscis conjuntando a Neptuno. Si se siente bien hacerlo, llévalos contigo hacia el futuro. Mercurio se encuentra a punto de cambiar de signo esta noche. Espera cambios repentinos de humor y diálogo. Está bien, posiblemente alcanzaste el punto máximo dentro de una conversación y es hora de pasar a otra cosa.
+El poder de Marte es más amable al encontrarse en Piscis. No es un renacimiento de la audacia, pero te percatarás de que tal enfoque tiene sus ventajas. (Recuerda lo que te estaba pasando hace dos años y medio). Mercurio iniciando su retroceso esta noche trae consigo déjà vus. Si algo te resulta familiar, tal vez no puedas identificarlo debido a que se te escapó la primera vez.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
