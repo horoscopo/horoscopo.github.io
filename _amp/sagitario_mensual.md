@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo sagitario diciembre 2020 
+title: Horoscopo sagitario enero 2021 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Durante el fin de semana de Luna Llena del 4 de diciembre, tus amigos tienen un trillón de sugerencias sobre qué hacer, así que no habrá escasez de ideas por parte de otras personas. Sólo tienes que buscar tu propia felicidad. La Luna Nueva del 18 de diciembre podría traer consigo momentos de diversión con cenas grupales, noches de películas, o eventos deportivos que alguien más ya hubiera elegido por ti. Puede que no sea el uso más constructivo de tu tiempo, pero el tiempo pasado con amigos bien valdrá la pena y será divertido. El fin de semana del 25 de diciembre tendrá su propia cuota de desafíos, así como momentos de gran placer.
+Siéntete en casa donde quiera que estés durante la Luna Llena del 10 de enero. Es probable que tu propio hogar sea el mejor lugar y puede que te resistas a salir, pero estarás igual de feliz una vez que te hayas decidido a salir. También harás que muchas personas se sientan cómodas y como en casa. La Luna Nueva del 26 de enero le abre muchas puertas a tu vida social. Si has querido entrar a un círculo más lujoso - y caro - de amigos y asociados, podría haber algunas introducciones en tu futuro. Ponte de un ánimo emocional y tal vez hasta ridículo el 30 de enero, cuando la Luna en Cáncer forme trígono con Neptuno.

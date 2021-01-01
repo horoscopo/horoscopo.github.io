@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo capricornio diciembre 2020 
+title: Horoscopo capricornio enero 2021 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
@@ -14,7 +14,4 @@ sitemap:
 ---
 
 
-La conjunción entre la luna y Urano del 10 de diciembre te da la ventaja de la sorpresa si la necesitas. Siempre y cuando no seas imprudente, es probable que tengas éxito. Para la luna nueva del día 13, disfruta de una pasión personal que quizás has descuidado o pasado por alto durante un largo tiempo. Si nadie comparte tu pasión, mucho mejor. La luna llena del 27 de diciembre promueve una vida privada e interna más activa. En lugar de sobrecargarte, enfócate y tómate en serio el tiempo a solas. Una amistad o guía de mucho tiempo puede tener cosas importantes que decirte, o podrías recordar algo valioso y oportuno. 
-
-Días destacados: 18, 22, 23
-Días desafiantes: 14, 30</div>
+El 7 de enero es un día lleno de amor y sueños, cuando la Luna conjunta a Venus y también forma trígono con Neptuno. Goza del espíritu navideño y niégate a permitir que te apresuren o te critiquen. Descansa más de lo normal y tómate tus vitaminas alrededor de la Luna Nueva del 11 de enero, especialmente si tu familia o ciertos asuntos hogareños están drenando tu energía y haciendo que te sientas mayor de lo que eres. Ten bondad con tu propio ser. La Luna Llena del 25 de enero podría estar llena de gente yendo y viniendo y actividades que puede que no te emocionen totalmente. Sin embargo, te encantará tener contacto con tu familia junto a todos esos tradicionales adornos navideños.

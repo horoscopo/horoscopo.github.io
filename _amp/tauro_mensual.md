@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo tauro diciembre 2020 
+title: Horoscopo tauro enero 2021 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Mantente alerta a un golpe de suerte en torno a la Luna Llena del 4 de diciembre. No te preocupes. Espera grandes cosas, incluso amor. Puede que no te ganes la lotería, pero es posible que al menos te escapes de la gripe que todo el mundo tidiciembre Durante la Luna Nueva del 18 de diciembre, alguien podría querer que te ocupes de algo que es más que un favor menor. Responde prácticamente y haz lo que puedas si piensas que es apropiado, o simpáticamente reúsate si piensas que es irrazonable o está más allá de tus capacidades. No sientas arrepentimiento al respecto. El 29 y 30 de diciembre son los principales días para informarte y mostrar tu inteligencia.
+La conjunción entre la Luna y Venus y el trígono entre la Luna y Neptuno del 3 de enero traen consigo sueños y oportunidades románticas. Protege tus sentimientos. Un desafío inesperado podría surgir en torno a los días de la Luna Llena del 15 de enero. Podría ser intrascendente, pero hay el riesgo de que reacciones exageradamente. Si sientes agobio, da un paso atrás y date más espacio. Puedes con esto. La Luna Nueva del 30 de enero amplía enormemente tu mundo en las formas más útiles. Podrías empezar a estudiar un nuevo idioma o conectar con una nueva y exótica persona que alimente tus experiencias actuales. (Una parte diferente de tu propio país califica como exótica.)

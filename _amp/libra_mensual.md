@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo libra diciembre 2020 
+title: Horoscopo libra enero 2021 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El amor brilla a todo tu alrededor bajo la Luna Nueva del 6 de diciembre. Un encantador e inteligente admirador podría aparecerse de la nada, o puede que te des cuenta de que le has dado una gran impresión y has atraído a alguien que admiras. Una relación amorosa - nueva o establecida - podría crecer y profundizarse. La Luna Llena del 21 diciembre acentúa asuntos monetarios. Eres una persona ambiciosa y llena de energía, por lo que otras personas querrán que les apoyes de cierta manera que beneficie a todos los involucrados. Lo único que tienes que haces es comportarte amable, graciosa e igual de competentemente como sueles hacerlo. Es durante éste periodo de tiempo en el que sería posible que encontraras un socio de negocios. Marte entra a Escorpión el 27 de diciembre para encender tu dedicación hacia mejorar tu vida. 
+Tus amigos y familiares podrían rodearte durante la Luna Nueva del 7 de enero. Gurda tu distancia tanto como sea necesario. Aun así, puede que sea difícil encontrar tiempo para otras personas que piensan que están simplemente tratando de mantenerse en contacto contigo. Las demandas laborales y profesionales podrían ser demasiadas bajo la Luna Llena del 21 de enero, cuando tu corazón estará más seguramente atado a tu hogar. Cumplirás con todas tus obligaciones y realizarás tus funciones, pero no estarás realmente feliz hasta que estés en casa. Finalmente, el sextil entre la Luna y Urano del 30 de enero termina tu mes con una ligera sorpresa que podría resolver uno o dos problemas.
