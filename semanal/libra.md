@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 28 de diciembre 2020 al 03 de enero 2021 
-description: Horóscopo semanal libra 28 de diciembre 2020 al 03 de enero 2021. Llega una semana bonita libra, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención libra, y seguramente la persona que menos te esperabas…
+title: libra 04 de enero 2021 al 10 de enero 2021 
+description: Horóscopo semanal libra 04 de enero 2021 al 10 de enero 2021. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-28'
+ lastmod: '2021-01-04'
 ---
 
 
 
-## Llega una semana bonita libra, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención libra, y seguramente la persona que menos te esperabas…
+## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 
-Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca libra. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder libra pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias libra, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo. Podrías sentir presión al comienzo de la semana, debido a que el determinado Marte conecta con el prudente Saturno. Esta mezcla de energías transcurre en tu sector de trabajo y estilo de vida, y podría encontrarte abordando un proyecto abrumador en cierto modo. Si bien el enfoque y la concentración pueden ser buenos, podría ser de gran ayuda delegar algunos aspectos de esta tarea. Si te enfrentas a obstáculos, trata de relajarte. Presionar demasiado puede empeorar las cosas. 
-Otro lado tuyo podría tener ganas de explorar, viajar y conocer nuevas tierras. Tal vez sea difícil tratar de satisfacer el deseo de avanzar con una necesidad de aventura. Sin embargo, si puedes programar un viaje corto o incluso una caminata o carrera en un entorno natural, esto podría energizarte muchísimo. El fin de semana, es posible que tus esfuerzos impresionen a alguien importante para ti en tu carrera o negocio.
+Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección libra, y ahora puedes elegir lo que quieras. Tus instintos pueden motivarte para que tomes las decisiones correctas. Con un posible choque entre lo que sientes y lo que piensas al comienzo de la semana, puede que sientas que tienes dos caminos distintos frente a ti. Súmale un revuelo de emociones causado por la Luna Llena y podría parecerte casi imposible saber cuáles serán tus próximos pasos. Si esperas a que todo se calme y se tranquilice, podrías llegar a escuchar la voz de tu intuición de manera fuerte y clara.
 
 ## Dinero
 
-Esta semana todo tipo de puertas financieras se están abriendo. Con el fin de atraer la cantidad de dinero que deseas, tienes que verdaderamente adorar lo que haces. Considera la posibilidad de profundizar tu conocimiento innato a través de talleres y seminarios. Tu sector social se expande. Tienes los contactos necesarios para dar el salto a la enseñanza, la publicación o el discurso. Haz que suceda.
+Tienes emoción y ganas de hacer nuevos contactos. Cualquiera que sea tu profesión, encontrarás que es más fácil hacerla con amigos. El pedirle ayuda a un mentor o el simple hecho de presentarte ante alguien que te inspira, es el mejor uso que le puedes dar a tu energía. Algunos de esos mentores podrían ser tus hijos, familiares o socios.

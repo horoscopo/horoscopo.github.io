@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 28 de diciembre 2020 al 03 de enero 2021 
-description: Horóscopo semanal cancer 28 de diciembre 2020 al 03 de enero 2021. La vida es un ciclo cancer, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
+title: cancer 04 de enero 2021 al 10 de enero 2021 
+description: Horóscopo semanal cancer 04 de enero 2021 al 10 de enero 2021. Esta semana relájate un poco cancer, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-28'
+ lastmod: '2021-01-04'
 ---
 
 
 
-## La vida es un ciclo cancer, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
+## Esta semana relájate un poco cancer, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 
-Es mejor reflexionar que lamentar cancer. Siempre. 
-Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así cancer, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie. Sea lo que fuere que esperas lograr, esforzarte demasiado no es la respuesta. Esta semana puede que quieras superar obstáculos para cumplir una dieta o cierto objetivo físico cuando quizá haya una mejor manera de llegar a la meta. Es posible que te estés forzando a hacer cosas que no son naturales para ti. Por lo tanto, hacer otro tipo de ejercicio o de dieta podría ser lo ideal para ti y mucho más fácil de integrar en tu vida diaria.
+No pienses tanto por favor cancer, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres cancer por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
+ cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino. Las finanzas reciben un impulso esta semana, pero no antes de que debas pelear para resolver uno o dos problemas. Las demoras en el dinero que debe llegar o salir pueden ser motivo de frustración, pero no son nada que no puedas resolver. A medida que Marte ingresa a tu signo el sábado, sentirás la motivación de avanzar con respecto a ideas clave, lo que podría incluir ganar dinero extra. Sin embargo, más que esto, podrías sentir la energía y las ganas necesarias para seguir adelante con un proyecto personal que te genera sentimientos profundos.
 
 ## Dinero
 
-Con un enfoque en los viajes, la educación superior y las culturas extranjeras, es un buen momento para considerar cómo se puede ganar dinero extra apelando a los compradores extranjeros. Si tu empresa no está haciendo negocios en línea, tal vez es hora de recomendarlo. También podrías decidir continuar tu educación para profundizar tus habilidades. Es el momento de considerar otras opciones de trabajo. Tu trabajo actual no está funcionando.
+Las influencias que afectan a tu sector de relaciones son a la vez una bendición y una maldición. Mientras que te dan impulso para avanzar en tu causa, también tienden a restringir al equipo que podría ayudarte a hacer esto. No tengas miedo. No es personal. Estas personas están a la espera de que avances para poder decir que te conocían desde entonces. Tienes la imaginación que necesitas para realizar tu trabajo a tiempo y bajo presupuesto.

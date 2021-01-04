@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 28 de diciembre 2020 al 03 de enero 2021 
-description: Horóscopo semanal tauro 28 de diciembre 2020 al 03 de enero 2021. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+title: tauro 04 de enero 2021 al 10 de enero 2021 
+description: Horóscopo semanal tauro 04 de enero 2021 al 10 de enero 2021. Tu presente y tu futuro valen muchísimo la pena tauro. La vida siempre se acaba equilibrando tauro. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-28'
+ lastmod: '2021-01-04'
 ---
 
 
 
-## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+## Tu presente y tu futuro valen muchísimo la pena tauro. La vida siempre se acaba equilibrando tauro. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 
-Has caído en la rutina tauro, quieres pelear por personas que quizás no tengan mucho en común contigo pero aún así, te sigues aferrando a algo que quizás tenga fecha de caducidad. Necesitas hablar, conversar, pero un largo tiempo y de verdad poner todas y cada una de las cartas sobre la mesa. Te guardas demasiado para ti, para dentro, y por más que intentas sacarlo es como si algo te lo impidiera. Esta semana es buena para hacer balance de lo que quieres, de lo que buscas y de lo que necesitas. No vas a parar, tienes muchas cosas que hacer y eso será lo que te aleje de algunos problemas. Pero cuando eso que hagas se acabe, el problema seguirá estando presente, seguirá en el mismo sitio donde lo dejaste, y como no lo soluciones permanecerá ahí todo el tiempo. No te agobies y respira hondo cuando algo se ponga difícil. De todo se sale tauro, ya lo sabes. Las pequeñas cosas cuentan mucho ahora así que, empieza a decir que “si” a cualquier plan que te propongan, por pequeño que sea. Si quieres salvar algo, habla tauro, habla y saca de una vez todo ese universo de sentimientos y de emociones que tienes dentro. Como no seas claro de verdad y sólo tragues y tragues, todo va a salir mal. Disfruta esta semana pero aclárate un poco… Con un enfoque en un sector más intenso de tu carta astral, puede que sientas motivación para evaluar los patrones que por un tiempo fueron un lastre. Puede ser una manera de reafirmar tu relación con tu ser interior y también de tratarte mejor. En el trabajo, podrías decidir dedicarte al cien por ciento a un plan que podría tener éxito. Y con Mercurio volviéndose directo el jueves, podría ser más fácil progresar en las siguientes semanas.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos tauro así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar tauro, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz. La Luna Llena del comienzo de la semana podría hacerte derrochar tu dinero innecesariamente. Si últimamente has estado ahorrando y escatimando, tu arduo esfuerzo podría ser tirado por la ventana a menos que te niegues a dejarte llevar por la tentación. La entrada del Sol a Cáncer y a tu sector de viajes y estudio podría ver en ti el deseo de adquirir nuevos conocimientos. Tomar un curso o clase podría darte las habilidades que necesitas para subir de nivel.
 
 ## Dinero
 
-Cierta actividad en tu sector de herencias y de deuda esta semana muestra que es posible que estés en el extremo receptor de uno u otro. Uno, por supuesto, no puedes controlar. Pero si te percatas de que necesitas poner más energía en un plan de pago de deuda, el Universo puede ayudarte a lograr una mayor responsabilidad en esa área. Sonríe, las cosas están mejorando.
+Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 28 de diciembre 2020 al 03 de enero 2021 
-description: Horóscopo semanal capricornio 28 de diciembre 2020 al 03 de enero 2021. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+title: capricornio 04 de enero 2021 al 10 de enero 2021 
+description: Horóscopo semanal capricornio 04 de enero 2021 al 10 de enero 2021. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así capricornio, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-28'
+ lastmod: '2021-01-04'
 ---
 
 
 
-## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así capricornio, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 
-No pelees capricornio, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente capricornio, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador capricornio, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio. Tu vida amorosa podría ser particularmente candente en este momento, con una amorosa mezcla de energías perfecta para que disfrutes grandes ocasiones sociales y salidas románticas. El cosmos también te invita a explorar tus sentidos más en detalle, especialmente si te has enfocado en objetivos mentales. Dedícate tiempo para que te hagan un masaje o ve a un spa para que puedas relajarte y disfrutar del momento presente. Si experimentas alguna dificultad esta semana, no dejes que te afecte.
+A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto capricornio? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito capricornio. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA. Los demás podrían tener mucha disposición a ofrecerte consejos prácticos esta semana, especialmente si creen que te encuentras en la dirección equivocada. Puede que tengan razón, pero puede que no entiendan exactamente lo que tienes en mente. Evita movimientos decisivos hasta más adelante en la semana. Tus finanzas parecen mejorar a medida que Mercurio avanza desde el viernes. Ahora puedes avanzar con la compra de un artículo caro o al cerrar un lucrativo trato empresarial.  El fin de semana podría traer consigo un encuentro inolvidable.
 
 ## Dinero
 
-Tienes una relación tensa entre tu hogar y profesión esta semana. Puede que sientas un poco de agobio en el trabajo o que tu carrera pasa por muchos obstáculos en el presente. Al mismo tiempo, tu vida hogareña y sentimientos interiores son algo tumultuosos o turbulentos. Establece un equilibrio al mantener una estrecha vigilancia en tu flujo de efectivo para ayudar a aliviar el estrés. Las cosas mejorarán desde allí.
+Puede que no te sientas tan feliz y despreocupado/a como normalmente lo estás, pero este es un momento de increíble crecimiento a medida que aceptas la responsabilidad de ser completamente fiel a ti mismo/a con todos los que conoces. Suena fácil, aunque es todo lo contrario. Puede que sientas más arraigo y te sientas más terrenal que nunca, sobre todo cuando se trata de ahorrar en comparación con el gasto. Estás haciendo todos los movimientos correctos, por lo que confía en ti mismo/a.

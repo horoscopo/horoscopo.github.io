@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 28 de diciembre 2020 al 03 de enero 2021 
-description: Horóscopo semanal piscis 28 de diciembre 2020 al 03 de enero 2021. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos piscis. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+title: piscis 04 de enero 2021 al 10 de enero 2021 
+description: Horóscopo semanal piscis 04 de enero 2021 al 10 de enero 2021. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes piscis.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2020-12-28'
+ lastmod: '2021-01-04'
 ---
 
 
 
-## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos piscis. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes piscis.
 
-No puedes poner piezas en lugares que no corresponden piscis, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo piscis, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso piscis, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte piscis, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho piscis, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda! Este puede ser un momento emocionante dentro de tus relaciones, con nuevas ideas y oportunidades ayudándote a reforzar tus lazos. Habrá mucho de qué hablar durante los próximos días y algo de ello podría ser un poco incómodo; sobre todo a mitad de semana. Es muy importante que mantengas tu posición. Y no pienses que tienes que cooperar si no quieres hacerlo. Además, también tienes una gran oportunidad para aclarar las cosas y volver a escribir tu historia de amor con un interés romántico.
+No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo piscis pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
+ Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno. Puede que esta semana tengas muchas ocupaciones en lo que respecta a tus metas o ambiciones personales. Sin embargo, una señal que te de tu intuición podría actuar como catalizador que te anime a experimentar con nuevas ideas que te lleven al éxito. El eclipse solar del jueves en tu sector profesional podría empujarte hacia un nuevo comienzo. Tal vez sientas que no te has preparado, pero el cosmos podría tener otras ideas. Puede que sientas que te obligan a hacer actividades desafiantes pero a la vez, muy gratificantes. El fin de semana, tu vida social resplandece.
 
 ## Dinero
 
-Para ti, esta semana es sobre el hecho de que parte de ti quiere sumergirse en la belleza y la creatividad, pero las fuerzas quieren que pases tiempo al cuidado de cualquier deuda que pueda haberse acumulado. De nada sirve entrar en pánico o reprenderse a sí mismo por un gasto excesivo. A partir de este punto en adelante, haz una promesa para cambiar la forma de hacer negocios en tu vida monetaria, puedes hacerlo.
+Puede que se te esté dando la oportunidad de llevar tus ideas a las grandes redes sociales y al público. Este es un momento excelente para aprovechar el hecho de que la gente quiere escuchar lo que tienes que decir y comprar lo que estás vendiendo. Si necesitas mejorar tu mensaje antes de acercarte a ellos, utiliza los aspectos favorables actuales para lograr hacerlo. Vas a lograr producir mucho cuando golpees al mundo con tus ideas.
