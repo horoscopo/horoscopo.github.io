@@ -30,11 +30,13 @@ ads: ["adsense"]
       
       {% include adsense.html %}
       
-      {% if page.video %}
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ page.video }}" allowfullscreen></iframe>
-        </div>
-      {% endif %}
+      <div class="embed-responsive embed-responsive-16by9">
+        {% if page.horoscopo.signo and site.data.anual[page.horoscopo.signo] %}
+           <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ site.data.anual[page.horoscopo.signo].video }}" allowfullscreen></iframe>
+        {% else %}
+           <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ site.data.anual['general'].video }}" allowfullscreen></iframe>
+        {% endif %}
+      </div>
       
       </div>
       <!--/Cuerpo del panel -->

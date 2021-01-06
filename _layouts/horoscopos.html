@@ -27,9 +27,9 @@ ads: ["adsense"]
       <div class="panel-body">
       
       {{ content }}
-      {% if page.horoscopo.video %}
+      {% if page.horoscopo.signo %}
       <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ page.horoscopo.video }}" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ site.data.semanal['general'].video }}" allowfullscreen></iframe>
       </div>
       {% endif %}
       
