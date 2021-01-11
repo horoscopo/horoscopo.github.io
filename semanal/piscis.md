@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 04 de enero 2021 al 10 de enero 2021 
-description: Horóscopo semanal piscis 04 de enero 2021 al 10 de enero 2021. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes piscis.
+title: piscis 11 de enero 2021 al 17 de enero 2021 
+description: Horóscopo semanal piscis 11 de enero 2021 al 17 de enero 2021. piscis, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-04'
+ lastmod: '2021-01-11'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes piscis.
+## piscis, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 
-No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo piscis pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
- Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno. Puede que esta semana tengas muchas ocupaciones en lo que respecta a tus metas o ambiciones personales. Sin embargo, una señal que te de tu intuición podría actuar como catalizador que te anime a experimentar con nuevas ideas que te lleven al éxito. El eclipse solar del jueves en tu sector profesional podría empujarte hacia un nuevo comienzo. Tal vez sientas que no te has preparado, pero el cosmos podría tener otras ideas. Puede que sientas que te obligan a hacer actividades desafiantes pero a la vez, muy gratificantes. El fin de semana, tu vida social resplandece.
+Está bien hacerse ilusiones piscis, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas piscis, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada piscis. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado. Tu equilibrio entre trabajo y vida personal podría ser un tema de discusión, en especial si miembros de tu familia no están de acuerdo con lo que estás haciendo. Tal vez sea mejor dejar cualquier discusión para después. Puedes ver que cualquier cosa que dices parece provocar sentimientos fuertes en otras personas, y quizás no entiendas la situación por completo. Además, tales podrían ceder a la tentación de hacer o decir cosas que causen más problemas. Será mucho mejor para ti mantenerte al margen de tales conversaciones.
 
 ## Dinero
 
-Puede que se te esté dando la oportunidad de llevar tus ideas a las grandes redes sociales y al público. Este es un momento excelente para aprovechar el hecho de que la gente quiere escuchar lo que tienes que decir y comprar lo que estás vendiendo. Si necesitas mejorar tu mensaje antes de acercarte a ellos, utiliza los aspectos favorables actuales para lograr hacerlo. Vas a lograr producir mucho cuando golpees al mundo con tus ideas.
+Puede que ésta semana des un paso hacia adelante y dos pasos atrás. Es posible que hayas estado pensando acerca de tu propósito en el mundo y te encuentres cerca de averiguarlo. Los consejos vienen de tus familiares, escucha la sabiduría que recibes de tu gente de confianza. Sólo asegúrate de prestar atención a los hechos ya que los resultados podrían afectar tu sector de trabajo y potencialmente ¡tu cheque!

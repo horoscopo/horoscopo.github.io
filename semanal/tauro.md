@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 04 de enero 2021 al 10 de enero 2021 
-description: Horóscopo semanal tauro 04 de enero 2021 al 10 de enero 2021. Tu presente y tu futuro valen muchísimo la pena tauro. La vida siempre se acaba equilibrando tauro. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+title: tauro 11 de enero 2021 al 17 de enero 2021 
+description: Horóscopo semanal tauro 11 de enero 2021 al 17 de enero 2021. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-04'
+ lastmod: '2021-01-11'
 ---
 
 
 
-## Tu presente y tu futuro valen muchísimo la pena tauro. La vida siempre se acaba equilibrando tauro. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos tauro así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar tauro, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz. La Luna Llena del comienzo de la semana podría hacerte derrochar tu dinero innecesariamente. Si últimamente has estado ahorrando y escatimando, tu arduo esfuerzo podría ser tirado por la ventana a menos que te niegues a dejarte llevar por la tentación. La entrada del Sol a Cáncer y a tu sector de viajes y estudio podría ver en ti el deseo de adquirir nuevos conocimientos. Tomar un curso o clase podría darte las habilidades que necesitas para subir de nivel.
+Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
+ No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien. ¿Cierta persona te está molestando? Incluso si tal sólo está dándote consejo, es probable que lo veas como una amenaza. Una nerviosa vibra podría hacerte sentir preocupación por lo que alguien ha planeado. ¡Pero nada de esto es seguro debido a la influencia del ilusorio Neptuno! Teniendo esto en cuenta, sería mejor pasar a un estado mental espiritual y practicar meditación u otras técnicas con tal de obtener control y ser más eficiente. Para cuando el Domingo llegue, un movimiento audaz podría estar en tus cartas.
 
 ## Dinero
 
-Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.
+Tienes un tema interesante en tus manos esta semana. Se te insta a ponerte en contacto con tus necesidades como inversionista y fijar tus metas en consecuencia. Por supuesto, la mayoría de la gente te dice que hagas más dinero, pero eso no te hace justicia. ¿Quieres ayudar a la gente menos afortunada que tú? Si es así, las inversiones socialmente responsables son la mejor opción para ti. Piensa en ello.

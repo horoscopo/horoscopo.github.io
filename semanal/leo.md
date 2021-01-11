@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 04 de enero 2021 al 10 de enero 2021 
-description: Horóscopo semanal leo 04 de enero 2021 al 10 de enero 2021. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+title: leo 11 de enero 2021 al 17 de enero 2021 
+description: Horóscopo semanal leo 11 de enero 2021 al 17 de enero 2021. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-04'
+ lastmod: '2021-01-11'
 ---
 
 
 
-## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+## Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
 
-Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
-Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta. Si has tenido un desacuerdo con alguien o necesitas renegociar un acuerdo, la mezcla de energías de esta semana puede ayudar a hacer precisamente eso. Ya seas tú o alguien más quien dé el primer paso, la disposición a escuchar y encontrar un compromiso que funcione para todos puede ponerlo todo de vuelta a la normalidad. Con el suertudo Júpiter avanzando en tu sector de amistad y sueños, es posible que ganes terreno al unirte a grupos que compartan tus intereses. ¡Reiniciar una vieja membresía también podría probar ser productivo!
+Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
+ aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos. Si no tienes límites claros con respecto a una de tus amistades, puede que alguien te convenza de hacer algo que, en verdad, no quieres. Incluso si parece una buena idea en ese momento, la novedad podría terminar pronto y podrías terminar sintiendo una gran decepción. Confía en tus instintos si alguien te ofrece una invitación, te pide ayuda o quiere salir contigo. Si tu intuición te dice claramente que te alejes, hazlo. Puede que quieras mantener la distancia el jueves, momento en que esta persona podría ser particularmente demandante. 
+ Por otro lado, el encantador Venus ingresa a tu sector de hogar y familia el martes, lo que te anima a embellecer tu hogar y organizar más reuniones, algo que disfrutas muchísimo. La luna llena en tu sector de aventuras el domingo podría inspirarte a hacer algo muy emocionante.    
 
 ## Dinero
 
-Esta semana tiene aspectos favorables que indican que estás buscando maneras de ganar dinero que emplean tus prodigiosas habilidades de comunicación y te darán más placer en general. Tus relaciones jugarán un papel importante esta semana. Entabla una conversación con un desconocido y es posible que te percates que tienen más en común de lo que pensaban.
+Con el Universo afectando tu sector profesional, puede que se trate sobre el pasado, trabajos anteriores, las elecciones pasadas de carrera, o incluso empleadores anteriores. Sin embargo, un aspecto armonioso afecta a tu sector de vidas pasadas, karma, e instituciones, por lo que puede que no sea una mala idea prestarle atención a los aspectos más esotéricos de tu vida. Lo que haces para ganarte la vida afecta a los demás, no importa cuánto dinero ganes. Asegúrate de que es algo que no te genere consecuencias kármicas más tarde.

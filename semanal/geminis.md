@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 04 de enero 2021 al 10 de enero 2021 
-description: Horóscopo semanal geminis 04 de enero 2021 al 10 de enero 2021. Semana intensa geminis, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+title: geminis 11 de enero 2021 al 17 de enero 2021 
+description: Horóscopo semanal geminis 11 de enero 2021 al 17 de enero 2021. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario geminis.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-04'
+ lastmod: '2021-01-11'
 ---
 
 
 
-## Semana intensa geminis, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario geminis.
 
-Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema. El ingrediente alegre de la semana se vuelve más intenso cuando el animado Mercurio entra al eléctrico Acuario. La semana podría traer invitaciones inesperadas y oportunidades para conectar con amigos y hacer contactos por placer y trabajo. La gran noticia es el Eclipse Lunar, el cual podría causar una pequeña revolución, particularmente cuando se trata de tus intereses personales y tus momentos de recreación. Un deporte o un tema nuevo podría resultar fascinante y marcar el camino hacia nuevas actividades y amistades.
+Estás bien aquí, estás bien allí, y en cuanto las cosas se complican un poquito, por poco que sea, huyes. Está bien que vivas de esas manera, buscando en realidad cualquier lugar que te de felicidad, cualquier momento sea cual sea y donde sea. Pero 
+ un poquito de ella. La conexión del conversador Mercurio con el positivo Júpiter el martes podría traerte buenas noticias en el aspecto laboral, cuando una oferta u oportunidad parezcan demasiado impresionantes para dejarlas pasar. El delicioso Venus, que está en tu sector de relaciones y se traslada para oponerse al vital Marte en tu signo el jueves, podría hacer que un encuentro sea impactante para ti. De hecho, podría dominar los próximos días y hacer que te preguntes cómo podrías conocer mejor a esta persona. Si has estado planeando invitar a esta persona a una cita, quizás ya no puedas resistirte. 
+Por último, el ingreso del sol a Cáncer, también el jueves, podría inspirarte a observar más de cerca tus hábitos y rutinas para ver si puedes introducir algún positivo cambio en cualquiera de ellos. Incluso unos pequeños ajustes pueden aumentar tu felicidad y salud.
 
 ## Dinero
 
-Tu sector de relaciones hace clara más que nunca la importancia de las alianzas positivas con jefes, superiores, mentores y clientes. Nunca te confíes en que estás relaciones  simplemente funcionarán. Sé proactivo/a en la formación, mantenimiento y avance de aquellas que son más útiles para tu vida laboral y monetaria. El enfoque se centra en mejorar tu educación, viajar y aprender sobre otras culturas e idiomas. Todos pueden avanzar en tu causa.
+Cierta actividad en tu sector de ganancias hace que sea más difícil ganar la cantidad de dinero a la que te has acostumbrado ganar. El Universo está restringiendo tus oportunidades y el dinero que se puede obtener de ello, pero no te preocupes demasiado. Son tus redes sociales las que te ayudarán a salir adelante en cualquier problema al referirte a nuevos clientes, alertándote sobre nuevos puestos de trabajo, y prestándote dinero.

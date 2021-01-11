@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 04 de enero 2021 al 10 de enero 2021 
-description: Horóscopo semanal sagitario 04 de enero 2021 al 10 de enero 2021. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo sagitario, se llama dignidad. 
+title: sagitario 11 de enero 2021 al 17 de enero 2021 
+description: Horóscopo semanal sagitario 11 de enero 2021 al 17 de enero 2021. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,15 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-04'
+ lastmod: '2021-01-11'
 ---
 
 
 
-## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo sagitario, se llama dignidad. 
+## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 
-A veces dejas las puertas medio abiertas sagitario, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar sagitario porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien sagitario, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado sagitario, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo… Si una cierta relación ha estado bajo presión por un tiempo, esta es la semana en que las cosas pueden llegar a un punto crítico. Con el eclipse lunar en tu sector de relaciones, las emociones pueden surgir y podrían llevarte a tomar una decisión impulsiva. Sin embargo, si puedes contenerte hasta que tus emociones estén más asentadas y tantees el terreno, entonces puede que seas capaz de tomar una decisión más informada. Pero con el comunicativo Mercurio retrocediendo al final de la semana, necesitarás manejarte con cuidado.
+Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale. ¿Hay alguien que quiere sacarte de tu cómoda rutina? Parecería que sí en los próximos días. Con una poderosa influencia vislumbrándose, puede que resientas la presencia de alguien que parece generar sentimientos que preferirías evitar. Pero mientras más te resistas, más difícil será captar su atención. Si te dejas llevar, puede que se abran nuevas puertas y sientas nuevas emociones.
 
 ## Dinero
 
-Eres alguien poco convencional ahora al traerle una ola repentina de genialidad a ciertos acontecimientos. El Universo le envía vibraciones de suerte a tu sector de efectivo y valores. Ahora te llegan oportunidades para mayor número de horas, mejores salarios y proyectos más deseables, al igual que la posibilidad de disfrutar de lo que haces para ganarte la vida. Es un momento muy bueno en general.
+Es una semana confusa apara ti. Una energía individualista pero impredecible afectando la zona de la familia, los niños, y el romance indica un momento difícil de equilibrio entre tu trabajo y la vida económica con tu necesidad de relajarte con la gente que amas. Es necesario ajustar la forma de pensar sobre el dinero en tu vida. ¿Tienes que trabajar tanto o puedes reducir un poco con el fin de obtener el descanso que necesitas?

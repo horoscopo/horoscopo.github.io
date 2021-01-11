@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 04 de enero 2021 al 10 de enero 2021 
-description: Horóscopo semanal capricornio 04 de enero 2021 al 10 de enero 2021. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así capricornio, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: capricornio 11 de enero 2021 al 17 de enero 2021 
+description: Horóscopo semanal capricornio 11 de enero 2021 al 17 de enero 2021. Estás en una etapa súper confusa capricornio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,15 +12,17 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-04'
+ lastmod: '2021-01-11'
 ---
 
 
 
-## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así capricornio, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+## Estás en una etapa súper confusa capricornio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto capricornio? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito capricornio. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA. Los demás podrían tener mucha disposición a ofrecerte consejos prácticos esta semana, especialmente si creen que te encuentras en la dirección equivocada. Puede que tengan razón, pero puede que no entiendan exactamente lo que tienes en mente. Evita movimientos decisivos hasta más adelante en la semana. Tus finanzas parecen mejorar a medida que Mercurio avanza desde el viernes. Ahora puedes avanzar con la compra de un artículo caro o al cerrar un lucrativo trato empresarial.  El fin de semana podría traer consigo un encuentro inolvidable.
+Esfuérzate un poco más de lo que hiciste ayer capricornio, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
+ de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz. El delicioso Venus, tu planeta regente, ingresa a Virgo y a tu sector de recreación el lunes, lo que te anima a relajarte y tomarte un tiempo para el disfrute. Las próximas semanas pueden ser el momento para darte el gusto con actividades creativas y disfrutar de románticas salidas. 
+ En lo que respecta al intercambio de ideas, el eclipse solar de esta semana en tu sector de comunicación podría inspirarte a sentar posición. Si alguien te presiona para que aceptes una oferta o sigas ciertas ideas, es momento de ponerte firme. Esto puede dar como resultado un cambio o incluso el fin de la relación, pero puede que también te sientas bien de haberte librado de esta persona. Cuando el potente Plutón forma parte de la combinación, no puede haber medias tintas. Al mismo tiempo, el animado Júpiter se vuelve directo el martes, lo que significa que los demás harán todo lo posible por ayudarte.
 
 ## Dinero
 
-Puede que no te sientas tan feliz y despreocupado/a como normalmente lo estás, pero este es un momento de increíble crecimiento a medida que aceptas la responsabilidad de ser completamente fiel a ti mismo/a con todos los que conoces. Suena fácil, aunque es todo lo contrario. Puede que sientas más arraigo y te sientas más terrenal que nunca, sobre todo cuando se trata de ahorrar en comparación con el gasto. Estás haciendo todos los movimientos correctos, por lo que confía en ti mismo/a.
+Tienes una energía increíblemente psíquica ahora. Podrías darte cuenta de que podrías hacer algo de dinero a través de la intuición pura. El estar en el lugar correcto en el momento adecuado para obtener información sobre una oportunidad nueva y excitante, el tener cierto latido sobre lo que pasará en la bolsa, o soñar con una nueva idea de negocio; todos califican. Tu creatividad se encuentra a gran altura. Sólo asegúrate de que las deudas que tienes pendientes sean atendidas primero.
