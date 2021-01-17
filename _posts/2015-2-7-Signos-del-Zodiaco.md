@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de enero 2021
-description: Horóscopos del dia de hoy 16 de enero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de enero 2021
+description: Horóscopos del dia de hoy 17 de enero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-01-16
+ lastmod: 2021-01-17
 ---
-Te despiertas bajo la Luna en el activo Aries y haces las cosas con facilidad y anticipación de que hoy mismo, cosas buenas vendrán en forma de importantes nuevos desarrollos. Esta noche, los solteros son atractivos, encantadores, muy románticos, y no muy serios; en caso de que busques compromiso. Mantén las cosas ligeras.
+El sabor de la libertad parece ser estimulante bajo la Luna Nueva en Acuario. Anda y date permiso de comportarte curiosa, enérgica y totalmente impredecible. Solteros, si una nueva mano de amistad es ofrecida esta noche, tómenla. Podría ser un encuentro importante y la fuente de una introducción igual de importante.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
