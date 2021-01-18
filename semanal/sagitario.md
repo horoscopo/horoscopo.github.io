@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 11 de enero 2021 al 17 de enero 2021 
-description: Horóscopo semanal sagitario 11 de enero 2021 al 17 de enero 2021. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+title: sagitario 18 de enero 2021 al 24 de enero 2021 
+description: Horóscopo semanal sagitario 18 de enero 2021 al 24 de enero 2021. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,17 +12,15 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-11'
+ lastmod: '2021-01-18'
 ---
 
 
 
-## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 
-Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
-Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
-como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale. ¿Hay alguien que quiere sacarte de tu cómoda rutina? Parecería que sí en los próximos días. Con una poderosa influencia vislumbrándose, puede que resientas la presencia de alguien que parece generar sentimientos que preferirías evitar. Pero mientras más te resistas, más difícil será captar su atención. Si te dejas llevar, puede que se abran nuevas puertas y sientas nuevas emociones.
+Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad Sagitario, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro. Tanto los recursos compartidos, los asuntos de negocios y la transformación son parte de la agenda conforme Mercurio se une al Sol en Escorpión. Esta puede ser una oportunidad para analizar por debajo de la superficie una situación o relación clave y quizás cambiar tu forma de pensar o creencias con el fin de influir positivamente en ella. Al mismo tiempo, una fuente profunda de inquietud podría inspirarte a desatender tus responsabilidades y centrarte más en el placer. Esto podría ser un error. Sería mejor tener un enfoque más prudente hacia el cambio.
 
 ## Dinero
 
-Es una semana confusa apara ti. Una energía individualista pero impredecible afectando la zona de la familia, los niños, y el romance indica un momento difícil de equilibrio entre tu trabajo y la vida económica con tu necesidad de relajarte con la gente que amas. Es necesario ajustar la forma de pensar sobre el dinero en tu vida. ¿Tienes que trabajar tanto o puedes reducir un poco con el fin de obtener el descanso que necesitas?
+Esta semana estás acudiendo a tus amigos más cercanos, mentores, socios o compañeros para obtener más información financiera y apoyo. Puede ser tan simple como poner una idea de negocios en marcha durante el desayuno o el asesoramiento en un nuevo y complicado plan de negocios. De cualquier manera, te diriges a un nuevo tiempo de suerte y creatividad. No te encuentras solo/a en lo que estás haciendo ahora. Todos los ojos están puestos en ti y la gente llama a tu éxito.

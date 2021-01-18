@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 11 de enero 2021 al 17 de enero 2021 
-description: Horóscopo semanal tauro 11 de enero 2021 al 17 de enero 2021. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: tauro 18 de enero 2021 al 24 de enero 2021 
+description: Horóscopo semanal tauro 18 de enero 2021 al 24 de enero 2021. Tauro, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,15 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-11'
+ lastmod: '2021-01-18'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Tauro, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 
-Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
- No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien. ¿Cierta persona te está molestando? Incluso si tal sólo está dándote consejo, es probable que lo veas como una amenaza. Una nerviosa vibra podría hacerte sentir preocupación por lo que alguien ha planeado. ¡Pero nada de esto es seguro debido a la influencia del ilusorio Neptuno! Teniendo esto en cuenta, sería mejor pasar a un estado mental espiritual y practicar meditación u otras técnicas con tal de obtener control y ser más eficiente. Para cuando el Domingo llegue, un movimiento audaz podría estar en tus cartas.
+La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Tauro, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas. Tu relación con cierta persona puede hacerse más profunda, pero no parece ser de modo romántico. El panorama actual indica un encuentro de mentes que puede fortalecer el vínculo entre ustedes o al menos fomentar el respeto mutuo. Esta persona puede ser la influencia necesaria para que elijas un camino a seguir, pero no te dejes guiar solo por sus palabras. Piensa en si es conveniente antes de comprometerte. Despeja un poco tu calendario alrededor de la Luna Llena del Jueves.
 
 ## Dinero
 
-Tienes un tema interesante en tus manos esta semana. Se te insta a ponerte en contacto con tus necesidades como inversionista y fijar tus metas en consecuencia. Por supuesto, la mayoría de la gente te dice que hagas más dinero, pero eso no te hace justicia. ¿Quieres ayudar a la gente menos afortunada que tú? Si es así, las inversiones socialmente responsables son la mejor opción para ti. Piensa en ello.
+Puede parecer que esta semana las cosas que se mueve en cámara lenta o incluso que se estén moviendo hacia atrás, sobre todo cuando se trata de tu capacidad de viajar, asistir a la escuela, o buscar las verdades más amplias de la vida. No te preocupes que al final las encontrarás. Mientras tanto, lo mejor es mantener tu dinero en efectivo guardado en un lugar seguro. En pocos meses, será más fácil el mover tus metas más cerca de la finalización.

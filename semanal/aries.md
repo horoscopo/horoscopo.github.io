@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 11 de enero 2021 al 17 de enero 2021 
-description: Horóscopo semanal aries 11 de enero 2021 al 17 de enero 2021. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. aries, esta semana has de cerrar algunos ciclos de verdad.
+title: aries 18 de enero 2021 al 24 de enero 2021 
+description: Horóscopo semanal aries 18 de enero 2021 al 24 de enero 2021. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,15 +12,15 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-11'
+ lastmod: '2021-01-18'
 ---
 
 
 
-## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. aries, esta semana has de cerrar algunos ciclos de verdad.
+## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 
-No más paciencia aries. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres aries, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana aries. Si últimamente te has ocupado con metas profesionales o ambiciones personales, esta fase podría comenzar a tranquilizarse conforme opciones más placenteras aparecen. Un alegre enfoque podría ayudarte a progresar en asuntos laborales también, pero disfrutarás de un ambiente de fiesta, junto con la opción de citas y romance. Estarás en tu elemento si tienes ganas de participar en la organización de un evento. Venus se torna retrógrado el Sábado, haciendo de este un buen momento para reflexionar y pasar un par de días en el spa.
+Hay cosas que no deben hacer daño Aries, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo Aries, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo Aries, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa Aries, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 
 ## Dinero
 
-Los aspectos son ideales no sólo para la energía y el hacer las cosas, sino también para realizar actividades físicas como ejercicio. Si has tenido la intención de salir más o comenzar una nueva práctica de yoga, esta es la semana para empezar. También es ideal para sublimar esa energía hacia cambiar tu situación financiera para bien. Comienza con un plan serio para acabar de pagar tu deuda.
+Esta semana es acerca de romance, niños y diversión; así como viajes, educación y espiritualidad. Cualquiera de estas áreas puede ser explotada por obtener un trabajo extra o construir un negocio completamente nuevo ahora. Tú tienes la capacidad de hacer que suceda. Con un poco de arduo trabajo y verdadero enfoque, puedes empezar a ganar más dinero en el futuro.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 11 de enero 2021 al 17 de enero 2021 
-description: Horóscopo semanal cancer 11 de enero 2021 al 17 de enero 2021. Tienes que plantarte cancer, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+title: cancer 18 de enero 2021 al 24 de enero 2021 
+description: Horóscopo semanal cancer 18 de enero 2021 al 24 de enero 2021. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,15 +12,17 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-11'
+ lastmod: '2021-01-18'
 ---
 
 
 
-## Tienes que plantarte cancer, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 
-Hace mucho tiempo que no te das un buen capricho cancer, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes cancer. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo. Las próximas semanas te traen oportunidades para cerrar varios tratos. Ya sea que estés buscando un nuevo empleo, contrato, o promoción, la forma en que conectas con los demás puede ser decisiva para tu éxito. Entrevista a expertos, reúne información, y habla con tantas personas como puedas y no te podrá ir mal. El romance está en el aire también, sobre todo el Sábado, cuando un encantador tránsito astrológico es perfecto para una cita especial. Mientras tanto, la Luna Nueva del Domingo fomenta viajar a lugares lejanos.
+Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
+Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás… El conversador Mercurio, tu planeta regente, ingresa a su fase retrógrada en tu sector espiritual el miércoles y permanecerá así durante aproximadamente tres semanas. Esta fase puede ser una oportunidad para volver al pasado y resolver cualquier problema que haya estado retrasándote. Al mismo tiempo, el sol en este sector se alinea al incansable Urano en tu sector de viajes y aventura. La necesidad de emoción y de hacer algo distinto puede provocar una decisión espontánea, por lo que podrías hacer un viaje repentino. 
+El eclipse lunar del viernes podría afectar a tus sectores espiritual y de estilo de vida. Tal vez sientas la necesidad de reflexionar sobre tus rutinas y organizarte de manera práctica. Puede que esto signifique librarte de algunas actividades que, en realidad, no son beneficiosas para ti. Es momento de que te preguntes qué quieres realmente.
 
 ## Dinero
 
-Puede que los aspectos en tu sector de dinero y valores te molesten más que a la mayoría. Justo cuando estás a punto de cerrar el trato, las cosas se te escapan de las manos o simplemente se retrasan. No importa, ya que se pondrán mejor. Hasta entonces, haz negocios o trabaja para instituciones y corporaciones más grandes. Esto mejorará tu presupuesto anual.
+Es importante que ésta semana comuniques tus ideas y necesidades lo más claramente posible. Notifica las cosas difíciles en reuniones con mentores y profesores. Mientras más pronto lo hagas, más pronto regresarás a la normalidad. Mientras tanto tus sueños pueden ser un poco borrosos. Tomate el tiempo necesario para enfocarte en tus metas personales y financieras.

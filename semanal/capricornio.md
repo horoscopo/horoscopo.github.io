@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 11 de enero 2021 al 17 de enero 2021 
-description: Horóscopo semanal capricornio 11 de enero 2021 al 17 de enero 2021. Estás en una etapa súper confusa capricornio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+title: capricornio 18 de enero 2021 al 24 de enero 2021 
+description: Horóscopo semanal capricornio 18 de enero 2021 al 24 de enero 2021. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,17 +12,15 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-11'
+ lastmod: '2021-01-18'
 ---
 
 
 
-## Estás en una etapa súper confusa capricornio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 
-Esfuérzate un poco más de lo que hiciste ayer capricornio, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
- de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz. El delicioso Venus, tu planeta regente, ingresa a Virgo y a tu sector de recreación el lunes, lo que te anima a relajarte y tomarte un tiempo para el disfrute. Las próximas semanas pueden ser el momento para darte el gusto con actividades creativas y disfrutar de románticas salidas. 
- En lo que respecta al intercambio de ideas, el eclipse solar de esta semana en tu sector de comunicación podría inspirarte a sentar posición. Si alguien te presiona para que aceptes una oferta o sigas ciertas ideas, es momento de ponerte firme. Esto puede dar como resultado un cambio o incluso el fin de la relación, pero puede que también te sientas bien de haberte librado de esta persona. Cuando el potente Plutón forma parte de la combinación, no puede haber medias tintas. Al mismo tiempo, el animado Júpiter se vuelve directo el martes, lo que significa que los demás harán todo lo posible por ayudarte.
+Tienes que improvisar más Capricornio, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Capricornio, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Capricornio… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Capricornio, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Capricornio. Amigos y familiares que no has visto en mucho tiempo podrían aparecerse a tu puerta con Mercurio iniciando su fase retrógrada en tu sector de hogar y familia. Y con Venus entrando al mismo sector más adelante en la semana, disfrutarás mucho de la oportunidad de entretener a tus invitados. Al mismo tiempo, esta es una buena oportunidad para descansar y cuidar de ti. Tu vida ha estado muy ocupada últimamente y tu cuerpo y cerebro necesitan de este tiempo para relajarse y recargar baterías.
 
 ## Dinero
 
-Tienes una energía increíblemente psíquica ahora. Podrías darte cuenta de que podrías hacer algo de dinero a través de la intuición pura. El estar en el lugar correcto en el momento adecuado para obtener información sobre una oportunidad nueva y excitante, el tener cierto latido sobre lo que pasará en la bolsa, o soñar con una nueva idea de negocio; todos califican. Tu creatividad se encuentra a gran altura. Sólo asegúrate de que las deudas que tienes pendientes sean atendidas primero.
+Te encuentras ahora en una situación interesante con cierta actividad en tu sector de vidas pasadas, sueños e instituciones. Puede que sientas que tu vida laboral no está haciendo todo lo posible por ti. Puede que tengas más suerte trabajando para una entidad mayor. Gracias a tu sector de grupos, tus amistades te conectarán a una nueva compañía con más capacidad de pagarte lo que vales. Sueña en grande.

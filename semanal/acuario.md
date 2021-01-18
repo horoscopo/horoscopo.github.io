@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 11 de enero 2021 al 17 de enero 2021 
-description: Horóscopo semanal acuario 11 de enero 2021 al 17 de enero 2021. Sumisión contigo van a encontrar poca ahora acuario… Muy poca.
+title: acuario 18 de enero 2021 al 24 de enero 2021 
+description: Horóscopo semanal acuario 18 de enero 2021 al 24 de enero 2021. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Acuario, que no te entre la locura.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,17 +12,15 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-11'
+ lastmod: '2021-01-18'
 ---
 
 
 
-## Sumisión contigo van a encontrar poca ahora acuario… Muy poca.
+## “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Acuario, que no te entre la locura.
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes. Puede que sientas motivación a sacrificar tu tiempo y recursos para ayudar a los demás, sobre todo esta semana, cuando muchas personas se sientan solas o estén en necesidad de asistencia. Hacerlo podría ser muy gratificante y podría animarte a continuar tus actividades caritativas en el futuro. Debido a que se trata de una semana muy social, prepárate para recibir a algunos invitados inesperados debido a una celebración. La Luna Llena en Géminis de mitad de semana puede ser un tanto caprichosa, así que considera alivianar tu horario.
+Bueno Acuario, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así. El comienzo de la semana podría ser bastante intenso. Las conexiones con el apasionado Plutón te animan a conocer mejor a una persona. Puede que sientas fuertes deseos de estar en su compañía, lo que es genial si el sentimiento es mutuo. Si percibes resistencia, relájate y deja que las cosas se desarrollen de forma natural. La luna llena en tu sector social del jueves puede ser la ocasión perfecta para una celebración. El viernes es excelente para una cita especial con un nuevo amante o con tu pareja romántica.
 
 ## Dinero
 
-Es hora de pensar en cómo pudiste haber tomado la palabra de otras personas en asuntos de dinero o hayas tomado cierto esquema de inversión que es demasiado bueno para ser verdad. Puede ser que alguien te haya estado vendiendo difícilmente algo relacionado con las inversiones. Necesitas más tiempo para considerar el mejor camino para ti. Sé firme pero amable y asegúrate de que tienes el tiempo que necesitas. Tú sabes que es lo mejor para ti.
+Es una semana un poco difícil. Probablemente quieres tomar medidas, sobre todo cuando se trata de gastar en tu casa. Sin embargo, los aspectos restringen tal para tu disgusto. El hacer las cosas de la manera más tradicional o conservadora trae los mejores resultados cuando se trata de la línea de fondo. Es probable que el presionar demasiado fuerte para lo que quieres sea rechazado por las energías más fuertes.
