@@ -22,18 +22,23 @@
      {% else %}
      <amp-img src="{{ site.url }}{{ page.ogimg }}" width="1200" height="90" layout="responsive"></amp-img>
      {% endif %}
-      {% if page.horoscopo.video %}
+     
+     
+      {{ content }}
+     
+     
+     {% if page.horoscopo.signo %}
       <amp-iframe width=300 height=300
          sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
          layout="responsive"
          frameborder="0"
-         src="https://www.youtube.com/embed/{{ page.horoscopo.video }}">
+         src="https://www.youtube.com/embed/{{ site.data.semanal['general'].video }}">
       </amp-iframe>  
 
       {% endif %}
 
-      {{ content }}
-      
+     
+     
       {% if page.video %}
       <amp-iframe width=300 height=300
          sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
