@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 22 de enero 2021
-description: Horóscopos del dia de hoy 22 de enero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 23 de enero 2021
+description: Horóscopos del dia de hoy 23 de enero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-01-22
+ lastmod: 2021-01-23
 ---
-Hoy, el Universo se suaviza con emoción y las relaciones florecer cuando la Luna en Tauro forma sextil con Neptuno. Solteros, no hay misterio, es más bien química cuando Venus también aspecta a Neptuno. Las parejas deberían aprovechar esta energía cósmica y hablar sobre sus sueños. Crear imágenes del futuro es muy tranquilizador, ¿cierto?
+¡Cuidado! Ten cuidado con la tensión a medida que tratas de equilibrar tus obligaciones bajo la Luna en Aries. El antídoto es establecerte metas y ponerte a trabajar. Esta noche trae consigo todo el calor del trígono de fuego entre Marte y la Luna. Puede que sea una apasionante historia de amor, ¡aunque la estabilidad no sea su fuerte!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
