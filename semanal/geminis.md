@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 18 de enero 2021 al 24 de enero 2021 
-description: Horóscopo semanal geminis 18 de enero 2021 al 24 de enero 2021. Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+title: geminis 25 de enero 2021 al 31 de enero 2021 
+description: Horóscopo semanal geminis 25 de enero 2021 al 31 de enero 2021. No más paciencia Géminis. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,15 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-18'
+ lastmod: '2021-01-25'
 ---
 
 
 
-## Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+## No más paciencia Géminis. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 
-Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa Géminis, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora. Aunque tengas ansias de avanzar, otra parte de ti podría estar deseando tener más libertad y la oportunidad de hacer lo que te venga en gana. Esto es algo que necesitarás trabajar, sobre todo si tienes grandes planes para el futuro. Ciertamente vale la pena alinear todo tu ser con tus sueños y metas. No lograrás alcanzarlos si otros aspectos de tu ser no están sincronizados. Con el actual enfoque en tu sector espiritual, serías prudente al tomarte algo de tiempo para considerar lo que realmente quieres.
+Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Géminis, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real Géminis, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Géminis. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría Géminis, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
+A pesar de que siempre es bueno actuar con inspiración, no actúes impulsivamente en referente a una idea financiera. En esta ocasión podías estar induciéndote a un error. Hay un delicioso trígono entre Venus en tu signo y Marte en Sagitario, sugiriendo que el romance es posible si te sales de tu zona de confort. Este fin de semana, mantén los ojos bien abiertos a una oportunidad que podría dar lugar a un nuevo y emocionante desarrollo profesional. Por último, se te podría obligar a posponer algunos planes de viaje.
 
 ## Dinero
 
-El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.
+El Universo está exigiendo que pases más tiempo desarrollando tus relaciones más cercanas para que puedas beneficiarte personal y financieramente. El hacer más tiempo para aquellos que pudieran ayudarte a avanzar en tus objetivos no solamente es sensato/a, también es necesario para el logro de tus objetivos. Puede que estés en conversaciones para una mejor posición, la cuál llegará a lo grande.

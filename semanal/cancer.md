@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 18 de enero 2021 al 24 de enero 2021 
-description: Horóscopo semanal cancer 18 de enero 2021 al 24 de enero 2021. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: cancer 25 de enero 2021 al 31 de enero 2021 
+description: Horóscopo semanal cancer 25 de enero 2021 al 31 de enero 2021. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Cáncer. Hay personas a las que TÚ debes dar ese escarmiento.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-18'
+ lastmod: '2021-01-25'
 ---
 
 
 
-## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Cáncer. Hay personas a las que TÚ debes dar ese escarmiento.
 
-Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
-Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás… El conversador Mercurio, tu planeta regente, ingresa a su fase retrógrada en tu sector espiritual el miércoles y permanecerá así durante aproximadamente tres semanas. Esta fase puede ser una oportunidad para volver al pasado y resolver cualquier problema que haya estado retrasándote. Al mismo tiempo, el sol en este sector se alinea al incansable Urano en tu sector de viajes y aventura. La necesidad de emoción y de hacer algo distinto puede provocar una decisión espontánea, por lo que podrías hacer un viaje repentino. 
-El eclipse lunar del viernes podría afectar a tus sectores espiritual y de estilo de vida. Tal vez sientas la necesidad de reflexionar sobre tus rutinas y organizarte de manera práctica. Puede que esto signifique librarte de algunas actividades que, en realidad, no son beneficiosas para ti. Es momento de que te preguntes qué quieres realmente.
+En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien Cáncer…
+Te puede entusiasmar la posibilidad de un proyecto que tiene efecto a largo plazo. Una variedad dinámica de energías se pone en marcha al comienzo del mes y sigue en movimiento durante todo el mes. Y como te afecta personalmente, puedes disfrutar de muchos beneficios si sigues la corriente. La importancia está en el cambio constructivo y en progresar lento pero firmemente hacia una meta que puede revolucionar un aspecto clave de tu vida. Un evento de negocios también puede ser una buena oportunidad.
 
 ## Dinero
 
-Es importante que ésta semana comuniques tus ideas y necesidades lo más claramente posible. Notifica las cosas difíciles en reuniones con mentores y profesores. Mientras más pronto lo hagas, más pronto regresarás a la normalidad. Mientras tanto tus sueños pueden ser un poco borrosos. Tomate el tiempo necesario para enfocarte en tus metas personales y financieras.
+Esta semana se trata de la actividad que hay en tu sector de deuda o dinero de otras personas, lo que significa que algo que pensaste haber ya pagado, podría levantar su fea cabeza de nuevo. Asegúrate de haber tenido la intención de pagarlo, y de que accidentalmente haya sido olvidado en la pila de cuentas sin pagar. Encárgate de tal lo antes posible para evitar contratiempos. Haz tu trabajo lo mejor posible o cambia de carrera.

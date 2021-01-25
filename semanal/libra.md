@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 18 de enero 2021 al 24 de enero 2021 
-description: Horóscopo semanal libra 18 de enero 2021 al 24 de enero 2021. Llega una buena semana Libra, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+title: libra 25 de enero 2021 al 31 de enero 2021 
+description: Horóscopo semanal libra 25 de enero 2021 al 31 de enero 2021. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,15 +12,17 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-18'
+ lastmod: '2021-01-25'
 ---
 
 
 
-## Llega una buena semana Libra, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 
-A veces sientes como si no avanzaras Libra, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Libra, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Libra, feliz semana. A principios de la semana, el llamado de la selva podría ser el motivo por el que sientas atracción a explorar nuevos territorios o tomar una clase. La Luna Llena se manifestará entonces , así que trata de evitar actuar bajo impulso. Lo mejor sería que pensaras bien tus acciones para que no tengas que lamentarlas más tarde. Disfrutarás de las alegres discusiones que posiblemente surgirán jueves y viernes, las cuales podrían conducir a una profunda comprensión de cierto tema emocional en curso. Escucha a tu intuición el domingo.
+¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
+ lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Libra.
+El enfoque está en avanzar a paso seguro con un plan que podría llevar tu profesión por un nuevo camino. Sin embargo, una persona podría oponerse a lo que haces porque se siente dejada de lado. Esto podría ser un punto de inflexión para esta relación y podría ser que debas decidir si seguir adelante o darla por finalizada. Además, con el Eclipse Solar en tu sector de aventuras el domingo, puede que aparezcan nuevos horizontes que te atraigan y te lleven a dejar el pasado atrás.
 
 ## Dinero
 
-Estás pensando en grande esta semana. Puede que tengas la tentación de ponerte en contacto con los profesionales calificados que te ayudarán a poner tus finanzas en orden o bien decidir de una vez por todas el dejar de vivir esperando cheque tras cheque. Usa tu inteligencia innata y el poder de organización para hablar a favor de lo que quieres, y haz un plan infalible para lograr que se haga. Mantén enfoque y claridad acerca de  lo que quieres lograr.
+Para ti, esta semana se trata de tomar ventaja de las circunstancias que se presentan en tu vida laboral. Tienes suerte, así que puede que encuentres que tienes la oportunidad de impresionar a alguien que tiene poder para tomar decisiones financieras. Estas afectarán de manera positiva tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personales y financieras, el incorporarlas a tu vida cotidiana te hace más fuerte.

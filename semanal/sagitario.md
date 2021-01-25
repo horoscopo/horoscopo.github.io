@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 18 de enero 2021 al 24 de enero 2021 
-description: Horóscopo semanal sagitario 18 de enero 2021 al 24 de enero 2021. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+title: sagitario 25 de enero 2021 al 31 de enero 2021 
+description: Horóscopo semanal sagitario 25 de enero 2021 al 31 de enero 2021. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Sagitario.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,15 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-18'
+ lastmod: '2021-01-25'
 ---
 
 
 
-## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Sagitario.
 
-Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad Sagitario, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro. Tanto los recursos compartidos, los asuntos de negocios y la transformación son parte de la agenda conforme Mercurio se une al Sol en Escorpión. Esta puede ser una oportunidad para analizar por debajo de la superficie una situación o relación clave y quizás cambiar tu forma de pensar o creencias con el fin de influir positivamente en ella. Al mismo tiempo, una fuente profunda de inquietud podría inspirarte a desatender tus responsabilidades y centrarte más en el placer. Esto podría ser un error. Sería mejor tener un enfoque más prudente hacia el cambio.
+Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
+ por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
+Puede que te encante una idea con la que te identificas, pero quizá no te sea fácil convencer a los demás de qué tan buena sea. Si quieres la colaboración o el apoyo de otras personas, quizá sea más fácil que pongas la idea en marcha y les muestres cómo se hace. Durante el fin de semana quizá tengas una actitud más espiritual hacia los asuntos más profundos de la vida y esto podría generar un cambio en una relación importante.
 
 ## Dinero
 
-Esta semana estás acudiendo a tus amigos más cercanos, mentores, socios o compañeros para obtener más información financiera y apoyo. Puede ser tan simple como poner una idea de negocios en marcha durante el desayuno o el asesoramiento en un nuevo y complicado plan de negocios. De cualquier manera, te diriges a un nuevo tiempo de suerte y creatividad. No te encuentras solo/a en lo que estás haciendo ahora. Todos los ojos están puestos en ti y la gente llama a tu éxito.
+Mirando a tu sector de relaciones significativas, todo está bien en ese frente, pero no estaría de más revisar las finanzas compartidas para asegurarse de que ambos están al tanto del ahorro y el pago de la deuda o las cuentas. Mientras tanto, tu sector de comunicación está haciendo la pregunta, ¿cómo puede usar tus habilidades comunicativas para atraer más dinero? La escritura, en particular, puede ser lucrativa.
