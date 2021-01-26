@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de enero 2021
-description: Horóscopos del dia de hoy 25 de enero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de enero 2021
+description: Horóscopos del dia de hoy 26 de enero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-01-25
+ lastmod: 2021-01-26
 ---
-Saborea los grandes sentimientos de esta mañana. La comunicación es una prioridad durante el oportuno aspecto de la tarde entre la Luna y Mercurio. Esta noche, los planes pueden cambiar en el último momento con la Luna saliéndose de su órbita. ¿Tal vez algo fue programado con demasiada anticipación? No te preocupes, te saldrá bien al segundo intento.
+Puedes contar con cooperación y apoyo con la Luna formando sextil con Venus el día de hoy. Cuando una gran cantidad de personas trabajan juntas pueden crear milagros en la mitad del tiempo. ¡Hay que hablar de romances relámpagos! Esta tarde, la actitud de la gente da un giro y rompe el hechizo bajo la Luna saliéndose de su curso. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
