@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo acuario enero 2021 
+title: Horoscopo acuario febrero 2021 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Podrías sentir agobio cuando la Luna entre a Piscis el 5 de enero. Realmente no tienes el peso del mundo sobre tus hombros, aunque así se sienta. Durante la Luna Llena del 13 de enero, disfruta de un bien merecido tiempo en privado. Probablemente has estado trabajando horas extras en planes de vacaciones, en casa y en los placeres de otras personas. Descansa, recupérate y relájate. La Luna Nueva del 28 de enero sugiere que te relajes en los brazos del amor. Sin embargo, es una Luna Nueva extremadamente intensa. Es posible que necesites de un intenso y nuevo amor para distraerte de tus preocupaciones. Alternativamente, podría ser alguien que ya conoces con un afecto más fuerte y nuevo hacia ti.
+Pasa tiempo en tu barrio durante el fin de semana de la Luna Nueva del 4 de febrero y te divertirás más que si sales de tu ciudad. Prepárate para un acontecimiento repentino o cambio de plan que podría traerte una buena suerte proveniente de muy lejos. Es comprensible que sientas inquietud alrededor de la Luna Llena del 19 de febrero debido a tanta gente tratando de dirigirte hacia un lado u otro o que hagas una cosa u otra. Diviértete y mantente firme hasta que lo que más te atraiga se haga más evidente. El amor puede ser increíblemente dulce con Venus formando trígono con Urano el 31 de febrero, cuando incluso algo muy inusual podría suceder.  

@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo tauro enero 2021
-description: El Horóscopo enero de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo tauro febrero 2021
+description: El Horóscopo febrero de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/tauro/
 amplink: /horoscopo-mensual/amp/tauro/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo tauro enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo tauro febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-La conjunción entre la Luna y Venus y el trígono entre la Luna y Neptuno del 3 de enero traen consigo sueños y oportunidades románticas. Protege tus sentimientos. Un desafío inesperado podría surgir en torno a los días de la Luna Llena del 15 de enero. Podría ser intrascendente, pero hay el riesgo de que reacciones exageradamente. Si sientes agobio, da un paso atrás y date más espacio. Puedes con esto. La Luna Nueva del 30 de enero amplía enormemente tu mundo en las formas más útiles. Podrías empezar a estudiar un nuevo idioma o conectar con una nueva y exótica persona que alimente tus experiencias actuales. (Una parte diferente de tu propio país califica como exótica.)
+Sal a divertirte seriamente en la primera semana de febrero. Conoce gente nueva y haz nuevas amistades. No tienen que volverse íntimas de inmediato. La Luna Llena del 3 de febrero te anima a ser más sociable. Una grande tentación o riesgo podrían captar tu atención alrededor de la Luna Nueva del 17 de febrero. Por lo general no te atraen los grandes riesgos, pero esta vez tienes la energía y la pasión para hacer más. Considera lo que valga la pena probar. Durante el fin de semana del 23 de febrero, ¡trabaja seriamente para posteriormente poder divertirte igual de maravillosamente!    

@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo capricornio enero 2021
-description: El Horóscopo enero de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo capricornio febrero 2021
+description: El Horóscopo febrero de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo capricornio enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo capricornio febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-El 7 de enero es un día lleno de amor y sueños, cuando la Luna conjunta a Venus y también forma trígono con Neptuno. Goza del espíritu navideño y niégate a permitir que te apresuren o te critiquen. Descansa más de lo normal y tómate tus vitaminas alrededor de la Luna Nueva del 11 de enero, especialmente si tu familia o ciertos asuntos hogareños están drenando tu energía y haciendo que te sientas mayor de lo que eres. Ten bondad con tu propio ser. La Luna Llena del 25 de enero podría estar llena de gente yendo y viniendo y actividades que puede que no te emocionen totalmente. Sin embargo, te encantará tener contacto con tu familia junto a todos esos tradicionales adornos navideños.
+Alguien podría pedirte un favor o un consejo cerca de la Luna Llena del 12 de febrero. O quizás podrías encontrar la solución al problema o dilema de un amigo. No deberían esperar que actúes de un modo muy distinto al de siempre, pero ofrecer una solución simple está bien. Toma el control de una situación desafiante cuando la Luna conecte con Saturno en Sagitario el 24 de febrero. Tienes la capacidad y la autoridad para hacerlo. La Luna Nueva del 27 de febrero podría poner en escena a muchas amistades que tienen excelentes planes sobre cómo puedes aprovechar tu tiempo. Y podrías aceptar algunas de sus propuestas.

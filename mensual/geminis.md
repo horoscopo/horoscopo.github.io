@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo geminis enero 2021
-description: El Horóscopo enero de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo geminis febrero 2021
+description: El Horóscopo febrero de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo geminis enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo geminis febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
@@ -16,4 +16,9 @@ sitemap:
 ---
 
 
-Compórtate audaz y creativamente bajo la Luna Nueva del 8 de enero. Es posible que desees hacer más y ayudar más de lo que el tiempo lo permita; y es posible que lo logres. Lánzate a hacerlo, sólo recuerda no descuidar tus responsabilidades hogareñas. Trátate bien y permite que los demás hagan lo mismo bajo la Luna Llena del 22 de enero, cuando es posible que desees comportarte más privadamente y guardarte tus pensamientos y sentimientos, aunque la gente quiera tener apertura hacia ti. Cambia de opinión tan a menudo como quieras cuando la conjunción entre el Sol y Neptuno del 28 de enero cree frescos deseos en ti, pero la cuadratura entre la Luna y Venus se los lleve.
+Eres un imán social con la luna nueva del 7 de febrero. Personas con las que nunca consideraste hablar podrían verse atraídas a ti en busca de opiniones, consejos y reconocimiento. Sé amable, pero no elogies porque sí. El día 11, una conjunción entre la luna y Saturno te da un poco más de autoridad para alcanzar muchas metas. Actúa con responsabilidad y respeto. 
+Venus se torna retrógrado y Mercurio se torna directo el 16 de febrero. Una relación podría volverse más auténtica, si no más fácil, en los próximos días. Los malentendidos todavía son posibles. 
+Durante la luna llena del día 22, puede que tengas muchas cosas encima, y pensar que no tienes tiempo para nada más. Relájate, si puedes, y alivia el estrés con proyectos o tareas pequeñas pero placenteras que simplemente te hagan sentir mejor contigo. No dejes que el mundo te agobie (y lo intentará). 
+El sextil entre Marte y Saturno el 27 de febrero facilita trabajar de manera efectiva. 
+Días destacados: 2, 21, 29
+Días desafiantes: 12, 25

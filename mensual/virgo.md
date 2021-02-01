@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo virgo enero 2021
-description: El Horóscopo enero de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo virgo febrero 2021
+description: El Horóscopo febrero de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo virgo enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo virgo febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
@@ -16,9 +16,4 @@ sitemap:
 ---
 
 
-El trígono que el sol forma con Neptuno el 5 de enero mantiene el amor y los sueños vivos y brillantes. Tu mundo se vuelve más grande de la forma más fundamental durante la luna nueva del día 7. No seas tan local. Expándete y busca la aventura. 
-Marte entra a Piscis el día 15. Tal vez sea incómodo, pero el afecto sincero no será negado. Al día siguiente, Venus se torna directo y Mercurio se torna retrógrado. Organízate, y no esperes que el romance se encienda de repente. El amor verdadero sigue vivo, aunque no sea visible. 
-Tu ambiente doméstico entra en enfoque durante la luna llena del 22 de enero. Puedes terminar con facilidad una remodelación, reestructuración, o cualquier otra tarea importante que sea grande y agotante. También puedes encontrar personas que te den una mano, si la quieres o necesitas. Siéntete feliz con la forma en que tu espacio se siente y se ve, incluso si es solo después de acomodar tus libros o pertenencias. 
-La conjunción entre el sol y Júpiter el día 25 ablanda tu corazón y muestra lo generoso que puede ser el mundo. 
-Días destacados: 5, 17, 25
-Días desafiantes: 19, 30
+No hay luna llena este mes, pero el 1 de febrero es el día posterior a una luna llena, y el 28 de febrero es el día previo a otra. La gente puede estar más activa social y emocionalmente cuando el mes comienza y cuando se acaba. Venus entra a Piscis el día 10, y el romance y tu vida social podrían volverse más dulces y compasivos. Hay amor y amistad en todas partes. La luna nueva (y el eclipse solar) del 15 de febrero podría darte una gran oportunidad en el trabajo o en tu vida pública. Llénate de confianza y prepárate para decir lo que piensas justo en el momento adecuado. Aquellos a tu alrededor oirán tus palabras y apreciarán tus esfuerzos. 
