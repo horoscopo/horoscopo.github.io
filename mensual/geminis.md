@@ -20,5 +20,5 @@ Eres un imán social con la luna nueva del 7 de febrero. Personas con las que nu
 Venus se torna retrógrado y Mercurio se torna directo el 16 de febrero. Una relación podría volverse más auténtica, si no más fácil, en los próximos días. Los malentendidos todavía son posibles. 
 Durante la luna llena del día 22, puede que tengas muchas cosas encima, y pensar que no tienes tiempo para nada más. Relájate, si puedes, y alivia el estrés con proyectos o tareas pequeñas pero placenteras que simplemente te hagan sentir mejor contigo. No dejes que el mundo te agobie (y lo intentará). 
 El sextil entre Marte y Saturno el 27 de febrero facilita trabajar de manera efectiva. 
-Días destacados: 2, 21, 29
+Días destacados: 2, 21, 28
 Días desafiantes: 12, 25
