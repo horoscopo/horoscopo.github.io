@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 25 de enero 2021 al 31 de enero 2021 
-description: Horóscopo semanal virgo 25 de enero 2021 al 31 de enero 2021. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+title: virgo 01 de febrero 2021 al 07 de febrero 2021 
+description: Horóscopo semanal virgo 01 de febrero 2021 al 07 de febrero 2021. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Virgo. Pero sigue protegiéndote a ti mismo…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-25'
+ lastmod: '2021-02-01'
 ---
 
 
 
-## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Virgo. Pero sigue protegiéndote a ti mismo…
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Virgo, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-Pareces estar haciendo un buen progreso y esta tendencia se mantiene durante la semana con un espléndido conjunto de influencias que ayudan a marcar tu camino hacia el éxito. Ahora puede ser tu oportunidad de dar el gran paso que siempre has soñado, especialmente cuando la luna nueva está perfectamente ubicada para acompañarte en tu búsqueda y ayudarte a desarrollar tus planes. El enfoque se desplaza hacia un sector más tranquilo que te motiva a socializar e interactuar con otras personas, lo cual puede hacerte bien.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega Virgo. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+A medida que Mercurio conecta con Júpiter en tu sector social, puede que quieras intentar una nueva experiencia para ver cómo te sientes, en especial si también puedes incluir a tus amistades. Sin embargo, otra influencia sugiere que, si piensas demasiado en esto, puede que termines en un estado de parálisis analítica y que no llegues a ninguna parte. Pedirle consejos a una amistad o pesar las ventajas y desventajas puede ayudarte a tomar una decisión más fácilmente. Al fin y al cabo, ¿qué tienes que perder?
 
 ## Dinero
 
-Esta semana te está pidiendo el centrarte más en tu carrera. Sueles ser bastante tradicional y conservador/a por naturaleza, pero ahora es posible que te hayas olvidado de tales cualidades, aunque sólo un rato. Si dejas que los demás sepan cuáles son tus metas, incluyendo la posición y el sueldo que quisieras, podrías ser sorprendido/a con lo dispuestos que tus patrones estarían para cumplirlo. Sólo sé extremadamente claro/a.
+Ciertos aspectos en tu sector que gobierna el flujo de efectivo, indican un tiempo de renovación de tu cuenta bancaria. Podrías utilizar un poco de suerte por ahora, pero tal vez te conformes con un poco de energía concentrada aquí. Tendrás mucha más energía para la planificación de tu vida monetaria y una actitud entusiasta sobre la realización de tus metas. Un aspecto armonioso llega cuando buscas pistas para hacer tus sueños realidad.

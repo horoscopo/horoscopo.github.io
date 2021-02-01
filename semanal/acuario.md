@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 25 de enero 2021 al 31 de enero 2021 
-description: Horóscopo semanal acuario 25 de enero 2021 al 31 de enero 2021. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+title: acuario 01 de febrero 2021 al 07 de febrero 2021 
+description: Horóscopo semanal acuario 01 de febrero 2021 al 07 de febrero 2021. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-25'
+ lastmod: '2021-02-01'
 ---
 
 
 
-## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 
-Por fin has tomado decisiones, y además decisiones que te benefician, 
-por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
-Podría ser difícil sacudirte la tentación de salir a gastar, especialmente con Marte en Leo fortaleciendo el deseo de ciertos objetos o experiencias. En caso de duda, lleva contigo a alguien que te ayude a evitar hacer compras imprudentes. La entrada de Júpiter a Virgo puede ser excelente para la comunicación, la enseñanza, el estudio y la escritura. Si trabajas en medios de comunicación, tus oportunidades podrían hacerse más abundante. Si has tenido la intención de escribir y publicar tu primera novela, este es definitivamente el momento para comenzar.
+Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
+Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
+Puede que te preguntes si estás haciendo lo correcto con respecto a un asunto familiar. Cuando el amistoso Venus se dirige al ejemplar Saturno en tu signo, puede que te sientas como el aguafiestas arruinando el espíritu festivo de los demás. Sin embargo, puede que haya algo de verdad en lo que dices y que lo prudente sea que tus familiares sigan tu consejo. También es posible que un compromiso funcione igual de bien. El fogoso Marte ingresa a tu signo el fin de semana, lo que podría darte nuevas energías e inspiración.
 
 ## Dinero
 
-Esta semana tienes una situación única en tus manos con respecto a tu deuda y el dinero de otras personas. Aunque parte de ti quiere progresar en el frente de pago de deuda, otra parte puede contenerte de hacer mucho. Una cosa es segura – tener una actitud proactiva y la aceptación de todas tus responsabilidades te obtendrá los mejores resultados a largo plazo.
+Todas las cosas buenas les vienen a aquellos que esperan, pero tú no tienes que esperar mucho tiempo para las cosas buenas. Ciertos aspectos afectan tu sector de vidas pasadas, karma e instituciones, por lo que estás recibiendo todo tipo de información valiosa en tus sueños y destellos psíquicos. Asegúrate de prestarles atención. Es posible que dudes de tus pensamientos demasiado. A partir de esta semana, confía en ellos para lograr todo lo que quieres lograr.

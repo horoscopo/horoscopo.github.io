@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 25 de enero 2021 al 31 de enero 2021 
-description: Horóscopo semanal sagitario 25 de enero 2021 al 31 de enero 2021. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Sagitario.
+title: sagitario 01 de febrero 2021 al 07 de febrero 2021 
+description: Horóscopo semanal sagitario 01 de febrero 2021 al 07 de febrero 2021. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-01-25'
+ lastmod: '2021-02-01'
 ---
 
 
 
-## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Sagitario.
+## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 
-Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
- por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
-Puede que te encante una idea con la que te identificas, pero quizá no te sea fácil convencer a los demás de qué tan buena sea. Si quieres la colaboración o el apoyo de otras personas, quizá sea más fácil que pongas la idea en marcha y les muestres cómo se hace. Durante el fin de semana quizá tengas una actitud más espiritual hacia los asuntos más profundos de la vida y esto podría generar un cambio en una relación importante.
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
+Puede que una oportunidad asociada con tu profesión o ambición aparezca en las cartas esta semana. Con la Luna Nueva alentándote, quizá te convenga aprovecharla. Este es el momento indicado para hacerlo, ya que no tienes ningún apuro. Con Venus en ese mismo sector y actualmente en fase retrógrada, las cosas podrían cambiar en las próximas semanas. Si te mueves paso a paso, podrás navegar estas semanas con habilidad y confianza.
 
 ## Dinero
 
-Mirando a tu sector de relaciones significativas, todo está bien en ese frente, pero no estaría de más revisar las finanzas compartidas para asegurarse de que ambos están al tanto del ahorro y el pago de la deuda o las cuentas. Mientras tanto, tu sector de comunicación está haciendo la pregunta, ¿cómo puede usar tus habilidades comunicativas para atraer más dinero? La escritura, en particular, puede ser lucrativa.
+Lo más probable es que seas alguien muy organizado con su dinero. Lo llevas en la sangre. Incluso si tu mantenimiento de registros no es el mejor, es probable que lo lleves todo en tu cabeza. Tienes una oportunidad única, aparentemente de la nada, para llevar tu trabajo a casa de algún modo. Es un buen momento para establecer un negocio basado en tu hogar o incluso hacer de la construcción o la decoración de casas tu nuevo trabajo. ¡Usa tus habilidades para obtener los mejores resultados!
