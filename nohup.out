@@ -1421,3 +1421,147 @@ Grabando a: “cerdo.html”
 
 2018-01-01 13:58:34 (245 KB/s) - “cerdo.html” guardado [101581/101581]
 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1880    0     0  100  1880      0   1448  0:00:01  0:00:01 --:--:--  1448100  1880    0     0  100  1880      0    817  0:00:02  0:00:02 --:--:--   817100  1880    0     0  100  1880      0    569  0:00:03  0:00:03 --:--:--   569100  1880    0     0  100  1880      0    437  0:00:04  0:00:04 --:--:--   437100  1880    0     0  100  1880      0    354  0:00:05  0:00:05 --:--:--   354100  1880    0     0  100  1880      0    298  0:00:06  0:00:06 --:--:--     0100  1880    0     0  100  1880      0    257  0:00:07  0:00:07 --:--:--     0100  1880    0     0  100  1880      0    226  0:00:08  0:00:08 --:--:--     0100  8409  100  6529  100  1880    739    212  0:00:08  0:00:08 --:--:--  1026
+Failed to get connection
+** (inkscape:25801): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:25801): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:25801): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/aries.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   980    0     0  100   980      0    672  0:00:01  0:00:01 --:--:--   672100   980    0     0  100   980      0    398  0:00:02  0:00:02 --:--:--   398100   980    0     0  100   980      0    283  0:00:03  0:00:03 --:--:--   283100   980    0     0  100   980      0    219  0:00:04  0:00:04 --:--:--   219100   980    0     0  100   980      0    179  0:00:05  0:00:05 --:--:--   179 66  7509   61  3995  100   980    711    174  0:00:09  0:00:05  0:00:04   725100  7509  100  6529  100   980   1158    173  0:00:05  0:00:05 --:--:--  1747
+Failed to get connection
+** (inkscape:25830): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:25830): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:25830): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/tauro.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1656    0     0  100  1656      0   3647 --:--:-- --:--:-- --:--:--  3647100  1656    0     0  100  1656      0    728  0:00:02  0:00:02 --:--:--   728100  1656    0     0  100  1656      0    505  0:00:03  0:00:03 --:--:--   505100  1656    0     0  100  1656      0    387  0:00:04  0:00:04 --:--:--   387100  1656    0     0  100  1656      0    313  0:00:05  0:00:05 --:--:--   313100  1656    0     0  100  1656      0    263  0:00:06  0:00:06 --:--:--     0100  1656    0     0  100  1656      0    227  0:00:07  0:00:07 --:--:--     0 69  8185   61  3995  100  1656    522    216  0:00:12  0:00:07  0:00:05   534100  8185  100  6529  100  1656    851    215  0:00:07  0:00:07 --:--:--  1436
+Failed to get connection
+** (inkscape:25840): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:25840): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:25840): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/geminis.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1104    0     0  100  1104      0   3387 --:--:-- --:--:-- --:--:--  3386100  1104    0     0  100  1104      0    514  0:00:02  0:00:02 --:--:--   514100  1104    0     0  100  1104      0    350  0:00:03  0:00:03 --:--:--   350100  1104    0     0  100  1104      0    266  0:00:04  0:00:04 --:--:--   266100  1104    0     0  100  1104      0    214  0:00:05  0:00:05 --:--:--   214100  1104    0     0  100  1104      0    179  0:00:06  0:00:06 --:--:--     0 66  7633   61  3995  100  1104    613    169  0:00:10  0:00:06  0:00:04   662100  7633  100  6529  100  1104   1000    169  0:00:06  0:00:06 --:--:--  1604
+Failed to get connection
+** (inkscape:25918): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:25918): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:25918): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/cancer.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1112    0     0  100  1112      0   1077  0:00:01  0:00:01 --:--:--  1077100  1112    0     0  100  1112      0    546  0:00:02  0:00:02 --:--:--   546100  1112    0     0  100  1112      0    366  0:00:03  0:00:03 --:--:--   366100  1112    0     0  100  1112      0    275  0:00:04  0:00:04 --:--:--   275100  1112    0     0  100  1112      0    220  0:00:05  0:00:05 --:--:--   220100  1112    0     0  100  1112      0    184  0:00:06  0:00:06 --:--:--     0100  7641  100  6529  100  1112   1018    173  0:00:06  0:00:06 --:--:--  1238
+Failed to get connection
+** (inkscape:25930): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:25930): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:25930): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/leo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1100    0     0  100  1100      0    959  0:00:01  0:00:01 --:--:--   959100  1100    0     0  100  1100      0    512  0:00:02  0:00:02 --:--:--   512100  1100    0     0  100  1100      0    349  0:00:03  0:00:03 --:--:--   349100  1100    0     0  100  1100      0    265  0:00:04  0:00:04 --:--:--   265100  1100    0     0  100  1100      0    213  0:00:05  0:00:05 --:--:--   213100  1100    0     0  100  1100      0    178  0:00:06  0:00:06 --:--:--     0100  7629  100  6529  100  1100    998    168  0:00:06  0:00:06 --:--:--  1236
+Failed to get connection
+** (inkscape:25936): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:25936): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:25936): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/virgo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1910    0     0  100  1910      0   1667  0:00:01  0:00:01 --:--:--  1668100  1910    0     0  100  1910      0    889  0:00:02  0:00:02 --:--:--   890100  1910    0     0  100  1910      0    606  0:00:03  0:00:03 --:--:--   606100  1910    0     0  100  1910      0    460  0:00:04  0:00:04 --:--:--   460100  1910    0     0  100  1910      0    370  0:00:05  0:00:05 --:--:--   370100  1910    0     0  100  1910      0    310  0:00:06  0:00:06 --:--:--     0100  1910    0     0  100  1910      0    267  0:00:07  0:00:07 --:--:--     0100  1910    0     0  100  1910      0    234  0:00:08  0:00:08 --:--:--     0100  8439  100  6529  100  1910    769    225  0:00:08  0:00:08 --:--:--  1066
+Failed to get connection
+** (inkscape:25994): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:25994): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:25994): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/libra.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1007    0     0  100  1007      0    829  0:00:01  0:00:01 --:--:--   829100  1007    0     0  100  1007      0    454  0:00:02  0:00:02 --:--:--   454100  1007    0     0  100  1007      0    313  0:00:03  0:00:03 --:--:--   313100  1007    0     0  100  1007      0    238  0:00:04  0:00:04 --:--:--   238100  1007    0     0  100  1007      0    192  0:00:05  0:00:05 --:--:--   192100  7536  100  6529  100  1007   1211    186  0:00:05  0:00:05 --:--:--  1322
+Failed to get connection
+** (inkscape:26006): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:26006): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:26006): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/escorpio.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1185    0     0  100  1185      0   5569 --:--:-- --:--:-- --:--:--  5563100  1185    0     0  100  1185      0    582  0:00:02  0:00:02 --:--:--   583100  1185    0     0  100  1185      0    390  0:00:03  0:00:03 --:--:--   390100  1185    0     0  100  1185      0    293  0:00:04  0:00:04 --:--:--   293100  1185    0     0  100  1185      0    235  0:00:05  0:00:05 --:--:--   235100  1185    0     0  100  1185      0    196  0:00:06  0:00:06 --:--:--     0100  1185    0     0  100  1185      0    168  0:00:07  0:00:07 --:--:--     0100  1185    0     0  100  1185      0    147  0:00:08  0:00:08 --:--:--     0100  1185    0     0  100  1185      0    131  0:00:09  0:00:09 --:--:--     0100  1185    0     0  100  1185      0    117  0:00:10  0:00:10 --:--:--     0100  1185    0     0  100  1185      0    107  0:00:11  0:00:11 --:--:--     0100  1185    0     0  100  1185      0     98  0:00:12  0:00:12 --:--:--     0 67  7714   61  3995  100  1185    313     92  0:00:20  0:00:12  0:00:08   595100  7714  100  6529  100  1185    510     92  0:00:12  0:00:12 --:--:--  1429
+Failed to get connection
+** (inkscape:26016): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:26016): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:26016): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/sagitario.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1032    0     0  100  1032      0    998  0:00:01  0:00:01 --:--:--   999100  1032    0     0  100  1032      0    507  0:00:02  0:00:02 --:--:--   507100  1032    0     0  100  1032      0    339  0:00:03  0:00:03 --:--:--   340100  1032    0     0  100  1032      0    255  0:00:04  0:00:04 --:--:--   255100  1032    0     0  100  1032      0    204  0:00:05  0:00:05 --:--:--   204100  7561  100  6529  100  1032   1218    192  0:00:05  0:00:05 --:--:--  1271
+Failed to get connection
+** (inkscape:26037): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:26037): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:26037): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/capricornio.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1076    0     0  100  1076      0   1041  0:00:01  0:00:01 --:--:--  1041100  1076    0     0  100  1076      0    528  0:00:02  0:00:02 --:--:--   529100  1076    0     0  100  1076      0    354  0:00:03  0:00:03 --:--:--   354100  1076    0     0  100  1076      0    266  0:00:04  0:00:04 --:--:--   266100  1076    0     0  100  1076      0    213  0:00:05  0:00:05 --:--:--   213100  1076    0     0  100  1076      0    178  0:00:06  0:00:06 --:--:--     0 29  7605   18  1179  100  1076    184    168  0:00:35  0:00:06  0:00:29    23100  7605  100  6529  100  1076   1018    167  0:00:06  0:00:06 --:--:--  1614
+Failed to get connection
+** (inkscape:26042): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:26042): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:26042): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/acuario.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1092    0     0  100  1092      0    857  0:00:01  0:00:01 --:--:--   857100  1092    0     0  100  1092      0    479  0:00:02  0:00:02 --:--:--   480100  1092    0     0  100  1092      0    333  0:00:03  0:00:03 --:--:--   333100  1092    0     0  100  1092      0    255  0:00:04  0:00:04 --:--:--   255100  1092    0     0  100  1092      0    206  0:00:05  0:00:05 --:--:--   206100  7621  100  6529  100  1092   1182    197  0:00:05  0:00:05 --:--:--  1280
+Failed to get connection
+** (inkscape:26087): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:26087): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:26087): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/piscis.png
