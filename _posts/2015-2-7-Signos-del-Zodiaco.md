@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de febrero 2021
-description: Horóscopos del dia de hoy 03 de febrero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de febrero 2021
+description: Horóscopos del dia de hoy 04 de febrero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-02-03
+ lastmod: 2021-02-04
 ---
-Un momento de epifanía surge bajo la Luna Nueva en Capricornio. Prepárate para dejarte sorprender por tu resistencia. Es lo que te hace capaz de grandes cosas. Esta noche, no presiones a la gente para que supere sentimientos. Las cosas nunca se arreglan de tal manera, necesitan ser habladas y las personas todavía gozan el valor del aspecto cósmico de ayer para hacerlo.
+Con Mercurio cuadrando a Saturno, las personas podrían quedarse sin palabras hoy. Lo cual puede que sea algo bueno. Sí, a veces el silencio es oro. Las chispas vuelan mientras Venus cuadra a Marte esta noche. El amor se desarrolla más fácil con ciertas personas. Solteros, algunas personas con las que se topan son peores que otras. Confíen en su instinto.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
