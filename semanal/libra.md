@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 01 de febrero 2021 al 07 de febrero 2021 
-description: Horóscopo semanal libra 01 de febrero 2021 al 07 de febrero 2021. No es que estés cambiando Libra, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+title: libra 08 de febrero 2021 al 14 de febrero 2021 
+description: Horóscopo semanal libra 08 de febrero 2021 al 14 de febrero 2021. Da la bienvenida a tu nueva vida Libra, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-01'
+ lastmod: '2021-02-08'
 ---
 
 
 
-## No es que estés cambiando Libra, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+## Da la bienvenida a tu nueva vida Libra, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 
-No desperdicies ni un solo día de tu vida Libra porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio Libra, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la Libra de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida Libra. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
-Tus relaciones románticas adquieren un tono intenso y pasional, lo que podría aumentar el grado de intimidad. Si tú y alguien apenas se están llegando a conocer, la vibra entre ustedes podría ponerse muy candente a lo largo de la próxima semana. Asegúrate de realmente querer esto antes de involucrarte demasiado. Venus entra a Virgo el Sábado, añadiéndole calidez a todas tus interacciones románticas y comerciales. Sin embargo, evita criticar demasiado a ciertas personas si quieres mantener la paz.
+Tu cabeza quiere un cambio Libra, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira Libra, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero Libra por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
+Es hora de quitar el pie del acelerador y relajarte conforme el Sol se mueve a una parte más aislada de tu carta. Aunque puede que te ocupes explorando nuevas opciones o al cerrar interesantes tratos, es necesario mantener un ritmo ligero con el fin de tomar la oportunidad de recargar baterías. Esto es particularmente cierto en torno al Jueves, cuando sería prudente que no te sumergieras de lleno en preparaciones complicadas, sino más bien que delegues parte del trabajo si te es posible. Relajarte con regularidad puede aumentar tu productividad en general.
 
 ## Dinero
 
-Estás atrapado/a en fuego cruzado y puede que tengas que recurrir a tus excelentes dotes diplomáticos para suavizar algo más. Tu vida monetaria se encuentra mucho mejor últimamente, sobre todo desde que empezaste a implementar  tu lado creativo, lo cuál te traerá suerte. Sin embargo, tus amigos y las redes sociales no son sólo para llevarse bien. Algunos pueden estar molestos por tu éxito. En lugar de tomarlo como algo personal, estate consciente de que esto también pasará.
+Tienes actividad en tu sector de dinero y valores. Podría significar fortuna extrema que podría ya ser inestable o de corta duración. Si eres del tipo que arriesga, no es una mala semana para darle un giro a la rueda de la ruleta, pero guárdate la mitad de lo que ganes en el bolsillo - y no lo toques. Debido a que tu sector  de relaciones se ve afectado, puedes irritar a alguien si no tienes el suficiente cuidado.

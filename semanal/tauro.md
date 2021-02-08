@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 01 de febrero 2021 al 07 de febrero 2021 
-description: Horóscopo semanal tauro 01 de febrero 2021 al 07 de febrero 2021. No te destruyas Tauro, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+title: tauro 08 de febrero 2021 al 14 de febrero 2021 
+description: Horóscopo semanal tauro 08 de febrero 2021 al 14 de febrero 2021. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-01'
+ lastmod: '2021-02-08'
 ---
 
 
 
-## No te destruyas Tauro, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 
-Los finales no significan que hayas fallado en algo Tauro, los finales a veces sirven para abrir nuevas puertas a algo. Tauro, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza Tauro…
-El encantador Venus en tu sector de comunicación podría captar tu interés por salir y hacer algo distinto. Es una excelente semana para reunirte con tus amistades y disfrutar de divertidos encuentros, en especial si te atreves a moverte en nuevos círculos. En lo que respecta a tu carrera y tus metas, el etéreo Neptuno se vuelve retrógrado el lunes, lo que podría traer consigo la comprensión de algunas cuestiones. Puede que no suceda de la noche a la mañana, pero tal vez te des cuenta de las fallas de un plan o ambición durante los próximos días y semanas. Cuando lo hagas, será momento de actuar. 
-El ingreso del sol a Cáncer y a tu sector monetario el jueves podría animarte a pensar en tu seguridad financiera y en cómo puedes obtener una mayor rentabilidad con tu dinero. Pero trata de tener cuidado el fin de semana, ya que alguien puede intentar darte órdenes. De ser así, ponte firme. 
+Se avecinan cosas nuevas Tauro, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar Tauro, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin Tauro, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
+El dulce Venus, tu planeta regente, en tu sector espiritual se opone al escurridizo Neptuno en tu sector de estilo de vida el martes, por lo que tal vez te resulte difícil negarte si alguien te pide ayuda. Si lo hace habitualmente, no te sientas culpable por cortar la situación de raíz. Una vez está bien, pero si sucede con demasiada frecuencia, podrías desgastarte. El positivo Mercurio se vuelve retrógrado en tu sector social el miércoles y permanece así durante alrededor de tres semanas. Este período podría coincidir con confusos mensajes y malentendidos. Verifica dos veces la hora de turnos y citas para evitar un vergonzoso incidente. 
+El eclipse lunar en tu sector de recreación podría animarte a deshacerte del miedo a tomar riesgos y a tener el valor de seguir adelante. Esto se aplica al amor así como a los proyectos creativos. Cuando el vital Marte forma parte de la combinación, el deseo podría actuar como catalizador del progreso.
 
 ## Dinero
 
-Esta semana te encuentras pensando en nuevas maneras de hacer dinero que involucren el hogar. Ya sea que se trate de construir una nueva oficina en el hogar, la compra de apartamentos o comenzar un negocio de decoración del hogar, aquí es donde el dinero está ahora. Pero puede que no estés pensando claramente cuando se trata de tu situación de deuda. Date el tiempo necesario para leer y llenar documentos lenta y cuidadosamente antes de firmarlos.
+Actualmente los aspectos afectan tu sector de dinero y valores. Pero la gran novedad está en tu sector de negocio propio y de grupos. Es hora de correr la voz sobre lo que haces para poder atraer a más clientes, ganar más dinero, e incluso empezar la cuenta de jubilación que has estado planeando.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 01 de febrero 2021 al 07 de febrero 2021 
-description: Horóscopo semanal geminis 01 de febrero 2021 al 07 de febrero 2021. Dedícate la semana a ti Géminis, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+title: geminis 08 de febrero 2021 al 14 de febrero 2021 
+description: Horóscopo semanal geminis 08 de febrero 2021 al 14 de febrero 2021. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-01'
+ lastmod: '2021-02-08'
 ---
 
 
 
-## Dedícate la semana a ti Géminis, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 
-Quita importancia a las cosas Géminis, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Géminis. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
-Puede que necesites reconsiderar una idea, en particular si las cosas no están funcionando como esperabas. Sin embargo, con el impredecible Mercurio actualmente en su fase retrógrada en tu sector de objetivos, estará bien no apresurarte demasiado. Al mismo tiempo, una oportunidad podría hacerse posible, y este puede ser el momento en que necesites actuar con rapidez, si no, podrías perdértela. Cuando se trata de asuntos monetarios, permite que tu intuición guíe tus acciones.
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Géminis, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+La Luna Creciente de esta semana sugiere que ciertos conflictos podrían surgir si una persona considera los detalles importantes mientras otra los ve como irrelevantes. Acaparar ambos extremos del espectro puede darte una nueva perspectiva sobre las cosas. Más tarde, el Sol ilumina tu sector de diversión, entretenimiento y romance. Es hora de relajarte y disfrutar de la vida ya sea que eso signifique hacer ejercicio, irte de vacaciones, o hacer cosas creativas. Además, Marte en tu sector hogareño podría darte ganas de organizarte.
 
 ## Dinero
 
-Este período es de los aspectos que afectan a las vidas pasadas, karma y las instituciones. De repente puedes ser presa de un deseo de cambiar de trabajo, iniciar una obra de caridad, o desarrollar un nuevo negocio. Hacer una investigación cuando puedas y luego crear un plan de negocios que se ve por lo menos cinco años en el futuro. Es posible hacer que funcione.
+Esta semana, los aspectos afectan tu sector de instituciones, vidas pasadas, y karma. Lo que pones en tu trabajo y dinero es lo que recibes, dice el Universo. Si te has negado a planificar para la jubilación o el ahorro en general, esta es la semana para escuchar a tu intuición y poner manos a la obra.

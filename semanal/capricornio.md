@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 01 de febrero 2021 al 07 de febrero 2021 
-description: Horóscopo semanal capricornio 01 de febrero 2021 al 07 de febrero 2021. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+title: capricornio 08 de febrero 2021 al 14 de febrero 2021 
+description: Horóscopo semanal capricornio 08 de febrero 2021 al 14 de febrero 2021. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Capricornio. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-01'
+ lastmod: '2021-02-08'
 ---
 
 
 
-## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Capricornio. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
 
-Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo Capricornio… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Capricornio, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Capricornio. Lo vas a agradecer… Feliz semana.
-Debido a que Mercurio comienza su danza hacia atrás el jueves, es posible que notes su influencia si estás de viaje o de vacaciones. Sería útil que tuvieras una lista preparada antes de salir y asegurarte de que hayas empacado todo lo necesario. Y a pesar de haberte preparado, espera algunos desvíos inesperados a lo largo del camino. Por último, Venus entrando a Tauro este viernes podría poner un romance en tu camino si es que decides salirte de tu zona de confort.
+Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo Capricornio, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no Capricornio, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
+Te sentirás más en tu elemento como Marte entrando de nuevo a tu signo el martes. Tendrás energía para hacerle frente a cualquier desafío y es probable que sientas más confianza con el resultado. La Luna Nueva en tu sector de aventura podría ser un llamado a probar tu suerte en algo diferente o tal vez tomar un curso que te enseñe una nueva habilidad. Explorar nuevas opciones puede ser muy valioso en las próximas semanas. Además, tu encanto también puede ayudarte a salir adelante en tu carrera.
 
 ## Dinero
 
-Puede que estés en medio de un cambio de vida grande. Puede que en el pasado no te haya importado la forma en la que te dirigías a los demás con tal de avanzar en la escalera corporativa. En este momento, el Universo te está empujando hacia una forma más diplomática pero seria de expresarte. Hay aspectos que realzan tu creatividad, así como a tu familia y la exuberancia. El efectivo viene cuando les muestras de lo que estás hecho/a.
+Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.

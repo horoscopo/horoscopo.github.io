@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 01 de febrero 2021 al 07 de febrero 2021 
-description: Horóscopo semanal cancer 01 de febrero 2021 al 07 de febrero 2021. Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
+title: cancer 08 de febrero 2021 al 14 de febrero 2021 
+description: Horóscopo semanal cancer 08 de febrero 2021 al 14 de febrero 2021. A veces sientes como si no avanzaras Cáncer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-01'
+ lastmod: '2021-02-08'
 ---
 
 
 
-## Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
+## A veces sientes como si no avanzaras Cáncer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 
-Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
-Las sociedades y amistades continuas parecen animadas y positivas cuando el animado Venus se encuentra en tu sector de relaciones. Sin embargo, un nuevo romance podría ser desconcertante esta semana. Puede que te preguntes si has perdido la capacidad de dar una impresión. No te preocupes: no es el caso. Las cuestiones respecto de tu salud y bienestar también parecen estar alegres. Si has tenido demoras en el trabajo, deberían comenzar a mejorar a partir del fin de semana. 
- El animado Júpiter en tu signo sugiere que tal vez debas invertir en artículos que te den una nueva visión sobre la vida, como equipos de ejercicio o alimentos más nutritivos. Si compras cualquier artículo de gran valor, lo mejor sería esperar hasta después de que el reflexivo Mercurio se vuelva directo el domingo. Tendrás una experiencia de compra mucho mejor. También el domingo, la luna nueva en tu sector de estilo de vida puede ser una llamada a mejorar y hacer más placenteras tu dieta o rutina de ejercicios.   
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega Cáncer. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+Si sientes que estás al borde, podría ser porque el fogoso Marte (tu planeta regente) forma un extraño ángulo con el energizante Urano. Este aspecto podría desatar explosiones de intensos sentimientos, incluido el enojo; es fundamental canalizarlos de forma positiva. La actividad física vigorosa puede ser especialmente útil y ofrecerte una mayor tranquilidad en relación con el resto del mundo. Aun así, puede que necesites mucho estímulo e interesantes actividades que te llamen la atención. 
+La luna en cuarto menguante podría encontrarte reflexionando sobre los costos de un proyecto creativo o una salida romántica. Si el gasto no es demasiado grande, hazlo. De otro modo, puede que haya formas más económicas de lograr el mismo resultado. Por último, dado que el vital Marte continúa su fase retrógrada en tu sector social, puede que sea prudente no involucrarse demasiado en compromisos grupales. Las personas y las ideas podrían cambiar rápidamente.
 
 ## Dinero
 
-Con un aspecto positivo afectando a tu sector de las instituciones, estás disfrutando de los frutos de tu trabajo en tu profesión. Aunque puede sentirse como si las cosas se estuvieran desacelerando en ese sector, se te ofrece un breve período para que puedas descansar en tus laureles. Podrías darte cuenta de que hacer negocios con grandes jugadores se convierte en una opción para ti de repente, ¡ya que estas a la altura!
+Ahora es más fácil que te llegue dinero y que también lo ahorres o gastes de la misma manera. Te estás dando cuenta de lo mucho que tu trabajo realmente vale la pena y eres lo suficientemente valiente como para cargar con consecuencia. El Universo destaca tu hogar y emociones internas. ¿Cómo puedes liberarte de tus viejos patrones en cuanto a dinero para poder saldar tu deuda?
