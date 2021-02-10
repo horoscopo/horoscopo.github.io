@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 09 de febrero 2021
-description: Horóscopos del dia de hoy 09 de febrero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 10 de febrero 2021
+description: Horóscopos del dia de hoy 10 de febrero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-02-09
+ lastmod: 2021-02-10
 ---
-No es raro encontrar la vida llena de propósitos más específicos y la motivación para descubrir maneras de lograrlos cuando Mercurio transita en Capricornio. Las parejas encuentran increíble lo que puede hacer el poder transformador del amor. Los solteros se percatan de que la química con alguien es algo especial conforme sienten cómo se sobrecalienta el aire.
+Las cosas se quedan colgando en el aire durante la Luna fuera de curso, un aspecto que les cierra la puerta a temas incómodos. Poderosas emociones surgen con la Luna cuadrando a Marte esta noche, cuando podrías no saber qué hacer después. En caso de duda, busca un déjà vu. Ya has estado en esta situación antes.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
