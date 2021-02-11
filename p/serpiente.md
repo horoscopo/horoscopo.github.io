@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_chino_anual
 title: Serpiente Horoscopo Chino 2021
 permalink: /año-nuevo-chino/serpiente/
 amplink: /año-nuevo-chino/amp/serpiente/

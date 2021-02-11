@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_chino_anual
 title: Cabra Horóscopo Chino 2021
 permalink: /año-nuevo-chino/cabra/
 amplink: /año-nuevo-chino/amp/cabra/

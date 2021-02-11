@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_chino_anual
 title: Liebre Horóscopo Chino 2021
 permalink: /año-nuevo-chino/liebre/
 amplink: /año-nuevo-chino/amp/liebre/

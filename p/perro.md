@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_chino_anual
 title: Perro Horóscopo Chino 2021
 permalink: /año-nuevo-chino/perro/
 amplink: /año-nuevo-chino/amp/perro/

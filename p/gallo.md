@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_chino_anual
 title: Gallo Horoscopo Chino 2021
 permalink: /año-nuevo-chino/gallo/
 amplink: /año-nuevo-chino/amp/gallo/

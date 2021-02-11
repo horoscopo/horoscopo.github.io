@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: horoscopo_chino_anual
 title: Año Nuevo Chino 2021, el año del Búfalo de metal.
 description: El Año Nuevo chino está a punto de comenzar el 12 de febrero de 2021. Este día también es una Luna Nueva que da paso al Año del Buey.
 permalink: /año-nuevo-chino/

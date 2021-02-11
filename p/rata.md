@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_chino_anual
 title: Horoscopo Chino Rata
 permalink: /año-nuevo-chino/rata/
 amplink: /año-nuevo-chino/amp/rata/

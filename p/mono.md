@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_chino_anual
 title: Horóscopo Chino 2021 Mono
 permalink: /año-nuevo-chino/mono/
 amplink: /año-nuevo-chino/amp/mono/

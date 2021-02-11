@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_chino_anual
 title: Cerdo Horóscopo Chino 2021
 permalink: /año-nuevo-chino/cerdo/
 amplink: /año-nuevo-chino/amp/cerdo/

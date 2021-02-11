@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_chino_anual
 title: Dragon Horóscopo Chino 2021
 permalink: /año-nuevo-chino/dragon/
 amplink: /año-nuevo-chino/amp/dragon/

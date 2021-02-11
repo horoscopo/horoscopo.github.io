@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_chino_anual
 title: Tigre Horoscopo Chino 2021
 permalink: /año-nuevo-chino/tigre/
 amplink: /año-nuevo-chino/amp/tigre/

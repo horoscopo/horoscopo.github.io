@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: horoscopo_chino_anual
 title: Caballo Horoscopo Chino 2021
 permalink: /año-nuevo-chino/caballo/
 amplink: /año-nuevo-chino/amp/caballo/

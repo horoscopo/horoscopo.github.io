@@ -1,0 +1,14 @@
+    <strong>Horoscopo Chino 2021 - Año del Búfalo de Metal</strong>
+  <div class="row centered lightgrey">
+    {% for signo in site.data.signos_chinos %}
+          <div class="col-sm-4">
+		<a href="{{ site.url }}/año-nuevo-chino/{{ signo.id }}/" alt="{{ signo.id }} Horóscopo Chino 2021">
+		{% capture signo_image %}/images/{{ signo.id }}.png{% endcapture %}
+		{% include picture.html img=signo_image class="img-responsive center-block" alt="Signo del zodiaco Chino " %}
+		<ul class="list-unstyled">
+		  <li>{{ signo.id }} 2021 Horóscopo Chino</li>
+		</ul>
+	     </a>
+	  </div>
+    {% endfor %}
+  </div>
