@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: amp
 title: Horoscopo Chino Rata
-permalink: /año-nuevo-chino/rata/
-amplink: /año-nuevo-chino/amp/rata/
-redirect_from: /p/horoscopo-chino-rata.html
+normallink: /año-nuevo-chino/rata/
+permalink: /año-nuevo-chino/amp/rata/
 description: La Rata tiene que estar preparada para muchos retos en su carrera durante 2021. Estará cargado de tareas adicionales que requerirán un gran esfuerzo por su parte. Debido a la naturaleza fundamental de la Rata, no dudará en aceptar nuevos retos. Esto le recompensará con un ascenso a un puesto superior con un aumento de sueldo. La rata del zodiaco chino ahorró sabiamente dinero durante el año anterior, lo que le será útil durante este año. Además, no tendrás que buscar demasiado para hacer frente a los gastos. La vida con su cónyuge y su familia será armoniosa y agradable.
 ogimg: /images/rata_anual.png
 sitemap:

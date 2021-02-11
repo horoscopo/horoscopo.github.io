@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: amp
 title: Cabra Horóscopo Chino 2021
-permalink: /año-nuevo-chino/cabra/
-amplink: /año-nuevo-chino/amp/cabra/
-redirect_from: /p/cabra-horoscopo-chino-2015.html
+normallink: /año-nuevo-chino/cabra/
+permalink: /año-nuevo-chino/amp/cabra/
 description: El año 2021 será muy complicado para la Cabra según el horóscopo chino 2021. Puede haber confusión, luchas y problemas financieros. No podrá encontrar nuevas perspectivas. La vida será sosa, aburrida y poco emocionante con trabajos insultantes. El entorno familiar será estresante para la cabra y requiere mucha atención. Si eres miembro de una organización social, puedes obtener ayuda de tus amigos para afrontar estos retos. El último trimestre de 2021 traerá cierto alivio a tus dificultades.
 ogimg: /images/cabra_anual.png
 sitemap:

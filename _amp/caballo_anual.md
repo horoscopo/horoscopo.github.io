@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: amp
 title: Caballo Horoscopo Chino 2021
-permalink: /año-nuevo-chino/caballo/
-amplink: /año-nuevo-chino/amp/caballo/
-redirect_from: /p/caballo-horoscopo-chino-2015.html
+normallink: /año-nuevo-chino/caballo/
+permalink: /año-nuevo-chino/amp/caballo/
 description: Los empresarios tendrán un gran año en 2021 y cumplirán con diligencia sus objetivos. En el proceso, obtendrán buenos beneficios. El año no es alentador para las relaciones amorosas del signo chino del Caballo. Puede tener conflictos con los empleados y en casa con los niños. En general, la situación será menos difícil y más cómoda que el año anterior. Mantener una buena relación con los demás es esencial este año.
 ogimg: /images/caballo_anual.png
 sitemap:

@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: amp
 title: Gallo Horoscopo Chino 2021
-permalink: /año-nuevo-chino/gallo/
-amplink: /año-nuevo-chino/amp/gallo/
-redirect_from: /p/gallo-horoscopo-chino-2015.html
+normallink: /año-nuevo-chino/gallo/
+permalink: /año-nuevo-chino/amp/gallo/
 description: 2021 promete ser un año fabuloso para el Gallo. Lograrás el éxito con la ayuda de tus contactos sociales. La diligencia y la devoción son tu fuerte y lo utilizarás de forma productiva. Estás dispuesto a asumir más y más retos y acabarás ganando. Habrá reconocimiento y recompensas, que traerán mucha alegría a tu vida. La vida será agradable en el frente doméstico y se indican viajes de placer con la familia.
 ogimg: /images/gallo_anual.png
 sitemap:

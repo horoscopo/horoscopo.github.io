@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: amp
 title: Dragon Horóscopo Chino 2021
-permalink: /año-nuevo-chino/dragon/
-amplink: /año-nuevo-chino/amp/dragon/
-redirect_from: /p/dragon-horoscopo-chino-2015.html
+normallink: /año-nuevo-chino/dragon/
+permalink: /año-nuevo-chino/amp/dragon/
 description: El signo del Dragón superará los diversos retos y obstáculos que se le presenten en su camino para registrar un crecimiento estable y razonable en el año 2021. Usted es lo suficientemente poderoso como para enfrentarse a sus detractores y triunfar sobre sus manipulaciones. Es importante ser meticuloso y diligente en la ejecución de los diversos proyectos que emprenda para maximizar los beneficios.
 ogimg: /images/dragon_anual.png
 sitemap:

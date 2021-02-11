@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: amp
 title: Cerdo Horóscopo Chino 2021
-permalink: /año-nuevo-chino/cerdo/
-amplink: /año-nuevo-chino/amp/cerdo/
-redirect_from: /p/cerdo-horoscopo-chino-2015.html
+normallink: /año-nuevo-chino/cerdo/
+permalink: /año-nuevo-chino/amp/cerdo/
 description: 2021 será muy rentable para los empresarios chinos del signo del Cerdo. Tendrá muchas oportunidades de aumentar sus beneficios y las empresas especulativas tendrán éxito. En el ámbito social, ampliarás tu círculo haciendo nuevos contactos de confianza. A pesar de su duro trabajo, los profesionales se enfrentarán a algunos problemas por parte de sus superiores. Los Cerdo deben evitar los conflictos con sus colegas. Las relaciones amorosas serán turbulentas y el ambiente familiar será inquietante. Controla tu ira si quieres tener éxito.
 ogimg: /images/cerdo_anual.png
 sitemap:

@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: amp
 title: Horóscopo Chino 2021 Mono
-permalink: /año-nuevo-chino/mono/
-amplink: /año-nuevo-chino/amp/mono/
-redirect_from: /p/horoscopo-chino-2015-mono.html
+normallink: /año-nuevo-chino/mono/
+permalink: /año-nuevo-chino/amp/mono/
 description: El Mono podrá navegar por el Año del Buey Metálico 2021. Puede que el año no sea muy gratificante ni lucrativo económicamente. La relación con el cónyuge y los miembros de la familia será agradable. Hay que ser modesto en cuanto a la esperanza de vida. Si quieres tener éxito, debes ser estable, persistente y fiable. La salud se mostrará dubitativa con los problemas persistentes. Se embarcará en viajes para impulsar su carrera.
 ogimg: /images/mono_anual.png
 sitemap:

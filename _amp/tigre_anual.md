@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: amp
 title: Tigre Horoscopo Chino 2021
-permalink: /año-nuevo-chino/tigre/
-amplink: /año-nuevo-chino/amp/tigre/
-redirect_from: /p/horoscopo-chino-2015-tigre.html
+normallink: /año-nuevo-chino/tigre/
+permalink: /año-nuevo-chino/amp/tigre/
 description: Los Tigres deben tener el coraje de enfrentarse a uno de los años más difíciles de su vida según el zodiaco chino de 2021. Hay que posponer las nuevas empresas y no hay lugar para la especulación. Todos tus planes pueden torcerse por culpa de los obstáculos que ponen otros al poder. Su terquedad provocará confusión y enfrentamientos innecesarios. Puedes minimizar los daños si afrontas las situaciones adversas con paciencia y calma. De lo contrario, sus problemas se multiplicarán. Anímate. Se trata de un fenómeno temporal.
 ogimg: /images/tigre_anual.png
 sitemap:

@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: amp
 title: Serpiente Horoscopo Chino 2021
-permalink: /año-nuevo-chino/serpiente/
-amplink: /año-nuevo-chino/amp/serpiente/
-redirect_from: /p/serpiente-horoscopo-chino-2015.html
+normallink: /año-nuevo-chino/serpiente/
+permalink: /año-nuevo-chino/amp/serpiente/
 description: La Serpiente debería pensárselo dos veces antes de aventurarse en nuevas áreas durante el año. Debido a su naturaleza perezosa, le será difícil tener éxito en los diversos proyectos que emprenda. Requieren un gran esfuerzo que usted no está dispuesto a realizar. Puedes ser terco e irracional. Por lo tanto, habrá oposición a sus formas de ejecución. Para tener éxito, hay que ser razonable y buscar la cooperación de los demás.
 ogimg: /images/serpiente_anual.png
 sitemap:

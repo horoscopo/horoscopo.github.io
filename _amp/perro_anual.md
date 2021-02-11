@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: amp
 title: Perro Horóscopo Chino 2021
-permalink: /año-nuevo-chino/perro/
-amplink: /año-nuevo-chino/amp/perro/
-redirect_from: /p/perro-horoscopo-chino-2015.html
+normallink: /año-nuevo-chino/perro/
+permalink: /año-nuevo-chino/amp/perro/
 description: El Perro debe ser realista y tolerante con sus detractores durante 2021. La devoción, la diligencia y la perseverancia le permitirán obtener resultados a pesar de la oposición de los demás. Tendrás que tomar decisiones después de pensar y alejarte de los conflictos. Habrá pequeños obstáculos y fracasos que pueden provocar algunas pérdidas financieras. El horóscopo chino para 2021 predice mucha confusión y preocupaciones. El perro no debe caer en manipulaciones peligrosas. Serán ruinosos para tu futuro.
 ogimg: /images/perro_anual.png
 sitemap:

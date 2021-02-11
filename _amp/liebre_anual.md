@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: amp
 title: Liebre Horóscopo Chino 2021
-permalink: /año-nuevo-chino/liebre/
-amplink: /año-nuevo-chino/amp/liebre/
-redirect_from: /p/horoscopo-chino-liebre-2015.html
+normallink: /año-nuevo-chino/liebre/
+permalink: /año-nuevo-chino/amp/liebre/
 description: El Conejo experimentará retrasos en la ejecución de sus proyectos en 2021. Con el tiempo, se completarán. No hay que esperar demasiado de los demás. Prepárate para las decepciones a pesar de tu diligencia. No haga cambios radicales en sus planes. Los amantes pueden tener problemas para mantener sus relaciones. Su salud planteará algunos problemas debido a las situaciones de estrés. Los Conejos tendrán que sortear estas dificultades con gran habilidad y discreción en este Año Chino del Buey de Metal Blanco.
 ogimg: /images/liebre_anual.png
 sitemap:
