@@ -1,8 +1,8 @@
 ---
 layout: amp
 title: Buey Horóscopo Chino 2021
-normallink: /año-nuevo-chino/tigre/
-permalink: /año-nuevo-chino/amp/tigre/
+normallink: /año-nuevo-chino/buey/
+permalink: /año-nuevo-chino/amp/buey/
 description: El año 2021 promete ser muy fructífero para el Buey chino, con gran alegría y poder. Los profesionales serán recompensados económicamente por su diligencia y habilidad. La familia desempeñará un papel importante en su vida. Los solteros se casarán, mientras que los casados podrán dar la bienvenida a un nuevo miembro de la familia. Los viajeros de negocios podrán iniciar nuevas asociaciones. La vida normal se verá alterada por viajes innecesarios y actividades sociales adicionales.
 ogimg: /images/buey_anual.png
 sitemap:
