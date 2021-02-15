@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 08 de febrero 2021 al 14 de febrero 2021 
-description: Horóscopo semanal sagitario 08 de febrero 2021 al 14 de febrero 2021. Cada día que pasa te das más cuenta de que mereces cosas buenas Sagitario, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: sagitario 15 de febrero 2021 al 21 de febrero 2021 
+description: Horóscopo semanal sagitario 15 de febrero 2021 al 21 de febrero 2021. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-08'
+ lastmod: '2021-02-15'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas Sagitario, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 
-Hace mucho tiempo que no te das un buen capricho Sagitario, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes Sagitario. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
-Tanto tus amigos como vecinos, familiares y socios contribuyen a una semana optimista y positiva. Este es un momento excelente para colaborar en planes y trabajar con otros como parte de un equipo. Si logras reunir el apoyo suficiente, te encontrarás a medio camino hacia alcanzar tu meta. Tus finanzas personales son puestas bajo enfoque cuando el Sol entra a Cáncer. Eres alguien bastante astuto a la hora de tomar decisiones monetarias, y a partir de esta semana, una movida astuta de tu parte  bien puede generarte ganancias.
+Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. Sagitario, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota Sagitario, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando Sagitario. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce Sagitario, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+La idea de ganar dinero y gastar dinero puede rondar bastante por tu mente, y puede hacerte sentir bien si estás progresando en ambas acciones. Sin embargo, si tu situación financiera no es exactamente como quisieras, entonces la presencia del enérgico Marte y el luminoso Sol en tu sector de flujo de dinero puede animarte a hacer un análisis y hacer lo que sea necesario para mejorar tu situación. Algo que quizás quieras evitar de todas formas, es gastar impulsivamente. Aun así, una investigación cuidadosa podría producir alguna ganancia.
 
 ## Dinero
 
-Tus poderes psíquicos están a todo lo que da. Podrías hacer algo de dinero a través de la intuición pura. Estate en el lugar correcto en el momento adecuado para obtener información sobre una oportunidad nueva y excitante, como el tener cierto sentido sobre lo que pasará en la bolsa de valores o el soñar con la idea de un nuevo negocio. Tu creatividad también esta en un punto muy alto, sólo asegúrate de pagar cualquier deuda grande que tengas.
+Puede que encuentres que será mejor ser paciente en lugar de avanzar en las metas financieras de esta semana. Los aspectos afectan a la educación superior y los viajes, así como tu trabajo de todos los días. Estas dos áreas no están trabajando bien juntas, por lo que no es un buen momento para insistir en tomar tiempo libre para estudiar o viajar, o hacer caso omiso de tu educación para hacer lo que siempre haces. Comprométete.

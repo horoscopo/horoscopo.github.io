@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 08 de febrero 2021 al 14 de febrero 2021 
-description: Horóscopo semanal acuario 08 de febrero 2021 al 14 de febrero 2021. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+title: acuario 15 de febrero 2021 al 21 de febrero 2021 
+description: Horóscopo semanal acuario 15 de febrero 2021 al 21 de febrero 2021. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,19 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-08'
+ lastmod: '2021-02-15'
 ---
 
 
 
-## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-Se avecinan cambios Acuario, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Acuario, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Acuario. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Acuario.
-A una parte de ti le gustaría estar de viaje a medida que el nuevo año se pone en marcha. Sin embargo, un enfoque muy definido en la comunicación y en tu entorno local sugiere que podrías tener muchas cosas que hacer en tu lugar. Puede que surjan algunas oportunidades creativas que podrías aprovechar sin problemas. A medida que el brillante sol se alinea con el etéreo Neptuno, un encuentro podría ser una señal del destino e incluso hasta mejorar tu reputación. Puede que te sientas más audaz cuando el planeta rojo en tu signo te empuja hacia adelante.
+No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
+La luna en cuarto creciente del lunes en tu sector social podría hacer que te preguntes cuánto debes involucrar a tus amistades en una idea. Puede que quieras reunir recursos y habilidad, pero tal vez también tengas tus reservas. Hablar sobre esto con las personas involucradas puede ayudarte a tranquilizar la mente. 
+Existe una vibra muy positiva en torno a las relaciones que podría encontrarte disfrutando de algunas salidas especiales o, tal vez, de románticas citas. Si estás organizando una celebración u otro importante evento, todo debería salir muy bien. 
+El romance podría subir algunos puestos en tu agenda, ya que un encuentro resulta ser particularmente tentador. De hecho, puede que sientas que conociste a tu alma gemela. Deja que pase un tiempo, ya que podrías no sentir lo mismo cuando conozcas a esta persona. 
+Por último, una de tus viejas amistades podría tener ganas de volver a conectarse contigo. De ser así, acepta la invitación, incluso si sientes la tentación de ignorarla. Verte podría significar mucho para esta persona.
 
 ## Dinero
 
-Que nunca se diga que no eres inteligente con el dinero. En el pasado, podría muy bien haber sido que se te escapó de las manos como el agua. Pero ahora tienes más disciplina sobre la forma en la que ganas y gastas. Es posible que desees ampliar tu forma de pensar acerca de inversiones. Las instituciones más grandes pueden tener una ventaja en este momento, y podrías percatarte de que están mejor equipadas para manejar tus fondos.
+Esta semana es acerca de los aspectos que afectan dinero y valores. Esto es extremadamente afortunado, dándote la oportunidad de mejorar tus finanzas ahora. Se te está empujando a centrarte en la familia y el romance. Podría ser bueno tomarte un descanso o renovar tu convicción de equilibrar tu vida laboral con tu vida personal.

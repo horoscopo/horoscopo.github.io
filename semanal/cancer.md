@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 08 de febrero 2021 al 14 de febrero 2021 
-description: Horóscopo semanal cancer 08 de febrero 2021 al 14 de febrero 2021. A veces sientes como si no avanzaras Cáncer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+title: cancer 15 de febrero 2021 al 21 de febrero 2021 
+description: Horóscopo semanal cancer 15 de febrero 2021 al 21 de febrero 2021. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Cáncer, se llama dignidad. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-08'
+ lastmod: '2021-02-15'
 ---
 
 
 
-## A veces sientes como si no avanzaras Cáncer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Cáncer, se llama dignidad. 
 
-Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega Cáncer. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
-Si sientes que estás al borde, podría ser porque el fogoso Marte (tu planeta regente) forma un extraño ángulo con el energizante Urano. Este aspecto podría desatar explosiones de intensos sentimientos, incluido el enojo; es fundamental canalizarlos de forma positiva. La actividad física vigorosa puede ser especialmente útil y ofrecerte una mayor tranquilidad en relación con el resto del mundo. Aun así, puede que necesites mucho estímulo e interesantes actividades que te llamen la atención. 
-La luna en cuarto menguante podría encontrarte reflexionando sobre los costos de un proyecto creativo o una salida romántica. Si el gasto no es demasiado grande, hazlo. De otro modo, puede que haya formas más económicas de lograr el mismo resultado. Por último, dado que el vital Marte continúa su fase retrógrada en tu sector social, puede que sea prudente no involucrarse demasiado en compromisos grupales. Las personas y las ideas podrían cambiar rápidamente.
+Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo Cáncer… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Cáncer, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Cáncer. Lo vas a agradecer… Feliz semana.
+A medida que el Sol ingresa al sector más alto de tu carta, podrías ser el centro de atención durante las próximas cuatro semanas. Es una oportunidad para demostrar tus mejores habilidades e impresionar a las personas correctas. Mientras Marte ingresa a Géminis y a tu sector social el viernes, establecer conexiones podría ser una parte fundamental para el éxito de tu carrera o negocio. Si estás buscando amor, este también puede ser el momento perfecto para volver al mundo de las citas.
 
 ## Dinero
 
-Ahora es más fácil que te llegue dinero y que también lo ahorres o gastes de la misma manera. Te estás dando cuenta de lo mucho que tu trabajo realmente vale la pena y eres lo suficientemente valiente como para cargar con consecuencia. El Universo destaca tu hogar y emociones internas. ¿Cómo puedes liberarte de tus viejos patrones en cuanto a dinero para poder saldar tu deuda?
+Los asuntos laborales y las figuras de autoridad se ponen de relieve esta semana. Si deseas el mismo tipo de respeto, dinero en efectivo y disfrutar de la admiración de tus ídolos, tendrás que invertir tiempo y trabajar para llamar su atención con tus ideas. Mientras tanto, cuida tu forma de vestir y expresarte en el mundo. Mientras que ciertas personas te perciben de una manera, sientes tentación a tomar un nuevo camino para mantenerles adivinando.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 08 de febrero 2021 al 14 de febrero 2021 
-description: Horóscopo semanal aries 08 de febrero 2021 al 14 de febrero 2021. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+title: aries 15 de febrero 2021 al 21 de febrero 2021 
+description: Horóscopo semanal aries 15 de febrero 2021 al 21 de febrero 2021. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-08'
+ lastmod: '2021-02-15'
 ---
 
 
 
-## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 
-Tu mente lo está analizando absolutamente todo Aries, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez Aries… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas Aries, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana Aries, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
-Podrías recibir una sorpresa esta semana, y podría ser debido a la influencia retrógrada de Mercurio. Hay posibilidad de que te encuentres a  alguien que alguna vez conociste o de que escuches de un viejo amigo de la universidad o antiguo empleo. Puede que también sea conveniente que te asegures de que aquellos que no has visto en un tiempo estén bien y le ofrezcas tu apoyo en caso de que lo necesiten. Las oportunidades románticas se vislumbran abundantes, pero es posible que prefieras explorar temas de interés o participar en deportes competitivos para quemar tu exceso de energía.
+Te crees que eres débil Aries, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos Aries, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior Aries… Tómate un tiempo Aries, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+Puede que estés a punto de tomar decisiones importantes con respecto a tus finanzas, especialmente si la época festiva resultó costosa. Es posible que también quieras tener más control en esta área en general. Esta semana podría traer una oportunidad para que analices modos de funcionamiento con los que te sientas mejor con respecto al dinero. Aun así, de nada sirve que te castigues tanto. Trata de llegar a un término medio y darte gustos o irte de vacaciones mientras ahorras para más adelante.
 
 ## Dinero
 
-Podrías estar mas ocupado/a en el trabajo que de costumbre cuando las responsabilidades de ciertas personas caigan en tus manos. En la cumbre de la locura, ponte a tono con tus más crudas ambiciones y pregúntate: ¿Qué tan alto quieres llegar en esta empresa? Si la respuesta es no, sabes que tienes muchas ideas propias. Tal vez prefieras invertir un poco de dinero en comenzar un negocio nuevo. Los viajes, la educación, la metafísica, la publicación, la ley, son algunos de los campos que te pudieran interesar.
+Te enfrentas a algunos retos cuando se trata de tu vida hogareña y emociones internas. Es posible que te preocupe el ser capaz de pagar por tu estilo de vida o incluso mantener tu casa. Pero con un Universo armonioso, serás capaz de refinanciar, recaudar fondos adicionales, o pedir un préstamo si es necesario. Es un momento afortunado, así que no dejes que la timidez te detenga.

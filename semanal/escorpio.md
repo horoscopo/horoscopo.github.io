@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 08 de febrero 2021 al 14 de febrero 2021 
-description: Horóscopo semanal escorpio 08 de febrero 2021 al 14 de febrero 2021. Deja que duela Escorpio, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+title: escorpio 15 de febrero 2021 al 21 de febrero 2021 
+description: Horóscopo semanal escorpio 15 de febrero 2021 al 21 de febrero 2021. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,19 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-08'
+ lastmod: '2021-02-15'
 ---
 
 
 
-## Deja que duela Escorpio, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 
-Y de repente cambias Escorpio, y nadie lo entiende. Pues sí, de vez en cuando hasta tu cuerpo te pide dar un giro que, aunque no sea del todo radical si te permita cerrar algunos asuntos pendientes que parecía que no iban a llegar nunca. Hay personas que no lo entienden, que piensan cómo es posible que llevaras un camino tan inestable en tu vida y de repente la enderezaras para tomar otro rumbo diferente… Pues sí, no eres imbécil, y sabes que si algo no te conviene, no te conviene, y aunque te des cuenta tarde, lo importante es que sabes corregirlo. La cuestión es que los que estaban a tu alrededor y creían conocerte se echan las manos a la cabeza y piensan cómo puede ser que de repente hagas todo lo contrario a lo que parecía que ibas a hacer. Pues es sencillo, porque todo tiene un límite, y por mucha paciencia que Escorpio pueda tener, lo siento, también tiene amor propio, que a veces no saca, que a veces parece que está escondido, pero lo tiene, aunque a muchos les joda y les fastidie sus planes. Ya te han hecho daño, y estuviste solo, y te sentiste más inseguro que nunca, y el mundo parecía romperse en dos, y ahí nada importaba pero ahora, ahora es todo diferente. Ahora sólo darás tu mejor cara, la buena, la dialogante, la amable, a quien se lo merece. Porque antes lo entregabas todo aunque nadie te lo pidiese, y te quedaste muchas veces sin nada, pero te daba igual, porque eras leal a tu palabra Escorpio, pero ahora ya sólo quieres ser leal a ti mismo. Sigue así, de verdad, no hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
-Aunque quieres disfrutar de la oportunidad de hacer un viaje espontáneo, tal vez necesitas lidiar con algunos asuntos primero. Puedes pasarla bien, pero un aspecto clave entre Mercurio y Plutón sugiere que tal vez no sea prudente descuidar una tarea, si es que eso significa perder aceptación de un superior u otra figura clave. Por otro lado, si te va bien, puedes obtener una recompensa. Ten cuidado el fin de semana, ya que alguien podría no ser quien aparenta ser.
+Necesitas amor Escorpio, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a Escorpio es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
+Tu vida social sigue con muchas actividades, y esto podría conducir a algunas positivas oportunidades durante esta semana. Cuando el conversador Mercurio forma una animada conexión con el afortunado Júpiter en tu sector de horizontes lejanos el martes, un audaz movimiento podría abrirte nuevas puertas.    
+Además, deja que tu imaginación te inspire. Te permite soñar en grande y hacer lo que sea necesario para convertirlos en realidad. 
+La presencia del sol en Géminis y en tu sector hogareño puede ser la oportunidad para poner un freno y tal vez ver ciertas cuestiones desde otra perspectiva. Si lo haces, puede que encuentres positivas soluciones. 
+El viernes puede ser un día muy espiritual e inspirador. Una clave influencia podría animarte a conectarte con un instructor de vida o un profesor que te ayude a deshacerte de algunas creencias pasadas de moda. Si puedes hacerlo, tal vez llegues a un importan
 
 ## Dinero
 
-Puede que estés creando más tiempo en tu vida y más espacio en tu hogar para darle cabida a tus más recientes proyectos. Si querías crear desde tu casa, ya sea escribiendo un libro, desarrollando un curso de enseñanza en línea, o la venta de bienes raíces, este es el momento para empezar. Dale seguridad a tu plan con inversiones sólidas en instituciones de confianza.
+Esta semana estás llegando a un público mucho más grande con tu trabajo, lo que conduce a más dinero a la larga. Es posible que estés reconectando con la gente de tu pasado y consiguiendo presentaciones con nuevos fans. No importa lo que hagas para ganarte la vida, estás siendo empujado/a al escenario para entregar un mensaje único. Los aspectos te dan el apoyo y la fuerza que necesitas de estrechas relaciones. Gozas de un periodo en el que es muy poco probable que hagas errores, disfruta de este personal y financieramente.

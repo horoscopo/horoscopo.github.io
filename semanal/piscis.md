@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 08 de febrero 2021 al 14 de febrero 2021 
-description: Horóscopo semanal piscis 08 de febrero 2021 al 14 de febrero 2021. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+title: piscis 15 de febrero 2021 al 21 de febrero 2021 
+description: Horóscopo semanal piscis 15 de febrero 2021 al 21 de febrero 2021. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-08'
+ lastmod: '2021-02-15'
 ---
 
 
 
-## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 
-Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
- Tienes que acabar de una vez con todo Piscis.
-Tener ganas de salir de tu zona de confort puede abrirte los ojos a grandes oportunidades... pero es más fácil decirlo que hacerlo. Con el intenso Marte en tu sector de viajes y exploración, tendrás el coraje para hacerlo si te animas a dar el primer paso. Por otro lado, si decides seguir el consejo de una persona, asegúrate de que sea confiable, ya que la información errónea podría ser un problema en los próximos días. Y a partir del viernes, tu lado ambicioso podría salir a la luz.
+La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Piscis, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
+Mientras el sol continúa su viaje a través de tu sector de viajes, podrías estar a punto de reservar unas vacaciones o, tal vez, de pensar en cómo un descanso podría ayudarte a desconectarte. Esto podría ser un claro contraste con la intensidad que sientes respecto de un proyecto creativo o incluso, en relación con el romance. En este aspecto, podría comenzar a acumularse presión esta semana, y tal vez sientas que será un desastre si las cosas no salen de acuerdo con tus planes. ¿Será así realmente? 
+ Trata de relajarte un poco, en especial cerca del jueves, cuando la conexión entre el dinámico Marte y el radical Plutón llegue a su punto máximo. Puede que veas que hay otras opciones igualmente válidas. La luna llena que se está formando en estos días podría hacer que te dejes llevar por las emociones. Hablar con una de tus amistades de confianza podría ayudarte a navegar esta fase. No es necesario forzar las cosas. Lo que tenga que ser, será.
 
 ## Dinero
 
-Tienes una oportunidad única para formar asociaciones financieramente gratificantes con conocidos personales o profesionales. Alguien que nunca has visto en esta luz ahora parece la persona perfecta para ayudarte para que tal proyecto nuevo llegue a buen término. Y puesto que la atención se centra en tus sectores de enseñanza y aprendizaje, es el momento de tomar algo difícil que estimule tu mente un poco. El efectivo vendrá después.
+Tienes una semana tensa por delante. Estás atrapado/a y puede que te sientas como vaca dentro del ganado. En situaciones como ésta, siempre es mejor ir con el flujo de las energías predominantes. La lucha en contra sólo empeorará las cosas. Estás siendo empujado/a hacia tu hogar y emociones. Checa tus sentimientos internos. ¿Estás realmente haciendo lo que quieres hacer con tu vida?

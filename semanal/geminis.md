@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 08 de febrero 2021 al 14 de febrero 2021 
-description: Horóscopo semanal geminis 08 de febrero 2021 al 14 de febrero 2021. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: geminis 15 de febrero 2021 al 21 de febrero 2021 
+description: Horóscopo semanal geminis 15 de febrero 2021 al 21 de febrero 2021. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-08'
+ lastmod: '2021-02-15'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 
-Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Géminis, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
-La Luna Creciente de esta semana sugiere que ciertos conflictos podrían surgir si una persona considera los detalles importantes mientras otra los ve como irrelevantes. Acaparar ambos extremos del espectro puede darte una nueva perspectiva sobre las cosas. Más tarde, el Sol ilumina tu sector de diversión, entretenimiento y romance. Es hora de relajarte y disfrutar de la vida ya sea que eso signifique hacer ejercicio, irte de vacaciones, o hacer cosas creativas. Además, Marte en tu sector hogareño podría darte ganas de organizarte.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos Géminis así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Géminis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+Hay un enfoque bastante intenso en tu sector de comunicación, lo que sugiere que podrías tener una gran determinación de avanzar con tus planes actuales. Aun así, cuando el vital Marte se fusiona con el prudente Saturno al comienzo de la semana, podrías encontrarte con un obstáculo. Esto no significa que debas abandonar tu proyecto, sino que deberías considerar dar un paso hacia atrás. Si sumas algunos ajustes y consejos de expertos, podrías estar nuevamente en camino muy pronto. 
+La manera en que conectas con los demás también puede ser muy apasionada. Durante la semana, puede que haya algunas personas a las que tu enfoque les resulte demasiado exigente. Quizá prefieran que disminuyas un poco la exigencia y que, en general, te relajes más. Tomarte el tiempo para entender su perspectiva puede conducir a un positivo avance, en especial el fin de semana. Además, el encantador Venus en tu sector de relaciones puede mejorar tu vida social en gran medida.  
 
 ## Dinero
 
-Esta semana, los aspectos afectan tu sector de instituciones, vidas pasadas, y karma. Lo que pones en tu trabajo y dinero es lo que recibes, dice el Universo. Si te has negado a planificar para la jubilación o el ahorro en general, esta es la semana para escuchar a tu intuición y poner manos a la obra.
+Esta semana, te rodeas de gente que quiere verte tener éxito, lo cual no es algo malo en lo absoluto. Con expansión y suerte en tu sector de trabajo combinado con una visión súbita y cambios, es el momento de lanzar la precaución al viento y conseguir que tu trabajo sea visto por los más altos en la cadena alimenticia. Es un momento de suerte para ti, en el que se te protege casi divinamente. Así que, dale una oportunidad y ve qué sale de nuevo en términos de dinero.
