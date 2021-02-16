@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de febrero 2021
-description: Horóscopos del dia de hoy 15 de febrero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de febrero 2021
+description: Horóscopos del dia de hoy 16 de febrero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-02-15
+ lastmod: 2021-02-16
 ---
-A veces, una pregunta puede permanecer sin ser contestada por años y luego regresa a tu mente en forma de un flash como lo hace hoy. Este tipo de experiencia le tranquiliza a uno la mente. Más tarde, un pequeño misterio es resulto. La gente va más allá de las trivialidades, las conversaciones vacías y las relaciones casuales bajo la entrada de la Luna a Escorpión a altas horas de la noche.  
+Prepárate para tener profundos pensamientos y que tu mente sea activada místicamente cuando Mercurio en Piscis conjunte a Neptuno. Esta noche, la Luna conectando con Marte intensifica una dulce urgencia de emociones, pero con Venus a 29 grados, uno espera que sea la otra persona quien dé el primer paso... sin embargo, no lo da. Es en momentos como éste cuando las atracciones no llegan a ninguna parte, de manera temporal.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
