@@ -1,0 +1,71 @@
+---
+layout: default
+ads: ["mgid"]
+---
+{% include schema-article.html %}
+<article class="page">
+
+  <div class="row panel panel-default"> <!--Fila del post -->
+
+    <div class="panel-heading"> <!--Titulo del panel -->
+      <!--Titulo del post -->
+      <h1 class="panel-title" rel='bookmark'><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a></h1>
+      <!--Info post-Debajo del titulo -->
+	    </h2>Horoscopo de hoy 
+	     {% assign d = site.time | date: '%-d' %}
+	     {% case d %}
+	      {% when '1' %}Lunes
+	      {% when '2' %}Martes
+	      {% when '3' %}Miercoles
+	      {% when '4' %}Jueves
+	      {% when '5' %}Viernes
+	      {% when '6' %}Sabado
+	      {% when '7' %}Domingo
+	     {% endcase %}
+             {{  site.time | date: '%-d' }} de
+             {% assign m = site.time | date: '%-m' %}
+             {% case m %}
+               {% when '1' %}enero
+                 {% when '2' %}febrero
+                 {% when '3' %}marzo
+                 {% when '4' %}abril
+                 {% when '5' %}mayo
+                 {% when '6' %}junio
+                 {% when '7' %}julio
+                 {% when '8' %}agosto
+                 {% when '9' %}septiembre
+                 {% when '10' %}octubre
+                 {% when '11' %}noviembre
+                 {% when '12' %}diciembre
+             {% endcase %}
+             de
+             {{  site.time | date: '%Y' }}
+	     </h2>       
+
+      
+    </div>	<!--/Titulo del panel -->
+
+    <!--Cuerpo del panel -->
+    <div class="panel-body">
+   
+      {{ content }}
+    {% assign ads = page.ads | default: layout.ads %}
+    {% if ads contains "mgid" %}
+    <style>#M630065ScriptRootC1091159 {min-height: 300px;}</style> 
+    <!-- Composite Start --> 
+        <div id="M630065ScriptRootC1091159"> 
+        </div> 
+        <script src="https://jsc.mgid.com/h/o/horoscopo-del-dia.com.1091159.js" async> 
+        </script> 
+    <!-- Composite End --> 
+ 
+    {% endif %}
+    
+    {% include signos.html %}
+    
+    </div>
+    <!--/Cuerpo del panel -->
+    <!--Extra -->
+  </div>
+  {% include disqus.html %}
+</article>

@@ -7,4 +7,4 @@ sitemap:
 {% if site.adsense %}
 google.com, {{ site.adsense | remove_first: "ca-" }}, DIRECT, f08c47fec0942fa0
 {% endif %}
-
+mgid.com, 553170, DIRECT, d4c29acad76ce94f 
