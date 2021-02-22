@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 15 de febrero 2021 al 21 de febrero 2021 
-description: Horóscopo semanal cancer 15 de febrero 2021 al 21 de febrero 2021. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Cáncer, se llama dignidad. 
+title: cancer 22 de febrero 2021 al 28 de febrero 2021 
+description: Horóscopo semanal cancer 22 de febrero 2021 al 28 de febrero 2021. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-15'
+ lastmod: '2021-02-22'
 ---
 
 
 
-## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Cáncer, se llama dignidad. 
+## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
 
-Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo Cáncer… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Cáncer, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Cáncer. Lo vas a agradecer… Feliz semana.
-A medida que el Sol ingresa al sector más alto de tu carta, podrías ser el centro de atención durante las próximas cuatro semanas. Es una oportunidad para demostrar tus mejores habilidades e impresionar a las personas correctas. Mientras Marte ingresa a Géminis y a tu sector social el viernes, establecer conexiones podría ser una parte fundamental para el éxito de tu carrera o negocio. Si estás buscando amor, este también puede ser el momento perfecto para volver al mundo de las citas.
+Tienes que esforzarte Cáncer, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Cáncer, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Cáncer, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Cáncer, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Ten mucho cuidado si estás negociando un contrato o intentando cerrar un acuerdo esta semana. Con Mercurio retrógrado en tu sector de relaciones y el Eclipse Lunar en tu signo, podría ser conveniente abstenerte de hacer cualquier compromiso por ahora. La próxima semana podría mostrar las razones por las que sería mejor esperar. Esto no significa el final de un acuerdo, más bien te ofrece la oportunidad de continuar los debates y negociaciones que podrían trabajar a tu favor.
 
 ## Dinero
 
-Los asuntos laborales y las figuras de autoridad se ponen de relieve esta semana. Si deseas el mismo tipo de respeto, dinero en efectivo y disfrutar de la admiración de tus ídolos, tendrás que invertir tiempo y trabajar para llamar su atención con tus ideas. Mientras tanto, cuida tu forma de vestir y expresarte en el mundo. Mientras que ciertas personas te perciben de una manera, sientes tentación a tomar un nuevo camino para mantenerles adivinando.
+Tienes emoción de hacer nuevos y grandes contactos. Hagas lo que hagas para ganarte la vida, verás que es mucho más fácil el llevarse con amigos. El pedir ayuda a un mentor de confianza o simplemente presentarte a alguien que siempre ha sido una inspiración para ti es un gran uso de la energía actual. Algunos de estos mentores se pueden encontrar entre tus hijos, familiares y socios creativos.

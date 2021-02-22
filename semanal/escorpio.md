@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 15 de febrero 2021 al 21 de febrero 2021 
-description: Horóscopo semanal escorpio 15 de febrero 2021 al 21 de febrero 2021. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+title: escorpio 22 de febrero 2021 al 28 de febrero 2021 
+description: Horóscopo semanal escorpio 22 de febrero 2021 al 28 de febrero 2021. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Escorpio. Ahora brillas así que, aprovecha. Aprovecha todo.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,19 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-15'
+ lastmod: '2021-02-22'
 ---
 
 
 
-## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Escorpio. Ahora brillas así que, aprovecha. Aprovecha todo.
 
-Necesitas amor Escorpio, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a Escorpio es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
-Tu vida social sigue con muchas actividades, y esto podría conducir a algunas positivas oportunidades durante esta semana. Cuando el conversador Mercurio forma una animada conexión con el afortunado Júpiter en tu sector de horizontes lejanos el martes, un audaz movimiento podría abrirte nuevas puertas.    
-Además, deja que tu imaginación te inspire. Te permite soñar en grande y hacer lo que sea necesario para convertirlos en realidad. 
-La presencia del sol en Géminis y en tu sector hogareño puede ser la oportunidad para poner un freno y tal vez ver ciertas cuestiones desde otra perspectiva. Si lo haces, puede que encuentres positivas soluciones. 
-El viernes puede ser un día muy espiritual e inspirador. Una clave influencia podría animarte a conectarte con un instructor de vida o un profesor que te ayude a deshacerte de algunas creencias pasadas de moda. Si puedes hacerlo, tal vez llegues a un importan
+Tienes que empezar a vivir de nuevo Escorpio, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad Escorpio, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+Tu sector de relaciones está bajo enfoque, en especial con los afables Sol y Marte iluminando tu sector de relaciones y animándote a explorar el potencial de una nueva amistad o romance. Lo que te interesa sobre otra persona puede ser una historia que te cuenta o una experiencia que haya vivido que capture tu imaginación y te deje con ganas de más. Pero las cuestiones comerciales también se muestran muy activas a medida que otra positiva conexión fomenta una reunión que podría dirigirte hacia a un nuevo proyecto o contrato.
 
 ## Dinero
 
-Esta semana estás llegando a un público mucho más grande con tu trabajo, lo que conduce a más dinero a la larga. Es posible que estés reconectando con la gente de tu pasado y consiguiendo presentaciones con nuevos fans. No importa lo que hagas para ganarte la vida, estás siendo empujado/a al escenario para entregar un mensaje único. Los aspectos te dan el apoyo y la fuerza que necesitas de estrechas relaciones. Gozas de un periodo en el que es muy poco probable que hagas errores, disfruta de este personal y financieramente.
+Para ti, esta semana es acerca de tus relaciones. Te están ofreciendo algo de alegre liberación, así como también graves distracciones. Si tienes proyectos de trabajo que deban ser terminados ahora, concentra en estos tus esfuerzos y diles a tus seres queridos que les verás pronto. Ciertos aspectos de tu sector de comunicación te hacen elocuente y capaz de salirte con la tuya con respecto a los asuntos financieros. Todo está sucediendo ahora.

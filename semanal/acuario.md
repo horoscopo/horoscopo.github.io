@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 15 de febrero 2021 al 21 de febrero 2021 
-description: Horóscopo semanal acuario 15 de febrero 2021 al 21 de febrero 2021. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
+title: acuario 22 de febrero 2021 al 28 de febrero 2021 
+description: Horóscopo semanal acuario 22 de febrero 2021 al 28 de febrero 2021. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,19 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-15'
+ lastmod: '2021-02-22'
 ---
 
 
 
-## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
+## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
 
-No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
-La luna en cuarto creciente del lunes en tu sector social podría hacer que te preguntes cuánto debes involucrar a tus amistades en una idea. Puede que quieras reunir recursos y habilidad, pero tal vez también tengas tus reservas. Hablar sobre esto con las personas involucradas puede ayudarte a tranquilizar la mente. 
-Existe una vibra muy positiva en torno a las relaciones que podría encontrarte disfrutando de algunas salidas especiales o, tal vez, de románticas citas. Si estás organizando una celebración u otro importante evento, todo debería salir muy bien. 
-El romance podría subir algunos puestos en tu agenda, ya que un encuentro resulta ser particularmente tentador. De hecho, puede que sientas que conociste a tu alma gemela. Deja que pase un tiempo, ya que podrías no sentir lo mismo cuando conozcas a esta persona. 
-Por último, una de tus viejas amistades podría tener ganas de volver a conectarse contigo. De ser así, acepta la invitación, incluso si sientes la tentación de ignorarla. Verte podría significar mucho para esta persona.
+Bueno Acuario, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
+Tendrás que navegar a través de lo que podría ser una semana compleja. La fase retrógrada de Mercurio a partir del Lunes podría causar retrasos, lo que significa que tus planes mejor trazados podrían esfumarse. En lugar de enojarte y echar humo, aprovecha esta oportunidad para investigar tus opciones y obtener más información. Evita a personas manipuladoras y prepotentes el Jueves y Viernes, en particular cualquiera que pudiera tener interés personal en hacerte daño. Júntate con personas optimistas y generosas con tal de tener experiencias positivas y una vida social feliz.
 
 ## Dinero
 
-Esta semana es acerca de los aspectos que afectan dinero y valores. Esto es extremadamente afortunado, dándote la oportunidad de mejorar tus finanzas ahora. Se te está empujando a centrarte en la familia y el romance. Podría ser bueno tomarte un descanso o renovar tu convicción de equilibrar tu vida laboral con tu vida personal.
+Tu sector de sexo, muerte, transformación y el dinero de otras personas es radiante ahora. La clave está en equilibrar entre el gasto y la deuda, el ahorro y el derroche. Sin embargo, es un buen momento para tomar ventaja de cualquier propiedad compartida, herencias, o pagos de seguros de cualquier tipo. Guarda por lo menos la mitad de cualquier ganancia inesperada. Todavía puedes divertirte, y tu cuenta bancaria te lo agradecerá.

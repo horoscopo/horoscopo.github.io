@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 15 de febrero 2021 al 21 de febrero 2021 
-description: Horóscopo semanal geminis 15 de febrero 2021 al 21 de febrero 2021. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+title: geminis 22 de febrero 2021 al 28 de febrero 2021 
+description: Horóscopo semanal geminis 22 de febrero 2021 al 28 de febrero 2021. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Géminis.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-15'
+ lastmod: '2021-02-22'
 ---
 
 
 
-## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Géminis.
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos Géminis así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Géminis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
-Hay un enfoque bastante intenso en tu sector de comunicación, lo que sugiere que podrías tener una gran determinación de avanzar con tus planes actuales. Aun así, cuando el vital Marte se fusiona con el prudente Saturno al comienzo de la semana, podrías encontrarte con un obstáculo. Esto no significa que debas abandonar tu proyecto, sino que deberías considerar dar un paso hacia atrás. Si sumas algunos ajustes y consejos de expertos, podrías estar nuevamente en camino muy pronto. 
-La manera en que conectas con los demás también puede ser muy apasionada. Durante la semana, puede que haya algunas personas a las que tu enfoque les resulte demasiado exigente. Quizá prefieran que disminuyas un poco la exigencia y que, en general, te relajes más. Tomarte el tiempo para entender su perspectiva puede conducir a un positivo avance, en especial el fin de semana. Además, el encantador Venus en tu sector de relaciones puede mejorar tu vida social en gran medida.  
+Estás activo Géminis, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
+La semana que comienza tiene un tono impredecible pero, al mismo tiempo, encantador. Al haber un especial enfoque en tu sector social, este puede ser un excelente momento para establecer contactos, moverse en nuevos círculos y disfrutar de la vida en general. Sin embargo, con el eclipse solar en este mismo sector el jueves, también existe la oportunidad de un nuevo comienzo. Puede que te inscribas a un club o que conectes con personas que pueden presentarte interesantes nuevas experiencias. El fin de semana cambia el enfoque a tu sector espiritual, lo que te anima a dedicarle algo de tiempo a tu persona.
 
 ## Dinero
 
-Esta semana, te rodeas de gente que quiere verte tener éxito, lo cual no es algo malo en lo absoluto. Con expansión y suerte en tu sector de trabajo combinado con una visión súbita y cambios, es el momento de lanzar la precaución al viento y conseguir que tu trabajo sea visto por los más altos en la cadena alimenticia. Es un momento de suerte para ti, en el que se te protege casi divinamente. Así que, dale una oportunidad y ve qué sale de nuevo en términos de dinero.
+Puede que tus ideas sean increíblemente creativas ahora, especialmente en lo que se refiere a cualquier tipo de comunicación. ¡Podrías estar sintiendo suficiente inspiración como para escribir un libro sobre tus experiencias y encontrar que prácticamente se escribe sólo! Estás siendo divinamente guiado/a ahora y sólo hay que asegurarse de que estés durmiendo lo suficiente, comiendo y tomando la suficiente agua.  Y mientras que estás creando tu obra maestra, es doblemente importante que dejes tiempo para las cosas prácticas.
