@@ -40,7 +40,18 @@ ads: ["mgid"]
              {% endcase %}
              de
              {{  site.time | date: '%Y' }}
-	     </h2>       
+	     </h2>
+        {% assign ads = page.ads | default: layout.ads %}
+        {% if ads contains "mgid" %}
+        <style>#M630065ScriptRootC1091159 {min-height: 300px;}</style> 
+        <!-- Composite Start --> 
+            <div id="M630065ScriptRootC1091159"> 
+            </div> 
+            <script src="https://jsc.mgid.com/h/o/horoscopo-del-dia.com.1091159.js" async> 
+            </script> 
+        <!-- Composite End --> 
+    
+        {% endif %}
 
       
     </div>	<!--/Titulo del panel -->
@@ -49,17 +60,7 @@ ads: ["mgid"]
     <div class="panel-body">
    
       {{ content }}
-    {% assign ads = page.ads | default: layout.ads %}
-    {% if ads contains "mgid" %}
-    <style>#M630065ScriptRootC1091159 {min-height: 300px;}</style> 
-    <!-- Composite Start --> 
-        <div id="M630065ScriptRootC1091159"> 
-        </div> 
-        <script src="https://jsc.mgid.com/h/o/horoscopo-del-dia.com.1091159.js" async> 
-        </script> 
-    <!-- Composite End --> 
- 
-    {% endif %}
+
     
     {% include signos.html %}
     
