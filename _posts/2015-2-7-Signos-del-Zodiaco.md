@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 22 de febrero 2021
-description: Horóscopos del dia de hoy 22 de febrero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 23 de febrero 2021
+description: Horóscopos del dia de hoy 23 de febrero 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-02-22
+ lastmod: 2021-02-23
 ---
-Esta mañana, los cambios inesperados tuercen las rutinas habituales. Por la tarde, se da a conocer la forma en que estos cambios te harán avanzar, tal vez hacia donde pensaste que no querías ir. Esta noche, el sextil entre la Luna y Júpiter es suficientemente bueno como para mejorar el estado de ánimo de cualquiera. ¡Diviértete y trata de relajarte!
+Expresa lo que estás sintiendo y haz lo que quieres hacer con intensidad de propósito cuando el Sol forma sextil con Marte y te dé una transfusión de valor el día de hoy. Los corazones bailan felizmente cuando la Luna en Sagitario forma sextil con Venus en Acuario. El deseo de los solteros de amor podría ser reemplazado por enamoramiento real.   
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
