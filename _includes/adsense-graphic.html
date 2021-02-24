@@ -1,0 +1,14 @@
+{% assign ads = page.ads | default: layout.ads %}
+{% if site.adsense and ads contains "adsense" %}
+Anuncio
+  <!-- Responsive ads -->
+  <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client='{{ site.adsense }}'
+      data-ad-slot='{{ include.ad_slot }}'
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+{% endif %}
