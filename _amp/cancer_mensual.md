@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo cancer febrero 2021 
+title: Horoscopo cancer marzo 2021 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
@@ -14,7 +14,4 @@ sitemap:
 ---
 
 
-Sé inteligente con respecto a algo fundamental o financiero durante la luna nueva del 15 de febrero. Sin proponértelo o sin hacer planes elaborados, te beneficias mucho de alguna forma material. Venus forma una oposición con Saturno cuando la luna está en Libra el día 25. Haz las paces con una vieja amistad o miembro de la familia, y tal vez te ganes un nuevo mentor. Para la luna llena del 28 de febrero, deja que la curiosidad te guíe. Permite que tu niño interior se acerque más a la superficie y se divierta más con el mundo. Está bien si no te enfocas o apasionas por algo durante mucho tiempo. 
-
-Días destacados: 17, 23, 27
-Días desafiantes: 7, 25
+Tu energía podría andar baja durante la Luna Llena del 5 de marzo, así que tal vez haz algo calmado y silencioso. Ten bondad hacia ti y no reacciones de forma exagerada. Hazle frente a cualquier problema de salud de inmediato, más no te imagines las cosas peores de lo que son. La Luna Nueva y Eclipse Solar del 20 de marzo es personal y fuerte para ti, cuando todas esas pequeñeces que hacen de la vida diaria una carga se vuelven tan fáciles como respirar. A partir de entonces tratarás fácilmente con esos detalles y tendrás más energía para proyectos más grandes y más glamorosos. Disfruta del fin de semana del 28 de marzo siendo encantador pero a la vez económicamente sensato conforme Venus cuadra al extravagante Júpiter.
