@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo escorpio febrero 2021
-description: El Horóscopo febrero de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo escorpio marzo 2021
+description: El Horóscopo marzo de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo escorpio febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo escorpio marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-El Sol forma trígono con el peculiar Urano el 8 de febrero. Si es que estás buscando ese regalo perfecto, puedes encontrarlo ese día. Bajo la Luna Nueva del 11 de febrero puedes crear mucho, tomar un gran riesgo y aun ser responsable al mismo tiempo. Lo más probable es que implique opiniones de ciertas personas más de lo que implique dinero. Sé valiente y confía en ti. La Luna Llena del 25 de febrero podría traerte algunos momentos tranquilos en privado para reflexionar sobre lo que realmente está pasando en tu corazón y tu conciencia. Podrías hacer una observación que enriquezca tu vida futura.
+La Luna Nueva del 2 de marzo resalta la importancia de tener buena salud. Te verás muy bien sin importar cómo te sientas. Felicítate por todos tus buenos hábitos y difunde tu buena vibra. Alguien que es importante para ti te va a escuchar. La Luna Llena del 18 de marzo te traerá buenos momentos de tranquilidad. Busca privacidad si eso es lo que quieres o compártelos con ese alguien especial. Si es que prefieres descansar, hazlo. Aquello que elijas hacer será muy gratificante. El 27 de marzo podría ser un día rico en romance con Venus y Júpiter conectando en Virgo. Es posible que sientas un poco de duda al respecto al principio, pero eso puede cambiar.

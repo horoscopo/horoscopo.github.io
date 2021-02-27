@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo piscis febrero 2021 
+title: Horoscopo piscis marzo 2021 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
@@ -14,4 +14,7 @@ sitemap:
 ---
 
 
-El 3 de febrero, el trígono entre el Sol y Júpiter enriquece una situación o relación que ya era agradable. La Luna Llena del 9 de febrero atrae a todas tus amistades y vecinos, o por lo menos así parece. Si no estás de humor para ofrecer una fiesta, deja que alguien más lo haga y ve un rato. Además, Júpiter ingresa directamente a Libra ese día. Esto hace que sea ¡hora de festejar! Vuélvete el centro de atención en el trabajo durante la Luna Nueva del 23 de febrero. Un avance en tu carrera o un proyecto más grande pueden surgir para ti, o podrías sugerir dicho cambio y tus superiores verán la sabiduría en tu sugerencia. 
+Venus forma un trígono con Marte el 10 de marzo. ¡Momento de coquetear! El amor podría aparecer desde un ángulo inesperado durante la luna nueva del día 15. No te dejes cegar por un romance que amenaza con ser más que perfecto. Si ya estás con alguien excelente, las cosas podrían ponerse incluso mejor. El 24 de marzo, Venus ingresa a Géminis. El romance se pone más juguetón y encantador que nunca. La luna llena del día 29 podría aclarar un poco tu mundo monetario y material. Encuentra algo valioso que habías perdido. Busca en el correo un cheque o descuento cuyo rastro habías perdido. Consigue un sí para un préstamo u otra solicitud. 
+
+Días destacados: 7, 12, 27
+Días desafiantes: 17, 26

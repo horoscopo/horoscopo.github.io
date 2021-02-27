@@ -14,4 +14,11 @@ sitemap:
 ---
 
 
-Tu vida familiar o doméstica podría conmover tu corazón con la luna llena del 3 de marzo. Puede haber buenas noticas en el trabajo que hagan que el tiempo que pasas en casa se vuelva cada vez mejor. Es tan agradable cuando el trabajo y el hogar no están en una competencia feroz. La luna nueva del día 18 podría abrir una puerta para tu profesión o presencia pública que te ponga en la vía rápida hacia el éxito y la popularidad. Disfruta de una explosión de encanto que trae a alguien o algo para ayudarte a dar el próximo gran paso. El 25 de marzo, el trígono que Mercurio forma con Urano podría revelar algo poderoso y útil que ha estado oculto por mucho tiempo. 
+El 5 de marzo, Venus se torna retrógrado. Tómate en serio el amor, y mira debajo de la superficie de las palabras y acciones. Entra a las profundidades. Evita compromisos hasta después de que Venus vuelva a su fase directa el 16 de marzo. 
+Ponte en primer lugar durante la luna nueva del día 8. Haz aquello que te anima y nutre tu espíritu. Claro, a veces cuidar de alguien es lo que más te ayuda. 
+Mercurio forma una conjunción con Venus el 15 de marzo. Las conversaciones y contactos sociales cobran vida con chispas y brillo. Esto tal vez no dure mucho, así que aprovecha. 
+Dinero u oportunidades financieras podrían aparecer en tu camino durante la luna llena del día 24. Si estás detrás de un proyecto o financiación, debería ser fácil hablar y que te escuchen. Alguien sorprendente puede tener la mente abierta a tu presentación. 
+El sol forma una conjunción con Venus el 26 de marzo. La honestidad puede incluir buenas intenciones. Que sea algo bueno. 
+Venus vuelve a entrar a Libra el día 31. Sé la versión más brillante de ti en un círculo familiar o social más amplio. 
+Días destacados: 2, 20, 28
+Días desafiantes: 10, 22

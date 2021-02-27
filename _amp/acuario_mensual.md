@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo acuario febrero 2021 
+title: Horoscopo acuario marzo 2021 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Pasa tiempo en tu barrio durante el fin de semana de la Luna Nueva del 4 de febrero y te divertirás más que si sales de tu ciudad. Prepárate para un acontecimiento repentino o cambio de plan que podría traerte una buena suerte proveniente de muy lejos. Es comprensible que sientas inquietud alrededor de la Luna Llena del 19 de febrero debido a tanta gente tratando de dirigirte hacia un lado u otro o que hagas una cosa u otra. Diviértete y mantente firme hasta que lo que más te atraiga se haga más evidente. El amor puede ser increíblemente dulce con Venus formando trígono con Urano el 27 de febrero, cuando incluso algo muy inusual podría suceder.  
+Haz uno o dos cambios fundamentales en tu trabajo o vida doméstica bajo la luna llena del 5 de marzo. Puedes incluso no hacerlo de forma consciente, pero notarás una gran mejora en tus finanzas y en una relación con una amistad o familiar poco después. Alrededor de la luna nueva del 19 de marzo, podrías recibir noticias sobre un asunto financiero. Un cheque podría acreditarse o un préstamo o refinanciamiento podría aprobarse. También es posible que te llegue un regalo monetario. El 24 de marzo, el trígono que Mercurio forma con Neptuno agrega un toque de inspiración para iluminar una idea que ya es brillante. Hazla relucir. 
