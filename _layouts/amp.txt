@@ -17,10 +17,10 @@
   <body>
      <h1>{{ page.title }}</h1>
      
-     {% if page.horoscopo.signo %}
-     <amp-img src="{{ site.url }}images/zodiac/{{ page.horoscopo.signo }}.jpg" width="527" height="193" layout="responsive"></amp-img>
-     {% else %}
+     {% if page.ogimg %}
      <amp-img src="{{ site.url }}{{ page.ogimg }}" width="1200" height="90" layout="responsive"></amp-img>
+     {% else %}
+     <amp-img src="{{ site.url }}images/zodiac/{{ page.horoscopo.signo }}.jpg" width="527" height="193" layout="responsive"></amp-img>
      {% endif %}
      
      
