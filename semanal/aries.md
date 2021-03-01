@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 22 de febrero 2021 al 28 de febrero 2021 
-description: Horóscopo semanal aries 22 de febrero 2021 al 28 de febrero 2021. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA ARIES. Tú solito.
+title: aries 01 de marzo 2021 al 07 de marzo 2021 
+description: Horóscopo semanal aries 01 de marzo 2021 al 07 de marzo 2021. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Aries.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-22'
+ lastmod: '2021-03-01'
 ---
 
 
 
-## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA ARIES. Tú solito.
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Aries.
 
-A veces dejar ir las cosas es mucho más complicado de lo que piensas Aries. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad Aries, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres Aries. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero Aries, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio Aries, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. Aries, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
-Puede que tu mente no pare de pensar, pero esta podría ser la razón por la cual surgen tantas oportunidades. Una podría volverse prioridad cuando el caritativo Júpiter se alinea con Plutón en tu sector de comunicación esta semana. La luna nueva en esta misma zona te alienta a compartir tus planes con las demás personas para que te den el apoyo que necesitas. Sin embargo, el enfoque se desplaza al sector de hogar y familia el Jueves. Es momento de permitirte algunos cuidados personales.
+Mira Aries, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer Aries, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
+Todo lo que conoces y entiendes de tu vida interna y de tus pensamientos y sentimientos puede influir directamente en tus finanzas. Mientras más confianza sientas, más confianza tendrás en tu capacidad de aumentar tus ingresos y sentir seguridad. La presencia del expansivo Júpiter en tu sector espiritual sugiere que contratar los servicios de un consejero de vida u otro profesional podría ser útil, ya que podría ayudarte a superar los límites que sientes y a sentir más plenitud.
 
 ## Dinero
 
-Tienes una buena dosis de apoyo del Universo conforme tratas de ganar más dinero y creas más estructura en tu vida. Los aspectos afectando tu sector de dinero y valores hacen de este un buen momento no sólo para ganar más dinero a través de mayores oportunidades, sino también para investigar la manera de invertir en el futuro. Empieza a actuar con cautela, luego, ramifícate conforme empiezas a sentir más comodidad.
+Es una buena semana para ponerse en contacto con tus necesidades. Los aspectos que destacan la belleza, la creatividad y el amor muestran que es importante no sólo el mirar la parte, sino también sentirla. El amar lo que haces para ganarte la vida no solo sucede. Si lo cultivas mediante la exploración de tus habilidades qué mejor que utilizarlo para atraer efectivo. Esto ayudará a tu estado de ánimo. Tienes éxito con las asociaciones empresariales y financieras derivadas de tus amistades y redes sociales.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 22 de febrero 2021 al 28 de febrero 2021 
-description: Horóscopo semanal piscis 22 de febrero 2021 al 28 de febrero 2021. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+title: piscis 01 de marzo 2021 al 07 de marzo 2021 
+description: Horóscopo semanal piscis 01 de marzo 2021 al 07 de marzo 2021. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-02-22'
+ lastmod: '2021-03-01'
 ---
 
 
 
-## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Piscis.
-Por mucho que deseas que todo sea perfecto, puede que tal no sea el caso en los próximos días. Sueña todo lo que quieras, pero es posible que tengas que hacerles frente a demandas que requieran de una respuesta. Es posible que te estés presionando demasiado cuando no es realmente necesario. En lugar de tratar de encargarte de todo, considera la posibilidad de delegar algunas tareas para que tu semana sea más manejable. La Luna Nueva del sábado te anima a ser audaz y a ampliar tus horizontes sociales.
+Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
+ En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
+Puede que debas tomar una decisión difícil en relación con una de tus amistades o un grupo social al comienzo de la semana. De nada vale demorarla, ya que solo estarás posponiendo lo inevitable. Haz lo que debes hacer y sentirás mucho más alivio durante el resto de la semana. Con el enérgico Marte en oposición al incansable Urano el martes, el deseo de hacer lo que quieres podría encontrarte optando por tomar un camino más independiente. Mercurio se vuelve retrógrado el sábado; trata de terminar las tareas importantes antes.
 
 ## Dinero
 
-Hay algunos problemas relacionados con deudas y bienes de propiedad con otras personas. Puede que estés actuando bajo una sincronización distinta a la de tus acreedores. La mejor forma de resolverlo es con calma y sin mancha. Puede que tengas una visión maravillosa sobre cómo saldar la deuda con mayor rapidez - ¡toma ventaja de ello! Mientras tanto, el amor ilumina tu vida familiar; el pasar tiempo con tus seres queridos hace que todo valga la pena.
+Para ti, esta semana es sobre la necesidad imperiosa de comunicar tu experiencia al escribir, enviar mensajes de texto, enviar correos electrónicos o para hablar. Todos estos esfuerzos pueden dar dinero en efectivo en el futuro. Pero esta semana, un fuerte campo de energía requiere que cuides de los problemas en el trabajo. Tu trabajo puede estar pasando por enormes cambios ahora. El luchar contra ellos, o decidir abandonar el barco no dará los resultados que buscas. Ve con los cambios lo mejor que puedas.
