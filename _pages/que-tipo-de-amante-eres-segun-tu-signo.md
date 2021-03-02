@@ -8,7 +8,7 @@ home: FALSE
 sidebar: true
 keywords: amor, signos del zodiaco, tipo de amante, como sos en el amor, signos en el amor, claves para conquistar a los signos, como amar al signo, como conquistar a, signos dificil de amar, signos en el amor, horoscopo amor, tarot, tarot amor
 ogimg: /images/que-tipo-de-amante-eres-segun-tu-signo.png
-video: FzjTXqn2k7U
+video: UciHL5PDex8
 sitemap:
  priority: 1
  changefreq: 'monthly'
