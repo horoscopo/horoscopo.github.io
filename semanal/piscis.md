@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 01 de marzo 2021 al 07 de marzo 2021 
-description: Horóscopo semanal piscis 01 de marzo 2021 al 07 de marzo 2021. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+title: piscis 08 de marzo 2021 al 14 de marzo 2021 
+description: Horóscopo semanal piscis 08 de marzo 2021 al 14 de marzo 2021. Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-01'
+ lastmod: '2021-03-08'
 ---
 
 
 
-## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+## Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 
-Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
-Puede que debas tomar una decisión difícil en relación con una de tus amistades o un grupo social al comienzo de la semana. De nada vale demorarla, ya que solo estarás posponiendo lo inevitable. Haz lo que debes hacer y sentirás mucho más alivio durante el resto de la semana. Con el enérgico Marte en oposición al incansable Urano el martes, el deseo de hacer lo que quieres podría encontrarte optando por tomar un camino más independiente. Mercurio se vuelve retrógrado el sábado; trata de terminar las tareas importantes antes.
+Últimamente sientes que las decisiones que has tomado no han sido las más acertadas pero todo se puede arreglar. 
+Como si, por momentos, no fueras capaz de encontrar salida a tus preocupaciones, a todo ese estrés mental, a ese círculo en el que te has metido solo.
+La semana que comienza podría traerte sorpresas que parecen ser muy bienvenidas. Inesperadas invitaciones o la oportunidad de disfrutar de la compañía de alguien que no ves muy a menudo pueden traerle una pequeña chispa adicional a tu vida. El eclipse solar del jueves en tu sector creativo y romántico podría encontrarte enamorándote mucho. Si este es el caso, el cosmos te anima a no apresurarte. Tómate tu tiempo y espera  a llegar a conocer mejor a la persona.
 
 ## Dinero
 
-Para ti, esta semana es sobre la necesidad imperiosa de comunicar tu experiencia al escribir, enviar mensajes de texto, enviar correos electrónicos o para hablar. Todos estos esfuerzos pueden dar dinero en efectivo en el futuro. Pero esta semana, un fuerte campo de energía requiere que cuides de los problemas en el trabajo. Tu trabajo puede estar pasando por enormes cambios ahora. El luchar contra ellos, o decidir abandonar el barco no dará los resultados que buscas. Ve con los cambios lo mejor que puedas.
+Puede que estés sintiendo presión para hacerle frente a tu situación de deuda. Es necesario prestar atención a lo que debes. Al asumir una mayor responsabilidad, ayudas a los problemas a desaparecer mucho más rápidamente que si se hicieses caso omiso de los avisos y mensajes telefónicos. Mientras tanto, el énfasis en tu sector de vidas pasadas e instituciones te ayuda a recuperar las habilidades olvidadas que se pueden utilizar para ganar más a largo plazo.

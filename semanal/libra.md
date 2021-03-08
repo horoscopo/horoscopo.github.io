@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 01 de marzo 2021 al 07 de marzo 2021 
-description: Horóscopo semanal libra 01 de marzo 2021 al 07 de marzo 2021. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+title: libra 08 de marzo 2021 al 14 de marzo 2021 
+description: Horóscopo semanal libra 08 de marzo 2021 al 14 de marzo 2021. Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte Libra, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-01'
+ lastmod: '2021-03-08'
 ---
 
 
 
-## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+## Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte Libra, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 
-Disfruta de la vida Libra, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Libra. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Libra.
-Ya sea que la idea de una amistad deba ser escuchada o deba ser evitada es algo que tendrás que investigar. El Eclipse Solar de esta semana manifestándose el martes podría destacar la oportunidad de relacionarte con una persona, un grupo o un proyecto interesante. Sin embargo, no bajes la guardia y te comprometas a nada sin antes hacer tu tarea - ya que hacerlo podría hacerte perder en el futuro. Mientras que pudieras sentirte descortés por cuestionar los motivos de los demás, es mejor prevenir que lamentar.
+A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
+ nada es para siempre, ni siquiera los problemas ni las preocupaciones…
+Aunque es posible que haya desacuerdos durante esta semana, intenta no dejar que arruinen lo que podría ser un momento productivo. Utiliza estas oportunidades para iniciar un debate de corazón a corazón, descubre qué tienen en común y cómo podrían trabajar juntos. Se puede lograr mucho mediante la negociación. El martes, el afortunado Júpiter ingresa a tu sector de hogar y familia para una estancia de aproximadamente un año. Esto puede traer la oportunidad de hacer cambios positivos en tu hogar, quizás expandir la familia o mudarte a un lugar más grande.
 
 ## Dinero
 
-Estás de cara a un momento interesante gracias a los aspectos en tu sector de efectivo y valores. Esto no sólo da lugar a un montón de nuevas formas de atraer dinero (woo hoo!), pero también te obliga a pensar en tu vida monetaria futura. ¿De qué manera se refleja la forma en la que te ganas la vida con quién eres y los valores más importantes para ti? Puede que te sorprenda la respuesta a esta pregunta.
+Tu individualidad viene justo en contra del dinero o la deuda de otras personas. Te podría sorprender el encontrar algo que no esperabas en esta área de tu vida. Asegúrate de haber pagado todo y haber pasado por alto una factura o te arriesgas a pagar multas y sanciones. Hay un aspecto afortunado que demuestra que puede ser muy bueno que pagues las deudas justo después de que la factura llegue. ¡Fuera de tu vista, fuera de tu mente!

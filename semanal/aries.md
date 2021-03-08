@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 01 de marzo 2021 al 07 de marzo 2021 
-description: Horóscopo semanal aries 01 de marzo 2021 al 07 de marzo 2021. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Aries.
+title: aries 08 de marzo 2021 al 14 de marzo 2021 
+description: Horóscopo semanal aries 08 de marzo 2021 al 14 de marzo 2021. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,18 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-01'
+ lastmod: '2021-03-08'
 ---
 
 
 
-## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Aries.
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-Mira Aries, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer Aries, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
-Todo lo que conoces y entiendes de tu vida interna y de tus pensamientos y sentimientos puede influir directamente en tus finanzas. Mientras más confianza sientas, más confianza tendrás en tu capacidad de aumentar tus ingresos y sentir seguridad. La presencia del expansivo Júpiter en tu sector espiritual sugiere que contratar los servicios de un consejero de vida u otro profesional podría ser útil, ya que podría ayudarte a superar los límites que sientes y a sentir más plenitud.
+Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
+ La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa Aries? 
+ todo lo que desea.
+Continuarás disfrutando de una alegre vida social, con oportunidades para romance, diversión y relajación. Una vez que el Sol entre a Géminis el viernes, vas a entrar a una fase de cuatro semanas en la que te beneficiarás de invertir parte de tu tiempo en ti. Utiliza las semanas por delante para hacerte una limpieza espiritual con el fin de liberar asuntos y a personas que ya no tienen ningún propósito en tu vida - y recargar tus pilas, por supuesto. Aún te divertirás, pero tal vez sea de una manera un poco más discreta.
 
 ## Dinero
 
-Es una buena semana para ponerse en contacto con tus necesidades. Los aspectos que destacan la belleza, la creatividad y el amor muestran que es importante no sólo el mirar la parte, sino también sentirla. El amar lo que haces para ganarte la vida no solo sucede. Si lo cultivas mediante la exploración de tus habilidades qué mejor que utilizarlo para atraer efectivo. Esto ayudará a tu estado de ánimo. Tienes éxito con las asociaciones empresariales y financieras derivadas de tus amistades y redes sociales.
+Si has estado teniendo la intención de poner tus cuentas en orden, este es un buen momento para hacerlo. Tu sector de deuda y el dinero de los demás es el más afectado. Si estás tratando de recaudar dinero para una nueva idea de negocio, es un buen momento para hacerlo. El Universo se está centrando en los procesos, tales como solicitudes de préstamos, y asegurándose de que las respuestas que recibas sean positivas. Pon tal dinero a buen uso.
