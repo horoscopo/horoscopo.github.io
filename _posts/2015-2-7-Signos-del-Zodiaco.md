@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de marzo 2021
-description: Horóscopos del dia de hoy 13 de marzo 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de marzo 2021
+description: Horóscopos del dia de hoy 14 de marzo 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-03-13
+ lastmod: 2021-03-14
 ---
-Encontrarás la vida bastante simple si le prestas atención a los detalles cuando la Luna forme sextil con Saturno. Y para cuando llegue la tarde, alguien te agradecerá el que tengas tacto. Una sonrisa combinada con buenas palabras te llevan lejos. La gente te ama total y consideradamente bajo la Luna de esta noche en el amigable Libra.
+Qué bueno es poder hablar con confianza, hacer uso del buen juicio y actuar acordemente mientras Mercurio aspecta a Júpiter el día de hoy. La noche continúa con una nota positiva. Mientras que los malentendidos son una forma de vida en las telenovelas, en la vida real, pueden ser aclarados bajo el trígono entre la Luna en Escorpión y Neptuno. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
