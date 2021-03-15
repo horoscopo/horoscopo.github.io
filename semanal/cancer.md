@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 08 de marzo 2021 al 14 de marzo 2021 
-description: Horóscopo semanal cancer 08 de marzo 2021 al 14 de marzo 2021. Cáncer, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
+title: cancer 15 de marzo 2021 al 21 de marzo 2021 
+description: Horóscopo semanal cancer 15 de marzo 2021 al 21 de marzo 2021. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Cáncer, no hay casualidades ni coincidencias.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-08'
+ lastmod: '2021-03-15'
 ---
 
 
 
-## Cáncer, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
+## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Cáncer, no hay casualidades ni coincidencias.
 
-Cáncer, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo Cáncer. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
-La intensidad de la semana pasada disminuye, pero cuando se trata de planificar hacia futuro, puede que tengas deseos de encontrar una experiencia o interés que te satisfaga emocionalmente. Puede que estés buscando algo que no sólo te enseñe sobre la vida, sino que también te cambie como persona. Con Venus y Saturno en el sector superior de tu carta, también podrías tomar muy en serio una de tus metas clave. Si alguien tiene un consejo para ti, tómalo.
+A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez Cáncer. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona Cáncer, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
+Aunque es posible que desees explorar nuevas oportunidades, ciertas responsabilidades podrían estarte frenando. Este es el dilema en el que podrías encontrarte al inicio de la semana, cuando podrías perderte de una oportunidad que parece ser demasiado buena para dejarla pasar debido a otras responsabilidades. Sin embargo, Mercurio entrando a Acuario el sábado podría seguir poniendo nuevas opciones en tu camino, incluso aunque no sean tan atractivas como la original. Esta semana podría revivir un amor secreto.
 
 ## Dinero
 
-Esta semana tienes aspectos que te dan más magnetismo. La parte difícil es que tu sector de profesión requiere de más atención ahora para que puedas hacer tu trabajo más sostenible, rentable y seguro. No dejes nada al azar por ahora. Construye lo que quieres ver.
+Esta semana tienes un nuevo enfoque en tu sector del hogar y las emociones internas. Si has estado pensando en el concepto del hogar y lo que éste significa para ti, es posible que desees echar raíces, tal vez por primera vez en tu vida. Conforme estás tratando de tomar el control de tu vida hogareña, asegúrate de también proyectar tu presupuesto de gastos de manutención durante el resto del año. Lo que quieres tiene la posibilidad de hacerse real si lo planeas con anticipación.

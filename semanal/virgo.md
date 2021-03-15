@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 08 de marzo 2021 al 14 de marzo 2021 
-description: Horóscopo semanal virgo 08 de marzo 2021 al 14 de marzo 2021. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+title: virgo 15 de marzo 2021 al 21 de marzo 2021 
+description: Horóscopo semanal virgo 15 de marzo 2021 al 21 de marzo 2021. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-08'
+ lastmod: '2021-03-15'
 ---
 
 
 
-## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 
-Nadie se cura por herir a otro Virgo. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
-Tu deseo de pasarla bien podría aumentar, lo que podría mantener tu tiempo mucho más ocupado. Si puedes pensar en una estrategia que te ayude tanto a trabajar como a disfrutar de la vida, quizás consigas hacer incluso más cosas. La oportunidad de cerrar un trato lucrativo puede ser demasiado buena como para desperdiciarla, incluso si es una oferta informal. A pesar de todo el esfuerzo, no descuides la posibilidad de pasarla bien. De hecho, dale prioridad a esto y te sentirás una persona más rejuvenecida y optimista en general.
+Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
+ Busca siempre la parte buena de cada momento en el que te encuentres.
+Es hora de tratar de salir adelante, explorar nuevas opciones y considerar estudiar o viajar como forma de ampliar tus horizontes. Con Júpiter ahora en Virgo, puede que sientas motivación a convertirte en mentor o entrenador en un tema que te interesa. Esto podría proporcionarte un lucrativo ingreso, ya que existe una buena probabilidad de que tu reputación pase de boca en boca. También estarás alerta cuando se trate de asuntos comerciales. Tu determinación a tener éxito sugiere que los obstáculos se disolverán a medida que avanzas.
 
 ## Dinero
 
-Los aspectos activan tu sector de efectivo y valores. Hay tanta actividad ahí, que puede que tengas que establecer un tiempo para organizar tus finanzas o regresar las llamadas de tus muchos pretendientes financieros. Mientras clasificas las nuevas ofertas de empleo y las oportunidades para ganar dinero extra, no te olvides de la planificación de tu carrera. Por supuesto, trabajas para recibir un cheque, pero ¿qué otra recompensa se puede derivar de tu trabajo?
+Esta semana tienes un poco de ventaja. Tu personalidad, nunca conocida por la sutileza, puede ser muy fuerte en este momento y puede que no sea del todo bueno para algunas personas. Si vas a una entrevista o quieres impresionar a un cliente nuevo, el acto irresistible no puede ser tu mejor apuesta. En lugar de eso, envuélvelos en un poco de misterio. El hacer que ellos vengan a ti puede producir mejores resultados financieros.

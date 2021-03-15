@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 08 de marzo 2021 al 14 de marzo 2021 
-description: Horóscopo semanal escorpio 08 de marzo 2021 al 14 de marzo 2021. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+title: escorpio 15 de marzo 2021 al 21 de marzo 2021 
+description: Horóscopo semanal escorpio 15 de marzo 2021 al 21 de marzo 2021. Tómate un tiempo Escorpio, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-08'
+ lastmod: '2021-03-15'
 ---
 
 
 
-## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+## Tómate un tiempo Escorpio, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
-Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
-Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
-Una brillante atracción podría hacer que la semana tenga un excelente comienzo. ¿Será duradera esta conexión? Puede serlo, si la cuidas. Sin embargo, a menudo son las pequeñas cosas que salen mal las que nos frustran cuando Mercurio está retrógrado, como lo está ahora. En tu caso, podría ser un problema con un amante o una de tus amistades lo que, al parecer, no puedes resolver. A medida que el encantador Venus ingresa a un sector más intenso de tu carta, podrías descubrir que un especial romance se vuelve más cercano e íntimo, justo como a ti te gusta.
+Esta semana estás un poco impredecible Escorpio, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica Escorpio… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Escorpio. Tú solito.
+Si una cierta amistad parece estar obstinadamente firme en su postura, podría causar un choque de puntos de vista y valores a menos que puedas predisponerte a tener una conversación de corazón a corazón. Por otro lado, alguien cercano a ti puede no estar de acuerdo sobre un objetivo o ambición, y esto también puede requerir de un manejo cuidadoso; aunque puede salir bien si se toma el enfoque adecuado. La buena noticia es que Júpiter entra a tu sector de horizontes lejanos, y podrías ver un aumento en tus viajes y otro tipo de aventuras.
 
 ## Dinero
 
-Esta semana es sobre el choque de energías en el cielo conforme varios planetas luchan por tu atención. Algunos te ayudarán a acomodarte en tu trabajo y desarrollar un plan para el avance. Pero también tienes un dilema en sus manos. ¿Deberías de estar de acuerdo con el statu quo, o luchar por tu individualidad? El primero es mejor por ahora.
+Es crucial no aceptar la palabra de todos por ahora, sino más bien descubrir por ti cuál podría ser el mejor plan para tu dinero. Los vehículos de inversión pueden ser confusos, por lo que cuenta con la ayuda de un asesor financiero calificado que pueda ayudarte a solucionar las ecuaciones numéricas y lograr que todo se haga. Mientras tanto, el Universo añade un poco de emoción.
