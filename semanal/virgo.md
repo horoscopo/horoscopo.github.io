@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 15 de marzo 2021 al 21 de marzo 2021 
-description: Horóscopo semanal virgo 15 de marzo 2021 al 21 de marzo 2021. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+title: virgo 22 de marzo 2021 al 28 de marzo 2021 
+description: Horóscopo semanal virgo 22 de marzo 2021 al 28 de marzo 2021. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Virgo, por qué te lo callas y te lo llevas callando tanto tiempo? 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,17 +12,18 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-15'
+ lastmod: '2021-03-22'
 ---
 
 
 
-## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Virgo, por qué te lo callas y te lo llevas callando tanto tiempo? 
 
-Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
- Busca siempre la parte buena de cada momento en el que te encuentres.
-Es hora de tratar de salir adelante, explorar nuevas opciones y considerar estudiar o viajar como forma de ampliar tus horizontes. Con Júpiter ahora en Virgo, puede que sientas motivación a convertirte en mentor o entrenador en un tema que te interesa. Esto podría proporcionarte un lucrativo ingreso, ya que existe una buena probabilidad de que tu reputación pase de boca en boca. También estarás alerta cuando se trate de asuntos comerciales. Tu determinación a tener éxito sugiere que los obstáculos se disolverán a medida que avanzas.
+Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
+ La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
+ Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
+Una intensa conexión podría hacer que te sea más fácil convencer a alguien para que adopte tu forma de pensar. Pero si lo intentas demasiado duro, podrías percatarte de que tal persona no sólo se aleja, sino que incluso puede llegar a volverse inaccesible. El presente enfoque en tacto y diplomacia te anima a abordar el tema desde una perspectiva diferente, dando lugar a un resultado mucho más deseable. La Luna Creciente del fin de semana podría significar que alguien querrá darte órdenes a menos que seas firme con tal.
 
 ## Dinero
 
-Esta semana tienes un poco de ventaja. Tu personalidad, nunca conocida por la sutileza, puede ser muy fuerte en este momento y puede que no sea del todo bueno para algunas personas. Si vas a una entrevista o quieres impresionar a un cliente nuevo, el acto irresistible no puede ser tu mejor apuesta. En lugar de eso, envuélvelos en un poco de misterio. El hacer que ellos vengan a ti puede producir mejores resultados financieros.
+Esta semana podrías sentir frustración en tu objetivo de salir adelante económicamente. Hay cierta atención no deseada sobre tu situación de endeudamiento. Podrías caer fácilmente en depresión si no tienes cuidado. La buena noticia es que tienes un montón de energía para pagarla y deshacerte de ella. Puede que quieras gastártelo todo en familia y diversión, pero resiste la tentación, sólo por esta semana.

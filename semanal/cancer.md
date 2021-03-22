@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 15 de marzo 2021 al 21 de marzo 2021 
-description: Horóscopo semanal cancer 15 de marzo 2021 al 21 de marzo 2021. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Cáncer, no hay casualidades ni coincidencias.
+title: cancer 22 de marzo 2021 al 28 de marzo 2021 
+description: Horóscopo semanal cancer 22 de marzo 2021 al 28 de marzo 2021. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Cáncer, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-15'
+ lastmod: '2021-03-22'
 ---
 
 
 
-## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Cáncer, no hay casualidades ni coincidencias.
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Cáncer, abre las puertas y ciao. No tienes que mantener nada…
 
-A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez Cáncer. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona Cáncer, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
-Aunque es posible que desees explorar nuevas oportunidades, ciertas responsabilidades podrían estarte frenando. Este es el dilema en el que podrías encontrarte al inicio de la semana, cuando podrías perderte de una oportunidad que parece ser demasiado buena para dejarla pasar debido a otras responsabilidades. Sin embargo, Mercurio entrando a Acuario el sábado podría seguir poniendo nuevas opciones en tu camino, incluso aunque no sean tan atractivas como la original. Esta semana podría revivir un amor secreto.
+Llevabas un ritmo un poco alocado Cáncer, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Cáncer, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más Cáncer, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
+Aunque todavía estás en busca de aventura, una parte de ti desea paz y tranquilidad. La Luna Creciente del lunes podría poner de relieve una situación en la que tomarte algo de tiempo podría ayudarte a reflexionar sobre tus prioridades y tal vez tomar algunas decisiones clave. Con Venus y Mercurio moviéndose a la parte superior de tu carta, podría ser un periodo de tiempo en el que seas el centro de atención. Muestra tus habilidades creativas, ya que hacerlo podría traerte verdaderas oportunidades.
 
 ## Dinero
 
-Esta semana tienes un nuevo enfoque en tu sector del hogar y las emociones internas. Si has estado pensando en el concepto del hogar y lo que éste significa para ti, es posible que desees echar raíces, tal vez por primera vez en tu vida. Conforme estás tratando de tomar el control de tu vida hogareña, asegúrate de también proyectar tu presupuesto de gastos de manutención durante el resto del año. Lo que quieres tiene la posibilidad de hacerse real si lo planeas con anticipación.
+Esta semana estás en el meollo de las cosas con ciertos aspectos afectando tu sector de dinero y valores. Se te está forzando hacia cierta área de tu vida que ha sido desatendida durante demasiado tiempo. Pon un poco más de tu pensamiento y acción en cómo ganar dinero y cuánto quieres ganar en el futuro.

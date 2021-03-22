@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 15 de marzo 2021 al 21 de marzo 2021 
-description: Horóscopo semanal sagitario 15 de marzo 2021 al 21 de marzo 2021. Estás a tope Sagitario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: sagitario 22 de marzo 2021 al 28 de marzo 2021 
+description: Horóscopo semanal sagitario 22 de marzo 2021 al 28 de marzo 2021. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-15'
+ lastmod: '2021-03-22'
 ---
 
 
 
-## Estás a tope Sagitario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande Sagitario, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Sagitario, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
-Quizás le estés dándole vueltas a los beneficios de seguir un determinado curso de acción. Con Mercurio desacelerando antes de comenzar a avanzar, podrías toparte con que cualquier plan que hagas esté sujeto a cambios o retrasos. Si es así, tal podría resultar a tu favor. La entrada del Sol a Libra pone el enfoque firmemente en la parte superior de tu carta, animándote a seguir adelante con aquellas metas y planes que has estado investigando. Este fin de semana, mantente alerta a una posible oportunidad.
+A veces te confundes Sagitario, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso Sagitario. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. Sagitario, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo Sagitario, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+El enfoque en tu sector espiritual continúa, aumentando tu intuición y despertando aún más tus sueños y metas con una visión inspiradora y práctica. Mientras que el Sol en tu signo te invita a actuar en relación a planes que son cercanos a tu corazón, te beneficiarás de tomarte tiempo para meditar y reflexionar. Equilibrar tus acciones con calma y paz interior puede allanar el camino para un mayor éxito. Este fin de semana, un optimista aspecto alude a un encuentro que podrías encontrar muy conmovedor.
 
 ## Dinero
 
-Esta semana es acerca de los aspectos afectando tu casa del karma, vidas pasadas, sueños y el sector de amor. Tus sueños podrían estar llenos de ideas de cómo atraer más dinero, así que pon atención a lo que dicen. Al mismo tiempo, tu sector del hogar es todo menos claro. Ponte a pensar si tiene sentido el continuar pagando la misma renta o si deberías mudarte a un nuevo lugar.
+Puede que sientas más madurez acerca de la forma en la que manejas el dinero. Puede que las inversiones de riesgo ya no llamen más tu atención. En vez, puede que estés buscando acciones, bonos y otros vehículos con una perspectiva más conservadora. Ciertos aspectos demuestran que tu vida social puede estallar de repente e inesperadamente con invitaciones sociales. Trata de balancear todo con gracia y ecuanimidad.

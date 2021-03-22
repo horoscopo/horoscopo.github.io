@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 15 de marzo 2021 al 21 de marzo 2021 
-description: Horóscopo semanal libra 15 de marzo 2021 al 21 de marzo 2021. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: libra 22 de marzo 2021 al 28 de marzo 2021 
+description: Horóscopo semanal libra 22 de marzo 2021 al 28 de marzo 2021. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Libra.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-15'
+ lastmod: '2021-03-22'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Libra.
 
-Ommmm… Ommmm… Relax Libra, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira Libra, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas Libra, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
-Puede que algunas fuertes situaciones hagan salir a la luz ciertos sentimientos, pero con el actual enfoque en Cáncer, puede que sientas todo de manera muy intensa. Debido a que el énfasis también se encuentra en tu sector de hogar y familia, es posible que haya algunas peleas y discusiones. Puede que sientas el impulso de reaccionar a la defensiva cuando en realidad lo mejor sería hablar para encontrar una solución; a pesar de que te incomode hacerlo. Tal vez descubras que las demás personas expresan sus sentimientos una vez que tú das el primer paso.
+Es muy importante que eches la vista atrás Libra, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
+El inquisitivo Mercurio ingresa a tu sector de estilo de vida el martes, por lo que podrías tener ganas de organizarte, en especial si tienes planes y proyectos pendientes. Si bien abordar tus rutinas con la mente fría puede ser útil, prestar atención a la intuición también podría ahorrarte tiempo. 
+Si has estado esperando el momento adecuado para comenzar un proyecto creativo o dar inicio a un nuevo romance, el miércoles podría ser EL día. La luna nueva en tu sector de recreación puede darte el impulso que necesitas para ayudar a convertir tus sueños en realidad. Y si esperas comprometerte en una relación a nivel más profundo, el ingreso del delicioso Venus a tu sector de relaciones podría animarte a conversar. Tu vida social también podría ser mucho más divertida. Trata de no comprometerte con más cosas de las que puedas cumplir, especialmente el viernes, cuando delegar algunas tareas podría facilitarte la vida.
 
 ## Dinero
 
-Gran parte de la energía celeste indica que alguien o algo del pasado volverá para que puedas lidiar con ello de una vez por todas. Por otra parte, tu sector de trabajo por cuenta propia y de grupos sociales está resaltado. Conectar con gente con quién hayas perdido contacto puede conducirte a más dinero en el futuro.
+Probablemente tienes un fuerte deseo de seguridad financiera. Para algunos esto puede traducirse en el deseo de controlar, mientras que para otros es sólo un deseo. Es hora de expresar lo que quieres y dejar que tus necesidades sean conocidas dentro de las alianzas empresariales y la oficina. Tienes la capacidad de comunicación y la creatividad para alcanzarlo.

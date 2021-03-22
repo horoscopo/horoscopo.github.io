@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 15 de marzo 2021 al 21 de marzo 2021 
-description: Horóscopo semanal geminis 15 de marzo 2021 al 21 de marzo 2021. Esta semana no te reniegues Géminis, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
+title: geminis 22 de marzo 2021 al 28 de marzo 2021 
+description: Horóscopo semanal geminis 22 de marzo 2021 al 28 de marzo 2021. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-15'
+ lastmod: '2021-03-22'
 ---
 
 
 
-## Esta semana no te reniegues Géminis, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
+## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 
-Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
- sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
-Puede que este no sea el mejor momento para inscribirte en costosos grupos o clubes, a pesar de que el cuarto de luna del miércoles podría animarte a invertir en tu vida social. Es mejor investigar un poco sobre los precios antes de seguir adelante. Además, si alguien te pide dinero prestado, puede que lo prudente sea decir que no por el momento. Por otro lado, el traslado del agradable Venus a tu sector de comunicación el sábado podría hacer que pienses en una reunión. Conectar con viejas amistades podría ser especialmente gratificante.
+Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás Géminis. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta Géminis, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea Géminis, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones Géminis, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas Géminis, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
+Tu sector de ocio y placer está lleno de vibrantes energías y optimistas planetas, sugiriendo que harás un esfuerzo para disfrutar esta semana. Pero primero tendrás que evitar las tentaciones que la Luna Llena del martes te traerá al encontrarse en tu signo, pudiendo animarte a darte gustos, lo cual está bien, pero también hay la posibilidad de que tiendas a excederte si es que realmente te estás divirtiendo . Si bien no es un problema, puede serlo si arruina una dieta o régimen saludable de alimentación.
 
 ## Dinero
 
-Todavía necesitas ser un poco más específico/a. Puede que tengas que hacerle a otros saber lo mucho que difieres de ellos en sus necesidades, deseos y metas. A veces, el hacer esto funciona más de lo que se espera. Se te está pidiendo tener un poco más de seriedad en el desarrollo de tus relaciones profesionales. Quieres aprender de ellas y aportar esta experiencia a tu vida monetaria.
+Cierta actividad en tu sector de inversiones compartidas y propiedad sólo puede significar una cosa. Lo que posees puede llegar a la subasta conforme tratas de recaudar algo del dinero que necesitas. Asegúrate de que tú y tu pareja estén al tanto de los detalles de la venta, ya que es posible que las consecuencias sean demasiado graves como para arriesgar más. Tanto tu pareja como tu familia están contando en que tomarás las decisiones correctas.
