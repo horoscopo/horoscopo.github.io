@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo sagitario marzo 2021 
+title: Horoscopo sagitario abril 2021 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Tal vez todo lo que deseas es tener un momento de tranquilidad cuando la luna llena aparece el 3 de marzo. Los planes de las festividades están comenzando a ponerse serios y una crisis laboral también podría suceder. Cuídate y no te agotes. El día 6, Mercurio y Marte forman un sextil cuando la luna se encuentra en Cáncer. Sé una persona astuta, motivada y sensible. La luna nueva del 17 de marzo te muestra que todo se pondrá perfectamente en su lugar. Los quehaceres diarios están hechos, el gato está alimentado, y nadie se siente ignorado. De forma inesperada, puede que te ofrezcan una mano amiga. Acepta y agradece. 
+Pasa un momento especial con una amistad especial durante la Luna Llena del 4 de abril. Sácale al máximo provecho al fin de semana y profundiza una ya de por sí gran amistad (o inicia una con una persona que sea especial). La Luna Nueva del 18 de abril te presenta muchas oportunidades para que extiendas tus límites. Está bien comportarte audazmente si lo haces sensiblemente. No arriesgues algo (o a alguien) que es importante para ti en nombre de la diversión. Bien sabes que las grandes emociones no son baratas. El 26 de abril es tu día de suerte, así que date un gusto sin dejar que alguien lo eche a perder.    

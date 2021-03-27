@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo cancer marzo 2021
-description: El Horóscopo marzo de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo cancer abril 2021
+description: El Horóscopo abril de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo cancer marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo cancer abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
@@ -16,4 +16,6 @@ sitemap:
 ---
 
 
-No hay luna llena en marzo este año. El 1 de marzo es el día posterior a una luna llena, y el 28 de marzo es el día previo a otra. La gente puede estar más apasionada y conectada emocionalmente cuando el mes comienza y cuando se acaba. La luna nueva (y el eclipse solar) del día 15 le trae un poco de calma y equilibrio emocional a tu rutina diaria. Redescubre un pequeño ajuste ingenioso que mejora todo, desde pagar las cuentas a tiempo hasta alimentar al gato. Te espera un mes eficiente. El 25 de marzo, la conjunción entre Mercurio y Neptuno puede darle sentido a un deseo o anhelo. 
+La Luna Llena del 9 de abril es una luna festiva y orientada a la familia. Podrías recibir llamadas telefónicas, fotos o mensajes de texto de parientes que quieren ver tu hermoso rostro y escuchar tu dulce voz. Ríndete ante la atención. No durará mucho tiempo. El 13 de abril, el trígono entre Mercurio y Júpiter mejora tu suerte y tu visión sobre un problema determinado. La Luna Nueva del 23 de abril abre tu vida social a una gran diversión y entusiasmo. Puede que estés a punto de tener un poco más de entusiasmo en tu vida, y tal vez seas tú quien lo genere. Las personas quieren estar cerca de ti.
+
+Mejores días: 6, 21, 24Peores días: 18, 29

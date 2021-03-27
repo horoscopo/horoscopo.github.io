@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo virgo marzo 2021 
+title: Horoscopo virgo abril 2021 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La Luna Nueva del 4 de marzo podría hacerte llegar algo de dinero. Alternativamente, podrías encontrar una manera fácil y agradable de aumentar tus ingresos. Una afición podría empezar a pagar por sí misma, o podrías encontrar recursos para hacer algo lucrativo que te ha llamado la atención desde hace algún tiempo. Tanto amigos como vecinos podrían robarse más de tu tiempo cuando el verano oficialmente comience con la Luna Llena del 20 de marzo. Una vez que hayas llevado a cabo tus deberes, disfruta de socializar más; por lo menos organizando más comidas frecuentes con los tuyos. El 27 de marzo, el trígono entre Venus y Neptuno podría facilitar una cuestión romántica, cuando sueños compartidos te acerquen más a alguien.
+Disponte a enfrentarte a un cambio radical cuando el Sol conecte con Plutón en Capricornio el 6 de abril. La Luna Llena del 12 de abril brilla con amor y romance. Siente seguridad en tu vida privada y fíjate si alguien nuevo tiene lo necesario para ser especial. Tu corazón podría estar buscando una cosa o una persona nueva o diferente. Obtén una perspectiva renovada sobre un asunto financiero cerca de la Luna Nueva del 27 de abril. Una actitud benéfica podría empezar a generar una fuente de ingresos que no existía antes. Piensa en grande y quizás tengas la posibilidad de actuar y recibir buenas recompensas.

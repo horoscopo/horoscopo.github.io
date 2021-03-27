@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo libra marzo 2021 
+title: Horoscopo libra abril 2021 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Sé quién quieras ser bajo la Luna Llena del 10 de marzo. Puede que te diviertas más al no hacer planes firmes. Ten espontaneidad. La gente podría pedirte consejos sobre cómo hacer que un problema emocional desaparezca más suavemente. El período retrógrado de Venus termina el 15 de marzo y con ello, el amor vuelve a la pista. La Luna Nueva del 26 de marzo podría atraer personas hacia ti que tienen consejos o sugerencias extremadamente útiles. Es posible que no tengas grandes preocupaciones, pero podría haber una serie de pequeños problemas que te encantaría poner a descansar. Tal vez ahora es el momento adecuado.
+Venus ingresa a Sagitario el 1 de abril. Métete de lleno en el espíritu festivo. La luna llena del día 3 podría causarte un fuerte deseo de irte lejos, muy lejos. Sin embargo, no te irás, porque tienes demasiada gente y cosas a tu alrededor que adoras. Y tantas cosas están sucediendo en este momento. La luna nueva del 17 de abril enciende tu deseo de estar con amistades y gente del vecindario. ¡Piensa en una fiesta para toda la cuadra! Los preparativos de las festividades pueden transformarse en tiempo de calidad y diversión para estar reunidos. Además, alguien inesperado podría aparecer. Venus entra a Capricornio el día 24. Comparte tu espíritu festivo con toda la comunidad. 

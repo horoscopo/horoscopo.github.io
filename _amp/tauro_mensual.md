@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo tauro marzo 2021 
+title: Horoscopo tauro abril 2021 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
@@ -14,11 +14,4 @@ sitemap:
 ---
 
 
-El 5 de marzo, Venus se torna retrógrado. Tómate en serio el amor, y mira debajo de la superficie de las palabras y acciones. Entra a las profundidades. Evita compromisos hasta después de que Venus vuelva a su fase directa el 16 de marzo. 
-Ponte en primer lugar durante la luna nueva del día 8. Haz aquello que te anima y nutre tu espíritu. Claro, a veces cuidar de alguien es lo que más te ayuda. 
-Mercurio forma una conjunción con Venus el 15 de marzo. Las conversaciones y contactos sociales cobran vida con chispas y brillo. Esto tal vez no dure mucho, así que aprovecha. 
-Dinero u oportunidades financieras podrían aparecer en tu camino durante la luna llena del día 24. Si estás detrás de un proyecto o financiación, debería ser fácil hablar y que te escuchen. Alguien sorprendente puede tener la mente abierta a tu presentación. 
-El sol forma una conjunción con Venus el 26 de marzo. La honestidad puede incluir buenas intenciones. Que sea algo bueno. 
-Venus vuelve a entrar a Libra el día 31. Sé la versión más brillante de ti en un círculo familiar o social más amplio. 
-Días destacados: 2, 20, 28
-Días desafiantes: 10, 22
+Un asunto monetario podría aclararse en los días cercanos a la Luna Nueva del 6 de abril. Un detalle que fue pasado por alto podría surgir o tal vez alguien verá las cosas desde tu punto de vista con mayor facilidad. Disfruta de ésta buena suerte, más no esperes una disculpa. La Luna Llena del 21 de abril es expansiva. ¿Tienes interés en tomar un nuevo seminario o curso de formación? Es posible que una amistad haya comenzado algo emocionante y esto te motive. Ya sea que el tema sea filantrópico, espiritual, motivacional, académico, o profesional, es posible que ahora tu mente se sienta intrigada. De alguna manera, tu mundo se hará más grande y más brillante. El 27 de abril, tu planeta regente, Marte, entra a Escorpión, dándole a tu actitud un aire más sexy y serio que nunca.   
