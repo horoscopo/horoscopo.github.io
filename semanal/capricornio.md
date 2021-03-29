@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 22 de marzo 2021 al 28 de marzo 2021 
-description: Horóscopo semanal capricornio 22 de marzo 2021 al 28 de marzo 2021. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+title: capricornio 29 de marzo 2021 al 04 de abril 2021 
+description: Horóscopo semanal capricornio 29 de marzo 2021 al 04 de abril 2021. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Capricornio. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,19 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-22'
+ lastmod: '2021-03-29'
 ---
 
 
 
-## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Capricornio. 
 
-El mundo puede esperar Capricornio, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate Capricornio, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
-Si tienes secretas reservas en torno a una idea, puede que sea tu actitud lo que te impide seguir adelante. Podrías estar saboteando tus esfuerzos justo antes de dar el paso. Comprender los motivos por los que haces esto puede ayudarte a ver las cosas desde otro ángulo y tal vez te brinde el coraje para llevarlo a cabo. 
-El encantador Venus se dirige hacia el nebuloso Neptuno el lunes, lo que indica que podrías dudar de la palabra de una de tus amistades. Sin embargo, prueba con darle el beneficio de la duda. Podría tratarse de un inocente error.
-El martes, podrías tener positivas noticias o una invitación a un especial evento, algo que puede sentarte bien. 
-El fin de semana podría encontrarte rebelándote contra tu rutina habitual. Cuando el animado Mercurio conecta con el incansable Urano, puede que prefieras irte y hacer lo que te gusta. Sin embargo, una vez que el expresivo Mercurio ingresa a tu signo el domingo, tal vez descubras que puedes tranquilizarte y disfrutar.
+Deja que duela Capricornio, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser Capricornio estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien Capricornio pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida Capricornio, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
+La presencia de Marte en tu signo puede indicar que sientes más inquietud de lo normal. Esto puede significar que buscas emociones y oportunidades para explorar nuevas ideas. Lo mismo sucede con las relaciones. Es decir, sientes atracción por personas que tienen ideas originales. Lo mismo de siempre puede ser aburrido a menos que encuentres una forma de volverlo interesante. Cuando encuentres una idea que te emocione, la llevarás a cabo hasta el final.
 
 ## Dinero
 
-Hay mucho sucediendo en tu sector de trabajo. Sin duda, tu trabajo ha llamado recientemente la atención de tus superiores, y si no, toma algunas medidas fuertes pero sutiles para asegurarte de que lo que haces es tomado en cuenta. Es posible que desees mantener escritos tus logros. Podría ser útil el tener notas la próxima vez que las revisiones de desempeño tomen lugar. Es necesario construir tu caso si lo que quieres es un aumento de sueldo.
+Puede que tengas la tentación de contar tu historia en más de una forma. Podrías percatarte de que tu escritorio está lleno de intentos de otras personas en busca de trabajo, buscando contribuciones para sus asociaciones, o que sólo quieren ponerse al día. Pero también estás de un humor soñador, y fácilmente podrías pensar en una estupenda idea para la próxima gran novela. Tu creatividad está zumbando a toda máquina.

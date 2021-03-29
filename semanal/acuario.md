@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 22 de marzo 2021 al 28 de marzo 2021 
-description: Horóscopo semanal acuario 22 de marzo 2021 al 28 de marzo 2021. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+title: acuario 29 de marzo 2021 al 04 de abril 2021 
+description: Horóscopo semanal acuario 29 de marzo 2021 al 04 de abril 2021. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Acuario de siempre…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-22'
+ lastmod: '2021-03-29'
 ---
 
 
 
-## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Acuario de siempre…
 
-Empieza a hacerte promesas a ti mismo Acuario, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura Acuario. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
-La dinámica responsable por todo el esfuerzo que has hecho últimamente aún se encuentra bastante enfocada. Hay la posibilidad de que una oportunidad única pueda ponerse en tu camino y aumentar tu volumen de trabajo, pero es demasiado buena como para desperdiciarla. Aunque por lo general eres una persona astuta y no te dejas engañar con facilidad, asegúrate desde mitad de semana que todo esté en orden revisando los detalles y las cláusulas. El adorable Venus en Libra sugiere que estarás impaciente por hacer concesiones, incluso si eso significa llegar a algunos acuerdos.
+Sólo hace falta que tu mente haga click Acuario, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
+Gran parte de tu energía podría ser empleada en resolver ciertos asuntos hogareños o familiares. Estarás funcionando a toda máquina y tendrás ganas de hacer cambios. Como resultado, los asuntos hogareños deberían mejorar conforme tu pareja y otros miembros de tu familia comparten tu entusiasmo por proyectos creativos u otros eventos familiares. Si disfrutas de hacer artesanías, la entrada de Júpiter a Virgo podría hacerte disfrutar de esta afición. No sólo sería terapéutico, sino que también podría tener potencial empresarial.
 
 ## Dinero
 
-Esta semana ilumina las áreas de tu carta que quieren salir y explorar todo lo que la vida tiene que ofrecer; desde lo emocional, a lo físico, a lo espiritual. Es imprescindible ir con la corriente cuando se trata de los cambios en el frente monetario. Estos no son malos, pero van a requerir de un poco de paciencia.
+Es importante que comuniques tus ideas con la mayor claridad posible esta semana. Di las cosas difíciles en las juntas de escuela o de negocios que tengas. Cuanto más puedas hacer esto, más pronto podrás volver a la normalidad. Mientras tanto, tus esperanzas y sueños podrían ser un poco borrosos en cuanto a detalles. Tómate tu tiempo para enfocarte en los objetivos personales y financieros.

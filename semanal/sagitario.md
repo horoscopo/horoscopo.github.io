@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 22 de marzo 2021 al 28 de marzo 2021 
-description: Horóscopo semanal sagitario 22 de marzo 2021 al 28 de marzo 2021. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+title: sagitario 29 de marzo 2021 al 04 de abril 2021 
+description: Horóscopo semanal sagitario 29 de marzo 2021 al 04 de abril 2021. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,18 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-22'
+ lastmod: '2021-03-29'
 ---
 
 
 
-## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+## Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 
-A veces te confundes Sagitario, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso Sagitario. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. Sagitario, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo Sagitario, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
-El enfoque en tu sector espiritual continúa, aumentando tu intuición y despertando aún más tus sueños y metas con una visión inspiradora y práctica. Mientras que el Sol en tu signo te invita a actuar en relación a planes que son cercanos a tu corazón, te beneficiarás de tomarte tiempo para meditar y reflexionar. Equilibrar tus acciones con calma y paz interior puede allanar el camino para un mayor éxito. Este fin de semana, un optimista aspecto alude a un encuentro que podrías encontrar muy conmovedor.
+Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
+Si sientes una punzada de pánico en cuanto a dinero u otra cuestión, lo más probable es que sea porque tu seguridad se ve amenazada de alguna manera. Lo que no debes hacer es actuar de forma irracional en el calor del momento. Haz lo que tengas que hacer y posteriormente busca consejo - sólo asegúrate de que la fuente sea confiable. En momentos se pudiera sentir como si estuvieras navegando a través de un nebuloso río. Si mantienes la calma, eventualmente encontrarás la claridad que buscas.
 
 ## Dinero
 
-Puede que sientas más madurez acerca de la forma en la que manejas el dinero. Puede que las inversiones de riesgo ya no llamen más tu atención. En vez, puede que estés buscando acciones, bonos y otros vehículos con una perspectiva más conservadora. Ciertos aspectos demuestran que tu vida social puede estallar de repente e inesperadamente con invitaciones sociales. Trata de balancear todo con gracia y ecuanimidad.
+Esta semana se trata de las configuraciones celestes creando mucha tensión para ti. Se inicia en tu sector de expresión personal y autoestima, lo que indica la necesidad de abordar la forma en la que uno se proyecte al mundo. Puedes ser quien quieras ser ahora.

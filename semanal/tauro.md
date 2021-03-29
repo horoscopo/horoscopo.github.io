@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 22 de marzo 2021 al 28 de marzo 2021 
-description: Horóscopo semanal tauro 22 de marzo 2021 al 28 de marzo 2021. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: tauro 29 de marzo 2021 al 04 de abril 2021 
+description: Horóscopo semanal tauro 29 de marzo 2021 al 04 de abril 2021. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-22'
+ lastmod: '2021-03-29'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 
-Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Tauro. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder Tauro pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias Tauro, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
-Los asuntos hogareños y familiares siguen siendo importantes. Con Marte ocupando este sector en tu carta, es el momento perfecto para eliminar el desorden de tu casa y avanzar con proyectos creativos. Puede que quieras agrandar tu hogar o mudarte a una propiedad más amplia. Si has estado considerando esto, es momento de actuar y hacer algo al respecto. La Luna Llena del martes te anima a tomar un descanso si es que lo necesitas. Te beneficiará enormemente hacerlo.
+Estás alcanzando una madurez Tauro, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Tauro y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
+Hay vínculos especiales que te llevan a tomar decisiones de viaje junto con amistades, las cuales resultarán en una travesía inolvidable. Cualquiera que sea la decisión que tomes, esta es una oportunidad que cambiará tu vida de forma positiva. Decides estudiar o explorar un tema que te interesa en profundidad. Mientras tanto, una influencia armoniosa en tu sector social abre camino para que seas parte de un equipo o proyecto comunitario del cual disfrutas participar. En cuanto al trabajo, te conviene tener un plan.
 
 ## Dinero
 
-Esta semana trae el mensaje de que es el momento de tomar en serio tu carrera y las figuras de autoridad en tu vida. Si estás tratando de salir adelante, puede ser mejor que tomes una pausa de unos meses, preparándote para asumir una nueva posición y luego empezar después de este cambio. A pesar de que normalmente te orientas hacia la acción, el avance no pasará hasta que las cosas tengan que pasar.
+Tienes actividad en tu sector de relaciones esta semana. Una nueva relación podría materializarse de la nada y resultar económicamente beneficiosa para ambas partes. En este momento, tu atención tiene que enfocarse en la construcción de tu carrera. La elaboración de un plan a cinco años puede no ser una mala idea tampoco. Es más fácil hacer que el dinero que deseas se manifieste cuando este paso se haya dado.

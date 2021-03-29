@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 22 de marzo 2021 al 28 de marzo 2021 
-description: Horóscopo semanal virgo 22 de marzo 2021 al 28 de marzo 2021. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Virgo, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: virgo 29 de marzo 2021 al 04 de abril 2021 
+description: Horóscopo semanal virgo 29 de marzo 2021 al 04 de abril 2021. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,18 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-22'
+ lastmod: '2021-03-29'
 ---
 
 
 
-## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Virgo, por qué te lo callas y te lo llevas callando tanto tiempo? 
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-Una intensa conexión podría hacer que te sea más fácil convencer a alguien para que adopte tu forma de pensar. Pero si lo intentas demasiado duro, podrías percatarte de que tal persona no sólo se aleja, sino que incluso puede llegar a volverse inaccesible. El presente enfoque en tacto y diplomacia te anima a abordar el tema desde una perspectiva diferente, dando lugar a un resultado mucho más deseable. La Luna Creciente del fin de semana podría significar que alguien querrá darte órdenes a menos que seas firme con tal.
+No es que no te estés esforzando por conseguir tus propósitos, no es eso, es que, a menudo, por mucho que te esfuerces, si te rodeas de personas que te acaban chupando toda esa energía es como si nada valiera la pena, porque por un paso que das al frente, retrocedes dos por culpa de otros.
+El enfoque en tu sector financiero personal continúa. El Sol en esta parte te invita a hacer un análisis de tu situación para ver cómo puede éste mejorar. Mercurio continúa retrógrado hasta el Jueves, así que ten cuidado con la compra de artículos caros. Si no tienes otra opción que comprar algo, guarda los recibos y el papeleo. La buena noticia es que Júpiter, el planeta de la expansión y la buena fortuna, entra a tu sector de comunicación, donde podría traerte espectaculares oportunidades durante el próximo mes.
 
 ## Dinero
 
-Esta semana podrías sentir frustración en tu objetivo de salir adelante económicamente. Hay cierta atención no deseada sobre tu situación de endeudamiento. Podrías caer fácilmente en depresión si no tienes cuidado. La buena noticia es que tienes un montón de energía para pagarla y deshacerte de ella. Puede que quieras gastártelo todo en familia y diversión, pero resiste la tentación, sólo por esta semana.
+El Universo está proporcionando una gran cantidad de energía no conformista a tu área de romance, los niños y la diversión esta semana. Prefieres estar al aire libre, divirtiéndote con la familia y haciendo niñerías, pero esto simplemente no funcionará ahora. Lo que se necesita es un mayor enfoque en cómo vas a proteger el futuro de tu familia y cómo puedes asegurarte de que nunca tendrán que sufrir innecesariamente. Después de eso, eres libre de descansar y relajarte.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 22 de marzo 2021 al 28 de marzo 2021 
-description: Horóscopo semanal leo 22 de marzo 2021 al 28 de marzo 2021. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: leo 29 de marzo 2021 al 04 de abril 2021 
+description: Horóscopo semanal leo 29 de marzo 2021 al 04 de abril 2021. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Leo.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-22'
+ lastmod: '2021-03-29'
 ---
 
 
 
-## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Leo.
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Leo. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Leo, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Leo, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Leo pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-¿Deberías o no gastar en algo? Este podría ser tu dilema al principio de semana, cuando podrías sentir ganas de darte gusto con un par de experiencias o pequeños lujos que mejoren tu estado de ánimo. Estarás en tu elemento una vez que Venus y Mercurio entren a Leo y a tu sector de comunicación. Esta es tu oportunidad para compartir tus planes con aquellos que pudieran ser capaces de ayudarte a llevarlos a cabo. Es, también, una oportunidad para formular soluciones creativas hacia algunos de tus problemas actuales.
+El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
+No permitas que nadie te apresure a tomar una decisión o a hacer un compromiso antes de tiempo. Con Mercurio tornándose retrógrado, es esencial leer con mucho cuidado las cláusulas de un contrato o documento legal antes de fir Alguien podría estarse sintiendo muy sensible, dándote la sensación de que tienes que andarte con mucho cuidado. En esta situación, vale la pena tener honestidad en lugar de tolerar las tendencias manipuladoras de alguien. El romance puede florecer cuando la oportunidad para una cita especial aumenta tu innata pasión.
 
 ## Dinero
 
-Puede que no seas el miembro más paciente del Zodíaco, pero esta semana puedes ganarte algunos problemas con esa manera de pensar. Los aspectos afectan a tu sector de relaciones y del hogar significando que estas áreas de tu vida no son exactamente llevadas muy bien que digamos. Lo mejor es jugar como pacificador, incluso en tu mismo interior. Por cada concesión que hagas hacia los demás, pasa algo de tiempo y dinero haciendo de tu espacio uno más acogedor.
+Esta semana se desplaza la atención a tu sector de seguridad y de obtención de dinero. Es posible que tu familia, pareja romántica, hijos o inclusive tu mismo/a quieran una mejor calidad de vida. La buena noticia es que no todo esto se puede comprar con dinero en efectivo. Tú disfrutas de una base sólida debido a las personas importantes en tu vida. Ellos entienden si tienes que gastar un poco más en otras cosas por ahora.
