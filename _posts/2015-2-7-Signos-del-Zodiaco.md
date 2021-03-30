@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de marzo 2021
-description: Horóscopos del dia de hoy 29 de marzo 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 30 de marzo 2021
+description: Horóscopos del dia de hoy 30 de marzo 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-03-29
+ lastmod: 2021-03-30
 ---
-Espera cambios de planes cuando la Luna conecte con el sorpresivo Urano y un tono escandaloso sea la nueva norma de forma temporal. Esta noche, la Luna en Libra insinúa una idea de lo que (eventualmente) vendrá a la luz de una relación con futuro. Por su parte, las parejas se ponen de acuerdo en un tema en el que anteriormente no lo estaban.    
+Es posible que el tiempo esté tomando una decisión por ti, en el buen sentido, cuando la Luna en Tauro aspecta tanto a Júpiter como a Saturno. A medida que la Luna se opone a Marte esta noche, si uno mira cuidadosamente, señales y símbolos acerca de la personalidad de alguien están por todas partes.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
