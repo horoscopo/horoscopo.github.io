@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 31 de marzo 2021
-description: Horóscopos del dia de hoy 31 de marzo 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de abril 2021
+description: Horóscopos del dia de hoy 01 de abril 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-03-31
+ lastmod: 2021-04-01
 ---
-El trígono entre la Luna en Acuario y Mercurio en Libra llena la mente de pensamientos. Añade Júpiter a la ecuación y el jovial planeta aumenta la expansión y el optimismo. Las cosas no podían ser más dulces. Los sentimientos son apropiados cuando la Luna forma sextil Saturno. ¡Qué paseo tan rápido y frenético! Si bajas tu ritmo esta noche, aterrizarás en tierra firme.
+Las influencias planetarias de hoy y de esta noche acentúan agradables palabras. El sextil de esta noche entre Venus y Saturno destaca relaciones importantes, incluyendo amigos, familiares y seres queridos. Disfruta de revisitar recuerdos positivos y continuar los acogedores días de diciembre. Las vidas tienen capítulos tranquilos y el día de hoy es uno de ellos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
