@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 29 de marzo 2021 al 04 de abril 2021 
-description: Horóscopo semanal libra 29 de marzo 2021 al 04 de abril 2021. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+title: libra 03 de abril 2021 al 09 de abril 2021 
+description: Horóscopo semanal libra 03 de abril 2021 al 09 de abril 2021. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,7 +12,7 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-29'
+ lastmod: '2021-04-03'
 ---
 
 

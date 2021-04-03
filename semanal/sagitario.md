@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 29 de marzo 2021 al 04 de abril 2021 
-description: Horóscopo semanal sagitario 29 de marzo 2021 al 04 de abril 2021. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+title: sagitario 03 de abril 2021 al 09 de abril 2021 
+description: Horóscopo semanal sagitario 03 de abril 2021 al 09 de abril 2021. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,7 +12,7 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-29'
+ lastmod: '2021-04-03'
 ---
 
 

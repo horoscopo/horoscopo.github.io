@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 29 de marzo 2021 al 04 de abril 2021 
-description: Horóscopo semanal aries 29 de marzo 2021 al 04 de abril 2021. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+title: aries 03 de abril 2021 al 09 de abril 2021 
+description: Horóscopo semanal aries 03 de abril 2021 al 09 de abril 2021. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,7 +12,7 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-29'
+ lastmod: '2021-04-03'
 ---
 
 

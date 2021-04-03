@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 29 de marzo 2021 al 04 de abril 2021 
-description: Horóscopo semanal tauro 29 de marzo 2021 al 04 de abril 2021. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
+title: tauro 03 de abril 2021 al 09 de abril 2021 
+description: Horóscopo semanal tauro 03 de abril 2021 al 09 de abril 2021. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,7 +12,7 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-29'
+ lastmod: '2021-04-03'
 ---
 
 

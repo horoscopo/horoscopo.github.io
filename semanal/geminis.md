@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 29 de marzo 2021 al 04 de abril 2021 
-description: Horóscopo semanal geminis 29 de marzo 2021 al 04 de abril 2021. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+title: geminis 03 de abril 2021 al 09 de abril 2021 
+description: Horóscopo semanal geminis 03 de abril 2021 al 09 de abril 2021. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,7 +12,7 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-29'
+ lastmod: '2021-04-03'
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 29 de marzo 2021 al 04 de abril 2021 
-description: Horóscopo semanal escorpio 29 de marzo 2021 al 04 de abril 2021. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Escorpio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: escorpio 03 de abril 2021 al 09 de abril 2021 
+description: Horóscopo semanal escorpio 03 de abril 2021 al 09 de abril 2021. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Escorpio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,7 +12,7 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-03-29'
+ lastmod: '2021-04-03'
 ---
 
 
