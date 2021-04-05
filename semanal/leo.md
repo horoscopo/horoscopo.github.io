@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 03 de abril 2021 al 09 de abril 2021 
-description: Horóscopo semanal leo 03 de abril 2021 al 09 de abril 2021. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Leo.
+title: leo 05 de abril 2021 al 11 de abril 2021 
+description: Horóscopo semanal leo 05 de abril 2021 al 11 de abril 2021. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-03'
+ lastmod: '2021-04-05'
 ---
 
 
 
-## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Leo.
+## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 
-El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
-No permitas que nadie te apresure a tomar una decisión o a hacer un compromiso antes de tiempo. Con Mercurio tornándose retrógrado, es esencial leer con mucho cuidado las cláusulas de un contrato o documento legal antes de fir Alguien podría estarse sintiendo muy sensible, dándote la sensación de que tienes que andarte con mucho cuidado. En esta situación, vale la pena tener honestidad en lugar de tolerar las tendencias manipuladoras de alguien. El romance puede florecer cuando la oportunidad para una cita especial aumenta tu innata pasión.
+Ojalá pudiéramos tener un botón de reinicio en la vida Leo, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
+Cuando el incansable Mercurio ingresa a tu sector de viajes y lejanos horizontes el martes, puede que te pique el bichito de los viajes y que despegues de un momento a otro. Sin embargo, debido al cambio de enfoque hacia tu sector de metas y carreras, también tendrás la posibilidad de mostrar tus habilidades y de establecer prometedoras conexiones. 
+Hay un poderoso enfoque en tu sector de negocios y finanzas hasta el Martes, por lo que los próximos siete días más o menos podrían encontrarte explorando formas de invertir tus recursos de manera más inteligente. Esto puede significar cancelar cualquier deuda y hacer un presupuesto para incrementar tus ahorros. La luna nueva en este mismo sector a mitad de semana podría ayudarte a iniciar este proceso inspirándote a establecer metas y a cumplirlas rápidamente. Sin embargo, trata de ser paciente el viernes, ya que una conversación clave podría no salir según los planes.
 
 ## Dinero
 
-Esta semana se desplaza la atención a tu sector de seguridad y de obtención de dinero. Es posible que tu familia, pareja romántica, hijos o inclusive tu mismo/a quieran una mejor calidad de vida. La buena noticia es que no todo esto se puede comprar con dinero en efectivo. Tú disfrutas de una base sólida debido a las personas importantes en tu vida. Ellos entienden si tienes que gastar un poco más en otras cosas por ahora.
+Este período tiene que ver con los opuestos. Puede que estés tratando de manifestar una nueva relación en tu vida con un mentor, empleador o socio de negocios. Y con cierta actividad en el área que rige las relaciones serias, podrías conocer a la persona adecuada en el momento adecuado. Juntos, pueden mover montañas en el mundo de los negocios, ¡por lo que definan parámetros y manos a la obra! Más deben actuar con rapidez.

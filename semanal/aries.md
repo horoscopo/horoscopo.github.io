@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 03 de abril 2021 al 09 de abril 2021 
-description: Horóscopo semanal aries 03 de abril 2021 al 09 de abril 2021. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+title: aries 05 de abril 2021 al 11 de abril 2021 
+description: Horóscopo semanal aries 05 de abril 2021 al 11 de abril 2021. Sumisión contigo van a encontrar poca ahora Aries… Muy poca.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-03'
+ lastmod: '2021-04-05'
 ---
 
 
 
-## No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+## Sumisión contigo van a encontrar poca ahora Aries… Muy poca.
 
-Deja de esperar al futuro Aries, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz Aries, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio Aries, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir Aries, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Aries, sin remordimientos.
-El vínculo que Saturno forma con Venus el lunes sugiere que una sabia inversión podría beneficiarte de formas sutiles, tal vez aumentando tu confianza al proporcionarte información que mejore tu comprensión hacia tu misma persona. De hecho, contratar a un asesor de vida es una de las posibilidades, ya que hacerlo podría darte exactamente lo que necesitas para superar cualquier bloqueo y seguir adelante. Es posible que tengas una conexión casi telepática con cierta persona, lo que podría resultar ser muy revelador esta semana.
+¿Cómo quieres gastar tu vida Aries? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Aries, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Aries, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Aries. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Aries.
+Estás entrando a una fase en la que el cosmos activamente te alienta a vivir a tu máximo potencial. Con el fin de hacerlo, es posible que te beneficies de los servicios de un asesor de vida o incluso una buena amistad que podría estimularte a apuntar más alto y superar tus miedos. Sin embargo, no hay necesidad de apresurarte. Con Marte y Saturno retrógrados en tu sector espiritual al final de esta semana, te irá mejor al saborear y aprender de cada momento.
 
 ## Dinero
 
-Te enfrentas a algunas decisiones sobre el dinero esta semana. Aunque por lo general eres bastante inteligente cuando de dinero en efectivo se trata, puede ser que los aspectos te hagan sentir confusión de alguna manera. Comprueba doblemente las cifras antes de invertir tu dinero, al igual que debes revisar tus propias cuentas o la forma en la que lleves las cuentas (sobre todo con el balance de tu chequera). Es posible que algunas cuentas no salgan bien por ahora, sin embargo los aspectos se aseguran de que por lo menos estés bien conectado/a y te mantengas estable.
+Estás a punto de tomar ventaja de algunas nuevas oportunidades en el trabajo y los negocios. El Universo destaca tu sector que rige el dinero y los valores, por lo que no sólo vas a ser capaz de ganar más, sino que también lo usarás racionalmente. Esto puede significar que inviertas en tu futuro mediante la financiación de un nuevo negocio, o encuentres un millón de nuevas formas de recaudar más dinero.

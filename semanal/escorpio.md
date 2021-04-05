@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 03 de abril 2021 al 09 de abril 2021 
-description: Horóscopo semanal escorpio 03 de abril 2021 al 09 de abril 2021. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Escorpio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: escorpio 05 de abril 2021 al 11 de abril 2021 
+description: Horóscopo semanal escorpio 05 de abril 2021 al 11 de abril 2021. Retírate del mundo artificial Escorpio, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-03'
+ lastmod: '2021-04-05'
 ---
 
 
 
-## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Escorpio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+## Retírate del mundo artificial Escorpio, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 
-Eres demasiado honesto con el resto Escorpio y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Escorpio, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Escorpio, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
-Podrías sentir cierto grado de incertidumbre en relación a un plan en el que has invertido una gran cantidad de tiempo y energía. Tal vez tienes una sensación de insatisfacción en vez de un espíritu feliz y celebrativo. Esto probablemente es debido a que tu enfoque ha cambiado. Has pasado por mucho durante el último par de años, y sin duda no eres la misma persona que eras entonces. Esta semana puede ser un momento crucial, especialmente si te has dispuesto a examinar cualquier creencia que pudiera estarte impidiendo alcanzar tu pleno potencial.
+Siempre has tenido un fuerte instinto de supervivencia Escorpio, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces Escorpio y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
+Con una luna llena en tu sector de relaciones, el martes podría ser una ocasión muy sincera y conmovedora. Puede que sientas una fuerte conexión con tu familia y las personas que más quieres y esto podría dejarte bastante sensible. Al mismo tiempo, tendrás ganar de poner en marcha proyectos importantes y te entusiasmarán las posibilidades que surgirán. Tu vida social se enciende de una manera muy positiva. Cuando el dinámico Marte se alinea con el alegre Júpiter el jueves, un encuentro podría hacerte sentir bien.
 
 ## Dinero
 
-Este período se trata de las nuevas oportunidades que le llegan a tu vida laboral. El cielo es el límite en términos de lo que puedes esperar, pero el Universo no lo hará por ti. Debes estar a la búsqueda de maneras de aumentar tus ingresos, ya sea mediante la adición de un negocio secundario o aceptar trabajos independientes. Utiliza tu educación y tus viajes para salir con ideas para productos o servicios que vender.
+Esta semana, tu mente sin duda se encuentra girando en torno a nuevas ideas sobre cómo hacer más dinero. Pero ¿alguna vez has pensado en agrandar tu negocio globalmente? Si lo has hecho, esto recibe apoyo esta semana, como si estuvieras haciendo nuevas relaciones que pudieran facilitar tu progreso económico en los últimos años. Esto podría incluir asesores financieros, jefes, colegas y mentores. El cielo es el límite siempre y cuando te tomes el tiempo para desarrollar tus ideas y buscar apoyo.

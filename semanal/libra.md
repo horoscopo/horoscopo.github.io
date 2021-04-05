@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 03 de abril 2021 al 09 de abril 2021 
-description: Horóscopo semanal libra 03 de abril 2021 al 09 de abril 2021. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+title: libra 05 de abril 2021 al 11 de abril 2021 
+description: Horóscopo semanal libra 05 de abril 2021 al 11 de abril 2021. Mira Libra, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-03'
+ lastmod: '2021-04-05'
 ---
 
 
 
-## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+## Mira Libra, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 
-Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
-así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final.
-Una combinación impulsiva de energías te lleva a unir fuerzas con una persona cuando en realidad sería más prudente que te tomes el tiempo para conocerla mejor. Saturno forma parte de esta alineación, por lo que es sensato contenerte un poco y pensar si estás haciendo lo correcto. Todo lo que estás aprendiendo ahora podría tener una influencia productiva en tu vida en las semanas y los meses por venir. Y con Urano acercándose a Aries, puede que tus acciones sean un poco más medidas.
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo Libra. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que Libra estalla, nadie se salva.
+Esta puede ser una excelente semana para las finanzas, el trabajo y el progreso laboral si juegas bien tus cartas. Ya tienes la confianza para conseguir los acuerdos que querías y sientes la seguridad de que todo se dará a tu favor, siempre y cuando sepas lo que quieres. Con una actitud honesta y madura puedes obtener grandes cosas. Puede también que las influencias artísticas y musicales sean fuertes ahora. Asistir a un evento cultural podría hacerte sentir muy vivaz. Si necesitas tomarte un pequeño descanso, hazlo.
 
 ## Dinero
 
-Puede que te encuentres expandiendo un negocio establecido desde tu casa en este momento debido a un afortunado aspecto en esta área de tu carta. Si es necesario, convierte una habitación extra en una oficina para que puedas cerrarle la puerta a tu trabajo al final del día. Cierto aspecto ahora te da todo lo que necesitas y mucho más para poner en marcha un nuevo negocio si quieres más libertad en tu vida laboral o para llevar una ya existente a un nivel superior.
+Podrías tener la tentación de descubrir alguna belleza oculta en tu vida, tu personalidad o tu estilo. Justo debajo de la superficie, podrías ser una persona completamente diferente a la que proyectas a los demás. Deléitate con el progreso que has hecho en tu vida en lugar de insistir en lo que aún no has logrado alcanzar. Abandonar tus propias necesidades en tu carrera y sector de dinero no tiene sentido.
