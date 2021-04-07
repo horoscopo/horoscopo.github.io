@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de abril 2021
-description: Horóscopos del dia de hoy 06 de abril 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de abril 2021
+description: Horóscopos del dia de hoy 07 de abril 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-04-06
+ lastmod: 2021-04-07
 ---
-Planea proyectos esta mañana, como la reparación de ciertas situaciones en más de un sentido. Ten apertura a nuevas ideas cuando la Luna forme trígono con Plutón esta tarde. Esta es la oportunidad de volver a examinar lecciones que de otra manera no hubieras aprendido. Tales pudiéndote servir esta noche. También hay mucho qué decir sobre el beneficio de la duda.
+Es difícil tener una perspectiva clara desde la mañana hasta la tarde. Concentrarse sólo en una cosa no funciona - hay que enfocarse en un contexto más amplio. Esta noche, la ley de la atracción funciona bajo el sextil entre la Luna y Marte. El desafío viene con la cuadratura formada por Saturno que sugiere inicios con nada más que química física.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
