@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 05 de abril 2021 al 11 de abril 2021 
-description: Horóscopo semanal libra 05 de abril 2021 al 11 de abril 2021. Mira Libra, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+title: libra 12 de abril 2021 al 18 de abril 2021 
+description: Horóscopo semanal libra 12 de abril 2021 al 18 de abril 2021. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-05'
+ lastmod: '2021-04-12'
 ---
 
 
 
-## Mira Libra, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo Libra. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que Libra estalla, nadie se salva.
-Esta puede ser una excelente semana para las finanzas, el trabajo y el progreso laboral si juegas bien tus cartas. Ya tienes la confianza para conseguir los acuerdos que querías y sientes la seguridad de que todo se dará a tu favor, siempre y cuando sepas lo que quieres. Con una actitud honesta y madura puedes obtener grandes cosas. Puede también que las influencias artísticas y musicales sean fuertes ahora. Asistir a un evento cultural podría hacerte sentir muy vivaz. Si necesitas tomarte un pequeño descanso, hazlo.
+Sólo tú puedes salvar tu vida Libra. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú Libra. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+Existe la posibilidad de un golpe de suerte, un pequeño aumento de sueldo, o recibir cierta cantidad de dinero a principios de semana. Más aún, podría ser algo inesperado y un poco sorpresivo. También es posible que escuches buenas noticias sobre un préstamo u otro crédito. El enfoque cambia hacia tu sector de relaciones e interacciones conforme Marte se mueve a Cáncer durante aproximadamente seis semanas. Si deseas avanzar en una relación clave, tendrás que expresar tus sentimientos en lugar de guardártelos.
 
 ## Dinero
 
-Podrías tener la tentación de descubrir alguna belleza oculta en tu vida, tu personalidad o tu estilo. Justo debajo de la superficie, podrías ser una persona completamente diferente a la que proyectas a los demás. Deléitate con el progreso que has hecho en tu vida en lugar de insistir en lo que aún no has logrado alcanzar. Abandonar tus propias necesidades en tu carrera y sector de dinero no tiene sentido.
+Es probable que estés en un estado mental social con cierta actividad en tu sector de expresión personal y apariencia. Es posible que estés pensando en cambiar la forma en la que te presentas ante el mundo. Suponiendo que un comportamiento profesional significa que puedes conseguir un nuevo empleo, si es que quieres, o elevar tu posición en tu empleo actual. El dinero y las comodidades ejecutivas vienen con la nueva oficina.

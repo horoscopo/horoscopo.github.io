@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 05 de abril 2021 al 11 de abril 2021 
-description: Horóscopo semanal capricornio 05 de abril 2021 al 11 de abril 2021. Empieza a hacerte promesas a ti mismo Capricornio, empieza a prometerte amor propio, hoy y siempre. 
+title: capricornio 12 de abril 2021 al 18 de abril 2021 
+description: Horóscopo semanal capricornio 12 de abril 2021 al 18 de abril 2021. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Capricornio, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-05'
+ lastmod: '2021-04-12'
 ---
 
 
 
-## Empieza a hacerte promesas a ti mismo Capricornio, empieza a prometerte amor propio, hoy y siempre. 
+## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Capricornio, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 
-Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección Capricornio, y ahora puedes elegir lo que quieras.
-Con la temporada de a toda marcha, sientes mucha inquietud como para poder concentrarte en lo importante. Los viajes y las oportunidades para probar otro tipo de diversiones te atraen más. Y con la probabilidad de disfrutar una vida social más activa, tus tareas diarias pueden parecerte un poco aburridas. Sin embargo, una conversación o una idea te impulsará a entrar en acción nuevamente y te motivará para progresar.
+Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar.
+Podrías ser quien organiza una reunión esta semana. De ser así, el panorama planetario sugiere que debería ser una positiva y optimista experiencia. Sin embargo, con el revelador sol que ingresa a tu sector de recreación, no olvides destinar un tiempo a hacer las cosas que disfrutas. Las próximas semanas lucen bastante dinámicas, lo que te anima a demostrar tus habilidades de distintas maneras. Llevar artículos a un mercado de artesanías o fabricar regalos para tus amistades puede hacer que los demás vean tu talento. ¡De seguro hará que te destaques!
 
 ## Dinero
 
-Esta semana recibes un fuerte mensaje del Universo. Con tanta energía tensa volando por ahí, necesitas buscar respuestas en el área de tu carta que rige la transformación personal. ¿Qué imagen quieres proyectar hacia el exterior? Puedes marcar la diferencia ahora.
+Esta semana es perfecta para tener una mentalidad transformadora. Los aspectos astrales agitan tu sector hogareño y despiertan algunos sentimientos internos. Podrías sentir algo de inestabilidad en estas áreas y tal vez necesites pasar algo de tiempo curándote y desarrollando un plan de recuperación. Tómate todo el tiempo que necesites para hacer que suceda.

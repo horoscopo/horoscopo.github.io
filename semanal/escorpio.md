@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 05 de abril 2021 al 11 de abril 2021 
-description: Horóscopo semanal escorpio 05 de abril 2021 al 11 de abril 2021. Retírate del mundo artificial Escorpio, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+title: escorpio 12 de abril 2021 al 18 de abril 2021 
+description: Horóscopo semanal escorpio 12 de abril 2021 al 18 de abril 2021. Semana intensa Escorpio, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-05'
+ lastmod: '2021-04-12'
 ---
 
 
 
-## Retírate del mundo artificial Escorpio, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+## Semana intensa Escorpio, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 
-Siempre has tenido un fuerte instinto de supervivencia Escorpio, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces Escorpio y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
-Con una luna llena en tu sector de relaciones, el martes podría ser una ocasión muy sincera y conmovedora. Puede que sientas una fuerte conexión con tu familia y las personas que más quieres y esto podría dejarte bastante sensible. Al mismo tiempo, tendrás ganar de poner en marcha proyectos importantes y te entusiasmarán las posibilidades que surgirán. Tu vida social se enciende de una manera muy positiva. Cuando el dinámico Marte se alinea con el alegre Júpiter el jueves, un encuentro podría hacerte sentir bien.
+No te bajonees porque un día no hayas conseguido todo lo que te habías propuesto, al día siguiente podrás crear otro tipo de oportunidades que te lleven a donde quieres. 
+Roma no se hizo en un día. Y sal un poco más, que hay gente que te echa de menos, que echa de menos tu positividad, tus risas, tu ingenio, tus ganas…
+Aunque sientas la inspiración para seguir un nuevo camino que parece muy prometedor, tal vez sientas inquietud si esto significa salirte demasiado de tu zona de confort. Es realmente una cuestión de fe. Este podría ser un buen momento para deshacerte de cualquier cosa pasada de moda o que te esté reteniendo. Sin embargo, la luna llena en Aries del jueves podría traer un poco de drama a un primer plano. También es un momento excelente para una celebración o reunión, incluso si es un poco escandalosa.
 
 ## Dinero
 
-Esta semana, tu mente sin duda se encuentra girando en torno a nuevas ideas sobre cómo hacer más dinero. Pero ¿alguna vez has pensado en agrandar tu negocio globalmente? Si lo has hecho, esto recibe apoyo esta semana, como si estuvieras haciendo nuevas relaciones que pudieran facilitar tu progreso económico en los últimos años. Esto podría incluir asesores financieros, jefes, colegas y mentores. El cielo es el límite siempre y cuando te tomes el tiempo para desarrollar tus ideas y buscar apoyo.
+Es posible que no tengas total equilibrio ahora. El hogar y las emociones internas se destacan, por lo que es posible que te falte confianza o una base firme desde la cual operar. Debido a que las cosas están  cambiando allí, tus sueños están en vivo con todo tipo de imágenes y extrañas señales. Practica la paciencia con tu mente inconsciente, está tratando de decirte algo que te traerá abundancia con el tiempo.
