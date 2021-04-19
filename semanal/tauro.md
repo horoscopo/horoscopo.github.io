@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 12 de abril 2021 al 18 de abril 2021 
-description: Horóscopo semanal tauro 12 de abril 2021 al 18 de abril 2021. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+title: tauro 19 de abril 2021 al 25 de abril 2021 
+description: Horóscopo semanal tauro 19 de abril 2021 al 25 de abril 2021. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,18 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-12'
+ lastmod: '2021-04-19'
 ---
 
 
 
-## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 
-Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen.
-Al parecer, cualquier drama que haya tenido lugar la semana pasada se resuelve en gran medida esta semana. El enfoque general de tu carta es bastante sólido y con los pies en la tierra, y tiene una poderosa cuota de ambición. 
-  Debido a que el animado Júpiter continúa su conexión con el poderoso Plutón, puede que sigas avanzando para lograr una idea o proyecto que prometen grandes resultados a largo plazo. Júpiter brinda un entusiasmo emocional, mientras que el disciplinado Capricornio te anima a poner en práctica la sensatez y determinación. Debido a que ahora tanto el ejemplar Saturno como el potente Plutón están retrógrados en tu sector profesional, los próximos días, semanas y meses podrían encontrarte reflexionando profundamente sobre tu situación actual y preguntándote si es momento de un cambio. 
-  En un tono más ligero, el encantador Venus en tu sector de comunicación puede respaldar eventos sociales y hacer que cada día sea más divertido y animado. Este es un excelente momento para entablar nuevas conexiones o publicitar tus bienes y servicios.
+Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Tauro, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Tauro, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
+Puede parecer que debes elegir entre tu pareja y tu familia, lo que podría sacar a la luz tu lado diplomático y de mucho tacto. La forma en que manejes esto podría hacer que la semana sea mucho más placentera. Debido a que Mercurio y Saturno se vuelven retrógrados esta semana, podrían producirse demoras con respecto a finanzas compartidas y asuntos de comunicación. Ten cuidado al firmar cualquier documento importante. Si compras artículos de gran valor, guarda los recibos y documentos en caso de que necesites devolver algo.
 
 ## Dinero
 
-Con un aspecto armonioso ahora, puede que tengas la tentación de celebrar antes de tiempo. Pero con toda la energía que hay en el aire ahora, lo mejor es encontrar una manera de sacarle provecho primero. La actividad astral afectará los viajes, el aprendizaje y la espiritualidad, indicando el momento de buscar formas de ampliar tu mercado. Si ofreces un producto o servicio que podría ser vendido en el extranjero, haz que suceda ahora. Consulta a un especialista en ventas si necesitas ayuda.
+Esta semana tienes una base sólida para construir sobre tu existente riqueza. Quieres hacer cosas poco convencionales con tu dinero, pero es mejor ser un poco más conservador/a debido a las proyecciones de ahora. Sin embargo, es un buen momento para la investigación de aspectos más salvajes relacionados con la inversión.

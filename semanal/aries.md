@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 12 de abril 2021 al 18 de abril 2021 
-description: Horóscopo semanal aries 12 de abril 2021 al 18 de abril 2021. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+title: aries 19 de abril 2021 al 25 de abril 2021 
+description: Horóscopo semanal aries 19 de abril 2021 al 25 de abril 2021. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-12'
+ lastmod: '2021-04-19'
 ---
 
 
 
-## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Aries, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-Puede que el romance llegue a ti cuando menos te lo esperas, pero esta vez podría ser algo especial. Cuando el expansivo Júpiter, tu planeta personal, conecta con las cualidades revolucionarias de Urano, puede que cierta persona te parezca irresistible. Quizá lo que te parece tan atractivo es la libertad con la que tal persona hace lo suyo sin miedo a lo que piensen los demás. Es posible que esta conexión tenga potencial de alma gemela, pero si quieres que la relación florezca, debes regarla a diario.
+Madura Aries, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Aries, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Aries, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
+Una sensación de bienestar podría darle a tu semana un buen comienzo. Con la positiva alineación entre el Sol y Júpiter, es posible que sientas agradecimiento y felicidad por el simple hecho de tener vida sin importar lo que esté pasando. Hay un amplio margen para positiva actividad en relación a contratos, ofertas y el establecimiento de contactos. Cuando tener ambición y mostrar un poco de agresividad podría ayudarte a obtener el mejor resultado. La Luna Nueva del viernes podría ser un buen momento para aprender a meditar o practicar la disciplina espiritual de tu elección.
 
 ## Dinero
 
-Tienes una situación interesante esta semana. Tu vida puede ser más difícil de lo que es, sobre todo cuando se trata de lo que es tuyo. Definir cómo vas a ganar dinero ahora y en el futuro es mejor que dejarlo todo al azar. Confiar excesivamente en los demás no es la mejor opción ahora.
+Para ti esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes una ventana de tiempo para hacerte cargo de viejos asuntos y para investigar si es mejor mantener, comprar o vender inversiones compartidas. Sin embargo, sabes bien lo que quieres y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.

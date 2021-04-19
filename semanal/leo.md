@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 12 de abril 2021 al 18 de abril 2021 
-description: Horóscopo semanal leo 12 de abril 2021 al 18 de abril 2021. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+title: leo 19 de abril 2021 al 25 de abril 2021 
+description: Horóscopo semanal leo 19 de abril 2021 al 25 de abril 2021. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Leo, que no te entre la locura.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-12'
+ lastmod: '2021-04-19'
 ---
 
 
 
-## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+## “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Leo, que no te entre la locura.
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace Leo… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas Leo, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
-Esta puede ser una excelente semana para conocer y conectar con personas que piensen como tú. Si no ves las horas de comenzar a promover un proyecto, un plan de mercadotecnia puede ayudarte. Si quieres tener nuevos contactos en las redes sociales, poner en marcha este plan puede ser muy positivo. Pero a medida que el brillante sol entra a Libra y a tu sector de hogar y familia el viernes, puede que sea hora de descansar un poco y darle a tu cuerpo más mimos y atención si es posible.
+Estás bien aquí, estás bien allí, y en cuanto las cosas se complican un poquito, por poco que sea, huyes. Está bien que vivas de esas manera, buscando en realidad cualquier lugar que te de felicidad, cualquier momento sea cual sea y donde sea. Pero 
+ un poquito de ella.
+Tu vida social está mejor de lo que ha estado en mucho tiempo, con una alegre mezcla de energías animándote a comportarte audazmente. Te beneficiarás de tener la oportunidad de entrar a nuevos círculos, unirte a clubes, o ser parte de un divertido proyecto. Júpiter es el planeta que rige tus finanzas, y puede que mientras te encuentres haciendo todo esto, encuentres oportunidades para mejorar tus ingresos. Vincularte a grupos relacionados con tu profesión o negocio puede dar lugar a lucrativas ofertas o proyectos.
 
 ## Dinero
 
-Esta semana trae actividad a tu sector de dinero. Mientras que orientas tu vida en torno a ganar más dinero, también es necesario construir una base que sea sólida. Asegurarte de que tu ingreso sea estable y consistente es de primordial importancia. A medida que tu empleo y tu lugar de trabajo puedan estar cambiando, hay un gran potencial sin explotar en el extranjero. Explora otras posibilidades de trabajo y de ganar dinero en línea o en los crecientes mercados extranjeros.
+Lo más importante ahora no es cuánto tienes, sino la calidad de tu vida a medida que estudias la forma de hacer algunos cambios importantes. El amor y el afecto se unen a la acción y al tino para ayudarte a participar en actividades creativas como proyectos de escritura, cine, radio y televisión. Si secretamente has abrigado el deseo de participar en esto, toma una clase o un seminario.

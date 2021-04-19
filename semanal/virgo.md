@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 12 de abril 2021 al 18 de abril 2021 
-description: Horóscopo semanal virgo 12 de abril 2021 al 18 de abril 2021. El mundo puede esperar Virgo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: virgo 19 de abril 2021 al 25 de abril 2021 
+description: Horóscopo semanal virgo 19 de abril 2021 al 25 de abril 2021. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-12'
+ lastmod: '2021-04-19'
 ---
 
 
 
-## El mundo puede esperar Virgo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver Virgo, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
- hasta que empieces a sentir que realmente merece la pena.
-Cuando el alegre Júpiter se vuelve retrógrado a mitad de semana (y permanece así hasta el próximo Lunes), podrías animarte a revisar un negocio o una conversación reciente, y cualquier promesa que hayas hecho. Al mismo tiempo, el interactivo Mercurio y el amoroso Venus ingresan a Aries y a un sector más intenso de tu carta. Esto podría inspirarte a deshacerte de cualquier plan que ya no te sirva. También puedes descartar las antiguas asociaciones que parecen haber superado su fecha de vencimiento, si sientes que es una buena idea. Sigue adelante solo si tus instintos así te lo indican.
+Tienes que motivarte Virgo. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino Virgo. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro Virgo, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa Virgo, ¿tu tiempo no vale nada o qué?
+Cualquier cambio en la dinámica familiar o en proyectos domésticos debería ir mejor al ser implementado el lunes. La Luna Nueva puede ayudar a darles el mejor comienzo posible. Incluso con la menor cantidad de planeación tendrás éxito. En este momento te puede ir muy bien en cualquier tema relacionado a escritura, ventas y comunicación en general. Si estás considerando un cambio de carrera en una de estas áreas, estás en el camino correcto. El domingo es un día excelente para comprometerte con una audaz idea.
 
 ## Dinero
 
-Ciertos aspectos indican una época de restricción y limitación a la hora de expresarse. Puede que te sientas incapaz de compartir todas las fascinantes partes de tu personalidad ahora, pero el Universo te está pidiendo que tomes medidas drásticas temporalmente para lograr algo. El hacerse el payaso de la fiesta o el que complace a todos ya no servirá. Sólo una actitud confidente y profesional te dará el dinero que deseas. Profesión es la razón para seguir adelante.
+El Universo está afectando a tu sector de deuda y el dinero de los demás, mientras que le trae cambios a tu sector profesional. Este no es el momento de gastar en exceso. Más bien, es mejor invertir este tiempo en pagar tus deudas más urgentes mientras que consolidas tu carrera con otras actividades de desarrollo de habilidades, tales como seminarios. Te convertirás en un valor incalculable para tu empleador y también garantizarás tu seguridad en tu empleo.

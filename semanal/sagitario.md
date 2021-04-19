@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 12 de abril 2021 al 18 de abril 2021 
-description: Horóscopo semanal sagitario 12 de abril 2021 al 18 de abril 2021. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+title: sagitario 19 de abril 2021 al 25 de abril 2021 
+description: Horóscopo semanal sagitario 19 de abril 2021 al 25 de abril 2021. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-12'
+ lastmod: '2021-04-19'
 ---
 
 
 
-## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-Cada día que pasa te das más cuenta de que mereces cosas buenas Sagitario, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana Sagitario.
-Podría emocionarte un encuentro que parece ser un poco fuera de lo normal. Si esta persona tiene magnetismo y carisma, tal vez no puedas resistirte, pero... ¿por qué deberías hacerlo? Podrías descubrir que seguir la corriente y buscar una conexión más profunda es muy excitante. Puede ser mejor si tienen ciertas experiencias o ciertos intereses en común. De ser así, puede que sea muy especial y esta persona podría ser tu alma gemela.
+Organízate Sagitario, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres Sagitario, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
+Con un poderoso énfasis en tu sector de relaciones, puede que conozcas personas en una situación que te permita entender más cosas y tener nuevas posibilidades. Colaborar con personas clave o formar un equipo para completar un proyecto puede tener buenos resultados y sin duda es mucho mejor que intentar lograr algo por tu cuenta. También se genera un enfoque más profundo cuando el sol entra a un sector más intenso de tu carta astral, lo que te motiva para dejar de ignorar los problemas que ya están listos para ser sanados.
 
 ## Dinero
 
-El Universo te está dando una increíble fuerza creativa ahora. Puede que tengas muchas ideas sobre cómo hacer más dinero, invertirlo y usarlo para mejorar tu vida. Ciertos aspectos afectan tu sector de  deuda y el dinero de otros. Prepárate para lo mejor y lo peor, y paga lo que puedas.
+Esta semana, los planetas están cambiando la manera en la que otros te ven, lo cual es positivo a largo plazo. Pero, dado a que en la actualidad afecta a tu carrera y tu vida hogareña, lo mejor es acudir a tus relaciones serias en busca de asistencia. Aquellos que pueden sostenerse en medio de una tormenta son aquellos que deseas mantener cerca.
