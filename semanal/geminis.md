@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 19 de abril 2021 al 25 de abril 2021 
-description: Horóscopo semanal geminis 19 de abril 2021 al 25 de abril 2021. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Géminis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Géminis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+title: geminis 26 de abril 2021 al 02 de mayo 2021 
+description: Horóscopo semanal geminis 26 de abril 2021 al 02 de mayo 2021. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Géminis, ahora estás que lo partes.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-19'
+ lastmod: '2021-04-26'
 ---
 
 
 
-## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Géminis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Géminis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Géminis, ahora estás que lo partes.
 
-La zona de confort es un sitio bonito Géminis, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más Géminis, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida Géminis. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto Géminis, y tú mismo te lo notas, no la cagues por nada ni por nadie.
-Puede que las responsabilidades y los deberes se estén acumulando y puede que sientas que te falta el aire. Si este es el caso, los astros te aconsejan que des un paso atrás y evalúes con cuidado tu situación. Si es posible delegar algunas de las tareas que debes hacer, ten en cuenta la oportunidad. Puede que esta sea la forma más fácil de sacarte un poco de presión de los hombros. Y dejar esas tareas que realmente no llevan a ningún lado también puede ayudarte a sentir más tranquilidad.
+Parece que no todo va tan mal, no ¿Géminis? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+Mientras el enfoque continúa en tu sector de relaciones, la próxima semana podría encontrarte estableciendo contactos y, tal vez, revisando ideas, proyectos o incluso decisiones. Cuando el energizante Mercurio, que ahora está retrógrado, se alinea con el encantador Venus, puede que debas deshacer una promesa o un contrato que requieran ajustes debido a hechos recientes. El sábado, lo mejor sería esperar lo inesperado, ya que una invitación podría dar como resultado un resplandeciente encuentro. Finalmente, la luna nueva del domingo podría animarte a explorar más tal tema.
 
 ## Dinero
 
-Con actividad en el área de tu carta que rige las vidas pasadas, el karma y las instituciones, es muy probable que estés reevaluando tus planes de trabajo para el futuro. Empresas o personas con las que pensaste que no te gustaría trabajar parecen tener todo lo que quieres y necesitas ahora; desde la distribución de redes, a acceso a acaudalados donantes. Para ganar más, encuentra la manera de trabajar dentro del sistema. Te percatarás de que no es tan malo como piensas.
+Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.

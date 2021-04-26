@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 19 de abril 2021 al 25 de abril 2021 
-description: Horóscopo semanal acuario 19 de abril 2021 al 25 de abril 2021. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Acuario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+title: acuario 26 de abril 2021 al 02 de mayo 2021 
+description: Horóscopo semanal acuario 26 de abril 2021 al 02 de mayo 2021. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-19'
+ lastmod: '2021-04-26'
 ---
 
 
 
-## Por muy desconfiado y duro que parezcas ser, al final acabas confiando Acuario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-A veces de bueno te pasas Acuario. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Acuario, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Acuario, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Acuario y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-La semana por delante podría llevarte a mirar en profundidad aspectos de tu vida para encontrar respuesta a algunas de tus preguntas más importantes. Con el sociable Júpiter ahora en tu sector de transformación, quizás disfrutes de este proceso. Al mismo tiempo, la presencia del encantador Venus en tu sector de relaciones te lleva a escuchar a otros y prestar atención tanto a sus necesidades como a las tuyas. La luna nueva en este mismo sector podría anunciar cambios con respecto a una conexión clave.
+Esfuérzate un poco más de lo que hiciste ayer Acuario, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
+ de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
+El deseo de explorar un nuevo territorio y expandir tus horizontes puede intensificarse esta semana a medida que el Sol entra a tu sector de horizontes lejanos. Si tienes ganas de tomarte una vacaciones de primavera, este es el momento de hacerlo. El cosmos te incentiva para que dejes atrás tu entorno diario y te sumerjas en nuevas experiencias. Puede que te sientas un poco culpable por no encargarte de ciertas responsabilidades, pero no dejes que esto te agobie. Solo haz lo que debes hacer.
 
 ## Dinero
 
-Tú necesitas asegurarte de que tus emociones estarán protegidas tanto como tu cuerpo. Ahora, las emociones son aún más importantes. Debido a que ciertos aspectos afectan tu sector de romance, niños y diversión, se trata de áreas que podrían ser aprovechadas para obtener ingresos adicionales y satisfacción emocional. Una nueva idea puede proporcionarte la manera de salirte de tu empleo actual a favor de algo que tiene un significado mayor para ti.
+Es posible que tengas que pensar seriamente esta semana sobre el dinero de otras personas, o la deuda. La adopción de una actitud responsable es la mejor mientras haces el balance de la deuda, llega a una negociación realista de rentabilidad y apégate a ella. Ciertos aspectos indican que tu familia o niños pueden ser la mayor fuga de tu dinero por ahora. Esfuérzate para mantener el equilibrio a medida que te apegas a tu presupuesto.

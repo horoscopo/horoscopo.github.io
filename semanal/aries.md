@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 19 de abril 2021 al 25 de abril 2021 
-description: Horóscopo semanal aries 19 de abril 2021 al 25 de abril 2021. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+title: aries 26 de abril 2021 al 02 de mayo 2021 
+description: Horóscopo semanal aries 26 de abril 2021 al 02 de mayo 2021. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Aries, ¡NO MEZCLES!
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-19'
+ lastmod: '2021-04-26'
 ---
 
 
 
-## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Aries, ¡NO MEZCLES!
 
-Madura Aries, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Aries, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Aries, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-Una sensación de bienestar podría darle a tu semana un buen comienzo. Con la positiva alineación entre el Sol y Júpiter, es posible que sientas agradecimiento y felicidad por el simple hecho de tener vida sin importar lo que esté pasando. Hay un amplio margen para positiva actividad en relación a contratos, ofertas y el establecimiento de contactos. Cuando tener ambición y mostrar un poco de agresividad podría ayudarte a obtener el mejor resultado. La Luna Nueva del viernes podría ser un buen momento para aprender a meditar o practicar la disciplina espiritual de tu elección.
+Tienes que plantarte Aries, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana Aries.
+Lo que tú quieres y lo que tu familia quiere podrían ser dos cosas distintas. Esta semana, puede que otras personas esperen que los hagas parte de conversaciones importantes sobre decisiones importantes. Y con la Luna Llena complicando los acontecimientos y posiblemente generando drama, las emociones pueden intensificarse. Sin embargo, esto podría permitir que descargues un poco de tensión. Una vez que todos hayan dicho lo que tenían que decir y las cosas se hayan calmado, podrías darte cuenta de que puedes encontrar una solución armoniosa que deje a todos contentos.
 
 ## Dinero
 
-Para ti esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes una ventana de tiempo para hacerte cargo de viejos asuntos y para investigar si es mejor mantener, comprar o vender inversiones compartidas. Sin embargo, sabes bien lo que quieres y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.
+Estás en una fase de redefinición ahora. Puede que la gente esté acostumbrada a que juegues cierto tipo de papel en sus vidas, lo cuál no ha sido lo mejor para tu vida financiera. No importa. Eres una persona magnética y hay mucha suerte en tu sector de comunicaciones. Podrías percatarte de que mientras más se te vea y se te escuche, puedes conseguir que tus necesidades financieras se cumplan.
