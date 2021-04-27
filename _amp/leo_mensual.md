@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo leo abril 2021 
+title: Horoscopo leo mayo 2021 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
@@ -14,7 +14,4 @@ sitemap:
 ---
 
 
-Tómate tu tiempo para asuntos familiares y domésticos alrededor de la luna nueva del 13 de abril. Relájate, tómate un té, come un bocadillo y conversa por teléfono. Neptuno se torna retrógrado el día 18 y se mantiene así hasta el 24 de abril. La vida puede ser igual de dulce y romántica sin tener tantas fantasías o expectativas idealistas. Tu vida social aumenta durante la luna llena del 27 de abril. Puede que no te dejes arrasar por la multitud fiestera, y tal vez no seas el centro de atención, pero te harás notar y escuchar. Deja que los demás bailen y zapateen. Diviértete, pero no es necesario que te alteres. 
-
-Días destacados: 2, 6, 19
-Días desafiantes: 7, 25</div>
+La del 4 de mayo será una ocupada Luna Llena para ti. Trata de no perder tus cosas esenciales, como teléfono y llaves. Si cuidas de todo eso, puede que te percates de que la gente querrá regalarte cosas y no aceptar un no por respuesta. Ten tacto y sinceridad hagas lo que hagas o mejor no aceptes. Una inesperada fuente de ingresos podría aparecer alrededor de la Luna Nueva del 18 de mayo. Podría ser un incidente de una sola vez, como un hobby brevemente pagando por sí mismo. Sin embargo, será tanto agradable, como estimulante. El 26 de mayo, haz feliz a mucha gente, incluyéndote a ti.

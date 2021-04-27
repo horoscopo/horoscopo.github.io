@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo virgo abril 2021 
+title: Horoscopo virgo mayo 2021 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Disponte a enfrentarte a un cambio radical cuando el Sol conecte con Plutón en Capricornio el 6 de abril. La Luna Llena del 12 de abril brilla con amor y romance. Siente seguridad en tu vida privada y fíjate si alguien nuevo tiene lo necesario para ser especial. Tu corazón podría estar buscando una cosa o una persona nueva o diferente. Obtén una perspectiva renovada sobre un asunto financiero cerca de la Luna Nueva del 27 de abril. Una actitud benéfica podría empezar a generar una fuente de ingresos que no existía antes. Piensa en grande y quizás tengas la posibilidad de actuar y recibir buenas recompensas.
+Mercurio culmina su ciclo retrógrado en Sagitario el 8 de mayo. Si el año comenzó algo accidentado, ahora todo debería empezar a mejorar. La Luna Llena del 12 de mayo arroja su luz sobre tus finanzas y pertenencias materiales. Si no te gusta ese obsequio que recibiste durante la temporada de festividades, cámbialo. Es tuyo y puedes hacer lo que quieras con él. La Luna Nueva del 27 de mayo te recuerda que el mundo es más grande de lo que puedes imaginarte. Podrías descubrir un nuevo e importante interés que retenga tu atención durante un largo tiempo. Alguien más podría sugerirlo o ya encontrarse absorto en él. ¡Explóralo a fondo! Te complacerá haberlo hecho.

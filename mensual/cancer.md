@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo cancer abril 2021
-description: El Horóscopo abril de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo cancer mayo 2021
+description: El Horóscopo mayo de Cancer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo cancer abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo cancer mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo cancer, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
@@ -16,6 +16,4 @@ sitemap:
 ---
 
 
-La Luna Llena del 9 de abril es una luna festiva y orientada a la familia. Podrías recibir llamadas telefónicas, fotos o mensajes de texto de parientes que quieren ver tu hermoso rostro y escuchar tu dulce voz. Ríndete ante la atención. No durará mucho tiempo. El 13 de abril, el trígono entre Mercurio y Júpiter mejora tu suerte y tu visión sobre un problema determinado. La Luna Nueva del 23 de abril abre tu vida social a una gran diversión y entusiasmo. Puede que estés a punto de tener un poco más de entusiasmo en tu vida, y tal vez seas tú quien lo genere. Las personas quieren estar cerca de ti.
-
-Mejores días: 6, 21, 24Peores días: 18, 29
+Relájate con tus personas preferidas durante la Luna Nueva del 4 de mayo. Sin embargo, mantén un ojo puesto en tus mascotas para evitar cualquier pequeño y tonto contratiempo alrededor de tu hogar. Ese mismo fin de semana podría ser espectacular, pero a la vez seguro y sin problemas. Date un capricho, consiéntete más y vuélvete más saludable durante el periodo de la Luna Llena del 19 de mayo. Duerme más, come mejor y trata de no trabajar demasiado todo el tiempo. Te sentirás y verás muy bien, además de que tendrás mucha más energía. Lidia con cualquier problema de salud inmediatamente y no pierdas tu energía en preocuparte. El Sol entra a Leo el 22 de mayo. Si es que has sentido cualquier tipo de apatía, puede que entonces ¡regreses de nuevo a la vida!   

@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo capricornio abril 2021
-description: El Horóscopo abril de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo capricornio mayo 2021
+description: El Horóscopo mayo de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo capricornio abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo capricornio mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
@@ -16,4 +16,9 @@ sitemap:
 ---
 
 
-La Luna Llena del 10 de abril te anima a divertirte más. La gente apreciará tu alegría y el encanto de tu niño interior, aunque no lo estás haciendo por ellos, sino por ti. ¡Anímate a sonreír! Haz una pausa bajo la Luna Nueva del 26 de abril para darte un tiempo a solas para reflexionar sobre lo que quieres hacer que todavía no has comenzado. No des el salto, pero deja que todas esas zumbantes ideas se establezcan en tu mente. Cuando llegue el momento las sabrás elegir sabiamente. El 28 de abril, la conjunción entre Mercurio y Urano enciende tu mente en llamas con un millón de ideas. Anótalas para usarlas más tarde.
+La vida social se pone brillante y ocupada durante la luna nueva y eclipse solar del 12 de mayo. Si recibes una gran invitación, considera ir. La gente te echará de menos si no apareces. Aparte, debería ser un momento de diversión. Mercurio se torna retrógrado el día 25. Reduce la velocidad y presta más atención a lo que puede necesitar el tiempo extra. 
+
+La luna llena y el eclipse lunar del 27 de mayo podrían generar algo de inseguridad o suposiciones. No te metas ahí. Piensa bien lo que merece atención, y no te tomes tan a pecho las opiniones de nadie. Confía en tus decisiones y ten seguridad de tus acciones. 
+
+Días destacados: 14, 19, 29
+Días desafiantes: 2, 5</div>

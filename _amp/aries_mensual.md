@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo aries abril 2021 
+title: Horoscopo aries mayo 2021 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Siente la fortuna y el amor que tienes durante la conjunción entre la Luna y Júpiter del 1 de abril. Puedes resolver cualquier cantidad de problemas domésticos cuando la Luna está Llena el 8 de abril. Mientras más pequeños sean los cabos sueltos, más podrás atar. Sin embargo, podrías enfrentarte a algunos asuntos mucho más grandes. Adelante. La Luna Nueva del 23 de abril es un momento estimulante y atareado. Salta a la parte más profunda de la piscina y absorbe todas las nuevas acciones y personas emocionantes que se ponen en tu camino. Es difícil predecir qué o quién te fascinará más y eso es parte de la diversión. 
+Las emociones se desatan durante la Luna Llena y el Eclipse Lunar del 7 de mayo. Si sientes nervios o hipersensibilidad, escucha música o camina para despejar tu mente. ¿Para qué estresarte sin motivos? Sé amable contigo, relájate y restablece tu equilibrio. El trígono que Venus forma con Neptuno el 11 de mayo te sensibiliza hacia algo que alguien ha estado intentando decirte. La Luna Nueva y el Eclipse Solar total el 21 de mayo te llevan a hacer buenas obras para ti y para otros. Concéntrate en ti primero. No es egoísta, y te sentirás más fuerte y más capaz de hacer todas las otras buenas acciones. 

@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo sagitario abril 2021
-description: El Horóscopo abril de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo sagitario mayo 2021
+description: El Horóscopo mayo de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo sagitario abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo sagitario mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Pasa un momento especial con una amistad especial durante la Luna Llena del 4 de abril. Sácale al máximo provecho al fin de semana y profundiza una ya de por sí gran amistad (o inicia una con una persona que sea especial). La Luna Nueva del 18 de abril te presenta muchas oportunidades para que extiendas tus límites. Está bien comportarte audazmente si lo haces sensiblemente. No arriesgues algo (o a alguien) que es importante para ti en nombre de la diversión. Bien sabes que las grandes emociones no son baratas. El 26 de abril es tu día de suerte, así que date un gusto sin dejar que alguien lo eche a perder.    
+¡Feliz año nuevo! Comienza el año de forma festiva y creativa bajo la luna llena del 1 de mayo. Podrías rodearte de personas con ideas grandiosas sobre qué hacer y a dónde ir. Y eso es genial, pero sigue tus propios deseos. La luna nueva del día 16 podría traer muchas caras nuevas a tu vida social. Mantenlo casual, mira cuáles son tus primeras impresiones, y quizás luego haz una selección. El 31 de mayo, la segunda luna llena del mes (y eclipse lunar) resalta la buena salud física y mental. Que valorarte y cuidarte sean una prioridad. ¡Lo vales! 

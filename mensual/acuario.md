@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo acuario abril 2021
-description: El Horóscopo abril de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo acuario mayo 2021
+description: El Horóscopo mayo de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo acuario abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo acuario mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
@@ -16,8 +16,7 @@ sitemap:
 ---
 
 
-El 5 de abril, el sol en Escorpión forma un trígono con Neptuno en Piscis. El mundo se vuelve más emocional para ti, pero no para todos los que te rodean. La luna nueva del día 7 quiere que recuerdes un gran deseo olvidado. Podría ser algo totalmente personal que revive un viejo amor importante. Date el gusto. 
-El 16 de abril, Venus se torna directo justo antes de que Mercurio se torne retrógrado. El amor verdadero no necesitará dar explicaciones. Puede que te sientas con mucha energía durante la luna llena del día 22, y la gente podría estar pidiéndote que ocupes tu tiempo con sus problemas. Pero no dejarás que eso suceda. Consiente a tu niño interior (y a tu mente más interior) con una paz y tranquilidad más privada y de mayor calidad. Que el mundo se las arregle sin ti. 
-El 24 de abril, Venus se torna directo poco antes de que la luna entre a Cáncer. Deja que algo toque tu corazón, y quizás encuentres nueva inspiración y una aspiración más alta. 
-Días destacados: 9, 16, 24
-Días desafiantes: 13, 25
+El 5 de mayo, Venus forma una oposición con Plutón. Si un interés amoroso se descarrila o da una vuelta por el lado salvaje, tú no necesitas ir también. Tu cabeza puede estar divagando cuando la luna está nueva el día 13. Siente curiosidad por todo, y no esperes profundizar demasiado en una cosa. El mundo es amplio. Saboréalo ampliamente. Hazte tiempo extra para el hogar si puedes durante la luna llena del 27 de mayo. Sientes la motivación de terminar algunas tareas domésticas que te han apremiado por un tiempo. Sin embargo, una obligación social puede competir con esto. 
+
+Días destacados: 1, 13, 16
+Días desafiantes: 21, 25
