@@ -10,5 +10,5 @@ sitemap:
  changefreq: 'daily'
  lastmod: 2021-04-28
 ---
-Apégate a lo esencial. Hoy, anota las cosas y las ideas que salgan de tu cabeza. Esta noche, las complicaciones tienden a surgir mientras Venus entra a Escorpión, donde se quedará hasta mediados de octubre. Los inconvenientes surgen debido a que no hay una gran cantidad de comunicación - el silencio es mortal. El antídoto es hablar las cosas.
+Apégate a lo esencial. Hoy, anota las cosas y las ideas que salgan de tu cabeza. Esta noche, las complicaciones tienden a surgir mientras Venus entra a Escorpión, donde se quedará por un largo tiempo. Los inconvenientes surgen debido a que no hay una gran cantidad de comunicación - el silencio es mortal. El antídoto es hablar las cosas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
