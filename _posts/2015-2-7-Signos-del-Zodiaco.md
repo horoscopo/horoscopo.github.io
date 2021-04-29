@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 28 de abril 2021
-description: Horóscopos del dia de hoy 28 de abril 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 29 de abril 2021
+description: Horóscopos del dia de hoy 29 de abril 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-04-28
+ lastmod: 2021-04-29
 ---
-Apégate a lo esencial. Hoy, anota las cosas y las ideas que salgan de tu cabeza. Esta noche, las complicaciones tienden a surgir mientras Venus entra a Escorpión, donde se quedará por un largo tiempo. Los inconvenientes surgen debido a que no hay una gran cantidad de comunicación - el silencio es mortal. El antídoto es hablar las cosas.
+Evoca imágenes y premoniciones vívidas mientras tengas una extraña habilidad para comprender, cortesía del trígono acuoso entre Mercurio y Neptuno. Es fácil contener tu emoción bajo la Luna en Virgo de esta noche. La buena noticia para los solteros es que buscar pacientemente vale la pena - lo mismo ocurre con sentarse a observar.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
