@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 26 de abril 2021 al 02 de mayo 2021 
-description: Horóscopo semanal tauro 26 de abril 2021 al 02 de mayo 2021. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+title: tauro 03 de mayo 2021 al 09 de mayo 2021 
+description: Horóscopo semanal tauro 03 de mayo 2021 al 09 de mayo 2021. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-26'
+ lastmod: '2021-05-03'
 ---
 
 
 
-## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 
-Te estás dando cuenta de quien sí y quien no Tauro. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo Tauro pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope Tauro, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente Tauro, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Tauro, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
-Podrías decidir cambiar tu imagen esta semana una vez que la galante Venus entre a tu signo y te tiente a pensar en un cambio de imagen. Tal vez optes por un color de cabello diferente o te decidas a renovar tu armario. El jueves, un extraño enlace entre Júpiter y Saturno podría llevar un asunto familiar o de pareja a un punto crítico. Es posible que este conflicto haya estado despierto desde hace algún tiempo, pero ahora te preparas para hacer algo al respecto.
+Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Tauro, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
+La entrada del Sol a tu sector de deseos, sueños arraigados y amistades podría ser una llamada a involucrarte más con tu comunidad y conectar más con tus amigos más a menudo. Además, puede que sientas motivación a reflexionar sobre tus objetivos y considerar si son aplicables a tu vida y a tu situación actual. Este es buen un momento para un análisis, por lo que no te sorprendas si tus prioridades han cambiado. Este fin de semana podría traer consigo una oportunidad creativa que no querrás perderte.
 
 ## Dinero
 
-Tienes el tipo de confianza que el dinero no puede comprar. Tu risa parece más enérgica, y tu personalidad es tan fuerte que fácilmente puede tomar control de una habitación. Sin embargo, es posible que tengas que atender ciertos asuntos en tu hogar. Esto podría significar reparaciones costosas o incluso tener que mudarte para evitar unos vecinos ruidosos. Cualquiera que sea el caso, es probable que tengas que recurrir a tus ahorros para cubrirlo.
+Esta semana puede traer algunas sensaciones extrañas de tu pasado (o tal vez las vidas pasadas). Podrías sentirte de alguna manera en una caja o forzado/a hacia una conclusión determinada. Los aspectos que afectan a tu sector de empleo significan que necesitas prestar más atención aquí para hacer tu trabajo con mayor sentido lucrativo.

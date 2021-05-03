@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 26 de abril 2021 al 02 de mayo 2021 
-description: Horóscopo semanal libra 26 de abril 2021 al 02 de mayo 2021. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: libra 03 de mayo 2021 al 09 de mayo 2021 
+description: Horóscopo semanal libra 03 de mayo 2021 al 09 de mayo 2021. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-26'
+ lastmod: '2021-05-03'
 ---
 
 
 
-## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 
-No te conformes con poco Libra, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Libra, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
-El conversador Mercurio ingresa a tu sector el martes, y su presencia aquí puede animarte a hablar, en especial si se trata de cualquier tema importante. El animado Mercurio en Cáncer puede brindar una excelente oportunidad para analizar asuntos que deben ponerse sobre la mesa. Hacerlo podría resultar un alivio. Sin embargo, puede que tú y otra persona no estén de acuerdo el fin de semana. Al mismo tiempo, Mercurio se opone al ferviente Saturno en tu sector de relaciones, por lo que podrías descubrir que una persona es abrumadora o extremadamente persuasiva durante los próximos días. Si esto te frustra, puede que sea momento de poner límites más firmes. 
-La luna nueva en tu sector espiritual a mitad de semana puede ser una llamada a comenzar una práctica, como meditación o yoga, que te ayude a lograr la tranquilidad. Y, debido a que el encantador Venus ingresa a tu sector de dinero el mismo día, podrías tener ojo para los lujos. 
+Fíate de ti mismo Libra, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Libra y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
+Hay una gran cantidad de actividad en tu signo alentándote a ser más audaz y dar un paso hacia lo desconocido. De hecho, invertirle toda tu atención a un plan o una idea podría ser todo lo que necesites para ayudarte a cobrar impulso y comenzar a mostrar señales de éxito. Saturno comienza a avanzar en tu sector hogareño y familiar el sábado, lo que podría propiciar nuevos avances. Y debido a que Marte ya se encuentra en esta zona, ciertos desafíos ahora pueden comenzar a resolverse.
 
 ## Dinero
 
-Esta semana estás pensando en cómo poner en marcha tu creatividad. Ciertos aspectos afectan tu sector de comunicación e ideas, así como también las relaciones. El Universo exige que cada vez tengas más madurez en tu pensamiento y en la manera de expresar tus ideas. Al mismo tiempo, hay una especie de ensueño de confusión acerca de con quién trabajar y cuándo. Cuando asumes nueva seriedad, el dinero te sigue inevitablemente.
+Esta semana destaca la necesidad de actualizar tu conjunto de habilidades. El mejorar tu educación, no sólo te da más confianza en tus posibilidades, también logra que los demás tengan el habito de percibirte con el grado de experiencia que empiezas a tener. Es posible que necesites incorporar conocimientos de vidas pasadas. No hay necesidad de saber porque eres bueno/a en lo que haces, simplemente lo eres.

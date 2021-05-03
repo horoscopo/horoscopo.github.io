@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 26 de abril 2021 al 02 de mayo 2021 
-description: Horóscopo semanal escorpio 26 de abril 2021 al 02 de mayo 2021. Llega una buenísima semana Escorpio pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+title: escorpio 03 de mayo 2021 al 09 de mayo 2021 
+description: Horóscopo semanal escorpio 03 de mayo 2021 al 09 de mayo 2021. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-26'
+ lastmod: '2021-05-03'
 ---
 
 
 
-## Llega una buenísima semana Escorpio pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 
-No sabes cómo desviar tus sentimientos Escorpio, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Escorpio… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Escorpio. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Escorpio que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-Has estado atravesando una fase ocupada en la que es posible que hayas hecho muchos sacrificios para ayudar a los demás. Sin embargo, a partir del martes, el enfoque cambia cuando el conversador Mercurio y el simpático Venus ingresan a tu sector de relaciones. Esto puede animarte a expresar lo que piensas y a hacer un compromiso o llegar a otro tipo de acuerdo adecuado. A partir del jueves, el jovial Júpiter se vuelve retrógrado, lo que puede animarte a plantar las semillas que pueden aumentar tus ingresos a futuro. Puede que debas ser paciente.
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
+Tanto tu vida amorosa como las conexiones con tus colegas estarán en la agenda esta semana. Respecto a tu trabajo, quizás tengas que asistir a debates y consultas. Sea la relación que sea, te irá mejor si puedes evitar que demasiada de tu intensidad sea mostrada. Sin embargo, esto puede ser difícil durante la luna llena del jueves. Pero siempre y cuando no digas nada de lo que te puedas arrepentir, podrías descubrir que los demás traen oportunidades y opciones que de otra forma no habrías considerado.
 
 ## Dinero
 
-Estás pensando en cómo hacer que tu lado masculino y femenino se encuentren ésta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas mantenerte a la misma altura de los grandes. No tienes que dejar que los demás te dominen verbalmente. Tu lugar de trabajo es el área en la que debes demostrar la creatividad con la que estás hecho/a.
+Esta semana nadas en placer y estás cambiando mucho. Todo es cuestión de placer, belleza y creatividad para ti ahora conforme consideras la forma en la cuál exponerte al mundo. Considera el vestirte para el trabajo que deseas en lugar de para el que tienes. Los aspectos afectan tu sector de socialización y política. Es crucial dar una buena impresión en este momento para hacer que tus oportunidades de ganar dinero crezcan a través del tiempo.

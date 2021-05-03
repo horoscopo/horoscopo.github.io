@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 26 de abril 2021 al 02 de mayo 2021 
-description: Horóscopo semanal geminis 26 de abril 2021 al 02 de mayo 2021. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Géminis, ahora estás que lo partes.
+title: geminis 03 de mayo 2021 al 09 de mayo 2021 
+description: Horóscopo semanal geminis 03 de mayo 2021 al 09 de mayo 2021. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Géminis, pero sé constante.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-26'
+ lastmod: '2021-05-03'
 ---
 
 
 
-## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Géminis, ahora estás que lo partes.
+## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Géminis, pero sé constante.
 
-Parece que no todo va tan mal, no ¿Géminis? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-Mientras el enfoque continúa en tu sector de relaciones, la próxima semana podría encontrarte estableciendo contactos y, tal vez, revisando ideas, proyectos o incluso decisiones. Cuando el energizante Mercurio, que ahora está retrógrado, se alinea con el encantador Venus, puede que debas deshacer una promesa o un contrato que requieran ajustes debido a hechos recientes. El sábado, lo mejor sería esperar lo inesperado, ya que una invitación podría dar como resultado un resplandeciente encuentro. Finalmente, la luna nueva del domingo podría animarte a explorar más tal tema.
+Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
+Puede que otras personas te parezcan inspiradoras, cautivantes, e incluso a veces, confusas, pero seguro no te aburrirás. También te mantendrán adivinando. Sin embargo, tú tienes planes propios en los que debes enfocarte, por lo que deberías establecer el límite si una persona parece no cooperar por alguna razón. Una vez que hayas completado tu lista de asuntos pendientes, te sentirás mucho mejor por haberte puesto firme y tomado el control. Con Mercurio avanzando, cualquier frustración o demora puede comenzar a disiparse.
 
 ## Dinero
 
-Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.
+El Universo te apoya ahora, lo que indica un momento de renovada atención hacia el romance, los niños y la familia. Si trabajas en una de estas áreas, el dinero viene casi sin esfuerzo. Si tienes una idea para un producto o servicio que se enfoque en estos grupos demográficos, es un momento ideal para lanzar esto al mercado. Algo escrito o hablado puede ser el medio. Agarra pluma y papel y deja que la inspiración tome vuelo.

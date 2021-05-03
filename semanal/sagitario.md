@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 26 de abril 2021 al 02 de mayo 2021 
-description: Horóscopo semanal sagitario 26 de abril 2021 al 02 de mayo 2021. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Sagitario. Más que nunca…
+title: sagitario 03 de mayo 2021 al 09 de mayo 2021 
+description: Horóscopo semanal sagitario 03 de mayo 2021 al 09 de mayo 2021. Llega una semana bonita Sagitario, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Sagitario, y seguramente la persona que menos te esperabas…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-04-26'
+ lastmod: '2021-05-03'
 ---
 
 
 
-## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Sagitario. Más que nunca…
+## Llega una semana bonita Sagitario, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Sagitario, y seguramente la persona que menos te esperabas…
 
-No te arrepientas de abrirte Sagitario, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Sagitario, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Sagitario, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Sagitario, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
-Pareces estar en marcha y con ganas de acción esta semana, especialmente con Venus animándote a ponerte en contacto con posibles nuevas amistades. Este puede ser un momento ideal para organizar fiestas, celebraciones y otros eventos importantes. Si requieres de publicidad para una obra de caridad o negocio empresarial, cualquier tipo de campaña que hagas puede ser muy eficaz. Cuando Saturno entre de nuevo a Escorpión y a tu sector familiar, asegúrate de delegar responsabilidades adicionales que tengas. No cedas a la tentación de asumir toda la carga a solas.
+Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
+Con Júpiter, tu regente, avanzando en tu sector profesional y de metas el lunes, es posible que oportunidades que has estado esperando ahora comiencen a aparecer. Además, podrías recibir la ayuda un jefe, superior o autoridad que quiera verte tener éxito. Pero debido a que Mercurio está retrocediendo en tu sector de estilo de vida, tendrás que tener cuidado con papeleo, al enviar mensajes o negociar acuerdos. No dejes que ningún detalle se te escape. ¿Podría un romance de oficina florecer? ¡Es muy posible!
 
 ## Dinero
 
-Esta semana, te desafía cierto aspecto en tu sector de carrera y autoridad. Aunque puede traer noticias e incentivos adicionales a esta área, puede que no te sientas de lo mejor con lo que está sucediendo. O puede que lo percibas como un golpe a tu ego. Debes saber que lo que sucede no es personal y sólo mejorará tus oportunidades para el futuro.
+Es una gran semana para ti. Una gran cantidad de energía te rodea, y ahora podrás atraer lo que quieres y necesitas. En cuanto a dinero, vas en la dirección correcta y habrá más comunicación al respecto. Los aspectos demuestran que tu deuda actual está en descenso, gracias a tu esfuerzo diligente y la planificación. ¡Buen trabajo!
