@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de mayo 2021
-description: Horóscopos del dia de hoy 03 de mayo 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de mayo 2021
+description: Horóscopos del dia de hoy 04 de mayo 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-05-03
+ lastmod: 2021-05-04
 ---
-Todos ponen sus propias agendas primero bajo la Luna en Aries. La salida es tomar caminos separados y reunirse más tarde en lugar de discutir sobre ello. Esta noche, el Eclipse Lunar borra los recuerdos de aquello de lo que la gente huye o hacia dónde se dirige. ¡Deja de vivir en el pasado y permítete tener nuevos intereses y desafíos!
+Encuentra un buen equilibrio entre el exceso de trabajo y la exagerada diversión mientras el Sol forma trígono con Júpiter el día de hoy. Por la noche, continúa ese mismo sistema. Mientras que las vibraciones planetarias son afortunadas, demasiado de una cosa buena es una cosa mala; como lo dice la frase. Mantén despierta la magia dentro de ti y todo estará bien. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
