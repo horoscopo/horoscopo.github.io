@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 03 de mayo 2021 al 09 de mayo 2021 
-description: Horóscopo semanal virgo 03 de mayo 2021 al 09 de mayo 2021. Vete a tu cerebro, y borra Virgo, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Virgo. Deja salir para que pueda entrar lo demás.
+title: virgo 10 de mayo 2021 al 16 de mayo 2021 
+description: Horóscopo semanal virgo 10 de mayo 2021 al 16 de mayo 2021. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-03'
+ lastmod: '2021-05-10'
 ---
 
 
 
-## Vete a tu cerebro, y borra Virgo, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Virgo. Deja salir para que pueda entrar lo demás.
+## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 
-Necesitas tener un objetivo en la vida Virgo, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada Virgo, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
-Reserva tus intenciones románticas para la primera mitad de la semana. Una especial alineación entre Marte y Neptuno en tu sector de ocio y placer podría verte disfrutando de un par de citas espectaculares. Si tu vida amorosa ha sido un poco aburrida últimamente, esta es tu oportunidad para volver a encender la chispa. El Sol entra a tu sector hogareño y familiar a mitad de semana, animándote a tomarte un descanso y disfrutar de un masaje o un par de días de spa. ¡Es hora de consentirte!
+A veces, no es fácil vivir la vida Virgo, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera Virgo. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
+Tus palabras son poderosas esta semana, especialmente aquellas que escribiste en una tarjeta. Cierta persona podría tomárselo al pie de la letra, así que asegúrate de que sientas lo que dices sentir. Cuando de divertirse se trata, tú eres quien está al mando. Tú te encargas de sugerir planes y tu amor o tu interés romántico estará más que feliz de seguirte la corriente. Este fin de semana, el Sol abandona tu signo y entra a tu sector de finanzas personales, lo que indica que es tiempo de que las evalúes.
 
 ## Dinero
 
-Esta semana tienes un tipo especial de energía en el frente de trabajo. Parece que no puedes hacer nada mal, lo cuál es una buena cosa que mostrarle a tus superiores. Mientras que tu creatividad es fuerte y los sueños son fuente de inspiración, no elimines ciertos aspectos con tal de llegar a la meta más rápido. ¡So lo haces esta semana, sólo quedaras atrapado/a!
+Estás en el cielo con respecto a tu carrera esta semana. Estás asumiendo una posición más poderosa en el trabajo y disfrutas de los salarios y beneficios que van junto con ella. Tu sector de vidas pasadas y sueños se acentúa. Hay tantas cosas pasando por tu mente inconsciente que puedes hasta sorprenderte de la cantidad de buenas ideas que tienes una vez que éstas alcancen la superficie.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 03 de mayo 2021 al 09 de mayo 2021 
-description: Horóscopo semanal sagitario 03 de mayo 2021 al 09 de mayo 2021. Llega una semana bonita Sagitario, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Sagitario, y seguramente la persona que menos te esperabas…
+title: sagitario 10 de mayo 2021 al 16 de mayo 2021 
+description: Horóscopo semanal sagitario 10 de mayo 2021 al 16 de mayo 2021. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Sagitario. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-03'
+ lastmod: '2021-05-10'
 ---
 
 
 
-## Llega una semana bonita Sagitario, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Sagitario, y seguramente la persona que menos te esperabas…
+## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Sagitario. 
 
-Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
-Con Júpiter, tu regente, avanzando en tu sector profesional y de metas el lunes, es posible que oportunidades que has estado esperando ahora comiencen a aparecer. Además, podrías recibir la ayuda un jefe, superior o autoridad que quiera verte tener éxito. Pero debido a que Mercurio está retrocediendo en tu sector de estilo de vida, tendrás que tener cuidado con papeleo, al enviar mensajes o negociar acuerdos. No dejes que ningún detalle se te escape. ¿Podría un romance de oficina florecer? ¡Es muy posible!
+Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
+ No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
+Puedes sentir la motivación de revisar ciertos cambios y considerar cómo las cosas se han alterado desde que fueron implementadas. En este caso, el enfoque está en una transformación emocional más profunda que tal vez sea posible si puedes dejar ir a personas o situaciones que ya no te sirven. Pero este también puede ser un momento de reflexión, cuando la respuesta a un asunto familiar podría aparecer de la nada y llevar a una solución rápida. Aun así, sigue siendo sabio corroborar los hechos antes de seguir avanzando.
 
 ## Dinero
 
-Es una gran semana para ti. Una gran cantidad de energía te rodea, y ahora podrás atraer lo que quieres y necesitas. En cuanto a dinero, vas en la dirección correcta y habrá más comunicación al respecto. Los aspectos demuestran que tu deuda actual está en descenso, gracias a tu esfuerzo diligente y la planificación. ¡Buen trabajo!
+Las obras creativas y la acción se unen ahora. Esto va a cambiar la forma en la que conectas con grupos sociales, y es posible que empiece a hacerte pensar en cómo trabajar por cuenta propia en un futuro próximo. Este aspecto afirme que tus ideas son sólidas. Todo lo que necesitas es el coraje para hacer esta transición y ver a través de ella. El dinero viene cuando le das seguimiento a lo que has tenido la suerte de crear.

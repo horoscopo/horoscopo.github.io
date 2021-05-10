@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 03 de mayo 2021 al 09 de mayo 2021 
-description: Horóscopo semanal capricornio 03 de mayo 2021 al 09 de mayo 2021. Crece Capricornio, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+title: capricornio 10 de mayo 2021 al 16 de mayo 2021 
+description: Horóscopo semanal capricornio 10 de mayo 2021 al 16 de mayo 2021. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-03'
+ lastmod: '2021-05-10'
 ---
 
 
 
-## Crece Capricornio, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 
-Crees que puedes con todo Capricornio. 
- Es tan complicado…
-Puede que debas usar tus poderes de persuasión para convencer a tu familia de que tus ideas no tienen malas intenciones. Con el sol y el amoroso Venus alineándose con el apasionado Plutón, puede que otras personas tengan sus propios planes y esto podría demorar los tuyos. Después de todo, quizá debas poner tus ideas en marcha para mostrarles que hablas en serio. Una vez que lo entiendan, puede que te apoyen por completo. Trata de ser flexible con tus planes sociales durante el fin de semana.
+Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
+Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
+Las relaciones están bajo enfoque esta semana, tanto con el Sol como Mercurio animándote a hacer un balance de tus amistades, tu vida social y tus conexiones más cercanas. De hecho, este aspecto se combina con Venus y Saturno en un sector sensible de tu carta animándote a reescribir el plan o las reglas silenciosas dentro de determinadas asociaciones con el fin de mejorar la situación. En lo que respecta a finanzas, puede que gastes dinero justo cuando te dirigías por buen camino. Evita hacer esto, ya que podría causarte problemas innecesarios.
 
 ## Dinero
 
-Esta semana se trata de tu dinero y valores. Puede ser una buena semana con más oportunidades de ganar dinero en el camino que aparentemente surgen de la nada. Esto significa que por el momento es posible que tengas que pasar más tiempo en el trabajo y menos tiempo socializando. Es posible que tus grupos sociales te estén drenando al pedir demasiado de ti, creando mucha tensión y fatiga.
+Esta semana podría ser considerada como un cese al fuego. Los aspectos en tu casa de vidas pasadas, sueños y karma estresan la importancia del ser amable con los demás. ¿Recuerdas los modales que te enseño mamá? También recuerda que atraes más abejas con miel. Todo mejorará con el tiempo, ten paciencia.
