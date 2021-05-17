@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 10 de mayo 2021 al 16 de mayo 2021 
-description: Horóscopo semanal piscis 10 de mayo 2021 al 16 de mayo 2021. Eres un signo de agua, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+title: piscis 17 de mayo 2021 al 23 de mayo 2021 
+description: Horóscopo semanal piscis 17 de mayo 2021 al 23 de mayo 2021. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Piscis. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,19 +12,18 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-10'
+ lastmod: '2021-05-17'
 ---
 
 
 
-## Eres un signo de agua, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Piscis. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
 
-No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
- sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
-Presta atención a tus conversaciones, en especial el martes, momento en el que la luna llena se encuentra en tu sector de comunicación. Debido a que está en Sagitario, un signo muy abierto y honesto, puede que sientas la tentación de decir lo que piensas. Pero ¿es esto lo más inteligente? Quizás lo mejor sea mostrar la mayor diplomacia y sensibilidad posibles. El resultado probablemente será mejor si puedes hacerlo.
-Cuando el expresivo Mercurio se une al sol en tu sector de viajes el martes, la idea de volar hacia tierras lejanas podría ser muy atractiva. Si tienes la oportunidad, esta sería una excelente ocasión para tomar un descanso. Estar en otro lugar tiene un efecto realmente restaurador.
-El fin de semana podría traer consigo un pequeño pero lucrativo contrato u oportunidad para impresionar a alguien importante. Tal vez necesites sacrificar parte de tu tiempo, pero el resultado podría valer la pena.
+Céntrate en tus metas Piscis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+Trata con calma los asuntos financieros durante la primera parte de la semana. Podrías sentir la tentación de gastar en algo, lo que tal vez no sea útil. Cuando el conversador Mercurio se alinea con el soñador Neptuno y el jovial Júpiter el martes, inspiradoras conversaciones y pensamientos de venta con respecto a cómo puedes beneficiarte de esta compra podrían animarte. Date unos días para pensar en ello. Si todavía quieres hacer la compra, hazla. Si no es así, ahorrarás dinero. 
+A mitad de semana, podrías tener una actitud bastante proactiva en lo que respecta a conectar con las personas correctas. Una nueva conexión en un evento clave podría ser importante para ti en el futuro.
+Por último, una encantadora combinación de energías durante esta semana podría conectarte con alguien muy especial y espiritual. Este encuentro podría tener potencial para conectarte con tu alma gemela, pero también podría sugerir la presencia de un profesor o entrenador que te ayude a resolver un complicado problema.
 
 ## Dinero
 
-Puede que estés pensando en grande esta semana. Puede que sientas tentación de buscar profesionales calificados para que te ayuden a poner tus finanzas en orden. O puede ser que finalmente hayas decidido el no vivir día al día. Utiliza tu inteligencia nativa y tu poder organizacional para lograr un plan que te asegure el tener lo que quieres lograr. Mantén un claro enfoque en alcanzar tus metas.
+Esta semana hay actividad en tu sector de dinero, la cuál está desacelerando lo que ganas actualmente. Podrías llegar a sentir como si no pudieras hacer que nada avanzara, pero sabe que es sólo temporal. El Universo no restringe por crueldad, sino como una manera de alentarnos a ser más cuidadosos y responsables con el dinero. Acude a tus amigos, conocidos y compañeros de trabajo para ayudarte a salir bien de los raspones.

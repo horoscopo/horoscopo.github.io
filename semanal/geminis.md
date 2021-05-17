@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 10 de mayo 2021 al 16 de mayo 2021 
-description: Horóscopo semanal geminis 10 de mayo 2021 al 16 de mayo 2021. Hay cosas que no quieres que ocurran pero que debes aceptar Géminis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+title: geminis 17 de mayo 2021 al 23 de mayo 2021 
+description: Horóscopo semanal geminis 17 de mayo 2021 al 23 de mayo 2021. Géminis, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-10'
+ lastmod: '2021-05-17'
 ---
 
 
 
-## Hay cosas que no quieres que ocurran pero que debes aceptar Géminis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+## Géminis, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 
-A veces las cosas tienen que ser a tu manera o a ninguna Géminis, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada Géminis. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
-A partir del martes, tu sector de hogar estará en el centro de atención a medida que el conversador Mercurio y el encantador Venus ingresan a éste. Las próximas semanas pueden ser excelentes para recibir invitados, embellecer tu hogar y aprovechar al máximo la compañía de tus seres queridos. Al mismo tiempo, el jovial Júpiter ingresa a su fase de retroceso el jueves, lo que podría animarte a volver a ponerte en contacto con viejas amistades o socios, en especial si quieres volver a entablar la relación. Sin embargo, ve con tranquilidad el fin de semana, en especial si sientes que se acerca un impulsivo estado de ánimo.
+No pelees Géminis, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente Géminis, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador Géminis, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
+Si te has unido a un grupo hace poco o has pensado al respecto, la Luna Nueva de hoy puede confirmar que estás yendo por el camino adecuado. Puede que sientas que estás en el lugar indicado ya que las personas con las que conectas parecen volverse tus amistades de inmediato, lo cual puede ser muy reconfortante. A medida que Mercurio, tu planeta personal, entra a un sector más alejado de tu carta en los últimos días de la semana, te vendrían bien unos períodos de reflexión.
 
 ## Dinero
 
-Esta semana estás lidiando con un tipo de energía preocupante. El Universo quiere que intercambies información con los que te rodean, en especial respecto a tu vida monetaria. De hecho, puede que estés tan ocupado/a con tus planes de aumentar tu conocimiento que no tienes tiempo para atender a las demandas de tu lugar de trabajo. Error en el campo de la comunicación. Tu ambición depende de tu capacidad de decirle claramente a los demás lo que necesitas y deseas.
+Te sientes bien contigo mismo/a y con todo lo que estás tratando de hacer en el mundo. Tus relaciones personales y profesionales tienden a ser cálidas ahora. Sin embargo, tu vida en el hogar y los sentimientos interiores puede andar algo turbulentos y agitados. Todo irá mejor la próxima semana.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 10 de mayo 2021 al 16 de mayo 2021 
-description: Horóscopo semanal aries 10 de mayo 2021 al 16 de mayo 2021. Estás en una etapa súper confusa Aries, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+title: aries 17 de mayo 2021 al 23 de mayo 2021 
+description: Horóscopo semanal aries 17 de mayo 2021 al 23 de mayo 2021. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-10'
+ lastmod: '2021-05-17'
 ---
 
 
 
-## Estás en una etapa súper confusa Aries, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 
-Abre los ojos de una vez Aries. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas Aries, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero Aries, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también Aries. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. Aries por favor, te tenían que tener en un altar… Y lo sabes…
-Si te ha costado resolver un problema, podrías percatarte de que las respuestas te llegan más fácilmente. Se te ocurre una solución cuando hablas con los demás, cuando lees o cuando tu curiosidad te lleva a buscar en lugares que nunca antes habías pensado. Esta es tu oportunidad para pensar de manera original. Más allá de esto, te entusiasma una oportunidad que puede guiarte hacia una nueva dirección.
+Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien Aries pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
+Trata de no cargarte de demasiadas tareas imposibles desde el comienzo, ya que podría resultarte difícil alcanzar tus expectativas. Si eres realista, puedes lograr mucho. A medida que avanza la semana, el enfoque podría virar hacia actividades más relajadas. Cuando Venus ingresa a tu sector doméstico, es momento de darte algunos gustos y cuidar de ti, en especial si tu agenda ha estado repleta con preparativos o eventos sociales. Mercurio, tu planeta regente, se vuelve retrógrado el sábado. Terminar cualquier tarea u obligación que tengas antes de tiempo puede serte muy útil.
 
 ## Dinero
 
-Puede que sientas un poco de tensión esta semana. Dado que el efecto es en el sector social, las personas pueden comportarse de forma inesperada o no estar allí cuando les necesites. Además, alguien puede desenterrar todo tipo de cosas en relación a tu zona de deudas. No dejes de levantar ninguna piedra y asegúrate dos so tres veces de haber pagado los saldos pendientes. No necesitas ninguna sorpresa por ahora.
+Tienes una semana monetaria interesante por delante. Esto puede ser extremadamente afortunado, así que mantén los ojos bien abiertos para todo tipo de nuevas oportunidades de ganar y recibir el dinero que ya se encuentre en camino. El Universo afecta la forma en la que actualmente estás pagando tu pendiente deuda. Un ritmo lento pero constante gana la carrera en todo momento.
