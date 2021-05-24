@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 17 de mayo 2021 al 23 de mayo 2021 
-description: Horóscopo semanal aries 17 de mayo 2021 al 23 de mayo 2021. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: aries 24 de mayo 2021 al 30 de mayo 2021 
+description: Horóscopo semanal aries 24 de mayo 2021 al 30 de mayo 2021. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Aries, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-17'
+ lastmod: '2021-05-24'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Aries, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 
-Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien Aries pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
-Trata de no cargarte de demasiadas tareas imposibles desde el comienzo, ya que podría resultarte difícil alcanzar tus expectativas. Si eres realista, puedes lograr mucho. A medida que avanza la semana, el enfoque podría virar hacia actividades más relajadas. Cuando Venus ingresa a tu sector doméstico, es momento de darte algunos gustos y cuidar de ti, en especial si tu agenda ha estado repleta con preparativos o eventos sociales. Mercurio, tu planeta regente, se vuelve retrógrado el sábado. Terminar cualquier tarea u obligación que tengas antes de tiempo puede serte muy útil.
+Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
+Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
+Aunque esta es una semana de decisiones y nuevos comienzos para ti, ciertas cosas podrían no ser tan claras como parecen. Con Mercurio retrocediendo en tu signo y Júpiter girando hacia atrás en tu sector de viajes y aventura, puede que tengas que analizar un par de cosas antes de poder ponerlas en marcha. De hecho, la Luna Nueva del jueves en tu signo podría ser una invitación a poner en orden cierto plan antes de actuar. Si lo haces, podrías evitarte complicaciones innecesarias.
 
 ## Dinero
 
-Tienes una semana monetaria interesante por delante. Esto puede ser extremadamente afortunado, así que mantén los ojos bien abiertos para todo tipo de nuevas oportunidades de ganar y recibir el dinero que ya se encuentre en camino. El Universo afecta la forma en la que actualmente estás pagando tu pendiente deuda. Un ritmo lento pero constante gana la carrera en todo momento.
+Esta semana se trata de aspectos afortunados que afectan tu sector del karma, las vidas pasadas y los sueños, así como el sector del hogar. Tus sueños pueden ser muy vivos y llenos de ideas sobre cómo traer más dinero, así que presta mucha atención a lo que dicen. Mientras tanto, el sector del hogar no está nada claro. Pon un poco de pensamiento en cuanto a si tiene sentido seguir pagando la misma renta o sería mejor trasladarse a un lugar más barato.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 17 de mayo 2021 al 23 de mayo 2021 
-description: Horóscopo semanal piscis 17 de mayo 2021 al 23 de mayo 2021. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Piscis. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+title: piscis 24 de mayo 2021 al 30 de mayo 2021 
+description: Horóscopo semanal piscis 24 de mayo 2021 al 30 de mayo 2021. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,18 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-17'
+ lastmod: '2021-05-24'
 ---
 
 
 
-## A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Piscis. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad.
+## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 
-Céntrate en tus metas Piscis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-Trata con calma los asuntos financieros durante la primera parte de la semana. Podrías sentir la tentación de gastar en algo, lo que tal vez no sea útil. Cuando el conversador Mercurio se alinea con el soñador Neptuno y el jovial Júpiter el martes, inspiradoras conversaciones y pensamientos de venta con respecto a cómo puedes beneficiarte de esta compra podrían animarte. Date unos días para pensar en ello. Si todavía quieres hacer la compra, hazla. Si no es así, ahorrarás dinero. 
-A mitad de semana, podrías tener una actitud bastante proactiva en lo que respecta a conectar con las personas correctas. Una nueva conexión en un evento clave podría ser importante para ti en el futuro.
-Por último, una encantadora combinación de energías durante esta semana podría conectarte con alguien muy especial y espiritual. Este encuentro podría tener potencial para conectarte con tu alma gemela, pero también podría sugerir la presencia de un profesor o entrenador que te ayude a resolver un complicado problema.
+No estás mal con lo que tienes no, pero ya no eres el mismo que antes Piscis. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala Piscis, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Piscis. Si quieres cambiar algo es porque no estás satisfecho del todo Piscis, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+Tus relaciones se ven más vivas que nunca, especialmente con el Sol ahora entrando a este sector y trayéndote muchas opciones para socializar, interactuar y llevar una asociación clave al siguiente nivel. Este puede ser uno de los mejores momentos para entrar al mundo de las citas o crear una asociación de negocios o de otros intereses. En relación a perseguir uno de tus objetivos o planes, podrías encontrarte en un dilema a mitad de semana. Si es así, tómalo con calma y ve con la corriente.
 
 ## Dinero
 
-Esta semana hay actividad en tu sector de dinero, la cuál está desacelerando lo que ganas actualmente. Podrías llegar a sentir como si no pudieras hacer que nada avanzara, pero sabe que es sólo temporal. El Universo no restringe por crueldad, sino como una manera de alentarnos a ser más cuidadosos y responsables con el dinero. Acude a tus amigos, conocidos y compañeros de trabajo para ayudarte a salir bien de los raspones.
+Es una semana de confusión conforme varios aspectos tensamente chocan en el cielo. Los efectos en tu sector de trabajo infieren que se requiere de más atención antes de que puedas subir de posición y ganar la cantidad de dinero que deseas. Busca programas de educación en los que tu compañía quiera pagar en parte o completamente.

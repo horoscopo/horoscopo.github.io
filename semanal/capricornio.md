@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 17 de mayo 2021 al 23 de mayo 2021 
-description: Horóscopo semanal capricornio 17 de mayo 2021 al 23 de mayo 2021. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+title: capricornio 24 de mayo 2021 al 30 de mayo 2021 
+description: Horóscopo semanal capricornio 24 de mayo 2021 al 30 de mayo 2021. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-17'
+ lastmod: '2021-05-24'
 ---
 
 
 
-## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 
-No es que estés cambiando Capricornio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
-Tu vida social se ha mantenido ocupada, pero tendrá un brillo extra cuando el Sol ingrese a este sector durante un período de cuatro semanas. Y con Mercurio retrógrado, este podría ser un momento para encuentros o reuniones familiares que disfrutarás mucho. Marte también se mueve a un sector más privado de tu carta, lo que podría alterar tus sueños y tu psiquis. Esta es una oportunidad para explorar los patrones internos,  los funcionamientos profundos de tu mente y comprender mejor qué debes saber acerca de ti.
+Tienes que enderezar un poco tu vida Capricornio, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
+Podrías sentir como si estuvieras a punto de experimentar un nuevo amanecer. La Luna Nueva de esta semana en tu sector de comunicación sugiere que es hora de explorar nuevas oportunidades para interactuar, hacer nuevos contactos y valiosas conexiones. Con Marte entrando a tu sector de relaciones, sentirás inspiración para explorar formas de asociarte con otras personas por razones ya sea de negocios o placer. Este fin de semana, puede que tengas que tomarte tu tiempo, ya que varios aspectos sugieren que sería mejor que no te precipitaras a tomar decisiones clave.
 
 ## Dinero
 
-Tienes algunos retos esta semana. Aunque te sientas con energía para tenerlo todo listo, puede que tengas algunos problemas en tu lugar de trabajo o cuando se trata de tus grandes metas profesionales. Este pequeño contratiempo es sólo eso. Se moverá hacia el pasado casi tan pronto como suceda. El Universo te pide que seas audaz y te enfoques ahora.
+Estás atrapado/a en un dilema. Hay acción en el frente interno y oportunidades en el frente de profesión. Sin embargo, te estás conduciendo por un estrecho sendero hacia tu situación de relación. Sólo puedes estar a solas por un determinado tiempo. Haz un esfuerzo por busca a personas que te puedan ser de ayuda.

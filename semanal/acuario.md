@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 17 de mayo 2021 al 23 de mayo 2021 
-description: Horóscopo semanal acuario 17 de mayo 2021 al 23 de mayo 2021. Llega una buena semana Acuario, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+title: acuario 24 de mayo 2021 al 30 de mayo 2021 
+description: Horóscopo semanal acuario 24 de mayo 2021 al 30 de mayo 2021. No desaproveches las oportunidades más Acuario, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-17'
+ lastmod: '2021-05-24'
 ---
 
 
 
-## Llega una buena semana Acuario, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+## No desaproveches las oportunidades más Acuario, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
 
-Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte Acuario, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo Acuario, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande Acuario pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
-Este es el momento de mostrar tus habilidades y capacidades conforme Venus, tu planeta personal, entra a tu sector de creatividad. Este astro estará en uno de los lugares más altamente expresivos de tu carta solar; así que no dudes en mostrar tus impresionantes talentos. Alguien que te está observando podría quedar fascinado. Podrías comenzar a analizar tus hábitos un poco más críticamente una vez que el Sol entre a tu sector de estilo de vida el jueves. Hacerlo podría dar lugar a algunos cambios importantes.
+En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien Acuario…
+Puede que sientas mucha empatía por las demás personas una vez que la semana se pone en marcha, y esto podría tener un impacto positivo en el crecimiento de ciertas relaciones. Pero tener demasiada compasión puede que no siempre resulte a tu favor, y hay momentos en los que puede hasta ser inapropiado, como en el lugar de trabajo. Si no sabes qué hacer, no dudes en pedir ayuda. La Luna Nueva en este mismo sector ofrece la posibilidad de comenzar de nuevo con respecto a una oportunidad o una relación.
 
 ## Dinero
 
-Tu saldo bancario crece cada vez más y más. ¡Es tiempo de celebrar! Eso sí, no dejes que tu típico exceso drene lo que has ganado con tanto esfuerzo. Mientras tanto, tu carrera está estallando de manera positiva para ti ahora,  y a medida que aumentan las responsabilidades, tu estado mejora y tu trabajo adquiere la forma de comunicación con la que sólo has soñado antes. Prepárate para la llegada, ya te encuentras cerca.
+Tu vida laboral puede ser más difícil de lo normal esta semana, pero estás aprendiendo habilidades importantes que te podrán arriba en la cadena alimenticia. Mientras tanto, tu carrera está pasando por un montón de cambios. Toma un paso a la vez para una mayor recompensa.

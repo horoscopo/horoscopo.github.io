@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 17 de mayo 2021 al 23 de mayo 2021 
-description: Horóscopo semanal sagitario 17 de mayo 2021 al 23 de mayo 2021. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+title: sagitario 24 de mayo 2021 al 30 de mayo 2021 
+description: Horóscopo semanal sagitario 24 de mayo 2021 al 30 de mayo 2021. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-17'
+ lastmod: '2021-05-24'
 ---
 
 
 
-## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
 
-Siempre estás sonriendo Sagitario, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes Sagitario pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio Sagitario, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
-La semana tiene un comienzo dinámico con la Luna Llena en tu sector de estilo de vida alentando a olvidarte de tu dieta o rutina de ejercicio y disfrutar de la vida. El Sol ingresa a Cáncer ese mismo día, aumentando tu vitalidad y animándote a avanzar en proyectos que han estado en un segundo plano. Mantente alerta este fin de semana, cuando no querrás perderte de una posible oportunidad o lucrativa colaboración. Ciertamente es algo a tener en cuenta.
+Por fin vas a finalizar ciclos Sagitario, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse Sagitario, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres Sagitario joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien Sagitario. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana Sagitario, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
+Hay ciertas cosas que preferirías mantener en secreto en este momento, así que no te sientas culpable de hacerlo. Aun si tus mejores amigos te insisten en que les cuentes, no hay razón por la que debas. Sabrás cuándo será el momento de ponerlos al tanto, pero hasta entonces, el silencio puede ser algo muy preciado. Aun así, con Marte en tu signo, tus acciones pueden valer más que las palabras. Esto sugiere que podrías dejarte en evidencia sin darte cuenta.
 
 ## Dinero
 
-A pesar de que tu mente se encuentra tanto en posibles viajes como en el aprendizaje en este momento, fomentarte más educación puede ser tu mejor apuesta. Las certificaciones pueden traerte un mayor flujo de efectivo y establecerte como una fuerza en tu industria en particular. Mientras tanto, se te insta a centrarte más en cómo puedes ampliar tu base de clientes. Las ventas de bienes y servicios dependen de ello.
+Te sientes más libre para tomar riesgos con tus habilidades comunicativas. Esto da frutos cuando se trata de la búsqueda de nuevo empleo o esfuerzos para batallar en contra de retrasos financieros. Tienes más de una oportunidad de ganar más dinero mediante la adopción de horas extras o de un trabajo de tiempo parcial. Pero ciertos aspectos están sacudiendo tu sector de trabajo de una manera que puedes encontrar desagradable. Si tu empresa parece inestable, imprime currículums y comienza a enviarlos.
