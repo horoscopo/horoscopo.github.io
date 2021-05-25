@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de mayo 2021
-description: Horóscopos del dia de hoy 24 de mayo 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de mayo 2021
+description: Horóscopos del dia de hoy 25 de mayo 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-05-24
+ lastmod: 2021-05-25
 ---
-Dimos pasos hacia atrás, ahora podemos comenzar a avanzar de nuevo. Respira un suspiro de alivio cuando Mercurio se torne directo esta mañana. Aunque las actividades mentales son buenas durante todo el día, esta noche hace hincapié en complicados sentimientos; lo que significa que no es buen momento ni para saltar a conclusiones, ni para ponerse demasiado serios mientras la luna aspecte a Plutón.
+El giro de los acontecimientos puede ser sorpresivo cuando el Sol cuadre a Urano, el planeta de lo inesperado. Ve con ello y fluye con la corriente universal. Las emociones son completamente herméticas cuando la Luna aspecta a Plutón esta noche. Solteros, iniciar un romance podría traerles más complicaciones en la vida.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
