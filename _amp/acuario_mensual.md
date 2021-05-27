@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo acuario mayo 2021 
+title: Horoscopo acuario junio 2021 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
@@ -14,7 +14,4 @@ sitemap:
 ---
 
 
-El 5 de mayo, Venus forma una oposición con Plutón. Si un interés amoroso se descarrila o da una vuelta por el lado salvaje, tú no necesitas ir también. Tu cabeza puede estar divagando cuando la luna está nueva el día 13. Siente curiosidad por todo, y no esperes profundizar demasiado en una cosa. El mundo es amplio. Saboréalo ampliamente. Hazte tiempo extra para el hogar si puedes durante la luna llena del 27 de mayo. Sientes la motivación de terminar algunas tareas domésticas que te han apremiado por un tiempo. Sin embargo, una obligación social puede competir con esto. 
-
-Días destacados: 1, 13, 16
-Días desafiantes: 21, 25
+Los asuntos monetarios están iluminados por la luna llena del 5 de junio. Un favor hecho en el pasado reciente puede regresar ahora en tu beneficio. Tal vez necesitas hacer algo por tu cuenta para hacer que esto comience, pero un pequeño esfuerzo debería ser suficiente. El 10 de junio, Júpiter sale de Libra y entra al emocional Escorpión. Relaciónate sentimentalmente a un nivel más profundo y constructivo. La luna nueva del 19 de junio te da la oportunidad de hacer una gran diferencia haciendo lo que para ti es pequeño, fácil y simple. Sin embargo, trata de no crear expectativas de gratitud apasionadas y exageradas. 

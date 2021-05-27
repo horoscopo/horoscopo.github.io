@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo aries mayo 2021 
+title: Horoscopo aries junio 2021 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Las emociones se desatan durante la Luna Llena y el Eclipse Lunar del 7 de mayo. Si sientes nervios o hipersensibilidad, escucha música o camina para despejar tu mente. ¿Para qué estresarte sin motivos? Sé amable contigo, relájate y restablece tu equilibrio. El trígono que Venus forma con Neptuno el 11 de mayo te sensibiliza hacia algo que alguien ha estado intentando decirte. La Luna Nueva y el Eclipse Solar total el 21 de mayo te llevan a hacer buenas obras para ti y para otros. Concéntrate en ti primero. No es egoísta, y te sentirás más fuerte y más capaz de hacer todas las otras buenas acciones. 
+El ciclo retrógrado de Mercurio termina el 3 de junio, y ya era hora. La impaciencia desaparece a medida que progresas en una relación o un proyecto. La Luna Llena del 10 de junio es intensa y apasionada. Un amante ideal podría buscarte entre la multitud. Puede que no dure para siempre, pero podría ser genial mientras dure. Deléitate con la atención, pero no alientes la situación más de lo que te gustaría. La Luna Nueva del 25 de junio te brinda recursos que no sabías que existían. Úsalos para ganar más fuerza y resiliencia. Algunas personas que casi no conoces pueden revelarse como aliados poderosos y en quienes puedes apoyarte. No permitas que la duda instantánea se apodere de ti. 

@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo tauro mayo 2021 
+title: Horoscopo tauro junio 2021 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
@@ -14,4 +14,6 @@ sitemap:
 ---
 
 
-La Luna Nueva del 7 de mayo trae consigo un sinfín de locas y brillantes ideas. Sin embargo, trata de guardarte algunas de ellas. Si un proyecto que es especial para ti parece ser prudente y posible, ponlo en acción sin antes expresárselo a nadie. De inmediato sabrás quien te apoyará. Tu vida romántica brilla durante la Luna Llena del 21 de mayo. Aférrate a tus típicas visiones amorosas idealistas y permite que alguien especial te consienta. Podrías recibir un regalo ya sea para ti o para tu hogar. Además, una relación temporal podría volverse más permanente. Tu estrella regente, Venus, entra a tu signo el 29 de mayo. Espera que tu vida diaria se vuelva más dulce, cómoda y adopte un ritmo más lento.
+Venus ingresa a Tauro el 6 de junio. La vida se vuelve más sencilla y bonita. Estás de humor para consentirte y sentir más comodidad. No te excedas con los gustos ni te extralimites con el presupuesto, ¿de acuerdo? La vida diaria podría complicarse brevemente cerca de la Luna Llena del 9 de junio, y las personas pueden hacer que parezca peor de lo que es. Hay un trasfondo de muchas cosas buenas que están sucediendo y que todos están pasando por alto. Mantén la organización y motivación. La Luna Nueva del 23 de junio activa tu círculo de amistades y vecinos. Despierta tu curiosidad por nuevas tiendas o parques cercanos, y descubre cosas divertidas. Deja que tu atención fluya hacia una nueva novela cómica o gráfica.
+
+Mejores días: 1, 3, 20Peores días: 11, 19

@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo geminis mayo 2021 
+title: Horoscopo geminis junio 2021 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Declara tu independencia y reclama más espacio personal y tiempo bajo la luna llena del 1 de mayo. Tanto amistades como familiares tienen muchos planes geniales, pero tu mundo será mayor y más rico cuando te enfoques en ti. Amistades y gente del vecindario pueden distraerte durante la luna nueva del día 16. Disfruta del contacto social y no te preocupes por agotar tu energía. Ahora tienes bastante. El 31 de mayo, una segunda luna nueva (y eclipse lunar) podrían presentarte una oportunidad profesional que está destinada a mejorar tu posición y reputación. Mira más allá de tus inseguridades inmediatas y haz lo correcto.
+La mejor compañía de la cual rodearte podría ser la tuya propia bajo la Luna Nueva del 4 de junio. El tiempo que pases descansando ahora es muy valioso. Lee -o escribe- tu libro en paz y no te preocupes por lo que piensen los demás. Utiliza la energía de la Luna Llena del 20 de junio para enfocar tu energía en cómo deseas que tu temporada de verano sea. No tengas prisa por complacer a nadie en específico o acudas a ningún lugar elegido por otra persona. Aprende a satisfacerte a ti un poco más a menudo. Tu vida hogareña podría comenzar a avivarse una vez que Marte se vuelva directo y Mercurio entre a tu signo el 29 de junio.

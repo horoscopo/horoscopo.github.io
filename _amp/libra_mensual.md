@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo libra mayo 2021 
+title: Horoscopo libra junio 2021 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El 3 de mayo, la conjunción entre Venus y Urano hace que el amor se vuelva salvaje y loco, si quieres tener una relación más aventurera. La vida social tararea alegremente durante la Luna Llena del 9 de mayo. Puede que sea difícil elegir entre todos los eventos y las invitaciones que te lleguen. Las personas quieren ser adorables y entretenidas. Disfruta de los muchos buenos sentimientos. Decide comer más sabiamente y tratar bien a tu persona bajo la Luna Nueva del 23 de mayo. Ponte el objetivo de reducir el estrés de tu vida y siente la virtud de hacerlo. Si no cuidas mejor de tu persona, ¿quién lo hará?
+La Luna Llena del 9 de junio ilumina tu imagen pública y tus planes profesionales. Sin importar qué tan tentativa o incompleta pueda ser una oferta u oportunidad, puedes percibir qué está pasando realmente y puedes relacionarte bien con las personas involucradas. Usa toda tu intuición, instinto e impulso. Neptuno se vuelve retrógrado en Piscis el 16 de junio. Ahora, los sentimientos y sueños fluyen más profundamente y con más fuerza. La Luna Nueva del 23 de junio te recuerda que debes divertirte de gran manera. Tu felicidad será contagiosa, y las personas querrán seguir tu ejemplo. Haz algo radicalmente distinto y no lo pienses demasiado.

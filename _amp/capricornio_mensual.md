@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo capricornio mayo 2021 
+title: Horoscopo capricornio junio 2021 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
@@ -14,9 +14,4 @@ sitemap:
 ---
 
 
-La vida social se pone brillante y ocupada durante la luna nueva y eclipse solar del 12 de mayo. Si recibes una gran invitación, considera ir. La gente te echará de menos si no apareces. Aparte, debería ser un momento de diversión. Mercurio se torna retrógrado el día 25. Reduce la velocidad y presta más atención a lo que puede necesitar el tiempo extra. 
-
-La luna llena y el eclipse lunar del 27 de mayo podrían generar algo de inseguridad o suposiciones. No te metas ahí. Piensa bien lo que merece atención, y no te tomes tan a pecho las opiniones de nadie. Confía en tus decisiones y ten seguridad de tus acciones. 
-
-Días destacados: 14, 19, 29
-Días desafiantes: 2, 5</div>
+Alrededor de la luna llena del 3 de junio, explora tu creatividad y embellece tu hogar, guardarropas o cualquier cosa que valores y a la que te gustaría darle una apariencia renovada. Ponte audaz y disfruta de un poco de diversión alocada y salvaje con muchas amistades. La luna nueva del día 18 te indica que te prepares para una vida social fantástica en las próximas semanas. Sé popular y permite que te traten extremadamente bien. No hay nada de malo en que te mimen, siempre y cuando lo aprecies. El 27 de junio, la conjunción entre Mercurio y Saturno podría reducir la velocidad y tal vez cambiar la dirección de una relación en desarrollo. 
