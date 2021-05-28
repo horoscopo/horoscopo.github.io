@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de mayo 2021
-description: Horóscopos del dia de hoy 27 de mayo 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de mayo 2021
+description: Horóscopos del dia de hoy 28 de mayo 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-05-27
+ lastmod: 2021-05-28
 ---
-Los resultados podrían ser alucinantes bajo el trígono entre Mercurio y Plutón de hoy. Esta noche, en una optimista analogía, la Luna fuera de curso podría simbolizar la posibilidad de guardar lo mejor para el final. Este aspecto le aplica una enfocada importancia a algo (o alguien). Si suena como un eco del tema de hoy, tienes razón.
+Te encuentras bajo una impredecible Luna en Acuario. Sé flexible y adáptate rápido a las nuevas oportunidades. ¡Piensa en ello como diversión no anunciada! Venus y Saturno todavía tienen influencia cuando se trata de responsable placer. Es la noche adecuada  para las buenas acciones y las conexiones igual de positivas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
