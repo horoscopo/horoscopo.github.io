@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 24 de mayo 2021 al 30 de mayo 2021 
-description: Horóscopo semanal escorpio 24 de mayo 2021 al 30 de mayo 2021. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+title: escorpio 31 de mayo 2021 al 06 de junio 2021 
+description: Horóscopo semanal escorpio 31 de mayo 2021 al 06 de junio 2021. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Escorpio.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,20 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-24'
+ lastmod: '2021-05-31'
 ---
 
 
 
-## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Escorpio.
 
-Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
- aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
-El martes trae consigo una luna llena en tu signo, lo que podría convertirte en el centro de atención. Tus sentimientos podrían estar en la superficie y tal vez sea más sencillo expresarlos que guardártelos. Sin embargo, esta fase lunar podría animarte a hablar con máxima honestidad, lo que puede afectar a aquellos que son más sensibles. Si debes discutir algo importante, trata de hacerlo de la manera más gentil y cuidadosa posible.
-También el martes, el interactivo Mercurio se une al sol en tu sector de relaciones. Su presencia aquí podría impulsarte a buscar los compromisos y demostrar más diplomacia.
-El viernes, una encantadora conexión entre el delicioso Venus y el jovial Júpiter, tu planeta regente, podría coincidir con un encuentro muy conmovedor con un ser querido que mejore su intimidad de una hermosa manera. 
-Por último, es posible que puedas obtener un dinero extra si escuchas a tus instintos.
+La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace Escorpio… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas Escorpio, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+Si la semana comienza un poco incómoda, no dejes que esto te detenga. Alguien puede negarse a escuchar tus sugerencias, pero podría cambiar de opinión y aceptar tu manera de pensar si eres paciente. Incluso en este panorama, las ideas creativas pueden fluir y los próximos días podrían resultarte útiles para comenzar un nuevo proyecto o empresa comercial. También podrían inspirarte las actividades culturales. Si visitas una exposición o vas a un concierto, puede que obtengas ideas que puedes aplicar al arte u oficio que practicas.
 
 ## Dinero
 
-Esta semana te preparas para lo peor cuando se trata de rembolsar cualquier dinero que debas. Es posible que te estés esforzando para finalmente deshacerte de esa sensación de deuda y encontrar esa maravillosa libertad que viene de la reducción de saldo en las tarjetas de crédito. Estás trabajando hacia esta realidad poco a poco. Mientras tanto, piensa en cómo puedes usar tu creatividad e intuición en tu vida de inversión. Puede que encuentres algunas ideas lucrativas en los lugares más extraños, así que debes mantener apertura.
+Esta semana se trata de aspectos que afectan tus áreas de romance, niños, familia y diversión. Mientras que puedes tener la tentación de no ir al trabajo para darte una corta escapada, ¡tratar de resistirte! Es mejor aplicar tu energía a resolver un problema que es común en tu área. Ganar más dinero va a ser fácil cuando lo hagas.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 24 de mayo 2021 al 30 de mayo 2021 
-description: Horóscopo semanal acuario 24 de mayo 2021 al 30 de mayo 2021. No desaproveches las oportunidades más Acuario, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
+title: acuario 31 de mayo 2021 al 06 de junio 2021 
+description: Horóscopo semanal acuario 31 de mayo 2021 al 06 de junio 2021. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-24'
+ lastmod: '2021-05-31'
 ---
 
 
 
-## No desaproveches las oportunidades más Acuario, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
+## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
 
-En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien Acuario…
-Puede que sientas mucha empatía por las demás personas una vez que la semana se pone en marcha, y esto podría tener un impacto positivo en el crecimiento de ciertas relaciones. Pero tener demasiada compasión puede que no siempre resulte a tu favor, y hay momentos en los que puede hasta ser inapropiado, como en el lugar de trabajo. Si no sabes qué hacer, no dudes en pedir ayuda. La Luna Nueva en este mismo sector ofrece la posibilidad de comenzar de nuevo con respecto a una oportunidad o una relación.
+Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
+Aunque podrías disfrutar la libertad de coquetear con quien quieras, puede que el cosmos tenga otros planes para ti. Con la situación actual revelando un énfasis bien marcado en un sector más intenso de tu carta astral, deberías enfrentarte a los problemas que tengan una gran carga emocional. Y si bien sería más fácil hacer cualquier otra cosa en vez de afrontarlos, una vez que lo hagas, podrías notar que la ansiedad y la tensión reprimida comienzan a distenderse. Pero hazlo con calma.Cáncer
 
 ## Dinero
 
-Tu vida laboral puede ser más difícil de lo normal esta semana, pero estás aprendiendo habilidades importantes que te podrán arriba en la cadena alimenticia. Mientras tanto, tu carrera está pasando por un montón de cambios. Toma un paso a la vez para una mayor recompensa.
+Puede que estés a punto de cambiar de empleo o ascender de posición. No es sólo que el puesto te llame la atención, es el salario que viene junto con él. Da rienda suelta a tu ambición de forma gratuita siempre y cuando tengas al sartén por el mango. Podría ser la forma en la que te comunicas, o la falta de ella lo que pone a los demás en tu contra. Mantén todo claro y sin problemas mediante la claridad y el ser conciso/a.

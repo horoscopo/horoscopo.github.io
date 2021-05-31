@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 24 de mayo 2021 al 30 de mayo 2021 
-description: Horóscopo semanal sagitario 24 de mayo 2021 al 30 de mayo 2021. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+title: sagitario 31 de mayo 2021 al 06 de junio 2021 
+description: Horóscopo semanal sagitario 31 de mayo 2021 al 06 de junio 2021. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-24'
+ lastmod: '2021-05-31'
 ---
 
 
 
-## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
 
-Por fin vas a finalizar ciclos Sagitario, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse Sagitario, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres Sagitario joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien Sagitario. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana Sagitario, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
-Hay ciertas cosas que preferirías mantener en secreto en este momento, así que no te sientas culpable de hacerlo. Aun si tus mejores amigos te insisten en que les cuentes, no hay razón por la que debas. Sabrás cuándo será el momento de ponerlos al tanto, pero hasta entonces, el silencio puede ser algo muy preciado. Aun así, con Marte en tu signo, tus acciones pueden valer más que las palabras. Esto sugiere que podrías dejarte en evidencia sin darte cuenta.
+Quieres sonreír cuando pase el tiempo y sobretodo no quedarte con las ganas por no haber hecho lo que sentías. No te encierres en lo que debes o no debes hacer Sagitario, ahora simplemente fluye… Con la vida, con tus amigos, con tu gente, con los que quieres… 
+porque así es como la vida te acaba compensando con nuevas bienvenidas.
+Si bien Marte en Escorpión hace que tengas tendencia a cuidar de tu salud, también tienes ganas de poner en orden tus finanzas. Es momento de saldar deudas, organizar planes de pago y ponerte al día con tus objetivos financieros. La gran noticia es que Saturno ingresa a Capricornio y a tu sector de recursos compartidos. Como resultado de esto, puede que decidas ser más responsable acerca de tus asuntos financieros y tener la determinación de que tu dinero te rinda más, en especial durante los próximos meses.
 
 ## Dinero
 
-Te sientes más libre para tomar riesgos con tus habilidades comunicativas. Esto da frutos cuando se trata de la búsqueda de nuevo empleo o esfuerzos para batallar en contra de retrasos financieros. Tienes más de una oportunidad de ganar más dinero mediante la adopción de horas extras o de un trabajo de tiempo parcial. Pero ciertos aspectos están sacudiendo tu sector de trabajo de una manera que puedes encontrar desagradable. Si tu empresa parece inestable, imprime currículums y comienza a enviarlos.
+La actividad astral de esta semana tiene lugar en tu sector de carrera y autoridad. El Universo te pide que pongas más de tu enfoque en su avance. No es suficiente el dejar tu vida laboral al azar. En cambio, los pasos cuidadosos hacia un objetivo profesional concreto te obtendrán los mejores resultados y la máxima rentabilidad.

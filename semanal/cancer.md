@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 24 de mayo 2021 al 30 de mayo 2021 
-description: Horóscopo semanal cancer 24 de mayo 2021 al 30 de mayo 2021. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Cáncer. 
+title: cancer 31 de mayo 2021 al 06 de junio 2021 
+description: Horóscopo semanal cancer 31 de mayo 2021 al 06 de junio 2021. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-24'
+ lastmod: '2021-05-31'
 ---
 
 
 
-## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Cáncer. 
+## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 
-No puedes esperar a que las cosas pasen Cáncer, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres Cáncer, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA Cáncer. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
-El continuo enfoque en tu sector de placer podría acelerar el desarrollo de un nuevo romance. Durante los días por venir podrías encontrarte tomando una decisión sobre si deberías acercarte o no a la persona. Tu sector de estilo de vida estará bajo enfoque a partir del viernes, animándote a hacer un análisis y considerar cómo podrías mejorar tu salud y vida en general. Ten cuidado este fin de semana, ya que la Luna Llena podría resultar agotadora. Aprovecha esta oportunidad para mimarte.
+Hay gente que no respeta que puedas crecer Cáncer, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Cáncer pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Cáncer, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+Con el fuerte enfoque que hay en tu sector espiritual, puede que estés pasado por un período de reflexión. Ve las próximas semanas como una oportunidad para hacerte una limpieza emocional y finalmente deshacerte de los problemas que te han estado molestando desde hace algún tiempo. La Luna Nueva del viernes podría aportarte deslumbrantes visiones con respecto a situaciones o personas que están listas para salir de tu vida. No te apegues demasiado a ellas - ¡déjalas ir! Es hora de hacerle espacio a todas las nuevas oportunidades que se podrán en tu camino.
 
 ## Dinero
 
-Ciertos aspectos en tu sector de dinero y valores te dan mucho espacio para crecer esta semana. El desafío se presenta debido a que no siempre se siente fácil hacerlo, pero por lo general el esfuerzo obtiene resultados. Se te está empujando a ser más social ahora, considera el autoempleo como una forma de ganar más dinero y piensa cómo utilizar las políticas de oficina para tu ventaja.
+Te beneficiarás de dos maneras cruciales en estos momentos. Dado que ciertos aspectos están afectando a tu sector de grupos, política y trabajo por cuenta propia, puede que estés considerando trabajar desde casa o iniciar un nuevo negocio desde la comodidad de tu habitación. La suerte se combina con repentinas ideas brillantes. Puede parecer una broma, pero puede que de verdad funcione.
