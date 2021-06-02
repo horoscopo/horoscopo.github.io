@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de junio 2021
-description: Horóscopos del dia de hoy 01 de junio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de junio 2021
+description: Horóscopos del dia de hoy 02 de junio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-06-01
+ lastmod: 2021-06-02
 ---
-Las oportunidades abundan cuando Mercurio forma sextil con Venus. Hoy podría ser un día muy afortunado para ti. Esta noche, el Eclipse Lunar en Leo recomienda emplear valor para expresar sentimientos abiertamente. ¿Sería posible que esa falta de valor te esté alejando de lo que realmente quieres? ¡Vamos! Ten el valor de tus convicciones y da el primer paso.
+Marte aspectando a Saturno el día de hoy te da deseos de salir a hacer cosas. Por su parte, Saturno está listo para defender cierta posición. Y juntos: La mejor defensa es tener una buena ofensa. La noche está llena de sorpresas cuando la Luna aspecta a Urano. Dale la bienvenida el sentimiento. Anticipa que alguien se robe tu corazón.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
