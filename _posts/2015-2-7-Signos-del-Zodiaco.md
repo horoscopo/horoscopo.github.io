@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de junio 2021
-description: Horóscopos del dia de hoy 05 de junio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 06 de junio 2021
+description: Horóscopos del dia de hoy 06 de junio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-06-05
+ lastmod: 2021-06-06
 ---
-Hoy surgen fragmentos de información apoyados por los hechos. La comunicación constructiva trabaja en cooperación con la acción expansiva cuando Mercurio forma sextil con Júpiter. Esta noche, las acciones de la gente podrían sorprenderte mucho. Escuchar y observar te permiten echarle una mirada al futuro, una que es más emocionante.
+Mercurio en Sagitario estimula diversión, juegos e intereses que tienen largo alcance. Incluso puede que hasta decidas no hacer nada en absoluto y lo disfrutes como nunca antes. Las mismas vibraciones continúan a lo largo de la noche con tránsitos que funcionan bien en las relaciones. Aprovecha este momento para vivir la vida y el amor como si fueran sueños.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
