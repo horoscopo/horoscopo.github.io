@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 31 de mayo 2021 al 06 de junio 2021 
-description: Horóscopo semanal tauro 31 de mayo 2021 al 06 de junio 2021. Esta semana vas a abrir los ojos Tauro, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+title: tauro 07 de junio 2021 al 13 de junio 2021 
+description: Horóscopo semanal tauro 07 de junio 2021 al 13 de junio 2021. Esta semana no te reniegues Tauro, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-31'
+ lastmod: '2021-06-07'
 ---
 
 
 
-## Esta semana vas a abrir los ojos Tauro, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+## Esta semana no te reniegues Tauro, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
 
-No eres frágil Tauro, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo Tauro, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra Tauro, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz Tauro, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando Tauro, y sabes lo complicado que es salir de ahí después…
-Puede que este no sea el mejor momento para unirte a un club caro a pesar de que la Luna Nueva podría estarte insinuando invertir en tu vida social. Lo mejor sería investigar más sobre los precios antes de continuar. Además, este no es un buen momento para prestarles dinero a amigos. A partir del sábado, la entrada de Mercurio a tu sector financiero podría hacerte pensar en maneras de mejorar tu ingreso. Por último, ciertas amistades pueden tener planes de viaje que es posible que desees considerar.
+Está bien hacerse ilusiones Tauro, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas Tauro, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Tauro. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
+Si bien las oportunidades para la diversión y las placenteras experiencias siguen presentándose, hay un cambio en el aire esta semana que podría fomentar una actitud de más dedicación. Este cambio de actitud puede producirse como resultado de los costosos errores cometidos al principio de la semana. El deseo de organizarte y enfocarte en llevar una vida más limpia y más saludable parece ser lo mejor de aquí en adelante. La Luna Nueva del domingo puede ayudarte a lograr tus objetivos.
 
 ## Dinero
 
-No siempre se te conoce por tu sutileza, y esta semana no es diferente. Tus habilidades comunicativas y estilo personal pueden ser poco convencionales, por lo que bájale un poco al tono si estás tratando de dar una buena primera impresión. Estás pensando en cómo hacer que tu carrera sea un poco más independiente y menos centrada en la oficina. Muéstreles que pueden confiar en ti y que eres capaz de hacerlo bien.
+Es posible que esta semana te reveles contra figuras de autoridad, por lo menos en tu mente. Los aspectos indican que necesitarás ayuda para mantener la calma. Es seguro que estás más comunicativo/a, pero trata de no ser demasiado agresivo/a en cuanto a lo que quieres y necesitas. Los demás también tienen que ser tomados en cuenta. Algunas restricciones y limitaciones pueden hacerte sentir como si fuera personal, pero lo más probable es que realmente no lo es.

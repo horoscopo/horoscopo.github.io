@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 31 de mayo 2021 al 06 de junio 2021 
-description: Horóscopo semanal geminis 31 de mayo 2021 al 06 de junio 2021. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+title: geminis 07 de junio 2021 al 13 de junio 2021 
+description: Horóscopo semanal geminis 07 de junio 2021 al 13 de junio 2021. Deberías empezar a poner las cosas claras Géminis, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-31'
+ lastmod: '2021-06-07'
 ---
 
 
 
-## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+## Deberías empezar a poner las cosas claras Géminis, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 
-Hay cosas que no deben hacer daño Géminis, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo Géminis, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo Géminis, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa Géminis, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
-Ciertos asuntos de negocios y finanzas compartidas podrían ser agitados conforme Marte entra a tu sector de activos y recursos. Si algunos de ellos han avanzado demasiado lento últimamente, es posible que tu interés sea despertado debido a varias ofertas u oportunidades. Con Plutón avanzando en esta misma zona, cambios positivos pronto podrían surgir. También hay positivas influencias en tu sector de ocio y creatividad. La Luna Nueva del viernes podría ser el momento adecuado para empezar a mostrar tus habilidades.
+Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte Géminis, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo Géminis, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande Géminis pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+Aunque es posible que sientas presión en el trabajo, cierto enfoque en tu sector espiritual te anima a tomarte un breve retiro. Es posible que desees hacer de esto un hábito regular durante las próximas semanas, dándote la oportunidad de relajarte y recargar baterías. Préstale atención a tus sueños también, ya que su inspiradora guía podría ayudarte a superar cualquier molesto problema. El día Jueves requiere de un manejo cuidadoso, especialmente si tu energía no está a la altura. Aligera tu horario con tal de facilitarte la vida.
 
 ## Dinero
 
-Eres genial al hacer que los asuntos de dinero sucedan de la nada porque eres una persona social y siempre sabes la primicia antes de que otras personas la sepan. Con un aspecto positivo ahora, es muy probable que te arrolle una repentina oportunidad para avanzar en tu carrera que puedes no ser capaz de concentrarte en nada más. Se deriva de algo que empezaste hace años, pero que finalmente despega. Algo de dinero seguro vendrá de ello.
+Es posible que te hayas estado preocupado por dinero últimamente, sobre todo tu deuda, la cual podría haber permanecido sin resolver durante gran parte del año. Ahora, con algunos aspectos positivos, es el momento de abordarla por última vez. Esto podría implicar el corte de las tarjetas de crédito. O podría tratarse de hacer un plan de pago al que puedas apegarte hasta que sea pagado. Puedes finalmente hacer que suceda, así que no te demores.

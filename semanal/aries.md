@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 31 de mayo 2021 al 06 de junio 2021 
-description: Horóscopo semanal aries 31 de mayo 2021 al 06 de junio 2021. No es que estés cambiando Aries, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+title: aries 07 de junio 2021 al 13 de junio 2021 
+description: Horóscopo semanal aries 07 de junio 2021 al 13 de junio 2021. Vamos Aries, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-31'
+ lastmod: '2021-06-07'
 ---
 
 
 
-## No es que estés cambiando Aries, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+## Vamos Aries, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 
-Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
- que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
-Tu autoestima podría ser alta un minuto y baja al siguiente, lo que podría hacerte sentir un poco de inseguridad. Sin embargo, si vas a tratar de sacarle el mayor provecho a los días por venir, necesitarás mantener firmes tus principios y valores. Por otro lado, puede que no tengas mucha suerte si es que esperabas poder sacar un préstamo o una línea de crédito. De hecho, sería mejor que dejaras pasar otra semana antes de aplicar.
+Esta semana tienes que tomarte las cosas con más calma Aries. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
+ Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse.
+A medida que Mercurio, tu planeta regente, se vuelve retrógrado esta semana durante un período de tres semanas, podrías necesitar revisar tu postura. Pero ¿sería esto tan malo? Si siguen surgiendo obstáculos en un área clave, esto podría ser un indicio de que algo no está funcionando. Al volver a revisar tus planes, podrías lograr mucho más en el transcurso. Además, esta semana podría haber un motivo de celebración o una cita muy romántica.
 
 ## Dinero
 
-Normalmente eres capaz de resolver cualquier dilema de dinero con inteligencia y tenacidad, y esta semana no es diferente. Los aspectos indican el éxito a través de propiedad compartida y las inversiones, así como las herencias que provienen de fuentes inesperadas. Tu trabajo y la salud se ven afectados. Pon un esfuerzo adicional en los proyectos de trabajo que impresionen a los de arriba para que seas el próximo en la línea de promoción. Sin embargo, protégete contra el cansancio extremo.
+El Universo está proporcionando las condiciones para destellos repentinos de intuición y genio. Este no es el momento de sentarte en tus laureles. En cambio, se te insta a orientar tu atención hacia tu hogar y tus emociones para encontrar las ideas más rentables y mejores maneras de hacer dinero ahora. Los negocios basados desde el hogar prosperan. Las ideas que salen del corazón pueden convertirse en industrias caseras sin muchos problemas.

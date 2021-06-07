@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 31 de mayo 2021 al 06 de junio 2021 
-description: Horóscopo semanal virgo 31 de mayo 2021 al 06 de junio 2021. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+title: virgo 07 de junio 2021 al 13 de junio 2021 
+description: Horóscopo semanal virgo 07 de junio 2021 al 13 de junio 2021. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Virgo.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-31'
+ lastmod: '2021-06-07'
 ---
 
 
 
-## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Virgo.
 
-Vamos Virgo, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida Virgo, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie Virgo pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás Virgo. Así, tal cual.
-Puede que tu forma de ver las cosas sea bastante fuerte esta semana a pesar de que tratas de mantener la calma en torno a una determinada cuestión. Cuando el animado Marte se alinea con el expansivo Júpiter en Escorpión, tu necesidad de compartir información podría ser potente. Puede que surja un problema si eres demasiado entusiasta al punto de empujar a los demás e intentar convencerlos de tu causa. Si quieres que te escuchen, la forma de proceder es darles el espacio para que tomen sus propias decisiones. Aquellos a quienes les interese se quedarán; y puede que les encante tu intensa y apasionada postura sobre el tema. Las personas que no se muestren interesadas terminarán alejándose. 
- Intenta tener una agenda relajada el domingo, cuando la luna llena estará en tu signo. Puede que descubras que estás más sensible que de costumbre. Por último, Venus ingresa a un sector más sensible de tu carta esta semana, lo que puede mejorar tu vida amorosa.    
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
+Una conexión nebulosa sugiere que la influencia de determinadas amistades podría no ser tan útil como piensas. Si bien el confiar a menudo trae muchos beneficios, en esta ocasión, puede que sea al revés. Sus consejos o sabias palabras podrían confundirte. Podría ser porque en realidad no comprenden bien tu situación. Con esto en mente, sería mejor escuchar a tu intuición. Más adelante en la semana, una fase más dinámica te anima a forjar tu propio camino de cara al futuro.
 
 ## Dinero
 
-El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.
+Esta semana disfrutas de un impulso amistoso en tus relaciones. Tienes un gran equipo detrás de ti, especialmente cuando se trata de tu vida monetaria. Tienes una concurrencia de ideas y el poder de la gente, así que si estás trabajando en un proyecto que necesita todas las manos a la obra, es el momento de reclutar desde el interior. Los aspectos de apoyo resaltan las actividades relacionadas con el romance, la familia y la diversión. Comenzar un negocio de citas amorosas por internet podría estar en tu futuro.

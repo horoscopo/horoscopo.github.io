@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 31 de mayo 2021 al 06 de junio 2021 
-description: Horóscopo semanal capricornio 31 de mayo 2021 al 06 de junio 2021. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+title: capricornio 07 de junio 2021 al 13 de junio 2021 
+description: Horóscopo semanal capricornio 07 de junio 2021 al 13 de junio 2021. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-31'
+ lastmod: '2021-06-07'
 ---
 
 
 
-## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 
-Te van a echar de menos Capricornio, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio Capricornio, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
-Tu salud y bienestar pueden estar en tus planes, ya que la potente fase lunar puede llevarte a un nuevo comienzo. Un problema de bienestar o la sensación de que algo necesita cambiar con respecto a tu salud en general podría actuar como catalizador. Otra gente puede tener consejos para darte, pero tal vez sea mejor buscar los servicios de un entrenador personal o profesional de la salud de confianza, ya que querrás sentirte de la forma más positiva y enérgica posible.
+Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
+Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
+Esta semana, es posible que tengas que convencerte de que tienes lo que se necesita para tener éxito. De hecho, tal va a ser la parte más difícil del proceso. E incluso si realmente no piensas que puedes hacerlo, puede que hasta sea mejor que pretendas lo contrario. La razón es que una espléndida alineación de energías entre semana podía verte haciendo considerables avances. Puede que al principio te tambalees al tener que salirte de tu zona de confort, pero una vez que comiences a hacerlo, habrás ganado la batalla.
 
 ## Dinero
 
-Estás buscando una nueva manera de ganar dinero extra ahora, y puede que todavía no tengas la solución perfecta. Pero con los aspectos afectando tu sector de trabajo, te percatarás de que hay más oportunidades de las que piensas. Como por ejemplo trabajar más horas, o encontrar un trabajo de fin de semana. Tu carrera se verá afectada positivamente por cualquier acción que tomes.
+Podrías estar siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que tengas que sentir comodidad al hablar en público e iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas, será muy importante. Tu carrera necesita un poco de energía concentrada y deliberada. Disminuye  la confusión con el fin de obtener lo que se aproxima a ti.

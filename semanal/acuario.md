@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 31 de mayo 2021 al 06 de junio 2021 
-description: Horóscopo semanal acuario 31 de mayo 2021 al 06 de junio 2021. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+title: acuario 07 de junio 2021 al 13 de junio 2021 
+description: Horóscopo semanal acuario 07 de junio 2021 al 13 de junio 2021. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-05-31'
+ lastmod: '2021-06-07'
 ---
 
 
 
-## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 
-Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
-Aunque podrías disfrutar la libertad de coquetear con quien quieras, puede que el cosmos tenga otros planes para ti. Con la situación actual revelando un énfasis bien marcado en un sector más intenso de tu carta astral, deberías enfrentarte a los problemas que tengan una gran carga emocional. Y si bien sería más fácil hacer cualquier otra cosa en vez de afrontarlos, una vez que lo hagas, podrías notar que la ansiedad y la tensión reprimida comienzan a distenderse. Pero hazlo con calma.Cáncer
+Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Acuario. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder Acuario pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias Acuario, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
+Puede que la actitud de alguien te haga sentir confusión, sobre todo si has hecho un gran esfuerzo para ayudar o acercarte a tal persona. Trata de no tomártelo como algo personal, ya que hay una buena probabilidad de que él o ella tenga problemas con los que lidiar. Por ahora, enfócate en tus propios asuntos. Cuando esta persona esté lista para conectar de nuevo contigo, lo más probable es que te llame - más no lo hará si haces drama. La Luna Nueva del sábado podría poner románticas opciones en tu camino si tienes apertura a ellas.
 
 ## Dinero
 
-Puede que estés a punto de cambiar de empleo o ascender de posición. No es sólo que el puesto te llame la atención, es el salario que viene junto con él. Da rienda suelta a tu ambición de forma gratuita siempre y cuando tengas al sartén por el mango. Podría ser la forma en la que te comunicas, o la falta de ella lo que pone a los demás en tu contra. Mantén todo claro y sin problemas mediante la claridad y el ser conciso/a.
+Esta semana, trata de no dejarte absorber demasiado en tus propios puntos de vista o enervarte neciamente para poder salirte con la tuya. Si lo haces, es probable que no suceda. En vez, estudia tus relaciones, especialmente con tus amigos cercanos, pareja y compañeros de trabajo para ver cómo pueden beneficiarse mutuamente.
