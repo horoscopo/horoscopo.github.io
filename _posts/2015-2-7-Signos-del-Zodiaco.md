@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de junio 2021
-description: Horóscopos del dia de hoy 13 de junio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de junio 2021
+description: Horóscopos del dia de hoy 14 de junio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-06-13
+ lastmod: 2021-06-14
 ---
-¿Importa saber qué fue lo que hizo que alguien cambiara de opinión? Mientras que el Sol se opone a Neptuno, lo importante es que haya cambiado. ¿Por qué no hacer un esfuerzo por entender su motivación? Prepárate para sorprenderte. Esta noche, socializa con un esplendor tridimensional durante la conjunción de fuego entre Venus y Marte en Leo.
+Una mente cansada se despierta refrescada después de la dosis masiva de preocupación de ayer. El día de hoy, Mercurio en Sagitario te prepara para la aventura y te ayuda a planear el futuro. Por la noche, la Luna en Aries agita el amable fuego de este signo, creando una atmósfera más amable y amistosa. Disfruta. Para los solteros, podría ser el comienzo de algo nuevo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
