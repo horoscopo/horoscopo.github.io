@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 07 de junio 2021 al 13 de junio 2021 
-description: Horóscopo semanal virgo 07 de junio 2021 al 13 de junio 2021. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Virgo.
+title: virgo 14 de junio 2021 al 20 de junio 2021 
+description: Horóscopo semanal virgo 14 de junio 2021 al 20 de junio 2021. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Virgo, se llama dignidad. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-07'
+ lastmod: '2021-06-14'
 ---
 
 
 
-## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Virgo.
+## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Virgo, se llama dignidad. 
 
-Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
-Una conexión nebulosa sugiere que la influencia de determinadas amistades podría no ser tan útil como piensas. Si bien el confiar a menudo trae muchos beneficios, en esta ocasión, puede que sea al revés. Sus consejos o sabias palabras podrían confundirte. Podría ser porque en realidad no comprenden bien tu situación. Con esto en mente, sería mejor escuchar a tu intuición. Más adelante en la semana, una fase más dinámica te anima a forjar tu propio camino de cara al futuro.
+Ojalá pudiéramos tener un botón de reinicio en la vida Virgo, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
+Es posible que desees probar una nueva dieta, nueva forma de ejercicio como spinning o Pilates, o tal vez un tratamiento relajante que pueda aliviar los nudos y la tensión nerviosa. Cualquier cosa que pueda mejorar tu vitalidad y hacer que te sientas bien vale la pena ser intentada - además de que te hará una gran cantidad de amistades en el proceso. Una vez que el Sol entre a tu sector de relaciones el jueves, puede que sientas inclinación a comprometerte en lugar de insistir en salirte con la tuya en asuntos clave.
 
 ## Dinero
 
-Esta semana disfrutas de un impulso amistoso en tus relaciones. Tienes un gran equipo detrás de ti, especialmente cuando se trata de tu vida monetaria. Tienes una concurrencia de ideas y el poder de la gente, así que si estás trabajando en un proyecto que necesita todas las manos a la obra, es el momento de reclutar desde el interior. Los aspectos de apoyo resaltan las actividades relacionadas con el romance, la familia y la diversión. Comenzar un negocio de citas amorosas por internet podría estar en tu futuro.
+Esta semana tienes un aspecto favorable, una explosión muy poderosa de energía, lo que va a afectar tu rutina diaria positivamente. Tu lugar de trabajo podría no ser del todo estable o puede estarte dando señales contradictorias acerca de tu trabajo de un día para otro. Ten cuidado con las promesas vacías de alguien dentro de tu red social. Tales no son como pretenden ser.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 07 de junio 2021 al 13 de junio 2021 
-description: Horóscopo semanal piscis 07 de junio 2021 al 13 de junio 2021. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Piscis, esta semana has de cerrar algunos ciclos de verdad.
+title: piscis 14 de junio 2021 al 20 de junio 2021 
+description: Horóscopo semanal piscis 14 de junio 2021 al 20 de junio 2021. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,16 +12,20 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-07'
+ lastmod: '2021-06-14'
 ---
 
 
 
-## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Piscis, esta semana has de cerrar algunos ciclos de verdad.
+## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 
-Sólo hace falta que tu mente haga click Piscis, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
-La Luna Llena ilumina tu sector de ocio y placer, acentuando actividades que te encantará disfrutar. Tales pudiendo tratarse de un enlace romántico, interés creativo, un deporte o una actividad cultural. Sin embargo, ten cuidado, ya que podías terminar actuando bajo impulso, especialmente cuando se trate de romance; lo que podría causar que hagas algo que pudieras lamentar más tarde. El final de la semana podría ser excelente para orientarte con respecto a un puesto de trabajo o meta profesional. Tus amigos podrían tentarte a salir el domingo.
+Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
+ La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
+ Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
+Cuando el expresivo Jupiter, tu planeta regente, se dirige al poderoso Plutón el lunes, puede que te resulte difícil estar de acuerdo con una de tus amistades. Sin embargo, este aspecto es temporal. Tal vez descubras que si dejas pasar la conversación hasta el martes, cuando el sol conecta con el animado Júpiter, los resultados serán mucho más positivos. 
+El viernes podría traer algunas poderosas ideas que te ayuden a liberarte de una profunda cuestión que, en el pasado, ha impedido que avances. El sol se alinea con el ferviente Plutón, por lo que un deseo de cambio podría animarte a analizar este asunto con una persona de tu confianza. Es posible que puedas liberar este deseo como resultado de la charla.
+Las cosas podrían dar un sorprendente giro cuando el animado Mercurio se alinee con el excéntrico Urano en tu sector social el domingo. Un inesperado encuentro podría resultar en extremo fascinante. Algo que esta persona comparta contigo podría cambiar tu vida positivamente. 
 
 ## Dinero
 
-Esta semana hay actividad en tu sector de herencia y propiedad compartida. Necesitas prestar más atención a tu principal fuente de dinero - tu carrera. A pesar de que una herencia podría apoyar tus sueños a largo plazo, tu carrera te apoya emocionalmente también. El Universo te proporciona un mayor descanso del que pudiste haber gozado en los últimos tiempos. Puedes utilizar toda la estabilidad que pudiste haber reunido en otras áreas.
+Esta semana podría ser tensa para ti. Presta especial atención a los mensajes que estés recibiendo de sus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están justo en el blanco ahora. Al mismo tiempo, sigue añadiendo más a tus capacidades al asistir a clases, talleres y seminarios. Tienes todo lo que se necesitas, pero un poco más no te vendría mal.

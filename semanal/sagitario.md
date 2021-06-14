@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 07 de junio 2021 al 13 de junio 2021 
-description: Horóscopo semanal sagitario 07 de junio 2021 al 13 de junio 2021. Estás a tope Sagitario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: sagitario 14 de junio 2021 al 20 de junio 2021 
+description: Horóscopo semanal sagitario 14 de junio 2021 al 20 de junio 2021. No te destruyas Sagitario, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-07'
+ lastmod: '2021-06-14'
 ---
 
 
 
-## Estás a tope Sagitario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## No te destruyas Sagitario, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 
-No sabes cómo desviar tus sentimientos Sagitario, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Sagitario… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Sagitario. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Sagitario que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-Podrías preguntarte si una idea en la que has invertido es buena después de todo. Si bien las cosas pueden parecer un poco lentas en este momento, ten por seguro que mejorarán. Mientras tanto, el cosmos te alienta a trabajar con un presupuesto con el que puedas mantenerte y que, al mismo tiempo, te permita disfrutar de buenos momentos. La Luna Nueva en tu sector de relaciones puede alentarte a llevar una relación nueva o de hace bastante tiempo a un nuevo nivel.
+Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
+Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
+Tu intuición te guía hacia una oportunidad que transforma tu vida y que podría estar relacionada con tu trabajo o con cómo te ganas la vida. Si haces un esfuerzo constante, esta oportunidad puede volverse lucrativa en el futuro. Buscar el éxito instantáneo, sin embargo, puede que sea un error. La paciencia es clave. La Víspera del fin de semana podría ser el momento en el que decidas relajarte y divertirte al máximo. O quizá prefieras una actividad más romántica.
 
 ## Dinero
 
-Tienes la posibilidad de recibir mucho apoyo por parte de viajes al extranjero, aprender un nuevo idioma, o asistir a una clase o un seminario para reforzar tu educación. Cualquier cosa que puedas hacer para que tu conjunto de habilidades sea más formidable ayudará ahora, especialmente cuando se trata de pedir más dinero. Mientras tanto, analizando el área de tu carta relacionada con tu trabajo, ¿será que es hora de cambiar de profesión?
+Te diriges a un tiempo de transformación. Tanto está cambiando ahora en tu sector de carrera y figuras de autoridad que no tienes mucho tiempo para ti mismo/a. Haz valer tus necesidades en las negociaciones salariales, así como en cuestiones diarias de trabajo. Ahora estás subiendo de nivel y es posible que la carga adicional de responsabilidad sea a veces difícil de soportar. Sin embargo, estás cambiando para bien.

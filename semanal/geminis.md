@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 07 de junio 2021 al 13 de junio 2021 
-description: Horóscopo semanal geminis 07 de junio 2021 al 13 de junio 2021. Deberías empezar a poner las cosas claras Géminis, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+title: geminis 14 de junio 2021 al 20 de junio 2021 
+description: Horóscopo semanal geminis 14 de junio 2021 al 20 de junio 2021. Tienes que empezar a dejar que el resto luche por tu Géminis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-07'
+ lastmod: '2021-06-14'
 ---
 
 
 
-## Deberías empezar a poner las cosas claras Géminis, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+## Tienes que empezar a dejar que el resto luche por tu Géminis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 
-Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte Géminis, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo Géminis, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande Géminis pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
-Aunque es posible que sientas presión en el trabajo, cierto enfoque en tu sector espiritual te anima a tomarte un breve retiro. Es posible que desees hacer de esto un hábito regular durante las próximas semanas, dándote la oportunidad de relajarte y recargar baterías. Préstale atención a tus sueños también, ya que su inspiradora guía podría ayudarte a superar cualquier molesto problema. El día Jueves requiere de un manejo cuidadoso, especialmente si tu energía no está a la altura. Aligera tu horario con tal de facilitarte la vida.
+No pienses tanto por favor Géminis, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres Géminis por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
+ cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
+Te entretendrás mucho conectando, socializando y disfrutando de festivas reuniones, lo que te da la oportunidad de volver a encontrarte con viejas y nuevas amistades. Esta semana, podría haber un dramático cambio de enfoque. El énfasis estará en las interacciones y en establecer metas con propósito que incluyan el establecimiento de contactos. Sin embargo, la noticia más importante puede ser que Saturno deja tu sector monetario e ingresa a este sector. Parte de la presión financiera que parecía haber puede comenzar a disminuir, lo que es muy bueno.
 
 ## Dinero
 
-Es posible que te hayas estado preocupado por dinero últimamente, sobre todo tu deuda, la cual podría haber permanecido sin resolver durante gran parte del año. Ahora, con algunos aspectos positivos, es el momento de abordarla por última vez. Esto podría implicar el corte de las tarjetas de crédito. O podría tratarse de hacer un plan de pago al que puedas apegarte hasta que sea pagado. Puedes finalmente hacer que suceda, así que no te demores.
+Puede que esta semana sea una de las más ocupadas. El Universo está cambiando tus relaciones de formas nuevas y emocionantes, y afectando a tu sector de emociones internas y vida familiar. Es posible que desees esconderte o meterte por debajo de las sábanas, pero en tu interior algo requiere de tu atención inmediata. Préstale atención.

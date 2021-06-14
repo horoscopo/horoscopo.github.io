@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 07 de junio 2021 al 13 de junio 2021 
-description: Horóscopo semanal libra 07 de junio 2021 al 13 de junio 2021. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+title: libra 14 de junio 2021 al 20 de junio 2021 
+description: Horóscopo semanal libra 14 de junio 2021 al 20 de junio 2021. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Libra, por qué te lo callas y te lo llevas callando tanto tiempo? 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-07'
+ lastmod: '2021-06-14'
 ---
 
 
 
-## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Libra, por qué te lo callas y te lo llevas callando tanto tiempo? 
 
-Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
- y es que no puedes parar, de verdad.
-Continúa ampliando tus opciones y apunta alto mientras Júpiter continúa en tu signo. Además, el actual enfoque de esta semana en tu sector de diversión podría darte el deseo de organizar eventos de los que tus amigos y familia puedan disfrutar. Los esfuerzos de comunicación también se intensifican a partir de esta semana, cuando podrías verte haciéndole frente a problemas que te han fastidiado por algún tiempo. La acción es la clave para encontrar la mejor solución. Finalmente, las últimas opciones de dieta y salud podrían llamarte la atención a partir del viernes, una vez que Mercurio entre a Acuario.
+Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
+ por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
+Puede que tengas una visión poco realista sobre cierta persona o situación, sobre todo a principios de la semana, cuando podrías sentir tentación a poner a alguien en un pedestal. Pero para cuando llegue el viernes podrías llegar a pensar de manera muy diferente debido a una frustrante mezcla de energías sacando lo peor ya sea de ti o esa persona. Es posible que ni siquiera una conversación sea suficiente para mejorar la situación entre ustedes, pero puede que sean capaz de llegar a alguna parte si utilizas los hechos como vehículo.
 
 ## Dinero
 
-Esta semana tienes aspectos afectando a tu sector de relaciones. Alguien de quien no has oído en mucho tiempo puede tratar de comunicarse contigo en forma personal o profesional. ¡Te sorprenderá lo lejos que esta persona ha llegado en el terreno profesional! La comunicación es crucial ahora, especialmente en lo que se refiere a la situación de empleo.
+Tienes una energía muy obstinada ahora. Se te está empujando a una forma no tan sutil de tratar con los demás. La formación de nuevas relaciones como el cultivar las ya existentes proporcionará las respuestas que buscas.

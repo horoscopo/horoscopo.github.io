@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 07 de junio 2021 al 13 de junio 2021 
-description: Horóscopo semanal escorpio 07 de junio 2021 al 13 de junio 2021. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+title: escorpio 14 de junio 2021 al 20 de junio 2021 
+description: Horóscopo semanal escorpio 14 de junio 2021 al 20 de junio 2021. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-07'
+ lastmod: '2021-06-14'
 ---
 
 
 
-## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 
-Ommmm… Ommmm… Relax Escorpio, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira Escorpio, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas Escorpio, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
-Préstale atención a tu intuición, ya que podría estar tratando de decirte algo importante. Esto puede ser especialmente pertinente si tienes involucramiento en un plan con ya sea amigos u otro grupo de personas. Hay una posibilidad de que sientas agobio por las ideas y decisiones de los demás y que sientas que tu voz no está siendo escuchada. Si es así, la alineación de esta semana te anima a hablar y actuar acorde a tus propios intereses; incluso si hacerlo pudiera ponerte en desacuerdo con otras personas.
+Vamos Escorpio, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida Escorpio, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie Escorpio pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás Escorpio. Así, tal cual.
+Con la Luna Llena del lunes en tu signo, que no te sorprenda sentirte más emocional de lo habitual. Trata de darte más margen y de eliminar las tareas innecesarias. Evita tomar decisiones espontáneas hasta que sientas más calma y tranquilidad. Las relaciones parecen ser un tema recurrente. Alguien cercano a ti podría sorprenderte. Con Marte, tu planeta regente, ahora avanzando, podrías descubrir que cualquier problema reciente comienza a resolverse, lo que te permitirá progresar.
 
 ## Dinero
 
-Esta semana es para ti de redes sociales, las cuáles son cada vez más importantes. Tus amigos realmente te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo muchos cambios que pueden haber afectado la forma en cómo te ves y te presentas a ti mismo/a. A algunos de tus amigos podría no gustarles éste proceso. Sea amable con ellos ya que no entienden hacia dónde te diriges y que éste es sólo un viaje de uno.
+Es una semana muy ocupada para ti conforme los aspectos afectan tu vida hogareña y sentimientos internos. Podrías estar pensando trabajar desde casa o simplemente usar tu dinero para mejorar la apariencia de tu hogar. Ciertamente hay una gran cantidad de energía que poner en un proyecto como este en estos momentos.

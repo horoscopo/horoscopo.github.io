@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 07 de junio 2021 al 13 de junio 2021 
-description: Horóscopo semanal acuario 07 de junio 2021 al 13 de junio 2021. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: acuario 14 de junio 2021 al 20 de junio 2021 
+description: Horóscopo semanal acuario 14 de junio 2021 al 20 de junio 2021. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,18 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-07'
+ lastmod: '2021-06-14'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Acuario. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder Acuario pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias Acuario, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
-Puede que la actitud de alguien te haga sentir confusión, sobre todo si has hecho un gran esfuerzo para ayudar o acercarte a tal persona. Trata de no tomártelo como algo personal, ya que hay una buena probabilidad de que él o ella tenga problemas con los que lidiar. Por ahora, enfócate en tus propios asuntos. Cuando esta persona esté lista para conectar de nuevo contigo, lo más probable es que te llame - más no lo hará si haces drama. La Luna Nueva del sábado podría poner románticas opciones en tu camino si tienes apertura a ellas.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+Tu vida social está bajo un gran enfoque, pudiendo poner oportunidades en tu camino que de lo contrario no tendrías. Puede que hasta incluso te percates de que una creativa idea te conduce a un proyecto en el que te gustaría colaborar, uno que rápidamente podría convertirse en un hecho. En el frente doméstico, un plan para cambiar tus hábitos alimenticios puede tener éxito si tienes las suficientes razones para verte y sentirte mejor. Si no es así, es posible que requieras de más energía para seguir adelante.
 
 ## Dinero
 
-Esta semana, trata de no dejarte absorber demasiado en tus propios puntos de vista o enervarte neciamente para poder salirte con la tuya. Si lo haces, es probable que no suceda. En vez, estudia tus relaciones, especialmente con tus amigos cercanos, pareja y compañeros de trabajo para ver cómo pueden beneficiarse mutuamente.
+Es una semana de desarrollo en tu sector de relaciones. Esto podría significar que alguien a quien has dudado contactar es todo oídos ahora, o que recibes energía de apoyo para ir más profundo, ya sea personal o profesional. Si has estado buscando una fusión de empresas, el Universo puede ayudarte. Mientras tanto, tu vida en el hogar necesita más atención y algunos gastos adicionales.
