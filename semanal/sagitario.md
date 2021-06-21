@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 14 de junio 2021 al 20 de junio 2021 
-description: Horóscopo semanal sagitario 14 de junio 2021 al 20 de junio 2021. No te destruyas Sagitario, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+title: sagitario 21 de junio 2021 al 27 de junio 2021 
+description: Horóscopo semanal sagitario 21 de junio 2021 al 27 de junio 2021. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-14'
+ lastmod: '2021-06-21'
 ---
 
 
 
-## No te destruyas Sagitario, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+## Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 
-Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
-Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
-Tu intuición te guía hacia una oportunidad que transforma tu vida y que podría estar relacionada con tu trabajo o con cómo te ganas la vida. Si haces un esfuerzo constante, esta oportunidad puede volverse lucrativa en el futuro. Buscar el éxito instantáneo, sin embargo, puede que sea un error. La paciencia es clave. La Víspera del fin de semana podría ser el momento en el que decidas relajarte y divertirte al máximo. O quizá prefieras una actividad más romántica.
+Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
+Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
+Un romance podría estar en tus cartas, o alternativamente, podrías percatarte de que tu relación con tu pareja toma un giro positivo y más apasionado. Algo hace clic, pudiendo llevarte a volar alto y disfrutar de la nueva y más intensa conexión entre ustedes. Puede que también te organices y tengas más ganas de formular una nueva estrategia que te ayuda a enfocarte más no sólo en tareas hogareñas, sino también en preparativos para llevar tus planes al siguiente nivel.
 
 ## Dinero
 
-Te diriges a un tiempo de transformación. Tanto está cambiando ahora en tu sector de carrera y figuras de autoridad que no tienes mucho tiempo para ti mismo/a. Haz valer tus necesidades en las negociaciones salariales, así como en cuestiones diarias de trabajo. Ahora estás subiendo de nivel y es posible que la carga adicional de responsabilidad sea a veces difícil de soportar. Sin embargo, estás cambiando para bien.
+No hay muchos cambios avecinándose hacia tu sector del dinero durante por los próximos años. Ciertas formas de hacer dinero mueren en favor de otras nuevas, considera cómo quieres vivir en cinco o diez años en el futuro. El poner todo este cambio a trabajar a tu favor, rendirá grandes dividendos para el tiempo que necesites dinero. Recuerda que debes pedir ayuda cuando la necesites.

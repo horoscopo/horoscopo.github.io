@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 14 de junio 2021 al 20 de junio 2021 
-description: Horóscopo semanal acuario 14 de junio 2021 al 20 de junio 2021. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: acuario 21 de junio 2021 al 27 de junio 2021 
+description: Horóscopo semanal acuario 21 de junio 2021 al 27 de junio 2021. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,18 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-14'
+ lastmod: '2021-06-21'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 
-Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
- Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
-pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
-Tu vida social está bajo un gran enfoque, pudiendo poner oportunidades en tu camino que de lo contrario no tendrías. Puede que hasta incluso te percates de que una creativa idea te conduce a un proyecto en el que te gustaría colaborar, uno que rápidamente podría convertirse en un hecho. En el frente doméstico, un plan para cambiar tus hábitos alimenticios puede tener éxito si tienes las suficientes razones para verte y sentirte mejor. Si no es así, es posible que requieras de más energía para seguir adelante.
+No puedes estancarte con algo Acuario, no debes dejar de crecer nunca. Esta semana vas a estar pensando y analizando la situación de tu vida, ¿estás haciendo lo que realmente quieres hacer? No Acuario, hay cosas que quieres cambiar pero tienes que cambiarlas ya, empezar y terminar. No puedes conformarte con la vida que estás llevando, el tiempo pasa muy deprisa y cuando te quieras dar cuenta quizás ya sea demasiado tarde, o quizás te sea mucho más complicado tomar decisiones. Sigue con tus proyectos y no te amargues cuando no veas resultados inmediatos. Lo bueno siempre tarda en llegar. Lo que tienes que hacer es no desanimarte. Saca tu verdadero yo, no te metas en nada superficial, al fin y al cabo esas cosas te merman mucho, no es lo tuyo Acuario. No vale ni un segundo de tu tiempo. No te calientes demasiado acordándote de cosas que ya fueron y que ahora no son, que jamás podrán volver a ser, sigues perdiendo tu tiempo como lo hagas así. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. No eres mediocre Acuario así que, no quieras llevar esa vida, agarra el amor propio que te sale para buscar mejores oportunidades. No es que seas egoísta, no es que te vuelvas egoísta, es que es algo vital que hagas tu vida.
+El sol en tu signo forma un aspecto muy encantador con el jovial Júpiter el martes. Si te vas de viaje durante el fin de semana, esto podría ser muy prometedor. Puede que surjan oportunidades que le den un nuevo impulso a tu vida. Aun así, tus amistades pueden cuestionarte si estás haciendo lo correcto. Si sientes que es así, no les hagas caso. El fin de semana, la luna nueva en tu signo es la ocasión perfecta para darle inicio a una importante meta o sueño.
 
 ## Dinero
 
-Es una semana de desarrollo en tu sector de relaciones. Esto podría significar que alguien a quien has dudado contactar es todo oídos ahora, o que recibes energía de apoyo para ir más profundo, ya sea personal o profesional. Si has estado buscando una fusión de empresas, el Universo puede ayudarte. Mientras tanto, tu vida en el hogar necesita más atención y algunos gastos adicionales.
+Estas a punto de cambiar de trabajo o de ascender de nivel. No es exactamente la posición que estás buscando pero el salario no está mal. Dale rienda suelta a tu ambición siempre y cuando la tengas del mango. Puede ser tu comunicación, o la falta de, la cuál pone a otros en tu contra. Trata de mantener todo del lado positivo al tener claridad y ser al ser conciso/a.

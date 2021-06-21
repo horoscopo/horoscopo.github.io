@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 14 de junio 2021 al 20 de junio 2021 
-description: Horóscopo semanal virgo 14 de junio 2021 al 20 de junio 2021. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Virgo, se llama dignidad. 
+title: virgo 21 de junio 2021 al 27 de junio 2021 
+description: Horóscopo semanal virgo 21 de junio 2021 al 27 de junio 2021. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-14'
+ lastmod: '2021-06-21'
 ---
 
 
 
-## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Virgo, se llama dignidad. 
+## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 
-Ojalá pudiéramos tener un botón de reinicio en la vida Virgo, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
-Es posible que desees probar una nueva dieta, nueva forma de ejercicio como spinning o Pilates, o tal vez un tratamiento relajante que pueda aliviar los nudos y la tensión nerviosa. Cualquier cosa que pueda mejorar tu vitalidad y hacer que te sientas bien vale la pena ser intentada - además de que te hará una gran cantidad de amistades en el proceso. Una vez que el Sol entre a tu sector de relaciones el jueves, puede que sientas inclinación a comprometerte en lugar de insistir en salirte con la tuya en asuntos clave.
+Cada día que pasa te das más cuenta de que mereces cosas buenas Virgo, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana Virgo.
+La Luna Llena en tu sector de ambición podría colocarte bajo los reflectores, atrayendo la atención hacia tus planes, proyectos e imagen en general. Si quieres que te vean de la mejor manera posible, pon un ejemplo que todos puedan seguir. Sin embargo, prepárate para algunos problemas en un plan familiar. Puede que no sea grave, pero trata de darte un margen hacia el jueves para poder manejar cualquier caos inesperado. Además, un nuevo romance podría pasar a un nuevo nivel después de un período de incertidumbre.
 
 ## Dinero
 
-Esta semana tienes un aspecto favorable, una explosión muy poderosa de energía, lo que va a afectar tu rutina diaria positivamente. Tu lugar de trabajo podría no ser del todo estable o puede estarte dando señales contradictorias acerca de tu trabajo de un día para otro. Ten cuidado con las promesas vacías de alguien dentro de tu red social. Tales no son como pretenden ser.
+Esta semana, tu sensible naturaleza puede desear dinero para las cosas más suaves de la vida, como la búsqueda de la belleza y la verdad. Pero tu atención se dirige a tus vidas pasadas y el karma, donde es posible que tengas que hacer un poco de curación. Mientras tanto, tu medio de subsistencia es mucho más comunicativo. Cuanto más digas, sobre todo de la manera correcta, más serás capaz de ganar.

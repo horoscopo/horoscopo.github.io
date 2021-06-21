@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 14 de junio 2021 al 20 de junio 2021 
-description: Horóscopo semanal piscis 14 de junio 2021 al 20 de junio 2021. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+title: piscis 21 de junio 2021 al 27 de junio 2021 
+description: Horóscopo semanal piscis 21 de junio 2021 al 27 de junio 2021. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,20 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-14'
+ lastmod: '2021-06-21'
 ---
 
 
 
-## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-Cuando el expresivo Jupiter, tu planeta regente, se dirige al poderoso Plutón el lunes, puede que te resulte difícil estar de acuerdo con una de tus amistades. Sin embargo, este aspecto es temporal. Tal vez descubras que si dejas pasar la conversación hasta el martes, cuando el sol conecta con el animado Júpiter, los resultados serán mucho más positivos. 
-El viernes podría traer algunas poderosas ideas que te ayuden a liberarte de una profunda cuestión que, en el pasado, ha impedido que avances. El sol se alinea con el ferviente Plutón, por lo que un deseo de cambio podría animarte a analizar este asunto con una persona de tu confianza. Es posible que puedas liberar este deseo como resultado de la charla.
-Las cosas podrían dar un sorprendente giro cuando el animado Mercurio se alinee con el excéntrico Urano en tu sector social el domingo. Un inesperado encuentro podría resultar en extremo fascinante. Algo que esta persona comparta contigo podría cambiar tu vida positivamente. 
+A veces las cosas tienen que ser a tu manera o a ninguna Piscis, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada Piscis. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
+Si trabajas en ventas, medios de comunicación, publicidad, o educación, tendrás mucho trabajo por hacer. Esta y las semanas por delante podrían traerte oportunidades para obtener más proyectos que paguen mejor. No te conformes con lo ya probado y lo ya conocido. Prepárate para desafiar tus habilidades al asumir nuevos trabajos o proyectos aunque parezcan un tanto desalentadores. Mercurio entra a Libra el Jueves, urgiéndote a tener tacto con los miembros de tu familia. La Luna Llena del Sábado te anima a buscar nuevas aventuras.
 
 ## Dinero
 
-Esta semana podría ser tensa para ti. Presta especial atención a los mensajes que estés recibiendo de sus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están justo en el blanco ahora. Al mismo tiempo, sigue añadiendo más a tus capacidades al asistir a clases, talleres y seminarios. Tienes todo lo que se necesitas, pero un poco más no te vendría mal.
+Tienes una semana de mucho trabajo por delante con planetas afectando tu sector de carrera y autoridad. Estás asumiendo una posición más poderosa en el trabajo ahora, y posiblemente un título o una nueva posición junto con ello. Celebra tu éxito en lugar de buscar una posición aún mayor. Ciertos aspectos indican un momento de tener más seriedad en el desarrollo de redes de profesionales que te pueden apoyar en los momentos de apuro.

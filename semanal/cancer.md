@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 14 de junio 2021 al 20 de junio 2021 
-description: Horóscopo semanal cancer 14 de junio 2021 al 20 de junio 2021. Llega una semana bonita Cáncer, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Cáncer, y seguramente la persona que menos te esperabas…
+title: cancer 21 de junio 2021 al 27 de junio 2021 
+description: Horóscopo semanal cancer 21 de junio 2021 al 27 de junio 2021. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Cáncer. Muévete o haz que se mueva el resto.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,19 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-14'
+ lastmod: '2021-06-21'
 ---
 
 
 
-## Llega una semana bonita Cáncer, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Cáncer, y seguramente la persona que menos te esperabas…
+## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Cáncer. Muévete o haz que se mueva el resto.
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Cáncer? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Cáncer. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-Las oportunidades románticas abundan, ya sea si estás en pareja o disfrutando de la soltería. El martes puede ser un excelente día para una especial cita con tu pareja o para una primera cita con ese alguien especial. Cuando el conversador Mercurio se alinea con el jovial Júpiter y el cariñoso Neptuno, podría haber oportunidades para analizar distintas cuestiones en profundidad. 
-Puede que también recibas positivas noticias en el frente laboral debido a que una idea o proyecto podrían aprobarse y significar un dinero extra. La conexión del sol con el dinámico Marte en tu sector monetario el miércoles sugiere que, si te ofrecen una oportunidad, lo mejor sería aceptarla de inmediato. Puede que no esté disponible durante mucho tiempo. 
-Un encuentro más adelante en la semana podría ser muy inspirador. Alguien podría convertirse en una comprensiva amistad, una persona a la que puedes recurrir para que te aconseje una y otra vez. 
-Por otro lado, una nueva amistad podría malinterpretar tus intenciones, pero convertirse en alguien más confiable con el tiempo.
+Estás activo Cáncer, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
+No permitas que tus familiares o amigos cercanos te impidan hacer lo que sientes que es mejor para ti. Si tienes una meta, apégate a ella y no dejes que nadie te influya. Tu vida social sigue vislumbrándose brillante, con muchas razones para disfrutar de agradables salidas y veladas. Este es sin duda un buen momento para ampliar tu círculo social y conectar con personas que pudieran tener alternativas ideas y puntos de vista. Pasa tu Domingo haciendo exactamente lo que quieras hacer - ¡y disfrútalo!
 
 ## Dinero
 
-Es probable que esta semana encuentres más de una zona de la cuál sacar más dinero en efectivo. Como un imán, los aspectos te colocan en el lugar correcto en el momento adecuado para conocer a las personas adecuadas. Tu personalidad dará una buena impresión. Es tu sector de vidas pasadas, karma y sueños el que está haciendo una contribución clave a esto. Incluso si no es inmediatamente obvio, estás siendo conducido/a en la dirección financiera adecuada.
+Este período es acerca de los desafíos a los que el Universo nos lleva con todo tipo de emociones, algunas de los cuales pueden ser útiles cuando se trata de hacer dinero. Tu cerebro está liberando algunos de tus materiales más creativos, por lo que ten a la mano lápiz y papel para anotar lo que experimentas. ¡Conviértelo en algo especial y ponte a trabajar en venderlo para obtener el máximo beneficio posible!
