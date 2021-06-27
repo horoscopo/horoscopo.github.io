@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo geminis junio 2021 
+title: Horoscopo geminis julio 2021 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La mejor compañía de la cual rodearte podría ser la tuya propia bajo la Luna Nueva del 4 de junio. El tiempo que pases descansando ahora es muy valioso. Lee -o escribe- tu libro en paz y no te preocupes por lo que piensen los demás. Utiliza la energía de la Luna Llena del 20 de junio para enfocar tu energía en cómo deseas que tu temporada de verano sea. No tengas prisa por complacer a nadie en específico o acudas a ningún lugar elegido por otra persona. Aprende a satisfacerte a ti un poco más a menudo. Tu vida hogareña podría comenzar a avivarse una vez que Marte se vuelva directo y Mercurio entre a tu signo el 29 de junio.
+Mercurio se torna directo el 3 de julio, y tu ambición retoma su rumbo. Tendrás más energía para socializar bajo la Luna Llena del 10 de julio. También podrían gustarte más los grupos más grandes o un círculo social más amplio. Una salida cultural, un concierto o un evento con música en vivo podrían ser justo lo que necesitas. La Luna Nueva del 25 de julio podría introducir una fase en la que es demasiado fácil discutir por cualquier cosa. Si una persona está celosa de ti o quiere competir contigo, habrá muy poco o nada que ambos pudieran ganar. Deja que esta energía desaparezca y no te involucres.

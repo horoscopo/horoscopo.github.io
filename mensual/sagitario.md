@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo sagitario junio 2021
-description: El Horóscopo junio de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo sagitario julio 2021
+description: El Horóscopo julio de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo junio, horoscopos en español, horóscopo sagitario junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo julio, horoscopos en español, horóscopo sagitario julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
@@ -16,8 +16,4 @@ sitemap:
 ---
 
 
-Urano entra a Tauro este mes (y permanece aquí durante los próximos 7 años), y tu vida está cambiando desde la base. Puede que ahora se desarrollen eventos repentinos e inesperados en una relación, en lo económico, o en algo que se siente como una situación de vida o muerte, lo que pide que te mantengas distante y sueltes el control. El cambio es la única constante. Confía en que lo que se está desarrollando está quitando de encima el peso muerto, para revelar lo que hay debajo realmente. 
-Ya sea que se trate de tu salud, trabajo o pareja, esto afecta toda tu vida. Tómate un tiempo para reevaluar tu estilo de vida: mental, físico, emocional y espiritual. Pregúntate qué es lo que será importante al final de tu vida. ¿Qué es lo que le da sentido a tu existencia, más allá de las circunstancias externas y pasajeras? ¿Qué cosas desgastan tu energía, y cuáles las reponen? Este es un nuevo comienzo que ofrece segundas oportunidades. Aprende del pasado reciente, y podrás tomar decisiones saludables para avanzar. 
-Cuando el sol alcanza el equinoccio y la luna llena se alinea en tu signo, llegas a un momento crucial de una situación inestable, lo que te permite recobrar el equilibrio. Sé trasparente contigo, y luego podrás tomar decisiones sinceras. 
-Días destacados: 14, 21, 26
-Días desafiantes: 1, 6, 20
+Si sientes el impulso de querer cuidar de todos a la vez, comienza contigo. Tal vez ya te ha cansado hablar de este tema, por lo que debes detectar las señales de advertencia. Trata de tener bondad hacia tu propia persona. La Luna Llena del 23 de julio podría traer consigo gente que aligere tu estado de ánimo y te haga salir a divertirte. Si un nuevo y fresco amor visita tu vida, ¡puede que se vuelva fiebre de primavera! El amor está en el aire. Ten receptividad y permite que un dinámico espíritu toque tu corazón. El 30 de julio, un agridulce o sensible recuerdo podría herir tu corazón de nuevo bajo la conjunción entre Venus y Quirón. Aprecia esos momentos del pasado.

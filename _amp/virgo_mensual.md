@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo virgo junio 2021 
+title: Horoscopo virgo julio 2021 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Serás el héroe dentro de tu familia o grupo de amigos bajo la Luna Nueva del 4 de junio. Cualquier cosa que digas o hagas inconscientemente puede ser precisamente lo que un pariente o compañero de casa necesite. No te preocupes porque nada sea exagerado, requerido de tu parte, o de que se te pida más de lo que puedes ofrecer. Todo esto estará bajo control. La Luna Llena del 20 de junio se trata de tener creatividad y de disfrutar de todo tu tiempo y lo que haces con él. También habrá un montón de gente a tu alrededor para disfrutar todo esto contigo. ¡Hazlo divertido! Finalmente, el trígono entre Venus y Neptuno del 27 de junio comienza una semana con tintes románticos que podrían durar por días.
+El 5 de julio es un día sexy y lleno de travesuras sociales cuando la Luna se une a la conjunción entre Venus y Plutón en Capricornio. Tu situación monetaria se vislumbra excepcionalmente buena alrededor de la Luna Nueva del 8 de julio. Es posible que desees gastar un poco más de dinero, pero tus amigos querrán consentirte también. Además, un gasto anticipado podría volverse ahora innecesario. La Luna Llena del 22 de julio inspira aún más a tus amistades locales y vecinos a mantenerse en contacto contigo. Si esto se vuelve extremo y llega a molestarte, puede que seas capaz de evadir parte de la conversación. Sin embargo, presta un poco de atención, ya que tales podrían revelarte importantes piezas de información.

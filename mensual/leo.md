@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo leo junio 2021
-description: El Horóscopo junio de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo leo julio 2021
+description: El Horóscopo julio de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo junio, horoscopos en español, horóscopo leo junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo julio, horoscopos en español, horóscopo leo julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Permite que la Luna Llena del 5 de junio te acerque a mejores relaciones con amigos y vecinos. Puede que muchos de ellos estén teniendo problemas ahora, pero alguien podría ser valiente y ofrecerte una mano amiga. El 20 de junio, descubre una nueva gran pasión o interés que te enseñe mucho, haga avanzar tu carrera, y promueva una nueva y poderosa amistad. La Luna Nueva (y Eclipse Solar) de este mes te pueden mostrar un mundo más grande y mejor. El fin de semana del 28 de junio es sensible y romántico, con la Luna en Cáncer formando trígono con Mercurio en Piscis. Si tienes interés en alguien nuevo, es el momento adecuado de ser dulce y actuar.   
+¡La Luna Nueva del 7 de julio se manifiesta en tu signo! Diversión con amigos, vecinos y tal vez una o dos sorpresas de cumpleaños son algo probables. Muestra tu mejor, más enérgica y divertida actitud y mantente en buenos términos tanto con colegas como clientes. Los días en torno a la Luna Llena del 21 de julio podrían ser extremadamente ocupados para ti, así que ten mucho cuidado tanto con tu persona como tus sentimientos. Protege tu tiempo a solas, planea suficientes momentos de tranquilidad, y después, sal a apoderarte del mundo. La conjunción entre la Luna y Marte del 25 de julio le da un rápido inicio a tu semana laboral. Sin embargo, la conjunción entre la Luna y Saturno manifestándose en la segunda parte de ese día te mantendrá en curso.

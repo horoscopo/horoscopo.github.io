@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo escorpio junio 2021 
+title: Horoscopo escorpio julio 2021 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La conjunción entre el Sol y Neptuno hace eco el 1 de junio, cuando una inocente fantasía envía vibras desesperanzadas. La Luna Nueva del 8 de junio se manifiesta en tu signo, cuando una pareja o amante dice las palabras mágicas para sanar una vieja herida o resolver un viejo problema. No es necesario repetir el mismo error nunca más, por lo que siéntete mejor. Toma el control de tus finanzas cuando llegue la Luna Llena del 23 de junio. Tu situación financiera se vislumbra positiva y tu organización mental se ve aún mejor. Pon tus registros en orden, apégate a tu presupuesto y siente seguridad al comunicarte. Puedes sentir confianza si es que buscas pedir un préstamo o tienes que hacerle frente a cualquier tipo de burocracia.
+La Luna Llena del 8 de julio te permite sentir profundamente los problemas más grandes y más distantes del mundo. Incluso tendrás algunas soluciones que puedes aplicar en tu vecindario más próximo. Apasiónate a nivel global y haz buenas acciones a nivel local. La Luna Nueva del 23 de julio resalta tus movimientos profesionales o presencia pública. Quizás sientes timidez, pero tendrás mucha visibilidad. Lo que haces y dices será notado y recordado. Saca el mayor provecho de esto y hazlo bien. La conjunción entre el Sol y Marte del 26 de julio podría prender en llamas un problema o relación que estaba a fuego lento. Juega limpio. 

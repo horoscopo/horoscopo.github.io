@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo piscis junio 2021 
+title: Horoscopo piscis julio 2021 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
@@ -14,7 +14,9 @@ sitemap:
 ---
 
 
-El año pasado viste cómo un pequeño sueño se volvía realidad, pero ¿y ahora qué? Mientras junio comienza, te estás enfrentando a realidades difíciles que piden que confrontes el pasado con honestidad. Con el eclipse solar y la luna nueva en tu signo el 5 de junio, estás en el comienzo de una fase de 18 meses de quitarte la máscara y revelar tu verdadero yo. Pregúntate con frecuencia “¿quién soy yo?”, y deja que la respuesta guíe tus acciones. 
-Cuando la luna llena en Leo y el eclipse se alienan el día 20, ves una asociación desde una nueva perspectiva, y te das cuenta de tu verdadero valor y de lo que valoras en tus compromisos. No te apegues a un drama que se está desarrollando. Nadie más puede definir tu valor, o tener poder sobre ti, a menos que tú lo permitas. Actúa con honestidad sobre lo que realmente quieres (algo que esperas conseguir, no un sueño distante), y podrás traerlo a tu vida. Incluso si no puedes verlo, tienes un hada madrina y ángeles trabajando tras bambalinas para darte lo que necesitas. Sobre todas las cosas, ten fe. Estás a salvo. 
-Días destacados: 4, 22, 29 
-Días desafiantes: 5, 11, 21
+El trígono que el sol forma con Neptuno el 5 de julio mantiene el amor y los sueños vivos y brillantes. Tu mundo se vuelve más grande de la forma más fundamental durante la luna nueva del día 7. No seas tan local. Expándete y busca la aventura. 
+Marte entra a Piscis el día 15. Tal vez sea incómodo, pero el afecto sincero no será negado. Al día siguiente, Venus se torna directo y Mercurio se torna retrógrado. Organízate, y no esperes que el romance se encienda de repente. El amor verdadero sigue vivo, aunque no sea visible. 
+Tu ambiente doméstico entra en enfoque durante la luna llena del 22 de julio. Puedes terminar con facilidad una remodelación, reestructuración, o cualquier otra tarea importante que sea grande y agotante. También puedes encontrar personas que te den una mano, si la quieres o necesitas. Siéntete feliz con la forma en que tu espacio se siente y se ve, incluso si es solo después de acomodar tus libros o pertenencias. 
+La conjunción entre el sol y Júpiter el día 25 ablanda tu corazón y muestra lo generoso que puede ser el mundo. 
+Días destacados: 5, 17, 25
+Días desafiantes: 19, 30
