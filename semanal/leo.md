@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 21 de junio 2021 al 27 de junio 2021 
-description: Horóscopo semanal leo 21 de junio 2021 al 27 de junio 2021. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+title: leo 28 de junio 2021 al 04 de julio 2021 
+description: Horóscopo semanal leo 28 de junio 2021 al 04 de julio 2021. Tómate un tiempo Leo, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-21'
+ lastmod: '2021-06-28'
 ---
 
 
 
-## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+## Tómate un tiempo Leo, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
-Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea Leo. 
- Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
-La fase retrógrada de Mercurio podría no ser bienvenida durante esta temporada, pero podría traer eventos interesantes consigo; como también algunas demoras. Una cita no cumplida o un desvío podría resultar en un encuentro fortuito que cambie tu suerte de alguna manera. Las celebraciones familiares son muy especiales este año, ya que Venus se alinea con Júpiter. Se desarrolla un escenario progresista que podría motivarte a cambiar de trabajo o de profesión.
+Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
+así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final.
+Aunque la presencia del Sol en tu sector profesional te pone en el centro de atención, tal vez disfrutas de la oportunidad de hacer algo impactante. Ésta es tu oportunidad de presumir tus habilidades y demostrarle a los demás lo que eres capaz de hacer. Mercurio también entra a este sector, así que tal vez estés impaciente por dar una presentación que pudiera reafirmar tu imagen. Una vez que el Sol ingrese a tu sector social este fin de semana, la idea de relajarte con tus amistades o disfrutar de eventos comunitarios podría resultar muy atractiva.
 
 ## Dinero
 
-Te enfrentas a un período maravilloso y prometedor con el apoyo de tu sector de viajes, educación superior, y metafísica. La suerte sumada a grandes ideas y transformación significa que eres capaz de hacer mucho más dinero en campos como el derecho, la edición, la escritura, y hacerte de renombre en el extranjero también. Piensa cómo podrías llevar tu mensaje a un público más amplio y el dinero te llegará.
+Esta semana tiene algunas sorpresas para ti. Ciertos aspectos de tu sector profesional te exhortan a poner mucha energía y esfuerzo aquí. Puede ser que estés mucho más ocupado/a que de costumbre y bajo presión de entregas. En pocas palabras, no tendrás mucho tiempo para la diversión. Sin embargo, te podría sorprender el encontrar que has gastado más de lo previsto y necesitas ajustar tus patrones de gasto.

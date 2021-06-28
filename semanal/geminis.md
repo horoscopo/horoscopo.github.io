@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 21 de junio 2021 al 27 de junio 2021 
-description: Horóscopo semanal geminis 21 de junio 2021 al 27 de junio 2021. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+title: geminis 28 de junio 2021 al 04 de julio 2021 
+description: Horóscopo semanal geminis 28 de junio 2021 al 04 de julio 2021. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-21'
+ lastmod: '2021-06-28'
 ---
 
 
 
-## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 
-Despacito Géminis, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo Géminis.
-Con el actual enfoque en tu sector psicológico, no sería para nada una sorpresa si los recuerdos de experiencias pasadas volvieran a aparecer, lo que te alentaría a explorarlas con cuidado y dejarlas ir. Las próximas semanas pueden ser una oportunidad para que hagas una limpieza espiritual y emocional, especialmente si necesitas lidiar con algún asunto un tanto oculto. Los sentimientos enterrados pueden consumir toda tu energía y vitalidad. Este es el momento para que resuelvas algunos de estos problemas y vuelvas a sentirte como antes.
+Por fin has tomado decisiones, y además decisiones que te benefician, 
+por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
+Si hay un problema que persiste, es posible que necesites más tiempo para resolverlo. Puede que un amigo salga a tu rescate con una novedosa perspectiva que te reafirma y te da más seguridad sobre el futuro. Además, una mezcla social de energías podría mejorar tus opciones tanto empresariales, como también románticas. Esta semana, puedes disfrutar de lo mejor de ambos mundos si así lo quieres. Aun así, con el Sol formando un atrevido ángulo con Saturno, ser firme puede evitar que se aprovechen de ti.
 
 ## Dinero
 
-Puede que tengas un poco de tentación a descubrir un poco de belleza oculta en tu vida, tu personalidad o tu estilo. Justo debajo de la superficie, podrías ser una persona completamente diferente a la que todo el mundo ve. Deléitate con el progreso que has hecho en tu vida en lugar de insistir en lo que aún no han logrado alcanzar. El abandonar tus propias necesidades en materia de profesión y dinero no tiene sentido.
+Estás encaminado/a hacia un tiempo afortunado. No sólo te sientes más atractivo/a, también tienes una confianza agradable que los demás encuentran magnética. Esto durará durante las próximas semanas, así que asegúrate de recibir tratamiento de estrella durante ese tiempo. Eres presa de ideas creativas alrededor de tu casa. Sólo asegúrate de que tus planes no exceden tu presupuesto, o por lo menos ten un plan de factor de contingencia en caso de que te pases.
