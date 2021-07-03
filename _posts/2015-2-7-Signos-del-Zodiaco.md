@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 02 de julio 2021
-description: Horóscopos del dia de hoy 02 de julio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 03 de julio 2021
+description: Horóscopos del dia de hoy 03 de julio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-07-02
+ lastmod: 2021-07-03
 ---
-Préstale mucha atención a todo lo que está sucediendo. Lo que no es fácil de hacer con las distracciones de hoy. Tendrías sabiduría en tomar nota sobre lo que sientes que es importante. Esta noche, los sentimientos son lastimados fácilmente cuando la Luna cuadra a Plutón. Comportarte cálida, cariñosa, sabia y gentilmente; además de tener real sinceridad. La dulzura artificial no está permitida. 
+Espera tener una mañana ocupada cuando la Luna forme sextil con Marte. Mientras más consigas lograr, más tiempo dejarás volar a tu imaginación cuando la Luna aspecte a Neptuno esta tarde. Poderes más allá de tu control podrían predominar mientras la Luna cuadre a Plutón esta noche. Ten cuidado, los celos excesivos podrían ser contraproducentes.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
