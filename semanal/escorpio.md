@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 28 de junio 2021 al 04 de julio 2021 
-description: Horóscopo semanal escorpio 28 de junio 2021 al 04 de julio 2021. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: escorpio 05 de julio 2021 al 11 de julio 2021 
+description: Horóscopo semanal escorpio 05 de julio 2021 al 11 de julio 2021. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-28'
+ lastmod: '2021-07-05'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Escorpio, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-Con dos planetas volviéndose retrógrados, incluido Mercurio, podrías descubrir que las demoras son inevitables. ¿Es esto tan malo? Un planeta retrógrado puede brindar la oportunidad de revisar lo que has logrado y asegurarte de haber hecho un trabajo minucioso. Podrías emerger de este período con mejores herramientas para tener éxito en tus planes. Por otra parte, una decisión en torno a una relación reciente podría llegar a una etapa crítica y hacer que te preguntes si debes comprometerte o no.
+Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
+Es posible que decidas que es tiempo de divertirse, especialmente cuando Venus está en tu sector de nuevas aventuras alentándote a que lo hagas. El romance puede ser una posibilidad para que salgas de tu zona de confort, ya sea uniéndote a un club o conociendo gente nueva. Alguien te hará una propuesta interesante que saca a relucir tu lado creativo, así que piénsalo. En cuanto a los asuntos de negocios, presta atención a los detalles ya que puede haber un malentendido.
 
 ## Dinero
 
-Tienes una situación interesante en tus manos esta semana. Se te está pidiendo prestar más atención a cómo te ves, actúas y te proyectar hacia el mundo. Esto es especialmente importante si estás buscando un nuevo trabajo o simplemente quieres cambiar tu imagen en tu empleo actual.
+Tienes luz verde para escribir esas cartas, enviar esos paquetes, y en general lanzar una ofensiva en cuanto a comunicación empresarial se refiere. Si quieres ganar más dinero, cambiar de profesión, o hacerles saber a los demás que tienes una nueva habilidad que ofrecer, hazlo. Tienes todo el apoyo que puedes desear del Universo para captar la atención de los demás. Pon tu mejor pie por adelante.

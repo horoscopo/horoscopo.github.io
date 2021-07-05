@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 28 de junio 2021 al 04 de julio 2021 
-description: Horóscopo semanal geminis 28 de junio 2021 al 04 de julio 2021. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: geminis 05 de julio 2021 al 11 de julio 2021 
+description: Horóscopo semanal geminis 05 de julio 2021 al 11 de julio 2021. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-28'
+ lastmod: '2021-07-05'
 ---
 
 
 
-## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 
-Por fin has tomado decisiones, y además decisiones que te benefician, 
-por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
-Si hay un problema que persiste, es posible que necesites más tiempo para resolverlo. Puede que un amigo salga a tu rescate con una novedosa perspectiva que te reafirma y te da más seguridad sobre el futuro. Además, una mezcla social de energías podría mejorar tus opciones tanto empresariales, como también románticas. Esta semana, puedes disfrutar de lo mejor de ambos mundos si así lo quieres. Aun así, con el Sol formando un atrevido ángulo con Saturno, ser firme puede evitar que se aprovechen de ti.
+Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
+ La gente es como es y no debes martirizarte por ello Géminis.
+Haz planes constructivos con los demás, ya sea para un evento social o la oportunidad de colaborar en un proyecto. Tal parece que tendrás una semana ocupada sin importar lo que estés haciendo. Tus finanzas son puestas bajo enfoque a mitad de semana, animándote a explorar maneras de hacer que tu dinero te produzca más ganancias. Aprovecha esta oportunidad para hacer cambios que puedan ayudarte a pagar deudas y así tener más dinero para divertirte. Venus retrógrado podría ser una llamada a actualizar una vieja habilidad.
 
 ## Dinero
 
-Estás encaminado/a hacia un tiempo afortunado. No sólo te sientes más atractivo/a, también tienes una confianza agradable que los demás encuentran magnética. Esto durará durante las próximas semanas, así que asegúrate de recibir tratamiento de estrella durante ese tiempo. Eres presa de ideas creativas alrededor de tu casa. Sólo asegúrate de que tus planes no exceden tu presupuesto, o por lo menos ten un plan de factor de contingencia en caso de que te pases.
+Tu sector social está iluminado, trayendo gente nueva que es absolutamente necesario que conozcas y ayudándote a formar uniones estratégicas beneficiosas para tus planes profesionales a largo plazo. Sin embargo, es momento de que te vuelvas más responsable con las deudas de tu vida. El no pagar las facturas pendientes solo agrava las cosas, ya que los planetas a veces pueden traer pena y pérdida.

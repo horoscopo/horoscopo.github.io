@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 28 de junio 2021 al 04 de julio 2021 
-description: Horóscopo semanal cancer 28 de junio 2021 al 04 de julio 2021. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+title: cancer 05 de julio 2021 al 11 de julio 2021 
+description: Horóscopo semanal cancer 05 de julio 2021 al 11 de julio 2021. Tienes la semana agitada Cáncer. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-06-28'
+ lastmod: '2021-07-05'
 ---
 
 
 
-## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+## Tienes la semana agitada Cáncer. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 
-Disfruta de la vida Cáncer, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Cáncer. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Cáncer.
-Recibes buenas noticias esta semana cuando el delicioso Venus, ingresa a tu signo el lunes. Debido a que estará aquí durante todo el mes, puedes relajarte y ser tú. Las personas te amarán por tu atención, tolerancia, diplomacia y cordialidad. Puede que también sientas el impulso de cambiar tu imagen para reafirmar cualquier cambio de identidad. Un excelente comienzo podrían ser un nuevo peinado o comprarte ropa. 
-Los sentimientos podrían acumularse cuando el eclipse solar se desarrolla en tu sector social. Este eclipse se produce durante el fin de semana y, debido a que tal vez te sientas más emocional de lo normal, puede que quieras tomar impulsivas decisiones. Esto puede incluir enamorarse, tener una intensa e inolvidable conversación con una de tus amistades o inscribirte en un grupo o incluso en un sitio web de citas. Espera unos días para procesar tus sentimientos y así tendrás una idea más clara de lo que debes hacer.
+Por fin llega lo que tanto estabas esperando Cáncer, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo Cáncer. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana Cáncer, disfrútala al máximo.
+Si alguna vez quisiste aprender a meditar o empezar una disciplina espiritual, la Luna Nueva del martes puede ser uno de los mejores momentos para comenzar. También puede ser igual de útil para comenzar el proceso de visualizar tus deseos todos los días, ya que la práctica hace que la ley de atracción funcione mejor. Venus en tu signo puede coincidir con el deseo de renovar tu imagen durante las festividades para aumentar tu confianza.
 
 ## Dinero
 
-Para ti, esta semana se trata de aumentar considerablemente tu potencial de ingresos. Dondequiera que detectes una oportunidad, haz valer tu voluntad, tus necesidades y tu individualidad. Con la ayuda de los útiles aspectos, el dinero viene cuando cultivas la creatividad en tu pensamiento. En otras palabras, mientras menos hagas las cosas de la misma vieja manera, más lo agradecerás. Es bastante brillante si piensas en ello.
+Te enfrentas a un período de diversión que afecta tanto a niños como familia. Si actualmente te involucras en estas áreas, puede que te percates de que le puedes vender tus productos y servicios a un público muy dispuesto. Si no, piensa en cómo puedes crear productos que atraigan a una variedad de personas en todo el mundo. A medida que usas tus talentos para crear fuentes de ingresos para toda la vida, el siguiente paso es la prosperidad.
