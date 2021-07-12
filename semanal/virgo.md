@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 05 de julio 2021 al 11 de julio 2021 
-description: Horóscopo semanal virgo 05 de julio 2021 al 11 de julio 2021. Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
+title: virgo 12 de julio 2021 al 18 de julio 2021 
+description: Horóscopo semanal virgo 12 de julio 2021 al 18 de julio 2021. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-05'
+ lastmod: '2021-07-12'
 ---
 
 
 
-## Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-Siempre estás sonriendo Virgo, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes Virgo pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio Virgo, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
-La tentación de gastar puede ser fuerte, pero al mismo tiempo, te divertirás mucho. Solo debes asegurarte de poder pagarlo, para que no te arrepientas. El jueves podría traer una sorpresa financiera, que puede ser un beneficio inesperado o una factura inesperada, de modo que ve con tranquilidad. Venus se dirige hacia adelante, lo que puede ayudarte a reorientar cualquier relación que pueda haber sufrido un contratiempo reciente. Las conversaciones que tengas en la próxima semana pueden ayudarte a llevar las cosas a un nuevo nivel más íntimo.
+Has caído en la rutina Virgo, quieres pelear por personas que quizás no tengan mucho en común contigo pero aún así, te sigues aferrando a algo que quizás tenga fecha de caducidad. Necesitas hablar, conversar, pero un largo tiempo y de verdad poner todas y cada una de las cartas sobre la mesa. Te guardas demasiado para ti, para dentro, y por más que intentas sacarlo es como si algo te lo impidiera. Esta semana es buena para hacer balance de lo que quieres, de lo que buscas y de lo que necesitas. No vas a parar, tienes muchas cosas que hacer y eso será lo que te aleje de algunos problemas. Pero cuando eso que hagas se acabe, el problema seguirá estando presente, seguirá en el mismo sitio donde lo dejaste, y como no lo soluciones permanecerá ahí todo el tiempo. No te agobies y respira hondo cuando algo se ponga difícil. De todo se sale Virgo, ya lo sabes. Las pequeñas cosas cuentan mucho ahora así que, empieza a decir que “si” a cualquier plan que te propongan, por pequeño que sea. Si quieres salvar algo, habla Virgo, habla y saca de una vez todo ese universo de sentimientos y de emociones que tienes dentro. Como no seas claro de verdad y sólo tragues y tragues, todo va a salir mal. Disfruta esta semana pero aclárate un poco…
+Tus relaciones están bajo enfoque en gran medida a principios de la semana debido a que la Luna Llena saca a relucir sentimientos que pudiera haber sido enterrados bajo la superficie. Ten cuidado al discutir cuestiones delicadas, ya que se requerirá de tacto y diplomacia. Evita hacer o decir cualquier cosa que pudieras llegar a lamentar más tarde. Préstale atención a cualquier corazonada que te surja hacia el final de la semana, hacerlo podría ayudarte a ahorrar dinero o evitar retrasos. El domingo es ideal para el romance o cualquier actividad que disfrutes.
 
 ## Dinero
 
-Es una época de grandes cambios para ti. Puede que tu lugar de trabajo se esté moviendo en una dirección más agradable, y que tú seas capaz de crear un poco de paz por ti mismo/a en medio de la tensión de los demás. Pero el Universo exige nada menos que la completa transformación cuando se trata de tus patrones de gastos con los miembros de la familia, los niños, o parejas románticas. Poco hace que tu punto de vista sea entendido, no tienes que irte por la borda.
+Esta semana puedes estar tratando de encontrar una manera de obtener tu rebanada de pastel y comértela también. Tu mente está trabajando horas extras para sacarte de cualquier obligación financiera que puedas tener, y el Universo te ayuda a llevar esto al siguiente nivel. Asegúrate de volver a revisar todas las cifras antes de firmar cualquier cosa.

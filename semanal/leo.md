@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 05 de julio 2021 al 11 de julio 2021 
-description: Horóscopo semanal leo 05 de julio 2021 al 11 de julio 2021. Retírate del mundo artificial Leo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+title: leo 12 de julio 2021 al 18 de julio 2021 
+description: Horóscopo semanal leo 12 de julio 2021 al 18 de julio 2021. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Leo, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-05'
+ lastmod: '2021-07-12'
 ---
 
 
 
-## Retírate del mundo artificial Leo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Leo, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 
-No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues Leo, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe…
-Con la continua conexión entre Júpiter y Plutón en tu signo, podrías encontrar en ti una fuerte motivación para salirte de tu zona de confort y hacer un movimiento audaz. Hay una buena probabilidad de que ya te hayas estado preparando para esto durante algún tiempo, en cuyo caso deberías lanzarte a ello. Por otro lado, una mezcla más etérea de energías sugiere que las personas que te rodearán durante los próximos días podrían no ser del todo fiables. Si quieres algo bien hecho, puede que sea mejor hacerlo tú que confiar en alguien más.
+Tienes conversaciones pendientes Leo, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad Leo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas Leo, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
+Con Saturno, tu planeta personal, moviéndose hace algún tiempo a través de tu sector espiritual, te convertiste en una persona más sabia gracias a determinadas experiencias. No siempre habrás tenido momentos cómodos, quizá algunos fueron dolorosos, pero esto podría haberte hecho abrir los ojos. Si los asuntos del día a día parecen un poco triviales por momentos, pon en práctica este conocimiento para cambiar tu manera de ver las cosas. Por último, ese deseo que sientes de querer conocer más a una persona, podría valer la pena hacerlo realidad.
 
 ## Dinero
 
-Es una semana extraña en tu sector de empleo. Parte de ti quiere avanzar mientras que otra parte de ti quiere quedarse atrás, así que puede que te sea difícil avanzar en las diversas cuestiones relacionadas con el trabajo. Puede haber algo de tensión entre tu deseo de avanzar en tus objetivos de carrera y la realidad en cómo te estás proyectando actualmente hacia el mundo. Es hora de intensificar tu espíritu.
+Tienes entusiasmo para moverte esta semana, especialmente con respecto a tu dinero. Esto puede proporcionarte un nuevo impulso para salir y encontrar un nuevo trabajo o pensar cómo iniciar un negocio secundario para aumentar tus ingresos. El Universo quiere que te destaques entre la multitud, así que asegúrate de ser visto y oído como individuo. Ciertos aspectos en tu sector de carrera indican que debes esforzarse para proporcionar una imagen tranquila y confiada.

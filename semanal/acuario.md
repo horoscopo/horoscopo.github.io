@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 05 de julio 2021 al 11 de julio 2021 
-description: Horóscopo semanal acuario 05 de julio 2021 al 11 de julio 2021. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
+title: acuario 12 de julio 2021 al 18 de julio 2021 
+description: Horóscopo semanal acuario 12 de julio 2021 al 18 de julio 2021. Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-05'
+ lastmod: '2021-07-12'
 ---
 
 
 
-## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
+## Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 
-Esta semana estás un poco impredecible Acuario, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica Acuario… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Acuario. Tú solito.
-La semana comienza con un toque muy social para ti y se extiende durante todo el mes. Con el amoroso Venus, entrando a este sector el jueves, puede ser una excelente oportunidad para que te muevas en círculos nuevos y explores otras opciones para conocer personas y disfrutar la vida. ¿A solas? Puede que tengas más opciones de citas ahora, por lo que vale la pena formar parte de grupos o clubes que reflejen tus intereses y pasiones. Por último, deberías analizar en profundidad una decisión sobre tu futuro.
+Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien Acuario pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
+¡Es una gran semana! Saturno ingresa a tu signo el martes. De aquí en adelante, te tomarás tus metas y planes más en serio, y probablemente logres mucho más durante este proceso. Pero también hay dos planetas más que ingresan a este sector: el sol y el seductor Venus. Durante la próxima semana, puede que estés en el centro de actividades festivas, organizando todo y asegurándote de que todos la pasen bien. Además, tu vida social sigue teniendo un maravilloso brillo.
 
 ## Dinero
 
-Estás a punto de tomar ventaja en una nueva empresa generadora de dinero. La suerte y la expansión vienen junto con la oportunidad, lo que significa que tendrás que prepararte para aceptar las ofertas de empresarios o inversionistas que quieran asegurarse de que tus ideas y productos tengan éxito. La ventana de oportunidad podría ser pequeña, por lo que ten todo preparado. Actualiza tu currículum y formula un plan de negocios.
+Si has estado buscando maneras de ganar más dinero, es posible que mirar hacia el pasado traiga los mejores resultados esta semana. Esto se debe en parte a tu casa del dinero y valores. Explora antiguos puestos de trabajo, empresarios y habilidades para atraer más dinero en efectivo. Podrías ser capaz de usar tales para conectar con conocidos de una época anterior de tu vida que podrían ayudarte a crear una cartera de inversiones para proteger tu futuro.

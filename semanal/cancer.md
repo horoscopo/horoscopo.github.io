@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 05 de julio 2021 al 11 de julio 2021 
-description: Horóscopo semanal cancer 05 de julio 2021 al 11 de julio 2021. Tienes la semana agitada Cáncer. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+title: cancer 12 de julio 2021 al 18 de julio 2021 
+description: Horóscopo semanal cancer 12 de julio 2021 al 18 de julio 2021. Es difícil comprenderte Cáncer, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-05'
+ lastmod: '2021-07-12'
 ---
 
 
 
-## Tienes la semana agitada Cáncer. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+## Es difícil comprenderte Cáncer, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 
-Por fin llega lo que tanto estabas esperando Cáncer, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo Cáncer. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana Cáncer, disfrútala al máximo.
-Si alguna vez quisiste aprender a meditar o empezar una disciplina espiritual, la Luna Nueva del martes puede ser uno de los mejores momentos para comenzar. También puede ser igual de útil para comenzar el proceso de visualizar tus deseos todos los días, ya que la práctica hace que la ley de atracción funcione mejor. Venus en tu signo puede coincidir con el deseo de renovar tu imagen durante las festividades para aumentar tu confianza.
+Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
+Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
+Ten cuidado al firmar contratos empresariales o negocios relacionados con tu trabajo debido al aspecto formado entre el Sol y Neptuno de esta semana. En particular, lee los términos, condiciones y las clausulas. Hagas lo que hagas, no dejes nada al azar. La Luna Llena del martes podría animarte a lanzar la precaución al viento al irte de compras. Si lo haces, podría ser conveniente establecerte un límite. ¡No te gastes todo tu dinero! Escuchar a tu intuición a diario podría ser muy beneficioso.
 
 ## Dinero
 
-Te enfrentas a un período de diversión que afecta tanto a niños como familia. Si actualmente te involucras en estas áreas, puede que te percates de que le puedes vender tus productos y servicios a un público muy dispuesto. Si no, piensa en cómo puedes crear productos que atraigan a una variedad de personas en todo el mundo. A medida que usas tus talentos para crear fuentes de ingresos para toda la vida, el siguiente paso es la prosperidad.
+Tu sector de relaciones se pone de relieve, lo que significa que puedes tener la tentación de socializar más, conocer gente nueva y cultivar uniones existentes con los demás. Sin embargo, también puedes tener la tentación de mudarte o vender una propiedad por un pequeño margen de ganancia por el simple hecho de salirte. Muévete lentamente para que no te arrepientas de tu decisión después.

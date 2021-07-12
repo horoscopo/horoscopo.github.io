@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 05 de julio 2021 al 11 de julio 2021 
-description: Horóscopo semanal capricornio 05 de julio 2021 al 11 de julio 2021. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+title: capricornio 12 de julio 2021 al 18 de julio 2021 
+description: Horóscopo semanal capricornio 12 de julio 2021 al 18 de julio 2021. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-05'
+ lastmod: '2021-07-12'
 ---
 
 
 
-## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 
-No pelees Capricornio, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente Capricornio, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador Capricornio, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
-La presencia de Mercurio en Escorpión te anima a cavar más profundamente en las situaciones y circunstancias que te rodean. De hecho, durante la próxima semana, puede que sientas intriga (o confusión) hacia una relación que te fascina, pero que también te asusta. A mitad de semana, una poderosa mezcla de energías que involucra a Plutón, tu regente, podría verte haciéndote cargo de cierta situación de una vez por todas. Y puede que esto sea exactamente lo que necesitas para ayudarte a sentirte optimista y en control.
+No sueles dar la llave de tu corazón a nadie Capricornio, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia Capricornio, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana Capricornio.
+Estarás de humor para relajarte, y con esta deliciosa mezcla de energías que aparece, valdrá la pena aprovechar al máximo cualquier oportunidad disponible. Mientras que el curioso Mercurio sigue retrógrado, una conexión romántica podría parecer prometedora, pero puede que no sea fácil seguir adelante con ella por el momento. Sin embargo, puedes divertirte mucho en casa. A medida que la vitalidad de Marte ingresa a este sector el sábado, puede que te dispongas a eliminar el desorden y a que tu casa esté limpia y ordenada.
 
 ## Dinero
 
-Ciertas personas que conoces pueden bien servir a tu sector de deuda y dinero compartido. Ganarás más dinero cuando explotas las conexiones que ya tienes. Tus ideas son válidas. Sólo necesitas ayuda y financiamiento para seguir adelante. No te vendas por menos. Tienes todo lo que necesitas para tener éxito ahora.
+Tienes luz verde para cambiar tu forma de verte y actuar. Eso, a su vez, te ayudará a subir la escalera y hacer más dinero. Si has querido cambiar tu guardarropa, look, o forma de ser, esto es apoyado e incluso alentado ahora. Eclipsa a un mentor de confianza o forja tu propio camino. El Universo trae belleza, atracción, y una especie de afirmación hacia tus necesidades. Juntos, estos aumentan tu poder en el trabajo.

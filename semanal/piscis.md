@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 05 de julio 2021 al 11 de julio 2021 
-description: Horóscopo semanal piscis 05 de julio 2021 al 11 de julio 2021. Fuera las preocupaciones. Tira del carro Piscis, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+title: piscis 12 de julio 2021 al 18 de julio 2021 
+description: Horóscopo semanal piscis 12 de julio 2021 al 18 de julio 2021. La guerra que tienes dentro está deseando encontrar un poco de paz Piscis, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-05'
+ lastmod: '2021-07-12'
 ---
 
 
 
-## Fuera las preocupaciones. Tira del carro Piscis, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+## La guerra que tienes dentro está deseando encontrar un poco de paz Piscis, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 
-No te bajonees porque un día no hayas conseguido todo lo que te habías propuesto, al día siguiente podrás crear otro tipo de oportunidades que te lleven a donde quieres. 
-Roma no se hizo en un día. Y sal un poco más, que hay gente que te echa de menos, que echa de menos tu positividad, tus risas, tu ingenio, tus ganas…
-Un agradable vínculo al comienzo de la semana sugiere que una película o novela podría inspirarte a soñar a lo grande. Si algunos aspectos de tu vida fueron difíciles últimamente, leer sobre las aventuras y los triunfos de otra persona o verlos en pantalla puede motivarte para seguir adelante. Por otra parte, Marte entrará a tu sector doméstico más tarde en la semana y esto podría ser una indicación para que liberes espacio y tengas más lugar para pensar.
+A veces amas demasiado Piscis, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar Piscis, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. Piscis, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. Piscis, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos Piscis, y siente… Feliz semana…
+El lunes podría ser un buen momento para una fiesta o celebración con la Luna Llena trayendo consigo un ambiente divertido y optimista. Debido a que es probable que todos anden un poco sensibles, ten cuidado con lo que dices o sugieres. Evita hacer cualquier cosa que pudieras llegar a lamentar unos días más tarde. Mercurio forma un formidable aspecto el jueves y viernes que podría resolver un problema familiar o darle un giro positivo a una idea que ha estado presente desde hace algún tiempo. El domingo podría ser un día profundamente romántico.
 
 ## Dinero
 
-Hay algunos problemas en tu hogar, en los que te estás muriendo por gastar. Desde querer un espacio más amplio a comprometerte en hacer mejoras, es crucial determinar de antemano lo que puedes gastarte. Querrás entretener e impresionar a aquellos con quienes haces negocios. No te preocupes. Todo viene a su debido tiempo. Primero trabaja y luego recoge los frutos.
+Esta semana, tu sector de carrera se ve afectado. El Universo te está empujando a tomar algunas decisiones que has estado posponiendo por un tiempo. Si has querido cambiar de carrera o hacer investigación adicional, es el momento de echarlo a andar. Este aspecto tiene tenencia a empujarte a hacer lo que es correcto.
