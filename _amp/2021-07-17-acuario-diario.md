@@ -1,0 +1,25 @@
+---
+layout: amp
+title: acuario hoy gratis 17 de julio del 2021 
+permalink: /horoscopo-diario-gratis/amp/acuario/
+normallink: /horoscopo-diario-gratis/acuario/
+home: FALSE
+horoscopo:
+ signo: acuario
+ video: -DQpmrrAIeU
+ogimg: /images/acuario_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Existe alguien cercano a ti que ansía acercarse más. Posiblemente, esta persona tiene temor de arruinar algo bueno, por lo tanto tiene miedo de hacer el próximo movimiento. La orientación de este día le dará a tus poderosas emociones seguridad. Haz un movimiento para estar un paso más cerca de esta persona. Descubrirás que se correrá el velo y una cantidad importante de pasión que ni imaginabas se liberará.
+
+## Amor
+
+Eres una persona amable en la oficina pero esta noche eres tu otro yo, que sólo tu amante misterioso/a conoce. Para esa persona, te estás convirtiendo en alguien conocido por su amor a la diversión y la aventura. ¿Quién podría ni siquiera imaginar que no hace demasiado tiempo te veían como alguien tímido?
+
+## Trabajo
+
+A veces sueñas con la posibilidad de trabajar en una burbuja, sin que absolutamente nadie te moleste. Lamentablemente, hoy tu sueño no se concretará. En realidad, todo funcionará del modo contrario. Mejor será que no trates de esconderte. Tu estrategia simplemente no funcionará.
