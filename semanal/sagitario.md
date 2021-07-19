@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 12 de julio 2021 al 18 de julio 2021 
-description: Horóscopo semanal sagitario 12 de julio 2021 al 18 de julio 2021. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+title: sagitario 19 de julio 2021 al 25 de julio 2021 
+description: Horóscopo semanal sagitario 19 de julio 2021 al 25 de julio 2021. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-12'
+ lastmod: '2021-07-19'
 ---
 
 
 
-## No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 
-Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Sagitario, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Sagitario, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
-Una conexión entre el fogoso Marte y el precavido Saturno en tu sector del hogar podría inspirarte a organizarte al comienzo de la semana. Si tu sector de hogar y la familia no han estado tan bien como te gustaría, podrías sentir el impulso de resolver el problema. Dividirlo en partes más pequeñas puede ser una forma sencilla de abordar la cuestión y, al mismo tiempo, te permite hacer otras cosas. Si puedes delegar algunas tareas, hazlo. 
-Podría haber un conflicto con una pareja, un familiar o incluso una amistad que tiene ansias por pasar un tiempo contigo. Puede que debas llegar a un compromiso en este aspecto. Por otro lado, debido a que Mercurio está en su fase retrógrada en tu sector de relaciones, podría haber una reunión o celebración. Si estás pensando en organizarla en tu casa, esta sería otra razón para ordenar todo. Si te decides a hacerlo, el evento puede ser muy exitoso.   
+Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
+ sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
+Aunque ciertos aspectos de tu vida no se estén moviendo tan rápido como desearías, esta semana sigue mostrando promesa. De hecho, debido a la gran cantidad de planetas actualmente retrocediendo, sería bueno que te centraras en proyectos más pequeños y más fácilmente manejables o dividir los más grandes en partes más pequeñas. Existe la posibilidad de que tu confianza sea más baja de lo normal, pero no permitas que eso te impide seguir adelante. La Luna Nueva del viernes podría ser un llamado a continuar tus esfuerzos incluso tomando pasos pequeños.
 
 ## Dinero
 
-Es una semana de contradicciones. Puede que estés pensando en una reciente relación para ver lo que pudiste haber hecho de otra manera. Los mentores, socios comerciales e inversionistas pueden no ser todo lo que parecían ser hace unas semanas. Es hora de revaluar tus asociaciones. Mientras tanto, tu sector social se abre. Puedes encontrar nuevas personas que comparten tu misma visión para trabajar en conjunto si es necesario. Las mujeres serán especialmente útiles.
+Ahora estás en un período de redefinición de lo que eres y cómo te proyectas al mundo. El Universo te está pidiendo que prestes mucha atención a tu carrera. Si no es la que deseas tener, este es el momento de cambiarlo. No vas a conseguir mucho más apoyo del que ya tienes.

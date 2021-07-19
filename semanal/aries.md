@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 12 de julio 2021 al 18 de julio 2021 
-description: Horóscopo semanal aries 12 de julio 2021 al 18 de julio 2021. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+title: aries 19 de julio 2021 al 25 de julio 2021 
+description: Horóscopo semanal aries 19 de julio 2021 al 25 de julio 2021. Hay personas que juegan en otra liga Aries, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-12'
+ lastmod: '2021-07-19'
 ---
 
 
 
-## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+## Hay personas que juegan en otra liga Aries, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 
-Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí Aries, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
-Es poco probable que la semana vaya según lo previsto, ya que alguien podría romper una promesa o cancelar una salida. También tendrás que mantener tu ingenio en tu trabajo, ya que una confusa influencia podría causar que cometas un error o descuides una tarea importante. Escribir una lista de tareas por hacer y tachar cada elemento a su vez puede ayudarte a navegar a lo largo de un laberinto de actividades. Dicho esto, ¡aprovecha cualquier oportunidad que tengas para una nueva experiencia, viaje, o aventura!
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo Aries. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que Aries estalla, nadie se salva.
+Mercurio se une al Sol en el sector superior de tu carta, por lo que durante las próximas semanas podrías emocionarte con respecto a ciertos planes laborales u otro tipo de ambiciones. Esta es tu oportunidad para impresionar a personas clave al mostrarles tus muchos talentos. Con Marte formando un incómodo ángulo con Urano más adelante en la semana, podrías hacer un movimiento que te sorprenda incluso a ti. Si bien esto puede ser liberador, evita espantar a tus amistades cercanas. Por último, unirte a un nuevo club o grupo podría ser beneficioso.
 
 ## Dinero
 
-Te encanta hacer que tu lugar de trabajo sea tan cómodo como tu casa, y esto podría implicar hacer que los demás en el trabajo se sientan como en familia. Con un aspecto armonioso ahora, es muy probable que lleves esto un paso más allá debido a que afecta la zona de tu gráfico que rige los niños, familia, romance y diversión. Suena como si organizar un evento para la empresa no fuera una mala idea para mantener la moral alta. Organizar juegos para entretener a todos será más que bueno.
+Es una gran semana para trazar un plan de negocios y pensar en cómo recaudar dinero para éste. Podrías estar pensando en cómo recaudar fondos a través de beneficios, préstamos, subvenciones e incluso donaciones en especie de empresas de mayor tamaño. Ahora más que nunca es posible que recibas una respuesta positiva. El Universo indica un momento de expansión en tu círculo social.

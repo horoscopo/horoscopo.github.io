@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 12 de julio 2021 al 18 de julio 2021 
-description: Horóscopo semanal cancer 12 de julio 2021 al 18 de julio 2021. Es difícil comprenderte Cáncer, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: cancer 19 de julio 2021 al 25 de julio 2021 
+description: Horóscopo semanal cancer 19 de julio 2021 al 25 de julio 2021. Tu presente y tu futuro valen muchísimo la pena Cáncer. La vida siempre se acaba equilibrando Cáncer. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-12'
+ lastmod: '2021-07-19'
 ---
 
 
 
-## Es difícil comprenderte Cáncer, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## Tu presente y tu futuro valen muchísimo la pena Cáncer. La vida siempre se acaba equilibrando Cáncer. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 
-Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
-Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
-Ten cuidado al firmar contratos empresariales o negocios relacionados con tu trabajo debido al aspecto formado entre el Sol y Neptuno de esta semana. En particular, lee los términos, condiciones y las clausulas. Hagas lo que hagas, no dejes nada al azar. La Luna Llena del martes podría animarte a lanzar la precaución al viento al irte de compras. Si lo haces, podría ser conveniente establecerte un límite. ¡No te gastes todo tu dinero! Escuchar a tu intuición a diario podría ser muy beneficioso.
+La zona de confort es un sitio bonito Cáncer, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más Cáncer, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida Cáncer. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto Cáncer, y tú mismo te lo notas, no la cagues por nada ni por nadie.
+Si puedes limar asperezas dentro de un desacuerdo familiar o una diferencia de opinión, la semana por delante tendría mucho que ofrecerte. Puede que haya uno o dos temas que tengas que circunnavegar, los cuales son propensos a involucrar la obstinada mentalidad de otras personas. Ya habrá más que suficiente para mantenerte tu mente felizmente ocupada una vez que el Sol entre a Géminis el Jueves. Además, la continua presencia de Júpiter en tu sector social le añade un brillo especial a una candente cita.
 
 ## Dinero
 
-Tu sector de relaciones se pone de relieve, lo que significa que puedes tener la tentación de socializar más, conocer gente nueva y cultivar uniones existentes con los demás. Sin embargo, también puedes tener la tentación de mudarte o vender una propiedad por un pequeño margen de ganancia por el simple hecho de salirte. Muévete lentamente para que no te arrepientas de tu decisión después.
+Andas muy comunicativo/a ahora. El hablar, conversar en línea e incluso en sitios de redes sociales de internet está  a tu favor. Lo estás llevando a otro nivel, estés pensando en escribir tus memorias. Tienes una cantidad increíble de energía creativa en este momento. Utilízala para tu beneficio financiero teniendo en cuenta tu audiencia; a continuación, busca los mercados con el mayor alcance para obtener los mejores resultados.

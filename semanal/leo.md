@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 12 de julio 2021 al 18 de julio 2021 
-description: Horóscopo semanal leo 12 de julio 2021 al 18 de julio 2021. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Leo, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+title: leo 19 de julio 2021 al 25 de julio 2021 
+description: Horóscopo semanal leo 19 de julio 2021 al 25 de julio 2021. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Leo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-12'
+ lastmod: '2021-07-19'
 ---
 
 
 
-## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Leo, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+## Por muy desconfiado y duro que parezcas ser, al final acabas confiando Leo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 
-Tienes conversaciones pendientes Leo, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad Leo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas Leo, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
-Con Saturno, tu planeta personal, moviéndose hace algún tiempo a través de tu sector espiritual, te convertiste en una persona más sabia gracias a determinadas experiencias. No siempre habrás tenido momentos cómodos, quizá algunos fueron dolorosos, pero esto podría haberte hecho abrir los ojos. Si los asuntos del día a día parecen un poco triviales por momentos, pon en práctica este conocimiento para cambiar tu manera de ver las cosas. Por último, ese deseo que sientes de querer conocer más a una persona, podría valer la pena hacerlo realidad.
+Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
+Pareces estar en el centro de atención, probablemente uno de los mejores lugares en los cuales estar esta semana. Con la Luna Nueva en tu sector profesional y de ambición, estarás en una buena posición para iniciar un objetivo que pudiera tener potencial para cambiar tu vida. Puede haber personas que no estén de acuerdo contigo y es posible que tengas que tener una sincera charla con algunas de ellas. Sin embargo, puede que sólo se requiera de un enfoque diplomático para convencerlas.
 
 ## Dinero
 
-Tienes entusiasmo para moverte esta semana, especialmente con respecto a tu dinero. Esto puede proporcionarte un nuevo impulso para salir y encontrar un nuevo trabajo o pensar cómo iniciar un negocio secundario para aumentar tus ingresos. El Universo quiere que te destaques entre la multitud, así que asegúrate de ser visto y oído como individuo. Ciertos aspectos en tu sector de carrera indican que debes esforzarse para proporcionar una imagen tranquila y confiada.
+Estás a punto de tomar ventaja de nuevas oportunidades. Tus energías masculinas y femeninas están trabajando en conjunto, lo que tiene un efecto positivo en tu balance final. Tus inversiones y propiedad compartida pueden requerir alguna acción de tu parte. Espera unos días antes de firmar cualquier documento o convenio. Tú y tu pareja deben de estar en la misma frecuencia.
