@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de julio 2021
-description: Horóscopos del dia de hoy 18 de julio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de julio 2021
+description: Horóscopos del dia de hoy 19 de julio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-07-18
+ lastmod: 2021-07-19
 ---
-Sé feliz y cultiva alegría en tu vida. El aspecto entre la Luna y Plutón confiere una mente deductiva, visiones del futuro y la persistencia de enfocarse en todo ello. Sueña en grande. Esta noche, busca lo inesperado mientras la Luna cuadre a Urano. ¿No te había aburrido ya un poco la misma rutina de siempre?
+Hoy, la tendencia es actuar repentinamente durante la oposición entre la Luna y Urano. Siéntate, respira profundamente y espera hasta que el impulso pase. Hay un tremendo poder en las palabras cuando Mercurio conjunta a Plutón esta noche. Ciertamente, tu modo de comunicarte inspira respeto. ¿Qué es lo que vas a decir?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
