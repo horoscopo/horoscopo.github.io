@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 19 de julio 2021 al 25 de julio 2021 
-description: Horóscopo semanal geminis 19 de julio 2021 al 25 de julio 2021. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: geminis 26 de julio 2021 al 01 de agosto 2021 
+description: Horóscopo semanal geminis 26 de julio 2021 al 01 de agosto 2021. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-19'
+ lastmod: '2021-07-26'
 ---
 
 
 
-## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 
-Los finales no significan que hayas fallado en algo Géminis, los finales a veces sirven para abrir nuevas puertas a algo. Géminis, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza Géminis…
-Con Mercurio, el planeta de la mente y la comunicación, regresando a tu signo, el pasado puede reaparecer en el presente. Puedes sentir la motivación de organizar una reunión, o podrías encontrarte con viejas amistades o incluso un viejo amor de forma inesperada. Pero también podrías verte en la tentación de escapar de tanta rutina y hacer algo un poco diferente, como salir de viaje o disfrutar de un tiempo a solas. Y si te lo propones, una gran idea podría resultar exitosa.
+Tienes que plantarte Géminis, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana Géminis.
+Mercurio ingresa lentamente a tu sector de relaciones para motivarte a tener más conversaciones e interacciones. Medir las reacciones de otras personas antes de tomar decisiones clave puede ser crucial si todo funciona de acuerdo al plan. También, otros factores podrían promover ideas que tienen un impacto en tus ingresos y habilidad para ganar dinero. Si has experimentado algunas dificultades en esta área últimamente, una mezcla clave de energías podría coincidir con una oferta laboral o propuesta de negocios muy buena para ti.
 
 ## Dinero
 
-Estás pensando en maneras de atraer más dinero a la semana para poder disfrutar de un estilo de vida más cómodo. No es un mal plan, considerando todo. El reto será equilibrar tu deseo de divertirte con tu familia y pareja romántica con tu necesidad de establecer tu propia creatividad. Tu impulso de escribir, reproducir y crear, construye recompensas emocionales y rendimientos monetarios.
+Ciertos aspectos en tu sector de dinero en efectivo pueden limitar o restringir lo que eres capaz de ganar. En vez de entrar en pánico, piensa en cómo este período te puede proporcionar el tiempo que necesitas para planear tu próximo movimiento. Puedes hacer de un hobby,  un trabajo de tiempo completo con un poco de ingenio y acción concentrada. Tu imaginación no tiene rival ahora mismo. No dejes que un revés financiero te empuje fuera de curso.

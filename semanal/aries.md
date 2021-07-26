@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 19 de julio 2021 al 25 de julio 2021 
-description: Horóscopo semanal aries 19 de julio 2021 al 25 de julio 2021. Hay personas que juegan en otra liga Aries, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+title: aries 26 de julio 2021 al 01 de agosto 2021 
+description: Horóscopo semanal aries 26 de julio 2021 al 01 de agosto 2021. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-19'
+ lastmod: '2021-07-26'
 ---
 
 
 
-## Hay personas que juegan en otra liga Aries, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo Aries. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que Aries estalla, nadie se salva.
-Mercurio se une al Sol en el sector superior de tu carta, por lo que durante las próximas semanas podrías emocionarte con respecto a ciertos planes laborales u otro tipo de ambiciones. Esta es tu oportunidad para impresionar a personas clave al mostrarles tus muchos talentos. Con Marte formando un incómodo ángulo con Urano más adelante en la semana, podrías hacer un movimiento que te sorprenda incluso a ti. Si bien esto puede ser liberador, evita espantar a tus amistades cercanas. Por último, unirte a un nuevo club o grupo podría ser beneficioso.
+Empieza a hacerte promesas a ti mismo Aries, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura Aries. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
+Puede que sientas tentación a hacer una compra o tomar una decisión empresarial que no sea adecuada para ti. Si alguien trata de manipularte para que compres o firmes algo, ¡no lo permitas! Tómate tiempo para investigar tus opciones y saber si hay algunas mejores. Podrías terminar ahorrándote una gran cantidad de tiempo y dinero. Saturno regresa de nuevo a tu sector de romance y creatividad, lo que podría verte con ganas de sobresalir en un pasatiempo o deporte incluso si significa que tienes que esforzarte más.
 
 ## Dinero
 
-Es una gran semana para trazar un plan de negocios y pensar en cómo recaudar dinero para éste. Podrías estar pensando en cómo recaudar fondos a través de beneficios, préstamos, subvenciones e incluso donaciones en especie de empresas de mayor tamaño. Ahora más que nunca es posible que recibas una respuesta positiva. El Universo indica un momento de expansión en tu círculo social.
+Recibes ayuda con tu vida emocional ahora. El Universo afecta la manera en la que procesas y expresas emociones, sobre todo cuando se trata de la forma en la que enseñas y aprendes nuevas habilidades. ¡Ahora recibes una gran cantidad de apoyo para el uso de redes sociales para estar en contacto con nuevas formas de compartir tus habilidades y ganar dinero en el proceso!

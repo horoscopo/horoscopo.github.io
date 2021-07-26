@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 19 de julio 2021 al 25 de julio 2021 
-description: Horóscopo semanal sagitario 19 de julio 2021 al 25 de julio 2021. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+title: sagitario 26 de julio 2021 al 01 de agosto 2021 
+description: Horóscopo semanal sagitario 26 de julio 2021 al 01 de agosto 2021. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-19'
+ lastmod: '2021-07-26'
 ---
 
 
 
-## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 
-Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
- sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
-Aunque ciertos aspectos de tu vida no se estén moviendo tan rápido como desearías, esta semana sigue mostrando promesa. De hecho, debido a la gran cantidad de planetas actualmente retrocediendo, sería bueno que te centraras en proyectos más pequeños y más fácilmente manejables o dividir los más grandes en partes más pequeñas. Existe la posibilidad de que tu confianza sea más baja de lo normal, pero no permitas que eso te impide seguir adelante. La Luna Nueva del viernes podría ser un llamado a continuar tus esfuerzos incluso tomando pasos pequeños.
+Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen.
+La Luna Llena del inicio de semana puede ser excelente para todo tipo de celebraciones y eventos sociales. Si organizas una fiesta, tal podría ser todo lo que esperabas - y más. Mientras tanto, el enfoque cambia a tu sector de estilo de vida y bienestar, animándote a pensar en tus hábitos y cómo contribuyen a tu bienestar en general. Hacerle cambios a tu dieta y rutina de ejercicio podría ser la clave para sentirte con más energía y optimismo del que has sentido en mucho tiempo.
 
 ## Dinero
 
-Ahora estás en un período de redefinición de lo que eres y cómo te proyectas al mundo. El Universo te está pidiendo que prestes mucha atención a tu carrera. Si no es la que deseas tener, este es el momento de cambiarlo. No vas a conseguir mucho más apoyo del que ya tienes.
+Esta semana tiene algunos cambios importantes para ti en las áreas de niños, romance y diversión. Si tu profesión es la enseñanza,  el romance de algún tipo o proveer risa de algún tipo, te ganarás mucho dinero en efectivo. Las profesiones que involucran hablar y escribir te enviarán a buenas situaciones.
