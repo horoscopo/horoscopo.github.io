@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo escorpio julio 2021
-description: El Horóscopo julio de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo escorpio agosto 2021
+description: El Horóscopo agosto de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo escorpio julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo escorpio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo escorpio, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-La Luna Llena del 8 de julio te permite sentir profundamente los problemas más grandes y más distantes del mundo. Incluso tendrás algunas soluciones que puedes aplicar en tu vecindario más próximo. Apasiónate a nivel global y haz buenas acciones a nivel local. La Luna Nueva del 23 de julio resalta tus movimientos profesionales o presencia pública. Quizás sientes timidez, pero tendrás mucha visibilidad. Lo que haces y dices será notado y recordado. Saca el mayor provecho de esto y hazlo bien. La conjunción entre el Sol y Marte del 26 de julio podría prender en llamas un problema o relación que estaba a fuego lento. Juega limpio. 
+El romane tiene un brillo dorado bajo la Luna Nueva del 2 de agosto. Siente la magia de la emoción. Puede que sea más sincera y sustancial de lo que piensas. Bajo la Luna Llena del 18 de agosto, ten honestidad contigo y haz un pequeño cambio para bien. Podría ser tan pequeño como organizar y colocar las cosas en el mismo lugar, o escuchar un poco más y ser más paciente con tu pareja. Mostrar tu bondad ahora te beneficiará más tarde. El 30 de agosto será un día lleno de mensajes confusos conforme Mercurio se torna retrógrado y la Luna forma un travieso trígono con Urano. 

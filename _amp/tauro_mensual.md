@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo tauro julio 2021 
+title: Horoscopo tauro agosto 2021 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-No permitas que la luna llena del 3 de julio te dé una sensación de inseguridad. Mucha gente te respalda, y tienes recursos que están completamente pasados por alto. De hecho, ahora estás en excelente forma. Marte entra a Escorpión el día 9. Siéntete con fuerza y energía, y ten todo preparado antes de tiempo. Dale una mano a tus amistades o familiares. El dinero es un asunto importante durante la luna nueva del 17 de julio. Fácilmente podrías gastar demasiado. Al mismo tiempo, podrías recibir un generoso e inesperado regalo. No esperes nada, sé amable y mira qué sucede. Los astros están planeando tesoros para ti. 
+Marte ingresa a Cáncer el 4 de agosto. Si has tenido una sensación de estancamiento o has retrasado una reunión en tu casa o con la familia, puedes hacerlo ahora. Tu mundo está repleto de entusiasmo y oportunidades sociales durante la Luna Llena del 9 de agosto. Personas de todos los rincones del mundo pueden atraer tu atención y opacar tu afición por un lugar o una actividad favoritos. Disfruta los nuevos horizontes. La familia y la vida hogareña se reavivan de gran forma con la Luna Nueva del 23 de agosto. Haz un gran cambio o mejora que ha estado en tu mente durante mucho tiempo. Haz que tu persona y tus parientes sean mucho más felices.

@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo leo julio 2021
-description: El Horóscopo julio de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo leo agosto 2021
+description: El Horóscopo agosto de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo leo julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo leo agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo leo, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
@@ -16,4 +16,10 @@ sitemap:
 ---
 
 
-¡La Luna Nueva del 7 de julio se manifiesta en tu signo! Diversión con amigos, vecinos y tal vez una o dos sorpresas de cumpleaños son algo probables. Muestra tu mejor, más enérgica y divertida actitud y mantente en buenos términos tanto con colegas como clientes. Los días en torno a la Luna Llena del 21 de julio podrían ser extremadamente ocupados para ti, así que ten mucho cuidado tanto con tu persona como tus sentimientos. Protege tu tiempo a solas, planea suficientes momentos de tranquilidad, y después, sal a apoderarte del mundo. La conjunción entre la Luna y Marte del 25 de julio le da un rápido inicio a tu semana laboral. Sin embargo, la conjunción entre la Luna y Saturno manifestándose en la segunda parte de ese día te mantendrá en curso.
+El sol forma una oposición con Neptuno el 7 de agosto. Descubre la verdad sobre una fantasía que aprecias. Ahora podrías darle una base sólida a un sueño. 
+Busca oportunidades económicas durante la luna nueva del día 9. El dinero podría no fluir en la dirección correcta, pero la oportunidad de conseguirlo podría aparecer ahora en tu camino. Confía en tu propio buen criterio, y verifica dos veces todo lo que te digan. 
+El sol ingresa a Libra el 22 de agosto, y el otoño comienza. El verano puede haber acabado, pero aún hay mucha diversión social en el aire. Además, la luna forma un trígono con Venus ese día. 
+Puedes organizar una fiesta en casa o noche de juegos en tu hogar alrededor de la luna llena del día 24. Trátate bien, y no te tortures yendo más lejos a buscar buenos momentos. 
+El 25 de agosto, el sol forma una cuadratura con Saturno. Un problema de control podría llegar a un punto crítico. Si eres quien tiene la autoridad, sé firme, pero no cruel. 
+Días destacados: 13, 20, 27
+Días desafiantes: 6, 16

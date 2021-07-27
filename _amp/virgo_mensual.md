@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo virgo julio 2021 
+title: Horoscopo virgo agosto 2021 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El 5 de julio es un día sexy y lleno de travesuras sociales cuando la Luna se une a la conjunción entre Venus y Plutón en Capricornio. Tu situación monetaria se vislumbra excepcionalmente buena alrededor de la Luna Nueva del 8 de julio. Es posible que desees gastar un poco más de dinero, pero tus amigos querrán consentirte también. Además, un gasto anticipado podría volverse ahora innecesario. La Luna Llena del 22 de julio inspira aún más a tus amistades locales y vecinos a mantenerse en contacto contigo. Si esto se vuelve extremo y llega a molestarte, puede que seas capaz de evadir parte de la conversación. Sin embargo, presta un poco de atención, ya que tales podrían revelarte importantes piezas de información.
+Te verás muy bien en tu lugar de trabajo alrededor del Eclipse de Luna Llena del 10 de agosto. Sin hacer nada severo o contundente, deberías ser capaz de lograr una gran tarea con pocos o ningún obstáculo. También podrías obtener cooperación por parte de un grupo inesperado de personas. La gente a tu alrededor podría volverse más argumentativa conforme Marte cuadra a Plutón el 22 de agosto. No atraigas o antagonices a nadie, si te es posible. El Eclipse Solar de Luna Nueva del 26 de agosto podría tomar algo que te molesta y convertirlo en tu nueva cosa o actividad favorita. Puede que no dure mucho tiempo, más trata de disfrutar del sueño mientras dure. Puede ser a la vez reconfortante y divertido.

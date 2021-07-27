@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo libra julio 2021
-description: El Horóscopo julio de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo libra agosto 2021
+description: El Horóscopo agosto de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo libra julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo libra agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Prepárate para días de gran y loca diversión bajo la Luna Nueva del 4 de julio. Tus amigos y vecinos podrían ser los que la inicien y el entretenimiento será cualquier cosa menos que ordinario. ¡Disfruta de lo exótico! Puede que no quieras ir muy lejos o hacer mucho bajo la Luna Llena del 19 de julio, aunque serán días ocupados y bien entretenidos de todos modos. Una modesta actividad puede resultar más agradable y gratificante que cualquier ambicioso plan. Pasar agradables momentos con uno o dos amigos podría ser preferible a correr de un lado u otro con el fin de estar en una escena social grande. La Luna se opone a Marte el 28 de julio. Si no tienes ganas de hacer algo, no lo hagas.
+El Eclipse de Luna Llena del 10 de agosto está dirigido hacia tu vida amorosa y deseos románticos. Alguien que parece un tanto frío, distante y sin interés de comprometerse puede llegar a tener una gran pasión en todo lo relacionado contigo. El Sol entra a Piscis el 18 de agosto, y tus sueños podrían volverse más vividos y más idealistas. Puede que sea difícil mantener tus pies sobre la tierra durante el Eclipse Solar de Luna Nueva del 26 de agosto, cuando tus deseos o expectativas no sean muy realistas. Piensa dos veces antes de actuar y luego confía en que tienes las cosas bajo control. Esa es la realidad. Sin embargo, puede que sientas más comodidad si es que puedes posponer hacer algo de gran importancia.

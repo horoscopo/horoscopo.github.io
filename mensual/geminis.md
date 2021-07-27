@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo geminis julio 2021
-description: El Horóscopo julio de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo geminis agosto 2021
+description: El Horóscopo agosto de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo geminis julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo geminis agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Mercurio se torna directo el 3 de julio, y tu ambición retoma su rumbo. Tendrás más energía para socializar bajo la Luna Llena del 10 de julio. También podrían gustarte más los grupos más grandes o un círculo social más amplio. Una salida cultural, un concierto o un evento con música en vivo podrían ser justo lo que necesitas. La Luna Nueva del 25 de julio podría introducir una fase en la que es demasiado fácil discutir por cualquier cosa. Si una persona está celosa de ti o quiere competir contigo, habrá muy poco o nada que ambos pudieran ganar. Deja que esta energía desaparezca y no te involucres.
+No hay mejor lugar que tu hogar bajo la luna llena del 5 de agosto. Las cosas se ven bien en el trabajo y se siente incluso mejor irte a casa a sentirte aún mucho mejor. Darte un pequeño regalo es apropiado. Consigue una nueva taza de café o instala una nueva aplicación divertida en tu celular. Tu vida profesional y laboral se ven resaltadas por la luna nueva del 19 de agosto. Organiza tus pensamientos y asegúrate de que tu situación laboral te sirva. Un cambio o mejora deseada puede requerir de un pequeño sacrificio. El 24 de agosto, la luna forma una conjunción con Saturno y te hace tomar conciencia de lo que tú y tal vez un ser amado más necesitan. 
