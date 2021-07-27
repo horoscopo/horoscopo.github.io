@@ -34,8 +34,10 @@ layout: compress
         <link rel="preconnect" href="https://www.googletagservices.com/">
         <link rel="preconnect" href="https://tpc.googlesyndication.com/">
         <!--Automatic Ads-->
-        <script data-ad-client="{{ site.adsense }}" defer
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!--<script data-ad-client="{{ site.adsense }}" defer
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>--> 
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense }}"
+     crossorigin="anonymous"></script>
     {% endif %}
     {% include mailchimp.html %}
     {% include fbpixel.html %}
@@ -77,8 +79,6 @@ layout: compress
     <script src="/js/oraculo_si_no.js"></script>
     {% endif  %}
     <!--<script type="application/javascript" src="https://app.cotorrachatbot.com/static/js/script.js"></script>-->
-    {% if ads contains "adsterra" %}
-    <script type='text/javascript' src='//pl15954240.toprevenuecpmnetwork.com/72/0b/ed/720bedb6dc794cd7f33f038ed281400f.js'></script>
-    {% endif %}
+
   </body>
 </html>
