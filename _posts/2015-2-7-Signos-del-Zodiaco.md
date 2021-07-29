@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 28 de julio 2021
-description: Horóscopos del dia de hoy 28 de julio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 29 de julio 2021
+description: Horóscopos del dia de hoy 29 de julio 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-07-28
+ lastmod: 2021-07-29
 ---
-Cuando Mercurio en Géminis conjunta a Marte, el curso prudente de acción es hacer una simple pregunta a la que alguien pueda decir que sí. Esta noche, las parejas sienten inspiración a volver a vivir un momento de amor por los viejos tiempos. ¿Sin pareja? Una persona exquisitamente sofisticada podría atraer toda tu atención cuando la Luna aspecta a Saturno.
+El día de hoy, el tema es trabajo, trabajo y más trabajo cuando la Luna aspecta a Saturno, Plutón y Marte. ¿Sería posible que el problema sea la diferencia en valores cuando se está tratando de rehacer y cambiar a alguien? Esta noche es oportuna para el desarrollo de una mayor conciencia de sí mismos y los deseos, expectativas y puntos de vista de otras personas. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
