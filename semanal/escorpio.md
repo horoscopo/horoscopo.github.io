@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 26 de julio 2021 al 01 de agosto 2021 
-description: Horóscopo semanal escorpio 26 de julio 2021 al 01 de agosto 2021. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+title: escorpio 02 de agosto 2021 al 08 de agosto 2021 
+description: Horóscopo semanal escorpio 02 de agosto 2021 al 08 de agosto 2021. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-26'
+ lastmod: '2021-08-02'
 ---
 
 
 
-## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 
-Escorpio, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo Escorpio. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
-Con el amoroso Venus activo en tu sector social, quizá tengas posibilidades románticas. Puede que disfrutes asistir a todo tipo de eventos sociales, reuniones de un club o a actividades comunitarias; y este puede ser el momento ideal para que conectes con otras personas y hagas nuevos amigos. Al mismo tiempo, puede que alguien no sea tan perfecto como tú creías. Quizá tengan una excelente amistad, pero sería útil mantener una actitud realista de sus virtudes y defectos.
+Al final, sólo te lamentarás de las posibilidades que no tomaste Escorpio así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo Escorpio. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+Aunque el actual enfoque en tu sector financiero podría animarte a gastar de más, tu instinto podría llevarte a disminuir tus gastos hogareños y familiares. Es posible que encuentres formas de reducir tus facturas en general y aun así poder seguir viviendo cómodamente. Todos tus esfuerzos podrían verse frustrados si gastas de forma impulsiva, especialmente alrededor del día viernes. De hecho, evita hacer cualquier cosa en el calor del momento y te ahorrarás un montón de problemas.
 
 ## Dinero
 
-Esta semana es posible que tengas que ajustar tu forma de pensar acerca del dinero y su papel en tu vida, así como la forma en la que manejas el dinero. Es posible que hayas crecido acostumbrado/a a pensar en ti mismo/a como un protector o un derrochador. Tal vez puedes ser ambos. Ahora, vas a decir lo que piensas con respecto a asuntos financieros. La esperanza es puedas hacer esto de una manera diplomática y tolerante e incluir la perspectiva de todo el mundo.
+Esta semana, ciertos planetas se enfrentan en el cielo, cada uno ejerciendo su propia influencia. Su actividad cae en el sector de tu gráfico asociado con cambios de imagen. Es posible que estés cambiando tanto, que puede que no seas capaz de mantenerte al día con ello. Todo es por una buena causa - es decir, tu imagen.

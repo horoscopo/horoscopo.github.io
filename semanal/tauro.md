@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 26 de julio 2021 al 01 de agosto 2021 
-description: Horóscopo semanal tauro 26 de julio 2021 al 01 de agosto 2021. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+title: tauro 02 de agosto 2021 al 08 de agosto 2021 
+description: Horóscopo semanal tauro 02 de agosto 2021 al 08 de agosto 2021. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Tauro porque no eres así. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-07-26'
+ lastmod: '2021-08-02'
 ---
 
 
 
-## No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Tauro porque no eres así. 
 
-Nadie se cura por herir a otro Tauro. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
-Tendrás que tener mucho cuidado cuando cierres ofertas, discutas sobre temas relevantes, al manejar asuntos de negocios o lidiar con cuestiones de recursos compartidos durante esta semana. Mercurio iniciando su fase retrógrada te colocará en una posición ideal para hacerle frente a los problemas de deuda y mejorar tu situación financiera lo más que puedas. No es el mejor momento para sacar un préstamo o entrar en deuda; particularmente si no te sirve de ningún propósito real. Dicho esto, invertir en arte de alta calidad podría traerte rendimiento en el futuro.
+Organízate Tauro, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres Tauro, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
+Puede que te sea fácil saltar a conclusiones, sobre todo durante la primera mitad de la semana. Pero puede que no tengas toda la información que necesitas para tomar una buena decisión. La entrada de Venus a Sagitario y más tarde de Mercurio a Acuario puede hacer que tu perspectiva sea más sutil y más imparcial. Esto en sí mismo podría ser suficiente para ayudarte a dar un paso atrás y ver las cosas como son. Finalmente, el movimiento de Marte a Escorpión podría verte tomar medidas para transformar cierta situación.
 
 ## Dinero
 
-Puede que estés reconsiderando tus patrones de gasto conforme los estados de cuenta de tarjetas de crédito llegan esta semana. Si te sorprende lo mucho que has gastado (¿cuánto costaron esos últimos zapatos que compraste?), ¡culpa a los planetas! La ayuda proveniente de tu sector de hogar ya se encuentra en camino. Comenzar un negocio desde casa puede traer el dinero extra que necesitas a corto plazo. ¡Usa tus habilidades!
+Tienes una semana difícil por delante. Puede que sientas como si te estuvieras conduciendo hacia una dirección en particular - porque lo estás. Se supone que debes hacer nuevos amigos en el trabajo, encontrar un mentor, o ampliar tu búsqueda de trabajo para ganar más dinero en un futuro próximo. Los resultados se revelan relativamente pronto.
