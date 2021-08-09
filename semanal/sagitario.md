@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 02 de agosto 2021 al 08 de agosto 2021 
-description: Horóscopo semanal sagitario 02 de agosto 2021 al 08 de agosto 2021. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
+title: sagitario 09 de agosto 2021 al 15 de agosto 2021 
+description: Horóscopo semanal sagitario 09 de agosto 2021 al 15 de agosto 2021. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-02'
+ lastmod: '2021-08-09'
 ---
 
 
 
-## Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
+## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 
-Crees que puedes con todo Sagitario. 
- Es tan complicado…
-Puede que esta semana seas tú quien proponga una idea revolucionaria a otra persona y que esta idea cambie su vida de alguna manera. Con la conexión entre el dinámico Júpiter y el creativo Urano, tus procesos mentales pueden ser más rápidos y agudos de lo normal. Puede que también te atraigan ciertas cosas un tanto visionarias. Compartir lo que piensas con una persona importante en tu vida podría ayudarle a comprender una idea o aprovechar una emocionante oportunidad.
+Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
+ aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
+Pareces estar por buen camino en relación con una oportunidad de oro que ha sido puesta en tu camino y que querrás aprovechar. Asegúrate de revisar los términos y condiciones, ya que la conexión entre Marte y Neptuno sugiere que puede que no todo sea lo que parece. En cuanto a romance, esta podría ser una semana interesante debido a que las emociones se acumulan, pudiendo llegar a un punto crítico este fin de semana. Con Urano involucrado, podría ser tentador actuar impulsivamente. Trata de evitar esto, ya que puedes lamentarlo más tarde.
 
 ## Dinero
 
-Es posible que tu trabajo cambie a lo largo de los próximos meses. La expansión de oportunidades indica un buen momento para cambiar de trabajo si has tenido esa intención, o hacer de tu trabajo existente uno más lucrativo. Puedes incluso tomar medidas para hacer que tu lugar de trabajo sea más favorable a tus necesidades mediante la negociación de horarios flexibles o beneficios adicionales. Hacer un plan concreto para pagar tu deuda aumenta tu tranquilidad.
+Esta semana tiene que ver con el Universo poniendo nuevas ofertas sobre la mesa y más maniobras en tus inversiones. Puede que te preocupe el que no hayas avanzado lo suficiente con tu dinero o que no hayas escalado más en la escalera corporativa. Pero tus relaciones profesionales en tu sector de carrera están a punto de hacer una transformación positiva muy grande. ¡Celebra tu buena fortuna!

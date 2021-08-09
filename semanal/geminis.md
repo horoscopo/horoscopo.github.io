@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 02 de agosto 2021 al 08 de agosto 2021 
-description: Horóscopo semanal geminis 02 de agosto 2021 al 08 de agosto 2021. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+title: geminis 09 de agosto 2021 al 15 de agosto 2021 
+description: Horóscopo semanal geminis 09 de agosto 2021 al 15 de agosto 2021. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-02'
+ lastmod: '2021-08-09'
 ---
 
 
 
-## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-No te calientes Géminis, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no Géminis, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien Géminis, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
-Puedes encontrar mucho placer engalanando tu hogar para hacerlo más acogedor y más feliz. Tus talentos y habilidades creativas pasan a primer plano esta semana, ayudándote a diseñar agradables combinaciones de colores y brillantes ideas para nuevas cortinas o mobiliario. Sin embargo, ten un plan claro antes de invertir en pinturas o materiales. Existe la posibilidad de que cambies de opinión a mitad de camino y pierdas en el proceso. Finalmente, hay potencial romántico con alguien que ha sido una amistad de apoyo.
+Tienes que improvisar más Géminis, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Géminis, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Géminis… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Géminis, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Géminis.
+Con un enfoque definido en tu sector de transformación y finanzas compartidas, un pulso más profundo podría influir en tus pensamientos y emociones. Tal vez notes cómo ciertos patrones no permitieron que lograras todo lo que buscabas lograr, y esto podría alentarte a que de a poco los dejes ir. La entrada del Sol a tu sector de estilo de vida podría motivarte a comer más saludable aunque esta semana bien puede ser época de excesos y placeres. Espera hasta el Jueves, al momento en el que la Luna Nueva se manifieste.
 
 ## Dinero
 
-Esta semana experimentas un aumento de energía en el terreno de la auto-expresión.  Alguien en tu lugar de trabajo te tiene celos y es incapaz de poder manejar tu poderosa naturaleza. No le des importancia. Te estás proyectando de una nueva manera, que no puede ser nada más que positiva. Habla con la verdad. Tu destino es la profundidad, la madurez y el buen sentido. Otros necesitan oírlo.
+Esta semana estás pensando en la manera de expresar tu lado serio. Tienes algunas cosas pesadas en la mente, y mantenerlas dentro  no le hace bien a nadie. En vez de eso, encuentra a tu locutor interno, y dale la noticia de una manera neutral e imparcial. Al menos tu sector de trabajo es un lugar seguro en el que puedes dejar que tu nuevo “yo” salga. La gente quiere escuchar lo que tienes que decir, sobre todo tus ideas sobre cómo ahorrarle dinero a la empresa.

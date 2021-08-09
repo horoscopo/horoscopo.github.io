@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 02 de agosto 2021 al 08 de agosto 2021 
-description: Horóscopo semanal acuario 02 de agosto 2021 al 08 de agosto 2021. Estás en una etapa súper confusa Acuario, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+title: acuario 09 de agosto 2021 al 15 de agosto 2021 
+description: Horóscopo semanal acuario 09 de agosto 2021 al 15 de agosto 2021. Vienen emociones fuertes Acuario, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-02'
+ lastmod: '2021-08-09'
 ---
 
 
 
-## Estás en una etapa súper confusa Acuario, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+## Vienen emociones fuertes Acuario, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 
-Estás alcanzando una madurez Acuario, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Acuario y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
-Tus amigos se vislumbran como una fuerza positiva en tu vida en esta y en las próximas semanas, especialmente si sientes cansancio después de tratar con algunos retos. Además, son ellos quienes podrían aumentar tu confianza si es que tal ha disminuido recientemente. Por esta razón, es casi obligatorio que salgas a socializar. Te beneficiarás de poder pasar tiempo en buena compañía. La solución a importantes problemas podría llegarte cuando tu mente esté enfocada en otras cosas.
+Eres demasiado honesto con el resto Acuario y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Acuario, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Acuario, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+Puede que te percates de que poco a poco te estás centrando mucho más en el dinero, tu carrera profesional y el lado material de la vida. De hecho, el tema de seguridad financiera o de otro tipo podría pesar mucho en tu mente. Parte de esto podría ser debido a que Plutón se torna retrógrado en tu sector financiera personal, causando que sientas demasiada preocupación con asuntos monetarios. Si logras relajar tu control sobre este sector, el efectivo podría fluirte más fácilmente - y de fuentes inesperadas. Este jueves, ¡llévatela con calma!
 
 ## Dinero
 
-Eres uno de los mejores Signos del Zodíaco para manifestar cosas. Con un énfasis en tu sector de dinero, las habilidades que pensaste haber dejado atrás, traen la mayor cantidad de efectivo. Piensa en las personas o los trabajos de una época anterior de tu vida y tendrás la respuesta financiera a tu dilema actual. Un aspecto de apoyo hace que tu trabajo diario sea mucho más fácil de digerir. Si has logrado dar una gran impresión últimamente, pide ese aumento. Ellos te necesitan.
+Este período se trata de encontrar ese perfecto equilibrio entre trabajo y vida personal. El amor y la creatividad se unen a la acción para afectar tu empleo y asuntos de salud. Esto puede significar que por primera vez estás dando en el tino – ni te estás cansando demasiado ni tampoco vagando. Es probable que recibas elogios por el trabajo que has terminado y se te encarguen tareas aún más difíciles en el futuro.
