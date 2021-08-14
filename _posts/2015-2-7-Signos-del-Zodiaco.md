@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de agosto 2021
-description: Horóscopos del dia de hoy 13 de agosto 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de agosto 2021
+description: Horóscopos del dia de hoy 14 de agosto 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-08-13
+ lastmod: 2021-08-14
 ---
-El día de hoy es para la cooperación, no la competencia. Comparte tus recursos y todo el mundo ganará a través del intercambio. Esfuérzate por responder y devolver llamadas y correos electrónicos. Hay demasiadas personas que olvidan lo importante que ambos son. Esta noche, la química es mágica tanto para solteros como parejas cuando la Luna aspecta tanto a Venus como Neptuno.
+Disfruta de una armonía cooperativa bajo la Luna en Libra de hoy, sin duda un beneficio al reaccionar a lo que otros quieren. Un trígono es considerado como un regalo muy afortunado, y el de esta noche entre Venus y Urano está lleno de sorpresas. Solteros, ¡éste podría incitar una magnética atracción!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.

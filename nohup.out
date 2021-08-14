@@ -1565,3 +1565,2429 @@ Failed to get connection
 Background RRGGBBAA: ffffff00
 Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
 Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/piscis.png
+To https://github.com/horoscopo/horoscopo.github.io.git
+   4b6f4465..18044c89  master -> master
+Failed to get connection
+** (inkscape:11901): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:11901): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:11901): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1080 x 608 pixels (54 dpi)
+
+** (inkscape:11901): WARNING **: FilterImage::render: failed to load image: 
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/portada_diario.png
+rm: no se puede borrar '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/mylist.txt': No existe el fichero o el directorio
+rm: no se puede borrar '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/output.mp4': No existe el fichero o el directorio
+rm: no se puede borrar '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/output_avi.wav': No existe el fichero o el directorio
+Failed to get connection
+** (inkscape:11907): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:11907): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:11907): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   744    0     0  100   744      0   2287 --:--:-- --:--:-- --:--:--  2282100   744    0     0  100   744      0    560  0:00:01  0:00:01 --:--:--   560100   744    0     0  100   744      0    319  0:00:02  0:00:02 --:--:--   319100   744    0     0  100   744      0    223  0:00:03  0:00:03 --:--:--   223100   744    0     0  100   744      0    171  0:00:04  0:00:04 --:--:--   171100  6511  100  5767  100   744   1300    167  0:00:04  0:00:04 --:--:--  1222
+30.902
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x561be65d9fc0] Incorrect BOM value
+[mp3 @ 0x561be65d9fc0] Error reading comment frame, skipped
+[mp3 @ 0x561be65d9fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:00:59 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055002.mp3
+    date            : 2021
+  Duration: 00:00:30.77, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.81 fps, 0.81 tbr, 0.81 tbn, 0.81 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:00:59 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055002.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    5 fps=0.0 q=2.0 size=     368kB time=00:00:05.00 bitrate= 603.0kbits/s speed= 9.5x    frame=   13 fps= 13 q=1.6 size=     413kB time=00:00:13.00 bitrate= 259.9kbits/s speed=12.6x    frame=   21 fps= 14 q=2.0 size=     806kB time=00:00:21.00 bitrate= 314.5kbits/s speed=13.7x    frame=   29 fps= 14 q=2.0 size=    1196kB time=00:00:29.00 bitrate= 337.8kbits/s speed=14.3x    frame=   32 fps= 14 q=2.0 Lsize=    1235kB time=00:00:32.00 bitrate= 316.3kbits/s speed=14.1x    
+video:1076kB audio:120kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.254582%
+Failed to get connection
+** (inkscape:11927): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:11927): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:11927): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   530    0     0  100   530      0    419  0:00:01  0:00:01 --:--:--   419100   530    0     0  100   530      0    234  0:00:02  0:00:02 --:--:--   234100   530    0     0  100   530      0    162  0:00:03  0:00:03 --:--:--   162100   530    0     0  100   530      0    124  0:00:04  0:00:04 --:--:--   124100  6297  100  5767  100   530   1342    123  0:00:04  0:00:04 --:--:--  1343
+20.166
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55c1df78cfc0] Incorrect BOM value
+[mp3 @ 0x55c1df78cfc0] Error reading comment frame, skipped
+[mp3 @ 0x55c1df78cfc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:02:13 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055010.mp3
+    date            : 2021
+  Duration: 00:00:20.09, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.25 fps, 1.24 tbr, 1.24 tbn, 1.24 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:02:13 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055010.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     289kB time=00:00:08.00 bitrate= 295.8kbits/s speed=15.3x    frame=   16 fps= 16 q=2.0 size=     584kB time=00:00:16.00 bitrate= 299.1kbits/s speed=15.6x    frame=   21 fps= 15 q=2.0 Lsize=     629kB time=00:00:21.00 bitrate= 245.3kbits/s speed=15.2x    
+video:521kB audio:79kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.816671%
+Failed to get connection
+** (inkscape:11953): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:11953): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:11953): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   628    0     0  100   628      0    473  0:00:01  0:00:01 --:--:--   473100   628    0     0  100   628      0    269  0:00:02  0:00:02 --:--:--   269100   628    0     0  100   628      0    188  0:00:03  0:00:03 --:--:--   188100   628    0     0  100   628      0    145  0:00:04  0:00:04 --:--:--   145100  6395  100  5767  100   628   1322    144  0:00:04  0:00:04 --:--:--  1323
+23.51
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55713258dfc0] Incorrect BOM value
+[mp3 @ 0x55713258dfc0] Error reading comment frame, skipped
+[mp3 @ 0x55713258dfc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:03:20 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055023.mp3
+    date            : 2021
+  Duration: 00:00:23.43, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.06 fps, 1.06 tbr, 1.06 tbn, 1.06 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/aries_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:03:20 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055023.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     315kB time=00:00:08.00 bitrate= 322.4kbits/s speed=15.3x    frame=   16 fps= 16 q=2.0 size=     638kB time=00:00:16.00 bitrate= 326.7kbits/s speed=15.7x    frame=   25 fps= 16 q=1.6 size=     687kB time=00:00:25.00 bitrate= 225.2kbits/s speed=15.8x    frame=   25 fps= 15 q=1.6 Lsize=     984kB time=00:00:25.00 bitrate= 322.5kbits/s speed=15.3x    
+video:860kB audio:92kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.366857%
+Failed to get connection
+** (inkscape:11980): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:11980): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:11980): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   733    0     0  100   733      0    580  0:00:01  0:00:01 --:--:--   580100   733    0     0  100   733      0    323  0:00:02  0:00:02 --:--:--   323100   733    0     0  100   733      0    224  0:00:03  0:00:03 --:--:--   224100   733    0     0  100   733      0    171  0:00:04  0:00:04 --:--:--   171100  6500  100  5767  100   733   1340    170  0:00:04  0:00:04 --:--:--  1341
+28.133
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x562c2a27dfc0] Incorrect BOM value
+[mp3 @ 0x562c2a27dfc0] Error reading comment frame, skipped
+[mp3 @ 0x562c2a27dfc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:04:28 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055034.mp3
+    date            : 2021
+  Duration: 00:00:28.03, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.89 fps, 0.89 tbr, 0.89 tbn, 0.89 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:04:28 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055034.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     371kB time=00:00:08.00 bitrate= 380.0kbits/s speed=15.3x    frame=   16 fps= 16 q=2.0 size=     748kB time=00:00:16.00 bitrate= 383.0kbits/s speed=15.6x    frame=   25 fps= 16 q=1.6 size=     799kB time=00:00:25.00 bitrate= 261.7kbits/s speed=15.8x    frame=   29 fps= 15 q=2.0 Lsize=    1177kB time=00:00:29.00 bitrate= 332.3kbits/s speed=15.3x    
+video:1031kB audio:110kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.189263%
+Failed to get connection
+** (inkscape:12001): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12001): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12001): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   560    0     0  100   560      0    422  0:00:01  0:00:01 --:--:--   422100   560    0     0  100   560      0    240  0:00:02  0:00:02 --:--:--   240100   560    0     0  100   560      0    168  0:00:03  0:00:03 --:--:--   168100   560    0     0  100   560      0    129  0:00:04  0:00:04 --:--:--   129 71  6327   69  3995  100   560    907    127  0:00:06  0:00:04  0:00:02   907100  6327  100  5767  100   560   1305    126  0:00:04  0:00:04 --:--:--  1683
+22.7
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55f0850fafc0] Incorrect BOM value
+[mp3 @ 0x55f0850fafc0] Error reading comment frame, skipped
+[mp3 @ 0x55f0850fafc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:05:35 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055040.mp3
+    date            : 2021
+  Duration: 00:00:22.62, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.10 fps, 1.10 tbr, 1.10 tbn, 1.10 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:05:35 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055040.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     299kB time=00:00:08.00 bitrate= 306.0kbits/s speed=15.6x    frame=   16 fps= 16 q=2.0 size=     606kB time=00:00:16.00 bitrate= 310.3kbits/s speed=15.8x    frame=   24 fps= 16 q=2.0 Lsize=     667kB time=00:00:24.00 bitrate= 227.5kbits/s speed=15.5x    
+video:547kB audio:88kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.925714%
+Failed to get connection
+** (inkscape:12018): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12018): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12018): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   477    0     0  100   477      0   2084 --:--:-- --:--:-- --:--:--  2082100   477    0     0  100   477      0    387  0:00:01  0:00:01 --:--:--   387100   477    0     0  100   477      0    213  0:00:02  0:00:02 --:--:--   213100   477    0     0  100   477      0    147  0:00:03  0:00:03 --:--:--   147100   477    0     0  100   477      0    112  0:00:04  0:00:04 --:--:--   112100  6244  100  5767  100   477   1329    109  0:00:04  0:00:04 --:--:--  1287
+17.606
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55cd5938afc0] Incorrect BOM value
+[mp3 @ 0x55cd5938afc0] Error reading comment frame, skipped
+[mp3 @ 0x55cd5938afc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:06:43 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055051.mp3
+    date            : 2021
+  Duration: 00:00:17.55, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.42 fps, 1.42 tbr, 1.42 tbn, 1.42 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/tauro_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:06:43 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055051.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     274kB time=00:00:08.00 bitrate= 280.7kbits/s speed=15.6x    frame=   16 fps= 16 q=2.0 size=     555kB time=00:00:16.00 bitrate= 284.0kbits/s speed=15.8x    frame=   19 fps= 15 q=2.0 Lsize=     583kB time=00:00:19.00 bitrate= 251.5kbits/s speed=15.3x    
+video:488kB audio:69kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.765362%
+Failed to get connection
+** (inkscape:12065): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12065): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12065): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   756    0     0  100   756      0   2893 --:--:-- --:--:-- --:--:--  2885100   756    0     0  100   756      0    598  0:00:01  0:00:01 --:--:--   598100   756    0     0  100   756      0    333  0:00:02  0:00:02 --:--:--   333100   756    0     0  100   756      0    231  0:00:03  0:00:03 --:--:--   231100   756    0     0  100   756      0    177  0:00:04  0:00:04 --:--:--   177100  6523  100  5767  100   756   1342    175  0:00:04  0:00:04 --:--:--  1241
+29.257
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55c76807cfc0] Incorrect BOM value
+[mp3 @ 0x55c76807cfc0] Error reading comment frame, skipped
+[mp3 @ 0x55c76807cfc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:07:50 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055058.mp3
+    date            : 2021
+  Duration: 00:00:29.15, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.85 fps, 0.85 tbr, 0.85 tbn, 0.85 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:07:50 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055058.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     391kB time=00:00:08.00 bitrate= 399.9kbits/s speed=15.3x    frame=   16 fps= 16 q=2.0 size=     789kB time=00:00:16.00 bitrate= 404.1kbits/s speed=15.6x    frame=   25 fps= 16 q=1.6 size=     839kB time=00:00:25.00 bitrate= 274.9kbits/s speed=15.8x    frame=   30 fps= 15 q=2.0 Lsize=    1244kB time=00:00:30.00 bitrate= 339.8kbits/s speed=15.4x    
+video:1093kB audio:114kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.099439%
+Failed to get connection
+** (inkscape:12087): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12087): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12087): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   493    0     0  100   493      0    390  0:00:01  0:00:01 --:--:--   390100   493    0     0  100   493      0    217  0:00:02  0:00:02 --:--:--   217100   493    0     0  100   493      0    150  0:00:03  0:00:03 --:--:--   150100  6260  100  5767  100   493   1749    149  0:00:03  0:00:03 --:--:--  1749
+18.755
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55675a6e0fc0] Incorrect BOM value
+[mp3 @ 0x55675a6e0fc0] Error reading comment frame, skipped
+[mp3 @ 0x55675a6e0fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:08:57 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055067.mp3
+    date            : 2021
+  Duration: 00:00:18.70, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.33 fps, 1.33 tbr, 1.33 tbn, 1.33 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:08:57 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055067.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     286kB time=00:00:08.00 bitrate= 292.8kbits/s speed=15.7x    frame=   17 fps= 17 q=2.0 size=     583kB time=00:00:17.00 bitrate= 280.9kbits/s speed=16.8x    frame=   20 fps= 15 q=2.0 Lsize=     615kB time=00:00:20.00 bitrate= 251.9kbits/s speed=15.4x    
+video:514kB audio:73kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.698955%
+Failed to get connection
+** (inkscape:12145): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12145): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12145): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   524    0     0  100   524      0    395  0:00:01  0:00:01 --:--:--   395100   524    0     0  100   524      0    225  0:00:02  0:00:02 --:--:--   225100   524    0     0  100   524      0    157  0:00:03  0:00:03 --:--:--   157100   524    0     0  100   524      0    121  0:00:04  0:00:04 --:--:--   121100  6291  100  5767  100   524   1300    118  0:00:04  0:00:04 --:--:--  1301
+19.539
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55e2ba654fc0] Incorrect BOM value
+[mp3 @ 0x55e2ba654fc0] Error reading comment frame, skipped
+[mp3 @ 0x55e2ba654fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:10:03 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055086.mp3
+    date            : 2021
+  Duration: 00:00:19.46, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.28 fps, 1.28 tbr, 1.28 tbn, 1.28 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/geminis_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:10:03 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055086.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     304kB time=00:00:08.00 bitrate= 311.1kbits/s speed=15.7x    frame=   16 fps= 16 q=2.0 size=     618kB time=00:00:16.00 bitrate= 316.6kbits/s speed=15.8x    frame=   21 fps= 15 q=2.0 Lsize=     658kB time=00:00:21.00 bitrate= 256.7kbits/s speed=15.5x    
+video:554kB audio:76kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.497252%
+Failed to get connection
+** (inkscape:12161): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12161): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12161): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   843    0     0  100   843      0    667  0:00:01  0:00:01 --:--:--   667100   843    0     0  100   843      0    372  0:00:02  0:00:02 --:--:--   372100   843    0     0  100   843      0    258  0:00:03  0:00:03 --:--:--   258100   843    0     0  100   843      0    197  0:00:04  0:00:04 --:--:--   197100   843    0     0  100   843      0    160  0:00:05  0:00:05 --:--:--   160100   843    0     0  100   843      0    134  0:00:06  0:00:06 --:--:--     0 73  6610   69  3995  100   843    620    130  0:00:09  0:00:06  0:00:03   755100  6610  100  5767  100   843    893    130  0:00:06  0:00:06 --:--:--  1544
+34.638
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x5648deab5fc0] Incorrect BOM value
+[mp3 @ 0x5648deab5fc0] Error reading comment frame, skipped
+[mp3 @ 0x5648deab5fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:11:12 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055107.mp3
+    date            : 2021
+  Duration: 00:00:34.51, start: 0.000000, bitrate: 40 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.72 fps, 0.72 tbr, 0.72 tbn, 0.72 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:11:12 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055107.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     441kB time=00:00:08.00 bitrate= 451.9kbits/s speed=15.2x    frame=   16 fps= 16 q=2.0 size=     893kB time=00:00:16.00 bitrate= 457.1kbits/s speed=15.6x    frame=   25 fps= 16 q=1.6 size=     943kB time=00:00:25.00 bitrate= 308.9kbits/s speed=15.7x    frame=   33 fps= 16 q=2.0 size=    1399kB time=00:00:33.00 bitrate= 347.2kbits/s speed=15.8x    frame=   36 fps= 16 q=2.0 Lsize=    1436kB time=00:00:36.00 bitrate= 326.7kbits/s speed=15.5x    
+video:1258kB audio:135kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.048848%
+Failed to get connection
+** (inkscape:12182): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12182): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12182): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   536    0     0  100   536      0   2046 --:--:-- --:--:-- --:--:--  2045100   536    0     0  100   536      0    424  0:00:01  0:00:01 --:--:--   424100   536    0     0  100   536      0    236  0:00:02  0:00:02 --:--:--   236100   536    0     0  100   536      0    164  0:00:03  0:00:03 --:--:--   164100   536    0     0  100   536      0    125  0:00:04  0:00:04 --:--:--   125100  6303  100  5767  100   536   1337    124  0:00:04  0:00:04 --:--:--  1292
+18.964
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x5582f2eebfc0] Incorrect BOM value
+[mp3 @ 0x5582f2eebfc0] Error reading comment frame, skipped
+[mp3 @ 0x5582f2eebfc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:12:20 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055117.mp3
+    date            : 2021
+  Duration: 00:00:18.91, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.32 fps, 1.32 tbr, 1.32 tbn, 1.32 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:12:20 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055117.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     301kB time=00:00:08.00 bitrate= 308.6kbits/s speed=15.7x    frame=   16 fps= 16 q=2.0 size=     613kB time=00:00:16.00 bitrate= 313.9kbits/s speed=15.8x    frame=   20 fps= 15 q=2.0 Lsize=     649kB time=00:00:20.00 bitrate= 265.9kbits/s speed=15.4x    
+video:547kB audio:74kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.473755%
+Failed to get connection
+** (inkscape:12203): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12203): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12203): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   524    0     0  100   524      0    395  0:00:01  0:00:01 --:--:--   395100   524    0     0  100   524      0    225  0:00:02  0:00:02 --:--:--   225100   524    0     0  100   524      0    157  0:00:03  0:00:03 --:--:--   157100  6291  100  5767  100   524   1716    155  0:00:03  0:00:03 --:--:--  1715
+18.494
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55a361962fc0] Incorrect BOM value
+[mp3 @ 0x55a361962fc0] Error reading comment frame, skipped
+[mp3 @ 0x55a361962fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:13:27 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055130.mp3
+    date            : 2021
+  Duration: 00:00:18.44, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.35 fps, 1.35 tbr, 1.35 tbn, 1.35 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/cancer_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:13:27 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055130.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     308kB time=00:00:08.00 bitrate= 315.6kbits/s speed=15.6x    frame=   16 fps= 16 q=2.0 size=     628kB time=00:00:16.00 bitrate= 321.4kbits/s speed=15.8x    frame=   20 fps= 15 q=2.0 Lsize=     661kB time=00:00:20.00 bitrate= 270.6kbits/s speed=15.4x    
+video:561kB audio:72kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.322801%
+Failed to get connection
+** (inkscape:12226): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12226): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12226): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   739    0     0  100   739      0    600  0:00:01  0:00:01 --:--:--   600100   739    0     0  100   739      0    331  0:00:02  0:00:02 --:--:--   331100   739    0     0  100   739      0    228  0:00:03  0:00:03 --:--:--   228100   739    0     0  100   739      0    174  0:00:04  0:00:04 --:--:--   174100  6506  100  5767  100   739   1332    170  0:00:04  0:00:04 --:--:--  1347
+28.682
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x562202b7bfc0] Incorrect BOM value
+[mp3 @ 0x562202b7bfc0] Error reading comment frame, skipped
+[mp3 @ 0x562202b7bfc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:14:34 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055142.mp3
+    date            : 2021
+  Duration: 00:00:28.58, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.87 fps, 0.87 tbr, 0.87 tbn, 0.87 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:14:34 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055142.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     380kB time=00:00:08.00 bitrate= 389.2kbits/s speed=  15x    frame=   16 fps= 15 q=2.0 size=     766kB time=00:00:16.00 bitrate= 392.2kbits/s speed=15.4x    frame=   24 fps= 16 q=2.0 size=     812kB time=00:00:24.00 bitrate= 277.1kbits/s speed=15.6x    frame=   30 fps= 15 q=2.0 Lsize=    1207kB time=00:00:30.00 bitrate= 329.5kbits/s speed=15.2x    
+video:1058kB audio:112kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.153474%
+Failed to get connection
+** (inkscape:12253): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12253): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12253): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   542    0     0  100   542      0    429  0:00:01  0:00:01 --:--:--   429100   542    0     0  100   542      0    239  0:00:02  0:00:02 --:--:--   239 71  6309   69  3995  100   542   1225    166  0:00:04  0:00:03  0:00:01  1225100  6309  100  5767  100   542   1760    165  0:00:03  0:00:03 --:--:--  1760
+19.147
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x5634cbf22fc0] Incorrect BOM value
+[mp3 @ 0x5634cbf22fc0] Error reading comment frame, skipped
+[mp3 @ 0x5634cbf22fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:15:41 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055155.mp3
+    date            : 2021
+  Duration: 00:00:19.10, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.31 fps, 1.31 tbr, 1.31 tbn, 1.31 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:15:41 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055155.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     286kB time=00:00:08.00 bitrate= 292.6kbits/s speed=15.5x    frame=   16 fps= 16 q=2.0 size=     577kB time=00:00:16.00 bitrate= 295.4kbits/s speed=15.7x    frame=   20 fps= 15 q=2.0 Lsize=     616kB time=00:00:20.00 bitrate= 252.4kbits/s speed=15.2x    
+video:513kB audio:75kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.755184%
+Failed to get connection
+** (inkscape:12275): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12275): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12275): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   569    0     0  100   569      0    468  0:00:01  0:00:01 --:--:--   468100   569    0     0  100   569      0    256  0:00:02  0:00:02 --:--:--   256100   569    0     0  100   569      0    176  0:00:03  0:00:03 --:--:--   176100  6336  100  5767  100   569   1769    174  0:00:03  0:00:03 --:--:--  1770
+20.95
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55eee80a6fc0] Incorrect BOM value
+[mp3 @ 0x55eee80a6fc0] Error reading comment frame, skipped
+[mp3 @ 0x55eee80a6fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:16:47 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055166.mp3
+    date            : 2021
+  Duration: 00:00:20.87, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.19 fps, 1.19 tbr, 1.19 tbn, 1.19 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/leo_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:16:47 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055166.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     309kB time=00:00:08.00 bitrate= 316.5kbits/s speed=15.3x    frame=   16 fps= 16 q=2.0 size=     626kB time=00:00:16.00 bitrate= 320.3kbits/s speed=15.6x    frame=   22 fps= 15 q=2.0 Lsize=     676kB time=00:00:22.00 bitrate= 251.6kbits/s speed=15.2x    
+video:564kB audio:82kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.586926%
+Failed to get connection
+** (inkscape:12296): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12296): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12296): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   754    0     0  100   754      0    621  0:00:01  0:00:01 --:--:--   621100   754    0     0  100   754      0    340  0:00:02  0:00:02 --:--:--   340100   754    0     0  100   754      0    234  0:00:03  0:00:03 --:--:--   234 72  6521   69  3995  100   754    950    179  0:00:06  0:00:04  0:00:02   950100  6521  100  5767  100   754   1366    178  0:00:04  0:00:04 --:--:--  1366
+29.622
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x5615fecd4fc0] Incorrect BOM value
+[mp3 @ 0x5615fecd4fc0] Error reading comment frame, skipped
+[mp3 @ 0x5615fecd4fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:17:54 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055176.mp3
+    date            : 2021
+  Duration: 00:00:29.52, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.84 fps, 0.84 tbr, 0.84 tbn, 0.84 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:17:54 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055176.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     386kB time=00:00:08.00 bitrate= 395.3kbits/s speed=15.3x    frame=   16 fps= 16 q=2.0 size=     779kB time=00:00:16.00 bitrate= 398.8kbits/s speed=15.6x    frame=   24 fps= 16 q=2.0 size=     828kB time=00:00:24.00 bitrate= 282.5kbits/s speed=15.7x    frame=   31 fps= 15 q=2.0 Lsize=    1233kB time=00:00:31.00 bitrate= 325.8kbits/s speed=15.4x    
+video:1080kB audio:115kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.159675%
+Failed to get connection
+** (inkscape:12317): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12317): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12317): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   583    0     0  100   583      0    474  0:00:01  0:00:01 --:--:--   474100   583    0     0  100   583      0    261  0:00:02  0:00:02 --:--:--   261100   583    0     0  100   583      0    180  0:00:03  0:00:03 --:--:--   180100   583    0     0  100   583      0    137  0:00:04  0:00:04 --:--:--   137100  6350  100  5767  100   583   1328    134  0:00:04  0:00:04 --:--:--  1329
+21.472
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x56173f6a7fc0] Incorrect BOM value
+[mp3 @ 0x56173f6a7fc0] Error reading comment frame, skipped
+[mp3 @ 0x56173f6a7fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:19:01 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055191.mp3
+    date            : 2021
+  Duration: 00:00:21.39, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.17 fps, 1.17 tbr, 1.16 tbn, 1.16 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:19:01 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055191.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     312kB time=00:00:08.00 bitrate= 319.0kbits/s speed=15.4x    frame=   16 fps= 16 q=2.0 size=     632kB time=00:00:16.00 bitrate= 323.8kbits/s speed=15.7x    frame=   23 fps= 15 q=2.0 Lsize=     686kB time=00:00:23.00 bitrate= 244.4kbits/s speed=15.4x    
+video:572kB audio:84kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.594830%
+Failed to get connection
+** (inkscape:12340): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12340): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12340): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   435    0     0  100   435      0    344  0:00:01  0:00:01 --:--:--   344100   435    0     0  100   435      0    192  0:00:02  0:00:02 --:--:--   192100   435    0     0  100   435      0    133  0:00:03  0:00:03 --:--:--   133100  6202  100  5767  100   435   1743    131  0:00:03  0:00:03 --:--:--  1744
+15.725
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x5611a8983fc0] Incorrect BOM value
+[mp3 @ 0x5611a8983fc0] Error reading comment frame, skipped
+[mp3 @ 0x5611a8983fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:20:08 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055202.mp3
+    date            : 2021
+  Duration: 00:00:15.67, start: 0.000000, bitrate: 42 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.58 fps, 1.59 tbr, 1.59 tbn, 1.59 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/virgo_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:20:08 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055202.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     262kB time=00:00:08.00 bitrate= 268.6kbits/s speed=15.6x    frame=   16 fps= 16 q=2.0 size=     534kB time=00:00:16.00 bitrate= 273.2kbits/s speed=15.8x    frame=   17 fps= 15 q=2.0 Lsize=     550kB time=00:00:17.00 bitrate= 265.1kbits/s speed=15.2x    
+video:464kB audio:61kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.713225%
+Failed to get connection
+** (inkscape:12361): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12361): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12361): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   743    0     0  100   743      0    560  0:00:01  0:00:01 --:--:--   560100   743    0     0  100   743      0    319  0:00:02  0:00:02 --:--:--   319100   743    0     0  100   743      0    223  0:00:03  0:00:03 --:--:--   223100   743    0     0  100   743      0    171  0:00:04  0:00:04 --:--:--   171100  6510  100  5767  100   743   1303    167  0:00:04  0:00:04 --:--:--  1303
+28.264
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55a16b1eefc0] Incorrect BOM value
+[mp3 @ 0x55a16b1eefc0] Error reading comment frame, skipped
+[mp3 @ 0x55a16b1eefc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:21:15 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055217.mp3
+    date            : 2021
+  Duration: 00:00:28.16, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.88 fps, 0.88 tbr, 0.88 tbn, 0.88 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:21:15 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055217.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     377kB time=00:00:08.00 bitrate= 386.4kbits/s speed=15.2x    frame=   16 fps= 15 q=2.0 size=     762kB time=00:00:16.00 bitrate= 389.9kbits/s speed=15.5x    frame=   24 fps= 16 q=2.0 size=     809kB time=00:00:24.00 bitrate= 276.1kbits/s speed=15.7x    frame=   29 fps= 15 q=2.0 Lsize=    1197kB time=00:00:29.00 bitrate= 338.2kbits/s speed=15.2x    
+video:1051kB audio:110kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.142816%
+Failed to get connection
+** (inkscape:12378): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12378): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12378): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   510    0     0  100   510      0    403  0:00:01  0:00:01 --:--:--   404100   510    0     0  100   510      0    225  0:00:02  0:00:02 --:--:--   225 71  6277   69  3995  100   510   1278    163  0:00:04  0:00:03  0:00:01  1278100  6277  100  5767  100   510   1835    162  0:00:03  0:00:03 --:--:--  1835
+18.703
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55de38433fc0] Incorrect BOM value
+[mp3 @ 0x55de38433fc0] Error reading comment frame, skipped
+[mp3 @ 0x55de38433fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:22:21 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055232.mp3
+    date            : 2021
+  Duration: 00:00:18.65, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.33 fps, 1.33 tbr, 1.34 tbn, 1.34 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:22:21 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055232.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     271kB time=00:00:08.00 bitrate= 277.6kbits/s speed=15.5x    frame=   16 fps= 16 q=2.0 size=     553kB time=00:00:16.00 bitrate= 282.9kbits/s speed=15.8x    frame=   20 fps= 15 q=2.0 Lsize=     588kB time=00:00:20.00 bitrate= 240.8kbits/s speed=15.3x    
+video:487kB audio:73kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.916999%
+Failed to get connection
+** (inkscape:12399): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12399): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12399): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   501    0     0  100   501      0   1913 --:--:-- --:--:-- --:--:--  1912100   501    0     0  100   501      0    396  0:00:01  0:00:01 --:--:--   396100   501    0     0  100   501      0    221  0:00:02  0:00:02 --:--:--   221100   501    0     0  100   501      0    153  0:00:03  0:00:03 --:--:--   153100   501    0     0  100   501      0    117  0:00:04  0:00:04 --:--:--   117100  6268  100  5767  100   501   1338    116  0:00:04  0:00:04 --:--:--  1301
+18.938
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55d44fc82fc0] Incorrect BOM value
+[mp3 @ 0x55d44fc82fc0] Error reading comment frame, skipped
+[mp3 @ 0x55d44fc82fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:23:27 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055241.mp3
+    date            : 2021
+  Duration: 00:00:18.89, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.33 fps, 1.32 tbr, 1.32 tbn, 1.32 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/libra_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:23:27 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055241.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     284kB time=00:00:08.00 bitrate= 290.7kbits/s speed=15.5x    frame=   16 fps= 16 q=2.0 size=     577kB time=00:00:16.00 bitrate= 295.4kbits/s speed=15.8x    frame=   20 fps= 15 q=2.0 Lsize=     613kB time=00:00:20.00 bitrate= 250.9kbits/s speed=15.3x    
+video:511kB audio:74kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.748767%
+Failed to get connection
+** (inkscape:12434): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12434): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12434): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   743    0     0  100   743      0   3242 --:--:-- --:--:-- --:--:--  3230100   743    0     0  100   743      0    603  0:00:01  0:00:01 --:--:--   603100   743    0     0  100   743      0    332  0:00:02  0:00:02 --:--:--   332100   743    0     0  100   743      0    229  0:00:03  0:00:03 --:--:--   229 72  6510   69  3995  100   743    959    178  0:00:06  0:00:04  0:00:02   959100  6510  100  5767  100   743   1378    177  0:00:04  0:00:04 --:--:--  1270
+31.582
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55996fa98fc0] Incorrect BOM value
+[mp3 @ 0x55996fa98fc0] Error reading comment frame, skipped
+[mp3 @ 0x55996fa98fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:24:35 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055250.mp3
+    date            : 2021
+  Duration: 00:00:31.45, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.79 fps, 0.79 tbr, 0.79 tbn, 0.79 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:24:35 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055250.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     399kB time=00:00:08.00 bitrate= 408.3kbits/s speed=15.2x    frame=   16 fps= 16 q=2.0 size=     805kB time=00:00:16.00 bitrate= 412.0kbits/s speed=15.6x    frame=   25 fps= 16 q=1.6 size=     856kB time=00:00:25.00 bitrate= 280.4kbits/s speed=15.8x    frame=   33 fps= 16 q=2.0 Lsize=    1284kB time=00:00:33.00 bitrate= 318.8kbits/s speed=15.5x    
+video:1122kB audio:123kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.180157%
+Failed to get connection
+** (inkscape:12475): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12475): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12475): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   599    0     0  100   599      0    474  0:00:01  0:00:01 --:--:--   474100   599    0     0  100   599      0    264  0:00:02  0:00:02 --:--:--   264100   599    0     0  100   599      0    183  0:00:03  0:00:03 --:--:--   183100   599    0     0  100   599      0    140  0:00:04  0:00:04 --:--:--   140100  6366  100  5767  100   599   1319    137  0:00:04  0:00:04 --:--:--  1319
+22.726
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55a974c7efc0] Incorrect BOM value
+[mp3 @ 0x55a974c7efc0] Error reading comment frame, skipped
+[mp3 @ 0x55a974c7efc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:25:42 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055262.mp3
+    date            : 2021
+  Duration: 00:00:22.65, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.10 fps, 1.10 tbr, 1.10 tbn, 1.10 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:25:42 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055262.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     334kB time=00:00:08.00 bitrate= 341.8kbits/s speed=15.6x    frame=   16 fps= 16 q=2.0 size=     681kB time=00:00:16.00 bitrate= 348.8kbits/s speed=15.8x    frame=   24 fps= 16 q=2.0 Lsize=     739kB time=00:00:24.00 bitrate= 252.3kbits/s speed=15.5x    
+video:619kB audio:89kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.423273%
+Failed to get connection
+** (inkscape:12515): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12515): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12515): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   479    0     0  100   479      0    394  0:00:01  0:00:01 --:--:--   394100   479    0     0  100   479      0    216  0:00:02  0:00:02 --:--:--   216 71  6246   69  3995  100   479   1272    152  0:00:04  0:00:03  0:00:01  1272100  6246  100  5767  100   479   1826    151  0:00:03  0:00:03 --:--:--  1826
+16.117
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x560f1bf61fc0] Incorrect BOM value
+[mp3 @ 0x560f1bf61fc0] Error reading comment frame, skipped
+[mp3 @ 0x560f1bf61fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:26:49 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055275.mp3
+    date            : 2021
+  Duration: 00:00:16.06, start: 0.000000, bitrate: 42 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.55 fps, 1.55 tbr, 1.55 tbn, 1.55 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/escorpio_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:26:49 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055275.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     277kB time=00:00:08.00 bitrate= 283.6kbits/s speed=15.8x    frame=   17 fps= 16 q=2.0 size=     564kB time=00:00:17.00 bitrate= 271.8kbits/s speed=16.1x    frame=   17 fps= 15 q=2.0 Lsize=     579kB time=00:00:17.00 bitrate= 279.1kbits/s speed=15.3x    
+video:491kB audio:63kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.534862%
+Failed to get connection
+** (inkscape:12553): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12553): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12553): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   757    0     0  100   757      0    623  0:00:01  0:00:01 --:--:--   623100   757    0     0  100   757      0    341  0:00:02  0:00:02 --:--:--   341100   757    0     0  100   757      0    235  0:00:03  0:00:03 --:--:--   235100   757    0     0  100   757      0    179  0:00:04  0:00:04 --:--:--   179100   757    0     0  100   757      0    145  0:00:05  0:00:05 --:--:--   145100   757    0     0  100   757      0    121  0:00:06  0:00:06 --:--:--     0100   757    0     0  100   757      0    104  0:00:07  0:00:07 --:--:--     0100   757    0     0  100   757      0     92  0:00:08  0:00:08 --:--:--     0100   757    0     0  100   757      0     82  0:00:09  0:00:09 --:--:--     0100   757    0     0  100   757      0     74  0:00:10  0:00:10 --:--:--     0100   757    0     0  100   757      0     67  0:00:11  0:00:11 --:--:--     0100   757    0     0  100   757      0     61  0:00:12  0:00:12 --:--:--     0100   757    0     0  100   757      0     57  0:00:13  0:00:13 --:--:--     0100   757    0     0  100   757      0     53  0:00:14  0:00:14 --:--:--     0100   757    0     0  100   757      0     49  0:00:15  0:00:15 --:--:--     0100   757    0     0  100   757      0     46  0:00:16  0:00:16 --:--:--     0 29  6524   20  1179  100   757     69     44  0:01:23  0:00:16  0:01:07    90100  6524  100  5767  100   757    341     44  0:00:17  0:00:16  0:00:01  1366
+29.831
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x5560d0696fc0] Incorrect BOM value
+[mp3 @ 0x5560d0696fc0] Error reading comment frame, skipped
+[mp3 @ 0x5560d0696fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:28:07 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055293.mp3
+    date            : 2021
+  Duration: 00:00:29.73, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.83 fps, 0.84 tbr, 0.84 tbn, 0.84 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:28:07 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055293.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     395kB time=00:00:08.00 bitrate= 404.9kbits/s speed=15.3x    frame=   16 fps= 16 q=2.0 size=     799kB time=00:00:16.00 bitrate= 409.1kbits/s speed=15.6x    frame=   24 fps= 16 q=2.0 size=     846kB time=00:00:24.00 bitrate= 288.8kbits/s speed=15.7x    frame=   31 fps= 15 q=2.0 Lsize=    1265kB time=00:00:31.00 bitrate= 334.2kbits/s speed=15.4x    
+video:1110kB audio:116kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.095157%
+Failed to get connection
+** (inkscape:12602): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12602): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12602): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   516    0     0  100   516      0    419  0:00:01  0:00:01 --:--:--   419100   516    0     0  100   516      0    231  0:00:02  0:00:02 --:--:--   231100   516    0     0  100   516      0    159  0:00:03  0:00:03 --:--:--   159100   516    0     0  100   516      0    121  0:00:04  0:00:04 --:--:--   121100   516    0     0  100   516      0     98  0:00:05  0:00:05 --:--:--    98100   516    0     0  100   516      0     82  0:00:06  0:00:06 --:--:--     0100   516    0     0  100   516      0     71  0:00:07  0:00:07 --:--:--     0100   516    0     0  100   516      0     62  0:00:08  0:00:08 --:--:--     0100  6283  100  5767  100   516    695     62  0:00:08  0:00:08 --:--:--  1292100  6283  100  5767  100   516    695     62  0:00:08  0:00:08 --:--:--  1715
+18.573
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x56176b8c8fc0] Incorrect BOM value
+[mp3 @ 0x56176b8c8fc0] Error reading comment frame, skipped
+[mp3 @ 0x56176b8c8fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:29:19 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055314.mp3
+    date            : 2021
+  Duration: 00:00:18.52, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.33 fps, 1.35 tbr, 1.35 tbn, 1.35 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:29:19 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055314.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     301kB time=00:00:08.00 bitrate= 308.5kbits/s speed=15.7x    frame=   16 fps= 16 q=2.0 size=     612kB time=00:00:16.00 bitrate= 313.4kbits/s speed=15.8x    frame=   20 fps= 15 q=2.0 Lsize=     648kB time=00:00:20.00 bitrate= 265.4kbits/s speed=15.4x    
+video:548kB audio:72kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.421955%
+Failed to get connection
+** (inkscape:12645): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12645): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12645): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   517    0     0  100   517      0    420  0:00:01  0:00:01 --:--:--   420100   517    0     0  100   517      0    231  0:00:02  0:00:02 --:--:--   231100   517    0     0  100   517      0    159  0:00:03  0:00:03 --:--:--   159100   517    0     0  100   517      0    122  0:00:04  0:00:04 --:--:--   122100  6284  100  5767  100   517   1346    120  0:00:04  0:00:04 --:--:--  1346
+21.159
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x559c2f547fc0] Incorrect BOM value
+[mp3 @ 0x559c2f547fc0] Error reading comment frame, skipped
+[mp3 @ 0x559c2f547fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:30:26 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055331.mp3
+    date            : 2021
+  Duration: 00:00:21.08, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.18 fps, 1.18 tbr, 1.18 tbn, 1.18 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/sagitario_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:30:26 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055331.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     305kB time=00:00:08.00 bitrate= 311.9kbits/s speed=15.7x    frame=   17 fps= 16 q=2.0 size=     623kB time=00:00:17.00 bitrate= 300.3kbits/s speed=  16x    frame=   22 fps= 16 q=2.0 Lsize=     669kB time=00:00:22.00 bitrate= 249.2kbits/s speed=15.6x    
+video:557kB audio:82kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.664885%
+Failed to get connection
+** (inkscape:12733): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12733): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12733): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   751    0     0  100   751      0   2872 --:--:-- --:--:-- --:--:--  2866100   751    0     0  100   751      0    594  0:00:01  0:00:01 --:--:--   594100   751    0     0  100   751      0    331  0:00:02  0:00:02 --:--:--   331100   751    0     0  100   751      0    230  0:00:03  0:00:03 --:--:--   229100   751    0     0  100   751      0    176  0:00:04  0:00:04 --:--:--   176100  6518  100  5767  100   751   1314    171  0:00:04  0:00:04 --:--:--  1216
+29.309
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55f9a4ab3fc0] Incorrect BOM value
+[mp3 @ 0x55f9a4ab3fc0] Error reading comment frame, skipped
+[mp3 @ 0x55f9a4ab3fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:31:34 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055343.mp3
+    date            : 2021
+  Duration: 00:00:29.20, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.85 fps, 0.85 tbr, 0.85 tbn, 0.85 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:31:34 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055343.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     387kB time=00:00:08.00 bitrate= 396.3kbits/s speed=15.6x    frame=   17 fps= 16 q=2.0 size=     787kB time=00:00:17.00 bitrate= 379.4kbits/s speed=  16x    frame=   26 fps= 16 q=2.0 size=    1187kB time=00:00:26.00 bitrate= 374.1kbits/s speed=16.1x    frame=   30 fps= 16 q=2.0 Lsize=    1234kB time=00:00:30.00 bitrate= 336.9kbits/s speed=15.7x    
+video:1082kB audio:114kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.130895%
+Failed to get connection
+** (inkscape:12775): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12775): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12775): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   534    0     0  100   534      0    433  0:00:01  0:00:01 --:--:--   434100   534    0     0  100   534      0    239  0:00:02  0:00:02 --:--:--   239100   534    0     0  100   534      0    165  0:00:03  0:00:03 --:--:--   165100  6301  100  5767  100   534   1752    162  0:00:03  0:00:03 --:--:--  1752
+19.435
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55c041448fc0] Incorrect BOM value
+[mp3 @ 0x55c041448fc0] Error reading comment frame, skipped
+[mp3 @ 0x55c041448fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:32:40 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055356.mp3
+    date            : 2021
+  Duration: 00:00:19.38, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.29 fps, 1.29 tbr, 1.29 tbn, 1.29 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:32:40 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055356.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     293kB time=00:00:08.00 bitrate= 300.1kbits/s speed=15.9x    frame=   17 fps= 16 q=2.0 size=     598kB time=00:00:17.00 bitrate= 288.4kbits/s speed=16.1x    frame=   21 fps= 16 q=2.0 Lsize=     635kB time=00:00:21.00 bitrate= 247.7kbits/s speed=15.6x    
+video:531kB audio:76kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.655968%
+Failed to get connection
+** (inkscape:12818): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12818): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12818): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   560    0     0  100   560      0    455  0:00:01  0:00:01 --:--:--   455100   560    0     0  100   560      0    250  0:00:02  0:00:02 --:--:--   251100   560    0     0  100   560      0    173  0:00:03  0:00:03 --:--:--   173100   560    0     0  100   560      0    132  0:00:04  0:00:04 --:--:--   132100  6327  100  5767  100   560   1324    128  0:00:04  0:00:04 --:--:--  1324
+19.826
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55cde8e08fc0] Incorrect BOM value
+[mp3 @ 0x55cde8e08fc0] Error reading comment frame, skipped
+[mp3 @ 0x55cde8e08fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:33:47 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055368.mp3
+    date            : 2021
+  Duration: 00:00:19.75, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.25 fps, 1.26 tbr, 1.26 tbn, 1.26 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/capricornio_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:33:47 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055368.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     305kB time=00:00:08.00 bitrate= 312.4kbits/s speed=15.9x    frame=   17 fps= 16 q=2.0 size=     624kB time=00:00:17.00 bitrate= 300.7kbits/s speed=16.2x    frame=   21 fps= 16 q=2.0 Lsize=     663kB time=00:00:21.00 bitrate= 258.7kbits/s speed=15.7x    
+video:557kB audio:77kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.505173%
+Failed to get connection
+** (inkscape:12852): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12852): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12852): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   722    0     0  100   722      0    594  0:00:01  0:00:01 --:--:--   594100   722    0     0  100   722      0    325  0:00:02  0:00:02 --:--:--   325100   722    0     0  100   722      0    224  0:00:03  0:00:03 --:--:--   224100   722    0     0  100   722      0    171  0:00:04  0:00:04 --:--:--   171100  6489  100  5767  100   722   1351    169  0:00:04  0:00:04 --:--:--  1351
+27.663
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55c3bdfd1fc0] Incorrect BOM value
+[mp3 @ 0x55c3bdfd1fc0] Error reading comment frame, skipped
+[mp3 @ 0x55c3bdfd1fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:34:54 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055380.mp3
+    date            : 2021
+  Duration: 00:00:27.56, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.90 fps, 0.90 tbr, 0.90 tbn, 0.90 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:34:54 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055380.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     382kB time=00:00:08.00 bitrate= 391.3kbits/s speed=15.5x    frame=   16 fps= 16 q=2.0 size=     773kB time=00:00:16.00 bitrate= 395.9kbits/s speed=15.7x    frame=   25 fps= 16 q=1.6 size=     821kB time=00:00:25.00 bitrate= 268.9kbits/s speed=  16x    frame=   29 fps= 16 q=2.0 Lsize=    1208kB time=00:00:29.00 bitrate= 341.3kbits/s speed=15.6x    
+video:1065kB audio:108kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.064433%
+Failed to get connection
+** (inkscape:12892): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12892): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12892): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   506    0     0  100   506      0    416  0:00:01  0:00:01 --:--:--   417100   506    0     0  100   506      0    228  0:00:02  0:00:02 --:--:--   228100   506    0     0  100   506      0    157  0:00:03  0:00:03 --:--:--   157100  6273  100  5767  100   506   1770    155  0:00:03  0:00:03 --:--:--  1771
+17.684
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55e394e01fc0] Incorrect BOM value
+[mp3 @ 0x55e394e01fc0] Error reading comment frame, skipped
+[mp3 @ 0x55e394e01fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:36:01 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055395.mp3
+    date            : 2021
+  Duration: 00:00:17.63, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.42 fps, 1.41 tbr, 1.41 tbn, 1.41 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:36:01 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055395.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     287kB time=00:00:08.00 bitrate= 293.4kbits/s speed=15.8x    frame=   16 fps= 16 q=2.0 size=     582kB time=00:00:16.00 bitrate= 297.9kbits/s speed=15.9x    frame=   19 fps= 15 q=2.0 Lsize=     610kB time=00:00:19.00 bitrate= 263.2kbits/s speed=15.4x    
+video:515kB audio:69kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.557407%
+Failed to get connection
+** (inkscape:12937): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12937): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12937): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   585    0     0  100   585      0   2740 --:--:-- --:--:-- --:--:--  2733100   585    0     0  100   585      0    481  0:00:01  0:00:01 --:--:--   481100   585    0     0  100   585      0    264  0:00:02  0:00:02 --:--:--   263100   585    0     0  100   585      0    181  0:00:03  0:00:03 --:--:--   181 72  6352   69  3995  100   585    950    139  0:00:06  0:00:04  0:00:02   950100  6352  100  5767  100   585   1366    138  0:00:04  0:00:04 --:--:--  1292
+22.386
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x559919bdffc0] Incorrect BOM value
+[mp3 @ 0x559919bdffc0] Error reading comment frame, skipped
+[mp3 @ 0x559919bdffc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:37:08 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055407.mp3
+    date            : 2021
+  Duration: 00:00:22.31, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.12 fps, 1.12 tbr, 1.12 tbn, 1.12 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/acuario_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:37:08 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055407.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     318kB time=00:00:08.00 bitrate= 325.6kbits/s speed=15.6x    frame=   16 fps= 16 q=2.0 size=     647kB time=00:00:16.00 bitrate= 331.3kbits/s speed=15.8x    frame=   24 fps= 16 q=2.0 Lsize=     706kB time=00:00:24.00 bitrate= 241.2kbits/s speed=15.5x    
+video:588kB audio:87kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.590870%
+Failed to get connection
+** (inkscape:12978): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:12978): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:12978): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_personal.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   733    0     0  100   733      0    580  0:00:01  0:00:01 --:--:--   580100   733    0     0  100   733      0    323  0:00:02  0:00:02 --:--:--   323100   733    0     0  100   733      0    224  0:00:03  0:00:03 --:--:--   224100   733    0     0  100   733      0    171  0:00:04  0:00:04 --:--:--   171100  6500  100  5767  100   733   1320    167  0:00:04  0:00:04 --:--:--  1320
+29.283
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x564f0b70efc0] Incorrect BOM value
+[mp3 @ 0x564f0b70efc0] Error reading comment frame, skipped
+[mp3 @ 0x564f0b70efc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_personal.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:38:15 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055422.mp3
+    date            : 2021
+  Duration: 00:00:29.18, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_personal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.85 fps, 0.85 tbr, 0.85 tbn, 0.85 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_personal.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:38:15 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055422.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     383kB time=00:00:08.00 bitrate= 392.1kbits/s speed=15.2x    frame=   16 fps= 16 q=2.0 size=     772kB time=00:00:16.00 bitrate= 395.4kbits/s speed=15.5x    frame=   25 fps= 16 q=1.6 size=     823kB time=00:00:25.00 bitrate= 269.7kbits/s speed=15.7x    frame=   30 fps= 15 q=2.0 Lsize=    1220kB time=00:00:30.00 bitrate= 333.2kbits/s speed=15.3x    
+video:1069kB audio:114kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 3.165098%
+Failed to get connection
+** (inkscape:13054): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:13054): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:13054): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_amor.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   405    0     0  100   405      0    329  0:00:01  0:00:01 --:--:--   329100   405    0     0  100   405      0    181  0:00:02  0:00:02 --:--:--   181100   405    0     0  100   405      0    125  0:00:03  0:00:03 --:--:--   125100   405    0     0  100   405      0     95  0:00:04  0:00:04 --:--:--    95100   405    0     0  100   405      0     77  0:00:05  0:00:05 --:--:--    77 25  6172   20  1179  100   405    190     65  0:00:30  0:00:06  0:00:24   155100  6172  100  5767  100   405    928     65  0:00:06  0:00:06 --:--:--  1346
+13.426
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x55b201239fc0] Incorrect BOM value
+[mp3 @ 0x55b201239fc0] Error reading comment frame, skipped
+[mp3 @ 0x55b201239fc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_amor.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:39:24 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055438.mp3
+    date            : 2021
+  Duration: 00:00:13.40, start: 0.000000, bitrate: 42 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_amor.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.86 fps, 1.86 tbr, 1.86 tbn, 1.86 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_amor.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:39:24 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055438.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     248kB time=00:00:08.00 bitrate= 254.0kbits/s speed=15.6x    frame=   15 fps= 15 q=2.0 Lsize=     507kB time=00:00:15.00 bitrate= 276.8kbits/s speed=  15x    
+video:432kB audio:52kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.674420%
+Failed to get connection
+** (inkscape:13091): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:13091): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:13091): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_trabajo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   537    0     0  100   537      0    425  0:00:01  0:00:01 --:--:--   425100   537    0     0  100   537      0    237  0:00:02  0:00:02 --:--:--   237100   537    0     0  100   537      0    164  0:00:03  0:00:03 --:--:--   164100   537    0     0  100   537      0    125  0:00:04  0:00:04 --:--:--   125100   537    0     0  100   537      0    101  0:00:05  0:00:05 --:--:--   101100   537    0     0  100   537      0     85  0:00:06  0:00:06 --:--:--     0100   537    0     0  100   537      0     73  0:00:07  0:00:07 --:--:--     0100   537    0     0  100   537      0     64  0:00:08  0:00:08 --:--:--     0100   537    0     0  100   537      0     57  0:00:09  0:00:09 --:--:--     0100   537    0     0  100   537      0     52  0:00:10  0:00:10 --:--:--     0100   537    0     0  100   537      0     47  0:00:11  0:00:11 --:--:--     0100   537    0     0  100   537      0     43  0:00:12  0:00:12 --:--:--     0100   537    0     0  100   537      0     40  0:00:13  0:00:13 --:--:--     0100   537    0     0  100   537      0     37  0:00:14  0:00:14 --:--:--     0100   537    0     0  100   537      0     35  0:00:15  0:00:15 --:--:--     0100   537    0     0  100   537      0     32  0:00:16  0:00:16 --:--:--     0100   537    0     0  100   537      0     31  0:00:17  0:00:17 --:--:--     0100   537    0     0  100   537      0     29  0:00:18  0:00:18 --:--:--     0100   537    0     0  100   537      0     27  0:00:19  0:00:19 --:--:--     0100   537    0     0  100   537      0     26  0:00:20  0:00:20 --:--:--     0100   537    0     0  100   537      0     25  0:00:21  0:00:21 --:--:--     0100   537    0     0  100   537      0     24  0:00:22  0:00:22 --:--:--     0100   537    0     0  100   537      0     23  0:00:23  0:00:23 --:--:--     0100   537    0     0  100   537      0     22  0:00:24  0:00:24 --:--:--     0100   537    0     0  100   537      0     21  0:00:25  0:00:25 --:--:--     0100   537    0     0  100   537      0     20  0:00:26  0:00:26 --:--:--     0100   537    0     0  100   537      0     19  0:00:28  0:00:27  0:00:01     0100   537    0     0  100   537      0     18  0:00:29  0:00:28  0:00:01     0100   537    0     0  100   537      0     18  0:00:29  0:00:29 --:--:--     0100   537    0     0  100   537      0     17  0:00:31  0:00:30  0:00:01     0100   537    0     0  100   537      0     17  0:00:31  0:00:31 --:--:--     0100   537    0     0  100   537      0     16  0:00:33  0:00:32  0:00:01     0100   537    0     0  100   537      0     16  0:00:33  0:00:33 --:--:--     0100   537    0     0  100   537      0     15  0:00:35  0:00:34  0:00:01     0100   537    0     0  100   537      0     15  0:00:35  0:00:35 --:--:--     0100   537    0     0  100   537      0     14  0:00:38  0:00:36  0:00:02     0100   537    0     0  100   537      0     14  0:00:38  0:00:37  0:00:01     0100   537    0     0  100   537      0     14  0:00:38  0:00:38 --:--:--     0100   537    0     0  100   537      0     13  0:00:41  0:00:39  0:00:02     0100   537    0     0  100   537      0     13  0:00:41  0:00:40  0:00:01     0100   537    0     0  100   537      0     13  0:00:41  0:00:41 --:--:--     0100   537    0     0  100   537      0     12  0:00:44  0:00:42  0:00:02     0100   537    0     0  100   537      0     12  0:00:44  0:00:43  0:00:01     0100   537    0     0  100   537      0     12  0:00:44  0:00:44 --:--:--     0100   537    0     0  100   537      0     11  0:00:48  0:00:45  0:00:03     0100   537    0     0  100   537      0     11  0:00:48  0:00:46  0:00:02     0100   537    0     0  100   537      0     11  0:00:48  0:00:47  0:00:01     0100   537    0     0  100   537      0     11  0:00:48  0:00:48 --:--:--     0100   537    0     0  100   537      0     10  0:00:53  0:00:49  0:00:04     0100   537    0     0  100   537      0     10  0:00:53  0:00:50  0:00:03     0100   537    0     0  100   537      0     10  0:00:53  0:00:51  0:00:02     0100   537    0     0  100   537      0     10  0:00:53  0:00:52  0:00:01     0100   537    0     0  100   537      0     10  0:00:53  0:00:53 --:--:--     0100   537    0     0  100   537      0      9  0:00:59  0:00:54  0:00:05     0100   537    0     0  100   537      0      9  0:00:59  0:00:55  0:00:04     0100   537    0     0  100   537      0      9  0:00:59  0:00:56  0:00:03     0100   537    0     0  100   537      0      9  0:00:59  0:00:57  0:00:02     0100   537    0     0  100   537      0      9  0:00:59  0:00:58  0:00:01     0100   537    0     0  100   537      0      9  0:00:59  0:00:59 --:--:--     0100   537    0     0  100   537      0      8  0:01:07  0:01:00  0:00:07     0100   537    0     0  100   537      0      8  0:01:07  0:01:01  0:00:06     0100   537    0     0  100   537      0      8  0:01:07  0:01:02  0:00:05     0100   537    0     0  100   537      0      8  0:01:07  0:01:03  0:00:04     0100   537    0     0  100   537      0      8  0:01:07  0:01:04  0:00:03     0100   537    0     0  100   537      0      8  0:01:07  0:01:05  0:00:02     0100   537    0     0  100   537      0      8  0:01:07  0:01:06  0:00:01     0100   537    0     0  100   537      0      8  0:01:07  0:01:07 --:--:--     0100   537    0     0  100   537      0      7  0:01:16  0:01:08  0:00:08     0100   537    0     0  100   537      0      7  0:01:16  0:01:09  0:00:07     0100   537    0     0  100   537      0      7  0:01:16  0:01:10  0:00:06     0100   537    0     0  100   537      0      7  0:01:16  0:01:11  0:00:05     0100   537    0     0  100   537      0      7  0:01:16  0:01:12  0:00:04     0100   537    0     0  100   537      0      7  0:01:16  0:01:13  0:00:03     0100   537    0     0  100   537      0      7  0:01:16  0:01:14  0:00:02     0100   537    0     0  100   537      0      7  0:01:16  0:01:15  0:00:01     0100   537    0     0  100   537      0      7  0:01:16  0:01:16 --:--:--     0 71  6304   69  3995  100   537     51      6  0:01:53  0:01:16  0:00:37   713100  6304  100  5767  100   537     74      6  0:01:29  0:01:16  0:00:13  1353
+21.002
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+[mp3 @ 0x56285f7fffc0] Incorrect BOM value
+[mp3 @ 0x56285f7fffc0] Error reading comment frame, skipped
+[mp3 @ 0x56285f7fffc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_trabajo.mp3':
+  Metadata:
+    encoded_by      : Lame MP3
+    album           : Created: 8/13/2021 11:41:43 PM
+    artist          : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    genre           : Speech
+    title           : 64055459.mp3
+    date            : 2021
+  Duration: 00:00:20.92, start: 0.000000, bitrate: 41 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 40 kb/s
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_trabajo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 1.19 fps, 1.19 tbr, 1.19 tbn, 1.19 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/piscis_trabajo.avi':
+  Metadata:
+    ITCH            : Lame MP3
+    ILNG            : Spanish [Modern]
+    IPRD            : Created: 8/13/2021 11:41:43 PM
+    IART            : TextAloud: IVONA Conchita22 (Spanish [Modern])
+    IGNR            : Speech
+    INAM            : 64055459.mp3
+    ICRD            : 2021
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     302kB time=00:00:08.00 bitrate= 309.6kbits/s speed=15.4x    frame=   16 fps= 16 q=2.0 size=     614kB time=00:00:16.00 bitrate= 314.3kbits/s speed=15.7x    frame=   22 fps= 15 q=2.0 Lsize=     663kB time=00:00:22.00 bitrate= 247.0kbits/s speed=15.3x    
+video:552kB audio:82kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 4.685889%
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, concat, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/mylist.txt':
+  Duration: N/A, start: 0.000000, bitrate: 307 kb/s
+    Stream #0:0: Video: mpeg4 (Simple Profile) (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 275 kb/s, 1 fps, 1 tbr, 1 tbn, 1 tbc
+    Stream #0:1: Audio: mp3 (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p, 32 kb/s
+Output #0, mp4, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/output.mp4':
+  Metadata:
+    encoder         : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (Simple Profile) ( [0][0][0] / 0x0020), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 275 kb/s, 1 fps, 1 tbr, 16384 tbn, 1 tbc
+    Stream #0:1: Audio: aac (LC) ([64][0][0][0] / 0x0040), 22050 Hz, mono, fltp, 69 kb/s
+    Metadata:
+      encoder         : Lavc57.64.101 aac
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (mp3 (native) -> aac (native))
+Press [q] to stop, [?] for help
+frame=   32 fps=0.0 q=-1.0 size=    1349kB time=00:00:32.00 bitrate= 345.2kbits/s speed=63.8x    frame=   65 fps= 65 q=-1.0 size=    2442kB time=00:01:07.00 bitrate= 298.6kbits/s speed=66.9x    frame=  102 fps= 68 q=-1.0 size=    4020kB time=00:01:45.00 bitrate= 313.7kbits/s speed=69.9x    frame=  138 fps= 69 q=-1.0 size=    5450kB time=00:02:23.00 bitrate= 312.2kbits/s speed=71.4x    frame=  171 fps= 68 q=-1.0 size=    6703kB time=00:02:57.00 bitrate= 310.2kbits/s speed=70.7x    frame=  205 fps= 68 q=-1.0 size=    8138kB time=00:03:33.00 bitrate= 313.0kbits/s speed=70.9x    frame=  241 fps= 69 q=-1.0 size=    9565kB time=00:04:10.00 bitrate= 313.4kbits/s speed=71.4x    frame=  279 fps= 70 q=-1.0 size=   10955kB time=00:04:50.00 bitrate= 309.4kbits/s speed=72.4x    frame=  313 fps= 69 q=-1.0 size=   12398kB time=00:05:25.00 bitrate= 312.5kbits/s speed=72.2x    frame=  348 fps= 70 q=-1.0 size=   13665kB time=00:06:01.38 bitrate= 309.8kbits/s speed=72.2x    frame=  384 fps= 70 q=-1.0 size=   15154kB time=00:06:39.00 bitrate= 311.1kbits/s speed=72.5x    frame=  420 fps= 70 q=-1.0 size=   16393kB time=00:07:16.00 bitrate= 308.0kbits/s speed=72.6x    frame=  455 fps= 70 q=-1.0 size=   17843kB time=00:07:53.00 bitrate= 309.0kbits/s speed=72.7x    frame=  489 fps= 70 q=-1.0 size=   18982kB time=00:08:28.00 bitrate= 306.1kbits/s speed=72.4x    frame=  521 fps= 69 q=-1.0 size=   20136kB time=00:09:02.00 bitrate= 304.3kbits/s speed=72.1x    frame=  552 fps= 69 q=-1.0 size=   21454kB time=00:09:34.00 bitrate= 306.2kbits/s speed=71.6x    frame=  584 fps= 69 q=-1.0 size=   22654kB time=00:10:07.64 bitrate= 305.4kbits/s speed=71.4x    frame=  621 fps= 69 q=-1.0 size=   24227kB time=00:10:46.00 bitrate= 307.2kbits/s speed=71.7x    frame=  654 fps= 69 q=-1.0 size=   25343kB time=00:11:20.00 bitrate= 305.3kbits/s speed=71.5x    frame=  690 fps= 69 q=-1.0 size=   26990kB time=00:11:58.00 bitrate= 307.9kbits/s speed=71.7x    frame=  726 fps= 69 q=-1.0 size=   28130kB time=00:12:35.00 bitrate= 305.2kbits/s speed=71.8x    frame=  762 fps= 69 q=-1.0 size=   29745kB time=00:13:13.00 bitrate= 307.3kbits/s speed=  72x    frame=  801 fps= 70 q=-1.0 size=   30911kB time=00:13:53.00 bitrate= 304.0kbits/s speed=72.3x    frame=  834 fps= 69 q=-1.0 size=   32485kB time=00:14:28.00 bitrate= 306.6kbits/s speed=72.2x    frame=  867 fps= 70 q=-1.0 Lsize=   33630kB time=00:15:02.00 bitrate= 305.4kbits/s speed=72.4x    
+video:26191kB audio:7349kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.272117%
+[aac @ 0x559c82836fe0] Qavg: 3664.808
+ffmpeg version 3.2.15-0+deb9u2 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=0+deb9u2 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/output.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf57.56.101
+  Duration: 00:15:03.00, start: 0.000000, bitrate: 305 kb/s
+    Stream #0:0(und): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 237 kb/s, 0.96 fps, 1 tbr, 16384 tbn, 1 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 22050 Hz, mono, fltp, 66 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Output #0, wav, to '/home/arielbmx/horoscopo-del-dia.com/tmp/diario/output_avi.wav':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    ISFT            : Lavf57.56.101
+    Stream #0:0(und): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, mono, s16, 352 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc57.64.101 pcm_s16le
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+size=   35414kB time=00:15:00.99 bitrate= 322.0kbits/s speed=2.08e+03x    
+video:0kB audio:35414kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000215%
