@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 09 de agosto 2021 al 15 de agosto 2021 
-description: Horóscopo semanal leo 09 de agosto 2021 al 15 de agosto 2021. Semana intensa Leo, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+title: leo 16 de agosto 2021 al 22 de agosto 2021 
+description: Horóscopo semanal leo 16 de agosto 2021 al 22 de agosto 2021. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Leo, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-09'
+ lastmod: '2021-08-16'
 ---
 
 
 
-## Semana intensa Leo, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Leo, vuelve a brillar.
 
-Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
- Tienes que acabar de una vez con todo Leo.
-¿No es tiempo de que te relajes? Descubres que buscas decir lo que piensas cuando Marte ingresa en tu sector de relaciones. Aunque una estrategia más diplomática siempre es útil, hay momentos en los que es mejor buscar la honestidad y sinceridad. Aquellos proyectos o relaciones que no han progresado empiezan a moverse en la dirección correcta. La entrada de Venus a tu sector de estilo de vida genera relaciones positivas con colegas y superiores. En cuanto a diversión, los deportes de competencia ayudan a canalizar tu energía.
+Hay cosas que no se pueden cambiar Leo, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos Leo, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia Leo pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+Mercurio le hace una breve visita a tu signo y se torna retrógrado a principios de esta semana, lo que podría dar lugar a que ciertos planes sufran retrasos. De hecho, puede que no los pongas en marcha hasta que Mercurio comience a avanzar de nuevo. Sin embargo, hay mucho que puedes lograr durante este periodo, y la semana por delante podría ser decisiva al animarte a examinar tus motivos y poner tus prioridades en orden. Una vez hecho eso, las cosas deberían empezar a caer en su lugar con mayor facilidad, también haciéndote sentir más confianza.
 
 ## Dinero
 
-Esta semana te encuentras atrapado/a en el medio. Podrías estar sintiendo como si estuvieras siendo arreado/a (tal vez en contra de tu voluntad) hacia una determinada persona o situación. Tu sector de profesión es el área que necesita más atención ahora. Trabaja en un plan de cinco años para avanzar en tu posición y compensación.
+Es posible que te enfrentes al reto de hacer que ciertas relaciones personales funcionen, sobre todo en tu vida laboral y monetaria. Puede que alguien no esté cooperando ahora, pero si te mantienes con calma y diplomacia (no con estrés o confrontación), puedes establecer un maravilloso compromiso en el que todos ganen. Adopta una postura de negociación en todos los asuntos comerciales.

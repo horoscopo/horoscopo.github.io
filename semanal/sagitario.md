@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 09 de agosto 2021 al 15 de agosto 2021 
-description: Horóscopo semanal sagitario 09 de agosto 2021 al 15 de agosto 2021. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
+title: sagitario 16 de agosto 2021 al 22 de agosto 2021 
+description: Horóscopo semanal sagitario 16 de agosto 2021 al 22 de agosto 2021. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagitario, ¡NO MEZCLES!
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-09'
+ lastmod: '2021-08-16'
 ---
 
 
 
-## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
+## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagitario, ¡NO MEZCLES!
 
-Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
- aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
-Pareces estar por buen camino en relación con una oportunidad de oro que ha sido puesta en tu camino y que querrás aprovechar. Asegúrate de revisar los términos y condiciones, ya que la conexión entre Marte y Neptuno sugiere que puede que no todo sea lo que parece. En cuanto a romance, esta podría ser una semana interesante debido a que las emociones se acumulan, pudiendo llegar a un punto crítico este fin de semana. Con Urano involucrado, podría ser tentador actuar impulsivamente. Trata de evitar esto, ya que puedes lamentarlo más tarde.
+No te arrepientas de abrirte Sagitario, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Sagitario, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Sagitario, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Sagitario, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+No asumas nada en relación a tus finanzas, ya que podrías estar en lo equivocado. Una nerviosa alineación afectando a tu sector financiero podría verte haciendo una compra o inversión errónea. Pide la opinión de una amistad o recibe asesoramiento por parte de expertos antes de actuar. La fase retrógrada de Mercurio podría afectar planes de viaje, ¡aunque cualquier desvío o retraso inesperado podría terminar dirigiéndote a la aventura! Sólo recuerda mantener tu información personal y pasaporte en un lugar seguro. Más tarde, un evento social podría cambiar por completo cierta situación.
 
 ## Dinero
 
-Esta semana tiene que ver con el Universo poniendo nuevas ofertas sobre la mesa y más maniobras en tus inversiones. Puede que te preocupe el que no hayas avanzado lo suficiente con tu dinero o que no hayas escalado más en la escalera corporativa. Pero tus relaciones profesionales en tu sector de carrera están a punto de hacer una transformación positiva muy grande. ¡Celebra tu buena fortuna!
+Eres como una pantalla en la que otros pueden proyectar sus esperanzas, temores, logros y mucho más. Esto te permite el tener muchas caras. Así que si quieres un mejor trabajo o una mejor posición en la cadena alimenticia, actúa como si ya estuvieras en esa posición. Los aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y a ahorrar para el futuro.

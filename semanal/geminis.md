@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 09 de agosto 2021 al 15 de agosto 2021 
-description: Horóscopo semanal geminis 09 de agosto 2021 al 15 de agosto 2021. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+title: geminis 16 de agosto 2021 al 22 de agosto 2021 
+description: Horóscopo semanal geminis 16 de agosto 2021 al 22 de agosto 2021. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-09'
+ lastmod: '2021-08-16'
 ---
 
 
 
-## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+## Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 
-Tienes que improvisar más Géminis, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Géminis, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Géminis… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Géminis, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Géminis.
-Con un enfoque definido en tu sector de transformación y finanzas compartidas, un pulso más profundo podría influir en tus pensamientos y emociones. Tal vez notes cómo ciertos patrones no permitieron que lograras todo lo que buscabas lograr, y esto podría alentarte a que de a poco los dejes ir. La entrada del Sol a tu sector de estilo de vida podría motivarte a comer más saludable aunque esta semana bien puede ser época de excesos y placeres. Espera hasta el Jueves, al momento en el que la Luna Nueva se manifieste.
+Quita importancia a las cosas Géminis, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Géminis. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
+Llévatela con calma al principio de la semana, ya que la Luna Llena en tu sector de relaciones podría instigar conversaciones hirientes. Si tienes algo qué decir, trata de hacerlo con discreción si quieres mantener tu amistad con alguien, sobre todo a largo plazo. Más adelante, podrían llegarte ciertas oportunidades a través de una propiedad inmobiliaria o asuntos empresariales relacionados con tu familia o parientes. La oportunidad de invertir tu dinero podría probar ser rentable a la larga.
 
 ## Dinero
 
-Esta semana estás pensando en la manera de expresar tu lado serio. Tienes algunas cosas pesadas en la mente, y mantenerlas dentro  no le hace bien a nadie. En vez de eso, encuentra a tu locutor interno, y dale la noticia de una manera neutral e imparcial. Al menos tu sector de trabajo es un lugar seguro en el que puedes dejar que tu nuevo “yo” salga. La gente quiere escuchar lo que tienes que decir, sobre todo tus ideas sobre cómo ahorrarle dinero a la empresa.
+La buena noticia es que el Universo te está haciendo parecer interesante y único/a con todos. La mala noticia es que aporta una buena dosis de tensión a tu sector de profesión. Es posible que desees que tu individualidad y  tus buenas ideas brillen, pero alguien en el trabajo quiere mantener el statu quo. El dinero viene cuando eres capaz de alzar la línea sólo un poco con tal de encontrar un foro de apoyo para tus habilidades.

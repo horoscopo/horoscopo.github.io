@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 09 de agosto 2021 al 15 de agosto 2021 
-description: Horóscopo semanal tauro 09 de agosto 2021 al 15 de agosto 2021. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Tauro. Pero sigue protegiéndote a ti mismo…
+title: tauro 16 de agosto 2021 al 22 de agosto 2021 
+description: Horóscopo semanal tauro 16 de agosto 2021 al 22 de agosto 2021. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-09'
+ lastmod: '2021-08-16'
 ---
 
 
 
-## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Tauro. Pero sigue protegiéndote a ti mismo…
+## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 
-Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa Tauro, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
-La semana por delante podría alentarte a conectar con nuevas personas y como resultado hacer uso de oportunidades que sean prometedoras. Permite que tu curiosidad te dirija a sitios web, libros y grupos que podrían marcar una diferencia en tu vida. En este momento, incluso puedes aprender de las personas que están en desacuerdo contigo o que tienen una perspectiva totalmente diferente hacia la vida debido a que sus puntos de vista podrían aportarte nuevas ideas. En tu carrera, una revelación podría cambiar el plan a seguir.
+A veces de bueno te pasas Tauro. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Tauro, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Tauro, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Tauro y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
+Tus sueños podrían ser muy potentes en o alrededor del lunes, cuando la Luna Llena podría hacerlos más vívidos y realistas de lo habitual. Mantén tu enfoque en cualquiera que pudiera llamarte la atención o servirte de útil orientación. Sin embargo, analiza aquello que te diga tu intuición, ya que podría ser poco fiable durante ese mismo día. La perspectiva de otra persona puede serte muy útil. Tu nivel de creatividad también podría aumentar al obtener la opinión o los consejos de personas que saben del tema. Este domingo, es posible que desees descansar y relajarte totalmente.
 
 ## Dinero
 
-Eres especialmente activo/a cuando se trata de redefinir cómo deseas ser percibido/a por los demás. Esto puede resultar en la posibilidad de modificar tu forma de vestir, hablar o hacerle frente a los demás. Estás transformando la manera en la que otros te ven y en última instancia, te tratan, especialmente en el trabajo. Te están lloviendo tantas ofertas que es posible que tengas tiempo para considerar todas tus opciones. Prepárate para convertirte en la autoridad que estás destinado/a a ser.
+Este período es acerca de cómo adoptar un amplio plan de pago de deuda para lograr que esa parte de tu vida sea resuelva por última vez. Es posible que en el pasado hayas sentido agobio por la cantidad que debías en tarjetas de crédito, crédito hipotecario, o préstamos de familiares y amigos. Sin embargo, ahora tienes la ventaja y el impulso para nivelarte. Desvía el diez por ciento de tu ingreso hacia esta área.

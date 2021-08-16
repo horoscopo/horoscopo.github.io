@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 09 de agosto 2021 al 15 de agosto 2021 
-description: Horóscopo semanal capricornio 09 de agosto 2021 al 15 de agosto 2021. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+title: capricornio 16 de agosto 2021 al 22 de agosto 2021 
+description: Horóscopo semanal capricornio 16 de agosto 2021 al 22 de agosto 2021. La vida es un ciclo Capricornio, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-09'
+ lastmod: '2021-08-16'
 ---
 
 
 
-## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+## La vida es un ciclo Capricornio, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Capricornio, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-Esta puede ser una emocionante semana en la que una conversación o encuentro tenga un profundo efecto en ti. Una positiva alineación en tu sector de relaciones sugiere que la gente con la que conectas tiene el potencial de cambiar tu vida de una manera u otra. El Eclipse Solar de esta semana insinúa que alguien podría decidir protegerte o incluso querer salir contigo. Su conocimiento, experiencia y perspectiva de vida podrían enriquecerte de muchas y maravillosas maneras. ¡Prepárate!
+Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas Capricornio. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva Capricornio. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien Capricornio, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+Puede haber más opciones románticas esta semana y en las próximas semanas mientras Marte llega al núcleo de tu sector de recreación y placer. Puede que tengas una actitud más dinámica en cuanto a tener citas o encontrar a esa persona especial. Puede que haya un poco de competencia en el camino y esto puede hacer que todo se vuelva un poco más estresante. Otros factores indican que debes ser quien realmente eres para atraer a la persona indicada. Por último, una conversación puede abrirte las puertas a una gran oportunidad.
 
 ## Dinero
 
-Es una semana llena de retos para ti. Tus sueños pueden ser algo más que una fuente de inspiración. Sus imágenes e ideas te ayudarán a determinar el negocio que sería bueno y la forma de avanzar en esa área. También es necesario reforzar tus ahorros. El cambio se aproxima y querrás prepararte para ello.
+Esta semana tu sector de labor te trae todo tipo de elogios en el trabajo. Los de arriba están notando tu trabajo y quieren verte tener éxito. Se te alienta a hablar de tus metas personales y de tu visión para la empresa en conjunto. Tus esfuerzos son muy apreciados. Van a ser recompensados económicamente y con más beneficios.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 09 de agosto 2021 al 15 de agosto 2021 
-description: Horóscopo semanal escorpio 09 de agosto 2021 al 15 de agosto 2021. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+title: escorpio 16 de agosto 2021 al 22 de agosto 2021 
+description: Horóscopo semanal escorpio 16 de agosto 2021 al 22 de agosto 2021. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-09'
+ lastmod: '2021-08-16'
 ---
 
 
 
-## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 
-Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
- A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
-Hay motivos por los cuales sería mejor buscar el equilibrio esta semana. Poderosas fuerzas celestiales podrían llevarte a los extremos, y es mejor evitarlo. De hecho, la Luna Llena a mitad de semana podría hacer que tomes una decisión espontánea de la que te arrepientes luego. Tal vez sea mejor esperar hasta el final de la semana, o incluso después, antes de tomar una decisión importante. Sin embargo, el fin de semana ofrece algo de diversión y animadas salidas que deberías disfrutar en grande.
+Hace mucho tiempo que no te das un buen capricho Escorpio, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes Escorpio. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
+A pesar de que puedas tener muchas ideas, la semana que se aproxima podría motivarte para que veas tus planes desde un punto de vista más filosófico. En primer lugar, un enfoque en tu sector espiritual sugiere que es hora de que ordenes tus prioridades y dejes atrás los problemas que no te hacen bien. Esto puede ser esencial para progresar en el futuro. Marte luego ingresa a Tauro y a tu sector de finanzas personales, lo que te da una actitud más práctica y realista en cuanto a los asuntos diarios.
 
 ## Dinero
 
-Te diriges a un periodo de gran riqueza en términos de finanzas e información que te ayudará a obtener más seguridad. Tienes un increíble poder psíquico ahora. El Universo está agitando tu sector de karma, vidas pasadas, e instituciones,  con el fin de acudir a estas áreas para hacer más dinero, encontrar nuevas ideas para productos y servicios únicos, o localizar lugares para invertir tu dinero para maximizar tus ganancias.
+Tienes algo en que pensar con respecto a tu empleo. Debido a que ciertos aspectos afectan tu trabajo, ambiente de trabajo, jefe, y compañeros de trabajo, es el momento de prestar atención a cada una de estas áreas. Pregúntate si eres feliz en la situación en la que estás. ¿Quieres permanecer ahí o cambiar de trabajo?
