@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de agosto 2021
-description: Horóscopos del dia de hoy 18 de agosto 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de agosto 2021
+description: Horóscopos del dia de hoy 19 de agosto 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-08-18
+ lastmod: 2021-08-19
 ---
-Es divertido imaginar bajo la Luna formando trígono con Neptuno. Sin embargo, tu mente inundada de pensamientos podría no estar prestando atención a sus responsabilidades. La Luna oponiéndose a Plutón esta noche hace que las emociones fuertes prevalezcan, tales pudiendo ser unilaterales. Si es que te involucraste antes de tiempo, sería bueno que dieras un paso atrás.
+Aclara y comunica propósitos el día de hoy. Las personas confusas hacen las peores cosas posibles cuando las mentes están en distintas modalidades. El ritmo más lento de esta noche es agradable bajo la Luna en Tauro. Puedes pasarte una deliciosa velada, bien merecida después de un complicado día. Solteros, noten el interesante pensamiento que sale a la superficie a la primera mirada.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
