@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 16 de agosto 2021 al 22 de agosto 2021 
-description: Horóscopo semanal libra 16 de agosto 2021 al 22 de agosto 2021. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Libra, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+title: libra 23 de agosto 2021 al 29 de agosto 2021 
+description: Horóscopo semanal libra 23 de agosto 2021 al 29 de agosto 2021. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Libra, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,17 +12,18 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-16'
+ lastmod: '2021-08-23'
 ---
 
 
 
-## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Libra, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Libra, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 
-Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti Libra.
-Cuando el atractivo Venus ingresa a tu signo el lunes, puede que sientas el impulso de conectarte con los demás, en especial con las personas que no ves hace bastante. Esta también puede ser la oportunidad para reinventar tu imagen a fin de que exprese mejor tu identidad y personalidad, y cualquier cambio relacionado con ellas. Además, el jovial Júpiter en tu sector de comunicación se vuelve directo el martes, lo que puede darte el empujón que necesitas para avanzar con cualquier acuerdo o plan que tengas en mente. Las próximas semanas también podrían verte cosechando los frutos del trabajo que hiciste en los últimos meses. 
-El eclipse solar en tu sector social del jueves puede indicar algunos cambios. Sin embargo, debido a que este eclipse conecta con el radical Plutón en tu sector de creatividad, puede que debas encontrar un equilibrio entre disfrutar de tus amistades y comprometerte con un cautivador proyecto que te aleja de ellas.
+Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
+ La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa Libra? 
+ todo lo que desea.
+Un encuentro con una vieja amistad podría resultar muy agradable, sobre todo si no se han visto en algún tiempo. Es muy probable que ambos hayan cambiado y es posible que se lleven mejor ahora de lo que se llevaban en el pasado. Además, con Júpiter avanzado en tu sector de conversación y pensamiento, la comunicación se vislumbra más prometedora en general. Si has estado esperando noticias sobre algo, podrías escucharlas muy pronto. Si trabajas en medios de comunicación, podrías recibir oportunidades para más proyectos.
 
 ## Dinero
 
-Tienes ganas de dejar que tu personalidad real salga a flote. En el trabajo, en tus relaciones personales y en público, quieres dejar todo salga, pero tu carrera (y sobre todo tu salario) puede sufrir si vas demasiado lejos. Ten un poco más de control con el fin de recoger los frutos. Tu individualidad brilla cuando haces un gran trabajo y asumes un rol de autoridad.
+Cierta actividad en tu carta ahora afecta a tu sector de grupos, política y trabajo por cuenta propia. Es un buen momento para buscar entre tus contactos a alguien que pueda ser capaz de ayudarte a desarrollar una nueva idea de un producto que genere dinero. Tú tienes el “know-how”, pero otra persona tiene el dinero o las conexiones para llevarlo al siguiente nivel.

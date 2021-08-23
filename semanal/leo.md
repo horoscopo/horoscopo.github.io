@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 16 de agosto 2021 al 22 de agosto 2021 
-description: Horóscopo semanal leo 16 de agosto 2021 al 22 de agosto 2021. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Leo, vuelve a brillar.
+title: leo 23 de agosto 2021 al 29 de agosto 2021 
+description: Horóscopo semanal leo 23 de agosto 2021 al 29 de agosto 2021. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,18 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-16'
+ lastmod: '2021-08-23'
 ---
 
 
 
-## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Leo, vuelve a brillar.
+## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 
-Hay cosas que no se pueden cambiar Leo, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos Leo, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia Leo pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
-Mercurio le hace una breve visita a tu signo y se torna retrógrado a principios de esta semana, lo que podría dar lugar a que ciertos planes sufran retrasos. De hecho, puede que no los pongas en marcha hasta que Mercurio comience a avanzar de nuevo. Sin embargo, hay mucho que puedes lograr durante este periodo, y la semana por delante podría ser decisiva al animarte a examinar tus motivos y poner tus prioridades en orden. Una vez hecho eso, las cosas deberían empezar a caer en su lugar con mayor facilidad, también haciéndote sentir más confianza.
+No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo Leo pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
+ Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
+Podrías experimentar una crisis de creencias al comienzo de la semana, lo que podría animarte a dejar ir esa actitud restrictiva y adoptar una más expansiva. Presta atención a tus instintos en este aspecto. Si algo se siente bien, probablemente lo sabrás en tu interior. Si no es así, tu cuerpo definitivamente te lo hará saber. Simplemente debes escuchar sus mensajes. Sin embargo, puede que te resulte útil analizar este problema con tus amistades u otras personas que están en tu misma sintonía. 
+ Puede que alguien que tiene sugerencias te abra los ojos a un nuevo mundo. Debido a que existe un importante enfoque en tu sector espiritual, la próxima semana podría traer positivos cambios cuando el animado Mercurio se vuelve directo en este sector, lo que te permitirá tener un mayor control. Por último, la luna nueva en este sector podría animarte a iniciar una práctica espiritual muy beneficiosa.    
 
 ## Dinero
 
-Es posible que te enfrentes al reto de hacer que ciertas relaciones personales funcionen, sobre todo en tu vida laboral y monetaria. Puede que alguien no esté cooperando ahora, pero si te mantienes con calma y diplomacia (no con estrés o confrontación), puedes establecer un maravilloso compromiso en el que todos ganen. Adopta una postura de negociación en todos los asuntos comerciales.
+Te enfrentas a una serie de distracciones en tu vida monetaria. Algunos aspectos indican que es posible que estés pasando más tiempo socializando, abrazando a tu media naranja o visitando posibles socios de negocios importantes. Siendo así, gran parte de tu tiempo y atención pueden estar colocados en estos reinos haciendo difícil la concentración en otra cosa. Por suerte, hay un aspecto positivo que te ayuda a sentir una conexión más terrenal y estabiliza tu familia, hijos o pareja romántica. ¡Excelente!

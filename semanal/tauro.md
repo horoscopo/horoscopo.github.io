@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 16 de agosto 2021 al 22 de agosto 2021 
-description: Horóscopo semanal tauro 16 de agosto 2021 al 22 de agosto 2021. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+title: tauro 23 de agosto 2021 al 29 de agosto 2021 
+description: Horóscopo semanal tauro 23 de agosto 2021 al 29 de agosto 2021. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-16'
+ lastmod: '2021-08-23'
 ---
 
 
 
-## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 
-A veces de bueno te pasas Tauro. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Tauro, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Tauro, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Tauro y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-Tus sueños podrían ser muy potentes en o alrededor del lunes, cuando la Luna Llena podría hacerlos más vívidos y realistas de lo habitual. Mantén tu enfoque en cualquiera que pudiera llamarte la atención o servirte de útil orientación. Sin embargo, analiza aquello que te diga tu intuición, ya que podría ser poco fiable durante ese mismo día. La perspectiva de otra persona puede serte muy útil. Tu nivel de creatividad también podría aumentar al obtener la opinión o los consejos de personas que saben del tema. Este domingo, es posible que desees descansar y relajarte totalmente.
+Además, que últimamente te han dado muchos chutes de alegría algunas personas alegres y positivas que hacía mucho que no encontrabas en tu vida así que, ¿para qué volver a las que amargan? Por favor… 
+ y el hecho de que las personas que creías que querías y te querían te den la mitad que otras te decepciona mucho. Y vuelves a la carga.
+Ten cuidado, ya que demasiada burocracia y confusión administrativa podrían causarte retrasos en el trabajo o con asuntos cotidianos. Lamentablemente, esta situación podría repetirse más de una vez, por lo que tendrás que tener paciencia mientras esperas a que las cosas se resuelvan. En ciertos casos, puede que se trate de pura incompetencia, lo que podría ser aún más desesperante. La Luna Llena de mitad de semana se manifiesta en tu sector espiritual, intensificando tus sueños e intuición. Toma nota, ya que dentro de toda esta actividad mental podría  haber algunas ideas creativas.
 
 ## Dinero
 
-Este período es acerca de cómo adoptar un amplio plan de pago de deuda para lograr que esa parte de tu vida sea resuelva por última vez. Es posible que en el pasado hayas sentido agobio por la cantidad que debías en tarjetas de crédito, crédito hipotecario, o préstamos de familiares y amigos. Sin embargo, ahora tienes la ventaja y el impulso para nivelarte. Desvía el diez por ciento de tu ingreso hacia esta área.
+Para ti esta semana se trata de relaciones que no te apoyan. Quieres avanzar hacia las metas financieras y relacionadas con el trabajo. La decisión puede estar entre el brillar con luz propia  como individuo o como miembro de un gran equipo. Parte de ti quiere alimentar ego, pero el otro, el más inteligente, se da cuenta de que la mejor opción es trabajar en equipo y servir al bien común.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 16 de agosto 2021 al 22 de agosto 2021 
-description: Horóscopo semanal sagitario 16 de agosto 2021 al 22 de agosto 2021. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagitario, ¡NO MEZCLES!
+title: sagitario 23 de agosto 2021 al 29 de agosto 2021 
+description: Horóscopo semanal sagitario 23 de agosto 2021 al 29 de agosto 2021. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-16'
+ lastmod: '2021-08-23'
 ---
 
 
 
-## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagitario, ¡NO MEZCLES!
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-No te arrepientas de abrirte Sagitario, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Sagitario, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Sagitario, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Sagitario, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
-No asumas nada en relación a tus finanzas, ya que podrías estar en lo equivocado. Una nerviosa alineación afectando a tu sector financiero podría verte haciendo una compra o inversión errónea. Pide la opinión de una amistad o recibe asesoramiento por parte de expertos antes de actuar. La fase retrógrada de Mercurio podría afectar planes de viaje, ¡aunque cualquier desvío o retraso inesperado podría terminar dirigiéndote a la aventura! Sólo recuerda mantener tu información personal y pasaporte en un lugar seguro. Más tarde, un evento social podría cambiar por completo cierta situación.
+Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Sagitario, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
+Todo se está acomodando de tal manera para que te ganes una buena reputación o mejores tu posición si te dispones a moverte por los canales adecuados. Si te enfocas en lograr tus objetivos y alcanzar el éxito, serás el centro de atención dentro de poco, si es que ya no lo eres. Debido a la entrada de Venus a un sector más alejado de tu carta astral, es posible que reevalúes tu relación intrapersonal además de tu propósito y misión en la vida.
 
 ## Dinero
 
-Eres como una pantalla en la que otros pueden proyectar sus esperanzas, temores, logros y mucho más. Esto te permite el tener muchas caras. Así que si quieres un mejor trabajo o una mejor posición en la cadena alimenticia, actúa como si ya estuvieras en esa posición. Los aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y a ahorrar para el futuro.
+Puede que tu progreso financiero haya disminuido, pero las cosas están definitivamente mejorando. Se te pide que investigues tus gastos en cuestiones relacionadas con la familia, los niños, romance y diversión. Puede que te des cuenta de que había más de los que pensabas. El recortar algunos de estos -aunque sea un poco- podría significar más diversión a largo plazo, junto con menos preocupación. Te mereces un futuro libre de estrés.
