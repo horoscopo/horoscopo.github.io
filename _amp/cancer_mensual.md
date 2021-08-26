@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo cancer agosto 2021 
+title: Horoscopo cancer septiembre 2021 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Tus planes para el futuro florecerán bajo la Luna Nueva del 2 de agosto. Aférrate a esos sueños y no asumas instantáneamente que todo es una ilusión. Tu mundo es cada vez más grande. Prepárate para ello. La Luna Llena del 18 de agosto está llena de actividad social, la mayor parte cerca de casa. Puede que descubras un encantador rincón o calle lateral en tu vecindario que no sabías que existía. ¿Te interesan las ventas de garaje o bienes raíces? Venus conjunta a Júpiter el 27 de agosto, cuando estarás en tu punto más atractivo, más dulce y más generoso. Mantén tus emociones bajo control y tu cabeza nivelada y te la pasarás fantásticamente.
+Este mes no tiene luna llena, pero el 1 de septiembre es el día posterior a una, y el 28 de septiembre es el día previo a otra. Puedes esperar que la gente se encuentre enérgica y emocionalmente comprometida al comienzo y al final del mes. Para la luna nueva (y el eclipse solar) del día 15, tu mundo podría crecer y darte más espacio para moverte y respirar. Quizás sea tiempo para finalmente empezar algo especial que has estado posponiendo. No será la cuestión de dinero que te ha estado demorando. Hacia el final del mes, podrías ver un sueño volverse realidad cuando Mercurio forma una conjunción con Neptuno el 25 de septiembre. 

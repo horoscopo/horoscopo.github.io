@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo acuario agosto 2021 
+title: Horoscopo acuario septiembre 2021 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Siente el aprecio y el amor que hay a tu alrededor bajo la luna llena del 3 de agosto. Disfruta de tu espacio personal y tiempo a solas. Si tienes inquietudes o aún estás pensando en qué más deberías tener o estar haciendo, deja todo eso de lado y ama tu vida aquí y ahora. Siéntete a gusto con respecto a tu persona durante la luna nueva del día 18. Siéntete a gusto con respecto a tu trabajo, y deja que tus colegas también se sientan a gusto contigo. Si ha habido dudas sobre algún tema, ahora se resolverán y desaparecerán. La conjunción entre Mercurio y Saturno del 27 de agosto puede ayudarte a entender un consejo críptico pero valioso. 
+La primera semana del mes podría estar repleta de los detalles y aquellas distracciones que has estado evitando. El Eclipse Solar de Luna Nueva el 1 de septiembre te muestra lo fácil que todas ellas en realidad son. Además, un ser querido te admirará y deseará aún más. El Eclipse de Luna Llena del 16 de septiembre enciende tu instinto e intuición. Ve a través de la cortina de humo de alguien para entender por qué está ahí. También detecta una oportunidad para salir adelante en la vida. Sé paciente, prepárate y permite que las cosas se desarrollen. El amor entra a tu mundo bajo la Luna Nueva del 30 de septiembre. Siente tu gran fortuna y prepárate para mostrar tu sorpresiva sonrisa.

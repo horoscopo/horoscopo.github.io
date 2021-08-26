@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo virgo agosto 2021 
+title: Horoscopo virgo septiembre 2021 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
@@ -14,4 +14,9 @@ sitemap:
 ---
 
 
-Te verás muy bien en tu lugar de trabajo alrededor del Eclipse de Luna Llena del 10 de agosto. Sin hacer nada severo o contundente, deberías ser capaz de lograr una gran tarea con pocos o ningún obstáculo. También podrías obtener cooperación por parte de un grupo inesperado de personas. La gente a tu alrededor podría volverse más argumentativa conforme Marte cuadra a Plutón el 22 de agosto. No atraigas o antagonices a nadie, si te es posible. El Eclipse Solar de Luna Nueva del 26 de agosto podría tomar algo que te molesta y convertirlo en tu nueva cosa o actividad favorita. Puede que no dure mucho tiempo, más trata de disfrutar del sueño mientras dure. Puede ser a la vez reconfortante y divertido.
+La cuadratura que el sol forma con Marte el 2 de septiembre puede hacer que el mes comience con el pie izquierdo, pero tú tienes la energía y voluntad para hacerlo funcionar a tu manera. 
+Los horizontes se expanden, y tu mundo se abre de golpe durante la luna nueva del día 6. Te rodearán posibilidades, personas y oportunidades inimaginables. Mercurio se torna directo también ese día. La vida se vuelve más armoniosa y sensible. 
+Más tarde, la conjunción entre Marte y Neptuno al día siguiente agrega un fuerte impulso mágico a un día que de por sí ya es poderoso. Ten cuidado con lo que deseas, porque hoy puedes hacer que se vuelva realidad. 
+El mundo exterior podría reclamarte durante la luna llena del 22 de septiembre, pero tú sabes cómo rechazarlo. Dale prioridad a tu hogar y familia, y luego atiende tus obligaciones sociales. Puedes con todo, sin problemas. Sé amable al respecto. Marte entra a Aries el día 31. ¡Comienza el año nuevo al máximo! 
+Días destacados: 7, 14, 31
+Días desafiantes: 16, 28

@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo libra agosto 2021
-description: El Horóscopo agosto de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo libra septiembre 2021
+description: El Horóscopo septiembre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo libra agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo libra septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
@@ -16,4 +16,10 @@ sitemap:
 ---
 
 
-El Eclipse de Luna Llena del 10 de agosto está dirigido hacia tu vida amorosa y deseos románticos. Alguien que parece un tanto frío, distante y sin interés de comprometerse puede llegar a tener una gran pasión en todo lo relacionado contigo. El Sol entra a Piscis el 18 de agosto, y tus sueños podrían volverse más vividos y más idealistas. Puede que sea difícil mantener tus pies sobre la tierra durante el Eclipse Solar de Luna Nueva del 26 de agosto, cuando tus deseos o expectativas no sean muy realistas. Piensa dos veces antes de actuar y luego confía en que tienes las cosas bajo control. Esa es la realidad. Sin embargo, puede que sientas más comodidad si es que puedes posponer hacer algo de gran importancia.
+Con la luna nueva el 9 de septiembre, relájate y haz un poco el ridículo. No serás la única persona haciendo esto. Es probable que te rías mucho viendo payasadas a tu alrededor. 
+El sol forma un trígono con Plutón el día 11. Una demora inesperada o cambio de situación podría fácilmente salir a tu favor. 
+El 23 de septiembre, el trígono que Mercurio forma con Marte te permite encontrar la mejor forma de expresar un mensaje u opinión importante. Sé una persona honesta y directa, no agresiva. 
+Podrías volverte el refugio de alguien durante la luna llena del día 24. Tal vez simplemente sea un tema de comunicación con alguien que está lejos y te echa de menos. Recuerda conservar tu energía. Respeta tu propio espacio personal y emocional. Es bueno estar disponible incluso si no es posible ayudar de forma directa. 
+Plutón se torna directo el 30 de septiembre, luego de haber estado retrógrado desde el 22 de septiembre. Ten seguridad y duda menos de ti. 
+Días destacados: 1, 10, 27
+Días desafiantes: 5, 8

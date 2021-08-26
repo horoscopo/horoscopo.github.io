@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo tauro agosto 2021 
+title: Horoscopo tauro septiembre 2021 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Marte ingresa a Cáncer el 4 de agosto. Si has tenido una sensación de estancamiento o has retrasado una reunión en tu casa o con la familia, puedes hacerlo ahora. Tu mundo está repleto de entusiasmo y oportunidades sociales durante la Luna Llena del 9 de agosto. Personas de todos los rincones del mundo pueden atraer tu atención y opacar tu afición por un lugar o una actividad favoritos. Disfruta los nuevos horizontes. La familia y la vida hogareña se reavivan de gran forma con la Luna Nueva del 23 de agosto. Haz un gran cambio o mejora que ha estado en tu mente durante mucho tiempo. Haz que tu persona y tus parientes sean mucho más felices.
+Un aumento en el amor y el romance se ve resaltado por la luna llena del 3 de septiembre. Ponte sexy y sensual con alguien que ya adora el aire que respiras. No permitas que ningún evento social se vuelva demasiado extravagante, porque podría. La luna nueva del día 18 te da la oportunidad de hacer y decir cosas que normalmente te guardarías. Ten tacto, sé agradable, y la gente te comprenderá y probablemente estará de acuerdo. También podrías alterar tu apariencia, y lo harías sin críticas negativas. El 21 de septiembre, el sextil que Venus forma con Plutón podría limar las asperezas dentro de una relación que promete ser valiosa. 

@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo leo agosto 2021 
+title: Horoscopo leo septiembre 2021 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
@@ -14,10 +14,9 @@ sitemap:
 ---
 
 
-El sol forma una oposición con Neptuno el 7 de agosto. Descubre la verdad sobre una fantasía que aprecias. Ahora podrías darle una base sólida a un sueño. 
-Busca oportunidades económicas durante la luna nueva del día 9. El dinero podría no fluir en la dirección correcta, pero la oportunidad de conseguirlo podría aparecer ahora en tu camino. Confía en tu propio buen criterio, y verifica dos veces todo lo que te digan. 
-El sol ingresa a Libra el 22 de agosto, y el otoño comienza. El verano puede haber acabado, pero aún hay mucha diversión social en el aire. Además, la luna forma un trígono con Venus ese día. 
-Puedes organizar una fiesta en casa o noche de juegos en tu hogar alrededor de la luna llena del día 24. Trátate bien, y no te tortures yendo más lejos a buscar buenos momentos. 
-El 25 de agosto, el sol forma una cuadratura con Saturno. Un problema de control podría llegar a un punto crítico. Si eres quien tiene la autoridad, sé firme, pero no cruel. 
-Días destacados: 13, 20, 27
-Días desafiantes: 6, 16
+Incluso si te quedas en casa el 12 de septiembre, la luna nueva y eclipse solar pondrán el mundo ante ti. Ocupa tu agenda todo lo que quieras, pero reserva un poco de tiempo privado de calidad para disfrutar de todas las actividades que te rodean. 
+
+El sol ingresa a Leo el día 22, con la luna en Sagitario. Mantén las pasiones salvajes bajo control, pero no niegues los deseos verdaderos. La luna llena y el eclipse lunar en Leo el 27 de septiembre te separan de tus colegas y aliados. Puede que estén más ruidosos o explícitos, pero tú sabes lo que es importante. Y todavía tienen muchas cosas en común. 
+
+Días destacados: 5, 8, 24
+Días desafiantes: 25, 26</div>
