@@ -14,10 +14,4 @@ sitemap:
 ---
 
 
-Con la luna nueva el 9 de septiembre, relájate y haz un poco el ridículo. No serás la única persona haciendo esto. Es probable que te rías mucho viendo payasadas a tu alrededor. 
-El sol forma un trígono con Plutón el día 11. Una demora inesperada o cambio de situación podría fácilmente salir a tu favor. 
-El 23 de septiembre, el trígono que Mercurio forma con Marte te permite encontrar la mejor forma de expresar un mensaje u opinión importante. Sé una persona honesta y directa, no agresiva. 
-Podrías volverte el refugio de alguien durante la luna llena del día 24. Tal vez simplemente sea un tema de comunicación con alguien que está lejos y te echa de menos. Recuerda conservar tu energía. Respeta tu propio espacio personal y emocional. Es bueno estar disponible incluso si no es posible ayudar de forma directa. 
-Plutón se torna directo el 30 de septiembre, luego de haber estado retrógrado desde el 22 de septiembre. Ten seguridad y duda menos de ti. 
-Días destacados: 1, 10, 27
-Días desafiantes: 5, 8
+Satisface tu deseo de salir más con tus amistades bajo la luna llena del 5 de septiembre. Puede que no elijan hacer tus cosas favoritas, pero eso no importará. Tan solo pasar tiempo juntos significa mucho en este momento. El 15 de septiembre, Mercurio forma una oposición con Urano y una idea o sugerencia que alguna vez sonó genial ahora ya no es tan atractiva. Échale otro vistazo. Expande tus horizontes durante la luna nueva del 19 de septiembre. Puede que estés en gran forma en el trabajo, pero necesitas un mundo más grande para prosperar de verdad. Reconoce una pasión personal y hazla una parta más importante de tu perspectiva de vida. 

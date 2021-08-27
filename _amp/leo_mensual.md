@@ -14,9 +14,7 @@ sitemap:
 ---
 
 
-Incluso si te quedas en casa el 12 de septiembre, la luna nueva y eclipse solar pondrán el mundo ante ti. Ocupa tu agenda todo lo que quieras, pero reserva un poco de tiempo privado de calidad para disfrutar de todas las actividades que te rodean. 
+Una gran cantidad de pensamientos e ideas inesperadas pueden ir y venir con la luna nueva del 13 de septiembre. Date tiempo y analiza todas. Los pensamientos más interesantes y valiosos regresarán. Mantén la mente abierta. El día 21, el sol ingresa a Cáncer y comienza el verano. Pasar buenos momentos con amistades y familia tiene más prioridad ahora. Reconecta y renueva el amor. Una pareja romántica imperfecta podría tomar forma con la luna llena del 27 de septiembre. Una falla frívola o absurda en una relación podría solucionarse ahora. Si estás buscando el amor, ahora podría encontrarte y traerte una vida amorosa más dulce y simple. 
 
-El sol ingresa a Leo el día 22, con la luna en Sagitario. Mantén las pasiones salvajes bajo control, pero no niegues los deseos verdaderos. La luna llena y el eclipse lunar en Leo el 27 de septiembre te separan de tus colegas y aliados. Puede que estén más ruidosos o explícitos, pero tú sabes lo que es importante. Y todavía tienen muchas cosas en común. 
-
-Días destacados: 5, 8, 24
-Días desafiantes: 25, 26</div>
+ Días destacados: 1, 2, 12
+Días desafiantes: 15, 27

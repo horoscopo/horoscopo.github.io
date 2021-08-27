@@ -14,4 +14,7 @@ sitemap:
 ---
 
 
-Un aumento en el amor y el romance se ve resaltado por la luna llena del 3 de septiembre. Ponte sexy y sensual con alguien que ya adora el aire que respiras. No permitas que ningún evento social se vuelva demasiado extravagante, porque podría. La luna nueva del día 18 te da la oportunidad de hacer y decir cosas que normalmente te guardarías. Ten tacto, sé agradable, y la gente te comprenderá y probablemente estará de acuerdo. También podrías alterar tu apariencia, y lo harías sin críticas negativas. El 21 de septiembre, el sextil que Venus forma con Plutón podría limar las asperezas dentro de una relación que promete ser valiosa. 
+La luna nueva del 15 de septiembre puede darte la oportunidad de terminar algo que pensaste que nunca llegaría a su fin. Tampoco necesitará de mucho esfuerzo, solo un pequeño empujón en la dirección correcta. Saturno se torna retrógrado el día 17. Relájate y deja de preocuparte. Sé más influyente o importante en tu círculo social con la luna llena del 29 de septiembre. Podrías ser una persona más efectiva detrás de escenas, como un maestro secreto, en vez de ser el líder o experto obvio. Diviértete mirando a la gente disfrutar de forma espontánea lo que tú disfrutas. Por último, ese mismo día, el trígono que el sol forma con Saturno te permite lograr muchas cosas. 
+
+Días destacados: 2, 7, 16
+Días desafiantes: 5, 27
