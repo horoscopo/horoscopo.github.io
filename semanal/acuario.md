@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 23 de agosto 2021 al 29 de agosto 2021 
-description: Horóscopo semanal acuario 23 de agosto 2021 al 29 de agosto 2021. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: acuario 30 de agosto 2021 al 05 de septiembre 2021 
+description: Horóscopo semanal acuario 30 de agosto 2021 al 05 de septiembre 2021. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,20 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-23'
+ lastmod: '2021-08-30'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 
-No te mereces poco Acuario… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura Acuario, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo Acuario. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
-Durante esta semana, quizá pongas en marcha un plan importante en el plano hogareño. La luna nueva en Capricornio puede ser un gran recurso en este aspecto, por lo que definitivamente valdría la pena dar el primer paso. Al mismo tiempo, sería mejor que tengas los pies sobre la tierra y seas consciente de tus gastos. A medida que el enfoque se desplaza hacia tu sector de recreación y placer el Domingo, puedes disfrutar al máximo tanto pasatiempos creativos como oportunidades románticas.
+Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo Acuario, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no Acuario, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
+Una animada nueva influencia que aparece esta semana podría cambiar el enfoque de tu negocio o carrera. 
+Con la luna nueva del martes allanando el camino para nuevos desarrollos, la entrada del rebelde Urano a tu sector de metas podría inspirarte a adoptar un enfoque más independiente hacia tus metas y planes. Y debido a que el conversador Mercurio acompaña al excéntrico Urano, podrías recibir interesantes noticias o incluso una inesperada oferta. 
+El mismo día, el vital Marte ingresa a tu sector de relaciones, lo que te anima a resolver cualquier cuestión y relajarte. 
+Cuando el encantador Venus ingresa a Cáncer y a tu sector espiritual el sábado, podría ser la ocasión perfecta para conectar con tus deseos y encontrar la manera de concretar tus sueños. 
+El ingreso del sol al expresivo Géminis y a tu sector social el domingo puede aportarles una chispa extra a los eventos sociales y las ocasiones divertidas con buenos amigos.
 
 ## Dinero
 
-Es posible que te sientas muy especial esta semana. Esta es una semana muy buena para explorar la manera de mejorar tu situación financiera. Los planetas te piden encontrar una nueva forma de utilizar tu creatividad, que pases tiempo con tu familia, hijos y parejas románticas. Has trabajado lo suficientemente duro. Es hora de disfrutar de los frutos de tu trabajo.
+Los aspectos de esta semana podrían lanzar una llave inglesa hacia tus planes de dinero. Pon orden en tu propiedad compartida y las inversiones que tengas. La firma, el sellado y la entrega de estos materiales al lugar donde tienen que estar dejan espacio para crear una estrategia en otros lugares. Al mismo tiempo, considera la posibilidad de poner tu dinero en instituciones que sabes que son confiables. Confiar en las nuevas puede ser atractivo, pero no es la decisión correcta para este momento de tu vida.

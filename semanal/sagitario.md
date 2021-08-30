@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 23 de agosto 2021 al 29 de agosto 2021 
-description: Horóscopo semanal sagitario 23 de agosto 2021 al 29 de agosto 2021. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+title: sagitario 30 de agosto 2021 al 05 de septiembre 2021 
+description: Horóscopo semanal sagitario 30 de agosto 2021 al 05 de septiembre 2021. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-23'
+ lastmod: '2021-08-30'
 ---
 
 
 
-## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 
-Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Sagitario, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
-Todo se está acomodando de tal manera para que te ganes una buena reputación o mejores tu posición si te dispones a moverte por los canales adecuados. Si te enfocas en lograr tus objetivos y alcanzar el éxito, serás el centro de atención dentro de poco, si es que ya no lo eres. Debido a la entrada de Venus a un sector más alejado de tu carta astral, es posible que reevalúes tu relación intrapersonal además de tu propósito y misión en la vida.
+Céntrate en tus metas Sagitario, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+Puede que una influencia espiritual y sentimental te guíe a tomar una decisión que puede hacerles muy bien a las demás personas. Si te decides, puede que sientas una gran satisfacción, lo cual puede indicar que has hecho lo correcto. Sin embargo, la gran novedad es que el estimulante Marte entra a tu signo el Jueves para quedarse allí durante seis semanas. Esto puede encender tu vitalidad y motivarte para hacer más ejercicio o poner en marcha una idea audaz. 
 
 ## Dinero
 
-Puede que tu progreso financiero haya disminuido, pero las cosas están definitivamente mejorando. Se te pide que investigues tus gastos en cuestiones relacionadas con la familia, los niños, romance y diversión. Puede que te des cuenta de que había más de los que pensabas. El recortar algunos de estos -aunque sea un poco- podría significar más diversión a largo plazo, junto con menos preocupación. Te mereces un futuro libre de estrés.
+Tienes algunos desafíos a la espera. Tus relaciones son las más afectadas por las configuraciones celestes actuales. El Universo te está empujando a extenderte un poco más, sobre todo cuando se trata de tus compañeros de trabajo. Trata de conocerles mejor y es posible que llegues a tener más cercanía con ellos de la que tienes ahora. ¡Necesitas de todos los amigos que puedas conseguir!

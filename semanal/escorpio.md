@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 23 de agosto 2021 al 29 de agosto 2021 
-description: Horóscopo semanal escorpio 23 de agosto 2021 al 29 de agosto 2021. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: escorpio 30 de agosto 2021 al 05 de septiembre 2021 
+description: Horóscopo semanal escorpio 30 de agosto 2021 al 05 de septiembre 2021. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-23'
+ lastmod: '2021-08-30'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA CÁNCER. Tú solito.
 
-No es que estés cambiando Escorpio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
-Una fase lunar poderosa a mitad de semana puede ser una buena oportunidad para tomar una decisión sobre una aspiración clave. Si esto es algo que has postergado últimamente, algunos eventos podrían actuar como catalizadores, lo que te motiva a salir de tu zona de confort. Y con Mercurio ahora avanzando en tu sector de viajes, ten cuidado durante algunos días más. Aún puede haber algunos retrasos por un tiempo luego de que Mercurio se torna directo. Por otro lado, tal vez alguien del trabajo se convierta en tu punto débil.
+Parece que no todo va tan mal, no ¿Escorpio? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+El interesante vínculo entre Venus y Urano del martes podría coincidir con un encuentro inesperado o una conversación que traiga consigo interesantes y emocionantes noticias. Sin embargo, podrías experimentar algunos retrasos en referente a finanzas. Si tienes cuentas que pagar y otros gastos a tomar en cuenta, puede que te ayude apartar un poco de dinero para cubrirlos. Si tienes planeado salir de compras, guarda los recibos y el papeleo. Existe la posibilidad de que cierta compra no te complazca.
 
 ## Dinero
 
-Estás atrapado/a en un dilema. Hay acción en el frente de profesión y en el campo de las oportunidades. Sin embargo, estás siendo conducido/a por un estrecho sendero hacia el lidiar con tu situación en cuanto a cómo te relacionas. Puedes hacerlo a solas por sólo un determinado tiempo. Busca la mayor cantidad de ayuda que puedas encontrar.
+Podrías estar considerando la forma de lograr realizar viejas esperanzas y sueños. Las amistades, los contactos sociales, las maniobras políticas y los grupos te ayudan a estar un paso adelante y establecerte como experto en tu campo. A medida que expandes tu influencia en estos reinos, haz todo lo posible para preservar las inversiones y propiedades compartidas. Si es necesario, gasta para mantenerlas o mejorarlas hasta que las puedas vender directamente.

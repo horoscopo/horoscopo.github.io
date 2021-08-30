@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 23 de agosto 2021 al 29 de agosto 2021 
-description: Horóscopo semanal tauro 23 de agosto 2021 al 29 de agosto 2021. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+title: tauro 30 de agosto 2021 al 05 de septiembre 2021 
+description: Horóscopo semanal tauro 30 de agosto 2021 al 05 de septiembre 2021. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-23'
+ lastmod: '2021-08-30'
 ---
 
 
 
-## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-Además, que últimamente te han dado muchos chutes de alegría algunas personas alegres y positivas que hacía mucho que no encontrabas en tu vida así que, ¿para qué volver a las que amargan? Por favor… 
- y el hecho de que las personas que creías que querías y te querían te den la mitad que otras te decepciona mucho. Y vuelves a la carga.
-Ten cuidado, ya que demasiada burocracia y confusión administrativa podrían causarte retrasos en el trabajo o con asuntos cotidianos. Lamentablemente, esta situación podría repetirse más de una vez, por lo que tendrás que tener paciencia mientras esperas a que las cosas se resuelvan. En ciertos casos, puede que se trate de pura incompetencia, lo que podría ser aún más desesperante. La Luna Llena de mitad de semana se manifiesta en tu sector espiritual, intensificando tus sueños e intuición. Toma nota, ya que dentro de toda esta actividad mental podría  haber algunas ideas creativas.
+Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar.
+El conversador Mercurio ingresa a Cáncer y a tu sector de comunicación el martes, de modo que las próximas semanas pueden ser útiles para el aprendizaje, la enseñanza y la expresión de los pensamientos. También puede ser un excelente momento para establecer nuevos contactos y formar valiosas conexiones. 
+En lo que respecta a los asuntos financieros, puede que estés a punto de iniciar un nuevo comienzo. En este caso, la luna nueva en tu sector de dinero puede ayudar a que te organices. Ya sea si quieres pagar tus cuentas o abrir una caja de ahorros, este puede ser un buen momento para hacerlo. Podrías tener un pequeño problema de flujo de efectivo el viernes. Ten esto en cuenta y guarda un dinero extra para situaciones de emergencia. Tu sector del hogar también se beneficia de la encantadora visita de Venus, que se quedará allí unas semanas. Si te encanta dar fiestas o recibir invitados, este es el mejor momento para hacer las invitaciones pertinentes. 
 
 ## Dinero
 
-Para ti esta semana se trata de relaciones que no te apoyan. Quieres avanzar hacia las metas financieras y relacionadas con el trabajo. La decisión puede estar entre el brillar con luz propia  como individuo o como miembro de un gran equipo. Parte de ti quiere alimentar ego, pero el otro, el más inteligente, se da cuenta de que la mejor opción es trabajar en equipo y servir al bien común.
+Tienes todo tipo de geniales destellos llegando a tu cabeza. No descartes nada que parezca una posibilidad remota, porque puede que no lo sea dado el tiempo suficiente y la preparación. La mala noticia es que tu empleo podría sufrir un cambio no deseado. Podrías tener un nuevo jefe, un cambio de responsabilidades, o incluso una reducción de sueldo conforme tu empresa lucha con una economía cambiante.
