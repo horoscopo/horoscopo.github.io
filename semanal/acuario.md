@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 30 de agosto 2021 al 05 de septiembre 2021 
-description: Horóscopo semanal acuario 30 de agosto 2021 al 05 de septiembre 2021. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: acuario 06 de septiembre 2021 al 12 de septiembre 2021 
+description: Horóscopo semanal acuario 06 de septiembre 2021 al 12 de septiembre 2021. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,20 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-30'
+ lastmod: '2021-09-06'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo Acuario, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no Acuario, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
-Una animada nueva influencia que aparece esta semana podría cambiar el enfoque de tu negocio o carrera. 
-Con la luna nueva del martes allanando el camino para nuevos desarrollos, la entrada del rebelde Urano a tu sector de metas podría inspirarte a adoptar un enfoque más independiente hacia tus metas y planes. Y debido a que el conversador Mercurio acompaña al excéntrico Urano, podrías recibir interesantes noticias o incluso una inesperada oferta. 
-El mismo día, el vital Marte ingresa a tu sector de relaciones, lo que te anima a resolver cualquier cuestión y relajarte. 
-Cuando el encantador Venus ingresa a Cáncer y a tu sector espiritual el sábado, podría ser la ocasión perfecta para conectar con tus deseos y encontrar la manera de concretar tus sueños. 
-El ingreso del sol al expresivo Géminis y a tu sector social el domingo puede aportarles una chispa extra a los eventos sociales y las ocasiones divertidas con buenos amigos.
+A veces sientes como si no avanzaras Acuario, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Acuario, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Acuario, feliz semana.
+Podrías estar con poco dinero al comienzo de la semana, pero es una fase temporal. Si haces planes para este período, puede que te evites muchas dificultades. A medida que avanza la semana, Venus ingresa a tu sector monetario. Esto podría encontrarte gastando de más en lugar de ahorrar; en especial con respecto a los pequeños lujos. El fin de semana podría ser bastante especial y muy romántico a medida que el extravagante Júpiter se alinea con el soñador Neptuno. Si tienes una cita especial planeada, debería ser una cita para recordar.
 
 ## Dinero
 
-Los aspectos de esta semana podrían lanzar una llave inglesa hacia tus planes de dinero. Pon orden en tu propiedad compartida y las inversiones que tengas. La firma, el sellado y la entrega de estos materiales al lugar donde tienen que estar dejan espacio para crear una estrategia en otros lugares. Al mismo tiempo, considera la posibilidad de poner tu dinero en instituciones que sabes que son confiables. Confiar en las nuevas puede ser atractivo, pero no es la decisión correcta para este momento de tu vida.
+Eres una de las personas más inteligentes cuando se trata de trabajo y dinero. Entiendes cómo funcionan las estructuras internas y tienes facilidad para la planificación y ejecución de planes de inversión. Ahora tienes el apoyo del Universo para busca socios para una nueva empresa o ampliar tu red de contactos en los negocios. Los aspectos te proporcionan suerte e ideas. Sólo tú sabes a dónde llegarás con el tiempo.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 30 de agosto 2021 al 05 de septiembre 2021 
-description: Horóscopo semanal geminis 30 de agosto 2021 al 05 de septiembre 2021. Cada día que pasa te das más cuenta de que mereces cosas buenas Géminis, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: geminis 06 de septiembre 2021 al 12 de septiembre 2021 
+description: Horóscopo semanal geminis 06 de septiembre 2021 al 12 de septiembre 2021. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-30'
+ lastmod: '2021-09-06'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas Géminis, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 
-A veces te confundes Géminis, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso Géminis. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. Géminis, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo Géminis, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
-Probablemente tu ánimo será caritativo y benevolente al comienzo de esta semana. Esto podría continuar durante algún tiempo. Es posible que tu enfoque esté en ayudar a los menos afortunados, en especial conforme la época de fiestas se acerca. Sin embargo, tener un buen criterio será importante, ya que es posible que alguien trate de engañarte. Trata de no tomarte las cosas muy a pecho el fin de semana, en especial si no estás de acuerdo con alguien. Puede que, por el momento, lo más sabio sea dejar pasar las cosas.
+Llegan oportunidades grandes Géminis y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias Géminis, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Géminis, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+El lunes, el nebuloso Neptuno se vuelve retrógrado en tu signo y permanecerá así durante algunos meses, lo que puede ser algo bueno. Neptuno retrógrado puede traer consigo la poderosa comprensión de algunas cuestiones y conocimientos sobre situaciones clave que pueden llevarte a un descubrimiento. Puede que no suceda de inmediato, pero todo podría empezar a cambiar durante las próximas semanas y meses. 
+Un grupo muy hermoso de aspectos que incluye al conversador Mercurio, el animado Júpiter y el etéreo Neptuno el martes y miércoles podría traer nuevas personas a tu vida, así como oportunidades para perfeccionar tus capacidades y talentos. También podría haber romance a la vista, si juegas bien tus cartas. Además, el ingreso del sol a tu sector de recreación el jueves trae nuevas oportunidades para tomarte las cosas con calma y disfrutar de placenteros pasatiempos que te relajen. Sin embargo, puede que el fin de semana debas tener más cuidado ya que una de tus amistades podría parecer bastante crítica. De ser así, trata de no tomártelo a pecho.
 
 ## Dinero
 
-Esta semana tienes la oportunidad de mejorar recientes problemas financieros y de obtener inspiración y buenas ideas. Este es un momento estimulante para la mente, y puedes darte cuenta que realmente estás en tu elemento ahora. A medida que restringes tu gasto en la vida familiar, los viajes, la lectura, la enseñanza y la metafísica se abren. En algún lugar hay un cheque con tu nombre escrito en él.
+Para ti, esta semana va a traer un montón de responsabilidades para tu vida laboral, y un montón de recompensas también. Busca oportunidades que impliquen compartir tu creatividad. Las recompensas financieras vienen cuando te atreves a tomarlas y demuestras que eres todo lo que ellos esperaban y más. No tomes las críticas personalmente. Cada desafío a superar los cambios te ayuda a la larga.

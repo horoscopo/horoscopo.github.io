@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 30 de agosto 2021 al 05 de septiembre 2021 
-description: Horóscopo semanal virgo 30 de agosto 2021 al 05 de septiembre 2021. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+title: virgo 06 de septiembre 2021 al 12 de septiembre 2021 
+description: Horóscopo semanal virgo 06 de septiembre 2021 al 12 de septiembre 2021. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-30'
+ lastmod: '2021-09-06'
 ---
 
 
 
-## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
 
-Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo Virgo… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Virgo, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Virgo. Lo vas a agradecer… Feliz semana.
-Puede que no estés de acuerdo con alguien en el trabajo, lo que le dará un nervioso comienzo a tu semana. Podría ser debido a que uno de ustedes se está centrando en los detalles, mientras que el otro está analizando el panorama completo. Si logran unir ambos extremos del espectro, es posible que logren mucho más. El Eclipse Lunar en tu sector de viajes y exploración podría darle un nuevo significado a un viaje, adquiriendo un propósito muy diferente al que originalmente pretendía.
+Hay gente que no respeta que puedas crecer Virgo, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Virgo pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Virgo, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+Dado que el sensual Venus continúa su viaje a través de tu signo, puede que quieras involucrarte con tu apariencia e imagen en general como modo de reafirmar tu identidad. Además, conectar con las otras personas de tu grupo social o moverte en nuevos círculos puede darte mucha satisfacción. Cualquier nueva relación que entables en este momento podría ser con personas afines a tus creencias e ideales. También podrían convertirse en comprensivas amistades. 
+Cuando el vital Marte en tu sector de estilo de vida forma un extraño ángulo con el incansable Urano en tu sector de viaje y lejanos horizontes, puede que sea complicado manejar la rutina diaria. La necesidad de desviarse hacia el atardecer podría ser muy fuerte. Probablemente no lo hagas, pero necesitas algo que te haga liberar tensiones durante los próximos días. Tal vez una caminata por un sendero local o una vigorosa sesión de actividad física te ayuden a aumentar el grado de tranquilidad y relajación.
 
 ## Dinero
 
-Cuando alguien quiere saber cómo establecer una red en conjunto, acude a ti. Entiendes a un nivel muy profundo cómo trabajar con otros para beneficiar a todos los involucrados. Ahora tendrás todo el apoyo que necesitas para atraer más dinero a través del uso de tus conocimientos, al completar un plan de negocios, o al buscar inversionistas formales. No tengas timidez. Pide lo que necesitas.
+Te enfrentas a un desafío con actividad afectando tu hogar y emociones internas. Aunque los planetas equilibran perfectamente las energías masculina y femenina dentro de ti, también pueden sacar a relucir temas que prefieres no tratar ahora. Trata de lidiar con ellos uno a la vez. En última instancia, este momento proporciona el espacio necesario para el surgimiento de nuevas ideas, ¡muchas de ellas lucrativas!

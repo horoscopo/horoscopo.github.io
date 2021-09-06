@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 30 de agosto 2021 al 05 de septiembre 2021 
-description: Horóscopo semanal cancer 30 de agosto 2021 al 05 de septiembre 2021. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+title: cancer 06 de septiembre 2021 al 12 de septiembre 2021 
+description: Horóscopo semanal cancer 06 de septiembre 2021 al 12 de septiembre 2021. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,19 +12,17 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-08-30'
+ lastmod: '2021-09-06'
 ---
 
 
 
-## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 
-Necesitas amor Cáncer, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a Cáncer es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
-Puede que lo mejor sea llegar a un compromiso al principio de la semana, incluso si no estás de acuerdo con las sabias palabras de otra persona. Sin embargo, si parece que esta persona te está manipulando, no te sientas culpable por mostrarte firme y fortalecer tus límites. Si bien una conexión entre el sociable Venus y el etéreo Neptuno podría animarte a ceder ante esta persona, tal vez lo mejor para ti sea no hacerlo.
-Un aspecto muy animado entre el sol y el positivo Júpiter el martes puede ser excelente para todo tipo de eventos sociales, románticas citas y divertidas experiencias. Sin importar qué hagas, diviértete.
-El fin de semana podría ser un poco más intenso. Si debes tomar una decisión importante, la conexión del sol con Plutón el viernes puede ayudarte a elegir la mejor opción para ti. 
-El domingo, la conexión entre el conversador Mercurio y el innovador Urano podría animarte a buscar nuevas oportunidades, pero evita tomar cualquier decisión de manera impulsiva.
+No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
+ sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
+Los problemas relacionados con las finanzas y asuntos comerciales compartidos podrían captar tu atención durante esta semana. Sin embargo, no te apresures a tomar cualquier decisión grande ni a firmar nada importante. Con el interactivo Mercurio actualmente en su fase retrógrada, puede que sea prudente poner el freno por el momento. Las cosas podrían cambiar en las próximas semanas. Por otro lado, las relaciones se ponen de relieve cuando el energético Marte ingresa a Escorpión. Esto pone en marcha las cosas y te ofrece la oportunidad de relajarte. Las negociaciones pueden ser beneficiosas, si se realizan con cuidado.
 
 ## Dinero
 
-Tienes energía en tu sector de trabajo. Esto hace que sea más fácil el sobrellevar largos días si has sentido cansancio, o el poder realizar presentaciones, reuniones o papeleo. Mide tu energía durante todo el día para no quedarte sin nada antes del almuerzo. Puede que no tengas el poder de cambiar por completo tu situación todavía, pero definitivamente puedes mejorarla mucho más del estado en el que ha estado últimamente. Persevera.
+El crecimiento y la suerte pueden ampliar tus posibilidades, así que asegúrate de mantenerte al tanto con tu programa de ejercicios. También se extenderá tu influencia en el mundo. Tienes el oído de tus superiores en el trabajo, así que asegúrate de programar reuniones regulares para mantenerte al tanto con ellos. Mientras tanto, tu vida social se acelera, por lo que es un buen momento para conocer gente nueva, conocer colegas y mejores mentores. Hay poder en tus relaciones.
