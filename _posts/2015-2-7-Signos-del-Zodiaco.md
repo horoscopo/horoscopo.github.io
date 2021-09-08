@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de septiembre 2021
-description: Horóscopos del dia de hoy 07 de septiembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de septiembre 2021
+description: Horóscopos del dia de hoy 08 de septiembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-09-07
+ lastmod: 2021-09-08
 ---
-¿Fue la locura de ayer demasiado para ti? Puedes apegarte a tu posición y aun así mantener la calma cuando la Luna en Tauro mantiene las cosas constantes. Un ritmo más lento al de ayer es agradable. Esta noche, mira profundamente los ojos de alguien y lee sus buenos sentimientos y pensamientos cuando la Luna aspecta a Júpiter y Neptuno.
+Piensa antes de actuar para lograr los resultados que deseas cuando el Sol conjunta a Saturno, el planeta del cuidado y la atención al detalle. Esta noche, el pasado arroja una bruma dorada mientras las parejas se acarician, hablan y comparten dulces recuerdos. Por su parte, los solteros podrían toparse con alguien que una vez conocieron y con quien querían encontrarse de nuevo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
