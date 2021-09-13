@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 06 de septiembre 2021 al 12 de septiembre 2021 
-description: Horóscopo semanal leo 06 de septiembre 2021 al 12 de septiembre 2021. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Leo, abre las puertas y ciao. No tienes que mantener nada…
+title: leo 13 de septiembre 2021 al 19 de septiembre 2021 
+description: Horóscopo semanal leo 13 de septiembre 2021 al 19 de septiembre 2021. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,18 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-06'
+ lastmod: '2021-09-13'
 ---
 
 
 
-## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Leo, abre las puertas y ciao. No tienes que mantener nada…
+## No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
 
-Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
-Si estás planeando un proyecto, encárgate de los detalles, ya que podrías subestimar el tiempo, la carga de trabajo, o gastos que este implique. El continuo enfoque en tu sector de recursos compartidos bien puede ayudarte a ganar dinero o animarte a desperdiciarlo. Si estás considerando consolidar tus deudas o adquirir un préstamo, espera hasta que Mercurio se torne directo el Jueves para experimentar transacciones más manejables. Saturno regresa de nuevo a tu signo el Domingo, animándote a liberar sentimientos que pudieran haberte evitado hacer algo.
+Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
+Parece que tendrás muchas cosas que hacer en las próximas semanas, como tareas generales administrativas, escribir, investigar y actividades en línea. Esto puede ser gratificante y darte muchas oportunidades para comunicarte y promocionar tu mercadería y tus servicios. Con el vivaz Mercurio volviéndose directo, aún tendrás que prestar atención a los mensajes mixtos o a los posibles problemas hasta el fin de semana, cuando todo empiece a volver a la normalidad.
 
 ## Dinero
 
-El enfoque está en tu hogar y emociones ahora, lo que indica que es tiempo de poner más de tus recursos para mejorar el lugar en el que vives, especialmente si estás pensando en venderlo a corto plazo. La buena noticia es que tu sector del trabajo es afectado favorablemente. Considera la posibilidad de trabajar desde tu casa o el tener un trabajo que implica habilidades orientadas hacia el hogar, tales como la decoración, las reparaciones, o consultoría de feng shui. Los beneficios alientan al esfuerzo en este sentido.
+Puede que te encuentres considerando tu siguiente paso en este momento. Esto se debe a que algunos de tus aspectos en el sector financiero pueden estar frenando lo que se avecina. ¡No entres en pánico! Cuando el Universo cierra una ventana en un área, otra ventana se abre en otra parte. Usa tu imaginación para idear nuevas formas de ganar dinero, sobre todo en lo que respecta a tu vida laboral diaria. Es posible que incluso movimientos inusuales traigan más dinero en efectivo.

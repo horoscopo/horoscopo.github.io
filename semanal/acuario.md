@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 06 de septiembre 2021 al 12 de septiembre 2021 
-description: Horóscopo semanal acuario 06 de septiembre 2021 al 12 de septiembre 2021. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+title: acuario 13 de septiembre 2021 al 19 de septiembre 2021 
+description: Horóscopo semanal acuario 13 de septiembre 2021 al 19 de septiembre 2021. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-06'
+ lastmod: '2021-09-13'
 ---
 
 
 
-## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 
-A veces sientes como si no avanzaras Acuario, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Acuario, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Acuario, feliz semana.
-Podrías estar con poco dinero al comienzo de la semana, pero es una fase temporal. Si haces planes para este período, puede que te evites muchas dificultades. A medida que avanza la semana, Venus ingresa a tu sector monetario. Esto podría encontrarte gastando de más en lugar de ahorrar; en especial con respecto a los pequeños lujos. El fin de semana podría ser bastante especial y muy romántico a medida que el extravagante Júpiter se alinea con el soñador Neptuno. Si tienes una cita especial planeada, debería ser una cita para recordar.
+Llevabas un ritmo un poco alocado Acuario, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Acuario, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más Acuario, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
+Te has preparado para avanzar en ésta y en las próximas semanas. Y a pesar de que Saturno está ahora retrógrado en la parte superior de tu carta, tu lado ambicioso está en primer plano. A pesar de que tus mejores planes podrían retrasarse, no los dejes fuera por completo. Con el poderoso Marte estimulando tu mente, es un excelente momento para explorar nuevas posibilidades y formar conexiones vitales que podrían ayudarte a alcanzar tu sueño. Además, tus finanzas podrían mejorar si actúas correctamente.
 
 ## Dinero
 
-Eres una de las personas más inteligentes cuando se trata de trabajo y dinero. Entiendes cómo funcionan las estructuras internas y tienes facilidad para la planificación y ejecución de planes de inversión. Ahora tienes el apoyo del Universo para busca socios para una nueva empresa o ampliar tu red de contactos en los negocios. Los aspectos te proporcionan suerte e ideas. Sólo tú sabes a dónde llegarás con el tiempo.
+Tienes una gran cantidad de energía para conseguir un gran apoyo esta semana. Si has estado pensando en iniciar tu propio negocio, esta es una época maravillosa para darle vida a tus ideas. El énfasis está en la estructura, así que asegúrate de que la tuya sea muy fuerte. Si no sabes cuáles son los primeros pasos, consulta la información disponible para pequeñas empresas. Y si buscas en tus relaciones más cercanas, podrás ver que siempre tuvieron todas las respuestas.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 06 de septiembre 2021 al 12 de septiembre 2021 
-description: Horóscopo semanal aries 06 de septiembre 2021 al 12 de septiembre 2021. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+title: aries 13 de septiembre 2021 al 19 de septiembre 2021 
+description: Horóscopo semanal aries 13 de septiembre 2021 al 19 de septiembre 2021. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-06'
+ lastmod: '2021-09-13'
 ---
 
 
 
-## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 
-A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez Aries. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona Aries, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
-La confianza prudente puede ayudarte a fortalecer un vínculo en particular. Sin embargo, la situación actual sugiere que es poco probable que demuestres tus sentimientos de más si las cosas no se dan como esperas. De todos modos, disfrutas más las relaciones tranquilas a aquellas que son pesadas o difíciles. Sin embargo, la Luna Nueva en este mismo sector puede ser la oportunidad perfecta para que lleves tus negocios o tu relación romántica al siguiente nivel. También hay mejoras en los asuntos de negocios.
+Te estás dando cuenta de quien sí y quien no Aries. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo Aries pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope Aries, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente Aries, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Aries, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+Llegar a un acuerdo en el impulso del momento puede parecer una gran idea, pero ¿realmente lo es? Si quieres sacar el mejor provecho, entonces te vendría mejor hacer más estudio preliminar. Prepárate para analizar los detalles y buscar intenciones ocultas. Solo cuando estés completamente feliz te sentirás a gusto para avanzar. Sin embargo, un aspecto adorable podría reforzar tu confianza y darte la seguridad interior de que puedes manejar lo que sea.
 
 ## Dinero
 
-Es posible que debas prepararte para una decepcionante noticia esta semana. A pesar de que se te invita a compartir tus conocimientos y habilidades con los demás, preferiblemente para la diversión y la ganancia, tu vida laboral está siendo golpeada con más reglas, regulaciones y papeleo. Hay. Y a pesar de que la monotonía puede  nos ser de tu agrado, es mejor que otras alternativas. Ábrete a sugerencias y ganarás más a largo plazo.
+Examinando tu sector de política, grupos sociales y sueños, es un excelente momento para avanzar en proyectos que sean más cercanos y queridos a tu corazón. Las redes sociales ofrecen la oportunidad de descubrir secretos que pueden hacerte avanzar en tu puesto de trabajo, pero será un acto de equilibrio con la familia y el romance. El dinero viene cuando encuentras el mejor sistema y la mejor manera de cultivar las relaciones personales y profesionales.

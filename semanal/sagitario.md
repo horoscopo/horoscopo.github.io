@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 06 de septiembre 2021 al 12 de septiembre 2021 
-description: Horóscopo semanal sagitario 06 de septiembre 2021 al 12 de septiembre 2021. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+title: sagitario 13 de septiembre 2021 al 19 de septiembre 2021 
+description: Horóscopo semanal sagitario 13 de septiembre 2021 al 19 de septiembre 2021. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-06'
+ lastmod: '2021-09-13'
 ---
 
 
 
-## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 
-Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda Sagitario, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
-El encantador Venus, tu planeta regente, forma una extraña conexión con el nebuloso Neptuno. Podrías sentir atracción por el encantador personaje que te presenta una persona. No accedas de inmediato a una oferta o a salir: a veces, las apariencias engañan. El conversador Mercurio ingresa a su fase retrógrada en tu sector del hogar el Miercoles. Si has estado considerando una cuestión relacionada con los bienes inmuebles, puede que lo mejor sea retrasarla un tiempo. Lo mismo se aplica a los proyectos de remodelación o para el hogar. 
-El eclipse lunar del viernes en tu sector de carrera y metas también podría influir en tu vida hogareña. Puede que tengas una oportunidad que te brinde el éxito que tanto te mereces, pero ¿el costo es el tiempo que pasas con tu familia? Estas cuestiones deben considerarse cuidadosamente.
+No más paciencia Sagitario. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres Sagitario, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana Sagitario.
+Trata de no prometer algo que no puedas cumplir al comienzo de la semana, porque podrías avergonzarte más adelante si no puedes manejarlo. Lo mejor sería subestimar lo que puedes hacer y guardar las apariencias. Los próximos días podrían traerte inesperados pero encantadores hechos. Y, debido al eclipse solar en tu sector de relaciones, algunos nuevos desarrollos podrían tener un impacto en tu vida amorosa y en otras conexiones. Si descubres que te estás enamorando, lo mejor es no apresurarte. Tómate tu tiempo.
 
 ## Dinero
 
-Puede que tus alas sean recortadas en cuanto a progreso profesional se refiere. Si tu comportamiento no ha sido el apropiado con tus compañeros de trabajo o clientes recientemente, es posible que encuentres una desagradable sorpresa en tu bandeja de entrada. Es karma. Si tienes que pedir disculpas, hazlo y regresa a una relación productiva. El efectivo sigue a tu voluntad de ser un jugador de equipo.
+Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.

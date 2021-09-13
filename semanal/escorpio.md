@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 06 de septiembre 2021 al 12 de septiembre 2021 
-description: Horóscopo semanal escorpio 06 de septiembre 2021 al 12 de septiembre 2021. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+title: escorpio 13 de septiembre 2021 al 19 de septiembre 2021 
+description: Horóscopo semanal escorpio 13 de septiembre 2021 al 19 de septiembre 2021. Estás renaciendo Escorpio, renaciendo de las cenizas… Y ya era hora…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-06'
+ lastmod: '2021-09-13'
 ---
 
 
 
-## Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+## Estás renaciendo Escorpio, renaciendo de las cenizas… Y ya era hora…
 
-A veces dejas las puertas medio abiertas Escorpio, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Escorpio porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien Escorpio, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado Escorpio, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
-Algo que podría resultarte difícil esta semana es que alguien te diga qué hacer. Puede que convenga ponerte a trabajar en serio y seguir sus instrucciones. Esta podría ser la mejor forma de transitar esta semana, ya que Marte —tu planeta regente— conecta con el prudente Saturno en tu sector de metas y autoridad. Alguien te está poniendo presión o bien te estás exigiendo demasiado, lo que puede ser difícil de tolerar. 
-Sin embargo, es algo a lo que deberás acostumbrarte, ya que el sobrio Saturno permanece en tu sector profesional durante un tiempo más. Tienes la oportunidad de exhibir tus habilidades y de demostrarle al mundo de qué eres capaz, y los próximos días pueden formar parte de este proceso. Cuando el encantador Venus se dirige a Saturno el domingo, puede que te des cuenta de que, si vas a cosechar los frutos, lo prudente es ponerte a trabajar en las tareas clave en lugar de resistirte a ellas.
+Te crees que eres débil Escorpio, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos Escorpio, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior Escorpio… Tómate un tiempo Escorpio, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+Alguien en un puesto de autoridad podría confundirte con sus pedidos y solicitudes, lo que puede generar en ti una sensación de incertidumbre en torno a qué debes hacer a continuación. Si te encuentras en esta situación durante la próxima semana, definitivamente sería útil pedir una aclaración. 
+El sol en tu signo conecta con el inquisitivo Mercurio el martes, de modo que trabajarás a toda marcha y tendrás ganas de progresar. Pero si no tienes instrucciones claras, podrías sentir frustración. Tal vez la mejor opción sea hacer lo que puedas. Si la respuesta no te ayuda, avanza con cualquier asunto que puedas manejar razonablemente. Al mismo tiempo, puede que tengas ganas de comprar algún objeto. El impulso podría ser tan fuerte que no tengas en cuenta el precio. ¿Es este un comportamiento inteligente? Si lo compras y luego te das cuenta de que tus finanzas son un desastre a raíz de ello, te arrepentirás. Piensa cuidadosamente antes de decidirte.
 
 ## Dinero
 
-Ahora, más que nunca tienes más posibilidades que nunca de ganar más dinero. Las oportunidades pueden venir de las mujeres en particular, por lo que ten disposición a aprovecharte de ellas. Mientras te encuentras convirtiendo estas posibilidades en oro, piensa en cómo reducir el gasto en el sector de la familia. Recorta de nuevo gastos innecesarios que hacen una gran diferencia en el mundo. Podrías usar tus ahorros para unas fabulosas vacaciones en el futuro cercano si tienes cuidado.
+Hay nuevas oportunidades para trabajar horas extras o encontrar un nuevo empleo con mejor salario y beneficios. Cierta actividad en tu sector de romance, familia y diversión, infiere que se te está forzado a encontrar ese delicado equilibrio entre trabajo y vida que todos se esfuerzan por tener cada día. Tú puedes encontrarlo.
