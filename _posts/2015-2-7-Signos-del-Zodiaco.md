@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de septiembre 2021
-description: Horóscopos del dia de hoy 12 de septiembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de septiembre 2021
+description: Horóscopos del dia de hoy 13 de septiembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-09-12
+ lastmod: 2021-09-13
 ---
-El día de hoy puede ser un caleidoscopio de emociones que sirve como herramienta para hacerle frente a la cuadratura entre la Luna y Plutón. El resultado es un complejo patrón que hay que ordenar cuando los pajares son enormes y las agujas son muy, muy pequeñas. Tal energía continúa a lo largo de una noche que debería ser pasada en casa en un ambiente tranquilo y sereno.
+Marte aumenta tus avances estratégicos al encontrarse en el fino y dedicado Virgo. Es buen momento para alabar un poco tus propias acciones. ¿Cuál es el punto de hacer algo perfectamente si nadie más se entera de ello? Cuando Mercurio cuadra a Plutón, trata de evitar buscar una respuesta complicada cuando una sencilla está justo en frente de ti.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
