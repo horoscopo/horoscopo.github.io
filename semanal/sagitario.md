@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 13 de septiembre 2021 al 19 de septiembre 2021 
-description: Horóscopo semanal sagitario 13 de septiembre 2021 al 19 de septiembre 2021. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
+title: sagitario 20 de septiembre 2021 al 26 de septiembre 2021 
+description: Horóscopo semanal sagitario 20 de septiembre 2021 al 26 de septiembre 2021. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-13'
+ lastmod: '2021-09-20'
 ---
 
 
 
-## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-No más paciencia Sagitario. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres Sagitario, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana Sagitario.
-Trata de no prometer algo que no puedas cumplir al comienzo de la semana, porque podrías avergonzarte más adelante si no puedes manejarlo. Lo mejor sería subestimar lo que puedes hacer y guardar las apariencias. Los próximos días podrían traerte inesperados pero encantadores hechos. Y, debido al eclipse solar en tu sector de relaciones, algunos nuevos desarrollos podrían tener un impacto en tu vida amorosa y en otras conexiones. Si descubres que te estás enamorando, lo mejor es no apresurarte. Tómate tu tiempo.
+Tienes que motivarte Sagitario. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino Sagitario. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro Sagitario, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa Sagitario, ¿tu tiempo no vale nada o qué?
+Cuando el expresivo Mercurio (tu planeta regente) se alinea con el encantador Venus en un sector intenso de tu carta, las conversaciones podrían revelar mucho. Puede que tengas ganas de profundizar más sobre un problema en tu relación para entender qué está pasando. Al parecer, tendrás éxito y encontrarás una solución. A mitad de semana, el conversador Mercurio se vuelve retrógrado en este mismo sector. Ten cuidado con los asuntos comerciales o con cualquier cuestión relacionada con las finanzas compartidas. Consulta los términos y condiciones antes de firmar sobre la línea punteada.
 
 ## Dinero
 
-Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.
+Por lo general tienes bastante equilibrio con tu dinero, pero puede que estés pensando lanzarte en una búsqueda global de sentido. Si logras hacer que funcione, más poder para ti. Sin embargo, los aspectos que afectan tu sector de política y grupos pueden significar que tus obligaciones requieren que dejes detrás cualquier viaje con el fin de estar ahí para cuando alguien te necesite. Ahorra dinero al cambiar este viaje por un fin de semana en el campo.

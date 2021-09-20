@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 13 de septiembre 2021 al 19 de septiembre 2021 
-description: Horóscopo semanal virgo 13 de septiembre 2021 al 19 de septiembre 2021. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Virgo, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+title: virgo 20 de septiembre 2021 al 26 de septiembre 2021 
+description: Horóscopo semanal virgo 20 de septiembre 2021 al 26 de septiembre 2021. Dedícate la semana a ti Virgo, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-13'
+ lastmod: '2021-09-20'
 ---
 
 
 
-## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Virgo, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+## Dedícate la semana a ti Virgo, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 
-Tienes que esforzarte Virgo, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Virgo, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Virgo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Virgo, sin remordimiento de ningún tipo, y espera a que el resto te busque…
-Podrías obtener una gran cantidad de apoyo y ayuda por parte de otras personas en las próximas semanas, lo que es para bien. También es un momento en el que es posible que tengas que ceder con el fin de mantener las cosas en marcha. Haz tiempo para centrarte en los intereses que capten tu atención y te provoquen un buen sentimiento. Hacerlo te ayudará a recargar baterías a todos los niveles. Asimismo, tendrás ganas de organizar tus finanzas una vez que Mercurio ingrese a Virgo el sábado.
+No es que no te estés esforzando por conseguir tus propósitos, no es eso, es que, a menudo, por mucho que te esfuerces, si te rodeas de personas que te acaban chupando toda esa energía es como si nada valiera la pena, porque por un paso que das al frente, retrocedes dos por culpa de otros.
+Aunque la próxima semana es optimista, aligera tu horario entre semana, cuando la Luna Llena pudiera llevar tus sentimientos a un punto crítico, acelerando así el ritmo que lleve al desarrollo de ciertos acontecimientos. Tampoco cedas a la tentación de actuar bajo impulso. Espera hasta que sientas más equilibrio y tranquilidad. En cuanto a dinero, las cosas parecen ir bien para ti, con varias oportunidades para mejorar tu ingreso. Puestos laborales podrían abrirse, siendo tu intuición la que te anime a aplicar para uno.
 
 ## Dinero
 
-Hay cambios ocurriendo en tu sector de carrera ahora. Ciertas cuestiones laborales son muy importantes para ti, pero trata de no dejar que consuman toda tu energía esta semana. Puede ser simplemente porque la energía se concentra tanto aquí. Pero siempre se puede optar por establecer un equilibrio entre el dinero que se está ganando y los amigos y familiares que te gustaría visitar de vez en cuando.
+Estás pensando en hacer algunos cambios en tu forma de trabajar y cómo exponerle tus ideas al mundo. Un aspecto favorable indica que podrías fácilmente llevarte tu trabajo a casa, comenzar un nuevo negocio en tu hogar, o comenzar a trabajar en hacerle mejoras a tu hogar; como por ejemplo construcción o decoración. El único problema radica en el hecho de que a tu ego le puede resultar difícil adaptarse a los cambios.

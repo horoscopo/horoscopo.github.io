@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 13 de septiembre 2021 al 19 de septiembre 2021 
-description: Horóscopo semanal cancer 13 de septiembre 2021 al 19 de septiembre 2021. Deja que duela Cáncer, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+title: cancer 20 de septiembre 2021 al 26 de septiembre 2021 
+description: Horóscopo semanal cancer 20 de septiembre 2021 al 26 de septiembre 2021. Hay cosas que ya no funcionan Cáncer, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-13'
+ lastmod: '2021-09-20'
 ---
 
 
 
-## Deja que duela Cáncer, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+## Hay cosas que ya no funcionan Cáncer, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 
-Tienes que empezar a vivir de nuevo Cáncer, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad Cáncer, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
-Si has estado teniendo problemas con tu jefe o alguien más en el trabajo, la mezcla de energías de esta semana podría verte con ganas de resolverlos de una vez por todas. Bien es posible alcanzar un compromiso, pero también es probable que ahora que Júpiter está directo, lo peor haya pasado y las cosas vayan a mejorar por sí solas. Con Venus uniéndose al Sol en un sector más apartado de tu carta el martes, puede que tomes conciencia de latentes habilidades y capacidades creativas que valdría la pena explorar.
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Cáncer, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+Colaborar con otras personas sobre una idea dinámica podría funcionar muy bien para ti durante las próximas semanas. Con el eclipse solar en tu sector de comunicaciones, hay potencial para un nuevo comienzo que podría evolucionar en el tiempo y llevarte al éxito. Y, si incluye posibilidades creativas, entonces será mucho mejor. Quizás también veas que las relaciones empiezan a relajarse durante las próximas semanas, ya que el serio Saturno se torna directo luego de varios meses de estar en su fase retrógrada. Interactuar de aquí en adelante será mucho más fácil.
 
 ## Dinero
 
-Esta semana se obtiene un agradable descanso. Gente con la que pudiste haber perdido contacto está de vuelta en la escena. Una o más de estas personas más podría traer excelentes oportunidades comerciales. No tienes que entrarle a todos y cada uno de ellos, pero sin duda escucha las ideas que tengan. Debido a que hay grandes aspectos en tu carta ahora, tu influencia sobre los grupos sociales es cada vez mayor. Las esperanzas, los sueños y el dinero no están muy lejos. Deja que todos vengan hacia ti.
+Tienes mucho coraje cuando se trata de decisiones sobre tu futuro financiero. El Universo podría crear problemas entre tú y una institución (como tu lugar de trabajo), o entre el deseo de pasar tiempo en la oficina o viajando. Uno de los dos tiene que ceder o de lo contrario tu situación financiera se verá afectada negativamente. Procede con extrema precaución.

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 13 de septiembre 2021 al 19 de septiembre 2021 
-description: Horóscopo semanal capricornio 13 de septiembre 2021 al 19 de septiembre 2021. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Capricornio.
+title: capricornio 20 de septiembre 2021 al 26 de septiembre 2021 
+description: Horóscopo semanal capricornio 20 de septiembre 2021 al 26 de septiembre 2021. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Capricornio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,16 +12,18 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-13'
+ lastmod: '2021-09-20'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Capricornio.
+## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Capricornio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 
-A veces quieres llegar al fondo de cualquier cosa Capricornio, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Capricornio. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a Capricornio, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona Capricornio así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
-Si te enfrentas a una situación tensa esta semana, trata de ceder. Una cuestión que ha estado acumulando tensión podría estallar, y es posible que tengas que adoptar un tono conciliador para resolverla. Aunque las influencias involucradas podrían incitar peleas y argumentos, te iría mejor al iniciar una plática honesta entre los involucrados. Ponerte en sus zapatos puede ayudarte a entender sus razones y cómo responder. La entrada de Venus a Virgo del Sábado insinúa romance en un ambiente exótico.
+Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
+ En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
+El animado Mercurio, tu planeta regente, ingresa a Cáncer y a tu sector de dinero el martes, lo que podría inspirarte a poner en orden tus finanzas. Un poco de planificación y organización pueden ser extremadamente útiles para ayudarte a sentir que tienes el control. 
+La luna nueva de esta semana en tu signo del miércoles es la mejor parte del año para ti. Puede ser la ocasión perfecta para hacer borrón y cuenta nueva. Si has estado pensando en perder peso, comenzar una rutina de ejercicios o aceptar un interesante plan, este es el momento para avanzar con esto. Independientemente de lo que quieras, esta es tu oportunidad para dar los primeros pasos para lograrlo. Tu vida social parece destinada a brillar cuando el simpático Venus ingresa a Leo y a tu sector de comunicación el miércoles. El deseo de salir y conectar con gente puede permitirte conocer a muchas personas, algunas de las cuales pueden convertirse en comprensivas amistades en el futuro.
 
 ## Dinero
 
-Esta semana hay un choque de energías poderosas en el cielo. Estas eliminando a las personas que no son compatibles con tu vida. Es hora de dejar de esconderse detrás de los demás o fingir que están ahí sólo para servir. Es hora de ponerse de pie. Tienes que esforzarte para poder obtener el tipo de dinero que deseas y mereces.
+Estás pensando en cómo crear más oportunidades financieras en tu vida en este momento y tienes un gran grado de decisión para hacerlo. Tus relaciones serán cada vez más importante en el trabajo y en tu vida monetaria. Podrías percatarte de que abrirte a un compañero te ayuda a ponerte al mismo nivel financieramente hablando. Hay mucha suerte en tu sector de enseñanza y aprendizaje. Cualquiera de los dos te ayuda en tus objetivos.

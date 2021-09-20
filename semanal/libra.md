@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 13 de septiembre 2021 al 19 de septiembre 2021 
-description: Horóscopo semanal libra 13 de septiembre 2021 al 19 de septiembre 2021. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+title: libra 20 de septiembre 2021 al 26 de septiembre 2021 
+description: Horóscopo semanal libra 20 de septiembre 2021 al 26 de septiembre 2021. Vete a tu cerebro, y borra Libra, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Libra. Deja salir para que pueda entrar lo demás.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-13'
+ lastmod: '2021-09-20'
 ---
 
 
 
-## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+## Vete a tu cerebro, y borra Libra, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Libra. Deja salir para que pueda entrar lo demás.
 
-Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
- a personas de las que “piensas” que dependes…
-Un encuentro inesperado podría ser el principio de una conversación inolvidable. Puede que una persona sepa algo que te da esperanzas para el futuro y esto podría darte ganas de saber más al respecto. Si sentías que estabas en una situación sin salida o en una serie de circunstancias sofocantes, esta influencia puede ser un soplo de aire fresco, lo que te da ganas de explorar un nuevo territorio que te desafía y fomenta tu crecimiento. Incluso irte de vacaciones podría probar ser memorable.
+Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección Libra, y ahora puedes elegir lo que quieras.
+Tu vida social y relaciones siguen vislumbrándose alegres y optimistas, lo que es seguro que pondrá una sonrisa en tu cara. Sin embargo, con Júpiter conectando con Neptuno desde principios de semana, no creas todo lo que te digan. Si te resulta difícil entender la posición de alguien, pídele consejo a una amistad. También te percatarás de que ciertos asuntos de negocios y recursos compartidos son puestos bajo enfoque a mitad de semana, animándote a analizar tus prioridades y tomar decisiones sabias.
 
 ## Dinero
 
-Podrías sentir el deseo de poner algo en marcha esta semana. Tus habilidades de comunicación están aumentando, mostrando que podrás salir adelante a través del solicitar fuerte y claramente a quienes te rodean. Pide lo que quieres en el trabajo y en tu vida monetaria y podrás conseguirlo. Aunque también deberías saber que las cosas podrían ponerse tensas, así que es mejor mantenerse limpios kármicamente hablando. No seas malo/a o utilices tus palabras para herir a los demás.
+Normalmente tienes facilidad para generar e invertir dinero simplemente porque eres consciente de la seguridad como regla. Ahora, tu seguridad radica en la forma de vestir, hablar con los demás, y crear tu imagen. A partir de ahí, puedes llegar muy lejos. Puedes conocer a la gente adecuada, obtener la posición adecuada, y finalmente ganar lo que vales. Velar por tu seguridad no se queda atrás conforme creas la vida que siempre has querido.
