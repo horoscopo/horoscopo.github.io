@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 19 de septiembre 2021
-description: Horóscopos del dia de hoy 19 de septiembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 20 de septiembre 2021
+description: Horóscopos del dia de hoy 20 de septiembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-09-19
+ lastmod: 2021-09-20
 ---
-Ten paciencia cuando las cosas se queden deliberadamente sin ser expresadas bajo la Luna fuera de órbita de hoy. Las tranquilas condiciones de ayer continúan bajo la Luna en Capricornio de esta noche. ¿Sin pareja? Hoy podría ser el comienzo de una relación con alguien que te excita, pero que no sabes por qué. Sería interesante averiguarlo.
+Hoy, las personas se comunican con seriedad, confianza y dicen la versión corta de las cosas mientras Mercurio retrógrado se opone a Júpiter. En realidad, esta es sólo una forma efectiva de comunicación, sin palabras ambiguas que podrían ser mal interpretadas. Esta noche, las personas absorben sus estados de ánimo mutuos de manera perceptiva bajo la Luna en Cáncer. ¡Cuidado! Esto incluye emociones ardiendo en los corazones.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
