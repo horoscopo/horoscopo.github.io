@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo piscis septiembre 2021 
+title: Horoscopo piscis octubre 2021 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
@@ -14,8 +14,8 @@ sitemap:
 ---
 
 
-Algunos eventos en una situación profesional requieren una reflexión y reconsideración de decisiones recientes. Puede que no sepas bien hacia dónde van las cosas, pero en lugar de preocuparte por lo que está más allá de tu control, aclara, reevalúa, y realíneate con tus ambiciones más sagradas. Tienes el apoyo, habilidades, talentos, poder y autoridad para hacer cambios necesarios y darle vida a una visión. Esto no se trata de la fama, imagen pública o éxito según el resto del mundo, sino de una búsqueda espiritual. Arranca de forma consciente el miedo inconsciente al fracaso (y quizás incluso al éxito). 
-Hay una conciencia más profunda que te abre los ojos a una realidad interior más rica y a un motivo más grande para tu existencia. ¿Quién eres cuando crees que nadie más te está mirando? El espíritu divino siempre está observando, porque está dentro de ti. Mantén tu integridad, y predica con el ejemplo. 
-En el fondo, este es un viaje espiritual que te pide que te deshagas de los apegos al mundo material, y así reivindicar tu poder verdadero para tomar decisiones conscientes que te liberen. Sánate a ti, y podrás sanar tu rincón en el universo y más allá, de formas nunca antes vistas. 
-Días destacados: 17, 20, 28
-Días desafiantes: 5, 15, 24
+La vida te está sacando de tu zona de confort. Ve más allá de tu resistencia, y ten una honestidad brutal contigo sobre lo que quieres, y no lo que crees que esperan de ti. 
+La luna nueva en Capricornio y el eclipse solar del 5 de octubre marcan el comienzo de una fase de 18 meses de remover las falsas capas para redescubrir tu niño o niña interior, que siempre ha tenido sabiduría más allá de sus años. 
+Cuando la luna llena en Leo y el eclipse lunar se alinean el día 20, encuentra el tiempo para estar a solas, meditar y hacer una introspección, y presta atención a un sueño que nace dentro de ti. Puedes crear y vivir una vida que te llene de pasión y propósito todos los días, con relaciones de cariño que toquen no solo tu corazón sino también tu alma, pero tienes que atreverte a reconocerlo y aceptarlo. Líbrate del pasado de una forma consciente. Hay muchos tesoros para encontrar en el presente. Tienes uno a tus pies, y tienes un verdadero sentido de compañerismo y buenos momentos en el hogar. Ya estás viviendo el sueño. Enumera tus bendiciones, y podrás ver que eres una persona muy afortunada. 
+Días destacados: 4, 22, 29 
+Días desafiantes: 8, 13, 18

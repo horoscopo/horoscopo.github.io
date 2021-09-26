@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo sagitario septiembre 2021 
+title: Horoscopo sagitario octubre 2021 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-La luna llena del 6 de septiembre podría encontrarte con la agenda llena, pero nada se compara con lo fantástico que son tus sueños y planes para el futuro. Sueña en grande y no dejes de trabajar duro en los detalles. La luna nueva del 19 de septiembre te alienta a tener una actitud más activa y competitiva. Puedes hacer todas las actividades que quieras, pero ten cuidado. Es muy fácil ignorar tus límites y luego no tener cuidado o sufrir una lesión. Ten cuidado y diviértete. El 24 de septiembre, tus grandes ideas e inspiraciones pueden ser solo eso cuando Marte se opone a Neptuno. Puede que no encuentres mucha cooperación. No insistas. 
+Déjate llevar por tus sueños cuando el Sol conjunte con Neptuno el 1 de octubre. No te hará mal recordar tus deseos más intensos. La Luna Llena del 12 de octubre centra la atención en tu vida amorosa. Te ves fenomenal e irresistible en este momento, sin importar como te sientas por dentro. Sonríe y deja que el amor haga su magia en todo lo que dices y haces. Puede que tu situación financiera mejore a medida que la Luna Nueva se acerca el 27 de octubre. Puede que una retribución que hace tiempo esperabas y un reembolso considerable se materialicen. O puede que recibas un aumento en tu salario. No es necesario que gastes más dinero, pero puede que lo hagas. De todas maneras, busca maneras en que el dinero fluya a tu favor.

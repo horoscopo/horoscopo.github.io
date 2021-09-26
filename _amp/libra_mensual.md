@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo libra septiembre 2021 
+title: Horoscopo libra octubre 2021 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Satisface tu deseo de salir más con tus amistades bajo la luna llena del 5 de septiembre. Puede que no elijan hacer tus cosas favoritas, pero eso no importará. Tan solo pasar tiempo juntos significa mucho en este momento. El 15 de septiembre, Mercurio forma una oposición con Urano y una idea o sugerencia que alguna vez sonó genial ahora ya no es tan atractiva. Échale otro vistazo. Expande tus horizontes durante la luna nueva del 19 de septiembre. Puede que estés en gran forma en el trabajo, pero necesitas un mundo más grande para prosperar de verdad. Reconoce una pasión personal y hazla una parta más importante de tu perspectiva de vida. 
+¿Sientes contento con tu vida amorosa? La Luna Nueva del 3 de octubre está diseñada para complacer a tu corazón. Selecciona y elige todo ahora - el restaurante, cine, o la pareja que vaya contigo. La gente quiere hacerte feliz. La lucha en el campo romántico es fuerte bajo la Luna Nueva del 17 de octubre, cuando puede que te encuentres admirando y sintiendo atracción a todo tipo de personas. Encuentra a alguien especial o simplemente disfruta de admirar a gente hermosa. Las emociones podrían ser intensas durante el fin de semana del 30 de octubre, y pensar claramente podría ser algo difícil de conseguir. Mantén un perfil bajo y trátate bien.

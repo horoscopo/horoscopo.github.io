@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo geminis septiembre 2021 
+title: Horoscopo geminis octubre 2021 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Mercurio se torna directo en Aries el 3 de septiembre. Un inconveniente social se resuelve cuando te vuelves a conectar con las personas. La música, las películas y el arte de todo tipo estarán en el centro de tu atención cerca de la Luna Llena del 10 de septiembre. Deja que una visión artística te brinde una mirada más profunda de tu persona. En este momento, la meditación de todo tipo sobre la condición humana puede ser poderosa. La Luna Nueva del 25 de septiembre atrae el amor hacia ti, y podría tornarse serio muy rápidamente. Presta atención y coquetea bajo tu propia responsabilidad. Ahora tienes una gran atracción, un aura de autoridad y un alto estatus social. Esto podría atraer a un admirador improbable pero muy ambicioso.
+¿Está alguien en casa resistiéndose a tus ideas o deseos? Esto podría detenerse después de la Luna Nueva del 6 de octubre. O quizás has querido volver a diseñar o remodelar una habitación u otro espacio privado. Comienza ahora y obtén la cooperación e inspiración de todos a tu alrededor. La Luna Llena de 21 de octubre es toda tuya. ¡Sal a bailar sobre el escenario de la vida! Eres una persona demasiado disciplinada e inteligente como para exagerar y causar algún problema o molestar a alguien. Si alguien más hace olas, mantendrás el control y hasta tal vez ganes algunos nuevos aliados. Finalmente, el sextil entre la Luna y Saturno del 27 de octubre le da un suave final a tu mes.

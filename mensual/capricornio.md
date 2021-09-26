@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo capricornio septiembre 2021
-description: El Horóscopo septiembre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo capricornio octubre 2021
+description: El Horóscopo octubre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo capricornio septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo capricornio octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo capricornio, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
@@ -16,4 +16,11 @@ sitemap:
 ---
 
 
-Las interacciones sociales aumentan a medida que Mercurio entra a Libra el 7 de septiembre. Podrías empezar a recibir una gran cantidad de invitaciones más interesantes. Tu vida amorosa podría parecerse a una canción de rock bajo la Luna Llena del 15 de septiembre. Cuando puede que también desees emoción y distracción. Haz que sea entretenido y date crédito por ello. Eres una persona divertida, después de todo. El amor y el dinero van de la mano para ti bajo la Luna Nueva del 30 de septiembre. Un loco comentario por parte de un amigo o un ser querido podría desatar una línea de pensamiento que te conduzca a un lucrativo pasatiempo o pequeño servicio que te gustaría proporcionar a pequeña escala.
+El 2 de octubre, Mercurio forma una cuadratura con Plutón. Puedes enfrentarte a un problema que no tiene respuestas, al menos no por ahora. Sé paciente, y no te dejes aturdir. 
+Venus se torna retrógrado el día 5. Puede que el amor vaya más lento, pero eso puede ser algo bueno. Tienes más tiempo para pensar bien las cosas. 
+Tanto tu cabeza como tu corazón quieren recibir cariño durante la luna nueva del 8 de octubre. Haz cosas divertidas e interesantes. Vuélvete una persona más creativa y divertida sin ser demasiado audaz o imprudente. 
+Mercurio sale de Libra y entra a Escorpión el día 9. Tómate más en serio la manera en que pasas tiempo con los demás. 
+Siéntete más a gusto y estable en tu rutina diaria cuando la luna llena brilla el 24 de octubre. Si tienes cualquier duda arraigada que necesitas despejar, mantén la calma, y mira cómo las soluciones aparecen de la nada. Sé feliz, y trátate bien. 
+Mercurio entra a Sagitario el día 30. ¡Vuelve la época de fiestas! 
+Días destacados: 12, 15, 29
+Días desafiantes: 10, 19

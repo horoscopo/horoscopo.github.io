@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo cancer septiembre 2021 
+title: Horoscopo cancer octubre 2021 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Adopta una actitud inteligente y energizada el 1 de septiembre, cuando Marte y Júpiter formen trígono en Signos de Aire. Cada brillante idea es factible. Tu teléfono puede sonar constantemente con textos y llamadas bajo la Luna Llena del 13 de septiembre. Tus amigos en todas partes, en su mayoría cerca, aunque algunos distantes, pueden optar por contactarte entonces. La Luna Nueva del 28 de septiembre brilla sobre tus intereses profesionales y presencia pública. No tienes que tratar de atraer a una gran multitud. Simplemente enfócate en lo que te importa, exprésalo y déjelo ir. En tu lugar de trabajo, nadie tendrá la misma intensidad que tú.   
+Quizás te sientes bajo amenaza o en alguna especie de riesgo durante la Luna Llena y el Eclipse Lunar el 7 de octubre. Respira profundo y no te imagines lo peor. Todo está bien. Hay chances de que te estén comparando con algún estándar alto imposible de alcanzar. Haz lo mejor que puedas y no te arrepientas de nada. La Luna forma una conjunción con Venus en Cáncer el 18 de octubre, y verás que los corazones que te rodean se ablandan. La Luna Nueva y el Eclipse Solar total del 21 de octubre iluminan tu mundo financiero y posesiones materiales. Sé prudente con tus gastos, y predisponte tanto a recibir como a dar en grandes cantidades. 
