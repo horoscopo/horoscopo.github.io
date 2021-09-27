@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 20 de septiembre 2021 al 26 de septiembre 2021 
-description: Horóscopo semanal leo 20 de septiembre 2021 al 26 de septiembre 2021. Eleva tu ego Leo, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
+title: leo 27 de septiembre 2021 al 03 de octubre 2021 
+description: Horóscopo semanal leo 27 de septiembre 2021 al 03 de octubre 2021. Recuerda que ha empezado la época de los Leo… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-20'
+ lastmod: '2021-09-27'
 ---
 
 
 
-## Eleva tu ego Leo, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
+## Recuerda que ha empezado la época de los Leo… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 
-A veces, no es fácil vivir la vida Leo, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera Leo. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-Fuertes deseos aumentan tus sentimientos hacia alguien que podría estar relacionado con tu pasado. Un repentino estallido de entusiasmo podría atraerle rápidamente a tu círculo social o llevarles a tener un encuentro secreto. Sin embargo, la intensidad que sientes podría disminuir más adelante, permitiendo que la atracción entre ustedes se cocine a fuego lento. Tu sector profesional es iluminado por el Sol a mitad de semana, animándote a analizar tus objetivos y prioridades. No permitas que tu vida se vuelva tan ocupada que termines perdiendo el equilibrio entre tu vida profesional y privada.
+El mundo no te entiende Leo, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Leo, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Leo, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
+El eclipse lunar en tu sector de recreaciones podría dominar los eventos, por lo que esta podría ser una semana muy emotiva. Este eclipse puede actuar como una luna llena enérgica, así que quizá veas cómo cambian tu vida social y tu modo de disfrutar tu tiempo de recreación. Si te das cuenta de que te has enamorando, puede que sea mejor dar un paso atrás. Las relaciones que comienzan en este período pueden no estar destinadas a ser y quizá esta nueva relación no termine como esperabas. Pero, en general, tu vida social parece tener el toque justo de sabor.
 
 ## Dinero
 
-El Universo te da un fuerte sentido de seguridad conforme construyes tu fortuna y tomas decisiones de inversión. Tienes una visión clara sobre el lugar donde quieres acabar y no quieres dejar las cosas al azar. Las únicas dificultades provienen de cierta desestabilización en tu sector de deuda que nubla tu visión.
+Lo tuyo es el poder ahora. Los demás acuden a ti en busca de respuestas y tú se las proporcionas - por un precio. Cierta tensión puede surgir entre tu tiempo de descanso y tu imagen. Cierta actividad en tu sector de viajes y educación superior indica que piensas en qué parte te vendría bien reforzar tus habilidades. Clases de fin de semana podrían permitirte cobrar más.

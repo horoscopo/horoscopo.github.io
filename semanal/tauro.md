@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 20 de septiembre 2021 al 26 de septiembre 2021 
-description: Horóscopo semanal tauro 20 de septiembre 2021 al 26 de septiembre 2021. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+title: tauro 27 de septiembre 2021 al 03 de octubre 2021 
+description: Horóscopo semanal tauro 27 de septiembre 2021 al 03 de octubre 2021. Tauro, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,20 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-20'
+ lastmod: '2021-09-27'
 ---
 
 
 
-## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+## Tauro, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 
-No eres frágil Tauro, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo Tauro, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra Tauro, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz Tauro, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando Tauro, y sabes lo complicado que es salir de ahí después…
-Habrá mucha actividad nueva en un intenso sector de tu carta, lo que podría tener un impacto bastante importante durante los próximos meses y años. 
-La luna nueva en Tauro y en este sector el martes es seguida rápidamente por la entrada del rebelde Urano, que se quedará en Tauro hasta 2026. Esta nueva influencia podría animarte a ver cuestiones profundamente arraigadas (como el dinero, el sexo y los negocios) desde una perspectiva diferente y tal vez más iluminada. Esto podría resultar muy liberador. 
-El mismo día, el dinámico Marte ingresa a Acuario y a tu sector de recreación y romance, lo que puede aportarle una chispa adicional a tu vida amorosa y a las actividades recreativas. 
-Mientras tanto, el encantador Venus ingresa a tu sector de carrera el sábado, lo que sugiere que un poco de encanto y la voluntad de llegar a un compromiso pueden ayudarte a hacer grandes avances. 
-Puede que también estés a punto de embarcarte en algunas aventuras relacionadas con viajes cuando el sol ingrese a Géminis, lo que te anima a disfrutar de nuevas experiencias.
+No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
+Si es que sientes estar cayendo en enamoramiento, trata de no apresurar demasiado las cosas esta semana, ya que las influencias que te rodean podrían contribuir a confusión y malentendidos. En lugar de sentir decepción, aprovecha esta oportunidad para reflexionar sobre lo que realmente quieres de cierta relación. ¿Qué es lo que sería mejor para ti? Afortunadamente, Venus, el planeta que rige a tu signo, comienza a avanzar desde el domingo, por lo que es posible que tus relaciones, finanzas y otras áreas clave comiencen a mostrar señales de mejoría.
 
 ## Dinero
 
-Esta semana estás pensando en dónde poner tu foco de atención. Esto se hace aún más importante con los aspectos afectando a tu sector de hogar y emociones internas. Conforme consideras dónde establecerte, es posible que también estés pensando en dónde quieres estar en cinco o diez años. Un aspecto favorable ayuda a que tu vida laboral sea más creativa y satisfactoria. Todo lo que necesitas hacer es poner tu plan en marcha y el dinero llegará.
+Es posible que tu imaginación se desate a su más alto nivel. Tantas ideas fluyen de tu cabeza que lo mejor es tener lápiz y papel a la mano para guardarlas todas. Incluso la más pequeña, al parecer, se puede convertir en un producto o servicio que genere efectivo. Tienes la posibilidad de poder consolidar estas ideas en proyectos concretos en el trabajo. ¡Bienvenido el efectivo!

@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 20 de septiembre 2021 al 26 de septiembre 2021 
-description: Horóscopo semanal cancer 20 de septiembre 2021 al 26 de septiembre 2021. Hay cosas que ya no funcionan Cáncer, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+title: cancer 27 de septiembre 2021 al 03 de octubre 2021 
+description: Horóscopo semanal cancer 27 de septiembre 2021 al 03 de octubre 2021. Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-20'
+ lastmod: '2021-09-27'
 ---
 
 
 
-## Hay cosas que ya no funcionan Cáncer, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+## Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 
-Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Cáncer, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
-Colaborar con otras personas sobre una idea dinámica podría funcionar muy bien para ti durante las próximas semanas. Con el eclipse solar en tu sector de comunicaciones, hay potencial para un nuevo comienzo que podría evolucionar en el tiempo y llevarte al éxito. Y, si incluye posibilidades creativas, entonces será mucho mejor. Quizás también veas que las relaciones empiezan a relajarse durante las próximas semanas, ya que el serio Saturno se torna directo luego de varios meses de estar en su fase retrógrada. Interactuar de aquí en adelante será mucho más fácil.
+No pelees Cáncer, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente Cáncer, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador Cáncer, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
+El enfoque de esta semana sigue siendo en diversión conforme el Sol y Mercurio entran a tu sector de recreación. Esta tendencia, que continuará por unas semanas, te motiva para explorar tus habilidades creativas. Esta puede ser una buena oportunidad para exhibir esas habilidades ante personas a las que les interesa lo que haces. Puede que sientas más vitalidad, energía y confianza. Esto resulta ideal si estás en busca de amor o quieres volver a encender la llama en tu relación actual.
 
 ## Dinero
 
-Tienes mucho coraje cuando se trata de decisiones sobre tu futuro financiero. El Universo podría crear problemas entre tú y una institución (como tu lugar de trabajo), o entre el deseo de pasar tiempo en la oficina o viajando. Uno de los dos tiene que ceder o de lo contrario tu situación financiera se verá afectada negativamente. Procede con extrema precaución.
+Para ti, esta semana es sobre viajes, educación superior y metafísica, así como la política, los grupos sociales, esperanzas y sueños. Es un buen momento para combinar estas áreas mediante la participación en talleres, seminarios y clases en línea que te desafíen y te permitan cobrar más por una nueva habilidad o servicio. Conecta primero con tu jefe para saber cuáles son las habilidades que deberías de obtener para mejorar.
