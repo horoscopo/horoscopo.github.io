@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de septiembre 2021
-description: Horóscopos del dia de hoy 27 de septiembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de septiembre 2021
+description: Horóscopos del dia de hoy 28 de septiembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-09-27
+ lastmod: 2021-09-28
 ---
-A veces el día parece ser demasiado largo. Hoy es uno de esos días en los que el tiempo parece extenderse. ¡Cuidado! No cedas a la tentación de operar en piloto automático. La Luna Nueva aspectando a Marte en Piscis a las altas horas de la noche provocando algún tipo de acción que podría venir directamente del corazón y las emociones.
+Inusuales personas o acuerdos - o posiblemente ambos - ocurren el día de hoy cuando la Luna forma trígono con Plutón y la vida adquiere un giro extraño de manera temporal. Esta noche toma los chismes con escepticismo si se tratan de alguien que te importa. Los motivos de cierta persona podrían no ser puros. Es posible que desees analizar por qué.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
