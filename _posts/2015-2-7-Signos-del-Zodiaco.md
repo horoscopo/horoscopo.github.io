@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 02 de octubre 2021
-description: Horóscopos del dia de hoy 02 de octubre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 03 de octubre 2021
+description: Horóscopos del dia de hoy 03 de octubre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-10-02
+ lastmod: 2021-10-03
 ---
-El trígono entre el Sol y Urano envía llamas de cambio. Los cambios son oportunidades, ¡así que aprovecha! Toma un riesgo si la oportunidad se te presenta. Esta noche, las personas son propensas a iniciar juegos mentales cuando la Luna en Leo aspecta a Plutón. Es probable que lo que esté en tu mente no concuerde con lo que hay en tu corazón.
+Las personas dicen lo que saben y suponen lo que no cuando Mercurio cuadra a Marte el día de hoy. Añadirle complicados pensamientos hará las cosas aún más difíciles de resolver. Incluso los hechos no son lo que parecen. Esta noche, las ondas eléctricas mentales se convierten en corrientes acuosas sentimentales bajo la Luna en el emocional Piscis. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
