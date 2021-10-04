@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 27 de septiembre 2021 al 03 de octubre 2021 
-description: Horóscopo semanal acuario 27 de septiembre 2021 al 03 de octubre 2021. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+title: acuario 04 de octubre 2021 al 10 de octubre 2021 
+description: Horóscopo semanal acuario 04 de octubre 2021 al 10 de octubre 2021. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Acuario. Tú solito.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-27'
+ lastmod: '2021-10-04'
 ---
 
 
 
-## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Acuario. Tú solito.
 
-Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea Acuario. 
- Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
-A medida que el planeta del habla y pensamiento regresa a tu sector hogareño, puedes sentir el deseo de conectarte con familiares y amistades que no has visto por un tiempo. Las próximas semanas pueden ser una gran oportunidad para tener una reunión que te dé la oportunidad de ponerte al día. Quizás quieras hablar de tus últimos planes o presentar a nuevos miembros de la familia entre sí. Por otro lado, unir tus recursos con los de alguien más puede permitirte conseguir más de lo que conseguirías por tu cuenta, y ciertamente vale la pena considerarlo.
+A veces las cosas tienen que ser a tu manera o a ninguna Acuario, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada Acuario. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
+Si no has tenido ninguna suerte con respecto a un caso judicial u otro asunto legal, las cosas podrían mejorar una vez que Júpiter comience a avanzar a partir del lunes. Si estás viajando o trabajando en el extranjero, mantente alerta a oportunidades que podrían ampliar tus opciones. Este puede ser un momento de mágicos encuentros. Tu vida romántica se vislumbra muy dulce con la alineación de esta semana volviendo a encender la llama del amor en una existente relación o al iniciarla en un nuevo romance. Si tu tiempo ha estado ocupado, es sin duda momento para relajarte.
 
 ## Dinero
 
-Esta semana podrías estar pensando en nuevas formas de ganar dinero desde la comodidad de tu hogar. Ya sea que estés planeando el construir una oficina, el comprar un estudio y dividirlo en habitación casa/trabajo o que comiences a redecorar tu casa, aquí es dónde esta el dinero. Pero podrías no estar pensando en tus deudas tanto como lo necesitas. Date el tiempo de revisar los documentos necesarios antes de firmar o comprometerte a algo.
+Puede que estés experimentando algunos cambios no deseados en el trabajo esta semana. Las grandes ideas pueden estar ocurriendo a un ritmo rápido, pero puede que otras personas no estén en el lugar adecuado para escucharlas por el momento. Es como un zapato demasiado ajustado - no se le puede forzar. En vez, ajusta la forma en como tratas con los demás, esto hará toda la diferencia en el mundo. Relájate y deje que esto ocurra.

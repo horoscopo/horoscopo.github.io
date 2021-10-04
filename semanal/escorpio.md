@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: escorpio 27 de septiembre 2021 al 03 de octubre 2021 
-description: Horóscopo semanal escorpio 27 de septiembre 2021 al 03 de octubre 2021. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+title: escorpio 04 de octubre 2021 al 10 de octubre 2021 
+description: Horóscopo semanal escorpio 04 de octubre 2021 al 10 de octubre 2021. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_escorpio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-27'
+ lastmod: '2021-10-04'
 ---
 
 
 
-## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-Es mejor reflexionar que lamentar Escorpio. Siempre. 
-Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así Escorpio, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
-Un enfoque muy hogareño podría encontrarte apartándote de la vida y observándola desde una nueva perspectiva. El cosmos, que muestra un importante enfoque en tu sector de familia, te anima a tomarte el tiempo para nutrirte con buena comida, mucho descanso y la oportunidad de desconectarte por completo. Si bien puede que tengas una vida ocupada, programar estas actividades durante la semana te puede ayudar a que aumenten la estimulación y productividad. El fin de semana podría traer una diferencia de opinión, sin embargo, admiras a las personas con convicciones.
+Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
+así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final.
+Las próximas semanas y meses podrían ser espectaculares para ti si te dispones a esforzarte un poco más. Al hacerlo, puedes aprovechar la presencia del optimista Júpiter en el sector más alto de tu carta astral. Aquí, podría llevar a oportunidades que te den poder y la oportunidad de mejorar tu reputación. El cosmos también te lleva a aceptar nuevas ideas y seguir aprendiendo y perfeccionando tus habilidades. Hacerlo podría beneficiarte mucho.
 
 ## Dinero
 
-Ha pasado algo de tiempo desde que sentiste que se te paga lo que vales, pero eso puede cambiar pronto. Tú eres la estrella actual en tu trabajo, mostrando tus talentos y habilidades al máximo. Otros pueden ver en ti lo que quieren ver, casi como si fueras una pantalla de proyección de tamaño natural. Tienes todo el poder para pedir más dinero o construir un buen caso para tu eventual promoción.
+Esta semana podría ser un reto para ti. Podías sentir como si alguien te obligara a hacer algo contra tu voluntad. Pero el Universo está simplemente tratando de empujarte hacia tu hogar y a los sentimientos internos. Esto podría revelar algo importante acerca de cómo ganar más dinero a corto plazo. Trabajar en casa puede ser una buena opción.

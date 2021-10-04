@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 27 de septiembre 2021 al 03 de octubre 2021 
-description: Horóscopo semanal sagitario 27 de septiembre 2021 al 03 de octubre 2021. Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+title: sagitario 04 de octubre 2021 al 10 de octubre 2021 
+description: Horóscopo semanal sagitario 04 de octubre 2021 al 10 de octubre 2021. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,17 +12,18 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-27'
+ lastmod: '2021-10-04'
 ---
 
 
 
-## Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-No te bajonees porque un día no hayas conseguido todo lo que te habías propuesto, al día siguiente podrás crear otro tipo de oportunidades que te lleven a donde quieres. 
-Roma no se hizo en un día. Y sal un poco más, que hay gente que te echa de menos, que echa de menos tu positividad, tus risas, tu ingenio, tus ganas…
-Si has tenido problemas con tus finanzas o ciertos asuntos empresariales, las cosas podrían empezar a mejorar cuando Júpiter comience a avanzar desde el lunes. Si cierto monto de dinero se ha retrasado por la razón que sea, deberías escuchar noticias que confirmen que se encuentra en camino. También te percatarás de que cierto enfoque en tu sector hogareño te anima a decorar, eliminar el desorden y poner tu lugar en óptimas condiciones. Tu vida social debería ser divertida y un secreto deseado que has albergado por un tiempo podría hacerse realidad.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+Esta semana está repleta de acción, ya que el enfoque en tu sector de familia sugiere que te ocuparás de organizar, entretener y hacer que todo esté perfecto para tus invitados. Con Marte en tu sector monetario, no te olvides de mimarte con una sesión de spa o una noche festiva con tus amistades. Saturno hace un cambio esta semana al trasladarse a tu sector doméstico. Durante los próximos meses, esto podría coincidir con importantes proyectos en tu hogar o mayores responsabilidades en esta área. 
 
 ## Dinero
 
-Te encuentras en un momento de aumento de actividad social, lo que puede ayudar a cualquier empresa de negocios puesta en marcha recientemente. Con cierto enfoque en grupos, política y negocios personales, estás a punto de hacer un gran cambio en tu vida; uno que puede acabar afectando la forma en la que vives. Es más fácil comunicarse con grupos acerca de tus ideas y de influir en la opinión pública a tu favor.
+Si esta semana estás planeando cómo poder organizar un descanso de la rutina con el fin de rejuvenecer, cierta actividad en tu sector de viajes, educación, metafísica y lenguas te pide que refuerces tus habilidades existentes en una o más de estas áreas. Podrías percatarte de que tienes una habilidad oculta, tal vez como resto de una encarnación anterior. Utiliza todo lo que tienes para el máximo beneficio. Otras personas simplemente no tienen tu mezcla única de habilidades.

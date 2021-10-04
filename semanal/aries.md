@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 27 de septiembre 2021 al 03 de octubre 2021 
-description: Horóscopo semanal aries 27 de septiembre 2021 al 03 de octubre 2021. Toma decisiones YA, AQUÍ y AHORA Aries. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+title: aries 04 de octubre 2021 al 10 de octubre 2021 
+description: Horóscopo semanal aries 04 de octubre 2021 al 10 de octubre 2021. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-09-27'
+ lastmod: '2021-10-04'
 ---
 
 
 
-## Toma decisiones YA, AQUÍ y AHORA Aries. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 
-A veces de bueno te pasas Aries. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Aries, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Aries, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Aries y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-Con tu sector de estilo de vida como el centro de atención durante unas semanas, tienes la oportunidad de mejorar tu estado de salud o de progresar en el trabajo. De hecho, este es un buen momento para que evalúes tu nivel general de felicidad y pienses qué puedes hacer para aumentarlo. El cosmos te inspira a buscar intuitivamente lo que necesitas para sentirte con más vitalidad y energía, y puede que no sea lo que esperabas. Si necesitas un consejero de vida o un entrenador personal, cualquiera de estas dos opciones podría dar resultado.
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
+Es posible que te estés presionando demasiado, lo que podría llevarte a perder la fe en tus capacidades. No tiene por qué ser así. La energía de esta semana ilumina áreas en las que podrías estar esforzándote demasiado. Esto no es una crítica, es sólo un consejo para animarte a darte un poco de espacio. Otra razón para ser amable con tu persona es el Eclipse Lunar en tu sector social. Tal podría significar cambios dentro de ciertas amistades o grupos con los que tienes afiliación.
 
 ## Dinero
 
-Tus aspectos afectan el dinero y la deuda de otras personas. Esto señala la necesidad de comunicarse con aquellos a quienes les debes dinero y asegurarte de que los dos estén de acuerdo sobre lo que se pagará y cuándo. Hay un poco de tranquilidad en las inversiones compartidas. Esto podría ser capaz de ayudarte a salir de los atascos financieros que surjan desprevenidamente. Ten la seguridad de que serás atendido/a.
+Esta semana pones a prueba la resistencia y la tensión de tus relaciones. Esto puede resultar en que más de una relación profesional estrecha no funcione. No importa. Hay un montón de cambios positivos que se aproximan a tu sector del hogar, lo que indica un movimiento, la venta, o la adición de un espacio laboral en tu vida. El secreto está en no tratar de forzar nada ya que no es probable que dé frutos financieros por ahora.
