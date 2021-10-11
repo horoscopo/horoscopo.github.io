@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 04 de octubre 2021 al 10 de octubre 2021 
-description: Horóscopo semanal sagitario 04 de octubre 2021 al 10 de octubre 2021. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
+title: sagitario 11 de octubre 2021 al 17 de octubre 2021 
+description: Horóscopo semanal sagitario 11 de octubre 2021 al 17 de octubre 2021. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,18 +12,16 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-04'
+ lastmod: '2021-10-11'
 ---
 
 
 
-## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
+## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 
-Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
- Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
-pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
-Esta semana está repleta de acción, ya que el enfoque en tu sector de familia sugiere que te ocuparás de organizar, entretener y hacer que todo esté perfecto para tus invitados. Con Marte en tu sector monetario, no te olvides de mimarte con una sesión de spa o una noche festiva con tus amistades. Saturno hace un cambio esta semana al trasladarse a tu sector doméstico. Durante los próximos meses, esto podría coincidir con importantes proyectos en tu hogar o mayores responsabilidades en esta área. 
+Sagitario, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo Sagitario. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
+Tu sector social sigue vislumbrándose optimista, animándote a hacer algunos cambios y a avanzar hacia nuevos círculos. Con Mercurio retrógrado, podrías percatarte de que ciertas amistades regresan de nuevo a tu vida con la oportunidad de continuar donde anteriormente se quedaron. Júpiter entra a tu sector espiritual, aspecto que podría coincidir con el deseo de superación. No sería una sorpresa que decidieras contratar a un entrenador o conectar con un maestro con el fin de alcanzar tu verdadero potencial.
 
 ## Dinero
 
-Si esta semana estás planeando cómo poder organizar un descanso de la rutina con el fin de rejuvenecer, cierta actividad en tu sector de viajes, educación, metafísica y lenguas te pide que refuerces tus habilidades existentes en una o más de estas áreas. Podrías percatarte de que tienes una habilidad oculta, tal vez como resto de una encarnación anterior. Utiliza todo lo que tienes para el máximo beneficio. Otras personas simplemente no tienen tu mezcla única de habilidades.
+Es posible que hayas estado tratando de encontrar la manera de recaudar dinero para un nuevo negocio, y ahora podría ser posible. Este es un buen momento para hacer cualquier pago final que tengas que hacer al mismo tiempo que buscas maneras de conectar con posibles inversionistas. Los esfuerzos de recaudación de fondos deben incluir un componente de marketing en línea.

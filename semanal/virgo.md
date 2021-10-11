@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 04 de octubre 2021 al 10 de octubre 2021 
-description: Horóscopo semanal virgo 04 de octubre 2021 al 10 de octubre 2021. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+title: virgo 11 de octubre 2021 al 17 de octubre 2021 
+description: Horóscopo semanal virgo 11 de octubre 2021 al 17 de octubre 2021. A veces hay que llevar al límite las cosas Virgo, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-04'
+ lastmod: '2021-10-11'
 ---
 
 
 
-## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+## A veces hay que llevar al límite las cosas Virgo, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
 
-Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección Virgo, y ahora puedes elegir lo que quieras.
-Con el animado Mercurio, tu planeta regente, de excursión en tu sector de comunicación, podrías tener la agenda completa entre tareas administrativas y otras actividades cotidianas. También puede ser un buen momento para conocer tu localidad en mayor profundidad. Siempre hay cosas por descubrir. Además, conectarte con familiares o vecinos puede ayudarte a estar en contacto y mantener relaciones positivas. 
-Cuando el encantador Venus está en Virgo y en tu sector de hogar, otra parte de ti puede anhelar noches en casa con un buen libro o una película. Esta también puede ser la oportunidad para mimarte con una manicura o pedicura de lujo y un tratamiento general para el cuerpo. El fin de semana, el ingreso del sol a Leo y a tu sector de habla y pensamiento puede traer aún más oportunidades para entablar conexiones, comercializar tus bienes o servicios, y comunicar tu mensaje al mundo. Puede que también disfrutes de hacer algunas mejoras a tu vida diaria.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos Virgo así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Virgo, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+Finalmente estás viendo los resultados de todo tu trabajo. Si has estado trabajando con un instructor de vida o maestro para desarrollar tu consciencia espiritual y vivir la vida al máximo, ahora comienzan a verse los frutos de este trabajo. Puedes comenzar a sentir gran confianza en el futuro. 
+ En lo que respecta a cuestiones de comunicación o proyectos relacionados con la escritura, la investigación o las conversaciones con personas clave, el progreso parece mucho más lento. Esto puede deberse al determinado Marte retrógrado en tu sector de habla y pensamiento hasta el Jueves. Esta semana, puede que tengas la tentación de apurar el paso forzando que las cosas sucedan de acuerdo a lo planificado. Trata de no hacerlo; podrías interferir con el curso natural de los hechos. El éxito será tuyo cuando todas las cosas estén en su lugar.
 
 ## Dinero
 
-Este período se trata de las formas en las que te pones en contacto con los demás por negocios o por placer. Dado que cierta actividad armoniosa afecta a tu sector de grupos, actividades sociales y negocios propios, puede que estés pensando en cómo usar las redes sociales para lanzar una nueva empresa de algún tipo. Incluso si es un negocio secundario por un tiempo, puede que te percates de que la conexión con los demás puede hacer toda la diferencia.
+Con tantos planetas afectando tu sector de dinero esta semana, puede que tengas la tentación de correr y esconderte. Pero a medida que el Universo se centra en tu sector de dinero y valores, se te está pidiendo ser más responsable en la forma en la que ganas dinero. También se te insta a ser mucho más sociable cuando se trata de tu dinero.

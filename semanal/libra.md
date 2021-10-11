@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 04 de octubre 2021 al 10 de octubre 2021 
-description: Horóscopo semanal libra 04 de octubre 2021 al 10 de octubre 2021. Esta semana relájate un poco Libra, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: libra 11 de octubre 2021 al 17 de octubre 2021 
+description: Horóscopo semanal libra 11 de octubre 2021 al 17 de octubre 2021. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-04'
+ lastmod: '2021-10-11'
 ---
 
 
 
-## Esta semana relájate un poco Libra, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
 
-No puedes poner piezas en lugares que no corresponden Libra, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo Libra, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso Libra, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte Libra, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho Libra, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
-Aunque te has preparado para la acción, tienes que tener cuidado esta semana, ya que hay posibilidad de confusión y malentendidos. Júpiter aspectando a Neptuno sin duda despertará tu imaginación, pero es posible que te resulte difícil concentrarte. Tendrás que prestarle atención a los detalles y administrar tu tiempo para que las cosas salgan según lo planeado. Si eres una persona artística, podrías sentir más inspiración. Y si es que necesitas divertirte un poco, tendrás muchas oportunidades tanto para ello como para romance.
+Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
+Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
+Las influencias sociales son particularmente fuertes ahora, haciendo de esta una semana perfecta para la creación de contactos, citas amorosas y diversión en general. Puedes acelerar el progreso de un nuevo romance al darle a tu interés amoroso toda tu atención. ¡Si algo tienes tú es que sabes cómo divertirte! Compartir con tu interés amoroso toda esta diversión puede ayudarles a tener más intimidad de la que esperabas. A partir del Domingo, tómate tiempo para relajarte y reflexionar. ¡Hacerlo te hará mucho bien!
 
 ## Dinero
 
-Tu vida financiera está activa esta semana. Se te está pidiendo que cambies tu forma de ver el dinero en tu vida. Esto podría abrir un nuevo canal para manifestar nuevas fuentes de ingresos si mantienes tus ojos bien abiertos. Utiliza tus puntos fuertes para trabajar en pagar tu deuda. Tienes todo lo necesario para disminuir considerablemente esas facturas. Sólo destina de tus ingresos lo más que puedas y ve los números disminuir exorbitantemente.
+Eres casi como una pantalla en la que otros pueden proyectan sus esperanzas, miedos, logros y mucho más. Esto te permite ser quien quieras ser esta semana también. Así que si quieres un mejor trabajo o una posición en la cadena alimenticia desde donde estás ahora, actúa como si ya fuera tuyo. Ciertos aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y poder guardar algo para el futuro.

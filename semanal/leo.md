@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: leo 04 de octubre 2021 al 10 de octubre 2021 
-description: Horóscopo semanal leo 04 de octubre 2021 al 10 de octubre 2021. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+title: leo 11 de octubre 2021 al 17 de octubre 2021 
+description: Horóscopo semanal leo 11 de octubre 2021 al 17 de octubre 2021. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_leo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-04'
+ lastmod: '2021-10-11'
 ---
 
 
 
-## Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
 
-Ojalá pudiéramos tener un botón de reinicio en la vida Leo, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
-Una oportunidad para explorar nuevo territorio podría ser un punto crucial para ti, y uno que aceptarás con gran entusiasmo. Las próximas semanas podrían llevarte a ver nuevas opciones que quizás nunca antes hayas considerado, y esto puede ser muy emocionante. Además, con el Sol ingresando a tu sector de carrera y ambición, esta puede ser una oportunidad para evaluar la situación y considerar si estás aprovechando al máximo tus destrezas y habilidades. Si no, podría ser un buen momento para demostrar tus talentos.
+No te calientes Leo, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no Leo, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien Leo, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
+Puede ser fácil involucrarte en un enredo esta semana, ya que existe la posibilidad de mensajes contradictorios y malentendidos en general. Pero también hay muchas cosas emocionantes y optimistas sucediendo en los próximos días. Venus regresa de nuevo a Virgo el jueves, dándote mucho atractivo. Tus asuntos monetarios sufrirán menos retrasos y frustración una vez que Mercurio se torne directo el viernes. Entonces ya puedes comenzar a comprar artículos caros. Por último, puede que te beneficies romántica y financieramente este fin de semana.
 
 ## Dinero
 
-Para ti este período se trata de cachar ofertas y de tomar ventaja de las nuevas oportunidades para ganar más dinero. Los aspectos afectan al sector de dinero y valores, indicando un tiempo de crecimiento en ese sector. Eres una fuente de ideas ahora, así que asegúrate de escribirlas para no perder de vista un flujo de ingresos futuros. Si sientes agobio, ponlas en práctica de una en una.
+Estás en medio de un replanteamiento serio cuando se trata de gastar. Puede que te estés preguntando cómo proteger a tu familia a largo plazo, lo que te podría llevar a considerar la contratación de un asesor financiero u otro experto. Otros miembros de tu tribu pueden tener ideas sorprendentemente buenas acerca de cómo ahorrar e invertir para un futuro compartido. Escucha.

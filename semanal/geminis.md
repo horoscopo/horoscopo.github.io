@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 04 de octubre 2021 al 10 de octubre 2021 
-description: Horóscopo semanal geminis 04 de octubre 2021 al 10 de octubre 2021. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+title: geminis 11 de octubre 2021 al 17 de octubre 2021 
+description: Horóscopo semanal geminis 11 de octubre 2021 al 17 de octubre 2021. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-04'
+ lastmod: '2021-10-11'
 ---
 
 
 
-## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 
-Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
- La gente es como es y no debes martirizarte por ello Géminis.
-Esta semana, podrías necesitar tus habilidades de negociación, en especial si te enfrentas a los deseos obstinados de alguien más. Una conversación constructiva puede hacer mucho más por ti que la persuasión explícita. También puede alegrarte la forma en la que salen las cosas. La buena noticia es que el optimista Júpiter ingresa a tu sector de finanzas el martes y se queda ahí por un año, lo que trae oportunidades para mejorar tus ingresos de diferentes maneras. Sin embargo, podrías excederte en tus gastos, así que ten cuidado con esta tendencia.
+Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro Géminis, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Géminis, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
+Trata de evitar un malentendido el lunes. Tú, tu pareja o una amistad podría terminar malentendiendo cierta situación. Tomarte tiempo para lidiar con esto debería aclarar todo en pocos días. Aunque tienes ansias de progresar en tu trabajo, no te apresures a tomar ninguna decisión, ya que cualquier nueva información que surja podría cambiarlo todo. A pesar de algunos contratiempos, la positiva actitud de alguien podría ayudarte a relajarte y sentirte mejor. Y no te preocupes por pedir exactamente lo que quieres, ¡ya que hay una muy buena posibilidad de que lo consigas!
 
 ## Dinero
 
-El Universo te enseña a aceptar más responsabilidad con respecto a cómo te proyectas al mundo. Alguien ha sido capaz de ascender en la escala más rápidamente debido a su buen vestir o a una mejor manera de hablar, pero tú también lo puedes hacer. Práctica tu confianza en frente de un espejo hasta que la perfecciones. Cada detalle ayuda.
+Es una semana complicada para ti aunque las cosas parezcan estar bien, sobre todo cuando se trata de tu relación. Vas avanzando en tus uniones con los sindicatos profesionales y personales y todo es bueno en ese frente. Sin embargo, los aspectos que afectan a tu carrera hacen que sea difícil ver el bosque por los árboles. Tómate el tiempo necesario para establecer un camino claro hacia tus metas.
