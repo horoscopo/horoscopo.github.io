@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de octubre 2021
-description: Horóscopos del dia de hoy 12 de octubre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de octubre 2021
+description: Horóscopos del dia de hoy 13 de octubre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-10-12
+ lastmod: 2021-10-13
 ---
-No digas que sí demasiado rápido esta mañana. Tú o alguien podría prometer más de lo que puede cumplir. Esta tarde, lee cuidadosamente cualquier documento que forme parte de un acuerdo y expresa tus ideas al respecto. Esta noche es sublime cuando la Luna forma trígono con Neptuno. Hay placer en ambientes pacíficos, tranquilos y solitarios.
+Podrías lograr algo a la segunda cuando Mercurio en Capricornio vuelva a conectar a un grado en el que el planeta estuvo alrededor del primero del mes. ¿Alguna vez tuviste la sensación de que has tenido una conversación tantas veces que podrías mencionar cada una de las líneas de la otra persona? Resuelvan sus diferencias. Déjenlas en el pasado.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
