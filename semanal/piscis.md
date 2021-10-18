@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 11 de octubre 2021 al 17 de octubre 2021 
-description: Horóscopo semanal piscis 11 de octubre 2021 al 17 de octubre 2021. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+title: piscis 18 de octubre 2021 al 24 de octubre 2021 
+description: Horóscopo semanal piscis 18 de octubre 2021 al 24 de octubre 2021. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-11'
+ lastmod: '2021-10-18'
 ---
 
 
 
-## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Piscis, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-Una relación podría pasar a un nuevo y más positivo nivel el lunes, lo que podría ser el logro que tanto has estado esperando. Además, este puede ser el momento perfecto para una cita o comida especial con una de tus amistades, lo que te presenta nuevas oportunidades. A medida que el intenso Plutón, tu planeta regente, y el precavido Saturno ingresan a su fase retrógrada, tal vez sea prudente no obsesionarte demasiado con una determinada situación o persona. De hecho, cuanto más puedas alejarte y dejar que las cosas sigan su curso, más pronto encontrarás una solución. 
-  Además, el ingreso del sol a Tauro y a tu sector de relaciones te permite evaluar las asociaciones, amistades y relaciones románticas clave, y considerar cómo puedes mejorar las cosas. El miércoles, espera lo inesperado. Una interrupción en tu rutina podría funcionar a tu favor.   
+Para alcanzar la felicidad, TÚ FELICIDAD, 
+y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible…
+Te surgen abundantes oportunidades comerciales, dando lugar a aventureras ideas. Unir tus recursos con una o dos personas podría facilitarte avanzar y aumentar tus ganancias. Esto no va a suceder de la noche a la mañana, pero sí te ayudará crear una buena estrategia y encontrar a las personas adecuadas con las cuales asociarte. El Sol entra a tu sector profesional el viernes, animándote a socializar con gente que pudiera tener poderosas conexiones. Además, ¡este fin de semana podrías toparte con un pequeño golpe de suerte!
 
 ## Dinero
 
-Estás mejorando tu vida financiera haciendo grandes avances en tu carrera. Estás cambiando la forma en que haces tu trabajo y haciendo planes para el futuro. Si deseas avanzar con rapidez en este ámbito, date como voluntario/a para representar más a tu organización. Al dar discursos y presentaciones, vences el miedo a hablar en público y avanzas en tu propia causa. Tu ambición no puede ser igualada. Crea heno mientras el Sol brilla.
+Te enfrentas a una semana de crecimiento financiero. Usualmente te inclinas a la organización con respecto al gasto y esta puede ser una gran semana para discutir la ejecución presupuestaria y revisarla. ¿El actual está trabajando para ti o es necesario algún ajuste? Puede ser útil el registrarse en un servicio de banca en línea o usar herramientas en línea para calcular lo que necesitas para tu jubilación.

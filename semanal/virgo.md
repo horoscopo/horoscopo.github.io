@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: virgo 11 de octubre 2021 al 17 de octubre 2021 
-description: Horóscopo semanal virgo 11 de octubre 2021 al 17 de octubre 2021. A veces hay que llevar al límite las cosas Virgo, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+title: virgo 18 de octubre 2021 al 24 de octubre 2021 
+description: Horóscopo semanal virgo 18 de octubre 2021 al 24 de octubre 2021. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Virgo.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_virgo.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-11'
+ lastmod: '2021-10-18'
 ---
 
 
 
-## A veces hay que llevar al límite las cosas Virgo, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Virgo.
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos Virgo así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Virgo, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
-Finalmente estás viendo los resultados de todo tu trabajo. Si has estado trabajando con un instructor de vida o maestro para desarrollar tu consciencia espiritual y vivir la vida al máximo, ahora comienzan a verse los frutos de este trabajo. Puedes comenzar a sentir gran confianza en el futuro. 
- En lo que respecta a cuestiones de comunicación o proyectos relacionados con la escritura, la investigación o las conversaciones con personas clave, el progreso parece mucho más lento. Esto puede deberse al determinado Marte retrógrado en tu sector de habla y pensamiento hasta el Jueves. Esta semana, puede que tengas la tentación de apurar el paso forzando que las cosas sucedan de acuerdo a lo planificado. Trata de no hacerlo; podrías interferir con el curso natural de los hechos. El éxito será tuyo cuando todas las cosas estén en su lugar.
+Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
+Tu sector social entra en acción a partir del 19 de Octubre y podrías tener más actividades que antes, ya que habrá eventos importantes y ocasiones festivas. Podrías organizar una gran fiesta o un acto benéfico y con tu capacidad para organizar eventos, todo saldrá a la perfección. Mercurio se vuelve retrógrado esta semana, por lo que debes ser prudente al firmar un contrato que te involucre a largo plazo. Es mejor que esperes hasta que Mercurio vuelva a avanzar el 8 de Noviembre.
 
 ## Dinero
 
-Con tantos planetas afectando tu sector de dinero esta semana, puede que tengas la tentación de correr y esconderte. Pero a medida que el Universo se centra en tu sector de dinero y valores, se te está pidiendo ser más responsable en la forma en la que ganas dinero. También se te insta a ser mucho más sociable cuando se trata de tu dinero.
+Puede que tenga que haber algunos gastos relacionados con tu hogar esta semana. Podrías necesitar hacer algunos ajustes a tu presupuesto a medida que descubres que las reparaciones cuestan más o que alguien ha hecho una oferta más alta en una propiedad de inversión que la que tú hiciste. En lugar de abrumarte o enojarte, recuerda que un aspecto armonioso te ayudará a pagar las deudas existentes, aclarar cualquier cabo suelto en tu vida financiera y a sentirte más a gusto.

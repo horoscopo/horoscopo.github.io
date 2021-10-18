@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: cancer 11 de octubre 2021 al 17 de octubre 2021 
-description: Horóscopo semanal cancer 11 de octubre 2021 al 17 de octubre 2021. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Cáncer. Hay personas a las que TÚ debes dar ese escarmiento.
+title: cancer 18 de octubre 2021 al 24 de octubre 2021 
+description: Horóscopo semanal cancer 18 de octubre 2021 al 24 de octubre 2021. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_cancer.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-11'
+ lastmod: '2021-10-18'
 ---
 
 
 
-## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Cáncer. Hay personas a las que TÚ debes dar ese escarmiento.
+## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 
-Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
-El enfoque en tu sector espiritual continúa, haciendo de este un excelente momento para explorar profundidades ocultas con el fin de encontrar ideas creativas y otros tesoros. Trata de relajarte, ya que inspirados pensamientos que surgen durante momentos de calma podrían ayudarte a curar algunas de las cuestiones que te han plagado recientemente. Venus retrógrado sale de tu signo y entra a Leo al final de la semana, animándote a mejorar tu relación contigo mismo o misma. Retomar una práctica espiritual podría ser una experiencia positiva.
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
+Este es un excelente momento para apoderarte del centro de atención y mostrar tus habilidades y capacidades. El Eclipse Solar en tu sector de creatividad, romance y autoexpresión podría convertirse en algo muy emocionante. Si tienes talentos que has explotado poco, es posible que se te ofrezca una oportunidad para promoverlos que podría conducirte a una obtener mayor publicidad en el futuro. Alternativamente, una historia de amor podría volverse más apasionada e intensa. En ese caso, sin embargo, no te precipites. Tómate tu tiempo y espera un par de semanas antes de involucrarte.
 
 ## Dinero
 
-Estás pasando por una etapa de echar raíces nuevas. Estás pensando en dónde quieres estar en los próximos cinco o diez años en el futuro. Si tu trabajo no está funcionando para ti, las inversiones o la propiedad que posees con al menos una persona podrían ser una respuesta. Vende lo que no sea necesario para financiar este movimiento y te lleve a donde quieras estar.
+Tu lugar de trabajo está lleno de acción con ciertos cambios que vienen desde arriba. Algunos de estos son de rutina, mientras que otros parecen positivamente revolucionarios. En lugar de instalarte en la necedad, trata de seguirle la corriente al flujo de la energía dominante. Podrías percatarte de que personalmente puedes beneficiarte en el plano financiero. Esto, a su vez, te da acceso a todo tipo de información que puede ayudarte a mejorar tu vida profesional.

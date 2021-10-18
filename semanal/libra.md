@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 11 de octubre 2021 al 17 de octubre 2021 
-description: Horóscopo semanal libra 11 de octubre 2021 al 17 de octubre 2021. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+title: libra 18 de octubre 2021 al 24 de octubre 2021 
+description: Horóscopo semanal libra 18 de octubre 2021 al 24 de octubre 2021. Crece Libra, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-11'
+ lastmod: '2021-10-18'
 ---
 
 
 
-## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+## Crece Libra, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 
-Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
-Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
-Las influencias sociales son particularmente fuertes ahora, haciendo de esta una semana perfecta para la creación de contactos, citas amorosas y diversión en general. Puedes acelerar el progreso de un nuevo romance al darle a tu interés amoroso toda tu atención. ¡Si algo tienes tú es que sabes cómo divertirte! Compartir con tu interés amoroso toda esta diversión puede ayudarles a tener más intimidad de la que esperabas. A partir del Domingo, tómate tiempo para relajarte y reflexionar. ¡Hacerlo te hará mucho bien!
+Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
+ sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
+Comprar artículos para tu hogar podría ser divertido y el animado enlace Sol/Urano podía ayudarte a encontrar artículos a muy buen precio. Puede que también te apoderes de un artículo que tenga el potencial de resolver al menos una cuestión doméstica o relacionada con tu cocina. Conforme Venus entra a tu sector de romance más adelante en la semana, prepárate para un fin de semana lleno de diversión. Si tienes planeada una cita, tal podría ser muy especial por muchos motivos.
 
 ## Dinero
 
-Eres casi como una pantalla en la que otros pueden proyectan sus esperanzas, miedos, logros y mucho más. Esto te permite ser quien quieras ser esta semana también. Así que si quieres un mejor trabajo o una posición en la cadena alimenticia desde donde estás ahora, actúa como si ya fuera tuyo. Ciertos aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y poder guardar algo para el futuro.
+El Universo está pidiendo que te impongas en el sector de deuda, haciendo arreglos de pago, enviando cheques y destruyendo viejas tarjetas de crédito. Mientras tanto, hay mensajes importantes en tus sueños y flashes psíquicos. Conforme muestras tu formidable ambición, no te olvides de la justicia kármica. Trata a los demás en la forma en la que te gustaría ser tratado/a en la misma posición.

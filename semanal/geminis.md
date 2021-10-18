@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 11 de octubre 2021 al 17 de octubre 2021 
-description: Horóscopo semanal geminis 11 de octubre 2021 al 17 de octubre 2021. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+title: geminis 18 de octubre 2021 al 24 de octubre 2021 
+description: Horóscopo semanal geminis 18 de octubre 2021 al 24 de octubre 2021. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-11'
+ lastmod: '2021-10-18'
 ---
 
 
 
-## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 
-Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro Géminis, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Géminis, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
-Trata de evitar un malentendido el lunes. Tú, tu pareja o una amistad podría terminar malentendiendo cierta situación. Tomarte tiempo para lidiar con esto debería aclarar todo en pocos días. Aunque tienes ansias de progresar en tu trabajo, no te apresures a tomar ninguna decisión, ya que cualquier nueva información que surja podría cambiarlo todo. A pesar de algunos contratiempos, la positiva actitud de alguien podría ayudarte a relajarte y sentirte mejor. Y no te preocupes por pedir exactamente lo que quieres, ¡ya que hay una muy buena posibilidad de que lo consigas!
+Quizás deberías dejar de planear todo ahora Géminis, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien Géminis, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
+La semana tiene un placentero comienzo, ya que las amistades y los socios probablemente estarán en contacto. Disfruta de la compañía de una persona especial o de un interés romántico. Las oportunidades de romance están allí para que las aproveches. Debido a que el conversador Mercurio sigue retrógrado, trata de no tener demasiadas expectativas. Si puedes, es mejor ir con la corriente. Cuando el dinámico Marte ingresa a un sector más privado de tu carta, podrías descubrir que tus sueños son más vívidos y que tal vez valga la pena tenerlos en cuenta.
 
 ## Dinero
 
-Es una semana complicada para ti aunque las cosas parezcan estar bien, sobre todo cuando se trata de tu relación. Vas avanzando en tus uniones con los sindicatos profesionales y personales y todo es bueno en ese frente. Sin embargo, los aspectos que afectan a tu carrera hacen que sea difícil ver el bosque por los árboles. Tómate el tiempo necesario para establecer un camino claro hacia tus metas.
+Un sentimiento de expansión y repentina revelación podría darte una idea que simplemente no puedas contener. Ya que hay cierta actividad en tu sector de relaciones serias y matrimonio, las mejores nociones de hacer dinero pueden provenir de estas áreas. Crea una lluvia de ideas con respecto al matrimonio y la familia y puede que formules una idea para un libro, programa de entrenamiento, o un producto de mucho interés. Venderlo no va a ser difícil.
