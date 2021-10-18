@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de octubre 2021
-description: Horóscopos del dia de hoy 17 de octubre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de octubre 2021
+description: Horóscopos del dia de hoy 18 de octubre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-10-17
+ lastmod: 2021-10-18
 ---
-Es más difícil establecer límites el día de hoy. Las cosas se vuelven un poco borrosas cuando Neptuno se torna retrógrado. Para las parejas, la paciencia es la clave esta noche bajo la Luna en Tauro. Para los solteros, el poder de atracción es fuerte. Si bien las cosas tienden a ser de larga duración bajo la Luna en Tauro, solo el tiempo dirá si pondrás tu fe en alguien.
+Neptuno da un gran salto hacia adelante para volverse directo el día de hoy. La gente es más específica y hay menos ocasiones para la evasión, la vaguedad y la superficialidad. Esta noche, Venus, el planeta del amor, inspira coquetería con el aspecto oportuno que forma con Neptuno. Pasa una velada agradable, cuando el buen espíritu es contagioso.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
