@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de octubre 2021
-description: Horóscopos del dia de hoy 20 de octubre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de octubre 2021
+description: Horóscopos del dia de hoy 21 de octubre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-10-20
+ lastmod: 2021-10-21
 ---
-Hoy podías sentir una fuerte necesidad de ir a lugares y hacer cosas mientras Júpiter haga ambos, te sacuda y te motive. Y debido a la presencia de Venus, date un regalo y haz un par de cosas que quisiste hacer pero que sentiste no tener tiempo de hacer. Por la noche, sal a socializar bajo la Luna en Géminis.
+Podría haber obstáculos hoy. En el lado positivo, puedes hacerles frente justo a la cara y alcanzar el éxito conforme el Sol cuadra al suertudo Júpiter. Esta noche, utiliza el momento oportuno ofrecido por el oportuno trígono entre la Luna y el poderoso Marte. Tienes un poco de suerte de tu lado.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
