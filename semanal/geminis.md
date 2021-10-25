@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: geminis 18 de octubre 2021 al 24 de octubre 2021 
-description: Horóscopo semanal geminis 18 de octubre 2021 al 24 de octubre 2021. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+title: geminis 25 de octubre 2021 al 31 de octubre 2021 
+description: Horóscopo semanal geminis 25 de octubre 2021 al 31 de octubre 2021. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_geminis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-18'
+ lastmod: '2021-10-25'
 ---
 
 
 
-## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
 
-Quizás deberías dejar de planear todo ahora Géminis, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien Géminis, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
-La semana tiene un placentero comienzo, ya que las amistades y los socios probablemente estarán en contacto. Disfruta de la compañía de una persona especial o de un interés romántico. Las oportunidades de romance están allí para que las aproveches. Debido a que el conversador Mercurio sigue retrógrado, trata de no tener demasiadas expectativas. Si puedes, es mejor ir con la corriente. Cuando el dinámico Marte ingresa a un sector más privado de tu carta, podrías descubrir que tus sueños son más vívidos y que tal vez valga la pena tenerlos en cuenta.
+Necesitas amor Géminis, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a Géminis es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
+Te prepararás para tomarte tiempo libre en las próximas semanas, y los próximos días no serán una excepción. Con un alegre enfoque en tu sector hogareño y familiar, este es el momento ideal para aprovechar la oportunidad para descansar y relajarte; así como pasar tiempo con aquellos que son más cercanos a ti. Y con la Luna Nueva del viernes en este mismo sector, puede que sientas motivación a darle un tu hogar un cambio de imagen o a limpiar el desorden. Si tienes artículos que vender, también podrías hacer algo de dinero.
 
 ## Dinero
 
-Un sentimiento de expansión y repentina revelación podría darte una idea que simplemente no puedas contener. Ya que hay cierta actividad en tu sector de relaciones serias y matrimonio, las mejores nociones de hacer dinero pueden provenir de estas áreas. Crea una lluvia de ideas con respecto al matrimonio y la familia y puede que formules una idea para un libro, programa de entrenamiento, o un producto de mucho interés. Venderlo no va a ser difícil.
+Esta semana se trata de alguien que conoces probablemente dirigiéndote a un mal camino o distrayéndote mucho de tus metas monetarias o laborales dificultando tu balance. No puedes evitar ser irresistible, pero bien puedes utilizar la energía del Universo a mitad de semana. Tu atención debe estar en la eliminación de viejas deudas.

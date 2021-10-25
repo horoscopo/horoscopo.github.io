@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 18 de octubre 2021 al 24 de octubre 2021 
-description: Horóscopo semanal libra 18 de octubre 2021 al 24 de octubre 2021. Crece Libra, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+title: libra 25 de octubre 2021 al 31 de octubre 2021 
+description: Horóscopo semanal libra 25 de octubre 2021 al 31 de octubre 2021. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-18'
+ lastmod: '2021-10-25'
 ---
 
 
 
-## Crece Libra, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 
-Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
- sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
-Comprar artículos para tu hogar podría ser divertido y el animado enlace Sol/Urano podía ayudarte a encontrar artículos a muy buen precio. Puede que también te apoderes de un artículo que tenga el potencial de resolver al menos una cuestión doméstica o relacionada con tu cocina. Conforme Venus entra a tu sector de romance más adelante en la semana, prepárate para un fin de semana lleno de diversión. Si tienes planeada una cita, tal podría ser muy especial por muchos motivos.
+Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas Libra. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva Libra. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien Libra, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+Mientras Marte continúa su recorrido a través de tu sector hogareño, puede que sientas muchas ganas de embarcarte en algunos proyectos de manualidades y ordenar todo en general. Y con las dificultades de la última semana fuera del camino, es posible que te prepares para enfrentarte a cualquier tarea pendiente. Además, Mercurio ahora en tu sector de recreación crea una positiva conexión con Júpiter, lo que podría animarte a tomarte un tiempo para relajarte e invitar a amistades o seres queridos a que te acompañen.
 
 ## Dinero
 
-El Universo está pidiendo que te impongas en el sector de deuda, haciendo arreglos de pago, enviando cheques y destruyendo viejas tarjetas de crédito. Mientras tanto, hay mensajes importantes en tus sueños y flashes psíquicos. Conforme muestras tu formidable ambición, no te olvides de la justicia kármica. Trata a los demás en la forma en la que te gustaría ser tratado/a en la misma posición.
+¡Esta semana la belleza está en el aire a lo grande! Puede que tu vida hogareña necesite de un poco de arreglo, por lo que no debería de haber vergüenza en gastar un poco de tu dinero duramente ganado en ese sector. Además, hay vida en tu sector de inversiones compartidas. Entrar en el mercadeo  con una amistad podría ser el truco que funcione.

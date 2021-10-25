@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: tauro 18 de octubre 2021 al 24 de octubre 2021 
-description: Horóscopo semanal tauro 18 de octubre 2021 al 24 de octubre 2021. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: tauro 25 de octubre 2021 al 31 de octubre 2021 
+description: Horóscopo semanal tauro 25 de octubre 2021 al 31 de octubre 2021. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_tauro.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-18'
+ lastmod: '2021-10-25'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 
-A veces amas demasiado Tauro, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar Tauro, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. Tauro, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. Tauro, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos Tauro, y siente… Feliz semana…
-La próxima semana podría estar llena de interacciones sólidas que forman nuevas relaciones y profundizan las que ya tienes. Las opciones de placer y recreación también podrían acercarte más a otras personas y puede que tengas ganas de divertirte junto con ellas. Quizá quieras colaborar con ciertas personas en nuevos proyectos y esto puede darte buenos resultados. Puede que debas ponerte firme, ya que un fuerte vínculo entre Venus y Plutón sugiere que quizá otra persona trate de salirse con la suya. 
+Hace mucho tiempo que no te das un buen capricho Tauro, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes Tauro. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
+Pareces estar disfrutando del ambiente festivo, con muchas oportunidades para reunirte con amigos y familiares. Si estás organizando una fiesta de oficina, esta semana podría ser memorable debido a uno o dos encuentros. Sin embargo, debido a la Luna Llena alcanzando su punto máximo, trata de no hacer nada de lo que pudieras arrepentirte más tarde. El 25 de $MES podrías disfrutar de algo de tiempo de descanso con tus personas más cercanas. Finalmente, Urano saliendo de su retroceso significa que tu vida social comienza a estabilizarse.
 
 ## Dinero
 
-Hay cierta limitación en tu carrera esta semana. No sólo porque puede que el trabajo que hagas se evapore (sólo un poco), pero también se te podría llamar a asumir una mayor parte de la carga. El Universo está pidiendo que te vuelvas más responsable y con autoridad en esta área. Tus relaciones pueden necesitar un mayor desarrollo antes de que puedan ofrecerte lo que quieres y necesitas de ellas económicamente.
+Esta semana es sobre la actividad que hay en tu sector de deuda. Si has estado pensando en formular un plan de pago con respecto a algunas facturas vencidas, ponlo en marcha tan pronto como puedas. Si necesitas solicitar una nueva tasa de interés en tu tarjeta de crédito, tienes el suficiente apoyo para hacerlo. El Universo insiste en que actúes y no dejes las cosas al azar. No es cosa de risa.

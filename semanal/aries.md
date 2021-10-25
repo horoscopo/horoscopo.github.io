@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: aries 18 de octubre 2021 al 24 de octubre 2021 
-description: Horóscopo semanal aries 18 de octubre 2021 al 24 de octubre 2021. Sumisión contigo van a encontrar poca ahora Aries… Muy poca.
+title: aries 25 de octubre 2021 al 31 de octubre 2021 
+description: Horóscopo semanal aries 25 de octubre 2021 al 31 de octubre 2021. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_aries.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-18'
+ lastmod: '2021-10-25'
 ---
 
 
 
-## Sumisión contigo van a encontrar poca ahora Aries… Muy poca.
+## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 
-Deja que duela Aries, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser Aries estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien Aries pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida Aries, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
-Deberías presumir tus talentos y habilidades y dejar que el mundo sepa de lo que eres capaz. Sigue el ejemplo de Leo y disfruta de promover tus bienes y servicios, ya que este podría ser un excelente momento para progresar. Mientras más disfrutes de estar en el centro de atención, más provecho podrás sacarle a las oportunidades que pueden aparecer en tu camino. Este no es un momento para trabajar detrás de escenas sino para involucrarte en especial con aquellos que pueden ayudarte a progresar más.
+Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
+La presente se vislumbra una semana de mucho trabajo, pero podría volverse aún más ocupada una vez que Mercurio entre a tu sector profesional y de responsabilidades. Con un enfoque muy positivo en la parte superior de tu carta, es posible que te estés preparando para lograr un objetivo o hacer un cambio de carrera. Para ello tendrás que mostrar cooperación, diplomacia y encanto. Si te comportas demasiado egoístamente, podías cerrarle la puerta a una oportunidad que podría ser muy buena para ti.
 
 ## Dinero
 
-Puede que estés atrapado/a en una situación de tensión esta semana. Puede que ambos, tu lado masculino y femenino tengan que ser abordados al considerar una nueva forma de ganar, ahorrar o gastar tu dinero en efectivo. Piensa con pragmatismo, mientras que aprecias y disfrutas las cosas buenas de la vida mientras piensas que podrías acostumbrarte a ellas.
+Estudiando tu sector de profesión, estás disfrutando de un poco de impulso en esta área. Nuevos proyectos pueden aterrizar en tus manos. Si juegas bien tus cartas, podrías llegar a obtener un ascenso o promoción si muestras lo mucho que puedes llegar a hacer. Se indica que viene un cambio repentino, tal vez una transformación en tu rutina diaria. Si no tienes seguridad acerca de tu trabajo actual, piensa en qué más podrías hacer para ganar más dinero.

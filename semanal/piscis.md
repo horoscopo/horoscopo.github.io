@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: piscis 18 de octubre 2021 al 24 de octubre 2021 
-description: Horóscopo semanal piscis 18 de octubre 2021 al 24 de octubre 2021. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+title: piscis 25 de octubre 2021 al 31 de octubre 2021 
+description: Horóscopo semanal piscis 25 de octubre 2021 al 31 de octubre 2021. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -12,17 +12,16 @@ ogimg: /images/zodiac/semanal_piscis.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-18'
+ lastmod: '2021-10-25'
 ---
 
 
 
-## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+## Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
 
-Para alcanzar la felicidad, TÚ FELICIDAD, 
-y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible…
-Te surgen abundantes oportunidades comerciales, dando lugar a aventureras ideas. Unir tus recursos con una o dos personas podría facilitarte avanzar y aumentar tus ganancias. Esto no va a suceder de la noche a la mañana, pero sí te ayudará crear una buena estrategia y encontrar a las personas adecuadas con las cuales asociarte. El Sol entra a tu sector profesional el viernes, animándote a socializar con gente que pudiera tener poderosas conexiones. Además, ¡este fin de semana podrías toparte con un pequeño golpe de suerte!
+Nadie se cura por herir a otro Piscis. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
+Este podría ser un momento decisivo en relación a un deseo de ampliar tus horizontes. Si has estado investigando tus opciones, es posible que tomar una clase te interese como forma de mejorar tus posibilidades en el mercado laboral. Las aventuras de viaje podrían darte una nueva perspectiva de vida que afecte tus opciones y personalidad. Mercurio entra a Libra el Jueves, significando que podrías estar reflexionando sobre ciertos objetivos profesionales de una nueva y fresca manera, junto con lo que tienes que hacer para alcanzarlos. Sin embargo, ¡la Luna Llena del Sábado podría confundirte!
 
 ## Dinero
 
-Te enfrentas a una semana de crecimiento financiero. Usualmente te inclinas a la organización con respecto al gasto y esta puede ser una gran semana para discutir la ejecución presupuestaria y revisarla. ¿El actual está trabajando para ti o es necesario algún ajuste? Puede ser útil el registrarse en un servicio de banca en línea o usar herramientas en línea para calcular lo que necesitas para tu jubilación.
+Los planetas quieren hacer de ti una persona hermosa y magnética, un imán de gente, situaciones y oportunidades para que puedas cumplir con tus metas y sueños esta semana. Te piden que construyas confianza en ti mismo/a y que ajustes la manera en la que te expones al mundo. Cuanto más te abras a aprender de las experiencias nuevas, más fácil será tener acceso a oportunidades. Piensa en ello.

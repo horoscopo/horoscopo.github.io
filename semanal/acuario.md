@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: acuario 18 de octubre 2021 al 24 de octubre 2021 
-description: Horóscopo semanal acuario 18 de octubre 2021 al 24 de octubre 2021. Llega una buenísima semana Acuario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+title: acuario 25 de octubre 2021 al 31 de octubre 2021 
+description: Horóscopo semanal acuario 25 de octubre 2021 al 31 de octubre 2021. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
@@ -12,16 +12,16 @@ ogimg: /images/zodiac/semanal_acuario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-18'
+ lastmod: '2021-10-25'
 ---
 
 
 
-## Llega una buenísima semana Acuario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 
-Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo Acuario, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no Acuario, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
-La fiebre de salir a gastar podría apoderarse de ti al comienzo de la semana conforme la Luna Llena te anima a gastar en objetos que has codiciado desde hace algún tiempo. Puede que decidas que los quieres comprar sin importar qué suceda, y si es así, pues no te queda más que también disfrutar de ellos. La comunicación es la clave mientras el Sol se une a Venus en tu sector de conversación y pensamiento, lo que podría inspirarte a ponerte en contacto con miembros de tu familia o cualquier otra persona que no hayas visto en mucho tiempo.
+Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
+Estás en esa época del año en la que es bueno relajarte y recargar baterías. Aprovecha esta oportunidad para sintonizar con el deseo de tu corazón e ignorar las distracciones del mundo exterior. Conforme Venus entra a Leo estarás más en contacto con tus valores fundamentales, lo que podría ayudarte a tomar una decisión clave. Aun así, te ayuda mantenerte a un ritmo lento, sobre todo si tu vida social o profesional es altamente activa ahora. Lograrás hacer más cosas si aligeras tu horario y te centras en lo que requieres hacer.
 
 ## Dinero
 
-El dinero puede ser un punto de fricción para ti. Por un lado, deseas la seguridad que el dinero puede proporcionarte. Por otro lado, quieres sentirte en control, y el dinero es raramente controlable. La buena noticia es que hay un montón de energía positiva concentrada en tu sector de dinero. Con acción y un poco de suerte, debería ser fácil ganar dinero en este momento.
+¡Vas con todo esta semana! Esto proporciona una gran explosión de energía destinada a mejorar tu publicidad para atraer a nuevos compradores o esfuerzos de ganar dinero, como iniciar un nuevo negocio. Si estás buscando una nueva posición, primero pregunta sobre el salario para que no te decepciones después de haber hecho la entrevista. Un aspecto inarmónico podría significar que la familia y el romance se ponen en segundo plano durante un tiempo.
