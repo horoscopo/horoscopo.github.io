@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo capricornio octubre 2021 
+title: Horoscopo capricornio noviembre 2021 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
@@ -14,11 +14,8 @@ sitemap:
 ---
 
 
-El 2 de octubre, Mercurio forma una cuadratura con Plutón. Puedes enfrentarte a un problema que no tiene respuestas, al menos no por ahora. Sé paciente, y no te dejes aturdir. 
-Venus se torna retrógrado el día 5. Puede que el amor vaya más lento, pero eso puede ser algo bueno. Tienes más tiempo para pensar bien las cosas. 
-Tanto tu cabeza como tu corazón quieren recibir cariño durante la luna nueva del 8 de octubre. Haz cosas divertidas e interesantes. Vuélvete una persona más creativa y divertida sin ser demasiado audaz o imprudente. 
-Mercurio sale de Libra y entra a Escorpión el día 9. Tómate más en serio la manera en que pasas tiempo con los demás. 
-Siéntete más a gusto y estable en tu rutina diaria cuando la luna llena brilla el 24 de octubre. Si tienes cualquier duda arraigada que necesitas despejar, mantén la calma, y mira cómo las soluciones aparecen de la nada. Sé feliz, y trátate bien. 
-Mercurio entra a Sagitario el día 30. 
-Días destacados: 12, 15, 29
-Días desafiantes: 10, 19
+La luna nueva en tu signo justo cuando Urano entra a Tauro sugiere un poderoso comienzo personal para ti, que abre tu mente a nuevas posibilidades. Puede que no creas en lo que aprendes, pero debes tener la disposición para descubrirlo. Este es un proceso de siete años de destruir falsas creencias, percepciones y dualidades mentales, a medida que abres los ojos a una realidad más valiosa y verdadera de unidad. La única división está en la mente, y no hay ninguna otra, solo está el ego. 
+Pero presta atención a las acciones en lugar de solo escuchar las palabras. Sé fiel a tus valores sobre todo lo demás, y luego podrás tomar decisiones compasivas para reequilibrar el poder en una situación. 
+Eres una persona visionaria, y estás aprendiendo a usar tu poder para manifestar lo que ves en tu imaginación. Una idea genial tiene potencial de realización. Algo no es tan imposible como piensas. Algunos dirán que perdiste la cabeza, pero no necesitas convencer a nadie de nada. Eventualmente verán la luz. Libera tu mente, innova, y atrévete a vivir tu verdad. 
+Días destacados: 10, 14, 21
+Días desafiantes: 1, 6, 13

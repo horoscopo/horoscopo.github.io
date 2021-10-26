@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo virgo octubre 2021 
+title: Horoscopo virgo noviembre 2021 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Puede que te encuentres queriendo tener más actividad social conforme Mercurio entra a Libra el 7 de octubre. Rodéate de amigos. La Luna Llena del 15 de octubre ilumina tu situación financiera. Otra persona podría descubrir o aprender un detalle que tú necesitas con el fin de aclarar un pequeño misterio monetario. Alternativamente podrías recibir un regalo. Tus amigos y familia cercana significan mucho en torno a los días de la Luna Nueva del 30 de octubre. Puede que pienses globalmente, pero las preocupaciones y placeres de tu vecindario merecen más atención y serán más satisfactorios. Encuentra algo - o a alguien - nuevo qué amar que tal vez se encuentre a la vuelta de la esquina. Esta podría ser la respuesta a un modesto sueño.
+Las finanzas son resaltadas con la Luna Nueva del 2 de noviembre. Si te surge la tentación de gastar en exceso en la compra de un artículo para tu hogar, haz una lista primero. Sin embargo, no te prives por completo. Un toque de glamour o extravagancia serían buena idea también. Para cuando llegue la Luna Llena del 18 de noviembre, ya te habrás preparado para cualquier cosa. Aborda un molesto problema que ya no parece ser tan grave o serio. Mientras menos pienses o agonices sobre ciertas cosas, más fáciles se volverán. No dudes de ti. El 28 de noviembre se vislumbra un día muy dulce con la Luna en Cáncer formando sextil tanto con Mercurio como Venus. El coqueteo podría estar en el aire y los actos de bondad podrían ser más abundantes.

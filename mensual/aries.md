@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo aries octubre 2021
-description: El Horóscopo octubre de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo aries noviembre 2021
+description: El Horóscopo noviembre de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/aries/
 amplink: /horoscopo-mensual/amp/aries/
 home: FALSE
-keywords: horóscopo octubre, horoscopos en español, horóscopo aries octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo noviembre, horoscopos en español, horóscopo aries noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
@@ -16,4 +16,7 @@ sitemap:
 ---
 
 
-Tus preocupaciones profesionales e imagen pública son destacadas de todas las mejores maneras posibles durante la primera semana del mes. El Eclipse Solar de Luna Nueva del 1 de octubre podría proporcionarte la gran oportunidad que has estado esperando. A mediados de mes, sé realista acerca de tus preocupaciones familiares. Valora lo que funciona para todos y no esperes perfección por parte de nadie. El Eclipse de Luna Llena del 16 de octubre sugiere que un pariente podría estar ocultando preocupaciones. Dale a la gente espacio, así como amor, y recibirás a cambio lo mismo. Los buenos momentos abundarán bajo la Luna Nueva del 30 de octubre. Vístete bien y satisface tus caros caprichos, pero respeta tu presupuesto.
+Alrededor de la luna nueva del día 15, tal vez tu situación laboral o profesional se desvía, pero en una dirección mucho mejor. Estarás mucho más feliz con esto. Sujétate fuerte, y no tengas vergüenza de demostrar tus propias habilidades o experiencia. El día 21, la luna en Cáncer forma un trígono con el soñador Neptuno, y luego con el generoso Júpiter. Podría ser un fin de semana romántico. Tal vez no está en tus planes o presupuesto una recreación o entretenimiento alrededor de la luna llena del 29 de noviembre, pero podría suceder de todas formas. Quizás sea un regalo sorpresa de una persona (o grupo) que te aprecia más de lo que te imaginas. 
+
+Días destacados: 12, 17, 30
+Días desafiantes: 7, 21

@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo cancer octubre 2021 
+title: Horoscopo cancer noviembre 2021 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Quizás te sientes bajo amenaza o en alguna especie de riesgo durante la Luna Llena y el Eclipse Lunar el 7 de octubre. Respira profundo y no te imagines lo peor. Todo está bien. Hay chances de que te estén comparando con algún estándar alto imposible de alcanzar. Haz lo mejor que puedas y no te arrepientas de nada. La Luna forma una conjunción con Venus en Cáncer el 18 de octubre, y verás que los corazones que te rodean se ablandan. La Luna Nueva y el Eclipse Solar total del 21 de octubre iluminan tu mundo financiero y posesiones materiales. Sé prudente con tus gastos, y predisponte tanto a recibir como a dar en grandes cantidades. 
+¡La Luna Nueva del 7 de noviembre presagia gran alegría y diversión! Tu niño interior se encontrará muy cerca de la superficie ahora, y puede que sientas muchas de esas emociones infantiles que resultan de comportarte más creativa y atrevidamente. Las posesiones materiales podrían asumir una mayor importancia durante la Luna Llena del 21 de noviembre. Puede que hasta se te ofrezca más de lo que realmente quieres o puede que encuentres un nuevo hogar para ese especial artículo o herencia que ha dejado de ser parte de tu vida. Al final del mes, podrás atar un montón de cabos sueltos fácilmente mientras la Luna forme trígono con Júpiter el 27 de noviembre.   

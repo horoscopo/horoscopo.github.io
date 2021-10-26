@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo tauro octubre 2021 
+title: Horoscopo tauro noviembre 2021 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
@@ -14,9 +14,4 @@ sitemap:
 ---
 
 
-La oposición entre Mercurio y Marte el 5 de octubre podría evitar que una relación o proyecto se salga de control. La luna nueva y el eclipse solar del día 12 te dan la oportunidad para ser la persona más sabia del lugar, sin demasiado esfuerzo o insistencia de tu parte. Ten cuidado extra con lo que dices y a quién se lo dices. La gente escucha lo que dices y ve lo que haces. 
-
-Un asunto profesional podría complicarse alrededor de luna llena y eclipse lunar del 27 de octubre. Podría haber cables cruzados o preguntas adicionales que retrasen la posibilidad de conseguir un empleo o promoción. Apégate a lo básico y pisa sobre seguro. 
-
-Días destacados: 4, 12, 21
-Días desafiantes: 1, 16</div>
+Tu fin de semana del 4 de noviembre podía estar lleno de gente, diversión y fiestas. Compórtate segura y razonablemente en los días anteriores a la Luna Nueva, especialmente en público. Posteriormente, relájate y deja que la fiesta arremoline a tu alrededor. Tu vida social será alegre y candente bajo la luz de la Luna Llena del 19 de noviembre, cuando podrías sorprender a mucha gente que no está esperando que te permitas disfrutar de mucho. Aprovecha al máximo todos los buenos momentos. El trígono entre la Luna y Neptuno del 31 de noviembre podría traer consigo románticos días llenos de sueños y deseos, de los cuales, pocos podrían hacerse realidad; lo cual no está nada mal.

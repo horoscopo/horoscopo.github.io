@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo sagitario octubre 2021 
+title: Horoscopo sagitario noviembre 2021 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-Déjate llevar por tus sueños cuando el Sol conjunte con Neptuno el 1 de octubre. No te hará mal recordar tus deseos más intensos. La Luna Llena del 12 de octubre centra la atención en tu vida amorosa. Te ves fenomenal e irresistible en este momento, sin importar como te sientas por dentro. Sonríe y deja que el amor haga su magia en todo lo que dices y haces. Puede que tu situación financiera mejore a medida que la Luna Nueva se acerca el 27 de octubre. Puede que una retribución que hace tiempo esperabas y un reembolso considerable se materialicen. O puede que recibas un aumento en tu salario. No es necesario que gastes más dinero, pero puede que lo hagas. De todas maneras, busca maneras en que el dinero fluya a tu favor.
+El romance ilumina la primera semana del mes. Es posible que estés pensando en dulces pero viejos recuerdos cuando un nuevo y brillante amor aparezca. El Eclipse Solar de Luna Nueva del 1 de noviembre sugiere que conexiones kármicas podrían hacerse durante estos días. Sin embargo, el Eclipse de Luna Llena del 16 de noviembre podría hacerte sentir nervios. Cálmate y confía en tus buenos instintos tanto como tu razón. Las decisiones correctas podrían no hacerse evidentes inmediatamente. Siente las cosas con confianza. La Luna Nueva del 30 de noviembre te posiciona para ser aquella persona que tenga todas las respuestas. Cuida tus propias necesidades en primer lugar y luego sé útil si alguien te pide ayuda.
