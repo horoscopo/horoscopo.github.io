@@ -15,7 +15,7 @@
     
     function oraculo(){
       //var question = document.getElementById('question');
-      question = $("#question").val();
+      let question = $("#question").val();
       
       if (!question){
 	return false;
