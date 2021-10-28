@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de octubre 2021
-description: Horóscopos del dia de hoy 27 de octubre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de octubre 2021
+description: Horóscopos del dia de hoy 28 de octubre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-10-27
+ lastmod: 2021-10-28
 ---
-Esta es tu última oportunidad durante las pocas horas restantes de disponibilidad en las que Marte se encontrará en Géminis. No ignores los puntos esenciales. El reloj está avanzando. Los solteros entran al mundo de la regla de los 30 segundos bajo la Luna fuera de órbita en Virgo de esta noche, ofreciéndoles poca oportunidad de defenderse a aquellos que sean plásticos o falsos.
+Si decides posponer algo y dices que volverás a ello en un minuto mientras Mercurio está a punto de cambiar de signo, ese minuto es ahora. La noche de hoy es el epicentro de un circo con su laberinto de pasiones y conflictivos deseos. Pista: Contar hasta diez te da diez segundos para calmarte y pensar en ello.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
