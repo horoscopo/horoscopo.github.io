@@ -43,7 +43,10 @@
     
     //Ejecuto el Oraculo con el enter presionado o haciendo click en el boton
     function enter_pressed(e){if(e.keyCode==13){oraculo();}}
-    $("#question").keydown(function(e){enter_pressed(e);});
+    
+    const question = document.getElementById('question');
+    question.addEventListener('keydown', enter_pressed);
+    // $("#question").keydown(function(e){enter_pressed(e);});
     document.getElementById('consultar').onclick = oraculo;
 
     document.getElementById('retry').onclick = retry;
