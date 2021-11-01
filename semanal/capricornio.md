@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: capricornio 25 de octubre 2021 al 31 de octubre 2021 
-description: Horóscopo semanal capricornio 25 de octubre 2021 al 31 de octubre 2021. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Capricornio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: capricornio 01 de noviembre 2021 al 07 de noviembre 2021 
+description: Horóscopo semanal capricornio 01 de noviembre 2021 al 07 de noviembre 2021. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Capricornio, pero sé constante.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
@@ -12,17 +12,17 @@ ogimg: /images/zodiac/semanal_capricornio.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-25'
+ lastmod: '2021-11-01'
 ---
 
 
 
-## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Capricornio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Capricornio, pero sé constante.
 
-Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
- No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
-Tu sector social sigue luciendo optimista. Esto te anima a hacer algunos cambios y considerar salir a socializar más. Y con Mercurio retrógrado, puede que descubras que algunas viejas amistades regresan a tu vida, brindándote la oportunidad de retomar desde donde dejaron. Sin embargo, un muy potente enfoque en tu sector profesional que involucra al expansivo Júpiter y al dinámico Marte hace que todo luzca definitivamente bien en esta área. Mientras tanto, la luna nueva del domingo te alienta a moverte hacia nuevos círculos sociales.
+Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
+Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
+Si algunas amistades han cambiado su estilo de vida de forma efectiva, puede que quieras seguir su ejemplo. Pasar tiempo con ellas en un bar de jugos o explorar maneras saludables de comer puede ayudarte a sentir una energía fresca y revitalizada, especialmente si decides integrar estos hábitos en tu vida. Además, la Luna Llena del viernes puede ser una gran oportunidad para que organices una reunión memorable. Sin embargo, recuerda hablar con tacto.
 
 ## Dinero
 
-Provees un par de ojos frescos a los acontecimientos de esta semana con actividad en tu sector de apariencias. Una amistad puede tener una sugerencia útil sobre cómo ganar más dinero o conseguir la promoción que has estado buscando. Incluso si no piensas igual, escucha a esta persona. Tal ve esta situación con más claridad que tú. Se te pide traer un lado mucho más serio de tu personalidad a la mesa.
+Es posible que sientas un urgencia grave esta semana - de viajar, aprender algo nuevo, de hacer una amistad en el extranjero, o hablar un nuevo idioma. Cada uno de estos tiene una ventaja única para tu vida monetaria en el futuro, así que vale la pena checar qué es lo que te parece más interesante. Puede que no puedas resistirte a hacerlo de todas maneras ya que tu vida social podría bajar de ritmo lo suficiente para que puedas hacer estas cosas.

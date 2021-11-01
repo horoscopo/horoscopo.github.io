@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: libra 25 de octubre 2021 al 31 de octubre 2021 
-description: Horóscopo semanal libra 25 de octubre 2021 al 31 de octubre 2021. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: libra 01 de noviembre 2021 al 07 de noviembre 2021 
+description: Horóscopo semanal libra 01 de noviembre 2021 al 07 de noviembre 2021. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_libra.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-25'
+ lastmod: '2021-11-01'
 ---
 
 
 
-## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 
-Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas Libra. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva Libra. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien Libra, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
-Mientras Marte continúa su recorrido a través de tu sector hogareño, puede que sientas muchas ganas de embarcarte en algunos proyectos de manualidades y ordenar todo en general. Y con las dificultades de la última semana fuera del camino, es posible que te prepares para enfrentarte a cualquier tarea pendiente. Además, Mercurio ahora en tu sector de recreación crea una positiva conexión con Júpiter, lo que podría animarte a tomarte un tiempo para relajarte e invitar a amistades o seres queridos a que te acompañen.
+Los finales no significan que hayas fallado en algo Libra, los finales a veces sirven para abrir nuevas puertas a algo. Libra, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza Libra…
+Si al parecer últimamente has tenido más desacuerdos que lo habitual, esto podría deberse al retroceso del fogoso Marte en tu sector de relaciones. Tal vez te resulte más fácil hablar honestamente, incluso si no es lo que la otra persona quiere escuchar. Esta fase terminará más adelante en el mes. Por ahora, tienes la posibilidad de volver a escribir esas reglas tácitas que a menudo rigen las relaciones hasta que las apoyes de manera consciente y las abordes. 
+A medida que el animado Marte ingresa a Urano, puede que sientas tal frustración respecto de una relación actual que decides cortarla, aunque sea por poco tiempo. Pasar algún tiempo a solas puede hacerte bien, y el compartir esta idea con sensibilidad puede ayudar a la otra persona a que acepte tu decisión de mejor manera. Por último, el sol (que continúa en tu signo) puede brindarte la fortaleza necesaria para tomar sabias decisiones.
 
 ## Dinero
 
-¡Esta semana la belleza está en el aire a lo grande! Puede que tu vida hogareña necesite de un poco de arreglo, por lo que no debería de haber vergüenza en gastar un poco de tu dinero duramente ganado en ese sector. Además, hay vida en tu sector de inversiones compartidas. Entrar en el mercadeo  con una amistad podría ser el truco que funcione.
+Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.

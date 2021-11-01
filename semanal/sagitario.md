@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
-title: sagitario 25 de octubre 2021 al 31 de octubre 2021 
-description: Horóscopo semanal sagitario 25 de octubre 2021 al 31 de octubre 2021. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+title: sagitario 01 de noviembre 2021 al 07 de noviembre 2021 
+description: Horóscopo semanal sagitario 01 de noviembre 2021 al 07 de noviembre 2021. Deberías empezar a poner las cosas claras Sagitario, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
@@ -12,16 +12,17 @@ ogimg: /images/zodiac/semanal_sagitario.png
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-10-25'
+ lastmod: '2021-11-01'
 ---
 
 
 
-## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+## Deberías empezar a poner las cosas claras Sagitario, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 
-Al final, sólo te lamentarás de las posibilidades que no tomaste Sagitario así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo Sagitario. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
-Las dificultades podrían comenzar a desaparecer con Mercurio ahora avanzando en tu sector de carrera y propósito de vida. Planes que fueron retrasados ahora pueden ser puestos en acción con una buena probabilidad de que vayan a empezar a materializarse. Es posible que desees analizar más profundamente cierta oportunidad, ya que puede que no sea lo que parece. Pregúntate cuales son tus motivos para involucrarte. La respuesta podría ser muy reveladora. El fin de semana trae la posibilidad de una cita amorosa, junto con una muy útil información.
+Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
+ A veces, te aferras a momentos de felicidad pasajera Sagitario, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
+Tu hogar sigue vislumbrándose ocupado, quizás debido a que te preparas para la siguiente fase de la temporada de cambios. Por ello, para evitar una pelea con tu pareja u alguien más, les ayudaría ponerse de acuerdo sobre el plan tan temprano en la semana como sea posible. Es posible que se les  dificulte llegar a un compromiso a lo largo del fin de semana, cuando una discusión podría convertirse en una batalla de voluntades. Sin embargo, el movimiento de Venus a Escorpio le aporta un toque romántico a los próximos días. No trabajes todo el tiempo con tal de darte la oportunidad de gozar de seductores placeres.
 
 ## Dinero
 
-Tienes un montón de amor y suerte aproximándose a tu sector de relaciones, así como algunas sorpresas y un poco de inestabilidad. El Universo indica  un momento de cambio en tu hogar. Es posible que decidas trabajar por tu propia cuenta ahora si es que encuentras la manera de ganar la misma cantidad que te pagaba tu última posición. Se puede hacer.
+Esta semana se trata de mantener el equilibrio y la cordura. Acude al Universo para obtener información acerca de hacia dónde te diriges - esta semana se encuentra en tu sector de comunicaciones. Tienes que tratar más y hacerte más visible para poder conseguir ese aumento de sueldo, un nuevo trabajo o convencer a alguien para que invierta en tu futuro.
