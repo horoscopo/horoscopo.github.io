@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 01 de noviembre 2021 al 07 de noviembre 2021 
-description: Horóscopo semanal capricornio 01 de noviembre 2021 al 07 de noviembre 2021. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Capricornio, pero sé constante.
+title: capricornio 08 de noviembre 2021 al 14 de noviembre 2021 
+description: Horóscopo semanal capricornio 08 de noviembre 2021 al 14 de noviembre 2021. Capricornio, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png
+ogimg: /images/zodiac/semanal_capricornio.png#2021-11-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-01'
+ lastmod: '2021-11-08'
 ---
 
 
 
-## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Capricornio, pero sé constante.
+## Capricornio, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 
-Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
-Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
-Si algunas amistades han cambiado su estilo de vida de forma efectiva, puede que quieras seguir su ejemplo. Pasar tiempo con ellas en un bar de jugos o explorar maneras saludables de comer puede ayudarte a sentir una energía fresca y revitalizada, especialmente si decides integrar estos hábitos en tu vida. Además, la Luna Llena del viernes puede ser una gran oportunidad para que organices una reunión memorable. Sin embargo, recuerda hablar con tacto.
+Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
+Pareces estar atrayendo leales amistades con una ya existente red de apoyo que te echa porras cuando lo necesitas. El nivel de cooperación que has estado disfrutado parece continuar esta semana. Tanto tu familia como amistades están deseosas de echarte una mano cuando es necesario. Un viaje también podría estar en el horizonte. Ya sea que este tiempo de descanso sea largo o corto, la oportunidad de disfrutar de nuevas imágenes y sonidos puede despertar tu sentido de aventura. ¡El domingo es perfecto para una cita romántica!
 
 ## Dinero
 
-Es posible que sientas un urgencia grave esta semana - de viajar, aprender algo nuevo, de hacer una amistad en el extranjero, o hablar un nuevo idioma. Cada uno de estos tiene una ventaja única para tu vida monetaria en el futuro, así que vale la pena checar qué es lo que te parece más interesante. Puede que no puedas resistirte a hacerlo de todas maneras ya que tu vida social podría bajar de ritmo lo suficiente para que puedas hacer estas cosas.
+Es una gran semana para pensar y planificar. El Universo indica un tiempo de gran actividad mental. Es un momento de gran oportunidad, a partir de los pasos que tendrás que tomar para realizar tus sueños financieros a darte crédito por cosas que ya has logrado. Cierta actividad en tu sector de aprendizaje te llama para que tomes una clase de algo que te inspire.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 01 de noviembre 2021 al 07 de noviembre 2021 
-description: Horóscopo semanal geminis 01 de noviembre 2021 al 07 de noviembre 2021. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: geminis 08 de noviembre 2021 al 14 de noviembre 2021 
+description: Horóscopo semanal geminis 08 de noviembre 2021 al 14 de noviembre 2021. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png
+ogimg: /images/zodiac/semanal_geminis.png#2021-11-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-01'
+ lastmod: '2021-11-08'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-Son muchos los que quieren arruinar tu vida Géminis, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Géminis, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Géminis. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Géminis. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Géminis. Ahora brillas así que, aprovecha. Aprovecha todo.
-Las amistades están en contacto y quieren divertirse. Las oportunidades románticas siguen floreciendo, aunque por ahora es mejor ir con la corriente y no hacer compromisos firmes. Cuanto más te atrevas a conectarte e interactuar, más opciones tendrás para llevar tu vida a nuevos e interesantes niveles. Cuando Marte ingresa a tu sector de carrera y metas el sábado, estarás de humor para organizarte. Incluso podría aumentar un poco tu sentido de la competencia en cuanto a impresionar a quienes están en puestos de autoridad.
+Llegan oportunidades grandes Géminis y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias Géminis, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Géminis, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+El tema central de las próximas semanas tiene que ver con aprovechar al máximo tus recursos. Con un énfasis planetario en tu sector de negocios y recursos compartidos, puede que haya muchas cosas de las que debas encargarte. Esta semana sería de gran ayuda que tengas una idea clara de cuánto es lo que ganas y cuánto es lo que gastas, ya que esto te ayudará a avanzar en tus planes. Es posible que quieras ignorar las dificultades, pero la alineación estelar sugiere que te convendría adquirir un poco de experiencia antes de entrar en acción.
 
 ## Dinero
 
-No eres el ser más paciente de la faz del planeta, pero tu suerte es grande y está a cargo por ahora, así que no te preocupes. Los aspectos están avivando el aprendizaje, incrementando tus oportunidades para incorporar nuevas habilidades. Pueden surgir oportunidades repentinas para divertirte con amigos, familiares y parejas románticas. El dinero se hizo para gastarse, ¿cierto?
+Es un buen momento para utilizar todos sus poderes de concentración y creatividad para pensar en nuevas formas de ganar efectivo. Los aspectos armónicos hace esto posible ahora. Tus redes sociales son de gran valor en este momento, y podrían proporcionarte la oportunidad de adquirir conocimiento de información privilegiada para nuevas oportunidades de empleo en tu campo y así,  grandes oportunidades de aumentos y promociones. Asegúrate de dar las gracias con una divertida celebración.

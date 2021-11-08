@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 01 de noviembre 2021 al 07 de noviembre 2021 
-description: Horóscopo semanal virgo 01 de noviembre 2021 al 07 de noviembre 2021. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Virgo, ahora estás que lo partes.
+title: virgo 08 de noviembre 2021 al 14 de noviembre 2021 
+description: Horóscopo semanal virgo 08 de noviembre 2021 al 14 de noviembre 2021. Cada día que pasa te das más cuenta de que mereces cosas buenas Virgo, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png
+ogimg: /images/zodiac/semanal_virgo.png#2021-11-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-01'
+ lastmod: '2021-11-08'
 ---
 
 
 
-## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Virgo, ahora estás que lo partes.
+## Cada día que pasa te das más cuenta de que mereces cosas buenas Virgo, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
 
-Fíate de ti mismo Virgo, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Virgo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
-Si estás pensando en hacer un viaje, la luna llena te puede incentivar a que lo intentes. Si has estado con varias tareas y quehaceres o algunos aspectos de tu vida han sido intensos en el último tiempo, escaparte de todo tal vez parezca la forma perfecta de relajarte y sentirte bien. Hay un enfoque en el cambio y la transformación que podría ayudarte a soltar situaciones que ya no te sirven. Sin embargo, ciertas amistades pueden no estar de acuerdo con eso.
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Virgo, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+Con Marte entrando al sensual signo Tauro y a tu sector de hogar y familia esta semana, puede que sea tiempo de bajar el ritmo y disfrutar la cocina hogareña. Si puedes tomarte un descanso en las próximas semanas, trata de hacerlo. Esta podría ser una oportunidad de oro para recargar toda tu energía. También puede que te interese salir de compras y es muy posible que encuentres una oferta especial. Puede que quieras derrochar dinero este fin de semana, así que no te excedas.
 
 ## Dinero
 
-Es probable que estés mezclando tus contactos personales con los profesionales esta semana. El Universo te muestra cómo buscar a las personas de cualquier grupo que puedan ayudarte a avanzar en un producto, servicio, empresa o causa. Esta semana, busca a los nacidos en otros países, o los que hablan otro idioma. Cierta actividad en tu sector de dinero indica que tienes la creatividad, pero no la verdadera visión para los negocios con el fin de ganar más dinero ahora.
+Te enfrentas a una seria transformación esta semana. Estás construyendo un mejor ingreso y una mayor seguridad en todos los aspectos de tu vida. Mientras que hablas a favor de tus necesidades y te redefines a ti mismo/a como persona, el Universo te anima a aprender un nuevo idioma, a que pienses en expandir lo que haces en los mercados extranjeros y prosperar. ¡Se ve el signo de dinero en tu futuro!

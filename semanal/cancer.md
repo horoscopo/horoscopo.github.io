@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 01 de noviembre 2021 al 07 de noviembre 2021 
-description: Horóscopo semanal cancer 01 de noviembre 2021 al 07 de noviembre 2021. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+title: cancer 08 de noviembre 2021 al 14 de noviembre 2021 
+description: Horóscopo semanal cancer 08 de noviembre 2021 al 14 de noviembre 2021. Estás en una etapa súper confusa Cáncer, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png
+ogimg: /images/zodiac/semanal_cancer.png#2021-11-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-01'
+ lastmod: '2021-11-08'
 ---
 
 
 
-## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+## Estás en una etapa súper confusa Cáncer, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 
-Lo más complicado es siempre el principio, de todo, una vez que te has subido al “barco” no vuelvas a tirarte al agua, ¿me explico? 
-Y si aún tienes dudas sobre algo, tómate tu tiempo para decidir, a solas, sin que nadie pueda darle más vueltas a tu cabeza…
-La vitalidad y la energía regresan conforme el Sol entra a tu signo el lunes. Es hora de celebrarte y centrarte en los proyectos que tenga un significado especial para ti. Además, la Luna Llena en Cáncer de esta semana reúne a la gente con un espíritu de temporada. A pesar de un posible par de enfrentamientos de menor importancia, este se vislumbra como un momento en el que tanto amigos como familia disfrutan de reunirse una vez más. Charlar constructivamente puede fomentar una mayor colaboración para el próximo año.
+En serio, Cáncer, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres Cáncer por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal Cáncer, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
+La optimista alineación de esta semana podría empujarte a poner manos a la obra y tener éxito en un ambicioso objetivo o plan profesional. Puede que sientas más confianza en tus posibilidades de la que has tenido en algún tiempo, lo que contribuye a tu entusiasmo y determinación para tener éxito. El movimiento de Mercurio a Libra del Jueves le añade brillo extra a tu vida social, animándote a socializar y tal vez involucrarte en trabajo en equipo. La Luna Llena en Piscis del Sábado le daría vida a una reunión o fiesta en tu casa.
 
 ## Dinero
 
-La buena noticia es que tienes actividad en tu sector de rutina diaria de trabajo, lo que puede aportar muchas nuevas oportunidades para expandir tu presencia o hacer que tu trabajo destaque. El Universo tiende a cambiar las cosas, pero a veces las cambia de nuevo con la misma rapidez. Muévete rápido para aprovechar los dones que se te proveen. Mientras tanto, lo mejor es cooperar en el trabajo para que nadie pierda los estribos.
+Te preparas para gastar en cosas bonitas para hacer de tu vida una más cómoda y relajada. Pero tal vez no necesitas todos esos aparatos o esos viajes con todo pagado. El cortar un poco en gastos puede dejar más espacio para futuros proyectos, viajes y actividades que realmente enciendan tu fuego. Tus amigos pueden ayudarte a mantenerte por buen camino.

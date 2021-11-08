@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 01 de noviembre 2021 al 07 de noviembre 2021 
-description: Horóscopo semanal sagitario 01 de noviembre 2021 al 07 de noviembre 2021. Deberías empezar a poner las cosas claras Sagitario, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+title: sagitario 08 de noviembre 2021 al 14 de noviembre 2021 
+description: Horóscopo semanal sagitario 08 de noviembre 2021 al 14 de noviembre 2021. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png
+ogimg: /images/zodiac/semanal_sagitario.png#2021-11-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-01'
+ lastmod: '2021-11-08'
 ---
 
 
 
-## Deberías empezar a poner las cosas claras Sagitario, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+## No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
 
-Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
- A veces, te aferras a momentos de felicidad pasajera Sagitario, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
-Tu hogar sigue vislumbrándose ocupado, quizás debido a que te preparas para la siguiente fase de la temporada de cambios. Por ello, para evitar una pelea con tu pareja u alguien más, les ayudaría ponerse de acuerdo sobre el plan tan temprano en la semana como sea posible. Es posible que se les  dificulte llegar a un compromiso a lo largo del fin de semana, cuando una discusión podría convertirse en una batalla de voluntades. Sin embargo, el movimiento de Venus a Escorpio le aporta un toque romántico a los próximos días. No trabajes todo el tiempo con tal de darte la oportunidad de gozar de seductores placeres.
+Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo.
+El animado Marte sigue moviéndose a través del sector más importante de tu carta, por lo que podrías tener gran determinación en lo que respecta a alcanzar tus metas. Puede que esto no sea tan malo si tienes una entrevista y esperas destacarte entre la multitud. El vital Marte puede brindarte la energía necesaria para seguir adelante, incluso si enfrentas algunos desafíos. 
+El jueves podría encontrarte analizando una importante pregunta con respecto a tu salud y a encontrar el equilibrio en un mundo ocupado. Si sientes que tienes demasiadas responsabilidades, la luna en cuarto creciente en Libra puede brindarte la oportunidad de decir que no.El fin de semana podría ser positivamente fascinante y el momento de aprovechar al máximo las oportunidades de salir y divertirte. El ingreso del sol en tu sector de hogar y familia trae consigo la chance de pasar un tiempo con tus seres queridos, así como de disfrutar de unos mimos para ti. Úsala para cuidar de tu persona, especialmente si has estado en constante movimiento.
 
 ## Dinero
 
-Esta semana se trata de mantener el equilibrio y la cordura. Acude al Universo para obtener información acerca de hacia dónde te diriges - esta semana se encuentra en tu sector de comunicaciones. Tienes que tratar más y hacerte más visible para poder conseguir ese aumento de sueldo, un nuevo trabajo o convencer a alguien para que invierta en tu futuro.
+Se indica un tiempo de cambio con respecto a los asuntos de carrera y figuras de autoridad. El Universo apoya nuevos cambios que deseas hacer en tu carrera y te ofrece un impulso. Sin embargo, las influencias pueden ya sea ser creativas o confusas, dependiendo de cómo se usan. Elige tu camino con cuidado y con intención.

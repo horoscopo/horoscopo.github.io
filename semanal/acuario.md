@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 01 de noviembre 2021 al 07 de noviembre 2021 
-description: Horóscopo semanal acuario 01 de noviembre 2021 al 07 de noviembre 2021. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+title: acuario 08 de noviembre 2021 al 14 de noviembre 2021 
+description: Horóscopo semanal acuario 08 de noviembre 2021 al 14 de noviembre 2021. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png
+ogimg: /images/zodiac/semanal_acuario.png#2021-11-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-01'
+ lastmod: '2021-11-08'
 ---
 
 
 
-## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 
-Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega Acuario. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
-Un conflicto entre guardarte un secreto o permitir que todos se enteren de él podría surgir el martes. El enfoque en tu sector de comunicación sugiere que podría haber una manera de ceder para que puedas guardarte parte de la información si se sientes que sería lo más fácil. La inagotable energía de esta semana podría verte en busca de algo nuevo y estableciendo contactos laborales. Tu vida social podría conectarte con fascinantes personas al final de la semana.
+Tienes que plantarte Acuario, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana Acuario.
+Si sientes inspiración para estudiar, escribir, enseñar o establecer contacto con otras personas de ideas afines, estás muy en sintonía con la alineación planetaria actual. Sin importar cuáles sean tus intereses, este es el momento de ir tras ellos. Sin embargo, es importante no tener demasiadas expectativas debido a Mercurio tornándose retrógrado. Si te percatas de que una actividad no es para ti, abandónala y prueba otra cosa. Además, un romance podría desempeñar un papel importante en tu vida durante las próximas semanas, ¡por lo que disfrútalo!
 
 ## Dinero
 
-Tienes el beneficio de la duda esta semana gracias a las influencias en tu área de política y los grupos. Un sueño que has mantenido cerca de tu corazón tiene oportunidad de desarrollarse conforme tus redes sociales te conectan a las personas a las que necesitas conocer. Puede que tengas que prestar más atención a tu sector de la diversión, el romance y los niños. Lleva esta alegre energía hacia tu trabajo.
+Actualmente te enfrentas a un momento de cambios. Estás buscando maneras de brillar y no sólo en tu vida laboral. En vez, se trata de obtener reconocimiento y apreciación por lo que te gusta. Hay una nueva energía en tu sector de comunicación, por lo que hasta hablar te resulta más fácil. Al mismo tiempo, tu sector de dinero y los valores se activa. El deseo está ahí y ya está listo/a para tomar acción para hacer tu vida más cómoda económicamente.

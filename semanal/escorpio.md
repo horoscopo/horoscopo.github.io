@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 01 de noviembre 2021 al 07 de noviembre 2021 
-description: Horóscopo semanal escorpio 01 de noviembre 2021 al 07 de noviembre 2021. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: escorpio 08 de noviembre 2021 al 14 de noviembre 2021 
+description: Horóscopo semanal escorpio 08 de noviembre 2021 al 14 de noviembre 2021. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Escorpio. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png
+ogimg: /images/zodiac/semanal_escorpio.png#2021-11-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-01'
+ lastmod: '2021-11-08'
 ---
 
 
 
-## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Escorpio. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 
-Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad Escorpio, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
-Horizontes lejanos podrían estar llamándote, pero no querrás explorarlos por tu cuenta, sino que prefieres incluir a tus amistades y disfrutar de la experiencia con ellos. Sin embargo, puedes tener bastante determinación cuando se trata de explorar nuevos territorios y descubrir nuevas oportunidades o desafíos que te abran las puertas. Por otro lado, podrías tener un sentimiento muy posesivo hacia alguien o algo, y esto podría arruinar tu dicha durante los próximos días a menos que puedas evitarlo. Cuando se trata de tomar una decisión con respecto a tu profesión, espera a que sea el momento indicado.
+Quieres sonreír cuando pase el tiempo y sobretodo no quedarte con las ganas por no haber hecho lo que sentías. No te encierres en lo que debes o no debes hacer Escorpio, ahora simplemente fluye… Con la vida, con tus amigos, con tu gente, con los que quieres… 
+porque así es como la vida te acaba compensando con nuevas bienvenidas.
+Prepárate para una semana interesante en la que tendrás el deseo de ampliar tus horizontes. Lo único que podría impedírtelo sería cualquier duda que pudieras estar albergando. Alguien podría intervenir como tutor, animándote a expandir tu zona de confort y probar. La Luna Nueva del lunes es el momento perfecto para anotar tus objetivos para ésta y la próxima semana y emocionarte enormemente para alcanzarlos. ¡Todo lo que se necesita es que des el primer paso!
 
 ## Dinero
 
-Tu mente podría verse llena de ideas, pensamientos y palabras acerca de la libertad y su significado. Pero antes de escribirle a tu jefe esa carta de renuncia, considera las formas en la que puedes esforzarte para añadir belleza y creatividad a tu lugar de trabajo. El hacer sugerencias positivas puede dar resultados sorprendentes y ponerte a cargo de un nuevo y  emocionante proyecto. Esto no sólo puede traer más dinero, sino también mejorar tu confianza.
+Aspectos en tu sector de apariencia personal y autoexpresión muestran que, si bien es posible que te centres en la búsqueda de un nuevo trabajo o una nueva posición con tu empleador actual, el dinero real puede estar en la mejora de tu aspecto para que se te perciba de una manera diferente. Conseguir tener la ropa y el peinado adecuado puede hacer toda la diferencia del mundo.
