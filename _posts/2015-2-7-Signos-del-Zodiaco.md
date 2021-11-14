@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de noviembre 2021
-description: Horóscopos del dia de hoy 13 de noviembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de noviembre 2021
+description: Horóscopos del dia de hoy 14 de noviembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-11-13
+ lastmod: 2021-11-14
 ---
-Te encuentras bajo una impredecible Luna en Acuario. Sé flexible y adáptate rápido a las nuevas oportunidades. ¡Piensa en ello como diversión no anunciada! Venus y Saturno todavía tienen influencia cuando se trata de responsable placer. Es la noche adecuada  para las buenas acciones y las conexiones igual de positivas.
+Mantén tu paz mental en la cara del caos mientras la Luna en Piscis cuadre a Marte el día de hoy. Ten en cuenta que las respuestas pueden ser tanto muy emocionales, como visibles. Esta noche, no le digas a alguien que le amas, o incluso que te gusta, a menos que realmente sea cierto. Las emociones de la gente siguen siendo volátiles.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
