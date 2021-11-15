@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 08 de noviembre 2021 al 14 de noviembre 2021 
-description: Horóscopo semanal tauro 08 de noviembre 2021 al 14 de noviembre 2021. Tómate un tiempo Tauro, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+title: tauro 15 de noviembre 2021 al 21 de noviembre 2021 
+description: Horóscopo semanal tauro 15 de noviembre 2021 al 21 de noviembre 2021. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2021-11-08
+ogimg: /images/zodiac/semanal_tauro.png#2021-11-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-08'
+ lastmod: '2021-11-15'
 ---
 
 
 
-## Tómate un tiempo Tauro, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-Por fin vas a finalizar ciclos Tauro, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse Tauro, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres Tauro joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien Tauro. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana Tauro, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
-Te enteras de un problema que se ha mantenido en secreto con la entrada del Sol a tu sector de hogar y familia. Es posible que los miembros de tu familia hayan estado muy ocupados para resolverlo aun cuando es importante. Sin embargo, sientes que debes hacer algo al respecto durante las próximas semanas. Aclarar el problema tiene consecuencias positivas que ayudan a que todos se sientan aliviados. También querrás desarrollar un proyecto que puede fomentar tu crecimiento personal.
+No te arrepientas de abrirte Tauro, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Tauro, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Tauro, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Tauro, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+Los asuntos monetarios cobran más importancia a partir del Lunes con Marte agitando esta área de tu vida. Si bien esta influencia puede coincidir con un aumento de ingresos, puede que también tengas que lidiar con facturas o gastos inesperados. A pesar de esto, hay muchas oportunidades para ganar dinero extra si es que quieres. Ten especial cuidado el Jueves, cuando tu frustración en referente a dinero podría llegar a un punto crítico. La Luna Nueva del Domingo en tu signo podría iniciar cambios, animándote a actuar positivamente.
 
 ## Dinero
 
-Estás pasando por una transformación enorme, especialmente en lo relativo a tu apariencia y comportamiento. Te estás convirtiendo en quién siempre estuviste destinado/a a ser. Mientras tanto, los aspectos agitan las cosas en lugares que hayan quedado obsoletos. Esto podría incluir tu hogar. El gastar un poco para arreglar tu casa, oficina o incluso iniciar un nuevo negocio hace maravillas para tu confianza. Prepárate para asumir el papel que te corresponde.
+Esta semana tienes la base sobre la cual construir una seguridad adicional. La actividad en tu sector de  deuda hace que sea más fácil pagar las tarjetas y líneas de crédito. Eres capaz de ganar más dinero ahora y asignarlo como mejor te parezca.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 08 de noviembre 2021 al 14 de noviembre 2021 
-description: Horóscopo semanal acuario 08 de noviembre 2021 al 14 de noviembre 2021. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+title: acuario 15 de noviembre 2021 al 21 de noviembre 2021 
+description: Horóscopo semanal acuario 15 de noviembre 2021 al 21 de noviembre 2021. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2021-11-08
+ogimg: /images/zodiac/semanal_acuario.png#2021-11-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-08'
+ lastmod: '2021-11-15'
 ---
 
 
 
-## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 
-Tienes que plantarte Acuario, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana Acuario.
-Si sientes inspiración para estudiar, escribir, enseñar o establecer contacto con otras personas de ideas afines, estás muy en sintonía con la alineación planetaria actual. Sin importar cuáles sean tus intereses, este es el momento de ir tras ellos. Sin embargo, es importante no tener demasiadas expectativas debido a Mercurio tornándose retrógrado. Si te percatas de que una actividad no es para ti, abandónala y prueba otra cosa. Además, un romance podría desempeñar un papel importante en tu vida durante las próximas semanas, ¡por lo que disfrútalo!
+Céntrate en tus metas Acuario, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+Las oportunidades sociales y las reuniones en tu hogar pueden traerte mucha satisfacción y la oportunidad de socializar con gente nueva. La comunicación e interacción pueden jugar un papel importante en los acontecimientos de esta semana, sobre todo si algo necesita ser discutido. Con el fin de aprovechar al máximo las influencias de esta semana, te ayudaría hacerle frente a cualquier malentendido tempranamente antes de que tenga la oportunidad de agravarse. La Luna Nueva puede traer consigo la oportunidad de perdonar, olvidar y empezar de nuevo.
 
 ## Dinero
 
-Actualmente te enfrentas a un momento de cambios. Estás buscando maneras de brillar y no sólo en tu vida laboral. En vez, se trata de obtener reconocimiento y apreciación por lo que te gusta. Hay una nueva energía en tu sector de comunicación, por lo que hasta hablar te resulta más fácil. Al mismo tiempo, tu sector de dinero y los valores se activa. El deseo está ahí y ya está listo/a para tomar acción para hacer tu vida más cómoda económicamente.
+Si esta semana estás pensando en cambiar de trabajo, voilà, las fuerzas parecen ayudar. Los planetas que afectan tu trabajo día a día te piden que pienses acerca de cómo cambiar tu situación actual para bien (¿tal vez un aumento?). O empezar a buscar algo mejor. Los aspectos opuestos apoyan que renuncies, pero sólo cuando el tiempo y el dinero estén en orden. Si tu conjunto de habilidades necesita mejorar, pídale a alguien de más arriba que te enseñe algo nuevo.

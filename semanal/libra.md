@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: libra 08 de noviembre 2021 al 14 de noviembre 2021 
-description: Horóscopo semanal libra 08 de noviembre 2021 al 14 de noviembre 2021. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Libra.
+title: libra 15 de noviembre 2021 al 21 de noviembre 2021 
+description: Horóscopo semanal libra 15 de noviembre 2021 al 21 de noviembre 2021. Tienes que plantarte Libra, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2021-11-08
+ogimg: /images/zodiac/semanal_libra.png#2021-11-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-08'
+ lastmod: '2021-11-15'
 ---
 
 
 
-## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Libra.
+## Tienes que plantarte Libra, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
 
-Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
-Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
-El Sol ocupando tu signo te otorga una mayor vitalidad y energía. Aun así, a menos que sientas mucho interés o pasión por algo, puede que te resulte difícil ponerlo en marcha. Esta semana, trabaja en esos proyectos e ideas que significan mucho para ti. Esto no quiere decir que debas olvidarte de tus responsabilidades, debes de hacer todo lo posible por cumplirlas. Pero cuando tengas tiempo, trabajar en tus proyectos favoritos puede ser profundamente gratificante, no sólo ahora sino también en el futuro.
+Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande Libra, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Libra, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
+Cuanto más tiempo dediques a comprender a una persona, mejor puedes llevarte con ella. Sin embargo, esta semana puede que sientas la tentación de intentarlo demasiado, en especial si se trata de alguien con quien quieres una relación romántica. Tómatelo con calma. Si dejas que las cosas se desarrollen a su propio ritmo, puede que descubras que todo resulta mucho mejor. El viernes, un encantador aspecto entre el seductor Venus y el expansivo Júpiter puede ser perfecto para una cita muy especial, una que tal vez recuerdes durante mucho tiempo.
 
 ## Dinero
 
-Es posible que despegues esta semana - literalmente. Parece que tienes más posibilidades que nunca para ganar dinero, atraer más a través de trabajos secundarios y de interés y obtener dividendos a través de inversiones inteligentes. Si necesitas ayuda en lo que respecta a la planificación financiera, los aspectos pueden ayudarte a atraer a la persona adecuada para tus necesidades. No lo dejes al azar, en todo caso, mereces mucho más.
+Puede que esta semana sientas un poco más de despiste y menos conexión de lo normal. Hay un poco de pesadez añadida a tu sector de familia y romance. Puede que el impulso lleve a esto de nuevo, sobre todo cuando se trate de gasto. Sin embargo, el divertirte con tu presupuesto puede ser tan simple como usar tu imaginación. Ten tanta creatividad como te sea posible bajo las circunstancias.
