@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 15 de noviembre 2021 al 21 de noviembre 2021 
-description: Horóscopo semanal piscis 15 de noviembre 2021 al 21 de noviembre 2021. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: piscis 22 de noviembre 2021 al 28 de noviembre 2021 
+description: Horóscopo semanal piscis 22 de noviembre 2021 al 28 de noviembre 2021. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Piscis de siempre…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2021-11-15
+ogimg: /images/zodiac/semanal_piscis.png#2021-11-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-15'
+ lastmod: '2021-11-22'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Piscis de siempre…
 
-El mundo puede esperar Piscis, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate Piscis, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
-La semana por delante trae la oportunidad de un nuevo comienzo en el frente hogareño. Si has tenido una visión de cómo quieres una habitación, un jardín o la imagen completa de toda una propiedad, la semana por delante podría ayudar a que eso ocurra. El positivo vínculo entre Venus y Marte alude a que los fondos monetarios estarán disponibles para que puedas seguir adelante con el proyecto. Sin embargo, es posible que tú y tu pareja u otros seres queridos tengan que negociar un plan que funcione para todos.
+Vives tanto con tantísima intensidad que a veces te olvidas de la realidad, de lo que aún tienes pendiente, de lo que necesitas conseguir y sobretodo de lo que necesitas cerrar y zanjar. Y es que Piscis, cuando las cosas empiezan a ir un poquito mejor se te olvida todo lo malo por lo que has pasado, por lo que te han hecho pasar. Y estás bien, porque así es como vives el presente, el minuto, el momento, pero a la vez si después viene otra golpe, vuelve a doler. Lo que pasa es que ya no duele igual, ya duele menos, porque te insensibilizas, y eso en realidad no es del todo bueno. Es como si lo esperaras, como si ya supieras que después de una discusión vendrá una reconciliación, con todo, con la gente que está a tu alrededor, con tu vida. Y todo se repite, una y otra vez, y no sales de ese círculo, y lo que antes te rompía el corazón ya no te rompe, porque sabes lo que vendrá después, y así todo el tiempo. Y eso se llama conformismo Piscis. ¿Hace cuanto no te paras a pensar solo si realmente eres feliz con lo que tienes? En la vida puedes estar contento con muchas cosas que no van mal a tu alrededor, pero también tienes que saber cuáles son las que van mal para cambiarlas. Porque aunque no lo creas, una manzana podrida en el cesto puede pudrir las demás si no se saca a tiempo. Y es que, tienes que hacer una limpia en tu vida, no puedes pensar que “bueno, en la vida hay cosas buenas y cosas malas”, claro que es así, pero ahí estás tu para poder cambiar las malas. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Piscis.
+Tal vez algo necesita cambiar, y como ahora se aproxima una fase lunar poderosa, podría tratarse de tus rutinas, hábitos o agenda diaria. Con un fuerte enfoque en un sector más aislado y espiritual de tu carta astral, el sistema actual puede llevarte a dar un paso hacia atrás y ver las cosas en perspectiva. Quizás sucede que un evento ha alterado tu rutina, y que ahora necesitas hacer ajustes alternativos. Sea cual sea la situación, tómate tu tiempo antes de tomar una decisión clave.
 
 ## Dinero
 
-Esta semana tienes actividad en tu sector de dinero en efectivo. Eres capaz de cambiar la manera en la que ganas dinero, así como la cantidad. Pensar un poco más en lo que tu tiempo vale te ayudará a decidir cuánto cobrarle a tus clientes ahora. Al mismo tiempo, tu carrera está cambiando. Es hora de emplear nuevas técnicas de reducción de estrés.
+Como genio de creación de redes, bien sabes cómo hacerlo. Tus relaciones son importantes no sólo por motivos de negocios, sino también para desahogarte después del trabajo. Con un aspecto armonioso en tu sector social, estás haciendo más amigos e incluso sentando las bases para futuras colaboraciones. Has estado haciendo considerables acuerdos, así que no es mal momento para sacar la cuenta final. Cuidado con gastar excesivamente en tus amistades.

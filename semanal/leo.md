@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: leo 15 de noviembre 2021 al 21 de noviembre 2021 
-description: Horóscopo semanal leo 15 de noviembre 2021 al 21 de noviembre 2021. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+title: leo 22 de noviembre 2021 al 28 de noviembre 2021 
+description: Horóscopo semanal leo 22 de noviembre 2021 al 28 de noviembre 2021. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2021-11-15
+ogimg: /images/zodiac/semanal_leo.png#2021-11-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-15'
+ lastmod: '2021-11-22'
 ---
 
 
 
-## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 
-Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás Leo. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
-El decidido Marte sigue avanzando en tu sector hogareño. Puede que tal sea la razón por la que sientas motivación a eliminar el desorden, limpiar y organizar todo. Tus planes familiares podrían entrar en conflicto con tus planes profesionales, causando un problema el jueves. Evita actuar impulsivamente y trata de no forzar las cosas. Mientras tanto, la Luna Nueva del viernes puede ser útil si deseas comenzar una nueva dieta o rutina de ejercicio. Puede que te resulte más fácil disciplinarte si es que inicias en este momento.
+Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
+ La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa Leo? 
+ todo lo que desea.
+Las opciones de ocio y placer comienzan para ti durante las próximas cuatro semanas, y esta posibilidad de relajarte y desconectarte podría hacerte muy bien. El romance podría florecer o la llama del amor podría volver a encenderse en tu relación actual. A partir del viernes, necesitarás equilibrar tu trabajo con tu tiempo libre, ya que las energías vitales de Marte alteran tu sector de estilo de vida. Destina tiempo para el trabajo y el ejercicio, así como para la diversión y el entretenimiento. ¡Necesitas todo esto!
 
 ## Dinero
 
-Confía en tu intuición acerca de lo que es correcto para ti. Estás preparado/a para hacer un gran cambio en tu vida. Podrías percatarte de que tu situación se vuelve un poco inestable, teniendo dinero un día y no otro. La manera de balancear esto es mediante el desarrollo de una estrategia fuerte de ahorro, poniendo dinero en cuentas de ahorro a largo plazo y otro poco más en cuentas de ahorro a corto plazo. No es una opción - es una necesidad.
+Esta semana podría ser tensa para ti. Considera seriamente la posibilidad  de hacerle caso a los mensajes que estás recibiendo de tus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están en lo correcto y dándole al tino. Al mismo tiempo, sigue añadiendo habilidades al asistir a clases, talleres y seminarios. Tienes lo que se necesitas, pero sería bueno el tener un poco más.

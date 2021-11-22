@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 15 de noviembre 2021 al 21 de noviembre 2021 
-description: Horóscopo semanal escorpio 15 de noviembre 2021 al 21 de noviembre 2021. Escapa Escorpio, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
+title: escorpio 22 de noviembre 2021 al 28 de noviembre 2021 
+description: Horóscopo semanal escorpio 22 de noviembre 2021 al 28 de noviembre 2021. Vamos Escorpio, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2021-11-15
+ogimg: /images/zodiac/semanal_escorpio.png#2021-11-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-15'
+ lastmod: '2021-11-22'
 ---
 
 
 
-## Escapa Escorpio, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
+## Vamos Escorpio, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 
-Siempre estás sonriendo Escorpio, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes Escorpio pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio Escorpio, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
-Tu vida social parece estar bajo enfoque ahora, ofreciéndote muchas oportunidades para positivos encuentros. De hecho, una reunión bastante intensa podría alentarte a ti y alguien más a colaborar en una intrigante idea. También hay buenas noticias en el frente financiero con Saturno ahora avanzando en tu sector monetario a partir de este fin de semana. Esto, junto con Marte, podría verte dando pasos positivos con respecto a retos financieros que has sufrido recientemente. En cuanto a romance, ¡llévate las cosas con calma!
+Te estás dando cuenta de quien sí y quien no Escorpio. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo Escorpio pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope Escorpio, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente Escorpio, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Escorpio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+Ciertos hechos demostrados y fuentes confiables de información podrían no ser tan honrados como primero pensaste. Alternativamente, la actitud apática o incompetente de otras personas podría interrumpir tus planes y agenda. Si tus mejores planes parecen derrumbarse esta semana, un enfoque paciente y la voluntad de comprometerte puede ser lo mejor que pudieras llegar a hacer. Sin embargo, la Luna Llena en Géminis podría compensar cualquier decepción, pudiendo ser perfecta para una agradable reunión o celebración este fin de semana.
 
 ## Dinero
 
-Esta semana, el Universo no sólo trae un montón de comunicación, sino también una gran cantidad de trabajo. No te sorprendas si tu semana se repleta de formularios, archivos y tareas similares. Dado que también afecta a tu sector de instituciones, estás consolidando un viejo sueño, aunque no sea fácil de obtener. Terminarás por apreciar incluso hasta lo que parece más aburrido, repetitivo, tedioso, o simplemente molesto.
+Hay mucho positivismo en tu camino esta semana. Puede que estés tratando de decidir si debes reforzar tu educación en cuestiones de dinero o comenzar a enseñarle a otros lo que ya conoces. Cuidado con el síndrome de sabelotodo, cuando uno cree saber todo lo que hay que saber. El Universo indica que el éxito de tu futura carrera, por no hablar de tu éxito financiero, depende de tu capacidad de ser una autoridad en tu campo sin creer que no hay nada más que aprender.

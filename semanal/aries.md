@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 15 de noviembre 2021 al 21 de noviembre 2021 
-description: Horóscopo semanal aries 15 de noviembre 2021 al 21 de noviembre 2021. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+title: aries 22 de noviembre 2021 al 28 de noviembre 2021 
+description: Horóscopo semanal aries 22 de noviembre 2021 al 28 de noviembre 2021. Perdona Aries, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2021-11-15
+ogimg: /images/zodiac/semanal_aries.png#2021-11-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-15'
+ lastmod: '2021-11-22'
 ---
 
 
 
-## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+## Perdona Aries, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 
-Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo Aries… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Aries, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Aries. Lo vas a agradecer… Feliz semana.
-Esta semana te pones en marcha para concretar una cierta idea, una idea que puede abrirte puertas. No es algo por lo que debas apurarte, ya que requiere paciencia para que funcione a tu favor. Es posible que quieras hacerlo de la manera más fácil, pero no vale la pena. La entrada de Venus a tu signo puede motivarte para que te dediques a una renovación festiva o compres ropa nueva que te ayude a distinguirte de los demás.
+No puedes estancarte con algo Aries, no debes dejar de crecer nunca. Esta semana vas a estar pensando y analizando la situación de tu vida, ¿estás haciendo lo que realmente quieres hacer? No Aries, hay cosas que quieres cambiar pero tienes que cambiarlas ya, empezar y terminar. No puedes conformarte con la vida que estás llevando, el tiempo pasa muy deprisa y cuando te quieras dar cuenta quizás ya sea demasiado tarde, o quizás te sea mucho más complicado tomar decisiones. Sigue con tus proyectos y no te amargues cuando no veas resultados inmediatos. Lo bueno siempre tarda en llegar. Lo que tienes que hacer es no desanimarte. Saca tu verdadero yo, no te metas en nada superficial, al fin y al cabo esas cosas te merman mucho, no es lo tuyo Aries. No vale ni un segundo de tu tiempo. No te calientes demasiado acordándote de cosas que ya fueron y que ahora no son, que jamás podrán volver a ser, sigues perdiendo tu tiempo como lo hagas así. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. No eres mediocre Aries así que, no quieras llevar esa vida, agarra el amor propio que te sale para buscar mejores oportunidades. No es que seas egoísta, no es que te vuelvas egoísta, es que es algo vital que hagas tu vida.
+Un problema que había quedado en el olvido podría salir a la luz a la mitad de semana cuando el eclipse lunar revoluciona tus sentimientos. Puede que este problema resurja en un sueño o quizá en una angustia generalizada que quieres tratar de entender. Puede que te ayude tomarte tiempo y liberar un poco de tiempo en tu agenda. Si lo haces, podrás conectar mejor con este asunto, entender de dónde viene y tratar de buscar una solución. Puede que te sientas mucho mejor al fin de cuentas. 
 
 ## Dinero
 
-Se te está dando un empujón de buena suerte desatando un torrente de mensajes positivos por parte de empleadores, potenciales clientes y clientes. Todos quieren un pedazo de tu tiempo, lo que puede ser agotador, aunque también son buenas noticias. Mientras tanto, ¿has considerado entrar en negocio con un pariente, padre o hermano? Quizá sea el momento de pensar un poco en esto.
+¡Qué emoción! Las máquinas funcionan muy bien y el correo llega a tiempo. La comunicación facilita. De por si ya te sientes muy rebelde en lo que estás haciendo actualmente para ganarte la vida. Es posible que te des cuenta de que ésta particular visión de llevar tus finanzas funciona mejor para ti ahora. El expresar tus opiniones no tiene por qué convertirse en un trabajo de tiempo completo. Deja que tu trabajo hable por ti.

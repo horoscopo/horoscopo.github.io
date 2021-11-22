@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 15 de noviembre 2021 al 21 de noviembre 2021 
-description: Horóscopo semanal sagitario 15 de noviembre 2021 al 21 de noviembre 2021. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Sagitario.
+title: sagitario 22 de noviembre 2021 al 28 de noviembre 2021 
+description: Horóscopo semanal sagitario 22 de noviembre 2021 al 28 de noviembre 2021. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2021-11-15
+ogimg: /images/zodiac/semanal_sagitario.png#2021-11-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-15'
+ lastmod: '2021-11-22'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Sagitario.
+## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 
-Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti Sagitario.
-Con un enfoque encantador que mejora tus relaciones, puedes descubrir que esta mezcla tan poderosa de energías te ayuda a resolver problemas, y también a crear oportunidades que vas a disfrutar. Mientras tanto, problemas con tu estilo de vida podrían estar en un primer plano, y quizás estés al tanto de lo que necesitas hacer para poder estar en óptimas condiciones. Esta semana puede ser un buen momento para juntarte con amistades y brindarse apoyo mutuo en una jornada de bienestar. Pronto sentirás la motivación para verte lo mejor posible.
+¿Cómo quieres gastar tu vida Sagitario? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Sagitario, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Sagitario, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Sagitario. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Sagitario.
+Si alguien parece oponerse a tus planes, conseguirás lo que quieres si utilizas las palabras correctas. Es la forma en la que dices las cosas lo que puede hacer toda una diferencia en tu capacidad de vender una idea. Los asuntos empresariales también se desarrollan bien, con la Luna Nueva del Martes otorgándote un empujón. Este es un momento excelente para sellar un acuerdo, colaborar con alguien en un nuevo negocio, o solicitar un préstamo para financiar una nueva empresa. También tendrás deseos de ampliar tus horizontes de otras maneras.
 
 ## Dinero
 
-Esta semana es como una bolsa mixta de tu “yo”. Por un lado, tienes una energía repentina y expansiva afectando a tu sector de grupos y negocios propios, lo que sugiere que puede que estés pensando en convertir una habilidad en un negocio rentable. Por otro lado, tu sector de deuda y el dinero de otras personas entran en juego. No pidas prestado más de lo que te puedes permitir con el fin de lograr que este negocio entre en marcha.
+Esta semana tienes luz verde por parte del Universo para expandir tu búsqueda de empleo. Esto se aplica si estás en busca de trabajo o incluso pensando en cambiar de trabajo si lo que has estado haciendo ahora no tiene ningún significado real para ti. También es el momento de considerar pedir un préstamo.

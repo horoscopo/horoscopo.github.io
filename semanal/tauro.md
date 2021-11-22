@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 15 de noviembre 2021 al 21 de noviembre 2021 
-description: Horóscopo semanal tauro 15 de noviembre 2021 al 21 de noviembre 2021. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+title: tauro 22 de noviembre 2021 al 28 de noviembre 2021 
+description: Horóscopo semanal tauro 22 de noviembre 2021 al 28 de noviembre 2021. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Tauro. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2021-11-15
+ogimg: /images/zodiac/semanal_tauro.png#2021-11-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-15'
+ lastmod: '2021-11-22'
 ---
 
 
 
-## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Tauro. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 
-No te arrepientas de abrirte Tauro, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Tauro, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Tauro, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Tauro, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
-Los asuntos monetarios cobran más importancia a partir del Lunes con Marte agitando esta área de tu vida. Si bien esta influencia puede coincidir con un aumento de ingresos, puede que también tengas que lidiar con facturas o gastos inesperados. A pesar de esto, hay muchas oportunidades para ganar dinero extra si es que quieres. Ten especial cuidado el Jueves, cuando tu frustración en referente a dinero podría llegar a un punto crítico. La Luna Nueva del Domingo en tu signo podría iniciar cambios, animándote a actuar positivamente.
+No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
+Estarás en tu elemento esta semana, disfrutando de la oportunidad de dejar que tu, burbujeante personalidad sea mostrada. Y si te resulta difícil entender la posición que alguien está adoptando, tendrás un montón de amigos en quiénes confiar que serán capaces de ofrecerte consejos. Debido a que Marte está retrógrado en tu sector de salud y estilo de vida, es mejor que mantengas un buen ritmo de vida al balancear tus responsabilidades profesionales y tareas diarias. De hecho, meditar a diario podría serte muy útil.
 
 ## Dinero
 
-Esta semana tienes la base sobre la cual construir una seguridad adicional. La actividad en tu sector de  deuda hace que sea más fácil pagar las tarjetas y líneas de crédito. Eres capaz de ganar más dinero ahora y asignarlo como mejor te parezca.
+Tu sector del hogar está bajo escrutinio. Aunque la energía colocada aquí es bastante favorable y apacible, es posible que desees ver cuánto te estás gastando en tu casa cada mes. Si necesitas un ajuste, éste es el momento de hacerlo, no cuando estás bajo presión. Hay todo tipo de buenas noticias en el frente de trabajo. Una mejor situación está por venir si eres lo suficientemente paciente para dejar que suceda.

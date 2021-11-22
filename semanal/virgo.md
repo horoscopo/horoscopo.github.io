@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 15 de noviembre 2021 al 21 de noviembre 2021 
-description: Horóscopo semanal virgo 15 de noviembre 2021 al 21 de noviembre 2021. De verdad Virgo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+title: virgo 22 de noviembre 2021 al 28 de noviembre 2021 
+description: Horóscopo semanal virgo 22 de noviembre 2021 al 28 de noviembre 2021. Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2021-11-15
+ogimg: /images/zodiac/semanal_virgo.png#2021-11-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-15'
+ lastmod: '2021-11-22'
 ---
 
 
 
-## De verdad Virgo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+## Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
 
-Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
-A medida que el hablador Mercurio, tu planeta personal, regresa a Leo y a tu sector de comunicación, las próximas semanas ofrecen la oportunidad de revisar planes recientes y realizar cualquier cambio. Pero no te apresures a firmar ningún contrato, hacer promesas o a comprometerte, ya que durante esta fase las cosas podrían no salir como lo planeado. Los próximos días pueden hacer que aspires a mayores oportunidades, pero tómate tu tiempo y evita tomar decisiones de forma impulsiva. Si puedes tomártelo con calma quizás te vaya muy bien.
+Por fin has tomado decisiones, y además decisiones que te benefician, 
+por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
+Tener una intensa determinación para resolver un problema y poner en movimiento cierto proyecto dará sus frutos esta semana. Pero es posible que tanto familiares o tal vez tu pareja tengan diferentes opiniones sobre lo que debes hacer. Si es que quieres seguir adelante con ello, es posible que tengas que ceder o bien optar por una charla de corazón a corazón y esperar que entiendan. De hecho, si una idea es profundamente significativa para ti, ¿por qué deberías de restarle importancia? Puede que tengas que explicarle a tal que, si no le gusta, que así sea.
 
 ## Dinero
 
-Es posible que esta semana te rebeles en contra de las figuras de autoridad, al menos en tu mente. Algunos aspectos indican que necesitarás de ayuda para mantener la calma. Seguro que andas muy comunicativo/a, pero trata de no expresar demasiada agresión en cuanto a lo que quieres y necesitas. Los demás tienen que ser considerados también. Algunas restricciones y limitaciones pueden hacerte sentir como que todo es personal, pero lo más probable es que realmente no lo sea.
+Esta semana es de gran actividad para ti, ya que la atención se centra en las culturas extranjeras, viajes, idiomas y la educación superior. Es hora de pensar en invertir en mercados muy lejos de donde vives para hacer tu investigación. Los aspectos indican que es probable que te sientas optimista también.
