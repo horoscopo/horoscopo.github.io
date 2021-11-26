@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo aries noviembre 2021
-description: El Horóscopo noviembre de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo aries diciembre 2021
+description: El Horóscopo diciembre de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/aries/
 amplink: /horoscopo-mensual/amp/aries/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo aries noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo aries diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
@@ -16,7 +16,4 @@ sitemap:
 ---
 
 
-Alrededor de la luna nueva del día 15, tal vez tu situación laboral o profesional se desvía, pero en una dirección mucho mejor. Estarás mucho más feliz con esto. Sujétate fuerte, y no tengas vergüenza de demostrar tus propias habilidades o experiencia. El día 21, la luna en Cáncer forma un trígono con el soñador Neptuno, y luego con el generoso Júpiter. Podría ser un fin de semana romántico. Tal vez no está en tus planes o presupuesto una recreación o entretenimiento alrededor de la luna llena del 29 de noviembre, pero podría suceder de todas formas. Quizás sea un regalo sorpresa de una persona (o grupo) que te aprecia más de lo que te imaginas. 
-
-Días destacados: 12, 17, 30
-Días desafiantes: 7, 21
+No querrás pasar mucho tiempo a solas alrededor de la Luna Nueva del 4 de diciembre. La compañía de amigos será muy reconfortante. Una o dos amistades cercanas podrían aparecerse inclusive antes de que tengas la oportunidad de llamarles. Tu sector familiar es puesto bajo enfoque con la Luna Llena del 20 de diciembre. Si resulta que un pariente requiere de tu ayuda para llegar a alguna parte, ten apertura a lanzarte a una pequeña aventura o excursión con tal de apoyarle. Futuros planes para unas vacaciones de verano podrían mantener tus días ocupados. Marte, tu planeta regente, se vuelve directo el 29 de diciembre. Espera experimentar progreso en lo que haya estado estancado o debilitado desde mediados de diciembre.

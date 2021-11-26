@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo virgo noviembre 2021
-description: El Horóscopo noviembre de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo virgo diciembre 2021
+description: El Horóscopo diciembre de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo virgo noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo virgo diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo virgo, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Las finanzas son resaltadas con la Luna Nueva del 2 de noviembre. Si te surge la tentación de gastar en exceso en la compra de un artículo para tu hogar, haz una lista primero. Sin embargo, no te prives por completo. Un toque de glamour o extravagancia serían buena idea también. Para cuando llegue la Luna Llena del 18 de noviembre, ya te habrás preparado para cualquier cosa. Aborda un molesto problema que ya no parece ser tan grave o serio. Mientras menos pienses o agonices sobre ciertas cosas, más fáciles se volverán. No dudes de ti. El 28 de noviembre se vislumbra un día muy dulce con la Luna en Cáncer formando sextil tanto con Mercurio como Venus. El coqueteo podría estar en el aire y los actos de bondad podrían ser más abundantes.
+El 7 de diciembre, la Luna conjunta con Venus y forma trígono con Neptuno, encendiendo tu espíritu navideño brillante y tempranamente. Tanto amigos como conocidos te tratarán como la autoridad y líder que eres durante la Luna Nueva del 11 de diciembre. Di lo que quieras hacer y dónde quieres hacerlo y ve cómo todos hacen que ocurra. La Luna Llena del 25 de diciembre te pone bajo el ojo público. Vístete de gala, sonríe y entrega tus regalos con gran espíritu de celebración. Sin importar la fiesta en la que te encuentres, nadie puede difundir la paz como tú lo haces.

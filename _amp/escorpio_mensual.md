@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo escorpio noviembre 2021 
+title: Horoscopo escorpio diciembre 2021 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-El Sol conjunta a Saturno el 10 de noviembre, cuando una figura de autoridad podría proyectar una sombra sobre uno de tus más traviesos planes. Muestra respeto. Tu vida social vibra bajo la Luna Llena del 13 de noviembre. Es posible que no sepas a dónde ir primero o con quién. Simplemente ve, visita un lugar nuevo y luego acude a otro de nuevo. Sólo asegúrate de que puedas levantarte para trabajar al día siguiente. La Luna Nueva del 28 de noviembre te hará preguntarte si es que has estado fiesteando de más. Incluso si la respuesta es no, te mereces más tiempo para ti, invirtiendo más de tu saludable energía en ti. Increíblemente, hay más en la vida que simple diversión.
+La Luna Nueva del 7 de diciembre hace hincapié en tu salud y vitalidad. Aumenta la cantidad de atención que le pones a tu propio bienestar. Come más sanamente y activa más tus días. No es necesario que inicies un deporte intenso, simplemente disfruta de pasar menos tiempo en el sofá comiendo y bebiendo. La Luna Llena del 21 de diciembre se trata de tu vida amorosa. Tú tienes altos estándares y expectativas - ambos positivos - y ahora, vaya que podrías tener algunos poderosos y románticos encuentros. Alternativamente, podrías experimentar una profunda visión romántica con alguien especial o dentro de tu propio corazón. Finalmente, el sextil entre la Luna y Marte del 29 de diciembre suaviza un fin de semana que de lo contrario podría ser complicado.    

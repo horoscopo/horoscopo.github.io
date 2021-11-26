@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo acuario noviembre 2021
-description: El Horóscopo noviembre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo acuario diciembre 2021
+description: El Horóscopo diciembre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo acuario noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo acuario diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-La Luna Nueva del 4 de noviembre energiza tu carrera y situación laboral. Tus compañeros de trabajo no pararán de querer ayudarte. Ciertas tareas podrían ser redistribuidas para que todos -incluyéndote a ti- tengan una carga más fácil y más ligera. Además, una molesta reunión podría ser cancelada o la longitud de una celebración podría ser extendida. La Luna Llena del 20 de noviembre podría encender una escena social veraniega muy ocupada para ti. Prepárate porque tus amigos querrán divertirse en grande. Y tú, bien que te mereces pasar un buen rato, por lo que no le huyas a las invitaciones que recibas. Mercurio, tu planeta regente, entra a Cáncer el 29 de noviembre, posiblemente desviado tu enfoque hacia tu vida hogareña.  
+Resuelve diferencias diplomáticamente en vez de acudir a la fuerza bruta de tu voluntad en los días alrededor del 5 de diciembre. Incluso si tienes razón y ganas, la discordia volverá. El romance le da brillo a tu mundo bajo la Luna Llena del 15 de diciembre. Puede que tu sangre se sienta ardiente y lista para un gran cambio, pero no te apresures tanto como para ahuyentar a alguien que no sólo es brillante y generoso, pero a quien realmente le importas. La Luna Nueva del 30 de diciembre enciende tus habilidades para resolver problemas. Tu instinto será tan útil como tu lógica, por lo que no pongas toda tu energía en pensar de manera racional. Sabrás cómo saltarle a una solución una vez que la detectes.

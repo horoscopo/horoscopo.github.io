@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo geminis noviembre 2021
-description: El Horóscopo noviembre de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo geminis diciembre 2021
+description: El Horóscopo diciembre de Geminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo geminis noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo geminis diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo geminis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
@@ -16,4 +16,4 @@ sitemap:
 ---
 
 
-Durante la luna llena del 1 de noviembre, sé la persona a la cuál acudir en el trabajo o en tu grupo social. Actúa bien y gánate todas las recompensas. Júpiter se torna retrógrado el día 8. Mira con más atención lo que en realidad te trae suerte. Durante la luna nueva del 17 de noviembre, tu hogar es donde están los sueños más grandes y cautivadores. A menos que haya un buen motivo para salir, ni te molestes. Durante la luna llena, y luna azul, del último día del mes, lima cualquier aspereza social o tranquiliza a una persona difícil pero importante. Las soluciones ingeniosas saldrán de la nada, lo que lo hará fácil. Sé la magia de alguien más.
+Mercurio se torna directo el 3 de diciembre. Puede que las personas aparezcan de la nada y quieran socializar. Pero podrás mantenerte en postura. La Luna Llena del 10 de diciembre ilumina tu mundo justo cuando pensabas que no podría ser más grande o más brillante. Podrías atraer algunas exóticas personas que casi no conoces, que se verán atraídas instantáneamente por tu gran corazón. No te preocupes. No te invadirán demasiado. La Luna Nueva del 25 de diciembre colocavv la atención en tu familia y vida hogareña. Disfruta con tus parientes del entretenimiento, las conversaciones casuales o tal vez de salir de compras. Los mercados de agricultores o las ferias de artesanías también pueden ser divertidas y relajantes. Mantén las cosas sencillas.

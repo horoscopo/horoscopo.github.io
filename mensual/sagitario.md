@@ -1,11 +1,11 @@
 ---
 layout: horoscopos
-title: Horoscopo sagitario noviembre 2021
-description: El Horóscopo noviembre de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo sagitario diciembre 2021
+description: El Horóscopo diciembre de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo sagitario noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo sagitario diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo sagitario, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
@@ -16,4 +16,8 @@ sitemap:
 ---
 
 
-El romance ilumina la primera semana del mes. Es posible que estés pensando en dulces pero viejos recuerdos cuando un nuevo y brillante amor aparezca. El Eclipse Solar de Luna Nueva del 1 de noviembre sugiere que conexiones kármicas podrían hacerse durante estos días. Sin embargo, el Eclipse de Luna Llena del 16 de noviembre podría hacerte sentir nervios. Cálmate y confía en tus buenos instintos tanto como tu razón. Las decisiones correctas podrían no hacerse evidentes inmediatamente. Siente las cosas con confianza. La Luna Nueva del 30 de noviembre te posiciona para ser aquella persona que tenga todas las respuestas. Cuida tus propias necesidades en primer lugar y luego sé útil si alguien te pide ayuda.
+Una conversación o algo que descubres ahora te está pidiendo que cuestiones tus creencias, presunciones y percepciones, a medida que aprendes una verdad más profunda. No tienes que dudar de ti. Esta es una oportunidad para renegociar acuerdos importantes en lo económico y lo personal, con el fin de que te ofrezcan mayor seguridad y libertad personal. Reconoce lo que necesitas, y no niegues los nuevos deseos que crecen dentro de ti. No necesitas decírselo a todo el mundo, pero al menos sé una persona honesta contigo. ¿Qué hace que tu corazón lata fuerte cuando piensas en ello? 
+Desde el 2010, Urano en Aries ha puesto a prueba tus ideas de hogar, familia, y de lo que significa la seguridad. Cuando Urano transita por Tauro, la vida te saca de tu zona de confort. Hazlo con gusto. De esa forma no sentirás que te arrastra, y es probable que disfrutes del proceso. Los niños pueden sorprenderte y enseñarte mucho. Busca más profundo dentro de tu corazón, deseos, creatividad y pasión. 
+Los Capricornios suelen tener responsabilidades impuestas desde una edad temprana. Ya eres mayor, pero permítete conectar con tu niño o niña interior y reivindicar tu inocencia. Libérate para dejar salir tu verdadero yo. 
+Días destacados: 9, 14, 20
+Días desafiantes: 1, 5, 22

@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo aries noviembre 2021 
+title: Horoscopo aries diciembre 2021 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
@@ -14,7 +14,4 @@ sitemap:
 ---
 
 
-Alrededor de la luna nueva del día 15, tal vez tu situación laboral o profesional se desvía, pero en una dirección mucho mejor. Estarás mucho más feliz con esto. Sujétate fuerte, y no tengas vergüenza de demostrar tus propias habilidades o experiencia. El día 21, la luna en Cáncer forma un trígono con el soñador Neptuno, y luego con el generoso Júpiter. Podría ser un fin de semana romántico. Tal vez no está en tus planes o presupuesto una recreación o entretenimiento alrededor de la luna llena del 29 de noviembre, pero podría suceder de todas formas. Quizás sea un regalo sorpresa de una persona (o grupo) que te aprecia más de lo que te imaginas. 
-
-Días destacados: 12, 17, 30
-Días desafiantes: 7, 21
+No querrás pasar mucho tiempo a solas alrededor de la Luna Nueva del 4 de diciembre. La compañía de amigos será muy reconfortante. Una o dos amistades cercanas podrían aparecerse inclusive antes de que tengas la oportunidad de llamarles. Tu sector familiar es puesto bajo enfoque con la Luna Llena del 20 de diciembre. Si resulta que un pariente requiere de tu ayuda para llegar a alguna parte, ten apertura a lanzarte a una pequeña aventura o excursión con tal de apoyarle. Futuros planes para unas vacaciones de verano podrían mantener tus días ocupados. Marte, tu planeta regente, se vuelve directo el 29 de diciembre. Espera experimentar progreso en lo que haya estado estancado o debilitado desde mediados de diciembre.

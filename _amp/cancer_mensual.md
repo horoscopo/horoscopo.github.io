@@ -1,6 +1,6 @@
 ---
 layout: amp
-title: Horoscopo cancer noviembre 2021 
+title: Horoscopo cancer diciembre 2021 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
@@ -14,4 +14,4 @@ sitemap:
 ---
 
 
-¡La Luna Nueva del 7 de noviembre presagia gran alegría y diversión! Tu niño interior se encontrará muy cerca de la superficie ahora, y puede que sientas muchas de esas emociones infantiles que resultan de comportarte más creativa y atrevidamente. Las posesiones materiales podrían asumir una mayor importancia durante la Luna Llena del 21 de noviembre. Puede que hasta se te ofrezca más de lo que realmente quieres o puede que encuentres un nuevo hogar para ese especial artículo o herencia que ha dejado de ser parte de tu vida. Al final del mes, podrás atar un montón de cabos sueltos fácilmente mientras la Luna forme trígono con Júpiter el 27 de noviembre.   
+El trígono entre Marte y Júpiter del 1 de diciembre te da el impulso adicional de energía y los contactos sociales que necesitas para hacer las cosas. El amor alcanza su punto más brillante con la Luna Llena del 13 de diciembre. Si no es tu cumpleaños, puede que se te trate como si lo fuera. Celebra y déjate adiciembre Alguien especial querrá mimarte. La Luna Nueva del 28 de diciembre apunta a asuntos de dinero y posesiones materiales. Puede que hayas respetado tu presupuesto hasta ahora, pero la época de festividades no ha terminado todavía. Compórtate seguramente, permanece cerca de casa y ten un emocionante año nuevo de la mejor manera.
