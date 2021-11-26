@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Acuario Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Acuario/
-normallink: /horoscopo-mensual/Acuario/
+permalink: /horoscopo-mensual/amp/acuario/
+normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
- signo: Acuario
+ signo: acuario
  video: -DQpmrrAIeU
 ogimg: /images/mes/Acuario_mes.png#2021-11-26
 sitemap:

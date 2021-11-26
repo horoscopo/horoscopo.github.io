@@ -2,14 +2,14 @@
 layout: horoscopos
 title: Horoscopo Leo Diciembre 2021
 description: El Horóscopo Diciembre de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/Leo/
-amplink: /horoscopo-mensual/amp/Leo/
+permalink: /horoscopo-mensual/leo/
+amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo Leo diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
- signo: Leo
+ signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2021-11-26
+ogimg: /images/mes/leo_mes.png#2021-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'

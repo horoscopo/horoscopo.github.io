@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Cáncer Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Cáncer/
-normallink: /horoscopo-mensual/Cáncer/
+permalink: /horoscopo-mensual/amp/cancer/
+normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
- signo: Cáncer
+ signo: cancer
  video: -DQpmrrAIeU
 ogimg: /images/mes/Cáncer_mes.png#2021-11-26
 sitemap:

@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Escorpio Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Escorpio/
-normallink: /horoscopo-mensual/Escorpio/
+permalink: /horoscopo-mensual/amp/escorpio/
+normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
- signo: Escorpio
+ signo: escorpio
  video: -DQpmrrAIeU
 ogimg: /images/mes/Escorpio_mes.png#2021-11-26
 sitemap:

@@ -2,14 +2,14 @@
 layout: horoscopos
 title: Horoscopo Libra Diciembre 2021
 description: El Horóscopo Diciembre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/Libra/
-amplink: /horoscopo-mensual/amp/Libra/
+permalink: /horoscopo-mensual/libra/
+amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo Libra diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
- signo: Libra
+ signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2021-11-26
+ogimg: /images/mes/libra_mes.png#2021-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'

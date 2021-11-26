@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Virgo Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Virgo/
-normallink: /horoscopo-mensual/Virgo/
+permalink: /horoscopo-mensual/amp/virgo/
+normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
- signo: Virgo
+ signo: virgo
  video: -DQpmrrAIeU
 ogimg: /images/mes/Virgo_mes.png#2021-11-26
 sitemap:

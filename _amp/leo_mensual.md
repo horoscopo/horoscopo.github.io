@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Leo Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Leo/
-normallink: /horoscopo-mensual/Leo/
+permalink: /horoscopo-mensual/amp/leo/
+normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
- signo: Leo
+ signo: leo
  video: -DQpmrrAIeU
 ogimg: /images/mes/Leo_mes.png#2021-11-26
 sitemap:

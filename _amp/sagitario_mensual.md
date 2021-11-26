@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Sagitario Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Sagitario/
-normallink: /horoscopo-mensual/Sagitario/
+permalink: /horoscopo-mensual/amp/sagitario/
+normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
- signo: Sagitario
+ signo: sagitario
  video: -DQpmrrAIeU
 ogimg: /images/mes/Sagitario_mes.png#2021-11-26
 sitemap:

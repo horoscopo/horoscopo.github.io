@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Capricornio Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Capricornio/
-normallink: /horoscopo-mensual/Capricornio/
+permalink: /horoscopo-mensual/amp/capricornio/
+normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
- signo: Capricornio
+ signo: capricornio
  video: -DQpmrrAIeU
 ogimg: /images/mes/Capricornio_mes.png#2021-11-26
 sitemap:

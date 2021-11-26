@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Géminis Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Géminis/
-normallink: /horoscopo-mensual/Géminis/
+permalink: /horoscopo-mensual/amp/geminis/
+normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
- signo: Géminis
+ signo: geminis
  video: -DQpmrrAIeU
 ogimg: /images/mes/Géminis_mes.png#2021-11-26
 sitemap:

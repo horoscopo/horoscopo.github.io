@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Tauro Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Tauro/
-normallink: /horoscopo-mensual/Tauro/
+permalink: /horoscopo-mensual/amp/tauro/
+normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
- signo: Tauro
+ signo: tauro
  video: -DQpmrrAIeU
 ogimg: /images/mes/Tauro_mes.png#2021-11-26
 sitemap:

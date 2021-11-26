@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Piscis Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Piscis/
-normallink: /horoscopo-mensual/Piscis/
+permalink: /horoscopo-mensual/amp/piscis/
+normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
- signo: Piscis
+ signo: piscis
  video: -DQpmrrAIeU
 ogimg: /images/mes/Piscis_mes.png#2021-11-26
 sitemap:

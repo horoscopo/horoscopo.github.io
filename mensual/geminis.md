@@ -2,14 +2,14 @@
 layout: horoscopos
 title: Horoscopo Géminis Diciembre 2021
 description: El Horóscopo Diciembre de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/Géminis/
-amplink: /horoscopo-mensual/amp/Géminis/
+permalink: /horoscopo-mensual/geminis/
+amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo Géminis diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
- signo: Géminis
+ signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2021-11-26
+ogimg: /images/mes/geminis_mes.png#2021-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'

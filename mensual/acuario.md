@@ -2,14 +2,14 @@
 layout: horoscopos
 title: Horoscopo Acuario Diciembre 2021
 description: El Horóscopo Diciembre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/Acuario/
-amplink: /horoscopo-mensual/amp/Acuario/
+permalink: /horoscopo-mensual/acuario/
+amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo Acuario diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
- signo: Acuario
+ signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2021-11-26
+ogimg: /images/mes/acuario_mes.png#2021-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'

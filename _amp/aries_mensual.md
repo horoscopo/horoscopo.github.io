@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Aries Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Aries/
-normallink: /horoscopo-mensual/Aries/
+permalink: /horoscopo-mensual/amp/aries/
+normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
- signo: Aries
+ signo: aries
  video: -DQpmrrAIeU
 ogimg: /images/mes/Aries_mes.png#2021-11-26
 sitemap:

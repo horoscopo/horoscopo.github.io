@@ -2,14 +2,14 @@
 layout: horoscopos
 title: Horoscopo Escorpio Diciembre 2021
 description: El Horóscopo Diciembre de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/Escorpio/
-amplink: /horoscopo-mensual/amp/Escorpio/
+permalink: /horoscopo-mensual/escorpio/
+amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
 keywords: horóscopo diciembre, horoscopos en español, horóscopo Escorpio diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
- signo: Escorpio
+ signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2021-11-26
+ogimg: /images/mes/escorpio_mes.png#2021-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'

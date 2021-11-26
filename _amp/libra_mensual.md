@@ -1,11 +1,11 @@
 ---
 layout: amp
 title: Horoscopo Libra Diciembre 2021 
-permalink: /horoscopo-mensual/amp/Libra/
-normallink: /horoscopo-mensual/Libra/
+permalink: /horoscopo-mensual/amp/libra/
+normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
- signo: Libra
+ signo: libra
  video: -DQpmrrAIeU
 ogimg: /images/mes/Libra_mes.png#2021-11-26
 sitemap:
