@@ -3991,3 +3991,25 @@ Stream mapping:
 Press [q] to stop, [?] for help
 size=   35414kB time=00:15:00.99 bitrate= 322.0kbits/s speed=2.08e+03x    
 video:0kB audio:35414kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000215%
+Ya existe preddicion para la fecha
+Ya existe preddicion para la fecha
+Ya existe preddicion para la fecha
+Ya existe preddicion para la fecha
+Ya existe preddicion para la fecha
+Ya existe preddicion para la fecha
+Ya existe preddicion para la fecha
+Ya existe preddicion para la fecha
+Ya existe preddicion para la fecha
+Ya existe preddicion para la fecha
+Ya existe preddicion para la fecha
+Ya existe preddicion para la fecha
+Traceback (most recent call last):
+  File "/home/arielbmx/horoscopo-del-dia.com/horoscopo.py", line 2290, in <module>
+    generar_predicciones_mensuales()
+  File "/home/arielbmx/horoscopo-del-dia.com/horoscopo.py", line 1633, in generar_predicciones_mensuales
+    suboCambiosGit()
+  File "/home/arielbmx/horoscopo-del-dia.com/horoscopo.py", line 380, in suboCambiosGit
+    subprocess.check_output(["git", "commit" ,"-m", "cfg"])
+  File "/usr/lib/python2.7/subprocess.py", line 219, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['git', 'commit', '-m', 'cfg']' returned non-zero exit status 1
