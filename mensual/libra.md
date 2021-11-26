@@ -1,19 +1,20 @@
 ---
 layout: horoscopos
-title: Horoscopo libra diciembre 2021
-description: El Horóscopo diciembre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/libra/
-amplink: /horoscopo-mensual/amp/libra/
+title: Horoscopo Libra Diciembre 2021
+description: El Horóscopo Diciembre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+permalink: /horoscopo-mensual/Libra/
+amplink: /horoscopo-mensual/amp/Libra/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo libra diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo libra, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo Libra diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
- signo: libra
+ signo: Libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png
+ogimg: /images/mes/Libra_mes.png#2021-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
+ lastmod: '2021-11-26'
 ---
 
 
-Sal a divertirte con tus amigos durante la primera semana de diciembre. Tu hogar se volverá tu refugio a partir de la Luna Llena del 2 de diciembre, y será tu lugar favorito para disfrutar de una racha de creatividad. Los eventos sociales podrían tomar el control de tu vida de nuevo después de la Luna Nueva del 16 de diciembre. Estos pueden dirigirte a cosas buenas y a conocer a personas igual de ambiciosas y cooperativas que tú. Sin embargo, evita los choques de personalidad. Si es necesario, piérdete en la multitud con tal de ampliar tu red de contactos. El Sol entra a Cáncer el 21 de diciembre, trayendo consigo la temporada de verano y unas imparables ganas de tomarte unas vacaciones. Trabaja duro para poder diviértete igual de duro.
+Alrededor de la Luna Nueva del 4 de diciembre, sal a codearte con un gran número de gente nueva. Puede que vayas a algún lugar exótico, una gran fiesta o evento social. Déjate estimular tanto por gente como bromas y conversaciones. La Luna cuadra a Urano el 13 de diciembre, cuando podrías decidir que un plan anteriormente determinado podría ser divertido, pero también demasiado loco. Puede que se te mime con una modesta pero sincera celebración navideña alrededor de la Luna Llena del 19 de diciembre. Ya sea que se trate de Navidad o una de las otras fiestas de temporada, puede que se filtre en tu corazón y quizás cure una herida que no sabías que estaba allí.       

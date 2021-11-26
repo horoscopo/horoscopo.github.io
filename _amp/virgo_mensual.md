@@ -1,17 +1,18 @@
 ---
 layout: amp
-title: Horoscopo virgo diciembre 2021 
-permalink: /horoscopo-mensual/amp/virgo/
-normallink: /horoscopo-mensual/virgo/
+title: Horoscopo Virgo Diciembre 2021 
+permalink: /horoscopo-mensual/amp/Virgo/
+normallink: /horoscopo-mensual/Virgo/
 home: FALSE
 horoscopo:
- signo: virgo
+ signo: Virgo
  video: -DQpmrrAIeU
-ogimg: /images/virgo_char.png
+ogimg: /images/mes/Virgo_mes.png#2021-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
+ lastmod: '2021-11-26'
 ---
 
 
-El 7 de diciembre, la Luna conjunta con Venus y forma trígono con Neptuno, encendiendo tu espíritu navideño brillante y tempranamente. Tanto amigos como conocidos te tratarán como la autoridad y líder que eres durante la Luna Nueva del 11 de diciembre. Di lo que quieras hacer y dónde quieres hacerlo y ve cómo todos hacen que ocurra. La Luna Llena del 25 de diciembre te pone bajo el ojo público. Vístete de gala, sonríe y entrega tus regalos con gran espíritu de celebración. Sin importar la fiesta en la que te encuentres, nadie puede difundir la paz como tú lo haces.
+El trabajo puede intentar apartarte de tu hogar durante la luna nueva del 4 de diciembre, pero tú sabes dónde está tu corazón. Incluso si es una anticipada fiesta de fin de año, quizás quieras dejarla pasar. Sal a la luz durante la luna llena del día 19. La gente quiere estar contigo y hacer lo que estás haciendo. Participa en un evento de caridad de fin de año para niños o ancianos o ambos. Siente el placer de hacer las cosas más simples. La luna forma una conjunción con Neptuno el 24 de diciembre. El corazón de las festividades podría ser el momento más soñado, dulce y hermoso de todos. 

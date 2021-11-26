@@ -1,19 +1,20 @@
 ---
 layout: horoscopos
-title: Horoscopo tauro diciembre 2021
-description: El Horóscopo diciembre de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/tauro/
-amplink: /horoscopo-mensual/amp/tauro/
+title: Horoscopo Tauro Diciembre 2021
+description: El Horóscopo Diciembre de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+permalink: /horoscopo-mensual/Tauro/
+amplink: /horoscopo-mensual/amp/Tauro/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo tauro diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo tauro, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo Tauro diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Tauro, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
- signo: tauro
+ signo: Tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/tauro_mes.png
+ogimg: /images/mes/Tauro_mes.png#2021-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
+ lastmod: '2021-11-26'
 ---
 
 
-Bajo la Luna Llena y el Eclipse Lunar del 7 de diciembre, la necesidad de amor podría sentirse urgente y necesaria. Tal vez atraigas a una persona que no esté lista pero que no quiera decepcionarte. Sincérate e intenta no manipular a nadie. El trígono que la Luna forma con Marte el 12 de diciembre es tu impulso de energía antes de que Mercurio se torne retrógrado más tarde ese día. La Luna Nueva y el Eclipse Solar total del 21 de diciembre ofrecen una oportunidad cósmica para convertirte en la mejor versión de ti. Siéntete noble y fuerte, después sé transparente y deja que el mundo responda a eso. Como con todos los regalos cósmicos, esto puede suceder de formas inesperadas. No te esfuerces demasiado en tener todo bajo control. 
+Mercurio se torna retrógrado el 2 de diciembre. Tómalo con calma y organízate. La luna nueva del 4 de diciembre brilla para ti. Parejas y seres queridos piensan que eres lo máximo, y quieren mostrarte más de su mundo. No tienes que hacer nada especial o inteligente. Piensan que eres una persona encantadora. Solo para que lo sepas. El día 19, la luna llena podría traer un interés romántico totalmente nuevo, o un cierto romance turbulento podría de repente volverse suave como la seda. Disfruta de todo el trato especial y la atención que recibes. El 22 de diciembre, Mercurio se torna directo justo a tiempo para tener una temporada de festividades más dulce y tranquila. 

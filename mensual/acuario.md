@@ -1,19 +1,20 @@
 ---
 layout: horoscopos
-title: Horoscopo acuario diciembre 2021
-description: El Horóscopo diciembre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/acuario/
-amplink: /horoscopo-mensual/amp/acuario/
+title: Horoscopo Acuario Diciembre 2021
+description: El Horóscopo Diciembre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+permalink: /horoscopo-mensual/Acuario/
+amplink: /horoscopo-mensual/amp/Acuario/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo acuario diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo acuario, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo Acuario diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
- signo: acuario
+ signo: Acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png
+ogimg: /images/mes/Acuario_mes.png#2021-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
+ lastmod: '2021-11-26'
 ---
 
 
-Resuelve diferencias diplomáticamente en vez de acudir a la fuerza bruta de tu voluntad en los días alrededor del 5 de diciembre. Incluso si tienes razón y ganas, la discordia volverá. El romance le da brillo a tu mundo bajo la Luna Llena del 15 de diciembre. Puede que tu sangre se sienta ardiente y lista para un gran cambio, pero no te apresures tanto como para ahuyentar a alguien que no sólo es brillante y generoso, pero a quien realmente le importas. La Luna Nueva del 30 de diciembre enciende tus habilidades para resolver problemas. Tu instinto será tan útil como tu lógica, por lo que no pongas toda tu energía en pensar de manera racional. Sabrás cómo saltarle a una solución una vez que la detectes.
+La Luna conjunta con Marte el 3 de diciembre, dándote una inyección de energía para que logres terminar esa interminable lista de mandados. Trata de lograr mucho ese fin de semana. Vuélvete más inteligente en relación a una cuestión monetaria alrededor de la Luna Nueva del 4 de diciembre. Puede que seas capaz de ahorrar más y te dará gusto tener ese dinero extra más adelante. Si tus amigos quieren que salgas más alrededor de estos días, apégate a tu horario y no dejes que te convenzan. Te amarán aunque no lo hagas. Siente tu conexión con todo y todos a tu alrededor bajo la Luna Llena del 19 de diciembre. Una vez que la Navidad ya ha pasado, y tienes ganas de seguir de fiesta, ¡pues hazlo!

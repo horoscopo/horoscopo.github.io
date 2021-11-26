@@ -1,17 +1,18 @@
 ---
 layout: amp
-title: Horoscopo capricornio diciembre 2021 
-permalink: /horoscopo-mensual/amp/capricornio/
-normallink: /horoscopo-mensual/capricornio/
+title: Horoscopo Capricornio Diciembre 2021 
+permalink: /horoscopo-mensual/amp/Capricornio/
+normallink: /horoscopo-mensual/Capricornio/
 home: FALSE
 horoscopo:
- signo: capricornio
+ signo: Capricornio
  video: -DQpmrrAIeU
-ogimg: /images/capricornio_char.png
+ogimg: /images/mes/Capricornio_mes.png#2021-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
+ lastmod: '2021-11-26'
 ---
 
 
-¿Cuándo fue el amor tan emocionante e inteligente como ahora? La Luna Llena del 2 de diciembre podía abrirte los ojos a una nueva y gran oportunidad amorosa. Puede que seas tú quien tenga que hablar primero o presentarse con alguien, pero después de eso, las ruedas rodarán por sí solas. Los colaboradores se vuelven importantes en la segunda mitad del mes, sobre todo después de la Luna Nueva del 16 de diciembre. Haz tu parte y contribuye tanto como sea aceptado. Tendrás una gran cantidad de energía, por lo que ten cuidado y evita pasar por encima de cualquier persona que esté a cargo. El 30 de diciembre será un día dulce, amable y generoso. Sé tan agradable como de costumbre y permite que la gente también sea amable contigo.
+El 1 de diciembre, Mercurio forma trígono con Urano y cuadra al asteroide Quirón. Haz tu rutina más eficiente y no te canses demasiado. Tu familia y vida hogareña son puestas bajo enfoque durante la Luna Nueva del 4 de diciembre. No sientas insuficiencia o inseguridad de ninguna manera. Sé el adulto en la habitación que no aumenta el existente nivel de estrés. La Luna Llena del 19 de diciembre ilumina tu vida social y las instituciones que tocan tu corazón y que te conectan con el mundo exterior. La época navideña podría estar llena de fiestas e intercambios de regalos. Puede que termines pasando poco tiempo en casa esta temporada de fiestas.

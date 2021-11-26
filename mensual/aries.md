@@ -1,19 +1,20 @@
 ---
 layout: horoscopos
-title: Horoscopo aries diciembre 2021
-description: El Horóscopo diciembre de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
-permalink: /horoscopo-mensual/aries/
-amplink: /horoscopo-mensual/amp/aries/
+title: Horoscopo Aries Diciembre 2021
+description: El Horóscopo Diciembre de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+permalink: /horoscopo-mensual/Aries/
+amplink: /horoscopo-mensual/amp/Aries/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo aries diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo aries, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo Aries diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Aries, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
- signo: aries
+ signo: Aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/aries_mes.png
+ogimg: /images/mes/Aries_mes.png#2021-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
+ lastmod: '2021-11-26'
 ---
 
 
-No querrás pasar mucho tiempo a solas alrededor de la Luna Nueva del 4 de diciembre. La compañía de amigos será muy reconfortante. Una o dos amistades cercanas podrían aparecerse inclusive antes de que tengas la oportunidad de llamarles. Tu sector familiar es puesto bajo enfoque con la Luna Llena del 20 de diciembre. Si resulta que un pariente requiere de tu ayuda para llegar a alguna parte, ten apertura a lanzarte a una pequeña aventura o excursión con tal de apoyarle. Futuros planes para unas vacaciones de verano podrían mantener tus días ocupados. Marte, tu planeta regente, se vuelve directo el 29 de diciembre. Espera experimentar progreso en lo que haya estado estancado o debilitado desde mediados de diciembre.
+La Luna Nueva del 4 de diciembre podría hacer de ti un maestro o mentor. Sin embargo, puede que tú no lo veas de esa manera, ya que tu mente estará ocupada aprendiendo y compartiendo a medida que enseñas. Un choque de pensamientos u opiniones podría suceder en tu trabajo cuando Mercurio choque con Plutón el 19 de diciembre. No lleves ningún de esos duros sentimiento a casa contigo. Aprovecha al máximo todo el tiempo que pases en tu hogar alrededor de la Luna Llena del 19 de diciembre. Tanto la Navidad como toda la temporada de fiestas podrían tener un tono público para ti, y vaya que disfrutarás de poder socializar. Sal a formar parte de todo, pero tu hogar es donde tu corazón se encontrará. 
