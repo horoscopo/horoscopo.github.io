@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 22 de noviembre 2021 al 28 de noviembre 2021 
-description: Horóscopo semanal sagitario 22 de noviembre 2021 al 28 de noviembre 2021. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: sagitario 29 de noviembre 2021 al 05 de diciembre 2021 
+description: Horóscopo semanal sagitario 29 de noviembre 2021 al 05 de diciembre 2021. No es que estés cambiando Sagitario, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2021-11-22
+ogimg: /images/zodiac/semanal_sagitario.png#2021-11-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-22'
+ lastmod: '2021-11-29'
 ---
 
 
 
-## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+## No es que estés cambiando Sagitario, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 
-¿Cómo quieres gastar tu vida Sagitario? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Sagitario, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Sagitario, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Sagitario. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Sagitario.
-Si alguien parece oponerse a tus planes, conseguirás lo que quieres si utilizas las palabras correctas. Es la forma en la que dices las cosas lo que puede hacer toda una diferencia en tu capacidad de vender una idea. Los asuntos empresariales también se desarrollan bien, con la Luna Nueva del Martes otorgándote un empujón. Este es un momento excelente para sellar un acuerdo, colaborar con alguien en un nuevo negocio, o solicitar un préstamo para financiar una nueva empresa. También tendrás deseos de ampliar tus horizontes de otras maneras.
+Vamos Sagitario, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida Sagitario, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie Sagitario pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás Sagitario. Así, tal cual.
+Si tienes que hacer promesas esta semana, piénsalo con cuidado. Confía en tus instintos para saber cuál debería ser el próximo paso. Sin embargo, con el curioso Mercurio formando un positivo aspecto con el expansivo Júpiter, no sería tan malo que pienses primero en tus necesidades. Por otro lado, el fogoso Marte entra tu sector de estilo de vida el Jueves para quedarse allí seis semanas, lo cual podría alentarte a pensar sobre tu salud y sobre qué podrías hacer para ser más saludable.
 
 ## Dinero
 
-Esta semana tienes luz verde por parte del Universo para expandir tu búsqueda de empleo. Esto se aplica si estás en busca de trabajo o incluso pensando en cambiar de trabajo si lo que has estado haciendo ahora no tiene ningún significado real para ti. También es el momento de considerar pedir un préstamo.
+Tienes una gran cantidad de aspectos astrológicos afectándote esta semana, muchos de los cuales afectan tu trabajo y dinero. En primer lugar, tus relaciones podrían ser menos que estables. Puede que tengas que contar con alguien más para ese préstamo que habías esperado. Los aspectos en tu sector de grandes instituciones como bancos e impuestos indican que debes tener cuidado con lo que dices y cómo lo dices.

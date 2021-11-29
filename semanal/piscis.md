@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 22 de noviembre 2021 al 28 de noviembre 2021 
-description: Horóscopo semanal piscis 22 de noviembre 2021 al 28 de noviembre 2021. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Piscis de siempre…
+title: piscis 29 de noviembre 2021 al 05 de diciembre 2021 
+description: Horóscopo semanal piscis 29 de noviembre 2021 al 05 de diciembre 2021. Tu presente y tu futuro valen muchísimo la pena Piscis. La vida siempre se acaba equilibrando Piscis. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2021-11-22
+ogimg: /images/zodiac/semanal_piscis.png#2021-11-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-22'
+ lastmod: '2021-11-29'
 ---
 
 
 
-## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Piscis de siempre…
+## Tu presente y tu futuro valen muchísimo la pena Piscis. La vida siempre se acaba equilibrando Piscis. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 
-Vives tanto con tantísima intensidad que a veces te olvidas de la realidad, de lo que aún tienes pendiente, de lo que necesitas conseguir y sobretodo de lo que necesitas cerrar y zanjar. Y es que Piscis, cuando las cosas empiezan a ir un poquito mejor se te olvida todo lo malo por lo que has pasado, por lo que te han hecho pasar. Y estás bien, porque así es como vives el presente, el minuto, el momento, pero a la vez si después viene otra golpe, vuelve a doler. Lo que pasa es que ya no duele igual, ya duele menos, porque te insensibilizas, y eso en realidad no es del todo bueno. Es como si lo esperaras, como si ya supieras que después de una discusión vendrá una reconciliación, con todo, con la gente que está a tu alrededor, con tu vida. Y todo se repite, una y otra vez, y no sales de ese círculo, y lo que antes te rompía el corazón ya no te rompe, porque sabes lo que vendrá después, y así todo el tiempo. Y eso se llama conformismo Piscis. ¿Hace cuanto no te paras a pensar solo si realmente eres feliz con lo que tienes? En la vida puedes estar contento con muchas cosas que no van mal a tu alrededor, pero también tienes que saber cuáles son las que van mal para cambiarlas. Porque aunque no lo creas, una manzana podrida en el cesto puede pudrir las demás si no se saca a tiempo. Y es que, tienes que hacer una limpia en tu vida, no puedes pensar que “bueno, en la vida hay cosas buenas y cosas malas”, claro que es así, pero ahí estás tu para poder cambiar las malas. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Piscis.
-Tal vez algo necesita cambiar, y como ahora se aproxima una fase lunar poderosa, podría tratarse de tus rutinas, hábitos o agenda diaria. Con un fuerte enfoque en un sector más aislado y espiritual de tu carta astral, el sistema actual puede llevarte a dar un paso hacia atrás y ver las cosas en perspectiva. Quizás sucede que un evento ha alterado tu rutina, y que ahora necesitas hacer ajustes alternativos. Sea cual sea la situación, tómate tu tiempo antes de tomar una decisión clave.
+La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Piscis, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+Si bien puede que haya mucho que quieres lograr, una intensa alineación en un sector más recluido de tu carta podría encontrarte bastante sensible y tal vez, impaciente. Si tienes un asunto importante que debes resolver, tómate todo el tiempo que sea necesario. Si puedes posponerlo hasta la semana que viene, esto puede ser una buena idea. Esta conexión bastante enfocada entre el animado Marte y el intenso Plutón en tu sector espiritual puede coincidir con la necesidad de hablar. Podrían surgir emociones que parecen no relacionarse con lo que está sucediendo a tu alrededor. De ser así, puede que estén relacionadas con experiencias pasadas. Hablar sobre ellas con alguien de confianza podría ayudarte a sentirte mucho mejor. 
+ Puede que el amor y el romance también estén en el aire cuando el amoroso Venus ingresa a tu sector de recreación. ¿Por tu cuenta? Puede ser la ocasión perfecta para volver a ciclo de las citas.  
 
 ## Dinero
 
-Como genio de creación de redes, bien sabes cómo hacerlo. Tus relaciones son importantes no sólo por motivos de negocios, sino también para desahogarte después del trabajo. Con un aspecto armonioso en tu sector social, estás haciendo más amigos e incluso sentando las bases para futuras colaboraciones. Has estado haciendo considerables acuerdos, así que no es mal momento para sacar la cuenta final. Cuidado con gastar excesivamente en tus amistades.
+Tu sector de dinero se destaca esta semana. La forma en la que ves el dinero en tu vida entra en cuestión, así como la sabiduría de tus planes monetarios más recientes. Este es el momento de cuestionar todo - incluso lo que decidiste que fue bueno hace unos meses. Alentar las señales del Universo se relacionan con tu capacidad de obtener ingresos, mientras que los detalles de cualquier noticia negativa se suavizan. Estás en el camino correcto en ambos sentidos.

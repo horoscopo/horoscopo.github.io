@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 22 de noviembre 2021 al 28 de noviembre 2021 
-description: Horóscopo semanal aries 22 de noviembre 2021 al 28 de noviembre 2021. Perdona Aries, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+title: aries 29 de noviembre 2021 al 05 de diciembre 2021 
+description: Horóscopo semanal aries 29 de noviembre 2021 al 05 de diciembre 2021. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2021-11-22
+ogimg: /images/zodiac/semanal_aries.png#2021-11-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-22'
+ lastmod: '2021-11-29'
 ---
 
 
 
-## Perdona Aries, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 
-No puedes estancarte con algo Aries, no debes dejar de crecer nunca. Esta semana vas a estar pensando y analizando la situación de tu vida, ¿estás haciendo lo que realmente quieres hacer? No Aries, hay cosas que quieres cambiar pero tienes que cambiarlas ya, empezar y terminar. No puedes conformarte con la vida que estás llevando, el tiempo pasa muy deprisa y cuando te quieras dar cuenta quizás ya sea demasiado tarde, o quizás te sea mucho más complicado tomar decisiones. Sigue con tus proyectos y no te amargues cuando no veas resultados inmediatos. Lo bueno siempre tarda en llegar. Lo que tienes que hacer es no desanimarte. Saca tu verdadero yo, no te metas en nada superficial, al fin y al cabo esas cosas te merman mucho, no es lo tuyo Aries. No vale ni un segundo de tu tiempo. No te calientes demasiado acordándote de cosas que ya fueron y que ahora no son, que jamás podrán volver a ser, sigues perdiendo tu tiempo como lo hagas así. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. No eres mediocre Aries así que, no quieras llevar esa vida, agarra el amor propio que te sale para buscar mejores oportunidades. No es que seas egoísta, no es que te vuelvas egoísta, es que es algo vital que hagas tu vida.
-Un problema que había quedado en el olvido podría salir a la luz a la mitad de semana cuando el eclipse lunar revoluciona tus sentimientos. Puede que este problema resurja en un sueño o quizá en una angustia generalizada que quieres tratar de entender. Puede que te ayude tomarte tiempo y liberar un poco de tiempo en tu agenda. Si lo haces, podrás conectar mejor con este asunto, entender de dónde viene y tratar de buscar una solución. Puede que te sientas mucho mejor al fin de cuentas. 
+Deberían valorarte más Aries, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para Aries, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
+Quizá tu deseo más grande es ingresar a nuevos territorios. Con un enfoque determinado en tu sector de viajes y exploración, puede que busques un cambio y esto ciertamente se refleja en otras influencias en tu carta solar. Sin embargo, es mejor ir paso a paso antes que dar un salto a lo desconocido. Cualquier malentendido que hayas experimentado podría deberse a la fase retrógrada de tres semanas de Mercurio, el cual vuelve a avanzar el 8 de noviembre, lo que te permite tener conversaciones sanadoras.
 
 ## Dinero
 
-¡Qué emoción! Las máquinas funcionan muy bien y el correo llega a tiempo. La comunicación facilita. De por si ya te sientes muy rebelde en lo que estás haciendo actualmente para ganarte la vida. Es posible que te des cuenta de que ésta particular visión de llevar tus finanzas funciona mejor para ti ahora. El expresar tus opiniones no tiene por qué convertirse en un trabajo de tiempo completo. Deja que tu trabajo hable por ti.
+Si has estado buscando maneras de tener más apertura acerca de tus actividades monetarias, el cosmos te provee soluciones de todo tipo. Tendrás apoyo a la hora de comunicar tus necesidades y deseos relacionados con dinero. Si ha pasado mucho tiempo desde la última vez que recibiste un aumento de sueldo, habla con tu jefe acerca de las razones por la cuales te lo mereces. Alguien como tú no malgasta las horas de trabajo, eres un valioso contribuyente.
