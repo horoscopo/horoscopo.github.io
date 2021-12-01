@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de noviembre 2021
-description: Horóscopos del dia de hoy 30 de noviembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de diciembre 2021
+description: Horóscopos del dia de hoy 01 de diciembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-11-30
+ lastmod: 2021-12-01
 ---
-Resuelve asuntos importantes esta mañana y después dedícale la tarde a un leve empuje de relaciones públicas. Presume un poco - de una manera humilde y amable, por supuesto. ¿Estás a punto de tomar una decisión? Pues Venus está a punto de cambiar de signo, así que espera un mejor momento.
+Esta mañana, los cambios inesperados tuercen las rutinas habituales. Por la tarde, se da a conocer la forma en que estos cambios te harán avanzar, tal vez hacia donde pensaste que no querías ir. Esta noche, el sextil entre la Luna y Júpiter es suficientemente bueno como para mejorar el estado de ánimo de cualquiera. ¡Diviértete y trata de relajarte!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
