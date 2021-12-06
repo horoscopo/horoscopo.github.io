@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 29 de noviembre 2021 al 05 de diciembre 2021 
-description: Horóscopo semanal cancer 29 de noviembre 2021 al 05 de diciembre 2021. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Cáncer.
+title: cancer 06 de diciembre 2021 al 12 de diciembre 2021 
+description: Horóscopo semanal cancer 06 de diciembre 2021 al 12 de diciembre 2021. Llega una buena semana Cáncer, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2021-11-29
+ogimg: /images/zodiac/semanal_cancer.png#2021-12-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-29'
+ lastmod: '2021-12-06'
 ---
 
 
 
-## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Cáncer.
+## Llega una buena semana Cáncer, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 
-Empieza a cambiar la mentalidad Cáncer, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado Cáncer, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
-Con Mercurio continuando su fase retrógrada, puede que tengas ganas de retomar un curso o el estudio de una materia en particular. Esto podría tener más ventajas de las que te imaginas. Aunque por lo general prefieres evitar los cambios, podrías aceptarlos con entusiasmo hoy y en las próximas semanas. Al hacerlo, tus creencias y tu perspectiva con respecto a la vida pueden cambiar y esto te lleva a desafiar tus límites y alcanzar tu máximo potencial.
+Sólo tú puedes salvar tu vida Cáncer. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú Cáncer. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+Hay momentos en los que lo único que quieres es que te dejen en paz. Sin embargo, este deseo de hacer lo tuyo podría crear frustración en algunos miembros de tu familia que sienten que deberían tener voz en tus asuntos. Los días por delante podrían requerir de un manejo cuidadoso ya sea que estés tratando con tu socio empresarial o un familiar. Existe la posibilidad de que haya un choque este fin de semana, pero puede ser minimizado si manejas alguna situación ya sea con sensibilidad, o en su caso, con profesionalismo.
 
 ## Dinero
 
-Esta semana tienes una gran cantidad de impulso para atraer más dinero. No es sólo que tu ambición esta saliendo a la superficie. Es también la manera positiva en como te ven los demás como la persona exitosa que está en proceso de crecimiento. Podría haber cierta tensión con compañeros de trabajo o conocidos. Asegúrate de no apostar demasiado.
+Actualmente estás en una fase de transformación con aspectos en tu sector de vidas pasadas, sueños, karma e instituciones. Puede que sientas como si te estuvieras moviendo en cámara lenta, pero eso es sólo porque se te ha estado pidiendo examinar la parte más profunda de ti. Aunque puede ser contra-intuitivo para alguien con tu personalidad, el pedir dirección financiera es inteligente. Combina la recolección de información con la acción cuidadosa y encontrarás que estás en el camino correcto después de todo.

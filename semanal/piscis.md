@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 29 de noviembre 2021 al 05 de diciembre 2021 
-description: Horóscopo semanal piscis 29 de noviembre 2021 al 05 de diciembre 2021. Tu presente y tu futuro valen muchísimo la pena Piscis. La vida siempre se acaba equilibrando Piscis. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+title: piscis 06 de diciembre 2021 al 12 de diciembre 2021 
+description: Horóscopo semanal piscis 06 de diciembre 2021 al 12 de diciembre 2021. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2021-11-29
+ogimg: /images/zodiac/semanal_piscis.png#2021-12-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-29'
+ lastmod: '2021-12-06'
 ---
 
 
 
-## Tu presente y tu futuro valen muchísimo la pena Piscis. La vida siempre se acaba equilibrando Piscis. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Piscis, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-Si bien puede que haya mucho que quieres lograr, una intensa alineación en un sector más recluido de tu carta podría encontrarte bastante sensible y tal vez, impaciente. Si tienes un asunto importante que debes resolver, tómate todo el tiempo que sea necesario. Si puedes posponerlo hasta la semana que viene, esto puede ser una buena idea. Esta conexión bastante enfocada entre el animado Marte y el intenso Plutón en tu sector espiritual puede coincidir con la necesidad de hablar. Podrían surgir emociones que parecen no relacionarse con lo que está sucediendo a tu alrededor. De ser así, puede que estén relacionadas con experiencias pasadas. Hablar sobre ellas con alguien de confianza podría ayudarte a sentirte mucho mejor. 
- Puede que el amor y el romance también estén en el aire cuando el amoroso Venus ingresa a tu sector de recreación. ¿Por tu cuenta? Puede ser la ocasión perfecta para volver a ciclo de las citas.  
+A veces dejas las puertas medio abiertas Piscis, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Piscis porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien Piscis, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado Piscis, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
+Hay mucha actividad en tu sector de metas, lo que puede indicar que es momento de establecer objetivos, ya sean profesionales o personales. Debido a que Mercurio actualmente se encuentra en su fase retrógrada, trata de aplazar la firmar contratos o comprometerte con importantes transacciones. Si es inevitable, podrías descubrir que ocurren cambios que alteran considerablemente los términos y las condiciones originales. Sin embargo, en algunos casos, esto puede beneficiarte. La luna nueva del domingo podría inspirarte a dar el primer paso hacia una ambición personal.
 
 ## Dinero
 
-Tu sector de dinero se destaca esta semana. La forma en la que ves el dinero en tu vida entra en cuestión, así como la sabiduría de tus planes monetarios más recientes. Este es el momento de cuestionar todo - incluso lo que decidiste que fue bueno hace unos meses. Alentar las señales del Universo se relacionan con tu capacidad de obtener ingresos, mientras que los detalles de cualquier noticia negativa se suavizan. Estás en el camino correcto en ambos sentidos.
+Estás siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que pronto necesites sentir comodidad al hablar en público o iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas será muy importante ahora. Tu carrera necesita un poco de energía concentrada e intencional. Evita la confusión con el fin de recibir lo que se aproxima hacia ti.

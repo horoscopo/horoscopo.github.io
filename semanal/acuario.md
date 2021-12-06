@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 29 de noviembre 2021 al 05 de diciembre 2021 
-description: Horóscopo semanal acuario 29 de noviembre 2021 al 05 de diciembre 2021. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+title: acuario 06 de diciembre 2021 al 12 de diciembre 2021 
+description: Horóscopo semanal acuario 06 de diciembre 2021 al 12 de diciembre 2021. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2021-11-29
+ogimg: /images/zodiac/semanal_acuario.png#2021-12-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-29'
+ lastmod: '2021-12-06'
 ---
 
 
 
-## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 
-Tienes grandes planes Acuario, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes Acuario, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el Acuario de siempre…
-Tus finanzas reciben un impulso a principios de semana. Es posible que obtengas una ganancia inesperada o aumento de la nada. Un lucrativo negocio o contrato también podría surgirte, y tendrás deseos de aceptarlo. Hay más buenas noticias con Marte entrando a tu sector de romance y placer para mejorar tus posibilidades de encontrar una cita especial. No hay necesidad de esforzarte demasiado - la persona correcta va a llegar mientras te encuentres en actividades que disfrutas y felizmente te adentres en hacer lo que más amas.
+Llega una etapa buena Acuario, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no Acuario. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea…
+El Sol en Piscis indica que tomarte tiempo para resolver problemas emocionales y liberar cualquier carga emocional podría serte muy útil. Aprovecha esta oportunidad para sumergirte profundamente y descubrir dónde realmente reside el problema. De esta manera saldrás de ello con más energía y alegría de vivir. Mantente alerta a conflictos que pudieran surgir el viernes. Evita expresarte demasiado contundentemente, ya que puede que llegues a lamentar tu actitud más tarde. Aun así, puede que se te haga difícil contenerte una vez que Marte entre a Sagitario el sábado.
 
 ## Dinero
 
-Esta semana hay ciertos aspectos afectando tu expresión personal. Es posible que sientas inspiración por los estilos del pasado o simplemente una forma relacionada con la forma en la que solías pensar en ti y cómo cambiar tu enfoque. El cosmos te ayuda a atraer más a corto plazo y considerar cómo podrías añadir más fuentes de ingresos.
+Estás interactuando con miembros de la familia, niños, pareja y socios creativos. Te estás divirtiendo tanto que puede que no se te ocurra verificar tu saldo bancario. ¡Caramba! Ciertos aspectos favorables se aseguran de que seas capaz de sentirte bien contigo mismo/a, incluso sin tener que gastar tanto. Escucha, es lo mejor.

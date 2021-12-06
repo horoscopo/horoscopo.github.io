@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 29 de noviembre 2021 al 05 de diciembre 2021 
-description: Horóscopo semanal libra 29 de noviembre 2021 al 05 de diciembre 2021. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+title: libra 06 de diciembre 2021 al 12 de diciembre 2021 
+description: Horóscopo semanal libra 06 de diciembre 2021 al 12 de diciembre 2021. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2021-11-29
+ogimg: /images/zodiac/semanal_libra.png#2021-12-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-29'
+ lastmod: '2021-12-06'
 ---
 
 
 
-## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-Parece que no todo va tan mal, no ¿Libra? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-Con ciertas cuestiones de bienestar y estilo de vida a la orden del día, buscar eficiencia puede ayudarte a avanzar hacia tus metas y planes. Si haces lo que dices que vas a hacer, sin duda podrás impresionar a la gente adecuada. La conexión entre Mercurio y Plutón sugiere que dar un servicio ejemplar podría lograrte un aumento de sueldo. Venus forma algunas conexiones interesantes en los próximos días que podrían verte comprometiéndote cada vez más con una relación. El viernes, un candente encuentro podría darte mucho que pensar.
+Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar.
+Esta podría llegar a ser una semana en la que los sentimientos jueguen un papel importante. Desde el principio, una deliciosa conexión entre Venus y Neptuno podría ser ideal para canalizar tu imaginación hacia actividades creativas. También podría ser igualmente positiva para una cita con alguien especial. Entre semana, Venus, tu regente, comienza a avanzar en el apasionado Escorpión, por lo que temas relacionados con finanzas compartidas podrían mostrar una mejora como resultado. El fin de semana se vislumbra muy divertido, con la posibilidad de que un sueño se haga realidad.
 
 ## Dinero
 
-Esta semana tu carrera y autoridad necesitan más atención. Convertirte en el experto que pareces ser significa más dinero en tu cuenta bancaria y más espacio para crecer. Ciertos aspectos astrales afectan tu sector de dinero en el buen sentido. Acumula lo más que puedas para una jubilación cómoda.
+Este período es acerca de grupos, política y autoempleo. Si has estado buscando la manera de ganar más y crear mayor estabilidad, el Universo te da la suerte y la oportunidad de hacer que esto suceda. Acude a tus amistades y redes sociales para ayudarte a construir tu clientela mientras haces la transición de tu empleo actual. Asegúrate de proteger tus ideas y productos con derechos de autor y marcas registradas para asegurar beneficios futuros.

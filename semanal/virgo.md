@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 29 de noviembre 2021 al 05 de diciembre 2021 
-description: Horóscopo semanal virgo 29 de noviembre 2021 al 05 de diciembre 2021. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: virgo 06 de diciembre 2021 al 12 de diciembre 2021 
+description: Horóscopo semanal virgo 06 de diciembre 2021 al 12 de diciembre 2021. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2021-11-29
+ogimg: /images/zodiac/semanal_virgo.png#2021-12-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-11-29'
+ lastmod: '2021-12-06'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 
-Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
-Esta semana, el arte, la música, la cultura y otras divertidas actividades podrían ser placenteras e inspiradoras. Bien puedes aprovechar tu imaginación y utilizarla a tu ventaja, especialmente a través de la visualización y actividades creativas. Si no has incursionado en un pasatiempo favorito últimamente, hacerlo puede ser muy gratificante. En cuanto a romance se refiere, alguien podría estar recibiendo más de lo que da a cambio. Mantente alerta a agendas ocultas o demasiadas pequeñas mentiras. Deja que tu intuición te guíe.
+Sólo hace falta que tu mente haga click Virgo, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
+Es posible que no estés de acuerdo con otra persona. De ser así, la próxima semana te anima a dar pequeños pasos para resolver la situación. La tensión podría continuar de manera subyacente en los próximos días. Trata de encontrar cómo manejarla de forma positiva. Esto te dará la confianza que necesitas para resolver la situación de una vez por todas. La Luna Llena del 8 de diciembre podría traer sentimientos a la superficie, incluso aquellos que esperabas mantener en secreto. Esto puede ser un alivio y una liberación.
 
 ## Dinero
 
-Puede que sientas inquietud y satisfacción esta semana. ¿Cuándo fue la última vez que te sentiste feliz y libre? Probablemente cuando estuviste viajando y aprendiendo algo nuevo. Tu cerebro quiere ser usado. Gastar dinero en una clase o libro interesante o salir a una expedición guiada puede ser justo lo que necesitas para defenderte del aburrimiento. Los planetas se preguntan cómo te cambia lo que aprendes. Te podría sorprender la respuesta.
+Las relaciones serias en tu vida y los problemas financieros que compartes se destacan esta semana. El tener esa importante conversación con tu pareja puede ayudar a aliviar los problemas de dinero antes de que se manifiesten, no después. Eres capaz de utilizar tus habilidades de comunicación para convencer a otros de que tú y tus proyectos son dignos de inversión.
