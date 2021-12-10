@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 09 de diciembre 2021
-description: Horóscopos del dia de hoy 09 de diciembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 10 de diciembre 2021
+description: Horóscopos del dia de hoy 10 de diciembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-12-09
+ lastmod: 2021-12-10
 ---
-Las noticias vuelan cuando Mercurio forma sextil con Urano. Pequeñas sorpresas - algunas bastante agradables - abundan. Esta noche, los solteros no se apresuran a involucrarse a pesar de que parecían estar interesados en un primer momento bajo la Luna fuera de órbita en el indeciso Libra. ¡Recobren el tema más tarde! Por su parte, aquellos en pareja serían prudentes al esperar un mejor momento para hacer preguntas profundas.
+Hoy, presta atención, ya que Saturno, el planeta que suele darle a uno lecciones, sugiere que pensemos seriamente ciertos problemas. Las parejas tienen la intención de preservar el espacio que tanto parecen necesitar bajo la Luna en Acuario de esta noche. Solteros, la atracción tiene mucho que ver con la actitud y el enfoque cuando Júpiter aspecta a Urano.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
