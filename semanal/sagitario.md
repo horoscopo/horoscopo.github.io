@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 06 de diciembre 2021 al 12 de diciembre 2021 
-description: Horóscopo semanal sagitario 06 de diciembre 2021 al 12 de diciembre 2021. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Sagitario, no hay casualidades ni coincidencias.
+title: sagitario 13 de diciembre 2021 al 19 de diciembre 2021 
+description: Horóscopo semanal sagitario 13 de diciembre 2021 al 19 de diciembre 2021. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2021-12-06
+ogimg: /images/zodiac/semanal_sagitario.png#2021-12-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-06'
+ lastmod: '2021-12-13'
 ---
 
 
 
-## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Sagitario, no hay casualidades ni coincidencias.
+## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
 
-Hay gente que no respeta que puedas crecer Sagitario, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Sagitario pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Sagitario, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
-Con el actual enfoque en Géminis, estás en una fase natural en la que es una buena idea disminuir tu ritmo. Esta es una época del año en que te beneficiará tener un horario más ligero. Deja más tiempo para meditar, reflexionar sobre la vida, y decidir qué es lo mejor para tu futuro. Puede que notes que eres más sensible de lo normal a los estados de ánimo y sentimientos de otras personas, lo que puedes utilizar a tu ventaja. Puede que se te antoje paz y tranquilidad después de pasar tiempo con grandes grupos de personas.
+Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
+Si no tienes seguridad acerca de lo que sientes por alguien, o viceversa, no hagas nada. La alineación Júpiter/Neptuno de esta semana podría hacerte fantasear y poner a alguien en un pedestal. Al tomarte tiempo para conocer a la persona mejor, te darás cuenta de que tiene defectos como todos los demás. Sin embargo, ¡esos defectos podrían hacer que le aprecies aún más! El movimiento de Saturno a Sagitario puede echar a andar las ruedas del progreso en tu hogar. Puede que sientas disposición a organizarte o iniciar grandes proyectos.
 
 ## Dinero
 
-Hay algunas restricciones y limitaciones en tu capacidad para aprender y enseñar, así como también los viajes. Aunque es posible que te estés mordiendo las uñas para poner las cosas en marcha, no hay caso en luchar contra esta influencia. La buena noticia es que también hay aspectos favorables. Son tus amigos, contactos sociales, conocidos y colegas los que apoyarán tus esfuerzos en el trabajo y en tu vida monetaria. Ellos proporcionarán una muy bienvenida distracción hasta que las cosas se abran o mejoren.
+Hay algunos desafíos en tu camino esta semana. Las relaciones son clave para tu éxito ahora, y el Universo te está empujando hacia ellos de una manera no tan sutil. El socializar es ante todo divertido, pero también puede ponerte en contacto con importantes clientes nuevos que podrían serte útiles en el futuro.

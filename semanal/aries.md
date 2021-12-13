@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 06 de diciembre 2021 al 12 de diciembre 2021 
-description: Horóscopo semanal aries 06 de diciembre 2021 al 12 de diciembre 2021. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+title: aries 13 de diciembre 2021 al 19 de diciembre 2021 
+description: Horóscopo semanal aries 13 de diciembre 2021 al 19 de diciembre 2021. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Aries, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2021-12-06
+ogimg: /images/zodiac/semanal_aries.png#2021-12-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-06'
+ lastmod: '2021-12-13'
 ---
 
 
 
-## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Aries, abre las puertas y ciao. No tienes que mantener nada…
 
-Llevabas un ritmo un poco alocado Aries, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Aries, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más Aries, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
-Las cosas lucen bien para ti esta semana con el planeta de la belleza, Venus, ingresando a tu signo para que sientas incluso más atractivo en ti de lo habitual. Esta influencia puede respaldar cualquier cambio reciente y podría animarte a renovar tu imagen. Tu enfoque está en avanzar con audacia y en aprovechar las nuevas oportunidades. Puede que te atraiga especialmente una idea mientras el sol en tu signo aspecta al potente Plutón en tu sector de conversación y pensamiento. Plantar una semilla ahora podría dar como resultado grandes desarrollos más adelante.
+Llega una buenísima semana Aries pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien Aries, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado Aries, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo Aries, pelea por lo que te mereces.
+Podrías sentir la tentación de invertir dinero en una brillante idea. Sin embargo, puede que sea prudente hacer un poco de investigación antes, ya que podría ser un desperdicio de dinero en caso de que pierdas el interés. En lo que respecta al romance, puede que sientas la tentación de tratar de apresurar el avance de una relación. Esto podría ser prudente, pero el cuarto de luna en Escorpión sugiere que hacerlo podría representar obstáculos en lugar de ayudarte. Sin embargo, cuando el encantador Venus ingresa a Piscis el sábado, las cosas pueden comenzar a desarrollarse naturalmente. 
 
 ## Dinero
 
-Puedes darte cuenta de que las oportunidades para ganar y ahorrar dinero se duplican e incluso triplican en las próximas semanas. Mientras que te ocupas recogiendo las mejores oportunidades financiera a tu alrededor, no descuides la familia, los niños, el romance y la creatividad. A pesar de que estés recibiendo más, diviértete y prueba cosas nuevas y asegúrate de cumplir con tu presupuesto. Durante algunas semanas, tendrás la oportunidad de salir de los viejos patrones.
+Te encuentras en el séptimo cielo esta semana con un feliz aspecto en tu signo. Esto puede hacerte una persona más divertida, por no mencionar más atractiva a los demás, por lo que tu actividad social y confianza están destinadas a aumentar. De hecho, puede que lo sientas tanto que hasta podrías voluntariamente trabajar en todo tipo de emocionantes y nuevos proyectos en el trabajo e incluso asumir la responsabilidad de hacerte cargo de actividades sociales de todo tipo en tu empresa. No hay duda de que ciertas recompensas monetarias tocarán pronto a tu puerta.

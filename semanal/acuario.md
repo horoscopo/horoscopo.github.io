@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 06 de diciembre 2021 al 12 de diciembre 2021 
-description: Horóscopo semanal acuario 06 de diciembre 2021 al 12 de diciembre 2021. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: acuario 13 de diciembre 2021 al 19 de diciembre 2021 
+description: Horóscopo semanal acuario 13 de diciembre 2021 al 19 de diciembre 2021. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2021-12-06
+ogimg: /images/zodiac/semanal_acuario.png#2021-12-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-06'
+ lastmod: '2021-12-13'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 
-Llega una etapa buena Acuario, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no Acuario. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea…
-El Sol en Piscis indica que tomarte tiempo para resolver problemas emocionales y liberar cualquier carga emocional podría serte muy útil. Aprovecha esta oportunidad para sumergirte profundamente y descubrir dónde realmente reside el problema. De esta manera saldrás de ello con más energía y alegría de vivir. Mantente alerta a conflictos que pudieran surgir el viernes. Evita expresarte demasiado contundentemente, ya que puede que llegues a lamentar tu actitud más tarde. Aun así, puede que se te haga difícil contenerte una vez que Marte entre a Sagitario el sábado.
+La meta es dura Acuario, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay Acuario que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normalmente, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Acuario. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Acuario… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+Puede que se te ocurra una idea en un sueño o tengas una intuición que parece recobrar más importancia esta semana. Con el expansivo Júpiter, tu planeta guía, alineándose con el poderoso Plutón, esta puede ser una oportunidad para pensar cómo puedes convertir tu idea en realidad y así llevarla adelante. La luna nueva en tu sector de finanzas personales puede ayudarte a poner en marcha este proceso. La comunicación e interacción se vuelven más importantes a partir del Domingo, cuando algunos brillantes encuentros te abran nuevas puertas.
 
 ## Dinero
 
-Estás interactuando con miembros de la familia, niños, pareja y socios creativos. Te estás divirtiendo tanto que puede que no se te ocurra verificar tu saldo bancario. ¡Caramba! Ciertos aspectos favorables se aseguran de que seas capaz de sentirte bien contigo mismo/a, incluso sin tener que gastar tanto. Escucha, es lo mejor.
+Puedes tener la tentación de ir a por un trabajo que no pensabas que podrías conseguir hace una semana. Estás ganando seguridad, no sólo acerca de tus habilidades innatas, sino también acerca de cómo te expones al mundo con tu discurso, gestos y forma de vestir. Ciertos aspectos indican un tiempo de resolución de problemas a nivel familiar o con tu pareja romántica. Dos o tres mentes piensan mejor que una cuando se trata de la construcción de tu nueva imagen.

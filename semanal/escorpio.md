@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 06 de diciembre 2021 al 12 de diciembre 2021 
-description: Horóscopo semanal escorpio 06 de diciembre 2021 al 12 de diciembre 2021. Todo acaba cicatrizando, pero tienes que dejar que cicatrice Escorpio. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: escorpio 13 de diciembre 2021 al 19 de diciembre 2021 
+description: Horóscopo semanal escorpio 13 de diciembre 2021 al 19 de diciembre 2021. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2021-12-06
+ogimg: /images/zodiac/semanal_escorpio.png#2021-12-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-06'
+ lastmod: '2021-12-13'
 ---
 
 
 
-## Todo acaba cicatrizando, pero tienes que dejar que cicatrice Escorpio. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 
-No es que estés cambiando Escorpio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
-Puede que un análisis o algo que leas resulte muy liberador, ya que podrás comprender nuevos conceptos y expandir tu conciencia. Estas nuevas ideas podrían alentarte a cambiar tu rutina diaria para incluir nuevas prácticas o nuevos hábitos que mejorarán tu calidad de vida. Este es el momento en el que quizá cambies algunas de tus creencias o conectes con algún instructor o gurú que pueda alentarte a aprovechar tu vida al máximo.
+No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse Escorpio, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo Escorpio, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
+Con la temporada de fiestas oficialmente en marcha, la semana por delante podría verte haciendo cambios de estilo de vida con el fin de evitar ganar demasiado peso. Marte en Libra te anima a ejercitarte regularmente, pudiendo ir desde el baile a ejercicios aeróbicos siempre y cuando disfrutes hacerlo. El movimiento de Venus a Escorpión le agrega una nota de intensidad a todas las relaciones, en particular los lazos románticos y las relaciones a largo plazo. A lo largo del fin de semana, evita chocar con alguien y trata de encontrar un compromiso.
 
 ## Dinero
 
-Te diriges a un momento interesante. La gente se siente atraída hacia ti y a tu mensaje, así que si tienes que dar una presentación o formular un argumento con respecto a ventas, prográmalo para esta semana. Con el apoyo del Universo, tu sector de comunicación es el más afectado. ¿Cómo puedes llevar ese compromiso que recibiste al siguiente nivel y convertirlo en una promoción?
+Con cierta actividad en tu sector de relaciones, puede que sientas como que eres ser más social. Incluso si no estás buscando un favor por parte de alguien, estar en contacto con tus contactos profesionales es una buena idea para recordarles de tus habilidades. Es posible que tengas que preocuparte un poco más por las primeras apariencias e impresiones y asegurarte de poner tu mejor pie  por delante con el fin de mejorar tu futuro financiero.
