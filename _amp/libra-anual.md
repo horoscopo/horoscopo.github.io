@@ -1,60 +1,51 @@
 ---
 layout: amp
-title: Horóscopo Libra 2021 
+title: Horóscopo Libra 2022 
 permalink: /horoscopo-anual/amp/libra/
 normallink: /horoscopo-anual/libra/
-description: Libra horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Libra 2021 gratis. Disfruta este año nuevo.
+description: Libra horóscopo del 2022, amor, trabajo, vida personal. Todas las predicciones para Libra 2022 gratis. Disfruta este año nuevo.
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Libra 2021, horoscop, horóscopos gratis, horoscopo Libra, horoscopo Libra 2021 gratis, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2022, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2022, horóscopo esperanza gracia, horoscopo Libra 2022, horoscop, horóscopos gratis, horoscopo Libra, horoscopo Libra 2022 gratis, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/libra_anual.png
 horoscopo:
  signo: libra
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
- lastmod: 2020-12-19
+ lastmod: 2021-12-20
 ---
 
 
 
 
-Este año, tus objetivos van a hacer que tu mente tenga una sola meta. Y es muy probable que tengas un objetivo financiero personal que te dé un sentimiento algo extremista durante todo el año. Vas a enfrentarte a una serie de influencias planetarias que te harán medir tu progreso, lo que te dará una concreta sensación de avance.
+Eres un signo de Aire pacificador y diplomático, Libra, pero también tienes un poder cerebral considerable que la gente a veces pasa por alto porque eres muy amable. El 2022 es tu año para demostrar que tienes lo que hace falta para triunfar realmente más allá de las expectativas de los demás y quizá también de las tuyas. No hay nada malo en ser imparcial y trabajar por el bien común, pero tampoco hay nada malo en perseguir tus mejores intereses.
 
+Tu hermoso líder Venus comienza el año 2022 retrógrado en el disciplinado Capricornio, así que puede que no haya mucha experimentación, especialmente en lo que respecta al amor y al dinero. Mantén las cosas de manera similar en esas áreas hasta que tengas algunos objetivos a largo plazo resueltos será donde tu mente esté. Venus deja su posición retrógrada a finales de enero, pero no se emparejará con el innovador Acuario hasta principios de marzo, que es cuando empezarás a diversificar e incluso a rebelarte un poco en estas dos importantes áreas de tu vida.
 
-Sin embargo, justo al cruzar la puerta de entrada, con la Luna del 7 de Enero en Aries opuesta a Marte en Libra, también sentirás tensión entre mantener una vida personal satisfactoria y el logro de un objetivo profundamente deseado. Puede que el hecho de que tus amigos deseen mantenerte “dentro del círculo" no ayude mucho, pero tus familiares, por otro lado, serán más de apoyo. Los miembros de tu familia pueden a veces sufrir de disputas menores, pero tales serán superadas con facilidad. 
+El inquebrantable Saturno determina el estado de ánimo general de este año, y su imprevisible colaboración con el progresista Acuario podría sumir tus planes en el caos. A Acuario le gusta agitar las cosas y simplemente "ver qué pasa", y cuando se trata de objetivos y planes de vida bajo esta influencia, esta incertidumbre puede ser bastante aterradora. Permítete experimentar y probar cosas nuevas, Libra, pero aférrate a la idea de que todavía tienes que hacer las cosas.
 
-
-El punto principal es que tu trabajo está produciendo resultados, y pocos realmente pueden oponerse a eso. Los aspectos astrológicos en conjunto son buenos para tus objetivos personales, siempre y cuando no dejes que personas ajenas te desvíen de tu curso. ¡Los verdaderos amigos van a entender tus necesidades!
-
+Cuando Venus se encuentre finalmente con tu signo diplomático a finales de septiembre, se sentirá como en casa y a gusto, y tú deberías sentirte igual en tu propia piel. Tus relaciones serán tu principal objetivo ahora, pero asegúrate de atender también tus necesidades.
 
 ## Amor para Parejas
 
-¿Puede un año ser pacífico y emocionante al mismo tiempo? ¡El 2021 bien puede serlo para ti Libra! Tú y tu pareja tienen un gran corazón y quieren complacerse el uno al otro. Además, los problemas monetarios y los grandes y locos deseos estarán a un mínimo.    
-Tiernos sentimientos estarán cerca de la superficie durante todo el año, por lo que trátense con más consideración de la habitual durante el Eclipse Solar de Junio y el Eclipse Lunar de Noviembre. 
-Los cuatro retrocesos de Mercurio se manifiestan en signos de Tierra, por lo que puede que cualquier falla de comunicación sea sobre cuestiones prácticas. Anoten las cosas, paguen las cuentas a tiempo y ayúdense a encontrar sus llaves y teléfonos perdidos. 
-Si han tenido el anhelo de poseer su lugar propio, este podría ser el año indicado para ello, especialmente después de Agosto. ¡Investiguen al respecto!
-La pasión aumenta más adelante en el año. Uno (o ambos) de ustedes podría necesitar más intimidad y atención física en Noviembre y Diciembre. Sean comprensivos al respecto y apóyense mutuamente. ¡Qué increíble terminar con su relación siendo incluso más fuerte que cuando comenzó el año!
+La luna es nuestra guía emocional, y durante la luna llena en tu signo equilibrado a mediados de abril, tus relaciones se someten a un examen completo. ¿Qué es lo que se siente desequilibrado y qué es injusto en tu relación? Bajo esta lunación, encontrar el equilibrio es esencial para tu bienestar porque tanto tus deseos como los de tu pareja son igualmente importantes. El compromiso será la clave para salir de esta fase lunar como una pareja sana y amorosa.
+
+Venus entra en el tradicional Tauro, el otro signo que rige, a finales de mayo, agudizando tus sentidos (y aumentando la sensualidad) pero también aumentando el potencial de celos y posesividad. Esta dinámica amorosa más conservadora puede hacer que ambos se sientan más seguros o se alejen por una diferencia de valores. El dinero también es un tema importante durante este tránsito, y no ver sus finanzas comunes puede abrir una gran brecha entre ustedes. Los viajes de compras mutuas deben ser gastados centrándose en artículos de calidad y duraderos que aumentarán su valor.
+
+El asteroide Eros indica deseos y atracciones, y como pasa tiempo en tu signo equilibrado entre principios de octubre y principios de noviembre, hay un énfasis en la igualdad sexual. Comprender lo que ambos necesitan y explorar los deseos del otro enriquecerá su vida amorosa e intensificará sus experiencias íntimas. Coqueteen. Háganse cumplidos. Utilice su encanto para conectar sexualmente con su pareja. Y disfruta del "toma y daca" que supone este tránsito mutuamente satisfactorio.
 
 ## Amor para Solteros
 
-¡El amor te rodea en el 2021, Libra! Tu vida social está repleta de prospectos románticos y probablemente alguien nuevo estará a tu alcance para coincidir con tus gustos y deseos del momento.
+El estelar Venus, tu regente, está viajando retrógrado en Capricornio llevado a principios de año, por lo que querrás prestar mucha atención a los movimientos románticos que hagas ahora. Cualquier paso en falso que se dé durante este período retrógrado suele salir a la luz una y otra vez, lo que podría ser una propuesta extremadamente dolorosa durante el resto del año y más allá.
 
+Si estás tratando de superar un desamor y quieres algo de emoción (o distracción) en tu vida amorosa este verano, recibirás una buena dosis del fogoso Aries. El amor es apasionado y espontáneo cuando Venus se une al signo de fuego Aries a principios de mayo, y el hecho de no saber lo que puede ocurrir a continuación puede dar lugar a encuentros muy calientes. Ahora no estás buscando un compromiso a largo plazo, e incluso si llega la persona adecuada, puede que no la reconozcas como "la correcta".
 
-Por supuesto, esto puede ser tanto una bendición como una maldición. Acércate a las nuevas personas con un cálido optimismo, pero con una razonable precaución. Ya sabes esto, pero con el trígono que Venus forma con Urano para ti este año, es incluso más importante.
-
-
-Febrero y septiembre son momentos para ir despacio con los nuevos pretendientes. La influencia de Neptuno es fuerte en ese momento, lo que hace que las primeras impresiones sean menos confiables. 
-
-
-Las compañías divertidas y más confiables predominan en julio y agosto, cuando tus instintos están más afilados. Aquí, la fase retrógrada de Mercurio que se manifiesta en Libra es tu aliada. Es posible que la fase retrógrada de Marte haga lo mismo para controlar cualquier tipo de pasión salvaje.
-
-
-Durante octubre y noviembre, la fase retrógrada de Venus en Escorpión y luego en Libra posiblemente también sea tu aliada. Ya sabes que correr riesgos y apasionarte son elecciones que necesitan más respeto. Aun así, una conexión hecha ahora podría ser “la indicada.”
-
+Las nuevas conexiones pueden hacerse fácilmente bajo la luna nueva en tu encantador y agraciado signo hacia finales de septiembre, ya que la vida debería ir sobre ruedas y todo parece estar bien con el mundo. Qué buen momento para introducir el amor en la ecuación, ¿verdad? Aunque estés preparado para introducir el amor en tu vida, ten cuidado de no alterar el cuidadoso equilibrio que tanto te ha costado conseguir. Evalúe cuidadosamente sus opciones. Si estar solo durante un tiempo más merece la pena renunciar a una buena oportunidad romántica, no dude en tomar la decisión más adecuada para usted.
 
 ## Trabajo
 
-Este año, tomar decisiones cruciales significa que siempre debes estar varios pasos adelante de todos los demás. Hay una fuerte posibilidad de que llegue la abundancia, en especial con grandes ganancias financieras que trae el tránsito de Júpiter en el signo de Acuario, más específicamente desde enero hasta mediados de mayo, y también desde mediados de octubre hasta finales de diciembre. También es muy probable que aceptes múltiples proyectos o abarques varios ámbitos laborales diferentes. Saturno atraviesa tu novena casa de aprendizaje y educación superior, lo que resalta tu insaciable sed de conocimiento.
-Tienes muchos caminos que puedes considerar tomar, tanto por las oportunidades financieras como por tu satisfacción espiritual en el mundo. Realmente puedes unirlo todo y ser extremadamente feliz con tus decisiones profesionales este año.
-Para quienes están apoyando a la familia o tienen un acuerdo colectivo de negocios, puede que terminen asumiendo un rol de liderazgo para el que no se habían preparado en un principio. El nodo norte del destino atraviesa tu intelectual signo y trae muchas oportunidades que ni siquiera habías notado, ¡y ya quieres aprovecharlas!
-¡El universo tiene grandes planes este año para tu dinámico signo! Todo lo que debes hacer es estar presente y tener ganas de aprender. Puede haber momentos en que fluyen tantas ideas que quizás sea difícil seguir el ritmo de tu mente veloz. Así que ten mucho cuidado y disponte a escuchar cada palabra que digan tus colegas, debido a toda la energía del innovador Urano que revuela en tu segunda casa solar de finanzas. 
+Sueles ser un empleado muy cooperativo y un empleador justo, y te gusta que las cosas vayan bien sin tanto drama ni desorden. Entonces, ¿es el 2022 el año en que necesitas salir de tu zona de confort y probar algo nuevo para hacer carrera? ¿Por qué no, Libra?
+
+Con el poco convencional Urano en el conservador Tauro este año, muchas oportunidades podrían quedar inconclusas. Este tránsito te abre un poco a nuevas experiencias e ideas, así que vale la pena estar constantemente atento a los movimientos profesionales que no hayas considerado en el pasado. Las ofertas de trabajo que tienen que ver con la tecnología, las finanzas o una combinación de ambas son una gran oportunidad para ti este año, Libra, pero es posible que necesites una formación especializada antes de poder entrar en un papel totalmente nuevo.
+
+Tu carrera se vuelve fluida y versátil a finales de mayo, cuando tanto el Sol, seguro de sí mismo, como la Luna Nueva, promotora de oportunidades, se encuentran en el sociable y afín signo de Aire Géminis. No eres el tipo de empleado o empleador que se empeña en ganar a toda costa, sino que consigues lo que quieres utilizando tu diplomacia. La complacencia puede ser un efecto secundario de este tránsito/lunación, pero deberías estar bien siempre que mantengas tus objetivos principales en mente.

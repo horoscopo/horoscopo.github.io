@@ -1,60 +1,51 @@
 ---
 layout: amp
-title: Horóscopo Capricornio 2021 
+title: Horóscopo Capricornio 2022 
 permalink: /horoscopo-anual/amp/capricornio/
 normallink: /horoscopo-anual/capricornio/
-description: Capricornio horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Capricornio 2021 gratis. Disfruta este año nuevo.
+description: Capricornio horóscopo del 2022, amor, trabajo, vida personal. Todas las predicciones para Capricornio 2022 gratis. Disfruta este año nuevo.
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Capricornio 2021, horoscop, horóscopos gratis, horoscopo Capricornio, horoscopo Capricornio 2021 gratis, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2022, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2022, horóscopo esperanza gracia, horoscopo Capricornio 2022, horoscop, horóscopos gratis, horoscopo Capricornio, horoscopo Capricornio 2022 gratis, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/capricornio_anual.png
 horoscopo:
  signo: capricornio
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
- lastmod: 2020-12-19
+ lastmod: 2021-12-20
 ---
 
 
 
 
-Este año, céntrate en tu propio bienestar por encima de todo. De esta manera, puedes aumentar tu riqueza material y salud, así como también estructurar un futuro más estable. Con Marte y el asteroide Ceres comenzando el año en tu signo, tienes la energía para crear y manifestar el futuro que deseas.
-A principios de enero, la conjunción Sol-Plutón se manifiesta en el Cardinal Signo de Tierra Tauro. A los Signos Cardinales les encanta iniciar cosas y los Signos de Tierra (como Capricornio y Tauro) son totalmente prácticos y realistas. Esta conjunción es una señal para hacer un gran cambio o formular un nuevo y ambicioso plan para hacer que el 2021 sea uno de tus mejores años.
-Saturno, tu planeta regente, se encuentra retrógrado este año. ¿Cuáles son las cosas y personas que te hacen más feliz? Una vez que este retroceso se termine, es posible que desees algo de tiempo para dejar que tus sentimientos se calmen con el fin de centrarte en lo que realmente importa.
-De los cuatro retrocesos de Mercurio, el segundo comienza en Capricornio. Durante este periodo (en abril), reconsidera decisiones anteriores y haz mejoras.
-La primavera puede ser complicada, pero el otoño se vuelve más simple y más serio cuando Júpiter entra a Escorpión en octubre. Diciembre será un mes muy poderoso para todos los Signos de Tierra conforme Saturno entra a Capricornio, su signo anfitrión. ¡Los cambios sucederán en todas partes!
+Eres uno de los signos más decididos del zodiaco, Capricornio, y tus ambiciones son más grandes que nunca este año. Puede que tus objetivos sean un poco difíciles de alcanzar, pero es probable que no dejes de luchar y escalar hasta que hayas logrado todos los que puedas. Y como tu planeta natal, Saturno, está emparejado con el inteligente e innovador Acuario este año, tener una mentalidad más abierta a la vida te lleva a poner en práctica diferentes tácticas y a considerar nuevas oportunidades, lo que a su vez te permite enfrentarte a formidables retos y superar tus ya notables récords.
+
+El periodo retrógrado de Saturno, impulsado por el estatus, comienza a principios de junio y termina a mediados de octubre, mientras sigue emparejado con el librepensamiento de Acuario. Aunque no sueles frenar por decisión propia, este ciclo retrógrado te dará una razón para detenerte y evaluar lo que has podido lograr hasta este momento del año. Después de todo el trabajo duro, será bueno aprovechar este espacio para respirar y pensar en cosas que podrías hacer de manera diferente en el futuro.
+
+Como siempre, Capricornio, el Sol visita tu disciplinado signo cardinal a finales de diciembre, y sin duda celebrarás tu cumpleaños con un estilo comedido pero elegante. Si te has mantenido fiel a la forma y has mantenido la cabeza baja para trabajar hacia tus objetivos este año, deberías tener algunas recompensas en tu camino. Déjate llevar un poco durante las fiestas y haz que la gente sepa lo divertido que puedes ser.
 
 ## Amor para Parejas
 
-Para los Capricornio en pareja, puede que este año realmente tengan que apoyarse mutuamente en cuestiones emocionales. Esta no va a ser una buena época para los corazones débiles, y tú eres un auténtico guerrero espiritual.
-Como eres un ser de luz, ves más allá de los velos de confusión, y al estar en un vínculo amoroso, sentirás una increíble conexión y aceptación. Acude a tu pareja para que sea tu guía cuando te pierdas, y tu amor también acudirá a ti.
-Este también puede ser un año muy bueno para experimentar un poco más y avivar el fuego, en especial en torno a la fantástica energía de los eclipses en mayo, junio y diciembre. ¡Nunca sabes lo que puedes descubrir! Es una mezcla de fantasía, diversión y exploración que realmente extiende tus límites, y va a sacudir el mundo de ambos en su combinación romántica.
-Para aquellas parejas que están pensando en agrandar la familia, este también es el año perfecto para buscar un embarazo o incluso considerar invertir en un nuevo hogar, ya que el nodo norte en Géminis te lleva a las profundidades de tu cuarta casa personal. Esta es una energía que te pone los pies sobre la tierra, lo que incluso puede convertirte en terapeuta de relaciones para tus amistades y seres queridos que están atravesando ciertas dificultades.
-Recuerda mantener un límite muy fuerte a tu alrededor y en torno a seres queridos, y ¡no te sobrepases si no es necesario! ¡Necesitarás toda la energía que puedas tener este año! Es una buena idea apreciar las pequeñas cosas como noches de citas románticas y acurrucarte con tu amor.
+Con tu gobernador Saturno emparejado con el pensador original de Acuario durante todo el año, este puede ser un gran momento para fortalecer tu relación. Este tránsito hace que las personas se unan para ir más allá de las capacidades de cada individuo, y deberían trabajar muy bien como equipo, uniendo y fusionando cada uno de sus talentos únicos. Dado que lo más probable es que hayan comenzado su romance como una amistad platónica, han construido su relación sobre una base muy sólida, que puede llevarlos a través de cualquier momento difícil y estresante que su pareja encuentre este año. Una conjunción Venus-Saturno a finales de marzo podría poner a prueba tu relación con la distancia emocional o física, pero un vínculo saludable saldrá del otro lado más fuerte que antes.
+
+Tu signo no tiene fama de ser uno de los más románticos del zodíaco, pero cuando el amoroso Venus se asocie con el emocional signo de Agua de Cáncer desde mediados de julio hasta mediados de agosto, estarás mucho más atento, doméstico y centrado en las relaciones. Ahora das y aceptas el afecto con más facilidad, lo que mejora las cosas tanto emocional como físicamente. Durante este tránsito, dé rienda suelta a sus inevitables sentimientos mirando viejas fotos juntos o rememorando recuerdos como el día de su primer encuentro.
+
+El asteroide Juno es clave para leer el éxito de las relaciones a largo plazo, y con su posicionamiento en tu ambicioso signo durante todo el mes de enero, es un buen indicio de que apreciarás los valores tradicionales y trabajarás duro para preservar la estructura y la estabilidad de tu relación. Juno se une al sensible Piscis hacia finales de abril y permanece allí durante el resto del año, enriqueciendo el lado romántico y cariñoso de tu relación. Esta combinación de determinación y cariño asegura que pondrás tu relación en lo más alto de tu lista de prioridades a lo largo de 2022.
 
 ## Amor para Solteros
 
-Las oportunidades para el romance se te hacen presentes, pero puede que se estén escondiendo en las esquinas y en los lugares más inesperados. Vas a tener que realmente mantenerte alerta durante los primeros meses del año, aunque en Abril dos increíbles conjunciones harán que las citas se vuelvan un poco más potentes y creen una impresión duradera en ambos de sus corazones.
+La luna nueva y el eclipse solar en el signo de tierra compañero de Tauro a finales de abril crean un momento de nuevos comienzos y también afectan a cuestiones relacionadas con tu autoestima. Este es un buen momento para ir más despacio y tener paciencia a la hora de iniciar nuevas relaciones, Capricornio. Si las cosas no han funcionado en el pasado debido a sus inseguridades o problemas de dinero, hacer cambios en estas áreas puede ser bastante efectivo. Los cambios a largo plazo están en marcha ahora, así que no esperes ninguna solución rápida. Esta poderosa energía del eclipse de luna nueva es un excelente momento para hacerse cargo de cómo se valora a sí mismo. Aumentar tu visión de tu valor te ayudará a añadir valor a tu próxima relación cuando sea el momento adecuado.
 
+Para cuando el amoroso Venus entre en el ardiente Aries a principios de mayo, estarás más que listo para algo de acción caliente. Esta puede ser una energía bastante egoísta, cuando naturalmente pondrás tus necesidades en primer lugar. Como ahora también puedes ser bastante competitivo, toda esta agresividad puede dar a alguien la impresión equivocada. Sí, te dedicas a conseguir lo que quieres, pero en el fondo tienes los pies en la tierra más de lo que este tránsito agresivo podría hacerte parecer. Ten esto en cuenta si te preguntas por qué una primera cita no te respondió como había dicho.
 
-Mientras que mantener una buena impresión siempre será importante, el verano posterior a un amigable Venus en Cáncer te da mucha más libertad para relajarte y ser tú mismo o misma. Los días de finales de Julio y principios de Agosto, en particular, crean un gran potencial para las vibras románticas. Las citas que sucedan durante este periodo cargarán tus baterías más, incluso durante los ocasionales momentos en los que tu ánimo ande bajo.
-
-
-Escorpión, de hecho, le estará dando a tu vida romántica la ocasional agradable inyección durante todo el otoño; lo que podría proporcionarte, como mínimo, una semiestable pareja  con quien pasar la temporada navideña. ¡Buena suerte!
-
+El asteroide Psique se desplaza hacia la bella Libra a finales de agosto, afectando al tipo de persona que buscas en un potencial amante y/o pareja. Ahora estarás bastante fascinada por las apariencias externas, y aunque sabes que lo que cuenta es el interior, eso no te impide perseguir a la persona más bella de la habitación. Está perfectamente bien vivir la fantasía de estar con esa persona tanto como puedas encontrar, siempre y cuando sepas que probablemente no resultará en un romance a largo plazo.
 
 ## Trabajo
 
-Los negocios, tu profesión y finanzas se ven fuertes y vibrantes este año, Capricornio. Puede haber algunas ocasiones, en especial a finales de marzo o abril, en que un error de juicio de una pareja o colega provoque un contratiempo o confusión. Sin embargo, tienes muchas habilidades para lidiar con estas cosas.
+Eres realmente uno de los trabajadores más responsables del zodiaco, Capricornio. Aunque algunos se refieran a ti como un adicto al trabajo en un sentido negativo, tú lo tomas como un cumplido. ¿El trabajo duro te ayudará a alcanzar el éxito que te gustaría tener en 2022? 
 
+El tenaz Saturno hizo un gran cambio de tu signo seriamente ambicioso al innovador y rebelde Acuario el año pasado, y las sacudidas que aún sientes en tu carrera no son insignificantes. Este dúo experimental podría hacerte soñar con algunos escenarios bastante inverosímiles, pero nunca se sabe hasta que se intenta, ¿verdad?
 
-La conjunción entre el sol y Mercurio en septiembre hará que sigas siendo una persona astuta y creativa durante todo el año.
+La estructura y la dedicación a tu carrera no han desaparecido (como si esto pudiera ocurrir alguna vez), sino que ahora mismo te estás tomando un pequeño descanso mientras pruebas cosas nuevas. Aunque las personas con las que trabajas y para las que trabajas podrían estar un poco sorprendidas por algunas de tus sugerencias poco convencionales, Capricornio, todavía puedes aprovechar un poco de esta energía poco convencional y utilizarla para avanzar más adelante este año.
 
-
-Si una gran cantidad de posibles socios se te acerca con propuestas de negocios este año, practica ser más prudente de lo normal. Pueden ser sugerencias válidas, pero más para el largo plazo que para el corto plazo.
-
-
-Maneja las finanzas con cuidado y habrá menos sorpresas (si las hay) que desaceleren tu flujo de efectivo. Urano se encuentra en transición desde Aries hacia Tauro, para manifestarse en Tauro desde mediados de mayo hasta principios de noviembre. Ten cuidado con los altibajos con respecto al dinero en ese periodo de tiempo.
-
-
-Júpiter se encuentra retrógrado desde marzo hasta principios de julio. Entonces, será más fácil gastar menos y ahorrar más.
+En otras noticias profesionales bastante impredecibles, Urano, el planeta poco convencional al que le gusta instigar el cambio y fomentar la rebelión, está emparejado con Tauro, el signo de Tierra estable durante todo el año, que es un digno adversario para la agitación que Urano pretende causar. Atrinchérate y mantén el rumbo. No siempre todo saldrá como esperas, pero a veces decir que lo has intentado y saber que no te has rendido es igual de bueno.

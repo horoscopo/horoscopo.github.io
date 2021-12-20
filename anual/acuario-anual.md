@@ -1,55 +1,54 @@
 ---
 layout: horoscopo_anual
-title: Acuario Horóscopo 2021 
-description: Acuario horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Acuario 2021 gratis. Disfruta este año nuevo.
+title: Acuario Horóscopo 2022 
+description: Acuario horóscopo del 2022, amor, trabajo, vida personal. Todas las predicciones para Acuario 2022 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/acuario/
 amplink: /horoscopo-anual/amp/acuario/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Acuario 2021, horoscop, horóscopos gratis, horoscopo Acuario, horoscopo Acuario 2021 gratis, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2022, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2022, horóscopo esperanza gracia, horoscopo Acuario 2022, horoscop, horóscopos gratis, horoscopo Acuario, horoscopo Acuario 2022 gratis, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/acuario_anual.png
 horoscopo:
  signo: acuario
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
- lastmod: 2020-12-19
+ lastmod: 2021-12-20
 ---
 
 
 
 
-¡Seguramente hay mucho de qué hablar este año, Acuario! El 2021 es un año muy estimulante para tu creativo signo. Eres capaz de sentirte más en sintonía con tu máximo bienestar, y hasta puedes hacer algunas fantásticas amistades nuevas a lo largo del camino. Tal vez seas la persona a la que acudir cuando las cosas se ponen complicadas, sobre todo porque te adaptas muy fácil y rápido a las cosas, y eres capaz de verle la gracia a casi cualquier situación.
-Como el año comienza con algunas polémicas cuadraturas entre Júpiter en Acuario y Urano en Tauro, tendrás una favorable ola de abundancia delante de ti, incluso frente a algunas energías ásperas. Esto también vale para mediados de febrero, mayo y finales de diciembre, ya que el tránsito de Saturno en Acuario forma una cuadratura con Urano en Tauro, lo que mueve algunas olas caóticas en el mundo.
-Esto puede ser difícil para los demás durante gran parte del año; sin embargo, como Saturno estará en un buen ángulo con tu signo de aire, te traerá muchas reflexiones y momentos brillantes. Puede que ahora sea ese momento de encontrarte de un modo muy poderoso. Espera lo inesperado y agradece por los obsequios que recibes, ¡porque los mereces!
-Una pieza importante del rompecabezas del 2021 es considerar realmente el período de transición de tus meses de cumpleaños. Puede que te enredes un poco durante los ciclos de Mercurio retrógrado de este año, y todos ocurren en signos de aire. Uno de los ciclos más importantes para ti ocurre el 29 de mayo, seguido de un revolucionario eclipse lunar total en tu signo opuesto de Leo. Esta es una vibra que definitivamente te hará repensar muchas partes diferentes de un relato. Y aunque puede ser una época muy reveladora para todos los aspectos de tu vida, todavía hay mucho por hacer a lo largo del verano. En especial porque también te encuentras con un eclipse solar anular el 10 de junio, al mismo tiempo que Mercurio continúa en un delicado ciclo retrógrado en tu signo hasta el 22 de junio. 
+> Acuario, puede que el miedo te invada debido a todos los cambios que vas a experimentar este año, pero te acostumbrarás y serán para bien. Tus encantos harán que conquistes cuando y dónde quieras, pero sería bueno que encuentres un mejor equilibrio entre lo que das y recibes.
+
+
+Acuario, eres un inventor, un innovador, un influenciador y, a veces, un poco extraño (en el sentido más favorecedor), pero como signo fijo también quieres las cosas como las quieres. Y como el Sol pasará tiempo en tu signo, como siempre, desde finales de enero hasta finales de febrero, podrás celebrar todas las cualidades que te hacen destacar del resto de la multitud y reforzar que tu camino es quizás el mejor después de todo. Y cuando lleves esta energía de confianza contigo a lo largo de 2022, podrás ser lo mejor que puedas ser.
+
+Sin embargo, el rebelde Urano, tu planeta natal, está emparejado con el lento y constante Tauro durante todo el año, por lo que puedes encontrar cierta resistencia al realizar los cambios que tanto te gustan. La energía lenta y constante pero conservadora de Tauro seguramente intentará frenarte, pero eres demasiado progresista para dejar que nada te detenga por completo. ¿Quizás a veces te frenes lo suficiente como para considerar opciones a las que normalmente renunciarías? Sí, pero eso no significa que vayas a perder nada de esa infame angulosidad acuariana.
+
+Con Urano retrógrado único desde finales de agosto hasta finales de año, se abre una ventana para que te lances a algunos de esos cambios sobre los que has estado dudando. Al enfrentarte a tus miedos y observar realmente lo que ha sucedido en lo que va de año, no sólo en tu vida personal sino también a escala global, empieza a vislumbrarse un panorama más amplio. ¿Qué es lo que no te parece bien? Aborda esas partes de tu vida poniendo en marcha los cambios necesarios para un futuro más feliz, productivo y exitoso.
 
 ## Amor para Parejas
 
-En el 2021, el amor es fuerte, serio y sensual, Acuario. Puede que tu pareja recurra a ti para poder lograr más, pero puedes lidiar con eso. También habrá tiempo de sobra para divertirse juntos.
+Tienes una personalidad amigable y hablas muy bien, así que es natural que cuando Mercurio, el parlanchín, se una a tu flexible signo de aire a principios de enero, tus conversaciones sean de todo tipo. Te enorgulleces de poder hablar de cualquier tema con una cantidad razonable de conocimientos, así que necesitarás que tu pareja esté al día de la actualidad y de todos los cotilleos.
 
+Mercurio entra en su primer ciclo retrógrado del año en tu signo a mediados de enero, lo que desordena la comunicación y puede ser un momento extremadamente frustrante para ti. Dependes de la tecnología quizás más que cualquier otro signo, y cuando las cosas no funcionan como deberían, te pierdes un poco. Ahora tendrás que hacer un esfuerzo extra para mantenerte en contacto de formas que no dependan tanto de tu teléfono u otros aparatos tecnológicos.
 
-Venus es una influencia muy fuerte en el 2021, pero no está de humor para demasiadas tonterías. Enero y febrero pueden ser meses en los que ambos amen su trabajo y quieran compartir ese entusiasmo. ¡Adelante!
-
-
-Cuando Marte está retrógrado a finales de junio y agosto, Venus se encuentra en Leo y Virgo. Diviértanse pasando más tiempo en privado durante junio y julio. Y pónganse más cómodos y felices en su hogar en agosto.
-
-
-Cuando el sol entra a Acuario, Venus se encuentra en el sexy Escorpión. Digan lo que piensan, hagan lo que dijeron que harían, y así, se volverán cada vez más cercanos. 
-
-
-La fase retrógrada de Venus empieza a principios de octubre en Escorpión y termina a mediados de noviembre en Acuario. Esto puede intensificar los problemas dentro de su relación. Posterguen cualquier compra grande en conjunto o planes de viaje hasta que sepan con seguridad que están en la misma frecuencia.
+El comunicativo Mercurio y la diosa del amor Venus se emparejan con el compañero del signo de Aire Libra a finales de agosto y a finales de septiembre, respectivamente, rodeando tu relación con la energía armoniosa que necesita para superar un mal periodo. Si habéis tenido dificultades para poneros de acuerdo, estos tránsitos equilibrados pueden calmar la situación con su energía comprometedora y daros el comportamiento encantador que ayudará a suavizar las cosas y os permitirá conseguir lo que queréis. La conjunción Mercurio-Venus de finales de septiembre es el momento perfecto para pillar a tu pareja desprevenida y decirle que le quieres "porque sí".
 
 ## Amor para Solteros
 
-¡A los Acuario solteros les espera un maravilloso año por delante! El 2021 no se guarda nada y de ningún modo lo hará cuando se trata de encontrar a alguien que estremezca tu alma. Este es uno de esos años para abrirte a lo que sea que venga. No puedes predecir nada de lo que vendrá este año, pero al mismo tiempo, ¡debes saber que así las cosas deben ser!
-¡Debes entregarte y apreciar el hecho de que no tienes ningún control sobre tu destino! Desde el 30 de enero hasta el 20 de febrero hay una pequeña demora en tus comunicaciones gracias a un ciclo de Mercurio retrógrado en tu signo, lo que puede ser difícil para quienes tengan conexiones a larga distancia o estén buscando el amor en aplicaciones de citas en línea.
-La buena noticia es que podrías simplemente conocer a alguien de forma orgánica e inesperada este año. Esto puede llegar en cualquier momento y con cualquier tránsito, sobre todo gracias al ciclo de Saturno en tu brillante signo. Este planeta quiere que encuentres una conexión estable, incluso en tu signo del portador de agua que muchas veces puede ser impulsivo.
-Para quienes han estado tanteando el terreno durante demasiado tiempo y ya están listos para encontrar a la persona indicada, ¡ten cuidado! porque estos eclipses no están jugando para nada. ¡Esto significa que tú tampoco puedes jugar con nadie! Todo lo que va, vuelve, y es cuestión de cómo tratas a alguien en primer lugar.
-Tendrás mucha claridad entre mayo y julio con respecto a una posible relación. De hecho, los últimos meses del 2021 van a reflejar hacia dónde está yendo tu vida. También puede significar que estás saliendo con una persona especial que realmente sientes como un alma gemela.
+No es ningún secreto que te gusta la vida de soltero, Acuario. Como la mayoría de los signos de aire, valoras tu libertad, y con el apasionado Marte pasando por el aventurero y espontáneo Sagitario a principios de año, no tienes ninguna prisa por encontrar a tu alma gemela. Y definitivamente no tienes mucho tiempo ni paciencia para juegos ahora. Quieres divertirte (y tal vez incluso aprender una o dos cosas), pero buscas experiencias genuinas, y no te interesa pasar tiempo con alguien que tenga un horario o que parezca montar una obra de teatro.
+
+También hay una luna nueva en tu signo independiente a principios de febrero, Acuario, que te da un pequeño adelanto de las cosas buenas que vendrán para tu vida amorosa este año. Esta emocionante lunación te recuerda tus talentos y personalidad únicos y puede traer cambios positivos a tu vida si estás abierto a ellos. Es fácil conocer gente nueva durante las fases de la luna nueva, y esto pone de relieve el hecho de pensar fuera de la caja. Considere la posibilidad de salir al menos una vez con alguien con quien no se vería normalmente.
+
+La encantadora Venus pasa un tiempo en las aguas emocionales de Escorpio a finales de octubre, y tu actitud hacia el amor podría cambiar realmente bajo el trance de esta intensa energía. Aunque estas dos vibraciones no siempre coinciden, una cosa es cierta: es difícil resistirse al amor, para bien o para mal, cuando estas dos se unen. Ten cuidado de no obsesionarte totalmente con alguien ahora o de no experimentar el amor a primera vista, ya sabes, todas esas cosas en las que dices que no crees. Puede que cambies de opinión después de vivir estas intensas semanas.
 
 ## Trabajo
 
-Las cuestiones profesionales, monetarias y laborales reciben poderosas ventajas por parte de tus estrellas en el 2021. Esto es asegurado al comienzo del año por la conjunción Sol-Plutón en Capricornio.
-Si tus anhelos de extravagancias pueden ser controlados en junio y principios de julio, cuando Venus se encuentre en el sensual Tauro, tus ingresos y ahorros pueden fácilmente ser aumentados.
-Durante la segunda mitad del año, Marte visitará a Cáncer al mismo tiempo que el Sol entrará a tu signo, periodo de tiempo en el que debes actuar más enérgica y ambiciosamente.  
-Trabaja de forma constante, mantén un buen registro y prepárate para un ambicioso diciembre, cuando es posible que las oportunidades abunden. En diciembre, Saturno entra al trabajador Capricornio y el Sol conecta con Saturno en el mismo día del Solsticio de Invierno. ¡Considera esto como un poderoso empuje para iniciar el 2022!
+Acuario, tu perspectiva única, la capacidad de ser objetivo y tus fuertes intereses y habilidades técnicas te favorecerán este año. Si eres feliz en tu trabajo actual, si buscas un aumento de sueldo o un ascenso, o si quieres cambiar completamente de campo, el año 2022 te ofrece unas oportunidades únicas.
+
+Tu planeta natal, Urano, sigue viajando con el constante signo de Tierra, Tauro, este año, lo que puede ralentizar algunos de tus esfuerzos, pero no debería interferir en tu proceso de pensamiento innovador y experimental.
+
+Moverse a un ritmo más lento es inevitable, pero esto no significa que vayas a perder tu ventaja. Es posible que no corra tantos riesgos como lo haría normalmente, pero tomarse más tiempo para pensar en las oportunidades que surgen no significa que las vaya a desaprovechar; sólo puede tardar un poco más en ver los resultados.
+
+El autoritario Saturno pasa tiempo en tu signo lógico durante todo el año, por lo que aplicarás muchos pensamientos de "pros y contras" a tu trayectoria profesional. Eres capaz de ver cosas que son extremadamente personales para la mayoría de la gente desde una perspectiva muy alejada, y mirar tu carrera de esta manera este año puede ser extremadamente beneficioso. ¿Qué consejo le darías a un amigo si estuviera en tu lugar, Acuario? Sigue tu cabeza en lugar de tu corazón y encuentra el camino profesional correcto en 2022.

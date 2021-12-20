@@ -1,66 +1,56 @@
 ---
 layout: horoscopo_anual
-title: Aries Horóscopo 2021 
-description: Aries horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Aries 2021 gratis. Disfruta este año nuevo.
+title: Aries Horóscopo 2022 
+description: Aries horóscopo del 2022, amor, trabajo, vida personal. Todas las predicciones para Aries 2022 gratis. Disfruta este año nuevo.
 permalink: /horoscopo-anual/aries/
 amplink: /horoscopo-anual/amp/aries/
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Aries 2021, horoscop, horóscopos gratis, horoscopo Aries, horoscopo Aries 2021 gratis, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2022, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2022, horóscopo esperanza gracia, horoscopo Aries 2022, horoscop, horóscopos gratis, horoscopo Aries, horoscopo Aries 2022 gratis, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/aries_anual.png
 horoscopo:
  signo: aries
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
- lastmod: 2020-12-19
+ lastmod: 2021-12-20
 ---
 
 
 
 
-Este es un año extremadamente importante para tu poderoso signo. Varios tránsitos traen un tira y afloja en puntos importantes de tu carta astral, lo que trae perspectivas completamente nuevas, y también requiere que tomes decisiones que contribuyan tanto a tu vida familiar como profesional.
-Esto combina varias áreas de tus asuntos personales y te pide analizar detenidamente tus acuerdos a largo plazo desde una perspectiva de liderar, cuidar y sanar. Como el 2021 trae una influyente cuadratura entre Jupiter en Acuario y Urano en Tauro, esto crea una prominente cuadratura en T en tu propia carta astral. Esta puede ser una energía astrológica difícil, y la experimentarás más puntualmente a mediados de febrero, a mediados de junio y a finales de diciembre, pero que en general lleva a un cambio radical en tu vida. Puede que haya muchos eventos no planificados que a fin de cuentas deciden tu destino y afectan tu vida doméstica y profesional. Hasta podrías considerar cambiar de trabajo o tener algún tipo de traslado.
-Marte, tu planeta regente, entra a un ciclo retrógrado en Capricornio entre el 28 de junio y el 7 de octubre, y este período de tiempo será un momento clave para revisar lo que todavía necesitas alcanzar para empoderarte y recuperar tu autoridad personal en ciertas áreas donde habías perdido tu confianza. Algunos te ven desde afuera y no tienen idea de lo que está burbujeando bajo la superficie. No pierdas de vista el panorama completo, y siempre recuerda que el universo quiere que tengas éxito en cualquier cosa que te propongas, y este año no es la excepción a esa regla.
+> Aries, será un año para asentar y consolidar los cambios que has venido experimentando desde hace un tiempo y que, en 2022, llegan a una etapa de madurez y de ver con mayor claridad cuáles son tus valores y expectativas reales.
+
+
+Aries, has estado burbujeante desde principios de año, ya que tu poderoso planeta Marte se une a tu compañero Sagitario, signo de fuego, en las primeras semanas de enero. La sed de conocimiento y de experiencias vitales llena este periodo de tu vida de un sentido de maravilla y aventura. ¡No hay límite a lo que puedes aprender cuando mantienes una mente abierta ahora!
+
+Por supuesto, Marte está perfectamente cómodo en tu agresivo signo desde finales de mayo hasta principios de julio, lanzándote a la competitividad y ayudándote a conquistar todo lo que se interponga en tu camino. Sabes exactamente a dónde quieres ir, y aunque no siempre tomes la ruta más directa para llegar allí, no te detendrás hasta que hayas llegado a tu destino.
+
+Sin embargo, Aries, Marte está retrógrado en Géminis desde finales de octubre hasta finales de año, así que tendrás que estar abierto a adoptar un enfoque más estratégico de la vida. Simplemente te gusta superar tus problemas, pero tu típica energía agresiva "a pura adrenalina" no funcionará tan bien ahora. Prospera cuando eres contemplativo y reflexivo, trabajando en tus problemas escribiendo y escribiendo en un diario en lugar de simplemente tratar de ignorarlos.
+
+El mes de tu cumpleaños siempre es emocionante, así que en algún momento entre finales de marzo y finales de abril deberías anticipar una explosión. Con esta energía festiva que te rodea durante todo el mes, estás preparado para enfrentarte al mundo y no tienes miedo de perseguir lo que quieres. Se te da muy bien tomar la iniciativa y ser un líder, y definitivamente no te gusta que te digan lo que tienes que hacer. Ahora evita las discusiones y los pequeños desacuerdos haciendo todo lo posible por ignorar a las personas que intentan hacerte enfadar sin una buena razón.
 
 ## Amor para Parejas
 
-Ábranse camino a través del 2021 como un equipo tranquilo y eficiente. El año puede empezar rápido mientras el sol forma una conjunción con Plutón en enero. Después de eso, ambos estarán más en control de sus vidas románticas y domésticas.
+El amor no siempre es fácil para un signo de fuego como tú, Aries, pero una cosa es segura: ¡casi nunca es aburrido! Y el año 2022 no será diferente. El amoroso y romántico Venus rige tu vida amorosa y tus zonas de placer, y a principios de 2022, se está moviendo incómodamente retrógrado hacia el signo de Tierra Capricornio. Tu relación se beneficia ahora de su energía orientada a los objetivos, pero la seriedad de este emparejamiento podría agobiarte y hacerte cuestionar tu nivel de compromiso o el de tu pareja.
 
+La diosa del Amor pasa casi tres ardientes semanas de mayo en tu agresivo signo, sin embargo, en ese momento el Amor es espontáneo, audaz y directo. Cuando quieres algo, lo consigues sin tener en cuenta lo que quiere o siente tu pareja. Esta actitud de "yo primero" puede funcionar en otras áreas de tu vida, pero en tu relación es mejor trabajar para ver el amor como una calle de dos direcciones en lugar de una carrera de un solo sentido.
 
-Mercurio retrógrado en Aries brinda una oportunidad para replantear y redistribuir responsabilidades domésticas. Podría ser tan fundamental como hacer más espacio en las agendas de ambos para más trabajo. El amor y la vida diaria siguen mejorando.
-
-
-Abril y mayo prometen emoción y placeres sensuales de todo tipo. La luna está en el sensual pero sensible Tauro cuando el sol ingresa a Aries, cuando te puede atraer más darte gustos con comida y darte baños de espuma. Una escapada romántica durante este periodo sería genial. 
-
-
-El trabajo puede competir con el amor mientras Marte se torna retrógrado en Capricornio desde finales de junio hasta agosto. Después, la felicidad debería ser incuestionable y fácil, y posiblemente más accesible desde agosto hasta septiembre.
-
-
-En octubre y noviembre, Venus se torna retrógrado en Escorpión, terminando en Libra. Deben tomarse en serio, esforzarse en su relación, y tratar de tener una relación más fuerte y dulce. En noviembre, Júpiter ingresa a Sagitario y el amor se vuelve incluso más generoso.
-
-
-
-
+A mediados de agosto, hay un trígono positivo Venus-Júpiter que puede alejar muchas de tus preocupaciones relacionadas con el amor. Os sentís afortunados por haberos encontrado y deberíais atraer muchas cosas buenas como pareja. Ganar un fin de semana, recibir dinero que no esperabas y recibir buenas noticias sobre un acuerdo financiero son algunas de las oportunidades afortunadas que podrían ocurrir ahora.
 
 ## Amor para Solteros
 
-El mundo de las citas será intenso y constante para los Aries durante la mayor parte del 2021. Con Júpiter en Libra durante diez meses del año, puedes salir y conocer a tantos nuevos prospectos románticos para los que tengas la suficiente energía.
-Venus estará retrógrado en marzo y principios de abril, lo que puede darte la oportunidad de recuperar tu aliento socialmente. Una vez que Venus avance directamente una vez más, el romance reanuda su luminoso brillo. También es un mejor período de tiempo para hacer un compromiso.
-Conforme Júpiter entra a Escorpión el 10 de octubre, los amantes pueden volverse más serios y hacer demandas más serias. Tú sientes comodidad con esto y puede que hasta lo prefieras. Cuando conectes con alguien que es tan dedicado y serio como tú lo eres, lo sentirás al instante.
-Diciembre también será un mes con un tono serio con el Sol y Saturno encontrándose en el pensativo y determinado Capricornio. Los temas relacionados al amor deberían de empezar a funcionar mejor para ti.
+El asteroide Eros rige la pasión y el deseo, y recibirás un impulso de confianza gracias a su colaboración con tu signo de Fuego desde principios de marzo hasta mediados de abril. Este periodo será todo sobre la emoción de la persecución, y sentirás tanto los extremos de la emoción de la victoria como la agonía de la derrota por cientos de veces. Las citas, el sexo y el amor son todo un triunfo para ti ahora, y como guerrero del zodiaco, esperas ser capaz de conquistar cualquier cosa (y a cualquiera).
+
+A mediados de agosto llega uno de los tránsitos más afortunados para los solteros de Aries, que es el trígono Venus-Júpiter. La frase "suerte en el amor" bien puede provenir de este tránsito, Aries, porque te trae suerte en todo el sentido de la palabra. Con el aumento de la suerte y la positividad que te rodea, no puedes evitar andar con una enorme confianza. Los cumplidos que recibes ahora son genuinos, y las propuestas románticas deben tomarse en serio.
+
+El apasionado Venus se aleja del intensamente emocional Escorpio (gracias a Dios) y se conecta con el aventurero signo de Fuego Sagitario a mediados de noviembre, dándote más de esa libertad romántica y sexual que has estado buscando. Durante las últimas semanas, es posible que hayas estado demasiado envuelto en tus sentimientos para tu comodidad, así que este tránsito te hace respirar más tranquilo mientras te liberas de esas restricciones emocionales. Las aventuras románticas están ahora a la vuelta de la esquina si estás dispuesto a arriesgarte y simplemente ir a por ello.
 
 ## Trabajo
 
-El año está lleno de oportunidades para ganar dinero, Aries. Baja la velocidad un poco y verás que las oportunidades pueden haber estado corriendo detrás de ti. Dales la oportunidad de alcanzarte. 
+Los signos de fuego son personas muy motivadas y ambiciosas. Dado que, como Aries, también eres un signo cardinal que se ve impulsado a realizar cambios en cada oportunidad, también eres un líder nato. Una vez que ha decidido en qué dirección quiere ir, es difícil detenerse. Escucha las sugerencias de los demás, pero asegúrate de mantener tus planes y hacer avanzar tus ideas este año.
 
+Cuando se trata de oportunidades, tú creas las tuyas. Rara vez te sientas a esperar que algo suceda, tú actúas (a veces sin pensar). Aunque tus esfuerzos espontáneos no siempre resultan para bien (y, sinceramente, algunos pueden tener resultados bastante malos), este año no vas a hacer grandes cambios en tu estilo.
 
-Con Saturno ahora en Capricornio, todos se están esforzando por ser más eficientes y responsables. Tus métodos serán diferentes a los de los demás. Sabes lo que te funcionó en el pasado. Sele fiel a eso.
+Sin embargo, Aries, con el tenaz Saturno emparejado con Acuario, amante del cambio, este año es una señal para considerar realmente cambiar las cosas. Hay grandes oportunidades para conectarse con los demás, así que espera oír hablar de una emocionante oportunidad profesional a través de un grupo de la red o de las redes sociales.
 
-
-Júpiter se encuentra retrógrado en el signo fijo de Escorpión desde marzo hasta principios de julio. Esto te favorece, ya que Aries es un signo fijo, y entiendes cómo apegarte a una agenda u objetivo. Sé paciente contigo y con tu progreso, y mantente dentro del presupuesto.
-
-
-Con respecto a tu profesión, es posible que quieras moverte demasiado rápido o ir demasiado lejos. La fase retrógrada de Marte desde finales de junio hasta finales de agosto se asegura de que te lo tomes con calma. 
-
-
-Progresa, sé una persona más productiva, ahorra la mayoría y empieza a construir desde ahí.
+Como ya sabes, Aries, tu planeta regente Marte comienza el Año en Sagitario, lo que te empuja a aprender más viviendo el momento y aprovechando todo lo que cada experiencia tiene que ofrecer.

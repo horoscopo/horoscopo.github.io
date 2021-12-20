@@ -1,58 +1,51 @@
 ---
 layout: amp
-title: Horóscopo Piscis 2021 
+title: Horóscopo Piscis 2022 
 permalink: /horoscopo-anual/amp/piscis/
 normallink: /horoscopo-anual/piscis/
-description: Piscis horóscopo del 2021, amor, trabajo, vida personal. Todas las predicciones para Piscis 2021 gratis. Disfruta este año nuevo.
+description: Piscis horóscopo del 2022, amor, trabajo, vida personal. Todas las predicciones para Piscis 2022 gratis. Disfruta este año nuevo.
 home: FALSE
-keywords: horóscopo año nuevo, horóscopo 2021, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2021, horóscopo esperanza gracia, horoscopo Piscis 2021, horoscop, horóscopos gratis, horoscopo Piscis, horoscopo Piscis 2021 gratis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
+keywords: horóscopo año nuevo, horóscopo 2022, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2022, horóscopo esperanza gracia, horoscopo Piscis 2022, horoscop, horóscopos gratis, horoscopo Piscis, horoscopo Piscis 2022 gratis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
 ogimg: /images/piscis_anual.png
 horoscopo:
  signo: piscis
 sitemap:
  priority: 0.5
  changefreq: 'yearly'
- lastmod: 2020-12-19
+ lastmod: 2021-12-20
 ---
 
 
 
 
-En el 2021, aprovecha al máximo tus habilidades interpersonales, haz los grandes cambios que deseas y necesitas, y avanza hacia tus metas para el futuro. Vas a tener un sinfín de ideas y puntos de vista, pero puede que te sea difícil activarlos por tu propia cuenta. Habla, establece contactos, encuentra aliados y forma equipos cuando lo consideres apropiado.
-Mercurio, el Sol y Plutón en Capricornio comienzan con energía uno de tus años más prácticos y exitosos. Además, la oposición Júpiter-Urano te permite pensar de una manera tan innovadora y vasta como te apetezca. Piensa en grande y prepárate para hacer grandes cambios antes de que los cambios te encuentren a ti primero.
-El trígono Saturno-Urano te ofrece la disciplina y la libertad necesarias para crear el año que deseas sin sacrificar a aquellas personas o cosas que son importantes para tu felicidad y éxito.
-Venus y Júpiter se oponen poderosamente conforme el Sol entra a Piscis en el mes de mayo, dándote observaciones claras y la capacidad de tomar decisiones basadas en astucia y confianza. Marte también se encontrará en Piscis entonces. ¡Tus baterías se encontrarán completamente cargadas y listas para la acción!
+Siendo un signo de agua cambiante, amable y compasivo, que suele adaptarse bien a los cambios, 2022 podría ser un año un poco movido, Piscis. Habrá algunos altibajos, por supuesto, y algunos acontecimientos mayores que pondrán a prueba tu capacidad de mantener la calma y quizás te obliguen a enfrentarte a la realidad más de lo que te gustaría. Sin embargo, tienes muchos mecanismos de afrontamiento disponibles, por lo que las interferencias cósmicas a las que te enfrentas este año pueden ralentizarte, ¡pero no deberían llegar a detenerte!
+
+Como planeta exterior distante, tu regente Neptuno no siempre es una parte importante de cada predicción, pero para ti juega un papel importante. Su conciencia cósmica es una fuente de creatividad y espiritualidad diaria para ti, y como viaja en tu signo idealista durante todo el año, te evitará enfrentar algunas de las realidades más duras de la vida. Sin embargo, ten en cuenta el ciclo retrógrado de Neptuno desde finales de junio hasta finales del año, cuando un mayor deseo de soñar despierto y evitar la realidad podría llevar a que la ocultación, la postergación y la indecisión causen verdaderos problemas.
+
+Como siempre, un momento del año que hay que esperar es el mes de tu cumpleaños, cuando el sol viaja a través de tu signo creativo desde finales de febrero hasta finales de marzo. Habrá muchas formas de soñar para celebrarlo, Piscis, y mientras tu día especial esté lleno de sueños, magia y romance, serás un pez muy feliz.
+
+Saturno, el severo amo del universo, también te tiene reservadas algunas lecciones muy interesantes este año, ya que pasa su tiempo acompañado por el imprevisible e inconformista Acuario. Al ser un signo cambiante, puedes estar abierto a algunos de los cambios que sugiere y a las extrañas oportunidades que presenta. También sientes mucho la vibración humanitaria proveniente de este dúo, por lo que ayudar a los demás estará en lo más alto de tu lista de cosas por hacer en 2022.
 
 ## Amor para Parejas
 
-El 2021 estará lleno de pasión y emoción, Piscis, ¡por lo que acepta todo este furor! Sus familiares podrían mantenerles ocupados, pero ambos tendrán más que suficiente energía y enfoque para mantener a todos contentos, incluidos ustedes mismos.
-Comiencen el año alcanzando un claro entendimiento entre ustedes y luego apéguense a él. Si la temporada de primavera se vuelve un tanto tumultuosa en el trabajo para uno de ustedes, no perturbará su vida familiar. Incluso podría acercarles más como pareja.
-El Eclipse Lunar en Libra de Mayo es una oportunidad de unión que los complazca a ambos.
-Si un gasto considerable o una adquisición surgen a finales del verano, ambos  sabrán si es prudente y necesario.
-Ambos estarán dispuestos a hacer sacrificios el uno por el otro, material y emocionalmente. Incluyan tantas bondades simbólicas en su relación como puedan. Los momentos de abrazos serán tan dulces como los momentos apasionados que tengan juntos, especialmente en el otoño.
-Si tienen sueños compartidos (o fantasías) de expandir su familia, Venus podría sonreírle a esta posibilidad a principios del invierno. Cuídense bien el uno al otro entonces también.
+Aunque tu relación no sea lo que te gustaría a principios de año, no pierdas la esperanza, Piscis. Como Venus pasa su tiempo retrógrado en el serio Capricornio a principios de año, estarás inmerso en pensamientos para evaluar y revisar los errores que has cometido, y potencialmente culparte por la falta de éxito que puedes sentir que tu relación está experimentando. Sin embargo, sacúdelo, porque una vez que hayas terminado de castigarte por el pasado, tendrás un verdadero trabajo que hacer en el presente.
+
+Cuando Venus llegue a tu signo compasivo a principios de abril, volverás a estar bajo un hechizo de amor hipnótico que te ayudará a recordar por qué te enamoraste en primer lugar. Es el momento ideal para trabajar en la profundización de vuestra conexión emocional y pasar a una fase más intensa de vuestra relación. Pero ten cuidado de no celebrar sólo lo bueno ignorando lo malo ahora. Mirar el lado bueno es genial, pero ignorar tus problemas no hará que desaparezcan.
+
+Te espera una Luna llena de Piscis a principios de septiembre que te encontrará en la cima de la compasión y la comprensión. Tu estado de ánimo receptivo y comprensivo facilita que tu pareja se abra a ti, y este puede ser un momento muy sanador en tu relación. Puede ser más difícil olvidar que perdonar, pero el tiempo cura todas las heridas. Si estás luchando internamente con cualquier dolor que hayas experimentado en lo que va de año, dale tiempo hasta la luna llena del mes que viene y mira cómo te sientes entonces.
 
 ## Amor para Solteros
 
-El encanto, ingenio mental y la emoción están de tu lado en el 2021. Esto puede hacer que el romance sea fácil de encontrar. Si estás disfrutando de tu libertad, deberías de pasártela de lo lindo antes de que Venus impacte con su retroceso el 4 de marzo.
-No es que las oportunidades románticas y los buenos ratos se vayan a terminar entonces, pero sí es que el ritmo disminuya. De hecho, es posible que estés en estado de ánimo para un descanso. Una vez que Venus avance directamente el 15 de abril, se encontrará en Piscis, para cuando es posible que ya haya ablandado y cambiado tus sentimientos.
-El segundo retroceso de Mercurio del año comienza en Tauro el 9 de abril. Además del aumento habitual en confusión y la desconexión en comunicación, el mundo de las citas podría implicar cosas buenas y más caras, así como un nivel de vida más alto hasta que Mercurio vuelva a entrar a Piscis el 20 de abril y tu fuerte y habitual sentido personal regrese. Cuando el retroceso termine el 3 de mayo, una mejor comunicación también debería de volver. 
-El amor se vuelve más serio en octubre, cuando Júpiter entra al sensual y atractivo Escorpión. Si es que se te antoja encender la llama de la pasión, podrías conseguir eso... ¡y más!
+Este es tu año para encontrar el amor verdadero, Piscis. Tu vida amorosa recibe un impulso ardiente gracias a la combinación agresiva de Marte en Sagitario a principios de año, que te ayuda inmediatamente a ser más espontáneo y aventurero. Sal de tu caparazón dispuesto a expandirte en todo tipo de formas nuevas, incluyendo el romance. Si normalmente eres de los que se sientan y dejan que los demás den el primer paso, podrías sorprenderte a ti mismo invitando a salir a tu enamorado secreto (o al menos enviándole un mensaje coqueto).
+
+Venus en busca del amor se empareja con el sensible signo de agua Cáncer a mediados de julio, y deberías sentirte más a gusto y en casa rodeado de esta energía emocionalmente sensible. Hay un gran potencial para la intimidad ahora, pero no te involucrarás en coqueteos superficiales, rapiditos o aventuras de una noche. La construcción de una pareja sólida (y también de una familia) apuntala los deseos de este tránsito, por lo que te sentirás atraído por otros solteros que desean la misma seguridad y conexión emocional que tú buscas ahora en una relación.
+
+La energía del asteroide Vesta está relacionada con la espiritualidad, la sexualidad y los límites, y dado que pasa en tu signo introvertido y algo inhibido desde finales de noviembre hasta el resto del año, lo más probable es que no estés dispuesto a abrirte sexualmente con alguien hasta que lo conozcas y confíes plenamente en él. La moral y la religión también pueden ser bloqueos a la hora de expresar plenamente tu yo sexual ahora, y es imperativo que sepas que honrar tus creencias y límites personales no es algo de lo que debas avergonzarte. No cedas a la presión de nadie para hacer algo para lo que no estás preparado o simplemente no quieres hacer, Piscis.
 
 ## Trabajo
 
-El primer y el último cuarto del 2021 pueden ser las partes más emocionantes del año, Piscis, pero la mitad del año está lejos de ser aburrida. Ahí es cuando las cosas pueden estar más estables y cuando puedes progresar más en serio.
+Eres un soñador, Piscis, pero el hecho de que te guste pasar tus días este año pensando en escenarios profesionales ideales (y quizás inalcanzables), no significa que no puedas hacer el trabajo cuando lo necesites. Como signo de agua mutable, tus pensamientos intuitivos pueden guiarte hacia una trayectoria profesional sólida en 2022.
 
+Recuerda que el tenaz Saturno está trabajando para darte algunas sacudidas en tu sector profesional, mientras se asocia con el excéntrico Acuario durante todo el año, lo que puede ser genial (y sí, Piscis, un poco aterrador) para ti. Probar las aguas de las nuevas oportunidades puede llevarte por algunos caminos muy provechosos. Aunque mantener la mente abierta no es siempre tu mayor fortaleza, hacerlo este año puede ayudarte a encontrar tu verdadera vocación.
 
-Los asuntos relacionados con el dinero o empleo de otra gente podrían competir con los tuyos, sobre todo en febrero y marzo. De todas formas, no te desviarás de tu camino. Podrías convertirte en la persona a la que todos acuden en el trabajo.
-
-
-Urano entra a Tauro a mediados de mayo. El flujo de efectivo y las acciones podrían volverse erráticas, pero te prepararás para cualquier cosa. A principios de noviembre, Urano se torna retrógrado de nuevo en Aries y es más fácil enfocarse en las motivaciones e intereses propios.
-
-
-Júpiter está retrógrado desde marzo hasta principios de julio. Reestructura presupuestos ahora y haz recortes en los lujos. Saturno está retrógrado desde abril hasta principios de septiembre. Gasta un poco más para ganar un poco más.
-
-
-La fase retrógrada de Marte que se manifiesta en Piscis durante el verano también te anima a moderarte. Por supuesto, con Saturno en Piscis todo el año, será difícil hacerte perder el equilibrio.
-
-
+La agresiva combinación del poderoso Marte en el motivado Aries entre finales de mayo y principios de julio te amplifica y te da agallas y determinación en abundancia. Si estás decidido a alcanzar un determinado objetivo profesional, ahora te esforzarás mucho por conseguirlo. Tu espíritu competitivo, cuando Marte está en el poderoso signo que rige, puede sorprender a las personas con las que trabajas y para las que trabajas, que es exactamente lo que necesitas para sacar lo mejor de ti.
