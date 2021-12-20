@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: aries 13 de diciembre 2021 al 19 de diciembre 2021 
-description: Horóscopo semanal aries 13 de diciembre 2021 al 19 de diciembre 2021. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Aries, abre las puertas y ciao. No tienes que mantener nada…
+title: aries 20 de diciembre 2021 al 26 de diciembre 2021 
+description: Horóscopo semanal aries 20 de diciembre 2021 al 26 de diciembre 2021. Vienen emociones fuertes Aries, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2021-12-13
+ogimg: /images/zodiac/semanal_aries.png#2021-12-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-13'
+ lastmod: '2021-12-20'
 ---
 
 
 
-## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Aries, abre las puertas y ciao. No tienes que mantener nada…
+## Vienen emociones fuertes Aries, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 
-Llega una buenísima semana Aries pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien Aries, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado Aries, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo Aries, pelea por lo que te mereces.
-Podrías sentir la tentación de invertir dinero en una brillante idea. Sin embargo, puede que sea prudente hacer un poco de investigación antes, ya que podría ser un desperdicio de dinero en caso de que pierdas el interés. En lo que respecta al romance, puede que sientas la tentación de tratar de apresurar el avance de una relación. Esto podría ser prudente, pero el cuarto de luna en Escorpión sugiere que hacerlo podría representar obstáculos en lugar de ayudarte. Sin embargo, cuando el encantador Venus ingresa a Piscis el sábado, las cosas pueden comenzar a desarrollarse naturalmente. 
+Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
+Ciertas amistades te contactan y quieren divertirse. Las oportunidades románticas abundan, pero lo mejor es ir con la corriente en vez de hacer compromisos firmes. Mientras más te dispongas a interactuar y establecer contactos, más opciones tendrás para llevar tu vida a nuevos y emocionantes niveles. Marte entra a Leo el 8 de diciembre, pudiéndote dar ganas de organizar eventos. Puede que hasta incluso te comportes competitivamente en relación a una historia de amor o en impresionar a otros.
 
 ## Dinero
 
-Te encuentras en el séptimo cielo esta semana con un feliz aspecto en tu signo. Esto puede hacerte una persona más divertida, por no mencionar más atractiva a los demás, por lo que tu actividad social y confianza están destinadas a aumentar. De hecho, puede que lo sientas tanto que hasta podrías voluntariamente trabajar en todo tipo de emocionantes y nuevos proyectos en el trabajo e incluso asumir la responsabilidad de hacerte cargo de actividades sociales de todo tipo en tu empresa. No hay duda de que ciertas recompensas monetarias tocarán pronto a tu puerta.
+Puede que esta semana tengas la tentación de ampliar tus esfuerzos de ganar dinero, los cuales incluyen la escritura, el Internet y la creación de contenidos. Pero puede ser que una parte de ti sienta atracción a educación adicional para que puedas cobrar más por tus servicios. Ya que tu principal trabajo cae en medio de esto, no dejes que sea la cosa que sufra. La atención cuidadosa a los detalles te permitirá lograr todo lo que quieras y más.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 13 de diciembre 2021 al 19 de diciembre 2021 
-description: Horóscopo semanal leo 13 de diciembre 2021 al 19 de diciembre 2021. Semana de reflexión Leo, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Leo. 
+title: leo 20 de diciembre 2021 al 26 de diciembre 2021 
+description: Horóscopo semanal leo 20 de diciembre 2021 al 26 de diciembre 2021. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2021-12-13
+ogimg: /images/zodiac/semanal_leo.png#2021-12-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-13'
+ lastmod: '2021-12-20'
 ---
 
 
 
-## Semana de reflexión Leo, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Leo. 
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
- sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
-Los próximos días y semanas pueden ser una oportunidad para revisar tus cuentas y controlar tus gastos. Pero también podrías beneficiarte de mantener seguros tus detalles personales y tomar cualquier precaución que sea necesaria. Aun así, el impulso de derrochar podría ser particularmente fuerte durante el fin de semana y esto puede ser algo de lo que necesites tener cuidado. Al mismo tiempo, una oportunidad podría aparecer de la nada y tal vez necesites actuar rápido para aprovecharla.
+Últimamente sientes que las decisiones que has tomado no han sido las más acertadas pero todo se puede arreglar. 
+Como si, por momentos, no fueras capaz de encontrar salida a tus preocupaciones, a todo ese estrés mental, a ese círculo en el que te has metido solo.
+Podría parecer como si cierta situación se repitiera en una relación que pudo haber dado un paso hacia atrás. Sin embargo, si en el fondo sientes que debes seguir adelante, persevera. En las próximas semanas, podrías descubrir que comienzan a comprenderse mejor y, con el tiempo, disfrutarán mucho de la compañía del otro. La Luna Nueva en tu sector de recursos compartidos puede ser una oportunidad para invertir con sabiduría en un negocio, una antigüedad o una obra de arte que puede traerte grandes ganancias.
 
 ## Dinero
 
-Para ti, esta semana es sobre el sector de tus sueños y vidas pasadas que de repente pueden revelar un talento que no sabías que tenías. Pon un poco de acción e intención en donde se encuentre tu atención ahora y verás que el dinero inmediatamente te seguirá. Mientras que escuches a tu juicio interior, te será difícil imaginar un momento más afortunado.
+Tienes la oportunidad de aumentar dramáticamente tus habilidades para ganar dinero esta semana si tienes el suficiente cuidado. La advertencia se debe a una confrontación relacionada con tus asuntos monetarios. Tienes un montón de posibilidades para atraer a más, pero también hay una atención a la deuda. Esta lucha no tiene por qué ser fea. En lugar de perder la paciencia y cortar todas las tarjetas de crédito en un ataque de resentimiento, busca un equilibrio entre lo que viene con lo que sale.

@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 13 de diciembre 2021 al 19 de diciembre 2021 
-description: Horóscopo semanal piscis 13 de diciembre 2021 al 19 de diciembre 2021. No más paciencia Piscis. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: piscis 20 de diciembre 2021 al 26 de diciembre 2021 
+description: Horóscopo semanal piscis 20 de diciembre 2021 al 26 de diciembre 2021. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Piscis y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2021-12-13
+ogimg: /images/zodiac/semanal_piscis.png#2021-12-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-13'
+ lastmod: '2021-12-20'
 ---
 
 
 
-## No más paciencia Piscis. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## Por muy desconfiado y duro que parezcas ser, al final acabas confiando Piscis y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 
-El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
-El vital Marte sigue su camino por tu sector de cambio y transformación, y esto podría revolucionar cuestiones que puede que hayan estado obstaculizando tus decisiones. Tomarte el tiempo para procesarlas podría ser muy beneficioso para disipar los obstáculos y lograr una mayor productividad. Un poderoso enfoque en tu sector social sugiere que tus amistades y tu vida amorosa podrían brillar. Sin embargo, cuando el conversador Mercurio se alinea con el etéreo Neptuno el fin de semana, sería prudente recordar que no todo lo que brilla es oro.
+Es muy importante que eches la vista atrás Piscis, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
+Tu vida amorosa y las relaciones podrían mantenerte en constante movimiento esta semana, y quizás sean una fuente de constante diversión. El sol en tu sector de estilo de vida podría encontrarte con ganas de estar en forma. Si no has respetado mucho tu rutina de ejercicios últimamente, podrías estar buscando nuevas formas de volver al ruedo. El jueves, un encantador aspecto entre el sol y el animado Júpiter en un sector más importante podría inspirarte a conectarte con un entrenador personal u otro profesional del bienestar, de modo que puedas alcanzar tus metas de estado físico. 
+El jueves también podría coincidir con la aparición de un conflicto con otra persona, que podría persistir a menos que una de las partes acepte estar en desacuerdo. Si quieres resolverlo rápidamente, puede que esta persona debas ser tú. Por último, el fin de semana podría inspirar un frenesí de compras. Pero algo que parece perfecto podría no serlo. Lee las opiniones primero.
 
 ## Dinero
 
-Ciertos aspectos afectan tu sector de enseñanza, aprendizaje, viajes y ley; mostrando que es un buen momento para añadir a tu conjunto de habilidades. También podrías darte cuenta de que las demandas pueden ser beneficiosas en el balance final si has tenido un desacuerdo con alguien. Mientras tanto, trata a los demás como te gustaría que te trataran.
+Esta semana se trata de los aspectos afortunados que te dan una fuerza de conexión con la tierra para evitar que tu situación económica actual se te suba mucho a la cabeza. Tu sector de trabajo se activa, por lo que podrías tener más trabajo (especialmente si has estado desempleado) y adición a tus responsabilidades. Al mismo tiempo, el gasto se reducirá para que pueda ponerte al día con la deuda. Mantén el rumbo, vas en la dirección correcta.

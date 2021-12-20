@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 13 de diciembre 2021 al 19 de diciembre 2021 
-description: Horóscopo semanal tauro 13 de diciembre 2021 al 19 de diciembre 2021. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Tauro. Más que nunca…
+title: tauro 20 de diciembre 2021 al 26 de diciembre 2021 
+description: Horóscopo semanal tauro 20 de diciembre 2021 al 26 de diciembre 2021. Tauro, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2021-12-13
+ogimg: /images/zodiac/semanal_tauro.png#2021-12-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-13'
+ lastmod: '2021-12-20'
 ---
 
 
 
-## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Tauro. Más que nunca…
+## Tauro, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 
-Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien Tauro pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
-La idea de generar un cambio positivo en tu vida puede empezar a concretarse a principios de diciembre. Las influencias clave pueden servir como recordatorio y verte queriendo comenzar sin dar vuelta atrás. Venus, el planeta del amor y el romance, entra a tu sector de relaciones. Por lo tanto, en las siguientes semanas notarás una fuerte ola de calidez y de deseos más intensos de cooperación. Además, aparece una visita inesperada o surge una oportunidad emocionante, pero la tomarás con calma.
+A veces dejar ir las cosas es mucho más complicado de lo que piensas Tauro. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad Tauro, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres Tauro. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero Tauro, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio Tauro, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. Tauro, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
+Tus relaciones parecen recibir gran cantidad de atención cósmica - una muy agradable por cierto. Con Venus, Júpiter y Marte actualmente en Virgo, podría haber más pasión e interés del que ha habido desde hace algún tiempo. Tendrás más inclinación a hacer cosas con tu interés amoroso, amigos o familia e incluir a otros en tus planes. El enlace del viernes entre Venus y Neptuno te advierte de mensajes contradictorios, ¡por lo ándate con cuidado! Por último, si sales a una cita el domingo, tal podría tener la bendición de Cupido.
 
 ## Dinero
 
-Esta semana estás entrando a un torbellino social en grande. Estás saliendo de tu caparazón poco a poco y con cada vez más confianza en la manera de comunicar tus ideas. Esto es bueno para atraer a la gente significativa en tu vida y positivo para la promoción de tus sueños. Asegúrate de estar al corriente con el pago de tu deuda. Podría haber problemas si hay algo que permanece oculto.
+Es un momento interesante. Nadie te puede pasar por alto, así que trata de usar este tiempo a tu favor. Expón tus atributos. Ofrécete para dar una presentación si la hay y prueba un nuevo estilo para darla. Tu sector de diversión, romanticismo, niños y miembros de la familia entra en juego. ¿Cómo puedes usar tus conexiones familiares para avanzar en cuanto a dinero se refiere?
