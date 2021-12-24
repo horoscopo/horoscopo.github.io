@@ -32,9 +32,13 @@ ads: ["adsense"]
       
       <div class="embed-responsive embed-responsive-16by9">
         {% if page.horoscopo.signo and site.data.anual[page.horoscopo.signo] %}
-           <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ site.data.anual[page.horoscopo.signo].video }}" allowfullscreen></iframe>
+           {% if site.data.anual[page.horoscopo.signo].video.platform == 'youtube' %}
+            <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ site.data.anual[page.horoscopo.signo].video.id }}" allowfullscreen></iframe>
+           {% else %}
+            <iframe class="embed-responsive-item" src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Fhoroscopodeldiagratis%2Fvideos%2{{site.data.anual[page.horoscopo.signo].video.id}}%2F&show_text=false&width=560&t=0" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+           {% endif %}
         {% else %}
-           <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ site.data.anual['general'].video }}" allowfullscreen></iframe>
+           <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ site.data.anual['general'].video.id }}" allowfullscreen></iframe>
         {% endif %}
       </div>
       

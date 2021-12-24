@@ -1,28 +1,41 @@
 ---
 general:
   video: b17c-xs7seI
+  platform: youtube
 aries:
-  video: WZjkTvQijo4
+  video: 498820641505742
+  platform: facebook
 tauro:
   video: uVYeW6MOY-Q
+  platform: youtube
 geminis:
   video: -u3uBpWdcQo
+  platform: youtube
 cancer:
   video: yNaHr18-x4Q
+  platform: youtube
 leo:
   video: ZdPaHRpmbVQ
+  platform: youtube
 virgo:
   video: buS4gvOVc4c
+  platform: youtube
 libra:
   video: JR6PMqrJANo
+  platform: youtube
 escorpio:
   video: u-Z8ytHjjeQ
+  platform: youtube
 sagitario:
   video: _yM1qoBnF7U
+  platform: youtube
 capricornio:
   video: 2ic4XqzuEn4
+  platform: youtube
 acuario:
   video: JGadSTEB_oU
+  platform: youtube
 piscis:
   video: 4h4adnI1560
+  platform: youtube
 ---
