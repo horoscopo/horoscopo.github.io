@@ -1,16 +1,20 @@
 ---
 general:
-  video: b17c-xs7seI
-  platform: youtube
+  video: 
+    id: b17c-xs7seI
+    platform: youtube
 aries:
-  video: WZjkTvQijo4
-  platform: youtube
+  video: 
+    id: WZjkTvQijo4
+    platform: youtube
 tauro:
-  video: uVYeW6MOY-Q
-  platform: youtube
+  video: 
+    id: uVYeW6MOY-Q
+    platform: youtube
 geminis:
-  video: -u3uBpWdcQo
-  platform: youtube
+  video: 
+    id: -u3uBpWdcQo
+    platform: youtube
 cancer:
   video: 
     id: yNaHr18-x4Q
