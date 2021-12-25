@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de diciembre 2021
-description: Horóscopos del dia de hoy 24 de diciembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de diciembre 2021
+description: Horóscopos del dia de hoy 25 de diciembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-12-24
+ lastmod: 2021-12-25
 ---
-Cuando Mercurio en Géminis conjunta a Marte, el curso prudente de acción es hacer una simple pregunta a la que alguien pueda decir que sí. Esta noche, las parejas sienten inspiración a volver a vivir un momento de amor por los viejos tiempos. ¿Sin pareja? Una persona exquisitamente sofisticada podría atraer toda tu atención cuando la Luna aspecta a Saturno.
+Con Mercurio cuadrando a Saturno, las personas podrían quedarse sin palabras hoy. Lo cual puede que sea algo bueno. Sí, a veces el silencio es oro. Las chispas vuelan mientras Venus cuadra a Marte esta noche. El amor se desarrolla más fácil con ciertas personas. Solteros, algunas personas con las que se topan son peores que otras. Confíen en su instinto.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
