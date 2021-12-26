@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de diciembre 2021
-description: Horóscopos del dia de hoy 25 de diciembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de diciembre 2021
+description: Horóscopos del dia de hoy 26 de diciembre 2021 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2021-12-25
+ lastmod: 2021-12-26
 ---
-Con Mercurio cuadrando a Saturno, las personas podrían quedarse sin palabras hoy. Lo cual puede que sea algo bueno. Sí, a veces el silencio es oro. Las chispas vuelan mientras Venus cuadra a Marte esta noche. El amor se desarrolla más fácil con ciertas personas. Solteros, algunas personas con las que se topan son peores que otras. Confíen en su instinto.
+Tu imaginación trabajando de más podría conducir a decisiones equivocadas. La realidad podría ser lo contrario a lo que temporalmente piensas cuando Mercurio aspecta al nebuloso Neptuno. Pospón tu decisión hasta que hayas analizado tus pensamientos. Esta noche, los solteros se hacen del rogar con tal de proteger a su corazón bajo la Luna en el cauteloso Tauro.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
