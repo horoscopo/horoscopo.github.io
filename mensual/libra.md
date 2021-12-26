@@ -1,20 +1,20 @@
 ---
 layout: horoscopos
-title: Horoscopo Libra Diciembre 2021
-description: El Horóscopo Diciembre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Libra Enero 2022
+description: El Horóscopo Enero de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo Libra diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo Libra enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2021-11-26
+ogimg: /images/mes/libra_mes.png#2021-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-11-26'
+ lastmod: '2021-12-26'
 ---
 
 
-Alrededor de la Luna Nueva del 4 de diciembre, sal a codearte con un gran número de gente nueva. Puede que vayas a algún lugar exótico, una gran fiesta o evento social. Déjate estimular tanto por gente como bromas y conversaciones. La Luna cuadra a Urano el 13 de diciembre, cuando podrías decidir que un plan anteriormente determinado podría ser divertido, pero también demasiado loco. Puede que se te mime con una modesta pero sincera celebración navideña alrededor de la Luna Llena del 19 de diciembre. Ya sea que se trate de Navidad o una de las otras fiestas de temporada, puede que se filtre en tu corazón y quizás cure una herida que no sabías que estaba allí.       
+Tanto amistades como gente del vecindario se destacan, de las mejores maneras posibles, durante la luna llena del 3 de enero. La generosidad proveniente de lejos puede compartirse contigo y tus mejores amistades. Puede que no sea un buen momento para fiestas, pero pronto podría serlo. Sal de tu caparazón bajo la luna nueva del día 18. Si te has estado ocupando de un proyecto específico, ahora puedes ampliar tu rango y tener una perspectiva más completa sin sacrificar tu concentración. Harás que el éxito parezca fácil. El 26 de enero, la conjunción que la Luna forma con Neptuno expone emociones escondidas y te permite hablar abiertamente sobre ellas.Días destacados: 13, 16, 22 

@@ -1,24 +1,20 @@
 ---
 layout: horoscopos
-title: Horoscopo Géminis Diciembre 2021
-description: El Horóscopo Diciembre de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Géminis Enero 2022
+description: El Horóscopo Enero de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo Géminis diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo Géminis enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2021-11-26
+ogimg: /images/mes/geminis_mes.png#2021-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-11-26'
+ lastmod: '2021-12-26'
 ---
 
 
-La vida social recibe un gran impulso de la luna nueva del 4 de diciembre. Todos los clubes y grupos no oficiales planearán la suficiente cantidad de festividades de fin de año para mantener tu agenda ocupada. No necesitas organizar o incluso asistir a cada una de ellas, pero tal vez sientas la obligación de ir. Tómatelo con calma, y disfruta. Mercurio se torna estacionario directo también ese día. No dejes que las comunicaciones sin resolver sigan complicando tu temporada de festividades.
-
-El sol forma un trígono con Urano el 17 de diciembre. Sorpréndete, y siéntete a gusto en un evento festivo lleno de gente y ruido. Tal vez no seas capaz de ir más despacio durante la luna llena del día 19, pero puedes hacer una pausa, y enfocarte en detalles importantes de tu rutina diaria. Lava los trastes, riega las orquídeas, y asegúrate de que aunque algo quede sin hacer, las cosas importantes estén cubiertas. Siente todas las virtudes que tienes. 
-
-La luna forma un trígono con Urano el 26 de diciembre. Un comentario o gesto inesperado puede enriquecer una situación agradable aún más. 
+La Luna Nueva del 7 de enero regresa tu enfoque hacia tu hogar. Claro, es una responsabilidad y a veces una carga, pero principalmente, es el lugar donde vive y pasas tus horas más íntimas. Recupera una parte de toda esta magia, hazla únicamente tuya y disfruta de hacerlo. La Luna Llena del 21 de enero brilla sobre tu entorno personal y amistoso. Alguien que no has visto en mucho tiempo podría reaparecer con grandes historias que contar. Disfruta de tu gran poder y siéntete capaz de todo mientras la Luna conjunte a magnánimo Plutón en Capricornio el 28 de enero. Más tarde, el retroceso de Mercurio desacelera la velocidad del mundo a tu propio ritmo.

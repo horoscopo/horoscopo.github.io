@@ -1,20 +1,20 @@
 ---
 layout: horoscopos
-title: Horoscopo Capricornio Diciembre 2021
-description: El Horóscopo Diciembre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Capricornio Enero 2022
+description: El Horóscopo Enero de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo Capricornio diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo Capricornio enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2021-11-26
+ogimg: /images/mes/capricornio_mes.png#2021-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-11-26'
+ lastmod: '2021-12-26'
 ---
 
 
-El 1 de diciembre, Mercurio forma trígono con Urano y cuadra al asteroide Quirón. Haz tu rutina más eficiente y no te canses demasiado. Tu familia y vida hogareña son puestas bajo enfoque durante la Luna Nueva del 4 de diciembre. No sientas insuficiencia o inseguridad de ninguna manera. Sé el adulto en la habitación que no aumenta el existente nivel de estrés. La Luna Llena del 19 de diciembre ilumina tu vida social y las instituciones que tocan tu corazón y que te conectan con el mundo exterior. La época navideña podría estar llena de fiestas e intercambios de regalos. Puede que termines pasando poco tiempo en casa esta temporada de fiestas.
+Disfruta de buenos momentos de descanso con tus amigos y familia durante la luna llena del 6 de enero. Puede que tus amistades tengan ideas exóticas y alocadas. Tú, por otro lado, puede que pienses que el aquí y ahora es diversión suficiente. Puede que sientas un poco de claustrofobia bajo la luna nueva del 19 de enero. Puede que la vida de vecindario se sienta pequeña y anticuada. Abre la puerta y recorre nuevos lugares. Quizá decidas inscribirte a un nuevo curso o plan de estudio. Conoce nuevas personas y deja que tu perspectiva se expanda y cambie. El 28 de enero, la luna conjunta con Plutón el mismo día que Plutón se vuelve directo. Espera un gran avance. 

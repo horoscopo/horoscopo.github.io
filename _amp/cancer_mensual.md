@@ -1,23 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Diciembre 2021 
+title: Horoscopo Cáncer Enero 2022 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2021-11-26
+ogimg: /images/mes/Cáncer_mes.png#2021-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-11-26'
+ lastmod: '2021-12-26'
 ---
 
 
-Con la luna nueva del 4 de diciembre, deja que las próximas festividades hagan su magia para ti en tu profesión o imagen pública. Si hay algo específico que hayas estado deseando que suceda, dale la oportunidad de manifestarse y aparecer frente a tus ojos. Mercurio se torna estacionario directo también ese día. Los malentendidos pueden perdurar, pero los apuros o complicaciones comienzan a perder su influencia. 
-
-La conjunción entre Marte y Neptuno del 7 de diciembre te abre la puerta a un sueño mayor, mejor y más posible. Haz que suceda si puedes. 
-El trígono entre Venus y Neptuno el día 17 hacen que la hermosa temporada de festividades sea incluso más bella. Mercurio forma una conjunción con Júpiter también ese día. Piensa (y actúa) de una forma bella y brillante. 
-
-La luna llena del 19 de diciembre te permite ser muy sensible sin volverte vulnerable. Remarca físicamente lo que alguien quiere y necesita pero no puede expresar abiertamente. Disfruta de pasar tiempo con alguien que quiere darte ánimos. Le alegrará el día. 
+Te sentirás en tu punto más intenso y perseguirás una profunda, especial y personal pasión mientras el Sol conjunte a Plutón el 5 de enero. Ten un comienzo de año sano, feliz y fuerte bajo la Luna Nueva del 9 de enero. Si tienes algún problema de salud, adopta una actitud práctica hacia él y haz lo que necesites hacer. Reconoce cualquier temor fugaz inspirado por la noticia del problema de una amistad simplemente como lo que es, pero también trata de ser inteligente y realista. Vete y siéntete como un millón de dólares bajo la Luna Llena del 23 de enero. Por supuesto que vales mucho más que eso y la gente lo notará al mirarte. Prepárate para recibir gran admiración.
