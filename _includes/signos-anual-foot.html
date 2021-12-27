@@ -1,12 +1,12 @@
-    <strong>Horoscopos 2021 - Predicciones por signos</strong>
+    <strong>Horoscopos 2022 - Predicciones por signos</strong>
   <div class="row centered lightgrey">
     {% for signo in site.data.signos %}
           <div class="col-sm-4">
-		<a href="{{ site.url }}/horoscopo-anual/{{ signo.id }}/" alt="{{ signo.id }} Horóscopo 2021">
+		<a href="{{ site.url }}/horoscopo-anual/{{ signo.id }}/" alt="{{ signo.id }} Horóscopo 2022">
 		{% capture signo_image %}/images/{{ signo.id }}.png{% endcapture %}
 		{% include picture.html img=signo_image class="img-responsive center-block" alt="Signo del zodiaco " %}
 		<ul class="list-unstyled">
-		  <li>{{ signo.id }} 2021 Horóscopos</li>
+		  <li>{{ signo.id }} 2022 Horóscopos</li>
 		</ul>
 	     </a>
 	  </div>
