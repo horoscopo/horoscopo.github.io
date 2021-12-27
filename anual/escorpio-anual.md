@@ -6,7 +6,7 @@ permalink: /horoscopo-anual/escorpio/
 amplink: /horoscopo-anual/amp/escorpio/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2022, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2022, horóscopo esperanza gracia, horoscopo Escorpio 2022, horoscop, horóscopos gratis, horoscopo Escorpio, horoscopo Escorpio 2022 gratis, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/escorpio_anual.png
+ogimg: /images/escorpio_anual.png#2021-12-26
 horoscopo:
  signo: escorpio
 sitemap:

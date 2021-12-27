@@ -6,7 +6,7 @@ permalink: /horoscopo-anual/leo/
 amplink: /horoscopo-anual/amp/leo/
 home: FALSE
 keywords: horóscopo año nuevo, horóscopo 2022, horóscopo, horoscopos diarios gratis del dia de hoy, horóscopo diario gratis,horóscopo ano nuevo 2022, horóscopo esperanza gracia, horoscopo Leo 2022, horoscop, horóscopos gratis, horoscopo Leo, horoscopo Leo 2022 gratis, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis,tarot en femenino,videncia gratuita,horoscopos gratuitos,horóscopos, astrologia,videncia gratis
-ogimg: /images/leo_anual.png
+ogimg: /images/leo_anual.png#2021-12-26
 horoscopo:
  signo: leo
 sitemap:
