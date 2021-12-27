@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 20 de diciembre 2021 al 26 de diciembre 2021 
-description: Horóscopo semanal escorpio 20 de diciembre 2021 al 26 de diciembre 2021. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Escorpio, ¡NO MEZCLES!
+title: escorpio 27 de diciembre 2021 al 02 de enero 2022 
+description: Horóscopo semanal escorpio 27 de diciembre 2021 al 02 de enero 2022. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Escorpio, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Escorpio, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2021-12-20
+ogimg: /images/zodiac/semanal_escorpio.png#2021-12-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-20'
+ lastmod: '2021-12-27'
 ---
 
 
 
-## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Escorpio, ¡NO MEZCLES!
+## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Escorpio, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Escorpio, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 
-Tienes que empezar a vivir de nuevo Escorpio, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad Escorpio, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
-La necesidad de gastar podría tentarte a realizar compras que realmente no valen la pena. Al comienzo de la semana, te beneficiarás de saber esperar si lo que estás contemplando parece ser el elemento más deseable sobre la faz de la tierra; ya que más adelante en la semana podrías preguntarte qué es lo que estabas pensando. En caso de duda, pídele su opinión a alguien de confianza. Más tarde, tu opinión podría ser requerida por alguien que te ve como la persona experta en un tema en particular. Tu popularidad podría aumentar de nivel como resultado.
+Tienes que improvisar más Escorpio, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Escorpio, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Escorpio… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Escorpio, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Escorpio.
+Por un lado, el Sol en un sector más intenso de tu carta astral puede dirigir tu enfoque hacia adentro y llevarte a explorar las capas más profundas de tu personalidad. Por otro lado, una mezcla dinámica de energías podría atraer tu mirada hacia afuera para que puedas aprovechar nuevas oportunidades y descubrir nuevos territorios. Tu perspectiva cambiará de forma radical en cualquier rumbo que sigas. El sábado, Venus, el planeta del amor, se vuelve retrógrado y esta puede ser la oportunidad para que te reencuentres con una persona que conociste hace tiempo.
 
 ## Dinero
 
-Andas muy comunicativo/a ahora. El hablar, chatear, o incluso el uso de sitios de redes sociales trabaja a tu favor y son parte de tu persona por ahora. Pero estás llevándolo a otro nivel, inclusive al hablar de que estás pensar en escribir tus memorias. Tienes una increíble cantidad de energía creativa en este momento, úsala a tu ventaja financieramente y para encontrar a tu público, después, busca los mercados con el más amplio alcance para obtener los mejores resultados.
+Ahora tienes un aspecto armonioso afectando a tu sector de hogar y emociones. Si trabajas en un campo creativo o de diseño, piensa en cómo ampliar tu línea para incluir el diseño de interiores. Dado a que tantos de tus propios recuerdos y sentimientos están siendo despertados, puedes percatarte de que tu vida puede servir de base para nuevas y maravillosas ideas. El dinero viene cuando se combina lo personal con lo profesional.

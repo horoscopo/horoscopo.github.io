@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: aries 20 de diciembre 2021 al 26 de diciembre 2021 
-description: Horóscopo semanal aries 20 de diciembre 2021 al 26 de diciembre 2021. Vienen emociones fuertes Aries, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+title: aries 27 de diciembre 2021 al 02 de enero 2022 
+description: Horóscopo semanal aries 27 de diciembre 2021 al 02 de enero 2022. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2021-12-20
+ogimg: /images/zodiac/semanal_aries.png#2021-12-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-20'
+ lastmod: '2021-12-27'
 ---
 
 
 
-## Vienen emociones fuertes Aries, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
-Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
-como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
-Ciertas amistades te contactan y quieren divertirse. Las oportunidades románticas abundan, pero lo mejor es ir con la corriente en vez de hacer compromisos firmes. Mientras más te dispongas a interactuar y establecer contactos, más opciones tendrás para llevar tu vida a nuevos y emocionantes niveles. Marte entra a Leo el 8 de diciembre, pudiéndote dar ganas de organizar eventos. Puede que hasta incluso te comportes competitivamente en relación a una historia de amor o en impresionar a otros.
+Tu mente lo está analizando absolutamente todo Aries, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez Aries… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas Aries, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana Aries, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+Puede que te preguntes si debes apegarte a tu rutina de salud o romperla y darte gustos. El día lunes, podías verte teniendo un difícil dilema; cuando puede que lo mejor sea que llegues a un compromiso. Una vez que Venus y Mercurio entren a tu sector de relaciones más adelante en la semana, significa que es momento de saber trabajar en equipo. Ya sea que trabajes con tu pareja o con un grupo, pueden lograr mucho más juntos que a solas. Este fin de semana, espera lo inesperado.
 
 ## Dinero
 
-Puede que esta semana tengas la tentación de ampliar tus esfuerzos de ganar dinero, los cuales incluyen la escritura, el Internet y la creación de contenidos. Pero puede ser que una parte de ti sienta atracción a educación adicional para que puedas cobrar más por tus servicios. Ya que tu principal trabajo cae en medio de esto, no dejes que sea la cosa que sufra. La atención cuidadosa a los detalles te permitirá lograr todo lo que quieras y más.
+Puede que estés pensando en maneras de embellecer tu área de trabajo o conseguir que tus colegas participen en un esfuerzo creativo. También tienes el apoyo total del Universo para hacer algunos movimientos importantes en la parte frontal de la deuda. Pagar las cosas te da una gran sensación en el interior, al igual que hacer un plan de ahorro global y mantenerte al tanto con él.

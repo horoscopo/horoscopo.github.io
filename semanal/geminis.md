@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 20 de diciembre 2021 al 26 de diciembre 2021 
-description: Horóscopo semanal geminis 20 de diciembre 2021 al 26 de diciembre 2021. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+title: geminis 27 de diciembre 2021 al 02 de enero 2022 
+description: Horóscopo semanal geminis 27 de diciembre 2021 al 02 de enero 2022. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2021-12-20
+ogimg: /images/zodiac/semanal_geminis.png#2021-12-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-20'
+ lastmod: '2021-12-27'
 ---
 
 
 
-## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 
-Tienes conversaciones pendientes Géminis, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad Géminis, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas Géminis, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
-A medida que Marte se adentra cada vez más en tu sector espiritual, puede que reavive sentimientos que tienen raíces en el pasado. Este también es el momento de dejar atrás lo que pueda impedir que expreses tus sentimientos o cumplas tus ambiciones más fuertes. Puede que una manera de lograrlo sea mediante el arte o las artesanías, o puedes hacerlo bailando, nadando, saliendo a correr o cualquier otra actividad que te ayude a estabilizarte. Estas medidas simples te pueden ayudar a sentirte mucho mejor.
+Hay cosas que no deben hacer daño Géminis, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo Géminis, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo Géminis, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa Géminis, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+Aunque tienes un montón de oportunidades para socializar y establecer contactos, el continuo enfoque en un sector más aislado de tu carta sugiere que te beneficiarás de tomarte tiempo para estar a solas. Necesitarás este tiempo en silencio para poder escuchar a tu voz interior, sobre todo si te has estado ahogando en las necesidades y demandas de otras personas últimamente. Si tus tareas y quehaceres te han abrumado recientemente, tal es una razón más para obligarte a tener la oportunidad de descansar y recargar baterías.
 
 ## Dinero
 
-Te enfrentas a un momento de decisiones financieras. Tus esfuerzos se están monetizando y te están ayudando a ganar más que nunca. De hecho, puede que tengas tanto que hacer, que no tienes tiempo para amigos y contactos sociales. Puede que tengas que establecer un equilibrio entre el trabajo, las responsabilidades de dinero y la necesidad de desahogarte de vez en cuando. Sin duda te lo mereces.
+A veces puedes ser un conformista, y esta semana, es posible que tengas que hacer todo lo necesario para mantener esto fuera de tu vida. Una nueva energía entra a tu casa de valores y dinero en efectivo, lo que facilita una especie de pausa para ti. En este momento de tranquilidad, estás pensando en lo que eres y en lo que estás dispuesto/a a hacer por dinero y cuánto tiempo libre necesitas para mantenerte sano/a y productivo/a.

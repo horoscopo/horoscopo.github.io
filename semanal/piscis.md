@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 20 de diciembre 2021 al 26 de diciembre 2021 
-description: Horóscopo semanal piscis 20 de diciembre 2021 al 26 de diciembre 2021. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Piscis y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+title: piscis 27 de diciembre 2021 al 02 de enero 2022 
+description: Horóscopo semanal piscis 27 de diciembre 2021 al 02 de enero 2022. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2021-12-20
+ogimg: /images/zodiac/semanal_piscis.png#2021-12-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-20'
+ lastmod: '2021-12-27'
 ---
 
 
 
-## Por muy desconfiado y duro que parezcas ser, al final acabas confiando Piscis y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 
-Es muy importante que eches la vista atrás Piscis, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
-Tu vida amorosa y las relaciones podrían mantenerte en constante movimiento esta semana, y quizás sean una fuente de constante diversión. El sol en tu sector de estilo de vida podría encontrarte con ganas de estar en forma. Si no has respetado mucho tu rutina de ejercicios últimamente, podrías estar buscando nuevas formas de volver al ruedo. El jueves, un encantador aspecto entre el sol y el animado Júpiter en un sector más importante podría inspirarte a conectarte con un entrenador personal u otro profesional del bienestar, de modo que puedas alcanzar tus metas de estado físico. 
-El jueves también podría coincidir con la aparición de un conflicto con otra persona, que podría persistir a menos que una de las partes acepte estar en desacuerdo. Si quieres resolverlo rápidamente, puede que esta persona debas ser tú. Por último, el fin de semana podría inspirar un frenesí de compras. Pero algo que parece perfecto podría no serlo. Lee las opiniones primero.
+Siempre has tenido un fuerte instinto de supervivencia Piscis, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces Piscis y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
+Aunque podrías sentirte impaciente por comprometerte con tus responsabilidades, puede que por otra parte tengas ganas de dejarlo todo. Este podría ser un momento en el que prefieras hacer tus cosas antes que ocuparte de asuntos de negocios o tareas frecuentes. La clave está en administrar tu tiempo y tener días para salir y divertirte. La Luna Llena del Viernes podría funcionar mejor para ti si te das tiempo para un masaje u otro tratamiento de salud.
 
 ## Dinero
 
-Esta semana se trata de los aspectos afortunados que te dan una fuerza de conexión con la tierra para evitar que tu situación económica actual se te suba mucho a la cabeza. Tu sector de trabajo se activa, por lo que podrías tener más trabajo (especialmente si has estado desempleado) y adición a tus responsabilidades. Al mismo tiempo, el gasto se reducirá para que pueda ponerte al día con la deuda. Mantén el rumbo, vas en la dirección correcta.
+Aunque puede que parezca como si las oportunidades estuvieran saliendo de la nada, lo cuál puede minar un poco tu  natural deseo de seguridad, debes saber que vas por buen camino. Es posible que estés un poco más propenso/a a accidentes de lo normal, así que conduce con cuidado. Trata de pagar lo que debes. No esperes a recibir esa inevitable llamada.
