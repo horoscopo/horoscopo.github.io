@@ -3,7 +3,6 @@ layout: default
 ads: ["adsense"]
 ---
 {% include schema-article.html %}
-<div class="col-sm-8">
   <article class="page">
 
     <div class="row panel panel-default"> <!--Fila del post -->
@@ -11,8 +10,6 @@ ads: ["adsense"]
       <div class="panel-heading"> <!--Titulo del panel -->
 	<!--Titulo del post -->
 	<h1 class="panel-title" rel='bookmark'><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a></h1>
-
-	{% include adsense-graphic.html ad_slot="7764040801" %}
         <div>
 	      <ul class="pager">
 		<li>{% if page.horoscopo.signo %}<a href="{{ site.url }}/horoscopo-diario-gratis/{{ page.horoscopo.signo }}/">{% else %}<a href="{{ site.url }}/horoscopo-de-hoy/">{% endif %}Hoy</a></li>
@@ -25,6 +22,7 @@ ads: ["adsense"]
 
       <!--Cuerpo del panel -->
       <div class="panel-body">
+      {% include adsense-graphic.html ad_slot="7764040801" %}
       
       {{ content }}
       
@@ -51,8 +49,6 @@ ads: ["adsense"]
       <!--Extra -->
     </div>
   </article>
-</div>
-{% include sidebar.html %}
 
 <div class="row">
   <div class="col-sm-8">
