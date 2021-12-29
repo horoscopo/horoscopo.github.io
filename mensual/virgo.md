@@ -17,6 +17,8 @@ sitemap:
 ---
 
 
- > 
-Virgo despídete de los malos presentimientos porque en el mes de enero la fortuna será tu mejor aliada, así que debes confiar al máximo en todo lo que te traen los astros. Habla alto y claro de tus sentimientos por esa persona y no postergues más el inicio de un mágico encuentro.
+ > Virgo despídete de los malos presentimientos porque en el mes de enero la fortuna será tu mejor aliada, así que debes confiar al máximo en todo lo que te traen los astros. Habla alto y claro de tus sentimientos por esa persona y no postergues más el inicio de un mágico encuentro.
+
+
+
 ¡Feliz año nuevo! La luna nueva del 1 de enero ilumina tus finanzas y situación económica. Haz una lista de todas las fuentes de ingresos y recursos que ya tienes, y déjate sorprender gratamente por lo que has pasado por alto. El día 16, la luna llena te conecta de forma íntima con mucha gente que quiere escuchar lo que tienes para decir. Algunos quizás pidan favores. Sé popular y profesional, y maneja todo con tranquilidad. El 31 de enero, la segunda luna nueva podría traer apoyo y ayuda de una amistad o persona del vecindario. No necesitarás pedirlos, los recibirás de forma gratuita. 

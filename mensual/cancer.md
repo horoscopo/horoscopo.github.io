@@ -17,6 +17,8 @@ sitemap:
 ---
 
 
- > 
-Cancer prepárate para un mes de lo más atareado porque enero te trae deberes y algunas noches en vela. Pero no será para mal, sino todo lo contrario. Eso sí, tendrás que ponerte las pilas, porque todo lo que no has hecho durante el año, vas a empezar a darle forma este mes.
+ > Cancer prepárate para un mes de lo más atareado porque enero te trae deberes y algunas noches en vela. Pero no será para mal, sino todo lo contrario. Eso sí, tendrás que ponerte las pilas, porque todo lo que no has hecho durante el año, vas a empezar a darle forma este mes.
+
+
+
 ¡Feliz año nuevo! El 1 de enero, amistades y gente del vecindario están a tu lado durante la luna nueva. A medida que el mes avanza, también hay varias amistades nuevas para hacer, muchas de ellas de lugares lejanos. La luna llena del día 16 podría expandir tu mundo de una forma increíble. El interés más inusual podría prosperar al máximo, y presentarte a una persona emocionante o una posibilidad inimaginable. Ábrete a las posibilidades. El 31 de enero, la segunda luna nueva del mes enriquece tu vida doméstica. Establece un vínculo con un miembro de tu familia y observa todo lo que tienen en común. 

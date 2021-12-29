@@ -17,6 +17,8 @@ sitemap:
 ---
 
 
- > 
-Acuario durante el mes de enero muchas personas solicitan tu ayuda, que prestas generosamente. Vienen ingresos inesperados y se presenta un momento de reconciliación y felicidad.
+ > Acuario durante el mes de enero muchas personas solicitan tu ayuda, que prestas generosamente. Vienen ingresos inesperados y se presenta un momento de reconciliación y felicidad.
+
+
+
 ¡Feliz año nuevo! Durante la luna nueva del 1 de enero, relájate y tómate tu tiempo para poner tus prioridades en orden. Puedes oír muchos consejos y sugerencias, pero tú sabes lo que es mejor para ti. Mantén tus propias necesidades primeras en la lista. La luna llena del día 16 pone oportunidades financieras en tu camino. Esa conversación casual que tienes en la cafetería podría llevar a cosas más grandes y rentables. El 31 de enero, una segunda luna nueva podría transformar una situación negativa en una positiva, lo que favorece oportunidades para todos los involucrados. 

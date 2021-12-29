@@ -17,6 +17,8 @@ sitemap:
 ---
 
 
- > 
-Capricornio recibirás importantes llamadas durante el mes de enero que activan muchas cosas que estaban paradas. Empiezas un nuevo periodo con mucha energías. Reencuentro con viejos amigos y situaciones que se aclaran.
+ > Capricornio recibirás importantes llamadas durante el mes de enero que activan muchas cosas que estaban paradas. Empiezas un nuevo periodo con mucha energías. Reencuentro con viejos amigos y situaciones que se aclaran.
+
+
+
 ¡Feliz año nuevo! La luna nueva del 1 de enero ilumina tus emprendimientos profesionales y públicos. Ya estás en el centro de atención, así que sácale el mayor provecho. Deja que los eventos de cierre de festividades te conecten con personas más influyentes. Con la luna llena del día 16, enfrenta el mayor proyecto o problema en casa y sigue adelante. Nadie puede frenarte. El 31 de enero, la segunda luna nueva del mes afecta tu vida social, clubs y grupos. Podrías unirte a un grupo que cambie todo en tu vida. Incluso podrías sentarte en la banca principal y ser la luz que guía a los demás.

@@ -17,6 +17,8 @@ sitemap:
 ---
 
 
- > 
-Sagitario prepárate para un mes de lo más atareado porque Sagitario te trae deberes y algunas noches en vela. Pero no será para mal, sino todo lo contrario. Eso sí, tendrás que ponerte las pilas, porque todo lo que no has hecho durante el año, vas a empezar a darle forma este mes.
+ > Sagitario durante el mes de enero recibirás las recompensas por los esfuerzos que has hecho a la hora de cuidarte y saber con quién puedes contar o dónde encontrar apoyo cuando lo necesites, mientras progresas más allá de tus miedos.
+
+
+
 ¡Feliz año nuevo! Declara tu independencia y reclama más espacio personal y tiempo bajo la luna nueva del 1 de enero. Tanto amistades como familiares tienen muchos planes geniales, pero tu mundo será mayor y más rico cuando te enfoques en ti. Amistades y gente del vecindario pueden distraerte durante la luna llena del día 16. Disfruta del contacto social y no te preocupes por agotar tu energía. Ahora tienes bastante. El 31 de enero, una segunda luna nueva podrían presentarte una oportunidad profesional que está destinada a mejorar tu posición y reputación. Mira más allá de tus inseguridades inmediatas y haz lo correcto. 
