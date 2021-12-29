@@ -7,16 +7,12 @@ home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2021-12-26
+ogimg: /images/mes/Escorpio_mes.png#2021-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-12-26'
+ lastmod: '2021-12-29'
 ---
 
 
-Urano entra a Tauro en enero y permanece aquí durante los próximos siete años. La vida expande tus límites (en el trabajo, con tu salud, y en tus rutinas) con eventos impredecibles. Podría sacudir el orden natural de las cosas, pero esto está despejando el camino para una nueva vida o una nueva forma de ser. 
-Deja ir lo que no está funcionando, y cualquier apego a las rutinas que ya no te sirven. Esta es una oportunidad para sanar algo desde la raíz en lugar de taparlo. Pregúntate qué es lo que te da una sensación de seguridad. ¿Se trata de dinero, tu familia, tu trabajo, o el lugar donde vives? Libérate de las ideas falsas de la infancia sobre cómo se supone que la vida debería verse. Atrévete a imaginar la mejor vida posible para ti. 
-La mente prevalece sobre el cuerpo. Más allá de tus miedos, las cosas se están estabilizando. Hay una solución creativa y llena de amor para cada dilema que enfrentas. Usa tu ingenio. Piensa en positivo sin esconder bajo la alfombra cualquier cosa que necesita tu atención. Cuando el sol entra a Aries, sentirás que es momento de salir de tu zona de confort y crear una vida que realmente merezca ser vivida. Sigue tu pasión todos los días. 
-Días destacados: 21, 26, 28
-Días desafiantes: 6, 13, 15
+¡Feliz año nuevo! Tu vida social se desborda de emoción durante la luna nueva del 1 de enero. No necesitarás tomar ninguna decisión para pasar un gran rato, excepto quizás sobre qué ropa ponerte. Tal vez quieras rechazar amablemente algunas invitaciones. La luna llena del día 16 podría hacer que sea difícil decidir qué sería lo más divertido y gratificante para hacer. Hazle caso a tu primer impulso y no mires atrás. El 31 de enero, la segunda luna nueva te da tiempo para reflexionar sobre aquellas cosas que más te importan. Descubrirás maneras de volverte una persona más eficiente y empática. 

@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2021-12-26
+ogimg: /images/mes/Tauro_mes.png#2021-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-12-26'
+ lastmod: '2021-12-29'
 ---
 
 
-Bajo la Luna Llena y el Eclipse Lunar del 7 de enero, la necesidad de amor podría sentirse urgente y necesaria. Tal vez atraigas a una persona que no esté lista pero que no quiera decepcionarte. Sincérate e intenta no manipular a nadie. El trígono que la Luna forma con Marte el 12 de enero es tu impulso de energía antes de que Mercurio se torne retrógrado más tarde ese día. La Luna Nueva y el Eclipse Solar total del 21 de enero ofrecen una oportunidad cósmica para convertirte en la mejor versión de ti. Siéntete noble y fuerte, después sé transparente y deja que el mundo responda a eso. Como con todos los regalos cósmicos, esto puede suceder de formas inesperadas. No te esfuerces demasiado en tener todo bajo control. 
+El ciclo retrógrado de Mercurio termina el 3 de enero en Aries. Un retraso en el trabajo también podría terminar. Las amistades son tu mayor riqueza durante la Luna Llena del 10 de enero. No tendrás que “invadir” tu vida de personas. Una o dos amistades especiales te brindarán todo el amor y la diversión que podrías pedir. La Luna Nueva del 25 de enero ofrece distintas opciones de trabajo o carrera. Puede que te ofrezcan muchos nuevos proyectos, la mayoría de ellos a corto plazo. Evalúalos y luego elige los que mejor te permitan mostrar tus talentos y habilidades. También ten en cuenta tu satisfacción personal. Tienes la energía para aceptar todo lo que quieras.

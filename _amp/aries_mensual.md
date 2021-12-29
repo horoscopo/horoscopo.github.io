@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2021-12-26
+ogimg: /images/mes/Aries_mes.png#2021-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-12-26'
+ lastmod: '2021-12-29'
 ---
 
 
-Llénate de energía y entusiasmo durante la luna llena del 5 de enero. Atrae a alguna nueva amistad o amor que se disponga a hacer un mínimo sacrificio o un esfuerzo especial por tu bien y placer. El 11 de enero, la cuadratura entre Marte y Saturno podría sacar a la luz un desacuerdo oculto. Evita la furia, pero mantente firme. El amor y el romance relucen con la luna nueva del 19 de enero. Saca tu mayor atractivo y seducción. Un romance muy apasionado (y práctico) podría estar en tu futuro cercano. Una palabra inteligente dicha en el momento justo puede ser la señal de que se acerca un nuevo amor. 
+¿Cuándo fue el amor tan emocionante e inteligente como ahora? La Luna Llena del 2 de enero podía abrirte los ojos a una nueva y gran oportunidad amorosa. Puede que seas tú quien tenga que hablar primero o presentarse con alguien, pero después de eso, las ruedas rodarán por sí solas. Los colaboradores se vuelven importantes en la segunda mitad del mes, sobre todo después de la Luna Nueva del 16 de enero. Haz tu parte y contribuye tanto como sea aceptado. Tendrás una gran cantidad de energía, por lo que ten cuidado y evita pasar por encima de cualquier persona que esté a cargo. El 30 de enero será un día dulce, amable y generoso. Sé tan agradable como de costumbre y permite que la gente también sea amable contigo.

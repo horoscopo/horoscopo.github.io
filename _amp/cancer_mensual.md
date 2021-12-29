@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2021-12-26
+ogimg: /images/mes/Cáncer_mes.png#2021-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-12-26'
+ lastmod: '2021-12-29'
 ---
 
 
-Te sentirás en tu punto más intenso y perseguirás una profunda, especial y personal pasión mientras el Sol conjunte a Plutón el 5 de enero. Ten un comienzo de año sano, feliz y fuerte bajo la Luna Nueva del 9 de enero. Si tienes algún problema de salud, adopta una actitud práctica hacia él y haz lo que necesites hacer. Reconoce cualquier temor fugaz inspirado por la noticia del problema de una amistad simplemente como lo que es, pero también trata de ser inteligente y realista. Vete y siéntete como un millón de dólares bajo la Luna Llena del 23 de enero. Por supuesto que vales mucho más que eso y la gente lo notará al mirarte. Prepárate para recibir gran admiración.
+¡Feliz año nuevo! El 1 de enero, amistades y gente del vecindario están a tu lado durante la luna nueva. A medida que el mes avanza, también hay varias amistades nuevas para hacer, muchas de ellas de lugares lejanos. La luna llena del día 16 podría expandir tu mundo de una forma increíble. El interés más inusual podría prosperar al máximo, y presentarte a una persona emocionante o una posibilidad inimaginable. Ábrete a las posibilidades. El 31 de enero, la segunda luna nueva del mes enriquece tu vida doméstica. Establece un vínculo con un miembro de tu familia y observa todo lo que tienen en común. 
