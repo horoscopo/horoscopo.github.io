@@ -28,12 +28,21 @@
      
      
      {% if page.horoscopo.signo %}
-      <amp-iframe width=300 height=300
-         sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
-         layout="responsive"
-         frameborder="0"
-         src="https://www.youtube.com/embed/{{ site.data.semanal['general'].video }}">
-      </amp-iframe>  
+        {% if site.data.semanal['general'].platform == "youtube" %}
+            <amp-iframe width=300 height=300
+                sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
+                layout="responsive"
+                frameborder="0"
+                src="https://www.youtube.com/embed/{{ site.data.semanal['general'].video.id }}">
+            </amp-iframe>
+       {% else %}
+            <amp-iframe width=300 height=300
+                sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
+                layout="responsive"
+                frameborder="0"
+                src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Fhoroscopodeldiagratis%2Fvideos%2F{{ site.data.semanal['general'].video.id }}%2F&show_text=false&width=560&t=0">
+            </amp-iframe>
+       {% endif %}
 
       {% endif %}
 
