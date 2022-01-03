@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 27 de diciembre 2021 al 02 de enero 2022 
-description: Horóscopo semanal sagitario 27 de diciembre 2021 al 02 de enero 2022. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+title: sagitario 03 de enero 2022 al 09 de enero 2022 
+description: Horóscopo semanal sagitario 03 de enero 2022 al 09 de enero 2022. No desaproveches las oportunidades más Sagitario, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2021-12-27
+ogimg: /images/zodiac/semanal_sagitario.png#2022-01-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-27'
+ lastmod: '2022-01-03'
 ---
 
 
 
-## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+## No desaproveches las oportunidades más Sagitario, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
 
-Por fin llega lo que tanto estabas esperando Sagitario, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo Sagitario. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana Sagitario, disfrútala al máximo.
-Mientras tu planeta personal Mercurio se dirige hacia un sector recluido de tu carta astral, puedes ver que sientes una conexión más fuerte con tus sentimientos. Esta semana y en las próximas semanas, tal vez se torne más fácil discutir sobre temas que hasta el momento te has reservado para ti. Además, dejar ir cualquier situación que ya no te sirve también puede hacerte sentir más libre. Mientras el Sol entra a tu signo este fin de semana, salir a socializar puede ser gratificante e inspirador.
+No desperdicies ni un solo día de tu vida Sagitario porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio Sagitario, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la Sagitario de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida Sagitario. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
+Tu vida social se vislumbra particularmente alegre, con la oportunidad de conocer a personas que pueden ampliar tus horizontes sociales. Esta semana podrías dar un gran paso conforme el Eclipse Solar en Virgo te empuje a comportarte más aventureramente. También existe la posibilidad de un encuentro que te lleve a pensar en nuevas posibilidades que no habías considerado antes. Este Eclipse podría verte dar un intrépido paso hacia una dirección muy prometedora. ¡Las cosas sin duda están mejorando para ti!
 
 ## Dinero
 
-Se te está dando una oportunidad importante esta semana. Esto te da tiempo a tomar cargo de lo que debes y encontrar una manera amistosa para pagarlo. Sin embargo, tus amigos y grupos sociales no pueden ser el mejor lugar para encontrar información financiera confiable. Sin ofenderlos, tienen objetivos diferentes a los tuyos. Es posible que debas seguir tu propio camino.
+Esta semana hay actividad en tu sector de herencia y propiedad compartida. Necesitas prestar más atención a tu principal fuente de dinero - tu carrera. A pesar de que una herencia podría apoyar tus sueños a largo plazo, tu carrera te apoya emocionalmente también. El Universo te proporciona un mayor descanso del que pudiste haber gozado en los últimos tiempos. Puedes utilizar toda la estabilidad que pudiste haber reunido en otras áreas.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 27 de diciembre 2021 al 02 de enero 2022 
-description: Horóscopo semanal geminis 27 de diciembre 2021 al 02 de enero 2022. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+title: geminis 03 de enero 2022 al 09 de enero 2022 
+description: Horóscopo semanal geminis 03 de enero 2022 al 09 de enero 2022. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Géminis, por qué te lo callas y te lo llevas callando tanto tiempo? 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2021-12-27
+ogimg: /images/zodiac/semanal_geminis.png#2022-01-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-27'
+ lastmod: '2022-01-03'
 ---
 
 
 
-## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Géminis, por qué te lo callas y te lo llevas callando tanto tiempo? 
 
-Hay cosas que no deben hacer daño Géminis, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo Géminis, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo Géminis, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa Géminis, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
-Aunque tienes un montón de oportunidades para socializar y establecer contactos, el continuo enfoque en un sector más aislado de tu carta sugiere que te beneficiarás de tomarte tiempo para estar a solas. Necesitarás este tiempo en silencio para poder escuchar a tu voz interior, sobre todo si te has estado ahogando en las necesidades y demandas de otras personas últimamente. Si tus tareas y quehaceres te han abrumado recientemente, tal es una razón más para obligarte a tener la oportunidad de descansar y recargar baterías.
+A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Géminis. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Géminis, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Géminis, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Géminis pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
+A pesar de que podrías estar feliz de disfrutar de más tiempo libre y más opciones sociales, también es posible que anheles una experiencia más profunda. Si es así, parece que tu deseo podría serte concedido esta semana. Un potente enfoque en tu sector de transformación alude a una decisión que podría tener importantes consecuencias y llevar tu vida hacia un nuevo nivel. Incluso podría sentirse como un renacimiento. Mantén tu guardia en alto contra aquellos que utilizan el dinero como una forma de manipularte. ¡Mantente firme!
 
 ## Dinero
 
-A veces puedes ser un conformista, y esta semana, es posible que tengas que hacer todo lo necesario para mantener esto fuera de tu vida. Una nueva energía entra a tu casa de valores y dinero en efectivo, lo que facilita una especie de pausa para ti. En este momento de tranquilidad, estás pensando en lo que eres y en lo que estás dispuesto/a a hacer por dinero y cuánto tiempo libre necesitas para mantenerte sano/a y productivo/a.
+Eres casi como una pantalla en la que otros pueden proyectan sus esperanzas, miedos, logros y mucho más. Esto te permite ser quien quieras ser esta semana también. Así que si quieres un mejor trabajo o una posición en la cadena alimenticia desde donde estás ahora, actúa como si ya fuera tuyo. Ciertos aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y poder guardar algo para el futuro.

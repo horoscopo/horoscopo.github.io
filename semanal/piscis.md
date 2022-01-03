@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 27 de diciembre 2021 al 02 de enero 2022 
-description: Horóscopo semanal piscis 27 de diciembre 2021 al 02 de enero 2022. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+title: piscis 03 de enero 2022 al 09 de enero 2022 
+description: Horóscopo semanal piscis 03 de enero 2022 al 09 de enero 2022. Deberías empezar a poner las cosas claras Piscis, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2021-12-27
+ogimg: /images/zodiac/semanal_piscis.png#2022-01-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-27'
+ lastmod: '2022-01-03'
 ---
 
 
 
-## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+## Deberías empezar a poner las cosas claras Piscis, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 
-Siempre has tenido un fuerte instinto de supervivencia Piscis, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces Piscis y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
-Aunque podrías sentirte impaciente por comprometerte con tus responsabilidades, puede que por otra parte tengas ganas de dejarlo todo. Este podría ser un momento en el que prefieras hacer tus cosas antes que ocuparte de asuntos de negocios o tareas frecuentes. La clave está en administrar tu tiempo y tener días para salir y divertirte. La Luna Llena del Viernes podría funcionar mejor para ti si te das tiempo para un masaje u otro tratamiento de salud.
+Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
+Cuando te sientas mal, tira de memoria Piscis y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
+Con el amoroso Venus y el sol colocando el enfoque en tu sector de responsabilidades, puedes usar tu encanto y diplomacia para ampliar tus objetivos. Puede que te des cuenta de que eres el centro de atención y esto podría ser una oportunidad para mostrar lo que sabes hacer y así influir ciertos eventos. También es posible que debas tomar una decisión que termine de concretar un acuerdo. A medida que el conversador Mercurio se alinea con el dinámico Plutón, puede que debas pensar antes de tomar una decisión.
 
 ## Dinero
 
-Aunque puede que parezca como si las oportunidades estuvieran saliendo de la nada, lo cuál puede minar un poco tu  natural deseo de seguridad, debes saber que vas por buen camino. Es posible que estés un poco más propenso/a a accidentes de lo normal, así que conduce con cuidado. Trata de pagar lo que debes. No esperes a recibir esa inevitable llamada.
+Las obras creativas y la acción se unen ahora. Esto va a cambiar la forma en la que conectas con grupos sociales, y es posible que empiece a hacerte pensar en cómo trabajar por cuenta propia en un futuro próximo. Este aspecto afirme que tus ideas son sólidas. Todo lo que necesitas es el coraje para hacer esta transición y ver a través de ella. El dinero viene cuando le das seguimiento a lo que has tenido la suerte de crear.

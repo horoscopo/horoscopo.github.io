@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 27 de diciembre 2021 al 02 de enero 2022 
-description: Horóscopo semanal tauro 27 de diciembre 2021 al 02 de enero 2022. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: tauro 03 de enero 2022 al 09 de enero 2022 
+description: Horóscopo semanal tauro 03 de enero 2022 al 09 de enero 2022. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Tauro, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2021-12-27
+ogimg: /images/zodiac/semanal_tauro.png#2022-01-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-27'
+ lastmod: '2022-01-03'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Tauro, vuelve a brillar.
 
-Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí Tauro, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
-La Luna Llena aumenta tu sensibilidad a las situaciones cotidianas, por lo que tu hogar podría ser un lugar de tensión y potenciales disputas el lunes. Valdría la pena mantener la calma y no alterar las cosas. Si sabes que cierto tema causará tensión, evítalo. El jueves y viernes podrían resultar ser días esclarecedores, sobre todo si tienes ansias por explorar una nueva ruta o diversificarte hacia nuevos territorios. Una amistad o incluso tu pareja podrían tener favorecedora información para ti. Sin embargo, este domingo, evita tomar decisiones empresariales.
+Disfruta de la vida Tauro, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Tauro. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Tauro.
+Podrían suceder muchas cosas a tu alrededor, pero tal vez estés consciente de la necesidad de un cambio. Puede que esto se refleje en tu hogar, así como en tus metas personales o planes profesionales. 
+Debido al eclipse solar en tu sector doméstico durante esta semana, podrías sentir que las tensiones se acumulan. Y cuando añades al potente Plutón a la mezcla, poderosas emociones podrían salir a la superficie. Tal vez sientas que es momento de dar un cambio de rumbo, y esta decisión podría afectar aspectos de tu vida hogareña y tus planes. De hecho, puede que debas librarte de algo o resolverlo antes de poder avanzar. Al mismo tiempo, el dulce Venus ingresa a Virgo y a tu sector de estilo de vida, lo que ayuda a traer armonía a las relaciones cotidianas. Y cuando el jovial Júpiter se vuelve directo en tu sector de bienes compartidos, el dinero y las cuestiones comerciales pueden comenzar a verse más prometedoras.
 
 ## Dinero
 
-Esta semana entras a un momento de mayor curiosidad. Los planetas afectan tu carta gobernando el sector de la educación, aprendizaje, enseñanza, viajes, la metafísica y la ley. En los aspectos afortunados encontrarás que serás capaz de atraer dinero de una o más de estas actividades, o que la adición de nuevas habilidades te permite ganar más para el futuro. ¡Qué emocionante!
+Te diriges a un periodo de gran riqueza en términos de finanzas e información que te ayudará a obtener más seguridad. Tienes un increíble poder psíquico ahora. El Universo está agitando tu sector de karma, vidas pasadas, e instituciones, con el fin de acudir a estas áreas para hacer más dinero, encontrar nuevas ideas para productos y servicios únicos, o localizar lugares para invertir tu dinero para maximizar tus ganancias.

@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 27 de diciembre 2021 al 02 de enero 2022 
-description: Horóscopo semanal cancer 27 de diciembre 2021 al 02 de enero 2022. Estás a tope Cáncer, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: cancer 03 de enero 2022 al 09 de enero 2022 
+description: Horóscopo semanal cancer 03 de enero 2022 al 09 de enero 2022. Tienes la semana agitada Cáncer. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2021-12-27
+ogimg: /images/zodiac/semanal_cancer.png#2022-01-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2021-12-27'
+ lastmod: '2022-01-03'
 ---
 
 
 
-## Estás a tope Cáncer, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## Tienes la semana agitada Cáncer. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 
-Estás alcanzando una madurez Cáncer, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Cáncer y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
-La semana por delante podría tener un par de exigencias para ti a pesar de que ya quieres progresar. Algunas ideas sobre la temporada de festividades que se aproxima podrían coincidir con la decisión de organizarte y quizás hacer tus regalos. En el trabajo, tal vez sea necesario renovar tu situación actual, en especial si los métodos viejos ya no están a la altura. Un par de cambios podrían transformar las cosas para bien. Por último, el romance parece bastante prometedor, ya sea que estés con alguien o te hayas enamorado recientemente.
+Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
+ aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
+Tu lugar bajo los reflectores parece estar destinado a continuar durante algún tiempo, por lo que aprovecha al máximo esta oportunidad para mostrar tu innato resplandor. Puede que incluso se te llegue a conocer como alguien experto en su campo. Saturno en tu signo comienza a avanzar una vez más el Sábado, lo que puede indicar un mayor progreso en un plan o proyecto que parece haberse estancado. Una interesante noticia que recibas el fin de semana podría darte esperanza en relación a una oportunidad que pensabas que habías perdido.
 
 ## Dinero
 
-Ciertos aspectos afectando tu sector de comunicaciones pueden llevarte a ponerte en contacto con una o muchas personas. En medio de las llamadas, los correos electrónicos y mensajes de texto, existe la repentina urgencia de capturar tu experiencia para la posteridad. Este es un buen momento para empezar a escribir una nueva historia, no importa cuál sea tu pasión. Tienes todo lo que necesitas. Los grupos sociales y las redes a tu alcance pueden ser de gran ganancia.
+Tienes mucho coraje cuando se trata de decisiones sobre tu futuro financiero. El Universo podría crear problemas entre tú y una institución (como tu lugar de trabajo), o entre el deseo de pasar tiempo en la oficina o viajando. Uno de los dos tiene que ceder o de lo contrario tu situación financiera se verá afectada negativamente. Procede con extrema precaución.
