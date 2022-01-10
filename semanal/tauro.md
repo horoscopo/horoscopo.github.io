@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 03 de enero 2022 al 09 de enero 2022 
-description: Horóscopo semanal tauro 03 de enero 2022 al 09 de enero 2022. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Tauro, vuelve a brillar.
+title: tauro 10 de enero 2022 al 16 de enero 2022 
+description: Horóscopo semanal tauro 10 de enero 2022 al 16 de enero 2022. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-01-03
+ogimg: /images/zodiac/semanal_tauro.png#2022-01-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-03'
+ lastmod: '2022-01-10'
 ---
 
 
 
-## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Tauro, vuelve a brillar.
+## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 
-Disfruta de la vida Tauro, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Tauro. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Tauro.
-Podrían suceder muchas cosas a tu alrededor, pero tal vez estés consciente de la necesidad de un cambio. Puede que esto se refleje en tu hogar, así como en tus metas personales o planes profesionales. 
-Debido al eclipse solar en tu sector doméstico durante esta semana, podrías sentir que las tensiones se acumulan. Y cuando añades al potente Plutón a la mezcla, poderosas emociones podrían salir a la superficie. Tal vez sientas que es momento de dar un cambio de rumbo, y esta decisión podría afectar aspectos de tu vida hogareña y tus planes. De hecho, puede que debas librarte de algo o resolverlo antes de poder avanzar. Al mismo tiempo, el dulce Venus ingresa a Virgo y a tu sector de estilo de vida, lo que ayuda a traer armonía a las relaciones cotidianas. Y cuando el jovial Júpiter se vuelve directo en tu sector de bienes compartidos, el dinero y las cuestiones comerciales pueden comenzar a verse más prometedoras.
+Tienes que enderezar un poco tu vida Tauro, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
+El romance, la creatividad y la diversión están en la agenda de esta semana, con más aún por venir. Si tu tiempo ha estado ocupado con familia, proyectos creativos y tareas en general, podrás disfrutar de la oportunidad de relajarte y descansar. También aparecerán corrientes culturales, pudiendo llevarte a disfrutar de arte, exposiciones, conciertos o películas que alimenten tu alma. También te encantará acudir a un spa para darte un relajante masaje o tratamiento de belleza. Aunque puede haber un pequeño problema técnico el Viernes, todo estará bien.
 
 ## Dinero
 
-Te diriges a un periodo de gran riqueza en términos de finanzas e información que te ayudará a obtener más seguridad. Tienes un increíble poder psíquico ahora. El Universo está agitando tu sector de karma, vidas pasadas, e instituciones, con el fin de acudir a estas áreas para hacer más dinero, encontrar nuevas ideas para productos y servicios únicos, o localizar lugares para invertir tu dinero para maximizar tus ganancias.
+Estás pensando en grande esta semana. Puede que tengas la tentación de ponerte en contacto con los profesionales calificados que te ayudarán a poner tus finanzas en orden o bien decidir de una vez por todas el dejar de vivir esperando cheque tras cheque. Usa tu inteligencia innata y el poder de organización para hablar a favor de lo que quieres, y haz un plan infalible para lograr que se haga. Mantén enfoque y claridad acerca de  lo que quieres lograr.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 03 de enero 2022 al 09 de enero 2022 
-description: Horóscopo semanal virgo 03 de enero 2022 al 09 de enero 2022. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Virgo.
+title: virgo 10 de enero 2022 al 16 de enero 2022 
+description: Horóscopo semanal virgo 10 de enero 2022 al 16 de enero 2022. Empieza a hacerte promesas a ti mismo Virgo, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-01-03
+ogimg: /images/zodiac/semanal_virgo.png#2022-01-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-03'
+ lastmod: '2022-01-10'
 ---
 
 
 
-## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Virgo.
+## Empieza a hacerte promesas a ti mismo Virgo, empieza a prometerte amor propio, hoy y siempre. 
 
-A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez Virgo. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona Virgo, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
-Necesitas tomar una decisión clave el Martes. La Luna Nueva de mitad de semana en tu sector hogareño alienta nuevos comienzos, por lo que si te has preparado para empezar un proyecto o seguir con la siguiente fase de un plan, es el momento adecuado para actuar. Lo que sea que comiences ahora podría cambiar tu vida de una manera positiva. Mientras tanto, Marte se une a Venus en Libra el jueves, haciendo de este un momento excelente para anunciar tus productos y servicios y hacerle llegar tu mensaje al mundo.
+Hay cosas que no se pueden cambiar Virgo, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos Virgo, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia Virgo pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+¿Por qué dudas de ti? Tal vez porque sientes incertidumbre con respecto a la dirección que estás tomando. Incluso si alguien parece estarte animando a bailar al ritmo de tu propio tambor, no tienes completa seguridad acerca de ello. Los días por venir podrían ser críticos para ti, particularmente si sientes que deberías actuar, pero aún tienes dudas de cómo hacerlo con eficacia. Dar pasos pequeños podría ser la respuesta, así como también hablar de ello con alguien de confianza. Lo que más necesitas es claridad - entonces todo caerá en su lugar.
 
 ## Dinero
 
-Hay algunos aspectos discordantes esta semana, lo que podría traer un poco de tensión a tu vida. Aunque hay algo de pesadez en tu sector profesional, no descuides tus relaciones. Tienes un montón de gente maravillosa que te puede dar consejos sobre cosas, desde la búsqueda de empleo a las inversiones. Úsalos a tu ventaja.
+Esta semana estás lleno/a de grandes ideas para salir adelante económicamente. Hay una nueva sensibilidad hacia la comunicación y una retención temporal de tus actividades sociales para que puedas poner todas tus cosas en orden. En conjunto, el escenario se prepara para un nuevo trabajo o una nueva posición en tu empresa actual. Es posible que debas sugerir o crearla, pero puede ser tuya.

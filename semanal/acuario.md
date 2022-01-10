@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 03 de enero 2022 al 09 de enero 2022 
-description: Horóscopo semanal acuario 03 de enero 2022 al 09 de enero 2022. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+title: acuario 10 de enero 2022 al 16 de enero 2022 
+description: Horóscopo semanal acuario 10 de enero 2022 al 16 de enero 2022. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-01-03
+ogimg: /images/zodiac/semanal_acuario.png#2022-01-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-03'
+ lastmod: '2022-01-10'
 ---
 
 
 
-## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 
-No eres frágil Acuario, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo Acuario, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra Acuario, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz Acuario, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando Acuario, y sabes lo complicado que es salir de ahí después…
-La semana comienza con una nota optimista conforme Mercurio, tu planeta personal, se torna directo después de sus tres semanas de retroceso. Y con Mercurio actualmente atravesando tu sector de recursos compartidos, puede que experimentes menos retrasos y te enteres de que un préstamo o crédito que solicitaste te será disponible más temprano que tarde. Mientras tanto, puede que tengas que reflexionar sobre una decisión que tomaste antes, especialmente si no tienes suficiente información por el momento. El fin de semana trae consigo una oportunidad para una conexión diferente a la usual.
+Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
+ A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
+La semana por delante podría poner un pequeño golpe de suerte en tu camino, especialmente alrededor del martes, cuando un muy prometedor aspecto sugiere que una cantidad de dinero podría llegarte de la nada. Las conexiones positivas creadas por Mercurio preparan el camino para que puedas ampliar tu alcance y explorar nuevos territorios. Es posible que decidas tomar un curso de estudio o asistir a un taller que te enseñará una nueva habilidad. Además, el simple hecho de tomar un viaje corto para descansar podría dar lugar a una emocionante oportunidad romántica si la deseas.
 
 ## Dinero
 
-Ahora tienes ventaja en tu sector profesional. Tus metas profesionales a largo plazo se han estado poniendo en enfoque durante cierto tiempo. Pero ahora tienes la creatividad, la capacidad intelectual, el hambre y la inventiva para hacer las cosas. El único inconveniente es que los cambios de carrera que realices no siempre le sienten bien a tu ego. Debes saber que al final, son por tu bien.
+Te enfrentas a una época de cambios en el ámbito del dinero. Es probable que el Universo traiga noticias sobre tus finanzas y planes de inversión. Asegúrate de firmar, sellar y cerrar ciertos documentos tan pronto como sea posible para que puedas tomar ventaja de los resultados positivos. En cuanto a las actividades de grupo, encuentra un balance entre tus necesidades y las de los demás.

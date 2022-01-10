@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 03 de enero 2022 al 09 de enero 2022 
-description: Horóscopo semanal escorpio 03 de enero 2022 al 09 de enero 2022. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+title: escorpio 10 de enero 2022 al 16 de enero 2022 
+description: Horóscopo semanal escorpio 10 de enero 2022 al 16 de enero 2022. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-01-03
+ogimg: /images/zodiac/semanal_escorpio.png#2022-01-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-03'
+ lastmod: '2022-01-10'
 ---
 
 
 
-## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+## Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 
-No te conformes con poco Escorpio, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Escorpio, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
-Los asuntos hogareños y familiares, asuntos de bienes raíces y proyectos de manualidades son clave esta semana conforme el enfoque te anima a seguir adelante con planes que has estado alimentando. Es posible que se te empuje a tomar medidas más pronto que tarde, ya que el Eclipse Solar puede coincidir con eventos que aumenten tu ritmo. Si bien esto puede parecerte incómodo al principio, pronto te darás cuenta de que tienes más oportunidades y libertad de la que pensaste que tenías antes. Sin embargo, Mercurio se torna retrógrado, por lo que sufrir retrasos podría ser inevitable.
+Madura Escorpio, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Escorpio, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Escorpio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
+Puede que se generen algunas alteraciones en tu vida social debido a que el eclipse lunar en tu sector de amistad podría traer algunos cambios. Puede que una amistad se vaya de tu círculo social o que hagas nuevas amistades, quizá debido a un movimiento. También es posible que el tiempo que pasabas con ciertos grupos haya llegado a su fin y sea hora de seguir adelante. Si es así, piensa que es parte de las idas y vueltas de la vida. Dentro de poco verás nuevos cambios.
 
 ## Dinero
 
-Puedes lograr cualquier cosa que te propongas esta semana. ¿Te acuerdas de esa lista de tareas que está  haciendo un agujero en tu bolsillo? Esta es la semana indicada para hacerle frente a los elementos más difíciles. ¡No te puedes negar a hacerlo! La suerte y la creatividad ayudan a que tu vida social explote. Así que, junta a los contactos que tengas para ver cómo se pueden ayudar mutuamente a subir la escalera del éxito. De esta manera, todo el mundo gana.
+Estás buscando maneras de utilizar tus prodigiosas habilidades de comunicación para ganarte la vida. Ahora la atención se centra en tus tareas diarias y lo que haces para ganarte la vida. Es un buen momento para una evaluación de desempeño, porque es seguro que tu revisión será alta y tienes una plataforma desde la cual lanzar nuevas ideas y críticas constructivas. Hacerte indispensable garantizará que asciendas la escalera del éxito.
