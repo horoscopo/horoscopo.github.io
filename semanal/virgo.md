@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 10 de enero 2022 al 16 de enero 2022 
-description: Horóscopo semanal virgo 10 de enero 2022 al 16 de enero 2022. Empieza a hacerte promesas a ti mismo Virgo, empieza a prometerte amor propio, hoy y siempre. 
+title: virgo 17 de enero 2022 al 23 de enero 2022 
+description: Horóscopo semanal virgo 17 de enero 2022 al 23 de enero 2022. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-01-10
+ogimg: /images/zodiac/semanal_virgo.png#2022-01-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-10'
+ lastmod: '2022-01-17'
 ---
 
 
 
-## Empieza a hacerte promesas a ti mismo Virgo, empieza a prometerte amor propio, hoy y siempre. 
+## Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
 
-Hay cosas que no se pueden cambiar Virgo, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos Virgo, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia Virgo pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
-¿Por qué dudas de ti? Tal vez porque sientes incertidumbre con respecto a la dirección que estás tomando. Incluso si alguien parece estarte animando a bailar al ritmo de tu propio tambor, no tienes completa seguridad acerca de ello. Los días por venir podrían ser críticos para ti, particularmente si sientes que deberías actuar, pero aún tienes dudas de cómo hacerlo con eficacia. Dar pasos pequeños podría ser la respuesta, así como también hablar de ello con alguien de confianza. Lo que más necesitas es claridad - entonces todo caerá en su lugar.
+Tienes que esforzarte Virgo, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Virgo, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Virgo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Virgo, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+El Sol continúa su viaje a través de un sector más sensible de tu carta, por lo que incluso pequeñas decisiones podrían tener un impacto en áreas clave de tu vida. Esta es una buena oportunidad para dejar de lado el resentimiento, el miedo y otras emociones similares que te impidan ser la mejor versión de ti. Una vez que Venus y Mercurio entren a tu sector de viajes y aventura, también querrás ampliar tus horizontes. Planes de viaje podrían estar en tus cartas este fin de semana.
 
 ## Dinero
 
-Esta semana estás lleno/a de grandes ideas para salir adelante económicamente. Hay una nueva sensibilidad hacia la comunicación y una retención temporal de tus actividades sociales para que puedas poner todas tus cosas en orden. En conjunto, el escenario se prepara para un nuevo trabajo o una nueva posición en tu empresa actual. Es posible que debas sugerir o crearla, pero puede ser tuya.
+Tu personalidad está más suave que de costumbre y es posible que desees probar diferentes sombreros. Esto puede ser literal o metafórico, pero piensa en cómo proyectas lo que eres en este momento. Con nueva vida en tu sector de estudios, viajes, metafísica y psicología, tus ideas son importantes con respecto a cómo hacer tu trabajo. Las habilidades que traes a la mesa son de vital importancia también. Si quieres más, aprende más.

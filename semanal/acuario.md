@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 10 de enero 2022 al 16 de enero 2022 
-description: Horóscopo semanal acuario 10 de enero 2022 al 16 de enero 2022. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: acuario 17 de enero 2022 al 23 de enero 2022 
+description: Horóscopo semanal acuario 17 de enero 2022 al 23 de enero 2022. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-01-10
+ogimg: /images/zodiac/semanal_acuario.png#2022-01-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-10'
+ lastmod: '2022-01-17'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
- A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
-La semana por delante podría poner un pequeño golpe de suerte en tu camino, especialmente alrededor del martes, cuando un muy prometedor aspecto sugiere que una cantidad de dinero podría llegarte de la nada. Las conexiones positivas creadas por Mercurio preparan el camino para que puedas ampliar tu alcance y explorar nuevos territorios. Es posible que decidas tomar un curso de estudio o asistir a un taller que te enseñará una nueva habilidad. Además, el simple hecho de tomar un viaje corto para descansar podría dar lugar a una emocionante oportunidad romántica si la deseas.
+Deja de esperar al futuro Acuario, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz Acuario, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio Acuario, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir Acuario, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Acuario, sin remordimientos.
+Otras personas podrían tener una fuerte influencia en tu vida durante esta etapa. Esto puede deberse a que tienes cuatro planetas en tu sector de relaciones. Hay momentos de la semana en que puede que te resulte difícil comprender los motivos de los demás. De ser así, la conexión del conversador Mercurio con el ejemplar Saturno te anima a pedir explicaciones. Puede que dicha conexión les ayude a definir lo que quieren, y definitivamente te ayudará a ti. Puede que no estés completamente de acuerdo con un familiar el fin de semana, pero puedes llegar a un compromiso.
 
 ## Dinero
 
-Te enfrentas a una época de cambios en el ámbito del dinero. Es probable que el Universo traiga noticias sobre tus finanzas y planes de inversión. Asegúrate de firmar, sellar y cerrar ciertos documentos tan pronto como sea posible para que puedas tomar ventaja de los resultados positivos. En cuanto a las actividades de grupo, encuentra un balance entre tus necesidades y las de los demás.
+El Universo está iluminando tu sector de comunicación. Lo que esto significa es que tienes mucho trabajo que hacer para ganar dinero, y que no es el mejor momento para gastar en exceso. Estudia e imita las formas de los inversionistas exitosos en la medida de tu capacidad.

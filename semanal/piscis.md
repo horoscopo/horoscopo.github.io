@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 10 de enero 2022 al 16 de enero 2022 
-description: Horóscopo semanal piscis 10 de enero 2022 al 16 de enero 2022. No te mereces poco Piscis… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+title: piscis 17 de enero 2022 al 23 de enero 2022 
+description: Horóscopo semanal piscis 17 de enero 2022 al 23 de enero 2022. Da la bienvenida a tu nueva vida Piscis, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-01-10
+ogimg: /images/zodiac/semanal_piscis.png#2022-01-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-10'
+ lastmod: '2022-01-17'
 ---
 
 
 
-## No te mereces poco Piscis… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+## Da la bienvenida a tu nueva vida Piscis, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 
-Esta semana estás un poco impredecible Piscis, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica Piscis… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Piscis. Tú solito.
-Tu vida social parece adoptar un tono nuevo y positivo, con amistades deseosas de verte tener éxito. Como en general sucede, la gente se siente feliz de pasar tiempo contigo, por lo que puede que recibas más invitaciones que nunca. También estás de suerte cuando se trata de romance. Mercurio en Libra a partir del Jueves te anima a hacerte cargo de problemas financieros y aliviar tu ansiedad como resultado. Por su parte, la Luna Llena en tu signo del Sábado te invita a soñar en grande.
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Piscis, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+Puedes llegar muy lejos esta semana siempre y cuando creas en ti. De hecho, el lunes te trae la oportunidad de salirte de tu zona de confort y probar algo un poco diferente. Puede que también quieras hacer un balance de tu rutina diaria y eliminar cualquier habito que ya no tiene ningún propósito positivo. Si intentas demasiado duro para hacer que algo suceda, podrías terminar sintiendo frustración. A partir de mediados de la semana, trata de relajarte e ir con la corriente.
 
 ## Dinero
 
-Estás poniendo tus metas profesionales en buen estado esta semana. Tu visibilidad laboral en el trabajo aumenta y tienes las herramientas necesarias para construir mensajes fuertes y claros. Mientras tanto, tienes la capacidad de hacer que tu caso sea convincente. Desde la creación de publicidad a la fabricación de folletos para atraer más clientes, haz que tu alcance sea persuasivo. No hay nada que no se pueda hacer ahora.
+Esta semana trae un gran suspiro de alivio a medida que eres capaz de ser más productivo/a. Podrías estar considerando  mover tu oficina o base de operaciones, la cuál vendría con menos distracciones con las que has estado trabajando recientemente. Mientras tanto, prepárate para el cambio en el frente de la deuda. Los planetas tienen sorpresas con cambios en tasas de interés y plazos. Lee las clausulas con cuidado.
