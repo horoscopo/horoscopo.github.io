@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de enero 2022
-description: Horóscopos del dia de hoy 20 de enero 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de enero 2022
+description: Horóscopos del dia de hoy 21 de enero 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-01-20
+ lastmod: 2022-01-21
 ---
-Te despiertas bajo la Luna en el activo Aries y haces las cosas con facilidad y anticipación de que hoy mismo, cosas buenas vendrán en forma de importantes nuevos desarrollos. Esta noche, los solteros son atractivos, encantadores, muy románticos, y no muy serios; en caso de que busques compromiso. Mantén las cosas ligeras.
+Saborea los grandes sentimientos de esta mañana. La comunicación es una prioridad durante el oportuno aspecto de la tarde entre la Luna y Mercurio. Esta noche, los planes pueden cambiar en el último momento con la Luna saliéndose de su órbita. ¿Tal vez algo fue programado con demasiada anticipación? No te preocupes, te saldrá bien al segundo intento.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
