@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 17 de enero 2022 al 23 de enero 2022 
-description: Horóscopo semanal tauro 17 de enero 2022 al 23 de enero 2022. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: tauro 24 de enero 2022 al 30 de enero 2022 
+description: Horóscopo semanal tauro 24 de enero 2022 al 30 de enero 2022. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-01-17
+ogimg: /images/zodiac/semanal_tauro.png#2022-01-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-17'
+ lastmod: '2022-01-24'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 
-Abre los ojos de una vez Tauro. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas Tauro, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero Tauro, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también Tauro. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. Tauro por favor, te tenían que tener en un altar… Y lo sabes…
-La Luna Nueva del Lunes podría ser el momento perfecto para comenzar una dieta o una rutina de ejercicio. También hay un poderoso enfoque en tu sector de ocio y placer, lo que podría darte entusiasmo con respecto a oportunidades creativas, sobre todo si se relacionan con ideas emprendedoras. Si has estado considerando iniciar tu propio negocio, este podría ser un buen momento para investigar tus opciones y ponerlas en marcha. Aun así, no dejes que nadie te convenza de nada dudoso el viernes. ¡Mantente alerta!
+No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
+ sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
+El enfoque se mantiene en tu hogar y en tu sector de familia y puede alimentar el deseo de mudarte, y más si lo has considerado últimamente. A la vez, sientes ganas de remodelar tu hogar para que haya más espacio y más opciones. Descubres que hablar con alguien que se encuentra en tu misma sintonía te dará ideas que antes no tenías y algunas de ellas pueden ser útiles para lo que deseas. Antes de comprometerte con un proyecto, analiza bien los detalles.
 
 ## Dinero
 
-Es hora de pensar en cómo pudiste haber tomado la palabra de otras personas en asuntos de dinero o hayas tomado cierto esquema de inversión que es demasiado bueno para ser verdad. Puede ser que alguien te haya estado vendiendo difícilmente algo relacionado con las inversiones. Necesitas más tiempo para considerar el mejor camino para ti. Sé firme pero amable y asegúrate de que tienes el tiempo que necesitas. Tú sabes que es lo mejor para ti.
+Puede que sientas inquietud y satisfacción esta semana. ¿Cuándo fue la última vez que te sentiste feliz y libre? Probablemente cuando estuviste viajando y aprendiendo algo nuevo. Tu cerebro quiere ser usado. Gastar dinero en una clase o libro interesante o salir a una expedición guiada puede ser justo lo que necesitas para defenderte del aburrimiento. Los planetas se preguntan cómo te cambia lo que aprendes. Te podría sorprender la respuesta.
