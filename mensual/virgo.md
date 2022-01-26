@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Virgo Enero 2022
-description: El Horóscopo Enero de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Virgo Febrero 2022
+description: El Horóscopo Febrero de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo Virgo enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo Virgo febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/virgo_mes.png#2021-12-29
+ogimg: /images/mes/virgo_mes.png#2022-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-12-29'
+ lastmod: '2022-01-26'
 ---
 
 
- > Virgo despídete de los malos presentimientos porque en el mes de enero la fortuna será tu mejor aliada, así que debes confiar al máximo en todo lo que te traen los astros. Habla alto y claro de tus sentimientos por esa persona y no postergues más el inicio de un mágico encuentro.
+ > Virgo recibirás importantes llamadas durante el mes de febrero que activan muchas cosas que estaban paradas. Empiezas un nuevo periodo con mucha energías. Reencuentro con viejos amigos y situaciones que se aclaran.
 
 
 
-¡Feliz año nuevo Virgo! La luna nueva del 1 de enero ilumina tus finanzas y situación económica. Haz una lista de todas las fuentes de ingresos y recursos que ya tienes, y déjate sorprender gratamente por lo que has pasado por alto. El día 16, la luna llena te conecta de forma íntima con mucha gente que quiere escuchar lo que tienes para decir. Algunos quizás pidan favores. Sé popular y profesional, y maneja todo con tranquilidad. El 31 de enero, la segunda luna nueva podría traer apoyo y ayuda de una amistad o persona del vecindario. No necesitarás pedirlos, los recibirás de forma gratuita. 
+Los días alrededor de la Luna Nueva del 8 de febrero podrían traer consigo la solución al problema de otra persona, aunque puede que el resultado final no esté libre de problemas para ti. Sin embargo, la suerte está de tu lado. Si alguien te pide algo, ten generosidad, pero no te apresures a dar nada de a gratis. La energía será alta y te habrás preparado para cualquier cosa durante la Luna Llena del 23 de febrero. Puede que tanto amigos como familiares tengan duda de unírsete, pero a veces, te es imposible quedarte en un solo lugar por mucho tiempo, ¡por lo que sal a divertirte! Por último, el trígono entre el Sol y la Luna del 26 de febrero permite que las personas se relacionen con facilidad. Ahora, bien puedes cerrar una brecha que ha persistido con alguien especial.

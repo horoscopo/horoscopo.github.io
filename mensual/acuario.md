@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Acuario Enero 2022
-description: El Horóscopo Enero de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Acuario Febrero 2022
+description: El Horóscopo Febrero de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo Acuario enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo Acuario febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2021-12-29
+ogimg: /images/mes/acuario_mes.png#2022-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-12-29'
+ lastmod: '2022-01-26'
 ---
 
 
- > Acuario durante el mes de enero muchas personas solicitan tu ayuda, que prestas generosamente. Vienen ingresos inesperados y se presenta un momento de reconciliación y felicidad.
+ > Acuario el mes de febrero será como un bálsamo para tu signo. Descargarás una enorme carga emocional y te sentirás más libre para actuar en consecuencia a los dictados de tu corazón. No temas y confía en tus posibilidades.
 
 
 
-¡Feliz año nuevo Acuario! Durante la luna nueva del 1 de enero, relájate y tómate tu tiempo para poner tus prioridades en orden. Puedes oír muchos consejos y sugerencias, pero tú sabes lo que es mejor para ti. Mantén tus propias necesidades primeras en la lista. La luna llena del día 16 pone oportunidades financieras en tu camino. Esa conversación casual que tienes en la cafetería podría llevar a cosas más grandes y rentables. El 31 de enero, una segunda luna nueva podría transformar una situación negativa en una positiva, lo que favorece oportunidades para todos los involucrados. 
+No habrá luna llena en febrero. Hubo dos en febrero, y habrá dos el próximo mes. Esto podría hacer que el 1 de febrero y el 28 de febrero sean más románticos que de costumbre, así que prepárate. La luna nueva (y el eclipse solar) del día 15 ilumina tus finanzas y habilidades para ganar dinero. Sácale el mayor provecho a tus redes de contacto. Una amistad o colega podría intervenir con una buena sugerencia o mano amiga. Si algo se pierde o se va, será reemplazado por algo mejor. El 25 de febrero, el sol forma un sextil con Saturno y te da un empujoncito hacia una mayor autoridad y respeto. Ya has pagado por esto por anticipado. 

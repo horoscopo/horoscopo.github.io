@@ -1,24 +1,29 @@
 ---
 layout: horoscopos
-title: Horoscopo Piscis Enero 2022
-description: El Horóscopo Enero de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Piscis Febrero 2022
+description: El Horóscopo Febrero de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/piscis/
 amplink: /horoscopo-mensual/amp/piscis/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo Piscis enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Piscis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo Piscis febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Piscis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/piscis_mes.png#2021-12-29
+ogimg: /images/mes/piscis_mes.png#2022-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-12-29'
+ lastmod: '2022-01-26'
 ---
 
 
- > Piscis el mes de enero será para soltar prejuicios y viejas creencias sobre el amor, que no te han permitido avanzar en los últimos tiempos en tus relaciones de pareja.
+ > Piscis se viene el mes de febrero con una gran renovación, tanto interior como exterior. Tus dudas se disiparán como por arte de magia y disfrutarás de una claridad mental que te ayudará en tus proyectos personales y para tomar decisiones más acertadas en el amor.
 
 
 
-¡Feliz año nuevo Piscis! La luna nueva del 1 de enero está llena de amor y romance. Aprovecha al máximo la temporada de festividades para hacer que entre más amor a tu vida. Tal vez sientes que tienes demasiadas ocupaciones y distracciones, pero no pases por alto a alguien realmente especial que podría aparecer ahora. La luna llena del día 16 tiene encanto de sobra. Si hay algo que has estado queriendo decir, no importa lo difícil que sea, ahora sería un buen momento para hablar y luego escuchar un sí. El 31 de enero, durante la segunda luna nueva de este mes , podrías consciente o inconscientemente hacer una gran diferencia en la vida de alguien. 
+Mercurio ingresa a Escorpión el 1 de febrero. Mercurio se encuentra en su fase retrógrada, pero no por mucho más. Vigila tus pasos (y tus palabras). 
+Con la luna nueva del día 6, un amante podría tener actos de extrema generosidad, o tú podrías recibir admiradores y afecto en exceso. Sabes lo que quieres, y en qué cantidad. Mercurio se torna estacionario directo también ese día. Relájate, pero no salgas corriendo de inmediato. Date tiempo. 
+Mercurio entra a Sagitario el 12 de febrero. Ahora, tu temporada de festividades puede subir de tono de forma segura. El día 21, el invierno comienza mientras el sol entra al serio Capricornio. Mercurio forma una conjunción con Júpiter el mismo día. Piensa en grande, pero actúa con cuidado y compasión. La generosidad moderada de hoy trae cosas buenas para el futuro. 
+No pidas nada durante la luna llena del 22 de febrero, y recibirás más de lo que puedes imaginar. Concéntrate en lo que hace falta hacer. Recibirás lo que necesitas y lo que quieres (y más). 
+Días destacados: 6, 12, 21
+Días desafiantes: 13, 24

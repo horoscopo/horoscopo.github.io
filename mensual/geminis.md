@@ -1,24 +1,29 @@
 ---
 layout: horoscopos
-title: Horoscopo Géminis Enero 2022
-description: El Horóscopo Enero de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Géminis Febrero 2022
+description: El Horóscopo Febrero de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo Géminis enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo Géminis febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2021-12-29
+ogimg: /images/mes/geminis_mes.png#2022-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-12-29'
+ lastmod: '2022-01-26'
 ---
 
 
- > Geminis en enero tendrás que decir no y poner límites si no deseas cargar con asuntos que no te pertenecen. Lo peor que podrías hacer es no ponerle remedio a una situación que ni te va ni te viene, pero que a vista de los demás pareces ser responsable.
+ > Geminis durante el mes de febrero recibirás las recompensas por los esfuerzos que has hecho a la hora de cuidarte y saber con quién puedes contar o dónde encontrar apoyo cuando lo necesites, mientras progresas más allá de tus miedos.
 
 
 
-¡Feliz año nuevo Geminis! La luna nueva del 1 de enero te permite confrontar lo que sea que te ha estado molestando o reteniendo. Tienes aliados y colaboradores poderosos, algunos que jamás pensaste siquiera que les agradabas. ¡Sé fuerte! Quiere y déjate querer durante la luna llena del día 16. Piensa y siente mucho amor. Un gran cambio positivo podría suceder para mejorar o comenzar una relación. Este no es momento para tener timidez o miedo de los cambios radicales. El 31 de enero trae una segunda luna nueva que podría darle vuelta un asunto de dinero para aumentar tus ingresos o reducir tus gastos. 
+La oposición que Mercurio forma con Marte el 5 de febrero puede mostrarte otros lados de un desacuerdo o discusión. No hay necesidad de involucrarte en una pelea. Abre tu corazón y las puertas de tu hogar para la luna nueva y el eclipse solar del día 12, y deja que muchas emociones buenas y la buena suerte entren a raudales. Alégrate por los nuevos brotes de una planta o por la amabilidad imprevista de un familiar. 
+
+Deja salir a tu niño o niña interior para la luna llena y el eclipse lunar del 27 de febrero. Disponte a comenzar algo más de una vez, y no te apegues a los resultados. Disfruta de los momentos, y tal vez aprenderás algo útil.
+
+Días destacados: 5, 18, 22
+Días desafiantes: 25, 26</div>

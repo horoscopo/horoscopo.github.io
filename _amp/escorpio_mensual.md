@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Enero 2022 
+title: Horoscopo Escorpio Febrero 2022 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2021-12-29
+ogimg: /images/mes/Escorpio_mes.png#2022-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2021-12-29'
+ lastmod: '2022-01-26'
 ---
 
 
-¡Feliz año nuevo Escorpio! Tu vida social se desborda de emoción durante la luna nueva del 1 de enero. No necesitarás tomar ninguna decisión para pasar un gran rato, excepto quizás sobre qué ropa ponerte. Tal vez quieras rechazar amablemente algunas invitaciones. La luna llena del día 16 podría hacer que sea difícil decidir qué sería lo más divertido y gratificante para hacer. Hazle caso a tu primer impulso y no mires atrás. El 31 de enero, la segunda luna nueva te da tiempo para reflexionar sobre aquellas cosas que más te importan. Descubrirás maneras de volverte una persona más eficiente y empática. 
+El Sol forma trígono con Júpiter el 3 de febrero, simplificando algunos problemas prácticos ya sea en tu trabajo u hogar. Tu trabajo y vida profesional brillan bajo la Luna Nueva del 6 de febrero. Dale inicio a un nuevo proyecto o a la nueva fase de una misión que ya esté bajo tu control. Amplía tus responsabilidades y aumenta tu valor y aprecio ante los ojos de tus compañeros de trabajo y superiores. La Luna Llena del 21 de febrero trae consigo días para entretenerte y disfrutar de una gran emoción. Una amistad podría otorgarte una invitación o la oportunidad de entrar a un círculo social más grande que comparta una de tus pasiones y que pudiera llevarte más lejos.
