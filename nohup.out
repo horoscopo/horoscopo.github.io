@@ -4013,3 +4013,111 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/subprocess.py", line 219, in check_output
     raise CalledProcessError(retcode, cmd, output=output)
 subprocess.CalledProcessError: Command '['git', 'commit', '-m', 'cfg']' returned non-zero exit status 1
+Failed to get connection
+** (inkscape:22525): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22525): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22525): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/aries_mes.png
+Failed to get connection
+** (inkscape:22528): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22528): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22528): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/tauro_mes.png
+Failed to get connection
+** (inkscape:22532): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22532): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22532): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/geminis_mes.png
+Failed to get connection
+** (inkscape:22535): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22535): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22535): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/cancer_mes.png
+Failed to get connection
+** (inkscape:22538): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22538): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22538): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/leo_mes.png
+Failed to get connection
+** (inkscape:22541): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22541): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22541): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/virgo_mes.png
+Failed to get connection
+** (inkscape:22544): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22544): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22544): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/libra_mes.png
+Failed to get connection
+** (inkscape:22547): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22547): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22547): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/escorpio_mes.png
+Failed to get connection
+** (inkscape:22550): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22550): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22550): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/sagitario_mes.png
+Failed to get connection
+** (inkscape:22553): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22553): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22553): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/capricornio_mes.png
+Failed to get connection
+** (inkscape:22556): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22556): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22556): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/acuario_mes.png
+Failed to get connection
+** (inkscape:22559): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22559): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22559): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/piscis_mes.png
