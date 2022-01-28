@@ -4121,3 +4121,699 @@ Failed to get connection
 Background RRGGBBAA: ffffff00
 Area 0:0:1280:672 exported to 1620 x 851 pixels (121,5 dpi)
 Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/horoscopo.github.io/images/mes/piscis_mes.png
+To https://github.com/horoscopo/horoscopo.github.io.git
+   3107cdf4..c8dd0c32  master -> master
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1067    0     0  100  1067      0    642  0:00:01  0:00:01 --:--:--   650100  1067    0     0  100  1067      0    408  0:00:02  0:00:02 --:--:--   411100 12881  100 11814  100  1067   4519    408  0:00:02  0:00:02 --:--:--  4554
+Failed to get connection
+** (inkscape:22640): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22640): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22640): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/aries.png
+47.151
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/aries.mp3':
+  Duration: 00:00:47.15, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.800000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/aries.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.53 fps, 0.53 tbr, 0.53 tbn, 0.53 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/aries.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    6 fps=0.0 q=2.0 size=     422kB time=00:00:06.00 bitrate= 575.8kbits/s speed=11.7x    frame=   16 fps= 16 q=2.0 size=     876kB time=00:00:16.00 bitrate= 448.5kbits/s speed=15.5x    frame=   26 fps= 17 q=2.0 size=    1330kB time=00:00:26.00 bitrate= 419.0kbits/s speed=16.7x    frame=   36 fps= 18 q=2.0 size=    1389kB time=00:00:36.00 bitrate= 316.1kbits/s speed=17.5x    frame=   46 fps= 18 q=2.0 size=    1840kB time=00:00:46.00 bitrate= 327.8kbits/s speed=17.9x    frame=   48 fps= 18 q=2.0 Lsize=    1886kB time=00:00:48.00 bitrate= 321.9kbits/s speed=17.7x    
+video:1648kB audio:184kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.954062%
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0  1056    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1056    0     0  100  1056      0    415  0:00:02  0:00:02 --:--:--   415100 12836  100 11780  100  1056   4631    415  0:00:02  0:00:02 --:--:--  4632
+Failed to get connection
+** (inkscape:22668): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22668): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22668): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/tauro.png
+44.617
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/tauro.mp3':
+  Duration: 00:00:44.62, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.500000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/tauro.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.56 fps, 0.56 tbr, 0.56 tbn, 0.56 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/tauro.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    8 fps=0.0 q=2.0 size=     426kB time=00:00:08.00 bitrate= 436.2kbits/s speed=15.4x    frame=   18 fps= 18 q=2.0 size=     873kB time=00:00:18.00 bitrate= 397.5kbits/s speed=17.6x    frame=   28 fps= 18 q=2.0 size=    1321kB time=00:00:28.00 bitrate= 386.5kbits/s speed=18.2x    frame=   38 fps= 19 q=2.0 size=    1768kB time=00:00:38.00 bitrate= 381.2kbits/s speed=18.6x    frame=   46 fps= 18 q=2.0 Lsize=    1844kB time=00:00:46.00 bitrate= 328.4kbits/s speed=18.4x    
+video:1618kB audio:174kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.887390%
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1034    0     0  100  1034      0    600  0:00:01  0:00:01 --:--:--   600100  1034    0     0  100  1034      0    396  0:00:02  0:00:02 --:--:--   396100 12798  100 11764  100  1034   4457    391  0:00:02  0:00:02 --:--:--  4456
+Failed to get connection
+** (inkscape:22701): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22701): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22701): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/geminis.png
+46.942
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/geminis.mp3':
+  Duration: 00:00:46.94, start: 0.050113, bitrate: 80 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 80 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -4.000000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/geminis.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.53 fps, 0.53 tbr, 0.53 tbn, 0.53 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/geminis.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    9 fps=0.0 q=2.0 size=     446kB time=00:00:09.00 bitrate= 406.4kbits/s speed=17.2x    frame=   19 fps= 18 q=2.0 size=     910kB time=00:00:19.00 bitrate= 392.3kbits/s speed=18.4x    frame=   29 fps= 19 q=2.0 size=    1373kB time=00:00:29.00 bitrate= 388.0kbits/s speed=18.7x    frame=   39 fps= 19 q=2.0 size=    1838kB time=00:00:39.00 bitrate= 386.1kbits/s speed=  19x    frame=   48 fps= 19 q=2.0 Lsize=    1921kB time=00:00:48.00 bitrate= 327.9kbits/s speed=18.8x    
+video:1684kB audio:183kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.888317%
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1001    0     0  100  1001      0    617  0:00:01  0:00:01 --:--:--   617100  1001    0     0  100  1001      0    429  0:00:02  0:00:02 --:--:--   429100 12751  100 11750  100  1001   4950    421  0:00:02  0:00:02 --:--:--  4949
+Failed to get connection
+** (inkscape:22729): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22729): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22729): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/cancer.png
+40.933
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/cancer.mp3':
+  Duration: 00:00:40.93, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.900000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/cancer.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.61 fps, 0.61 tbr, 0.61 tbn, 0.61 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/cancer.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    9 fps=0.0 q=2.0 size=     458kB time=00:00:09.00 bitrate= 416.8kbits/s speed=17.2x    frame=   19 fps= 19 q=2.0 size=     933kB time=00:00:19.00 bitrate= 402.2kbits/s speed=18.5x    frame=   29 fps= 19 q=2.0 size=    1408kB time=00:00:29.00 bitrate= 397.8kbits/s speed=  19x    frame=   39 fps= 19 q=2.0 size=    1883kB time=00:00:39.00 bitrate= 395.6kbits/s speed=19.1x    frame=   42 fps= 19 q=2.0 Lsize=    1930kB time=00:00:42.00 bitrate= 376.4kbits/s speed=18.8x    
+video:1721kB audio:160kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.565500%
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1086    0     0  100  1086      0    631  0:00:01  0:00:01 --:--:--   631100  1086    0     0  100  1086      0    403  0:00:02  0:00:02 --:--:--   403100 12891  100 11805  100  1086   4387    403  0:00:02  0:00:02 --:--:--  4386
+Failed to get connection
+** (inkscape:22759): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22759): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22759): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/leo.png
+44.93
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/leo.mp3':
+  Duration: 00:00:44.93, start: 0.050113, bitrate: 80 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 80 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.900000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/leo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.56 fps, 0.56 tbr, 0.56 tbn, 0.56 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/leo.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    9 fps=0.0 q=2.0 size=     447kB time=00:00:09.00 bitrate= 406.5kbits/s speed=17.1x    frame=   19 fps= 18 q=2.0 size=     911kB time=00:00:19.00 bitrate= 392.7kbits/s speed=18.2x    frame=   29 fps= 19 q=2.0 size=    1377kB time=00:00:29.00 bitrate= 389.1kbits/s speed=18.8x    frame=   39 fps= 19 q=2.0 size=    1840kB time=00:00:39.00 bitrate= 386.5kbits/s speed=18.9x    frame=   46 fps= 19 q=2.0 Lsize=    1911kB time=00:00:46.00 bitrate= 340.4kbits/s speed=18.6x    
+video:1684kB audio:176kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.797921%
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1205    0     0  100  1205      0    727  0:00:01  0:00:01 --:--:--   726100  1205    0     0  100  1205      0    453  0:00:02  0:00:02 --:--:--   453100 13044  100 11839  100  1205   4288    436  0:00:02  0:00:02 --:--:--  4287
+Failed to get connection
+** (inkscape:22787): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22787): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22787): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/virgo.png
+50.442
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/virgo.mp3':
+  Duration: 00:00:50.44, start: 0.050113, bitrate: 80 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 80 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.900000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/virgo.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.50 fps, 0.50 tbr, 0.50 tbn, 0.50 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/virgo.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    9 fps=0.0 q=2.0 size=     447kB time=00:00:09.00 bitrate= 406.9kbits/s speed=17.7x    frame=   19 fps= 19 q=2.0 size=     910kB time=00:00:19.00 bitrate= 392.6kbits/s speed=18.6x    frame=   29 fps= 19 q=2.0 size=    1376kB time=00:00:29.00 bitrate= 388.6kbits/s speed=  19x    frame=   39 fps= 19 q=2.0 size=    1838kB time=00:00:39.00 bitrate= 386.0kbits/s speed=19.3x    frame=   49 fps= 19 q=1.6 size=    1893kB time=00:00:49.00 bitrate= 316.4kbits/s speed=19.4x    frame=   52 fps= 19 q=2.0 Lsize=    2351kB time=00:00:52.00 bitrate= 370.4kbits/s speed=19.1x    
+video:2097kB audio:197kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.493596%
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1574    0     0  100  1574      0    955  0:00:01  0:00:01 --:--:--   955100  1574    0     0  100  1574      0    594  0:00:02  0:00:02 --:--:--   594100  1574    0     0  100  1574      0    470  0:00:03  0:00:03 --:--:--   470100 13552  100 11978  100  1574   3583    470  0:00:03  0:00:03 --:--:--  3583
+Failed to get connection
+** (inkscape:22820): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22820): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22820): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/libra.png
+71.497
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/libra.mp3':
+  Duration: 00:01:11.50, start: 0.050113, bitrate: 80 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.700000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/libra.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.35 fps, 0.35 tbr, 0.35 tbn, 0.35 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/libra.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    9 fps=0.0 q=2.0 size=     454kB time=00:00:09.00 bitrate= 413.3kbits/s speed=16.9x    frame=   19 fps= 18 q=2.0 size=     926kB time=00:00:19.00 bitrate= 399.1kbits/s speed=18.2x    frame=   29 fps= 19 q=2.0 size=    1398kB time=00:00:29.00 bitrate= 394.9kbits/s speed=18.7x    frame=   39 fps= 19 q=2.0 size=    1870kB time=00:00:39.00 bitrate= 392.8kbits/s speed=18.8x    frame=   48 fps= 19 q=2.0 size=    1925kB time=00:00:48.00 bitrate= 328.5kbits/s speed=18.6x    frame=   58 fps= 19 q=2.0 size=    2393kB time=00:00:58.00 bitrate= 338.0kbits/s speed=18.8x    frame=   68 fps= 19 q=2.0 size=    2867kB time=00:01:08.00 bitrate= 345.4kbits/s speed=  19x    frame=   73 fps= 19 q=1.6 Lsize=    3355kB time=00:01:13.00 bitrate= 376.5kbits/s speed=18.8x    
+video:2999kB audio:279kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.349220%
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1051    0     0  100  1051      0    634  0:00:01  0:00:01 --:--:--   634100  1051    0     0  100  1051      0    417  0:00:02  0:00:02 --:--:--   417100 12834  100 11783  100  1051   4677    417  0:00:02  0:00:02 --:--:--  4675
+Failed to get connection
+** (inkscape:22849): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22849): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22849): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/escorpio.png
+43.911
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/escorpio.mp3':
+  Duration: 00:00:43.91, start: 0.050113, bitrate: 80 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 80 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.600000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/escorpio.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.57 fps, 0.57 tbr, 0.57 tbn, 0.57 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/escorpio.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    9 fps=0.0 q=2.0 size=     454kB time=00:00:09.00 bitrate= 413.0kbits/s speed=17.5x    frame=   19 fps= 19 q=2.0 size=     925kB time=00:00:19.00 bitrate= 398.7kbits/s speed=18.5x    frame=   29 fps= 19 q=2.0 size=    1398kB time=00:00:29.00 bitrate= 394.8kbits/s speed=  19x    frame=   40 fps= 19 q=2.0 size=    1873kB time=00:00:40.00 bitrate= 383.5kbits/s speed=19.2x    frame=   45 fps= 19 q=2.0 Lsize=    1933kB time=00:00:45.00 bitrate= 351.8kbits/s speed=18.9x    
+video:1710kB audio:172kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.713613%
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1593    0     0  100  1593      0    925  0:00:01  0:00:01 --:--:--   925100  1593    0     0  100  1593      0    584  0:00:02  0:00:02 --:--:--   584100 13564  100 11971  100  1593   3498    465  0:00:03  0:00:03 --:--:--  3499
+Failed to get connection
+** (inkscape:22877): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22877): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22877): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/sagitario.png
+72.124
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/sagitario.mp3':
+  Duration: 00:01:12.12, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.800000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/sagitario.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.35 fps, 0.35 tbr, 0.35 tbn, 0.35 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/sagitario.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    9 fps=0.0 q=2.0 size=     451kB time=00:00:09.00 bitrate= 410.1kbits/s speed=17.4x    frame=   19 fps= 19 q=2.0 size=     919kB time=00:00:19.00 bitrate= 396.3kbits/s speed=18.6x    frame=   29 fps= 19 q=2.0 size=    1391kB time=00:00:29.00 bitrate= 392.9kbits/s speed=19.1x    frame=   39 fps= 19 q=2.0 size=    1859kB time=00:00:39.00 bitrate= 390.4kbits/s speed=19.3x    frame=   49 fps= 19 q=1.6 size=    1915kB time=00:00:49.00 bitrate= 320.2kbits/s speed=19.4x    frame=   60 fps= 20 q=2.0 size=    2387kB time=00:01:00.00 bitrate= 325.9kbits/s speed=19.7x    frame=   70 fps= 20 q=2.0 size=    2857kB time=00:01:10.00 bitrate= 334.4kbits/s speed=19.8x    frame=   73 fps= 19 q=1.6 Lsize=    3335kB time=00:01:13.00 bitrate= 374.3kbits/s speed=19.4x    
+video:2976kB audio:282kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.380914%
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1053    0     0  100  1053      0    612  0:00:01  0:00:01 --:--:--   612100 12824  100 11771  100  1053   4558    407  0:00:02  0:00:02 --:--:--  4558
+Failed to get connection
+** (inkscape:22905): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22905): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22905): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/capricornio.png
+43.337
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/capricornio.mp3':
+  Duration: 00:00:43.34, start: 0.050113, bitrate: 80 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 80 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -4.100000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/capricornio.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.58 fps, 0.58 tbr, 0.58 tbn, 0.58 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/capricornio.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    9 fps=0.0 q=2.0 size=     467kB time=00:00:09.00 bitrate= 425.4kbits/s speed=17.4x    frame=   19 fps= 19 q=2.0 size=     955kB time=00:00:19.00 bitrate= 411.9kbits/s speed=18.7x    frame=   29 fps= 19 q=2.0 size=    1440kB time=00:00:29.00 bitrate= 406.8kbits/s speed=  19x    frame=   37 fps= 18 q=1.6 size=    1920kB time=00:00:37.00 bitrate= 425.1kbits/s speed=18.3x    frame=   39 fps= 15 q=2.0 size=    1926kB time=00:00:39.00 bitrate= 404.6kbits/s speed=15.4x    frame=   40 fps= 12 q=2.0 size=    1932kB time=00:00:40.00 bitrate= 395.7kbits/s speed=12.3x    frame=   42 fps= 10 q=2.0 size=    1943kB time=00:00:42.00 bitrate= 379.1kbits/s speed=10.5x    frame=   44 fps=9.2 q=2.0 size=    1955kB time=00:00:44.00 bitrate= 363.9kbits/s speed=9.23x    frame=   45 fps=8.1 q=2.0 Lsize=    1989kB time=00:00:45.00 bitrate= 362.1kbits/s speed=8.14x    
+video:1769kB audio:169kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.607177%
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   900    0     0  100   900      0    543  0:00:01  0:00:01 --:--:--   543100   900    0     0  100   900      0    417  0:00:02  0:00:02 --:--:--   417100 12622  100 11722  100   900   5435    417  0:00:02  0:00:02 --:--:--  5436
+Failed to get connection
+** (inkscape:22933): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22933): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22933): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/acuario.png
+39.549
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/acuario.mp3':
+  Duration: 00:00:39.55, start: 0.050113, bitrate: 80 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 80 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.700000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/acuario.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.63 fps, 0.63 tbr, 0.63 tbn, 0.63 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/acuario.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    1 fps=0.0 q=11.1 size=      10kB time=00:00:01.00 bitrate=  80.0kbits/s speed= 1.3x    frame=    3 fps=1.7 q=2.0 size=     401kB time=00:00:03.00 bitrate=1095.9kbits/s speed=1.72x    frame=    5 fps=2.0 q=2.0 size=     426kB time=00:00:05.00 bitrate= 698.3kbits/s speed=1.99x    frame=    7 fps=2.1 q=2.0 size=     437kB time=00:00:07.00 bitrate= 511.9kbits/s speed=2.15x    frame=    8 fps=2.1 q=2.0 size=     446kB time=00:00:08.00 bitrate= 456.3kbits/s speed=2.13x    frame=   10 fps=2.2 q=2.0 size=     454kB time=00:00:10.00 bitrate= 371.8kbits/s speed=2.22x    frame=   12 fps=2.3 q=2.0 size=     465kB time=00:00:12.00 bitrate= 317.2kbits/s speed=2.28x    frame=   13 fps=2.3 q=1.6 size=     470kB time=00:00:13.00 bitrate= 296.3kbits/s speed=2.25x    frame=   15 fps=2.3 q=2.0 size=     892kB time=00:00:15.00 bitrate= 487.4kbits/s speed= 2.3x    frame=   17 fps=2.3 q=2.0 size=     904kB time=00:00:17.00 bitrate= 435.4kbits/s speed=2.34x    frame=   18 fps=2.3 q=2.0 size=     909kB time=00:00:18.00 bitrate= 413.9kbits/s speed=2.32x    frame=   20 fps=2.3 q=2.0 size=     920kB time=00:00:20.00 bitrate= 376.9kbits/s speed=2.35x    frame=   22 fps=2.4 q=2.0 size=     931kB time=00:00:22.00 bitrate= 346.8kbits/s speed=2.37x    frame=   23 fps=2.4 q=2.0 size=     940kB time=00:00:23.00 bitrate= 334.9kbits/s speed=2.35x    frame=   25 fps=2.4 q=1.6 size=     948kB time=00:00:25.00 bitrate= 310.6kbits/s speed=2.38x    frame=   26 fps=2.4 q=2.0 size=    1365kB time=00:00:26.00 bitrate= 430.1kbits/s speed=2.36x    frame=   28 fps=2.4 q=2.0 size=    1376kB time=00:00:28.00 bitrate= 402.5kbits/s speed=2.38x    frame=   30 fps=2.4 q=2.0 size=    1387kB time=00:00:30.00 bitrate= 378.7kbits/s speed=2.35x    frame=   32 fps=2.4 q=2.0 size=    1398kB time=00:00:32.00 bitrate= 357.9kbits/s speed=2.41x    frame=   33 fps=2.4 q=2.0 size=    1406kB time=00:00:33.00 bitrate= 349.1kbits/s speed= 2.4x    frame=   35 fps=2.4 q=2.0 size=    1415kB time=00:00:35.00 bitrate= 331.1kbits/s speed=2.41x    frame=   36 fps=2.4 q=2.0 size=    1423kB time=00:00:36.00 bitrate= 323.8kbits/s speed= 2.4x    frame=   37 fps=2.4 q=1.6 size=    1427kB time=00:00:37.00 bitrate= 316.0kbits/s speed=2.39x    frame=   39 fps=2.4 q=2.0 size=    1848kB time=00:00:39.00 bitrate= 388.2kbits/s speed= 2.4x    frame=   40 fps=2.4 q=2.0 size=    1855kB time=00:00:40.00 bitrate= 379.8kbits/s speed=2.39x    frame=   41 fps=2.3 q=2.0 Lsize=    1887kB time=00:00:41.00 bitrate= 377.0kbits/s speed=2.34x    
+video:1685kB audio:154kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.553813%
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1553    0     0  100  1553      0    898  0:00:01  0:00:01 --:--:--   898100  1553    0     0  100  1553      0    568  0:00:02  0:00:02 --:--:--   568100  1553    0     0  100  1553      0    466  0:00:03  0:00:03 --:--:--   466100 13496  100 11943  100  1553   3589    466  0:00:03  0:00:03 --:--:--  3589
+Failed to get connection
+** (inkscape:22966): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:22966): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:22966): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/mensual/piscis.png
+70.765
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/piscis.mp3':
+  Duration: 00:01:10.77, start: 0.050113, bitrate: 80 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 80 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -4.000000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/piscis.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.35 fps, 0.35 tbr, 0.35 tbn, 0.35 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/piscis.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    1 fps=1.0 q=11.0 size=      10kB time=00:00:01.00 bitrate=  80.0kbits/s speed=0.987x    frame=    2 fps=1.3 q=2.0 size=     402kB time=00:00:02.00 bitrate=1645.9kbits/s speed=1.32x    frame=    4 fps=1.8 q=2.0 size=     420kB time=00:00:04.00 bitrate= 859.6kbits/s speed=1.77x    frame=    6 fps=2.0 q=2.0 size=     433kB time=00:00:06.00 bitrate= 591.1kbits/s speed=1.99x    frame=    7 fps=2.0 q=2.0 size=     442kB time=00:00:07.00 bitrate= 517.2kbits/s speed=   2x    frame=    9 fps=2.1 q=2.0 size=     449kB time=00:00:09.00 bitrate= 408.9kbits/s speed=2.12x    frame=   10 fps=2.1 q=2.0 size=     457kB time=00:00:10.00 bitrate= 374.1kbits/s speed= 2.1x    frame=   11 fps=2.1 q=2.0 size=     464kB time=00:00:11.00 bitrate= 345.2kbits/s speed=2.09x    frame=   13 fps=2.2 q=1.6 size=     471kB time=00:00:13.00 bitrate= 296.9kbits/s speed=2.16x    frame=   15 fps=2.2 q=2.0 size=     892kB time=00:00:15.00 bitrate= 487.4kbits/s speed=2.22x    frame=   16 fps=2.2 q=2.0 size=     902kB time=00:00:16.00 bitrate= 461.7kbits/s speed=2.21x    frame=   18 fps=2.2 q=2.0 size=     909kB time=00:00:18.00 bitrate= 413.8kbits/s speed=2.25x    frame=   20 fps=2.3 q=2.0 size=     920kB time=00:00:20.00 bitrate= 377.0kbits/s speed=2.28x    frame=   21 fps=2.3 q=2.0 size=     929kB time=00:00:21.00 bitrate= 362.5kbits/s speed=2.27x    frame=   23 fps=2.3 q=2.0 size=     937kB time=00:00:23.00 bitrate= 333.7kbits/s speed= 2.3x    frame=   24 fps=2.3 q=2.0 size=     943kB time=00:00:24.00 bitrate= 321.9kbits/s speed=2.29x    frame=   25 fps=2.3 q=1.6 size=     949kB time=00:00:25.00 bitrate= 310.9kbits/s speed=2.27x    frame=   27 fps=2.3 q=2.0 size=    1369kB time=00:00:27.00 bitrate= 415.5kbits/s speed= 2.3x    frame=   29 fps=2.4 q=2.0 size=    1381kB time=00:00:29.00 bitrate= 390.0kbits/s speed=2.36x    frame=   30 fps=2.3 q=2.0 size=    1386kB time=00:00:30.00 bitrate= 378.5kbits/s speed=2.31x    frame=   31 fps=2.3 q=2.0 size=    1395kB time=00:00:31.00 bitrate= 368.7kbits/s speed= 2.3x    frame=   33 fps=2.4 q=2.0 size=    1403kB time=00:00:33.00 bitrate= 348.2kbits/s speed=2.36x    frame=   34 fps=2.3 q=2.0 size=    1412kB time=00:00:34.00 bitrate= 340.3kbits/s speed=2.34x    frame=   36 fps=2.4 q=2.0 size=    1419kB time=00:00:36.00 bitrate= 323.0kbits/s speed=2.36x    frame=   37 fps=2.4 q=1.6 size=    1425kB time=00:00:37.00 bitrate= 315.4kbits/s speed=2.35x    frame=   38 fps=2.3 q=2.0 size=    1844kB time=00:00:38.00 bitrate= 397.5kbits/s speed=2.34x    frame=   40 fps=2.4 q=2.0 size=    1852kB time=00:00:40.00 bitrate= 379.3kbits/s speed=2.39x    frame=   41 fps=2.4 q=2.0 size=    1858kB time=00:00:41.00 bitrate= 371.3kbits/s speed=2.38x    frame=   43 fps=2.4 q=2.0 size=    1868kB time=00:00:43.00 bitrate= 356.0kbits/s speed=2.39x    frame=   45 fps=2.4 q=2.0 size=    1880kB time=00:00:45.00 bitrate= 342.2kbits/s speed= 2.4x    frame=   46 fps=2.4 q=2.0 size=    1885kB time=00:00:46.00 bitrate= 335.7kbits/s speed=2.39x    frame=   47 fps=2.4 q=2.0 size=    1893kB time=00:00:47.00 bitrate= 329.9kbits/s speed=2.38x    frame=   49 fps=2.4 q=1.6 size=    1902kB time=00:00:49.00 bitrate= 317.9kbits/s speed=2.39x    frame=   51 fps=2.4 q=2.0 size=    2323kB time=00:00:51.00 bitrate= 373.2kbits/s speed= 2.4x    frame=   53 fps=2.4 q=2.0 size=    2334kB time=00:00:53.00 bitrate= 360.8kbits/s speed=2.41x    frame=   54 fps=2.4 q=2.0 size=    2340kB time=00:00:54.00 bitrate= 355.0kbits/s speed= 2.4x    frame=   55 fps=2.4 q=2.0 size=    2349kB time=00:00:55.00 bitrate= 349.9kbits/s speed=2.39x    frame=   57 fps=2.4 q=2.0 size=    2356kB time=00:00:57.00 bitrate= 338.7kbits/s speed=2.42x    frame=   59 fps=2.4 q=2.0 size=    2368kB time=00:00:59.00 bitrate= 328.7kbits/s speed=2.41x    frame=   61 fps=2.4 q=1.6 size=    2379kB time=00:01:01.00 bitrate= 319.4kbits/s speed=2.39x    frame=   63 fps=2.4 q=2.0 size=    2800kB time=00:01:03.00 bitrate= 364.1kbits/s speed= 2.4x    frame=   65 fps=2.4 q=2.0 size=    2811kB time=00:01:05.00 bitrate= 354.3kbits/s speed=2.43x    frame=   66 fps=2.4 q=2.0 size=    2817kB time=00:01:06.00 bitrate= 349.6kbits/s speed= 2.4x    frame=   68 fps=2.4 q=2.0 size=    2828kB time=00:01:08.00 bitrate= 340.7kbits/s speed=2.41x    frame=   70 fps=2.4 q=2.0 size=    2839kB time=00:01:10.00 bitrate= 332.2kbits/s speed=2.43x    frame=   71 fps=2.4 q=2.0 size=    2844kB time=00:01:11.00 bitrate= 328.2kbits/s speed=2.41x    frame=   72 fps=2.4 q=2.0 Lsize=    2897kB time=00:01:12.00 bitrate= 329.7kbits/s speed=2.38x    
+video:2545kB audio:276kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.704548%
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, concat, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/mylist.txt':
+  Duration: N/A, start: 0.000000, bitrate: 313 kb/s
+    Stream #0:0: Video: mpeg4 (Simple Profile) (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 281 kb/s, 1 fps, 1 tbr, 1 tbn, 1 tbc
+    Stream #0:1: Audio: mp3 (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p, 32 kb/s
+Output #0, mp4, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/output.mp4':
+  Metadata:
+    encoder         : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (Simple Profile) ( [0][0][0] / 0x0020), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 281 kb/s, 1 fps, 1 tbr, 16384 tbn, 1 tbc
+    Stream #0:1: Audio: aac (LC) ([64][0][0][0] / 0x0040), 22050 Hz, mono, fltp, 69 kb/s
+    Metadata:
+      encoder         : Lavc57.64.101 aac
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (mp3 (native) -> aac (native))
+Press [q] to stop, [?] for help
+frame=    4 fps=0.0 q=-1.0 size=     423kB time=00:00:04.00 bitrate= 866.3kbits/s speed=5.87x    frame=    9 fps=7.6 q=-1.0 size=     473kB time=00:00:09.00 bitrate= 430.2kbits/s speed=7.62x    frame=   13 fps=7.7 q=-1.0 size=     511kB time=00:00:13.00 bitrate= 322.0kbits/s speed=7.73x    frame=   17 fps=7.8 q=-1.0 size=     951kB time=00:00:17.00 bitrate= 458.4kbits/s speed=7.79x    frame=   21 fps=7.8 q=-1.0 size=     996kB time=00:00:21.00 bitrate= 388.5kbits/s speed=7.83x    frame=   24 fps=7.5 q=-1.0 size=    1034kB time=00:00:24.00 bitrate= 352.8kbits/s speed=7.54x    frame=   28 fps=7.6 q=-1.0 size=    1473kB time=00:00:28.00 bitrate= 431.0kbits/s speed= 7.6x    frame=   32 fps=7.6 q=-1.0 size=    1513kB time=00:00:32.00 bitrate= 387.3kbits/s speed=7.65x    frame=   36 fps=7.7 q=-1.0 size=    1552kB time=00:00:36.00 bitrate= 353.2kbits/s speed=7.68x    frame=   39 fps=7.5 q=-1.0 size=    1982kB time=00:00:39.00 bitrate= 416.4kbits/s speed=7.52x    frame=   43 fps=7.6 q=-1.0 size=    2023kB time=00:00:43.00 bitrate= 385.4kbits/s speed=7.56x    frame=   47 fps=7.6 q=-1.0 size=    2063kB time=00:00:47.00 bitrate= 359.6kbits/s speed= 7.6x    frame=   50 fps=7.5 q=-1.0 size=    2219kB time=00:00:51.00 bitrate= 356.4kbits/s speed=7.63x    frame=   54 fps=7.5 q=-1.0 size=    2509kB time=00:00:55.00 bitrate= 373.6kbits/s speed=7.65x    frame=   58 fps=7.5 q=-1.0 size=    2554kB time=00:00:59.00 bitrate= 354.6kbits/s speed=7.67x    frame=   62 fps=7.6 q=-1.0 size=    2986kB time=00:01:03.00 bitrate= 388.3kbits/s speed=7.69x    frame=   67 fps=7.7 q=-1.0 size=    3033kB time=00:01:08.00 bitrate= 365.3kbits/s speed=7.82x    frame=   72 fps=7.8 q=-1.0 size=    3079kB time=00:01:13.00 bitrate= 345.5kbits/s speed=7.94x    frame=   75 fps=7.7 q=-1.0 size=    3510kB time=00:01:16.00 bitrate= 378.3kbits/s speed=7.84x    frame=   79 fps=7.8 q=-1.0 size=    3544kB time=00:01:20.00 bitrate= 362.9kbits/s speed=7.85x    frame=   84 fps=7.9 q=-1.0 size=    3596kB time=00:01:25.00 bitrate= 346.6kbits/s speed=7.95x    frame=   88 fps=7.9 q=-1.0 size=    4033kB time=00:01:29.00 bitrate= 371.2kbits/s speed=7.95x    frame=   92 fps=7.9 q=-1.0 size=    4073kB time=00:01:33.00 bitrate= 358.7kbits/s speed=7.95x    frame=   97 fps=8.0 q=-1.0 size=    4244kB time=00:01:39.00 bitrate= 351.2kbits/s speed=8.12x    frame=  100 fps=7.9 q=-1.0 size=    4542kB time=00:01:42.00 bitrate= 364.8kbits/s speed=8.03x    frame=  104 fps=7.9 q=-1.0 size=    4583kB time=00:01:46.00 bitrate= 354.2kbits/s speed=8.03x    frame=  109 fps=8.0 q=-1.0 size=    5033kB time=00:01:51.00 bitrate= 371.4kbits/s speed= 8.1x    frame=  112 fps=7.9 q=-1.0 size=    5071kB time=00:01:54.00 bitrate= 364.4kbits/s speed=8.03x    frame=  117 fps=8.0 q=-1.0 size=    5122kB time=00:01:59.00 bitrate= 352.6kbits/s speed= 8.1x    frame=  121 fps=8.0 q=-1.0 size=    5573kB time=00:02:03.00 bitrate= 371.2kbits/s speed=8.09x    frame=  125 fps=8.0 q=-1.0 size=    5615kB time=00:02:07.00 bitrate= 362.2kbits/s speed=8.09x    frame=  130 fps=8.0 q=-1.0 size=    5660kB time=00:02:12.00 bitrate= 351.3kbits/s speed=8.15x    frame=  134 fps=8.0 q=-1.0 size=    6109kB time=00:02:16.00 bitrate= 368.0kbits/s speed=8.14x    frame=  137 fps=8.0 q=-1.0 size=    6142kB time=00:02:19.00 bitrate= 362.0kbits/s speed=8.08x    frame=  140 fps=7.9 q=-1.0 size=    6177kB time=00:02:22.00 bitrate= 356.4kbits/s speed=8.02x    frame=  145 fps=8.0 q=-1.0 size=    6605kB time=00:02:28.00 bitrate= 365.6kbits/s speed=8.13x    frame=  149 fps=8.0 q=-1.0 size=    6666kB time=00:02:32.00 bitrate= 359.3kbits/s speed=8.13x    frame=  154 fps=8.0 q=-1.0 size=    6710kB time=00:02:37.00 bitrate= 350.1kbits/s speed=8.18x    frame=  158 fps=8.0 q=-1.0 size=    7174kB time=00:02:41.00 bitrate= 365.0kbits/s speed=8.17x    frame=  162 fps=8.0 q=-1.0 size=    7217kB time=00:02:45.00 bitrate= 358.3kbits/s speed=8.17x    frame=  166 fps=8.0 q=-1.0 size=    7257kB time=00:02:49.00 bitrate= 351.7kbits/s speed=8.16x    frame=  169 fps=8.0 q=-1.0 size=    7711kB time=00:02:52.00 bitrate= 367.3kbits/s speed=8.11x    frame=  172 fps=7.9 q=-1.0 size=    7745kB time=00:02:55.00 bitrate= 362.6kbits/s speed=8.06x    frame=  177 fps=8.0 q=-1.0 size=    7790kB time=00:03:00.00 bitrate= 354.5kbits/s speed=8.11x    frame=  181 fps=8.0 q=-1.0 size=    8252kB time=00:03:04.00 bitrate= 367.4kbits/s speed= 8.1x    frame=  185 fps=8.0 q=-1.0 size=    8417kB time=00:03:08.40 bitrate= 366.0kbits/s speed=8.12x    frame=  188 fps=7.9 q=-1.0 size=    8711kB time=00:03:12.00 bitrate= 371.7kbits/s speed= 8.1x    frame=  193 fps=8.0 q=-1.0 size=    8763kB time=00:03:17.00 bitrate= 364.4kbits/s speed=8.14x    frame=  197 fps=8.0 q=-1.0 size=    8798kB time=00:03:21.00 bitrate= 358.6kbits/s speed=8.13x    frame=  201 fps=8.0 q=-1.0 size=    9249kB time=00:03:25.00 bitrate= 369.6kbits/s speed=8.13x    frame=  205 fps=7.9 q=-1.0 size=    9293kB time=00:03:29.00 bitrate= 364.3kbits/s speed=8.06x    frame=  209 fps=7.9 q=-1.0 size=    9334kB time=00:03:33.00 bitrate= 359.0kbits/s speed=8.06x    frame=  213 fps=7.9 q=-1.0 size=    9787kB time=00:03:37.00 bitrate= 369.5kbits/s speed=8.06x    frame=  218 fps=7.9 q=-1.0 size=    9830kB time=00:03:42.00 bitrate= 362.7kbits/s speed=8.09x    frame=  222 fps=7.9 q=-1.0 size=    9871kB time=00:03:46.00 bitrate= 357.8kbits/s speed=8.09x    frame=  226 fps=7.9 q=-1.0 size=   10321kB time=00:03:50.00 bitrate= 367.6kbits/s speed=8.09x    frame=  229 fps=7.9 q=-1.0 size=   10361kB time=00:03:53.00 bitrate= 364.3kbits/s speed=8.05x    frame=  234 fps=7.9 q=-1.0 size=   10794kB time=00:03:59.00 bitrate= 370.0kbits/s speed=8.12x    frame=  239 fps=8.0 q=-1.0 size=   10841kB time=00:04:04.00 bitrate= 364.0kbits/s speed=8.15x    frame=  243 fps=8.0 q=-1.0 size=   10885kB time=00:04:08.00 bitrate= 359.6kbits/s speed=8.15x    frame=  246 fps=8.0 q=-1.0 size=   11327kB time=00:04:11.00 bitrate= 369.7kbits/s speed=8.11x    frame=  249 fps=7.9 q=-1.0 size=   11361kB time=00:04:14.00 bitrate= 366.4kbits/s speed=8.08x    frame=  253 fps=7.9 q=-1.0 size=   11403kB time=00:04:18.00 bitrate= 362.1kbits/s speed=8.08x    frame=  258 fps=8.0 q=-1.0 size=   11858kB time=00:04:23.00 bitrate= 369.4kbits/s speed=8.11x    frame=  262 fps=8.0 q=-1.0 size=   11897kB time=00:04:27.00 bitrate= 365.0kbits/s speed=8.11x    frame=  265 fps=7.9 q=-1.0 size=   11933kB time=00:04:30.00 bitrate= 362.1kbits/s speed=8.08x    frame=  269 fps=7.9 q=-1.0 size=   12381kB time=00:04:34.00 bitrate= 370.2kbits/s speed=8.07x    frame=  274 fps=8.0 q=-1.0 size=   12426kB time=00:04:39.00 bitrate= 364.8kbits/s speed= 8.1x    frame=  278 fps=8.0 q=-1.0 size=   12467kB time=00:04:43.00 bitrate= 360.9kbits/s speed= 8.1x    frame=  282 fps=8.0 q=-1.0 size=   12909kB time=00:04:47.00 bitrate= 368.5kbits/s speed= 8.1x    frame=  286 fps=8.0 q=-1.0 size=   13350kB time=00:04:52.00 bitrate= 374.5kbits/s speed=8.12x    frame=  290 fps=8.0 q=-1.0 size=   13393kB time=00:04:56.00 bitrate= 370.7kbits/s speed=8.12x    frame=  293 fps=7.9 q=-1.0 size=   13423kB time=00:04:59.00 bitrate= 367.8kbits/s speed=8.09x    frame=  297 fps=7.9 q=-1.0 size=   13878kB time=00:05:03.00 bitrate= 375.2kbits/s speed=8.09x    frame=  301 fps=7.9 q=-1.0 size=   13921kB time=00:05:07.00 bitrate= 371.5kbits/s speed=8.09x    frame=  306 fps=8.0 q=-1.0 size=   13968kB time=00:05:12.00 bitrate= 366.7kbits/s speed=8.12x    frame=  310 fps=8.0 q=-1.0 size=   14426kB time=00:05:16.00 bitrate= 374.0kbits/s speed=8.11x    frame=  314 fps=8.0 q=-1.0 size=   14467kB time=00:05:20.00 bitrate= 370.4kbits/s speed=8.11x    frame=  318 fps=8.0 q=-1.0 size=   14511kB time=00:05:24.00 bitrate= 366.9kbits/s speed=8.11x    frame=  322 fps=8.0 q=-1.0 size=   14968kB time=00:05:28.00 bitrate= 373.8kbits/s speed=8.11x    frame=  327 fps=8.0 q=-1.0 size=   15015kB time=00:05:33.00 bitrate= 369.4kbits/s speed=8.13x    frame=  331 fps=8.0 q=-1.0 size=   15060kB time=00:05:37.00 bitrate= 366.1kbits/s speed=8.13x    frame=  335 fps=8.0 q=-1.0 size=   15513kB time=00:05:41.00 bitrate= 372.7kbits/s speed=8.13x    frame=  339 fps=8.0 q=-1.0 size=   15551kB time=00:05:45.00 bitrate= 369.2kbits/s speed=8.13x    frame=  343 fps=8.0 q=-1.0 size=   15594kB time=00:05:49.00 bitrate= 366.0kbits/s speed=8.13x    frame=  347 fps=8.0 q=-1.0 size=   16054kB time=00:05:53.00 bitrate= 372.6kbits/s speed=8.12x    frame=  350 fps=8.0 q=-1.0 size=   16089kB time=00:05:56.00 bitrate= 370.2kbits/s speed= 8.1x    frame=  355 fps=8.0 q=-1.0 size=   16126kB time=00:06:01.00 bitrate= 365.9kbits/s speed=8.12x    frame=  359 fps=8.0 q=-1.0 size=   16982kB time=00:06:06.00 bitrate= 380.1kbits/s speed=8.14x    frame=  363 fps=8.0 q=-1.0 size=   17025kB time=00:06:10.00 bitrate= 377.0kbits/s speed=8.14x    frame=  368 fps=8.0 q=-1.0 size=   17069kB time=00:06:15.00 bitrate= 372.9kbits/s speed=8.16x    frame=  371 fps=8.0 q=-1.0 size=   17525kB time=00:06:18.00 bitrate= 379.8kbits/s speed=8.14x    frame=  376 fps=8.0 q=-1.0 size=   17571kB time=00:06:23.00 bitrate= 375.8kbits/s speed=8.16x    frame=  380 fps=8.0 q=-1.0 size=   17616kB time=00:06:27.00 bitrate= 372.9kbits/s speed=8.15x    frame=  385 fps=8.0 q=-1.0 size=   18077kB time=00:06:32.00 bitrate= 377.8kbits/s speed=8.17x    frame=  389 fps=8.0 q=-1.0 size=   18122kB time=00:06:36.00 bitrate= 374.9kbits/s speed=8.17x    frame=  394 fps=8.0 q=-1.0 size=   18582kB time=00:06:41.00 bitrate= 379.6kbits/s speed=8.19x    frame=  398 fps=8.0 q=-1.0 size=   18626kB time=00:06:45.00 bitrate= 376.8kbits/s speed=8.19x    frame=  402 fps=8.0 q=-1.0 size=   18801kB time=00:06:50.00 bitrate= 375.6kbits/s speed=8.21x    frame=  407 fps=8.0 q=-1.0 size=   19111kB time=00:06:55.00 bitrate= 377.2kbits/s speed=8.19x    frame=  411 fps=8.0 q=-1.0 size=   19153kB time=00:06:59.00 bitrate= 374.5kbits/s speed=8.19x    frame=  416 fps=8.0 q=-1.0 size=   19610kB time=00:07:04.00 bitrate= 378.9kbits/s speed= 8.2x    frame=  420 fps=8.0 q=-1.0 size=   19654kB time=00:07:08.00 bitrate= 376.2kbits/s speed= 8.2x    frame=  425 fps=8.1 q=-1.0 size=   19703kB time=00:07:13.00 bitrate= 372.8kbits/s speed=8.22x    frame=  429 fps=8.1 q=-1.0 size=   20157kB time=00:07:17.00 bitrate= 377.9kbits/s speed=8.22x    frame=  433 fps=8.1 q=-1.0 size=   20198kB time=00:07:21.00 bitrate= 375.2kbits/s speed=8.21x    frame=  437 fps=8.1 q=-1.0 size=   20243kB time=00:07:25.00 bitrate= 372.7kbits/s speed=8.21x    frame=  441 fps=8.1 q=-1.0 size=   20698kB time=00:07:29.00 bitrate= 377.6kbits/s speed=8.21x    frame=  446 fps=8.1 q=-1.0 size=   20746kB time=00:07:34.00 bitrate= 374.3kbits/s speed=8.23x    frame=  450 fps=8.1 q=-1.0 size=   21199kB time=00:07:38.00 bitrate= 379.2kbits/s speed=8.22x    frame=  454 fps=8.1 q=-1.0 size=   21240kB time=00:07:42.00 bitrate= 376.6kbits/s speed=8.22x    frame=  458 fps=8.1 q=-1.0 size=   21281kB time=00:07:46.00 bitrate= 374.1kbits/s speed=8.22x    frame=  462 fps=8.1 q=-1.0 size=   21735kB time=00:07:50.00 bitrate= 378.8kbits/s speed=8.22x    frame=  465 fps=8.1 q=-1.0 size=   21772kB time=00:07:53.00 bitrate= 377.1kbits/s speed= 8.2x    frame=  469 fps=8.1 q=-1.0 size=   21805kB time=00:07:57.00 bitrate= 374.5kbits/s speed= 8.2x    frame=  472 fps=8.0 q=-1.0 size=   21842kB time=00:08:00.00 bitrate= 372.8kbits/s speed=8.18x    frame=  476 fps=8.0 q=-1.0 size=   22688kB time=00:08:05.00 bitrate= 383.2kbits/s speed=8.19x    frame=  481 fps=8.1 q=-1.0 size=   22749kB time=00:08:10.00 bitrate= 380.3kbits/s speed=8.21x    frame=  485 fps=8.1 q=-1.0 size=   22790kB time=00:08:14.00 bitrate= 377.9kbits/s speed=8.21x    frame=  489 fps=8.1 q=-1.0 size=   23266kB time=00:08:18.00 bitrate= 382.7kbits/s speed=8.21x    frame=  494 fps=8.1 q=-1.0 size=   23313kB time=00:08:23.00 bitrate= 379.7kbits/s speed=8.22x    frame=  498 fps=8.1 q=-1.0 size=   23358kB time=00:08:27.00 bitrate= 377.4kbits/s speed=8.22x    frame=  502 fps=8.1 q=-1.0 size=   23830kB time=00:08:31.00 bitrate= 382.0kbits/s speed=8.22x    frame=  506 fps=8.1 q=-1.0 size=   23876kB time=00:08:35.00 bitrate= 379.8kbits/s speed=8.21x    frame=  510 fps=8.1 q=-1.0 size=   23917kB time=00:08:39.00 bitrate= 377.5kbits/s speed=8.21x    frame=  514 fps=8.1 q=-1.0 size=   24388kB time=00:08:43.00 bitrate= 382.0kbits/s speed=8.21x    frame=  519 fps=8.1 q=-1.0 size=   24557kB time=00:08:48.41 bitrate= 380.7kbits/s speed=8.23x    frame=  523 fps=8.1 q=-1.0 size=   24864kB time=00:08:53.00 bitrate= 382.1kbits/s speed=8.24x    frame=  528 fps=8.1 q=-1.0 size=   24911kB time=00:08:58.00 bitrate= 379.3kbits/s speed=8.25x    frame=  531 fps=8.1 q=-1.0 size=   24943kB time=00:09:01.00 bitrate= 377.7kbits/s speed=8.23x    frame=  536 fps=8.1 q=-1.0 size=   25399kB time=00:09:06.00 bitrate= 381.1kbits/s speed=8.25x    frame=  539 fps=8.1 q=-1.0 size=   25438kB time=00:09:09.00 bitrate= 379.6kbits/s speed=8.23x    frame=  543 fps=8.1 q=-1.0 size=   25478kB time=00:09:13.00 bitrate= 377.4kbits/s speed=8.23x    frame=  547 fps=8.1 q=-1.0 size=   25931kB time=00:09:17.00 bitrate= 381.4kbits/s speed=8.23x    frame=  551 fps=8.1 q=-1.0 size=   25970kB time=00:09:21.00 bitrate= 379.2kbits/s speed=8.23x    frame=  555 fps=8.1 q=-1.0 size=   26008kB time=00:09:25.00 bitrate= 377.1kbits/s speed=8.22x    frame=  559 fps=8.1 q=-1.0 size=   26453kB time=00:09:29.00 bitrate= 380.8kbits/s speed=8.22x    frame=  563 fps=8.1 q=-1.0 size=   26889kB time=00:09:34.00 bitrate= 383.8kbits/s speed=8.23x    frame=  567 fps=8.1 q=-1.0 size=   26932kB time=00:09:38.00 bitrate= 381.7kbits/s speed=8.23x    frame=  571 fps=8.1 q=-1.0 size=   26972kB time=00:09:42.00 bitrate= 379.7kbits/s speed=8.23x    frame=  575 fps=8.1 q=-1.0 size=   27421kB time=00:09:46.00 bitrate= 383.3kbits/s speed=8.23x    frame=  580 fps=8.1 q=-1.0 size=   27465kB time=00:09:51.00 bitrate= 380.7kbits/s speed=8.24x    frame=  583 fps=8.1 q=-1.0 size=   27503kB time=00:09:54.00 bitrate= 379.3kbits/s speed=8.23x    frame=  587 fps=8.1 q=-1.0 size=   27954kB time=00:09:58.00 bitrate= 382.9kbits/s speed=8.22x    frame=  590 fps=8.1 q=-1.0 size=   27988kB time=00:10:01.00 bitrate= 381.5kbits/s speed=8.21x    frame=  594 fps=8.1 q=-1.0 size=   28028kB time=00:10:05.00 bitrate= 379.5kbits/s speed=8.21x    frame=  598 fps=8.1 q=-1.0 size=   28478kB time=00:10:09.00 bitrate= 383.1kbits/s speed=8.21x    frame=  603 fps=8.1 q=-1.0 size=   28524kB time=00:10:14.00 bitrate= 380.6kbits/s speed=8.22x    frame=  606 fps=8.1 q=-1.0 size=   28558kB time=00:10:17.00 bitrate= 379.2kbits/s speed= 8.2x    frame=  610 fps=8.1 q=-1.0 size=   29012kB time=00:10:21.00 bitrate= 382.7kbits/s speed= 8.2x    frame=  615 fps=8.0 q=-1.0 size=   29057kB time=00:10:26.00 bitrate= 380.2kbits/s speed=8.19x    frame=  619 fps=8.0 q=-1.0 size=   29098kB time=00:10:30.00 bitrate= 378.4kbits/s speed=8.19x    frame=  623 fps=8.0 q=-1.0 size=   29551kB time=00:10:34.00 bitrate= 381.8kbits/s speed=8.19x    frame=  626 fps=8.0 q=-1.0 size=   29586kB time=00:10:37.00 bitrate= 380.5kbits/s speed=8.17x    frame=  630 fps=8.0 q=-1.0 size=   29621kB time=00:10:41.00 bitrate= 378.6kbits/s speed=8.17x    frame=  631 fps=8.0 q=-1.0 Lsize=   29697kB time=00:10:42.00 bitrate= 378.9kbits/s speed=8.18x    
+video:24136kB audio:5493kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.229414%
+[aac @ 0x5606a39a7740] Qavg: 390.006
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/output.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf57.56.101
+  Duration: 00:10:43.00, start: 0.000000, bitrate: 378 kb/s
+    Stream #0:0(und): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 307 kb/s, 0.98 fps, 1 tbr, 16384 tbn, 1 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 22050 Hz, mono, fltp, 70 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Output #0, wav, to '/home/arielbmx/horoscopo-del-dia.com/tmp/mensual/output_avi.wav':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    ISFT            : Lavf57.56.101
+    Stream #0:0(und): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, mono, s16, 352 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc57.64.101 pcm_s16le
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+size=    4384kB time=00:01:46.02 bitrate= 338.7kbits/s speed= 212x    size=    8814kB time=00:03:33.01 bitrate= 339.0kbits/s speed= 213x    size=   13416kB time=00:05:24.50 bitrate= 338.7kbits/s speed= 216x    size=   17928kB time=00:07:13.86 bitrate= 338.5kbits/s speed= 217x    size=   22420kB time=00:09:02.71 bitrate= 338.4kbits/s speed= 217x    size=   26538kB time=00:10:40.76 bitrate= 339.3kbits/s speed= 214x    
+video:0kB audio:26538kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000287%
