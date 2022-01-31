@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 24 de enero 2022 al 30 de enero 2022 
-description: Horóscopo semanal tauro 24 de enero 2022 al 30 de enero 2022. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+title: tauro 31 de enero 2022 al 06 de febrero 2022 
+description: Horóscopo semanal tauro 31 de enero 2022 al 06 de febrero 2022. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-01-24
+ogimg: /images/zodiac/semanal_tauro.png#2022-01-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-24'
+ lastmod: '2022-01-31'
 ---
 
 
 
-## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 
-No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
- sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
-El enfoque se mantiene en tu hogar y en tu sector de familia y puede alimentar el deseo de mudarte, y más si lo has considerado últimamente. A la vez, sientes ganas de remodelar tu hogar para que haya más espacio y más opciones. Descubres que hablar con alguien que se encuentra en tu misma sintonía te dará ideas que antes no tenías y algunas de ellas pueden ser útiles para lo que deseas. Antes de comprometerte con un proyecto, analiza bien los detalles.
+Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
+Inesperados eventos podrían interrumpir tu rutina esta semana - casi cualquier cosa podría suceder. Efectivas soluciones podrían estar a solo una llamada telefónica si te dispones a pedirle asesoramiento a una amistad o a un experto. Si necesitas una segunda opinión, comprueba que viene de una fuente de confianza antes de compartirla con los demás. Una situación en casa podría requerir de atención, aunque sería imprudente tomar cualquier decisión importante esta semana. La atención de un ser querido bien puede levantarte el ánimo.
 
 ## Dinero
 
-Puede que sientas inquietud y satisfacción esta semana. ¿Cuándo fue la última vez que te sentiste feliz y libre? Probablemente cuando estuviste viajando y aprendiendo algo nuevo. Tu cerebro quiere ser usado. Gastar dinero en una clase o libro interesante o salir a una expedición guiada puede ser justo lo que necesitas para defenderte del aburrimiento. Los planetas se preguntan cómo te cambia lo que aprendes. Te podría sorprender la respuesta.
+Te enfrentas a un desafío con actividad afectando tu hogar y emociones internas. Aunque los planetas equilibran perfectamente las energías masculina y femenina dentro de ti, también pueden sacar a relucir temas que prefieres no tratar ahora. Trata de lidiar con ellos uno a la vez. En última instancia, este momento proporciona el espacio necesario para el surgimiento de nuevas ideas, ¡muchas de ellas lucrativas!

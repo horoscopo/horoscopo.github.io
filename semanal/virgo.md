@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 24 de enero 2022 al 30 de enero 2022 
-description: Horóscopo semanal virgo 24 de enero 2022 al 30 de enero 2022. Fuera las preocupaciones. Tira del carro Virgo, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+title: virgo 31 de enero 2022 al 06 de febrero 2022 
+description: Horóscopo semanal virgo 31 de enero 2022 al 06 de febrero 2022. Semana de reflexión Virgo, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Virgo. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-01-24
+ogimg: /images/zodiac/semanal_virgo.png#2022-01-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-24'
+ lastmod: '2022-01-31'
 ---
 
 
 
-## Fuera las preocupaciones. Tira del carro Virgo, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+## Semana de reflexión Virgo, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Virgo. 
 
-Esta semana estás un poco impredecible Virgo, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica Virgo… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Virgo. Tú solito.
-Una tentadora oferta podía verte considerando tomar un viaje a alguna parte que te ofrezca poder escaparte de la vida. Si vas, es probable que lo disfrutes. Por otro lado, hablar con una amistad podría animarte a estudiar o incluso viajar juntos y beneficiarse de forma muy positiva de la experiencia. Pareces estarte llevando cada vez mejor con un jefe u otra persona que tiene una influencia positiva, pero es posible que sus ideas e ideales difieran mucho en algunos aspectos. Aun así, esto podría añadirle valor a su relación.
+Esta semana tienes que tomarte las cosas con más calma Virgo. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
+ Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse.
+La semana que comienza parece muy prometedora para la colaboración en un proyecto a largo plazo. Incluso aunque los resultados tarden en llegar, puedes llegar al éxito si eres perseverante. El punto más importante es no obsesionarse con un determinado resultado. Salirte de tu rutina puede ayudarte a obtener lo que quieres. 
+ A medida que el sol ingresa a Tauro y al sector más alto de tu carta, tus pensamientos pueden cambiar hacia metas más materialistas y orientadas a tu carrera. Este puede ser tu momento de brillar y de demostrar cuáles son tus mejores cualidades. Si tienes la posibilidad de estar en el centro de atención, considera aprovecharla. Podría producir más oportunidades. Debido a que Mercurio se está dirigiendo a tu sector de viajes, esto podría ser todo lo que soñabas. También puede darte la oportunidad de conocer mejor a alguien. No mires con recelo la idea de tomarte un descanso.  
 
 ## Dinero
 
-Te enfrentas a una época de cambios monetarios. Puede que la forma en la que ganas dinero o lo que piensas sobre el papel que el dinero juega en tu vida puede estar cambiando. De cualquier manera, estarás recibiendo gran cantidad de información acerca de cómo obtenerlo y guardarlo. Algunos de estos mensajes pueden provenir de lugares no convencionales, como sueños y destellos psíquicos, pero ¿por qué no analizarlos de todos modos?
+Esta semana experimentas un aumento de energía en el terreno de la auto-expresión.  Alguien en tu lugar de trabajo te tiene celos y es incapaz de poder manejar tu poderosa naturaleza. No le des importancia. Te estás proyectando de una nueva manera, que no puede ser nada más que positiva. Habla con la verdad. Tu destino es la profundidad, la madurez y el buen sentido. Otros necesitan oírlo.

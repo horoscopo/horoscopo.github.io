@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: libra 24 de enero 2022 al 30 de enero 2022 
-description: Horóscopo semanal libra 24 de enero 2022 al 30 de enero 2022. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+title: libra 31 de enero 2022 al 06 de febrero 2022 
+description: Horóscopo semanal libra 31 de enero 2022 al 06 de febrero 2022. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2022-01-24
+ogimg: /images/zodiac/semanal_libra.png#2022-01-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-24'
+ lastmod: '2022-01-31'
 ---
 
 
 
-## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar.
-A medida que la actual alineación planetaria en tu signo se enfrenta con Neptuno, prepárate para que las cosas no salgan según lo planeado, sobre todo cuando se trate de reuniones o cenas programadas para el final de la semana. Puede que ir con la corriente sea tu mejor opción en los próximos días; sobre todo si la alternativa es frustración e irritabilidad. Aunque es posible que trates de mantener todo bajo control, hay una buena probabilidad de que eso no vaya a funcionar. Si te dispones a tomar las cosas como vengan, es posible que logres divertirte.
+Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
+ A veces, te aferras a momentos de felicidad pasajera Libra, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
+¿Debes empezar a cumplir tu meta o tu plan profesional? Si lo estás considerando, la Luna Nueva del martes puede ser el momento del año para que lo hagas. Es posible que te encuentres en el lugar indicado en el momento correcto para dar ese paso. Además, tu vida social se ve más activa, ya que Mercurio te motiva a moverte y a irte de fiesta durante la época festiva. Allí surgen nuevas conexiones que serán útiles a largo plazo, así que no pierdas la infomación de contacto.
 
 ## Dinero
 
-Te encanta hacer que tu lugar de trabajo sea tan cómodo como tu casa, y esto podría implicar hacer que los demás en el trabajo se sientan como en familia. Con un aspecto armonioso ahora, es muy probable que lleves esto un paso más allá debido a que afecta la zona de tu gráfico que rige los niños, familia, romance y diversión. Suena como si organizar un evento para la empresa no fuera una mala idea para mantener la moral alta. Organizar juegos para entretener a todos será más que bueno.
+Esta semana tienes un aspecto favorable, una explosión muy poderosa de energía, lo que va a afectar tu rutina diaria positivamente. Tu lugar de trabajo podría no ser del todo estable o puede estarte dando señales contradictorias acerca de tu trabajo de un día para otro. Ten cuidado con las promesas vacías de alguien dentro de tu red social. Tales no son como pretenden ser.

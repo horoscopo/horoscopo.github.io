@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 24 de enero 2022 al 30 de enero 2022 
-description: Horóscopo semanal cancer 24 de enero 2022 al 30 de enero 2022. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+title: cancer 31 de enero 2022 al 06 de febrero 2022 
+description: Horóscopo semanal cancer 31 de enero 2022 al 06 de febrero 2022. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Cáncer. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-01-24
+ogimg: /images/zodiac/semanal_cancer.png#2022-01-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-24'
+ lastmod: '2022-01-31'
 ---
 
 
 
-## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Cáncer. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 
-No pienses tanto Cáncer, deja que la vida te vaya sorprendiendo. Últimamente estás como muy nostálgico ¿no? No es que estés deprimido pero sí se te ha pasado por la cabeza eso de que algunos momentos del pasado fueron mejores que en el que estás ahora. No te agobies Cáncer, ni te estreses. Quizás estás pensando demasiado en el futuro, en cómo van a ir las cosas, en si saldrá bien. Has arriesgado mucho para estar donde estás y con quien estás, y ya lo decidiste así que, no puedes pasarte la vida pensando si has hecho bien o no. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Cáncer, pero no trates de sujetarlo por todos lados cuando su destino es el suelo. Eres firme con las decisiones que tomas, siempre lo has sido pero, probablemente por momentos se te haga cuesta arriba en muchos aspectos. Deja la nostalgia a un lado y esfuérzate en pensar que todo tiene un principio y un fin y que la vida son ciclos que empiezan y que acaban, y que después llega otro ciclo de la misma manera. No tengas miedo a lo que es desconocido para ti, al revés, enfréntalo como algo nuevo que, quien sabe, puede traerte cosas que duren para toda la vida. Ten mucha paciencia en estos días y aprende a tomarte las cosas como lo que son, ni más ni menos, no puedes dar mucha importancia a cosas que no la tienen pero tampoco quitársela a otras muchas que SI la tienen. Y lo sabes. Mantente hábil para descubrir todo. Ya hace un tiempo te planteaste que ser positiv@ sería probablemente el único camino para que las cosas salieran bien y sí, en el fondo sabes que gracias a eso estás aquí, así que, no lo pierdas por nada del mundo, aunque se caiga todo a pedazos, aunque nada tenga sentido, mantente fuerte, eso será lo que necesitas para que tu cabeza no decaiga por pensamientos negativos. Vas a darte cuenta de tantas cosas…
-Incluso si Júpiter posicionado al comienzo mismo de tu signo te trajo un positivo evento o una nueva confianza en tu persona, esta semana todavía necesita de un manejo cuidadoso. Al principio de la semana podría resultarte difícil negociar con una persona determinada, lo que podría hacerte sentir nerviosismo. Puede que lo mejor sea ir con la corriente, porque el movimiento Lunar en tu sector de estilo de vida significa que cambios inesperados podrían cambiar tus planes de todos modos. Dicho esto, el fin de semana podría poner una alegre sorpresa en tu camino.
+Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte Cáncer, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo Cáncer, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande Cáncer pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+Esta semana, Júpiter aumenta tu confianza y te anima a dar un salto de fe. Debido a que apenas se encuentra entrando a tu signo, podrías obtener el golpe de suerte que has estado esperando, ¡o tal vez recibas una oferta u oportunidad que ponga una sonrisa en tu cara! Podrías sentir tentación a aventurarte a algún viaje, así como tener el deseo de estudiar y ampliar tus horizontes en general. Trabaja en tu lista de metas y comienza a tomar medidas mientras el Sol entre a tu signo el Domingo.
 
 ## Dinero
 
-No hay muchos cambios avecinándose hacia tu sector del dinero durante por los próximos años. Ciertas formas de hacer dinero mueren en favor de otras nuevas, considera cómo quieres vivir en cinco o diez años en el futuro. El poner todo este cambio a trabajar a tu favor, rendirá grandes dividendos para el tiempo que necesites dinero. Recuerda que debes pedir ayuda cuando la necesites.
+Hay cierta limitación en tu carrera esta semana. No sólo porque puede que el trabajo que hagas se evapore (sólo un poco), pero también se te podría llamar a asumir una mayor parte de la carga. El Universo está pidiendo que te vuelvas más responsable y con autoridad en esta área. Tus relaciones pueden necesitar un mayor desarrollo antes de que puedan ofrecerte lo que quieres y necesitas de ellas económicamente.
