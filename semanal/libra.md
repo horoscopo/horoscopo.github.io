@@ -21,7 +21,7 @@ sitemap:
 
 Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
  A veces, te aferras a momentos de felicidad pasajera Libra, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
-¿Debes empezar a cumplir tu meta o tu plan profesional? Si lo estás considerando, la Luna Nueva del martes puede ser el momento del año para que lo hagas. Es posible que te encuentres en el lugar indicado en el momento correcto para dar ese paso. Además, tu vida social se ve más activa, ya que Mercurio te motiva a moverte y a irte de fiesta durante la época festiva. Allí surgen nuevas conexiones que serán útiles a largo plazo, así que no pierdas la infomación de contacto.
+¿Debes empezar a cumplir tu meta o tu plan profesional? Si lo estás considerando, la Luna Nueva del martes puede ser el momento del año para que lo hagas. Es posible que te encuentres en el lugar indicado en el momento correcto para dar ese paso. Además, tu vida social se ve más activa, ya que Mercurio te motiva a moverte y a irte de fiesta durante el fin de semana. Allí surgen nuevas conexiones que serán útiles a largo plazo, así que no pierdas la infomación de contacto.
 
 ## Dinero
 
