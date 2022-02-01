@@ -4,7 +4,7 @@ title: Horoscopo Chino Rata
 permalink: /año-nuevo-chino/rata/
 amplink: /año-nuevo-chino/amp/rata/
 redirect_from: /p/horoscopo-chino-rata.html
-description: La Rata tiene que estar preparada para muchos retos en su carrera durante 2022. Estará cargado de tareas adicionales que requerirán un gran esfuerzo por su parte. Debido a la naturaleza fundamental de la Rata, no dudará en aceptar nuevos retos. Esto le recompensará con un ascenso a un puesto superior con un aumento de sueldo. La rata del zodiaco chino ahorró sabiamente dinero durante el año anterior, lo que le será útil durante este año. Además, no tendrás que buscar demasiado para hacer frente a los gastos. La vida con su cónyuge y su familia será armoniosa y agradable.
+description: Te afectaron varios cambios adversos debido a una coincidencia (parcial) con Tai Sui el año pasado. Al entrar en el año del Tigre 2022, su fortuna será más estable que el año pasado. Aunque no habrá mucho desarrollo, el año transcurrirá sin problemas en general.
 ogimg: /images/rata_anual.png
 sitemap:
  priority: 1

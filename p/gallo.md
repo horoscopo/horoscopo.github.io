@@ -4,7 +4,7 @@ title: Gallo Horoscopo Chino 2022
 permalink: /año-nuevo-chino/gallo/
 amplink: /año-nuevo-chino/amp/gallo/
 redirect_from: /p/gallo-horoscopo-chino-2015.html
-description: 2022 promete ser un año fabuloso para el Gallo. Lograrás el éxito con la ayuda de tus contactos sociales. La diligencia y la devoción son tu fuerte y lo utilizarás de forma productiva. Estás dispuesto a asumir más y más retos y acabarás ganando. Habrá reconocimiento y recompensas, que traerán mucha alegría a tu vida. La vida será agradable en el frente doméstico y se indican viajes de placer con la familia.
+description: Gente del Gallo, se te predice suerte en la vida y en las finanzas en 2022. Es probable que recibas ayuda de tus superiores, un ascenso y un aumento de sueldo. El trabajo diligente y el estudio deberían producir buenos resultados este año.
 ogimg: /images/gallo_anual.png
 sitemap:
  priority: 1

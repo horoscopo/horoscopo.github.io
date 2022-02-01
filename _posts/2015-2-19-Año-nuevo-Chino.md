@@ -1,6 +1,6 @@
 ---
 layout: horoscopo_chino_anual
-title: Año Nuevo Chino 2022, el año del Búfalo de metal.
+title: Año Nuevo Chino 2022, el año del Tigre de Agua.
 description: El Año Nuevo chino comienza el 1 de febrero de 2022. Este día también es una Luna Nueva que da paso al Año del Buey.
 permalink: /año-nuevo-chino/
 amplink: /año-nuevo-chino/amp/
@@ -15,7 +15,7 @@ sitemap:
  changefreq: 'yearly'
  lastmod: 2022-02-01
 ---
-## Año Nuevo Chino ¿Cuándo es? ¿Qué significa el Año del Búfalo?
+## Año Nuevo Chino ¿Cuándo es? ¿Qué significa el Año del Tigre?
 El Año Nuevo chino comienza el 1 de febrero de 2022 con una Luna Nueva que da paso al Año del Tigre.
 
 El Año Nuevo también trae consigo imágenes de fuegos artificiales, celebraciones, abrazos, regalos y un cambio en el calendario. Occidente celebra su Año Nuevo justo después de que la Tierra complete un círculo completo alrededor del Sol.

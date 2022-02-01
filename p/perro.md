@@ -4,7 +4,7 @@ title: Perro Horóscopo Chino 2022
 permalink: /año-nuevo-chino/perro/
 amplink: /año-nuevo-chino/amp/perro/
 redirect_from: /p/perro-horoscopo-chino-2015.html
-description: Tras un ondulante 2021, los nacidos en el año del Perro disfrutarán de una suerte mucho mejor en 2022: su carrera florecerá y sus logros serán reconocidos por sus jefes. Si persigues áreas de crecimiento, viajas y mantienes la armonía e interactúas bien con quienes te rodean, tendrás buenas perspectivas en 2022.
+description: Tras un ondulante 2021, los nacidos en el año del Perro disfrutarán de una suerte mucho mejor en 2022 su carrera florecerá y sus logros serán reconocidos por sus jefes. Si persigues áreas de crecimiento, viajas y mantienes la armonía e interactúas bien con quienes te rodean, tendrás buenas perspectivas en 2022.
 ogimg: /images/perro_anual.png
 sitemap:
  priority: 1

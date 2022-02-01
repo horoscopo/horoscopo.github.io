@@ -35,7 +35,7 @@ Para los Cerdos enamorados, este año será adecuado para que entren en el terre
 Cerdos solteros, es posible que este año conozcan al amor de su vida, que será muy compatible con ustedes en cuanto a personalidad, carrera, etc.Si tienen una buena impresión de él/ella, deben expresar sus intenciones a tiempo, y no vean cómo se les escapa la felicidad.
 
 ## Trabajo
-Bajo la estrella de la suerte Wenchang, las personas de Pig que se dedican a trabajos administrativos y creativos, tendrán un fuerte potencial académico este año, lo que marcará el inicio de un periodo de promoción en su carrera, y esto hará que tengan más posibilidades de ser promovidos por sus jefes. Después del trabajo, deberá estudiar para obtener una certificación pertinente, que será muy beneficiosa para su futuro desarrollo profesional.
+Bajo la estrella de la suerte Wenchang, las personas del Cerdo que se dedican a trabajos administrativos y creativos, tendrán un fuerte potencial académico este año, lo que marcará el inicio de un periodo de promoción en su carrera, y esto hará que tengan más posibilidades de ser promovidos por sus jefes. Después del trabajo, deberá estudiar para obtener una certificación pertinente, que será muy beneficiosa para su futuro desarrollo profesional.
 
 Los trabajadores a tiempo parcial a menudo tendrán la idea de cambiar de trabajo este año, o querrán convertirse en empresarios. Independientemente de la decisión que tomes, debes considerar todas las posibilidades antes de hacerlo.
 

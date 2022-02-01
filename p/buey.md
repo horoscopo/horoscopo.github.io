@@ -4,7 +4,7 @@ title: Buey Horóscopo Chino 2022
 permalink: /año-nuevo-chino/buey/
 amplink: /año-nuevo-chino/amp/buey/
 redirect_from: /p/horoscopo-chino-buey.html
-description: El año 2022 promete ser muy fructífero para el Buey chino, con gran alegría y poder. Los profesionales serán recompensados económicamente por su diligencia y habilidad. La familia desempeñará un papel importante en su vida. Los solteros se casarán, mientras que los casados podrán dar la bienvenida a un nuevo miembro de la familia. Los viajeros de negocios podrán iniciar nuevas asociaciones. La vida normal se verá alterada por viajes innecesarios y actividades sociales adicionales.
+description: Después de pasar por su "año del signo de nacimiento" (2021), las personas nacidas en el año del Buey encontrarán un mejor momento en 2022, con buena salud, una vida amorosa agradable y una trayectoria profesional sin problemas.
 ogimg: /images/buey_anual.png
 sitemap:
  priority: 1

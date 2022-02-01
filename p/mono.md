@@ -4,7 +4,7 @@ title: Horóscopo Chino 2022 Mono
 permalink: /año-nuevo-chino/mono/
 amplink: /año-nuevo-chino/amp/mono/
 redirect_from: /p/horoscopo-chino-2015-mono.html
-Monos, no esperéis demasiado de 2022. Necesitarás más trabajo para conseguir algo. Para aliviar la mala suerte, podrías hacer algo auspicioso este año, como casarte, tener un bebé o mudarte.
+description: Monos, no esperéis demasiado de 2022. Necesitarás más trabajo para conseguir algo. Para aliviar la mala suerte, podrías hacer algo auspicioso este año, como casarte, tener un bebé o mudarte.
 ogimg: /images/mono_anual.png
 sitemap:
  priority: 1
