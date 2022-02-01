@@ -1,6 +1,6 @@
 ---
 layout: horoscopo_chino_anual
-title: Serpiente Horoscopo Chino 2021
+title: Serpiente Horoscopo Chino 2022
 permalink: /año-nuevo-chino/serpiente/
 amplink: /año-nuevo-chino/amp/serpiente/
 redirect_from: /p/serpiente-horoscopo-chino-2015.html
@@ -9,9 +9,11 @@ ogimg: /images/serpiente_anual.png
 sitemap:
  priority: 1
  changefreq: 'yearly'
- lastmod: 2021-02-11
+ lastmod: 2022-02-01
 ---
-El Horóscopo de la Serpiente para 2021 está bendecido por ser el Año del Buey de Metal. Este año traerá buena suerte en todo tipo de emprendimientos, sin importar en qué área de la vida se encuentren. Se le presentarán muchas oportunidades nuevas, especialmente en su vida social; esto se debe a que el Buey Metálico está estrechamente relacionado con el planeta Venus, que preside una variedad de situaciones sociales. En resumen, siempre que evites provocar disputas, la suerte estará de tu lado en 2021.
+Para las personas regidas por la Serpiente, su suerte en 2022 será moderada, con molestias inesperadas, pero sobre todo con buenos resultados. Debes tratar de mantener la calma cuando te sientas molesto. Se le sugiere viajar para relajarse.
+
+Asistir a una boda o a una fiesta de cumpleaños disipará la mala suerte. 2022 es un momento de suerte para casarse o mudarse.
 
 ## Años de Nacimiento de la Serpiente
  - Serpiente de tierra: 1989
@@ -21,22 +23,21 @@ El Horóscopo de la Serpiente para 2021 está bendecido por ser el Año del Buey
  - Serpiente de fuego: 1977
 
 ## Amor
-Tanto si estás soltero como si tienes una relación sentimental, la suerte está de tu lado este año. Si tienes una relación estable y duradera, este es un buen año para dar el siguiente paso con tu pareja. Esto podría significar comprometerse o casarse, irse a vivir juntos o algo parecido.
+Hombres serpiente solteros, se espera que este año dejes la soltería y conozcas a tu amor. Después de un tiempo de citas y amistad, descubrirán que sus personalidades y condiciones de fondo son muy similares.
 
-Si estás soltero, este es un año de suerte para encontrar una nueva pareja. Cualquier pareja que conozcas este año probablemente se quedará por un tiempo. Puede que no sea eso, pero es probable que se quede para algún tipo de relación romántica a largo plazo o para planear un bebé.
+Para las mujeres del año de la Serpiente, la fortuna romántica estará en un nivel normal. Sin embargo, las mujeres Serpiente que tienen pareja, tendrán a menudo disputas con su pareja. Se recomienda que ambos se calmen y miren el problema desde el punto de vista de la otra persona, para que los conflictos entre ustedes se alivien.
 
 ## Trabajo
-Si este año tienes dificultades en tu vida, es probable que sea en tu carrera. Gran parte de su trabajo se centrará en el trabajo en equipo este año. Por ello, lo mejor es que este año intentes mejorar las relaciones con tus compañeros. Su buena o mala relación con ellos determinará si su vida profesional es exitosa o simplemente estresante. Si tiene éxito en el trabajo este año, es posible que reciba un trato positivo de sus superiores, un aumento de sueldo o incluso un ascenso.
+Gente de la serpiente, tienes buenas perspectivas profesionales para el año 2022. Después de recibir la ayuda de personas femeninas distinguidas, serás elogiado por tus superiores en tu empresa, y un ascenso y aumento de sueldo estarán a la vista.
 
-## Dinero
-Sus finanzas deberían ser relativamente estables este año. Puede que incluso tengas la suerte de ganar dinero extra este año, pero eso depende sobre todo de tu éxito profesional. Si tienes la suerte de contar con un dinero extra, no deberías preocuparte por hacer grandes compras cuando las necesites. Las mejores compras estarán relacionadas con la vivienda o los bienes inmuebles.
+Al relacionarse con los compañeros de su empresa, deberá tratarlos con sinceridad y no hablar mal de los demás a sus espaldas, ya que a su vez puede ser calumniado y objeto de represalias por parte de los villanos.
 
-Cuánto dinero gano este año, es un mal año para hacer inversiones en cualquier cosa que no sean bienes raíces, particularmente acciones. Este año, otros pueden intentar arrebatarle su dinero. Ten cuidado con esto. Ahorra tu dinero en lugar de comprar en sus esquemas. Si parece demasiado bueno para ser verdad, probablemente lo sea.
+Aunque la idea de cambiar de trabajo siempre te ronda, no es recomendable que lo intentes. Una nueva empresa no es lo que realmente deseas, aunque puede haber tensiones relacionales en el lugar donde te encuentras. Serpiente, es recomendable que te quedes en tu empresa actual y sigas desarrollándote en ella. Mientras trabajes duro en la base, acabarás viendo un aumento de sueldo.
 
 ## Salud
-Su salud física debería estar en un buen lugar durante la mayor parte del año. No es probable que tenga problemas de salud o lesiones graves. Sin embargo, es probable que coja uno o dos resfriados estacionales. Intente prevenirlo evitando pasar demasiado tiempo al aire libre o con otras personas enfermas.
+Este año, los Serpiente deben prestar más atención a su salud, sobre todo tener cuidado para evitar accidentes como las fracturas.
+Las personas de Serpiente con problemas de vértebras cervicales y lumbares no deben realizar ejercicios extenuantes ni cargar objetos pesados para evitar que se repitan viejas lesiones.
 
-Su salud mental debe ser su prioridad este año. Como ya se ha dicho, es probable que el trabajo sea estresante en 2021. Si no te tomas tiempo para relajarte, puedes sucumbir a la depresión. Lo más probable es que esto ocurra en la segunda mitad del año. Para evitarlo, intenta tomarte un tiempo libre en verano. Se recomiendan las vacaciones, siempre que no sean en el extranjero.
+Los automovilistas Serpiente, deben tener cuidado de no beber alcohol mientras conducen, de lo contrario hay una alta probabilidad de accidentes.
 
-## Familia
-Si tienes una relación estable y duradera, este es un buen año para ampliar la familia. Esto puede significar tener un bebé, adoptar un niño o tener una nueva mascota. Todo lo que puedas hacer para ampliar tu familia te ayudará a ser más feliz este año.
+Además, las personas Serpiente, su estado de ánimo será incierto este año, y a menudo caerán en el abismo de la desesperación por asuntos triviales. Cuando estén de mal humor, lo mejor sería que salgan de excursión con su pareja, respiren el aire fresco de la naturaleza y liberen sus emociones interiores reprimidas.

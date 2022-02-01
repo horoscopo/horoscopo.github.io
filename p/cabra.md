@@ -1,18 +1,18 @@
 ---
 layout: horoscopo_chino_anual
-title: Cabra Horóscopo Chino 2021
+title: Cabra Horóscopo Chino 2022
 permalink: /año-nuevo-chino/cabra/
 amplink: /año-nuevo-chino/amp/cabra/
 redirect_from: /p/cabra-horoscopo-chino-2015.html
-description: El año 2021 será muy complicado para la Cabra según el horóscopo chino 2021. Puede haber confusión, luchas y problemas financieros. No podrá encontrar nuevas perspectivas. La vida será sosa, aburrida y poco emocionante con trabajos insultantes. El entorno familiar será estresante para la cabra y requiere mucha atención. Si eres miembro de una organización social, puedes obtener ayuda de tus amigos para afrontar estos retos. El último trimestre de 2021 traerá cierto alivio a tus dificultades.
+description: En el año del Tigre 2022, tienes uno de los signos del zodiaco más afortunados. Este año, tendrás un crecimiento profesional y grandes relaciones. Las cabras solteras tendrán mucha suerte de encontrar pareja. Cuando la encuentres, aprovecha el día, busca la felicidad y expresa tu amor.
 ogimg: /images/cabra_anual.png
 sitemap:
  priority: 1
  changefreq: 'yearly'
- lastmod: 2021-02-11
+ lastmod: 2022-02-01
 ---
 
-El año 2021 será muy complicado para la Cabra según el horóscopo chino 2021. Puede haber confusión, luchas y problemas financieros. No podrá encontrar nuevas perspectivas. La vida será sosa, aburrida y poco emocionante con trabajos insultantes. El entorno familiar será estresante para la cabra y requiere mucha atención. Si eres miembro de una organización social, puedes obtener ayuda de tus amigos para afrontar estos retos. El último trimestre de 2021 traerá cierto alivio a tus dificultades.
+En el año del Tigre 2022, tienes uno de los signos del zodiaco más afortunados. Este año, tendrás un crecimiento profesional y grandes relaciones. Las cabras solteras tendrán mucha suerte de encontrar pareja. Cuando la encuentres, aprovecha el día, busca la felicidad y expresa tu amor.
 
 ## Años de nacimiento de la Cabra
  - Cabra de Tierra: 1979
@@ -22,18 +22,24 @@ El año 2021 será muy complicado para la Cabra según el horóscopo chino 2021.
  - Cabra de Fuego: 1967, 2027
 
 ## Amor
-Los solteros Cabra no tendrán mucha suerte en el amor este año, lo que significa que es poco probable que conozcan a alguien. Sin embargo, eso no significa que no deban intentarlo. En caso de que conozcas a alguien, será un romance fugaz. Puede que tengas un amor de verano, pero es poco probable que este sea el año en que conozcas a tu futura pareja.
+Las personas del signo de la Cabra que se casaron el año pasado, es probable que tengan una nueva vida este año.
 
-Si ya estás en una relación romántica, puedes tener la tentación de pasar la mayor parte del tiempo solo y no prestarles atención. Sin embargo, esta no es la forma de tener una relación romántica exitosa. Aunque signifique pasar menos tiempo a solas, intenta prestar más atención a tu pareja. Esto puede ayudar a añadir algo de vida y diversión a tu relación.
+Los casados del signo de la Cabra, mantened las distancias con el sexo opuesto, para no provocar malentendidos por parte de vuestra otra mitad que afecten al ámbito familiar.
+
+Los solteros pertenecientes a la familia de la Cabra, tendrán la oportunidad de conocer a nuevas personas del sexo opuesto. Deben empezar como amigos y tomarse las cosas con calma. Cuando conozcan al objeto del deseo de su corazón, deben expresar sus esperanzas en el momento adecuado. Las posibilidades de éxito para casarse son altas.
 
 ## Trabajo
-Este año, es probable que las Cabras estén más ocupadas de lo normal en el trabajo. Eso significa que también tendrán que trabajar más. A veces, esto puede parecer difícil. Sin embargo, el universo les está dando una señal para que pidan ayuda a sus colegas. Si es posible, pida ayuda a un caballo, ya que este año tienen mucha suerte en el trabajo. Si eres capaz de completar tus tareas en el trabajo durante este tiempo difícil, tu empleador definitivamente lo notará y tal vez incluso te recompense por tus esfuerzos.
+En el horóscopo laboral de este año, los del signo de la Cabra, demostraréis vuestro talento en los proyectos que emprendáis.
 
-## Dinero
-¡Ten cuidado con tu dinero este año! El horóscopo de la Cabra 2021 predice mala suerte en las finanzas. Por esta razón, es mejor evitar gastar dinero en cosas que no necesitas. Si lo hace, puede quedarse sin fondos y tener que pedir dinero prestado a otra persona. Pedir dinero prestado sólo te llevará a tener más mala suerte. Así que, para mantener tus finanzas en el mejor lugar posible en 2021, evita los préstamos, los empréstitos o las apuestas. Ahorra todo el dinero que puedas.
+Da rienda suelta a tu capacidad de liderazgo y conduce a tu equipo a conseguir buenos resultados para la empresa, y tendrás una importante mejora en las relaciones interpersonales. Tanto los líderes como los colegas del signo de la Cabra, se darán cuenta de que reciben elogios.
+
+Aunque su carrera mejorará, el aumento salarial no será grande, y aún tendrá que trabajar duro para avanzar.
+
+Aunque su empresa se desarrolle de forma ideal, seguirá teniendo la idea de abandonar. Este año no es adecuado para tomar la decisión de cambiar de trabajo. Aunque el salario actual no satisfaga sus expectativas, siempre que dé un paso a la vez, su jefe acabará reconociendo su talento.
 
 ## Salud
-En su mayor parte, su salud estará en un estado medio este año. No es probable que tenga muchos problemas de salud graves (siempre que no sea una persona mayor). Sin embargo, es probable que sufra algunas dolencias menores, como dolores de cabeza, insomnio y problemas de estómago. A menos que sea una persona mayor, esto no debería ser motivo de preocupación. Si eres una persona mayor, acude a un profesional médico siempre que te sientas mal.
+Cabras, su horóscopo de salud es relativamente estable, y no habrá enfermedades inesperadas.
 
-## Familia
-El Año del Buey está estrechamente relacionado con la vida familiar. El Buey te anima a abrir la comunicación entre tú y los miembros de tu familia. Si has tenido discusiones o desacuerdos en el pasado, ahora es el momento de resolverlos. También es un buen año para asistir a bodas y pasar tiempo con los hijos de tu familia. Las parejas casadas pueden incluso pensar en el embarazo.
+Debes prestar más atención a la salud de los mayores de tu familia, y buscar atención médica si te sientes mal.
+
+Las personas del año de la Cabra que conduzcan deberán hacerlo con precaución este año y respetar las normas de tráfico.

@@ -1,18 +1,20 @@
 ---
 layout: horoscopo_chino_anual
-title: Caballo Horoscopo Chino 2021
+title: Caballo Horoscopo Chino 2022
 permalink: /año-nuevo-chino/caballo/
 amplink: /año-nuevo-chino/amp/caballo/
 redirect_from: /p/caballo-horoscopo-chino-2015.html
-description: Los empresarios tendrán un gran año en 2021 y cumplirán con diligencia sus objetivos. En el proceso, obtendrán buenos beneficios. El año no es alentador para las relaciones amorosas del signo chino del Caballo. Puede tener conflictos con los empleados y en casa con los niños. En general, la situación será menos difícil y más cómoda que el año anterior. Mantener una buena relación con los demás es esencial este año.
+description: Los empresarios tendrán un gran año en 2022 y cumplirán con diligencia sus objetivos. En el proceso, obtendrán buenos beneficios. El año no es alentador para las relaciones amorosas del signo chino del Caballo. Puede tener conflictos con los empleados y en casa con los niños. En general, la situación será menos difícil y más cómoda que el año anterior. Mantener una buena relación con los demás es esencial este año.
 ogimg: /images/caballo_anual.png
 sitemap:
  priority: 1
  changefreq: 'yearly'
- lastmod: 2021-02-11
+ lastmod: 2022-02-01
 ---
 
-El Año Nuevo chino es el 12 de febrero de 2021. En ese momento, habrá una transición del año de la rata al año del buey de metal blanco. Esta es una gran noticia para el Horóscopo Caballo 2021. Este es un año para aprender de tus errores y convertirte en una mejor persona por ello. Aunque el año sea difícil, valdrá la pena.
+Se te predice una vida tranquila y buena suerte con el dinero en 2022. Tu carrera profesional irá viento en popa y tus jefes te recompensarán si te esfuerzas al máximo para conseguir tus objetivos.
+
+En 2022, también disfrutarás de buenas relaciones. La paciencia y la buena comunicación te permitirán alcanzar la armonía con tus compañeros, amigos y familia.
 
 ## Años de nacimiento del Caballo
  - Caballo de Tierra: 1978
@@ -22,20 +24,18 @@ El Año Nuevo chino es el 12 de febrero de 2021. En ese momento, habrá una tran
  - Caballo de Fuego: 1966, 2026
 
 ## Amor
-Su vida amorosa tendrá algunos altibajos este año. En su mayor parte, las cosas parecerán tranquilas. Aunque esto puede sonar aburrido, también significa que no habrá mucho drama en su vida amorosa, lo que puede ser reconfortante para algunos. Mientras puedas evitar las aventuras este año, tu relación debería estar en buena forma.
+Tu suerte en el amor es más bien media este año, y no habrá ninguna mejora.
 
-La vida amorosa de un caballo soltero no será muy aventurera este año. Aunque algunos caballos solteros pueden encontrar una nueva pareja este año, no es probable que sea una relación duradera. Las nuevas relaciones serán aventuras en el mejor de los casos. Por esta razón, es importante ser cuidadoso en sus esfuerzos románticos y en los embarazos.
+Caballos solteros, seguirán solteros, sus mentes estarán en el trabajo, y no les interesará en absoluto tener citas.
+
+Los caballos casados, también estarán muy ocupados en el trabajo, por lo que corren el riesgo de descuidar la preocupación por su familia. En su tiempo libre, deben sacar tiempo para salir a ver una película con su pareja, o cenar juntos, y disfrutar del mundo de los dos juntos, lo que favorece una relación más armoniosa.
 
 ## Trabajo
-Su flujo de trabajo será más o menos normal este año. Habrá momentos en los que tengas que trabajar más de lo habitual, lo que puede ser estresante. El trabajo será mucho más fácil este año si aprendes a trabajar mejor con los demás. Las personas que trabajan en un campo que les exige hablar a menudo con otras personas, como las que tienen clientes, probablemente tendrán un mejor año que las que trabajan solas.
+Este año verás un aumento constante de tu suerte profesional, y tus proyectos seguirán avanzando sin problemas, generando grandes beneficios para la empresa, grandes elogios de tu jefe, y esto hará que pronto recibas un ascenso y un aumento de sueldo.
 
-En general, no es un buen año para buscar un nuevo empleo si ya lo tienes. Sin embargo, no debería haber ningún problema para encontrar un trabajo si actualmente está desempleado. A no ser que te hagas amigo de tu jefe o consigas impresionarle de alguna manera, no es probable que consigas un ascenso o un aumento de sueldo este año.
-
-## Dinero
-Este año se enfrentará a algunos altibajos en sus finanzas. A veces, su cartera será voluminosa; otras, estará casi vacía. No es un buen año para hacer inversiones, ya que es probable que pierda más dinero del que gana con ellas, no tome esto como consejo, siempre consulte con un asesor financiero. Además, no prestes dinero a personas que no conozcas bien, ya que pueden intentar estafarte.
+Si quiere enfrentarse a nuevos retos, debería optar por cambiar de trabajo, siempre que el salario del nuevo empleo sea mejor. De lo contrario, no es aconsejable cambiar de trabajo.
 
 ## Salud
-El Año del Buey te bendice con una salud favorable este año. Como mucho, tendrás que lidiar con algunos dolores de cabeza o resfriados más. A no ser que seas demasiado mayor, no es probable que enfermes siempre que comas bien, hagas ejercicio y duermas lo suficiente. Si eres demasiado mayor, es mejor que acudas al médico cada vez que te pongas enfermo para asegurarte de que una enfermedad menor no se convierta en algo grave.
+En general, tendrás buena salud y suerte en 2022, y no tendrás ningún problema importante, pero debes prestar más atención a las cuestiones de salud mental. Bajo la presión del trabajo a largo plazo, tu mente puede deprimirse mucho y te sentirás abrumado durante un tiempo.
 
-## Familia
-El Horóscopo del Caballo 2021 no predice muchos cambios en tu vida familiar este año. Como cada año, lo mejor es que intentes pasar mucho tiempo con tu familia. Sin embargo, este año no es el mejor para que los Caballos tengan otro hijo, a menos que estén casados con alguien que tenga una predicción favorable para tener un hijo en 2021.
+Para alejar la energía negativa, se recomienda salir más con los amigos y la familia, y entonces su estado de ánimo se volverá muy alegre. Debido a su estrés y a la mala calidad del sueño este año, se recomienda que escuche algo de música ligera antes de acostarse para ayudarle a conciliar el sueño.
