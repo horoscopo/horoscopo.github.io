@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 31 de enero 2022 al 06 de febrero 2022 
-description: Horóscopo semanal piscis 31 de enero 2022 al 06 de febrero 2022. No más paciencia Piscis. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: piscis 07 de febrero 2022 al 13 de febrero 2022 
+description: Horóscopo semanal piscis 07 de febrero 2022 al 13 de febrero 2022. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-01-31
+ogimg: /images/zodiac/semanal_piscis.png#2022-02-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-31'
+ lastmod: '2022-02-07'
 ---
 
 
 
-## No más paciencia Piscis. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
- Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
-pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
-La presencia de Marte en tu sector doméstico puede llevarte a realizar cambios que vienes postergando. Es posible que enfrentarte a estos cambios te parezca una experiencia positiva. Lo que antes parecía abrumador podría parecer muy sencillo ahora y puede que lo resuelvas de inmediato. Más adelante, Júpiter se vuelve retrógrado en el sector superior de tu carta astral, por lo que tus esfuerzos para alcanzar una meta podrían no rendir frutos de inmediato, pero lo harán con el tiempo.
+Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
+El movimiento Lunar en tu signo podría llevar ciertos problemas a un punto crítico en relación con un interés amoroso o pareja. Una energía algo volátil apareciendo en la escena podría sacar al tema un argumento que se ha estado gestando desde hace algún tiempo. Pero trata de no hacer o decir algo que podrías lamentar más tarde. De hecho, tal vez sea mejor posponer las decisiones importantes durante unos días, para cuando las cosas deberían de haberse calmado. Aunque es posible que recurras a tus instintos en busca de ayuda, puede que no confíes plenamente en ellos.
 
 ## Dinero
 
-Puede que tus alas sean recortadas en cuanto a progreso profesional se refiere. Si tu comportamiento no ha sido el apropiado con tus compañeros de trabajo o clientes recientemente, es posible que encuentres una desagradable sorpresa en tu bandeja de entrada. Es karma. Si tienes que pedir disculpas, hazlo y regresa a una relación productiva. El efectivo sigue a tu voluntad de ser un jugador de equipo.
+Puede que se te esté dando la oportunidad de llevar tus ideas a las grandes redes sociales y al público. Este es un momento excelente para aprovechar el hecho de que la gente quiere escuchar lo que tienes que decir y comprar lo que estás vendiendo. Si necesitas mejorar tu mensaje antes de acercarte a ellos, utiliza los aspectos favorables actuales para lograr hacerlo. Vas a lograr producir mucho cuando golpees al mundo con tus ideas.

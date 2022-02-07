@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 31 de enero 2022 al 06 de febrero 2022 
-description: Horóscopo semanal geminis 31 de enero 2022 al 06 de febrero 2022. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Géminis, abre las puertas y ciao. No tienes que mantener nada…
+title: geminis 07 de febrero 2022 al 13 de febrero 2022 
+description: Horóscopo semanal geminis 07 de febrero 2022 al 13 de febrero 2022. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Géminis de siempre…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-01-31
+ogimg: /images/zodiac/semanal_geminis.png#2022-02-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-31'
+ lastmod: '2022-02-07'
 ---
 
 
 
-## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Géminis, abre las puertas y ciao. No tienes que mantener nada…
+## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Géminis de siempre…
 
-A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario Géminis, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada.
-Después de una temporada familiar activa, un enfoque en tu sector de recreación podría darte ganas de pasar tiempo a solas. Y si bien tienes un asunto del cual encargarte en el frente doméstico, quizá pueda resolverse con facilidad si confías en tus instintos. Esto podría ser decidirte a hacer una compra o algún otro asunto relacionado con las finanzas y, en este momento, la lógica podría no ser de gran ayuda. Con el enérgico Marte entrando a tu sector de comunicación el Jueves, promocionar lo que haces podría impulsar tu éxito.
+Deberían valorarte más Géminis, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para Géminis, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
+Un fuerte enfoque en tu sector de comunicaciones te ofrece la oportunidad de conectar con gente de tu vecindario y otros en tu área. Esta oportunidad de hacer conexiones podría resultar muy gratificante si ayuda a unir a tu comunidad local. Al mismo tiempo, tal vez sea sabio evitar molestar a alguien con autoridad. Deben coincidir en estar en desacuerdo o llegar a un compromiso. Definitivamente, discutir no será de gran ayuda. La actividad lunar puede traer la posibilidad de avanzar con una idea brillante.
 
 ## Dinero
 
-Con un enfoque en los viajes, la educación superior y las culturas extranjeras, es un buen momento para considerar cómo se puede ganar dinero extra apelando a los compradores extranjeros. Si tu empresa no está haciendo negocios en línea, tal vez es hora de recomendarlo. También podrías decidir continuar tu educación para profundizar tus habilidades. Es el momento de considerar otras opciones de trabajo. Tu trabajo actual no está funcionando.
+Esta semana se trata de aspectos afortunados que afectan tu sector del karma, las vidas pasadas y los sueños, así como el sector del hogar. Tus sueños pueden ser muy vivos y llenos de ideas sobre cómo traer más dinero, así que presta mucha atención a lo que dicen. Mientras tanto, el sector del hogar no está nada claro. Pon un poco de pensamiento en cuanto a si tiene sentido seguir pagando la misma renta o sería mejor trasladarse a un lugar más barato.

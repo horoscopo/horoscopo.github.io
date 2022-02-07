@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 31 de enero 2022 al 06 de febrero 2022 
-description: Horóscopo semanal acuario 31 de enero 2022 al 06 de febrero 2022. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+title: acuario 07 de febrero 2022 al 13 de febrero 2022 
+description: Horóscopo semanal acuario 07 de febrero 2022 al 13 de febrero 2022. Hay cosas que ya no funcionan Acuario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-01-31
+ogimg: /images/zodiac/semanal_acuario.png#2022-02-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-01-31'
+ lastmod: '2022-02-07'
 ---
 
 
 
-## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+## Hay cosas que ya no funcionan Acuario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 
-Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
- sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
-Esta podría ser una interesante semana en la que el eclipse solar en tu signo puede traerle energía fresca a tu vida. Este eclipse, que se produce el jueves, podría animarte a dar un paso en una dirección que deseas seguir desde hace mucho tiempo. Los eventos pueden conspirar para que llegues allí incluso si sientes que no te has preparado. Pronto te acostumbrarás a vivir a otro nivel y te dará gusto haber aprovechado esa oportunidad. El enfoque cambia el fin de semana, lo que te anima a invertir en algunos mimos para ti.
+Crees que puedes con todo Acuario. 
+ Es tan complicado…
+Las tensiones que pudieran haberte estado plagando durante las últimas semanas ya deberían de haber disminuido para ahora. Con un enfoque positivo en tu sector de relaciones, este puede ser un momento excelente para aclarar las cosas mediante una sincera charla. Al socializar más, es posible que sientas inspiración para unirte a un grupo o probar una actividad que nunca has intentado antes. El enlace entre Venus, Saturno y Urano en tu sector de actividad podía verte cerrando un contrato muy lucrativo. Sin embargo, tendrás que actuar rápidamente.
 
 ## Dinero
 
-Para ti este período se trata de cachar ofertas y de tomar ventaja de las nuevas oportunidades para ganar más dinero. Los aspectos afectan al sector de dinero y valores, indicando un tiempo de crecimiento en ese sector. Eres una fuente de ideas ahora, así que asegúrate de escribirlas para no perder de vista un flujo de ingresos futuros. Si sientes agobio, ponlas en práctica de una en una.
+Hay cambios ocurriendo en tu sector de carrera ahora. Ciertas cuestiones laborales son muy importantes para ti, pero trata de no dejar que consuman toda tu energía esta semana. Puede ser simplemente porque la energía se concentra tanto aquí. Pero siempre se puede optar por establecer un equilibrio entre el dinero que se está ganando y los amigos y familiares que te gustaría visitar de vez en cuando.
