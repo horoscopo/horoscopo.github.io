@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 07 de febrero 2022 al 13 de febrero 2022 
-description: Horóscopo semanal libra 07 de febrero 2022 al 13 de febrero 2022. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Libra, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+title: libra 14 de febrero 2022 al 20 de febrero 2022 
+description: Horóscopo semanal libra 14 de febrero 2022 al 20 de febrero 2022. La guerra que tienes dentro está deseando encontrar un poco de paz Libra, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2022-02-07
+ogimg: /images/zodiac/semanal_libra.png#2022-02-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-07'
+ lastmod: '2022-02-14'
 ---
 
 
 
-## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Libra, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+## La guerra que tienes dentro está deseando encontrar un poco de paz Libra, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 
-Son muchos los que quieren arruinar tu vida Libra, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Libra, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Libra. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Libra. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Libra. Ahora brillas así que, aprovecha. Aprovecha todo.
-Mantente alerta a tus finanzas, especialmente en la primera parte de la semana. Cuida muy bien tus tarjetas de crédito y datos personales. Si necesitas hacer una compra importante, guarda tus recibos y cualquier documentación importante, ya que existe la posibilidad de que surja un percance. Al mismo tiempo, la presencia de Júpiter en tu sector financiero aumenta la oportunidad de ampliar tus ingresos y mejorar tu éxito empresarial. Hay una alineación especialmente poderosa este fin de semana, pudiendo poner interesantes ofertas en tu camino.
+Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen.
+La comunicación es clave esta semana, así que asegúrate de mantenerlos a todos informados, ya que ayudará a evitar malentendidos y errores innecesarios. Si tienes una situación en particular con la cual lidiar, los próximos días podría ser perfectos para ayudarte a resolverla. Disponte a sentarte a discutir los problemas a fondo. Podrías percatarte de que una conversación podría impulsarte hacia un mayor éxito en el futuro. Si se te invita a una reunión, debería ser muy cálida y acogedora.
 
 ## Dinero
 
-Esta semana se trata de tu dinero y valores. Puede ser una buena semana con más oportunidades de ganar dinero en el camino que aparentemente surgen de la nada. Esto significa que por el momento es posible que tengas que pasar más tiempo en el trabajo y menos tiempo socializando. Es posible que tus grupos sociales te estén drenando al pedir demasiado de ti, creando mucha tensión y fatiga.
+Te enfrentas a un momento de decisiones financieras. Tus esfuerzos se están monetizando y te están ayudando a ganar más que nunca. De hecho, puede que tengas tanto que hacer, que no tienes tiempo para amigos y contactos sociales. Puede que tengas que establecer un equilibrio entre el trabajo, las responsabilidades de dinero y la necesidad de desahogarte de vez en cuando. Sin duda te lo mereces.

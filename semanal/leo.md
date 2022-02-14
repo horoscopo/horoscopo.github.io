@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 07 de febrero 2022 al 13 de febrero 2022 
-description: Horóscopo semanal leo 07 de febrero 2022 al 13 de febrero 2022. Vete a tu cerebro, y borra Leo, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Leo. Deja salir para que pueda entrar lo demás.
+title: leo 14 de febrero 2022 al 20 de febrero 2022 
+description: Horóscopo semanal leo 14 de febrero 2022 al 20 de febrero 2022. De verdad Leo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-02-07
+ogimg: /images/zodiac/semanal_leo.png#2022-02-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-07'
+ lastmod: '2022-02-14'
 ---
 
 
 
-## Vete a tu cerebro, y borra Leo, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Leo. Deja salir para que pueda entrar lo demás.
+## De verdad Leo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 
-No sabes cómo desviar tus sentimientos Leo, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Leo… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Leo. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Leo que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-Este es el momento de salir, dejarte ver y disfrutar de tus actividades sociales. Puede que hasta incluso tengas más invitaciones que tiempo durante los próximos días. Incluso con el acelerado ritmo lograrás divertirte. Las oportunidades para salir a citas con gente nueva también se vislumbran abundantes, al igual que las oportunidades de disfrutar de buenos ratos con tu pareja haciendo cosas que amas. Ciertas personas podrían ser menos cooperativos de lo que han sido una vez que Urano se torne retrógrado a partir del viernes, lo que podría ser un inconveniente.
+A veces de bueno te pasas Leo. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Leo, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Leo, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Leo y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
+El Sol y Mercurio en Escorpión sin duda le agregan pasión a las relaciones, especialmente a tu vida amorosa, pero también pueden desencadenar riñas verbales y problemas de control. Mientras que Venus en Libra pudiera animarte a ceder, puede que en práctica te resistas a hacerlo. Sin embargo, la Luna Llena de mediados de semana puede ser tu oportunidad para un nuevo comienzo si tienes apertura a ello. El viernes podrías querer descansar y relajarte a solas con un buen libro o viendo una película.
 
 ## Dinero
 
-Es un momento tenso para ti. Tus relaciones más cercanas apoyan plenamente los objetivos que te has fijado para ti mismo/a, en particular las que involucran tu situación financiera, y tu carrera está en expansión. Hay tantas cosas pasando en tu vida ahora que puede que sientas agobio, falta de apreciación y que no te pagan lo suficiente. Descansa lo más que puedas.
+Te encuentras ahora en una situación interesante con cierta actividad en tu sector de vidas pasadas, sueños e instituciones. Puede que sientas que tu vida laboral no está haciendo todo lo posible por ti. Puede que tengas más suerte trabajando para una entidad mayor. Gracias a tu sector de grupos, tus amistades te conectarán a una nueva compañía con más capacidad de pagarte lo que vales. Sueña en grande.

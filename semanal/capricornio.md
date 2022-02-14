@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 07 de febrero 2022 al 13 de febrero 2022 
-description: Horóscopo semanal capricornio 07 de febrero 2022 al 13 de febrero 2022. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+title: capricornio 14 de febrero 2022 al 20 de febrero 2022 
+description: Horóscopo semanal capricornio 14 de febrero 2022 al 20 de febrero 2022. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-02-07
+ogimg: /images/zodiac/semanal_capricornio.png#2022-02-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-07'
+ lastmod: '2022-02-14'
 ---
 
 
 
-## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 
-La zona de confort es un sitio bonito Capricornio, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más Capricornio, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida Capricornio. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto Capricornio, y tú mismo te lo notas, no la cagues por nada ni por nadie.
-¿Te estarás dirigiendo hacia una aventura? Si la actividad Solar de esta semana tiene algo que ver con ello, es posible que sí. A menudo, los eventos astrológicos pueden coincidir con eventos inesperados, por lo que se te podría ofrecer un viaje relacionado con tu trabajo o una celebración familiar. O bien, podrías espontáneamente decidir tomar una clase que tenga consecuencias positivas para ti. Mercurio se torna retrógrado el martes, por lo que piensa muy cuidadosamente antes de tomar cualquier decisión que pudiera cambiar tu vida.
+Llega una buenísima semana Capricornio pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien Capricornio, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado Capricornio, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo Capricornio, pelea por lo que te mereces.
+Con Venus trasladándose a tu sector de recreación esta semana, es posible que surjan placenteras opciones de citas y salidas románticas. Este puede ser uno de los mejores momentos para tomar un pequeño descanso de tu ser querido, ya que, si lo haces, tu relación podría pasar al siguiente nivel. Por otro lado, podrías tener un conflicto con una persona controladora o muy persuasiva. Esta es tu oportunidad para ponerte firme y revertir la situación para que esto deje de molestarte.
 
 ## Dinero
 
-Esta semana estás lidiando con un tipo de energía preocupante. El Universo quiere que intercambies información con los que te rodean, en especial respecto a tu vida monetaria. De hecho, puede que estés tan ocupado/a con tus planes de aumentar tu conocimiento que no tienes tiempo para atender a las demandas de tu lugar de trabajo. Error en el campo de la comunicación. Tu ambición depende de tu capacidad de decirle claramente a los demás lo que necesitas y deseas.
+Esta semana es de gran actividad para ti, ya que la atención se centra en las culturas extranjeras, viajes, idiomas y la educación superior. Es hora de pensar en invertir en mercados muy lejos de donde vives para hacer tu investigación. Los aspectos indican que es probable que te sientas optimista también.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 07 de febrero 2022 al 13 de febrero 2022 
-description: Horóscopo semanal aries 07 de febrero 2022 al 13 de febrero 2022. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+title: aries 14 de febrero 2022 al 20 de febrero 2022 
+description: Horóscopo semanal aries 14 de febrero 2022 al 20 de febrero 2022. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-02-07
+ogimg: /images/zodiac/semanal_aries.png#2022-02-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-07'
+ lastmod: '2022-02-14'
 ---
 
 
 
-## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
 
-Se avecinan cosas nuevas Aries, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar Aries, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin Aries, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
-Existe un cambio positivo en el aire esta semana que te reavivará y fortalecerá. A medida que Marte, seguido por el Sol, ingresa a tu signo, sentirás que estás en tu elemento y que estás a punto de enfrentarte al próximo gran proyecto o de hacer algunos cambios importantes. Antes de esto, sería útil tener cuidado con lo que prometes, ya que dar un impulsivo “sí” a un pedido podría significar que no puedas cumplirlo. Sería mejor que primero reflexiones sobre lo que involucraría el aceptar.
+A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Aries. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Aries, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Aries, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Aries pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
+Puede que te estés preguntando si deberías pedir un préstamo para una hipoteca o un proyecto de remodelación. Mientras que el pronóstico para ello se vislumbra positivo, puede que sea más fácil evitar discutir el asunto esta semana. Con influencias clave que indican situaciones y condiciones fluctuantes, sería mejor que investigues tus opciones primero. Si realmente sientes ansias, este es el momento ideal para investigar todo al respecto. Además, el fin de semana se vislumbra agradable y exitoso.
 
 ## Dinero
 
-Puede que te pongas las pilas esta semana. Tus habilidades de comunicación están aumentando, mostrando que se puede salir adelante a través de ser firme y claro/a con los que te rodean. Pide lo que deseas y es posible que lo consigas en el trabajo y en tu vida monetaria. Aunque las cosas pueden ser tensas, así que es mejor mantenerse limpios kármicamente hablando. No utilices tus palabras para hacer daño.
+Esta semana pones a prueba la resistencia y la tensión de tus relaciones. Esto puede resultar en que más de una relación profesional estrecha no funcione. No importa. Hay un montón de cambios positivos que se aproximan a tu sector del hogar, lo que indica un movimiento, la venta, o la adición de un espacio laboral en tu vida. El secreto está en no tratar de forzar nada ya que no es probable que dé frutos financieros por ahora.
