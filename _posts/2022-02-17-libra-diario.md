@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-Ya posees una fuerte inclinación y facilidad para ayudar a las personas en problemas. Sin embargo es posible que no te hayas permitido desarrollar estos dones naturales. Si has notado que muchas personas espontáneamente vienen a ti y te cuentan sus problemas, ya sean amigos o personas de tu vida profesional, ya es hora de que pienses en afinar tus habilidades y quizás hasta usarlas profesionalmente. ¿Nunca pensaste en convertirte en terapista?
+¡Sientes que la vida sería más fácil si el dinero no existiese! La cantidad de tiempo y energía que dedicas a solucionar tus asuntos financieros es frustrante. Desafortunadamente, hoy será un día frustrante. Hoy necesitas sentarte y arreglar algunas cuentas olvidadas. No es divertido, pero por lo menos al final del día tendrás la satisfacción de saber que lo has hecho.
 
 ## Amor
 
-Recuerda... confianza, respeto y afecto mutuo son parte integral de este proceso. Pero hoy no dejes que alguien a quien quieres te convenza de no perseguir lo que sabes que es una gran idea. Si tienes confianza en ello, entonces confía en tu instinto. Todo encajará.
+No vale la pena fingir que eres alguien o algo que no eres simplemente para ganarte el afecto de esa persona. Si tal termina haciéndote caso, ¿qué vas a hacer?, ¿volverte la otra persona?, ¿por qué molestarse? Dentro de ti sólo quieres estar con alguien que te aprecie por quien eres.
 
 ## Trabajo
 
-Hoy nadie te tomará en serio en tu trabajo a menos que cuentes con hechos concretos y buena evidencia para sustentar lo que dices. Si tienes que hacer algún tipo de presentación, asegúrate de estar debidamente preparado/a. De no ser así, los demás descubrirán con facilidad las partes más endebles de tu plan.
+Para avanzar en tu carrera tendrás que apostarle a la fe. Está bien que partas de una base sólida, pero no tengas miedo de alejarte de ese núcleo y penetrar en lo desconocido. Permítete soñar y trata de ampliar tus horizontes en vez de quedarte siempre con el ancla clavada en el mismo lugar.

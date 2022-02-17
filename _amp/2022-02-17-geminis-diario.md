@@ -14,12 +14,12 @@ sitemap:
 ---
 
 
-Las palabras pueden estar cargadas de energía, así que ten cuidado con lo que dices y cómo lo dices. El estado de ánimo del día requiere que las personas tengan un espacio para expresarse. Permíteles que sean libres o puede que acabes aislándote en un rincón sin salida. Es como pintar el suelo. Tienes que empezar por la parte más alejada de la puerta en vez de al revés.
+Podrías caer en el pesimismo. De pronto, el vaso parece medio vacío y todo parece sombrío. Te sientes como si estuvieras dando vueltas en círculos. Podrías preguntarte lo que estás haciendo. Puedes salir de esto tan fácilmente como entraste. Puede que no parezca posible, pero tienes que confiar en que es necesario con el fin de ver el vaso medio lleno otra vez.
 
 ## Amor
 
-Si has estado saliendo con dos personas distintas, puede que hoy tengas que hacer malabares. Aunque hasta ahora no ha habido demasiados problemas, hoy un cambio de planes podría dejarte en una situación complicada. Intenta actuar con honestidad y franqueza ya que así se calmarán las cosas.
+¿Te sientes sexy? El amor no permanecerá en silencio y sin pretensiones en tu vida hoy, ¡y eso es saludable! ¡Necesitas un descanso de toda la pasión para reagrupar tus energías! Después de todo, la larga noche reclama este tipo de pasión. ¡Disfruta cada minuto!
 
 ## Trabajo
 
-No lograrás mucho apoyo con solo sentarte frente al tablero con un plan en tu mente. Una vez que comiences a poner en práctica ese plan, sin embargo, los refuerzos llegarán de todas partes. Por eso, da tú los primeros pasos por tu propia cuenta. Verás que después lo demás vendrá solo.
+Alguien en tu lugar de trabajo no deja de jactarse de todo. Esta persona está demasiado confiada y utiliza su arrogancia para mangonear a los demás y marcarles el rumbo. Lo mejor que puedes hacer es tratar de evitar la influencia negativa de este individuo. Concéntrate en ti mismo/a y en tu propio trabajo.

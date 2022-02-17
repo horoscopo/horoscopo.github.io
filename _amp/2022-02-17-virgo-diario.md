@@ -14,12 +14,12 @@ sitemap:
 ---
 
 
-¡Felicidades! Estás camino al estrellato. Comienza el día con tu vestimenta más atractiva. Vístete de primera, y no olvides llevar esos aros de diamantes, anteojos de sol o aquella prenda que te da ese aspecto de misterio. La energía celestial en juego te da glamour, así que aprovecha tu rol al máximo. Visita a las personas que te miran con desdén; se quedarán boquiabiertas de furia.
+La configuración planetaria actual podría presentar inconvenientes en tus planes venideros. Te enterarás que un ser querido no podrá visitarte como lo habían planeado. O tal vez tengas problemas en la confirmación de un vuelo o reservación de hotel. Trata de ser paciente con los cambios que aparezcan hoy y encuentra otra manera de concretar tus planes. Existe la manera de esquivar los obstáculos actuales.
 
 ## Amor
 
-Intenta descubrir más de tu amor preguntándole cuestiones específicas sobre sus gustos o aversiones. Podría descubrirte lo que descubras. A medida que tu pareja se abre a ti, su intimidad crecerá y serán capaces de conectar de una manera completamente nueva.
+¿Tienes ganas de hibernar? Entonces piensa en pasar al menos la mitad de ese tiempo a solas haciendo algo que te guste, algo que te ayude en tu búsqueda del autoconocimiento. Eso o invita a una persona con la que puedes estar cómodamente en silencio para que te proporcione compañía.
 
 ## Trabajo
 
-Será mejor que muestres una actitud más enérgica y más decidida con la gente que encuentras a tu paso. Si no lo haces, los demás harán lo que quieran contigo y tú no serás más que una especie de títere. Tu energía es demasiado valiosa. No caigas en esa trampa. Para evadirte, concéntrate en ti mismo/a.
+Intenta asumir un rol de liderazgo. Estás en la posición perfecta para hacerlo. Tienes muy buenas relaciones con la gente a tu alrededor y has logrado que muchos se pongan de tu parte. Este es el momento para aprovechar tan favorable situación.

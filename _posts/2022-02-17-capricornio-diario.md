@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-Una llamada o carta de amor cálida y amorosa puede llegarte hoy de un amigo cercano o amante que está actualmente fuera de la ciudad. ¡Desearás de todo corazón que pudiese estar en casa! Al mismo tiempo, es muy probable que también tengas muchas cosas que hacer. Los proyectos creativos y actividades en tu comunidad podrían mantenerte en demasiado agobio como para extrañar a alguien. Esta noche, pasa algún tiempo a solas.
+Podrías sentir seguridad hoy, y deberías tener una idea muy clara de qué es exactamente lo que deseas. La información es poder. Otros están trabajando para ejercer poder sobre ti. No dejes que se salgan con la suya, especialmente hoy. Fomenta un comportamiento sinérgico entre todas las partes. Pueden lograr mucho trabajando juntos en lugar de enfrentarse.
 
 ## Amor
 
-Nunca te rindas en cuanto a lo que quieres realmente, independientemente de lo que tu pareja diga hoy. ¡Lánzate! Es el momento de hacer esa llamada, ¡porque tu felicidad depende de ello! La persona con grandes sueños es más poderosa que la persona con todos los hechos.
+Cuanto más tiempo pases con esa nueva persona, más te gustará y más excusas te inventarás para tener tiempo para verle. La persona con la que has estado saliendo probablemente no se ha enterado de nada, pero con el tiempo se enterará.
 
 ## Trabajo
 
-No hay nada peor para ti que hundirte en la rutina. En este momento es posible que te halles atascado/a porque te sientes cómodo allí donde estás, porque sientes que hay estabilidad. No permitas que la telaraña de la rutina te inmovilice. Atrévete a correr riesgos y a superarte.
+El magnetismo de tu mirada será más intenso de lo habitual. Las personas que tengan contacto visual contigo se verán cautivadas de tal manera que prácticamente podrías controlarlas con la mente. El poder que tienes sobre los demás es mayor de lo que crees. Utilízalo con sabiduría.

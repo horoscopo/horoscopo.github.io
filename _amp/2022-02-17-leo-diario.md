@@ -14,12 +14,12 @@ sitemap:
 ---
 
 
-El día de hoy podría hacerte pensar en un cambio. La dificultad es saber lo que realmente quieres hacer con tu vida. Un buen primer paso sería hablar con la gente. Descubre lo que saben y lo que no les gusta de sus carreras. Utiliza la biblioteca e Internet. Haz una prueba de perfil para ver qué tipos de carreras encajan con tu personalidad. Una vez que hayas hecho esto, tendrás la obligación de tener una visión más clara de a dónde quieres ir.
+Siempre tienes curiosidad intelectual, pero hoy podría ser especial. A pesar de que normalmente eres idealista, hoy tu imaginación está en pleno apogeo. Es posible que desees intentar escribir o pintar. Será mejor ir con la ficción o el impresionismo que con el realismo o la historia. Es probable que el estudio de temas espirituales o esotéricos despeje el camino entre el intelecto y la intuición.
 
 ## Amor
 
-Las estrellas te han traído recientemente un montón de cambios, y hay más por venir. Aunque puede que estés listo/a para lentificar las cosas con un interés amoroso, él o ella está pensando en acelerar las cosas. Intenta encontrar una manera para aunar las necesidades de ambos mientras se mueven por el difícil terreno del amor.
+Hoy ten en cuenta que los secretos no son en absoluto tu especialidad. De hecho, prefieres el castigo por decir la verdad, toda la verdad y nada más que la verdad que te descubran mintiendo. Si tu pareja te acusa ahora de mentir, defiéndete.
 
 ## Trabajo
 
-Hoy la gente no podrá parar de elogiarte –y con razón. El valor de tus aportes es muy grande. Aunque tal vez no seas la persona que trabaja más duro, tienes mucha creatividad y habilidad para lo artístico y, sobre todo, una gran capacidad de comunicación.
+Sientes que los otros eluden los problemas y no los enfrentan como deberían. Estás en lo cierto. Ya sea que estés o no en el trabajo, tu mente se encuentra ocupada. Sería bueno que intentes dilucidar cómo lidiar con este asunto durante los próximos días.

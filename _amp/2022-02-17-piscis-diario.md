@@ -14,12 +14,12 @@ sitemap:
 ---
 
 
-Puedes encontrarte completamente en apuros sin ninguna razón en particular. Si no es así, detente y examina la situación. Es más que probable que cualquier malestar emocional que sientas se deba, de alguna manera, a la falta de libertad personal. Tal vez no te sientas libre emocionalmente o sientas demasiada restricción mental. Tal vez necesitas salir de tu situación actual por completo. Usa este día para buscar maneras de sentir más independencia en tu mundo.
+Hoy necesitarás aprender a comprometerte un poco mejor. La influencia astral del día te pondrá en una situación en donde debes trabajar para llevarte bien con un grupo. Quizás tus compañeros de trabajo opinarán distinto respecto a algunas cuestiones. Habrá algunos desacuerdos sobre lo que se necesite hacer. Intenta negociar una solución que agrade a todos. Con un poco de esfuerzo, pronto encontrarás la manera de que las cosas funcionen.
 
 ## Amor
 
-Hoy, se materialice algo o no, ¡es imperativo intentarlo! Esa es la cuestión: las decisiones no se han tomado, y ese alguien voluble necesita un empujón. Él o ella necesita algún tipo de estructura cuando se trata de asuntos del corazón.
+Admítelo. Puedes ser una persona celosa. Es probable que también odies que las otras personas estén enamoradas y que tú no lo estés. La razón por la que te sientes así es porque tienes miedo de quedarte sin pareja. No te preocupes. Probablemente estés a punto de conocer a la persona que te haga sentir que eres alguien que vale la pena.
 
 ## Trabajo
 
-Olvídate de las cuestiones laborales por un momento. Pensar en el trabajo sólo hará que sientas enojo y frustración. Si tienes que trabajar hoy, intenta no tomar decisiones. Haz todo lo posible por evitar el contacto con los demás. Hay posibilidades de que se generen discusiones.
+Estás listo/a para dar un salto hacia adelante en tu trabajo pero da la impresión de que la gente a tu alrededor te lo impide. Quizá sea porque formas parte de un equipo cuyos miembros tienen un modo de trabajar muy distinto al tuyo. Si es así, no lo dudes: pide que te transfieran.

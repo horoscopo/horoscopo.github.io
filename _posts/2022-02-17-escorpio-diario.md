@@ -17,12 +17,12 @@ sitemap:
 ---
 
 
-Una posible nueva y emocionante relación amorosa podría estallar en tu vida hoy. Esta podría ser el tipo de atracción instantánea que te provoca nervios y que hace que te hierva la sangre. Independientemente de si decides perseguir esta atracción o no, por supuesto depende de tu situación, pero sea lo que sea que decidas, es muy probable que disfrutes hoy sintiendo la emoción. Por lo tanto, ¡asegúrate de mejorar tu aspecto cuando salgas! No te arrepentirás.
+La prosperidad está a la vuelta de la esquina, si no es que está ya aquí. Todos tus esfuerzos están a punto de resultar grandemente compensados. Puede ser que una gran propuesta sea aceptada en el trabajo, o tal vez algo que has escrito llegue a manos de un editor. Tu talento y buena fortuna innatos se combinan para ofrecerte cosas maravillosas. ¡Disfruta de este cambio positivo de los acontecimientos!
 
 ## Amor
 
-Las estrellas alientan otra nueva aventura para ti y tu pareja. Mientras eso sucede, recuerda que algunas de las mejores aventuras entre dos personas pueden tener lugar en la comodidad de tu propio hogar. Ahora que has encontrado a alguien, todos tus miedos se desvanecerán.
+Hoy podría ser el día en que alguien que está en la periferia de tu nuevo grupo finalmente aparezca y sientas algo que no has sentido en mucho tiempo. Hay algo de esa persona que te provoca un cosquilleo en tu interior. No tengas prisa. La energía ya se está moviendo hacia ti.
 
 ## Trabajo
 
-Estás en una muy buena posición para transformarte en una persona pionera, precursora y colonizadora. Acoge con los brazos abiertos ese espíritu de aventura y aplícalo a un área de trabajo o estudio que te apasione. Dale vuelta a la página. Verás que te espera una agradable sorpresa.
+No tengas miedo de tomar importantes decisiones ejecutivas aunque tal vez no ocupes el sillón del gerente general. Tus razonamientos son sólidos y la gente a tu alrededor te aprecia y te respeta. Aprovecha esta situación y mueve tus fichas. Recibirás una recompensa.

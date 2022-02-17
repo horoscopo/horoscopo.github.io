@@ -14,12 +14,12 @@ sitemap:
 ---
 
 
-Sentirás una sensación de ambición incrementada con esta configuración celestial. Tendrás en cuenta todas tus opciones y grandes sueños. Quizás decidas volver a la escuela para realizar un nivel de estudio avanzado. O puede que te des cuenta que realmente te quieres mudar a otro sitio. También tu relación sentimental estará en tu mente por estos días, y tomarás decisiones que afectarán de manera importante a tu futuro. Es un maravilloso momento para realizar un cambio audaz.
+Si das la impresión de que estás de un humor reservado e introspectivo (incluso si no es así), tendrás éxito en evitar la confrontación. Hoy no hay tal cosa como un simple intercambio con alguien. Pero incluso en este ambiente, es todavía un gran día para evaluar tus objetivos fundamentales un poco más de cerca.
 
 ## Amor
 
-Hoy es el día perfecto para realizar un intento consciente de cambiar tus patrones de conducta, dejando que tu pareja y amante lleve el mando. Aunque puede que tu mente se lance hacia la siguiente conquista, intenta resistirte. Disfruta del momento sin tener esperanzas de futuro. Este será el primer paso para realizar un cambio vital duradero.
+Una persona cercana estará más que feliz de pagarte por los favores que le has hecho mil veces en el pasado, posiblemente aconsejándote en temas amorosos. Probablemente te aconseje que vayas a buscar a la persona de la que has estado hablando, ya esté a mil millas de distancia o justo a la vuelta de la esquina. Ese es un buen consejo. Aprovéchalo.
 
 ## Trabajo
 
-Hoy tendrás muchísimo que hacer, pero está bien que así sea. Utilizarás la energía que te ha sido dada para concretar grandes logros en muchas áreas diferentes. Arremete contra todas esas tareas simples y rápidas. Elimínalas de tu lista de obligaciones. Verás que puedes lograr un alto grado de eficiencia.
+Reorganízate y asigna prioridades en vez de holgazanear. Este es un buen momento para analizar tu situación con una mirada más distendida. Una nueva visión se revelará. La misma te será muy útil la semana entrante.

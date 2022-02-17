@@ -14,12 +14,12 @@ sitemap:
 ---
 
 
-El día por delante se ve prometedor. Tu energía está volviendo gradualmente, y ya estás empezando a sentir más capacidad de iniciativa en cuanto a tu vida doméstica. Sin duda, hoy se te llama a resolver algunas cuestiones financieras relacionadas con tus necesidades domésticas. Aunque un regalo, dinero o un aumento serían bienvenidos, comenzarás a ver otras formas de hacer que el flujo de efectivo aumente en lugar de que sea un goteo.
+Si existe algo que deseas que los demás aprecien en ti es tu sinceridad. Pero para ello, necesitas ser muy consciente de muchas cosas, y sobre todo, de tu confianza personal. La energía astral del día de hoy te hará preguntarte algunas cuestiones: ¿Qué has hecho por ti últimamente? ¿Has tenido real sinceridad contigo mismo o misma?
 
 ## Amor
 
-El día de hoy debería estar repleto de venturosas historias de un amor potencial que ha atraído tu interés de nuevo contra tu voluntad. No puedes evitarlo pero ahora te sientes cada vez más atracción por él o ella. Ten cuidado con lo que deseas. Podrías tener una segunda oportunidad en el amor.
+Te encantan los encuentros, los viajes cortos y divertirte, y el equipo cósmico que está de guardia ahora se asegurará exactamente de que sea esto lo que hagas, por supuesto con una compañía encantadora. Sea a dónde sea que te dirijas, ten en cuenta que es posible que haya retrasos y mucho tráfico así que asegúrate de salir con tiempo de sobra.
 
 ## Trabajo
 
-Tu flexibilidad será puesta a prueba. Los demás no están dispuestos a ceder en su posición. No te tomes el trabajo de presionarlos para que tomen una nueva dirección. Así no va a funcionar. Tú eres quien debe hacer el cambio y adaptarse.
+Si no te fijas por donde caminas, te verás esquivando balas en medio de un feroz fuego cruzado. Trata de que tus emociones no se enreden demasiado con ninguno de los dos ejércitos. Solo así podrás evitar el fatal destino del soldado. Mantén en todo momento una posición lo más neutral posible.
