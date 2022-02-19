@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de febrero 2022
-description: Horóscopos del dia de hoy 18 de febrero 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de febrero 2022
+description: Horóscopos del dia de hoy 19 de febrero 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-02-18
+ lastmod: 2022-02-19
 ---
-Es un nuevo día en el que presumes lo que tienes y lo haces de una manera más brillante y más audaz. Si hay algo que todos debemos hacer hoy es encargarnos de situaciones sin resolver con Mercurio a punto de cambiar de signo. Esta noche, la tensión entra eléctricamente a la escena cuando la Luna cuadra a Marte.
+Hay pequeños cambios en todas partes cuando Júpiter se opone a Urano. Este tránsito, que sólo ocurre una vez cada 14 años, se trata de pensar lo contrario a una perspectiva anterior. Esta noche, obtienes una idea sobre lo que alguien está contemplando hace en el futuro y tienes una extremadamente buena habilidad al leer mentes. Hasta tú te sorprenderás agradablemente también.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
