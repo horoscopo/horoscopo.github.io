@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 14 de febrero 2022 al 20 de febrero 2022 
-description: Horóscopo semanal capricornio 14 de febrero 2022 al 20 de febrero 2022. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+title: capricornio 21 de febrero 2022 al 27 de febrero 2022 
+description: Horóscopo semanal capricornio 21 de febrero 2022 al 27 de febrero 2022. Estás a tope Capricornio, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-02-14
+ogimg: /images/zodiac/semanal_capricornio.png#2022-02-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-14'
+ lastmod: '2022-02-21'
 ---
 
 
 
-## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+## Estás a tope Capricornio, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 
-Llega una buenísima semana Capricornio pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien Capricornio, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado Capricornio, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo Capricornio, pelea por lo que te mereces.
-Con Venus trasladándose a tu sector de recreación esta semana, es posible que surjan placenteras opciones de citas y salidas románticas. Este puede ser uno de los mejores momentos para tomar un pequeño descanso de tu ser querido, ya que, si lo haces, tu relación podría pasar al siguiente nivel. Por otro lado, podrías tener un conflicto con una persona controladora o muy persuasiva. Esta es tu oportunidad para ponerte firme y revertir la situación para que esto deje de molestarte.
+Crees que puedes con todo Capricornio. 
+ Es tan complicado…
+Tus asuntos comerciales parecen ir bien esta semana, con las ruedas del comercio girando a tu favor. Puede que tomes algunos consejos al pasar tiempo con otras personas que son expertas en el cierre de ofertas y en ganar dinero. Si es que ya gozas de esta experiencia, considera enseñarles a otros cómo se hacen las cosas, ya que hacerlo podría ser una lucrativa fuente de ingresos. Si te gusta el teatro y el drama, te iría muy bien en el escenario o en cualquier actividad que manifieste tu innato carisma.
 
 ## Dinero
 
-Esta semana es de gran actividad para ti, ya que la atención se centra en las culturas extranjeras, viajes, idiomas y la educación superior. Es hora de pensar en invertir en mercados muy lejos de donde vives para hacer tu investigación. Los aspectos indican que es probable que te sientas optimista también.
+Esta semana tienes toneladas de nuevas oportunidades para ganar más dinero. Prepárate para poner un viejo plan en movimiento. Tus sueños tienen una muy buena oportunidad de convertirse en realidad, siempre y cuando tomes acción sobre cualquier cosa que se te presente. La actividad astral en tu sector de deuda advierte en contra de añadir más a ese balance.

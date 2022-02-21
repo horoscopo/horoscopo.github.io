@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: leo 14 de febrero 2022 al 20 de febrero 2022 
-description: Horóscopo semanal leo 14 de febrero 2022 al 20 de febrero 2022. De verdad Leo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+title: leo 21 de febrero 2022 al 27 de febrero 2022 
+description: Horóscopo semanal leo 21 de febrero 2022 al 27 de febrero 2022. Hay personas que juegan en otra liga Leo, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-02-14
+ogimg: /images/zodiac/semanal_leo.png#2022-02-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-14'
+ lastmod: '2022-02-21'
 ---
 
 
 
-## De verdad Leo, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+## Hay personas que juegan en otra liga Leo, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 
-A veces de bueno te pasas Leo. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Leo, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Leo, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Leo y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-El Sol y Mercurio en Escorpión sin duda le agregan pasión a las relaciones, especialmente a tu vida amorosa, pero también pueden desencadenar riñas verbales y problemas de control. Mientras que Venus en Libra pudiera animarte a ceder, puede que en práctica te resistas a hacerlo. Sin embargo, la Luna Llena de mediados de semana puede ser tu oportunidad para un nuevo comienzo si tienes apertura a ello. El viernes podrías querer descansar y relajarte a solas con un buen libro o viendo una película.
+Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
+ por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
+Alguien podría compartirte un secreto que altere la forma en que percibes cierta situación. En este caso, te afecta de una manera positiva. Con Mercurio retrocediendo durante unas tres semanas a partir del Lunes, espera interrupciones y retrasos en tu hogar. Un invitado podría cancelar o una fiesta podría no salir según lo previsto. Es posible que tengas que lidiar con obstáculos, pero un enfoque alegre y optimista puede ayudarte a soportar los próximos días. Finalmente, un vínculo romántico podría volverse más intenso y pasional.
 
 ## Dinero
 
-Te encuentras ahora en una situación interesante con cierta actividad en tu sector de vidas pasadas, sueños e instituciones. Puede que sientas que tu vida laboral no está haciendo todo lo posible por ti. Puede que tengas más suerte trabajando para una entidad mayor. Gracias a tu sector de grupos, tus amistades te conectarán a una nueva compañía con más capacidad de pagarte lo que vales. Sueña en grande.
+Tienes el apoyo del Universo esta semana, el cuál afecta a tu área asociada con los viajes al extranjero y la educación superior. Aunque pueda parecer contradictorio, es posible que tengas que mirar muy lejos de donde estás con el fin de ganar más dinero. El explorar mercados extranjeros para productos e inversiones extranjeras de ahorro ayudará a diversificar tu cartera y ganar más a largo plazo. Y aprender un nuevo idioma te ayudará con la comunicación.

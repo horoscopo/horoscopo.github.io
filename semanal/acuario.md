@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 14 de febrero 2022 al 20 de febrero 2022 
-description: Horóscopo semanal acuario 14 de febrero 2022 al 20 de febrero 2022. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+title: acuario 21 de febrero 2022 al 27 de febrero 2022 
+description: Horóscopo semanal acuario 21 de febrero 2022 al 27 de febrero 2022. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-02-14
+ogimg: /images/zodiac/semanal_acuario.png#2022-02-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-14'
+ lastmod: '2022-02-21'
 ---
 
 
 
-## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Acuario.
-Puede que sientas ganas de hacer algo espontáneo con el fin de liberar la sensación de presión. Si sientes esto al comienzo de la semana, puede que sea más beneficioso atenerte a una idea o proyecto y finalizarlos, ya que tus esfuerzos no serán en vano. A medida que el enfoque cambia a tu sector hogareño, el cosmos te anima a bajar tu ritmo y darte el gusto de mimarte y cuidarte un poco.
+Tienes que tener claro que en este mundo no estamos para gustar a todos, o quizás gustas a todos, pero el problema es que hay mucha envidia cerca aunque no siempre seas capaz de verla… 
+Aprende a marcharte Acuario… Sin complicaciones…
+Esta semana estarás gastando dinero en efectivo conforme tentadoras ofertas y compras impulsivas parecen llamar tu atención. También tendrás la oportunidad de cerrar ofertas lucrativas y ganar un poco de dinero en el proceso. Las actividades de compraventa parecen ir bien, sobre todo desde el Jueves, una vez que Mercurio comienza a avanzar una vez más. A partir de ahora, cualquier retraso que has experimentado debería comenzar a desaparecer. Por último, una relación clave es puesta bajo el microscopio con Saturno regresando a Escorpión.
 
 ## Dinero
 
-Puede que tus ideas sean increíblemente creativas ahora, especialmente en lo que se refiere a cualquier tipo de comunicación. ¡Podrías estar sintiendo suficiente inspiración como para escribir un libro sobre tus experiencias y encontrar que prácticamente se escribe sólo! Estás siendo divinamente guiado/a ahora y sólo hay que asegurarse de que estés durmiendo lo suficiente, comiendo y tomando la suficiente agua.  Y mientras que estás creando tu obra maestra, es doblemente importante que dejes tiempo para las cosas prácticas.
+Algunos aspectos en tu sector de profesión te ponen de nuevo en contacto con la gente y los proyectos de tu pasado. Tienes tanta suerte en esta área de tu vida que te verás en la obligación de rechazar algunos de los trabajos que se te presenten. Evita el exceso de estrés mediante la adopción de algún tiempo de inactividad necesario. Un aspecto feliz muestra que tu lugar de trabajo está inundado de creatividad y buena voluntad. ¿Está detrás de todos estos cambios positivos? Sólo tú sabes a ciencia cierta.

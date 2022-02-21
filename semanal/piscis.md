@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 14 de febrero 2022 al 20 de febrero 2022 
-description: Horóscopo semanal piscis 14 de febrero 2022 al 20 de febrero 2022. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+title: piscis 21 de febrero 2022 al 27 de febrero 2022 
+description: Horóscopo semanal piscis 21 de febrero 2022 al 27 de febrero 2022. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-02-14
+ogimg: /images/zodiac/semanal_piscis.png#2022-02-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-14'
+ lastmod: '2022-02-21'
 ---
 
 
 
-## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
 
-Tienes que plantarte Piscis, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana Piscis.
-Tus previas semanas han estado ocupadas con proyectos y oportunidades que probablemente han iniciado una nueva fase en tu vida. Esta semana tendrás ansias de analizar el costo de tus últimas ideas con miras a la recaudación de fondos o la planificación de un presupuesto. La Luna Llena en Piscis puede ser un excelente momento para empezar un negocio en línea, crear un sitio web y darte a conocer. Las cosas podrían empezar poco a poco, pero podrían cobrar impulso rápidamente. ¡La noche del viernes es ideal para una cita especial!
+A veces quieres llegar al fondo de cualquier cosa Piscis, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Piscis. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a Piscis, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona Piscis así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
+Una leve ansiedad podría serte causada por no tener completo control de cierta situación o cuestión clave. Puedes fácilmente darle fin a esto con la ayuda de una amistad bien intencionada. Su perspectiva podría ser crucial en traerte paz mental. Mientras tanto, es una maravillosa semana para salir de compras. Hay una buena probabilidad de que encuentres justo lo que estás buscando. Investiga tus opciones antes de acudir a tiendas, ya que hacerlo te encontrará descuentos.
 
 ## Dinero
 
-El Universo te apoya ahora, lo que indica un momento de renovada atención hacia el romance, los niños y la familia. Si trabajas en una de estas áreas, el dinero viene casi sin esfuerzo. Si tienes una idea para un producto o servicio que se enfoque en estos grupos demográficos, es un momento ideal para lanzar esto al mercado. Algo escrito o hablado puede ser el medio. Agarra pluma y papel y deja que la inspiración tome vuelo.
+Esta semana, el Universo afecta a tu sector de relaciones. Es posible que tengas algo de estrés entre tratar de ver a todos los que quieres ver y acabar todo tu trabajo a tiempo y dentro del presupuesto. Júpiter y Urano, en particular, pondrán un montón de nuevos proyectos y oportunidades en tu camino. Busca un balance entre los dos.

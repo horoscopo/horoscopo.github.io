@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 14 de febrero 2022 al 20 de febrero 2022 
-description: Horóscopo semanal tauro 14 de febrero 2022 al 20 de febrero 2022. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+title: tauro 21 de febrero 2022 al 27 de febrero 2022 
+description: Horóscopo semanal tauro 21 de febrero 2022 al 27 de febrero 2022. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-02-14
+ogimg: /images/zodiac/semanal_tauro.png#2022-02-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-14'
+ lastmod: '2022-02-21'
 ---
 
 
 
-## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 
-Madura Tauro, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Tauro, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Tauro, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-Quizá tengas muchas cosas que hacer, pero puede que tengas muchas distracciones durante la semana. Quizá lo mejor sea tantear un poco el terreno antes de hacer promesas o comprometerte a hacer algo, especialmente si se trata de algo importante. Podría suceder algo que indique que no puedes seguir adelante. Y con la luna llena en Piscis a mediados de la semana, puede que las emociones también salgan a flor de piel, por lo que podría ser difícil saber qué te convi Relájate y te irá mucho mejor durante el fin de semana.
+No te arrepientas de abrirte Tauro, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Tauro, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Tauro, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Tauro, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+Ciertos asuntos monetarios podrían estar sujetos a demoras. Puede que tengas que seguirle la corriente a la situación, sobre todo si gastos inesperados aparecen o un pago no se materializa. Aun así, esto podría ponerte a pensar en formas sobre cómo mejorar ciertas cosas y lograr que tu dinero te rinda más. El Jueves, una intensa influencia podría hacerte ver un lado de alguien que nunca has visto antes, lo que podría ser un poco desconcertante. Aun así, rodearte de la compañía adecuada puede ayudarte a relajarte y recargar baterías.
 
 ## Dinero
 
-Este es un período importante para ti porque la expansión y la suerte a menudo se combinan con ideas repentinas y creativas. Esto indica una época de gran fortuna cuando se trata de atraer a personas y oportunidades hacia ti. Tu energía es magnética ahora. Úsala a tu ventaja al realizar llamadas, aplicar para puestos de trabajo, y al usar tus conexiones sociales para conocer gente nueva e interesante. Hay posibilidades de que surja una maravillosa colaboración.
+A veces puedes tener demasiada timidez para la confrontación. Es posible que esta semana sientas aún más preocupación por llevarte bien con los demás. Tu situación financiera es buena. Con tanta energía concentrada en ese sector, estás haciendo todo tipo de avances en la obtención, el pago de deuda y el ahorro. Te das cuenta de que a veces es más valioso compartir momentos de amor con tus hijos y familiares de lo que es gastar.
