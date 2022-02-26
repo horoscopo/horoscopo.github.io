@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Leo Febrero 2022 
+title: Horoscopo Leo Marzo 2022 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2022-01-27
+ogimg: /images/mes/Leo_mes.png#2022-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-01-27'
+ lastmod: '2022-02-26'
 ---
 
 
-Resuelve diferencias diplomáticamente en vez de acudir a la fuerza bruta de tu voluntad en los días alrededor del 5 de febrero. Incluso si tienes razón y ganas, la discordia volverá. El romance le da brillo a tu mundo bajo la Luna Llena del 16 de febrero. Puede que tu sangre se sienta ardiente y lista para un gran cambio, pero no te apresures tanto como para ahuyentar a alguien que no sólo es brillante y generoso, pero a quien realmente le importas. La Luna Nueva de febrero enciende tus habilidades para resolver problemas. Tu instinto será tan útil como tu lógica, por lo que no pongas toda tu energía en pensar de manera racional. Sabrás cómo saltarle a una solución una vez que la detectes.
+Mercurio se mueve directo el 5 de marzo y la vida se vuelve más fácil, pero no de inmediato. Concéntrate en el trabajo durante la luna llena del 6 de marzo. Aprovecha tu tiempo a solas para soñar e inspirarte (y ahora es un buen momento para hacerlo, así que piensa en grande) y deja que tu buen desempeño convierta tus planes profesionales en realidad. La vida en el hogar puede estar constantemente en movimiento y complicarse un poco con la luna nueva del 19 de marzo. Un gran trígono en signos de tierra mantendrá tu atención en lo verdaderamente importante y en lo que te hará feliz. No tengas miedo y actúa de manera práctica. 

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Aries Febrero 2022
-description: El Horóscopo Febrero de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Aries Marzo 2022
+description: El Horóscopo Marzo de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/aries/
 amplink: /horoscopo-mensual/amp/aries/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Aries febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Aries, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Aries marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Aries, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/aries_mes.png#2022-01-27
+ogimg: /images/mes/aries_mes.png#2022-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-01-27'
+ lastmod: '2022-02-26'
 ---
 
 
- > Aries la abundancia llegará durante el mes de febrero. Te sentirás plena y satisfecha de tus logros y avances y querrás compartir tu alegría y felicidad con los demás. Ser generosa con los que más quieres no te cuesta nada y, de nuevo, harás gala de ello.
+ > Aries el mes de marzo será como un bálsamo para tu signo. Descargarás una enorme carga emocional y te sentirás más libre para actuar en consecuencia a los dictados de tu corazón. No temas y confía en tus posibilidades.
 
 
 
-No querrás pasar mucho tiempo a solas alrededor de la Luna Nueva de febrero. La compañía de amigos será muy reconfortante. Una o dos amistades cercanas podrían aparecerse inclusive antes de que tengas la oportunidad de llamarles. Tu sector familiar es puesto bajo enfoque con la Luna Llena del 16 de febrero. Si resulta que un pariente requiere de tu ayuda para llegar a alguna parte, ten apertura a lanzarte a una pequeña aventura o excursión con tal de apoyarle. Futuros planes para unas vacaciones de verano podrían mantener tus días ocupados. Marte, tu planeta regente, se vuelve directo el 29 de febrero. Espera experimentar progreso en lo que haya estado estancado o debilitado desde mediados de febrero.
+El ciclo retrógrado de Mercurio termina el 3 de marzo en Aries. Si has sentido ganas de hacer algo nuevo, este es el momento. Los asuntos familiares te tocan más profundamente que nunca con la Luna Llena del 10 de marzo. Puede que tengas un pedido de último minuto relacionado con el trabajo, y los compromisos sociales podrían interferir, pero nada te distraerá de un evento familiar o de reunirte con un pariente. Tu vida social resplandece a medida que se acerca la Luna Nueva del 25 de marzo. Prepárate para una época de muchas actividades. Todo lo que te rodea puede despertar tu interés y estimular tu apetito por algo deslumbrante y nuevo para ver, hacer o visitar.

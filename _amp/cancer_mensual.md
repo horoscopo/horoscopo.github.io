@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Febrero 2022 
+title: Horoscopo Cáncer Marzo 2022 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2022-01-27
+ogimg: /images/mes/Cáncer_mes.png#2022-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-01-27'
+ lastmod: '2022-02-26'
 ---
 
 
-Cuando Mercurio se torne directo el 3 de febrero, estarás en una mejor posición y en mucha mejor forma para tener ambición en tu trabajo. Cuida bien de tu persona alrededor de la Luna Llena del 16 de febrero. Si una amistad de más edad que tú te fastidia con esto, no te ofendas. Más personas se preocupan por ti de lo que te das cuenta. Deja que alguien te mime y entretenga. Además, tus amistades disfrutan de tu compañía. Este mes es todo tuyo para que seas el centro de atención. Puede que haya demasiadas personas a tu alrededor, y tal vez sientas un poco de desconexión, pero todo se desmoronará si no estás ahí.
+Te sentirás en tu punto más intenso y perseguirás una profunda, especial y personal pasión mientras el Sol conjunte a Plutón el 5 de marzo. Ten un comienzo de año sano, feliz y fuerte bajo la Luna Nueva del 9 de marzo. Si tienes algún problema de salud, adopta una actitud práctica hacia él y haz lo que necesites hacer. Reconoce cualquier temor fugaz inspirado por la noticia del problema de una amistad simplemente como lo que es, pero también trata de ser inteligente y realista. Vete y siéntete como un millón de dólares bajo la Luna Llena del 23 de marzo. Por supuesto que vales mucho más que eso y la gente lo notará al mirarte. Prepárate para recibir gran admiración.

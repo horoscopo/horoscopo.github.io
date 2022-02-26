@@ -1,23 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Piscis Febrero 2022 
+title: Horoscopo Piscis Marzo 2022 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2022-01-27
+ogimg: /images/mes/Piscis_mes.png#2022-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-01-27'
+ lastmod: '2022-02-26'
 ---
 
 
-Mercurio ingresa a Escorpión el 1 de febrero. Mercurio se encuentra en su fase retrógrada, pero no por mucho más. Vigila tus pasos (y tus palabras). 
-Con la luna nueva al inicio del mes, un amante podría tener actos de extrema generosidad, o tú podrías recibir admiradores y afecto en exceso. Sabes lo que quieres, y en qué cantidad. Mercurio se torna estacionario directo también ese día. Relájate, pero no salgas corriendo de inmediato. Date tiempo. 
-Mercurio entra a Sagitario el 12 de febrero. Ahora, tu temporada de festividades puede subir de tono de forma segura. Mercurio forma una conjunción con Júpiter el mismo día. Piensa en grande, pero actúa con cuidado y compasión. La generosidad moderada de hoy trae cosas buenas para el futuro. 
-No pidas nada durante la luna llena del 16 de febrero, y recibirás más de lo que puedes imaginar. Concéntrate en lo que hace falta hacer. Recibirás lo que necesitas y lo que quieres (y más). 
-Días destacados: 6, 12, 21
-Días desafiantes: 13, 24
+Mercurio se torna directo el 3 de marzo. Toda tu paciencia y los esfuerzos de mejora comenzarán a rendir sus frutos. El amor y el romance mueven tu mundo durante la Luna Llena del 10 de marzo, pudiendo significar un estupendo nuevo amante. Una película o un libro románticos pueden encender tu corazón. O el calor de una llama dentro de una relación actual podría aumentar. Puedes correr, pero no te puedes esconder del amor. Con la Luna Nueva del 25 de marzo, sentirás una sensación de riqueza. Puede que el dinero entre y salga libremente, pero no harás nada apresurado ni irresponsable con tus recursos. Eres demasiado inteligente y suspicaz para eso.

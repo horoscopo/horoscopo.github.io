@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Febrero 2022 
+title: Horoscopo Escorpio Marzo 2022 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2022-01-27
+ogimg: /images/mes/Escorpio_mes.png#2022-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-01-27'
+ lastmod: '2022-02-26'
 ---
 
 
-Tu trabajo y vida profesional brillan bajo la Luna Nueva de febrero. El Sol forma trígono con Júpiter el 3 de febrero, simplificando algunos problemas prácticos ya sea en tu trabajo u hogar. Dale inicio a un nuevo proyecto o a la nueva fase de una misión que ya esté bajo tu control. Amplía tus responsabilidades y aumenta tu valor y aprecio ante los ojos de tus compañeros de trabajo y superiores. La Luna Llena del 16 de febrero trae consigo días para entretenerte y disfrutar de una gran emoción. Una amistad podría otorgarte una invitación o la oportunidad de entrar a un círculo social más grande que comparta una de tus pasiones y que pudiera llevarte más lejos.
+marzo no tiene luna llena este año. Lo cuál está bien. El 1 de marzo es el día posterior a una, y el 28 de marzo es el día previo a otra. Los sentimientos son fuertes y los corazones están llenos cuando el mes comienza y cuando acaba. La luna nueva (y el eclipse solar) del día 15 es un momento precioso y privado para ti, incluso si tienes más cosas que hacer que de costumbre. Ahorra tiempo y energía para reflexionar sobre lo que está sucediendo contigo y a tu alrededor (y lo que todo eso significa para ti). El 21 de marzo, Venus forma una conjunción con Neptuno en Piscis para lo que posiblemente es el día más romántico y soñado del año. No te vayas a la deriva. 

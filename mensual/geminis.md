@@ -1,29 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Géminis Febrero 2022
-description: El Horóscopo Febrero de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Géminis Marzo 2022
+description: El Horóscopo Marzo de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Géminis febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Géminis marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2022-01-27
+ogimg: /images/mes/geminis_mes.png#2022-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-01-27'
+ lastmod: '2022-02-26'
 ---
 
 
- > Geminis durante el mes de febrero recibirás las recompensas por los esfuerzos que has hecho a la hora de cuidarte y saber con quién puedes contar o dónde encontrar apoyo cuando lo necesites, mientras progresas más allá de tus miedos.
+ > Geminis prepárate para un mes de lo más atareado porque marzo te trae deberes y algunas noches en vela. Pero no será para mal, sino todo lo contrario. Eso sí, tendrás que ponerte las pilas, porque todo lo que no has hecho durante el año, vas a empezar a darle forma este mes.
 
 
 
-La oposición que Mercurio forma con Marte el 5 de febrero puede mostrarte otros lados de un desacuerdo o discusión. No hay necesidad de involucrarte en una pelea. Abre tu corazón y las puertas de tu hogar para la luna nueva, y deja que muchas emociones buenas y la buena suerte entren a raudales. Alégrate por los nuevos brotes de una planta o por la amabilidad imprevista de un familiar. 
-
-Deja salir a tu niño o niña interior para la luna llena 16 de febrero. Disponte a comenzar algo más de una vez, y no te apegues a los resultados. Disfruta de los momentos, y tal vez aprenderás algo útil.
-
-Días destacados: 5, 18, 22
-Días desafiantes: 25, 26
+La Luna Llena del 4 de marzo impacta tu vida laboral y profesional. Hagas lo que hagas, tu trabajo será notado por todo el mundo, por lo que haz las cosas bien y obtén el reconocimiento que te mereces. Tu hogar y tu trabajo podrían competir por tu atención en los días cercanos a la Luna Nueva del 18 de marzo. Juzga por ti mismo o misma cuándo enfocarte en cada uno de ellos y en qué medida. Cierta situación laboral podría estallar y hacerse más ruidosa, pero sólo por un corto tiempo. Sabes que tu familia es importante también. Finalmente, relájate el 24 y 25 de marzo, y disfruta de un periodo de tranquilidad - o tal vez de locura - con tus personas favoritas.

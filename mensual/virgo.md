@@ -1,24 +1,28 @@
 ---
 layout: horoscopos
-title: Horoscopo Virgo Febrero 2022
-description: El Horóscopo Febrero de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Virgo Marzo 2022
+description: El Horóscopo Marzo de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Virgo febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Virgo marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/virgo_mes.png#2022-01-27
+ogimg: /images/mes/virgo_mes.png#2022-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-01-27'
+ lastmod: '2022-02-26'
 ---
 
 
- > Virgo recibirás importantes llamadas durante el mes de febrero que activan muchas cosas que estaban paradas. Empiezas un nuevo periodo con mucha energías. Reencuentro con viejos amigos y situaciones que se aclaran.
+ > Virgo durante el mes de marzo recibirás las recompensas por los esfuerzos que has hecho a la hora de cuidarte y saber con quién puedes contar o dónde encontrar apoyo cuando lo necesites, mientras progresas más allá de tus miedos.
 
 
 
-Los días alrededor de la Luna Nueva de febrero podrían traer consigo la solución al problema de otra persona, aunque puede que el resultado final no esté libre de problemas para ti. Sin embargo, la suerte está de tu lado. Si alguien te pide algo, ten generosidad, pero no te apresures a dar nada de a gratis. La energía será alta y te habrás preparado para cualquier cosa durante la Luna Llena del 16 de febrero. Puede que tanto amigos como familiares tengan duda de unírsete, pero a veces, te es imposible quedarte en un solo lugar por mucho tiempo, ¡por lo que sal a divertirte! Por último, el trígono entre el Sol y la Luna del 26 de febrero permite que las personas se relacionen con facilidad. Ahora, bien puedes cerrar una brecha que ha persistido con alguien especial.
+Mientras el año comienza, un viejo sueño parece desaparecer, pero también hay nuevas puertas que se abren. Entonces, ¿qué objetivos, sueños y aspiraciones quieres que se vuelvan realidad este año, tanto a nivel personal como profesional? 
+La luna nueva en Capricornio y el eclipse solar del 5 de marzo te piden alinearte con una visión más grande y una ambición altruista. Tienes una reputación por algo. Si es buena o mala no es de tu incumbencia. No todo el mundo va a quererte todo el tiempo, y siempre habrá pesimistas. Lo que importa es que practiques lo que predicas, da el ejemplo, y mantente fiel a tus valores. Evita las comparaciones o entrar en una carrera de locos de la que no puedes salir. Tus talentos y habilidades se notan, y darán sus frutos. 
+Ha sido un largo camino para llegar a donde estás ahora, y estás dando un giro a una situación social difícil. Esto no se trata del éxito, sino de tu legado y regalo para el mundo. Ten más fe en ti y en tus habilidades. Y recuerda que solo la humildad lleva a la verdadera grandeza. 
+Días destacados: 18, 22, 25 
+Días desafiantes: 11, 13, 21

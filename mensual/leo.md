@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Leo Febrero 2022
-description: El Horóscopo Febrero de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Leo Marzo 2022
+description: El Horóscopo Marzo de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Leo febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Leo marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2022-01-27
+ogimg: /images/mes/leo_mes.png#2022-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-01-27'
+ lastmod: '2022-02-26'
 ---
 
 
- > Leo prepárate para un mes de lo más atareado porque febrero te trae deberes y algunas noches en vela. Pero no será para mal, sino todo lo contrario. Eso sí, tendrás que ponerte las pilas, porque todo lo que no has hecho durante el año pasado, vas a empezar a darle forma este mes.
+ > Leo recibirás importantes llamadas durante el mes de marzo que activan muchas cosas que estaban paradas. Empiezas un nuevo periodo con mucha energías. Reencuentro con viejos amigos y situaciones que se aclaran.
 
 
 
-Resuelve diferencias diplomáticamente en vez de acudir a la fuerza bruta de tu voluntad en los días alrededor del 5 de febrero. Incluso si tienes razón y ganas, la discordia volverá. El romance le da brillo a tu mundo bajo la Luna Llena del 16 de febrero. Puede que tu sangre se sienta ardiente y lista para un gran cambio, pero no te apresures tanto como para ahuyentar a alguien que no sólo es brillante y generoso, pero a quien realmente le importas. La Luna Nueva de febrero enciende tus habilidades para resolver problemas. Tu instinto será tan útil como tu lógica, por lo que no pongas toda tu energía en pensar de manera racional. Sabrás cómo saltarle a una solución una vez que la detectes.
+Mercurio se mueve directo el 5 de marzo y la vida se vuelve más fácil, pero no de inmediato. Concéntrate en el trabajo durante la luna llena del 6 de marzo. Aprovecha tu tiempo a solas para soñar e inspirarte (y ahora es un buen momento para hacerlo, así que piensa en grande) y deja que tu buen desempeño convierta tus planes profesionales en realidad. La vida en el hogar puede estar constantemente en movimiento y complicarse un poco con la luna nueva del 19 de marzo. Un gran trígono en signos de tierra mantendrá tu atención en lo verdaderamente importante y en lo que te hará feliz. No tengas miedo y actúa de manera práctica. 

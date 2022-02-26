@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Libra Febrero 2022
-description: El Horóscopo Febrero de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Libra Marzo 2022
+description: El Horóscopo Marzo de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Libra febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Libra marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2022-01-27
+ogimg: /images/mes/libra_mes.png#2022-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-01-27'
+ lastmod: '2022-02-26'
 ---
 
 
- > Libra da rienda suelta a tu imaginación durante el mes de febrero porque estarás de lo más proactiva con tu entorno. Tus relaciones se verán beneficiadas por esta actitud tan positiva y querrás compartir y disfrutar como nunca.
+ > Libra el mes de marzo será para soltar prejuicios y viejas creencias sobre el amor, que no te han permitido avanzar en los últimos tiempos en tus relaciones de pareja.
 
 
 
-La luna nueva de febrero podrían avivar una emocionante relación romántica. No todos te darán su aprobación (y te lo dirán), pero escucha a tu propio corazón y cabeza. Mercurio retrógrado termina el día 18. Mercurio directo en Leo debería tener mucho para decir, así que espera algunas respuestas a comunicaciones anteriores que fueron ignoradas. Ahora es más fácil organizarte, y mantenerte así. El sol forma un trígono con Urano el 25 de febrero. Si tienes alguna idea nueva y audaz, este podría ser el momento para darlas a saber. Acciones sorprendentes y efectivas serán bien recibidas y vistas con admiración. La luna llena del 16 de febrero siguiente podría preparar el terreno para que recibas más dinero o regalos en el futuro cercano. Sé paciente y agradable, y ve qué sucede. Marte se torna directo en Capricornio el día 27. ¿Recuerdas aquellos planes ambiciosos y deseos profesionales? Tal vez ahora es momento de comenzar a hacer algo al respecto. Días destacados: 3, 21, 27 Días desafiantes: 1, 16
+El 5 de marzo podría ser un día tenso con el Sol conjuntando a Plutón y Mercurio iniciando su retroceso. Apégate a las reglas básicas (especialmente en el trabajo) y todo irá bien. Tanto tus amigos como vecinos pueden importarte mucho alrededor de la Luna Nueva del 9 de marzo. Sal a socializar y quizás descubras a una nueva amistad que te ha estado respaldando por un tiempo. Sin embargo, no corras por la vida furiosamente tratando de ser el mejor amigo de todos. Tendrás el toque de oro en tu lugar de trabajo bajo la Luna Llena del 23 de marzo. Sin embargo, ten cuidado al asumir tareas que sean obviamente demasiado difíciles para ti. De lo contrario, compórtate tan competente como siempre y sé la estrella.

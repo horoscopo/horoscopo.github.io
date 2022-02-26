@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Tauro Febrero 2022 
+title: Horoscopo Tauro Marzo 2022 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2022-01-27
+ogimg: /images/mes/Tauro_mes.png#2022-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-01-27'
+ lastmod: '2022-02-26'
 ---
 
 
-Tanto amigos como vecinos estarán a tu lado para compartir buenos momentos durante la primera semana del mes. La Luna Nueva el 1 de febrero calienta los corazones. Esto incluye miembros de tu familia que podrían haber estado manteniendo su distancia o manteniendo en secreto sus opiniones. Sal a explorar el mundo bajo la Luna Llena del 16 de febrero, cuando tu ancla se encontrará bien amarrada a tu hogar. No hay nada de qué preocuparte. Simplemente, llama a algunos amigos y salgan a probar un nuevo restaurante o a una excursión a un lugar nuevo. Los asuntos familiares se suavizan una vez más bajo la Luna Nueva de febrero. La armonía y el arte formarán parte de la agenda de esos días.
+La Luna Nueva del 4 de marzo derrama amor y buenos deseos sobre tu vida familiar y hogareña. Puede que no parezca ser así si la escena es agitada, pero después podrás notar el afecto en todo. Tu carrera y oportunidades profesionales están bajo la mira durante el periodo de Luna Llena del 19 de marzo. Un malentendido podría causar una pequeña crisis, permitiéndote salir al rescate y ganarte los elogios de tus colegas. Regresa a casa sintiendo el gran poder que para entonces has generado. El 29 de marzo, disminuye tu ritmo y cuenta hasta diez antes de tomar una decisión importante. La cuadratura entre Mercurio y Marte podría crear en ti dudas, lo que rara vez ayuda.

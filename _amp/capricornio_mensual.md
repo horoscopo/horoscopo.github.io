@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Febrero 2022 
+title: Horoscopo Capricornio Marzo 2022 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2022-01-27
+ogimg: /images/mes/Capricornio_mes.png#2022-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-01-27'
+ lastmod: '2022-02-26'
 ---
 
 
-¿Eres la respuesta a la oración romántica de alguien? La Luna Nueva de febrero podría hacerte ver como alguien perfecto ante los ojos de alguien. Sé paciente, permite que esto se dé por sí solo y aprende un par de lecciones valiosas amorosas. La Luna Llena del 16 de febrero te pone a cargo de una situación que en realidad podría pertenecerle a otra persona. Si alguien se acerca para preguntarte o pedirte algo, sabrás cómo responder. Sabrás hacer lo necesario sin agitar a la gente y así recibir más agradecimiento verbal. Un destello de terquedad podría atrasarte el 28 de febrero, cuando Mercurio cuadre a Plutón. Todo saldrá bien al final.     
+Escucha con más atención y habla con mayor tranquilidad durante las dos primeras semanas del mes. Muchas personas podrían tener cosas que decirte bajo la Luna Llena del 2 de marzo, y puede que te interese escucharlas. Algo nuevo y emocionante podía entrar a tu vida después de la Luna Nueva del 16 de marzo. Puede que no surja muy lejos de tu hogar, pero aun así despertará una gran cantidad de entusiasmo. Una amistad podría darte algunas noticias que iluminen tu mente y ensanchen tu mundo. Ya sea tus amigos o familia te apoyarán el 26 de marzo al facilitar las cosas si un romance de fin de semana empieza a volverse una dramática novela.
