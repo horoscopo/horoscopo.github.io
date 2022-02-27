@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 26 de febrero 2022
-description: Horóscopos del dia de hoy 26 de febrero 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 27 de febrero 2022
+description: Horóscopos del dia de hoy 27 de febrero 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-02-26
+ lastmod: 2022-02-27
 ---
-No es raro encontrar la vida llena de propósitos más específicos y la motivación para descubrir maneras de lograrlos cuando Mercurio transita en Capricornio. Las parejas encuentran increíble lo que puede hacer el poder transformador del amor. Los solteros se percatan de que la química con alguien es algo especial conforme sienten cómo se sobrecalienta el aire.
+No fuerces nada hoy. Algunas cosas se asentarán por sí solas y algunas de ellas cambiarán para bien. Los amigos pueden hablar de cualquier cosa, y el poder hablar ayuda bajo la Luna en Virgo de esta noche. Recuerda que es bueno pedir consejos, y muchas veces es aconsejable seguirlos cuando suenan bien.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
