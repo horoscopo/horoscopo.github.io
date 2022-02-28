@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 21 de febrero 2022 al 27 de febrero 2022 
-description: Horóscopo semanal leo 21 de febrero 2022 al 27 de febrero 2022. Hay personas que juegan en otra liga Leo, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+title: leo 28 de febrero 2022 al 06 de marzo 2022 
+description: Horóscopo semanal leo 28 de febrero 2022 al 06 de marzo 2022. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-02-21
+ogimg: /images/zodiac/semanal_leo.png#2022-02-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-21'
+ lastmod: '2022-02-28'
 ---
 
 
 
-## Hay personas que juegan en otra liga Leo, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
- por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
-Alguien podría compartirte un secreto que altere la forma en que percibes cierta situación. En este caso, te afecta de una manera positiva. Con Mercurio retrocediendo durante unas tres semanas a partir del Lunes, espera interrupciones y retrasos en tu hogar. Un invitado podría cancelar o una fiesta podría no salir según lo previsto. Es posible que tengas que lidiar con obstáculos, pero un enfoque alegre y optimista puede ayudarte a soportar los próximos días. Finalmente, un vínculo romántico podría volverse más intenso y pasional.
+No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo Leo pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
+ Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
+Quieres moverte con libertad, hacer lo que quieras cuando quieras y donde quieras. Y con la entrada del Sol a Sagitario, tienes la oportunidad para hacerlo. Si puedes juntar tus ganas de viajar con un trabajo o un proyecto de investigación, es posible que puedas combinar las dos opciones. Una influencia muy optimista puede hacer que avances hacia donde querías ir. Si lo haces, existe la posibilidad de que tu vida cambie de forma positiva.
 
 ## Dinero
 
-Tienes el apoyo del Universo esta semana, el cuál afecta a tu área asociada con los viajes al extranjero y la educación superior. Aunque pueda parecer contradictorio, es posible que tengas que mirar muy lejos de donde estás con el fin de ganar más dinero. El explorar mercados extranjeros para productos e inversiones extranjeras de ahorro ayudará a diversificar tu cartera y ganar más a largo plazo. Y aprender un nuevo idioma te ayudará con la comunicación.
+Hay una interesante energía concentrándose alrededor de tu trabajo y dinero. Un aspecto favorable indica que ciertas instituciones como compañías de tarjetas de crédito o bancos están tratando de trabajar contigo para desarrollar un amplio plan de pago de deuda. Es un momento positivo para la recaudación de fondos también. Si estás tratando de deshacerte de tu deuda, este es un gran momento para intentarlo.

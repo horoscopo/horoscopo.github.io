@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 21 de febrero 2022 al 27 de febrero 2022 
-description: Horóscopo semanal cancer 21 de febrero 2022 al 27 de febrero 2022. Cada día que pasa te das más cuenta de que mereces cosas buenas Cáncer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: cancer 28 de febrero 2022 al 06 de marzo 2022 
+description: Horóscopo semanal cancer 28 de febrero 2022 al 06 de marzo 2022. En serio Cáncer, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-02-21
+ogimg: /images/zodiac/semanal_cancer.png#2022-02-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-21'
+ lastmod: '2022-02-28'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas Cáncer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## En serio Cáncer, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 
-Se avecinan cambios Cáncer, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Cáncer, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Cáncer. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Cáncer.
-En el tema de objetivos y ambiciones personales, la fase retrógrada de Mercurio, junto con otras obstinadas influencias, sugiere que el progreso podría toparse con pared. Sin embargo, esto podría sólo traer consigo la oportunidad que necesitas para repensar tus planes. Tales retrasos pueden exponer debilidades que de otro modo no hubieran surgido. En cuanto a romance, alguien en una racha de celos podría tratar de poner en peligro una nueva relación. ¡No se lo permitas! Turbulentas influencias podrían mantenerte alerta, por lo que es importante tomarte tiempo para relajarte.
+La zona de confort es un sitio bonito Cáncer, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más Cáncer, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida Cáncer. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto Cáncer, y tú mismo te lo notas, no la cagues por nada ni por nadie.
+Tus amistades podrían ser especialmente demandantes durante la primera parte de la semana, lo que podría ponerte una presión innecesaria. Si este ha sido el caso durante algún tiempo, puede que debas tomar una medida. Un poderoso enfoque en tu sector social sugiere que ya podrías estar contribuyendo bastante a tu comunidad, clubes y otros grupos. Tal vez sea prudente priorizar estas actividades. Cuando el estimulante Marte se conecta con el práctico Saturno, este es el momento perfecto para comenzar. Puede que haya momentos en los que debas decir que no y mantenerte firme. 
+Además, si no te están pagando el trabajo adicional que estás haciendo, es posible que sientas un poco de resentimiento. Nuevamente, si estás dando más de lo que estás recibiendo, deberías remediar esta situación. Sin embargo, el simpático Venus está en tu sector de comunicación, de modo que hablar podría traerte alivio durante el fin de semana.
 
 ## Dinero
 
-Esta semana tienes aspectos afectando a tu sector de relaciones. Alguien de quien no has oído en mucho tiempo puede tratar de comunicarse contigo en forma personal o profesional. ¡Te sorprenderá lo lejos que esta persona ha llegado en el terreno profesional! La comunicación es crucial ahora, especialmente en lo que se refiere a la situación de empleo.
+Tienes algunos desafíos a la espera. Tus relaciones son las más afectadas por las configuraciones celestes actuales. El Universo te está empujando a extenderte un poco más, sobre todo cuando se trata de tus compañeros de trabajo. Trata de conocerles mejor y es posible que llegues a tener más cercanía con ellos de la que tienes ahora. ¡Necesitas de todos los amigos que puedas conseguir!

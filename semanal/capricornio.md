@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 21 de febrero 2022 al 27 de febrero 2022 
-description: Horóscopo semanal capricornio 21 de febrero 2022 al 27 de febrero 2022. Estás a tope Capricornio, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: capricornio 28 de febrero 2022 al 06 de marzo 2022 
+description: Horóscopo semanal capricornio 28 de febrero 2022 al 06 de marzo 2022. Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-02-21
+ogimg: /images/zodiac/semanal_capricornio.png#2022-02-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-21'
+ lastmod: '2022-02-28'
 ---
 
 
 
-## Estás a tope Capricornio, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
 
-Crees que puedes con todo Capricornio. 
- Es tan complicado…
-Tus asuntos comerciales parecen ir bien esta semana, con las ruedas del comercio girando a tu favor. Puede que tomes algunos consejos al pasar tiempo con otras personas que son expertas en el cierre de ofertas y en ganar dinero. Si es que ya gozas de esta experiencia, considera enseñarles a otros cómo se hacen las cosas, ya que hacerlo podría ser una lucrativa fuente de ingresos. Si te gusta el teatro y el drama, te iría muy bien en el escenario o en cualquier actividad que manifieste tu innato carisma.
+Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
+Las palabras tienen poder esta semana, y podrían crear o destrozar una amistad u otro tipo de relación a menos que las elijas con cuidado. Si tú y alguien no pueden ponerse de acuerdo, tal vez sería mejor quedar en desacuerdo si es posible. Cualquiera que sea el tema, dejar de lado los intensos sentimientos que le rodean podría disminuir la carga emocional asociada. Como resultado, es posible que todo el asunto se resuelva por sí solo y el resultado termine siendo muy positivo.
 
 ## Dinero
 
-Esta semana tienes toneladas de nuevas oportunidades para ganar más dinero. Prepárate para poner un viejo plan en movimiento. Tus sueños tienen una muy buena oportunidad de convertirse en realidad, siempre y cuando tomes acción sobre cualquier cosa que se te presente. La actividad astral en tu sector de deuda advierte en contra de añadir más a ese balance.
+Te enfrentas a algunas decisiones sobre el dinero esta semana. Aunque por lo general eres bastante inteligente cuando de dinero en efectivo se trata, puede ser que los aspectos te hagan sentir confusión de alguna manera. Comprueba doblemente las cifras antes de invertir tu dinero, al igual que debes revisar tus propias cuentas o la forma en la que lleves las cuentas (sobre todo con el balance de tu chequera). Es posible que algunas cuentas no salgan bien por ahora, sin embargo los aspectos se aseguran de que por lo menos estés bien conectado/a y te mantengas estable.
