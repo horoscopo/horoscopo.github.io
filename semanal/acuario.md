@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 28 de febrero 2022 al 06 de marzo 2022 
-description: Horóscopo semanal acuario 28 de febrero 2022 al 06 de marzo 2022. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+title: acuario 07 de marzo 2022 al 13 de marzo 2022 
+description: Horóscopo semanal acuario 07 de marzo 2022 al 13 de marzo 2022. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-02-28
+ogimg: /images/zodiac/semanal_acuario.png#2022-03-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-28'
+ lastmod: '2022-03-07'
 ---
 
 
 
-## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 
-Tu mente lo está analizando absolutamente todo Acuario, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez Acuario… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas Acuario, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana Acuario, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
-La buena noticia de esta semana es que tu regente Mercurio avanza el 3 de marzo en tu sector de comunidad y amistades. Esto podría coincidir con una oportunidad inesperada que tal vez hayas rechazado antes, muy a tu pesar. Parece que puede volver a presentarse, y este es el momento de aprovecharla. Por otro lado, prestarle atención a tu intuición o a tus sueños podría ser un buen punto de referencia en un asunto profesional, en especial si tienes más de una opción.
+Tienes que esforzarte Acuario, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Acuario, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Acuario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Acuario, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Podría haber potencial romántico para ti esta semana, en particular en tu sector de ocio y placer. El viernes puede ser el día perfecto para llevar a un pretendiente romántico a una primera cita o ir a comer con tu amor para demostrarle lo mucho que te importa. Pero hay sentimientos poderosos que podrían salir a la superficie, así que es útil pensar antes de hablar. Tu vida social parece más optimista, así que hay un montón de oportunidades para un espectáculo este fin de semana.
 
 ## Dinero
 
-Puede que estés pensando en maneras de embellecer tu área de trabajo o conseguir que tus colegas participen en un esfuerzo creativo. También tienes el apoyo total del Universo para hacer algunos movimientos importantes en la parte frontal de la deuda. Pagar las cosas te da una gran sensación en el interior, al igual que hacer un plan de ahorro global y mantenerte al tanto con él.
+Esta semana tiene que ver con el Universo poniendo nuevas ofertas sobre la mesa y más maniobras en tus inversiones. Puede que te preocupe el que no hayas avanzado lo suficiente con tu dinero o que no hayas escalado más en la escalera corporativa. Pero tus relaciones profesionales en tu sector de carrera están a punto de hacer una transformación positiva muy grande. ¡Celebra tu buena fortuna!

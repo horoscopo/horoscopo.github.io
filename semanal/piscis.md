@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 28 de febrero 2022 al 06 de marzo 2022 
-description: Horóscopo semanal piscis 28 de febrero 2022 al 06 de marzo 2022. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Piscis. Muévete o haz que se mueva el resto.
+title: piscis 07 de marzo 2022 al 13 de marzo 2022 
+description: Horóscopo semanal piscis 07 de marzo 2022 al 13 de marzo 2022. Esta semana relájate un poco Piscis, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-02-28
+ogimg: /images/zodiac/semanal_piscis.png#2022-03-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-28'
+ lastmod: '2022-03-07'
 ---
 
 
 
-## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Piscis. Muévete o haz que se mueva el resto.
+## Esta semana relájate un poco Piscis, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-Esta semana puede tener algunas idas y vueltas que necesitan manejarse con cuidado. Y esto puede deberse en parte a la Luna Nueva en un sector tranquilo de tu carta astral que te hace sentir más vulnerable de lo habitual. Si puedes alivianar tu agenda, esto podría permitirte tomar un descanso cuando lo necesites. Aun así, otras personas podrían estar impacientes por que salgas el fin de semana, y tal vez disfrutes de tener la oportunidad de desahogarte.
+Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
+ Busca siempre la parte buena de cada momento en el que te encuentres.
+Mientras que podrías ocuparte con ideas creativas o deportes competitivos, esta semana podría traerle un potencial cambio a tus intereses. Con Júpiter entrando a Virgo, es posible que te percates de que tu nivel de energía y vitalidad en general aumentan. Puede que también tengas ansias de analizar tu manejo de tiempo, así como la forma de agilizar tus hábitos y rutina diaria para tener mejores resultados. La actividad lunar del Viernes puede ser un buen momento para iniciar un negocio desde tu hogar o invitar a salir a una persona especial.
 
 ## Dinero
 
-Es una gran semana para ti. Una gran cantidad de energía te rodea, y ahora podrás atraer lo que quieres y necesitas. En cuanto a dinero, vas en la dirección correcta y habrá más comunicación al respecto. Los aspectos demuestran que tu deuda actual está en descenso, gracias a tu esfuerzo diligente y la planificación. ¡Buen trabajo!
+Estás atrapado/a en fuego cruzado y podría ser necesario recurrir a tus excelentes habilidades diplomáticas para suavizar alguna situación. Tu estado financiero está mucho mejor últimamente ya que has combinado tu  creatividad con la poca suerte que tienes. Sin embargo, tus amigos y redes sociales  pueden no estar tan felices al respecto, puede ser que algunos estén molestos por tu éxito. En lugar de tomarlo como algo personal, estate consciente de que esto también pasará.

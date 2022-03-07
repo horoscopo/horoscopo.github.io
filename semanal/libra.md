@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: libra 28 de febrero 2022 al 06 de marzo 2022 
-description: Horóscopo semanal libra 28 de febrero 2022 al 06 de marzo 2022. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+title: libra 07 de marzo 2022 al 13 de marzo 2022 
+description: Horóscopo semanal libra 07 de marzo 2022 al 13 de marzo 2022. Libra, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2022-02-28
+ogimg: /images/zodiac/semanal_libra.png#2022-03-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-02-28'
+ lastmod: '2022-03-07'
 ---
 
 
 
-## Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+## Libra, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 
-Y de repente cambias Libra, y nadie lo entiende. Pues sí, de vez en cuando hasta tu cuerpo te pide dar un giro que, aunque no sea del todo radical si te permita cerrar algunos asuntos pendientes que parecía que no iban a llegar nunca. Hay personas que no lo entienden, que piensan cómo es posible que llevaras un camino tan inestable en tu vida y de repente la enderezaras para tomar otro rumbo diferente… Pues sí, no eres imbécil, y sabes que si algo no te conviene, no te conviene, y aunque te des cuenta tarde, lo importante es que sabes corregirlo. La cuestión es que los que estaban a tu alrededor y creían conocerte se echan las manos a la cabeza y piensan cómo puede ser que de repente hagas todo lo contrario a lo que parecía que ibas a hacer. Pues es sencillo, porque todo tiene un límite, y por mucha paciencia que Libra pueda tener, lo siento, también tiene amor propio, que a veces no saca, que a veces parece que está escondido, pero lo tiene, aunque a muchos les joda y les fastidie sus planes. Ya te han hecho daño, y estuviste solo, y te sentiste más inseguro que nunca, y el mundo parecía romperse en dos, y ahí nada importaba pero ahora, ahora es todo diferente. Ahora sólo darás tu mejor cara, la buena, la dialogante, la amable, a quien se lo merece. Porque antes lo entregabas todo aunque nadie te lo pidiese, y te quedaste muchas veces sin nada, pero te daba igual, porque eras leal a tu palabra Libra, pero ahora ya sólo quieres ser leal a ti mismo. Sigue así, de verdad, no hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
-Podrías tener tentación a gastar al comienzo de la semana. Cuando el inquisitivo Mercurio se alinea con el afortunado Júpiter en tu sector de dinero el martes, puede que no pienses en el precio cuando se trata de comprar un objeto o una experiencia costosos. Sin embargo, antes de gastar cualquier dinero, lo prudente sería considerar si es una buena inversión. Puede que no lo sea. 
-Tal vez esta semana también te sientas con ánimos de cuidar y mostrar compasión hacia a los demás. Podrías sacrificar tu tiempo y recursos para ayudar a otra persona. Sin embargo, ten presente dónde debes poner el límite, ya que tu generosidad podría ser demasiado grande para tu propio bien. 
-En lo que respecta a una decisión u oportunidad profesional, que no te desanimen las críticas de un familiar. Si se siente bien, ¡adelante!
+Vamos Libra, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida Libra, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie Libra pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás Libra. Así, tal cual.
+Podrías obtener una brillante idea de una revista o de Internet que te inspire a redecorar tu hogar. De hecho, la próxima semana podría encontrarte invirtiendo en papel, pintura o muebles. También podrías sentir el impulso de ayudar a alguien que está atravesando un momento difícil. 
+ Cuando el encantador Venus en tu sector de comunicación se alinea con el compasivo Neptuno en tu signo, es posible que el pedido de una persona te llegue al corazón y tengas ganas de ayudarle en lo que puedas. Tus ideas y valores podrían chocar con los de tus amistades, lo que podría generar una crisis al comienzo de la semana. El cosmos te anima a no dar el brazo a torcer. Algunas amistades pueden tener una poderosa e incluso dominante fuerza en tu vida, pero es momento de defender tus creencias. La actividad lunar en tu sector monetario del domingo puede ser la oportunidad para organizarte y comenzar a sentir que tienes un mayor control.
 
 ## Dinero
 
-Tienes un poder especial esta semana. Sin embargo, ciertos aspectos afectan tu sector del trabajo. Si estás buscando empleo, este es un excelente momento para aplicar y enviar currículums. Si tienes trabajo, es el momento de construir tu caso con puntos para un aumento de sueldo o un ascenso. ¿Podría tu negocio ir bien sin ti? Si no es así, aporta pruebas de las contribuciones esenciales que le haz hecho.
+Ciertos desafíos se aproximan hacia ti esta semana. Las relaciones son propensas a sufrir una separación por trabajo o razones personales. La buena noticia es que ambos están muy ocupados. La mala noticia es que esta situación requiere más diplomacia y paciencia de lo habitual. Tu sector de empleo puede estar un poco inestable. Muévete lentamente, con cuidado, y no hagas exigencias innecesarias.
