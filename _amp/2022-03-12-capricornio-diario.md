@@ -1,0 +1,25 @@
+---
+layout: amp
+title: capricornio hoy gratis 12 de marzo del 2022 
+permalink: /horoscopo-diario-gratis/amp/capricornio/
+normallink: /horoscopo-diario-gratis/capricornio/
+home: FALSE
+horoscopo:
+ signo: capricornio
+ video: -DQpmrrAIeU
+ogimg: /images/capricornio_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Por mucho que quieras cambiar tu situación financiera, no actúes precipitadamente. Si hay varias opciones para elegir, es mejor que te abstengas de tomar cualquier decisión hasta que tus pensamientos se hayan cristalizado. Si sientes prisa por avanzar, puedes anotar tus opciones para poder revisarlas a la luz de un día claro.
+
+## Amor
+
+Para ti, hoy es el día apropiado para estar en contacto con tus sueños. Si has estado viendo a la pareja de tus sueños cada vez que duermes, pide ayuda para encontrar a esa persona antes de ir a dormir. Tu subconsciente está tratando de decirte algo importante. Escucha con atención, y luego actúa.
+
+## Trabajo
+
+Tienes la habilidad de descomprimir una situación escabrosa. Los otros están empantanados en medio de un acalorado debate y tú puedes visualizar con facilidad las dos caras de la moneda. No tengas temor de arrojarte al centro mismo de la batalla. Los demás te lo agradecerán.
