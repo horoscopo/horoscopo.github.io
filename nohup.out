@@ -4817,3 +4817,805 @@ Stream mapping:
 Press [q] to stop, [?] for help
 size=    4384kB time=00:01:46.02 bitrate= 338.7kbits/s speed= 212x    size=    8814kB time=00:03:33.01 bitrate= 339.0kbits/s speed= 213x    size=   13416kB time=00:05:24.50 bitrate= 338.7kbits/s speed= 216x    size=   17928kB time=00:07:13.86 bitrate= 338.5kbits/s speed= 217x    size=   22420kB time=00:09:02.71 bitrate= 338.4kbits/s speed= 217x    size=   26538kB time=00:10:40.76 bitrate= 339.3kbits/s speed= 214x    
 video:0kB audio:26538kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000287%
+Failed to get connection
+** (inkscape:933): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:933): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:933): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Aries.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1731    0     0  100  1731      0    882  0:00:01  0:00:01 --:--:--   882100  1731    0     0  100  1731      0    584  0:00:02  0:00:02 --:--:--   584100  1731    0     0  100  1731      0    436  0:00:03  0:00:03 --:--:--   436100  1731    0     0  100  1731      0    348  0:00:04  0:00:04 --:--:--   348100  1731    0     0  100  1731      0    289  0:00:05  0:00:05 --:--:--   300100  1731    0     0  100  1731      0    248  0:00:06  0:00:06 --:--:--     0100  1731    0     0  100  1731      0    217  0:00:07  0:00:07 --:--:--     0100  1731    0     0  100  1731      0    192  0:00:09  0:00:08  0:00:01     0100  1731    0     0  100  1731      0    173  0:00:10  0:00:09  0:00:01     0100  1731    0     0  100  1731      0    157  0:00:11  0:00:10  0:00:01     0100  1731    0     0  100  1731      0    144  0:00:12  0:00:11  0:00:01     0 69 13747   64  7739  100  1731    614    137  0:00:19  0:00:12  0:00:07  1300100 13747  100 12016  100  1731    944    136  0:00:12  0:00:12 --:--:--  2750
+Failed to get connection
+** (inkscape:941): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:941): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:941): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/aries_semanal.png
+73.064
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/aries.mp3':
+  Duration: 00:01:13.06, start: 0.050113, bitrate: 80 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 80 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.800000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/aries_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.34 fps, 0.34 tbr, 0.34 tbn, 0.34 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/aries_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    9 fps=0.0 q=2.0 size=     454kB time=00:00:09.00 bitrate= 413.2kbits/s speed=17.4x    frame=   19 fps= 19 q=2.0 size=     925kB time=00:00:19.00 bitrate= 399.0kbits/s speed=18.6x    frame=   29 fps= 19 q=2.0 size=    1397kB time=00:00:29.00 bitrate= 394.6kbits/s speed=18.9x    frame=   39 fps= 19 q=2.0 size=    1869kB time=00:00:39.00 bitrate= 392.6kbits/s speed=19.1x    frame=   41 fps= 15 q=2.0 size=    1880kB time=00:00:41.00 bitrate= 375.6kbits/s speed=15.1x    frame=   42 fps= 13 q=2.0 size=    1888kB time=00:00:42.00 bitrate= 368.2kbits/s speed=  13x    frame=   44 fps= 11 q=2.0 size=    1896kB time=00:00:44.00 bitrate= 353.1kbits/s speed=11.1x    frame=   45 fps= 10 q=2.0 size=    1904kB time=00:00:45.00 bitrate= 346.7kbits/s speed=10.1x    frame=   47 fps=9.0 q=2.0 size=    1913kB time=00:00:47.00 bitrate= 333.5kbits/s speed=9.03x    frame=   48 fps=8.4 q=2.0 size=    1922kB time=00:00:48.00 bitrate= 328.1kbits/s speed=8.41x    frame=   49 fps=7.9 q=1.6 size=    1924kB time=00:00:49.00 bitrate= 321.7kbits/s speed=7.87x    frame=   51 fps=7.3 q=2.0 size=    2351kB time=00:00:51.00 bitrate= 377.7kbits/s speed=7.31x    frame=   53 fps=6.7 q=2.0 size=    2363kB time=00:00:53.00 bitrate= 365.2kbits/s speed=6.66x    frame=   55 fps=6.3 q=2.0 size=    2374kB time=00:00:55.00 bitrate= 353.5kbits/s speed=6.32x    frame=   57 fps=6.2 q=2.0 size=    2385kB time=00:00:57.00 bitrate= 342.7kbits/s speed=6.19x    frame=   58 fps=5.8 q=2.0 size=    2390kB time=00:00:58.00 bitrate= 337.6kbits/s speed=5.83x    frame=   59 fps=5.6 q=2.0 size=    2399kB time=00:00:59.00 bitrate= 333.1kbits/s speed=5.64x    frame=   61 fps=5.4 q=1.6 size=    2407kB time=00:01:01.00 bitrate= 323.3kbits/s speed=5.45x    frame=   63 fps=5.3 q=2.0 size=    2834kB time=00:01:03.00 bitrate= 368.5kbits/s speed=5.26x    frame=   64 fps=5.1 q=2.0 size=    2843kB time=00:01:04.00 bitrate= 363.9kbits/s speed=5.13x    frame=   66 fps=5.0 q=2.0 size=    2851kB time=00:01:06.00 bitrate= 353.9kbits/s speed=   5x    frame=   67 fps=4.9 q=2.0 size=    2857kB time=00:01:07.00 bitrate= 349.3kbits/s speed=4.89x    frame=   69 fps=4.8 q=2.0 size=    2868kB time=00:01:09.00 bitrate= 340.5kbits/s speed=4.77x    frame=   70 fps=4.7 q=2.0 size=    2876kB time=00:01:10.00 bitrate= 336.5kbits/s speed=4.68x    frame=   72 fps=4.6 q=2.0 size=    2884kB time=00:01:12.00 bitrate= 328.2kbits/s speed=4.58x    frame=   73 fps=4.5 q=1.6 size=    2890kB time=00:01:13.00 bitrate= 324.3kbits/s speed= 4.5x    frame=   74 fps=4.4 q=2.0 Lsize=    3362kB time=00:01:14.00 bitrate= 372.1kbits/s speed=4.36x    
+video:2998kB audio:285kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.389152%
+Failed to get connection
+** (inkscape:967): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:967): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:967): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Tauro.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1255    0     0  100  1255      0    748  0:00:01  0:00:01 --:--:--   747100  1255    0     0  100  1255      0    468  0:00:02  0:00:02 --:--:--   468100 13099  100 11844  100  1255   3638    385  0:00:03  0:00:03 --:--:--  3639
+Failed to get connection
+** (inkscape:982): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:982): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:982): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/tauro_semanal.png
+52.845
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/tauro.mp3':
+  Duration: 00:00:52.85, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -4.100000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/tauro_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.47 fps, 0.47 tbr, 0.47 tbn, 0.47 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/tauro_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    1 fps=1.0 q=11.1 size=      10kB time=00:00:01.00 bitrate=  80.0kbits/s speed=0.99x    frame=    3 fps=1.7 q=2.0 size=     409kB time=00:00:03.00 bitrate=1118.2kbits/s speed= 1.7x    frame=    5 fps=2.0 q=2.0 size=     436kB time=00:00:05.00 bitrate= 713.7kbits/s speed=1.99x    frame=    6 fps=2.0 q=2.0 size=     442kB time=00:00:06.00 bitrate= 602.9kbits/s speed=1.99x    frame=    7 fps=2.0 q=2.0 size=     450kB time=00:00:07.00 bitrate= 526.6kbits/s speed=1.99x    frame=    9 fps=2.1 q=2.0 size=     458kB time=00:00:09.00 bitrate= 417.3kbits/s speed=2.11x    frame=   11 fps=2.2 q=2.0 size=     470kB time=00:00:11.00 bitrate= 349.8kbits/s speed=2.19x    frame=   13 fps=2.3 q=1.6 size=     481kB time=00:00:13.00 bitrate= 303.2kbits/s speed=2.25x    frame=   14 fps=2.2 q=2.0 size=     908kB time=00:00:14.00 bitrate= 531.1kbits/s speed=2.23x    frame=   16 fps=2.3 q=2.0 size=     917kB time=00:00:16.00 bitrate= 469.6kbits/s speed=2.28x    frame=   17 fps=2.3 q=2.0 size=     925kB time=00:00:17.00 bitrate= 445.7kbits/s speed=2.26x    frame=   18 fps=2.2 q=2.0 size=     932kB time=00:00:18.00 bitrate= 424.0kbits/s speed=2.25x    frame=   20 fps=2.3 q=2.0 size=     940kB time=00:00:20.00 bitrate= 385.1kbits/s speed=2.29x    frame=   21 fps=2.3 q=2.0 size=     947kB time=00:00:21.00 bitrate= 369.4kbits/s speed=2.27x    frame=   23 fps=2.4 q=2.0 size=     957kB time=00:00:23.00 bitrate= 341.0kbits/s speed=2.35x    frame=   25 fps=2.4 q=1.6 size=     969kB time=00:00:25.00 bitrate= 317.4kbits/s speed=2.43x    frame=   25 fps=2.3 q=1.6 size=     969kB time=00:00:25.00 bitrate= 317.5kbits/s speed=2.27x    frame=   27 fps=2.3 q=2.0 size=    1399kB time=00:00:27.00 bitrate= 424.6kbits/s speed= 2.3x    frame=   28 fps=2.3 q=2.0 size=    1409kB time=00:00:28.00 bitrate= 412.1kbits/s speed=2.29x    frame=   30 fps=2.3 q=2.0 size=    1417kB time=00:00:30.00 bitrate= 386.8kbits/s speed=2.35x    frame=   31 fps=2.3 q=2.0 size=    1424kB time=00:00:31.00 bitrate= 376.3kbits/s speed=2.34x    frame=   32 fps=2.3 q=2.0 size=    1432kB time=00:00:32.00 bitrate= 366.6kbits/s speed=2.32x    frame=   34 fps=2.3 q=2.0 size=    1439kB time=00:00:34.00 bitrate= 346.8kbits/s speed=2.34x    frame=   36 fps=2.4 q=2.0 size=    1451kB time=00:00:36.00 bitrate= 330.2kbits/s speed=2.36x    frame=   37 fps=2.3 q=1.6 size=    1457kB time=00:00:37.00 bitrate= 322.5kbits/s speed=2.35x    frame=   39 fps=2.4 q=2.0 size=    1887kB time=00:00:39.00 bitrate= 396.4kbits/s speed=2.36x    frame=   40 fps=2.4 q=2.0 size=    1893kB time=00:00:40.00 bitrate= 387.7kbits/s speed=2.35x    frame=   42 fps=2.4 q=2.0 size=    1904kB time=00:00:42.00 bitrate= 371.5kbits/s speed=2.36x    frame=   43 fps=2.4 q=2.0 size=    1912kB time=00:00:43.00 bitrate= 364.2kbits/s speed=2.35x    frame=   45 fps=2.4 q=2.0 size=    1922kB time=00:00:45.00 bitrate= 349.8kbits/s speed= 2.4x    frame=   46 fps=2.4 q=2.0 size=    1927kB time=00:00:46.00 bitrate= 343.2kbits/s speed=2.36x    frame=   48 fps=2.4 q=2.0 size=    1939kB time=00:00:48.00 bitrate= 330.9kbits/s speed= 2.4x    frame=   49 fps=2.4 q=1.6 size=    1947kB time=00:00:49.00 bitrate= 325.6kbits/s speed=2.39x    frame=   50 fps=2.4 q=2.0 size=    2371kB time=00:00:50.00 bitrate= 388.4kbits/s speed=2.38x    frame=   52 fps=2.4 q=2.0 size=    2381kB time=00:00:52.00 bitrate= 375.1kbits/s speed=2.39x    frame=   53 fps=2.4 q=2.0 size=    2387kB time=00:00:53.00 bitrate= 368.9kbits/s speed=2.36x    frame=   54 fps=2.3 q=2.0 Lsize=    2429kB time=00:00:54.00 bitrate= 368.5kbits/s speed=2.32x    
+video:2163kB audio:206kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.508916%
+Failed to get connection
+** (inkscape:1007): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1007): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1007): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Geminis.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2713    0     0  100  2713      0   1618  0:00:01  0:00:01 --:--:--  1617100  2713    0     0  100  2713      0   1012  0:00:02  0:00:02 --:--:--  1012100  2713    0     0  100  2713      0    737  0:00:03  0:00:03 --:--:--   737100  2713    0     0  100  2713      0    579  0:00:04  0:00:04 --:--:--   579100  2713    0     0  100  2713      0    477  0:00:05  0:00:05 --:--:--   516100  2713    0     0  100  2713      0    405  0:00:06  0:00:06 --:--:--     0100 15073  100 12360  100  2713   1673    367  0:00:07  0:00:07 --:--:--  2048
+Failed to get connection
+** (inkscape:1013): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1013): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1013): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/geminis_semanal.png
+118.099
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/geminis.mp3':
+  Duration: 00:01:58.10, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.800000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/geminis_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.21 fps, 0.21 tbr, 0.21 tbn, 0.21 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/geminis_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    9 fps=0.0 q=2.0 size=     461kB time=00:00:09.00 bitrate= 419.9kbits/s speed=17.8x    frame=   14 fps= 13 q=2.0 size=     911kB time=00:00:14.00 bitrate= 533.3kbits/s speed=13.4x    frame=   15 fps=9.7 q=2.0 size=     920kB time=00:00:15.00 bitrate= 502.6kbits/s speed=9.68x    frame=   17 fps=8.2 q=2.0 size=     929kB time=00:00:17.00 bitrate= 447.6kbits/s speed=8.19x    frame=   18 fps=7.0 q=2.0 size=     938kB time=00:00:18.00 bitrate= 426.8kbits/s speed=6.99x    frame=   20 fps=6.0 q=2.0 size=     946kB time=00:00:20.00 bitrate= 387.4kbits/s speed=6.02x    frame=   21 fps=5.5 q=2.0 size=     951kB time=00:00:21.00 bitrate= 371.1kbits/s speed=5.49x    frame=   23 fps=5.0 q=2.0 size=     963kB time=00:00:23.00 bitrate= 342.8kbits/s speed=5.03x    frame=   25 fps=4.5 q=1.6 size=     974kB time=00:00:25.00 bitrate= 319.1kbits/s speed=4.51x    frame=   26 fps=4.3 q=2.0 size=    1402kB time=00:00:26.00 bitrate= 441.7kbits/s speed=4.29x    frame=   28 fps=4.1 q=2.0 size=    1414kB time=00:00:28.00 bitrate= 413.6kbits/s speed=4.11x    frame=   30 fps=4.0 q=2.0 size=    1425kB time=00:00:30.00 bitrate= 389.1kbits/s speed=3.97x    frame=   31 fps=3.8 q=2.0 size=    1434kB time=00:00:31.00 bitrate= 379.1kbits/s speed=3.84x    frame=   33 fps=3.7 q=2.0 size=    1442kB time=00:00:33.00 bitrate= 357.9kbits/s speed=3.75x    frame=   34 fps=3.7 q=2.0 size=    1448kB time=00:00:34.00 bitrate= 348.9kbits/s speed=3.65x    frame=   36 fps=3.6 q=2.0 size=    1459kB time=00:00:36.00 bitrate= 331.9kbits/s speed=3.58x    frame=   37 fps=3.5 q=1.6 size=    1466kB time=00:00:37.00 bitrate= 324.5kbits/s speed= 3.5x    frame=   39 fps=3.4 q=2.0 size=    1899kB time=00:00:39.00 bitrate= 398.8kbits/s speed=3.45x    frame=   41 fps=3.4 q=2.0 size=    1910kB time=00:00:41.00 bitrate= 381.6kbits/s speed= 3.4x    frame=   42 fps=3.3 q=2.0 size=    1918kB time=00:00:42.00 bitrate= 374.2kbits/s speed=3.35x    frame=   43 fps=3.3 q=2.0 size=    1921kB time=00:00:43.00 bitrate= 366.0kbits/s speed=3.29x    frame=   45 fps=3.3 q=2.0 size=    1932kB time=00:00:45.00 bitrate= 351.8kbits/s speed=3.26x    frame=   47 fps=3.3 q=2.0 size=    1944kB time=00:00:47.00 bitrate= 338.8kbits/s speed=3.28x    frame=   48 fps=3.2 q=2.0 size=    1949kB time=00:00:48.00 bitrate= 332.7kbits/s speed=3.19x    frame=   49 fps=3.1 q=1.6 size=    1958kB time=00:00:49.00 bitrate= 327.4kbits/s speed=3.15x    frame=   51 fps=3.1 q=2.0 size=    2389kB time=00:00:51.00 bitrate= 383.7kbits/s speed=3.13x    frame=   53 fps=3.1 q=2.0 size=    2400kB time=00:00:53.00 bitrate= 371.0kbits/s speed=3.11x    frame=   55 fps=3.1 q=2.0 size=    2412kB time=00:00:55.00 bitrate= 359.2kbits/s speed=3.09x    frame=   57 fps=3.1 q=2.0 size=    2423kB time=00:00:57.00 bitrate= 348.2kbits/s speed=3.07x    frame=   58 fps=3.0 q=2.0 size=    2428kB time=00:00:58.00 bitrate= 343.0kbits/s speed=3.04x    frame=   59 fps=3.0 q=2.0 size=    2438kB time=00:00:59.00 bitrate= 338.5kbits/s speed=3.02x    frame=   61 fps=3.0 q=1.6 size=    2445kB time=00:01:01.00 bitrate= 328.4kbits/s speed=   3x    frame=   63 fps=3.0 q=2.0 size=    2880kB time=00:01:03.00 bitrate= 374.4kbits/s speed=2.99x    frame=   64 fps=3.0 q=2.0 size=    2889kB time=00:01:04.00 bitrate= 369.8kbits/s speed=2.97x    frame=   66 fps=3.0 q=2.0 size=    2896kB time=00:01:06.00 bitrate= 359.5kbits/s speed=2.96x    frame=   68 fps=2.9 q=2.0 size=    2908kB time=00:01:08.00 bitrate= 350.3kbits/s speed=2.92x    frame=   70 fps=2.9 q=2.0 size=    2919kB time=00:01:10.00 bitrate= 341.6kbits/s speed=2.91x    frame=   72 fps=2.9 q=2.0 size=    2930kB time=00:01:12.00 bitrate= 333.4kbits/s speed=2.93x    frame=   73 fps=2.9 q=1.6 size=    2937kB time=00:01:13.00 bitrate= 329.6kbits/s speed=2.89x    frame=   74 fps=2.9 q=2.0 size=    3364kB time=00:01:14.00 bitrate= 372.4kbits/s speed=2.87x    frame=   76 fps=2.9 q=2.0 size=    3376kB time=00:01:16.00 bitrate= 363.9kbits/s speed=2.86x    frame=   77 fps=2.8 q=2.0 size=    3385kB time=00:01:17.00 bitrate= 360.1kbits/s speed=2.85x    frame=   79 fps=2.8 q=2.0 size=    3393kB time=00:01:19.00 bitrate= 351.8kbits/s speed=2.84x    frame=   81 fps=2.8 q=2.0 size=    3404kB time=00:01:21.00 bitrate= 344.2kbits/s speed=2.84x    frame=   82 fps=2.8 q=2.0 size=    3413kB time=00:01:22.00 bitrate= 341.0kbits/s speed=2.82x    frame=   84 fps=2.8 q=2.0 size=    3421kB time=00:01:24.00 bitrate= 333.6kbits/s speed=2.82x    frame=   85 fps=2.8 q=1.6 size=    3426kB time=00:01:25.00 bitrate= 330.2kbits/s speed= 2.8x    frame=   87 fps=2.8 q=2.0 size=    3860kB time=00:01:27.00 bitrate= 363.5kbits/s speed= 2.8x    frame=   88 fps=2.8 q=2.0 size=    3867kB time=00:01:28.00 bitrate= 360.0kbits/s speed=2.79x    frame=   90 fps=2.8 q=2.0 size=    3877kB time=00:01:30.00 bitrate= 352.9kbits/s speed=2.81x    frame=   91 fps=2.8 q=2.0 size=    3883kB time=00:01:31.00 bitrate= 349.6kbits/s speed=2.77x    frame=   93 fps=2.8 q=2.0 size=    3894kB time=00:01:33.00 bitrate= 343.0kbits/s speed=2.77x    frame=   94 fps=2.8 q=2.0 size=    3902kB time=00:01:34.00 bitrate= 340.1kbits/s speed=2.76x    frame=   96 fps=2.8 q=2.0 size=    3911kB time=00:01:36.00 bitrate= 333.7kbits/s speed=2.76x    frame=   97 fps=2.7 q=1.6 size=    3917kB time=00:01:37.00 bitrate= 330.8kbits/s speed=2.75x    frame=   98 fps=2.7 q=2.0 size=    4347kB time=00:01:38.00 bitrate= 363.3kbits/s speed=2.74x    frame=  100 fps=2.7 q=2.0 size=    4357kB time=00:01:40.00 bitrate= 356.9kbits/s speed=2.74x    frame=  101 fps=2.7 q=2.0 size=    4363kB time=00:01:41.00 bitrate= 353.9kbits/s speed=2.73x    frame=  103 fps=2.7 q=2.0 size=    4374kB time=00:01:43.00 bitrate= 347.8kbits/s speed=2.72x    frame=  105 fps=2.7 q=2.0 size=    4385kB time=00:01:45.00 bitrate= 342.1kbits/s speed=2.72x    frame=  106 fps=2.7 q=2.0 size=    4394kB time=00:01:46.00 bitrate= 339.6kbits/s speed=2.71x    frame=  108 fps=2.7 q=2.0 size=    4402kB time=00:01:48.00 bitrate= 333.9kbits/s speed=2.71x    frame=  109 fps=2.7 q=1.6 size=    4407kB time=00:01:49.00 bitrate= 331.2kbits/s speed= 2.7x    frame=  111 fps=2.7 q=2.0 size=    4841kB time=00:01:51.00 bitrate= 357.3kbits/s speed= 2.7x    frame=  112 fps=2.7 q=2.0 size=    4853kB time=00:01:52.00 bitrate= 354.9kbits/s speed=2.69x    frame=  114 fps=2.7 q=2.0 size=    4858kB time=00:01:54.00 bitrate= 349.1kbits/s speed=2.69x    frame=  115 fps=2.7 q=2.0 size=    4864kB time=00:01:55.00 bitrate= 346.5kbits/s speed=2.69x    frame=  116 fps=2.7 q=2.0 size=    4870kB time=00:01:56.00 bitrate= 343.9kbits/s speed=2.68x    frame=  118 fps=2.7 q=2.0 size=    4881kB time=00:01:58.00 bitrate= 338.8kbits/s speed=2.69x    frame=  119 fps=2.7 q=2.0 size=    4886kB time=00:01:59.00 bitrate= 336.4kbits/s speed=2.67x    frame=  119 fps=2.7 q=2.0 Lsize=    4965kB time=00:01:59.00 bitrate= 341.8kbits/s speed=2.65x    
+video:4382kB audio:461kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.493670%
+Failed to get connection
+** (inkscape:1043): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1043): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1043): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Cancer.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2714    0     0  100  2714      0   4012 --:--:-- --:--:-- --:--:--  4008100  2714    0     0  100  2714      0   1617  0:00:01  0:00:01 --:--:--  1617100  2714    0     0  100  2714      0   1012  0:00:02  0:00:02 --:--:--  1012100  2714    0     0  100  2714      0    737  0:00:03  0:00:03 --:--:--   737100  2714    0     0  100  2714      0    579  0:00:04  0:00:04 --:--:--   579100 15015  100 12301  100  2714   2273    501  0:00:05  0:00:05 --:--:--  2025
+Failed to get connection
+** (inkscape:1049): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1049): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1049): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/cancer_semanal.png
+111.856
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/cancer.mp3':
+  Duration: 00:01:51.86, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.700000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/cancer_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.22 fps, 0.22 tbr, 0.22 tbn, 0.22 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/cancer_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    5 fps=0.0 q=2.0 size=     447kB time=00:00:05.00 bitrate= 731.8kbits/s speed=8.35x    frame=    6 fps=5.5 q=2.0 size=     455kB time=00:00:06.00 bitrate= 620.7kbits/s speed=5.46x    frame=    8 fps=4.3 q=2.0 size=     464kB time=00:00:08.00 bitrate= 474.6kbits/s speed=4.34x    frame=    9 fps=3.8 q=2.0 size=     473kB time=00:00:09.00 bitrate= 430.6kbits/s speed=3.84x    frame=   11 fps=3.6 q=2.0 size=     480kB time=00:00:11.00 bitrate= 357.5kbits/s speed=3.56x    frame=   13 fps=3.4 q=1.6 size=     491kB time=00:00:13.00 bitrate= 309.5kbits/s speed=3.37x    frame=   14 fps=3.2 q=2.0 size=     932kB time=00:00:14.00 bitrate= 545.1kbits/s speed=3.21x    frame=   16 fps=3.1 q=2.0 size=     940kB time=00:00:16.00 bitrate= 481.4kbits/s speed=3.14x    frame=   17 fps=3.0 q=2.0 size=     947kB time=00:00:17.00 bitrate= 456.2kbits/s speed=3.04x    frame=   19 fps=3.0 q=2.0 size=     957kB time=00:00:19.00 bitrate= 412.6kbits/s speed=2.99x    frame=   20 fps=2.9 q=2.0 size=     965kB time=00:00:20.00 bitrate= 395.1kbits/s speed=2.92x    frame=   22 fps=2.9 q=2.0 size=     974kB time=00:00:22.00 bitrate= 362.6kbits/s speed= 2.9x    frame=   24 fps=2.9 q=2.0 size=     985kB time=00:00:24.00 bitrate= 336.2kbits/s speed=2.88x    frame=   25 fps=2.8 q=1.6 size=     990kB time=00:00:25.00 bitrate= 324.5kbits/s speed=2.82x    frame=   27 fps=2.8 q=2.0 size=    1434kB time=00:00:27.00 bitrate= 435.1kbits/s speed=2.81x    frame=   28 fps=2.8 q=2.0 size=    1443kB time=00:00:28.00 bitrate= 422.3kbits/s speed=2.77x    frame=   30 fps=2.8 q=2.0 size=    1451kB time=00:00:30.00 bitrate= 396.1kbits/s speed=2.77x    frame=   31 fps=2.7 q=2.0 size=    1460kB time=00:00:31.00 bitrate= 385.9kbits/s speed=2.73x    frame=   33 fps=2.7 q=2.0 size=    1467kB time=00:00:33.00 bitrate= 364.3kbits/s speed=2.73x    frame=   35 fps=2.7 q=2.0 size=    1479kB time=00:00:35.00 bitrate= 346.1kbits/s speed=2.72x    frame=   37 fps=2.7 q=1.6 size=    1490kB time=00:00:37.00 bitrate= 329.8kbits/s speed=2.67x    frame=   39 fps=2.7 q=2.0 size=    1933kB time=00:00:39.00 bitrate= 406.1kbits/s speed=2.72x    frame=   40 fps=2.7 q=2.0 size=    1939kB time=00:00:40.00 bitrate= 397.2kbits/s speed=2.69x    frame=   42 fps=2.7 q=2.0 size=    1950kB time=00:00:42.00 bitrate= 380.4kbits/s speed=2.69x    frame=   43 fps=2.7 q=2.0 size=    1958kB time=00:00:43.00 bitrate= 373.0kbits/s speed=2.67x    frame=   45 fps=2.7 q=2.0 size=    1967kB time=00:00:45.00 bitrate= 358.1kbits/s speed=2.67x    frame=   46 fps=2.7 q=2.0 size=    1975kB time=00:00:46.00 bitrate= 351.7kbits/s speed=2.65x    frame=   48 fps=2.7 q=2.0 size=    1983kB time=00:00:48.00 bitrate= 338.5kbits/s speed=2.65x    frame=   49 fps=2.6 q=1.6 size=    1991kB time=00:00:49.00 bitrate= 332.9kbits/s speed=2.63x    frame=   50 fps=2.6 q=2.0 size=    2430kB time=00:00:50.00 bitrate= 398.2kbits/s speed=2.62x    frame=   52 fps=2.6 q=2.0 size=    2438kB time=00:00:52.00 bitrate= 384.1kbits/s speed=2.62x    frame=   54 fps=2.7 q=2.0 size=    2449kB time=00:00:54.00 bitrate= 371.6kbits/s speed=2.65x    frame=   55 fps=2.6 q=2.0 size=    2455kB time=00:00:55.00 bitrate= 365.7kbits/s speed=2.61x    frame=   56 fps=2.6 q=2.0 size=    2461kB time=00:00:56.00 bitrate= 360.0kbits/s speed=2.59x    frame=   58 fps=2.6 q=2.0 size=    2472kB time=00:00:58.00 bitrate= 349.1kbits/s speed=2.59x    frame=   59 fps=2.6 q=2.0 size=    2480kB time=00:00:59.00 bitrate= 344.4kbits/s speed=2.58x    frame=   61 fps=2.6 q=1.6 size=    2488kB time=00:01:01.00 bitrate= 334.2kbits/s speed=2.58x    frame=   62 fps=2.6 q=2.0 size=    2932kB time=00:01:02.00 bitrate= 387.4kbits/s speed=2.57x    frame=   64 fps=2.6 q=2.0 size=    2938kB time=00:01:04.00 bitrate= 376.0kbits/s speed=2.57x    frame=   65 fps=2.6 q=2.0 size=    2944kB time=00:01:05.00 bitrate= 371.0kbits/s speed=2.56x    frame=   67 fps=2.6 q=2.0 size=    2954kB time=00:01:07.00 bitrate= 361.2kbits/s speed=2.57x    frame=   68 fps=2.5 q=2.0 size=    2960kB time=00:01:08.00 bitrate= 356.6kbits/s speed=2.53x    frame=   70 fps=2.5 q=2.0 size=    2971kB time=00:01:10.00 bitrate= 347.7kbits/s speed=2.54x    frame=   71 fps=2.5 q=2.0 size=    2980kB time=00:01:11.00 bitrate= 343.8kbits/s speed=2.53x    frame=   73 fps=2.5 q=1.6 size=    2988kB time=00:01:13.00 bitrate= 335.3kbits/s speed=2.53x    frame=   74 fps=2.5 q=2.0 size=    3428kB time=00:01:14.00 bitrate= 379.5kbits/s speed=2.52x    frame=   75 fps=2.5 q=2.0 size=    3437kB time=00:01:15.00 bitrate= 375.4kbits/s speed=2.51x    frame=   77 fps=2.5 q=2.0 size=    3443kB time=00:01:17.00 bitrate= 366.3kbits/s speed=2.52x    frame=   79 fps=2.5 q=2.0 size=    3454kB time=00:01:19.00 bitrate= 358.1kbits/s speed=2.52x    frame=   80 fps=2.5 q=2.0 size=    3460kB time=00:01:20.00 bitrate= 354.3kbits/s speed=2.51x    frame=   82 fps=2.5 q=2.0 size=    3470kB time=00:01:22.00 bitrate= 346.7kbits/s speed=2.52x    frame=   84 fps=2.5 q=2.0 size=    3482kB time=00:01:24.00 bitrate= 339.5kbits/s speed=2.52x    frame=   85 fps=2.5 q=1.6 size=    3487kB time=00:01:25.00 bitrate= 336.1kbits/s speed=2.51x    frame=   87 fps=2.5 q=2.0 size=    3931kB time=00:01:27.00 bitrate= 370.1kbits/s speed= 2.5x    frame=   88 fps=2.5 q=2.0 size=    3940kB time=00:01:28.00 bitrate= 366.8kbits/s speed=2.49x    frame=   90 fps=2.5 q=2.0 size=    3947kB time=00:01:30.00 bitrate= 359.3kbits/s speed=2.51x    frame=   92 fps=2.5 q=2.0 size=    3959kB time=00:01:32.00 bitrate= 352.5kbits/s speed= 2.5x    frame=   94 fps=2.5 q=2.0 size=    3970kB time=00:01:34.00 bitrate= 346.0kbits/s speed= 2.5x    frame=   95 fps=2.5 q=2.0 size=    3981kB time=00:01:35.00 bitrate= 343.3kbits/s speed=2.49x    frame=   97 fps=2.5 q=1.6 size=    3986kB time=00:01:37.00 bitrate= 336.7kbits/s speed= 2.5x    frame=   98 fps=2.5 q=2.0 size=    4425kB time=00:01:38.00 bitrate= 369.9kbits/s speed=2.49x    frame=  100 fps=2.5 q=2.0 size=    4436kB time=00:01:40.00 bitrate= 363.4kbits/s speed=2.49x    frame=  101 fps=2.5 q=2.0 size=    4443kB time=00:01:41.00 bitrate= 360.4kbits/s speed=2.49x    frame=  103 fps=2.5 q=2.0 size=    4452kB time=00:01:43.00 bitrate= 354.1kbits/s speed=2.49x    frame=  104 fps=2.5 q=2.0 size=    4462kB time=00:01:44.00 bitrate= 351.4kbits/s speed=2.49x    frame=  106 fps=2.5 q=2.0 size=    4469kB time=00:01:46.00 bitrate= 345.4kbits/s speed= 2.5x    frame=  107 fps=2.5 q=2.0 size=    4475kB time=00:01:47.00 bitrate= 342.6kbits/s speed= 2.5x    frame=  109 fps=2.5 q=1.6 size=    4486kB time=00:01:49.00 bitrate= 337.1kbits/s speed=2.49x    frame=  110 fps=2.5 q=2.0 size=    4927kB time=00:01:50.00 bitrate= 366.9kbits/s speed=2.48x    frame=  112 fps=2.5 q=2.0 size=    4935kB time=00:01:52.00 bitrate= 361.0kbits/s speed=2.48x    frame=  113 fps=2.5 q=2.0 Lsize=    5014kB time=00:01:53.00 bitrate= 363.5kbits/s speed=2.46x    
+video:4462kB audio:437kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.346417%
+Failed to get connection
+** (inkscape:1112): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1112): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1112): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Leo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2514    0     0  100  2514      0   1528  0:00:01  0:00:01 --:--:--  1527100  2514    0     0  100  2514      0    949  0:00:02  0:00:02 --:--:--   949100  2514    0     0  100  2514      0    689  0:00:03  0:00:03 --:--:--   689100  2514    0     0  100  2514      0    540  0:00:04  0:00:04 --:--:--   540100 14799  100 12285  100  2514   2485    508  0:00:04  0:00:04 --:--:--  2564
+Failed to get connection
+** (inkscape:1118): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1118): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1118): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/leo_semanal.png
+106.475
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/leo.mp3':
+  Duration: 00:01:46.48, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.600000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/leo_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.23 fps, 0.23 tbr, 0.23 tbn, 0.23 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/leo_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    1 fps=0.9 q=11.0 size=      10kB time=00:00:01.00 bitrate=  80.0kbits/s speed=0.945x    frame=    2 fps=1.3 q=2.0 size=     153kB time=00:00:02.00 bitrate= 625.0kbits/s speed=1.28x    frame=    4 fps=1.9 q=2.0 size=     424kB time=00:00:04.00 bitrate= 867.5kbits/s speed=1.92x    frame=    5 fps=1.9 q=2.0 size=     433kB time=00:00:05.00 bitrate= 710.1kbits/s speed=1.93x    frame=    7 fps=2.1 q=2.0 size=     442kB time=00:00:07.00 bitrate= 517.5kbits/s speed= 2.1x    frame=    8 fps=2.0 q=2.0 size=     448kB time=00:00:08.00 bitrate= 458.4kbits/s speed=1.97x    frame=   10 fps=2.1 q=2.0 size=     459kB time=00:00:10.00 bitrate= 375.6kbits/s speed=2.07x    frame=   12 fps=2.2 q=2.0 size=     469kB time=00:00:12.00 bitrate= 320.4kbits/s speed=2.16x    frame=   13 fps=2.1 q=1.6 size=     477kB time=00:00:13.00 bitrate= 300.3kbits/s speed=2.14x    frame=   14 fps=2.1 q=2.0 size=     898kB time=00:00:14.00 bitrate= 525.6kbits/s speed=2.13x    frame=   16 fps=2.2 q=2.0 size=     906kB time=00:00:16.00 bitrate= 463.9kbits/s speed=2.19x    frame=   17 fps=2.2 q=2.0 size=     915kB time=00:00:17.00 bitrate= 441.0kbits/s speed=2.17x    frame=   19 fps=2.2 q=2.0 size=     923kB time=00:00:19.00 bitrate= 397.9kbits/s speed=2.22x    frame=   20 fps=2.2 q=2.0 size=     932kB time=00:00:20.00 bitrate= 381.8kbits/s speed=2.21x    frame=   22 fps=2.2 q=2.0 size=     939kB time=00:00:22.00 bitrate= 349.8kbits/s speed=2.24x    frame=   23 fps=2.2 q=2.0 size=     948kB time=00:00:23.00 bitrate= 337.6kbits/s speed=2.23x    frame=   25 fps=2.3 q=1.6 size=     956kB time=00:00:25.00 bitrate= 313.3kbits/s speed=2.26x    frame=   26 fps=2.2 q=2.0 size=    1379kB time=00:00:26.00 bitrate= 434.6kbits/s speed=2.25x    frame=   28 fps=2.3 q=2.0 size=    1387kB time=00:00:28.00 bitrate= 405.9kbits/s speed=2.27x    frame=   30 fps=2.3 q=2.0 size=    1398kB time=00:00:30.00 bitrate= 381.9kbits/s speed= 2.3x    frame=   32 fps=2.3 q=2.0 size=    1410kB time=00:00:32.00 bitrate= 360.8kbits/s speed=2.31x    frame=   33 fps=2.3 q=2.0 size=    1417kB time=00:00:33.00 bitrate= 351.7kbits/s speed= 2.3x    frame=   34 fps=2.3 q=2.0 size=    1423kB time=00:00:34.00 bitrate= 342.7kbits/s speed=2.29x    frame=   36 fps=2.3 q=2.0 size=    1432kB time=00:00:36.00 bitrate= 325.8kbits/s speed=2.31x    frame=   37 fps=2.3 q=1.6 size=    1437kB time=00:00:37.00 bitrate= 318.2kbits/s speed= 2.3x    frame=   39 fps=2.3 q=2.0 size=    1863kB time=00:00:39.00 bitrate= 391.3kbits/s speed=2.32x    frame=   40 fps=2.3 q=2.0 size=    1872kB time=00:00:40.00 bitrate= 383.4kbits/s speed=2.31x    frame=   42 fps=2.3 q=2.0 size=    1880kB time=00:00:42.00 bitrate= 366.6kbits/s speed=2.33x    frame=   43 fps=2.3 q=2.0 size=    1885kB time=00:00:43.00 bitrate= 359.1kbits/s speed=2.32x    frame=   45 fps=2.4 q=2.0 size=    1896kB time=00:00:45.00 bitrate= 345.2kbits/s speed=2.36x    frame=   46 fps=2.3 q=2.0 size=    1902kB time=00:00:46.00 bitrate= 338.7kbits/s speed=2.35x    frame=   48 fps=2.3 q=2.0 size=    1913kB time=00:00:48.00 bitrate= 326.4kbits/s speed=2.33x    frame=   49 fps=2.3 q=1.6 size=    1922kB time=00:00:49.00 bitrate= 321.3kbits/s speed=2.33x    frame=   51 fps=2.3 q=2.0 size=    2344kB time=00:00:51.00 bitrate= 376.5kbits/s speed=2.34x    frame=   52 fps=2.3 q=2.0 size=    2354kB time=00:00:52.00 bitrate= 370.8kbits/s speed=2.33x    frame=   54 fps=2.4 q=2.0 size=    2361kB time=00:00:54.00 bitrate= 358.1kbits/s speed=2.36x    frame=   55 fps=2.3 q=2.0 size=    2368kB time=00:00:55.00 bitrate= 352.7kbits/s speed=2.33x    frame=   56 fps=2.3 q=2.0 size=    2375kB time=00:00:56.00 bitrate= 347.5kbits/s speed=2.33x    frame=   58 fps=2.4 q=2.0 size=    2383kB time=00:00:58.00 bitrate= 336.6kbits/s speed=2.36x    frame=   60 fps=2.3 q=2.0 size=    2394kB time=00:01:00.00 bitrate= 326.9kbits/s speed=2.35x    frame=   62 fps=2.4 q=2.0 size=    2819kB time=00:01:02.00 bitrate= 372.5kbits/s speed=2.35x    frame=   63 fps=2.3 q=2.0 size=    2827kB time=00:01:03.00 bitrate= 367.6kbits/s speed=2.35x    frame=   65 fps=2.4 q=2.0 size=    2836kB time=00:01:05.00 bitrate= 357.5kbits/s speed=2.36x    frame=   66 fps=2.4 q=2.0 size=    2844kB time=00:01:06.00 bitrate= 353.0kbits/s speed=2.35x    frame=   68 fps=2.4 q=2.0 size=    2853kB time=00:01:08.00 bitrate= 343.7kbits/s speed=2.36x    frame=   69 fps=2.4 q=2.0 size=    2861kB time=00:01:09.00 bitrate= 339.6kbits/s speed=2.35x    frame=   70 fps=2.3 q=2.0 size=    2868kB time=00:01:10.00 bitrate= 335.7kbits/s speed=2.35x    frame=   72 fps=2.4 q=2.0 size=    2875kB time=00:01:12.00 bitrate= 327.1kbits/s speed=2.36x    frame=   73 fps=2.3 q=1.6 size=    2881kB time=00:01:13.00 bitrate= 323.3kbits/s speed=2.35x    frame=   74 fps=2.3 q=2.0 size=    3303kB time=00:01:14.00 bitrate= 365.7kbits/s speed=2.34x    frame=   76 fps=2.4 q=2.0 size=    3312kB time=00:01:16.00 bitrate= 357.0kbits/s speed=2.37x    frame=   78 fps=2.4 q=2.0 size=    3323kB time=00:01:18.00 bitrate= 349.0kbits/s speed=2.38x    frame=   79 fps=2.4 q=2.0 size=    3330kB time=00:01:19.00 bitrate= 345.3kbits/s speed=2.37x    frame=   80 fps=2.4 q=2.0 size=    3336kB time=00:01:20.00 bitrate= 341.6kbits/s speed=2.36x    frame=   82 fps=2.4 q=2.0 size=    3345kB time=00:01:22.00 bitrate= 334.2kbits/s speed=2.37x    frame=   83 fps=2.4 q=2.0 size=    3351kB time=00:01:23.00 bitrate= 330.7kbits/s speed=2.37x    frame=   84 fps=2.4 q=2.0 size=    3360kB time=00:01:24.00 bitrate= 327.7kbits/s speed=2.36x    frame=   86 fps=2.4 q=2.0 size=    3782kB time=00:01:26.00 bitrate= 360.2kbits/s speed=2.37x    frame=   87 fps=2.4 q=2.0 size=    3791kB time=00:01:27.00 bitrate= 357.0kbits/s speed=2.36x    frame=   89 fps=2.4 q=2.0 size=    3799kB time=00:01:29.00 bitrate= 349.7kbits/s speed=2.37x    frame=   90 fps=2.4 q=2.0 size=    3808kB time=00:01:30.00 bitrate= 346.6kbits/s speed=2.36x    frame=   91 fps=2.4 q=2.0 size=    3810kB time=00:01:31.00 bitrate= 343.0kbits/s speed=2.36x    frame=   93 fps=2.4 q=2.0 size=    3821kB time=00:01:33.00 bitrate= 336.6kbits/s speed=2.37x    frame=   95 fps=2.4 q=2.0 size=    3832kB time=00:01:35.00 bitrate= 330.4kbits/s speed=2.38x    frame=   96 fps=2.4 q=2.0 size=    3840kB time=00:01:36.00 bitrate= 327.6kbits/s speed=2.37x    frame=   97 fps=2.4 q=1.6 size=    3843kB time=00:01:37.00 bitrate= 324.6kbits/s speed=2.36x    frame=   98 fps=2.4 q=2.0 size=    4264kB time=00:01:38.00 bitrate= 356.5kbits/s speed=2.36x    frame=  100 fps=2.4 q=2.0 size=    4274kB time=00:01:40.00 bitrate= 350.2kbits/s speed=2.36x    frame=  102 fps=2.4 q=2.0 size=    4286kB time=00:01:42.00 bitrate= 344.2kbits/s speed=2.37x    frame=  103 fps=2.4 q=2.0 size=    4291kB time=00:01:43.00 bitrate= 341.3kbits/s speed=2.36x    frame=  105 fps=2.4 q=2.0 size=    4302kB time=00:01:45.00 bitrate= 335.6kbits/s speed=2.37x    frame=  106 fps=2.4 q=2.0 size=    4311kB time=00:01:46.00 bitrate= 333.1kbits/s speed=2.36x    frame=  107 fps=2.4 q=2.0 size=    4314kB time=00:01:47.00 bitrate= 330.3kbits/s speed=2.36x    frame=  108 fps=2.3 q=2.0 Lsize=    4387kB time=00:01:48.00 bitrate= 332.8kbits/s speed=2.34x    
+video:3861kB audio:416kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.568709%
+Failed to get connection
+** (inkscape:1143): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1143): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1143): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Virgo.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2695    0     0  100  2695      0   1548  0:00:01  0:00:01 --:--:--  1548100  2695    0     0  100  2695      0    983  0:00:02  0:00:02 --:--:--   983100  2695    0     0  100  2695      0    720  0:00:03  0:00:03 --:--:--   720100  2695    0     0  100  2695      0    568  0:00:04  0:00:04 --:--:--   568 70 14996   62  7739  100  2695   1504    523  0:00:08  0:00:05  0:00:03  1504100 14996  100 12301  100  2695   2336    511  0:00:05  0:00:05 --:--:--  2724
+Failed to get connection
+** (inkscape:1154): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1154): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1154): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/virgo_semanal.png
+110.21
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/virgo.mp3':
+  Duration: 00:01:50.21, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.800000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/virgo_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.23 fps, 0.23 tbr, 0.23 tbn, 0.23 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/virgo_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    5 fps=0.0 q=2.0 size=     439kB time=00:00:05.00 bitrate= 719.4kbits/s speed=7.54x    frame=    7 fps=4.9 q=2.0 size=     451kB time=00:00:07.00 bitrate= 527.3kbits/s speed=4.94x    frame=    8 fps=4.2 q=2.0 size=     460kB time=00:00:08.00 bitrate= 471.1kbits/s speed=4.17x    frame=   10 fps=3.8 q=2.0 size=     467kB time=00:00:10.00 bitrate= 382.8kbits/s speed=3.76x    frame=   11 fps=3.5 q=2.0 size=     474kB time=00:00:11.00 bitrate= 353.3kbits/s speed=3.48x    frame=   12 fps=3.3 q=2.0 size=     482kB time=00:00:12.00 bitrate= 328.8kbits/s speed=3.28x    frame=   14 fps=3.2 q=2.0 size=     912kB time=00:00:14.00 bitrate= 533.5kbits/s speed=3.18x    frame=   15 fps=3.1 q=2.0 size=     918kB time=00:00:15.00 bitrate= 501.4kbits/s speed=3.05x    frame=   17 fps=3.0 q=2.0 size=     930kB time=00:00:17.00 bitrate= 447.9kbits/s speed=3.01x    frame=   18 fps=2.9 q=2.0 size=     939kB time=00:00:18.00 bitrate= 427.3kbits/s speed=2.92x    frame=   20 fps=2.9 q=2.0 size=     947kB time=00:00:20.00 bitrate= 387.7kbits/s speed= 2.9x    frame=   21 fps=2.8 q=2.0 size=     955kB time=00:00:21.00 bitrate= 372.4kbits/s speed=2.84x    frame=   23 fps=2.8 q=2.0 size=     963kB time=00:00:23.00 bitrate= 343.2kbits/s speed=2.82x    frame=   25 fps=2.7 q=1.6 size=     975kB time=00:00:25.00 bitrate= 319.4kbits/s speed=2.74x    frame=   26 fps=2.7 q=2.0 size=    1406kB time=00:00:26.00 bitrate= 443.0kbits/s speed= 2.7x    frame=   28 fps=2.7 q=2.0 size=    1415kB time=00:00:28.00 bitrate= 413.9kbits/s speed= 2.7x    frame=   30 fps=2.7 q=2.0 size=    1426kB time=00:00:30.00 bitrate= 389.4kbits/s speed=2.69x    frame=   31 fps=2.7 q=2.0 size=    1435kB time=00:00:31.00 bitrate= 379.3kbits/s speed=2.66x    frame=   33 fps=2.7 q=2.0 size=    1443kB time=00:00:33.00 bitrate= 358.2kbits/s speed=2.71x    frame=   35 fps=2.7 q=2.0 size=    1454kB time=00:00:35.00 bitrate= 340.4kbits/s speed=2.66x    frame=   36 fps=2.6 q=2.0 size=    1461kB time=00:00:36.00 bitrate= 332.4kbits/s speed=2.64x    frame=   37 fps=2.6 q=1.6 size=    1468kB time=00:00:37.00 bitrate= 325.0kbits/s speed=2.62x    frame=   39 fps=2.7 q=2.0 size=    1900kB time=00:00:39.00 bitrate= 399.0kbits/s speed=2.66x    frame=   41 fps=2.7 q=2.0 size=    1911kB time=00:00:41.00 bitrate= 381.8kbits/s speed=2.66x    frame=   43 fps=2.6 q=2.0 size=    1922kB time=00:00:43.00 bitrate= 366.2kbits/s speed=2.62x    frame=   45 fps=2.6 q=2.0 size=    1934kB time=00:00:45.00 bitrate= 352.0kbits/s speed=2.62x    frame=   46 fps=2.6 q=2.0 size=    1940kB time=00:00:46.00 bitrate= 345.5kbits/s speed=2.61x    frame=   48 fps=2.6 q=2.0 size=    1951kB time=00:00:48.00 bitrate= 332.9kbits/s speed=2.61x    frame=   49 fps=2.6 q=1.6 size=    1956kB time=00:00:49.00 bitrate= 327.1kbits/s speed=2.59x    frame=   50 fps=2.6 q=2.0 size=    2386kB time=00:00:50.00 bitrate= 390.9kbits/s speed=2.58x    frame=   52 fps=2.6 q=2.0 size=    2396kB time=00:00:52.00 bitrate= 377.5kbits/s speed=2.61x    frame=   54 fps=2.6 q=2.0 size=    2408kB time=00:00:54.00 bitrate= 365.2kbits/s speed=2.61x    frame=   55 fps=2.6 q=2.0 size=    2416kB time=00:00:55.00 bitrate= 359.9kbits/s speed= 2.6x    frame=   56 fps=2.6 q=2.0 size=    2422kB time=00:00:56.00 bitrate= 354.3kbits/s speed=2.59x    frame=   58 fps=2.6 q=2.0 size=    2430kB time=00:00:58.00 bitrate= 343.2kbits/s speed=2.59x    frame=   59 fps=2.6 q=2.0 size=    2438kB time=00:00:59.00 bitrate= 338.5kbits/s speed=2.58x    frame=   61 fps=2.6 q=1.6 size=    2447kB time=00:01:01.00 bitrate= 328.7kbits/s speed=2.58x    frame=   63 fps=2.6 q=2.0 size=    2881kB time=00:01:03.00 bitrate= 374.7kbits/s speed=2.58x    frame=   64 fps=2.6 q=2.0 size=    2887kB time=00:01:04.00 bitrate= 369.5kbits/s speed=2.57x    frame=   66 fps=2.6 q=2.0 size=    2898kB time=00:01:06.00 bitrate= 359.7kbits/s speed=2.57x    frame=   67 fps=2.6 q=2.0 size=    2905kB time=00:01:07.00 bitrate= 355.2kbits/s speed=2.56x    frame=   69 fps=2.6 q=2.0 size=    2915kB time=00:01:09.00 bitrate= 346.1kbits/s speed=2.56x    frame=   70 fps=2.6 q=2.0 size=    2923kB time=00:01:10.00 bitrate= 342.1kbits/s speed=2.55x    frame=   72 fps=2.6 q=2.0 size=    2932kB time=00:01:12.00 bitrate= 333.6kbits/s speed=2.56x    frame=   73 fps=2.5 q=1.6 size=    2940kB time=00:01:13.00 bitrate= 329.9kbits/s speed=2.55x    frame=   75 fps=2.6 q=2.0 size=    3372kB time=00:01:15.00 bitrate= 368.3kbits/s speed=2.55x    frame=   77 fps=2.6 q=2.0 size=    3384kB time=00:01:17.00 bitrate= 360.0kbits/s speed=2.55x    frame=   79 fps=2.6 q=2.0 size=    3395kB time=00:01:19.00 bitrate= 352.0kbits/s speed=2.56x    frame=   80 fps=2.5 q=2.0 size=    3403kB time=00:01:20.00 bitrate= 348.5kbits/s speed=2.55x    frame=   81 fps=2.5 q=2.0 size=    3408kB time=00:01:21.00 bitrate= 344.7kbits/s speed=2.54x    frame=   83 fps=2.5 q=2.0 size=    3417kB time=00:01:23.00 bitrate= 337.3kbits/s speed=2.54x    frame=   85 fps=2.5 q=1.6 size=    3429kB time=00:01:25.00 bitrate= 330.5kbits/s speed=2.53x    frame=   87 fps=2.5 q=2.0 size=    3863kB time=00:01:27.00 bitrate= 363.7kbits/s speed=2.55x    frame=   88 fps=2.5 q=2.0 size=    3869kB time=00:01:28.00 bitrate= 360.1kbits/s speed=2.52x    frame=   90 fps=2.5 q=2.0 size=    3880kB time=00:01:30.00 bitrate= 353.2kbits/s speed=2.52x    frame=   92 fps=2.5 q=2.0 size=    3891kB time=00:01:32.00 bitrate= 346.5kbits/s speed=2.53x    frame=   94 fps=2.5 q=2.0 size=    3903kB time=00:01:34.00 bitrate= 340.1kbits/s speed=2.53x    frame=   95 fps=2.5 q=2.0 size=    3910kB time=00:01:35.00 bitrate= 337.2kbits/s speed=2.52x    frame=   97 fps=2.5 q=1.6 size=    3920kB time=00:01:37.00 bitrate= 331.0kbits/s speed=2.51x    frame=   99 fps=2.5 q=2.0 size=    4354kB time=00:01:39.00 bitrate= 360.3kbits/s speed=2.53x    frame=  100 fps=2.5 q=2.0 size=    4360kB time=00:01:40.00 bitrate= 357.1kbits/s speed=2.52x    frame=  101 fps=2.5 q=2.0 size=    4369kB time=00:01:41.00 bitrate= 354.4kbits/s speed=2.51x    frame=  102 fps=2.5 q=2.0 size=    4375kB time=00:01:42.00 bitrate= 351.4kbits/s speed=2.51x    frame=  104 fps=2.5 q=2.0 size=    4382kB time=00:01:44.00 bitrate= 345.2kbits/s speed=2.51x    frame=  105 fps=2.5 q=2.0 size=    4390kB time=00:01:45.00 bitrate= 342.5kbits/s speed=2.51x    frame=  107 fps=2.5 q=2.0 size=    4399kB time=00:01:47.00 bitrate= 336.8kbits/s speed=2.51x    frame=  109 fps=2.5 q=1.6 size=    4411kB time=00:01:49.00 bitrate= 331.5kbits/s speed= 2.5x    frame=  111 fps=2.5 q=2.0 size=    4844kB time=00:01:51.00 bitrate= 357.5kbits/s speed= 2.5x    frame=  111 fps=2.5 q=2.0 Lsize=    4918kB time=00:01:51.00 bitrate= 363.0kbits/s speed=2.47x    
+video:4374kB audio:431kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.358545%
+Failed to get connection
+** (inkscape:1178): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1178): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1178): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Libra.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2637    0     0  100  2637      0   4107 --:--:-- --:--:-- --:--:--  4107100  2637    0     0  100  2637      0   1604  0:00:01  0:00:01 --:--:--  1604100  2637    0     0  100  2637      0    996  0:00:02  0:00:02 --:--:--   996100  2637    0     0  100  2637      0    723  0:00:03  0:00:03 --:--:--   723100 14965  100 12328  100  2637   2650    567  0:00:04  0:00:04 --:--:--  2650100 14965  100 12328  100  2637   2650    567  0:00:04  0:00:04 --:--:--  2417
+Failed to get connection
+** (inkscape:1185): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1185): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1185): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/libra_semanal.png
+112.509
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/libra.mp3':
+  Duration: 00:01:52.51, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.700000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/libra_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.22 fps, 0.22 tbr, 0.22 tbn, 0.22 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/libra_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    2 fps=0.0 q=2.0 size=     153kB time=00:00:02.00 bitrate= 626.5kbits/s speed=3.31x    frame=    3 fps=2.2 q=2.0 size=     416kB time=00:00:03.00 bitrate=1134.7kbits/s speed= 2.2x    frame=    4 fps=2.1 q=2.0 size=     437kB time=00:00:04.00 bitrate= 895.1kbits/s speed=2.15x    frame=    6 fps=2.5 q=2.0 size=     447kB time=00:00:06.00 bitrate= 610.2kbits/s speed=2.52x    frame=    8 fps=2.6 q=2.0 size=     458kB time=00:00:08.00 bitrate= 468.7kbits/s speed=2.56x    frame=    9 fps=2.5 q=2.0 size=     463kB time=00:00:09.00 bitrate= 421.6kbits/s speed=2.48x    frame=   10 fps=2.4 q=2.0 size=     472kB time=00:00:10.00 bitrate= 387.0kbits/s speed=2.42x    frame=   12 fps=2.5 q=2.0 size=     479kB time=00:00:12.00 bitrate= 327.3kbits/s speed=2.46x    frame=   13 fps=2.3 q=1.6 size=     485kB time=00:00:13.00 bitrate= 305.6kbits/s speed=2.32x    frame=   15 fps=2.4 q=2.0 size=     922kB time=00:00:15.00 bitrate= 503.5kbits/s speed=2.45x    frame=   16 fps=2.4 q=2.0 size=     928kB time=00:00:16.00 bitrate= 475.2kbits/s speed=2.41x    frame=   18 fps=2.4 q=2.0 size=     939kB time=00:00:18.00 bitrate= 427.3kbits/s speed=2.37x    frame=   19 fps=2.3 q=2.0 size=     948kB time=00:00:19.00 bitrate= 408.9kbits/s speed=2.34x    frame=   21 fps=2.4 q=2.0 size=     956kB time=00:00:21.00 bitrate= 372.8kbits/s speed=2.44x    frame=   22 fps=2.4 q=2.0 size=     961kB time=00:00:22.00 bitrate= 358.0kbits/s speed=2.41x    frame=   24 fps=2.4 q=2.0 size=     973kB time=00:00:24.00 bitrate= 332.0kbits/s speed=2.43x    frame=   25 fps=2.4 q=1.6 size=     982kB time=00:00:25.00 bitrate= 321.6kbits/s speed=2.41x    frame=   27 fps=2.4 q=2.0 size=    1415kB time=00:00:27.00 bitrate= 429.4kbits/s speed=2.43x    frame=   28 fps=2.4 q=2.0 size=    1421kB time=00:00:28.00 bitrate= 415.7kbits/s speed=2.41x    frame=   30 fps=2.4 q=2.0 size=    1432kB time=00:00:30.00 bitrate= 391.1kbits/s speed=2.38x    frame=   32 fps=2.4 q=2.0 size=    1443kB time=00:00:32.00 bitrate= 369.5kbits/s speed=2.39x    frame=   33 fps=2.4 q=2.0 size=    1451kB time=00:00:33.00 bitrate= 360.1kbits/s speed=2.38x    frame=   35 fps=2.4 q=2.0 size=    1460kB time=00:00:35.00 bitrate= 341.8kbits/s speed=2.43x    frame=   36 fps=2.4 q=2.0 size=    1470kB time=00:00:36.00 bitrate= 334.4kbits/s speed=2.42x    frame=   37 fps=2.4 q=1.6 size=    1475kB time=00:00:37.00 bitrate= 326.6kbits/s speed=2.37x    frame=   39 fps=2.4 q=2.0 size=    1908kB time=00:00:39.00 bitrate= 400.9kbits/s speed=2.42x    frame=   40 fps=2.4 q=2.0 size=    1917kB time=00:00:40.00 bitrate= 392.6kbits/s speed=2.41x    frame=   42 fps=2.4 q=2.0 size=    1925kB time=00:00:42.00 bitrate= 375.5kbits/s speed=2.42x    frame=   43 fps=2.4 q=2.0 size=    1936kB time=00:00:43.00 bitrate= 368.9kbits/s speed=2.41x    frame=   45 fps=2.4 q=2.0 size=    1942kB time=00:00:45.00 bitrate= 353.6kbits/s speed=2.42x    frame=   46 fps=2.4 q=2.0 size=    1948kB time=00:00:46.00 bitrate= 346.9kbits/s speed=2.41x    frame=   47 fps=2.4 q=2.0 size=    1957kB time=00:00:47.00 bitrate= 341.0kbits/s speed= 2.4x    frame=   49 fps=2.4 q=1.6 size=    1965kB time=00:00:49.00 bitrate= 328.5kbits/s speed=2.41x    frame=   50 fps=2.4 q=2.0 size=    2399kB time=00:00:50.00 bitrate= 393.1kbits/s speed= 2.4x    frame=   51 fps=2.4 q=2.0 size=    2402kB time=00:00:51.00 bitrate= 385.8kbits/s speed=2.39x    frame=   53 fps=2.4 q=2.0 size=    2413kB time=00:00:53.00 bitrate= 373.0kbits/s speed= 2.4x    frame=   55 fps=2.4 q=2.0 size=    2424kB time=00:00:55.00 bitrate= 361.1kbits/s speed=2.41x    frame=   56 fps=2.4 q=2.0 size=    2432kB time=00:00:56.00 bitrate= 355.7kbits/s speed= 2.4x    frame=   58 fps=2.4 q=2.0 size=    2441kB time=00:00:58.00 bitrate= 344.8kbits/s speed= 2.4x    frame=   60 fps=2.4 q=2.0 size=    2452kB time=00:01:00.00 bitrate= 334.8kbits/s speed=2.41x    frame=   61 fps=2.4 q=1.6 size=    2458kB time=00:01:01.00 bitrate= 330.1kbits/s speed= 2.4x    frame=   63 fps=2.4 q=2.0 size=    2895kB time=00:01:03.00 bitrate= 376.4kbits/s speed=2.41x    frame=   65 fps=2.4 q=2.0 size=    2906kB time=00:01:05.00 bitrate= 366.3kbits/s speed=2.42x    frame=   66 fps=2.4 q=2.0 size=    2912kB time=00:01:06.00 bitrate= 361.4kbits/s speed=2.41x    frame=   68 fps=2.4 q=2.0 size=    2923kB time=00:01:08.00 bitrate= 352.1kbits/s speed=2.42x    frame=   69 fps=2.4 q=2.0 size=    2929kB time=00:01:09.00 bitrate= 347.8kbits/s speed=2.41x    frame=   71 fps=2.4 q=2.0 size=    2940kB time=00:01:11.00 bitrate= 339.2kbits/s speed=2.42x    frame=   73 fps=2.4 q=1.6 size=    2951kB time=00:01:13.00 bitrate= 331.2kbits/s speed= 2.4x    frame=   75 fps=2.4 q=2.0 size=    3388kB time=00:01:15.00 bitrate= 370.1kbits/s speed=2.41x    frame=   77 fps=2.4 q=2.0 size=    3399kB time=00:01:17.00 bitrate= 361.7kbits/s speed=2.42x    frame=   78 fps=2.4 q=2.0 size=    3405kB time=00:01:18.00 bitrate= 357.6kbits/s speed=2.41x    frame=   79 fps=2.4 q=2.0 size=    3413kB time=00:01:19.00 bitrate= 354.0kbits/s speed= 2.4x    frame=   81 fps=2.4 q=2.0 size=    3422kB time=00:01:21.00 bitrate= 346.1kbits/s speed=2.41x    frame=   82 fps=2.4 q=2.0 size=    3429kB time=00:01:22.00 bitrate= 342.6kbits/s speed= 2.4x    frame=   84 fps=2.4 q=2.0 size=    3439kB time=00:01:24.00 bitrate= 335.4kbits/s speed=2.43x    frame=   85 fps=2.4 q=1.6 size=    3444kB time=00:01:25.00 bitrate= 331.9kbits/s speed= 2.4x    frame=   87 fps=2.4 q=2.0 size=    3881kB time=00:01:27.00 bitrate= 365.5kbits/s speed=2.41x    frame=   89 fps=2.4 q=2.0 size=    3893kB time=00:01:29.00 bitrate= 358.3kbits/s speed=2.41x    frame=   91 fps=2.4 q=2.0 size=    3904kB time=00:01:31.00 bitrate= 351.4kbits/s speed=2.42x    frame=   93 fps=2.4 q=2.0 size=    3915kB time=00:01:33.00 bitrate= 344.9kbits/s speed=2.42x    frame=   94 fps=2.4 q=2.0 size=    3923kB time=00:01:34.00 bitrate= 341.9kbits/s speed=2.42x    frame=   96 fps=2.4 q=2.0 size=    3932kB time=00:01:36.00 bitrate= 335.5kbits/s speed=2.42x    frame=   97 fps=2.4 q=1.6 size=    3938kB time=00:01:37.00 bitrate= 332.5kbits/s speed=2.42x    frame=   99 fps=2.4 q=2.0 size=    4375kB time=00:01:39.00 bitrate= 362.0kbits/s speed=2.41x    frame=  101 fps=2.4 q=2.0 size=    4386kB time=00:01:41.00 bitrate= 355.7kbits/s speed=2.41x    frame=  103 fps=2.4 q=2.0 size=    4397kB time=00:01:43.00 bitrate= 349.7kbits/s speed=2.42x    frame=  105 fps=2.4 q=2.0 size=    4408kB time=00:01:45.00 bitrate= 343.9kbits/s speed=2.42x    frame=  107 fps=2.4 q=2.0 size=    4419kB time=00:01:47.00 bitrate= 338.4kbits/s speed=2.41x    frame=  109 fps=2.4 q=1.6 size=    4431kB time=00:01:49.00 bitrate= 333.0kbits/s speed=2.42x    frame=  111 fps=2.4 q=2.0 size=    4868kB time=00:01:51.00 bitrate= 359.3kbits/s speed=2.42x    frame=  112 fps=2.4 q=2.0 size=    4873kB time=00:01:52.00 bitrate= 356.5kbits/s speed=2.41x    frame=  114 fps=2.4 q=2.0 size=    4885kB time=00:01:54.00 bitrate= 351.0kbits/s speed=2.42x    frame=  114 fps=2.4 q=2.0 Lsize=    4957kB time=00:01:54.00 bitrate= 356.2kbits/s speed=2.39x    
+video:4402kB audio:439kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.385709%
+Failed to get connection
+** (inkscape:1216): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1216): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1216): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Escorpio.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1625    0     0  100  1625      0    966  0:00:01  0:00:01 --:--:--   966100  1625    0     0  100  1625      0    605  0:00:02  0:00:02 --:--:--   605100 13586  100 11961  100  1625   3551    482  0:00:03  0:00:03 --:--:--  3551100 13586  100 11961  100  1625   3551    482  0:00:03  0:00:03 --:--:--  3550
+Failed to get connection
+** (inkscape:1223): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1223): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1223): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/escorpio_semanal.png
+66.716
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/escorpio.mp3':
+  Duration: 00:01:06.72, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.800000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/escorpio_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.37 fps, 0.37 tbr, 0.37 tbn, 0.37 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/escorpio_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    1 fps=0.0 q=11.2 size=      10kB time=00:00:01.00 bitrate=  80.0kbits/s speed=1.01x    frame=    2 fps=1.3 q=2.0 size=     155kB time=00:00:02.00 bitrate= 635.0kbits/s speed=1.34x    frame=    4 fps=1.8 q=2.0 size=     434kB time=00:00:04.00 bitrate= 888.0kbits/s speed=1.78x    frame=    6 fps=2.0 q=2.0 size=     447kB time=00:00:06.00 bitrate= 610.1kbits/s speed=   2x    frame=    8 fps=2.1 q=2.0 size=     458kB time=00:00:08.00 bitrate= 468.9kbits/s speed=2.14x    frame=   10 fps=2.1 q=2.0 size=     469kB time=00:00:10.00 bitrate= 384.2kbits/s speed=2.11x    frame=   11 fps=2.1 q=2.0 size=     478kB time=00:00:11.00 bitrate= 356.1kbits/s speed= 2.1x    frame=   13 fps=2.2 q=1.6 size=     486kB time=00:00:13.00 bitrate= 306.0kbits/s speed=2.17x    frame=   14 fps=2.2 q=2.0 size=     917kB time=00:00:14.00 bitrate= 536.6kbits/s speed=2.16x    frame=   16 fps=2.2 q=2.0 size=     927kB time=00:00:16.00 bitrate= 474.7kbits/s speed=2.21x    frame=   18 fps=2.3 q=2.0 size=     938kB time=00:00:18.00 bitrate= 427.1kbits/s speed=2.26x    frame=   19 fps=2.2 q=2.0 size=     947kB time=00:00:19.00 bitrate= 408.5kbits/s speed=2.24x    frame=   21 fps=2.3 q=2.0 size=     955kB time=00:00:21.00 bitrate= 372.6kbits/s speed=2.34x    frame=   22 fps=2.3 q=2.0 size=     963kB time=00:00:22.00 bitrate= 358.6kbits/s speed=2.32x    frame=   23 fps=2.3 q=2.0 size=     968kB time=00:00:23.00 bitrate= 344.7kbits/s speed= 2.3x    frame=   25 fps=2.3 q=1.6 size=     977kB time=00:00:25.00 bitrate= 320.3kbits/s speed=2.33x    frame=   27 fps=2.3 q=2.0 size=    1414kB time=00:00:27.00 bitrate= 428.9kbits/s speed=2.35x    frame=   28 fps=2.3 q=2.0 size=    1421kB time=00:00:28.00 bitrate= 415.7kbits/s speed=2.33x    frame=   30 fps=2.4 q=2.0 size=    1430kB time=00:00:30.00 bitrate= 390.6kbits/s speed=2.35x    frame=   31 fps=2.3 q=2.0 size=    1438kB time=00:00:31.00 bitrate= 380.0kbits/s speed=2.34x    frame=   33 fps=2.4 q=2.0 size=    1447kB time=00:00:33.00 bitrate= 359.2kbits/s speed=2.36x    frame=   35 fps=2.4 q=2.0 size=    1458kB time=00:00:35.00 bitrate= 341.3kbits/s speed=2.37x    frame=   37 fps=2.4 q=1.6 size=    1469kB time=00:00:37.00 bitrate= 325.3kbits/s speed=2.35x    frame=   38 fps=2.3 q=2.0 size=    1900kB time=00:00:38.00 bitrate= 409.6kbits/s speed=2.34x    frame=   40 fps=2.4 q=2.0 size=    1911kB time=00:00:40.00 bitrate= 391.4kbits/s speed=2.39x    frame=   42 fps=2.4 q=2.0 size=    1922kB time=00:00:42.00 bitrate= 375.0kbits/s speed=2.37x    frame=   44 fps=2.4 q=2.0 size=    1934kB time=00:00:44.00 bitrate= 360.0kbits/s speed=2.38x    frame=   46 fps=2.4 q=2.0 size=    1945kB time=00:00:46.00 bitrate= 346.3kbits/s speed=2.39x    frame=   47 fps=2.4 q=2.0 size=    1954kB time=00:00:47.00 bitrate= 340.5kbits/s speed=2.38x    frame=   49 fps=2.4 q=1.6 size=    1961kB time=00:00:49.00 bitrate= 327.9kbits/s speed=2.39x    frame=   50 fps=2.4 q=2.0 size=    2394kB time=00:00:50.00 bitrate= 392.2kbits/s speed=2.36x    frame=   52 fps=2.4 q=2.0 size=    2403kB time=00:00:52.00 bitrate= 378.6kbits/s speed=2.39x    frame=   53 fps=2.4 q=2.0 size=    2413kB time=00:00:53.00 bitrate= 372.9kbits/s speed=2.38x    frame=   55 fps=2.4 q=2.0 size=    2420kB time=00:00:55.00 bitrate= 360.4kbits/s speed=2.39x    frame=   56 fps=2.4 q=2.0 size=    2428kB time=00:00:56.00 bitrate= 355.2kbits/s speed=2.38x    frame=   58 fps=2.4 q=2.0 size=    2437kB time=00:00:58.00 bitrate= 344.2kbits/s speed=2.39x    frame=   59 fps=2.4 q=2.0 size=    2445kB time=00:00:59.00 bitrate= 339.5kbits/s speed=2.38x    frame=   61 fps=2.4 q=1.6 size=    2453kB time=00:01:01.00 bitrate= 329.5kbits/s speed=2.37x    frame=   63 fps=2.4 q=2.0 size=    2890kB time=00:01:03.00 bitrate= 375.7kbits/s speed= 2.4x    frame=   64 fps=2.4 q=2.0 size=    2895kB time=00:01:04.00 bitrate= 370.6kbits/s speed=2.37x    frame=   66 fps=2.4 q=2.0 size=    2906kB time=00:01:06.00 bitrate= 360.7kbits/s speed=2.38x    frame=   68 fps=2.4 q=2.0 size=    2918kB time=00:01:08.00 bitrate= 351.5kbits/s speed=2.39x    frame=   68 fps=2.4 q=2.0 Lsize=    2962kB time=00:01:08.00 bitrate= 356.9kbits/s speed=2.37x    
+video:2629kB audio:261kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.508675%
+Failed to get connection
+** (inkscape:1247): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1247): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1247): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Sagitario.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1664    0     0  100  1664      0   1014  0:00:01  0:00:01 --:--:--  1014100  1664    0     0  100  1664      0    629  0:00:02  0:00:02 --:--:--   629100  1664    0     0  100  1664      0    456  0:00:03  0:00:03 --:--:--   456100 13656  100 11992  100  1664   3046    422  0:00:03  0:00:03 --:--:--  3045
+Failed to get connection
+** (inkscape:1258): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1258): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1258): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/sagitario_semanal.png
+70.582
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/sagitario.mp3':
+  Duration: 00:01:10.58, start: 0.050113, bitrate: 80 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 80 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.600000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/sagitario_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.35 fps, 0.35 tbr, 0.35 tbn, 0.35 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/sagitario_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    1 fps=1.0 q=11.3 size=      10kB time=00:00:01.00 bitrate=  80.0kbits/s speed=0.987x    frame=    3 fps=1.7 q=2.0 size=     423kB time=00:00:03.00 bitrate=1154.6kbits/s speed=1.71x    frame=    4 fps=1.8 q=2.0 size=     441kB time=00:00:04.00 bitrate= 904.0kbits/s speed=1.77x    frame=    5 fps=1.8 q=2.0 size=     452kB time=00:00:05.00 bitrate= 740.7kbits/s speed=1.81x    frame=    7 fps=2.0 q=2.0 size=     460kB time=00:00:07.00 bitrate= 538.3kbits/s speed=   2x    frame=    9 fps=2.1 q=2.0 size=     471kB time=00:00:09.00 bitrate= 428.7kbits/s speed=2.11x    frame=   11 fps=2.2 q=2.0 size=     482kB time=00:00:11.00 bitrate= 359.0kbits/s speed=2.19x    frame=   12 fps=2.2 q=2.0 size=     489kB time=00:00:12.00 bitrate= 334.0kbits/s speed=2.18x    frame=   13 fps=2.2 q=1.6 size=     493kB time=00:00:13.00 bitrate= 310.8kbits/s speed=2.16x    frame=   15 fps=2.2 q=2.0 size=     939kB time=00:00:15.00 bitrate= 512.6kbits/s speed=2.22x    frame=   16 fps=2.2 q=2.0 size=     948kB time=00:00:16.00 bitrate= 485.3kbits/s speed= 2.2x    frame=   18 fps=2.2 q=2.0 size=     956kB time=00:00:18.00 bitrate= 434.9kbits/s speed=2.25x    frame=   19 fps=2.2 q=2.0 size=     965kB time=00:00:19.00 bitrate= 415.9kbits/s speed=2.23x    frame=   21 fps=2.3 q=2.0 size=     972kB time=00:00:21.00 bitrate= 379.4kbits/s speed=2.27x    frame=   22 fps=2.3 q=2.0 size=     983kB time=00:00:22.00 bitrate= 366.2kbits/s speed=2.25x    frame=   24 fps=2.3 q=2.0 size=     989kB time=00:00:24.00 bitrate= 337.7kbits/s speed=2.28x    frame=   26 fps=2.4 q=2.0 size=    1434kB time=00:00:26.00 bitrate= 451.8kbits/s speed=2.36x    frame=   27 fps=2.3 q=2.0 size=    1440kB time=00:00:27.00 bitrate= 437.1kbits/s speed= 2.3x    frame=   28 fps=2.3 q=2.0 size=    1447kB time=00:00:28.00 bitrate= 423.2kbits/s speed=2.29x    frame=   30 fps=2.3 q=2.0 size=    1457kB time=00:00:30.00 bitrate= 398.0kbits/s speed=2.31x    frame=   32 fps=2.3 q=2.0 size=    1469kB time=00:00:32.00 bitrate= 376.0kbits/s speed=2.33x    frame=   34 fps=2.3 q=2.0 size=    1480kB time=00:00:34.00 bitrate= 356.6kbits/s speed=2.34x    frame=   36 fps=2.4 q=2.0 size=    1491kB time=00:00:36.00 bitrate= 339.3kbits/s speed= 2.4x    frame=   37 fps=2.3 q=1.6 size=    1497kB time=00:00:37.00 bitrate= 331.4kbits/s speed=2.35x    frame=   39 fps=2.3 q=2.0 size=    1942kB time=00:00:39.00 bitrate= 408.0kbits/s speed=2.33x    frame=   41 fps=2.3 q=2.0 size=    1954kB time=00:00:41.00 bitrate= 390.3kbits/s speed=2.34x    frame=   42 fps=2.3 q=2.0 size=    1959kB time=00:00:42.00 bitrate= 382.2kbits/s speed=2.33x    frame=   44 fps=2.3 q=2.0 size=    1971kB time=00:00:44.00 bitrate= 366.9kbits/s speed=2.35x    frame=   45 fps=2.3 q=2.0 size=    1976kB time=00:00:45.00 bitrate= 359.8kbits/s speed=2.34x    frame=   47 fps=2.4 q=2.0 size=    1987kB time=00:00:47.00 bitrate= 346.4kbits/s speed=2.38x    frame=   48 fps=2.4 q=2.0 size=    1993kB time=00:00:48.00 bitrate= 340.2kbits/s speed=2.37x    frame=   49 fps=2.4 q=1.6 size=    1999kB time=00:00:49.00 bitrate= 334.2kbits/s speed=2.36x    frame=   51 fps=2.4 q=2.0 size=    2444kB time=00:00:51.00 bitrate= 392.6kbits/s speed=2.37x    frame=   52 fps=2.4 q=2.0 size=    2454kB time=00:00:52.00 bitrate= 386.6kbits/s speed=2.36x    frame=   54 fps=2.4 q=2.0 size=    2461kB time=00:00:54.00 bitrate= 373.4kbits/s speed=2.37x    frame=   55 fps=2.4 q=2.0 size=    2471kB time=00:00:55.00 bitrate= 368.0kbits/s speed=2.36x    frame=   57 fps=2.4 q=2.0 size=    2478kB time=00:00:57.00 bitrate= 356.2kbits/s speed=2.38x    frame=   58 fps=2.4 q=2.0 size=    2486kB time=00:00:58.00 bitrate= 351.1kbits/s speed=2.37x    frame=   60 fps=2.4 q=2.0 size=    2495kB time=00:01:00.00 bitrate= 340.7kbits/s speed= 2.4x    frame=   61 fps=2.4 q=1.6 size=    2501kB time=00:01:01.00 bitrate= 335.8kbits/s speed=2.37x    frame=   63 fps=2.4 q=2.0 size=    2946kB time=00:01:03.00 bitrate= 383.1kbits/s speed=2.38x    frame=   65 fps=2.4 q=2.0 size=    2957kB time=00:01:05.00 bitrate= 372.7kbits/s speed=2.38x    frame=   67 fps=2.4 q=2.0 size=    2969kB time=00:01:07.00 bitrate= 363.0kbits/s speed=2.37x    frame=   69 fps=2.4 q=2.0 size=    2980kB time=00:01:09.00 bitrate= 353.8kbits/s speed=2.38x    frame=   71 fps=2.4 q=2.0 size=    2991kB time=00:01:11.00 bitrate= 345.1kbits/s speed= 2.4x    frame=   72 fps=2.4 q=2.0 Lsize=    3044kB time=00:01:12.00 bitrate= 346.3kbits/s speed=2.36x    
+video:2692kB audio:276kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.565886%
+Failed to get connection
+** (inkscape:1283): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1283): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1283): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Capricornio.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1215    0     0  100  1215      0    744  0:00:01  0:00:01 --:--:--   744 68 13029   65  7739  100  1215   3066    481  0:00:03  0:00:02  0:00:01  3067100 13029  100 11814  100  1215   4466    459  0:00:02  0:00:02 --:--:--  4466
+Failed to get connection
+** (inkscape:1289): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1289): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1289): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/capricornio_semanal.png
+48.587
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/capricornio.mp3':
+  Duration: 00:00:48.59, start: 0.050113, bitrate: 81 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 81 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.800000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/capricornio_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.51 fps, 0.51 tbr, 0.51 tbn, 0.51 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/capricornio_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    1 fps=0.8 q=11.3 size=      10kB time=00:00:01.00 bitrate=  80.0kbits/s speed=0.815x    frame=    2 fps=1.2 q=2.0 size=     158kB time=00:00:02.00 bitrate= 645.5kbits/s speed=1.16x    frame=    4 fps=1.8 q=2.0 size=     435kB time=00:00:04.00 bitrate= 891.7kbits/s speed=1.78x    frame=    6 fps=2.0 q=2.0 size=     449kB time=00:00:06.00 bitrate= 612.7kbits/s speed=   2x    frame=    7 fps=2.0 q=2.0 size=     457kB time=00:00:07.00 bitrate= 534.4kbits/s speed=   2x    frame=    9 fps=2.1 q=2.0 size=     465kB time=00:00:09.00 bitrate= 423.4kbits/s speed=2.12x    frame=   10 fps=2.1 q=2.0 size=     471kB time=00:00:10.00 bitrate= 385.9kbits/s speed=2.11x    frame=   12 fps=2.2 q=2.0 size=     482kB time=00:00:12.00 bitrate= 328.8kbits/s speed=2.18x    frame=   13 fps=2.2 q=1.6 size=     490kB time=00:00:13.00 bitrate= 308.7kbits/s speed=2.17x    frame=   15 fps=2.3 q=2.0 size=     926kB time=00:00:15.00 bitrate= 505.6kbits/s speed=2.31x    frame=   16 fps=2.2 q=2.0 size=     931kB time=00:00:16.00 bitrate= 476.9kbits/s speed=2.21x    frame=   17 fps=2.2 q=2.0 size=     937kB time=00:00:17.00 bitrate= 451.6kbits/s speed= 2.2x    frame=   18 fps=2.2 q=2.0 size=     945kB time=00:00:18.00 bitrate= 429.9kbits/s speed=2.19x    frame=   20 fps=2.3 q=2.0 size=     954kB time=00:00:20.00 bitrate= 390.7kbits/s speed=2.29x    frame=   22 fps=2.3 q=2.0 size=     965kB time=00:00:22.00 bitrate= 359.3kbits/s speed=2.32x    frame=   23 fps=2.2 q=2.0 size=     970kB time=00:00:23.00 bitrate= 345.7kbits/s speed=2.25x    frame=   25 fps=2.3 q=1.6 size=     982kB time=00:00:25.00 bitrate= 321.7kbits/s speed=2.28x    frame=   26 fps=2.3 q=2.0 size=    1416kB time=00:00:26.00 bitrate= 446.2kbits/s speed=2.26x    frame=   28 fps=2.3 q=2.0 size=    1426kB time=00:00:28.00 bitrate= 417.2kbits/s speed=2.33x    frame=   30 fps=2.4 q=2.0 size=    1437kB time=00:00:30.00 bitrate= 392.4kbits/s speed=2.36x    frame=   32 fps=2.4 q=2.0 size=    1448kB time=00:00:32.00 bitrate= 370.7kbits/s speed=2.42x    frame=   32 fps=2.3 q=2.0 size=    1448kB time=00:00:32.00 bitrate= 370.8kbits/s speed=2.33x    frame=   34 fps=2.3 q=2.0 size=    1459kB time=00:00:34.00 bitrate= 351.6kbits/s speed=2.35x    frame=   35 fps=2.3 q=2.0 size=    1467kB time=00:00:35.00 bitrate= 343.3kbits/s speed=2.34x    frame=   37 fps=2.3 q=1.6 size=    1476kB time=00:00:37.00 bitrate= 326.8kbits/s speed=2.32x    frame=   39 fps=2.3 q=2.0 size=    1915kB time=00:00:39.00 bitrate= 402.2kbits/s speed=2.33x    frame=   41 fps=2.3 q=2.0 size=    1926kB time=00:00:41.00 bitrate= 384.8kbits/s speed=2.35x    frame=   43 fps=2.4 q=2.0 size=    1937kB time=00:00:43.00 bitrate= 369.1kbits/s speed=2.36x    frame=   45 fps=2.4 q=2.0 size=    1948kB time=00:00:45.00 bitrate= 354.7kbits/s speed=2.37x    frame=   47 fps=2.4 q=2.0 size=    1959kB time=00:00:47.00 bitrate= 341.5kbits/s speed=2.38x    frame=   48 fps=2.4 q=2.0 size=    1967kB time=00:00:48.00 bitrate= 335.7kbits/s speed=2.37x    frame=   49 fps=2.4 q=1.6 size=    2403kB time=00:00:49.00 bitrate= 401.7kbits/s speed=2.36x    frame=   50 fps=2.3 q=2.0 Lsize=    2437kB time=00:00:50.00 bitrate= 399.3kbits/s speed=2.33x    
+video:2192kB audio:190kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.329016%
+Failed to get connection
+** (inkscape:1318): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1318): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1318): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Acuario.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1206    0     0  100  1206      0    719  0:00:01  0:00:01 --:--:--   720100  1206    0     0  100  1206      0    450  0:00:02  0:00:02 --:--:--   450 68 13042   65  7739  100  1206   2577    401  0:00:04  0:00:03  0:00:01  2577100 13042  100 11836  100  1206   3788    385  0:00:03  0:00:03 --:--:--  3788
+Failed to get connection
+** (inkscape:1325): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1325): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1325): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/acuario_semanal.png
+52.009
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/acuario.mp3':
+  Duration: 00:00:52.01, start: 0.050113, bitrate: 79 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 79 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.900000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/acuario_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.48 fps, 0.48 tbr, 0.48 tbn, 0.48 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/acuario_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    1 fps=0.0 q=11.1 size=      10kB time=00:00:01.00 bitrate=  80.0kbits/s speed=   1x    frame=    2 fps=1.3 q=2.0 size=     155kB time=00:00:02.00 bitrate= 634.5kbits/s speed=1.33x    frame=    4 fps=1.8 q=2.0 size=     426kB time=00:00:04.00 bitrate= 872.4kbits/s speed=1.78x    frame=    6 fps=2.0 q=2.0 size=     439kB time=00:00:06.00 bitrate= 599.6kbits/s speed=2.01x    frame=    7 fps=2.0 q=2.0 size=     445kB time=00:00:07.00 bitrate= 520.3kbits/s speed=   2x    frame=    8 fps=2.0 q=2.0 size=     455kB time=00:00:08.00 bitrate= 466.2kbits/s speed=   2x    frame=   10 fps=2.2 q=2.0 size=     461kB time=00:00:10.00 bitrate= 377.7kbits/s speed=2.22x    frame=   11 fps=2.2 q=2.0 size=     467kB time=00:00:11.00 bitrate= 348.1kbits/s speed= 2.2x    frame=   12 fps=2.2 q=2.0 size=     475kB time=00:00:12.00 bitrate= 324.1kbits/s speed=2.18x    frame=   13 fps=2.2 q=1.6 size=     480kB time=00:00:13.00 bitrate= 302.4kbits/s speed=2.16x    frame=   15 fps=2.2 q=2.0 size=     906kB time=00:00:15.00 bitrate= 495.0kbits/s speed=2.22x    frame=   17 fps=2.3 q=2.0 size=     918kB time=00:00:17.00 bitrate= 442.1kbits/s speed=2.27x    frame=   18 fps=2.3 q=2.0 size=     923kB time=00:00:18.00 bitrate= 420.1kbits/s speed=2.25x    frame=   20 fps=2.3 q=2.0 size=     934kB time=00:00:20.00 bitrate= 382.7kbits/s speed=2.29x    frame=   22 fps=2.3 q=2.0 size=     945kB time=00:00:22.00 bitrate= 352.0kbits/s speed=2.32x    frame=   23 fps=2.3 q=2.0 size=     953kB time=00:00:23.00 bitrate= 339.6kbits/s speed= 2.3x    frame=   25 fps=2.3 q=1.6 size=     962kB time=00:00:25.00 bitrate= 315.2kbits/s speed=2.33x    frame=   26 fps=2.3 q=2.0 size=    1385kB time=00:00:26.00 bitrate= 436.3kbits/s speed=2.31x    frame=   28 fps=2.3 q=2.0 size=    1396kB time=00:00:28.00 bitrate= 408.6kbits/s speed=2.33x    frame=   30 fps=2.4 q=2.0 size=    1407kB time=00:00:30.00 bitrate= 384.3kbits/s speed=2.35x    frame=   32 fps=2.4 q=2.0 size=    1419kB time=00:00:32.00 bitrate= 363.2kbits/s speed=2.37x    frame=   33 fps=2.4 q=2.0 size=    1424kB time=00:00:33.00 bitrate= 353.5kbits/s speed=2.36x    frame=   35 fps=2.4 q=2.0 size=    1435kB time=00:00:35.00 bitrate= 336.0kbits/s speed=2.37x    frame=   36 fps=2.4 q=2.0 size=    1441kB time=00:00:36.00 bitrate= 328.0kbits/s speed=2.36x    frame=   37 fps=2.3 q=1.6 size=    1450kB time=00:00:37.00 bitrate= 320.9kbits/s speed=2.35x    frame=   39 fps=2.4 q=2.0 size=    1875kB time=00:00:39.00 bitrate= 393.9kbits/s speed=2.36x    frame=   40 fps=2.4 q=2.0 size=    1884kB time=00:00:40.00 bitrate= 385.8kbits/s speed=2.35x    frame=   42 fps=2.4 q=2.0 size=    1892kB time=00:00:42.00 bitrate= 369.0kbits/s speed= 2.4x    frame=   43 fps=2.4 q=2.0 size=    1898kB time=00:00:43.00 bitrate= 361.5kbits/s speed=2.39x    frame=   45 fps=2.4 q=2.0 size=    1909kB time=00:00:45.00 bitrate= 347.5kbits/s speed= 2.4x    frame=   47 fps=2.4 q=2.0 size=    1920kB time=00:00:47.00 bitrate= 334.6kbits/s speed=2.41x    frame=   48 fps=2.4 q=2.0 size=    1925kB time=00:00:48.00 bitrate= 328.6kbits/s speed=2.37x    frame=   50 fps=2.4 q=2.0 size=    2354kB time=00:00:50.00 bitrate= 385.6kbits/s speed=2.38x    frame=   52 fps=2.4 q=2.0 size=    2365kB time=00:00:52.00 bitrate= 372.6kbits/s speed=2.42x    frame=   53 fps=2.4 q=2.0 size=    2371kB time=00:00:53.00 bitrate= 366.5kbits/s speed=2.38x    frame=   53 fps=2.3 q=2.0 Lsize=    2408kB time=00:00:53.00 bitrate= 372.2kbits/s speed=2.33x    
+video:2146kB audio:203kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.496877%
+Failed to get connection
+** (inkscape:1349): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1349): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1349): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1739,12:3091,78 exported to 1080 x 1920 pixels (59,6163 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/igtv/Piscis.png
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2567    0     0  100  2567      0   1393  0:00:01  0:00:01 --:--:--  1393100  2567    0     0  100  2567      0    902  0:00:02  0:00:02 --:--:--   902100  2567    0     0  100  2567      0    667  0:00:03  0:00:03 --:--:--   667100  2567    0     0  100  2567      0    529  0:00:04  0:00:04 --:--:--   529100 14830  100 12263  100  2567   2392    500  0:00:05  0:00:05 --:--:--  2499100 14830  100 12263  100  2567   2392    500  0:00:05  0:00:05 --:--:--  2951
+Failed to get connection
+** (inkscape:1358): CRITICAL **: dbus_g_proxy_new_for_name: assertion 'connection != NULL' failed
+
+** (inkscape:1358): CRITICAL **: dbus_g_proxy_call: assertion 'DBUS_IS_G_PROXY (proxy)' failed
+
+** (inkscape:1358): CRITICAL **: dbus_g_connection_register_g_object: assertion 'connection != NULL' failed
+Background RRGGBBAA: ffffff00
+Area 0:0:1920:1080 exported to 1920 x 1080 pixels (96 dpi)
+Bitmap saved as: /home/arielbmx/horoscopo-del-dia.com/tmp/semanal/piscis_semanal.png
+109.662
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mp3, from '/home/arielbmx/horoscopo-del-dia.com/tmp/igtv/piscis.mp3':
+  Duration: 00:01:49.66, start: 0.050113, bitrate: 80 kb/s
+    Stream #0:0: Audio: mp3, 22050 Hz, mono, s16p, 80 kb/s
+    Metadata:
+      encoder         : LAME3.99r
+    Side data:
+      replaygain: track gain - -3.900000, track peak - unknown, album gain - unknown, album peak - unknown, 
+Input #1, png_pipe, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/piscis_semanal.png':
+  Duration: N/A, bitrate: N/A
+    Stream #1:0: Video: png, rgba(pc), 1920x1080 [SAR 3780:3780 DAR 16:9], 0.23 fps, 0.23 tbr, 0.23 tbn, 0.23 tbc
+Output #0, avi, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/piscis_semanal.avi':
+  Metadata:
+    ISFT            : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 2000 kb/s, 1 fps, 1 tbn, 1 tbc
+    Metadata:
+      encoder         : Lavc57.64.101 mpeg4
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/2000000 buffer size: 0 vbv_delay: -1
+    Stream #0:1: Audio: mp3 (libmp3lame) (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p
+    Metadata:
+      encoder         : Lavc57.64.101 libmp3lame
+Stream mapping:
+  Stream #1:0 -> #0:0 (png (native) -> mpeg4 (native))
+  Stream #0:0 -> #0:1 (mp3 (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+frame=    5 fps=0.0 q=2.0 size=     432kB time=00:00:05.00 bitrate= 708.3kbits/s speed=8.26x    frame=    7 fps=4.4 q=2.0 size=     444kB time=00:00:07.00 bitrate= 519.1kbits/s speed=4.38x    frame=    9 fps=3.8 q=2.0 size=     454kB time=00:00:09.00 bitrate= 413.7kbits/s speed=3.84x    frame=   10 fps=3.5 q=2.0 size=     465kB time=00:00:10.00 bitrate= 381.1kbits/s speed=3.52x    frame=   11 fps=3.3 q=2.0 size=     468kB time=00:00:11.00 bitrate= 348.6kbits/s speed=3.29x    frame=   13 fps=3.2 q=1.6 size=     476kB time=00:00:13.00 bitrate= 300.3kbits/s speed=3.18x    frame=   14 fps=3.0 q=2.0 size=     900kB time=00:00:14.00 bitrate= 526.6kbits/s speed=3.05x    frame=   16 fps=3.0 q=2.0 size=     908kB time=00:00:16.00 bitrate= 465.1kbits/s speed=2.99x    frame=   18 fps=2.9 q=2.0 size=     920kB time=00:00:18.00 bitrate= 418.6kbits/s speed=2.95x    frame=   20 fps=2.9 q=2.0 size=     931kB time=00:00:20.00 bitrate= 381.4kbits/s speed=2.91x    frame=   21 fps=2.9 q=2.0 size=     940kB time=00:00:21.00 bitrate= 366.8kbits/s speed=2.85x    frame=   22 fps=2.8 q=2.0 size=     946kB time=00:00:22.00 bitrate= 352.4kbits/s speed= 2.8x    frame=   24 fps=2.9 q=2.0 size=     954kB time=00:00:24.00 bitrate= 325.5kbits/s speed=2.87x    frame=   25 fps=2.8 q=1.6 size=     960kB time=00:00:25.00 bitrate= 314.5kbits/s speed=2.82x    frame=   26 fps=2.8 q=2.0 size=    1382kB time=00:00:26.00 bitrate= 435.6kbits/s speed=2.78x    frame=   27 fps=2.7 q=2.0 size=    1389kB time=00:00:27.00 bitrate= 421.5kbits/s speed=2.74x    frame=   29 fps=2.7 q=2.0 size=    1397kB time=00:00:29.00 bitrate= 394.6kbits/s speed=2.73x    frame=   30 fps=2.7 q=2.0 size=    1406kB time=00:00:30.00 bitrate= 384.0kbits/s speed= 2.7x    frame=   32 fps=2.7 q=2.0 size=    1414kB time=00:00:32.00 bitrate= 362.0kbits/s speed= 2.7x    frame=   33 fps=2.7 q=2.0 size=    1421kB time=00:00:33.00 bitrate= 352.8kbits/s speed=2.67x    frame=   34 fps=2.6 q=2.0 size=    1426kB time=00:00:34.00 bitrate= 343.6kbits/s speed=2.65x    frame=   36 fps=2.7 q=2.0 size=    1436kB time=00:00:36.00 bitrate= 326.9kbits/s speed=2.69x    frame=   37 fps=2.7 q=1.6 size=    1444kB time=00:00:37.00 bitrate= 319.8kbits/s speed=2.67x    frame=   38 fps=2.6 q=2.0 size=    1862kB time=00:00:38.00 bitrate= 401.4kbits/s speed=2.65x    frame=   39 fps=2.6 q=2.0 size=    1872kB time=00:00:39.00 bitrate= 393.2kbits/s speed=2.62x    frame=   41 fps=2.6 q=2.0 size=    1880kB time=00:00:41.00 bitrate= 375.6kbits/s speed=2.63x    frame=   42 fps=2.6 q=2.0 size=    1889kB time=00:00:42.00 bitrate= 368.4kbits/s speed=2.61x    frame=   44 fps=2.6 q=2.0 size=    1897kB time=00:00:44.00 bitrate= 353.1kbits/s speed=2.61x    frame=   45 fps=2.6 q=2.0 size=    1905kB time=00:00:45.00 bitrate= 346.7kbits/s speed=2.59x    frame=   47 fps=2.6 q=2.0 size=    1914kB time=00:00:47.00 bitrate= 333.5kbits/s speed= 2.6x    frame=   48 fps=2.6 q=2.0 size=    1921kB time=00:00:48.00 bitrate= 327.8kbits/s speed=2.58x    frame=   49 fps=2.6 q=1.6 size=    1928kB time=00:00:49.00 bitrate= 322.4kbits/s speed=2.57x    frame=   51 fps=2.6 q=2.0 size=    2351kB time=00:00:51.00 bitrate= 377.7kbits/s speed= 2.6x    frame=   53 fps=2.6 q=2.0 size=    2363kB time=00:00:53.00 bitrate= 365.2kbits/s speed=2.57x    frame=   55 fps=2.6 q=2.0 size=    2374kB time=00:00:55.00 bitrate= 353.6kbits/s speed=2.58x    frame=   56 fps=2.6 q=2.0 size=    2383kB time=00:00:56.00 bitrate= 348.6kbits/s speed=2.56x    frame=   57 fps=2.6 q=2.0 size=    2388kB time=00:00:57.00 bitrate= 343.1kbits/s speed=2.55x    frame=   59 fps=2.6 q=2.0 size=    2396kB time=00:00:59.00 bitrate= 332.7kbits/s speed=2.58x    frame=   60 fps=2.6 q=2.0 size=    2402kB time=00:01:00.00 bitrate= 328.0kbits/s speed=2.57x    frame=   61 fps=2.6 q=1.6 size=    2409kB time=00:01:01.00 bitrate= 323.6kbits/s speed=2.56x    frame=   63 fps=2.5 q=2.0 size=    2834kB time=00:01:03.00 bitrate= 368.5kbits/s speed=2.54x    frame=   65 fps=2.6 q=2.0 size=    2845kB time=00:01:05.00 bitrate= 358.6kbits/s speed=2.56x    frame=   67 fps=2.6 q=2.0 size=    2857kB time=00:01:07.00 bitrate= 349.3kbits/s speed=2.57x    frame=   69 fps=2.6 q=2.0 size=    2868kB time=00:01:09.00 bitrate= 340.5kbits/s speed=2.57x    frame=   70 fps=2.6 q=2.0 size=    2874kB time=00:01:10.00 bitrate= 336.3kbits/s speed=2.56x    frame=   72 fps=2.6 q=2.0 size=    2885kB time=00:01:12.00 bitrate= 328.2kbits/s speed=2.56x    frame=   73 fps=2.5 q=1.6 size=    2890kB time=00:01:13.00 bitrate= 324.4kbits/s speed=2.53x    frame=   75 fps=2.5 q=2.0 size=    3317kB time=00:01:15.00 bitrate= 362.3kbits/s speed=2.53x    frame=   76 fps=2.5 q=2.0 size=    3323kB time=00:01:16.00 bitrate= 358.2kbits/s speed=2.52x    frame=   78 fps=2.5 q=2.0 size=    3334kB time=00:01:18.00 bitrate= 350.1kbits/s speed=2.53x    frame=   79 fps=2.5 q=2.0 size=    3340kB time=00:01:19.00 bitrate= 346.4kbits/s speed=2.52x    frame=   81 fps=2.5 q=2.0 size=    3351kB time=00:01:21.00 bitrate= 338.9kbits/s speed=2.54x    frame=   82 fps=2.5 q=2.0 size=    3356kB time=00:01:22.00 bitrate= 335.3kbits/s speed=2.52x    frame=   84 fps=2.5 q=2.0 size=    3368kB time=00:01:24.00 bitrate= 328.4kbits/s speed=2.52x    frame=   85 fps=2.5 q=1.6 size=    3375kB time=00:01:25.00 bitrate= 325.3kbits/s speed=2.51x    frame=   87 fps=2.5 q=2.0 size=    3800kB time=00:01:27.00 bitrate= 357.8kbits/s speed=2.51x    frame=   88 fps=2.5 q=2.0 size=    3805kB time=00:01:28.00 bitrate= 354.2kbits/s speed=2.51x    frame=   90 fps=2.5 q=2.0 size=    3817kB time=00:01:30.00 bitrate= 347.4kbits/s speed=2.51x    frame=   91 fps=2.5 q=2.0 size=    3824kB time=00:01:31.00 bitrate= 344.2kbits/s speed= 2.5x    frame=   93 fps=2.5 q=2.0 size=    3833kB time=00:01:33.00 bitrate= 337.7kbits/s speed=2.52x    frame=   94 fps=2.5 q=2.0 size=    3842kB time=00:01:34.00 bitrate= 334.9kbits/s speed=2.52x    frame=   95 fps=2.5 q=2.0 size=    3849kB time=00:01:35.00 bitrate= 331.9kbits/s speed=2.51x    frame=   97 fps=2.5 q=1.6 size=    3856kB time=00:01:37.00 bitrate= 325.7kbits/s speed=2.51x    frame=   99 fps=2.5 q=2.0 size=    4282kB time=00:01:39.00 bitrate= 354.4kbits/s speed= 2.5x    frame=  101 fps=2.5 q=2.0 size=    4294kB time=00:01:41.00 bitrate= 348.3kbits/s speed= 2.5x    frame=  102 fps=2.5 q=2.0 size=    4299kB time=00:01:42.00 bitrate= 345.3kbits/s speed= 2.5x    frame=  104 fps=2.5 q=2.0 size=    4311kB time=00:01:44.00 bitrate= 339.5kbits/s speed= 2.5x    frame=  106 fps=2.5 q=2.0 size=    4322kB time=00:01:46.00 bitrate= 334.0kbits/s speed=2.49x    frame=  108 fps=2.5 q=2.0 size=    4333kB time=00:01:48.00 bitrate= 328.7kbits/s speed= 2.5x    frame=  109 fps=2.5 q=1.6 size=    4339kB time=00:01:49.00 bitrate= 326.1kbits/s speed=2.49x    frame=  111 fps=2.5 q=2.0 size=    4765kB time=00:01:51.00 bitrate= 351.7kbits/s speed=2.49x    frame=  111 fps=2.5 q=2.0 Lsize=    4836kB time=00:01:51.00 bitrate= 356.9kbits/s speed=2.46x    
+video:4295kB audio:428kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.389151%
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, concat, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/mylist.txt':
+  Duration: N/A, start: 0.000000, bitrate: 363 kb/s
+    Stream #0:0: Video: mpeg4 (Simple Profile) (FMP4 / 0x34504D46), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 331 kb/s, 1 fps, 1 tbr, 1 tbn, 1 tbc
+    Stream #0:1: Audio: mp3 (U[0][0][0] / 0x0055), 22050 Hz, mono, s16p, 32 kb/s
+Output #0, mp4, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/output.mp4':
+  Metadata:
+    encoder         : Lavf57.56.101
+    Stream #0:0: Video: mpeg4 (Simple Profile) ( [0][0][0] / 0x0020), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 331 kb/s, 1 fps, 1 tbr, 16384 tbn, 1 tbc
+    Stream #0:1: Audio: aac (LC) ([64][0][0][0] / 0x0040), 22050 Hz, mono, fltp, 69 kb/s
+    Metadata:
+      encoder         : Lavc57.64.101 aac
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (mp3 (native) -> aac (native))
+Press [q] to stop, [?] for help
+frame=    3 fps=0.0 q=-1.0 size=     418kB time=00:00:03.00 bitrate=1141.8kbits/s speed=5.31x    frame=    7 fps=6.6 q=-1.0 size=     472kB time=00:00:07.00 bitrate= 552.7kbits/s speed=6.58x    frame=   11 fps=7.0 q=-1.0 size=     514kB time=00:00:11.00 bitrate= 383.0kbits/s speed=7.03x    frame=   15 fps=7.3 q=-1.0 size=     970kB time=00:00:15.00 bitrate= 529.6kbits/s speed=7.26x    frame=   19 fps=7.4 q=-1.0 size=    1006kB time=00:00:19.00 bitrate= 433.9kbits/s speed= 7.4x    frame=   22 fps=7.2 q=-1.0 size=    1042kB time=00:00:22.00 bitrate= 388.1kbits/s speed=7.17x    frame=   27 fps=7.6 q=-1.0 size=    1503kB time=00:00:27.00 bitrate= 455.9kbits/s speed=7.57x    frame=   31 fps=7.6 q=-1.0 size=    1546kB time=00:00:31.00 bitrate= 408.4kbits/s speed=7.62x    frame=   35 fps=7.7 q=-1.0 size=    1582kB time=00:00:35.00 bitrate= 370.4kbits/s speed=7.66x    frame=   38 fps=7.5 q=-1.0 size=    2030kB time=00:00:38.00 bitrate= 437.7kbits/s speed=7.49x    frame=   41 fps=7.4 q=-1.0 size=    2069kB time=00:00:41.00 bitrate= 413.3kbits/s speed=7.36x    frame=   45 fps=7.4 q=-1.0 size=    2109kB time=00:00:45.00 bitrate= 383.9kbits/s speed=7.41x    frame=   49 fps=7.5 q=-1.0 size=    2147kB time=00:00:49.00 bitrate= 359.0kbits/s speed=7.46x    frame=   53 fps=7.5 q=-1.0 size=    2608kB time=00:00:53.00 bitrate= 403.0kbits/s speed=7.49x    frame=   57 fps=7.5 q=-1.0 size=    2648kB time=00:00:57.00 bitrate= 380.6kbits/s speed=7.53x    frame=   61 fps=7.6 q=-1.0 size=    2691kB time=00:01:01.00 bitrate= 361.3kbits/s speed=7.56x    frame=   65 fps=7.6 q=-1.0 size=    3140kB time=00:01:05.00 bitrate= 395.8kbits/s speed=7.58x    frame=   69 fps=7.6 q=-1.0 size=    3183kB time=00:01:09.00 bitrate= 377.9kbits/s speed= 7.6x    frame=   73 fps=7.6 q=-1.0 size=    3222kB time=00:01:13.00 bitrate= 361.6kbits/s speed=7.63x    frame=   77 fps=7.6 q=-1.0 size=    4061kB time=00:01:18.00 bitrate= 426.5kbits/s speed=7.74x    frame=   80 fps=7.6 q=-1.0 size=    4114kB time=00:01:21.00 bitrate= 416.0kbits/s speed=7.66x    frame=   84 fps=7.6 q=-1.0 size=    4157kB time=00:01:25.00 bitrate= 400.6kbits/s speed=7.67x    frame=   87 fps=7.5 q=-1.0 size=    4190kB time=00:01:28.00 bitrate= 390.0kbits/s speed= 7.6x    frame=   91 fps=7.5 q=-1.0 size=    4650kB time=00:01:32.00 bitrate= 414.1kbits/s speed=7.62x    frame=   95 fps=7.6 q=-1.0 size=    4689kB time=00:01:36.00 bitrate= 400.1kbits/s speed=7.63x    frame=   99 fps=7.6 q=-1.0 size=    4728kB time=00:01:40.00 bitrate= 387.3kbits/s speed=7.64x    frame=  102 fps=7.5 q=-1.0 size=    5184kB time=00:01:43.00 bitrate= 412.3kbits/s speed=7.58x    frame=  106 fps=7.5 q=-1.0 size=    5225kB time=00:01:47.00 bitrate= 400.0kbits/s speed= 7.6x    frame=  110 fps=7.5 q=-1.0 size=    5263kB time=00:01:51.00 bitrate= 388.4kbits/s speed=7.61x    frame=  114 fps=7.6 q=-1.0 size=    5728kB time=00:01:55.00 bitrate= 408.0kbits/s speed=7.63x    frame=  118 fps=7.6 q=-1.0 size=    5771kB time=00:01:59.00 bitrate= 397.3kbits/s speed=7.64x    frame=  122 fps=7.6 q=-1.0 size=    5810kB time=00:02:03.00 bitrate= 386.9kbits/s speed=7.65x    frame=  126 fps=7.6 q=-1.0 size=    6273kB time=00:02:07.00 bitrate= 404.7kbits/s speed=7.66x    frame=  131 fps=7.7 q=-1.0 size=    6708kB time=00:02:13.00 bitrate= 413.2kbits/s speed=7.79x    frame=  135 fps=7.7 q=-1.0 size=    6766kB time=00:02:17.00 bitrate= 404.6kbits/s speed=7.79x    frame=  139 fps=7.7 q=-1.0 size=    6807kB time=00:02:21.00 bitrate= 395.5kbits/s speed= 7.8x    frame=  143 fps=7.7 q=-1.0 size=    7262kB time=00:02:25.00 bitrate= 410.3kbits/s speed= 7.8x    frame=  147 fps=7.7 q=-1.0 size=    7308kB time=00:02:29.00 bitrate= 401.8kbits/s speed=7.81x    frame=  151 fps=7.7 q=-1.0 size=    7350kB time=00:02:33.00 bitrate= 393.6kbits/s speed=7.81x    frame=  155 fps=7.7 q=-1.0 size=    7813kB time=00:02:37.00 bitrate= 407.7kbits/s speed=7.82x    frame=  158 fps=7.7 q=-1.0 size=    7848kB time=00:02:40.00 bitrate= 401.8kbits/s speed=7.77x    frame=  163 fps=7.7 q=-1.0 size=    7893kB time=00:02:45.00 bitrate= 391.9kbits/s speed=7.83x    frame=  166 fps=7.7 q=-1.0 size=    8350kB time=00:02:48.00 bitrate= 407.1kbits/s speed=7.78x    frame=  170 fps=7.7 q=-1.0 size=    8393kB time=00:02:52.00 bitrate= 399.7kbits/s speed=7.79x    frame=  175 fps=7.7 q=-1.0 size=    8437kB time=00:02:57.00 bitrate= 390.5kbits/s speed=7.84x    frame=  177 fps=7.7 q=-1.0 size=    8468kB time=00:02:59.00 bitrate= 387.5kbits/s speed=7.75x    frame=  181 fps=7.7 q=-1.0 size=    8931kB time=00:03:03.00 bitrate= 399.8kbits/s speed=7.76x    frame=  186 fps=7.7 q=-1.0 size=    8977kB time=00:03:08.00 bitrate= 391.1kbits/s speed= 7.8x    frame=  189 fps=7.7 q=-1.0 size=    9013kB time=00:03:11.00 bitrate= 386.6kbits/s speed=7.77x    frame=  193 fps=7.7 q=-1.0 size=    9476kB time=00:03:15.00 bitrate= 398.1kbits/s speed=7.77x    frame=  198 fps=7.7 q=-1.0 size=    9522kB time=00:03:20.00 bitrate= 390.0kbits/s speed=7.82x    frame=  202 fps=7.7 q=-1.0 size=    9986kB time=00:03:24.00 bitrate= 401.0kbits/s speed=7.82x    frame=  206 fps=7.7 q=-1.0 size=   10030kB time=00:03:28.00 bitrate= 395.0kbits/s speed=7.82x    frame=  210 fps=7.8 q=-1.0 size=   10070kB time=00:03:32.00 bitrate= 389.1kbits/s speed=7.82x    frame=  213 fps=7.7 q=-1.0 size=   10106kB time=00:03:35.00 bitrate= 385.1kbits/s speed=7.79x    frame=  217 fps=7.7 q=-1.0 size=   10570kB time=00:03:39.00 bitrate= 395.4kbits/s speed= 7.8x    frame=  221 fps=7.7 q=-1.0 size=   10610kB time=00:03:43.00 bitrate= 389.8kbits/s speed= 7.8x    frame=  225 fps=7.7 q=-1.0 size=   10650kB time=00:03:47.00 bitrate= 384.3kbits/s speed= 7.8x    frame=  228 fps=7.6 q=-1.0 size=   11109kB time=00:03:50.00 bitrate= 395.7kbits/s speed=7.71x    frame=  232 fps=7.7 q=-1.0 size=   11150kB time=00:03:54.00 bitrate= 390.4kbits/s speed=7.72x    frame=  237 fps=7.7 q=-1.0 size=   11196kB time=00:03:59.00 bitrate= 383.7kbits/s speed=7.76x    frame=  241 fps=7.7 q=-1.0 size=   11661kB time=00:04:03.00 bitrate= 393.1kbits/s speed=7.76x    frame=  245 fps=7.7 q=-1.0 size=   11701kB time=00:04:07.00 bitrate= 388.1kbits/s speed=7.76x    frame=  249 fps=7.7 q=-1.0 size=   11879kB time=00:04:12.00 bitrate= 386.1kbits/s speed= 7.8x    frame=  253 fps=7.7 q=-1.0 size=   12192kB time=00:04:16.00 bitrate= 390.1kbits/s speed= 7.8x    frame=  256 fps=7.7 q=-1.0 size=   12230kB time=00:04:19.00 bitrate= 386.8kbits/s speed=7.77x    frame=  260 fps=7.7 q=-1.0 size=   12268kB time=00:04:23.00 bitrate= 382.1kbits/s speed=7.78x    frame=  264 fps=7.7 q=-1.0 size=   12739kB time=00:04:27.00 bitrate= 390.9kbits/s speed=7.78x    frame=  268 fps=7.7 q=-1.0 size=   12786kB time=00:04:31.00 bitrate= 386.5kbits/s speed=7.78x    frame=  272 fps=7.7 q=-1.0 size=   12826kB time=00:04:35.00 bitrate= 382.1kbits/s speed=7.79x    frame=  276 fps=7.7 q=-1.0 size=   13298kB time=00:04:39.00 bitrate= 390.5kbits/s speed=7.79x    frame=  280 fps=7.7 q=-1.0 size=   13339kB time=00:04:43.00 bitrate= 386.1kbits/s speed=7.79x    frame=  284 fps=7.7 q=-1.0 size=   13380kB time=00:04:47.00 bitrate= 381.9kbits/s speed=7.79x    frame=  289 fps=7.7 q=-1.0 size=   13859kB time=00:04:52.00 bitrate= 388.8kbits/s speed=7.82x    frame=  293 fps=7.7 q=-1.0 size=   13897kB time=00:04:56.00 bitrate= 384.6kbits/s speed=7.83x    frame=  297 fps=7.8 q=-1.0 size=   13937kB time=00:05:00.00 bitrate= 380.6kbits/s speed=7.83x    frame=  301 fps=7.8 q=-1.0 size=   14412kB time=00:05:04.00 bitrate= 388.4kbits/s speed=7.83x    frame=  304 fps=7.7 q=-1.0 size=   14450kB time=00:05:07.00 bitrate= 385.6kbits/s speed=7.81x    frame=  309 fps=7.8 q=-1.0 size=   14929kB time=00:05:12.00 bitrate= 392.0kbits/s speed=7.83x    frame=  313 fps=7.8 q=-1.0 size=   14976kB time=00:05:16.00 bitrate= 388.2kbits/s speed=7.84x    frame=  317 fps=7.8 q=-1.0 size=   15016kB time=00:05:20.00 bitrate= 384.4kbits/s speed=7.84x    frame=  322 fps=7.8 q=-1.0 size=   15492kB time=00:05:25.00 bitrate= 390.5kbits/s speed=7.86x    frame=  325 fps=7.8 q=-1.0 size=   15529kB time=00:05:28.00 bitrate= 387.8kbits/s speed=7.84x    frame=  329 fps=7.8 q=-1.0 size=   15570kB time=00:05:32.00 bitrate= 384.2kbits/s speed=7.84x    frame=  333 fps=7.8 q=-1.0 size=   16042kB time=00:05:36.00 bitrate= 391.1kbits/s speed=7.85x    frame=  337 fps=7.8 q=-1.0 size=   16083kB time=00:05:40.00 bitrate= 387.5kbits/s speed=7.85x    frame=  341 fps=7.8 q=-1.0 size=   16121kB time=00:05:44.00 bitrate= 383.9kbits/s speed=7.85x    frame=  345 fps=7.8 q=-1.0 size=   16594kB time=00:05:48.00 bitrate= 390.6kbits/s speed=7.85x    frame=  349 fps=7.8 q=-1.0 size=   16632kB time=00:05:52.00 bitrate= 387.1kbits/s speed=7.85x    frame=  352 fps=7.8 q=-1.0 size=   16672kB time=00:05:55.00 bitrate= 384.7kbits/s speed=7.83x    frame=  356 fps=7.8 q=-1.0 size=   16713kB time=00:05:59.00 bitrate= 381.4kbits/s speed=7.83x    frame=  361 fps=7.8 q=-1.0 size=   17319kB time=00:06:04.13 bitrate= 389.6kbits/s speed=7.86x    frame=  365 fps=7.8 q=-1.0 size=   17626kB time=00:06:09.00 bitrate= 391.3kbits/s speed=7.88x    frame=  368 fps=7.8 q=-1.0 size=   17662kB time=00:06:12.00 bitrate= 388.9kbits/s speed=7.86x    frame=  373 fps=7.8 q=-1.0 size=   17708kB time=00:06:17.00 bitrate= 384.8kbits/s speed=7.88x    frame=  377 fps=7.8 q=-1.0 size=   18165kB time=00:06:21.00 bitrate= 390.6kbits/s speed=7.88x    frame=  381 fps=7.8 q=-1.0 size=   18200kB time=00:06:25.00 bitrate= 387.3kbits/s speed=7.88x    frame=  384 fps=7.8 q=-1.0 size=   18239kB time=00:06:28.00 bitrate= 385.1kbits/s speed=7.87x    frame=  388 fps=7.8 q=-1.0 size=   18692kB time=00:06:32.00 bitrate= 390.6kbits/s speed=7.87x    frame=  392 fps=7.8 q=-1.0 size=   18732kB time=00:06:36.00 bitrate= 387.5kbits/s speed=7.87x    frame=  396 fps=7.8 q=-1.0 size=   18771kB time=00:06:40.00 bitrate= 384.4kbits/s speed=7.87x    frame=  399 fps=7.8 q=-1.0 size=   19220kB time=00:06:43.00 bitrate= 390.7kbits/s speed=7.85x    frame=  403 fps=7.8 q=-1.0 size=   19261kB time=00:06:47.00 bitrate= 387.7kbits/s speed=7.85x    frame=  407 fps=7.8 q=-1.0 size=   19301kB time=00:06:51.00 bitrate= 384.7kbits/s speed=7.85x    frame=  411 fps=7.8 q=-1.0 size=   19753kB time=00:06:55.00 bitrate= 389.9kbits/s speed=7.85x    frame=  415 fps=7.8 q=-1.0 size=   19795kB time=00:06:59.00 bitrate= 387.0kbits/s speed=7.86x    frame=  418 fps=7.8 q=-1.0 size=   19831kB time=00:07:02.00 bitrate= 385.0kbits/s speed=7.84x    frame=  422 fps=7.8 q=-1.0 size=   20286kB time=00:07:06.00 bitrate= 390.1kbits/s speed=7.84x    frame=  426 fps=7.8 q=-1.0 size=   20324kB time=00:07:10.00 bitrate= 387.2kbits/s speed=7.84x    frame=  429 fps=7.8 q=-1.0 size=   20360kB time=00:07:13.00 bitrate= 385.2kbits/s speed=7.82x    frame=  433 fps=7.8 q=-1.0 size=   20397kB time=00:07:17.00 bitrate= 382.4kbits/s speed=7.83x    frame=  438 fps=7.8 q=-1.0 size=   20858kB time=00:07:22.00 bitrate= 386.6kbits/s speed=7.85x    frame=  441 fps=7.8 q=-1.0 size=   20896kB time=00:07:25.00 bitrate= 384.7kbits/s speed=7.83x    frame=  445 fps=7.8 q=-1.0 size=   20937kB time=00:07:29.00 bitrate= 382.0kbits/s speed=7.83x    frame=  450 fps=7.8 q=-1.0 size=   21399kB time=00:07:34.00 bitrate= 386.1kbits/s speed=7.85x    frame=  454 fps=7.8 q=-1.0 size=   21439kB time=00:07:38.00 bitrate= 383.5kbits/s speed=7.85x    frame=  458 fps=7.8 q=-1.0 size=   21894kB time=00:07:42.00 bitrate= 388.2kbits/s speed=7.85x    frame=  462 fps=7.8 q=-1.0 size=   21934kB time=00:07:46.00 bitrate= 385.6kbits/s speed=7.85x    frame=  466 fps=7.8 q=-1.0 size=   21977kB time=00:07:50.00 bitrate= 383.0kbits/s speed=7.85x    frame=  470 fps=7.8 q=-1.0 size=   22147kB time=00:07:55.00 bitrate= 381.9kbits/s speed=7.87x    frame=  474 fps=7.8 q=-1.0 size=   22458kB time=00:07:59.00 bitrate= 384.1kbits/s speed=7.87x    frame=  478 fps=7.8 q=-1.0 size=   22500kB time=00:08:03.00 bitrate= 381.6kbits/s speed=7.87x    frame=  482 fps=7.8 q=-1.0 size=   22960kB time=00:08:07.00 bitrate= 386.2kbits/s speed=7.87x    frame=  486 fps=7.8 q=-1.0 size=   23000kB time=00:08:11.00 bitrate= 383.7kbits/s speed=7.88x    frame=  489 fps=7.8 q=-1.0 size=   23037kB time=00:08:14.00 bitrate= 382.0kbits/s speed=7.83x    frame=  494 fps=7.8 q=-1.0 size=   23504kB time=00:08:19.00 bitrate= 385.9kbits/s speed=7.85x    frame=  498 fps=7.8 q=-1.0 size=   23546kB time=00:08:23.00 bitrate= 383.5kbits/s speed=7.85x    frame=  501 fps=7.8 q=-1.0 size=   23582kB time=00:08:26.00 bitrate= 381.8kbits/s speed=7.84x    frame=  505 fps=7.8 q=-1.0 size=   23617kB time=00:08:30.00 bitrate= 379.3kbits/s speed=7.84x    frame=  508 fps=7.7 q=-1.0 size=   24079kB time=00:08:33.00 bitrate= 384.5kbits/s speed=7.82x    frame=  512 fps=7.7 q=-1.0 size=   24120kB time=00:08:37.00 bitrate= 382.2kbits/s speed=7.83x    frame=  516 fps=7.8 q=-1.0 size=   24158kB time=00:08:41.00 bitrate= 379.9kbits/s speed=7.83x    frame=  520 fps=7.8 q=-1.0 size=   24621kB time=00:08:45.00 bitrate= 384.2kbits/s speed=7.83x    frame=  523 fps=7.7 q=-1.0 size=   24657kB time=00:08:48.00 bitrate= 382.6kbits/s speed=7.81x    frame=  527 fps=7.7 q=-1.0 size=   24694kB time=00:08:52.00 bitrate= 380.2kbits/s speed=7.82x    frame=  531 fps=7.7 q=-1.0 size=   25159kB time=00:08:56.00 bitrate= 384.5kbits/s speed=7.82x    frame=  535 fps=7.7 q=-1.0 size=   25197kB time=00:09:00.00 bitrate= 382.2kbits/s speed=7.82x    frame=  539 fps=7.7 q=-1.0 size=   25238kB time=00:09:04.00 bitrate= 380.0kbits/s speed=7.82x    frame=  542 fps=7.7 q=-1.0 size=   25698kB time=00:09:07.00 bitrate= 384.9kbits/s speed=7.81x    frame=  546 fps=7.7 q=-1.0 size=   25737kB time=00:09:11.00 bitrate= 382.6kbits/s speed=7.81x    frame=  550 fps=7.7 q=-1.0 size=   25782kB time=00:09:15.00 bitrate= 380.5kbits/s speed=7.81x    frame=  554 fps=7.7 q=-1.0 size=   26245kB time=00:09:19.00 bitrate= 384.6kbits/s speed=7.81x    frame=  559 fps=7.8 q=-1.0 size=   26291kB time=00:09:24.00 bitrate= 381.9kbits/s speed=7.83x    frame=  563 fps=7.8 q=-1.0 size=   26335kB time=00:09:28.00 bitrate= 379.8kbits/s speed=7.83x    frame=  567 fps=7.8 q=-1.0 size=   26796kB time=00:09:32.00 bitrate= 383.8kbits/s speed=7.83x    frame=  571 fps=7.8 q=-1.0 size=   26838kB time=00:09:36.00 bitrate= 381.7kbits/s speed=7.83x    frame=  574 fps=7.7 q=-1.0 size=   26874kB time=00:09:39.00 bitrate= 380.2kbits/s speed=7.82x    frame=  578 fps=7.8 q=-1.0 size=   27338kB time=00:09:43.00 bitrate= 384.1kbits/s speed=7.82x    frame=  582 fps=7.8 q=-1.0 size=   27768kB time=00:09:48.00 bitrate= 386.9kbits/s speed=7.83x    frame=  586 fps=7.8 q=-1.0 size=   27821kB time=00:09:52.00 bitrate= 385.0kbits/s speed=7.83x    frame=  589 fps=7.7 q=-1.0 size=   27858kB time=00:09:55.00 bitrate= 383.6kbits/s speed=7.82x    frame=  594 fps=7.8 q=-1.0 size=   28326kB time=00:10:00.00 bitrate= 386.7kbits/s speed=7.84x    frame=  598 fps=7.8 q=-1.0 size=   28374kB time=00:10:04.00 bitrate= 384.8kbits/s speed=7.84x    frame=  602 fps=7.8 q=-1.0 size=   28417kB time=00:10:08.00 bitrate= 382.9kbits/s speed=7.84x    frame=  606 fps=7.8 q=-1.0 size=   28881kB time=00:10:12.00 bitrate= 386.6kbits/s speed=7.84x    frame=  610 fps=7.8 q=-1.0 size=   28921kB time=00:10:16.00 bitrate= 384.6kbits/s speed=7.84x    frame=  613 fps=7.8 q=-1.0 size=   28957kB time=00:10:19.00 bitrate= 383.2kbits/s speed=7.83x    frame=  617 fps=7.8 q=-1.0 size=   29423kB time=00:10:23.00 bitrate= 386.9kbits/s speed=7.83x    frame=  622 fps=7.8 q=-1.0 size=   29467kB time=00:10:28.00 bitrate= 384.4kbits/s speed=7.84x    frame=  625 fps=7.8 q=-1.0 size=   29505kB time=00:10:31.00 bitrate= 383.1kbits/s speed=7.83x    frame=  629 fps=7.8 q=-1.0 size=   29972kB time=00:10:35.00 bitrate= 386.7kbits/s speed=7.83x    frame=  633 fps=7.8 q=-1.0 size=   30016kB time=00:10:39.00 bitrate= 384.8kbits/s speed=7.83x    frame=  638 fps=7.8 q=-1.0 size=   30061kB time=00:10:44.00 bitrate= 382.4kbits/s speed=7.85x    frame=  642 fps=7.8 q=-1.0 size=   30526kB time=00:10:48.00 bitrate= 385.9kbits/s speed=7.85x    frame=  646 fps=7.8 q=-1.0 size=   30565kB time=00:10:52.00 bitrate= 384.0kbits/s speed=7.85x    frame=  650 fps=7.8 q=-1.0 size=   30613kB time=00:10:56.00 bitrate= 382.3kbits/s speed=7.85x    frame=  654 fps=7.8 q=-1.0 size=   31081kB time=00:11:00.00 bitrate= 385.8kbits/s speed=7.85x    frame=  658 fps=7.8 q=-1.0 size=   31119kB time=00:11:04.00 bitrate= 383.9kbits/s speed=7.85x    frame=  661 fps=7.8 q=-1.0 size=   31155kB time=00:11:07.00 bitrate= 382.6kbits/s speed=7.84x    frame=  666 fps=7.8 q=-1.0 size=   31625kB time=00:11:12.00 bitrate= 385.5kbits/s speed=7.85x    frame=  669 fps=7.8 q=-1.0 size=   31660kB time=00:11:15.00 bitrate= 384.2kbits/s speed=7.84x    frame=  673 fps=7.8 q=-1.0 size=   31702kB time=00:11:19.00 bitrate= 382.5kbits/s speed=7.84x    frame=  676 fps=7.8 q=-1.0 size=   31739kB time=00:11:22.00 bitrate= 381.2kbits/s speed=7.83x    frame=  680 fps=7.8 q=-1.0 size=   32201kB time=00:11:26.00 bitrate= 384.5kbits/s speed=7.83x    frame=  683 fps=7.8 q=-1.0 size=   32238kB time=00:11:29.00 bitrate= 383.3kbits/s speed=7.82x    frame=  687 fps=7.8 q=-1.0 size=   32280kB time=00:11:33.00 bitrate= 381.6kbits/s speed=7.82x    frame=  691 fps=7.8 q=-1.0 size=   32748kB time=00:11:37.00 bitrate= 384.9kbits/s speed=7.82x    frame=  696 fps=7.8 q=-1.0 size=   33181kB time=00:11:43.00 bitrate= 386.7kbits/s speed=7.85x    frame=  700 fps=7.8 q=-1.0 size=   33239kB time=00:11:47.00 bitrate= 385.1kbits/s speed=7.85x    frame=  704 fps=7.8 q=-1.0 size=   33273kB time=00:11:51.00 bitrate= 383.4kbits/s speed=7.85x    frame=  708 fps=7.8 q=-1.0 size=   33739kB time=00:11:55.00 bitrate= 386.6kbits/s speed=7.85x    frame=  711 fps=7.8 q=-1.0 size=   33775kB time=00:11:58.00 bitrate= 385.4kbits/s speed=7.84x    frame=  715 fps=7.8 q=-1.0 size=   33818kB time=00:12:02.00 bitrate= 383.7kbits/s speed=7.84x    frame=  719 fps=7.8 q=-1.0 size=   34281kB time=00:12:06.00 bitrate= 386.8kbits/s speed=7.84x    frame=  723 fps=7.8 q=-1.0 size=   34323kB time=00:12:10.00 bitrate= 385.2kbits/s speed=7.84x    frame=  727 fps=7.8 q=-1.0 size=   34357kB time=00:12:14.00 bitrate= 383.5kbits/s speed=7.84x    frame=  731 fps=7.8 q=-1.0 size=   34825kB time=00:12:18.00 bitrate= 386.6kbits/s speed=7.84x    frame=  735 fps=7.8 q=-1.0 size=   34866kB time=00:12:22.00 bitrate= 384.9kbits/s speed=7.84x    frame=  739 fps=7.8 q=-1.0 size=   34907kB time=00:12:26.00 bitrate= 383.3kbits/s speed=7.84x    frame=  743 fps=7.8 q=-1.0 size=   35377kB time=00:12:30.00 bitrate= 386.4kbits/s speed=7.85x    frame=  747 fps=7.8 q=-1.0 size=   35417kB time=00:12:34.00 bitrate= 384.8kbits/s speed=7.85x    frame=  751 fps=7.8 q=-1.0 size=   35458kB time=00:12:38.00 bitrate= 383.2kbits/s speed=7.85x    frame=  755 fps=7.8 q=-1.0 size=   35924kB time=00:12:42.00 bitrate= 386.2kbits/s speed=7.85x    frame=  759 fps=7.8 q=-1.0 size=   35963kB time=00:12:46.00 bitrate= 384.6kbits/s speed=7.85x    frame=  763 fps=7.8 q=-1.0 size=   36143kB time=00:12:51.00 bitrate= 384.0kbits/s speed=7.84x    frame=  767 fps=7.8 q=-1.0 size=   36454kB time=00:12:55.00 bitrate= 385.3kbits/s speed=7.84x    frame=  771 fps=7.8 q=-1.0 size=   36494kB time=00:12:59.00 bitrate= 383.8kbits/s speed=7.84x    frame=  774 fps=7.8 q=-1.0 size=   36530kB time=00:13:02.00 bitrate= 382.7kbits/s speed=7.83x    frame=  778 fps=7.8 q=-1.0 size=   37008kB time=00:13:06.00 bitrate= 385.7kbits/s speed=7.84x    frame=  783 fps=7.8 q=-1.0 size=   37056kB time=00:13:11.00 bitrate= 383.8kbits/s speed=7.85x    frame=  787 fps=7.8 q=-1.0 size=   37529kB time=00:13:15.00 bitrate= 386.7kbits/s speed=7.85x    frame=  791 fps=7.8 q=-1.0 size=   37570kB time=00:13:19.00 bitrate= 385.2kbits/s speed=7.85x    frame=  794 fps=7.8 q=-1.0 size=   37606kB time=00:13:22.00 bitrate= 384.1kbits/s speed=7.84x    frame=  798 fps=7.8 q=-1.0 size=   37647kB time=00:13:26.00 bitrate= 382.6kbits/s speed=7.84x    frame=  802 fps=7.8 q=-1.0 size=   38117kB time=00:13:30.00 bitrate= 385.5kbits/s speed=7.84x    frame=  805 fps=7.8 q=-1.0 size=   38155kB time=00:13:33.00 bitrate= 384.5kbits/s speed=7.83x    frame=  809 fps=7.8 q=-1.0 size=   38191kB time=00:13:37.00 bitrate= 382.9kbits/s speed=7.83x    frame=  813 fps=7.8 q=-1.0 size=   38668kB time=00:13:41.00 bitrate= 385.8kbits/s speed=7.83x    frame=  817 fps=7.8 q=-1.0 size=   38711kB time=00:13:45.00 bitrate= 384.4kbits/s speed=7.83x    frame=  821 fps=7.8 q=-1.0 size=   38757kB time=00:13:49.00 bitrate= 383.0kbits/s speed=7.83x    frame=  825 fps=7.8 q=-1.0 size=   39229kB time=00:13:53.00 bitrate= 385.8kbits/s speed=7.83x    frame=  829 fps=7.8 q=-1.0 size=   39270kB time=00:13:57.00 bitrate= 384.4kbits/s speed=7.84x    frame=  834 fps=7.8 q=-1.0 size=   39449kB time=00:14:02.18 bitrate= 383.7kbits/s speed=7.85x    frame=  838 fps=7.8 q=-1.0 size=   39761kB time=00:14:07.00 bitrate= 384.6kbits/s speed=7.86x    frame=  841 fps=7.8 q=-1.0 size=   39796kB time=00:14:10.00 bitrate= 383.5kbits/s speed=7.85x    frame=  845 fps=7.8 q=-1.0 size=   39835kB time=00:14:14.00 bitrate= 382.1kbits/s speed=7.85x    frame=  849 fps=7.8 q=-1.0 size=   40306kB time=00:14:18.00 bitrate= 384.8kbits/s speed=7.85x    frame=  853 fps=7.8 q=-1.0 size=   40345kB time=00:14:22.00 bitrate= 383.4kbits/s speed=7.85x    frame=  857 fps=7.8 q=-1.0 size=   40384kB time=00:14:26.00 bitrate= 382.0kbits/s speed=7.85x    frame=  860 fps=7.8 q=-1.0 size=   40849kB time=00:14:29.00 bitrate= 385.1kbits/s speed=7.84x    frame=  864 fps=7.8 q=-1.0 size=   40886kB time=00:14:33.00 bitrate= 383.7kbits/s speed=7.84x    frame=  868 fps=7.8 q=-1.0 size=   40928kB time=00:14:37.00 bitrate= 382.3kbits/s speed=7.84x    frame=  872 fps=7.8 q=-1.0 size=   41397kB time=00:14:41.00 bitrate= 384.9kbits/s speed=7.84x    frame=  876 fps=7.8 q=-1.0 size=   41440kB time=00:14:45.00 bitrate= 383.6kbits/s speed=7.84x    frame=  880 fps=7.8 q=-1.0 size=   41475kB time=00:14:49.00 bitrate= 382.2kbits/s speed=7.84x    frame=  884 fps=7.8 q=-1.0 size=   42072kB time=00:14:53.21 bitrate= 385.9kbits/s speed=7.85x    frame=  887 fps=7.8 q=-1.0 size=   42374kB time=00:14:57.00 bitrate= 387.0kbits/s speed=7.85x    frame=  891 fps=7.8 q=-1.0 size=   42415kB time=00:15:01.00 bitrate= 385.6kbits/s speed=7.85x    frame=  895 fps=7.8 q=-1.0 size=   42456kB time=00:15:05.00 bitrate= 384.3kbits/s speed=7.85x    frame=  899 fps=7.8 q=-1.0 size=   42913kB time=00:15:09.00 bitrate= 386.7kbits/s speed=7.85x    frame=  903 fps=7.8 q=-1.0 size=   42952kB time=00:15:13.00 bitrate= 385.4kbits/s speed=7.85x    frame=  907 fps=7.8 q=-1.0 size=   42994kB time=00:15:17.00 bitrate= 384.1kbits/s speed=7.85x    frame=  911 fps=7.8 q=-1.0 size=   43454kB time=00:15:21.00 bitrate= 386.5kbits/s speed=7.85x    frame=  915 fps=7.8 q=-1.0 size=   43493kB time=00:15:25.00 bitrate= 385.2kbits/s speed=7.85x    frame=  919 fps=7.8 q=-1.0 size=   43536kB time=00:15:29.00 bitrate= 383.9kbits/s speed=7.85x    frame=  923 fps=7.8 q=-1.0 size=   43993kB time=00:15:33.00 bitrate= 386.3kbits/s speed=7.85x    frame=  927 fps=7.8 q=-1.0 size=   44032kB time=00:15:37.00 bitrate= 385.0kbits/s speed=7.85x    frame=  930 fps=7.8 q=-1.0 size=   44069kB time=00:15:40.00 bitrate= 384.1kbits/s speed=7.84x    frame=  934 fps=7.8 q=-1.0 size=   44523kB time=00:15:44.00 bitrate= 386.4kbits/s speed=7.84x    frame=  938 fps=7.8 q=-1.0 size=   44692kB time=00:15:49.00 bitrate= 385.8kbits/s speed=7.85x    frame=  942 fps=7.8 q=-1.0 size=   44996kB time=00:15:53.00 bitrate= 386.8kbits/s speed=7.85x    frame=  946 fps=7.8 q=-1.0 size=   45040kB time=00:15:57.00 bitrate= 385.5kbits/s speed=7.85x    frame=  949 fps=7.8 q=-1.0 size=   45078kB time=00:16:00.00 bitrate= 384.7kbits/s speed=7.85x    frame=  953 fps=7.8 q=-1.0 size=   45533kB time=00:16:04.00 bitrate= 386.9kbits/s speed=7.85x    frame=  957 fps=7.8 q=-1.0 size=   45570kB time=00:16:08.00 bitrate= 385.6kbits/s speed=7.85x    frame=  960 fps=7.8 q=-1.0 size=   45606kB time=00:16:11.00 bitrate= 384.8kbits/s speed=7.84x    frame=  965 fps=7.8 q=-1.0 size=   46064kB time=00:16:16.00 bitrate= 386.6kbits/s speed=7.85x    frame=  969 fps=7.8 q=-1.0 size=   46109kB time=00:16:20.00 bitrate= 385.4kbits/s speed=7.85x    frame=  972 fps=7.8 q=-1.0 size=   46143kB time=00:16:23.00 bitrate= 384.5kbits/s speed=7.84x    frame=  975 fps=7.7 q=-1.0 size=   46591kB time=00:16:26.00 bitrate= 387.1kbits/s speed=7.84x    frame=  979 fps=7.7 q=-1.0 size=   46631kB time=00:16:30.00 bitrate= 385.9kbits/s speed=7.84x    frame=  983 fps=7.7 q=-1.0 size=   46670kB time=00:16:34.00 bitrate= 384.6kbits/s speed=7.84x    frame=  987 fps=7.8 q=-1.0 size=   47127kB time=00:16:38.00 bitrate= 386.8kbits/s speed=7.84x    frame=  990 fps=7.7 q=-1.0 size=   47163kB time=00:16:41.00 bitrate= 386.0kbits/s speed=7.83x    frame=  994 fps=7.7 q=-1.0 size=   47204kB time=00:16:45.00 bitrate= 384.8kbits/s speed=7.83x    frame=  998 fps=7.7 q=-1.0 size=   47653kB time=00:16:49.00 bitrate= 386.9kbits/s speed=7.83x    frame= 1001 fps=7.7 q=-1.0 size=   47692kB time=00:16:52.00 bitrate= 386.1kbits/s speed=7.82x    frame= 1005 fps=7.7 q=-1.0 size=   47728kB time=00:16:56.00 bitrate= 384.8kbits/s speed=7.81x    frame= 1008 fps=7.7 q=-1.0 size=   47765kB time=00:16:59.00 bitrate= 384.0kbits/s speed= 7.8x    frame= 1012 fps=7.7 q=-1.0 size=   48219kB time=00:17:03.00 bitrate= 386.1kbits/s speed=7.81x    frame= 1016 fps=7.7 q=-1.0 size=   48260kB time=00:17:07.00 bitrate= 385.0kbits/s speed=7.81x    frame= 1019 fps=7.7 q=-1.0 size=   48294kB time=00:17:10.00 bitrate= 384.1kbits/s speed= 7.8x    frame= 1023 fps=7.7 q=-1.0 size=   48749kB time=00:17:14.00 bitrate= 386.2kbits/s speed= 7.8x    frame= 1027 fps=7.7 q=-1.0 size=   48789kB time=00:17:18.00 bitrate= 385.0kbits/s speed= 7.8x    frame= 1031 fps=7.7 q=-1.0 size=   48830kB time=00:17:22.00 bitrate= 383.9kbits/s speed= 7.8x    frame= 1035 fps=7.7 q=-1.0 size=   49287kB time=00:17:26.00 bitrate= 386.0kbits/s speed= 7.8x    frame= 1039 fps=7.7 q=-1.0 size=   49329kB time=00:17:30.00 bitrate= 384.9kbits/s speed= 7.8x    frame= 1043 fps=7.7 q=-1.0 size=   49371kB time=00:17:34.00 bitrate= 383.7kbits/s speed= 7.8x    frame= 1047 fps=7.7 q=-1.0 Lsize=   49932kB time=00:17:38.00 bitrate= 386.6kbits/s speed=7.82x    
+video:40597kB audio:9222kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.225934%
+[aac @ 0x558006b9e9c0] Qavg: 387.318
+ffmpeg version 3.2.16-1+deb9u1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version=1+deb9u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/output.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf57.56.101
+  Duration: 00:17:39.00, start: 0.000000, bitrate: 386 kb/s
+    Stream #0:0(und): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 314 kb/s, 0.99 fps, 1 tbr, 16384 tbn, 1 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 22050 Hz, mono, fltp, 71 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Output #0, wav, to '/home/arielbmx/horoscopo-del-dia.com/tmp/semanal/output_avi.wav':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    ISFT            : Lavf57.56.101
+    Stream #0:0(und): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, mono, s16, 352 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc57.64.101 pcm_s16le
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+size=    5022kB time=00:01:58.54 bitrate= 347.1kbits/s speed= 237x    size=    9584kB time=00:03:46.64 bitrate= 346.4kbits/s speed= 227x    size=   13922kB time=00:05:29.25 bitrate= 346.4kbits/s speed= 219x    size=   18422kB time=00:07:15.88 bitrate= 346.2kbits/s speed= 218x    size=   22744kB time=00:08:58.77 bitrate= 345.8kbits/s speed= 216x    size=   27034kB time=00:10:40.18 bitrate= 345.9kbits/s speed= 213x    size=   31518kB time=00:12:26.78 bitrate= 345.7kbits/s speed= 213x    size=   35950kB time=00:14:14.40 bitrate= 344.7kbits/s speed= 214x    size=   40284kB time=00:15:59.42 bitrate= 344.0kbits/s speed= 213x    size=   44404kB time=00:17:35.09 bitrate= 344.8kbits/s speed= 211x    size=   44472kB time=00:17:36.67 bitrate= 344.8kbits/s speed= 211x    
+video:0kB audio:44472kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000171%
