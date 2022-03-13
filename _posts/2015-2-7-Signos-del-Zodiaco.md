@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de marzo 2022
-description: Horóscopos del dia de hoy 12 de marzo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de marzo 2022
+description: Horóscopos del dia de hoy 13 de marzo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-03-12
+ lastmod: 2022-03-13
 ---
-Ten receptividad al cambio el día de hoy. Es beneficioso y te apunta hacia direcciones lucrativas, una de las cuales podría ser una agradable sorpresa. Sal de tu caparazón y vuélvete el centro de atención bajo la Luna en Cáncer de esta noche. Es un momento de armonía doméstica para aquellas parejas que decidan quedarse en casa. 
+Hoy, la tendencia es actuar repentinamente durante la oposición entre la Luna y Urano. Siéntate, respira profundamente y espera hasta que el impulso pase. Hay un tremendo poder en las palabras cuando Mercurio conjunta a Plutón esta noche. Ciertamente, tu modo de comunicarte inspira respeto. ¿Qué es lo que vas a decir?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
