@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 07 de marzo 2022 al 13 de marzo 2022 
-description: Horóscopo semanal capricornio 07 de marzo 2022 al 13 de marzo 2022. Vienen emociones fuertes Capricornio, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+title: capricornio 14 de marzo 2022 al 20 de marzo 2022 
+description: Horóscopo semanal capricornio 14 de marzo 2022 al 20 de marzo 2022. Hay cosas que no quieres que ocurran pero que debes aceptar Capricornio, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-03-07
+ogimg: /images/zodiac/semanal_capricornio.png#2022-03-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-03-07'
+ lastmod: '2022-03-14'
 ---
 
 
 
-## Vienen emociones fuertes Capricornio, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+## Hay cosas que no quieres que ocurran pero que debes aceptar Capricornio, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
 
-Llega una etapa buena Capricornio, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no Capricornio. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea…
-Ciertas fuerzas ocultas parecen estar en acción, lo que podría hacerte sentir como si tus mejores esfuerzos estuvieran siendo minados y te preguntes cómo abordar el problema. La mejor manera de manejar esto es relajarte y dar lo mejor de ti a sabiendas de que cierta situación debería facilitarse en pocos días. El cosmos continúa otorgándote interesantes oportunidades siempre y cuando te dispongas a seguir yendo más allá de tus límites. Exponerle tus habilidades al mundo te traerá ganancias en el futuro cercano.
+Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
+ A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
+Aunque puede que sientas muchas ganas de cumplir un objetivo, una persona podría decirte que lo hagas con cautela. ¿Deberías hacerle caso? Quizá no, ya que otra potente mezcla de energías sugiere que debes escuchar a tus instintos, y aquello que percibes como una buena jugada, quizá lo sea. Hay momentos en los que ciertas personas en tu vida te dan buenos consejos, pero durante los primeros días de la semana, esto podría hacerte dudar más que ayudarte.
 
 ## Dinero
 
-Es posible que te hayas estado preocupado por dinero últimamente, sobre todo tu deuda, la cual podría haber permanecido sin resolver durante gran parte del año. Ahora, con algunos aspectos positivos, es el momento de abordarla por última vez. Esto podría implicar el corte de las tarjetas de crédito. O podría tratarse de hacer un plan de pago al que puedas apegarte hasta que sea pagado. Puedes finalmente hacer que suceda, así que no te demores.
+Este es el momento de centrarte en cómo puedes hacer más cosas como parte de un equipo que como un individuo. Hay tanto sucediendo en tu sector de relaciones que simplemente eres capaz de atraer a ciertos socios de una empresa de nuevos negocios cuyas habilidades se complementen perfectamente con las tuyas. Al mismo tiempo, tus redes sociales, la influencia política y el acceso a tus esperanzas y sueños se amplían. Te manifiestas a un alto nivel ahora. Pide lo que quieras.

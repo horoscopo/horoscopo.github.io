@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 07 de marzo 2022 al 13 de marzo 2022 
-description: Horóscopo semanal aries 07 de marzo 2022 al 13 de marzo 2022. Sumisión contigo van a encontrar poca ahora Aries… Muy poca.
+title: aries 14 de marzo 2022 al 20 de marzo 2022 
+description: Horóscopo semanal aries 14 de marzo 2022 al 20 de marzo 2022. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-03-07
+ogimg: /images/zodiac/semanal_aries.png#2022-03-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-03-07'
+ lastmod: '2022-03-14'
 ---
 
 
 
-## Sumisión contigo van a encontrar poca ahora Aries… Muy poca.
+## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 
-Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo Aries, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no Aries, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
-Hay tanto por explorar que hasta podrías ocuparte durante horas con toda la información y las oportunidades que te son reveladas. Aun así, sigue habiendo responsabilidades que tienes que atender, ya que te ayudarán a mantener los pies en el suelo. Durante los próximos días podría haber muchas razones por las que sientas tentación a abandonar lo mundano en búsqueda de lo misterioso y seductor. Sin embargo, mantén los ojos bien abiertos, ya que una opción más práctica y tal vez lucrativa podría aparecérsete.
+A veces, no es fácil vivir la vida Aries, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera Aries. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
+Con el actual enfoque en tu sector ambiciones profesionales, esta semana se ve perfecta para subirte al escenario del éxito. Incluso si has estado experimentado algunas dificultades últimamente, la confianza que te surge de mostrar tus habilidades y capacidades, de cerrar un trato, o al asegurar un nuevo trabajo, te anima a perseverar. Es posible que tengas demasiadas responsabilidades, así que delegar sería una forma de facilitar las cosas, sobre todo en casa y en relación a tareas hogareñas.
 
 ## Dinero
 
-Esta semana, el Universo no sólo trae un montón de comunicación, sino también una gran cantidad de trabajo. No te sorprendas si tu semana se repleta de formularios, archivos y tareas similares. Dado que también afecta a tu sector de instituciones, estás consolidando un viejo sueño, aunque no sea fácil de obtener. Terminarás por apreciar incluso hasta lo que parece más aburrido, repetitivo, tedioso, o simplemente molesto.
+Este periodo es acerca de los aspectos armoniosos trayéndole amor a tu vida hogareña y permitiendo que los sentimientos y recuerdos cálidos emerjan. Al mismo tiempo, se te recomienda abrirte a ellos y tal vez incluso utilizarlos en tu trabajo. Deja que tu imaginación vuele y puede que te percates de que tienes grandes ideas para generar más dinero.

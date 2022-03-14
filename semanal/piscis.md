@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 07 de marzo 2022 al 13 de marzo 2022 
-description: Horóscopo semanal piscis 07 de marzo 2022 al 13 de marzo 2022. Esta semana relájate un poco Piscis, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: piscis 14 de marzo 2022 al 20 de marzo 2022 
+description: Horóscopo semanal piscis 14 de marzo 2022 al 20 de marzo 2022. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-03-07
+ogimg: /images/zodiac/semanal_piscis.png#2022-03-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-03-07'
+ lastmod: '2022-03-14'
 ---
 
 
 
-## Esta semana relájate un poco Piscis, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 
-Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
- Busca siempre la parte buena de cada momento en el que te encuentres.
-Mientras que podrías ocuparte con ideas creativas o deportes competitivos, esta semana podría traerle un potencial cambio a tus intereses. Con Júpiter entrando a Virgo, es posible que te percates de que tu nivel de energía y vitalidad en general aumentan. Puede que también tengas ansias de analizar tu manejo de tiempo, así como la forma de agilizar tus hábitos y rutina diaria para tener mejores resultados. La actividad lunar del Viernes puede ser un buen momento para iniciar un negocio desde tu hogar o invitar a salir a una persona especial.
+Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. Piscis, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota Piscis, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando Piscis. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce Piscis, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+Probablemente ya seas el centro de atención, con el animado Júpiter y el alegre sol en tu sector de metas y ambición. Sin embargo, el encantador Venus también ingresa a ese mismo sector el martes. Esto te ayuda a progresar si tienes un poco de encanto y tacto. Incluso los acuerdos más difíciles pueden ser más llevaderos y sencillos si tienes esto en cuenta. Por otro lado, una poderosa conexión entre el prudente Saturno y el incansable Urano podría dar como resultado el buen progreso de una colaboración. Puede que la conclusión no esté demasiado lejos.
 
 ## Dinero
 
-Estás atrapado/a en fuego cruzado y podría ser necesario recurrir a tus excelentes habilidades diplomáticas para suavizar alguna situación. Tu estado financiero está mucho mejor últimamente ya que has combinado tu  creatividad con la poca suerte que tienes. Sin embargo, tus amigos y redes sociales  pueden no estar tan felices al respecto, puede ser que algunos estén molestos por tu éxito. En lugar de tomarlo como algo personal, estate consciente de que esto también pasará.
+Puede que sientas  como que el Universo apoya tus proyectos y metas esta semana. Pero puede que tengas que acceder a tus poderes de comunicación para expresar tu opinión y obtener lo que viene a ti financiera y de otras formas. En otras noticias, las indicaciones muestran que tu panorama de deuda está a punto de mejorar muchísimo. Has hecho un buen trabajo, por lo que disfruta de las recompensas.

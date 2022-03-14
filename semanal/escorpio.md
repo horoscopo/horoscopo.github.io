@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 07 de marzo 2022 al 13 de marzo 2022 
-description: Horóscopo semanal escorpio 07 de marzo 2022 al 13 de marzo 2022. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+title: escorpio 14 de marzo 2022 al 20 de marzo 2022 
+description: Horóscopo semanal escorpio 14 de marzo 2022 al 20 de marzo 2022. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-03-07
+ogimg: /images/zodiac/semanal_escorpio.png#2022-03-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-03-07'
+ lastmod: '2022-03-14'
 ---
 
 
 
-## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 
-Esfuérzate un poco más de lo que hiciste ayer Escorpio, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
- de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
-Un toque de realismo no te vendría mal esta semana, sobre todo cuando se trata de crear un plan de negocios o discutir un tema clave. Si bien es bueno tener una visión que todo lo abarca, podrás tener más éxito si puedes demostrar que has hecho tu tarea y tienes una buena comprensión de los hechos. Mientras tanto, con Marte avanzando desde mitad de semana, ciertas cuestiones monetarias podrían empezar a mejorar. Podrías incluso percatarte de que tu flujo de efectivo mejora y también que ciertas relaciones se vuelven más estables como resultado.
+¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
+ lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Escorpio.
+Si te has sentido un tanto impotente para cambiar una situación determinada, los cambios planetarios de esta semana podrían ayudarte a reescribir la historia. Tal vez te hayas estado culpando o sintiendo remordimiento por la forma en que ciertos eventos hayan sucedido, pero podrías darte cuenta de que no hay necesidad de hacer esto. La clave podría consistir en asumir la responsabilidad de lo que puedes controlar y deshacerte del resto. Una vez que Venus entre a Cáncer el viernes, te vendría muy bien consentirte tanto a ti como a tu cuerpo.
 
 ## Dinero
 
-Que nunca se diga que no eres inteligente con el dinero. En el pasado, podría muy bien haber sido que se te escapó de las manos como el agua. Pero ahora tienes más disciplina sobre la forma en la que ganas y gastas. Es posible que desees ampliar tu forma de pensar acerca de inversiones. Las instituciones más grandes pueden tener una ventaja en este momento, y podrías percatarte de que están mejor equipadas para manejar tus fondos.
+Tu sector de carrera se expande y te das a notar esta semana. Hay una atmósfera de amor en el trabajo. Es seguro que encontrarás ideas creativas que fluyen. Mientras tanto, tienes la capacidad de construir sobre los éxitos del pasado, proporcionando un elenco de apoyo dispuesto a tomar la dirección en el trabajo. Si alguna vez hubo una semana en la que estuvieras a cargo, esa es esta. Haz conocer tus necesidades y los demás las realizarán.

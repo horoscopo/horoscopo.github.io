@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 07 de marzo 2022 al 13 de marzo 2022 
-description: Horóscopo semanal virgo 07 de marzo 2022 al 13 de marzo 2022. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+title: virgo 14 de marzo 2022 al 20 de marzo 2022 
+description: Horóscopo semanal virgo 14 de marzo 2022 al 20 de marzo 2022. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-03-07
+ogimg: /images/zodiac/semanal_virgo.png#2022-03-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-03-07'
+ lastmod: '2022-03-14'
 ---
 
 
 
-## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 
-El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
-El Sol en Capricornio te estimula a organizarte en relación a cuestiones de trabajo, estilo de vida y bienestar. Tu enfoque también se concentrará en el ocio y el placer cuando Venus entre a Sagitario, dándote una gran oportunidad para disfrutar del fin de semana. Además, Marte entrando a tu sector familiar podría darte ganas de eliminar el desorden. Esto significa abordar aquellas áreas que no han visto la luz del día durante algún tiempo. Te sentirás mucho mejor una vez que empieces.
+Tienes que empezar a vivir de nuevo Virgo, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad Virgo, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+Con la actual alineación en tu sector de espiritualidad y reflexión, la Luna Llena del viernes podría alentar una mayor atención hacia los aspectos más sutiles de tu vida. Esto podría significar adoptar una práctica como la meditación o el yoga que puedan ayudarte a ampliar tu conciencia y comprenderte más como persona. Puede que también te percates de que la inspiración fluye libremente, aportando ideas para tus planes y proyectos creativos. Si un vívido sueño te despierta, sería bueno que tomaras nota de él.
 
 ## Dinero
 
-Esta semana es como una bolsa mixta de tu “yo”. Por un lado, tienes una energía repentina y expansiva afectando a tu sector de grupos y negocios propios, lo que sugiere que puede que estés pensando en convertir una habilidad en un negocio rentable. Por otro lado, tu sector de deuda y el dinero de otras personas entran en juego. No pidas prestado más de lo que te puedes permitir con el fin de lograr que este negocio entre en marcha.
+Tienes una semana difícil por delante. Puede que sientas como si te estuvieras conduciendo hacia una dirección en particular - porque lo estás. Se supone que debes hacer nuevos amigos en el trabajo, encontrar un mentor, o ampliar tu búsqueda de trabajo para ganar más dinero en un futuro próximo. Los resultados se revelan relativamente pronto.
