@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de marzo 2022
-description: Horóscopos del dia de hoy 16 de marzo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de marzo 2022
+description: Horóscopos del dia de hoy 17 de marzo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-03-16
+ lastmod: 2022-03-17
 ---
-Aunque cubres mucho terreno rápidamente, trata de no tener descuido al actuar con tanta prisa mientras Mercurio cuadra a Plutón. A veces, hacer muchas cosas a la vez no es algo bueno. Esta noche está llena de promesas implícitas. Sin embargo, puede que terminen creando un par de problemas mientras la Luna aspecta a Plutón.
+Con la Luna en Géminis oponiéndose a Saturno, te despiertas con un nuevo sentido de propósito, planes, e incluso un poco más de ambición. Las emociones son muy sensibles esta tarde. Un gran comienzo, pero, ¡¿de dónde proviene toda esta ira?! El magnetismo de esta noche despierta una gran cantidad de sensuales chispas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
