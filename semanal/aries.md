@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 14 de marzo 2022 al 20 de marzo 2022 
-description: Horóscopo semanal aries 14 de marzo 2022 al 20 de marzo 2022. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+title: aries 21 de marzo 2022 al 27 de marzo 2022 
+description: Horóscopo semanal aries 21 de marzo 2022 al 27 de marzo 2022. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-03-14
+ogimg: /images/zodiac/semanal_aries.png#2022-03-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-03-14'
+ lastmod: '2022-03-21'
 ---
 
 
 
-## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 
-A veces, no es fácil vivir la vida Aries, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera Aries. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-Con el actual enfoque en tu sector ambiciones profesionales, esta semana se ve perfecta para subirte al escenario del éxito. Incluso si has estado experimentado algunas dificultades últimamente, la confianza que te surge de mostrar tus habilidades y capacidades, de cerrar un trato, o al asegurar un nuevo trabajo, te anima a perseverar. Es posible que tengas demasiadas responsabilidades, así que delegar sería una forma de facilitar las cosas, sobre todo en casa y en relación a tareas hogareñas.
+Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo.
+Con Venus entrando a Géminis el martes, puede que estés buscando una aventura amorosa o tengas deseos de explorar horizontes lejanos y conocer gente nueva. Cualquier cosa exótica, nueva y diferente podría llamarte la atención y podría abarcar tu gusto por alimentos, ropa o artículos. Una vez que Marte se sumerja de nuevo en Escorpión y tu sector de finanzas, tendrás una segunda oportunidad para poner tus finanzas en orden y resolver cualquier deuda. También podría interesarte reusar y reciclar en este momento.
 
 ## Dinero
 
-Este periodo es acerca de los aspectos armoniosos trayéndole amor a tu vida hogareña y permitiendo que los sentimientos y recuerdos cálidos emerjan. Al mismo tiempo, se te recomienda abrirte a ellos y tal vez incluso utilizarlos en tu trabajo. Deja que tu imaginación vuele y puede que te percates de que tienes grandes ideas para generar más dinero.
+Es hora de renovar tus habilidades comunicativas. ¿Te cansa que se les promueva a los demás y no a ti? No es la calidad de su trabajo, sino la forma en la que son capaces de lograr que sus superiores se den cuenta de lo que hacen. Ahora, con algunas personas realmente únicas entrando en tu círculo social, eres capaz de sentir más comodidad con tu falta de normalidad. A partir de ahí, todo lo que tienes que hacer es pedir lo que vales.
