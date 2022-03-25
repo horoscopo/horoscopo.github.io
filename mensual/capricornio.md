@@ -1,24 +1,26 @@
 ---
 layout: horoscopos
-title: Horoscopo Capricornio Marzo 2022
-description: El Horóscopo Marzo de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Capricornio Abril 2022
+description: El Horóscopo Abril de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo Capricornio marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo Capricornio abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2022-02-26
+ogimg: /images/mes/capricornio_mes.png#2022-03-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-02-26'
+ lastmod: '2022-03-25'
 ---
 
 
- > Capricornio da rienda suelta a tu imaginación durante el mes de marzo porque estarás de lo más proactiva con tu entorno. Tus relaciones se verán beneficiadas por esta actitud tan positiva y querrás compartir y disfrutar como nunca.
+ > Capricornio será un mes muy erótico y tú irradiarás encanto y alegría. En el plano sexual las cosas estarán candentes, como si el frío invernal activara la chimenea de la pasión.
+ 
+abril te invita a disfrutar de los placeres de la vida y una intensa vida social.
 
 
 
-Escucha con más atención y habla con mayor tranquilidad durante las dos primeras semanas del mes. Muchas personas podrían tener cosas que decirte bajo la Luna Nueva del 2 de marzo, y puede que te interese escucharlas. Algo nuevo y emocionante podía entrar a tu vida después de la Luna Llena del 18 de marzo. Puede que no surja muy lejos de tu hogar, pero aun así despertará una gran cantidad de entusiasmo. Una amistad podría darte algunas noticias que iluminen tu mente y ensanchen tu mundo. Ya sea tus amigos o familia te apoyarán el 26 de marzo al facilitar las cosas si un romance de fin de semana empieza a volverse una dramática novela.
+La Luna Nueva al inicio de abril ilumina tu vida social y tu compromiso hacia cualquier club u organización a los que perteneces. Una causa o grupo podría llamarle la atención a tu sentido de servicio público y podría darte inspiración para unirte como voluntario. En cualquier caso, tu interés inspirará a otros. Escucha lo que tus corazonadas te digan cuando la Luna conjunte a Neptuno el 13 de abril. Haz uso de tu intuición y ten un gran día en el trabajo. Brilla saludable y felizmente bajo la Luna Llena del 16 de abril. Puede que incluso te encuentres cuidando de una nueva mascota, si no es que de una nueva y noble causa. Disfruta de ese brillo dorado interior.   

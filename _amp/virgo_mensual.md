@@ -1,20 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Virgo Marzo 2022 
+title: Horoscopo Virgo Abril 2022 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2022-02-26
+ogimg: /images/mes/Virgo_mes.png#2022-03-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-02-26'
+ lastmod: '2022-03-25'
 ---
 
 
-Mientras culmina el primer trimestre del año, un viejo sueño parece desaparecer, pero también hay nuevas puertas que se abren. Entonces, ¿qué objetivos, sueños y aspiraciones quieres que se vuelvan realidad el resto del año, tanto a nivel personal como profesional? 
-La luna nueva en Capricornio del 2 de marzo te pide alinearte con una visión más grande y una ambición altruista. Tienes una reputación por algo. Si es buena o mala no es de tu incumbencia. No todo el mundo va a quererte todo el tiempo, y siempre habrá pesimistas. Lo que importa es que practiques lo que predicas, da el ejemplo, y mantente fiel a tus valores. Evita las comparaciones o entrar en una carrera de locos de la que no puedes salir. Tus talentos y habilidades se notan, y darán sus frutos. 
-Ha sido un largo camino para llegar a donde estás ahora, y estás dando un giro a una situación social difícil. Esto no se trata del éxito, sino de tu legado y regalo para el mundo. Ten más fe en ti y en tus habilidades. Y recuerda que solo la humildad lleva a la verdadera grandeza.
+Produce tu mejor y más importante obra detrás de escenas bajo la manifestación de la Luna Nueva del primero de abril. La discreción te permite hacer más de lo que quieres hacer con menos interferencias. Visiblemente te ocuparás como habitualmente lo estás, pero lo que hagas más en privado será más importante y satisfactorio. La Luna conjunta a Urano el 15 de abril, cuando deberías adoptar un enfoque diferente y pensar radicalmente. Bajo la Luna Llena del 16 de abril, un adorador y nuevo interés amoroso podría aparecer para impresionarte y hacerte saber lo verdaderamente especial que eres muy en el fondo. Alternativamente, tu muy dedicada pareja podría irradiarte gran amor para ayudarte a recordarlo.

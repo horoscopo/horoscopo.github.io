@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Sagitario Marzo 2022
-description: El Horóscopo Marzo de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Sagitario Abril 2022
+description: El Horóscopo Abril de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo Sagitario marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo Sagitario abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/sagitario_mes.png#2022-02-26
+ogimg: /images/mes/sagitario_mes.png#2022-03-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-02-26'
+ lastmod: '2022-03-25'
 ---
 
 
- > Sagitario despídete de los malos presentimientos porque en el mes de marzo la fortuna será tu mejor aliada, así que debes confiar al máximo en todo lo que te traen los astros. Habla alto y claro de tus sentimientos por esa persona y no postergues más el inicio de un mágico encuentro.
+ > Sagitario las circunstancias que estás viviendo actualmente harán que, durante el mes de abril, te replantees relaciones y vínculos, afrontando además nuevos retos que necesitabas para avanzar.
 
 
 
-Aprecia los detalles de tu mundo durante la luna nueva del 2 de marzo. Presta mucha atención a las cosas pequeñas tanto como a las grandes. El día 13, Venus forma una cuadratura con Saturno. Una amistad o relación amorosa podría desarrollar algunas complicaciones superficiales. La llena nueva del 18 de marzo está llena de diversión y fantasía con tu gente. Déjalos que salgan con sus ocurrencias. Déjate sorprender y entretener con alegría. Profesión e imagen social se encienden durante la luna llena, y luna azul, el último día del mes. Triunfa en esa entrevista, escribe esa hoja de vida, mantén una buena relación con tus colegas, gana puntos con la administración. Si trabajas de forma independiente, consigue trabajos o buenas asociaciones.
+La Luna Nueva del primero de abril te hace la estrella en tu trabajo durante la segunda semana del mes. Disfruta de tener una gran química con compañeros de trabajo y todos los demás. Algo que gratamente podría mejorar tus finanzas hogareñas también. La Luna Llena del 16 de abril emana su brillo en tu entorno hogareño y familiar. Los sentimientos serán profundos, y puede que imagines fricción donde no la hay. Una gran cantidad de personas están distraídas ahora, algunas cercanas a ti. Siéntete bien en tu propia piel y tu propio espacio, y deja que la charla de fondo se desvanezca. El sextil entre la Luna y Venus del 30 de abril marca el comienzo de un fin de semana social y deliciosamente divertido. 

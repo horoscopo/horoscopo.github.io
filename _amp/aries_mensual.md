@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Aries Marzo 2022 
+title: Horoscopo Aries Abril 2022 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2022-02-26
+ogimg: /images/mes/Aries_mes.png#2022-03-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-02-26'
+ lastmod: '2022-03-25'
 ---
 
 
-El ciclo retrógrado de Mercurio termina el 3 de marzo en Aries. Si has sentido ganas de hacer algo nuevo, este es el momento. Los asuntos familiares te tocan más profundamente que nunca con la Luna Llena del 18 de marzo. Puede que tengas un pedido de último minuto relacionado con el trabajo, y los compromisos sociales podrían interferir, pero nada te distraerá de un evento familiar o de reunirte con un pariente. Tu vida social resplandece a medida que se acerca la Luna Nueva del 1 de abril. Prepárate para una época de muchas actividades. Todo lo que te rodea puede despertar tu interés y estimular tu apetito por algo deslumbrante y nuevo para ver, hacer o visitar.
+Adopta una actitud más seria hacia tu vida el 3 de abril, cuando Marte, tu planeta regente, entre al determinado Escorpión. Vierte tu corazón ya sea en tu trabajo o participación en la vida pública bajo la Luna Nueva del primero de abril. Formula tu estrategia completamente y apégate a ella, poco a poco, día con día. Tienes muchos aliados y simpatizantes. La Luna Llena del 16 de abril podría animarte a salir en busca de un nuevo tipo de diversión, tal vez con un grupo de gente más grande. Quieres que se te note y hay gente por ahí en busca de alguien como tú. Sin embargo, no dejes que la idea de emoción de alguien más te desvíe de tu curso.
