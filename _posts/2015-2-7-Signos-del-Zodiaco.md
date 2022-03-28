@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de marzo 2022
-description: Horóscopos del dia de hoy 27 de marzo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de marzo 2022
+description: Horóscopos del dia de hoy 28 de marzo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-03-27
+ lastmod: 2022-03-28
 ---
-El poder de Marte es más amable al encontrarse en Piscis. No es un renacimiento de la audacia, pero te percatarás de que tal enfoque tiene sus ventajas. (Recuerda lo que te estaba pasando hace dos años y medio). Mercurio iniciando su retroceso esta noche trae consigo déjà vus. Si algo te resulta familiar, tal vez no puedas identificarlo debido a que se te escapó la primera vez.
+Si necesitas un catalizador para empezar cosas en los próximos cuatro días, el aspecto de hoy entre Marte y Urano es lo que buscas. Si por casualidad había alguien, o incluso algo, con lo que esperabas poder evitar toparte, la Luna saliéndose de su órbita podría concedértelo esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
