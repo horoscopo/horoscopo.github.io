@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 21 de marzo 2022 al 27 de marzo 2022 
-description: Horóscopo semanal capricornio 21 de marzo 2022 al 27 de marzo 2022. Recuerda que ha empezado la época de los Capricornio… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+title: capricornio 28 de marzo 2022 al 03 de abril 2022 
+description: Horóscopo semanal capricornio 28 de marzo 2022 al 03 de abril 2022. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-03-21
+ogimg: /images/zodiac/semanal_capricornio.png#2022-03-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-03-21'
+ lastmod: '2022-03-28'
 ---
 
 
 
-## Recuerda que ha empezado la época de los Capricornio… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
 
-A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
- nada es para siempre, ni siquiera los problemas ni las preocupaciones…
-Aunque puede que te resulte difícil apegarte a un plan relacionado a dieta o rutina de ejercicio, podrías beneficiarte al hacer un poco de esfuerzo. La presencia de Venus en tu sector de estilo de vida podría animarte a darte gustos a pesar de que sabes que no debes. El fin de semana trae consigo actividad lunar en tu signo, pudiendo ponerte en un estado de ánimo muy emocional y quizás llevándote a impulsivamente decir una o dos cosas que no deberías. Cuando te encuentres en una situación social o íntima, piensa antes de hablar.
+Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande Capricornio, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Capricornio, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
+Planes de actividades placenteras pasan a primer plano conforme tú y tu pareja, interés amoroso, o tal vez familia e hijos se juntan en un espíritu de diversión y aventura. También podría ser un periodo para darte gustos con Venus en Tauro animándote a salir a decadentes citas románticas. Las actividades culturales también pueden aportarles una gran cantidad de gozo. Si tienes ansias por aumentar tu conocimiento musical o artístico, este es el momento de hacerlo. Sin embargo, debido a la prominente influencia de Neptuno, ten cuidado con lo que prometes y a quién.
 
 ## Dinero
 
-Tienes que pensar un poco acerca de tu casa. Desde la decoración, la organización, los muebles, tienes mucho que hacer por ahora. Pero hay cierta confusión en tus relaciones más cercanas. Ya sea que se trate de personal o profesional, la comunicación debe ser clara y concisa para que no se malinterprete. Mucho está en juego en éste aspecto.
+Recibes un impulso de energía positiva del Universo esta semana. Esto combina tus energías masculinas y femeninas de una manera pacífica, armoniosa y te permite participar en actividades divertidas que involucran tanto a amantes, como a familiares. Sin embargo, otro aspecto te afecta en el área que gobierna los valores y las ganancias. Ambos tienen que ser revisados para que puedas ganar dinero en serio.

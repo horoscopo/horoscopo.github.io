@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 21 de marzo 2022 al 27 de marzo 2022 
-description: Horóscopo semanal aries 21 de marzo 2022 al 27 de marzo 2022. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+title: aries 28 de marzo 2022 al 03 de abril 2022 
+description: Horóscopo semanal aries 28 de marzo 2022 al 03 de abril 2022. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Aries, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-03-21
+ogimg: /images/zodiac/semanal_aries.png#2022-03-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-03-21'
+ lastmod: '2022-03-28'
 ---
 
 
 
-## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Aries, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 
-Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo.
-Con Venus entrando a Géminis el martes, puede que estés buscando una aventura amorosa o tengas deseos de explorar horizontes lejanos y conocer gente nueva. Cualquier cosa exótica, nueva y diferente podría llamarte la atención y podría abarcar tu gusto por alimentos, ropa o artículos. Una vez que Marte se sumerja de nuevo en Escorpión y tu sector de finanzas, tendrás una segunda oportunidad para poner tus finanzas en orden y resolver cualquier deuda. También podría interesarte reusar y reciclar en este momento.
+Estás activo Aries, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
+Puede que te ayude escribir una lista de cosas por hacer antes de que comience la semana, ya que podría ser demasiado fácil distraerte una vez que Marte se alinee con Neptuno. Los días por delante podrían verte ofreciendo tu tiempo para ayudar a los demás cuando lo que tienes que hacer es terminar tus propias tareas o responsabilidades. Sin embargo, la tensión podría aliviarse un poco conforme el Sol entre al alegre Acuario. Además, el ocio y la diversión podrían apoderarse de ti, sobre todo cuando la actividad lunar del fin de semana te tiente a salir de fiesta.
 
 ## Dinero
 
-Es hora de renovar tus habilidades comunicativas. ¿Te cansa que se les promueva a los demás y no a ti? No es la calidad de su trabajo, sino la forma en la que son capaces de lograr que sus superiores se den cuenta de lo que hacen. Ahora, con algunas personas realmente únicas entrando en tu círculo social, eres capaz de sentir más comodidad con tu falta de normalidad. A partir de ahí, todo lo que tienes que hacer es pedir lo que vales.
+Este período es acerca de cómo adoptar un amplio plan de pago de deuda para lograr que esa parte de tu vida sea resuelva por última vez. Es posible que en el pasado hayas sentido agobio por la cantidad que debías en tarjetas de crédito, crédito hipotecario, o préstamos de familiares y amigos. Sin embargo, ahora tienes la ventaja y el impulso para nivelarte. Desvía el diez por ciento de tu ingreso hacia esta área.

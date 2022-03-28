@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: libra 21 de marzo 2022 al 27 de marzo 2022 
-description: Horóscopo semanal libra 21 de marzo 2022 al 27 de marzo 2022. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Libra, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Libra, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+title: libra 28 de marzo 2022 al 03 de abril 2022 
+description: Horóscopo semanal libra 28 de marzo 2022 al 03 de abril 2022. Perdona Libra, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2022-03-21
+ogimg: /images/zodiac/semanal_libra.png#2022-03-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-03-21'
+ lastmod: '2022-03-28'
 ---
 
 
 
-## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Libra, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Libra, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+## Perdona Libra, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 
-Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
-Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
-El Sol entra a tu sector social, animándote a socializar, aceptar invitaciones y disfrutar de pasar tiempo con amigos. La semana de festividades se vislumbra perfecta para relaciones románticas, así como también oportunidades para avanzar hacia nuevos círculos. De hecho, el viernes 25 de marzo podría hacer surgir una oportunidad muy emocionante si lo que buscas es romance. Si ya tienes pareja, tú y tu amor podrían pasársela de lo lindo ya sea solos o en familia. Además, tus finanzas podrían no ser tan susceptibles a interrupciones como lo han sido últimamente.
+Necesitas tener un objetivo en la vida Libra, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada Libra, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
+Ten cuidado con los mensajes mixtos que podrían volver confusa una nueva relación o amistad. Puede que sea fácil malinterpretar una conversación o un gesto, lo que podría ser vergonzoso. Sin embargo, si puedes evitar hacer una promesa, tener expectativas altas o poner a esta persona en un pedestal, quizá puedas evitar un problema. Al finalizar la semana, tu perspectiva estará mucho más centrada y te sentirás con los pies en la tierra.
 
 ## Dinero
 
-Hay algunos problemas en tu hogar, en los que te estás muriendo por gastar. Desde querer un espacio más amplio a comprometerte en hacer mejoras, es crucial determinar de antemano lo que puedes gastarte. Querrás entretener e impresionar a aquellos con quienes haces negocios. No te preocupes. Todo viene a su debido tiempo. Primero trabaja y luego recoge los frutos.
+Estás pensando en maneras de atraer más dinero a la semana para poder disfrutar de un estilo de vida más cómodo. No es un mal plan, considerando todo. El reto será equilibrar tu deseo de divertirte con tu familia y pareja romántica con tu necesidad de establecer tu propia creatividad. Tu impulso de escribir, reproducir y crear, construye recompensas emocionales y rendimientos monetarios.
