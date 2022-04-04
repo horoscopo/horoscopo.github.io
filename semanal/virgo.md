@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 28 de marzo 2022 al 03 de abril 2022 
-description: Horóscopo semanal virgo 28 de marzo 2022 al 03 de abril 2022. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Virgo. 
+title: virgo 04 de abril 2022 al 10 de abril 2022 
+description: Horóscopo semanal virgo 04 de abril 2022 al 10 de abril 2022. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-03-28
+ogimg: /images/zodiac/semanal_virgo.png#2022-04-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-03-28'
+ lastmod: '2022-04-04'
 ---
 
 
 
-## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Virgo. 
+## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
 
-Céntrate en tus metas Virgo, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-Desde principios de semana, tu vida adopta un tono romántico que podría darle un especial brillo a tu relación de pareja. Sin embargo, si es que tienen que colaborar en un proyecto, asegúrate de que ambos estén en la misma frecuencia. El Sol entra a Acuario y a tu sector personal financiero a mitad de semana, animándote a analizar tu situación económica y encontrar inventivas maneras de ganar dinero extra o aumentar tus ingresos. La actividad lunar del sábado podría traer consigo el deseo de gastar de más, por lo que ten cuidado.
+No puedes estancarte con algo Virgo, no debes dejar de crecer nunca. Esta semana vas a estar pensando y analizando la situación de tu vida, ¿estás haciendo lo que realmente quieres hacer? No Virgo, hay cosas que quieres cambiar pero tienes que cambiarlas ya, empezar y terminar. No puedes conformarte con la vida que estás llevando, el tiempo pasa muy deprisa y cuando te quieras dar cuenta quizás ya sea demasiado tarde, o quizás te sea mucho más complicado tomar decisiones. Sigue con tus proyectos y no te amargues cuando no veas resultados inmediatos. Lo bueno siempre tarda en llegar. Lo que tienes que hacer es no desanimarte. Saca tu verdadero yo, no te metas en nada superficial, al fin y al cabo esas cosas te merman mucho, no es lo tuyo Virgo. No vale ni un segundo de tu tiempo. No te calientes demasiado acordándote de cosas que ya fueron y que ahora no son, que jamás podrán volver a ser, sigues perdiendo tu tiempo como lo hagas así. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. No eres mediocre Virgo así que, no quieras llevar esa vida, agarra el amor propio que te sale para buscar mejores oportunidades. No es que seas egoísta, no es que te vuelvas egoísta, es que es algo vital que hagas tu vida.
+Tal vez te ayudaría aligerar tu agenda, ya que una potente mezcla de fuerzas celestiales podría disminuir tu vitalidad. El actual escenario podría llevarte en diferentes direcciones y exponerte a eventos que ocurran de la nada. Para poder lidiar con ellos, es mejor eliminar las actividades innecesarias. Al mismo tiempo, tal vez debas rechazar algunas invitaciones, en especial si necesitas tiempo a solas y un momento para pensar. ¡Pero el fin de semana debería ser entretenido!
 
 ## Dinero
 
-Con tantos planetas afectando tu sector de dinero esta semana, puede que tengas la tentación de correr y esconderte. Pero a medida que el Universo se centra en tu sector de dinero y valores, se te está pidiendo ser más responsable en la forma en la que ganas dinero. También se te insta a ser mucho más sociable cuando se trata de tu dinero.
+Tienes una semana de mucho trabajo por delante con planetas afectando tu sector de carrera y autoridad. Estás asumiendo una posición más poderosa en el trabajo ahora, y posiblemente un título o una nueva posición junto con ello. Celebra tu éxito en lugar de buscar una posición aún mayor. Ciertos aspectos indican un momento de tener más seriedad en el desarrollo de redes de profesionales que te pueden apoyar en los momentos de apuro.
