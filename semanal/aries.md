@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 04 de abril 2022 al 10 de abril 2022 
-description: Horóscopo semanal aries 04 de abril 2022 al 10 de abril 2022. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+title: aries 11 de abril 2022 al 17 de abril 2022 
+description: Horóscopo semanal aries 11 de abril 2022 al 17 de abril 2022. Vamos Aries, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-04-04
+ogimg: /images/zodiac/semanal_aries.png#2022-04-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-04'
+ lastmod: '2022-04-11'
 ---
 
 
 
-## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+## Vamos Aries, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 
-No te calientes Aries, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no Aries, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien Aries, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
-La opción de expandir tus horizontes podría manifestarse en tu interés hacia cursos, talleres o viajes. Las experiencias espirituales también cuentan ahora, por lo que optar por un retiro en el que es posible que te llegues a conocer mejor como persona es igual de válido. Los asuntos monetarios, sobre todo con respecto a recursos compartidos y asuntos empresariales, reciben un impulso de Marte entrando a Libra, provocando tu deseo de aumentar tus ganancias o de crear más fuentes de ingresos. Equilibra tu tiempo de trabajo con tiempo de relajación para evitar agotamiento.
+El mundo no te entiende Aries, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Aries, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Aries, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
+Cuando el conversador Mercurio y el encantador Venus ingresan a tu sector de recreación, puede que sientas más energía, alegría y ganas de salir y disfrutar. Y, mientras que el sol en tu sector del hogar podría encontrarte saliendo del centro de atención y disfrutando de la tranquilidad, la oportunidad de una salida o evento cultural podría hacer que sientas una ola de energía positiva. Marte, tu planeta regente, ingresará a su fase retrógrada en tu sector espiritual a mitad de semana, lo que podría animarte a prestar aún más atención a tus sueños e intuitivos impulsos.
 
 ## Dinero
 
-Esta semana te diriges a un periodo de introspección, tanto literal como metafóricamente. Esto se debe a ciertos aspectos que afectan tu sector de hogar físico y profundas emociones internas. La forma en la que cuidas de ti mismo/a está en enfoque ahora. Debes decidir si llevas un poco de trabajo a casa o incluso establecer una oficina en ella que te permita hacer más con menos distracciones. El dinero procede a estos esfuerzos.
+Hay mucho sucediendo en tu sector de trabajo. Sin duda, tu trabajo ha llamado recientemente la atención de tus superiores, y si no, toma algunas medidas fuertes pero sutiles para asegurarte de que lo que haces es tomado en cuenta. Es posible que desees mantener escritos tus logros. Podría ser útil el tener notas la próxima vez que las revisiones de desempeño tomen lugar. Es necesario construir tu caso si lo que quieres es un aumento de sueldo.

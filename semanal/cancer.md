@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 04 de abril 2022 al 10 de abril 2022 
-description: Horóscopo semanal cancer 04 de abril 2022 al 10 de abril 2022. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+title: cancer 11 de abril 2022 al 17 de abril 2022 
+description: Horóscopo semanal cancer 11 de abril 2022 al 17 de abril 2022. El mundo puede esperar Cáncer, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-04-04
+ogimg: /images/zodiac/semanal_cancer.png#2022-04-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-04'
+ lastmod: '2022-04-11'
 ---
 
 
 
-## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+## El mundo puede esperar Cáncer, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-Tienes que motivarte Cáncer. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino Cáncer. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro Cáncer, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa Cáncer, ¿tu tiempo no vale nada o qué?
-Es tiempo para la acción y la aventura conforme aspectos actuales te empujan a salirte de tu zona de confort. Si has estado planeando unas vacaciones, es probable que optes por algo diferente. También hay la posibilidad de romance mientras exploras nuevos lugares y culturas. Metas más materialistas también pueden formar parte de la agenda conforme Júpiter entra a Virgo y a tu sector profesional. Tienes más oportunidades que nunca para tener éxito con un plan u objetivo empresarial durante aproximadamente un año.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos Cáncer así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Cáncer, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+Si sientes que un cambio de estilo de vida está en orden, ésta podría ser una semana muy positiva para ponerlo en práctica. De hecho, es posible que desees hacer borrón y cuenta nueva, sobre todo si no lograste hacerlo el mes pasado. Pon en marcha tus resoluciones - lograrás un mayor progreso en esta ocasión. Finalmente, podría haber un choque de ideas entre tú y tu pareja o un interés romántico sobre varios asuntos y cuestiones de libertad personal. Esto tendrá que ser discutido para que su relación siga avanzando.
 
 ## Dinero
 
-Si esta semana estás pensando en cambiar de trabajo, voilà, las fuerzas parecen ayudar. Los planetas que afectan tu trabajo día a día te piden que pienses acerca de cómo cambiar tu situación actual para bien (¿tal vez un aumento?). O empezar a buscar algo mejor. Los aspectos opuestos apoyan que renuncies, pero sólo cuando el tiempo y el dinero estén en orden. Si tu conjunto de habilidades necesita mejorar, pídale a alguien de más arriba que te enseñe algo nuevo.
+Estás a punto de hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Cierta energía sensible y madura entra a tu sector del trabajo. Cuanto más puedas aprender a aceptar la responsabilidad y demostrar que otros pueden contar contigo, más recompensas financieras encontrarás. No te alejes de lo que potencialmente podría avanzar para ti.

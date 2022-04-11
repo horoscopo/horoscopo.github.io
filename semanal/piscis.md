@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 04 de abril 2022 al 10 de abril 2022 
-description: Horóscopo semanal piscis 04 de abril 2022 al 10 de abril 2022. Tienes que empezar a dejar que el resto luche por tu Piscis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+title: piscis 11 de abril 2022 al 17 de abril 2022 
+description: Horóscopo semanal piscis 11 de abril 2022 al 17 de abril 2022. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-04-04
+ogimg: /images/zodiac/semanal_piscis.png#2022-04-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-04'
+ lastmod: '2022-04-11'
 ---
 
 
 
-## Tienes que empezar a dejar que el resto luche por tu Piscis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 
-Vives tanto con tantísima intensidad que a veces te olvidas de la realidad, de lo que aún tienes pendiente, de lo que necesitas conseguir y sobretodo de lo que necesitas cerrar y zanjar. Y es que Piscis, cuando las cosas empiezan a ir un poquito mejor se te olvida todo lo malo por lo que has pasado, por lo que te han hecho pasar. Y estás bien, porque así es como vives el presente, el minuto, el momento, pero a la vez si después viene otra golpe, vuelve a doler. Lo que pasa es que ya no duele igual, ya duele menos, porque te insensibilizas, y eso en realidad no es del todo bueno. Es como si lo esperaras, como si ya supieras que después de una discusión vendrá una reconciliación, con todo, con la gente que está a tu alrededor, con tu vida. Y todo se repite, una y otra vez, y no sales de ese círculo, y lo que antes te rompía el corazón ya no te rompe, porque sabes lo que vendrá después, y así todo el tiempo. Y eso se llama conformismo Piscis. ¿Hace cuanto no te paras a pensar solo si realmente eres feliz con lo que tienes? En la vida puedes estar contento con muchas cosas que no van mal a tu alrededor, pero también tienes que saber cuáles son las que van mal para cambiarlas. Porque aunque no lo creas, una manzana podrida en el cesto puede pudrir las demás si no se saca a tiempo. Y es que, tienes que hacer una limpia en tu vida, no puedes pensar que “bueno, en la vida hay cosas buenas y cosas malas”, claro que es así, pero ahí estás tu para poder cambiar las malas. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Piscis.
-Los planes de invertir en tu hogar, ya sea redecorando o comprando adornos festivos coloridos y alegres, te pueden poner de buen humor. Puede haber buenas intenciones detrás de dicho plan, como buscar tener un lugar cálido y alegre para que los demás lo disfruten. Venus entra a tu sector de estilo de vida, por lo que puede resultarte más fácil darte gustos más que en otras ocasiones. Disfrutar de alguna golosinas saludables puede ser una manera de hacerlo.
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Piscis, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+El lunes, una encantadora mezcla de energías podría encontrarte llevándote muy bien con los demás. Esto podría hacer que cierres un acuerdo, hagas nuevas amistades o te ofrezcan una fabulosa oportunidad. Sin embargo, sería útil no perder la concentración. Con el soñador Neptuno involucrado, los malentendidos son una posibilidad. Puede que los asuntos monetarios necesiten especial atención este fin de semana, particularmente en lo que respecta a desacuerdos sobre cómo debería gastarse el dinero. La luna llena del sábado te anima a salir e implementar un nuevo plan.
 
 ## Dinero
 
-Esta semana, el Universo afecta el área de tu carta que rige tu hogar. Es hora de poner no sólo palabras, sino también ideas en práctica. Te has estado sentando en una potencial mina de oro. El llevar tus talentos al Internet significará ventas directas, suscriptores de correo electrónico, y potencialmente clientes para el futuro y a largo plazo.
+Puede que estés atrapado/a en una situación de tensión esta semana. Puede que ambos, tu lado masculino y femenino tengan que ser abordados al considerar una nueva forma de ganar, ahorrar o gastar tu dinero en efectivo. Piensa con pragmatismo, mientras que aprecias y disfrutas las cosas buenas de la vida mientras piensas que podrías acostumbrarte a ellas.
