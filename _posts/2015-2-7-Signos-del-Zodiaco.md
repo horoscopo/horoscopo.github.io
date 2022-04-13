@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de abril 2022
-description: Horóscopos del dia de hoy 12 de abril 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de abril 2022
+description: Horóscopos del dia de hoy 13 de abril 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-04-12
+ lastmod: 2022-04-13
 ---
-Qué bueno es poder hablar con confianza, hacer uso del buen juicio y actuar acordemente mientras Mercurio aspecta a Júpiter el día de hoy. La noche continúa con una nota positiva. Mientras que los malentendidos son una forma de vida en las telenovelas, en la vida real, pueden ser aclarados bajo el trígono entre la Luna en Escorpión y Neptuno. 
+¡He aquí algo muy bueno! Tienes la posibilidad de ganar una increíble apuesta cuando el sextil entre el Sol y Urano estimule sorpresivos giros (en el buen sentido). Mercurio y Venus suavizan el impacto en caso de que tengas algo serio e importante que decir esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
