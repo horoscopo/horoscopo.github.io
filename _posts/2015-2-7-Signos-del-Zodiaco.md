@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de abril 2022
-description: Horóscopos del dia de hoy 15 de abril 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de abril 2022
+description: Horóscopos del dia de hoy 16 de abril 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-04-15
+ lastmod: 2022-04-16
 ---
-Un momento de miedo proveniente de la Luna cuadrando a Plutón te aconseja analizar lo mucho que estás tratando de ocultar el hecho de que tu opinión ha cambiado o de que (¡oh, no!) te equivocaste acerca de algo. Por la noche, disfruta de hacer nuevas amistades con una sutil pizca de emoción proveniente de la Luna en Aries.
+Apégate a lo esencial. Hoy, anota las cosas y las ideas que salgan de tu cabeza. Esta noche, las complicaciones tienden a surgir mientras Venus entra a Escorpión, donde se quedará hasta mediados de octubre. Los inconvenientes surgen debido a que no hay una gran cantidad de comunicación - el silencio es mortal. El antídoto es hablar las cosas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
