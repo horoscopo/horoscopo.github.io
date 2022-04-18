@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 11 de abril 2022 al 17 de abril 2022 
-description: Horóscopo semanal virgo 11 de abril 2022 al 17 de abril 2022. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Virgo. Pero sigue protegiéndote a ti mismo…
+title: virgo 18 de abril 2022 al 24 de abril 2022 
+description: Horóscopo semanal virgo 18 de abril 2022 al 24 de abril 2022. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Virgo, que no te entre la locura.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-04-11
+ogimg: /images/zodiac/semanal_virgo.png#2022-04-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-11'
+ lastmod: '2022-04-18'
 ---
 
 
 
-## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Virgo. Pero sigue protegiéndote a ti mismo…
+## “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Virgo, que no te entre la locura.
 
-Madura Virgo, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Virgo, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Virgo, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-Tu vida amorosa podría dar un giro nuevo y sensual cuando Venus entra a Tauro, el sector más apasionado de tu carta astral, el martes. Puede que las próximas semanas sean una oportunidad para acercarte a esa persona especial y conocerse mucho más. Además, puede que te den ganas de viajar y que tengas deseos de explorar opciones de viajes cortos o unas vacaciones exóticas. Puede que tu vida profesional y tus responsabilidades también demanden atención, por lo que será fundamental que encuentres el equilibrio entre tu vida y tu trabajo.
+La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Virgo, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+Con tu planeta personal Mercurio en fase retrógrada a partir del 19 de abril, podría haber demoras en las próximas tres semanas, pero podrías encontrar respuestas a asuntos que vienen siendo problemáticos. Marte también entra a tu sector de relaciones, lo que podría alentar la negociación y traer una oportunidad para despejar el aire. Con el Sol actualmente encontrándose en tu sector de recreación durante la semana, este período parece ser agradable y divertido para todas las personas involucradas. Tienes grandes ideas en mente.
 
 ## Dinero
 
-Esta semana el Universo afecta tu sector de dinero. Ha llegado el momento de reevaluar la forma en la que ganas dinero en la actualidad. ¿Odias tu trabajo? ¿Te gustaría encontrar un trabajo más significativo? Esta semana te da la oportunidad de descubrir una nueva manera de hacer de tu trabajo ideal una realidad.
+Esta semana es para ti de redes sociales, las cuáles son cada vez más importantes. Tus amigos realmente te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo muchos cambios que pueden haber afectado la forma en cómo te ves y te presentas a ti mismo/a. A algunos de tus amigos podría no gustarles éste proceso. Sea amable con ellos ya que no entienden hacia dónde te diriges y que éste es sólo un viaje de uno.

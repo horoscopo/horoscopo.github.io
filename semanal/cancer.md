@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 11 de abril 2022 al 17 de abril 2022 
-description: Horóscopo semanal cancer 11 de abril 2022 al 17 de abril 2022. El mundo puede esperar Cáncer, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: cancer 18 de abril 2022 al 24 de abril 2022 
+description: Horóscopo semanal cancer 18 de abril 2022 al 24 de abril 2022. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Cáncer, por qué te lo callas y te lo llevas callando tanto tiempo? 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-04-11
+ogimg: /images/zodiac/semanal_cancer.png#2022-04-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-11'
+ lastmod: '2022-04-18'
 ---
 
 
 
-## El mundo puede esperar Cáncer, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Cáncer, por qué te lo callas y te lo llevas callando tanto tiempo? 
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos Cáncer así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Cáncer, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
-Si sientes que un cambio de estilo de vida está en orden, ésta podría ser una semana muy positiva para ponerlo en práctica. De hecho, es posible que desees hacer borrón y cuenta nueva, sobre todo si no lograste hacerlo el mes pasado. Pon en marcha tus resoluciones - lograrás un mayor progreso en esta ocasión. Finalmente, podría haber un choque de ideas entre tú y tu pareja o un interés romántico sobre varios asuntos y cuestiones de libertad personal. Esto tendrá que ser discutido para que su relación siga avanzando.
+Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti Cáncer.
+Tus relaciones pueden ser animadas y vibrantes esta semana, con un encuentro excepcionalmente interesante. Puede que sientas la tentación de hacer un viaje o de tomar un descaso repentinos; si lo haces, podrías disfrutar mucho. Esta es una época de trabajo en equipo y cooperación con los demás, y no tanto de trabajo por tu cuenta. Tienes posibilidades de ganar más brindando asistencia que en la dirección de proyectos clave. Durante el fin de semana, el seductor Venus ingresa a tu sector de hogar. Es el momento perfecto para recibir invitados y mimarte un poco.
 
 ## Dinero
 
-Estás a punto de hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Cierta energía sensible y madura entra a tu sector del trabajo. Cuanto más puedas aprender a aceptar la responsabilidad y demostrar que otros pueden contar contigo, más recompensas financieras encontrarás. No te alejes de lo que potencialmente podría avanzar para ti.
+Tu sector de dinero se destaca esta semana. La forma en la que ves el dinero en tu vida entra en cuestión, así como la sabiduría de tus planes monetarios más recientes. Este es el momento de cuestionar todo - incluso lo que decidiste que fue bueno hace unos meses. Alentar las señales del Universo se relacionan con tu capacidad de obtener ingresos, mientras que los detalles de cualquier noticia negativa se suavizan. Estás en el camino correcto en ambos sentidos.
