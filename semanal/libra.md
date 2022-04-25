@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 18 de abril 2022 al 24 de abril 2022 
-description: Horóscopo semanal libra 18 de abril 2022 al 24 de abril 2022. Quita importancia a las cosas Libra, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+title: libra 25 de abril 2022 al 01 de mayo 2022 
+description: Horóscopo semanal libra 25 de abril 2022 al 01 de mayo 2022. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Libra, ¡NO MEZCLES!
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2022-04-18
+ogimg: /images/zodiac/semanal_libra.png#2022-04-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-18'
+ lastmod: '2022-04-25'
 ---
 
 
 
-## Quita importancia a las cosas Libra, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Libra, ¡NO MEZCLES!
 
-No tengas la menor duda de que la vida hará pagar por todas las malas acciones a quien las cometa, por eso tú preocúpate por hacer el bien a los demás y recibirás una gran recompensa. Párate a pensar si ahora eres feliz, mírate hacia dentro y piensa si para cerrar el ciclo que a veces te atormenta necesitas hablar con alguien, con alguna persona especial… Nada volverá a ser lo mismo Libra, pero a veces, para que nuestra mente descanse en paz de verdad lo mejor es sacar lo que quizás tenemos dentro y nos costó tanto tiempo decir. Es probable que no sea el momento, eres Libra y muy a menudo, cuando tienes que decir algo en el instante que deberías no lo dices, por miedo, por vergüenza, por lo que sea, y otras veces, cuando lo mejor es estar callado, sueltas cualquier burrada que hace que al final te acabes por sentir mal. Las cosas por ahora no van a cambiar mucho, pero tu estado de ánimo sí, y ya no tu estado, si no esa inseguridad que se ha ido forjando en ti este tiempo atrás, esa sensación a veces, como de pérdida… Ahora necesitas centrarte en cosas que te mantengan ocupada la mente, aunque suene un poco mal decirlo, no pensar demasiado en nada, ni en todo, simplemente fluir con lo que venga, con lo que pase, sin buscar, sin forzar. Será una racha, un tiempo en el que quizás te sientas como vacío, a veces incluso un poco fuera de lugar, como si los sentimientos de repente se hubieran entrelazado y lo mismo amas que odias, lo mismo quieres ser el más feliz del mundo que quieres echarte a llorar como un niño. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
-Tus palabras tienen poder esta semana, así que trata de usarlas con sabiduría. Aun así, esto puede ser más fácil dicho que hecho. La actividad Lunar de esta semana podría sacar ciertos sentimientos hacia la superficie, animándote a decir las cosas como son incluso si hacerlo le resulta ciertamente molesto a alguien. Mientras que aclarar las cosas puede ser liberador, podrías dañar una amistad si actúas sin tomar en cuenta sus sentimientos. Si se trata de una vieja relación, vale la pena invertir tiempo para solucionar el problema.
+Está bien hacerse ilusiones Libra, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas Libra, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Libra. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
+Existe la posibilidad de un pequeño golpe de suerte a principios de esta semana, lo que podría poner una sonrisa en tu cara. Alternativamente, la oportunidad de aumentar tus ingresos podría darte un agradable impulso. El alegre Eclipse Solar también podría animarte a volverte más eficientes con respecto a temas como el manejo de tu tiempo y tareas administrativas o cotidianas. Puede que alcances una mayor productividad si implementas nuevas estrategias. Un mensaje o nueva información podrían llevarte a buscar una nueva oportunidad.
 
 ## Dinero
 
-Para ti, esta semana se trata de aumentar considerablemente tu potencial de ingresos. Dondequiera que detectes una oportunidad, haz valer tu voluntad, tus necesidades y tu individualidad. Con la ayuda de los útiles aspectos, el dinero viene cuando cultivas la creatividad en tu pensamiento. En otras palabras, mientras menos hagas las cosas de la misma vieja manera, más lo agradecerás. Es bastante brillante si piensas en ello.
+Esta semana se trata del choque de energías que puede hacer que sientas tensión o abandono. Estás construyendo estructuras tanto en tu vida familiar como romántica. Tu trabajo puede estarte llamando en medida de que un cambio es claramente necesario. La pregunta es, ¿qué debería cambiar?

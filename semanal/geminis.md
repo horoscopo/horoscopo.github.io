@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 18 de abril 2022 al 24 de abril 2022 
-description: Horóscopo semanal geminis 18 de abril 2022 al 24 de abril 2022. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+title: geminis 25 de abril 2022 al 01 de mayo 2022 
+description: Horóscopo semanal geminis 25 de abril 2022 al 01 de mayo 2022. Semana intensa Géminis, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-04-18
+ogimg: /images/zodiac/semanal_geminis.png#2022-04-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-18'
+ lastmod: '2022-04-25'
 ---
 
 
 
-## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
+## Semana intensa Géminis, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 
-Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
- No lo has pasado del todo bien pero empiezas a renacer Géminis. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
-Uno de los sectores más misteriosos de tu carta recibe gran cantidad de actividad cósmica, con la alineación actual pudiendo mejorar tu vida íntima y quizás animarte a buscar formas inusuales y emocionantes de complacer a tu pareja. En este caso, tener apertura y vulnerabilidad puede ser muy bueno para ti. Es también una oportunidad para olvidarte de enterrados resentimientos y experimentar una sensación de paz y ligereza. Tu carrera profesional recibe un impulso, aunque tendrás que tener cautela con tu dinero.
+Sólo tú puedes salvar tu vida Géminis. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú Géminis. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+¿Sientes el llamado de nuevas experiencias o lugares lejanos? Puede que de verdad esté ocurriendo, ya que el Eclipse Solar de esta semana manifestándose en tu sector de viajes y aventuras podría verte con ganas de salirte fuera de tu zona de confort o de asumir un reto. Sin embargo, debes pensar en ello primero, ya que actuar en el calor del momento podría no ser la mejor opción. Cuanto más detallada sea la planificación, más posibilidades tendrás de hacer uso de las nuevas oportunidades sin sufrir contratiempos.
 
 ## Dinero
 
-Tienes una semana monetaria interesante por delante. Esto puede ser extremadamente afortunado, así que mantén los ojos bien abiertos para todo tipo de nuevas oportunidades de ganar y recibir el dinero que ya se encuentre en camino. El Universo afecta la forma en la que actualmente estás pagando tu pendiente deuda. Un ritmo lento pero constante gana la carrera en todo momento.
+Hay algunos desafíos en tu camino esta semana. Las relaciones son clave para tu éxito ahora, y el Universo te está empujando hacia ellos de una manera no tan sutil. El socializar es ante todo divertido, pero también puede ponerte en contacto con importantes clientes nuevos que podrían serte útiles en el futuro.

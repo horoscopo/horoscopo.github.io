@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 18 de abril 2022 al 24 de abril 2022 
-description: Horóscopo semanal piscis 18 de abril 2022 al 24 de abril 2022. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Piscis.
+title: piscis 25 de abril 2022 al 01 de mayo 2022 
+description: Horóscopo semanal piscis 25 de abril 2022 al 01 de mayo 2022. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-04-18
+ogimg: /images/zodiac/semanal_piscis.png#2022-04-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-18'
+ lastmod: '2022-04-25'
 ---
 
 
 
-## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Piscis.
+## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 
-Hay gente que no respeta que puedas crecer Piscis, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Piscis pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Piscis, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
-Las posibilidades de ocio y placer continúan atrayendo tu atención, animándote a explorar tus habilidades y talentos y mostrarlos de la mejor manera posible. Aun así, ciertas cuestiones de autoestima podrían afectar tu confianza a menos que puedas cortarlas de raíz. Hay una posibilidad de que pudieras impresionar a alguien que quiera contratar tus servicios, por lo que no te contengas. Más tarde, cuando Marte entre a Sagitario, te percatarás de que salirte de tu zona de confort podría mejorar tu ingreso.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega Piscis. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+Los asuntos hogareños toman la delantera, con muchas oportunidades para la expansión, el entretenimiento y para hacer de tu vida familiar exactamente lo que quieres que sea. Aun así, el Eclipse Solar de esta semana podría coincidir con una gran decisión. Si hay algo que has estado considerando por un tiempo, este Eclipse podría empujarte a tomar medidas más temprano que tarde. Sin embargo, llévatela con calma este fin de semana y durante los días posteriores a ello. Date la oportunidad de reflexionar antes de actuar.
 
 ## Dinero
 
-Es una gran semana para trazar un plan de negocios y pensar en cómo recaudar dinero para éste. Podrías estar pensando en cómo recaudar fondos a través de beneficios, préstamos, subvenciones e incluso donaciones en especie de empresas de mayor tamaño. Ahora más que nunca es posible que recibas una respuesta positiva. El Universo indica un momento de expansión en tu círculo social.
+Puedes tener la tentación de ir a por un trabajo que no pensabas que podrías conseguir hace una semana. Estás ganando seguridad, no sólo acerca de tus habilidades innatas, sino también acerca de cómo te expones al mundo con tu discurso, gestos y forma de vestir. Ciertos aspectos indican un tiempo de resolución de problemas a nivel familiar o con tu pareja romántica. Dos o tres mentes piensan mejor que una cuando se trata de la construcción de tu nueva imagen.

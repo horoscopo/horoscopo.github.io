@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 18 de abril 2022 al 24 de abril 2022 
-description: Horóscopo semanal escorpio 18 de abril 2022 al 24 de abril 2022. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+title: escorpio 25 de abril 2022 al 01 de mayo 2022 
+description: Horóscopo semanal escorpio 25 de abril 2022 al 01 de mayo 2022. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-04-18
+ogimg: /images/zodiac/semanal_escorpio.png#2022-04-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-18'
+ lastmod: '2022-04-25'
 ---
 
 
 
-## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-Te van a echar de menos Escorpio, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio Escorpio, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
-Con Júpiter todavía conectando con Neptuno, te ayudaría mantener tus pies en el suelo. Mientras que sueles ser una persona práctica, podías dejarte llevar por el discurso de ventas o el tono persuasivo de alguien. En caso de duda, pregúntale a una de tus amistades su opinión al respecto. Más tarde, la entrada del Sol a Libra ilumina tu sector financiero, animándote a fijarte metas y considerar tus planes para los próximos meses. ¡Toma nota de todo ello! Tu vitalidad recibe un impulso con Marte inspirándote a progresar.
+Ommmm… Ommmm… Relax Escorpio, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira Escorpio, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas Escorpio, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+Tus relaciones siguen siendo una parte clave de tu vida. De hecho, con el ejemplar Saturno en tu sector de relaciones durante algún tiempo de ahora en adelante, esta es tu oportunidad para poner límites claros y aprender a decir que no a las demandas o los proyectos en los que no quieres involucrarte. El eclipse solar en tu sector de transformación el sábado podría hacer que dejes ir un problema que ha sido parte de tu vida durante mucho tiempo. Esto podría traerte un enorme alivio.
 
 ## Dinero
 
-Esta semana, ciertos aspectos afectan tu sector de dinero y valores. Esta área de tu vida está siendo afectada ahora, y es posible que se te esté obligando a centrarte en tal casi en contra de tu voluntad. Tu forma de ahorrar y ganar será puesta bajo microscopio en este momento. Puede que tengas que encontrar la manera de hacer las dos cosas mejor.
+Tu sector de relaciones se pone de relieve, lo que significa que puedes tener la tentación de socializar más, conocer gente nueva y cultivar uniones existentes con los demás. Sin embargo, también puedes tener la tentación de mudarte o vender una propiedad por un pequeño margen de ganancia por el simple hecho de salirte. Muévete lentamente para que no te arrepientas de tu decisión después.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 18 de abril 2022 al 24 de abril 2022 
-description: Horóscopo semanal capricornio 18 de abril 2022 al 24 de abril 2022. Dedícate la semana a ti Capricornio, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+title: capricornio 25 de abril 2022 al 01 de mayo 2022 
+description: Horóscopo semanal capricornio 25 de abril 2022 al 01 de mayo 2022. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-04-18
+ogimg: /images/zodiac/semanal_capricornio.png#2022-04-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-18'
+ lastmod: '2022-04-25'
 ---
 
 
 
-## Dedícate la semana a ti Capricornio, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 
-Te crees que eres débil Capricornio, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos Capricornio, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior Capricornio… Tómate un tiempo Capricornio, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
-El enlace Sol/Urano del principio de semana podría coincidir con una brillante idea. De hecho, tu pensamiento creativo podría estar a su máximo, tal vez alentándote a probar algo nuevo. Tu habilidad de resolución de problemas también puede verse aumentada, ya que podías encontrar inspiración en todo tipo de lugares. Una vez que Venus entre a tu sector de estilo de vida el viernes, es posible que quieras analizar tu dieta y quieras hacer algunos cambios. Menos comida rápida y más comida casera podría ser uno de ellos.
+Quita importancia a las cosas Capricornio, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Capricornio. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
+Tres planetas optimistas se encuentran flotando juntos al borde de la constelación Virgo, lo que podría darte un empujón para actuar y poner ciertos planes en marcha y funcionando. Con Júpiter a punto de entrar a Libra, es posible que desees progresar tanto como te sea posible mediante el aprovechamiento de aperturas que mejoren tus perspectivas de trabajo o de salud. Incluso hay la posibilidad de que se te empuje a actuar, ya que el Eclipse Solar coincide con un evento que podría funcionar bien a largo plazo.
 
 ## Dinero
 
-Es hora de prestarle atención a la manera en la que te presentas a ti y tus habilidades al mundo. Esto podría significar invertir en un armario más profesional o hacer que un escritor profesional escriba tu currículum vitae. Poner tu mejor pie por delante es importante debido a la actividad en tu sector profesional, el cuál probablemente requiere de tu atención ahora.
+Como genio de creación de redes, bien sabes cómo hacerlo. Tus relaciones son importantes no sólo por motivos de negocios, sino también para desahogarte después del trabajo. Con un aspecto armonioso en tu sector social, estás haciendo más amigos e incluso sentando las bases para futuras colaboraciones. Has estado haciendo considerables acuerdos, así que no es mal momento para sacar la cuenta final. Cuidado con gastar excesivamente en tus amistades.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 18 de abril 2022 al 24 de abril 2022 
-description: Horóscopo semanal acuario 18 de abril 2022 al 24 de abril 2022. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: acuario 25 de abril 2022 al 01 de mayo 2022 
+description: Horóscopo semanal acuario 25 de abril 2022 al 01 de mayo 2022. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Acuario.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-04-18
+ogimg: /images/zodiac/semanal_acuario.png#2022-04-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-18'
+ lastmod: '2022-04-25'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Acuario.
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Acuario? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Acuario. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-Puede que estés disfrutando de un nuevo romance o de la oportunidad de darte el gusto con algún pasatiempo favorito. Gracias al animado enfoque en tu sector de recreación, el tiempo que pasas haciendo actividades divertidas puede ser un bálsamo, en especial si tienes muchas responsabilidades en casa. Sin embargo, la actividad lunar en Escorpión del miércoles puede animarte a cuidar los costos, en especial si un proyecto creativo parece bastante costoso. Puede que haya una manera más económica de lograrlo. La tentación de satisfacer tus gustos podría ser fuerte el fin de semana.
+A veces sientes como si no avanzaras Acuario, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Acuario, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Acuario, feliz semana.
+Puede que los compromisos laborales y las responsabilidades te agobien en este momento y esta podría ser la razón por la que escaparte de todo sea un plan tan atractivo. Pero una decisión impulsiva, como responderle a tu jefe o perder tiempo en vez de trabajar, podría ser algo de lo que te arrepientas más tarde. Puede que debas evaluar con honestidad lo que quieres en este momento. El Eclipse Solar del sábado puede ayudarte en este asunto.
 
 ## Dinero
 
-El Universo está indicando la necesidad de abordar tu aspecto personal. Tus relaciones personales y profesionales son las más afectadas. Toma medidas concretas para volver a conectar con viejos conocidos o profundizar las amistades profesionales existentes. El dinero es lo que le sigue.
+Esta semana tienes aspectos que te dan más magnetismo. La parte difícil es que tu sector de profesión requiere de más atención ahora para que puedas hacer tu trabajo más sostenible, rentable y seguro. No dejes nada al azar por ahora. Construye lo que quieres ver.

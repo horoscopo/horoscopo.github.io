@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 18 de abril 2022 al 24 de abril 2022 
-description: Horóscopo semanal aries 18 de abril 2022 al 24 de abril 2022. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+title: aries 25 de abril 2022 al 01 de mayo 2022 
+description: Horóscopo semanal aries 25 de abril 2022 al 01 de mayo 2022. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Aries y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-04-18
+ogimg: /images/zodiac/semanal_aries.png#2022-04-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-18'
+ lastmod: '2022-04-25'
 ---
 
 
 
-## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+## Por muy desconfiado y duro que parezcas ser, al final acabas confiando Aries y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 
-Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
-Las relaciones de todo tipo siguen estando bajo enfoque con un montón de oportunidades para interactuar y socializar. Además, con Mercurio aun girando hacia atrás, es posible que personas del pasado vuelven a aparecer. Esta puede ser una oportunidad para ponerte al día con noticias o incluso curar viejas heridas. Hay aún más noticias con Júpiter, el planeta de la buena fortuna, entrando a tu sector de recursos compartidos para permanecer allí durante los próximos doce meses. Este suertudo aspecto podría hacerte llegar un golpe de suerte o herencia.
+La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Aries, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
+Esta semana podría ser muy alegre, sobre todo cuando se trata de asuntos relacionados con valores, el uso racional de los recursos y aprovechar al máximo tus habilidades y talentos. Si bien existe la posibilidad de seguir adelante con tus planes, Mercurio retrógrado significa que podría irte mejor al investigar tus opciones durante las próximas tres semanas. El Eclipse Solar en esta área podría coincidir con cambios que debieron de haber sucedido hace tiempo, así que tomate tu tiempo antes de tomar decisiones clave.
 
 ## Dinero
 
-Esta semana te está pidiendo el centrarte más en tu carrera. Sueles ser bastante tradicional y conservador/a por naturaleza, pero ahora es posible que te hayas olvidado de tales cualidades, aunque sólo un rato. Si dejas que los demás sepan cuáles son tus metas, incluyendo la posición y el sueldo que quisieras, podrías ser sorprendido/a con lo dispuestos que tus patrones estarían para cumplirlo. Sólo sé extremadamente claro/a.
+Es un momento lleno de energía para ti ahora. Los viajes, el aprendizaje y la exploración pueden estar en lo alto de tu agenda. Pero también es hora de equilibrar las necesidades de tu trabajo diario con tu pasión por los viajes. A menos que encuentres la manera de poder hacer que los viajes o el aprendizaje formen parte de tu modelo de negocios, tiene que haber un compromiso. El Universo aligera el golpe.
