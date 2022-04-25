@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de abril 2022
-description: Horóscopos del dia de hoy 24 de abril 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de abril 2022
+description: Horóscopos del dia de hoy 25 de abril 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-04-24
+ lastmod: 2022-04-25
 ---
-Mantente alerta y sé consciente de que no debes tratar de apresurar las cosas durante el trígono entre Marte y Plutón que durará los próximos cuatro días. Si vale la pena hacerlo, requerirá de tiempo. Comienza a planear. Demasiada gente y demasiada emoción crean confusión bajo la Luna en Escorpión de esta noche.
+Zambúllete en la planificación de grandes cosas cuando el Sol conjunte a Júpiter el día de hoy. Exitosas soluciones también inundan tu mente. Esta noche, un regalo empieza como una cosa y se convierte en algo completamente distinto. La suerte está contigo, por lo que guíala hacia dónde quieres que vaya. Solteros, la intuición toma decisiones más rápido, pero mejor.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
