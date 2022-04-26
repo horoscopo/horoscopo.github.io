@@ -1,18 +1,23 @@
 ---
 layout: amp
-title: Horoscopo Piscis Abril 2022 
+title: Horoscopo Piscis Mayo 2022 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2022-03-25
+ogimg: /images/mes/Piscis_mes.png#2022-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-03-25'
+ lastmod: '2022-04-26'
 ---
 
 
-La Luna Nueva en el comienzo de abril hace hincapié en tu salud y vitalidad. Aumenta la cantidad de atención que le pones a tu propio bienestar. Come más sanamente y activa más tus días. No es necesario que inicies un deporte intenso, simplemente disfruta de pasar menos tiempo en el sofá comiendo y bebiendo. La Luna Llena del 16 de abril se trata de tu vida amorosa. Tú tienes altos estándares y expectativas - ambos positivos - y ahora, vaya que podrías tener algunos poderosos y románticos encuentros. Alternativamente, podrías experimentar una profunda visión romántica con alguien especial o dentro de tu propio corazón. Finalmente, el sextil entre la Luna y Marte del 29 de abril suaviza un fin de semana que de lo contrario podría ser complicado.    
+La cuadratura entre el sol y Marte del 2 de mayo puede generar un comienzo difícil para el mes, pero tú puedes enfrentarte a cualquier cosa que intente alterar tus planes. Tal vez no estás de acuerdo con algo, pero hazlo con amabilidad si puedes. 
+Ponte a crear y jugar durante la luna nueva del día 6. Tienes ideas y planes que pueden levantar el ánimo de las celebraciones de todos. Mercurio se torna estacionario directo también ese día. Haz una pausa, y deja que las cosas se arreglen a su propio ritmo. 
+El sol forma un trígono con Urano el 20 de mayo, y esto te permite sorprender a una persona especial con un regalo o invitación perfecta y agradable. El sol entra a Capricornio, y el invierno comienza al día siguiente. Sienta cabeza y disfruta de una calma seria y constructiva. 
+Déjate llevar más por tu propia luz interna durante la luna llena del día 22. No te estás volviendo una persona ermitaña. En cambio, te estás volviendo más sensible, y tienes una mayor receptividad a la paz y quietud que la gente necesita, pero por lo general ignora. 
+Días destacados: 7, 20, 21
+Días desafiantes: 2, 5

@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Leo Abril 2022 
+title: Horoscopo Leo Mayo 2022 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2022-03-25
+ogimg: /images/mes/Leo_mes.png#2022-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-03-25'
+ lastmod: '2022-04-26'
 ---
 
 
-La Luna Nueva al comienzo de abril brilla sobre tu hogar y entorno familiar. Es un nuevo mes y puedes hacer cualquier cambio que desees que llevará a tu hogar cerca de la perfección. Tienes los recursos, la energía y el apoyo necesarios. Piensa en ello. Vístete bien y vuélvete el centro de atención bajo la Luna Llena del 16 de abril. Sin importar tu apariencia, tu divertida y feliz personalidad te hará la persona más atractiva en la habitación. El 29 de abril, la Luna se encuentra en Libra y Mercurio conjunta a Plutón. Tus colegas podrían tener dificultades al expresarse, así que sé paciente.
+El mundo es hermoso ante tus ojos bajo la Luna Nueva del 4 de mayo. Pasa tiempo con gente interesante y disfruta de algo artístico que normalmente no harías o verías. Es el tipo de día en el que todas tus orquídeas comienzan a florecer. La Luna Llena del 20 de mayo brilla sobre tus preocupaciones profesionales. Si has estado cultivando amigos o aliados en el trabajo, tales te apoyarán ahora. Ten generosidad con tu tiempo y energía (sin descuidar tus deberes) y todos a tu alrededor se beneficiarán. Venus, tu planeta regente, se opone a Plutón el 30 de mayo, cuando el romance podría tomar un giro extraño o sorprendente.

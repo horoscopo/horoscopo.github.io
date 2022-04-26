@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Virgo Abril 2022 
+title: Horoscopo Virgo Mayo 2022 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2022-03-25
+ogimg: /images/mes/Virgo_mes.png#2022-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-03-25'
+ lastmod: '2022-04-26'
 ---
 
 
-Produce tu mejor y más importante obra detrás de escenas bajo la manifestación de la Luna Nueva del primero de abril. La discreción te permite hacer más de lo que quieres hacer con menos interferencias. Visiblemente te ocuparás como habitualmente lo estás, pero lo que hagas más en privado será más importante y satisfactorio. La Luna conjunta a Urano el 15 de abril, cuando deberías adoptar un enfoque diferente y pensar radicalmente. Bajo la Luna Llena del 16 de abril, un adorador y nuevo interés amoroso podría aparecer para impresionarte y hacerte saber lo verdaderamente especial que eres muy en el fondo. Alternativamente, tu muy dedicada pareja podría irradiarte gran amor para ayudarte a recordarlo.
+La conjunción entre la Luna y Urano el 5 de mayo aporta energía renovada a un ánimo decaído si estás padeciendo los efectos del desgaste después de la época de fiestas. La Luna Llena del 12 de mayo brilla directo sobre tu vida hogareña y familiar. Quizás consideres que una preocupación laboral es más importante. ¿Es importante? Sí. ¿Es más importante que lo demás? No. Haz lo que sea necesario y regresa a la felicidad de tu hogar. Tu vida social se expande y florece con la Luna Nueva del 27 de mayo. Podrías hacer varios nuevos amigos casuales que te integrarán en un círculo social mucho más amplio. No obstante, no tienes la obligación de dejar que esto consuma tu vida o dure para siempre.

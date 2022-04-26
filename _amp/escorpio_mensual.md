@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Abril 2022 
+title: Horoscopo Escorpio Mayo 2022 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2022-03-25
+ogimg: /images/mes/Escorpio_mes.png#2022-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-03-25'
+ lastmod: '2022-04-26'
 ---
 
 
-La Luna Nueva del primero de abril podría agregarle una ligera complicación a tu vida de por sí ya complicada. Si es así, ciertas personas también podrían aparecer con los recursos, experiencia o sugerencias que necesites en este momento. Relájate y toma las cosas con calma. Anda y decídete a hacer algo que has querido hacer desde hace mucho tiempo bajo el brillo de la Luna Llena del 22 de abril en tu novena casa, la regente de los amplios horizontes. Haz nuevos amigos y prueba nueva comida, música, ropa y películas. Por último, la conjunción entre el Sol y Neptuno del 28 de abril enciende un poderoso y profundo sueño en ti. Continúa nutriendo ese sueño y obtendrás felicidad futura.
+Sobresales totalmente alrededor de la luna nueva del 3 de mayo, de las mejores maneras posibles. Si has estado deseando un impulso para un proyecto especial, manos amigas e ideas brillantes vienen en camino. Ni siquiera necesitarás pedirlas. Venus entra a Escorpión el día 7. Presta atención al amor que se vuelve profundo y al romance que se vuelve serio. Un nuevo amor o pretendiente romántico espectacular aparece en tu camino con la luna nueva del 18 de mayo. O una asociación actual puede profundizarse y enriquecerse más allá de cualquiera de tus sueños más alocados. Llénate de actos de bondad y gmayosidad al azar. 

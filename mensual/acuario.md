@@ -1,25 +1,25 @@
 ---
 layout: horoscopos
-title: Horoscopo Acuario Abril 2022
-description: El Horóscopo Abril de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Acuario Mayo 2022
+description: El Horóscopo Mayo de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo Acuario abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo Acuario mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2022-03-25
+ogimg: /images/mes/acuario_mes.png#2022-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-03-25'
+ lastmod: '2022-04-26'
 ---
 
 
- > Acuario, quizás este mes te sientas decepcionada por situaciones que te superan o por alguien muy cercano a ti.
-Recuerda que todo en la vida es pasajero y que nada es eterno, y que las lecciones que aprenderás en esta ocasión, te servirán para un futuro no muy lejano.
+ > Acuario, durante el mes de mayo estarás mucho más comunicativa después de haber pasado una temporada un poco ausente.
+Además, tendrás grandes novedades en tu vida amorosa a la que llegarán nuevas personas y un espíritu abierto y curioso, que te otorgará numerosas alegrías y mucho movimiento.
 
 
 
-La Luna Nueva del primero de abril podría traerles a muchas personas un fin de semana muy social. Trata de verte y sentirte en tu punto más encantador y seductor. Pasa tiempo con tus seres queridos, escucha y baila al son de la música que más te gusta. Por la noche, regresa a casa sin problemas y vuelve a hacerlo todo de nuevo al siguiente día. La Luna Llena del 16 de abril comienza un verano divertido. Es posible que entonces prefieras empezar lentamente y cerca de casa o ir a un lugar especial a solas primero. Ya tendrás mucho tiempo para subirte al divertido escenario más tarde. Marte comienza a moverse directamente el 29 de abril, pero puede que se requiera de más tiempo para que tu ambición regrese a su nivel.  
+La Luna Llena del 10 de mayo derrama sobre ti el poder necesario para mejorar tu rutina diaria. Sin tener que hacer un gran esfuerzo, organízate y logra terminar un montón te proyectos que tienes a medias. Obtendrás mucha ayuda sin tener que pedirla. Aprovéchala al máximo y recuerda demostrar tu gratitud. El período retrógrado de Venus termina el 15 de mayo. Busca corazones más tiernos y tal vez un símbolo de amor o dulce reconciliación. La del 26 de mayo es una Luna Nueva que te permite volverte una nueva versión de ti. Crea un mundo más hermoso y sé consciente de que puedes hacer que dure. Siente seguridad sobre todo lo que realmente amas.

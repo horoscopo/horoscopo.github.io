@@ -1,24 +1,25 @@
 ---
 layout: horoscopos
-title: Horoscopo Libra Abril 2022
-description: El Horóscopo Abril de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Libra Mayo 2022
+description: El Horóscopo Mayo de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo Libra abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo Libra mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2022-03-25
+ogimg: /images/mes/libra_mes.png#2022-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-03-25'
+ lastmod: '2022-04-26'
 ---
 
 
- > SIGNO, durante el mes de abril tu manera de relacionarte íntimamente se transformará y te aportará grandes momentos. Además, la firmeza de carácter y las ideas claras serán una necesidad primordial para conseguir todos tus objetivos a corto medio plazo.
+ > Libra tal vez en mayo corras el riesgo de precipitarte en tomar ciertas decisiones, aunque encontrarás los apoyos necesarios para que se convierta en un gran mes para ti.
+Te sentirás libre de ataduras y tus relaciones afectivas por fin lograrán la estabilidad adecuada con posibles reconciliaciones.
 
 
 
-Tu situación económica será sólida alrededor de la Luna Nueva del primero de abril, más no  te excedas en tus gastos. Permite que tus amigos sean generosos y te duchen con sorpresas. Hacerlo les hará sentir bien y no dañará sus presupuestos. La vida cotidiana te hará sentir claustrofobia bajo la Luna Llena del 16 de abril. Sabes que el mundo es más grande que eso y desearás hacer más, ver más y escuchar más. Absorbe de la vida tanto como puedas y tal vez haz nuevas amistades también. El 27 de abril es tu día de suerte, sobre todo en el trabajo. Mantén tus expectativas bajas y déjate gratamente recompensar por una obra realizada anteriormente.
+Disfruta de buenos momentos de descanso con tus amigos y familia durante la luna llena del 6 de mayo. Puede que tus amistades tengan ideas exóticas y alocadas. Tú, por otro lado, puede que pienses que el aquí y ahora es diversión suficiente. Puede que sientas un poco de claustrofobia bajo la luna nueva del 19 de mayo. Puede que la vida de vecindario se sienta pequeña y anticuada. Abre la puerta y recorre nuevos lugares. Quizá decidas inscribirte a un nuevo curso o plan de estudio. Conoce nuevas personas y deja que tu perspectiva se expanda y cambie. El 28 de mayo, la luna conjunta con Plutón el mismo día que Plutón se vuelve directo. Espera un gran avance. 

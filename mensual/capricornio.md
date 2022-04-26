@@ -1,26 +1,25 @@
 ---
 layout: horoscopos
-title: Horoscopo Capricornio Abril 2022
-description: El Horóscopo Abril de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Capricornio Mayo 2022
+description: El Horóscopo Mayo de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo Capricornio abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo Capricornio mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2022-03-25
+ogimg: /images/mes/capricornio_mes.png#2022-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-03-25'
+ lastmod: '2022-04-26'
 ---
 
 
- > Capricornio será un mes muy erótico y tú irradiarás encanto y alegría. En el plano sexual las cosas estarán candentes, como si el frío invernal activara la chimenea de la pasión.
- 
-abril te invita a disfrutar de los placeres de la vida y una intensa vida social.
+ > Capricornio en mayo llegó la hora de que te dediques mucho más tiempo a ti misma, de que te cuides y también de que compartas con personas que no te resten energía.
+Entrarás este mes en un proceso importante de renovación emocional y necesitarás airear aquellos sentimientos que puedan estar limitando tu libre expresión.
 
 
 
-La Luna Nueva al inicio de abril ilumina tu vida social y tu compromiso hacia cualquier club u organización a los que perteneces. Una causa o grupo podría llamarle la atención a tu sentido de servicio público y podría darte inspiración para unirte como voluntario. En cualquier caso, tu interés inspirará a otros. Escucha lo que tus corazonadas te digan cuando la Luna conjunte a Neptuno el 13 de abril. Haz uso de tu intuición y ten un gran día en el trabajo. Brilla saludable y felizmente bajo la Luna Llena del 16 de abril. Puede que incluso te encuentres cuidando de una nueva mascota, si no es que de una nueva y noble causa. Disfruta de ese brillo dorado interior.   
+¡Feliz año nuevo! El 1 de mayo, la luna llena quiere que estés saludable y feliz en todas las pequeñas cosas que haces día a día. Aprecia algo pequeño, ya sea una planta que florece en tu casa o una nueva taza para el café, y date cuenta de que, en realidad, que sea pequeño no significa que sea insignificante. La luna nueva del día 16 te promete un tiempo de descanso en privado muy enriquecedor. Úsalo con discreción, a solas o con algunas personas cercanas especiales, y adopta perspectivas que pueden mejorar el resto de tu año. El 31 de mayo, la segunda luna llena del mes (y el eclipse lunar) está cargada de amor y afecto. Puede que no aparezca tu alma gemela, pero es una posibilidad. 

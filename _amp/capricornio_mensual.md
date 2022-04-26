@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Abril 2022 
+title: Horoscopo Capricornio Mayo 2022 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2022-03-25
+ogimg: /images/mes/Capricornio_mes.png#2022-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-03-25'
+ lastmod: '2022-04-26'
 ---
 
 
-La Luna Nueva al inicio de abril ilumina tu vida social y tu compromiso hacia cualquier club u organización a los que perteneces. Una causa o grupo podría llamarle la atención a tu sentido de servicio público y podría darte inspiración para unirte como voluntario. En cualquier caso, tu interés inspirará a otros. Escucha lo que tus corazonadas te digan cuando la Luna conjunte a Neptuno el 13 de abril. Haz uso de tu intuición y ten un gran día en el trabajo. Brilla saludable y felizmente bajo la Luna Llena del 16 de abril. Puede que incluso te encuentres cuidando de una nueva mascota, si no es que de una nueva y noble causa. Disfruta de ese brillo dorado interior.   
+¡Feliz año nuevo! El 1 de mayo, la luna llena quiere que estés saludable y feliz en todas las pequeñas cosas que haces día a día. Aprecia algo pequeño, ya sea una planta que florece en tu casa o una nueva taza para el café, y date cuenta de que, en realidad, que sea pequeño no significa que sea insignificante. La luna nueva del día 16 te promete un tiempo de descanso en privado muy enriquecedor. Úsalo con discreción, a solas o con algunas personas cercanas especiales, y adopta perspectivas que pueden mejorar el resto de tu año. El 31 de mayo, la segunda luna llena del mes (y el eclipse lunar) está cargada de amor y afecto. Puede que no aparezca tu alma gemela, pero es una posibilidad. 

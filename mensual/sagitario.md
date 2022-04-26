@@ -1,24 +1,29 @@
 ---
 layout: horoscopos
-title: Horoscopo Sagitario Abril 2022
-description: El Horóscopo Abril de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Sagitario Mayo 2022
+description: El Horóscopo Mayo de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo Sagitario abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo Sagitario mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/sagitario_mes.png#2022-03-25
+ogimg: /images/mes/sagitario_mes.png#2022-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-03-25'
+ lastmod: '2022-04-26'
 ---
 
 
- > Sagitario las circunstancias que estás viviendo actualmente harán que, durante el mes de abril, te replantees relaciones y vínculos, afrontando además nuevos retos que necesitabas para avanzar.
+ > Sagitario durante el mes de mayo descubrirás, entre otras cosas, cierto desequilibrio en tu vida y será necesario armonizar tus relaciones personales, encontrando nuevas forma de comunicarte y, sobre todo, de hacerte entender.
 
 
 
-La Luna Nueva del primero de abril te hace la estrella en tu trabajo durante la segunda semana del mes. Disfruta de tener una gran química con compañeros de trabajo y todos los demás. Algo que gratamente podría mejorar tus finanzas hogareñas también. La Luna Llena del 16 de abril emana su brillo en tu entorno hogareño y familiar. Los sentimientos serán profundos, y puede que imagines fricción donde no la hay. Una gran cantidad de personas están distraídas ahora, algunas cercanas a ti. Siéntete bien en tu propia piel y tu propio espacio, y deja que la charla de fondo se desvanezca. El sextil entre la Luna y Venus del 30 de abril marca el comienzo de un fin de semana social y deliciosamente divertido. 
+Venus entra a Virgo el 9 de mayo. Vestirte más informalmente puede ser la nueva forma de vestirte elegante. El romance podría volverse menos formal y también menos ostentoso. Las interacciones con amistades y familiares deberían ser suaves como la seda, y también divertidas, durante la luna nueva y el eclipse solar del día 12. Prepárate para todas las emociones agradables que aparecen en tu camino. 
+
+La luna llena y el eclipse lunar del 27 de mayo podrían traer a la superficie varios asuntos domésticos que ahora pueden ser resueltos o mejorados. En lugar de verlos como conflictos, aprovecha esta oportunidad de resolver y arreglar las cosas. 
+
+Días destacados: 11, 13, 15
+Días desafiantes: 24, 27</div>
