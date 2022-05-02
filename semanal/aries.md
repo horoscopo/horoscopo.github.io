@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: Aries 25 de abril 2022 al 01 de mayo 2022 
-description: Horóscopo semanal aries 25 de abril 2022 al 01 de mayo 2022. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Aries y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+title: aries 02 de mayo 2022 al 08 de mayo 2022 
+description: Horóscopo semanal aries 02 de mayo 2022 al 08 de mayo 2022. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Aries, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-04-25
+ogimg: /images/zodiac/semanal_aries.png#2022-05-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-25'
+ lastmod: '2022-05-02'
 ---
 
 
 
-## Por muy desconfiado y duro que parezcas ser, al final acabas confiando Aries y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Aries, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Aries, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
-Esta semana podría ser muy alegre, sobre todo cuando se trata de asuntos relacionados con valores, el uso racional de los recursos y aprovechar al máximo tus habilidades y talentos. Si bien existe la posibilidad de seguir adelante con tus planes, Mercurio retrógrado significa que podría irte mejor al investigar tus opciones durante las próximas tres semanas. El Eclipse Solar en esta área podría coincidir con cambios que debieron de haber sucedido hace tiempo, así que tomate tu tiempo antes de tomar decisiones clave.
+Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
+ Tienes que acabar de una vez con todo Aries.
+No intentes demasiado cuando realmente no es necesario hacerlo. De hecho, esta semana, puede que sea una mejor idea enfocarte en actividades que sean más relajantes. Si te centras mucho en obtener un resultado en particular dentro de cierta cuestión, hacerlo puede hacerte ignorar otras áreas de tu vida. La actividad lunar en Aries de esta semana te anima a alejarte de este tipo de obsesiones enfermizas y explorar nuevos territorios. Como resultado, tu ser podría sentirse gratamente revitalizado.
 
 ## Dinero
 
-Es un momento lleno de energía para ti ahora. Los viajes, el aprendizaje y la exploración pueden estar en lo alto de tu agenda. Pero también es hora de equilibrar las necesidades de tu trabajo diario con tu pasión por los viajes. A menos que encuentres la manera de poder hacer que los viajes o el aprendizaje formen parte de tu modelo de negocios, tiene que haber un compromiso. El Universo aligera el golpe.
+Esta semana tienes actividad en el sector de tu carta que rige tu hogar y sentimientos internos. El Universo quiere que avances para poder crear y conquistar. Pero también hay que tomarlo con calma y construir una base sólida antes de seguir adelante. Tus sentimientos pueden ser igualmente confusos. Mientras tanto, es hora de pagar tus deudas.

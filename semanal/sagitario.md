@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 25 de abril 2022 al 01 de mayo 2022 
-description: Horóscopo semanal sagitario 25 de abril 2022 al 01 de mayo 2022. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+title: sagitario 02 de mayo 2022 al 08 de mayo 2022 
+description: Horóscopo semanal sagitario 02 de mayo 2022 al 08 de mayo 2022. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Sagitario. Ahora brillas así que, aprovecha. Aprovecha todo.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-04-25
+ogimg: /images/zodiac/semanal_sagitario.png#2022-05-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-25'
+ lastmod: '2022-05-02'
 ---
 
 
 
-## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Sagitario. Ahora brillas así que, aprovecha. Aprovecha todo.
 
-Sagitario, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo Sagitario. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
-Una intuitiva corazonada podría verte tomar medidas rápidas en relación a tu hogar o un asunto familiar. Frescas ideas podrían proporcionarte una nueva perspectiva que te permita resolver de manera eficiente un tema delicado. También hay mucha actividad cósmica en tu sector de creatividad, romance y diversión. El Eclipse Solar de esta semana podría llevar un nuevo romance a volverse más alegre y apasionado. Sin embargo, no te apresures, ya que te beneficiaría enormemente conocer mejor primero a esta persona.
+Eres demasiado honesto con el resto Sagitario y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Sagitario, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Sagitario, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+Puede que un pulso interno más profundo sea la razón por la que contemplas situaciones clave y las razones que puede haber detrás. Un enfoque en un área más sensible de tu carta astral sugiere que las próximas semanas podrían ser tiempos de cambio, donde puede ser importante que dejes atrás aquellas cosas que no te hacen bien. Esto podría ser de gran ayuda si tienes un plan ambicioso en mente, ya que mientras menos bagaje emocional cargues, mejor para ti.
 
 ## Dinero
 
-Estás pensando en cómo crear más oportunidades financieras en tu vida en este momento y tienes un gran grado de decisión para hacerlo. Tus relaciones serán cada vez más importante en el trabajo y en tu vida monetaria. Podrías percatarte de que abrirte a un compañero te ayuda a ponerte al mismo nivel financieramente hablando. Hay mucha suerte en tu sector de enseñanza y aprendizaje. Cualquiera de los dos te ayuda en tus objetivos.
+Tienes un montón de amor y suerte aproximándose a tu sector de relaciones, así como algunas sorpresas y un poco de inestabilidad. El Universo indica  un momento de cambio en tu hogar. Es posible que decidas trabajar por tu propia cuenta ahora si es que encuentras la manera de ganar la misma cantidad que te pagaba tu última posición. Se puede hacer.

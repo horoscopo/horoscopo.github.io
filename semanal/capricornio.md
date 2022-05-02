@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 25 de abril 2022 al 01 de mayo 2022 
-description: Horóscopo semanal capricornio 25 de abril 2022 al 01 de mayo 2022. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: capricornio 02 de mayo 2022 al 08 de mayo 2022 
+description: Horóscopo semanal capricornio 02 de mayo 2022 al 08 de mayo 2022. La vida es un ciclo Capricornio, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-04-25
+ogimg: /images/zodiac/semanal_capricornio.png#2022-05-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-25'
+ lastmod: '2022-05-02'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## La vida es un ciclo Capricornio, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 
-Quita importancia a las cosas Capricornio, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Capricornio. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
-Tres planetas optimistas se encuentran flotando juntos al borde de la constelación Virgo, lo que podría darte un empujón para actuar y poner ciertos planes en marcha y funcionando. Con Júpiter a punto de entrar a Libra, es posible que desees progresar tanto como te sea posible mediante el aprovechamiento de aperturas que mejoren tus perspectivas de trabajo o de salud. Incluso hay la posibilidad de que se te empuje a actuar, ya que el Eclipse Solar coincide con un evento que podría funcionar bien a largo plazo.
+Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien Capricornio pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
+Una positiva combinación de energías en tu sector social sugiere que definitivamente no te aburrirás durante los próximos días. De hecho, tu agenda podría estar hasta el tope de invitaciones o sugerencias de eventos a los que quieras asistir. 
+Cuando el sol y el expresivo Mercurio se dirigen a Neptuno en un sector más sensible de tu carta, una parte de ti podría tener ganas de estar a solas. Tal vez te beneficies de hacer un poco de ambas cosas. Selecciona las salidas que más te interesan y busca el equilibrio tomándote un tiempo para ti. Si te gusta la meditación, podrías descubrir que tu paz interior aumenta considerablemente. Además, debido a que el encantador Venus está en tu sector espiritual, puede que también quieras ayudar en un evento de caridad, lo que puede ser muy gratificante si no te pasas de la raya.
 
 ## Dinero
 
-Como genio de creación de redes, bien sabes cómo hacerlo. Tus relaciones son importantes no sólo por motivos de negocios, sino también para desahogarte después del trabajo. Con un aspecto armonioso en tu sector social, estás haciendo más amigos e incluso sentando las bases para futuras colaboraciones. Has estado haciendo considerables acuerdos, así que no es mal momento para sacar la cuenta final. Cuidado con gastar excesivamente en tus amistades.
+Tienes una situación muy interesante esta semana conforme aspectos celestiales te presionan a tener una mayor productividad. La actividad en tu sector asociado con viajes al extranjero, la metafísica y la educación superior te empuja a ampliar tu negocio en territorio desconocido. Haz que ocurra este año y estarás cosechando los beneficios el próximo año.

@@ -1,27 +1,30 @@
 ---
 layout: horoscopos
-title: cancer 25 de abril 2022 al 01 de mayo 2022 
-description: Horóscopo semanal cancer 25 de abril 2022 al 01 de mayo 2022. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Cáncer, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: cancer 02 de mayo 2022 al 08 de mayo 2022 
+description: Horóscopo semanal cancer 02 de mayo 2022 al 08 de mayo 2022. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-04-25
+ogimg: /images/zodiac/semanal_cancer.png#2022-05-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-04-25'
+ lastmod: '2022-05-02'
 ---
 
 
 
-## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Cáncer, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
 
-Siempre has tenido un fuerte instinto de supervivencia Cáncer, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces Cáncer y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
-Puede que los cambios sean rápidos y pueden ser una consecuencia del Eclipse Solar que tendrá lugar el sábado. Puede que sientas ganas de moverte con independencia. Si bien esto puede ser emocionante, también podría causar problemas a la larga. Puede también que quieras olvidarte de tus responsabilidades, pero las demás personas te las recordarán. Te convendría quedar en buenos términos y hacer lo que esperan que hagas. Con el Eclipse en Piscis, tendrás una revelación espiritual que podría fortalecerte.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+El panorama podría intensificarse esta semana. Cuando el fogoso Marte, tu planeta regente, conecta con el poderoso Plutón, podrías sentir una imperiosa necesidad de seguir adelante con un plan. Y cuando ambos planetas conectan con el jovial Júpiter, la idea de dar un gran paso hacia adelante parece algo natural. Pero ¿lo es? Puede que sea prudente pedir otra opinión antes de dar el paso. 
+ Cuando el encantador Venus ingresa a Géminis y a tu sector de comunicación el martes, te resultará sencillo tranquilizar a los demás. Esto puede ser útil en algunas de las situaciones en que te encuentres. El miércoles podría encontrarte en desacuerdo con una persona y es posible que debas llegar a un acuerdo para poder avanzar. Por último, la actividad lunar del domingo podría animarte a hacer algunos gastos cuando la mejor opción puede ser un masaje o un tratamiento de spa.
 
 ## Dinero
 
-De verdad tienes ganas de hacer algo esta semana, podría ser de  viajar, aprender algo nuevo, hacer un amigo en el extranjero, o aprender a hablar un nuevo idioma. Cada uno de éstos tendría algún efecto en tu vida monetaria futura, así que lo mejor sería investigar cuál sería más interesante. De todos modos puede que no seas capaz de resistir tus ganas, así que estarías dispuesto/a a sacrificar algunas facetas de tu vida social para poder hacerlo.
+Para ti, esta semana es sobre el sector de tus sueños y vidas pasadas que de repente pueden revelar un talento que no sabías que tenías. Pon un poco de acción e intención en donde se encuentre tu atención ahora y verás que el dinero inmediatamente te seguirá. Mientras que escuches a tu juicio interior, te será difícil imaginar un momento más afortunado.
