@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de mayo 2022
-description: Horóscopos del dia de hoy 05 de mayo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 06 de mayo 2022
+description: Horóscopos del dia de hoy 06 de mayo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-05-05
+ lastmod: 2022-05-06
 ---
-La energía y los métodos creativos abundan cuando Marte cuadra a Neptuno. Préstale atención a los destellos intuitivos e ideas espontáneas que te surjan. Las parejas gozan de un increíble avance cuando Venus cuadra al sorprendente Urano. Tales descubren que algo no era como lo imaginaban. Los solteros están preparados para todas las respuestas, excepto las que reciben.
+La sabiduría está ya sea presente o actuando por sí sola a la luz de la imprevisibilidad de cómo va a responder alguien. Esta noche, las cosas cambian y la escena social es tranquila y controlada cuando la Luna aspecta a Saturno. Parejas, la noche es perfecta para pasar momentos tranquilos durante una pausa romántica.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
