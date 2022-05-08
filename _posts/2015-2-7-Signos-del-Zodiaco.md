@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de mayo 2022
-description: Horóscopos del dia de hoy 07 de mayo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de mayo 2022
+description: Horóscopos del dia de hoy 08 de mayo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-05-07
+ lastmod: 2022-05-08
 ---
-Mercurio a punto de salir de Libra te empuja a tomar decisiones y hacer elecciones finales. Las cosas serán vistas desde una manera completamente nueva a partir de mañana. Una imagen se ve diferente cuando le pones un nuevo marco. Relájate y disfruta de la tranquilidad creada por la Luna en Cáncer de esta noche mientras aspecta a Venus y Marte.
+Ve con la corriente. La vida todavía está llena de dudas debido a que el trígono de ayer entre el Sol y Urano, el planeta de las sorpresas, sigue en vigor con su gran y mágico potencial. Esta noche, la cuadratura entre la Luna y Neptuno borra la línea entre el hecho y la ficción, con ésta última teniendo la ventaja.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
