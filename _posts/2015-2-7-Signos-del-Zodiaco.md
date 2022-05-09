@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de mayo 2022
-description: Horóscopos del dia de hoy 08 de mayo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de mayo 2022
+description: Horóscopos del dia de hoy 09 de mayo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-05-08
+ lastmod: 2022-05-09
 ---
-Ve con la corriente. La vida todavía está llena de dudas debido a que el trígono de ayer entre el Sol y Urano, el planeta de las sorpresas, sigue en vigor con su gran y mágico potencial. Esta noche, la cuadratura entre la Luna y Neptuno borra la línea entre el hecho y la ficción, con ésta última teniendo la ventaja.
+Marte entrando a un signo tan genuinamente entusiasta como Sagitario actúa como una infecciosa emoción durante las próximas semanas. Aprovecha, porque se trata de una energía muy productiva y progresiva. Esta noche, es increíble lo profundo que una conversación puede ir en pocos minutos con Mercurio en Piscis. También hay una gran cantidad de reconfortante sensibilidad.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
