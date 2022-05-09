@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 02 de mayo 2022 al 08 de mayo 2022 
-description: Horóscopo semanal virgo 02 de mayo 2022 al 08 de mayo 2022. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Virgo. Tú solito.
+title: virgo 09 de mayo 2022 al 15 de mayo 2022 
+description: Horóscopo semanal virgo 09 de mayo 2022 al 15 de mayo 2022. Tienes que empezar a dejar que el resto luche por tu Virgo, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-05-02
+ogimg: /images/zodiac/semanal_virgo.png#2022-05-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-02'
+ lastmod: '2022-05-09'
 ---
 
 
 
-## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Virgo. Tú solito.
+## Tienes que empezar a dejar que el resto luche por tu Virgo, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 
-Fíate de ti mismo Virgo, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Virgo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
-Crear conexiones puede ser muy beneficioso e incluso puede ayudarte a avanzar con un proyecto o recibir consejos útiles. Esta tendencia durará hasta el Miercoles, y podría encontrarte haciendo amistades tanto en Internet como en la vida diaria. Mientras tanto, puede que tengas ganas de organizarte en casa. Esto podría llevarte a que te deshagas del desorden y vendas o regales objetos que ya no necesitas. Encontrar una buena oferta o un artefacto que te facilite la vida también podría ser muy satisfactorio.
+Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
+ A veces, te aferras a momentos de felicidad pasajera Virgo, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
+El comienzo de la semana puede ser un momento excelente para una fiesta, una celebración o una reunión. Invita a amistades, ofrece buena comida y diviértete. Por otro lado, sigues trabajando sin parar, lo cual te hace sentir mucha presión. Es posible que aceptes condiciones o exigencias que no te hacen bien. De ser así, habla al respecto con alguien que pueda ayudarte y brindarte apoyo. Las opciones para divertirte y relajarte también parecen divertidas y pueden ser terapéuticas.
 
 ## Dinero
 
-Esta semana disfrutas de un impulso amistoso en tus relaciones. Tienes un gran equipo detrás de ti, especialmente cuando se trata de tu vida monetaria. Tienes una concurrencia de ideas y el poder de la gente, así que si estás trabajando en un proyecto que necesita todas las manos a la obra, es el momento de reclutar desde el interior. Los aspectos de apoyo resaltan las actividades relacionadas con el romance, la familia y la diversión. Comenzar un negocio de citas amorosas por internet podría estar en tu futuro.
+Con ciertos aspectos afectando tu vida hogareña y emociones internas, puede que desees regresar el tiempo en tu vida para poder volver atrás y corregir los errores del pasado. Pero estamos aquí para aprender, no para controlar. Cierta actividad en tu sector de viajes, idiomas y educación superior afirma que puedes encontrar un mayor acceso a dinero si logras exponer tus habilidades en mercados fuera de tu país. Enfoca tus esfuerzos en Internet para conectar con nuevos clientes.

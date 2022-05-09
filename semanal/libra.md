@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 02 de mayo 2022 al 08 de mayo 2022 
-description: Horóscopo semanal libra 02 de mayo 2022 al 08 de mayo 2022. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Libra, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: libra 09 de mayo 2022 al 15 de mayo 2022 
+description: Horóscopo semanal libra 09 de mayo 2022 al 15 de mayo 2022. Cada día que pasa te das más cuenta de que mereces cosas buenas Libra, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2022-05-02
+ogimg: /images/zodiac/semanal_libra.png#2022-05-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-02'
+ lastmod: '2022-05-09'
 ---
 
 
 
-## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Libra, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+## Cada día que pasa te das más cuenta de que mereces cosas buenas Libra, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
 
-Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás Libra. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta Libra, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea Libra, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones Libra, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas Libra, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
-El destino puede traer cambios los primeros días de la semana, y estos pueden afectar los grupos sociales o gente con la que te relacionas. Algunos amigos pueden salir de tu círculo, pero con el tiempo otros entrarán. Pero también puedes beneficiarte de tomarte un tiempo libre y mimarte si necesitas recargar tus baterías, así que considera comer mejor, descansar más y darte la oportunidad de relajarte. Pero mientras Mercurio ingresa a su fase retrógrada, tal vez sea una buena idea hacer una copia de todos los documentos y archivos importantes.
+Deja que duela Libra, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser Libra estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien Libra pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida Libra, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
+Aunque puede que sientas impaciencia al principio, irradias suficiente encanto y carisma para impresionar a las personas adecuadas. Alguien podría sentirse atraído hacia ti como resultado, lo que podría conducir a una cita romántica o incluso un negocio lucrativo. Puede que recibas un impulso de energía cuando el Sol se deslice a tu sector de salud y bienestar el Domingo. Su presencia aquí durante el mes por delante resalta tu enfoque hacia sentirte en forma y fabulosamente, animándote a comenzar aquella dieta o rutina de ejercicios que has estado planeando.
 
 ## Dinero
 
-Es probable que estés en un estado mental social con cierta actividad en tu sector de expresión personal y apariencia. Es posible que estés pensando en cambiar la forma en la que te presentas ante el mundo. Suponiendo que un comportamiento profesional significa que puedes conseguir un nuevo empleo, si es que quieres, o elevar tu posición en tu empleo actual. El dinero y las comodidades ejecutivas vienen con la nueva oficina.
+Esta semana puedes estar tratando de encontrar una manera de obtener tu rebanada de pastel y comértela también. Tu mente está trabajando horas extras para sacarte de cualquier obligación financiera que puedas tener, y el Universo te ayuda a llevar esto al siguiente nivel. Asegúrate de volver a revisar todas las cifras antes de firmar cualquier cosa.
