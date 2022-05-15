@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de mayo 2022
-description: Horóscopos del dia de hoy 14 de mayo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de mayo 2022
+description: Horóscopos del dia de hoy 15 de mayo 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-05-14
+ lastmod: 2022-05-15
 ---
-Los resultados podrían ser alucinantes bajo el trígono entre Mercurio y Plutón de hoy. Esta noche, en una optimista analogía, la Luna fuera de curso podría simbolizar la posibilidad de guardar lo mejor para el final. Este aspecto le aplica una enfocada importancia a algo (o alguien). Si suena como un eco del tema de hoy, tienes razón.
+Con suerte, dos personas con ideas opuestas logran trabajar juntas mientras la Luna aspecta a Saturno esta mañana. Por la tarde, prepárate para cambios (positivos) de última hora. Esta noche, la amistad y la popularidad florecen cuando Venus comienza su viaje a través de la constelación de Acuario. Solteros, salgan a hacer nuevos contactos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
