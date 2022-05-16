@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 09 de mayo 2022 al 15 de mayo 2022 
-description: Horóscopo semanal cancer 09 de mayo 2022 al 15 de mayo 2022. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: cancer 16 de mayo 2022 al 22 de mayo 2022 
+description: Horóscopo semanal cancer 16 de mayo 2022 al 22 de mayo 2022. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-05-09
+ogimg: /images/zodiac/semanal_cancer.png#2022-05-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-09'
+ lastmod: '2022-05-16'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 
-Por fin has tomado decisiones, y además decisiones que te benefician, 
-por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
-Esta podría ser una semana en la que las poderosas vibraciones del Eclipse Lunar, que esta por venir, movilicen el sector superior de tu carta astral. Esta es una oportunidad para que pienses qué es lo más importante para ti, no solo para las siguientes semanas pero también para el resto del año. ¿Qué esperas lograr? Los próximos días podrían hacerte reflexionar sobre ciertas cosas que te sorprenderán con su frescura y su chispa. Es posible que una trayectoria profesional que nunca consideraste se vuelva repentinamente atractiva.
+A veces de bueno te pasas Cáncer. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Cáncer, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Cáncer, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Cáncer y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
+Sientes que todo lo puedes esta semana cuando el enfoque cósmico se centra en tu signo, lo que te permite disfrutar ser quien realmente eres. No es el momento de quedarte en silencio, sino de expresar sin miedo tus necesidades, deseos, anhelos y también opiniones, por supuesto. Pero quizá sea prudente no comprometerte con una idea u oportunidad hasta el fin de semana o comienzo de la semana siguiente, cuando el panorama estelar esté mucho más estable. También tendrás una idea más clara de la situación en general.
 
 ## Dinero
 
-Este período tiene que ver con los opuestos. Puede que estés tratando de manifestar una nueva relación en tu vida con un mentor, empleador o socio de negocios. Y con cierta actividad en el área que rige las relaciones serias, podrías conocer a la persona adecuada en el momento adecuado. Juntos, pueden mover montañas en el mundo de los negocios, ¡por lo que definan parámetros y manos a la obra! Más deben actuar con rapidez.
+Es posible que debas prepararte para una decepcionante noticia esta semana. A pesar de que se te invita a compartir tus conocimientos y habilidades con los demás, preferiblemente para la diversión y la ganancia, tu vida laboral está siendo golpeada con más reglas, regulaciones y papeleo. Hay. Y a pesar de que la monotonía puede  nos ser de tu agrado, es mejor que otras alternativas. Ábrete a sugerencias y ganarás más a largo plazo.

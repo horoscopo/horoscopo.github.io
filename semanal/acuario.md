@@ -1,29 +1,31 @@
 ---
 layout: horoscopos
-title: acuario 09 de mayo 2022 al 15 de mayo 2022 
-description: Horóscopo semanal acuario 09 de mayo 2022 al 15 de mayo 2022. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: acuario 16 de mayo 2022 al 22 de mayo 2022 
+description: Horóscopo semanal acuario 16 de mayo 2022 al 22 de mayo 2022. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-05-09
+ogimg: /images/zodiac/semanal_acuario.png#2022-05-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-09'
+ lastmod: '2022-05-16'
 ---
 
 
 
-## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 
-La meta es dura Acuario, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay Acuario que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normalmente, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Acuario. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Acuario… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
-A medida que el sol y el conversador Mercurio ingresan al jovial Júpiter esta semana, puede que tengas mucho que decir y que demuestres una gran elocuencia. Sin embargo, trata de no prometer algo que no puedas cumplir. Podrías caer muy fácilmente en la tentación de hacerlo. Al mismo tiempo, el encantador Venus ingresa a tu sector de recreación, cuya presencia aquí podría estimular tu lado creativo y mejorar las posibilidades románticas. Las próximas semanas podrían encontrarte saliendo bastante, dándote un gusto con tus pasatiempos preferidos o pasando tiempo con tu amor. 
-Un aspecto muy positivo a mitad de semana podría inspirarte a volver a visitar un lugar que te trae muchos recuerdos. Hacerlo podría darte mucha alegría y una placentera energía. 
-Si alguien te presiona para que hagas algo el viernes, completar esta tarea te permite anticiparte al fin de semana. Durante el fin de semana, nos acercamos a un eclipse lunar el cual estará tu sector de comunicación y podría traer consigo una interesante oferta o alguna noticia.
+Disfruta de la vida Acuario, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Acuario. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Acuario.
+La actividad lunar en tu sector de relaciones el martes allana el camino para un nuevo comienzo. 
+Sin embargo, el animado Urano ingresa a este sector más adelante el mismo día, y su presencia allí hasta 2026 podría traer consigo una nueva actitud. Tu comprensión de lo que significa actuar con autenticidad y honestidad podría dar un giro de 360 grados. 
+También el mismo día, el poderoso Marte abandona tu signo e ingresa a Acuario y a tu sector de dinero. Se quedará allí durante bastante tiempo, lo que te anima a enfrentarte a cualquier dificultad y a retomar el control. 
+Una influencia más suave podría tener un efecto tranquilizante en tus relaciones a medida que el encantador Venus ingresa a tu sector de relaciones el sábado. Esto puede ser justo lo necesario para reparar una relación de suma importancia. 
+Por último, el ingreso del sol a Géminis y a tu sector de estilo de vida el domingo podría ser una llamada a optimizar tus rutinas laborales y de salud.
 
 ## Dinero
 
-Eres una persona inteligente, sobre todo cuando se trata de trabajo y dinero. No te contenta dejar las cosas como están (¡bien por ti!); y deseas hacer algunos cambios positivos. Tus relaciones señalan el camino hacia una vida mejor. Alguien (o más de una persona) quiere verte tener éxito. Escucha lo que tales personas tengan que decir al respecto.
+Es una semana confusa apara ti. Una energía individualista pero impredecible afectando la zona de la familia, los niños, y el romance indica un momento difícil de equilibrio entre tu trabajo y la vida económica con tu necesidad de relajarte con la gente que amas. Es necesario ajustar la forma de pensar sobre el dinero en tu vida. ¿Tienes que trabajar tanto o puedes reducir un poco con el fin de obtener el descanso que necesitas?

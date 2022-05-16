@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 09 de mayo 2022 al 15 de mayo 2022 
-description: Horóscopo semanal geminis 09 de mayo 2022 al 15 de mayo 2022. Deja que duela Géminis, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+title: geminis 16 de mayo 2022 al 22 de mayo 2022 
+description: Horóscopo semanal geminis 16 de mayo 2022 al 22 de mayo 2022. En serio Géminis, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-05-09
+ogimg: /images/zodiac/semanal_geminis.png#2022-05-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-09'
+ lastmod: '2022-05-16'
 ---
 
 
 
-## Deja que duela Géminis, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+## En serio Géminis, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 
-No pelees Géminis, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente Géminis, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador Géminis, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
-En teoría, tienes la capacidad de canalizar tu atención y colocarte en una posición ganadora, pero debido a la Luna Llena de esta semana, es posible que al llegar el momento decisivo sientas bastante inquietud y no puedas concentrarte tanto como te gustaría. Aunque deseas enfocarte en una sola cosa, muchas otras llaman tu atención. Una vez que el Sol entre a Leo el viernes, planes de diversión podrían anular todo lo demás. Pues qué mejor que relajarte y divertirte.
+En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien Géminis…
+Aunque las relaciones siguen siendo importantes, puede que estés buscando algo un poco más profundo a medida que avanza la semana. Una vez que Venus entre a un sector sensible e intenso de tu carta, la pasión puede ser una emoción que notes, así como también una toma de conciencia sobre cómo puedes sacarles el máximo provecho a los recursos compartidos. Estas difíciles cuestiones podrían requerir de un poco de pensamiento y planificación. Las citas románticas podrían ser muy especiales, sobre todo durante el fin de semana, así que no te las pierdas.
 
 ## Dinero
 
-Como de costumbre, es posible que estés ocupado/a esta semana conforme las responsabilidades de otras personas son lanzadas en tu escritorio. En medio de la locura, ponte en contacto con tu cruda ambición. ¿Qué tan alto quieres subir en la escalera de la empresa? Si no tienes intención de quedarte ahí, es importante que sepas que tienes muchas y muy buenas ideas si es que quisieras abrir un nuevo negocio. Profesiones relacionadas con viajes, educación, edición, metafísica y ley son todas probables.
+Tienes emoción y ganas de hacer nuevos contactos. Cualquiera que sea tu profesión, encontrarás que es más fácil hacerla con amigos. El pedirle ayuda a un mentor o el simple hecho de presentarte ante alguien que te inspira, es el mejor uso que le puedes dar a tu energía. Algunos de esos mentores podrían ser tus hijos, familiares o socios.

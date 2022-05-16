@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 09 de mayo 2022 al 15 de mayo 2022 
-description: Horóscopo semanal tauro 09 de mayo 2022 al 15 de mayo 2022. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Tauro. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+title: tauro 16 de mayo 2022 al 22 de mayo 2022 
+description: Horóscopo semanal tauro 16 de mayo 2022 al 22 de mayo 2022. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-05-09
+ogimg: /images/zodiac/semanal_tauro.png#2022-05-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-09'
+ lastmod: '2022-05-16'
 ---
 
 
 
-## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Tauro. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 
-Se avecinan cosas nuevas Tauro, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar Tauro, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin Tauro, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
-Podrías tener la posibilidad de explorar una oportunidad de oro demasiado buena para dejarla pasar. Si bien esto puede significar que debas salir de tu zona de confort, vale la pena hacerlo por los beneficios que podrías obtener. Las próximas semanas brillan de forma prometedora, en especial si tienes ganas de pensar de forma poco tradicional y explorar nuevos terrenos. Mientras tanto, el regreso de Venus a un sector más sensible de tu carta podría desencadenar sentimientos pasionales en una relación existente o en un nuevo romance.
+Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
+Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
+Plutón se torna directo en tu sector de relaciones, por lo que podrías percatarte de que cambios positivos se hacen más posibles de una manera muy notable. Además, con Marte entrando a esta misma zona, sus agitadas cualidades podrían animarte a solucionar ciertos problemas, empezar a trabajar en ciertos proyectos y aumentar tu nivel de interacción con alguien. Es posible que desees hacer uso de la energía lunar viernes en tu sector hogareño para poner en marcha un proyecto manual o doméstico. La compra o venta de bienes raíces también podría funcionar bien.
 
 ## Dinero
 
-Hay aspectos positivos afectando tu sector de empleo ahora. Es posible que te ofrezcan un nuevo trabajo, un aumento o una promoción. Puede haber cierta inestabilidad en tu lugar de trabajo, pero si puedes volverte la presencia calmada y madura, asegurarás tu futuro como un valioso empleado.
+Esta semana la vida será cualquier cosa menos que aburrida con tu eléctrica personalidad ganándose a algunos, pero dejando a otros preguntándose de qué planeta viniste. Quieres salir a divertirte con amantes, amigos y familiares, pero el Universo quiere que te encargues del cambio en el frente de carrera. Si te está empezando a costar demasiado, piensa en cómo trabajar desde casa tiempo parcial para ahorrarte el dinero gastado en transportación.
