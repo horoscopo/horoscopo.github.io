@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 16 de mayo 2022 al 22 de mayo 2022 
-description: Horóscopo semanal virgo 16 de mayo 2022 al 22 de mayo 2022. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+title: virgo 23 de mayo 2022 al 29 de mayo 2022 
+description: Horóscopo semanal virgo 23 de mayo 2022 al 29 de mayo 2022. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-05-16
+ogimg: /images/zodiac/semanal_virgo.png#2022-05-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-16'
+ lastmod: '2022-05-23'
 ---
 
 
 
-## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 
-Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
-Si al parecer los negocios o las cuestiones financieras han estado estancados últimamente y tus esfuerzos no dieron frutos, no te desanimes. La causa podría ser que el valiente Marte todavía se encuentra en su fase retrógrada. Mejor dedica este tiempo a ajustar tus planes en lugar de mirar hacia adelante. Sin embargo, cuando el fogoso Marte forma un penetrante ángulo con el debilitante Urano, podrías perder la paciencia y sentir que debes apurar el paso. No lo hagas. Podrías terminar peor que antes o perder lo que has conseguido hasta el momento. 
-Tu posición podría ser aún más extraña con el inquisitivo Mercurio en su fase retrógrada en tu sector de finanzas personales. Evita cerrar tratos que involucren grandes cantidades de dinero hasta que las dos fases retrógradas hayan terminado cerca de fin de mes. Cuando el animado Júpiter ingresa a tu sector de romance, un encuentro podría ser especialmente prometedor. Esta persona podría animarte a poner en práctica tus diversos pasatiempos.
+A veces las cosas tienen que ser a tu manera o a ninguna Virgo, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada Virgo. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
+Tus creencias podrían ser un problema conforme Júpiter en tu sector de sabiduría superior choca con Plutón en tu sector espiritual. Si te estás aferrando a emociones y maneras de pensar del pasado, podrías estar resistiéndote a una oportunidad para liberarte de ellas y adoptar una filosofía que te ayude a disfrutar de un mayor éxito. Aferrarte podría demandar más energía que soltar y pasar al siguiente nivel. Si tienes la voluntad para analizar la situación, puede que una de tus amistades tenga consejos pertinentes.
 
 ## Dinero
 
-Esta semana hace hincapié en la seguridad, dinero y valores. Un aspecto armonioso te da licencia para gastar en ese viaje que has estado deseando hacer, ese taller de fin de semana que te traerá más dinero en efectivo a largo plazo e incluso esa idea creativa que ha estado deambulando en la parte trasera de tu cerebro. Haz que suceda y estarás feliz por ello.
+Cierta actividad en tu sector de dinero y de valores hace que sea prácticamente imposible evitar todas las ofertas y las oportunidades de ganar más a corto plazo. Haz heno mientras el Sol brilla. Esto es especialmente cierto ya que algunos de los aspectos son desafiantes. Puede ser que tu vida en el hogar sea un poco caótica ahora. No gastes más de lo que deberías.
