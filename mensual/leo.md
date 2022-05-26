@@ -1,25 +1,27 @@
 ---
 layout: horoscopos
-title: Horoscopo Leo Mayo 2022
-description: El Horóscopo Mayo de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Leo Junio 2022
+description: El Horóscopo Junio de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo mayo, horoscopos en español, horóscopo Leo mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo junio, horoscopos en español, horóscopo Leo junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2022-04-26
+ogimg: /images/mes/leo_mes.png#2022-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-04-26'
+ lastmod: '2022-05-26'
 ---
 
 
- > Leo en mayo seguirás en la búsqueda de cumplir con la cantidad de metas y propuestas que sueles hacer cada año.
-El camino no será fácil pero ¿quien dijo que a ti te gustan las cosas fáciles? Sabes mejor que nadie que la excelencia cuesta y no es cuestión de apurarse, sino de hacer las cosas bien.
+ > Leo, en junio tendrás que centrar tus esfuerzos en mejorar tus dotes comunicativas y tomar algunas decisiones importantes que afectarán a tus relaciones afectivas. Puedes experimentar un cambio significativo en tus sentimientos y estarás dispuesta a correr ciertos riesgos en pos de tus intereses amorosos.
 
 
 
-El mundo es hermoso ante tus ojos bajo la Luna del 4 de mayo. Pasa tiempo con gente interesante y disfruta de algo artístico que normalmente no harías o verías. Es el tipo de día en el que todas tus orquídeas comienzan a florecer. La Luna Sangrienta del 16 de mayo brilla sobre tus preocupaciones profesionales. Si has estado cultivando amigos o aliados en el trabajo, tales te apoyarán ahora. Ten generosidad con tu tiempo y energía (sin descuidar tus deberes) y todos a tu alrededor se beneficiarán. El Sol, tu planeta regente, se opone a Plutón el 30 de mayo, cuando el romance podría tomar un giro extraño o sorprendente.
+Mercurio entra a Cáncer el 12 de junio, y los pensamientos se centran en el hogar, asuntos domésticos y en terminar un importante proyecto prolongado. Haz lo que puedas y luego relájate. El día 14, la luna llena te muestra nuevas formas de proyectar tus habilidades y talentos. Ahora será más fácil para el mundo encontrarte. También podrías descubrir una nueva manera de promover una causa favorita. La luna nueva del 29 de junio podría mostrarte una forma de superar una situación complicada. Un acontecimiento de último momento podría brindar una oportunidad que te permita entrar en acción. Presta atención, y disponte a hacer algo fuera de lo común. 
+
+Días destacados: 1, 14, 19
+Días desafiantes: 15, 23

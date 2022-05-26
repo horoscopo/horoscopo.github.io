@@ -1,18 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Virgo Mayo 2022 
+title: Horoscopo Virgo Junio 2022 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2022-04-26
+ogimg: /images/mes/Virgo_mes.png#2022-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-04-26'
+ lastmod: '2022-05-26'
 ---
 
 
-La conjunción entre la Luna y Urano el 5 de mayo aporta energía renovada a un ánimo decaído si estás padeciendo los efectos del desgaste después de la época de fiestas. La Luna Llena y el eclipse lunar, formando la llamada Luna sangrienta, del 16 de mayo brilla directo sobre tu vida hogareña y familiar. Quizás consideres que una preocupación laboral es más importante. ¿Es importante? Sí. ¿Es más importante que lo demás? No. Haz lo que sea necesario y regresa a la felicidad de tu hogar. Tu vida social se expande y florece con la Luna Nueva del 27 de mayo. Podrías hacer varios nuevos amigos casuales que te integrarán en un círculo social mucho más amplio. No obstante, no tienes la obligación de dejar que esto consuma tu vida o dure para siempre.
+Marte forma una cuadratura con Urano el 1 de junio. Controla tu temperamento, y no dejes que nadie te provoque (puede que lo intenten). Busca un logro en el trabajo o en algún entorno social durante la luna llena del día 14. Puede que haya fricciones o resistencia al principio, pero luego serás quien avance.
+Mercurio se torna estacionario directo el día 18. Tómate tu tiempo para reorganizarte y volver a contactar a alguien que te quedó mal recientemente. Durante la luna nueva del 29 de junio, rodéate de gente feliz que parece estar divirtiéndose más que tú. Sin embargo, las cosas pueden no ser lo que parecen. Ponte alegre y decide por tu cuenta lo que es agradable y entretenido. Marte se torna estacionario directo al día siguiente. Puede que lleve algunos días tener más motivación, reunirte con una vieja pasión, y volver a estar a toda marcha, pero lo lograrás.
+
+Días destacados: 7, 12, 28
+Días desafiantes: 9, 21

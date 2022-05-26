@@ -1,25 +1,27 @@
 ---
 layout: horoscopos
-title: Horoscopo Cáncer Mayo 2022
-description: El Horóscopo Mayo de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Cáncer Junio 2022
+description: El Horóscopo Junio de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo mayo, horoscopos en español, horóscopo Cáncer mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo junio, horoscopos en español, horóscopo Cáncer junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/cancer_mes.png#2022-04-26
+ogimg: /images/mes/cancer_mes.png#2022-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-04-26'
+ lastmod: '2022-05-26'
 ---
 
 
- > Cancer, mayo será un mes maravilloso para ti ya que de alguna forma te sentirás abrazada y protegida por el Universo.
-Sentirás gran serenidad debido a que tus sentimientos, tus pensamientos y tus actos estarán alineados en perfecta armonía. Y si has pensado en mudarte, ha llegado el momento este mes.
+ > Cancer, junio supondrá para ti un mes en el que se te pondrá a prueba para ver si por fin puedes controlar tus impulsos. En el tema del amor primará la armonía y es casi imposible que algo pueda salir mal.
 
 
 
-La Luna de Sangre del 16 de mayo brilla directamente sobre tu vida hogareña para hacerla el refugio de tu elección. Parte de esto puede deberse a que la escena laboral se ha sobrecalentado y vuelto emocional. Si es así, sumérgete en tu cama y descansa. Puedes volverte la gran sensación en el trabajo o en público de una muy buena manera bajo la Luna Nueva del 30 de mayo. Si mantienes el control de la situación, puedes hacer que esta ventaja dure y seguir beneficiándote de ello a lo largo del resto del año. La Luna en Géminis cuadra a Mercurio el 25 de mayo, alentando a la gente a discutir emocionalmente acerca de todo y de nada. No caigas en la trampa.
+Te sentirás con energía (tal vez, demasiada) durante la Luna Llena del 14 de junio. Mantén una vida diaria simple y no te distraigas con interrupciones ni preocupaciones de personas que están mucho más distraídas que tú. Es un periodo de tiempo ajetreado, y muchos podrían descontrolarse. La Luna Nueva del 29 de junio viene cargada de energía y ambición. Podría ser difícil pensar sin sentir distintas emociones. Si evitas la impaciencia o impulsividad, todo puede estar bien. El 28 de junio, la conjunción entre Mercurio y Marte en Cáncer te otorga capacidades y poder adicional para lograr algo difícil que ha estado pendiente.
+
+Mejores días: 4, 10, 21
+Peores días: 13, 30

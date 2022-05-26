@@ -1,18 +1,21 @@
 ---
 layout: amp
-title: Horoscopo Acuario Mayo 2022 
+title: Horoscopo Acuario Junio 2022 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2022-04-26
+ogimg: /images/mes/Acuario_mes.png#2022-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-04-26'
+ lastmod: '2022-05-26'
 ---
 
 
-La Luna Llena del 16 de mayo derrama sobre ti el poder necesario para mejorar tu rutina diaria. Sin tener que hacer un gran esfuerzo, organízate y logra terminar un montón te proyectos que tienes a medias. Obtendrás mucha ayuda sin tener que pedirla. Aprovéchala al máximo y recuerda demostrar tu gratitud. El período retrógrado de Venus termina el 15 de mayo. Busca corazones más tiernos y tal vez un símbolo de amor o dulce reconciliación. La del 30 de mayo es una Luna Nueva que te permite volverte una nueva versión de ti. Crea un mundo más hermoso y sé consciente de que puedes hacer que dure. Siente seguridad sobre todo lo que realmente amas.
+Júpiter forma una oposición con el sol el 8 de junio, y puede que tengas algunas dudas de más. Simplemente habla con honestidad y siéntete bien sobre cómo las cosas están saliendo. Disfruta de tus personas preferidas y placeres locales durante la luna nueva del día 15. Ahora puede haber muchas tentaciones exóticas, pero seguirán estando ahí más tarde. La luna llena del 29 de junio te permite enfocarte en jugadas profesionales o interacciones sociales. Es una época complicada, pero tienes los instintos y la intuición para atravesarla. No te promociones demasiado, pero no rechaces una sugerencia prometedora u oferta de progreso o responsabilidad. 
+
+Días destacados: 10, 22, 25
+Días desafiantes: 7, 20

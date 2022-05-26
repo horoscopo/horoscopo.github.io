@@ -1,18 +1,21 @@
 ---
 layout: amp
-title: Horoscopo Leo Mayo 2022 
+title: Horoscopo Leo Junio 2022 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2022-04-26
+ogimg: /images/mes/Leo_mes.png#2022-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-04-26'
+ lastmod: '2022-05-26'
 ---
 
 
-El mundo es hermoso ante tus ojos bajo la Luna del 4 de mayo. Pasa tiempo con gente interesante y disfruta de algo artístico que normalmente no harías o verías. Es el tipo de día en el que todas tus orquídeas comienzan a florecer. La Luna Sangrienta del 16 de mayo brilla sobre tus preocupaciones profesionales. Si has estado cultivando amigos o aliados en el trabajo, tales te apoyarán ahora. Ten generosidad con tu tiempo y energía (sin descuidar tus deberes) y todos a tu alrededor se beneficiarán. El Sol, tu planeta regente, se opone a Plutón el 30 de mayo, cuando el romance podría tomar un giro extraño o sorprendente.
+Mercurio entra a Cáncer el 12 de junio, y los pensamientos se centran en el hogar, asuntos domésticos y en terminar un importante proyecto prolongado. Haz lo que puedas y luego relájate. El día 14, la luna llena te muestra nuevas formas de proyectar tus habilidades y talentos. Ahora será más fácil para el mundo encontrarte. También podrías descubrir una nueva manera de promover una causa favorita. La luna nueva del 29 de junio podría mostrarte una forma de superar una situación complicada. Un acontecimiento de último momento podría brindar una oportunidad que te permita entrar en acción. Presta atención, y disponte a hacer algo fuera de lo común. 
+
+Días destacados: 1, 14, 19
+Días desafiantes: 15, 23
