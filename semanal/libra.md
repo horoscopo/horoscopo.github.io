@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 23 de mayo 2022 al 29 de mayo 2022 
-description: Horóscopo semanal libra 23 de mayo 2022 al 29 de mayo 2022. Recuerda que ha empezado la época de los Libra… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+title: libra 30 de mayo 2022 al 05 de junio 2022 
+description: Horóscopo semanal libra 30 de mayo 2022 al 05 de junio 2022. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2022-05-23
+ogimg: /images/zodiac/semanal_libra.png#2022-05-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-23'
+ lastmod: '2022-05-30'
 ---
 
 
 
-## Recuerda que ha empezado la época de los Libra… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 
-Nunca te has arrepentido de nada Libra, para bien o para mal la vida te ha dado lecciones en las que no te ha quedado más remedio que aprender. Estás en una fase en la que tus pensamientos se vuelven a pelear entre ellos. Lo que deberías hacer, lo que quieres hacer, lo que el mundo espera que hagas… Otra vez. Piensa antes de nada en lo que vas a perder antes de actuar y de tomar una decisión, pero tampoco busques hasta la más mínima excusa para no hacerlo. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Libra. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad. Métete en la cabeza que puedes hacer absolutamente todo lo que te propongas solo, sin necesidad de que nadie te nuble el juicio, sin necesidad de que nadie te vuelva loco. La vida va a empezar a enseñarte quien merece la pena, quién no merece que se acerque a ti más de cinco minutos al día y quien no merece que se acerque nunca. Pero primero eres tú, en eso es en lo que tienes que trabajar más, en valorarte a ti mismo, en confiar en ti, en tus instintos, en tus objetivos, en saber que lo que hagas saldrá bien, de verdad. Tú no necesitas ejemplos de nadie, cada uno vive su vida como le apetece y si a alguien no le salieron las cosas como esperaba no significa que a ti no te vayan a salir, deja el miedo a un lado y sobretodo la dependencia emocional. Aunque sea una dependencia mínima. Vuelve a ser la persona que siempre has sido.
-Puede que parezca como si fueras a perderte de una oportunidad de oro si no te apresuras. Pero si, como la alineación actual sugiere, sientes emoción por las muchas posibilidades que tienes abiertas, tal vez deberías considerar la posibilidad de cortar los proyectos o actividades que ya no te parecen muy atractivas. Si lo haces, significa que serás capaz de aprovechar al máximo las nuevas opciones que son puestas en tu camino. Además, cuidar un poco más tus finanzas también podría serte beneficioso ahora.
+No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse Libra, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo Libra, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
+Tu sector de finanzas está bajo enfoque esta semana con el día lunes pudiendo traerte una oportunidad para gastar tu dinero. Si has tenido tu ojo en un determinado objeto, este podría ser el momento en el que decidas comprarlo sin importa cuánto cueste. Por otro lado, ser sensible a los sentimientos de alguien podría alentar a una charla sincera con el fin de prevenir un desacuerdo. El fin de semana podía verte saliendo a cazar gangas, con la opción de un descuento que sea demasiado bueno como para dejarlo pasar. ¡Mantente alerta!
 
 ## Dinero
 
-Tienes actividad en tu sector de dinero y valores. Podría significar fortuna extrema que podría ya ser inestable o de corta duración. Si eres del tipo que arriesga, no es una mala semana para darle un giro a la rueda de la ruleta, pero guárdate la mitad de lo que ganes en el bolsillo - y no lo toques. Debido a que tu sector  de relaciones se ve afectado, puedes irritar a alguien si no tienes el suficiente cuidado.
+Esta semana, el Universo te pide que busques clases, seminarios y talleres que puedan mejorar tu conjunto de habilidades, especialmente cuando se trata de producir e invertir dinero. Estás frente a un momento de necesidad de mirar hacia adentro para descubrir qué es lo que realmente quieres hacer para ganar dinero. Ten honestidad y trata de encontrar ese tipo de trabajo.

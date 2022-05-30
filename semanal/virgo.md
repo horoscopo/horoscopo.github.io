@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 23 de mayo 2022 al 29 de mayo 2022 
-description: Horóscopo semanal virgo 23 de mayo 2022 al 29 de mayo 2022. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: virgo 30 de mayo 2022 al 05 de junio 2022 
+description: Horóscopo semanal virgo 30 de mayo 2022 al 05 de junio 2022. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-05-23
+ogimg: /images/zodiac/semanal_virgo.png#2022-05-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-23'
+ lastmod: '2022-05-30'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-A veces las cosas tienen que ser a tu manera o a ninguna Virgo, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada Virgo. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
-Tus creencias podrían ser un problema conforme Júpiter en tu sector de sabiduría superior choca con Plutón en tu sector espiritual. Si te estás aferrando a emociones y maneras de pensar del pasado, podrías estar resistiéndote a una oportunidad para liberarte de ellas y adoptar una filosofía que te ayude a disfrutar de un mayor éxito. Aferrarte podría demandar más energía que soltar y pasar al siguiente nivel. Si tienes la voluntad para analizar la situación, puede que una de tus amistades tenga consejos pertinentes.
+Tienes que improvisar más Virgo, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Virgo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Virgo… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Virgo, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Virgo.
+La Luna Nueva en tu sector de recursos compartidos podría ser un llamado a resolver cualquier problema en esta área, ya sea de negocios o asuntos financieros. Actuar ahora puede permitirte resolver dificultades antes de empezar a trabajar en proyectos más ambiciosos. Marte entra a tu sector espiritual el martes, pudiendo ser un llamado a resolver asuntos más personales, sobre todo si están drenando tu energía. Inclusive dar pasos pequeños para arreglar las cosas puede ser muy beneficioso.
 
 ## Dinero
 
-Cierta actividad en tu sector de dinero y de valores hace que sea prácticamente imposible evitar todas las ofertas y las oportunidades de ganar más a corto plazo. Haz heno mientras el Sol brilla. Esto es especialmente cierto ya que algunos de los aspectos son desafiantes. Puede ser que tu vida en el hogar sea un poco caótica ahora. No gastes más de lo que deberías.
+Esta semana tiene que ver con el Universo permitiéndote tener más magnetismo y creatividad. Añade a esto que ciertos aspectos actualmente afectan a tu sector de trabajo, y tienes una maravillosa semana para empezar a pensar en iniciar un negocio en el modo de aumentar tus ingresos con otra empresa. Puede que haya cierta inestabilidad. Prepárate lo más que puedas con planes de ahorro y alternativas.

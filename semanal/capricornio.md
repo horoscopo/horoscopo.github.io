@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 23 de mayo 2022 al 29 de mayo 2022 
-description: Horóscopo semanal capricornio 23 de mayo 2022 al 29 de mayo 2022. A veces hay que llevar al límite las cosas Capricornio, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+title: capricornio 30 de mayo 2022 al 05 de junio 2022 
+description: Horóscopo semanal capricornio 30 de mayo 2022 al 05 de junio 2022. Hay cosas que ya no funcionan Capricornio, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-05-23
+ogimg: /images/zodiac/semanal_capricornio.png#2022-05-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-23'
+ lastmod: '2022-05-30'
 ---
 
 
 
-## A veces hay que llevar al límite las cosas Capricornio, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+## Hay cosas que ya no funcionan Capricornio, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 
-Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro Capricornio, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Capricornio, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
-Con el sociable Venus en tu sector de hogar y familia, podrías tener más pensamientos relacionados a entretenimiento. No tiene que ser una gran ocasión, ya que incluso una pequeña reunión con amistades cercanas o familia puede ser muy divertida. El cosmos también te lleva a involucrarte en pasatiempos que disfrutas. Lo que sea que haga fluir tu creatividad puede ser terapéutico y reparador. Más adelante, un deseo de tener tu lugar en perfectas condiciones podría inspirarte a lidiar con el desorden.
+Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
+Podrías sentir decepción por la forma en que cierta idea o proyecto creativo sufre retrasos. Con Mercurio y Júpiter retrógrados, pueden que ciertas cosas no estén sucediendo tan rápido como te gustaría. Sin embargo, tal parece que esta situación va a continuar durante algún tiempo, por lo que tendrás que verle el lado bueno. Revisa tus planes y analiza si pueden ser cambiados de manera positiva. En materia de romance, una conexión amorosa podría estar moviéndose más lento de lo esperado. Si es así, paciencia es la clave.
 
 ## Dinero
 
-Esta semana trae actividad a tu sector de dinero. Mientras que orientas tu vida en torno a ganar más dinero, también es necesario construir una base que sea sólida. Asegurarte de que tu ingreso sea estable y consistente es de primordial importancia. A medida que tu empleo y tu lugar de trabajo puedan estar cambiando, hay un gran potencial sin explotar en el extranjero. Explora otras posibilidades de trabajo y de ganar dinero en línea o en los crecientes mercados extranjeros.
+Tus pensamientos e ideas pueden tornarse a la familia y la diversión por ahora, pero el Universo te está empujando a pensar en instituciones grandes como una forma de ganar dinero. Si tu dinero está en un banco pequeño o local, puede ser momento de darles a los bancos grandes una oportunidad. Mejores tarifas y opciones de ahorro significan más dinero para ti y tu clan.

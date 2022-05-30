@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 23 de mayo 2022 al 29 de mayo 2022 
-description: Horóscopo semanal sagitario 23 de mayo 2022 al 29 de mayo 2022. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+title: sagitario 30 de mayo 2022 al 05 de junio 2022 
+description: Horóscopo semanal sagitario 30 de mayo 2022 al 05 de junio 2022. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-05-23
+ogimg: /images/zodiac/semanal_sagitario.png#2022-05-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-23'
+ lastmod: '2022-05-30'
 ---
 
 
 
-## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 
-Los finales no significan que hayas fallado en algo Sagitario, los finales a veces sirven para abrir nuevas puertas a algo. Sagitario, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza Sagitario…
-Una cálida conversación o la posibilidad de volver a conectar con alguien pueden hacer que el comienzo de la semana sea muy especial y animado. Después de unas alegres semanas, las próximas podrían ser más tranquilas y quizá más fáciles de transitar. Cuando el sol ingresa a tu sector de habla y pensamiento, tu mente puede enfocarse en objetivos e ideas más prácticas. Puede que busques la forma de materializar los planes que podrían mejorar tu seguridad y hacer crecer tu negocio o mejorar tu estilo de vida. 
- Sin embargo, cuando el prudente Saturno y el ardiente Plutón se vuelven retrógrados, puede que quieras reestructurar tu vida social en las próximas semanas y meses a fin de evitar a una de tus amistades, que siente celos de ti. De hecho, es posible que decidas cortar la relación por completo si las cosas no cambian. Estas influencias también tienen un lado positivo, ya que tus verdaderas amistades te brindan una atmósfera de mutuo apoyo.
+¿Cómo quieres gastar tu vida Sagitario? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Sagitario, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Sagitario, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Sagitario. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Sagitario.
+Tu hogar es donde se encuentra tu corazón, en especial a medida que el adorable Venus hace su ingreso a tu sector de familia el martes; uniéndose al optimista Júpiter y al alegre sol. El fin de semana puede ser fabuloso para invitar gente a tu casa y comenzar a experimentar como anfitriona. El sol alineándose con el potente Plutón el jueves puede ser indicio de un deseo de hacerle cambios clave a tu estilo de vida y, tal vez, de deshacerte de hábitos que te impiden avanzar. Por otra parte, una audaz idea en la que has estado trabajando podría concluir de manera exitosa.
 
 ## Dinero
 
-Esta semana es posible que tengas que ajustar tu forma de pensar acerca del dinero y su papel en tu vida, así como la forma en la que manejas el dinero. Es posible que hayas crecido acostumbrado/a a pensar en ti mismo/a como un protector o un derrochador. Tal vez puedes ser ambos. Ahora, vas a decir lo que piensas con respecto a asuntos financieros. La esperanza es puedas hacer esto de una manera diplomática y tolerante e incluir la perspectiva de todo el mundo.
+Esta semana te trae poca ventaja. Tu personalidad nunca es sutil sino voluptuosa y podría inclusive estar a cargo en este momento, lo cuál no les parece a todos. Si vas a una entrevista o quieres impresionar a un cliente nuevo, tu acto súper poderoso puede no ser tu mejor apuesta. En cambio, sería mejor que jugaras la carta del misterio. El atraerlos a ti podría traerte mejores resultados financieros.
