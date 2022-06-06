@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 30 de mayo 2022 al 05 de junio 2022 
-description: Horóscopo semanal escorpio 30 de mayo 2022 al 05 de junio 2022. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+title: escorpio 06 de junio 2022 al 12 de junio 2022 
+description: Horóscopo semanal escorpio 06 de junio 2022 al 12 de junio 2022. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-05-30
+ogimg: /images/zodiac/semanal_escorpio.png#2022-06-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-30'
+ lastmod: '2022-06-06'
 ---
 
 
 
-## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-Abre los ojos de una vez Escorpio. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas Escorpio, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero Escorpio, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también Escorpio. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. Escorpio por favor, te tenían que tener en un altar… Y lo sabes…
-Una positiva conexión entre Venus y Marte en tu signo al principio de semana puede ser perfecta para una cita especial o un evento social un tanto interesante. Una cuestión relativa a una meta o un negocio creativo podría dominar tu conciencia, y esto podría significar que te pierdas de un par de oportunidades en otros lugares. Dale tu atención, pero sé consciente de que hay una alta probabilidad de que lo que decidas llegue a cambiar la próxima semana. Por último, si vas a acudir a un evento este fin de semana, tal debería ser estupendo.
+Al final, sólo te lamentarás de las posibilidades que no tomaste Escorpio así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo Escorpio. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+Ve con tranquilidad al comienzo de la semana, en especial si estás explorando el potencial de un nuevo plan o dando importantes pasos hacia adelante. El enfoque del sector más importante de tu carta podría animarte a avanzar cuando puede que no tengas suficiente información para tomar la decisión más sabia. Al mismo tiempo, el conversador Mercurio y el amoroso Venus ingresan a tu sector social. Esto podría animarte a explorar las diversas posibilidades que conlleva establecer nuevos contactos. Cuando el alegre Júpiter se vuelve retrógrado, puede que también quieras reconsiderar tu agenda.
 
 ## Dinero
 
-Esta semana, los aspectos afectan tu sector de instituciones, vidas pasadas, y karma. Lo que pones en tu trabajo y dinero es lo que recibes, dice el Universo. Si te has negado a planificar para la jubilación o el ahorro en general, esta es la semana para escuchar a tu intuición y poner manos a la obra.
+No eres el ser más paciente de la faz del planeta, pero tu suerte es grande y está a cargo por ahora, así que no te preocupes. Los aspectos están avivando el aprendizaje, incrementando tus oportunidades para incorporar nuevas habilidades. Pueden surgir oportunidades repentinas para divertirte con amigos, familiares y parejas románticas. El dinero se hizo para gastarse, ¿cierto?

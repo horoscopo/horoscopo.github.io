@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 30 de mayo 2022 al 05 de junio 2022 
-description: Horóscopo semanal virgo 30 de mayo 2022 al 05 de junio 2022. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+title: virgo 06 de junio 2022 al 12 de junio 2022 
+description: Horóscopo semanal virgo 06 de junio 2022 al 12 de junio 2022. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Virgo, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-05-30
+ogimg: /images/zodiac/semanal_virgo.png#2022-06-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-05-30'
+ lastmod: '2022-06-06'
 ---
 
 
 
-## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Virgo, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 
-Tienes que improvisar más Virgo, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Virgo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Virgo… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Virgo, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Virgo.
-La Luna Nueva en tu sector de recursos compartidos podría ser un llamado a resolver cualquier problema en esta área, ya sea de negocios o asuntos financieros. Actuar ahora puede permitirte resolver dificultades antes de empezar a trabajar en proyectos más ambiciosos. Marte entra a tu sector espiritual el martes, pudiendo ser un llamado a resolver asuntos más personales, sobre todo si están drenando tu energía. Inclusive dar pasos pequeños para arreglar las cosas puede ser muy beneficioso.
+No pienses tanto Virgo, deja que la vida te vaya sorprendiendo. Últimamente estás como muy nostálgico ¿no? No es que estés deprimido pero sí se te ha pasado por la cabeza eso de que algunos momentos del pasado fueron mejores que en el que estás ahora. No te agobies Virgo, ni te estreses. Quizás estás pensando demasiado en el futuro, en cómo van a ir las cosas, en si saldrá bien. Has arriesgado mucho para estar donde estás y con quien estás, y ya lo decidiste así que, no puedes pasarte la vida pensando si has hecho bien o no. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Virgo, pero no trates de sujetarlo por todos lados cuando su destino es el suelo. Eres firme con las decisiones que tomas, siempre lo has sido pero, probablemente por momentos se te haga cuesta arriba en muchos aspectos. Deja la nostalgia a un lado y esfuérzate en pensar que todo tiene un principio y un fin y que la vida son ciclos que empiezan y que acaban, y que después llega otro ciclo de la misma manera. No tengas miedo a lo que es desconocido para ti, al revés, enfréntalo como algo nuevo que, quien sabe, puede traerte cosas que duren para toda la vida. Ten mucha paciencia en estos días y aprende a tomarte las cosas como lo que son, ni más ni menos, no puedes dar mucha importancia a cosas que no la tienen pero tampoco quitársela a otras muchas que SI la tienen. Y lo sabes. Mantente hábil para descubrir todo. Ya hace un tiempo te planteaste que ser positiv@ sería probablemente el único camino para que las cosas salieran bien y sí, en el fondo sabes que gracias a eso estás aquí, así que, no lo pierdas por nada del mundo, aunque se caiga todo a pedazos, aunque nada tenga sentido, mantente fuerte, eso será lo que necesitas para que tu cabeza no decaiga por pensamientos negativos. Vas a darte cuenta de tantas cosas…
+La luna llena del martes en tu sector doméstico podría sacar a la luz un drama familiar. Si alguien barrió un problema clave debajo del tapete, esta fase lunar podría poner el tema sobre la mesa. Sin embargo, lo prudente sería adoptar un enfoque sensible en torno a estas cuestiones. Tener demasiada franqueza y honestidad podría dificultar un poco las cosas. 
+También el martes, el animado Mercurio, tu planeta regente, se une al sol en Géminis en tu sector de metas y ambiciones. Durante las próximas semanas, podrías ser el centro de atención. Usa esto para demostrar tus mejores capacidades y habilidades.
+El fin de semana puede ser perfecto para una maravillosa ocasión romántica que disfrutes a lo grande. Ya sea si estás en pareja o disfrutando de la soltería, la conexión entre el delicioso Venus y el jovial Júpiter el viernes, y el soñador Neptuno el sábado pueden combinarse para que tengas una noche de cita verdaderamente espectacular. Estos son los mejores días para hacer uso de esta oportunidad.
 
 ## Dinero
 
-Esta semana tiene que ver con el Universo permitiéndote tener más magnetismo y creatividad. Añade a esto que ciertos aspectos actualmente afectan a tu sector de trabajo, y tienes una maravillosa semana para empezar a pensar en iniciar un negocio en el modo de aumentar tus ingresos con otra empresa. Puede que haya cierta inestabilidad. Prepárate lo más que puedas con planes de ahorro y alternativas.
+Hay todo tipo de extrañas energías conectadas con los asuntos de carrera y figuras de autoridad. Lo que estaba allí ayer podría no estar allí mañana, así que es mejor conservar tus recursos. Los expertos sugieren que tengas dinero guardado para los siguientes meses, pero incluso si no puedes manejar eso ahora, trata de por lo menos guardar algo. Te servirá para calmarte un poco cuando tu vida se vuelva un poco inestable durante la próxima semana.
