@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de junio 2022
-description: Horóscopos del dia de hoy 10 de junio 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 11 de junio 2022
+description: Horóscopos del dia de hoy 11 de junio 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-06-10
+ lastmod: 2022-06-11
 ---
-Las conversaciones son positivas, abiertas y audaces con el trígono entre la Luna y Mercurio de esta mañana. Disfrútalas. La vibra podría volverse un poco irritable y crítica durante la tarde con su oposición con Marte. Esta noche, alguien podría tomar una decisión final en relación a una persona especial si la otra parte ha persistido durante algún tiempo.
+Hoy, el Universo se suaviza con emoción y las relaciones florecer cuando la Luna en Tauro forma sextil con Neptuno. Solteros, no hay misterio, es más bien química cuando Venus también aspecta a Neptuno. Las parejas deberían aprovechar esta energía cósmica y hablar sobre sus sueños. Crear imágenes del futuro es muy tranquilizador, ¿cierto?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
