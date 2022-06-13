@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: leo 06 de junio 2022 al 12 de junio 2022 
-description: Horóscopo semanal leo 06 de junio 2022 al 12 de junio 2022. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+title: leo 13 de junio 2022 al 19 de junio 2022 
+description: Horóscopo semanal leo 13 de junio 2022 al 19 de junio 2022. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Leo, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-06-06
+ogimg: /images/zodiac/semanal_leo.png#2022-06-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-06-06'
+ lastmod: '2022-06-13'
 ---
 
 
 
-## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Leo, vuelve a brillar.
 
-A veces dejas las puertas medio abiertas Leo, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Leo porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien Leo, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado Leo, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
-Tu vida social mejorará con la presencia del sol en este sector el martes, lo que aumenta tus opciones para divertirte y empaparte de un espíritu festivo. También hay un aspecto más enfocado que te anima a escuchar a tu intuición y a prestar atención a las señales y coincidencias que podrían ayudarte con tu carrera y ambiciones. Seguir estos consejos podría ayudarte a aprovechar una oportunidad que, de otro modo, podrías haber perdido. El fin de semana, una de tus amistades podría sorprenderte.
+Esta semana tienes que tomarte las cosas con más calma Leo. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
+ Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse.
+Si bien a simple vista pareces tener confianza, en el fondo tus sentimientos son muy distintos. Con Júpiter en un sector tranquilo de tu carta alineándose con Plutón en tu sector de comunicaciones, puede que no quieras escuchar a tu intuición, incluso si te habla fuerte y claro. Pero puede que debas hacerlo si necesitas resolver un problema muy personal. El traslado de Venus a tu sector de amistades sugiere que hablar sobre el asunto con una amistad cercana podría darte la confianza que necesitas para hacer lo correcto.
 
 ## Dinero
 
-Podrías estar siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que tengas que sentir comodidad al hablar en público e iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas, será muy importante. Tu carrera necesita un poco de energía concentrada y deliberada. Disminuye  la confusión con el fin de obtener lo que se aproxima a ti.
+Puede que ésta semana des un paso hacia adelante y dos pasos atrás. Es posible que hayas estado pensando acerca de tu propósito en el mundo y te encuentres cerca de averiguarlo. Los consejos vienen de tus familiares, escucha la sabiduría que recibes de tu gente de confianza. Sólo asegúrate de prestar atención a los hechos ya que los resultados podrían afectar tu sector de trabajo y potencialmente ¡tu cheque!

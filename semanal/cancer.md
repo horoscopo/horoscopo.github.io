@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 06 de junio 2022 al 12 de junio 2022 
-description: Horóscopo semanal cancer 06 de junio 2022 al 12 de junio 2022. Estás a tope Cáncer, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: cancer 13 de junio 2022 al 19 de junio 2022 
+description: Horóscopo semanal cancer 13 de junio 2022 al 19 de junio 2022. Esta semana no te reniegues Cáncer, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-06-06
+ogimg: /images/zodiac/semanal_cancer.png#2022-06-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-06-06'
+ lastmod: '2022-06-13'
 ---
 
 
 
-## Estás a tope Cáncer, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## Esta semana no te reniegues Cáncer, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
 
-No puedes esperar a que las cosas pasen Cáncer, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres Cáncer, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA Cáncer. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
-Tu salud, bienestar, trabajo y estilo de vida son una parte muy importante de la agenda de esta semana. También es importante desarrollar la mentalidad adecuada para lograr tus objetivos en estas áreas. No pienses que nunca perderás peso o tendrás la casa que quieres - porque no es cierto. Sólo tienes que creer que es posible. A medida que Urano retrocede en tu sector monetario desde el viernes, ayudaría que tuvieras cuidado en vez de manejar impulsivamente tus recursos.
+Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás Cáncer. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
+Las emociones aumentan y llegan a un punto crítico a mitad de semana, pudiendo ser una oportunidad para hablar sobre tus sentimientos. Una línea podría ser cruzada, llevando una relación amistosa hacia algo más íntimo y emocionante. También tendrás una buena semana en el trabajo conforme aparecen oportunidades que podrían ser muy atractivas. Un golpe de suerte - una recomendación o buena referencia - podría ayudarte a llegar a donde necesitas estar. Finalmente, tu situación en tu hogar parece particularmente prometedora y divertida.
 
 ## Dinero
 
-Para ti esta semana es sobre las redes sociales, las cuáles son cada vez más importantes. Tus amigos de verdad te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo un montón de cambios, los cuáles podrían afectar la forma en la que te ves y presentas. Puede que algunos de tus amigos no aprecien este proceso. Sé amable con ellos ya que todavía no entienden a dónde vas y que ellos pueden venir también.
+Gran parte de la energía celeste indica que alguien o algo del pasado volverá para que puedas lidiar con ello de una vez por todas. Por otra parte, tu sector de trabajo por cuenta propia y de grupos sociales está resaltado. Conectar con gente con quién hayas perdido contacto puede conducirte a más dinero en el futuro.

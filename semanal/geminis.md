@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 06 de junio 2022 al 12 de junio 2022 
-description: Horóscopo semanal geminis 06 de junio 2022 al 12 de junio 2022. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+title: geminis 13 de junio 2022 al 19 de junio 2022 
+description: Horóscopo semanal geminis 13 de junio 2022 al 19 de junio 2022. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-06-06
+ogimg: /images/zodiac/semanal_geminis.png#2022-06-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-06-06'
+ lastmod: '2022-06-13'
 ---
 
 
 
-## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 
-Es mejor reflexionar que lamentar Géminis. Siempre. 
-Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así Géminis, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
-Aunque tu tiempo estará ocupado mientras haces malabares en el frente hogareño, la Luna Llena en proceso de manifestarse el Viernes podría volverte el centro de atención por una razón u otra. Si necesitas una oportunidad para compartir una brillante idea o mostrar tus habilidades, este es el momento perfecto para ello. Saturno se torna directo en tu sector de relaciones el Sábado, lo que puede ayudarte a mejorar tus interacciones, especialmente si has tenido problemas recientemente. Las soluciones podrían estar ahora a tu alcance.
+Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
+A pesar de que estamos comenzando una nueva semana, puede que sientas molestia de que las cosas no van de acuerdo al plan. Algunas de tus responsabilidades clave podrían entrar en conflicto con el deseo de explorar nuevas ideas y oportunidades. Con Mercurio retrógrado desde el martes y Júpiter retrocediendo desde el jueves, otras personas podrían causar aún más demoras en las semanas por delante. El viernes, también podrías experimentar cierta decepción en relación al comportamiento de alguien. Lograrás que te vaya bien si aumentas tu fuerza de voluntad y sigues avanzando.
 
 ## Dinero
 
-Ahora, más que nunca tienes más posibilidades que nunca de ganar más dinero. Las oportunidades pueden venir de las mujeres en particular, por lo que ten disposición a aprovecharte de ellas. Mientras te encuentras convirtiendo estas posibilidades en oro, piensa en cómo reducir el gasto en el sector de la familia. Recorta de nuevo gastos innecesarios que hacen una gran diferencia en el mundo. Podrías usar tus ahorros para unas fabulosas vacaciones en el futuro cercano si tienes cuidado.
+No sólo estás soñando con el próximo gran invento, estás solucionando la mejor manera de construir y financiar su fabricación. También estás estudiando la manera de lograr que algunas de tus ideas de hecho se lleven a cabo. Tienes algo importante que compartir, así que no te vendas por poco. Lo que pones adelante ahora da recompensas favorables para tu familia más tarde.
