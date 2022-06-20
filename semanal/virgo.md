@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 13 de junio 2022 al 19 de junio 2022 
-description: Horóscopo semanal virgo 13 de junio 2022 al 19 de junio 2022. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+title: virgo 20 de junio 2022 al 26 de junio 2022 
+description: Horóscopo semanal virgo 20 de junio 2022 al 26 de junio 2022. Tómate un tiempo Virgo, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-06-13
+ogimg: /images/zodiac/semanal_virgo.png#2022-06-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-06-13'
+ lastmod: '2022-06-20'
 ---
 
 
 
-## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+## Tómate un tiempo Virgo, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
-Bueno Virgo, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
-Puede que sientas el impulso de explorar una idea empresarial. Esto podría motivarte para empezar un pequeño negocio en tu hogar que podría abrirte las puertas a algo mejor en el futuro. O puede que quieras trabajar desde casa en vez desde una oficina. De esta manera, evitarás el traslado diario. Buscar una nueva forma de resolver esta situación puede llevarte a encontrar una nueva libertad que te permita disfrutar la comodidad de tu hogar y, al mismo tiempo, tener el trabajo que te gusta. También tendrás la oportunidad de relajarte y descansar.
+Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea Virgo. 
+ Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
+Tu impulso creativo sigue fuerte debido a una positiva alineación animándote a pensar en grande y a actuar acorde a tus corazonadas. Mientras que los resultados podrían tardar un tiempo en llegar, bien valdrá la pena el esfuerzo. El actual enfoque continúa en tu sector de recursos compartidos conforme Venus se une a Mercurio en el mismo. Esta es tu oportunidad para organizar tus finanzas al recopilar información y tomar decisiones astutas. ¡Evita gastar demasiado si es que puedes! Por último, nuevas oportunidades y aventuras se vislumbran en tu camino a partir del jueves.
 
 ## Dinero
 
-Esta semana tienes luz verde por parte del Universo para expandir tu búsqueda de empleo. Esto se aplica si estás en busca de trabajo o incluso pensando en cambiar de trabajo si lo que has estado haciendo ahora no tiene ningún significado real para ti. También es el momento de considerar pedir un préstamo.
+Los planetas están dando un impulso de energía necesaria para tenerlo todo listo a tiempo y bajo presupuesto. Tu ambición está en su máximo punto, y puede que no haya nadie a quien delegarle responsabilidades - todavía. Pero tus finanzas mejorarán, siempre y cuando mantengas la cabeza hacia abajo y hagas tu trabajo. Los planetas en tu sector de relaciones traerán la ayuda que necesitas a tiempo. La paciencia no es opcional – es requerida.

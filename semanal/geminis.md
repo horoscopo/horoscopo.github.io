@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 13 de junio 2022 al 19 de junio 2022 
-description: Horóscopo semanal geminis 13 de junio 2022 al 19 de junio 2022. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
+title: geminis 20 de junio 2022 al 26 de junio 2022 
+description: Horóscopo semanal geminis 20 de junio 2022 al 26 de junio 2022. Eres un signo de aire, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-06-13
+ogimg: /images/zodiac/semanal_geminis.png#2022-06-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-06-13'
+ lastmod: '2022-06-20'
 ---
 
 
 
-## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
+## Eres un signo de aire, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 
-Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
-A pesar de que estamos comenzando una nueva semana, puede que sientas molestia de que las cosas no van de acuerdo al plan. Algunas de tus responsabilidades clave podrían entrar en conflicto con el deseo de explorar nuevas ideas y oportunidades. Con Mercurio retrógrado desde el martes y Júpiter retrocediendo desde el jueves, otras personas podrían causar aún más demoras en las semanas por delante. El viernes, también podrías experimentar cierta decepción en relación al comportamiento de alguien. Lograrás que te vaya bien si aumentas tu fuerza de voluntad y sigues avanzando.
+Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver Géminis, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
+ hasta que empieces a sentir que realmente merece la pena.
+Puede parecer que podrías perderte de una oportunidad única si no te apuras. Sin embargo, si te emocionan las muchas posibilidades que tienes por delante, como sugiere la actual alineación, quizás deberías considerar eliminar proyectos o actividades que ya no te resultan atractivas. Hacerlo significa que serás capaz de aprovechar al máximo cualquier opción que aparezca en tu camino. Además, darle un poco de atención extra a tus finanzas también puede ser beneficioso.
 
 ## Dinero
 
-No sólo estás soñando con el próximo gran invento, estás solucionando la mejor manera de construir y financiar su fabricación. También estás estudiando la manera de lograr que algunas de tus ideas de hecho se lleven a cabo. Tienes algo importante que compartir, así que no te vendas por poco. Lo que pones adelante ahora da recompensas favorables para tu familia más tarde.
+Te encuentras en una situación tensa esta semana. Ambos lados, tu femenino y masculino deben de ser tomados en cuenta cuando consideres nuevas formas de ganar, ahorra o gastar tu dinero. Piensa pragmáticamente cuando aprecies y disfrutes los placeres de las cosas más finas y encontrarás que podrías acostumbrarte a ellas.
