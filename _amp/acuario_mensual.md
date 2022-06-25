@@ -1,21 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Acuario Junio 2022 
+title: Horoscopo Acuario Julio 2022 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2022-05-26
+ogimg: /images/mes/Acuario_mes.png#2022-06-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-05-26'
+ lastmod: '2022-06-25'
 ---
 
 
-Júpiter forma una oposición con el sol el 8 de junio, y puede que tengas algunas dudas de más. Simplemente habla con honestidad y siéntete bien sobre cómo las cosas están saliendo. Disfruta de tus personas preferidas y placeres locales durante la luna nueva del día 15. Ahora puede haber muchas tentaciones exóticas, pero seguirán estando ahí más tarde. La luna llena del 29 de junio te permite enfocarte en jugadas profesionales o interacciones sociales. Es una época complicada, pero tienes los instintos y la intuición para atravesarla. No te promociones demasiado, pero no rechaces una sugerencia prometedora u oferta de progreso o responsabilidad. 
-
-Días destacados: 10, 22, 25
-Días desafiantes: 7, 20
+Urano entra a tu signo este mes y permanece aquí hasta el 2026, lo que te lleva a tu mejor momento, tanto a nivel personal como profesional. Como dicen, no se trata de lo que sabes sino de a quién conoces, y tienes amistades y asociados poderosos de tu lado. Pero estás aprendiendo y absorbiendo nueva información, lo que te obliga a revisar tus aspiraciones, aclarar tus valores, y reevaluar tus amistades. Puede que no sepas bien a quién o en qué creer, y en quién puedes confiar. Primero debes conocerte a ti. Después no necesitarás tener miedo de que te dejen fuera de los sueños o planes de alguien más. 
+¿Quién eres, y qué quieres? Prepárate para sorprenderte durante los próximos siete años. Podrías lograr lo que algunos dicen (y lo que tú ahora piensas) que es imposible. Aún no has raspado la superficie de tu potencial. 
+Mantén el desapego y la humildad. Predica con el ejemplo mientras avanzas cada día hacia una visión, y puedes inspirar el apoyo que necesitas. Este es un viaje de autodescubrimiento, y de los tesoros desconocidos que hay enterrados dentro. Acepta sin miedos a la persona en la que te estás convirtiendo. Estás quebrando el molde de lo que solías ser para revelar tu identidad auténtica y tu verdadero brillo. 
+Días destacados: 6, 21, 26
+Días desafiantes: 1, 13, 20

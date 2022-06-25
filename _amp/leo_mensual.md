@@ -1,21 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Leo Junio 2022 
+title: Horoscopo Leo Julio 2022 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2022-05-26
+ogimg: /images/mes/Leo_mes.png#2022-06-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-05-26'
+ lastmod: '2022-06-25'
 ---
 
 
-Mercurio entra a Cáncer el 12 de junio, y los pensamientos se centran en el hogar, asuntos domésticos y en terminar un importante proyecto prolongado. Haz lo que puedas y luego relájate. El día 14, la luna llena te muestra nuevas formas de proyectar tus habilidades y talentos. Ahora será más fácil para el mundo encontrarte. También podrías descubrir una nueva manera de promover una causa favorita. La luna nueva del 29 de junio podría mostrarte una forma de superar una situación complicada. Un acontecimiento de último momento podría brindar una oportunidad que te permita entrar en acción. Presta atención, y disponte a hacer algo fuera de lo común. 
-
-Días destacados: 1, 14, 19
-Días desafiantes: 15, 23
+Tómate un tiempo para visualizar lo que este nuevo año trae para ti a nivel financiero, estimable Leo. Con cuatro planetas atravesando Capricornio y activando el sector de tu carta astral que rige el dinero, será importante que pienses seriamente sobre tus recursos. Haz un plan concreto para saldar cualquier deuda que se haya acumulado. Y si tienes que hacer alguna compra de gran valor antes de fin de año, trata de averiguar cuándo es el mejor momento para ti para realizar esa compra.
+La luna llena del 13 de julio podría ser un inspirador momento para ti, ya que la luna ilumina el sector de tu carta astral que rige la espiritualidad. Te sentirás en plenitud y rebosante de potencial, pero necesitarás mantener los pies sobre la tierra para aprovechar los beneficios de este evento lunar. Un torrente de ideas podría inundar tu mente, por lo que será importante que tomes notas sobre cualquier brillante idea que ronde por tu psiquis. No sientas que tienes que comprometerte con una sola idea ahora mismo, pero háblate con honestidad sobre cuál sería un plazo realista para cumplir tus metas. Mientras estás en la cresta de esta energética ola, las personas a tu alrededor puede que se sientan abrumadas e irritables, así que ten consideración con los demás ahora mismo.
+El día 24, tómate un momento para ti mientras que la luna atraviesa tu signo y aspecta al sanador asteroide Quirón y a Júpiter, tu planeta regente. Los apasionados signos como el tuyo no siempre conocen sus límites, y cuidarte y priorizarte es importante ahora mismo.
+Días destacados: 2, 17, 23
+Días desafiantes: 9, 15, 24

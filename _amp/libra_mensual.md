@@ -1,23 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Libra Junio 2022 
+title: Horoscopo Libra Julio 2022 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2022-05-26
+ogimg: /images/mes/Libra_mes.png#2022-06-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-05-26'
+ lastmod: '2022-06-25'
 ---
 
 
-Venus ingresa a Escorpión el 2 de junio. Si el amor no era profundo antes, ahora lo será. 
-Durante la luna llena del día 14, puedes resolver un gran problema, o una complicación personal pequeña pero crucial para alguien que te quiere. Espera que te pida ayuda, pero luego sé útil y alégrate al respecto. Mercurio se torna directo también ese día. Los errores se corrigen, y las complicaciones pueden simplificarse o eliminarse. 
-Venus forma un trígono con Neptuno el 21 de junio. La vida se vuelve más romántica, y el romance se vuelve más idealista. Emociónate por la belleza que te rodea, pero protege tu corazón. El invierno comienza, y el sol entra a Capricornio el mismo día. Esto puede mantenerte con los pies sobre la tierra. 
-La luna nueva del día 29 te trae toda la comodidad y satisfacción que hay cerca del hogar. La gente puede estar muy ocupada, pero igual hay tiempo para hacer regalos tiernos y sensibles entre amistades, y para hacer y recibir favores que hacen que esta temporada sea genial. 
-Días destacados: 2, 3, 21
-Días desafiantes: 19, 25
+La conjunción entre la Luna y Saturno del 1 de julio te prepara para un mes ajetreado y lleno de diversión. Amigos que se encuentren tanto lejos como cerca podrían contactarte alrededor de la Luna Nueva del 28 de julio. Aquellas que vivan lejos podrían bombardearte con mensajes, pero puede que tú decidas pasar tu tiempo cerca de casa. Ten tacto y no permitas que te tienten a involucrarte con el tipo de tonta diversión que podría causar discordia más tarde. Tu vida hogareña podría dominar tus pensamientos durante la Luna Llena del 13 de julio. Comienza una nueva rutina o reorganiza tu armario o guardarropa. No permitas que las exigencias profesionales interfieran con tu intención de poner tu vivienda en orden. Trata de sentirte bien en tu espacio.
