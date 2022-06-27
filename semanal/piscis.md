@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 20 de junio 2022 al 26 de junio 2022 
-description: Horóscopo semanal piscis 20 de junio 2022 al 26 de junio 2022. Es difícil comprenderte Piscis, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: piscis 27 de junio 2022 al 03 de julio 2022 
+description: Horóscopo semanal piscis 27 de junio 2022 al 03 de julio 2022. Da la bienvenida a tu nueva vida Piscis, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-06-20
+ogimg: /images/zodiac/semanal_piscis.png#2022-06-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-06-20'
+ lastmod: '2022-06-27'
 ---
 
 
 
-## Es difícil comprenderte Piscis, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## Da la bienvenida a tu nueva vida Piscis, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 
-A veces de bueno te pasas Piscis. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Piscis, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Piscis, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Piscis y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-Ciertas cuestiones sin resolver podrían ser la razón por la que te abstengas de hacer un movimiento o de comenzar una nueva fase o proyecto. Si cierto asunto ha sido causa de tu pérdida de energía y de que te hayas estado sintiendo mal por un tiempo, vale la pena tomarte el tiempo para resolverlo. Una vez que lo hagas, tendrás mucha más vitalidad que invertirle a tu vida cotidiana y todos esos nuevos planes a los que les has estado dando vueltas. La alineación del sábado sugiere que hablar las cosas con un entrenador de vida o una persona de confianza podría ayudarte a progresar considerablemente.
+Tienes que motivarte Piscis. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino Piscis. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro Piscis, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa Piscis, ¿tu tiempo no vale nada o qué?
+Estarás en tu elemento cuando se trate de expresarte, compartir tu conocimiento, e interactuar con el mundo. Aun así, evita la tentación de contar un secreto el lunes, ya que podría ser contraproducente. Si tienes esperanzas de hacer una compra grande, espera una o dos semanas, ya que si lo haces es muy probable que tengas una experiencia de compra más positiva. Venus comienza a avanzar hacia adelante el domingo, por lo que los retrasos financieros podrían convertirse en una cosa del pasado. Es hora de poner nuevos planes de dinero en acción.
 
 ## Dinero
 
-Actualmente te enfrentas a un momento de cambios. Estás buscando maneras de brillar y no sólo en tu vida laboral. En vez, se trata de obtener reconocimiento y apreciación por lo que te gusta. Hay una nueva energía en tu sector de comunicación, por lo que hasta hablar te resulta más fácil. Al mismo tiempo, tu sector de dinero y los valores se activa. El deseo está ahí y ya está listo/a para tomar acción para hacer tu vida más cómoda económicamente.
+Esta semana tienes actividad en tu sector de dinero en efectivo. Eres capaz de cambiar la manera en la que ganas dinero, así como la cantidad. Pensar un poco más en lo que tu tiempo vale te ayudará a decidir cuánto cobrarle a tus clientes ahora. Al mismo tiempo, tu carrera está cambiando. Es hora de emplear nuevas técnicas de reducción de estrés.
