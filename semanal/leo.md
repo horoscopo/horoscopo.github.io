@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 27 de junio 2022 al 03 de julio 2022 
-description: Horóscopo semanal leo 27 de junio 2022 al 03 de julio 2022. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Leo. Hay personas a las que TÚ debes dar ese escarmiento.
+title: leo 04 de julio 2022 al 10 de julio 2022 
+description: Horóscopo semanal leo 04 de julio 2022 al 10 de julio 2022. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-06-27
+ogimg: /images/zodiac/semanal_leo.png#2022-07-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-06-27'
+ lastmod: '2022-07-04'
 ---
 
 
 
-## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Leo. Hay personas a las que TÚ debes dar ese escarmiento.
+## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 
-Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro Leo, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Leo, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
-Si bien disfrutar la vida y pasar tiempo con amigos y familia puede estar en el centro de tus actividades, te convendría enfocarte en tareas más prácticas. Con Marte moviéndose hacia Aries y tu sector de estilo de vida, es posible que quieras aplicarte con mayor entusiasmo. Sin embargo, trata de no agotarte y establécete un buen ritmo desde un principio. Además, la actividad lunar del viernes puede ser perfecta para realizar tareas domésticas o traer una mascota nueva al hogar.
+En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien Leo…
+Se produce un intenso enfoque en tu sector de cambios y transformación, en especial cuando el sol ingresa a tal sector el martes. Este énfasis podría hacer que explores cuestiones que puede que te hayan retrasado durante algún tiempo. Es una oportunidad para profundizar y dejar atrás sentimientos negativos del pasado que se están entrometiendo en tu progreso. Espera una sorpresa hacia el final de la semana, cuando un inesperado invitado podría aparecerse o pudieras recibir una linda invitación.
 
 ## Dinero
 
-Con un aspecto armonioso ahora, puede que tengas la tentación de celebrar antes de tiempo. Pero con toda la energía que hay en el aire ahora, lo mejor es encontrar una manera de sacarle provecho primero. La actividad astral afectará los viajes, el aprendizaje y la espiritualidad, indicando el momento de buscar formas de ampliar tu mercado. Si ofreces un producto o servicio que podría ser vendido en el extranjero, haz que suceda ahora. Consulta a un especialista en ventas si necesitas ayuda.
+Esta semana es acerca de los aspectos afectando tu casa del karma, vidas pasadas, sueños y el sector de amor. Tus sueños podrían estar llenos de ideas de cómo atraer más dinero, así que pon atención a lo que dicen. Al mismo tiempo, tu sector del hogar es todo menos claro. Ponte a pensar si tiene sentido el continuar pagando la misma renta o si deberías mudarte a un nuevo lugar.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 27 de junio 2022 al 03 de julio 2022 
-description: Horóscopo semanal cancer 27 de junio 2022 al 03 de julio 2022. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+title: cancer 04 de julio 2022 al 10 de julio 2022 
+description: Horóscopo semanal cancer 04 de julio 2022 al 10 de julio 2022. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-06-27
+ogimg: /images/zodiac/semanal_cancer.png#2022-07-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-06-27'
+ lastmod: '2022-07-04'
 ---
 
 
 
-## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 
-Llega una buenísima semana Cáncer pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien Cáncer, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado Cáncer, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo Cáncer, pelea por lo que te mereces.
-El dinero parece llevarse una gran cantidad de tu tiempo y energía, pero todo es para bien. El deseo de aumentar tus ingresos o que tu dinero te rinda más podría llevarte a esforzarte enormemente con tal de obtener los resultados que deseas. Guarda bien el papeleo y todos los recibos si es que te encargas de grandes cantidades de dinero, ya que Venus retrógrado alude a potenciales cambios. La entrada de Júpiter a Virgo sugiere que te beneficiarás de estudiar, viajar, o aventuras que amplíen tu mente.
+Son muchos los que quieren arruinar tu vida Cáncer, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Cáncer, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Cáncer. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Cáncer. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Cáncer. Ahora brillas así que, aprovecha. Aprovecha todo.
+La actividad lunar en tu signo podría hacer que te sientas un poco más emocional de lo habitual, lo que podría ser un problema si es que tienes mucho qué hacer. Si puedes aligerar tu horario, sería una opción preferible a tener que abrirte camino a lo largo de esos días. Hagas lo que hagas, ¡llévatela leve! Jueves y viernes podrían ser días cruciales en los que puedes lograr mucho al buscar más información u obtener alguna opinión sobre algunas de tus innovadoras ideas. Finalmente, un amigo o pareja podría necesitar algo de ti el domingo.
 
 ## Dinero
 
-Es probable que estés mezclando tus contactos personales con los profesionales esta semana. El Universo te muestra cómo buscar a las personas de cualquier grupo que puedan ayudarte a avanzar en un producto, servicio, empresa o causa. Esta semana, busca a los nacidos en otros países, o los que hablan otro idioma. Cierta actividad en tu sector de dinero indica que tienes la creatividad, pero no la verdadera visión para los negocios con el fin de ganar más dinero ahora.
+Hay varios aspectos problemáticos afectando tu sector de dinero esta semana. De la misma manera, hay actividad en tu sector de dinero que te regresa a tiempos más simples. Pero también se ve afectado tu sector de deuda o de dinero de otras personas, desafiándote a pagar o pedir prestado para que puedas ampliar tus actividades empresariales.
