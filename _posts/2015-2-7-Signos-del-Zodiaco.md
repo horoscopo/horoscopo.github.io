@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de julio 2022
-description: Horóscopos del dia de hoy 07 de julio 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de julio 2022
+description: Horóscopos del dia de hoy 08 de julio 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-07-07
+ lastmod: 2022-07-08
 ---
-La vida se complica aun cuando no lo quieres mientras la Luna cuadra a Venus y se opone a Neptuno. Y ese mismo ritmo continúa por la noche cuando la cuadratura entre Venus y el enigmático Neptuno les juegan trucos a tus ojos y a tu mente. Relájate y mantén la calma. Es sólo temporal.
+Hoy podría haber algunos sorprendentes e intuitivos saltos cuando la Luna forme sextil con Neptuno y aspecte al profundamente perspicaz Saturno. Se siente como si algunas cosas hubieran sido destinadas. La química sobrecalienta el aire cuando Venus forma sextil con Marte. Esta conexión es oportuna. Si tienes pareja, tal acentúa la armonía, por lo que disfruten de su acogedora y mutua compañía.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
