@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 04 de julio 2022 al 10 de julio 2022 
-description: Horóscopo semanal leo 04 de julio 2022 al 10 de julio 2022. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: leo 11 de julio 2022 al 17 de julio 2022 
+description: Horóscopo semanal leo 11 de julio 2022 al 17 de julio 2022. Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-07-04
+ogimg: /images/zodiac/semanal_leo.png#2022-07-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-04'
+ lastmod: '2022-07-11'
 ---
 
 
 
-## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+## Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
 
-En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien Leo…
-Se produce un intenso enfoque en tu sector de cambios y transformación, en especial cuando el sol ingresa a tal sector el martes. Este énfasis podría hacer que explores cuestiones que puede que te hayan retrasado durante algún tiempo. Es una oportunidad para profundizar y dejar atrás sentimientos negativos del pasado que se están entrometiendo en tu progreso. Espera una sorpresa hacia el final de la semana, cuando un inesperado invitado podría aparecerse o pudieras recibir una linda invitación.
+A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Leo. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Leo, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Leo, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Leo pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
+El enfoque en tu sector de finanzas personales continúa. Aquí, la fuerza del sol se combina con la del conversador Mercurio retrógrado y te anima a reflexionar sobre tu situación y ver qué puedes hacer para mejorarla. Mercurio continúa en su fase retrógrada hasta el 22 de julio, por lo que evita hacer grandes gastos. Si no tienes más opción que hacerlos, guarda los recibos y documentos. La buena noticia es que, con el animado Júpiter en tu signo, espectaculares oportunidades podrían ser puestas en tu camino.
 
 ## Dinero
 
-Esta semana es acerca de los aspectos afectando tu casa del karma, vidas pasadas, sueños y el sector de amor. Tus sueños podrían estar llenos de ideas de cómo atraer más dinero, así que pon atención a lo que dicen. Al mismo tiempo, tu sector del hogar es todo menos claro. Ponte a pensar si tiene sentido el continuar pagando la misma renta o si deberías mudarte a un nuevo lugar.
+Es una semana tensa para ti. Considera la posibilidad de aprender algo nuevo, asistiendo a un curso formal de educación o el uso de los viajes como una forma de educación. El poner un poco de pensamiento en lo que te da curiosidad le permite a tu mente moverse en una dirección decididamente positiva. Es importante el ver dónde tienes raices. El poner tu confianza en las instituciones financieras no es necesariamente una cosa mala.

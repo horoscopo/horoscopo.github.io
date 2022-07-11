@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 04 de julio 2022 al 10 de julio 2022 
-description: Horóscopo semanal capricornio 04 de julio 2022 al 10 de julio 2022. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+title: capricornio 11 de julio 2022 al 17 de julio 2022 
+description: Horóscopo semanal capricornio 11 de julio 2022 al 17 de julio 2022. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-07-04
+ogimg: /images/zodiac/semanal_capricornio.png#2022-07-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-04'
+ lastmod: '2022-07-11'
 ---
 
 
 
-## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 
-Tienes que enderezar un poco tu vida Capricornio, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
-Una idea, un negocio en línea o una oportunidad para ganar dinero te llaman la atención, mientras Marte entra a Acuario y a tu zona financiera. También descubres que con un negocio en curso puedes aumentar tu productividad y ganar más dinero si deseas utilizar los últimos avances tecnológicos. La entrada de Venus a tu sector de relaciones te ayuda a resolver dificultades y a estar más en armonía. Evaluar tus opciones de salud y bienestar también da buenos resultados.
+¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
+ lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Capricornio.
+Aunque el tiempo sea esencial, podrías encontrar muchas razones para desperdiciarlo. Un fuerte enfoque en tu sector laboral y de estilo de vida podía verte inventar todo tipo de escusas para no seguir adelante con proyectos u otras actividades importantes. Sin embargo, no se te dificultará ver una película o leer una novela de fantasía. Aun así, una importante alineación de entre semana podría alentarte a indagar y motivarte a superar tu cansancio con el fin de terminar tu lista de tareas pendientes.
 
 ## Dinero
 
-Tienes una energía muy obstinada ahora. Se te está empujando a una forma no tan sutil de tratar con los demás. La formación de nuevas relaciones como el cultivar las ya existentes proporcionará las respuestas que buscas.
+Hay nuevas oportunidades para trabajar horas extras o encontrar un nuevo empleo con mejor salario y beneficios. Cierta actividad en tu sector de romance, familia y diversión, infiere que se te está forzado a encontrar ese delicado equilibrio entre trabajo y vida que todos se esfuerzan por tener cada día. Tú puedes encontrarlo.

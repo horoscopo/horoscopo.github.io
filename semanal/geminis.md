@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 04 de julio 2022 al 10 de julio 2022 
-description: Horóscopo semanal geminis 04 de julio 2022 al 10 de julio 2022. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Géminis. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+title: geminis 11 de julio 2022 al 17 de julio 2022 
+description: Horóscopo semanal geminis 11 de julio 2022 al 17 de julio 2022. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-07-04
+ogimg: /images/zodiac/semanal_geminis.png#2022-07-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-04'
+ lastmod: '2022-07-11'
 ---
 
 
 
-## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Géminis. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 
-A veces te confundes Géminis, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso Géminis. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. Géminis, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo Géminis, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
-Justo cuando estabas agarrando vuelo en relación a un movimiento profesional, Mercurio se torna retrógrado en tu sector profesional. Esto no significa que deberías abandonarlo todo y esperar hasta que se vuelva directo de nuevo. Haz lo que tengas que hacer, pero ten en cuenta que tu plan original podría cambiar en las próximas semanas. Lograrás atravesar fácilmente esta fase si logras ir con la corriente. También serás capaz de montar una ofensiva e impresionar a tus superiores, por lo que utiliza esté tránsito a tu ventaja.
+Sólo hace falta que tu mente haga click Géminis, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
+La actual alineación podría coincidir con ideas para crear una oficina o iniciar un negocio hogareño que puedas operar desde la mesa de tu hogar. El actual enfoque en Virgo te anima a pensar en el futuro, crear un plan de negocios y descifrar el costo que involucraría hacerlo. Puede que también quieras expandirte mediante la compra de una propiedad más grande, incrementar el número de habitaciones que tienes, o inclusive extender tu familia. Sin embargo, trate de evitar tomar decisiones importantes alrededor de la Luna Llena del Miércoles.
 
 ## Dinero
 
-Si has estado buscando maneras de tener más apertura acerca de tus actividades monetarias, el cosmos te provee soluciones de todo tipo. Tendrás apoyo a la hora de comunicar tus necesidades y deseos relacionados con dinero. Si ha pasado mucho tiempo desde la última vez que recibiste un aumento de sueldo, habla con tu jefe acerca de las razones por la cuales te lo mereces. Alguien como tú no malgasta las horas de trabajo, eres un valioso contribuyente.
+Esta semana se te está pidiendo asumir una mayor responsabilidad en tus relaciones personales o profesionales. No les des una atención a medias. De verdad intenta hacerles sentir su valor. Entre semana se destaca la labor de día tras día. Puede que el dinero sea temporalmente inestable, pero estás recibiendo muy buenas ideas sobre cómo hacer más. ¡Anótalas!
