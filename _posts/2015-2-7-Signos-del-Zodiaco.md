@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de julio 2022
-description: Horóscopos del dia de hoy 10 de julio 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 11 de julio 2022
+description: Horóscopos del dia de hoy 11 de julio 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-07-10
+ lastmod: 2022-07-11
 ---
-Se te alerta no juzgar demasiado rápido bajo la energía lunar de hoy. Bien podrías cambiar de opinión antes de que termine la jornada de trabajo - o incluso antes. El romance está en el aire, pero no se puede planificar nada por adelantado debido a la Luna en Virgo de esta noche saliéndose de su órbita.
+Hoy, cuenta con tu poderosa intuición para ayudarte a conectar los puntos y eliminar la obstrucción. Tomar acciones que son efectivas también es algo que está en pro de tus intereses. Esta noche, Venus en Aries le añade una dosis de asertividad y una pizca de impaciencia al romance. Durante las próximas semanas, el antídoto es un equilibrio entre la mente y las emociones. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
