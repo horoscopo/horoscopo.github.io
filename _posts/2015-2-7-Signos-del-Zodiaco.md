@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de julio 2022
-description: Horóscopos del dia de hoy 16 de julio 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de julio 2022
+description: Horóscopos del dia de hoy 17 de julio 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-07-16
+ lastmod: 2022-07-17
 ---
-¡La vida no podía ser mejor! Prepárate para una vida llena de magia proveniente de Júpiter en tu signo. Lánzate a seguir tus sueños. Esta noche, Venus, el astro del amor, está a punto de cambiar de signo. Se requiere de un poco de comprensión para saber lo que las personas realmente quieren y no lo que dicen querer.
+Todos ponen sus propias agendas primero bajo la Luna en Aries. La salida es tomar caminos separados y reunirse más tarde en lugar de discutir sobre ello. Esta noche, el Eclipse Lunar borra los recuerdos de aquello de lo que la gente huye o hacia dónde se dirige. ¡Deja de vivir en el pasado y permítete tener nuevos intereses y desafíos!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
