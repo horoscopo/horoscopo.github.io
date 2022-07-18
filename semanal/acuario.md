@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 11 de julio 2022 al 17 de julio 2022 
-description: Horóscopo semanal acuario 11 de julio 2022 al 17 de julio 2022. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: acuario 18 de julio 2022 al 24 de julio 2022 
+description: Horóscopo semanal acuario 18 de julio 2022 al 24 de julio 2022. Tu presente y tu futuro valen muchísimo la pena Acuario. La vida siempre se acaba equilibrando Acuario. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-07-11
+ogimg: /images/zodiac/semanal_acuario.png#2022-07-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-11'
+ lastmod: '2022-07-18'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## Tu presente y tu futuro valen muchísimo la pena Acuario. La vida siempre se acaba equilibrando Acuario. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 
-Hay gente que no respeta que puedas crecer Acuario, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Acuario pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Acuario, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
-¿Buscas vender tu casa o mudarte a un nuevo lugar? La Luna Llena del miércoles puede coincidir con tus deseos de entrar en acción después de un largo tiempo de deliberación. Es probable que hayas pensado mucho en estas ideas, así que cualquier decisión que tomes será un riesgo calculado más que un salto en la oscuridad. Te puede entusiasmar la posibilidad de comenzar nuevas actividades como resultado de tu decisión.
+A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Acuario? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Acuario. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
+Esta parece una semana con un rápido ritmo en la que deberías esperar lo inesperado. Mientras que una positiva sorpresa podría mejorar tu estado de ánimo, ten cuidado cuando te encuentres en conversaciones importantes. Si terminas enojándote y molestándote en lugar de mantener la calma, podrías terminar perdiendo una amistad en el proceso. Y a pesar de que pueden solucionarlo, podría tomar tiempo para que puedan confiar el uno en el otro de nuevo. Sin embargo, moverte hacia nuevos círculos podría valer la pena.
 
 ## Dinero
 
-Eres genial al hacer que los asuntos de dinero sucedan de la nada porque eres una persona social y siempre sabes la primicia antes de que otras personas la sepan. Con un aspecto positivo ahora, es muy probable que te arrolle una repentina oportunidad para avanzar en tu carrera que puedes no ser capaz de concentrarte en nada más. Se deriva de algo que empezaste hace años, pero que finalmente despega. Algo de dinero seguro vendrá de ello.
+Es posible que no tengas total equilibrio ahora. El hogar y las emociones internas se destacan, por lo que es posible que te falte confianza o una base firme desde la cual operar. Debido a que las cosas están  cambiando allí, tus sueños están en vivo con todo tipo de imágenes y extrañas señales. Practica la paciencia con tu mente inconsciente, está tratando de decirte algo que te traerá abundancia con el tiempo.

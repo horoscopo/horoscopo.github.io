@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 11 de julio 2022 al 17 de julio 2022 
-description: Horóscopo semanal leo 11 de julio 2022 al 17 de julio 2022. Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+title: leo 18 de julio 2022 al 24 de julio 2022 
+description: Horóscopo semanal leo 18 de julio 2022 al 24 de julio 2022. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-07-11
+ogimg: /images/zodiac/semanal_leo.png#2022-07-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-11'
+ lastmod: '2022-07-18'
 ---
 
 
 
-## Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Leo. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Leo, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Leo, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Leo pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-El enfoque en tu sector de finanzas personales continúa. Aquí, la fuerza del sol se combina con la del conversador Mercurio retrógrado y te anima a reflexionar sobre tu situación y ver qué puedes hacer para mejorarla. Mercurio continúa en su fase retrógrada hasta el 22 de julio, por lo que evita hacer grandes gastos. Si no tienes más opción que hacerlos, guarda los recibos y documentos. La buena noticia es que, con el animado Júpiter en tu signo, espectaculares oportunidades podrían ser puestas en tu camino.
+No te arrepientas de abrirte Leo, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Leo, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Leo, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Leo, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+Al comienzo de la semana, una preciosa alineación hace alusión a una positiva conversación o relación que parece estar moviéndose hacia una optimista dirección. Y con la actividad solar del jueves, te sentirás mucho más en tu elemento y con ganas de poner en acción planes y proyectos que han estado en un segundo plano. Venus, entra a Escorpión y a tu sector monetario el viernes, pudiendo alentarte a darte un par de pequeños lujos.
 
 ## Dinero
 
-Es una semana tensa para ti. Considera la posibilidad de aprender algo nuevo, asistiendo a un curso formal de educación o el uso de los viajes como una forma de educación. El poner un poco de pensamiento en lo que te da curiosidad le permite a tu mente moverse en una dirección decididamente positiva. Es importante el ver dónde tienes raices. El poner tu confianza en las instituciones financieras no es necesariamente una cosa mala.
+Ciertas personas que conoces pueden bien servir a tu sector de deuda y dinero compartido. Ganarás más dinero cuando explotas las conexiones que ya tienes. Tus ideas son válidas. Sólo necesitas ayuda y financiamiento para seguir adelante. No te vendas por menos. Tienes todo lo que necesitas para tener éxito ahora.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 11 de julio 2022 al 17 de julio 2022 
-description: Horóscopo semanal piscis 11 de julio 2022 al 17 de julio 2022. A veces sientes como si no avanzaras Piscis, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+title: piscis 18 de julio 2022 al 24 de julio 2022 
+description: Horóscopo semanal piscis 18 de julio 2022 al 24 de julio 2022. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Piscis. Muévete o haz que se mueva el resto.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-07-11
+ogimg: /images/zodiac/semanal_piscis.png#2022-07-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-11'
+ lastmod: '2022-07-18'
 ---
 
 
 
-## A veces sientes como si no avanzaras Piscis, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Piscis. Muévete o haz que se mueva el resto.
 
-Parece que no todo va tan mal, no ¿Piscis? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-Esta semana, escucha a tu voz interior y no te dejes incitar a hacer cualquier cosa que no se sienta bien. De hecho, lograrás lidiar con el clima astrológico actual mucho mejor si te dispones a tomarte tu tiempo, examinar los planes y propuestas en detalle, y asegurarte de que realmente sean buenos para ti. Por otro lado, es posible que decidas analizar más de cerca tu rutina de salud y bienestar, especialmente si no están funcionando. Investigar un poco podría producirte grandes ideas en lo que a esto respecta.
+¿Cómo quieres gastar tu vida Piscis? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Piscis, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Piscis, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Piscis. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Piscis.
+Tu atención se dirige hacia tus pensamientos y sentimientos. Se te facilitará más conectar y compartir tus emociones una vez que Mercurio entre a tu sector espiritual el lunes. Sin embargo, los días de mitad de semana podrían traer un desenlace debido a un tenso aspecto que podría significar que no te interesa invertir en un hobby o incluso un romance que pudiera estarte costando caro. A partir del viernes, será momento de analizar qué tan bien puedes manejar tu poder y qué es lo que te podría estar impidiendo disfrutar de la intimidad.
 
 ## Dinero
 
-Recibes ayuda con tu vida emocional ahora. El Universo afecta la manera en la que procesas y expresas emociones, sobre todo cuando se trata de la forma en la que enseñas y aprendes nuevas habilidades. ¡Ahora recibes una gran cantidad de apoyo para el uso de redes sociales para estar en contacto con nuevas formas de compartir tus habilidades y ganar dinero en el proceso!
+Te beneficiarás de dos maneras cruciales en estos momentos. Dado que ciertos aspectos están afectando a tu sector de grupos, política y trabajo por cuenta propia, puede que estés considerando trabajar desde casa o iniciar un nuevo negocio desde la comodidad de tu habitación. La suerte se combina con repentinas ideas brillantes. Puede parecer una broma, pero puede que de verdad funcione.

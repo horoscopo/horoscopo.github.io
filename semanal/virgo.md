@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 11 de julio 2022 al 17 de julio 2022 
-description: Horóscopo semanal virgo 11 de julio 2022 al 17 de julio 2022. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Virgo.
+title: virgo 18 de julio 2022 al 24 de julio 2022 
+description: Horóscopo semanal virgo 18 de julio 2022 al 24 de julio 2022. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-07-11
+ogimg: /images/zodiac/semanal_virgo.png#2022-07-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-11'
+ lastmod: '2022-07-18'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Virgo.
+## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 
-Nadie se cura por herir a otro Virgo. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
-Notas un cambio a medida que las influencias cósmicas modifican tu punto de vista y empiezas a considerar nuevas ideas. Con Marte en Acuario durante las próximas seis semanas, tu vida social tendrá mucho brillo extra. Es un buen momento para adoptar una actitud de cambio y unirte a algún club o comenzar alguna actividad también. Sabes perfectamente quiénes son las mejores personas con las cuales juntarte y quiénes significan una buena inversión de tu tiempo. Estudiar también puede ser una forma importante para expandir tus horizontes.
+A veces sientes como si no avanzaras Virgo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Virgo, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Virgo, feliz semana.
+Los mensajes mixtos podrían causar malentendidos esta semana a menos que hables con claridad. Mientras Marte interactúa con el nebuloso Neptuno al comienzo de la semana, puede que trates de tener empatía y hacer lo mejor que puedas a favor de cierta persona, pero que te des cuenta de que esta estrategia no funciona. En cambio, puede que necesites establecer límites claros y hablar con honestidad, especialmente si esta persona se ha aprovechado de ti. Las amistades cercanas sabrán comprender y apoyar tus necesidades.
 
 ## Dinero
 
-Para ti, esta semana es sobre la necesidad imperiosa de comunicar tu experiencia al escribir, enviar mensajes de texto, enviar correos electrónicos o para hablar. Todos estos esfuerzos pueden dar dinero en efectivo en el futuro. Pero esta semana, un fuerte campo de energía requiere que cuides de los problemas en el trabajo. Tu trabajo puede estar pasando por enormes cambios ahora. El luchar contra ellos, o decidir abandonar el barco no dará los resultados que buscas. Ve con los cambios lo mejor que puedas.
+Para aprender más sobre los caminos del amor, les pides consejos a tus amistades. Entiendes lo que es tener una pareja, cuidarla, y balancear a otra persona de una manera íntima. Los aspectos que combinan trabajo y dinero, funcionan de la misma manera. Exhibe tu interés en obtener una nueva y mejor posición. ¡Tienes posibilidades de obtener tanto eso como un aumento! Pide lo que quieres y no lo que piensas que la compañía puede pagar.

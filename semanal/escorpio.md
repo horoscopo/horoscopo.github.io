@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 11 de julio 2022 al 17 de julio 2022 
-description: Horóscopo semanal escorpio 11 de julio 2022 al 17 de julio 2022. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Escorpio. Más que nunca…
+title: escorpio 18 de julio 2022 al 24 de julio 2022 
+description: Horóscopo semanal escorpio 18 de julio 2022 al 24 de julio 2022. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Escorpio porque no eres así. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-07-11
+ogimg: /images/zodiac/semanal_escorpio.png#2022-07-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-11'
+ lastmod: '2022-07-18'
 ---
 
 
 
-## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Escorpio. Más que nunca…
+## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Escorpio porque no eres así. 
 
-En serio, Escorpio, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres Escorpio por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal Escorpio, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
-Puede que necesites que una persona te ayude un poco con un proyecto o una idea de negocios que no puedes realizar por tu cuenta. Esta semana, una mezcla positiva de energías alrededor del armonioso Venus, tu planeta personal, puede llevarte a dar grandes pasos con la ayuda de esta persona. Sin embargo, intenta no pensar de más sobre en este asunto, ya que puede que des vueltas en círculos en vez de avanzar. Entra en acción y todo empezará a cambiar. En los últimos días de la semana, puede que recibas una invitación a una especial y agradable velada.
+A veces dejar ir las cosas es mucho más complicado de lo que piensas Escorpio. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad Escorpio, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres Escorpio. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero Escorpio, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio Escorpio, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. Escorpio, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
+Al comienzo de la semana podrías estar sintiendo que algo necesita cambiar y quizás ya te hayas sentido así por un tiempo. Pero durante los próximos días, este impulso puede crecer más y llevarte a que entres en acción. Hacerlo podría ser un alivio y un descanso, incluso si es un poco incómodo liberar una situación a la que te has acostumbrado. Sin embargo, si ya no te es útil, entonces estás haciendo lo correcto.
 
 ## Dinero
 
-Te encanta fraccionar tu vida, con el dinero en un lado y el trabajo en el otro. Pero ahora algunos de tus compartimentos posiblemente tengan que ser combinados un poco con el fin de tener todo listo. Puede ser que estés pensando en volverte cada vez más responsables con tus finanzas en general. También estás combatiendo el hecho de que la caja que guarda el dinero en efectivo está un poco más seca que de costumbre. Cultiva otros recursos financieros adicionales a través de cambios o un trabajo extra de tiempo parcial.
+Puede que estés sintiendo presión para hacerle frente a tu situación de deuda. Es necesario prestar atención a lo que debes. Al asumir una mayor responsabilidad, ayudas a los problemas a desaparecer mucho más rápidamente que si se hicieses caso omiso de los avisos y mensajes telefónicos. Mientras tanto, el énfasis en tu sector de vidas pasadas e instituciones te ayuda a recuperar las habilidades olvidadas que se pueden utilizar para ganar más a largo plazo.
