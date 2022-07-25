@@ -1,7 +1,7 @@
 ---
 layout: horoscopos
 title: piscis 25 de julio 2022 al 31 de julio 2022 
-description: Horóscopo semanal piscis 25 de julio 2022 al 31 de julio 2022. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Piscis. Muévete o haz que se mueva el resto.
+description: Horóscopo semanal piscis 25 de julio 2022 al 31 de julio 2022. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
@@ -17,11 +17,12 @@ sitemap:
 
 
 
-## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Piscis. Muévete o haz que se mueva el resto.
+## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
 
-¿Cómo quieres gastar tu vida Piscis? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Piscis, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Piscis, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Piscis. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Piscis.
-Tu atención se dirige hacia tus pensamientos y sentimientos. Se te facilitará más conectar y compartir tus emociones una vez que Mercurio entre a tu sector espiritual el lunes. Sin embargo, los días de mitad de semana podrían traer un desenlace debido a un tenso aspecto que podría significar que no te interesa invertir en un hobby o incluso un romance que pudiera estarte costando caro. A partir del viernes, será momento de analizar qué tan bien puedes manejar tu poder y qué es lo que te podría estar impidiendo disfrutar de la intimidad.
+Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
+ Busca siempre la parte buena de cada momento en el que te encuentres.
+Tu vida social sigue estando muy activa y parece que te estás divirtiendo a lo máximo. Esta semana te trae una oportunidad de oro para convertir tus sueños en realidad, especialmente si trabajas en la misma sintonía con amistades o con otras personas. La luna nueva en tu sector de amistad sugiere que este podría ser el momento perfecto para poner en marcha este proyecto. El enfoque se desplaza hacia un sector más apartado de tu carta astral el Domingo. Las cuatro semanas que se acercan serán un período de relajación y reflexión.
 
 ## Dinero
 
-Te beneficiarás de dos maneras cruciales en estos momentos. Dado que ciertos aspectos están afectando a tu sector de grupos, política y trabajo por cuenta propia, puede que estés considerando trabajar desde casa o iniciar un nuevo negocio desde la comodidad de tu habitación. La suerte se combina con repentinas ideas brillantes. Puede parecer una broma, pero puede que de verdad funcione.
+Esta semana tus energías masculinas y femeninas están trabajando hacia los mismos objetivos. Atrás quedaron las disputas sobre quién debe gastar y cómo debe gastarse el dinero. Tu deuda da un giro a la baja a medida que diriges tu energía hacia esta zona. Mientras tanto, el gasto de tiempo y esfuerzo en tu sector puede traer un inesperado dinero en efectivo. Sólo asegúrate de tener más de un presupuesto para poder comparar.
