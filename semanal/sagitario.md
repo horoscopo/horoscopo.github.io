@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: sagitario 18 de julio 2022 al 24 de julio 2022 
-description: Horóscopo semanal sagitario 18 de julio 2022 al 24 de julio 2022. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Sagitario, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+title: sagitario 25 de julio 2022 al 31 de julio 2022 
+description: Horóscopo semanal sagitario 25 de julio 2022 al 31 de julio 2022. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Sagitario, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-07-18
+ogimg: /images/zodiac/semanal_sagitario.png#2022-07-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-18'
+ lastmod: '2022-07-25'
 ---
 
 

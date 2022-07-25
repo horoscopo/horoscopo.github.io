@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: virgo 18 de julio 2022 al 24 de julio 2022 
-description: Horóscopo semanal virgo 18 de julio 2022 al 24 de julio 2022. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: virgo 25 de julio 2022 al 31 de julio 2022 
+description: Horóscopo semanal virgo 25 de julio 2022 al 31 de julio 2022. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-07-18
+ogimg: /images/zodiac/semanal_virgo.png#2022-07-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-18'
+ lastmod: '2022-07-25'
 ---
 
 

@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: libra 18 de julio 2022 al 24 de julio 2022 
-description: Horóscopo semanal libra 18 de julio 2022 al 24 de julio 2022. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Libra, esta semana has de cerrar algunos ciclos de verdad.
+title: libra 25 de julio 2022 al 31 de julio 2022 
+description: Horóscopo semanal libra 25 de julio 2022 al 31 de julio 2022. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Libra, esta semana has de cerrar algunos ciclos de verdad.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2022-07-18
+ogimg: /images/zodiac/semanal_libra.png#2022-07-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-18'
+ lastmod: '2022-07-25'
 ---
 
 

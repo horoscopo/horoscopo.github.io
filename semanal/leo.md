@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: leo 18 de julio 2022 al 24 de julio 2022 
-description: Horóscopo semanal leo 18 de julio 2022 al 24 de julio 2022. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+title: leo 25 de julio 2022 al 31 de julio 2022 
+description: Horóscopo semanal leo 25 de julio 2022 al 31 de julio 2022. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-07-18
+ogimg: /images/zodiac/semanal_leo.png#2022-07-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-18'
+ lastmod: '2022-07-25'
 ---
 
 

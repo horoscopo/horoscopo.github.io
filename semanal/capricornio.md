@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: capricornio 18 de julio 2022 al 24 de julio 2022 
-description: Horóscopo semanal capricornio 18 de julio 2022 al 24 de julio 2022. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capricornio, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: capricornio 25 de julio 2022 al 31 de julio 2022 
+description: Horóscopo semanal capricornio 25 de julio 2022 al 31 de julio 2022. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capricornio, por qué te lo callas y te lo llevas callando tanto tiempo? 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-07-18
+ogimg: /images/zodiac/semanal_capricornio.png#2022-07-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-18'
+ lastmod: '2022-07-25'
 ---
 
 

@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: tauro 18 de julio 2022 al 24 de julio 2022 
-description: Horóscopo semanal tauro 18 de julio 2022 al 24 de julio 2022. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Tauro, pero sé constante.
+title: tauro 25 de julio 2022 al 31 de julio 2022 
+description: Horóscopo semanal tauro 25 de julio 2022 al 31 de julio 2022. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Tauro, pero sé constante.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-07-18
+ogimg: /images/zodiac/semanal_tauro.png#2022-07-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-18'
+ lastmod: '2022-07-25'
 ---
 
 

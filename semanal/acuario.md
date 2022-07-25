@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: acuario 18 de julio 2022 al 24 de julio 2022 
-description: Horóscopo semanal acuario 18 de julio 2022 al 24 de julio 2022. Tu presente y tu futuro valen muchísimo la pena Acuario. La vida siempre se acaba equilibrando Acuario. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+title: acuario 25 de julio 2022 al 31 de julio 2022 
+description: Horóscopo semanal acuario 25 de julio 2022 al 31 de julio 2022. Tu presente y tu futuro valen muchísimo la pena Acuario. La vida siempre se acaba equilibrando Acuario. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-07-18
+ogimg: /images/zodiac/semanal_acuario.png#2022-07-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-18'
+ lastmod: '2022-07-25'
 ---
 
 
