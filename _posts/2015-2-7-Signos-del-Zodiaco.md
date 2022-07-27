@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 26 de julio 2022
-description: Horóscopos del dia de hoy 26 de julio 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 27 de julio 2022
+description: Horóscopos del dia de hoy 27 de julio 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-07-26
+ lastmod: 2022-07-27
 ---
-Mantente en el lado seguro del exceso cuando la Luna cuadre a Venus hoy. ¡Todo requiere de moderación! Cuando la Luna conjunte a Plutón esta noche, no te sientes a esperar a que las cosas simplemente sucedan. Tú decides tu propio destino, porque cuando sabes lo que necesitas, lo atraes como un imán.
+Hoy, las técnicas son muy suaves, incluso si son tomadas con medidas enérgicas. ¡Ponte tu mejor sonrisa y lánzate a obtener lo que quieres! No se puede discutir con las emociones. En lugar de discutir e insistir en que las personas no deberían de sentir lo que sienten, entiende que alguien simplemente lo siente de esa manera mientas la Luna conecta con Neptuno esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
