@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Aries Julio 2022 
+title: Horoscopo Aries Agosto 2022 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2022-06-25
+ogimg: /images/mes/Aries_mes.png#2022-07-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-06-25'
+ lastmod: '2022-07-28'
 ---
 
 
-Todos querrán amarte bajo la Luna Llena del 13 de julio. Una sonrisa de tu parte tendrá el efecto de un abrazo, un beso, o una bendición. Puede que no seas muy popular, pero un nuevo fan llegará entonces para quedarse contigo durante mucho tiempo. Por último, la conjunción entre el Sol y Neptuno del 28 de julio te da un día para disfrutar de sueños de amor y un futuro brillante. Mira por debajo de la superficie de las cosas durante la Luna Nueva del 28 de julio. La ambigua opinión o posición de una amistad de repente podría cobrar sentido. Tu mundo en general podría de repente cobrar más sentido. Dedica más de tu tiempo en privado para pensar. 
+Muchas oportunidades para ganar dinero podrían aparecérsete a principios de mes, especialmente alrededor de la Luna Llena del 12 de agosto. Tu nivel de ingreso podría también mejorar. Al principio podrías sentir como si estuvieras beneficiando a los demás más que a ti. Ve despacio y disponte a seguir esforzándote un poco más de lo normal. El dinero es de nuevo una gran motivación, especialmente después de la Luna Nueva del 27 de agosto. Tienes una energía inagotable y puedes lograr un gran progreso. Eso sí, no permitas que te vuelva a la locura o aleje a tus amigos. Si sientes que la histeria se está apoderando de ti, habla con una persona mayor o más sabia. Tu vida amorosa adquiere un brillo mágico cuando Venus forma trígono con Urano el 28 de agosto.      

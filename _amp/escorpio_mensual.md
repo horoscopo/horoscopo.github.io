@@ -1,18 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Julio 2022 
+title: Horoscopo Escorpio Agosto 2022 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2022-06-25
+ogimg: /images/mes/Escorpio_mes.png#2022-07-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-06-25'
+ lastmod: '2022-07-28'
 ---
 
 
-Deja que tu niño interior salga a jugar bajo la Luna Llena del 13 de julio. Inspírate y diviértete más haciendo algo ordinario de la forma más extraordinaria. Todo niño sabe que, muchas veces, ciertas cosas que son puestas al revés son en realidad verdades disfrazadas. La oposición entre el Sol y Saturno del 15 de julio te da más autoridad de la que esperabas. Alrededor de la Luna Nueva del 28 de julio, podrías tener muchísimas tareas e involucrarte en la vida de manera introvertida. Si has observado un cambio en una relación o romance, tómate todo el tiempo que sea necesario para comprenderlo y hacer que las cosas funcionen a tu favor.
+Chispas de inspiración encenderán un fuego dentro de ti este mes cuando el sol en Aries arde intensamente en tu novena casa solar. Estas vibras están listas para llevarte en algunos viajes de la mente, aunque puede que también sientas ánimos de empacar para realizar alguna exploración física. Ya sea que te encuentres fantaseando en tu escritorio o estés por embarcarte en una aventura, permítete dejar atrás lo que se espera de ti. Simplemente no dejes que este sentimiento te acompañe muy lejos, querido Escorpio. Aún necesitas ocuparte de tu trabajo y tus responsabilidades.
+Tu intuición también recibirá un buen impulso de esta posición solar mientras el universo busca formas de guiarte y comunicarse contigo. Sin embargo, tu tercer ojo podría comenzar a frustrarte cuando la luna llena en Libra se manifiesta en el sector de tu carta astral que rige la comunicación y los procesos mentales el 12 de agosto. Este clima cósmico podría ponerte ante una encrucijada, ya que Luna te hace romantizar tu futuro mientras que Plutón te enfrenta a la dura realidad logística que rodea esos sueños. No te desanimes por el trabajo que aún tienes por hacer. En su lugar, hazlo poco a poco.
+La temporada de Virgo comienza el día 23, lo que cambia tu enfoque hacia tus ambiciones profesionales. Estas vibras pueden jugar un papel fundamental en el crecimiento de tu carrera durante el próximo año, pero necesitarás ser paciente durante el proceso. En vez de sentir ansiedad por un ascenso, busca formas de mostrar tus talentos inigualables. Tomar un par de turnos o tareas extras pondrá el centro de atención en tu lealtad y ética de trabajo, lo que no pasará desapercibido por tus superiores.
+Días destacados: 2, 19, 30
+Días desafiantes: 10, 18, 22

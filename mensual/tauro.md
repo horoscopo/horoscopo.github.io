@@ -1,25 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Tauro Julio 2022
-description: El Horóscopo Julio de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Tauro Agosto 2022
+description: El Horóscopo Agosto de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/tauro/
 amplink: /horoscopo-mensual/amp/tauro/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo Tauro julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Tauro, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo Tauro agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Tauro, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/tauro_mes.png#2022-06-25
+ogimg: /images/mes/tauro_mes.png#2022-07-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-06-25'
+ lastmod: '2022-07-28'
 ---
 
 
- > Tauro puede que en julio las dudas e inseguridades te lleven a crear una historia en tu cabeza que dista mucho de ser real.
-No permitas que estos pensamientos te ganen la batalla e intenta soltar todo lo que te hace sentir mal, e incluso, atrévete a romper con algunos vínculos que mantienes con personas que no te hacen bien. Notarás como al desprenderte de todo ese lastre, empezarás a verlo todo con más claridad.
+ > Tauro, tu mes de agosto será sinónimo de oportunidades nuevas a las que puedes aspirar. El tema del amor fluirá solo, sin necesidad de forzar nada, además de que por fin sentirás que llevas el timón de tu destino. Estás más segura de ti que nunca, y eso es muy bueno.
 
 
 
-Podrías ser muy popular bajo la Luna Nueva del 28 de julio. Y puede que hasta también lo disfrutes. La timidez y la reserva no te funcionarán muy bien ahora. Sonríe, acepta tu visibilidad social y prepárate para hacer un montón de nuevas amistades. Vuélvete un líder social al decir tu verdad. En los días alrededor de la Luna Llena del 13 de julio, céntrate en tu persona y en tu propio bienestar. Si te llueven asesoramientos mientras sientes preocupación por tu salud y felicidad, escucha, pero sé tú quien juzgue los cambios que le harás a tu rutina diaria. El fin de semana del 28 y 29 de julio es un momento muy romántico y emocional. Manifiesta tus sueños románticos ahora. 
+La Luna Llena 12 de agosto acercan tu corazón a tu hogar y familia. Pero claro, ahora también es cuando tu trabajo se podría poner más demandante o cuando alguna función o rol social también te reclame. No te pongas demasiado sentimental y todo saldrá bien. Lidera en el trabajo con la Luna Nueva del 27 de agosto. Quizás no suceda en un instante, pero esto podría afectar tu profesión y posición social el resto del año. Toma responsabilidades de las formas más modestas y generosas. El trígono que la Luna forma con Marte el 30 de agosto facilita el progreso. 

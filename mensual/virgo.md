@@ -1,27 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Virgo Julio 2022
-description: El Horóscopo Julio de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Virgo Agosto 2022
+description: El Horóscopo Agosto de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo Virgo julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo Virgo agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/virgo_mes.png#2022-06-25
+ogimg: /images/mes/virgo_mes.png#2022-07-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-06-25'
+ lastmod: '2022-07-28'
 ---
 
 
- > Virgo, llega un mes de julio en el que tendrás la inspiración por las nubes, te apetecerá disfrutar de la soledad para encontrarte contigo misma y por fin te sentirás realizada con lo que haces.
+ > Virgo, cuidado con la sensibilidad durante el mes de agosto, porque puede jugarte alguna mala pasada con tu pareja. Por otro lado, por fin parece que las cosas ponen en su sitio en la vida a quien se lo merece y por eso vas a disfrutar con ciertas situaciones.
 
 
 
-El 5 de julio, el sol forma una conjunción con Mercurio en Géminis. Tu intuición es aguda, y tu interés en el mundo es grande. Mira lo que puedes encontrar. Trabajo y diversión pueden superponerse cuando la luna está llena el 13 de julio. Tómate en serio una pasión personal, y ten entusiasmo por una tarea que necesita cumplirse. Siéntete bien con todo tu progreso, y ten en cuenta que las cosas pasarán cuando llegue el momento adecuado. La profesión se ve resaltada durante la luna nueva del día 28. Tal vez sea un buen momento para un gran cambio o varios ajustes pequeños. Sé flexible y razonable, y escucha a los demás tanto como hablas. 
-
-Días destacados: 1, 12, 28
-Días desafiantes: 6, 23
+Venus ingresa a Tauro el 6 de agosto. La vida se vuelve más sencilla y bonita. Estás de humor para consentirte y sentir más comodidad. No te excedas con los gustos ni te extralimites con el presupuesto, ¿de acuerdo? La vida diaria podría complicarse brevemente cerca de la Luna Llena del 12 de agosto, y las personas pueden hacer que parezca peor de lo que es. Hay un trasfondo de muchas cosas buenas que están sucediendo y que todos están pasando por alto. Mantén la organización y motivación. La Luna Nueva del 27 de agosto activa tu círculo de amistades y vecinos. Despierta tu curiosidad por nuevas tiendas o parques cercanos, y descubre cosas divertidas. Deja que tu atención fluya hacia una nueva novela cómica o gráfica.

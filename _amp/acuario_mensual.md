@@ -1,22 +1,24 @@
 ---
 layout: amp
-title: Horoscopo Acuario Julio 2022 
+title: Horoscopo Acuario Agosto 2022 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2022-06-25
+ogimg: /images/mes/Acuario_mes.png#2022-07-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-06-25'
+ lastmod: '2022-07-28'
 ---
 
 
-Urano entra a tu signo este mes y permanece aquí hasta el 2026, lo que te lleva a tu mejor momento, tanto a nivel personal como profesional. Como dicen, no se trata de lo que sabes sino de a quién conoces, y tienes amistades y asociados poderosos de tu lado. Pero estás aprendiendo y absorbiendo nueva información, lo que te obliga a revisar tus aspiraciones, aclarar tus valores, y reevaluar tus amistades. Puede que no sepas bien a quién o en qué creer, y en quién puedes confiar. Primero debes conocerte a ti. Después no necesitarás tener miedo de que te dejen fuera de los sueños o planes de alguien más. 
-¿Quién eres, y qué quieres? Prepárate para sorprenderte durante los próximos siete años. Podrías lograr lo que algunos dicen (y lo que tú ahora piensas) que es imposible. Aún no has raspado la superficie de tu potencial. 
-Mantén el desapego y la humildad. Predica con el ejemplo mientras avanzas cada día hacia una visión, y puedes inspirar el apoyo que necesitas. Este es un viaje de autodescubrimiento, y de los tesoros desconocidos que hay enterrados dentro. Acepta sin miedos a la persona en la que te estás convirtiendo. Estás quebrando el molde de lo que solías ser para revelar tu identidad auténtica y tu verdadero brillo. 
-Días destacados: 6, 21, 26
-Días desafiantes: 1, 13, 20
+El sextil que Mercurio forma con Venus el 3 de agosto puede transformar un fin de semana largo en unas vacaciones placenteras y llenas de diversión. 
+La cuadratura que Venus forma con Marte el día 8 podría desafiar una relación que ya está mostrando signos de tensión. Venus también entra a Escorpión ese día, y el amor se pone más serio.
+Cuando Venus forma una oposición con Urano el día 4, tal vez quieras aferrarte a lo que ya conoces, y dejar pasar lo excéntrico o fuera de lo común. 
+La luna llena del día 12 te da todo lo que necesitas para cuidar de ti para que te vaya bien en cualquier situación. Puedes hacerlo sin volverte egoísta. No dejes que las dudas de nadie, ni sus diferentes opiniones o perspectivas, te desvíen de tu camino.  
+Exige más momentos de calma durante la luna nueva del 27 de agosto. Escucha más tu propia verdad. Te toca decidir lo que es realmente importante. 
+Días destacados: 8, 12, 17
+Días desafiantes: 6, 20

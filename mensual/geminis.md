@@ -1,24 +1,29 @@
 ---
 layout: horoscopos
-title: Horoscopo Géminis Julio 2022
-description: El Horóscopo Julio de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Géminis Agosto 2022
+description: El Horóscopo Agosto de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo Géminis julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo Géminis agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2022-06-25
+ogimg: /images/mes/geminis_mes.png#2022-07-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-06-25'
+ lastmod: '2022-07-28'
 ---
 
 
- > Geminis, vas a vivir un mes de julio en el que explotarás al máximo tu intuición y sensibilidad. Tendrás la oportunidad de conocer a alguien especial y deberás adaptarte a ciertos cambios positivos en el trabajo.
+ > Géminis, agosto será el mes del progreso para ti, tus ganas de seguir creciendo harán que nada ni nadie te pare y llamarán a la puerta a ese corazoncito tan difícil de entrar a veces. En tu mano estará elegir qué es lo que quieres hacer exactamente con tu vida sentimental.
 
 
 
-El sol forma una conjunción con Mercurio retrógrado el 8 de julio y empodera tu intuición y reflexiones. Mira algún problema (o a una persona) desde una nueva perspectiva. La luna llena del 13 de julio podría ponerte en el centro de atención en la sociedad o en el trabajo. El día 18, Mercurio retrógrado forma un sextil con Venus, y doce horas después Mercurio se torna directo. Escucha bien y presta atención a lo que un ser amado te está mostrando. Lo que hoy parece ser un acto de bondad al azar será recordado y recompensado después. Al día siguiente, Marte se torna directo después de haber estado retrógrado desde el 26 de julio. Pero no te apresures a hacer o decidir cualquier cosa importante. Ahora Mercurio forma una cuadratura con Júpiter. Date tiempo. La vida en el vecindario sube de tono con la luna nueva del 28 de julio, cuando tu voz interior podría volverse dolorosa. Elige lo que quieres hacer y con quién, y no te disperses demasiado. Días destacados: 7, 14, 29Días desafiantes: 4, 10
+Con la temporada de Leo en pleno auge, estimable Géminis, vas a sentir el amor de tu familia, amistades y del universo. Este último está buscando formas de guiarte y bendecirte justo ahora, en especial durante el tránsito de la luna en tu signo el día 2 de agosto. Utiliza esta vibras para pensar mucho en lo que quieres conseguir durante lo que queda del año, y asegúrate de enviar un pequeño deseo al sol y a la luna.
+Mientras tanto, el cosmos está lleno de actividad mientras Mercurio y Saturno se alinean en tu doceava casa solar ese día. Esta alianza planetaria te puede ayudar a usar la lógica al momento de deshacerte de conductas poco saludables, y también te puede dar las palabras para establecer límites en donde los necesites.
+También recibimos la bendición de la triple conjunción entre Venus, Marte, y Plutón el tercer día del mes, la que enfoca la atención en tus amistades y en la comunidad. Si necesitas cortar lazos con alguna de tus amistades o con algún contacto de tus redes sociales, este sería el momento de bloquear o cancelar amistades.
+Aunque no hay nada que se asemeje a tener el sol en tu signo, sentirás la positividad y la motivación mientras la temporada de Virgo emerge el 23 de agosto. Este período cósmico hace foco en tus finanzas, lo que te da la oportunidad de comenzar nuevas aventuras que podrían llenarte de riqueza. Sin embargo, necesitarás tomar la iniciativa cuando se trate de tus objetivos monetarios, en especial si esto incluye volver a la escuela o invertir en capacitaciones especiales. Intenta no abrumarte con los costos asociados a tu futuro. Solo recuerda que vale la pena invertir cuando se trata de tus sueños.
+Días destacados: 4, 12, 23
+Días desafiantes: 10, 14, 17
