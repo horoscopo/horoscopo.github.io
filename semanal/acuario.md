@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 25 de julio 2022 al 31 de julio 2022 
-description: Horóscopo semanal acuario 25 de julio 2022 al 31 de julio 2022. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+title: acuario 01 de agosto 2022 al 07 de agosto 2022 
+description: Horóscopo semanal acuario 01 de agosto 2022 al 07 de agosto 2022. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-07-25
+ogimg: /images/zodiac/semanal_acuario.png#2022-08-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-25'
+ lastmod: '2022-08-01'
 ---
 
 
 
-## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 
-Necesitas amor Acuario, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a Acuario es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
-Tu signo es un signo romántico, por lo que esta semana es la fresa del postre, y esta semana no será la excepción. Con Venus y Marte en tu sector de relaciones, un nuevo romance podría encenderse en llamas de un minuto a otro. Además, los vínculos duraderos podrían tener un brillo extra gracias a las energías vitales de esta semana. Es hora de que te relajes y te dejes llevar por la pasión. Además, la entrada del Sol a tu sector de bienestar podría inspirarte a que renueves tu rutina.
+Hay cosas que no se pueden cambiar Acuario, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos Acuario, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia Acuario pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+La actvidad lunar del martes en tu signo es lo mejor que te sucede en el año, ya que te dará la oportunidad de cumplir tus sueños y tus deseos. Si haces una lista de tus deseos y sueños y la lees con frecuencia, puede que notes que se hacen realidad mucho antes de lo que esperas. Por otro lado, la entrada de Mercurio a tu sector de dinero puede impulsarte a que vendas ciertos objetos y ganes un poco de dinero extra. Si empiezas vendiendo cosas que ya no necesitas, puedes ganar algo de dinero y disfrutar de tener más espacio.
 
 ## Dinero
 
-Esta semana es perfecta para tener una mentalidad transformadora. Los aspectos astrales agitan tu sector hogareño y despiertan algunos sentimientos internos. Podrías sentir algo de inestabilidad en estas áreas y tal vez necesites pasar algo de tiempo curándote y desarrollando un plan de recuperación. Tómate todo el tiempo que necesites para hacer que suceda.
+Ahora tienes un aspecto armonioso afectando a tu sector de hogar y emociones. Si trabajas en un campo creativo o de diseño, piensa en cómo ampliar tu línea para incluir el diseño de interiores. Dado a que tantos de tus propios recuerdos y sentimientos están siendo despertados, puedes percatarte de que tu vida puede servir de base para nuevas y maravillosas ideas. El dinero viene cuando se combina lo personal con lo profesional.

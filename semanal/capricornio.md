@@ -1,27 +1,30 @@
 ---
 layout: horoscopos
-title: capricornio 25 de julio 2022 al 31 de julio 2022 
-description: Horóscopo semanal capricornio 25 de julio 2022 al 31 de julio 2022. No te destruyas Capricornio, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+title: capricornio 01 de agosto 2022 al 07 de agosto 2022 
+description: Horóscopo semanal capricornio 01 de agosto 2022 al 07 de agosto 2022. Fuera las preocupaciones. Tira del carro Capricornio, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-07-25
+ogimg: /images/zodiac/semanal_capricornio.png#2022-08-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-25'
+ lastmod: '2022-08-01'
 ---
 
 
 
-## No te destruyas Capricornio, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+## Fuera las preocupaciones. Tira del carro Capricornio, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 
-Se avecinan cambios Capricornio, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Capricornio, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Capricornio. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Capricornio.
-Un importante enfoque en tu sector hogareño y familiar podría felizmente llevarte a trabajar en manualidades, proyectos de decoración, limpiar el desorden y poner tu hogar en orden. Tener invitados en casa o en otro lugar puede ser muy exitoso, sobre todo si funges como anfitrión. Si estás considerando comprar o vender una propiedad, espera hasta después de que Mercurio se torne directo el Jueves, dándote más oportunidad de éxito. Más tarde, tomar un curso de larga duración sobre un tema favorito podría llamarte la atención.
+Tu mente lo está analizando absolutamente todo Capricornio, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez Capricornio… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas Capricornio, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana Capricornio, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+La actvidad lunar del lunes en un intenso sector de tu carta podría animarte a pensar más profundamente en una idea o un proyecto creativo. Calcular los costos en detalle puede permitirte tomar una decisión más informada. 
+Además, una animada combinación de energías que involucra al expresivo Mercurio y al animado Júpiter el martes podría impulsarte a avanzar en torno a una de tus ambiciones personales. 
+Puede que también demuestres una gran proactividad con respecto a mostrar ciertas capacidades o habilidades ahora que el sol está en un sector dinámico de tu carta. Si sientes el impulso de mostrar tus manualidades u otros objetos en una tienda o en línea, hacerlo podría resultar muy bien para ti. 
+No te reproches demasiado si cometes un error en los próximos días. En lugar de esto, mímate con un masaje u otro gusto especial. Te lo mereces. Disfrútalo.
 
 ## Dinero
 
-Estás atrapado/a en un dilema. Hay acción en el frente de profesión y en el campo de las oportunidades. Sin embargo, estás siendo conducido/a por un estrecho sendero hacia el lidiar con tu situación en cuanto a cómo te relacionas. Puedes hacerlo a solas por sólo un determinado tiempo. Busca la mayor cantidad de ayuda que puedas encontrar.
+Tienes una calidad de ideas y de ensueño que es muy atractiva para los demás en este momento. Sin embargo, ten cuidado con parecer como que saliste de un cuento de hadas o con parecer excesivamente intelectual. Puede que tu mensaje no sea entendido por las cabezas de algunas personas que necesites a bordo en tus planes personales y económicos. Al mismo tiempo, un aspecto de apoyo muestra que eres maestro/a por naturaleza. Considera cómo puedes compartir tus conocimientos con los demás por algo extra de dinero.

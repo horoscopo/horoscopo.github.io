@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 25 de julio 2022 al 31 de julio 2022 
-description: Horóscopo semanal geminis 25 de julio 2022 al 31 de julio 2022. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+title: geminis 01 de agosto 2022 al 07 de agosto 2022 
+description: Horóscopo semanal geminis 01 de agosto 2022 al 07 de agosto 2022. Deberías empezar a poner las cosas claras Géminis, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-07-25
+ogimg: /images/zodiac/semanal_geminis.png#2022-08-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-25'
+ lastmod: '2022-08-01'
 ---
 
 
 
-## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+## Deberías empezar a poner las cosas claras Géminis, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 
-Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa Géminis, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
-Tu vida social parece extremadamente activa y la luna nueva del Jueves lo hace más intenso. Puede que la semana comience de manera un tanto alborotada y quizá esto aumente tus deseos de hacer que esta semana sea la mejor de todas. Al mismo tiempo, puede que tengas ganas de explorar nuevos horizontes y busques salir de tu zona de confort. No tienes por qué hacerlo por tu cuenta. Tienes muchas amistades a las que les encantaría acompañarte. Ya sea que quieras viajar o debas estudiar, puede que disfrutes más estos momentos si los compartes con otras personas.
+La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Géminis, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+Con el encantador Venus paseándose por tu signo el 2 de agosto, el mes comienza de manera muy positiva para ti. Esto también podría ser una bendición, especialmente si la fase retrógrada de Mercurio causó alguno que otro malentendido en las últimas semanas. Mercurio avanza una vez más el 8 de agosto. Junto con la actitud conciliatoria de Venus, este puede ser el momento perfecto para tener una charla a corazón abierto para resolver con tranquilidad cualquier diferencia. Si necesitas tener más confianza, esta es una excelente oportunidad para renovar tu apariencia.
 
 ## Dinero
 
-Ha pasado algo de tiempo desde que sentiste que se te paga lo que vales, pero eso puede cambiar pronto. Tú eres la estrella actual en tu trabajo, mostrando tus talentos y habilidades al máximo. Otros pueden ver en ti lo que quieren ver, casi como si fueras una pantalla de proyección de tamaño natural. Tienes todo el poder para pedir más dinero o construir un buen caso para tu eventual promoción.
+Ahora estás pensando no sólo en cómo hacer más dinero y establecer una mayor seguridad en tu vida, sino también en la manera de hacer que tu vida laboral sea más gratificante. Con un aspecto armonioso afectando tu sector laboral, es probable que se note aún más. Esto te permitirá ascender de posición sin demasiados problemas. Asegúrate de pedir lo que vales en lugar de aceptar lo que sea que el jefe te ofrezca.

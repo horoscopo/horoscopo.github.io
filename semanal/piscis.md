@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 25 de julio 2022 al 31 de julio 2022 
-description: Horóscopo semanal piscis 25 de julio 2022 al 31 de julio 2022. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+title: piscis 01 de agosto 2022 al 07 de agosto 2022 
+description: Horóscopo semanal piscis 01 de agosto 2022 al 07 de agosto 2022. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-07-25
+ogimg: /images/zodiac/semanal_piscis.png#2022-08-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-07-25'
+ lastmod: '2022-08-01'
 ---
 
 
 
-## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 
-Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
- Busca siempre la parte buena de cada momento en el que te encuentres.
-Tu vida social sigue estando muy activa y parece que te estás divirtiendo a lo máximo. Esta semana te trae una oportunidad de oro para convertir tus sueños en realidad, especialmente si trabajas en la misma sintonía con amistades o con otras personas. La luna nueva en tu sector de amistad sugiere que este podría ser el momento perfecto para poner en marcha este proyecto. El enfoque se desplaza hacia un sector más apartado de tu carta astral el Domingo. Las cuatro semanas que se acercan serán un período de relajación y reflexión.
+Llegan oportunidades grandes Piscis y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias Piscis, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Piscis, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+Los planes de diversión pueden tropezarse con tu trabajo o tus obligaciones laborales. Pero si puedes encontrar la forma de delegar algunas tareas, tal vez sea posible escapar. El cosmos te apresura a que encuentres formas creativas de divertirte sin que sea muy costoso. Puedes ver que, al pensar de manera diferente, puedes disfrutar una experiencia de forma gratuita o con poco dinero. Todo lo que se necesita es la habilidad de adoptar una perspectiva diferente que ponga nuevas posibilidades en el centro de atención.
 
 ## Dinero
 
-Esta semana tus energías masculinas y femeninas están trabajando hacia los mismos objetivos. Atrás quedaron las disputas sobre quién debe gastar y cómo debe gastarse el dinero. Tu deuda da un giro a la baja a medida que diriges tu energía hacia esta zona. Mientras tanto, el gasto de tiempo y esfuerzo en tu sector puede traer un inesperado dinero en efectivo. Sólo asegúrate de tener más de un presupuesto para poder comparar.
+Tienes energía en tu sector de trabajo. Esto hace que sea más fácil el sobrellevar largos días si has sentido cansancio, o el poder realizar presentaciones, reuniones o papeleo. Mide tu energía durante todo el día para no quedarte sin nada antes del almuerzo. Puede que no tengas el poder de cambiar por completo tu situación todavía, pero definitivamente puedes mejorarla mucho más del estado en el que ha estado últimamente. Persevera.
