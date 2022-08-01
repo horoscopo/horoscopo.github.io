@@ -1,0 +1,25 @@
+---
+layout: amp
+title: acuario hoy gratis 01 de agosto del 2022 
+permalink: /horoscopo-diario-gratis/amp/acuario/
+normallink: /horoscopo-diario-gratis/acuario/
+home: FALSE
+horoscopo:
+ signo: acuario
+ video: -DQpmrrAIeU
+ogimg: /images/acuario_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Los demás son un ingrediente esencial en este día, y descubrirás que las relaciones serán especialmente gratificantes. Tómate tu tiempo para sentarte y tener un diálogo directo con tus seres queridos. ¿Cuándo fue la última vez que realmente dialogaste profundamente con alguien sin que haya sido una charla casual? La energía celestial de hoy te ayudará a establecer una conexión verdadera con los demás.
+
+## Amor
+
+El engaño es el pronóstico planetario del día, pero ten cuidado; es un arma de doble filo. Si tie-nes miedo de ser honesto/a con tu pareja, lo más probable es que ya hayas empezado a mentir. Mentir es complicado, ya que puede plantear muchas otras cuestiones una vez que la base de la confianza se haya roto.
+
+## Trabajo
+
+La comunicación es una herramienta muy eficaz para el día de hoy. Finaliza las tareas que tienen que ver con el hacerles llegar información importante a otras personas. Lo que sea que envíes - ya sea a través de correo electrónico, teléfono o correo regular – te obtendrá éxito.
