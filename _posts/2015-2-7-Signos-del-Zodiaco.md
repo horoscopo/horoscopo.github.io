@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de agosto 2022
-description: Horóscopos del dia de hoy 03 de agosto 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de agosto 2022
+description: Horóscopos del dia de hoy 04 de agosto 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-08-03
+ lastmod: 2022-08-04
 ---
-Distraídos por el aburrimiento, muchos tienden a hacer las cosas a medias y lejos de la norma establecida mientras la Luna forma trígono con el espontáneo Urano. Esta noche, hay mucho ocupando las mentes, pero no hay tiempo para expresarlo bajo la Luna en Leo saliéndose de su órbita. La diversión no se ha acabado, sólo es una pausa.  
+El trígono entre el Sol y Neptuno de hoy crea grandes expectativas, y bajo esa promesa puedes esperar el éxito. Esta noche, con otro trígono entre la Luna y Mercurio, uno puede comunicar mucho con sólo una mirada. Sin embargo, las cosas no llegan más lejos esta noche debido a la Luna saliéndose de su órbita.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
