@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 01 de agosto 2022 al 07 de agosto 2022 
-description: Horóscopo semanal cancer 01 de agosto 2022 al 07 de agosto 2022. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+title: cancer 08 de agosto 2022 al 14 de agosto 2022 
+description: Horóscopo semanal cancer 08 de agosto 2022 al 14 de agosto 2022. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-08-01
+ogimg: /images/zodiac/semanal_cancer.png#2022-08-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-01'
+ lastmod: '2022-08-08'
 ---
 
 
 
-## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 
-El mundo no te entiende Cáncer, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Cáncer, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Cáncer, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
-Puedes ser parte de un proyecto que mejore tu reputación. La posición del Sol en una parte más privada de tu carta indica que este es el momento para dar un paso atrás, ya que puedes tener ideas importantes sobre tu propósito y a dónde te diriges en la vida y qué es lo que realmente quieres. La entrada de Venus en tu sector de dinero puede llevarte a que gastes en algunos lujos, quizá en un obsequio para ti o para alguien más; algo que realmente podrías disfrutar.
+Quita importancia a las cosas Cáncer, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Cáncer. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
+Puede que te hayas sentido con poco brillo en las últimas semanas, con tu enfoque más introvertido de lo normal. Esta fase también podría haber coincidido con la oportunidad de superar tu bagaje emocional y lidiar con problemas complejos que necesitaban tiempo y espacio para resolverse. Sin embargo, a medida que Marte, tu planeta personal, entra a tu signo el viernes, podrías sentirte con mucha más energía y determinación. La Luna Llena podría sugerirte que te muevas en nuevos círculos, lo que te abre el camino a nuevas oportunidades.
 
 ## Dinero
 
-Tu situación en casa y emociones internas indican un posible cambio para ti. ¿Has estado pensando en crear más espacio para ti? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener el néctar que fluirá hacia un nuevo trabajo o nueva fuente de ingresos. El truco está en no exagerar éste esfuerzo, busca un balance entre el gasto y el ahorro.
+Esta semana hay aspectos afectando tu profesión y autoridad. Es posible que recientemente, cierta persona sin escrúpulos te haya hecho retrasarte en el trabajo o tuvieras que haber puesto un proyecto en espera mientras tratas con problemas de comunicación y problemas técnicos. Durante las próximas semanas, piensa en cómo sentar las bases para futuros acuerdos. El Universo te muestra cómo hacerlo.
