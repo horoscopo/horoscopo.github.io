@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de agosto 2022
-description: Horóscopos del dia de hoy 11 de agosto 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de agosto 2022
+description: Horóscopos del dia de hoy 12 de agosto 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-08-11
+ lastmod: 2022-08-12
 ---
-Un Sábado es para ser disfrutado como normalmente son los días en los que el Sol en Leo conjunta a Venus. Date permiso de simplemente divertirte. Si no tienes pareja, ¡debes tener cuidado! Cuando la Luna se opone a Neptuno, enfocarte sólo en una persona podría causar que pierdas tu perspectiva y probablemente también de otras oportunidades amorosas.
+Las oportunidades abundan cuando Mercurio forma sextil con Venus. Hoy podría ser un día muy afortunado para ti. Esta noche, el Eclipse Lunar en Leo recomienda emplear valor para expresar sentimientos abiertamente. ¿Sería posible que esa falta de valor te esté alejando de lo que realmente quieres? ¡Vamos! Ten el valor de tus convicciones y da el primer paso.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
