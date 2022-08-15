@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 08 de agosto 2022 al 14 de agosto 2022 
-description: Horóscopo semanal sagitario 08 de agosto 2022 al 14 de agosto 2022. Sagitario, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
+title: sagitario 15 de agosto 2022 al 21 de agosto 2022 
+description: Horóscopo semanal sagitario 15 de agosto 2022 al 21 de agosto 2022. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-08-08
+ogimg: /images/zodiac/semanal_sagitario.png#2022-08-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-08'
+ lastmod: '2022-08-15'
 ---
 
 
 
-## Sagitario, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
+## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
 
-Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
-No sería una sorpresa si te dieran ganas de partir y viajar a algún lugar exótico para relajarte y absorber las vibras. De hecho, te puede llamar la atención experimentar todo tipo de aventuras durante las próximas semanas y meses, en especial aquellas que te lleven a sumergirte en los misterios de la vida y comprender mejor tu verdadera naturaleza. El cambio también se encuentra en las cartas. Podría ser la razón por la que esta semana te decidas a soltar el pasado y aceptar el futuro.
+Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
+ No lo has pasado del todo bien pero empiezas a renacer Sagitario. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
+Pon atención a tus visiones al inicio de la semana, ya que una poderosa mezcla de energías sugiere que tu intuición podría anular tu lógica. Si te llega la sensación de que debes conectar con alguien o cambiar hacia una dirección determinada, escúchala. Si te surgen preguntas, no dudes en pedirle sus comentarios a alguna buena amistad. A mita de semana, el Sol entra a Acuario y a tu sector de viajes y aventura, dándote una vibra más optimista y ligera. Es hora de salir a explorar y tal vez hacer planes de viaje.
 
 ## Dinero
 
-Esta semana tienes un poco de ventaja. Tu personalidad, nunca conocida por la sutileza, puede ser muy fuerte en este momento y puede que no sea del todo bueno para algunas personas. Si vas a una entrevista o quieres impresionar a un cliente nuevo, el acto irresistible no puede ser tu mejor apuesta. En lugar de eso, envuélvelos en un poco de misterio. El hacer que ellos vengan a ti puede producir mejores resultados financieros.
+A veces puedes tener demasiada timidez para la confrontación. Es posible que ésta semana sientas aún más preocupación por llevarte bien con todos. Tu situación financiera florece positivamente. Con tanta energía concentrada allí, estás logrando todo tipo de avances en la obtención de ingresos, el pago de deudas,  y el ahorro. Ves que es más valioso compartir momentos de amor con tus hijos y miembros de tu familia que gastar.

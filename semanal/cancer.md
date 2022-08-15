@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 08 de agosto 2022 al 14 de agosto 2022 
-description: Horóscopo semanal cancer 08 de agosto 2022 al 14 de agosto 2022. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+title: cancer 15 de agosto 2022 al 21 de agosto 2022 
+description: Horóscopo semanal cancer 15 de agosto 2022 al 21 de agosto 2022. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-08-08
+ogimg: /images/zodiac/semanal_cancer.png#2022-08-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-08'
+ lastmod: '2022-08-15'
 ---
 
 
 
-## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 
-Quita importancia a las cosas Cáncer, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Cáncer. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
-Puede que te hayas sentido con poco brillo en las últimas semanas, con tu enfoque más introvertido de lo normal. Esta fase también podría haber coincidido con la oportunidad de superar tu bagaje emocional y lidiar con problemas complejos que necesitaban tiempo y espacio para resolverse. Sin embargo, a medida que Marte, tu planeta personal, entra a tu signo el viernes, podrías sentirte con mucha más energía y determinación. La Luna Llena podría sugerirte que te muevas en nuevos círculos, lo que te abre el camino a nuevas oportunidades.
+Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
+ En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
+Aunque la actividad lunar del martes podría verte fluctuar entre el deseo de relajarte y la necesidad de atender responsabilidades, el resto de la semana debería desarrollarse de una manera bastante agradable. Tal parece que tu enfoque principal está vinculado a asuntos hogareños  y familiares. Podrías encontrarte haciendo un montón de reorganización y planificación, y podrás disfrutar de la oportunidad de mejorar tu calidad de vida como resultado. Por último, la entrada del Sol a Escorpión del viernes pone cuestiones laborales y de salud en primer plano.
 
 ## Dinero
 
-Esta semana hay aspectos afectando tu profesión y autoridad. Es posible que recientemente, cierta persona sin escrúpulos te haya hecho retrasarte en el trabajo o tuvieras que haber puesto un proyecto en espera mientras tratas con problemas de comunicación y problemas técnicos. Durante las próximas semanas, piensa en cómo sentar las bases para futuros acuerdos. El Universo te muestra cómo hacerlo.
+Hay algunos problemas relacionados con deudas y bienes de propiedad con otras personas. Puede que estés actuando bajo una sincronización distinta a la de tus acreedores. La mejor forma de resolverlo es con calma y sin mancha. Puede que tengas una visión maravillosa sobre cómo saldar la deuda con mayor rapidez - ¡toma ventaja de ello! Mientras tanto, el amor ilumina tu vida familiar; el pasar tiempo con tus seres queridos hace que todo valga la pena.
