@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 15 de agosto 2022 al 21 de agosto 2022 
-description: Horóscopo semanal virgo 15 de agosto 2022 al 21 de agosto 2022. Hay personas que juegan en otra liga Virgo, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+title: virgo 22 de agosto 2022 al 28 de agosto 2022 
+description: Horóscopo semanal virgo 22 de agosto 2022 al 28 de agosto 2022. Vamos Virgo, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-08-15
+ogimg: /images/zodiac/semanal_virgo.png#2022-08-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-15'
+ lastmod: '2022-08-22'
 ---
 
 
 
-## Hay personas que juegan en otra liga Virgo, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+## Vamos Virgo, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 
-Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo Virgo… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Virgo, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Virgo. Lo vas a agradecer… Feliz semana.
-Si tienes ganas de cambiar tu dieta o rutina de ejercicio, entonces cabe la posibilidad de tener altas aspiraciones. Con el enérgico Marte conectándose con el sociable Júpiter, quizás te precipites. Para evitar esto, considera contratar los servicios de un entrenador personal o instructor que pueda guiarte en el proceso de una forma que te permita progresar a un ritmo constante. Por otro lado, podrías tener un pretendiente, pero si no quieres tener su atención necesitarás hacérselo saber.
+Virgo, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo Virgo. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
+Nuevas aventuras se asoman a medida que el el alegre sol empieza a tomar actividad, lo que te anima a salir de tu zona de confort y explorar nuevos terrenos. Esta semana es más apacible que la última, aunque podría haber algunos momentos y oportunidades más intensos para la pasión, en especial a principios de esta semana. El nebuloso Neptuno se vuelve directo a mediados de la semana, y esto puede ayudar a aclarar cuestiones que han quedado atrapadas en la confusión. El fin de semana podría encontrarte aprovechando nuevas oportunidades que disfrutes mucho.
 
 ## Dinero
 
-Puede ser que tus ideas no tengan esa habitual ligereza ahora y podrían incluir algunos conceptos muy serios. La buena noticia es que podrán ser puestos a buen uso muy pronto. Hasta entonces, la preocupación por tu hogar domina tu pensamiento. Puedes darte cuenta de que tiene mucha tentación en gastar en renovaciones o redecorar, especialmente si estás estableciendo una oficina dentro de tu hogar. Sin embargo, no necesitas de mucho.
+Es necesario el llegar a tener mucha más apertura y comunicación en el trabajo. Otros pueden estar contando contigo para obtener información que necesitan para realizar sus diversas funciones, así que asegúrate de no descuidar los e-mails o mensajes. El Universo te da aún más razones para hablar desde el corazón sobre lo que necesitas, tanto en el trabajo como en tu vida personal.

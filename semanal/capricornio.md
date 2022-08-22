@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 15 de agosto 2022 al 21 de agosto 2022 
-description: Horóscopo semanal capricornio 15 de agosto 2022 al 21 de agosto 2022. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+title: capricornio 22 de agosto 2022 al 28 de agosto 2022 
+description: Horóscopo semanal capricornio 22 de agosto 2022 al 28 de agosto 2022. El mundo puede esperar Capricornio, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-08-15
+ogimg: /images/zodiac/semanal_capricornio.png#2022-08-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-15'
+ lastmod: '2022-08-22'
 ---
 
 
 
-## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+## El mundo puede esperar Capricornio, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
-Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
-Aunque pareces estar progresando, puede que parezca que te rodean más retrasos de lo habitual. Puede que solo debas tomártelo con calma y hacer tu mejor esfuerzo. Además, existe una mezcla de energías (lenta y continua, así como ágil y liviana), de modo que podrías encontrarte probando distintas ideas y explorando su potencial antes de decidir dónde enfocarte. Posiblemente sientas dudas acerca de explorar una relación, pero puede que el tiempo cuente otra historia.
+Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección Capricornio, y ahora puedes elegir lo que quieras.
+Suceden cosas emocionantes con respecto a tu profesión. Ya sea que sigas una carrera profesional, tengas tu propio negocio, o busques un nuevo trabajo, tienes grandes cosas por delante. Quien arriesga gana, y esta semana, podrías volverte muy audaz y sin duda puedes ganar. Con Venus entrando en fase retrógrada en este mismo sector, ten cuidado cuando firmes un contrato. De hecho, quizá debas esperar a que Venus se vuelva directo el Sabado.
 
 ## Dinero
 
-Esta semana tienes un nuevo enfoque en tu sector del hogar y las emociones internas. Si has estado pensando en el concepto del hogar y lo que éste significa para ti, es posible que desees echar raíces, tal vez por primera vez en tu vida. Conforme estás tratando de tomar el control de tu vida hogareña, asegúrate de también proyectar tu presupuesto de gastos de manutención durante el resto del año. Lo que quieres tiene la posibilidad de hacerse real si lo planeas con anticipación.
+A pesar de que tu carrera está pasando por un poco de renacimiento ahora, con nuevas oportunidades para tomar las riendas, puede que tus relaciones no sientan todo el apoyo de tu nueva dirección. No es que no estés haciendo un buen trabajo, es que algunos de tus contactos pueden no saber cómo manejar tu nuevo poder. Pues mal por ellos, ¡porque vas para arriba con o sin ellos!

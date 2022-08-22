@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 15 de agosto 2022 al 21 de agosto 2022 
-description: Horóscopo semanal tauro 15 de agosto 2022 al 21 de agosto 2022. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+title: tauro 22 de agosto 2022 al 28 de agosto 2022 
+description: Horóscopo semanal tauro 22 de agosto 2022 al 28 de agosto 2022. Perdona Tauro, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-08-15
+ogimg: /images/zodiac/semanal_tauro.png#2022-08-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-15'
+ lastmod: '2022-08-22'
 ---
 
 
 
-## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
+## Perdona Tauro, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 
-Estás activo Tauro, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
-El sol en tu sector social hace que te sientas con energía y buen ánimo. Sin embargo, la conexión entre el vital Marte y el sobrio Saturno en un intenso sector de tu carta podría traerte frustrantes problemas. Puede que estén relacionados con cuestiones de dinero o, tal vez, con una relación personal. Quizás descubras que, cuanto más tratas de resolver las cuestiones, más difíciles se tornan. 
-Tal vez, relajarte y dejarte llevar tampoco sea sencillo, pero puede hacer que todo sea como debe ser. Los comentarios de tus amistades parecen bastante triviales, pero en verdad están haciendo todo lo posible por ayudarte. Debido a que el encantador Venus se encuentra en un sector recluido de tu carta, el cosmos te anima a tomarte un tiempo para la relajación y reflexión. De hecho, puede que comiences a sentirte más a gusto el fin de semana. Y esto puede hacer una gran diferencia en el desarrollo de los eventos.
+A veces las cosas tienen que ser a tu manera o a ninguna Tauro, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada Tauro. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
+Trata de cuidar tus finanzas durante los próximos días porque podrías gastar de más en el impulso del momento, lo que podría echar por la borda todo el trabajo que hiciste para acomodar tus finanzas. Si necesitas desahogarte, idea un plan divertido que no cueste una fortuna. O bien puedes tomarte unos días llenos de aventura pero que te dejarán con suficiente dinero en tu bolsillo.
 
 ## Dinero
 
-Un sentimiento de expansión y repentina revelación podría darte una idea que simplemente no puedas contener. Ya que hay cierta actividad en tu sector de relaciones serias y matrimonio, las mejores nociones de hacer dinero pueden provenir de estas áreas. Crea una lluvia de ideas con respecto al matrimonio y la familia y puede que formules una idea para un libro, programa de entrenamiento, o un producto de mucho interés. Venderlo no va a ser difícil.
+Estas a punto de cambiar de trabajo o de ascender de nivel. No es exactamente la posición que estás buscando pero el salario no está mal. Dale rienda suelta a tu ambición siempre y cuando la tengas del mango. Puede ser tu comunicación, o la falta de, la cuál pone a otros en tu contra. Trata de mantener todo del lado positivo al tener claridad y ser al ser conciso/a.

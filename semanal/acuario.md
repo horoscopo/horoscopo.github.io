@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 15 de agosto 2022 al 21 de agosto 2022 
-description: Horóscopo semanal acuario 15 de agosto 2022 al 21 de agosto 2022. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: acuario 22 de agosto 2022 al 28 de agosto 2022 
+description: Horóscopo semanal acuario 22 de agosto 2022 al 28 de agosto 2022. Semana intensa Acuario, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-08-15
+ogimg: /images/zodiac/semanal_acuario.png#2022-08-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-15'
+ lastmod: '2022-08-22'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Semana intensa Acuario, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 
-Es muy importante que eches la vista atrás Acuario, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
-Otras personas podrían ser demandantes al comienzo de la semana, de modo que sería útil decir que no a lo que no puedas manejar. Ya tienes suficientes problemas para que otras personas agreguen más. Pero a menos que te mantengas firme, puede que sigan con esta misma actitud. Cuando el expresivo Mercurio se prepara para volverse directo el fin de semana, presta especial atención a la firma de contratos o la compra de artículos de mucho valor. Además, mantente alerta ante el caos que, por lo general, acompaña al cambio de dirección de Mercurio. 
- Podría haber un proyecto que tienes ganas de abordar de lleno. Cuando el animado Júpiter forma una positiva conexión con el ferviente Plutón, es posible que quieras formar un equipo con alguien que comparte tu entusiasmo por este proyecto. Mercurio se vuelve directo el fin de semana, lo que podría encontrarte avanzando en tu carrera y en los asuntos de negocios. Al mismo tiempo, la actividad lunar en este sector podría coincidir con una oportunidad demasiado buena para dejarla pasar.
+Necesitas tener un objetivo en la vida Acuario, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada Acuario, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
+Con el actual enfoque en tu sector de recursos compartidos y negocios, este es un momento ideal para adoptar una actitud creativa hacia el dinero. Si tienes nuevas ideas empresariales, este podría ser un excelente momento para enfocarte en ellas y considerar si quieres hacer algo con ellas. Sin embargo, hay una inquieta energía en tu trabajo durante los próximos días que podría verte queriendo algo más. Es posible que necesites un poco de tiempo para descansar y la oportunidad de hacer lo que quieras por un tiempo.
 
 ## Dinero
 
-Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.
+Tienes un montón de creatividad ahora, así como un deseo de mejorar tu apariencia y prestar más atención a la forma en la que te proyectas al mundo. Hay impulso a que acudas a las relaciones personales y profesionales que te ayudarán a avanzar en tu trabajo y vida monetaria.

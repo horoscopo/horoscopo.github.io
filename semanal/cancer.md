@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 15 de agosto 2022 al 21 de agosto 2022 
-description: Horóscopo semanal cancer 15 de agosto 2022 al 21 de agosto 2022. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+title: cancer 22 de agosto 2022 al 28 de agosto 2022 
+description: Horóscopo semanal cancer 22 de agosto 2022 al 28 de agosto 2022. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-08-15
+ogimg: /images/zodiac/semanal_cancer.png#2022-08-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-15'
+ lastmod: '2022-08-22'
 ---
 
 
 
-## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 
-Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
-Aunque la actividad lunar del martes podría verte fluctuar entre el deseo de relajarte y la necesidad de atender responsabilidades, el resto de la semana debería desarrollarse de una manera bastante agradable. Tal parece que tu enfoque principal está vinculado a asuntos hogareños  y familiares. Podrías encontrarte haciendo un montón de reorganización y planificación, y podrás disfrutar de la oportunidad de mejorar tu calidad de vida como resultado. Por último, la entrada del Sol a Escorpión del viernes pone cuestiones laborales y de salud en primer plano.
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo Cáncer. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que Cáncer estalla, nadie se salva.
+Un deseo dinámico de cambio se viene desarrollando hace tiempo. Esta semana podría alcanzar un punto crítico y puede que debas entrar en acción. Si una oportunidad se cruza en tu camino, no dudes en aprovecharla. Aunque no sientas que es el momento de adoptar un nuevo modo de vida, ¡anímate! Adquirirás experiencia a medida que avanzas. Al mismo tiempo, puede que decidas alejarte de una relación para comprender mejor tus motivos.
 
 ## Dinero
 
-Hay algunos problemas relacionados con deudas y bienes de propiedad con otras personas. Puede que estés actuando bajo una sincronización distinta a la de tus acreedores. La mejor forma de resolverlo es con calma y sin mancha. Puede que tengas una visión maravillosa sobre cómo saldar la deuda con mayor rapidez - ¡toma ventaja de ello! Mientras tanto, el amor ilumina tu vida familiar; el pasar tiempo con tus seres queridos hace que todo valga la pena.
+Estás en el cielo con respecto a tu carrera esta semana. Estás asumiendo una posición más poderosa en el trabajo y disfrutas de los salarios y beneficios que van junto con ella. Tu sector de vidas pasadas y sueños se acentúa. Hay tantas cosas pasando por tu mente inconsciente que puedes hasta sorprenderte de la cantidad de buenas ideas que tienes una vez que éstas alcancen la superficie.
