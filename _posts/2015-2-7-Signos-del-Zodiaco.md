@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de agosto 2022
-description: Horóscopos del dia de hoy 24 de agosto 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de agosto 2022
+description: Horóscopos del dia de hoy 25 de agosto 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-08-24
+ lastmod: 2022-08-25
 ---
-Un cuadratura fija entre Júpiter y Saturno acentúa fuertes voluntades por debajo de suaves modales en los próximos diez días. Sí, puedes ser firme y a la vez agradable. Ciertas cuestiones podrían ser bastante complejas y posiblemente asociadas a celos bajo la Luna en Aries de esta noche. Las barreras podrían tener que ser reparadas mañana después de que la gente diga las cosas como son.
+Inusuales personas o acuerdos - o posiblemente ambos - ocurren el día de hoy cuando la Luna forma trígono con Plutón y la vida adquiere un giro extraño de manera temporal. Esta noche toma los chismes con escepticismo si se tratan de alguien que te importa. Los motivos de cierta persona podrían no ser puros. Es posible que desees analizar por qué.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
