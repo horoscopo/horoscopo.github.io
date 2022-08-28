@@ -1,31 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Acuario Agosto 2022
-description: El Horóscopo Agosto de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Acuario Septiembre 2022
+description: El Horóscopo Septiembre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo Acuario agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo Acuario septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2022-07-28
+ogimg: /images/mes/acuario_mes.png#2022-08-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-07-28'
+ lastmod: '2022-08-28'
 ---
 
 
- > Acuario en agosto vas a apostar por ti y por tu felicidad eligiendo estar al lado de esa persona de la que recibes tanto apoyo incondicional.
-A veces, los rumores pasan factura aunque intentes por todos los medios no ponerles atención. Las tensiones irán mitigándose a medida que vaya transcurriendo el mes y será entonces cuando disfrutes plenamente.
+ > Acuario, parece que en septiembre no va a haber quién te pare y vas a cumplir todo lo que te propones. En el amor por fin pasarás página y te vas a centrar en lo que de verdad importa: tú misma.
 
 
 
-El sextil que Mercurio forma con Venus el 3 de agosto puede transformar un fin de semana largo en unas vacaciones placenteras y llenas de diversión. 
-La cuadratura que Venus forma con Marte el día 8 podría desafiar una relación que ya está mostrando signos de tensión. Venus también entra a Escorpión ese día, y el amor se pone más serio.
-Cuando Venus forma una oposición con Urano el día 4, tal vez quieras aferrarte a lo que ya conoces, y dejar pasar lo excéntrico o fuera de lo común. 
-La luna llena del día 12 te da todo lo que necesitas para cuidar de ti para que te vaya bien en cualquier situación. Puedes hacerlo sin volverte egoísta. No dejes que las dudas de nadie, ni sus diferentes opiniones o perspectivas, te desvíen de tu camino.  
-Exige más momentos de calma durante la luna nueva del 27 de agosto. Escucha más tu propia verdad. Te toca decidir lo que es realmente importante. 
-Días destacados: 8, 12, 17
-Días desafiantes: 6, 20
+La Luna Llena del 10 de septiembre puede dejar tu cabeza y corazón en llamas, con muchas ideas y deseos que son simplemente demasiado difíciles de compartir o explicar. Utiliza la creatividad, pero también mantén la calma, y reflexiona bien sobre qué es lo que más te importa en la vida. Ábrete a las sorpresas. La Luna Nueva del 25 de septiembre que se manifiesta en Leo es complicada. La gente puede esperar que arregles cosas o soluciones problemas que ciertamente no arruinaste ni creaste. Puedes complacer a muchas personas simplemente siendo tú, y dejando que los asuntos se resuelvan solos, porque lo harán. Finalmente, la conjunción entre el Sol y Marte del 26 de septiembre es un gran impulso de energía. 
