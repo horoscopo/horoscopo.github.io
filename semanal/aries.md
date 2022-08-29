@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 22 de agosto 2022 al 28 de agosto 2022 
-description: Horóscopo semanal aries 22 de agosto 2022 al 28 de agosto 2022. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Aries, que no te entre la locura.
+title: aries 29 de agosto 2022 al 04 de septiembre 2022 
+description: Horóscopo semanal aries 29 de agosto 2022 al 04 de septiembre 2022. Toma decisiones YA, AQUÍ y AHORA Aries. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-08-22
+ogimg: /images/zodiac/semanal_aries.png#2022-08-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-22'
+ lastmod: '2022-08-29'
 ---
 
 
 
-## “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Aries, que no te entre la locura.
+## Toma decisiones YA, AQUÍ y AHORA Aries. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 
-Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Aries, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Aries, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
-Puede que tengas cosas que hacer en el trabajo, pero prácticamente ya has decidido relajarte y disfrutar de los placeres de las próximas fiestas. El nuevo enfoque en tu sector de relajación y creatividad sugiere que podrías tener muchas ocupaciones: entretener a los niños, organizar regalos y divertirte. Si no tienes pareja, el romance también está entre los primeros lugares de tu agenda. Saturno ingresa a este sector el 24 de agosto, trasladándose de tu sector hogareño a tu sector de recreación. Esto puede ser un alivio.
+Siempre estás sonriendo Aries, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes Aries pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio Aries, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
+Esta semana, ciertos planes y proyectos implicarán trabajo en equipo, tal vez en relación a un grupo al que perteneces convocándolos, a pesar de que puedas tener tus dudas al respecto. Mucho se puede lograr con un poco de enfoque. La actividad lunar en tu sector hogareño del martes podría ser la razón de que los sentimientos se exaltan entre algunos de los miembros de tu familia. Evita tomar cualquier decisión durante algunos días. Las cosas deberían calmarse para entonces. El Sol en tu sector social a partir del viernes indica una etapa alegre por delante.
 
 ## Dinero
 
-Un aspecto positivo le trae suerte a tu sector de educación, idiomas y espiritualidad. Últimamente has tenido tus ojos puestos en el horizonte, preguntándote cómo hacer que tus productos y servicios le lleguen a una audiencia internacional más amplia. Al considerar las medidas necesarias para ello, no descartes las ideas que parezcan locas. Puede que encuentres apoyo hasta en los lugares más extraños.
+Puede que esta semana tengas dificultades para encontrar tu propia voz creativa en el trabajo. La creatividad y el talento definitivamente están allí. Lo que se necesita es una forma inteligente de exponer tus habilidades. Puesto que esto afecta el área asociada con la deuda y la recaudación de fondos, esto puede significar que primero tienes que pagar algo antes de lanzar un esfuerzo creativo o recaudar más dinero. Mantén el presupuesto factible.

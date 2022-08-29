@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 22 de agosto 2022 al 28 de agosto 2022 
-description: Horóscopo semanal piscis 22 de agosto 2022 al 28 de agosto 2022. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+title: piscis 29 de agosto 2022 al 04 de septiembre 2022 
+description: Horóscopo semanal piscis 29 de agosto 2022 al 04 de septiembre 2022. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Piscis.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-08-22
+ogimg: /images/zodiac/semanal_piscis.png#2022-08-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-22'
+ lastmod: '2022-08-29'
 ---
 
 
 
-## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Piscis.
 
-Empieza a hacerte promesas a ti mismo Piscis, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura Piscis. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
-¿Cuánto te está costando una relación en particular? Puede que lo descubras esta semana. Un potente tránsito que involucra a Neptuno, tu planeta regente, podría poner muy en claro cuánto estás dando y recibiendo a cambio. Si esto no te hace feliz, puede que sea momento de hacer algo al respecto. Pero para resolverlo de la mejor manera posible, asegúrate de que tus motivos realmente estén ayudando a la situación. Por otro lado, podría presentarse una oportunidad demasiado buena como para dejarla pasar.
+Céntrate en tus metas Piscis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+Puede resultar útil que sepas reconocer tus intuiciones en cuanto a finanzas y a cómo puedes aprovechar mejor tu dinero. Como eres una persona naturalmente generosa, puedes excederte un poco con los regalos que das, a menos que te ocupes de establecer un límite. Un aspecto clave esta semana hará que lo tengas en cuenta. Con Venus asentándose en tu hogar y en tu sector familiar, comenzarás a relajarte y a adoptar el espíritu festivo, disfrutando de ordenar tu hogar para recibir visitas.
 
 ## Dinero
 
-Esta semana podría ser tensa para ti. Considera seriamente la posibilidad  de hacerle caso a los mensajes que estás recibiendo de tus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están en lo correcto y dándole al tino. Al mismo tiempo, sigue añadiendo habilidades al asistir a clases, talleres y seminarios. Tienes lo que se necesitas, pero sería bueno el tener un poco más.
+Esta semana es sobre la comunicación y tu sector de empleo. Las cosas son propensas a dejar de romperse, lo que hará más fácil tu trabajo, pero el dinero se ve afectado también. ¿Has tenido demasiada timidez como para pedir lo que vales? Busca una abertura para demostrar el valor que aportas a la empresa. A continuación, solicita una reunión y haz valer tu caso, el éxito sigue.

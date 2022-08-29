@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: cancer 22 de agosto 2022 al 28 de agosto 2022 
-description: Horóscopo semanal cancer 22 de agosto 2022 al 28 de agosto 2022. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
+title: cancer 29 de agosto 2022 al 04 de septiembre 2022 
+description: Horóscopo semanal cancer 29 de agosto 2022 al 04 de septiembre 2022. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-08-22
+ogimg: /images/zodiac/semanal_cancer.png#2022-08-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-22'
+ lastmod: '2022-08-29'
 ---
 
 
 
-## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
+## Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
 
-Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo Cáncer. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que Cáncer estalla, nadie se salva.
-Un deseo dinámico de cambio se viene desarrollando hace tiempo. Esta semana podría alcanzar un punto crítico y puede que debas entrar en acción. Si una oportunidad se cruza en tu camino, no dudes en aprovecharla. Aunque no sientas que es el momento de adoptar un nuevo modo de vida, ¡anímate! Adquirirás experiencia a medida que avanzas. Al mismo tiempo, puede que decidas alejarte de una relación para comprender mejor tus motivos.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+Tienes un montón de oportunidades para aprovechar tu imaginación esta semana, cuando el cielo es el límite. Si puedes visualizar algo, hay una gran posibilidad de que puedas hacer que suceda. Y hacerlo con regularidad hará que sea aún más probable. Disponte a dejar que tu luz brille - este no es momento para ocultar tus talentos. Alguien podría detectar tus habilidades y hacerte una oferta. Por último, tu arduo trabajo en otras áreas también bien podría valerte la pena al traerte una propuesta inesperada.
 
 ## Dinero
 
-Estás en el cielo con respecto a tu carrera esta semana. Estás asumiendo una posición más poderosa en el trabajo y disfrutas de los salarios y beneficios que van junto con ella. Tu sector de vidas pasadas y sueños se acentúa. Hay tantas cosas pasando por tu mente inconsciente que puedes hasta sorprenderte de la cantidad de buenas ideas que tienes una vez que éstas alcancen la superficie.
+El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.

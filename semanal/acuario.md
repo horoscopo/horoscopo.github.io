@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 22 de agosto 2022 al 28 de agosto 2022 
-description: Horóscopo semanal acuario 22 de agosto 2022 al 28 de agosto 2022. Semana intensa Acuario, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+title: acuario 29 de agosto 2022 al 04 de septiembre 2022 
+description: Horóscopo semanal acuario 29 de agosto 2022 al 04 de septiembre 2022. Estás a tope Acuario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-08-22
+ogimg: /images/zodiac/semanal_acuario.png#2022-08-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-22'
+ lastmod: '2022-08-29'
 ---
 
 
 
-## Semana intensa Acuario, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+## Estás a tope Acuario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 
-Necesitas tener un objetivo en la vida Acuario, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada Acuario, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
-Con el actual enfoque en tu sector de recursos compartidos y negocios, este es un momento ideal para adoptar una actitud creativa hacia el dinero. Si tienes nuevas ideas empresariales, este podría ser un excelente momento para enfocarte en ellas y considerar si quieres hacer algo con ellas. Sin embargo, hay una inquieta energía en tu trabajo durante los próximos días que podría verte queriendo algo más. Es posible que necesites un poco de tiempo para descansar y la oportunidad de hacer lo que quieras por un tiempo.
+Mira Acuario, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer Acuario, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
+Concentrarte en tu hogar y familia puede ser el momento para distanciarte de tu vida diaria y disfrutar de los momentos con quienes más amas. Si bien podrías tener grandes planes a la vista, deberías aprovechar esta oportunidad para cuidarte y tratarte bien. Parece que esta es tu oportunidad para relajarte, disfrutar un masaje o un día de spa y tratarte bien en general. Los proyectos que debes finalizar seguirán ahí una vez que hayas podido recargar tu energía.
 
 ## Dinero
 
-Tienes un montón de creatividad ahora, así como un deseo de mejorar tu apariencia y prestar más atención a la forma en la que te proyectas al mundo. Hay impulso a que acudas a las relaciones personales y profesionales que te ayudarán a avanzar en tu trabajo y vida monetaria.
+Estás saliendo con una banda completamente nueva, y esto no puede hacerle daño a tu vida monetaria. Esta gente nueva sabe acerca de la buena comida y el vino, pero también saben cómo traer una cantidad seria de dinero. Estudia sus formas y puedes aprender los trucos que llevan utilizando por años. Al mismo tiempo, crea un plan de ahorros viables y con planes de inversión. Es ahora o nunca.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 22 de agosto 2022 al 28 de agosto 2022 
-description: Horóscopo semanal sagitario 22 de agosto 2022 al 28 de agosto 2022. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: sagitario 29 de agosto 2022 al 04 de septiembre 2022 
+description: Horóscopo semanal sagitario 29 de agosto 2022 al 04 de septiembre 2022. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-08-22
+ogimg: /images/zodiac/semanal_sagitario.png#2022-08-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-22'
+ lastmod: '2022-08-29'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-Tienes que empezar a vivir de nuevo Sagitario, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad Sagitario, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
-Con más eventos de temporada en tu calendario, tendrás nuevas oportunidades para conocer a alguien especial y forjar nuevas conexiones. Una de ellas en particular podría ser muy intensa y dejarte con ganas de más - ¡tal vez mucho más! Cierta amistad podría tratar de involucrarte en sus planes, pero no tienes que estar de acuerdo con todo lo que tal te pida. La capacidad de decir no puede ser muy útil en este momento, aligerando mucho más tu carga durante los próximos días.
+No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Sagitario, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+Tus relaciones parecen estar bajo un importante enfoque en este momento. Sin embargo, tienes que tener mucho cuidado al interactuar con los demás conforme Mercurio se torna retrógrado el jueves. Esta puede ser una oportunidad para conectar con viejos amigos y disfrutar de una reunión, pero también existe la posibilidad de que haya malos entendidos. Sólo sé consciente de esto a medida que avanzas con tu rutina diaria. Además, Venus entrando a Tauro alegra tu vida social considerablemente, con tu vida romántica viéndose muy prometedora.
 
 ## Dinero
 
-Tu mente podría verse llena de ideas, pensamientos y palabras acerca de la libertad y su significado. Pero antes de escribirle a tu jefe esa carta de renuncia, considera las formas en la que puedes esforzarte para añadir belleza y creatividad a tu lugar de trabajo. El hacer sugerencias positivas puede dar resultados sorprendentes y ponerte a cargo de un nuevo y  emocionante proyecto. Esto no sólo puede traer más dinero, sino también mejorar tu confianza.
+Tienes una situación interesante en tus manos esta semana. Se te está pidiendo prestar más atención a cómo te ves, actúas y te proyectar hacia el mundo. Esto es especialmente importante si estás buscando un nuevo trabajo o simplemente quieres cambiar tu imagen en tu empleo actual.
