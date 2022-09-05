@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 29 de agosto 2022 al 04 de septiembre 2022 
-description: Horóscopo semanal capricornio 29 de agosto 2022 al 04 de septiembre 2022. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+title: capricornio 05 de septiembre 2022 al 11 de septiembre 2022 
+description: Horóscopo semanal capricornio 05 de septiembre 2022 al 11 de septiembre 2022. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-08-29
+ogimg: /images/zodiac/semanal_capricornio.png#2022-09-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-29'
+ lastmod: '2022-09-05'
 ---
 
 
 
-## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 
-Fíate de ti mismo Capricornio, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Capricornio y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
-El cambio de enfoque en tu sector de relaciones fomenta el trabajo en equipo y la cooperación. Si sientes deseos de trabajar de manera individual en un proyecto clave, el cosmos sugiere que lo reconsideres. Trabajar con otras personas puede facilitar la tarea y ser además mucho más divertido. La presencia continua de Júpiter en tu zona de comunicación puede brindarte optimismo en cuanto a planes futuros. Pero si surge una discusión sobre un proyecto de negocios, presta especial atención a los posibles costos.
+Deja de esperar al futuro Capricornio, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz Capricornio, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio Capricornio, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir Capricornio, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Capricornio, sin remordimientos.
+Con la entrada de Venus a tu sector espiritual, aprovechas para tomarte un tiempo extra y ayudar a aquellos que realmente lo necesitan. Participar en un evento caritativo o visitar un asilo de ancianos o a personas enfermas puede resultarte gratificante. Aun así, otra parte de ti siente ganas de seguir adelante y este es el momento perfecto para hacerlo. Cualquiera que sea tu plan, no esperes hasta el año próximo para ponerte en marcha. ¡Este es el momento adecuado!
 
 ## Dinero
 
-Ciertos aspectos están alentando tu capacidad de ganar la cantidad de dinero a la que puedes haberte acostumbrado y te piden que seas más responsable acerca de cómo gastas tu dinero en efectivo. Establece límites para que puedas ahorrar para tu jubilación u otros objetivos. Tu sector de creatividad, familia y diversión se ven afectados. Si estás teniendo problemas para encontrar motivación, sólo piensa en cómo lo que hagas ahora, beneficiará a tu familia en el futuro.
+Tienes una energía increíblemente psíquica ahora. Podrías darte cuenta de que podrías hacer algo de dinero a través de la intuición pura. El estar en el lugar correcto en el momento adecuado para obtener información sobre una oportunidad nueva y excitante, el tener cierto latido sobre lo que pasará en la bolsa, o soñar con una nueva idea de negocio; todos califican. Tu creatividad se encuentra a gran altura. Sólo asegúrate de que las deudas que tienes pendientes sean atendidas primero.

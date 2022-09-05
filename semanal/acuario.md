@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 29 de agosto 2022 al 04 de septiembre 2022 
-description: Horóscopo semanal acuario 29 de agosto 2022 al 04 de septiembre 2022. Estás a tope Acuario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: acuario 05 de septiembre 2022 al 11 de septiembre 2022 
+description: Horóscopo semanal acuario 05 de septiembre 2022 al 11 de septiembre 2022. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-08-29
+ogimg: /images/zodiac/semanal_acuario.png#2022-09-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-29'
+ lastmod: '2022-09-05'
 ---
 
 
 
-## Estás a tope Acuario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 
-Mira Acuario, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer Acuario, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
-Concentrarte en tu hogar y familia puede ser el momento para distanciarte de tu vida diaria y disfrutar de los momentos con quienes más amas. Si bien podrías tener grandes planes a la vista, deberías aprovechar esta oportunidad para cuidarte y tratarte bien. Parece que esta es tu oportunidad para relajarte, disfrutar un masaje o un día de spa y tratarte bien en general. Los proyectos que debes finalizar seguirán ahí una vez que hayas podido recargar tu energía.
+Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás Acuario. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta Acuario, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea Acuario, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones Acuario, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas Acuario, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
+Esta puede ser una oportunidad para investigar a profundidad. Si estás pensando en comenzar un negocio o ramificar uno que ya tienes, el trabajo que hagas ahora puede pagar grandes dividendos en el futuro. También podrías formular ideas que podrían ganarte mucho y que ahora podrían estar en condiciones de ser puestas en práctica. En casa, comprometerte a decorar, tener una gran celebración o trabajar en otros proyectos hogareños podría verte dando pasos positivos. Por último, ¡una sorprendente noticia podría llegarte!
 
 ## Dinero
 
-Estás saliendo con una banda completamente nueva, y esto no puede hacerle daño a tu vida monetaria. Esta gente nueva sabe acerca de la buena comida y el vino, pero también saben cómo traer una cantidad seria de dinero. Estudia sus formas y puedes aprender los trucos que llevan utilizando por años. Al mismo tiempo, crea un plan de ahorros viables y con planes de inversión. Es ahora o nunca.
+Es importante que comuniques tus ideas con la mayor claridad posible esta semana. Di las cosas difíciles en las juntas de escuela o de negocios que tengas. Cuanto más puedas hacer esto, más pronto podrás volver a la normalidad. Mientras tanto, tus esperanzas y sueños podrían ser un poco borrosos en cuanto a detalles. Tómate tu tiempo para enfocarte en los objetivos personales y financieros.

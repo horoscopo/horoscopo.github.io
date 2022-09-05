@@ -1,27 +1,30 @@
 ---
 layout: horoscopos
-title: sagitario 29 de agosto 2022 al 04 de septiembre 2022 
-description: Horóscopo semanal sagitario 29 de agosto 2022 al 04 de septiembre 2022. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+title: sagitario 05 de septiembre 2022 al 11 de septiembre 2022 
+description: Horóscopo semanal sagitario 05 de septiembre 2022 al 11 de septiembre 2022. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-08-29
+ogimg: /images/zodiac/semanal_sagitario.png#2022-09-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-29'
+ lastmod: '2022-09-05'
 ---
 
 
 
-## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Sagitario, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-Tus relaciones parecen estar bajo un importante enfoque en este momento. Sin embargo, tienes que tener mucho cuidado al interactuar con los demás conforme Mercurio se torna retrógrado el jueves. Esta puede ser una oportunidad para conectar con viejos amigos y disfrutar de una reunión, pero también existe la posibilidad de que haya malos entendidos. Sólo sé consciente de esto a medida que avanzas con tu rutina diaria. Además, Venus entrando a Tauro alegra tu vida social considerablemente, con tu vida romántica viéndose muy prometedora.
+Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
+ La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa Sagitario? 
+ todo lo que desea.
+Tu sector social todavía está en el foco de atención, pero de manera mucho más tranquila que la semana pasada. Puede que las cosas hayan cambiado gracias al eclipse solar del pasado jueves en este sector. Durante los próximos días podrías tener la chance de reflexionar sobre qué puede ser lo mejor para ti de cara al futuro. Júpiter, tu planeta regente, sigue su viaje a través de tu sector espiritual y puede ponerte más en sintonía con tus sentimientos. Este puede ser un buen momento para hablar sobre cualquier problema y tal vez resolverlo definitivamente. 
+Venus en tu signo se alinea con el expansivo Júpiter en tu sector de habla y pensamiento el fin de semana, por lo que tal vez sientas el impulso de organizar una reunión u otro evento social. Independientemente de lo que hagas, puede ser muy divertido. Y a medida que el sol ingresa en tu sector espiritual el domingo, las próximas cuatro semanas pueden ser el momento para la reflexión y meditación.
 
 ## Dinero
 
-Tienes una situación interesante en tus manos esta semana. Se te está pidiendo prestar más atención a cómo te ves, actúas y te proyectar hacia el mundo. Esto es especialmente importante si estás buscando un nuevo trabajo o simplemente quieres cambiar tu imagen en tu empleo actual.
+Puede que te encuentres en plena acción, llamando a compañías de tarjetas de crédito, pagando saldos y destruyendo viejas tarjetas de crédito. ¡Buen trabajo! Esta misma ráfaga de energía te ayudará a establecer un curso financiero nuevo en este momento de tu vida. Sin embargo, tu lugar de trabajo podría necesitar un cambio. Sin embargo, es demasiado pronto para renunciar, así que trata de verle la mejor cara.

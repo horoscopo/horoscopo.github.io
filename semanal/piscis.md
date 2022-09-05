@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 29 de agosto 2022 al 04 de septiembre 2022 
-description: Horóscopo semanal piscis 29 de agosto 2022 al 04 de septiembre 2022. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Piscis.
+title: piscis 05 de septiembre 2022 al 11 de septiembre 2022 
+description: Horóscopo semanal piscis 05 de septiembre 2022 al 11 de septiembre 2022. Crece Piscis, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-08-29
+ogimg: /images/zodiac/semanal_piscis.png#2022-09-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-08-29'
+ lastmod: '2022-09-05'
 ---
 
 
 
-## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Piscis.
+## Crece Piscis, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 
-Céntrate en tus metas Piscis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-Puede resultar útil que sepas reconocer tus intuiciones en cuanto a finanzas y a cómo puedes aprovechar mejor tu dinero. Como eres una persona naturalmente generosa, puedes excederte un poco con los regalos que das, a menos que te ocupes de establecer un límite. Un aspecto clave esta semana hará que lo tengas en cuenta. Con Venus asentándose en tu hogar y en tu sector familiar, comenzarás a relajarte y a adoptar el espíritu festivo, disfrutando de ordenar tu hogar para recibir visitas.
+Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad Piscis, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
+El actual enfoque en tu sector de ejercicios y salud durante la semana podría dirigir tu atención hacia el gimnasio. De hecho, puede que una persona en la que quizá ya te hayas fijado te corresponda justo a tiempo para un espectacular Fin de Semana. Si ya estás en pareja, los próximos días pueden incluir mucho ejercicio, el cual podría tener lugar en la privacidad de tu alcoba. El tema romántico continúa este fin de semana, lo que trae aun más opciones de diversión.
 
 ## Dinero
 
-Esta semana es sobre la comunicación y tu sector de empleo. Las cosas son propensas a dejar de romperse, lo que hará más fácil tu trabajo, pero el dinero se ve afectado también. ¿Has tenido demasiada timidez como para pedir lo que vales? Busca una abertura para demostrar el valor que aportas a la empresa. A continuación, solicita una reunión y haz valer tu caso, el éxito sigue.
+Puede que tenga que haber algunos gastos relacionados con tu hogar esta semana. Podrías necesitar hacer algunos ajustes a tu presupuesto a medida que descubres que las reparaciones cuestan más o que alguien ha hecho una oferta más alta en una propiedad de inversión que la que tú hiciste. En lugar de abrumarte o enojarte, recuerda que un aspecto armonioso te ayudará a pagar las deudas existentes, aclarar cualquier cabo suelto en tu vida financiera y a sentirte más a gusto.
