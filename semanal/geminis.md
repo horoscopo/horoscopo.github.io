@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 05 de septiembre 2022 al 11 de septiembre 2022 
-description: Horóscopo semanal geminis 05 de septiembre 2022 al 11 de septiembre 2022. Deja que duela Géminis, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+title: geminis 12 de septiembre 2022 al 18 de septiembre 2022 
+description: Horóscopo semanal geminis 12 de septiembre 2022 al 18 de septiembre 2022. No te mereces poco Géminis… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-09-05
+ogimg: /images/zodiac/semanal_geminis.png#2022-09-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-05'
+ lastmod: '2022-09-12'
 ---
 
 
 
-## Deja que duela Géminis, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+## No te mereces poco Géminis… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 
-La meta es dura Géminis, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay Géminis que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normalmente, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Géminis. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Géminis… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
-Aunque la Luna Llena en tu signo de esta semana podría ser la mejor del año para ti, tendrás que considerar tus prioridades antes de tomar cualquier decisión. La elección entre avanzar con planes profesionales o metas personales altamente significativas es una decisión importante que podría impactar tu futuro. No te apresures. En vez, tómate el tiempo necesario para considerar todas tus opciones. El fin de semana se vislumbra fascinante, aunque puede que llegues a comunicar más sentimientos de lo que te gustaría.
+La zona de confort es un sitio bonito Géminis, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más Géminis, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida Géminis. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto Géminis, y tú mismo te lo notas, no la cagues por nada ni por nadie.
+Tus relaciones podrían ser muy gratificantes esta semana, sobre todo con la actividad lunar en tu sector de conexiones y compañerismo poniendo nuevas posibilidades en tu camino. Este es sin duda un buen momento para negociar en lugar de tratar de forzar el ritmo o cambiar una situación para satisfacer tus necesidades. Ganarte la cooperación de los demás podría significar que puedes lograr mucho más de lo que podrías a solas. Si tienes amistades influyentes, pueden que tengan disposición a ayudarte.
 
 ## Dinero
 
-Tienes el beneficio de la duda esta semana gracias a las influencias en tu área de política y los grupos. Un sueño que has mantenido cerca de tu corazón tiene oportunidad de desarrollarse conforme tus redes sociales te conectan a las personas a las que necesitas conocer. Puede que tengas que prestar más atención a tu sector de la diversión, el romance y los niños. Lleva esta alegre energía hacia tu trabajo.
+Es una semana extraña. Algunos planetas quieren que pienses en cómo hacer tu hogar más cómodo y acogedor, mientras que otros quieren que pases más tiempo desarrollando tu carrera profesional. El tira y afloja puede crear caos en tu vida social a corto plazo, pero con un poco de énfasis en el equilibrio, puedes hacer que funcione. El secreto está en estudiar la forma en la que tus amigos lo hacen. Con gracia, y con una sonrisa.

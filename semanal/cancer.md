@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 05 de septiembre 2022 al 11 de septiembre 2022 
-description: Horóscopo semanal cancer 05 de septiembre 2022 al 11 de septiembre 2022. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Cáncer, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+title: cancer 12 de septiembre 2022 al 18 de septiembre 2022 
+description: Horóscopo semanal cancer 12 de septiembre 2022 al 18 de septiembre 2022. No es que estés cambiando Cáncer, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-09-05
+ogimg: /images/zodiac/semanal_cancer.png#2022-09-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-05'
+ lastmod: '2022-09-12'
 ---
 
 
 
-## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Cáncer, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+## No es que estés cambiando Cáncer, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 
-Tienes que plantarte Cáncer, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana Cáncer.
-La luna llena del sábado en tu sector de recreación y romance puede ser una oportunidad para relajarte y disfrutar mucho. Durante los últimos meses, debido al enfoque a largo plazo en tu sector de trabajo y servicio, es posible que hayas estado bajo mucha presión. Esta luna llena puede ser la válvula de escape que te permita relajarte. Si puedes planificar una emocionante actividad, mucho mejor. Utiliza todas tus armas y haz que valga la pena. 
-El conversador Mercurio se une al sol en Géminis en tu sector social el martes. Esto agrega una chispa adicional a todo tipo de eventos y reuniones sociales.
-Los aspectos más silenciosos del fin de semana podrían encontrarte disfrutando de pasar tiempo en casa. Tal vez te resulte muy satisfactorio mirar una inspiradora película o leer una buena novela. En este momento, te agradará quedarte en casa y hacer lo que te gusta.
+Eres demasiado honesto con el resto Cáncer y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Cáncer, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Cáncer, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+El Lunes podría ser un día especialmente afortunado para ti, especialmente si has estado trabajando duro y esperas ver tus esfuerzos recompensados. Mantente alerta - este es el momento en el que las oportunidades pueden aparecer de la nada. Incluso así, haz tiempo el Martes para leer importantes documentos con el fin de evitar errores. La presencia de Marte en Cáncer despertará ciertos asuntos hogareños y familiares, motivándote a hacer avanzar proyectos que pudieran haberse estancado a lo largo del camino.
 
 ## Dinero
 
-Le estás dando nueva vida a algo por lo que perdiste interés hace mucho tiempo, gran parte de tu energía se está moviendo en esta dirección. De hecho, puedes hasta disfrutar de un golpe de suerte que lo haga suceder esta vez y de verdad. Asegúrate de que tu flujo de efectivo se mantenga estable al gastarlo proporcionalmente. Podrías estar viendo tu situación financiera a través de lentes de color de rosa.
+Estás buscando la manera de correr la voz acerca de tus maravillosos productos y servicios, pero la publicidad es demasiado cara. Las redes sociales pueden ayudar. El Universo le ofrece soluciones creativas a la cuestión expuesta y te da todo lo que necesitas para darte a conocer al mundo. A partir de ahí, es un corto viaje a la riqueza.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 05 de septiembre 2022 al 11 de septiembre 2022 
-description: Horóscopo semanal capricornio 05 de septiembre 2022 al 11 de septiembre 2022. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+title: capricornio 12 de septiembre 2022 al 18 de septiembre 2022 
+description: Horóscopo semanal capricornio 12 de septiembre 2022 al 18 de septiembre 2022. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-09-05
+ogimg: /images/zodiac/semanal_capricornio.png#2022-09-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-05'
+ lastmod: '2022-09-12'
 ---
 
 
 
-## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 
-Deja de esperar al futuro Capricornio, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz Capricornio, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio Capricornio, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir Capricornio, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Capricornio, sin remordimientos.
-Con la entrada de Venus a tu sector espiritual, aprovechas para tomarte un tiempo extra y ayudar a aquellos que realmente lo necesitan. Participar en un evento caritativo o visitar un asilo de ancianos o a personas enfermas puede resultarte gratificante. Aun así, otra parte de ti siente ganas de seguir adelante y este es el momento perfecto para hacerlo. Cualquiera que sea tu plan, no esperes hasta el año próximo para ponerte en marcha. ¡Este es el momento adecuado!
+Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Capricornio, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real Capricornio, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Capricornio. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría Capricornio, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
+El nivel de interacción podría volverse más frecuente e intenso en los días y las semanas que vienen. Con el intenso Marte también entrando a tu sector de relaciones, puede que quieras tomar una actitud proactiva e intentar solucionar los problemas que ya deberían haberse resuelto hace tiempo. Puede que estos asuntos se vuelvan más intensos durante el fin de semana, así que ten cuidado. Evita decir o hacer algo de lo que puedas arrepentirte más adelante. Si tienes dudas, déjalo para otro momento, cuando sientas más seguridad.
 
 ## Dinero
 
-Tienes una energía increíblemente psíquica ahora. Podrías darte cuenta de que podrías hacer algo de dinero a través de la intuición pura. El estar en el lugar correcto en el momento adecuado para obtener información sobre una oportunidad nueva y excitante, el tener cierto latido sobre lo que pasará en la bolsa, o soñar con una nueva idea de negocio; todos califican. Tu creatividad se encuentra a gran altura. Sólo asegúrate de que las deudas que tienes pendientes sean atendidas primero.
+Ciertos aspectos podrían hacer que dijeras algo erróneo o que alguien te diga algo erróneo a ti. Cuidado con el impulso de explicar tus acciones demasiado o a estar a la defensiva. Puedes llegar a tener un repentino destello de comprensión acerca de cómo llevar tus ideas a un público más global. Muévete de acuerdo a los dictados de tu corazón, ya que tienen la mejor sabiduría en esta situación.

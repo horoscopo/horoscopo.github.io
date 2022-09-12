@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 05 de septiembre 2022 al 11 de septiembre 2022 
-description: Horóscopo semanal virgo 05 de septiembre 2022 al 11 de septiembre 2022. No más paciencia Virgo. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: virgo 12 de septiembre 2022 al 18 de septiembre 2022 
+description: Horóscopo semanal virgo 12 de septiembre 2022 al 18 de septiembre 2022. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-09-05
+ogimg: /images/zodiac/semanal_virgo.png#2022-09-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-05'
+ lastmod: '2022-09-12'
 ---
 
 
 
-## No más paciencia Virgo. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-No más paciencia Virgo. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres Virgo, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana Virgo.
-A medida que Venus entra a tu sector de valores y autoestima, considera darte un gusto de la manera que más te parezca. Quizá te sientas en todo tu esplendor con nueva ropa o un nuevo corte de pelo. Lo que sea que hagas por ti puede ayudarte a tener más confianza, especialmente cuando sientes el cansancio generado por todo el arduo trabajo que has hecho. Y si sientes que los demás no agradecen todo lo que das, es tiempo de que te enfoques en ti.
+Esta semana va a estar cargada de altibajos Virgo, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre Virgo, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza Virgo, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite Virgo, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
+Puede que tu agenda esté muy llena, y más que nada de trabajo. Sin embargo, con el fuerte enfoque de ahora en tu sector de hogar y familia, puede que te sientas mejor si logras equilibrar un poco las cosas. ¿Necesitas encargarte de todas esas responsabilidades ahora mismo? Si algunas pueden esperar, anótalas en tu agenda para la semana que viene o para otro momento. La oportunidad de estar con las personas que más quieres y aprovechar un poco de tranquilidad es fundamental para tu felicidad esta semana.
 
 ## Dinero
 
-Puede que tu progreso financiero haya disminuido, pero las cosas están definitivamente mejorando. Se te pide que investigues tus gastos en cuestiones relacionadas con la familia, los niños, romance y diversión. Puede que te des cuenta de que había más de los que pensabas. El recortar algunos de estos -aunque sea un poco- podría significar más diversión a largo plazo, junto con menos preocupación. Te mereces un futuro libre de estrés.
+Esta semana tu sector de labor te trae todo tipo de elogios en el trabajo. Los de arriba están notando tu trabajo y quieren verte tener éxito. Se te alienta a hablar de tus metas personales y de tu visión para la empresa en conjunto. Tus esfuerzos son muy apreciados. Van a ser recompensados económicamente y con más beneficios.

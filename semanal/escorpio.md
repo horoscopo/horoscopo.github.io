@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 05 de septiembre 2022 al 11 de septiembre 2022 
-description: Horóscopo semanal escorpio 05 de septiembre 2022 al 11 de septiembre 2022. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Escorpio, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+title: escorpio 12 de septiembre 2022 al 18 de septiembre 2022 
+description: Horóscopo semanal escorpio 12 de septiembre 2022 al 18 de septiembre 2022. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-09-05
+ogimg: /images/zodiac/semanal_escorpio.png#2022-09-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-05'
+ lastmod: '2022-09-12'
 ---
 
 
 
-## Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Escorpio, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 
-Te estás dando cuenta de quien sí y quien no Escorpio. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo Escorpio pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope Escorpio, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente Escorpio, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Escorpio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
-Con el actual enfoque en tu sector de estilo de vida, podrías sentir motivación a ajustar tu rutina de salud. Venus entra a este sector el martes, por lo que puede que tengas que empujarte a hacer ejercicio todos los días o apegarte a una dieta. Lo que realmente necesitas es confianza y tener fe en ti, incluso si tal ha sido sacudida últimamente. Júpiter está ahora avanzando, por lo que poco a poco te percatarás de que sientes más seguridad y tienes más capacidad para lidiar con los problemas y asumir retos.
+Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. Escorpio, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota Escorpio, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando Escorpio. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce Escorpio, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+Con la alineación entre el Sol y Júpiter, el inicio de la semana podría coincidir con una buena noticia o una oferta que no puedas rechazar. ¡Y es seguro que hay más por venir! Mientras más trabajes para el establecimiento de tus metas y lograrlas, más grande será tu recompensa. Marte entra a tu signo esta semana también, lo que podría llevarte a la acción con respecto a planes personales que fueron puestos en pausa. Además, la actividad lunar del viernes puede ser útil para poner en marcha un importante proyecto.
 
 ## Dinero
 
-Tu vida financiera está activa esta semana. Se te está pidiendo que cambies tu forma de ver el dinero en tu vida. Esto podría abrir un nuevo canal para manifestar nuevas fuentes de ingresos si mantienes tus ojos bien abiertos. Utiliza tus puntos fuertes para trabajar en pagar tu deuda. Tienes todo lo necesario para disminuir considerablemente esas facturas. Sólo destina de tus ingresos lo más que puedas y ve los números disminuir exorbitantemente.
+Es importante que ésta semana comuniques tus ideas y necesidades lo más claramente posible. Notifica las cosas difíciles en reuniones con mentores y profesores. Mientras más pronto lo hagas, más pronto regresarás a la normalidad. Mientras tanto tus sueños pueden ser un poco borrosos. Tomate el tiempo necesario para enfocarte en tus metas personales y financieras.
