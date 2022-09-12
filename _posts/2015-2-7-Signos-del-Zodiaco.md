@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de septiembre 2022
-description: Horóscopos del dia de hoy 11 de septiembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de septiembre 2022
+description: Horóscopos del dia de hoy 12 de septiembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-09-11
+ lastmod: 2022-09-12
 ---
-Mantén tu paz mental en la cara del caos mientras la Luna en Piscis cuadre a Marte el día de hoy. Ten en cuenta que las respuestas pueden ser tanto muy emocionales, como visibles. Esta noche, no le digas a alguien que le amas, o incluso que te gusta, a menos que realmente sea cierto. Las emociones de la gente siguen siendo volátiles.
+¡Quieres algo y lo vas a obtener! Hoy, porque estás buscando oportunidades en el lugar adecuado, las vas a encontrar. Tu verdadera misión es hacer el esfuerzo. Muestra lo que puedes hacer para lograr que algo funcione. Esta noche, la gente juega a lo seguro bajo la Luna en el conservador Tauro. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
