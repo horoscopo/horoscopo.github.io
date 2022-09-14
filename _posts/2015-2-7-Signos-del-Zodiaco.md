@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de septiembre 2022
-description: Horóscopos del dia de hoy 13 de septiembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de septiembre 2022
+description: Horóscopos del dia de hoy 14 de septiembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-09-13
+ lastmod: 2022-09-14
 ---
-El desconcierto y los mensajes contradictorios prevalecen. El peligro de saltar a conclusiones sugiere que la sabiduría consiste en reservarnos nuestros juicios por ahora debido a que ambos, Mercurio y Marte, están a punto de cambiar de signo. Esta noche, los solteros deben prestar atención. Bajo la Luna en Capricornio, la incompatibilidad se hace obvia desde el principio. Para las parejas, cada uno quiere sentirse necesitado, lo cual es un poco agradable.
+El día de hoy puede ser un caleidoscopio de emociones que sirve como herramienta para hacerle frente a la cuadratura entre la Luna y Plutón. El resultado es un complejo patrón que hay que ordenar cuando los pajares son enormes y las agujas son muy, muy pequeñas. Tal energía continúa a lo largo de una noche que debería ser pasada en casa en un ambiente tranquilo y sereno.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
