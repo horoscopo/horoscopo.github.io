@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de septiembre 2022
-description: Horóscopos del dia de hoy 15 de septiembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de septiembre 2022
+description: Horóscopos del dia de hoy 16 de septiembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-09-15
+ lastmod: 2022-09-16
 ---
-Marte aspectando a Saturno el día de hoy te da deseos de salir a hacer cosas. Por su parte, Saturno está listo para defender cierta posición. Y juntos: La mejor defensa es tener una buena ofensa. La noche está llena de sorpresas cuando la Luna aspecta a Urano. Dale la bienvenida el sentimiento. Anticipa que alguien se robe tu corazón.
+Pocos hacen lo que los demás esperan bajo la Luna Llena en Acuario de hoy. La vida trae consigo rareza y sorpresa. En una nota positiva, Venus regresa a Leo, pudiendo darle a alguien una excusa para volver. Sin embargo, no podrán reanudar la relación donde la dejaron - ya que ambos cambiaron durante el intermedio.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
