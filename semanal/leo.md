@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: leo 12 de septiembre 2022 al 18 de septiembre 2022 
-description: Horóscopo semanal leo 12 de septiembre 2022 al 18 de septiembre 2022. Tienes que empezar a dejar que el resto luche por tu Leo, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+title: leo 19 de septiembre 2022 al 25 de septiembre 2022 
+description: Horóscopo semanal leo 19 de septiembre 2022 al 25 de septiembre 2022. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-09-12
+ogimg: /images/zodiac/semanal_leo.png#2022-09-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-12'
+ lastmod: '2022-09-19'
 ---
 
 
 
-## Tienes que empezar a dejar que el resto luche por tu Leo, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 
-Tienes que esforzarte Leo, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Leo, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Leo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Leo, sin remordimiento de ningún tipo, y espera a que el resto te busque…
-Tal vez sientas que llegó el momento de aceptar el lado más serio del año, lo cual podría significar dedicarle tiempo y energía a cumplir tus objetivos. Sin embargo, a medida que Venus, el planeta que rige tus relaciones, entra a un sector más práctico de tu carta astral, te convendría sumar otras personas a tu plan. Convence a tus amistades de que se unan a un gimnasio y compartan la alegría de estar en forma. Busca los lugares de comida más saludables o las mejores clases de yoga y disfruta de recibir este apoyo.
+Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
+Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
+La actividad te invita a empezar a trabajar en ideas y proyectos que tienen un significado personal para ti. Es una oportunidad para expresar tu individualidad y obtener apoyo para los planes que no puedas manejar a solas. Además, colaborar con buenos amigos puede ser divertido, especialmente si están en la misma frecuencia que tú. Si recibes una intuitiva corazonada para invitar a salir a alguien o llamarle a un amigo el fin de semana, presta atención, ¡podría convenirte!
 
 ## Dinero
 
-Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.
+Puede que tengas la tentación de contar tu historia en más de una forma. Podrías percatarte de que tu escritorio está lleno de intentos de otras personas en busca de trabajo, buscando contribuciones para sus asociaciones, o que sólo quieren ponerse al día. Pero también estás de un humor soñador, y fácilmente podrías pensar en una estupenda idea para la próxima gran novela. Tu creatividad está zumbando a toda máquina.

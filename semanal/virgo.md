@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 12 de septiembre 2022 al 18 de septiembre 2022 
-description: Horóscopo semanal virgo 12 de septiembre 2022 al 18 de septiembre 2022. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+title: virgo 19 de septiembre 2022 al 25 de septiembre 2022 
+description: Horóscopo semanal virgo 19 de septiembre 2022 al 25 de septiembre 2022. Esta semana relájate un poco Virgo, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-09-12
+ogimg: /images/zodiac/semanal_virgo.png#2022-09-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-12'
+ lastmod: '2022-09-19'
 ---
 
 
 
-## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
+## Esta semana relájate un poco Virgo, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 
-Esta semana va a estar cargada de altibajos Virgo, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre Virgo, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza Virgo, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite Virgo, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
-Puede que tu agenda esté muy llena, y más que nada de trabajo. Sin embargo, con el fuerte enfoque de ahora en tu sector de hogar y familia, puede que te sientas mejor si logras equilibrar un poco las cosas. ¿Necesitas encargarte de todas esas responsabilidades ahora mismo? Si algunas pueden esperar, anótalas en tu agenda para la semana que viene o para otro momento. La oportunidad de estar con las personas que más quieres y aprovechar un poco de tranquilidad es fundamental para tu felicidad esta semana.
+Se avecinan cosas nuevas Virgo, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar Virgo, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin Virgo, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
+Tu vitalidad es fuerte con el activo Marte moviéndose a través de tu signo. Puede que sientas más valentía y tengas ganas de defender lo que crees. Pero también querrás buscar y conectar con viejas y nuevas amistades. Mercurio en tu sector financiero podría encontrarte ordenando tus cosas un poco y poniéndote al día con facturas y otras cuestiones financieras. Sin embargo, si descubres una oferta para tu hogar, es posible que no puedas resistirte a ella.
 
 ## Dinero
 
-Esta semana tu sector de labor te trae todo tipo de elogios en el trabajo. Los de arriba están notando tu trabajo y quieren verte tener éxito. Se te alienta a hablar de tus metas personales y de tu visión para la empresa en conjunto. Tus esfuerzos son muy apreciados. Van a ser recompensados económicamente y con más beneficios.
+Esta semana hay un énfasis en la mente, el pensar y el expresar ideas. Podrías sentir la tentación de gastar en clases o talleres esta semana, sobre todo si te llevan a pasar más tiempo fuera de tus pensamientos y en búsqueda interna o externa. Sólo asegúrate de que es algo que tiene la capacidad de responder a las grandes preguntas de la vida.

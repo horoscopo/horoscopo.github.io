@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 12 de septiembre 2022 al 18 de septiembre 2022 
-description: Horóscopo semanal escorpio 12 de septiembre 2022 al 18 de septiembre 2022. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+title: escorpio 19 de septiembre 2022 al 25 de septiembre 2022 
+description: Horóscopo semanal escorpio 19 de septiembre 2022 al 25 de septiembre 2022. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-09-12
+ogimg: /images/zodiac/semanal_escorpio.png#2022-09-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-12'
+ lastmod: '2022-09-19'
 ---
 
 
 
-## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
+## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 
-Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. Escorpio, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota Escorpio, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando Escorpio. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce Escorpio, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
-Con la alineación entre el Sol y Júpiter, el inicio de la semana podría coincidir con una buena noticia o una oferta que no puedas rechazar. ¡Y es seguro que hay más por venir! Mientras más trabajes para el establecimiento de tus metas y lograrlas, más grande será tu recompensa. Marte entra a tu signo esta semana también, lo que podría llevarte a la acción con respecto a planes personales que fueron puestos en pausa. Además, la actividad lunar del viernes puede ser útil para poner en marcha un importante proyecto.
+Crees que puedes con todo Escorpio. 
+ Es tan complicado…
+La presencia del sol en tu sector de relaciones te anima a desconectarte y tomarte un tiempo para ti. Y cuando el encantador Venus se dirige hacia el expansivo Júpiter el lunes, esto podría tomar la forma de un masaje, otra sesión de cuidados u otro especial premio. 
+Ten en cuenta que el animado Marte se vuelve retrógrado en un sector recluido de tu carta el martes y permanece así hasta el Viernes. Esto podría animarte a abordar aquellas áreas en las que sientes que no puedes avanzar y darte la oportunidad de liberar las cuestiones. Pedir ayuda a un consejero de vida podría ser una manera de resolver esto. La meditación u otra práctica espiritual también podrían ayudarte. El jueves, el animado Mercurio ingresa a Leo y a tu sector de bienestar, lo que podría inspirarte a organizarte más para aumentar tu productividad. Por último, una interesante noticia podría llamar tu atención el fin de semana.
 
 ## Dinero
 
-Es importante que ésta semana comuniques tus ideas y necesidades lo más claramente posible. Notifica las cosas difíciles en reuniones con mentores y profesores. Mientras más pronto lo hagas, más pronto regresarás a la normalidad. Mientras tanto tus sueños pueden ser un poco borrosos. Tomate el tiempo necesario para enfocarte en tus metas personales y financieras.
+Tal vez tengas que revisar una y otra vez tu grado de comunicación. Algunas ideas pueden ser el punto de inicio para nuevos proyectos, pero habría la posibilidad de que el mensaje se quede a medias. El utilizar tu energía creativa para aprender otro idioma (el cuál posiblemente te serviría en el trabajo) o mejorar tu educación, podría hacer la diferencia.
