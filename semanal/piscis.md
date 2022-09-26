@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 19 de septiembre 2022 al 25 de septiembre 2022 
-description: Horóscopo semanal piscis 19 de septiembre 2022 al 25 de septiembre 2022. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+title: piscis 26 de septiembre 2022 al 02 de octubre 2022 
+description: Horóscopo semanal piscis 26 de septiembre 2022 al 02 de octubre 2022. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-09-19
+ogimg: /images/zodiac/semanal_piscis.png#2022-09-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-19'
+ lastmod: '2022-09-26'
 ---
 
 
 
-## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 
-Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
- por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
-Puedes ser la persona más carismática entre todos los presentes, la persona con la que todos quieren estar. Con Marte en tu signo, lo cual te brinda el factor de atracción, eres difícil de resistir. Y con la energía de esta semana, puedes ser el alma de todas las fiestas a las que asistas. Sin embargo, quizá debas resolver ciertas creencias incompatibles para que puedas aprovechar una oportunidad que puede ser muy buena para ti, pero solo si sientes la seguridad necesaria para intentar ponerla en acción.
+Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar.
+Aunque la semana podría parecer predecible al comienzo, es posible que no sea así. De hecho, sería de gran ayuda que despejes tu agenda para dar lugar a lo inesperado. También debes cuidar tus finanzas, particularmente cuando se trata de recursos compartidos. La actividad Lunar indica que deberías ir despacio si pides un préstamo o una hipoteca. Por el lado positivo, este Eclipse podría motivarte para que pagues una deuda y resuelvas ciertos asuntos a tu favor.
 
 ## Dinero
 
-Esta semana los aspectos ponen más atención en tu sector de relaciones. Puede ser que tu mente esté en la persona con quien estás saliendo (o con quien quieres salir) en lugar de tu trabajo o vida monetaria. Podrías estar examinando cómo ese alguien tan especial puede ayudarte a ganar más, ahorrar más y planificar un mejor futuro financiero. El agregar más a tu educación a través de clases y talleres podría hacerte una triple amenaza en el trabajo.
+No siempre se te conoce por tu sutileza, y esta semana no es diferente. Tus habilidades comunicativas y estilo personal pueden ser poco convencionales, por lo que bájale un poco al tono si estás tratando de dar una buena primera impresión. Estás pensando en cómo hacer que tu carrera sea un poco más independiente y menos centrada en la oficina. Muéstreles que pueden confiar en ti y que eres capaz de hacerlo bien.

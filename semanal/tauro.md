@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 19 de septiembre 2022 al 25 de septiembre 2022 
-description: Horóscopo semanal tauro 19 de septiembre 2022 al 25 de septiembre 2022. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+title: tauro 26 de septiembre 2022 al 02 de octubre 2022 
+description: Horóscopo semanal tauro 26 de septiembre 2022 al 02 de octubre 2022. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Tauro y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-09-19
+ogimg: /images/zodiac/semanal_tauro.png#2022-09-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-19'
+ lastmod: '2022-09-26'
 ---
 
 
 
-## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+## Por muy desconfiado y duro que parezcas ser, al final acabas confiando Tauro y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 
-Vives tanto con tantísima intensidad que a veces te olvidas de la realidad, de lo que aún tienes pendiente, de lo que necesitas conseguir y sobretodo de lo que necesitas cerrar y zanjar. Y es que Tauro, cuando las cosas empiezan a ir un poquito mejor se te olvida todo lo malo por lo que has pasado, por lo que te han hecho pasar. Y estás bien, porque así es como vives el presente, el minuto, el momento, pero a la vez si después viene otra golpe, vuelve a doler. Lo que pasa es que ya no duele igual, ya duele menos, porque te insensibilizas, y eso en realidad no es del todo bueno. Es como si lo esperaras, como si ya supieras que después de una discusión vendrá una reconciliación, con todo, con la gente que está a tu alrededor, con tu vida. Y todo se repite, una y otra vez, y no sales de ese círculo, y lo que antes te rompía el corazón ya no te rompe, porque sabes lo que vendrá después, y así todo el tiempo. Y eso se llama conformismo Tauro. ¿Hace cuanto no te paras a pensar solo si realmente eres feliz con lo que tienes? En la vida puedes estar contento con muchas cosas que no van mal a tu alrededor, pero también tienes que saber cuáles son las que van mal para cambiarlas. Porque aunque no lo creas, una manzana podrida en el cesto puede pudrir las demás si no se saca a tiempo. Y es que, tienes que hacer una limpia en tu vida, no puedes pensar que “bueno, en la vida hay cosas buenas y cosas malas”, claro que es así, pero ahí estás tu para poder cambiar las malas. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Tauro.
-Con Mercurio ahora retrógrado en tu sector de relaciones, tendrás la oportunidad perfecta para resolver cualquier insignificante problema o desacuerdo que tengas con otros. Si ciertos tratos o situaciones necesitan ajustes o es necesario hacer compromisos, esta es tu oportunidad de lanzarte a hacerlo. Si bien la actividad lunar del viernes puede ser el momento perfecto para llevar una relación al siguiente nivel, no te apresures a nada. Mantén esa intención en lo más alto de tu mente y ve cómo te sientes dentro de unas semanas.
+Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Tauro, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
+Puede que tengas ganas de descansar un poco y tomarte tiempo para mimarte. Con el actual enfoque en tu sector hogareño, te haría bien leer un libro, comer comida saludable y tener buenas horas de sueño. Tómalo como tu retiro personal en el cual puedes tratarte bien y pasar tiempo con los que más quieres. Aunque todavía debes interactuar con el mundo a tu alrededor, no dejes de encargarte de tus propias necesidades para restaurar tu vitalidad.
 
 ## Dinero
 
-Es un buen momento para ti, queriendo más que nada iniciar una nueva cuenta de ahorro y plan de inversiones para asegurar tu futuro. Pero hay tentaciones por todas partes debido a cierta actividad en tu sector de viajes, educación y espiritualidad. La necesidad de viajar y aprender tiene mucho poder sobre ti, y el dinero constantemente se sale de ese agujero en tu bolsillo. Trata de resistirte a la tentación de derrochar. Siempre se puede aprender de los acontecimientos de la vida.
+Es posible que esta semana no desees otra cosa que pensar en cómo pagar la deuda, ahorrar para la jubilación y construir un plan financiero viable. Pero un aspecto en específico exige que pases algún tiempo asumiendo la responsabilidad de creaciones estrategias importantes. Trabaja ahora, para construir lo que se necesita en el futuro. Mientras tanto, otros aspectos iluminan tu sector profesional. Aprovecha el efectivo mientras puedas.

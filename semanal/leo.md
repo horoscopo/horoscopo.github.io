@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: leo 19 de septiembre 2022 al 25 de septiembre 2022 
-description: Horóscopo semanal leo 19 de septiembre 2022 al 25 de septiembre 2022. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+title: leo 26 de septiembre 2022 al 02 de octubre 2022 
+description: Horóscopo semanal leo 26 de septiembre 2022 al 02 de octubre 2022. Retírate del mundo artificial Leo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-09-19
+ogimg: /images/zodiac/semanal_leo.png#2022-09-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-19'
+ lastmod: '2022-09-26'
 ---
 
 
 
-## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+## Retírate del mundo artificial Leo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 
-Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
-Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
-La actividad te invita a empezar a trabajar en ideas y proyectos que tienen un significado personal para ti. Es una oportunidad para expresar tu individualidad y obtener apoyo para los planes que no puedas manejar a solas. Además, colaborar con buenos amigos puede ser divertido, especialmente si están en la misma frecuencia que tú. Si recibes una intuitiva corazonada para invitar a salir a alguien o llamarle a un amigo el fin de semana, presta atención, ¡podría convenirte!
+Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti Leo.
+Es posible que una ambición profesional se haga realidad si logras conectar con la persona adecuada. Esta semana te brinda la oportunidad de hacer precisamente eso, pudiendo crear una fascinante conversación entre ustedes. Si pueden satisfacer sus necesidades mutuas con un acuerdo, ambos estarán satisfechos. También tienes la opción de mejorar espiritualmente al deliberadamente dejar de lado sentimientos que te impiden seguir avanzando. Además, tus sueños también podrían ser intensos y guiarte positivamente.
 
 ## Dinero
 
-Puede que tengas la tentación de contar tu historia en más de una forma. Podrías percatarte de que tu escritorio está lleno de intentos de otras personas en busca de trabajo, buscando contribuciones para sus asociaciones, o que sólo quieren ponerse al día. Pero también estás de un humor soñador, y fácilmente podrías pensar en una estupenda idea para la próxima gran novela. Tu creatividad está zumbando a toda máquina.
+Tus aspectos afectan el dinero y la deuda de otras personas. Esto señala la necesidad de comunicarse con aquellos a quienes les debes dinero y asegurarte de que los dos estén de acuerdo sobre lo que se pagará y cuándo. Hay un poco de tranquilidad en las inversiones compartidas. Esto podría ser capaz de ayudarte a salir de los atascos financieros que surjan desprevenidamente. Ten la seguridad de que serás atendido/a.
