@@ -1,21 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Piscis Septiembre 2022 
+title: Horoscopo Piscis Octubre 2022 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2022-08-28
+ogimg: /images/mes/Piscis_mes.png#2022-09-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-08-28'
+ lastmod: '2022-09-28'
 ---
 
 
-septiembrede 2022 - El mes de septiembre trae a tu vida mejores relaciones y vínculos en general.
-El 7 de septiembre comienza el mes de la Cabra de fuego yin. Este mes, percibes un sentido más fuerte de comunidad y recibes ayuda de las personas que te rodean. Piscis, puede que te reencuentres con amistades que hace mucho tiempo no ves. Te reúnes con tu viejo grupo de amistades y comienzan a hacer nuevas actividades juntos. Y casi de inmediato sientes un mayor equilibrio y fuerza. Sientes que realmente floreces cuando conectas con otras personas.
-La luna llena hace su aparición el día 10, y tu sector de relación se enciende y resplandece. Piscis, puede que sientas la tentación de comenzar una relación íntima. Hace mucho tiempo que no recibías esta cantidad de atención. Puede que hasta haya muestras públicas de afecto y esta cierta persona se acerque a ti y murmure tu nombre al oído.
-La luna nueva hace su aparición el 25 de septiembre. Piscis, una oportunidad financiera está a punto de llegar a tu vida. Este puede ser un tipo de inversión que nunca antes has hecho. Tómate un par de semanas para estudiar esta oportunidad en profundidad antes de avanzar. Dicho esto, puede que te convenga ir probando terreno ahora para hacer una inversión más grande en el futuro.
+Intenta no analizar demasiado tus movimientos este mes, Piscis, o podrías terminar perjudicando tus metas. A medida que el sol continúa su viaje a través de Libra, es natural que quieras sopesar tus opciones, pero intentar ver tu situación desde todos los ángulos posiblemente sea contraproducente. Estas vibras también podrían hacer que infieras algo a partir de las acciones de otras personas, así que asegúrate de pedir aclaraciones sobre cualquier problema que te esté molestando antes de sacar conclusiones apresuradas sobre su significado.
+La luna llena ocurre el 9 de octubre, lo que te anima a hacer un balance de tu salud y organización personal. Desafortunadamente, una difícil conexión con el soñador Neptuno podría provocar una especie de negación, en especial si has estado huyendo de la realidad de tus decisiones. No tengas miedo de mirar tus defectos con amor, de apreciar quién eres y lo lejos que has llegado al mismo tiempo que comprendes que se deben hacer ciertos cambios si quieres alcanzar tu máximo potencial. Ahora será más fácil terminar con los malos hábitos, pero solo si eres realista sobre lo que son.
+Empezarás a sentirte mejor el 24 cuando el sol ingresa a Escorpio. Estas vibras son perfectas para aprovechar tu gratitud, aunque también querrás mantener tus ojos apuntando hacia el futuro. La luna nueva del 25 de octubre será especialmente sagrada para ti, vine junto a un Eclipse solar, así que asegúrate de encender una vela en privado y pedir un deseo especial.
+Días destacados: 2, 6, 8
+Días desafiantes: 1, 11, 30

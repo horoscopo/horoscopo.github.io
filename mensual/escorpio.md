@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Escorpio Septiembre 2022
-description: El Horóscopo Septiembre de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Escorpio Octubre 2022
+description: El Horóscopo Octubre de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo Escorpio septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo Escorpio octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2022-08-28
+ogimg: /images/mes/escorpio_mes.png#2022-09-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-08-28'
+ lastmod: '2022-09-28'
 ---
 
 
- > Escorpio, aprovecha la energía que te brindarán a tu favor los astros y olvídate de los malos rollos. Cuídate de los pensamientos negativos y evita a esas personas que sabes que no te aportan, no entrando en discusiones sin sentido. A mitad del mes de septiembre verás como todo eso que te quita el sueño, desparecerá y volverás a sonreír.
+ > Escorpio, vas a tener que confiar mucho en ti durante octubre, pues tendrás que tomar decisiones realmente importantes que te afectarán en tu día a día. Deberás manejar la pasión con cautela, ya que en exceso puede que te traiga problemas, pero lo mejor es que crecerás como persona.
 
 
 
-Salud y felicidad se encuentran en el centro de atención durante la luna llena del 10 de septiembre. Disfruta de cuidarte. También puedes tener una amistad o mascota que necesita un poco más de mimos. ¡Entrega todo tu cariño! El día 13, la conjunción entre Venus y Júpiter te demuestra lo mucho que las personas te quieren y valoran. Durante la luna nueva del 25 de septiembre, tu vida privada y panorama interior pueden ser mucho más interesantes y agradables que cualquier cosa en el mundo exterior. Deléitate con pensamientos profundos, lee un libro interesante, explora tu lado filosófico, y conversa con tu alma gemela; real o aún no manifiesta. 
+Tu vida social está animada cuando la luna llena aparece el 9 de octubre, pero puede que sientas más ganas de observar desde las gradas que de participar. Disfruta de ser menos visible y deja que tus amistades presuman un rato. Verlos debería de ser divertido. Durante la luna nueva del día 25, explora tu creatividad para comprar y envolver regalos. Tu cabeza puede entusiasmarse con un millón de regalos espléndidos y personalizados que serían fáciles de hacer, pero cada vez hay menos tiempo. El 24 de octubre, el sol ingresa a Escorpio y forma una conjunción con Saturno. Sé la persona adulta en la habitación, toma decisiones inteligentes, y hazte respetar. 

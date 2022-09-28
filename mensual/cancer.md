@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: Horoscopo Cáncer Septiembre 2022
-description: El Horóscopo Septiembre de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Cáncer Octubre 2022
+description: El Horóscopo Octubre de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo Cáncer septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo Cáncer octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/cancer_mes.png#2022-08-28
+ogimg: /images/mes/cancer_mes.png#2022-09-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-08-28'
+ lastmod: '2022-09-28'
 ---
 
 
- > Cáncer durante el mes de septiembre nada te detendrá ni alejará del camino que has ido construyendo que te llevará directa al cumplimiento de tus objetivos. De sobra sabes que la valentía y la constancia son las mejores armas para triunfar, pero deberás tener cuidado con las envidias que te rodean y protegerte con algún talismán.
+ > Cáncer, dicen que tras la tormenta llega la calma, y eso es lo que te va a pasar durante un octubre que puede culminar en el momento que conozcas a una persona muy especial. Querrás encontrarte contigo misma y eso te vendrá bien de cara a coger el timón de tu vida.
 
 
 
-Septiembre comienza con a toda marcha, querido Cáncer, lo que trae una importante dosis de pasión a tu vida romántica mientras el sol transita por tu séptima casa solar. Si estás en una relación estable y la vibra se ha enfriado desde la primera vez que se conocieron, ahora sería el momento de aumentar la pasión una vez más. Probar nuevas cosas con tu pareja puede hacer maravillas por su vínculo, ya que puede ayudar a que redescubran lo que les gusta del otro y reavivar la pasión mutua.
-Si no estás en pareja, este clima cósmico es absolutamente perfecto para ponerte a ti al principio de la lista, así que asegúrate de amarte y cuidarte mucho. Sin embargo, si esperas encontrar una conexión, definitivamente hay una posibilidad celestial de que conozcas a alguien nuevo, aunque deberás tomar riesgos.
-Venus, tu planeta regente, entra al piadoso Piscis el 5 de septiembre y te pide que sueltes un poco las riendas de tu vida diaria. Si ha habido presiones del trabajo que se convirtieron en una pesada carga para ti, puede que necesites tomarte unos días libres y quizás disfrutar de un masaje. Si sientes que tus niveles de estrés aumentan, este clima cósmico te permite liberar y lidiar con estos sentimientos más fácilmente, pero deberás darte permiso para soltar.
-El día 19 del mes sentirás un cambio cuando el sol entra a Tauro y al sector de tu carta astral que rige la transformación personal. Usa esta posición solar para construir de manera constante la versión de ti que aspiras alcanzar, pero no esperes cambiar de la noche a la mañana. Estas vibras te incitan a moverte a un ritmo más lento.
-Días destacados: 16, 27, 30
-Días desafiantes: 13, 15, 19
+Durante este mes, mientras el sol transita por Libra, la energía de tu hogar debería sentirse más liviana. Utiliza este período astrológico para ejercitar la creatividad en tu diseño de interiores, en especial si ya es hora de un cambio de imagen doméstico. Solo asegúrate de no acumular demasiadas cosas nuevas o podrías terminar con un desorden en vez de conveniencia.
+Cuando el sol se une a tu planeta regente el 5 de octubre, tómate algo de tiempo para ti. Tu estrés desaparecerá si te das la oportunidad para relajarte. No te sientas culpable por darle prioridad a tus necesidades, estimable Cangrejo, aún si sientes la tentación de cuidar de otras personas (lo cual es probable). Esta alineación planetaria también trae un toque de suerte para ti, por lo tanto, enciende una vela y pídele al universo un deseo en silencio.
+Obtendrás los beneficios de un saludable incremento en tu ego mientras la temporada de Escorpio comienza el día 24 del mes y el universo pone algo de su respaldo detrás de tus talentos. Este no es el momento de ocultarte en las sombras ya que casi todas las personas se verán atraídas por tu aura. Usa estas vibras para impulsar tus objetivos artísticos, incluso si solo se trata de elegir un nuevo pasatiempo. No importa cuáles son tus planes en este momento, tu voz y tus talentos naturales pueden ayudarte a que llegues a la cima.
+El mes termina el 31 de octubre pero antes nos regala una luna nueva el día 25 junto a un Eclipse solar, lo que hace que sea el momento perfecto para que trabajes un poco en lograr tu evolución personal. Este evento lunar te recuerda que debes sentir aprecio por ti y por lo lejos que has llegado sin perder de vista tus metas y lo que debes hacer para alcanzarlas. Planifica lo que te gustaría lograr durante los próximos seis meses, pero no te plantees expectativas poco razonables.
+Días destacados: 5, 20, 22
+Días desafiantes: 14, 23, 24

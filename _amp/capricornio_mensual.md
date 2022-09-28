@@ -1,18 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Septiembre 2022 
+title: Horoscopo Capricornio Octubre 2022 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2022-08-28
+ogimg: /images/mes/Capricornio_mes.png#2022-09-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-08-28'
+ lastmod: '2022-09-28'
 ---
 
 
-Organízate mentalmente y formula grandes y audaces planes durante la Luna Llena del 10 de septiembre. ¿Qué es lo que realmente quieres hacer y hacia donde realmente quieres ir? No lo hagas ahora, pero haz planes que te hagan llegar ahí pronto. El grande y amplio mundo y millones de personas podrían estar gritando por tu atención bajo la Luna Nueva del 25 de septiembre. Puede que sea halagador, pero no hay razón para reaccionar de forma exagerada. Evita dejarte arrastrar a la histeria de otra persona y así perderte de un golpe de suerte que esté hecho especialmente para ti. El fin de semana del 24 de septiembre será suertudo y encantador. Relájate y disfruta.
+La vida expande tus límites (en el trabajo, con tu salud, y en tus rutinas) con eventos impredecibles. Podría sacudir el orden natural de las cosas, pero esto está despejando el camino para una nueva vida o una nueva forma de ser. 
+Deja ir lo que no está funcionando, y cualquier apego a las rutinas que ya no te sirven. Esta es una oportunidad para sanar algo desde la raíz en lugar de taparlo. Pregúntate qué es lo que te da una sensación de seguridad. ¿Se trata de dinero, tu familia, tu trabajo, o el lugar donde vives? Libérate de las ideas falsas de la infancia sobre cómo se supone que la vida debería verse. Atrévete a imaginar la mejor vida posible para ti. 
+La mente prevalece sobre el cuerpo. Más allá de tus miedos, las cosas se están estabilizando. Hay una solución creativa y llena de amor para cada dilema que enfrentas. Usa tu ingenio. Piensa en positivo sin esconder bajo la alfombra cualquier cosa que necesita tu atención. Cuando el sol entra a Escorpio, sentirás que es momento de salir de tu zona de confort y crear una vida que realmente merezca ser vivida. Sigue tu pasión todos los días. 
+Días destacados: 21, 26, 28
+Días desafiantes: 6, 13, 15

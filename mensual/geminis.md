@@ -1,29 +1,26 @@
 ---
 layout: horoscopos
-title: Horoscopo Géminis Septiembre 2022
-description: El Horóscopo Septiembre de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Géminis Octubre 2022
+description: El Horóscopo Octubre de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo Géminis septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo Géminis octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2022-08-28
+ogimg: /images/mes/geminis_mes.png#2022-09-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-08-28'
+ lastmod: '2022-09-28'
 ---
 
 
- > Géminis, septiembre será para ti un mes de los que te gusta vivir y deseas que no se acabe. Estás preparando tu estado físico para que llegue a punto en verano y, además, vivirás en una especie de nube amorosa, como si te encontraras en la adolescencia.
+ > Géminis, con octubre volverá la sonrisa a tu cara y es que parece que las cosas empiezan a ir por su cauce y si a esto le sumamos que tú emocionalmente estarás muy activa, se puede decir que te espera un mes plagado de felicidad y humor.
 
 
 
-Júpiter se torna directo el 10 de septiembre, después de haber estado retrógrado desde el 8 de septiembre. Generosidad y entusiasmo están en aumento. Mantenlos en un nivel razonable. Podrías volverte popular alrededor de la luna llena del día 10. Una buena acción o acto de bondad al azar podría traerte una gran cantidad de buena voluntad y respeto. 
-
-Ten cuidado con un choque de perspectivas o puntos de vista alrededor de la luna nueva del 25 de septiembre. No hay necesidad de pelear, pero podría haber varias ocasiones en que la gente no está en la misma página. Deja que las cosas se solucionen por su cuenta, o quizás dales un suave empujoncito. 
-
-Días destacados: 5, 20, 22
-Días desafiantes: 1, 9
+El mes de octubre te transmite un nuevo sentido de confianza y seguridad.\Géminis, puede que las llamas del amor comiencen a arder cuando conectas con una persona muy tierna y gentil que presta atención a cada una de tus palabras. Ya sea su primera cita o la cita número cien, cuando están juntos, se siente como un poema de amor. Durante las próximas cuatro semanas, el amor te rodea. Si estás en busca del amor, las probabilidades están a tu favor.
+La luna llena hace su aparición el día 9 y puede que una relación se vuelva íntima. Si estás en una relación, puede que busques transformar esta relación en una conexión mucho más personal. Y si ya estás en una relación comprometida, puede que ambos sientan ganas de juguetear un poco y probar cosas nuevas. Puede que hasta creen una experiencia sensorial con cubos de hielo y deliciosas fresas. Esto puede ser muy divertido, Géminis.
+La luna nueva hace su aparición el 25 de octubre, y con esto aparece también una nueva fuente de ingreso. Géminis, es posible que consigas un nuevo trabajo o que tu negocio paralelo comience a dar frutos. También es muy posible que una amistad tenga una idea para un negocio y tú tengas el conocimiento que necesita para pasar de la idea a la acción. Este puede ser el comienzo de una maravillosa sociedad comercial.
