@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 26 de septiembre 2022 al 02 de octubre 2022 
-description: Horóscopo semanal geminis 26 de septiembre 2022 al 02 de octubre 2022. Géminis, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+title: geminis 03 de octubre 2022 al 09 de octubre 2022 
+description: Horóscopo semanal geminis 03 de octubre 2022 al 09 de octubre 2022. La vida es un ciclo Géminis, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-09-26
+ogimg: /images/zodiac/semanal_geminis.png#2022-10-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-26'
+ lastmod: '2022-10-03'
 ---
 
 
 
-## Géminis, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+## La vida es un ciclo Géminis, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 
-No sueles dar la llave de tu corazón a nadie Géminis, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia Géminis, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana Géminis.
-La actividad lunar en los primeros días de la semana podría impulsarte a que disfrutes momentos con familia y amistades y a que empieces a pensar en tus planes para el futuro. Trata de no tener la agenda completa el 28 de septiembre. La reciente luna nueva en Cáncer te sugiere que aproveches al máximo esta oportunidad para divertirte y relajarte. Sin embargo, otros aspectos esta semana podrían alertarte sobre nuevas posibilidades. Con el fogoso Marte alineándose con el expansivo Júpiter en tu sector de recursos compartidos, una idea comercial podría dar buenos resultados, por lo que vale la pena investigar de qué se trata.
+Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
+Es posible que te enfoques en viajes y aventuras esta semana y las próximas, y llegando a fin de mes, es posible que sientas que puedes comenzar a planear tu viaje. La nostalgia de cierto lugar podría darte ganas de volver y vivir la cultura local una vez más. En el plano social, las cosas se están desarrollando debido a que Marte te lleva a tener una actitud más proactiva en esta área. Quizá implique moverte hacia distintos círculos, unirte a grupos y buscar personas que pueden refrescar tu ánimo.
 
 ## Dinero
 
-Esta semana tienes una base sólida para construir sobre tu existente riqueza. Quieres hacer cosas poco convencionales con tu dinero, pero es mejor ser un poco más conservador/a debido a las proyecciones de ahora. Sin embargo, es un buen momento para la investigación de aspectos más salvajes relacionados con la inversión.
+Eres como una pantalla en la que otros pueden proyectar sus esperanzas, temores, logros y mucho más. Esto te permite el tener muchas caras. Así que si quieres un mejor trabajo o una mejor posición en la cadena alimenticia, actúa como si ya estuvieras en esa posición. Los aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y a ahorrar para el futuro.

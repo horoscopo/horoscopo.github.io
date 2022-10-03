@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 26 de septiembre 2022 al 02 de octubre 2022 
-description: Horóscopo semanal sagitario 26 de septiembre 2022 al 02 de octubre 2022. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+title: sagitario 03 de octubre 2022 al 09 de octubre 2022 
+description: Horóscopo semanal sagitario 03 de octubre 2022 al 09 de octubre 2022. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-09-26
+ogimg: /images/zodiac/semanal_sagitario.png#2022-10-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-26'
+ lastmod: '2022-10-03'
 ---
 
 
 
-## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 
-Tu cabeza quiere un cambio Sagitario, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira Sagitario, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero Sagitario por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
-Amables y amorosas influencias hacen de esta una semana alegre caracterizada por el buen humor y la camaradería en general. Aun así, ocuparás tu tiempo con tareas administrativas, reuniones y otras responsabilidades. Las cosas se aceleran considerablemente el Jueves con Mercurio tornándose directo, significando que ahora puedes empezar cualquier proyecto que había caído en el olvido. Por último, tus finanzas compartidas son puestas de nuevo bajo enfoque con Saturno regresando a Escorpión. Manejar tu dinero con cuidado puede ayudarte a ahorrar un poco para el futuro.
+Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
+ No lo has pasado del todo bien pero empiezas a renacer Sagitario. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
+Tanto las cuestiones empresariales como románticas pueden florecer esta semana. Cuando de dinero se trata, puede que tengas ansias de obtener la mejor oferta posible y mostrar bastante agresividad para obtenerla. Lo mismo puede decirse de una nueva historia de amor o romance, cuando un toque de obsesión podría llevarte a decir o hacer más de lo que tenías planeado. Sin embargo, la influencia de Libra sugiere que, aunque te sientas muy emocional al respecto, podrías tener mucha disposición a mantener la situación tranquila.
 
 ## Dinero
 
-¡Vas con todo esta semana! Esto proporciona una gran explosión de energía destinada a mejorar tu publicidad para atraer a nuevos compradores o esfuerzos de ganar dinero, como iniciar un nuevo negocio. Si estás buscando una nueva posición, primero pregunta sobre el salario para que no te decepciones después de haber hecho la entrevista. Un aspecto inarmónico podría significar que la familia y el romance se ponen en segundo plano durante un tiempo.
+Tienes una buena dosis de apoyo del Universo conforme tratas de ganar más dinero y creas más estructura en tu vida. Los aspectos afectando tu sector de dinero y valores hacen de este un buen momento no sólo para ganar más dinero a través de mayores oportunidades, sino también para investigar la manera de invertir en el futuro. Empieza a actuar con cautela, luego, ramifícate conforme empiezas a sentir más comodidad.

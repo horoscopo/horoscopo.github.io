@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 26 de septiembre 2022 al 02 de octubre 2022 
-description: Horóscopo semanal libra 26 de septiembre 2022 al 02 de octubre 2022. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Libra, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: libra 03 de octubre 2022 al 09 de octubre 2022 
+description: Horóscopo semanal libra 03 de octubre 2022 al 09 de octubre 2022. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2022-09-26
+ogimg: /images/zodiac/semanal_libra.png#2022-10-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-26'
+ lastmod: '2022-10-03'
 ---
 
 
 
-## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Libra, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-Tu mente lo está analizando absolutamente todo Libra, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez Libra… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas Libra, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana Libra, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
-Con tu sector de ocio y placer bajo enfoque, el cosmos te invita a relajarte y disfrutar de la vida. Esta invitación es importante, teniendo en cuenta la alineación astral actual, la que sugiere que ciertamente te vendría bien un descanso. Si has estado fuera del mundo de las citas por un tiempo, tal vez sea hora de darte otra oportunidad si es que te parece una buena idea. Además, retomar un pasatiempo o disfrutar de actividades culturales podrían hacer que tus jugos creativos fluyan una vez más; algo que realmente podrías disfrutar.
+Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Libra. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder Libra pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias Libra, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
+Si no has salido de vacaciones este año, o si te apetece tomar otro descanso, este es un excelente momento para hacer planes de viaje. Podrías tener mucha emoción y anticipación en tu deseo de visitar países que nunca has visto o en tomar una ruta más aventurera hacia cierto destino. Posibilidades románticas también podrían revelársete cuando salgas de tu zona de confort. Tu vida social se vuelve más viva desde el viernes, animándote a ponerte en contacto con amigos y salir a socializar.
 
 ## Dinero
 
-Cierta actividad en tu sector de dinero recibido corresponde a un tiempo de golpes de suerte en tal sector. Los sueños y flashes psíquicos te pueden dar todo tipo de mensajes acerca de cómo ganar más dinero. No los descartes, ya que contienen la sabiduría que requieres. Es fundamental ser realista y no idealista en cuanto a tu dinero.
+Es posible que tu imaginación se desate a su más alto nivel. Tantas ideas fluyen de tu cabeza que lo mejor es tener lápiz y papel a la mano para guardarlas todas. Incluso la más pequeña, al parecer, se puede convertir en un producto o servicio que genere efectivo. Tienes la posibilidad de poder consolidar estas ideas en proyectos concretos en el trabajo. ¡Bienvenido el efectivo!

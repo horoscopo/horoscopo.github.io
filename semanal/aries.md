@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: aries 26 de septiembre 2022 al 02 de octubre 2022 
-description: Horóscopo semanal aries 26 de septiembre 2022 al 02 de octubre 2022. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Aries. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+title: aries 03 de octubre 2022 al 09 de octubre 2022 
+description: Horóscopo semanal aries 03 de octubre 2022 al 09 de octubre 2022. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-09-26
+ogimg: /images/zodiac/semanal_aries.png#2022-10-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-26'
+ lastmod: '2022-10-03'
 ---
 
 
 
-## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Aries. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-Tienes grandes planes Aries, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes Aries, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el Aries de siempre…
-Colaborar con otra persona en un proyecto creativo y emocionante podría robarse una gran cantidad de tu tiempo y atención esta semana. Parece ser algo que podría valer la pena. Tómate tu tiempo con esto, ya que podría entrar en conflicto con otros planes profesionales u otras responsabilidades. En otra nota, intensos sentimientos por alguien podrían ser correspondidos, muy a tu placer. Si se trata de un nuevo romance, éste podría elevarse a un nuevo nivel de pasión. Sólo asegúrate de que realmente es lo que quieres antes de involucrarte demasiado.
+Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea Aries. 
+ Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
+Una cascada de cordialidad hace de la semana por delante una delicia. Lograrás buen progreso si logras apartarte de enredos familiares y errores profesionales al dejar que se solucionen por sí solos. A mitad de semana, un encuentro en un evento social podría coincidir con una oportunidad que es demasiado buena para dejarla pasar. También descubrirás lo mucho que tienes en común con ciertas personas, lo que podría dar lugar a colaboración dentro de un plan. Este es buen momento para sanar cualquier malentendido y restablecer la paz.
 
 ## Dinero
 
-Esta semana se trata de aspectos que afectan tus áreas de romance, niños, familia y diversión. Mientras que puedes tener la tentación de no ir al trabajo para darte una corta escapada, ¡tratar de resistirte! Es mejor aplicar tu energía a resolver un problema que es común en tu área. Ganar más dinero va a ser fácil cuando lo hagas.
+Eres especialmente activo/a cuando se trata de redefinir cómo deseas ser percibido/a por los demás. Esto puede resultar en la posibilidad de modificar tu forma de vestir, hablar o hacerle frente a los demás. Estás transformando la manera en la que otros te ven y en última instancia, te tratan, especialmente en el trabajo. Te están lloviendo tantas ofertas que es posible que tengas tiempo para considerar todas tus opciones. Prepárate para convertirte en la autoridad que estás destinado/a a ser.

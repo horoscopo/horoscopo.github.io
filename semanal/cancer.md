@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 26 de septiembre 2022 al 02 de octubre 2022 
-description: Horóscopo semanal cancer 26 de septiembre 2022 al 02 de octubre 2022. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+title: cancer 03 de octubre 2022 al 09 de octubre 2022 
+description: Horóscopo semanal cancer 03 de octubre 2022 al 09 de octubre 2022. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-09-26
+ogimg: /images/zodiac/semanal_cancer.png#2022-10-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-26'
+ lastmod: '2022-10-03'
 ---
 
 
 
-## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 
-Sólo tú puedes salvar tu vida Cáncer. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú Cáncer. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
-Una animada influencia puede indicar una alegre etapa en el plano doméstico, donde las celebraciones y reuniones pueden ser muy divertidas. Podrías sentir deseos de darte algunos gustos y cuidarte un poco, lo que puede ser muy bueno para ti. Trata de evitar involucrarte en conflictos sin importancia, ya que no conseguirás nada con ellos. Con respecto a tu carrera y ambiciones clave, una oportunidad inesperada podría abrirle la puerta a una nueva visión desconcertante que podría resultar beneficiosa si la aceptas.
+Por fin vas a finalizar ciclos Cáncer, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse Cáncer, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres Cáncer joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien Cáncer. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana Cáncer, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
+Con Marte continuando su viaje a través de tu sector de viajes y aventura, tu deseo de nuevas experiencias está muy vivo. Puede que sientas inquietud debido a que no has hecho planes de viaje. Es posible que también tengas más seriedad acerca de tus metas y planes y tengas más ansias de llevarlos a la realidad con Saturno entrando de nuevo a tu signo. Es más probable que te lances a un viaje si es que tiene un propósito distinto a solo diversión. Finalmente, una vieja amistad podría reaparecer en la escena.
 
 ## Dinero
 
-Puede parecer que tu situación monetaria va hacia atrás en lugar de ir hacia adelante. Pareciera que algunas influencias te están restringiendo pero puede que sea solo una ilusión. Eleva tu nivel de madurez y responsabilidad,  esto podría finalmente determinar de una vez por todas, el significado del dinero en tu vida. ¿Sientes comodidad con tu situación actual, o crees necesitar más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.
+Esta semana es acerca de romance, niños y diversión; así como viajes, educación y espiritualidad. Cualquiera de estas áreas puede ser explotada por obtener un trabajo extra o construir un negocio completamente nuevo ahora. Tú tienes la capacidad de hacer que suceda. Con un poco de arduo trabajo y verdadero enfoque, puedes empezar a ganar más dinero en el futuro.

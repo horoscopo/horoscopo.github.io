@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 26 de septiembre 2022 al 02 de octubre 2022 
-description: Horóscopo semanal acuario 26 de septiembre 2022 al 02 de octubre 2022. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Acuario, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+title: acuario 03 de octubre 2022 al 09 de octubre 2022 
+description: Horóscopo semanal acuario 03 de octubre 2022 al 09 de octubre 2022. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-09-26
+ogimg: /images/zodiac/semanal_acuario.png#2022-10-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-09-26'
+ lastmod: '2022-10-03'
 ---
 
 
 
-## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Acuario, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 
-A veces te confundes Acuario, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso Acuario. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. Acuario, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo Acuario, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
-La conexión de esta semana entre el social Venus y el intenso Plutón sugiere que una relación podría pasar a un nuevo nivel, donde los sentimientos se intensifican. Puede que tengas ganas de apresurar las cosas, pero tal vez esta no sea la mejor opción. De hecho, la actividad lunar en tu signo el Jueves sugiere que podrías actuar impulsivamente, lo que posiblemente no sea bueno para ti. Sin embargo, una encantadora alineación el viernes puede ser mucho más propicia para la diversión, ya sea con una persona especial o en compañía de tus amistades.
+Se avecinan cambios Acuario, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Acuario, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Acuario. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Acuario.
+Una relación podría dar un nuevo giro, en particular si te entusiasma que avance a un nuevo nivel de intimidad. Una dinámica influencia podría llevarte a que te comprometas a ser mejor acompañante para un ser amado, asociación de negocios o colaborador. Pero también es igual de posible que quieras desconectarte de alguien y seguir tu propio camino. Si tu instinto te dice que una relación ha expirado su curso natural, entonces quizás sea sabio escucharlo.
 
 ## Dinero
 
-Podrías estar considerando la forma de lograr realizar viejas esperanzas y sueños. Las amistades, los contactos sociales, las maniobras políticas y los grupos te ayudan a estar un paso adelante y establecerte como experto en tu campo. A medida que expandes tu influencia en estos reinos, haz todo lo posible para preservar las inversiones y propiedades compartidas. Si es necesario, gasta para mantenerlas o mejorarlas hasta que las puedas vender directamente.
+Los aspectos de esta semana podrían lanzar una llave inglesa hacia tus planes de dinero. Pon orden en tu propiedad compartida y las inversiones que tengas. La firma, el sellado y la entrega de estos materiales al lugar donde tienen que estar dejan espacio para crear una estrategia en otros lugares. Al mismo tiempo, considera la posibilidad de poner tu dinero en instituciones que sabes que son confiables. Confiar en las nuevas puede ser atractivo, pero no es la decisión correcta para este momento de tu vida.
