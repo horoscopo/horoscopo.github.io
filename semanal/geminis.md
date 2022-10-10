@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 03 de octubre 2022 al 09 de octubre 2022 
-description: Horóscopo semanal geminis 03 de octubre 2022 al 09 de octubre 2022. La vida es un ciclo Géminis, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
+title: geminis 10 de octubre 2022 al 16 de octubre 2022 
+description: Horóscopo semanal geminis 10 de octubre 2022 al 16 de octubre 2022. Sumisión contigo van a encontrar poca ahora Géminis… Muy poca.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-10-03
+ogimg: /images/zodiac/semanal_geminis.png#2022-10-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-03'
+ lastmod: '2022-10-10'
 ---
 
 
 
-## La vida es un ciclo Géminis, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
+## Sumisión contigo van a encontrar poca ahora Géminis… Muy poca.
 
-Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
-Es posible que te enfoques en viajes y aventuras esta semana y las próximas, y llegando a fin de mes, es posible que sientas que puedes comenzar a planear tu viaje. La nostalgia de cierto lugar podría darte ganas de volver y vivir la cultura local una vez más. En el plano social, las cosas se están desarrollando debido a que Marte te lleva a tener una actitud más proactiva en esta área. Quizá implique moverte hacia distintos círculos, unirte a grupos y buscar personas que pueden refrescar tu ánimo.
+A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
+ nada es para siempre, ni siquiera los problemas ni las preocupaciones…
+Alguien podría ofrecerte un trato que parece perfecto, y lo será. Pero con Mercurio retrógrado, lo inteligente sería verificar los términos y las condiciones antes de fir Aun así, pueden producirse cambios en las próximas semanas que te obliguen a volver a negociar algunos aspectos, de modo que es útil anticiparse a esto. La entrada de Venus a tu sector de finanzas personales podría encontrarte con deseos de gastar en algunos lujos. Ve con tranquilidad, en caso de que recibas facturas inesperadas.
 
 ## Dinero
 
-Eres como una pantalla en la que otros pueden proyectar sus esperanzas, temores, logros y mucho más. Esto te permite el tener muchas caras. Así que si quieres un mejor trabajo o una mejor posición en la cadena alimenticia, actúa como si ya estuvieras en esa posición. Los aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y a ahorrar para el futuro.
+Ahora es más fácil que te llegue dinero y que también lo ahorres o gastes de la misma manera. Te estás dando cuenta de lo mucho que tu trabajo realmente vale la pena y eres lo suficientemente valiente como para cargar con consecuencia. El Universo destaca tu hogar y emociones internas. ¿Cómo puedes liberarte de tus viejos patrones en cuanto a dinero para poder saldar tu deuda?

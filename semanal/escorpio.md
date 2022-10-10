@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 03 de octubre 2022 al 09 de octubre 2022 
-description: Horóscopo semanal escorpio 03 de octubre 2022 al 09 de octubre 2022. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+title: escorpio 10 de octubre 2022 al 16 de octubre 2022 
+description: Horóscopo semanal escorpio 10 de octubre 2022 al 16 de octubre 2022. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-10-03
+ogimg: /images/zodiac/semanal_escorpio.png#2022-10-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-03'
+ lastmod: '2022-10-10'
 ---
 
 
 
-## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 
-Al final, sólo te lamentarás de las posibilidades que no tomaste Escorpio así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo Escorpio. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
-El actual contexto astrológico podría llevar a algunos malentendidos, a menos que puedas asegurarte de que otros han recibido tu mensaje. Pero quizás tengas más éxito si te preparas para hablar las cosas y encontrar soluciones positivas a través del debate. Sin embargo, un eléctrico encuentro podría hacer que tú y otra persona se lleven muy bien, y esto puede llevar a una nueva amistad o colaboración en un proyecto clave, siempre que puedas mantener este vínculo. Durante el fin de semana, salir cuidadosamente de tu zona de confort puede ser divertido.
+Esta semana estás un poco impredecible Escorpio, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica Escorpio… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Escorpio. Tú solito.
+La presencia del sol y el encantador Venus en tu sector de relaciones, amistades y vínculos cercanos puede hacerte sentir bien y con más libertad. Las próximas semanas podrían ser la oportunidad para superar las dificultades y quizá llegar a un acuerdo. Sin embargo, si tienes un nuevo romance, esta mezcla de energías podría ser una fuerza positiva en el desarrollo de tu relación. En el plano laboral, escucha a tus instintos cuando debas decidir qué hacer. Puede que pensar de forma lógica no sea suficiente.
 
 ## Dinero
 
-Tienes una semana tensa por delante. Estás atrapado/a y puede que te sientas como vaca dentro del ganado. En situaciones como ésta, siempre es mejor ir con el flujo de las energías predominantes. La lucha en contra sólo empeorará las cosas. Estás siendo empujado/a hacia tu hogar y emociones. Checa tus sentimientos internos. ¿Estás realmente haciendo lo que quieres hacer con tu vida?
+Esta semana tienes la base sobre la cual construir una seguridad adicional. La actividad en tu sector de  deuda hace que sea más fácil pagar las tarjetas y líneas de crédito. Eres capaz de ganar más dinero ahora y asignarlo como mejor te parezca.

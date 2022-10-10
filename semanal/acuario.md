@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 03 de octubre 2022 al 09 de octubre 2022 
-description: Horóscopo semanal acuario 03 de octubre 2022 al 09 de octubre 2022. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: acuario 10 de octubre 2022 al 16 de octubre 2022 
+description: Horóscopo semanal acuario 10 de octubre 2022 al 16 de octubre 2022. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-10-03
+ogimg: /images/zodiac/semanal_acuario.png#2022-10-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-03'
+ lastmod: '2022-10-10'
 ---
 
 
 
-## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 
-Se avecinan cambios Acuario, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Acuario, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Acuario. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Acuario.
-Una relación podría dar un nuevo giro, en particular si te entusiasma que avance a un nuevo nivel de intimidad. Una dinámica influencia podría llevarte a que te comprometas a ser mejor acompañante para un ser amado, asociación de negocios o colaborador. Pero también es igual de posible que quieras desconectarte de alguien y seguir tu propio camino. Si tu instinto te dice que una relación ha expirado su curso natural, entonces quizás sea sabio escucharlo.
+Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
+ Busca siempre la parte buena de cada momento en el que te encuentres.
+Es hora de que salirte de tu zona de confort y disfrutar de las aventuras que llenan tu vida como resultado. De hecho, todo tipo de beneficios podrían llegarte si te atreves a hacer un movimiento audaz; incluyendo un romance, un nuevo trabajo o la oportunidad de un emocionante viaje. Además, como Saturno, tu planeta regente, avanzando este fin de semana, es posible que sufras de menos problemas o acontecimientos que están fuera de tu control. Los retrasos y obstáculos podrían comenzar a disminuir considerablemente.
 
 ## Dinero
 
-Los aspectos de esta semana podrían lanzar una llave inglesa hacia tus planes de dinero. Pon orden en tu propiedad compartida y las inversiones que tengas. La firma, el sellado y la entrega de estos materiales al lugar donde tienen que estar dejan espacio para crear una estrategia en otros lugares. Al mismo tiempo, considera la posibilidad de poner tu dinero en instituciones que sabes que son confiables. Confiar en las nuevas puede ser atractivo, pero no es la decisión correcta para este momento de tu vida.
+Estás en una fase de redefinición ahora. Puede que la gente esté acostumbrada a que juegues cierto tipo de papel en sus vidas, lo cuál no ha sido lo mejor para tu vida financiera. No importa. Eres una persona magnética y hay mucha suerte en tu sector de comunicaciones. Podrías percatarte de que mientras más se te vea y se te escuche, puedes conseguir que tus necesidades financieras se cumplan.

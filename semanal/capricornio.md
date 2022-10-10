@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 03 de octubre 2022 al 09 de octubre 2022 
-description: Horóscopo semanal capricornio 03 de octubre 2022 al 09 de octubre 2022. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+title: capricornio 10 de octubre 2022 al 16 de octubre 2022 
+description: Horóscopo semanal capricornio 10 de octubre 2022 al 16 de octubre 2022. Escapa Capricornio, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-10-03
+ogimg: /images/zodiac/semanal_capricornio.png#2022-10-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-03'
+ lastmod: '2022-10-10'
 ---
 
 
 
-## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
+## Escapa Capricornio, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
 
-A veces, no es fácil vivir la vida Capricornio, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera Capricornio. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-Con el sol en tu sector social junto con el amoroso Venus, puede que tengas más ganas de salir y conocer nuevas personas. Esto podría ser particularmente importante durante las siguientes semanas a medida que impulsas nuevas ideas y oportunidades. También hay un enfoque romántico, lo cual podría hacer que la siguiente semana sea ideal para tener citas y conocer a una persona especial. Pero con la entrada de Marte a tu sector de aventuras, puede que sea mejor no comprometerse con nada que pueda ser un lastre para ti.
+Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
+ Tienes que acabar de una vez con todo Capricornio.
+Hay un enfoque en tu sector doméstico, por lo que las próximas semanas podrían ser una oportunidad para que tu hogar se vea impecable y fabuloso. Quizá debas sacar cosas que ocupan espacio, redecorar o reorganizar tu hogar, lo que tomarás con calma. La reciente luna llena a inicios de semana podría hacer surgir un problema familiar, así que da un paso atrás y resístete al impulso de involucrarte si puedes. Todo debería acomodarse en unos días y entonces sabrás qué hacer con más facilidad.
 
 ## Dinero
 
-Esta semana tienes una energía maravillosa y creativa en tu vida laboral diaria. Se te puede pedir asumir más tareas ahora, y vendrán con responsabilidades añadidas. Tómalas. Incluso si se trata de trabajar más a corto plazo, le darás una impresión indeleble en tu empleador a largo plazo. Es probable que recibas elogios por tus esfuerzos. Amplía tu comunicación.
+Esta semana es acerca de tus relaciones y te hace mucho más comunicativo/a sobre lo que necesitas. Te estableces ahora así con el fin de hacer que tus objetivos sean fuertes y claros. Estás cambiando las personas con las que pasas tiempo, y tales te están cambiando de una buena manera. Ganarás más dinero si tomas sus consejos en lugar de luchar contra ellos.

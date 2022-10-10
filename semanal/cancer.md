@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 03 de octubre 2022 al 09 de octubre 2022 
-description: Horóscopo semanal cancer 03 de octubre 2022 al 09 de octubre 2022. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
+title: cancer 10 de octubre 2022 al 16 de octubre 2022 
+description: Horóscopo semanal cancer 10 de octubre 2022 al 16 de octubre 2022. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-10-03
+ogimg: /images/zodiac/semanal_cancer.png#2022-10-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-03'
+ lastmod: '2022-10-10'
 ---
 
 
 
-## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
+## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 
-Por fin vas a finalizar ciclos Cáncer, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse Cáncer, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres Cáncer joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien Cáncer. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana Cáncer, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
-Con Marte continuando su viaje a través de tu sector de viajes y aventura, tu deseo de nuevas experiencias está muy vivo. Puede que sientas inquietud debido a que no has hecho planes de viaje. Es posible que también tengas más seriedad acerca de tus metas y planes y tengas más ansias de llevarlos a la realidad con Saturno entrando de nuevo a tu signo. Es más probable que te lances a un viaje si es que tiene un propósito distinto a solo diversión. Finalmente, una vieja amistad podría reaparecer en la escena.
+Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
+Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
+Tal vez tengas ganas de experimentar con una dieta nueva y fresca de comidas orgánicas y productos cultivados en casa. El actual enfoque en tu sector de estilo de vida podría ser el catalizador para dejar la comida rápida y elegir algo más sabroso y saludable. Lo mismo aplica a otras actividades, también. Comenzar yoga o cualquier otra rutina de relajación podría ser más aconsejable que mirar televisión. De hecho, un nuevo comienzo más saludable podría estar en tu menú.
 
 ## Dinero
 
-Esta semana es acerca de romance, niños y diversión; así como viajes, educación y espiritualidad. Cualquiera de estas áreas puede ser explotada por obtener un trabajo extra o construir un negocio completamente nuevo ahora. Tú tienes la capacidad de hacer que suceda. Con un poco de arduo trabajo y verdadero enfoque, puedes empezar a ganar más dinero en el futuro.
+Estás entrando en lo tuyo ahora. Hay una especie de seriedad a tu alrededor, y otros no pueden evitar el notar la diferencia. Pero es tu casa la que tal vez requiera que gastes más de lo que habías previsto o presupuestado. Si encuentras que necesitas retroceder temporalmente, eso está bien. Sin embargo, puede que el trata de forzar que tus ideas se hagan realidad no sea posible.

@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 03 de octubre 2022 al 09 de octubre 2022 
-description: Horóscopo semanal virgo 03 de octubre 2022 al 09 de octubre 2022. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+title: virgo 10 de octubre 2022 al 16 de octubre 2022 
+description: Horóscopo semanal virgo 10 de octubre 2022 al 16 de octubre 2022. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-10-03
+ogimg: /images/zodiac/semanal_virgo.png#2022-10-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-03'
+ lastmod: '2022-10-10'
 ---
 
 
 
-## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 
-Tienes que tener claro que en este mundo no estamos para gustar a todos, o quizás gustas a todos, pero el problema es que hay mucha envidia cerca aunque no siempre seas capaz de verla… 
-Aprende a marcharte Virgo… Sin complicaciones…
-Durante la primera parte de la semana podrías verte en conflicto en relación a cumplir con las expectativas de los demás o seguir tu propia estrella. Si cierta idea realmente te entusiasma, explórala. Hay momentos en los que no se puede evitar decepcionar a los demás, pero también tendrás futuras oportunidades para hacer las paces con ellos. A medida que Urano retrocede en tu sector de salud, trata de evitar estresarte demasiado. Haz de la relajación tu mayor objetivo esta semana.
+Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien Virgo pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
+Si la vida en el trabajo ha estado llena de retrasos y la frustración te ha puesto los pelos de punta, las cosas deberían mejorar desde el lunes. Mercurio comienza a avanzar una vez más, lo que debería ayudarte a volver a la normalidad. Pero cuando se trata de la firma de un acuerdo importante, puede que tengas que analizar las cosas un poco más profundamente, ya que un análisis superficial podría resultarte costoso. ¿Te has preparado para un poco de diversión este fin de semana? Si es así, el muy especial vínculo entre Venus y Neptuno podría crear una conexión romántica.
 
 ## Dinero
 
-Algunos aspectos afectando tus vidas pasadas, sueños y karma liberan tus ideas más interesantes e individualistas. Lo que pudo estar bloqueado por obstáculos en el pasado se vuelve más libre y más fácil de conseguir ahora. Algunas de tus mejores ideas pueden surgir de tu subconsciente. Se te podría pedir que consideres trabajar desde casa o traer dinero extra mediante el uso de tu casa de manera creativa. Es tu decisión.
+Eres uno de los mejores Signos del Zodíaco para manifestar cosas. Con un énfasis en tu sector de dinero, las habilidades que pensaste haber dejado atrás, traen la mayor cantidad de efectivo. Piensa en las personas o los trabajos de una época anterior de tu vida y tendrás la respuesta financiera a tu dilema actual. Un aspecto de apoyo hace que tu trabajo diario sea mucho más fácil de digerir. Si has logrado dar una gran impresión últimamente, pide ese aumento. Ellos te necesitan.

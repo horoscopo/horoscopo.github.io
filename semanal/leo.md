@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 03 de octubre 2022 al 09 de octubre 2022 
-description: Horóscopo semanal leo 03 de octubre 2022 al 09 de octubre 2022. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+title: leo 10 de octubre 2022 al 16 de octubre 2022 
+description: Horóscopo semanal leo 10 de octubre 2022 al 16 de octubre 2022. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-10-03
+ogimg: /images/zodiac/semanal_leo.png#2022-10-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-03'
+ lastmod: '2022-10-10'
 ---
 
 
 
-## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 
-¿Cómo quieres gastar tu vida Leo? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Leo, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Leo, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Leo. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Leo.
-Llévatela leve al comienzo de la semana, ya que el impulso de expresarte demasiado honestamente podría costarte una amistad. La Luna Llena en Sagitario podría sacar ciertas emociones a la superficie mientras te anima a expresarlas abiertamente. Mientras que es genial que digas lo que piensas, emplear un poco de tacto sería de gran ayuda. Posteriormente, el enfoque se desplaza hacia tu sector profesional y de metas, animándote a analizar y considerar tus planes para los próximos meses y hacer ajustes si es necesario.
+Despacito Leo, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo Leo.
+Puede que te resulte difícil conciliar tus esperanzas y planes con los de tus familiares. Si bien es posible que hayas optado por dejar que se salieran con la suya, una parte de ti podía sentir un poco de resentimiento. Los próximos días y semanas pueden ser excelentes para liberar la carga emocional que podría estarte impidiendo aprovecha al máximo una sincera charla. Si sientes que tienes que discutir ciertos asuntos con una amistad de confianza primero, hacerlo podría darte una nueva perspectiva sobre tus problemas.
 
 ## Dinero
 
-Es posible que hayas estado tratando de encontrar la manera de recaudar dinero para un nuevo negocio, y ahora podría ser posible. Este es un buen momento para hacer cualquier pago final que tengas que hacer al mismo tiempo que buscas maneras de conectar con posibles inversionistas. Los esfuerzos de recaudación de fondos deben incluir un componente de marketing en línea.
+Puede que en este momento estés pensando más sobre lo que puedes comprar en vez de como poder ahorrar. Eso es natural. Pero con la energía positiva concentrada en tu sector de dinero, lo mejor es pensar en poner al menos un poco de tu duramente ganado dinero en una cuenta de ahorros. Un factor aspectando tu zona de romance inarmónico afecta a los niños, la familia y la diversión y dice que es hora de frenar lo que se ha convertido en la norma financiera.

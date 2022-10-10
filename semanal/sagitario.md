@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 03 de octubre 2022 al 09 de octubre 2022 
-description: Horóscopo semanal sagitario 03 de octubre 2022 al 09 de octubre 2022. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+title: sagitario 10 de octubre 2022 al 16 de octubre 2022 
+description: Horóscopo semanal sagitario 10 de octubre 2022 al 16 de octubre 2022. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-10-03
+ogimg: /images/zodiac/semanal_sagitario.png#2022-10-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-03'
+ lastmod: '2022-10-10'
 ---
 
 
 
-## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 
-Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
- No lo has pasado del todo bien pero empiezas a renacer Sagitario. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
-Tanto las cuestiones empresariales como románticas pueden florecer esta semana. Cuando de dinero se trata, puede que tengas ansias de obtener la mejor oferta posible y mostrar bastante agresividad para obtenerla. Lo mismo puede decirse de una nueva historia de amor o romance, cuando un toque de obsesión podría llevarte a decir o hacer más de lo que tenías planeado. Sin embargo, la influencia de Libra sugiere que, aunque te sientas muy emocional al respecto, podrías tener mucha disposición a mantener la situación tranquila.
+Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
+El Sol y Mercurio continúan en tu sector de recursos compartidos, por lo que puede que estés buscando maneras de aumentar tus ingresos o mejorar tus beneficios empresariales. El enlace entre el Sol y Neptuno te sugiere reflejar o meditar sobre ideas creativas para ver lo que se te ocurre. La conexión entre Mercurio y Plutón te anima a tener curiosidad y hacerles preguntas a personas exitosas. Hacerlo puede trabajar a tu favor. Hay mucho que decir sobre la positiva influencia en tu futuro que podría traerte el que te comprometieras con un curso de estudio.
 
 ## Dinero
 
-Tienes una buena dosis de apoyo del Universo conforme tratas de ganar más dinero y creas más estructura en tu vida. Los aspectos afectando tu sector de dinero y valores hacen de este un buen momento no sólo para ganar más dinero a través de mayores oportunidades, sino también para investigar la manera de invertir en el futuro. Empieza a actuar con cautela, luego, ramifícate conforme empiezas a sentir más comodidad.
+Es una semana difícil para ti. Es tu responsabilidad decir lo que necesitas decir de una forma amable y gentil. Pero cuando se trata de tu vida hogareña y emociones internas, puede ser difícil reunir ese tipo de paciencia. En vez, puede que sientas presión y falta de respeto al tratar de salir adelante. La semana que viene será mejor en general.

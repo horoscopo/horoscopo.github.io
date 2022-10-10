@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: aries 03 de octubre 2022 al 09 de octubre 2022 
-description: Horóscopo semanal aries 03 de octubre 2022 al 09 de octubre 2022. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+title: aries 10 de octubre 2022 al 16 de octubre 2022 
+description: Horóscopo semanal aries 10 de octubre 2022 al 16 de octubre 2022. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Aries, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-10-03
+ogimg: /images/zodiac/semanal_aries.png#2022-10-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-03'
+ lastmod: '2022-10-10'
 ---
 
 
 
-## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Aries, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 
-Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea Aries. 
- Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
-Una cascada de cordialidad hace de la semana por delante una delicia. Lograrás buen progreso si logras apartarte de enredos familiares y errores profesionales al dejar que se solucionen por sí solos. A mitad de semana, un encuentro en un evento social podría coincidir con una oportunidad que es demasiado buena para dejarla pasar. También descubrirás lo mucho que tienes en común con ciertas personas, lo que podría dar lugar a colaboración dentro de un plan. Este es buen momento para sanar cualquier malentendido y restablecer la paz.
+Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
+Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
+Debido al positivo enfoque en tu sector profesional, usar el encanto y la lógica podría dar como resultado un gran progreso. Aun así, puede que sientas que alguien está obstaculizando tus planes. De ser así, tu mejor apuesta puede ser tener una conversación a corazón abierto con esta persona, incluso si esto te da un poco de nervios. El resultado de esta charla podría superar tus expectativas. La reciente luna llena podría ser la señal para reservar de una vez por todas ese viaje con el que has estado soñando durante un tiempo.
 
 ## Dinero
 
-Eres especialmente activo/a cuando se trata de redefinir cómo deseas ser percibido/a por los demás. Esto puede resultar en la posibilidad de modificar tu forma de vestir, hablar o hacerle frente a los demás. Estás transformando la manera en la que otros te ven y en última instancia, te tratan, especialmente en el trabajo. Te están lloviendo tantas ofertas que es posible que tengas tiempo para considerar todas tus opciones. Prepárate para convertirte en la autoridad que estás destinado/a a ser.
+Esta semana se trata de mantener el equilibrio y la cordura. Acude al Universo para obtener información acerca de hacia dónde te diriges - esta semana se encuentra en tu sector de comunicaciones. Tienes que tratar más y hacerte más visible para poder conseguir ese aumento de sueldo, un nuevo trabajo o convencer a alguien para que invierta en tu futuro.
