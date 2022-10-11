@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de octubre 2022
-description: Horóscopos del dia de hoy 10 de octubre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 11 de octubre 2022
+description: Horóscopos del dia de hoy 11 de octubre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-10-10
+ lastmod: 2022-10-11
 ---
-Comunícate con los demás. Si compartes cosas sobre ti, los demás también lo harán. Una gran cantidad de información que pudo haber sido olvidada es presentada. Además, habla sobre el ayer, el hoy y el mañana. Esta noche, el oportuno aspecto entre la Luna y Júpiter une a la gente de una gran manera. Las parejas disfrutan de sus momentos más felices juntos. 
+A partir del día de hoy, la vida se trata sobre verdad y justicia con Mercurio en Sagitario hasta principios de diciembre. Esta noche, la cuadratura entre Venus y Plutón podría convertirse en un arriesgado afrodisíaco debido a sus fuertes poderes de atracción. ¡Cuidado! En muchos sentidos, es un momento de déjà vu. No es un caso de no saber, ya has pasado por esa experiencia.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
