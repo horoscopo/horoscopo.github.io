@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de octubre 2022
-description: Horóscopos del dia de hoy 13 de octubre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de octubre 2022
+description: Horóscopos del dia de hoy 14 de octubre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-10-13
+ lastmod: 2022-10-14
 ---
-El trabajo y la lealtad son recompensados cuando el Sol forma sextil con Saturno. Este es un oportuno aspecto del que hay que hacer uso cuando se presenta. Las relaciones son lo más importante bajo la Luna en Libra de esta noche. Admitir que estás en lo erróneo aumenta la confianza entre ustedes. Demuestra que la otra persona te importa más que estar en lo cierto.
+¡Presta más atención! No dejes de enfocarte como lo hace un rayo láser cuando la cuadratura entre Mercurio y Urano provoca que personas persuasivas y bastantes obvias traten de conducirte a hacer errores de juicio. Más tarde, ama la energía y la vitalidad proveniente de la Luna en Aries conjuntando a Marte durante lo que podría ser una noche brillante.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
