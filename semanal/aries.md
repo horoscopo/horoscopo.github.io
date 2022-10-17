@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: aries 10 de octubre 2022 al 16 de octubre 2022 
-description: Horóscopo semanal aries 10 de octubre 2022 al 16 de octubre 2022. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Aries, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+title: aries 17 de octubre 2022 al 23 de octubre 2022 
+description: Horóscopo semanal aries 17 de octubre 2022 al 23 de octubre 2022. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-10-10
+ogimg: /images/zodiac/semanal_aries.png#2022-10-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-10'
+ lastmod: '2022-10-17'
 ---
 
 
 
-## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Aries, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
-Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
-Debido al positivo enfoque en tu sector profesional, usar el encanto y la lógica podría dar como resultado un gran progreso. Aun así, puede que sientas que alguien está obstaculizando tus planes. De ser así, tu mejor apuesta puede ser tener una conversación a corazón abierto con esta persona, incluso si esto te da un poco de nervios. El resultado de esta charla podría superar tus expectativas. La reciente luna llena podría ser la señal para reservar de una vez por todas ese viaje con el que has estado soñando durante un tiempo.
+La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Aries, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+Puede que quieras compartir tus ideas y opiniones personales con los demás. De hecho, un momento de inspiración o una conversación con una amistad podría ayudarte a compartir lo que piensas en las redes sociales, y atraer a quienes están en la misma onda. Si estás planeando un evento social o reunión, tal vez necesitas un enfoque más práctico. No confíes en que todo saldrá perfecto en la gran noche, ya que hay posibilidades de que no sea así.
 
 ## Dinero
 
-Esta semana se trata de mantener el equilibrio y la cordura. Acude al Universo para obtener información acerca de hacia dónde te diriges - esta semana se encuentra en tu sector de comunicaciones. Tienes que tratar más y hacerte más visible para poder conseguir ese aumento de sueldo, un nuevo trabajo o convencer a alguien para que invierta en tu futuro.
+Esta semana podría ser tensa para ti. Presta especial atención a los mensajes que estés recibiendo de sus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están justo en el blanco ahora. Al mismo tiempo, sigue añadiendo más a tus capacidades al asistir a clases, talleres y seminarios. Tienes todo lo que se necesitas, pero un poco más no te vendría mal.

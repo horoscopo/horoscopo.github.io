@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 10 de octubre 2022 al 16 de octubre 2022 
-description: Horóscopo semanal escorpio 10 de octubre 2022 al 16 de octubre 2022. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: escorpio 17 de octubre 2022 al 23 de octubre 2022 
+description: Horóscopo semanal escorpio 17 de octubre 2022 al 23 de octubre 2022. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-10-10
+ogimg: /images/zodiac/semanal_escorpio.png#2022-10-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-10'
+ lastmod: '2022-10-17'
 ---
 
 
 
-## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 
-Esta semana estás un poco impredecible Escorpio, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica Escorpio… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Escorpio. Tú solito.
-La presencia del sol y el encantador Venus en tu sector de relaciones, amistades y vínculos cercanos puede hacerte sentir bien y con más libertad. Las próximas semanas podrían ser la oportunidad para superar las dificultades y quizá llegar a un acuerdo. Sin embargo, si tienes un nuevo romance, esta mezcla de energías podría ser una fuerza positiva en el desarrollo de tu relación. En el plano laboral, escucha a tus instintos cuando debas decidir qué hacer. Puede que pensar de forma lógica no sea suficiente.
+Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
+La presencia del sol en tu sector de estilo de vida puede echar luz sobre hábitos que hayan dejado de ser útiles. Si el eclipse solar de la semana pasada te animó a considerar hacer algunos cambios radicales, los próximos días podrían ayudarte a reflexionar e investigar tus opciones, para poder encontrar soluciones que se adapten a tus necesidades. 
+El conversador Mercurio en tu sector de relaciones sugiere que sigas hablando. Las nuevas perspectivas pueden ayudarte a pensar de otra manera y considerar ideas que, de otro modo, nunca hubieras conocido. El ingreso del sol a tu sector de relaciones el domingo ilumina esta área y pone de relieve amistades y sociedades clave. Las próximas cuatro semanas pueden darte la oportunidad de colaborar en un plan o proyecto, y de llevar una importante relación a otro nivel. Además, el fin de semana alguien puede ofrecerte una oportunidad que resulte muy lucrativa.
 
 ## Dinero
 
-Esta semana tienes la base sobre la cual construir una seguridad adicional. La actividad en tu sector de  deuda hace que sea más fácil pagar las tarjetas y líneas de crédito. Eres capaz de ganar más dinero ahora y asignarlo como mejor te parezca.
+El Universo está aumentando ahora tu capacidad de ganar. Esta es una gran noticia para tu estado de ánimo, que puede estar vinculado a la libertad que percibes como la que te otorga el dinero, y una buena noticia para tu ambición, que tiende a estar ligada a la forma en la que percibes tu justa compensación. A medida que tus metas profesionales empiezan a hacerse realidad, el flujo de efectivo también mejora. ¿Qué podría no gustarte de tu vida ahora?
