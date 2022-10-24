@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 17 de octubre 2022 al 23 de octubre 2022 
-description: Horóscopo semanal capricornio 17 de octubre 2022 al 23 de octubre 2022. Dedícate la semana a ti Capricornio, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+title: capricornio 24 de octubre 2022 al 30 de octubre 2022 
+description: Horóscopo semanal capricornio 24 de octubre 2022 al 30 de octubre 2022. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Capricornio. Tú solito.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-10-17
+ogimg: /images/zodiac/semanal_capricornio.png#2022-10-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-17'
+ lastmod: '2022-10-24'
 ---
 
 
 
-## Dedícate la semana a ti Capricornio, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Capricornio. Tú solito.
 
-A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez Capricornio. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona Capricornio, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
-Con respecto a los asuntos familiares y del hogar, al parecer atraes cosas buenas. El suertudo Júpiter en este sector puede ser perfecto para pensar de forma innovadora y buscar opciones que podrían traer un nuevo comienzo. Sin embargo, debes tener cuidado con Mercurio retrógrado. No es el mejor momento para tomar riesgos. Puedes prepararte para ello cuando esta fase haya terminado. Debido a la encantadora luna nueva, que se avecina, podrías sentir mucha atracción hacia una maravillosa persona.
+Lo más complicado es siempre el principio, de todo, una vez que te has subido al “barco” no vuelvas a tirarte al agua, ¿me explico? 
+Y si aún tienes dudas sobre algo, tómate tu tiempo para decidir, a solas, sin que nadie pueda darle más vueltas a tu cabeza…
+Tu escena social brilla esta semana con el cosmos otorgándote una gran cantidad de aliento para echar a andar planes y proyectos. La Luna Nueva del lunes podría ser el punto de partida para una colaboración que ha demostrado ser muy fructífera. Sin embargo, tu semana no estará exenta de dificultades debido a que el jueves trae la posibilidad de malos entendidos. Puede que tengas disposición a ceder si esto significa mantener tus amistades intactas. Tus oportunidades románticas se ven abundantes, con una en particular que podría bien valer la pena.
 
 ## Dinero
 
-Es una semana de contradicciones. Puede que estés pensando en una reciente relación para ver lo que pudiste haber hecho de otra manera. Los mentores, socios comerciales e inversionistas pueden no ser todo lo que parecían ser hace unas semanas. Es hora de revaluar tus asociaciones. Mientras tanto, tu sector social se abre. Puedes encontrar nuevas personas que comparten tu misma visión para trabajar en conjunto si es necesario. Las mujeres serán especialmente útiles.
+Para ti esta semana es sobre nueva energía en el sector del hogar, donde el hambre de creatividad puede estarte haciendo querer gastar más de lo que tienes en restauración y redecoración. Sin embargo no se trata de lo que gastas. Algunos aspectos pueden servir como medida provisional para evitar que lo hagas. Después de todo cambiarás de opinión de lo que te gusta dentro de unos años de todos modos.

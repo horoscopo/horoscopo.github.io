@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 17 de octubre 2022 al 23 de octubre 2022 
-description: Horóscopo semanal aries 17 de octubre 2022 al 23 de octubre 2022. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: aries 24 de octubre 2022 al 30 de octubre 2022 
+description: Horóscopo semanal aries 24 de octubre 2022 al 30 de octubre 2022. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-10-17
+ogimg: /images/zodiac/semanal_aries.png#2022-10-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-17'
+ lastmod: '2022-10-24'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Aries, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-Puede que quieras compartir tus ideas y opiniones personales con los demás. De hecho, un momento de inspiración o una conversación con una amistad podría ayudarte a compartir lo que piensas en las redes sociales, y atraer a quienes están en la misma onda. Si estás planeando un evento social o reunión, tal vez necesitas un enfoque más práctico. No confíes en que todo saldrá perfecto en la gran noche, ya que hay posibilidades de que no sea así.
+Por fin llega lo que tanto estabas esperando Aries, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo Aries. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana Aries, disfrútala al máximo.
+Tus asuntos monetarios parecen mejorar mucho con Júpiter en tu sector de finanzas compartidas empujándote a pensar en grande cuando se trata de negocios. Si tienes la oportunidad de unir tus conocimientos y recursos con los de otros, esta podría ser una buena manera de avanzar más temprano que tarde. La Luna Nueva del lunes te ofrece la oportunidad de tomar una clase que podría convertirse en una parte importante de tus planes futuros. Por último, un contrato lucrativo podría ponerse en tu camino este fin de semana.
 
 ## Dinero
 
-Esta semana podría ser tensa para ti. Presta especial atención a los mensajes que estés recibiendo de sus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están justo en el blanco ahora. Al mismo tiempo, sigue añadiendo más a tus capacidades al asistir a clases, talleres y seminarios. Tienes todo lo que se necesitas, pero un poco más no te vendría mal.
+El Universo está pidiendo que te impongas en el sector de deuda, haciendo arreglos de pago, enviando cheques y destruyendo viejas tarjetas de crédito. Mientras tanto, hay mensajes importantes en tus sueños y flashes psíquicos. Conforme muestras tu formidable ambición, no te olvides de la justicia kármica. Trata a los demás en la forma en la que te gustaría ser tratado/a en la misma posición.

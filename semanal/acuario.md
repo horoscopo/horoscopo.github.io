@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 17 de octubre 2022 al 23 de octubre 2022 
-description: Horóscopo semanal acuario 17 de octubre 2022 al 23 de octubre 2022. Tómate un tiempo Acuario, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+title: acuario 24 de octubre 2022 al 30 de octubre 2022 
+description: Horóscopo semanal acuario 24 de octubre 2022 al 30 de octubre 2022. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-10-17
+ogimg: /images/zodiac/semanal_acuario.png#2022-10-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-17'
+ lastmod: '2022-10-24'
 ---
 
 
 
-## Tómate un tiempo Acuario, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 
-Llega una buenísima semana Acuario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien Acuario, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado Acuario, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo Acuario, pelea por lo que te mereces.
-Es posible que necesites tomar una decisión con respecto a tu trabajo, una meta, o un plan profesional. Si te ofrecen una oportunidad, la alineación actual te invita a analizar los detalles. Con Mercurio moviéndose hacia atrás y luego hacia adelante esta semana, es posible que alguien pueda retirar una oferta anteriormente hecha. Puede que sea útil esperar hasta la próxima semana para evaluar la situación. Por último, con el Sol uniéndose a Pluton en Escorpio el jueves, inclusive un poco de encanto puede hacer maravillas.
+Bueno Acuario, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
+La próxima semana puede traer oportunidades para tener reuniones, ya sea organizadas por ti o por alguien más. Y esta puede ser una oportunidad para ponerte al día con las noticias de tal persona, y quizás verse más seguido en el futuro. También es posible que un encuentro inesperado pueda llevarte a una atracción instantánea. Esto podría convertirse en romance o tal vez en amistad, pero si no cuidas la relación podría desaparecer. Con respecto a un plan clave, investigar en detalle y actuar de forma positiva puede ayudarte a lograr mucho.
 
 ## Dinero
 
-Puede ser que aspectos en tu sector del dinero te traigan pánico acerca de dónde vendrá tu dinero. En lugar de entrar en modo de supervivencia, piensa en donde se puede construir o en dónde has construido en el pasado. El Universo recompensa el trabajo duro realizado durante un largo período de tiempo. Dicho esto, cierto aspecto positivo de esta semana indica que algo que ver con el hogar en general, podría darte acceso a un dinero que no sabías que existía.
+Esta semana te enfocas en las necesidades de tu familia y pareja romántica. No funcionará el gastar en los mismos patrones que antes. En vez, el poner tu actitud más madura te asegura que hay un montón de dinero para la educación universitaria, una casa cómoda y más. Tu lado creativo está en guerra con tu lado práctico. Esto, también pasará.

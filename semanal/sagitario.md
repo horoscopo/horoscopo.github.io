@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 17 de octubre 2022 al 23 de octubre 2022 
-description: Horóscopo semanal sagitario 17 de octubre 2022 al 23 de octubre 2022. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+title: sagitario 24 de octubre 2022 al 30 de octubre 2022 
+description: Horóscopo semanal sagitario 24 de octubre 2022 al 30 de octubre 2022. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-10-17
+ogimg: /images/zodiac/semanal_sagitario.png#2022-10-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-17'
+ lastmod: '2022-10-24'
 ---
 
 
 
-## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-A veces de bueno te pasas Sagitario. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Sagitario, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Sagitario, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Sagitario y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-Esta podría ser una semana en la que sientas natural inclinación a resolver un problema que te ha estado molestando durante algún tiempo. Tal vez te ha estado deteniendo sutilmente y puede que no hayas tenido la oportunidad de lidiar con él. Durante los días por delante, un esfuerzo concertado puede ayudarte a desmenuzar los diversos hilos y llegar al corazón del asunto. Además, la actividad lunar en tu signo podría coincidir con la realización de un proyecto clave.
+Empieza a cambiar la mentalidad Sagitario, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado Sagitario, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+Un encuentro podría estar en tus cartas esta semana o durante las próximas tres semanas. Mercurio retrógrado en tu sector social sugiere que una vieja amistad, viejo interés amoroso o inclusive un ex podría volver a tu vida. Esta puede ser una oportunidad para hablar de lo anteriormente ocurrido u obtener curación con respecto a una difícil ruptura. Podrías percatarte de que ésta vez logran progresar mucho más. Además, Venus entrando a Tauro el viernes también sugiere que un romance del pasado podría volver a encenderse.
 
 ## Dinero
 
-Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.
+Esta semana es sobre la actividad astrológica en tu sector de deuda. Es posible que recibas una factura, una llamada telefónica o un recordatorio sobre una factura pendiente. No le ignores. Podrías toparte con una desagradable sorpresa si lo haces. Podría empeorar con sanciones adicionales. La persona a la que le debes dinero puede adoptar un método de recolección repentina y desagradable.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 17 de octubre 2022 al 23 de octubre 2022 
-description: Horóscopo semanal geminis 17 de octubre 2022 al 23 de octubre 2022. Llega una buenísima semana Géminis pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+title: geminis 24 de octubre 2022 al 30 de octubre 2022 
+description: Horóscopo semanal geminis 24 de octubre 2022 al 30 de octubre 2022. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-10-17
+ogimg: /images/zodiac/semanal_geminis.png#2022-10-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-17'
+ lastmod: '2022-10-24'
 ---
 
 
 
-## Llega una buenísima semana Géminis pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 
-Es muy importante que eches la vista atrás Géminis, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
-Es hora de perseguir tus sueños y explorar horizontes lejanos. Si necesitas inspiración o sientes que te vendría bien algo de mejora personal, este podría ser un muy buen momento para buscar la ayuda de un asesor de vida que pueda ayudarte. Sin embargo, entrarás a una fase natural en la que se te aconseja descansar y relajarte conforme el Sol entre a Escorpio a mitad de semana. Aprovecha esta oportunidad para orientarte, analizar cuál es tu situación y pensar en lo que te gustaría lograr en los próximos meses.
+A veces amas demasiado Géminis, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar Géminis, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. Géminis, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. Géminis, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos Géminis, y siente… Feliz semana…
+Si bien ciertos planes placenteros pueden estar firmemente en tu agenda, otros factores indican que podrías tener ganas de hacer cambios en tu estilo de vida. Con Mercurio moviéndose a través de tu sector de hábitos y rutinas, puede que quieras reorganizar algunos aspectos de tu día para poder lograr tus metas de salud y también aumentar tu productividad. A partir del Miercoles, puede que te resulte mucho más fácil mantenerte en este nuevo régimen. Hasta ese momento, sé paciente contigo.
 
 ## Dinero
 
-Hay actividad en el área de tu carta que rige las vidas pasadas, sueños, el karma y las instituciones, por lo que es un momento especialmente fértil en el ámbito de lo inconsciente. Podrías llegar a descubrir que tienes un talento oculto para la planificación financiera (incluso si el dinero no ha llegado a ti todavía), lo cuál puede ser un residuo del pasado. Uno de los aspectos podría probar tu paciencia ahora, pero si puedes mantener tu comunicación tranquila y neutral (no personal), obtendrás lo que necesitas.
+Puede que solicites una audiencia más grande con el fin de atraer a compradores, inversionistas y otras personas con dinero. Algo que estas planeando requiere de más dinero con el fin de despegar. Es muy importante el prestar atención al dinero que compartes con otros. Algunos co-inversionistas o algunas deudas necesitarían ser atendidas. Asegúrate de firmar documentos y pagar honorarios a tiempo. A partir de ahí, podrás cosechar recompensas.

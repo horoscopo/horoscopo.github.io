@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 17 de octubre 2022 al 23 de octubre 2022 
-description: Horóscopo semanal escorpio 17 de octubre 2022 al 23 de octubre 2022. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+title: escorpio 24 de octubre 2022 al 30 de octubre 2022 
+description: Horóscopo semanal escorpio 24 de octubre 2022 al 30 de octubre 2022. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-10-17
+ogimg: /images/zodiac/semanal_escorpio.png#2022-10-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-17'
+ lastmod: '2022-10-24'
 ---
 
 
 
-## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 
-Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
-La presencia del sol en tu sector de estilo de vida puede echar luz sobre hábitos que hayan dejado de ser útiles. Si el eclipse solar de la semana pasada te animó a considerar hacer algunos cambios radicales, los próximos días podrían ayudarte a reflexionar e investigar tus opciones, para poder encontrar soluciones que se adapten a tus necesidades. 
-El conversador Mercurio en tu sector de relaciones sugiere que sigas hablando. Las nuevas perspectivas pueden ayudarte a pensar de otra manera y considerar ideas que, de otro modo, nunca hubieras conocido. El ingreso del sol a tu sector de relaciones el domingo ilumina esta área y pone de relieve amistades y sociedades clave. Las próximas cuatro semanas pueden darte la oportunidad de colaborar en un plan o proyecto, y de llevar una importante relación a otro nivel. Además, el fin de semana alguien puede ofrecerte una oportunidad que resulte muy lucrativa.
+Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa Escorpio, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
+Aunque puedas sentir emoción por todas las posibilidades que se te abren, retrasos inesperados o el exceso de burocracia podrían retrasarte. Esta semana podrías, en algunos momentos, dar un paso adelante y dos pasos atrás, lo que podría ser desconcertante. Te harías un favor al ir más despacio. Ninguna cantidad de deseo o disposición va a hacer que las cosas sucedan más rápido o más lento. De hecho, será necesario tener paciencia una vez que Saturno inicie su fase retrógrada el viernes.
 
 ## Dinero
 
-El Universo está aumentando ahora tu capacidad de ganar. Esta es una gran noticia para tu estado de ánimo, que puede estar vinculado a la libertad que percibes como la que te otorga el dinero, y una buena noticia para tu ambición, que tiende a estar ligada a la forma en la que percibes tu justa compensación. A medida que tus metas profesionales empiezan a hacerse realidad, el flujo de efectivo también mejora. ¿Qué podría no gustarte de tu vida ahora?
+Cierta actividad en tu sector de herencias y de deuda esta semana muestra que es posible que estés en el extremo receptor de uno u otro. Uno, por supuesto, no puedes controlar. Pero si te percatas de que necesitas poner más energía en un plan de pago de deuda, el Universo puede ayudarte a lograr una mayor responsabilidad en esa área. Sonríe, las cosas están mejorando.

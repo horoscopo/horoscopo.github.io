@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: leo 17 de octubre 2022 al 23 de octubre 2022 
-description: Horóscopo semanal leo 17 de octubre 2022 al 23 de octubre 2022. Es difícil comprenderte Leo, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: leo 24 de octubre 2022 al 30 de octubre 2022 
+description: Horóscopo semanal leo 24 de octubre 2022 al 30 de octubre 2022. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Leo, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-10-17
+ogimg: /images/zodiac/semanal_leo.png#2022-10-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-17'
+ lastmod: '2022-10-24'
 ---
 
 
 
-## Es difícil comprenderte Leo, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Leo, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 
-No te mereces poco Leo… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura Leo, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo Leo. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
-Podrías sentir inspiración a hacer algo desde principios de semana, pero antes de actuar, asegúrate de que embone con los hechos. Si no es así, puede que desees investigar un poco al respecto primero. La entrada de Venus a una parte más privada de tu carta sugiere que es hora de analizar a tu propia persona y averiguar qué es lo que te funciona, sobre todo en áreas problemáticas. La entrada de Marte a tu sector social da inicio a una fase activa en la que te conviene moverte hacia nuevos círculos.
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
+A medida que Mercurio se acerca a Plutón en tu signo, puede que estés buscando una manera de doblar una oportunidad a tu ventaja. ¿Pero realmente vale la pena? Es posible que busques llegar a cierto resultado, pero hacer todo lo posible para obtenerlo es bastante estresante. Sería mejor que hagas tu mejor intento y olvidarte del asunto. Por otro lado, este es un gran momento para que dejes atrás toda la carga emocional que te está evitando avanzar.
 
 ## Dinero
 
-Tienes actividad en tu sector de relaciones esta semana. Una nueva relación podría materializarse de la nada y resultar económicamente beneficiosa para ambas partes. En este momento, tu atención tiene que enfocarse en la construcción de tu carrera. La elaboración de un plan a cinco años puede no ser una mala idea tampoco. Es más fácil hacer que el dinero que deseas se manifieste cuando este paso se haya dado.
+La buena noticia es que tienes actividad en tu sector de rutina diaria de trabajo, lo que puede aportar muchas nuevas oportunidades para expandir tu presencia o hacer que tu trabajo destaque. El Universo tiende a cambiar las cosas, pero a veces las cambia de nuevo con la misma rapidez. Muévete rápido para aprovechar los dones que se te proveen. Mientras tanto, lo mejor es cooperar en el trabajo para que nadie pierda los estribos.
