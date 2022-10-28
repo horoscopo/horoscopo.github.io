@@ -1,21 +1,23 @@
 ---
 layout: amp
-title: Horoscopo Sagitario Octubre 2022 
+title: Horoscopo Sagitario Noviembre 2022 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2022-09-28
+ogimg: /images/mes/Sagitario_mes.png#2022-10-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-09-28'
+ lastmod: '2022-10-28'
 ---
 
 
-El mes de octubre vuelve más aguda tu intuición y profundiza tu conexión espiritual.
-Durante las próximas cuatro semanas, habrá muchas actividades en relación con tu familia y tu hogar. Sagitario, puede que estés considerando mudarte o buscar una segunda casa. Quizás recibas una oferta sobre tu casa aun si no estás pensando en mudarte. O puede que estén reuniendo recursos con tus familiares para conseguirle hogar a otro miembro de la familia.
-La luna llena hace su aparición el día 9, y organizar tu hogar y tu oficina serán los principales focos durante las próximas dos semanas. Puede que sientas que el feng shui no está funcionando, Sagitario. Quizás prefieras decorar tu hogar siguiendo un estilo minimalista. Si ese es el caso, pon en una caja los objetos que ya no desees y llévalos a donar. Puedes despejar tu escritorio (y tu mente) en un abrir y cerrar de ojos.
-La luna nueva hace su aparición el 25 de octubre, junto a un Eclipse solar parcial y puede que sientas que tu energía se ha renovado mientras te enfocas en un nuevo proyecto. Esto es probablemente algo que has estado esperando con ansias. Las demás personas creen en ti, pero lo más importante es que tú creas en ti. Sagi, este es un buen momento para enfocarte en tu gran propósito, y esto se vuelve muy evidente en todo lo que estás intentando hacer.
+Estarás muy ocupado este mes, Sagitario, ya que tu temporada trae una oleada de actividad a tu casa 2. Aunque tus días estarán repletos de trabajo, compromisos sociales y ocasionales compras compulsivas, no dejes que el desorden se acumule en tu espacio o podrías caer en un agujero de desorganización.
+Por suerte, sin importar cuán acelerado se sienta el mundo en este momento, estarás en una posición única para moverte más despacio, así que no te sientas culpable por tomarte las cosas a tu propio ritmo. Evita presionarte demasiado y asegúrate de inclinarte hacia el lujo cada vez que necesites un poco de amor propio.
+Lo inesperado podría encontrarte cuando Venus, tu planeta regente, se une al impredecible Urano el 11 de noviembre. Estas vibras también pueden ayudarte a salir de cualquier situación que ya no te sirve, así que no tengas miedo de caminar en una nueva dirección. Desafortunadamente, la oposición que Venus forma con la luna en Escorpión podría aportarle intensidad emocional a tu día, por lo que es importante que seas realista mientras priorizas tus necesidades.
+Sentirás una mayor conexión con tu vocación y tu camino de mayor crecimiento cuando Venus se une al Nodo Norte mientras forma un aspecto con la luna en Capricornio. Mantén los ojos abiertos a sincronicidades y señales detrás del velo mientras el Universo busca maneras de guiarte hacia un futuro más pleno. También es un buen momento para comunicar tus esperanzas y sueños al otro lado, ya que tu capacidad de manifestación será más notable de lo habitual.
+Días destacados: 8, 21, 24
+Días desafiantes: 3, 11, 18
