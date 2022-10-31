@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 24 de octubre 2022 al 30 de octubre 2022 
-description: Horóscopo semanal sagitario 24 de octubre 2022 al 30 de octubre 2022. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+title: sagitario 31 de octubre 2022 al 06 de noviembre 2022 
+description: Horóscopo semanal sagitario 31 de octubre 2022 al 06 de noviembre 2022. Nada tiene que ser ahora suficiente para ti Sagitario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-10-24
+ogimg: /images/zodiac/semanal_sagitario.png#2022-10-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-24'
+ lastmod: '2022-10-31'
 ---
 
 
 
-## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+## Nada tiene que ser ahora suficiente para ti Sagitario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 
-Empieza a cambiar la mentalidad Sagitario, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado Sagitario, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
-Un encuentro podría estar en tus cartas esta semana o durante las próximas tres semanas. Mercurio retrógrado en tu sector social sugiere que una vieja amistad, viejo interés amoroso o inclusive un ex podría volver a tu vida. Esta puede ser una oportunidad para hablar de lo anteriormente ocurrido u obtener curación con respecto a una difícil ruptura. Podrías percatarte de que ésta vez logran progresar mucho más. Además, Venus entrando a Tauro el viernes también sugiere que un romance del pasado podría volver a encenderse.
+Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
+ a personas de las que “piensas” que dependes…
+Si sientes que alguien se ha estado aprovechado de ti últimamente, puede que sea momento de hacer algo al respecto. Hazle saber que tienes límites y que hay ciertas cosas que no tolerarás. Hacerlo puede mejorar relaciones clave a medida que avanzan hacia el futuro. Esta semana, hay ciertos aspectos que podrían intensificar la vida, sobre todo en cuanto a negocios y finanzas se refiere. Aun así, tomar una decisión radical que has estado posponiendo podría poner en marcha una nueva y más positiva fase.
 
 ## Dinero
 
-Esta semana es sobre la actividad astrológica en tu sector de deuda. Es posible que recibas una factura, una llamada telefónica o un recordatorio sobre una factura pendiente. No le ignores. Podrías toparte con una desagradable sorpresa si lo haces. Podría empeorar con sanciones adicionales. La persona a la que le debes dinero puede adoptar un método de recolección repentina y desagradable.
+Estás a punto de tomar ventaja en una nueva empresa generadora de dinero. La suerte y la expansión vienen junto con la oportunidad, lo que significa que tendrás que prepararte para aceptar las ofertas de empresarios o inversionistas que quieran asegurarse de que tus ideas y productos tengan éxito. La ventana de oportunidad podría ser pequeña, por lo que ten todo preparado. Actualiza tu currículum y formula un plan de negocios.

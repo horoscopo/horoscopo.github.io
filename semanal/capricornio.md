@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 24 de octubre 2022 al 30 de octubre 2022 
-description: Horóscopo semanal capricornio 24 de octubre 2022 al 30 de octubre 2022. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Capricornio. Tú solito.
+title: capricornio 31 de octubre 2022 al 06 de noviembre 2022 
+description: Horóscopo semanal capricornio 31 de octubre 2022 al 06 de noviembre 2022. Recuerda que ha empezado la época de los Capricornio… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-10-24
+ogimg: /images/zodiac/semanal_capricornio.png#2022-10-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-24'
+ lastmod: '2022-10-31'
 ---
 
 
 
-## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Capricornio. Tú solito.
+## Recuerda que ha empezado la época de los Capricornio… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 
-Lo más complicado es siempre el principio, de todo, una vez que te has subido al “barco” no vuelvas a tirarte al agua, ¿me explico? 
-Y si aún tienes dudas sobre algo, tómate tu tiempo para decidir, a solas, sin que nadie pueda darle más vueltas a tu cabeza…
-Tu escena social brilla esta semana con el cosmos otorgándote una gran cantidad de aliento para echar a andar planes y proyectos. La Luna Nueva del lunes podría ser el punto de partida para una colaboración que ha demostrado ser muy fructífera. Sin embargo, tu semana no estará exenta de dificultades debido a que el jueves trae la posibilidad de malos entendidos. Puede que tengas disposición a ceder si esto significa mantener tus amistades intactas. Tus oportunidades románticas se ven abundantes, con una en particular que podría bien valer la pena.
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Capricornio, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+Con la positiva alineación en tu sector de relaciones, las personas en tu círculo social podrían ser muy optimistas y útiles en esta y en las próximas semanas. Sin embargo, te cuidado a mitad de semana, ya que alguien podría comportarse demasiado agresivamente para tu gusto. Esta persona podría ser encantadora, pero si algo no se siente bien, traza bien la línea y habla. Aparte de esto, gozas de muchas opciones para fiestas, celebraciones y expandir tu red de contactos en general. Si necesitas un descanso, tómalo.
 
 ## Dinero
 
-Para ti esta semana es sobre nueva energía en el sector del hogar, donde el hambre de creatividad puede estarte haciendo querer gastar más de lo que tienes en restauración y redecoración. Sin embargo no se trata de lo que gastas. Algunos aspectos pueden servir como medida provisional para evitar que lo hagas. Después de todo cambiarás de opinión de lo que te gusta dentro de unos años de todos modos.
+No podrías ser más social en estos momentos aunque trataras, y esto va a ayudarle a tu trabajo a obtener la atención de las personas que te pueden ayudarte a avanzar. Asiste a eventos de trabajo y amplia tu red social tanto como sea posible. Al mismo tiempo, mejora tus habilidades de comunicación para obtener el tipo de dinero que quieres y necesitas de ciertos trabajos o tareas independientes.

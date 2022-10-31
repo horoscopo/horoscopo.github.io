@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: leo 24 de octubre 2022 al 30 de octubre 2022 
-description: Horóscopo semanal leo 24 de octubre 2022 al 30 de octubre 2022. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Leo, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: leo 31 de octubre 2022 al 06 de noviembre 2022 
+description: Horóscopo semanal leo 31 de octubre 2022 al 06 de noviembre 2022. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-10-24
+ogimg: /images/zodiac/semanal_leo.png#2022-10-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-24'
+ lastmod: '2022-10-31'
 ---
 
 
 
-## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Leo, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
- que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
-A medida que Mercurio se acerca a Plutón en tu signo, puede que estés buscando una manera de doblar una oportunidad a tu ventaja. ¿Pero realmente vale la pena? Es posible que busques llegar a cierto resultado, pero hacer todo lo posible para obtenerlo es bastante estresante. Sería mejor que hagas tu mejor intento y olvidarte del asunto. Por otro lado, este es un gran momento para que dejes atrás toda la carga emocional que te está evitando avanzar.
+Tienes que motivarte Leo. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino Leo. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro Leo, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa Leo, ¿tu tiempo no vale nada o qué?
+Podrías ser el centro de atención a partir del martes, momento en el que el sol ingresa a tu sector de metas y ambiciones. Las próximas cuatro semanas podrían encontrarte apuntando alto y con ganas de avanzar con tus planes. Como esta también es una semana ocupada socialmente, puede que elijas viajar y disfrutar de esta energía con amistades y familiares que vienen desde lejos. Esto debería ser algo que disfrutarás mucho. Por último, a medida que el etéreo Neptuno se vuelve directo a mediados de la semana, una situación podría esclarecerse.
 
 ## Dinero
 
-La buena noticia es que tienes actividad en tu sector de rutina diaria de trabajo, lo que puede aportar muchas nuevas oportunidades para expandir tu presencia o hacer que tu trabajo destaque. El Universo tiende a cambiar las cosas, pero a veces las cambia de nuevo con la misma rapidez. Muévete rápido para aprovechar los dones que se te proveen. Mientras tanto, lo mejor es cooperar en el trabajo para que nadie pierda los estribos.
+Te enfrentas a un periodo en el que tendrás que frenar el gasto para poder pagar una deuda vieja. Algo con lo que pensaste que habías lidiado en el pasado, de hecho, puede que no haya sido pagado. Puede que los intereses hayan aumentado, por lo que es imperativo que pongas manos a la obra con un plan de pago con el que puedas vivir con el fin de hacerle frente al problema por última vez. Vas a descansar más fácilmente si lo haces.

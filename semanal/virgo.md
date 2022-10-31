@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 24 de octubre 2022 al 30 de octubre 2022 
-description: Horóscopo semanal virgo 24 de octubre 2022 al 30 de octubre 2022. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: virgo 31 de octubre 2022 al 06 de noviembre 2022 
+description: Horóscopo semanal virgo 31 de octubre 2022 al 06 de noviembre 2022. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Virgo, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-10-24
+ogimg: /images/zodiac/semanal_virgo.png#2022-10-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-24'
+ lastmod: '2022-10-31'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Virgo, vuelve a brillar.
 
-Has caído en la rutina Virgo, quieres pelear por personas que quizás no tengan mucho en común contigo pero aún así, te sigues aferrando a algo que quizás tenga fecha de caducidad. Necesitas hablar, conversar, pero un largo tiempo y de verdad poner todas y cada una de las cartas sobre la mesa. Te guardas demasiado para ti, para dentro, y por más que intentas sacarlo es como si algo te lo impidiera. Esta semana es buena para hacer balance de lo que quieres, de lo que buscas y de lo que necesitas. No vas a parar, tienes muchas cosas que hacer y eso será lo que te aleje de algunos problemas. Pero cuando eso que hagas se acabe, el problema seguirá estando presente, seguirá en el mismo sitio donde lo dejaste, y como no lo soluciones permanecerá ahí todo el tiempo. No te agobies y respira hondo cuando algo se ponga difícil. De todo se sale Virgo, ya lo sabes. Las pequeñas cosas cuentan mucho ahora así que, empieza a decir que “si” a cualquier plan que te propongan, por pequeño que sea. Si quieres salvar algo, habla Virgo, habla y saca de una vez todo ese universo de sentimientos y de emociones que tienes dentro. Como no seas claro de verdad y sólo tragues y tragues, todo va a salir mal. Disfruta esta semana pero aclárate un poco…
-A pesar de que puede que tengas disposición a perder peso y tonificar tu cuerpo tanto como te sea posible, puede que hacerlo no sea fácil en práctica. La tentación de darte gustos podría interferir con tus planes. Sin embargo, puede que seas capaz de superar estos obstáculos si contratas los servicios de un entrenador personal. Aun así, el impulso de comer en exceso podría ser casi imposible de resistir una vez Venus entre a Tauro más adelante en la semana. Es posible que tengas que ceder y simplemente disfrutar.
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
+La conexión Júpiter/Plutón manifestándose en tu sigo alcanza su punto culminante esta semana, así que prepárate para sacarle el máximo provecho a una situación o circunstancia que podría impulsarte hacia un mayor éxito. Si tienes disposición a hacer el trabajo preliminar ahora, podrías cosechar los frutos más tarde. Sería aconsejable actuar con calma el lunes, cuando la actividad lunar podría empujarte a hacer un juicio precipitado. ¡Evita movimientos impulsivos para ahorrarte una vergüenza! Por último, el actual enfoque en tu sector de relaciones podría ayudar a que una relación florezca.
 
 ## Dinero
 
-Estás tratando de encontrarle solución a un dilema monetario en curso. Te estás convirtiendo en una figura de autoridad en tu campo. Y ahora te preparas para aprovechar todo lo que has cultivado. El cosmos está afectando a tu sector de dinero y valores, mostrando que el flujo de efectivo debería de aumentar muy pronto con un poco de esfuerzo y decisión.
+Si lo que quieres es cierto equilibrio, mira a tu signo. No es casualidad que seas un excelente anfitrión. Actualmente tu vida profesional se opone a tu vida hogareña. Ambos quieren la totalidad de tu tiempo y una de las dos tiene que ceder. Por ejemplo, cambia tu vida en el hogar para dar cabida a tu vida laboral convirtiendo un cuarto extra en una oficina; lo cuál hará de tus horas de trabajo mucho más productivas, equilibradas y lucrativas.

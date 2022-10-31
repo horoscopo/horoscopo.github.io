@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: tauro 24 de octubre 2022 al 30 de octubre 2022 
-description: Horóscopo semanal tauro 24 de octubre 2022 al 30 de octubre 2022. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+title: tauro 31 de octubre 2022 al 06 de noviembre 2022 
+description: Horóscopo semanal tauro 31 de octubre 2022 al 06 de noviembre 2022. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Tauro. Ahora brillas así que, aprovecha. Aprovecha todo.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-10-24
+ogimg: /images/zodiac/semanal_tauro.png#2022-10-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-24'
+ lastmod: '2022-10-31'
 ---
 
 
 
-## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Tauro. Ahora brillas así que, aprovecha. Aprovecha todo.
 
-Abre los ojos de una vez Tauro. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas Tauro, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero Tauro, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también Tauro. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. Tauro por favor, te tenían que tener en un altar… Y lo sabes…
-Mientras que una parte de ti podría estar preocupada por el presente y por hacer tu vida lo más eficiente, armoniosa y equilibrada que puede llegar a ser, otro aspecto de ti está pensando en el futuro. Sin embargo, tu enfoque principal está en hacer un balance de tu felicidad, bienestar y el equilibrio entre tu trabajo y vida personal. Tu futuro será bendecido por las semillas que plantes ahora. Al hacer todo lo posible por conseguir que tu situación actual te funcione, pronto cosecharás las recompensas.
+Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver Tauro, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
+ hasta que empieces a sentir que realmente merece la pena.
+Confía en tu intuición: tus amistades y colegas valoran tu sensibilidad. Una nueva idea o instrucción que te inspira podría levantarte el ánimo. El cosmos sugiere que deberías ser audaz y no tener miedo de probar algo distinto. Podrías descubrir que la buena suerte o la bondad de los demás te brindan toda la valentía que necesitas. Cuando el encantador Venus se opone a Marte el jueves, podrías descubrir que sientes una instantánea atracción por alguien que está en un cargo de autoridad. Ve con calma y aguarda a que llegue el momento justo. Tal vez no sea bueno mostrar tus sentimientos demasiado pronto. 
+El ingreso del sol a Cáncer el mismo día puede preparar el camino para una mejor comunicación, ya que tus habilidades de escucha estarán en su punto máximo. Existe la posibilidad de que alguien se moleste más adelante en la semana, pero con un pensamiento inteligente, tal vez puedas darle un giro a la situación. Trata de no tomar las crítica de alguien demasiado en serio el fin de semana.
 
 ## Dinero
 
-Esta semana estás pensando en dónde poner tu foco de atención. Esto se hace aún más importante con los aspectos afectando a tu sector de hogar y emociones internas. Conforme consideras dónde establecerte, es posible que también estés pensando en dónde quieres estar en cinco o diez años. Un aspecto favorable ayuda a que tu vida laboral sea más creativa y satisfactoria. Todo lo que necesitas hacer es poner tu plan en marcha y el dinero llegará.
+Para ti, esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes la suerte de tener una ventana de tiempo para saldar cuentas viejas o investigar si es mejor comprar, mantener o vender inversiones compartidas. Sin embargo, sabes lo que quieres, y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.

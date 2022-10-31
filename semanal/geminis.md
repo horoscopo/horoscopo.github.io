@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 24 de octubre 2022 al 30 de octubre 2022 
-description: Horóscopo semanal geminis 24 de octubre 2022 al 30 de octubre 2022. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+title: geminis 31 de octubre 2022 al 06 de noviembre 2022 
+description: Horóscopo semanal geminis 31 de octubre 2022 al 06 de noviembre 2022. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-10-24
+ogimg: /images/zodiac/semanal_geminis.png#2022-10-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-24'
+ lastmod: '2022-10-31'
 ---
 
 
 
-## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
 
-A veces amas demasiado Géminis, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar Géminis, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. Géminis, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. Géminis, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos Géminis, y siente… Feliz semana…
-Si bien ciertos planes placenteros pueden estar firmemente en tu agenda, otros factores indican que podrías tener ganas de hacer cambios en tu estilo de vida. Con Mercurio moviéndose a través de tu sector de hábitos y rutinas, puede que quieras reorganizar algunos aspectos de tu día para poder lograr tus metas de salud y también aumentar tu productividad. A partir del Miercoles, puede que te resulte mucho más fácil mantenerte en este nuevo régimen. Hasta ese momento, sé paciente contigo.
+No estás mal con lo que tienes no, pero ya no eres el mismo que antes Géminis. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala Géminis, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Géminis. Si quieres cambiar algo es porque no estás satisfecho del todo Géminis, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+El apoyo que recibes de los demás continúa esta semana, con la posibilidad de que recibas una oferta de la cual tal vez quieras apoderarte. Las oportunidades románticas también se vislumbran muy optimistas, con una amistad desarrollando nueva calidez e intimidad. Tendrás la oportunidad de disfrutar algunos eventos sociales muy especiales, incluyendo encantadoras citas y salidas con tu familia. Las emprendimientos creativos y actividades empresariales se vislumbran muy prometedores. Tu confianza en tus habilidades te ayuda a hacer muy posible el éxito.
 
 ## Dinero
 
-Puede que solicites una audiencia más grande con el fin de atraer a compradores, inversionistas y otras personas con dinero. Algo que estas planeando requiere de más dinero con el fin de despegar. Es muy importante el prestar atención al dinero que compartes con otros. Algunos co-inversionistas o algunas deudas necesitarían ser atendidas. Asegúrate de firmar documentos y pagar honorarios a tiempo. A partir de ahí, podrás cosechar recompensas.
+Es necesario utilizar emociones constructivamente sobre una base regular. Si haces algo creativo para ganarte la vida, este es el equilibrio perfecto entre el arte y el comercio, porque ahora el Universo te apoya. Con cierta actividad en el área que rige la educación superior, los viajes y la espiritualidad, es el momento de mirar al exterior para generar oportunidades de dinero tan pronto como sea posible.
