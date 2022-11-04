@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de noviembre 2022
-description: Horóscopos del dia de hoy 03 de noviembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de noviembre 2022
+description: Horóscopos del dia de hoy 04 de noviembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-11-03
+ lastmod: 2022-11-04
 ---
-El trígono entre el Sol y Urano envía llamas de cambio. Los cambios son oportunidades, ¡así que aprovecha! Toma un riesgo si la oportunidad se te presenta. Esta noche, las personas son propensas a iniciar juegos mentales cuando la Luna en Leo aspecta a Plutón. Es probable que lo que esté en tu mente no concuerde con lo que hay en tu corazón.
+El día de hoy, disfruta de pasar tiempo en compañía de amigos y familiares. Estás dentro de una zona de confort. Por cierto, estar en esa zona significa no tener que pensar en lo que vas a decir o lo que vas a hacer. Esta energía continúa a lo largo de la noche. Es un buen momento para pulir tus habilidades sociales.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
