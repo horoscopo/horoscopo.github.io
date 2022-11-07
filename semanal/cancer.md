@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 31 de octubre 2022 al 06 de noviembre 2022 
-description: Horóscopo semanal cancer 31 de octubre 2022 al 06 de noviembre 2022. Semana de reflexión Cáncer, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Cáncer. 
+title: cancer 07 de noviembre 2022 al 13 de noviembre 2022 
+description: Horóscopo semanal cancer 07 de noviembre 2022 al 13 de noviembre 2022. Llega una buena semana Cáncer, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-10-31
+ogimg: /images/zodiac/semanal_cancer.png#2022-11-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-31'
+ lastmod: '2022-11-07'
 ---
 
 
 
-## Semana de reflexión Cáncer, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Cáncer. 
+## Llega una buena semana Cáncer, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 
-No te arrepientas de abrirte Cáncer, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Cáncer, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Cáncer, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Cáncer, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
-Mientras el Sol entra lentamente a tu sector de finanzas personales, tal vez sientes la necesidad de hacer un balance de tu situación actual y hacer lo que sea para mejorarla. Si estás buscando algún producto costoso, también estarás buscando regatear, y serás capaz de negociar para conseguirlo. Sin embargo, un vínculo más obstinado sugiere que podrías terminar perdiendo si presionas demasiado a alguien, así que saber cuándo detenerte podría ser útil.
+Quita importancia a las cosas Cáncer, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Cáncer. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
+Si alguien te ofrece la oportunidad de tomar un viaje improvisado, es posible que la tomes por el puro placer de hacer algo en el calor del momento. Tu agenda diaria parece bastante ocupada también, así que evita perderte de una oportunidad que podría funcionarte bien a largo plazo. Tus relaciones pueden ser propensas a contratiempos debido a que la Luna Llena del miércoles sugiere que ciertos sentimientos podrían eliminar el sentido común. Evita reaccionar exageradamente en el calor del momento.
 
 ## Dinero
 
-Esta semana hay un choque de energías poderosas en el cielo. Estas eliminando a las personas que no son compatibles con tu vida. Es hora de dejar de esconderse detrás de los demás o fingir que están ahí sólo para servir. Es hora de ponerse de pie. Tienes que esforzarte para poder obtener el tipo de dinero que deseas y mereces.
+Provees un par de ojos frescos a los acontecimientos de esta semana con actividad en tu sector de apariencias. Una amistad puede tener una sugerencia útil sobre cómo ganar más dinero o conseguir la promoción que has estado buscando. Incluso si no piensas igual, escucha a esta persona. Tal ve esta situación con más claridad que tú. Se te pide traer un lado mucho más serio de tu personalidad a la mesa.

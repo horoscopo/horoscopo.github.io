@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 31 de octubre 2022 al 06 de noviembre 2022 
-description: Horóscopo semanal leo 31 de octubre 2022 al 06 de noviembre 2022. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+title: leo 07 de noviembre 2022 al 13 de noviembre 2022 
+description: Horóscopo semanal leo 07 de noviembre 2022 al 13 de noviembre 2022. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Leo, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-10-31
+ogimg: /images/zodiac/semanal_leo.png#2022-11-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-10-31'
+ lastmod: '2022-11-07'
 ---
 
 
 
-## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Leo, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 
-Tienes que motivarte Leo. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino Leo. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro Leo, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa Leo, ¿tu tiempo no vale nada o qué?
-Podrías ser el centro de atención a partir del martes, momento en el que el sol ingresa a tu sector de metas y ambiciones. Las próximas cuatro semanas podrían encontrarte apuntando alto y con ganas de avanzar con tus planes. Como esta también es una semana ocupada socialmente, puede que elijas viajar y disfrutar de esta energía con amistades y familiares que vienen desde lejos. Esto debería ser algo que disfrutarás mucho. Por último, a medida que el etéreo Neptuno se vuelve directo a mediados de la semana, una situación podría esclarecerse.
+Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo Leo… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Leo, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Leo. Lo vas a agradecer… Feliz semana.
+Hay actividad en tu sector de habla y pensamiento, con el cosmos llevándote activamente a salir de tu zona de confort e involucrarte activamente con los demás. La luna llena del martes podría desbaratar todo por completo, en particular si se pierden los estribos o terminas en una discusión. Los sentimientos podrían ponerse intensos a menos que plantees soltar lo que sea que te está molestando y sigas adelante. La presencia práctica de Saturno en tu sector familiar podría empujarte a enfrentar un problema actual.
 
 ## Dinero
 
-Te enfrentas a un periodo en el que tendrás que frenar el gasto para poder pagar una deuda vieja. Algo con lo que pensaste que habías lidiado en el pasado, de hecho, puede que no haya sido pagado. Puede que los intereses hayan aumentado, por lo que es imperativo que pongas manos a la obra con un plan de pago con el que puedas vivir con el fin de hacerle frente al problema por última vez. Vas a descansar más fácilmente si lo haces.
+Ahora estás en un período de redefinición de lo que eres y cómo te proyectas al mundo. El Universo te está pidiendo que prestes mucha atención a tu carrera. Si no es la que deseas tener, este es el momento de cambiarlo. No vas a conseguir mucho más apoyo del que ya tienes.
