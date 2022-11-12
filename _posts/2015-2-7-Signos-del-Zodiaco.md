@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de noviembre 2022
-description: Horóscopos del dia de hoy 11 de noviembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de noviembre 2022
+description: Horóscopos del dia de hoy 12 de noviembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-11-11
+ lastmod: 2022-11-12
 ---
-Es demasiado fácil olvidar que hay algo que tienes que hacer. Lo comienzas y no lo terminas (una vez más) bajo la Luna saliéndose de su curso. Para los solteros, esta noche, es aconsejable evitar algo nuevo cuando la Luna cuadra a Venus y se opone a Marte. Las parejas podrían rápidamente caer en la ira, pero ojalá que todo sea pronto olvidado.
+El aspecto entre Mercurio y Plutón despierta pensamientos profundos hoy. Para sacarles el máximo provecho, compártelos con alguien que sea importante para ti. (O al menos escríbelos.) ¡Abróchate el cinturón de seguridad! Esta noche se sentirá como un paseo en un juego en el que alguien moviera el suelo justo debajo de tus pies. Las cosas realmente se ponen interesantes.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
