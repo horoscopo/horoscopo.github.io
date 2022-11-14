@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 07 de noviembre 2022 al 13 de noviembre 2022 
-description: Horóscopo semanal escorpio 07 de noviembre 2022 al 13 de noviembre 2022. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+title: escorpio 14 de noviembre 2022 al 20 de noviembre 2022 
+description: Horóscopo semanal escorpio 14 de noviembre 2022 al 20 de noviembre 2022. Tu presente y tu futuro valen muchísimo la pena Escorpio. La vida siempre se acaba equilibrando Escorpio. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-11-07
+ogimg: /images/zodiac/semanal_escorpio.png#2022-11-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-07'
+ lastmod: '2022-11-14'
 ---
 
 
 
-## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+## Tu presente y tu futuro valen muchísimo la pena Escorpio. La vida siempre se acaba equilibrando Escorpio. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 
-Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
-Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
-El martes, puede que una encantadora alineación estelar te motive para que te arriesgues con un proyecto grupal o comunitario. Si lo haces, podría ser muy divertido. Mientras tanto, Mercurio genera otras situaciones que podrían causar malentendidos y hacer que rechaces sin razón la sugerencia de una persona. Más allá de lo que ocurra en los siguientes días, trata de no tomártelo de manera personal. Hay grandes posibilidades de que todo desaparezca la próxima semana.
+Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección Escorpio, y ahora puedes elegir lo que quieras.
+Para sobreponerte a cualquier reserva que tengas en torno a una idea atrevida, puedes beneficiarte de hablar con alguien que haya pasado por una situación similar. La influencia de Venus en tu sector creativo podría ayudarte a ver las cosas desde una perspectiva más positiva o desde un nuevo ángulo, lo que te dará esperanzas. Más adelante en la semana, una conexión con el suertudo Júpiter puede traerte un estado de ánimo optimista que te anime a seguir adelante de todas formas; incluso si el resultado es incierto.
 
 ## Dinero
 
-Andas muy comunicativo/a ahora. El hablar, chatear, o incluso el uso de sitios de redes sociales trabaja a tu favor y son parte de tu persona por ahora. Pero estás llevándolo a otro nivel, inclusive al hablar de que estás pensar en escribir tus memorias. Tienes una increíble cantidad de energía creativa en este momento, úsala a tu ventaja financieramente y para encontrar a tu público, después, busca los mercados con el más amplio alcance para obtener los mejores resultados.
+Esta semana tienes una gran cantidad de impulso para atraer más lana. Es posible que solo se trate de que tu ambición esté llegando a la superficie conforme los demás te ven como la persona exitosa en la que estás en proceso de convertirte. Podría haber cierta tensión con colegas o conocidos sociales. Sólo asegúrate de que no apostar la granja.

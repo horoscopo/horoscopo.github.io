@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 07 de noviembre 2022 al 13 de noviembre 2022 
-description: Horóscopo semanal capricornio 07 de noviembre 2022 al 13 de noviembre 2022. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+title: capricornio 14 de noviembre 2022 al 20 de noviembre 2022 
+description: Horóscopo semanal capricornio 14 de noviembre 2022 al 20 de noviembre 2022. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-11-07
+ogimg: /images/zodiac/semanal_capricornio.png#2022-11-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-07'
+ lastmod: '2022-11-14'
 ---
 
 
 
-## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-Necesitas amor Capricornio, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a Capricornio es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
-Asegúrate de darte mucho margen de tiempo si estás lidiando con fechas límites. La razón es que con Mercurio moviéndose hacia atrás desde hace algún tiempo, lo mejor sería que no dejaras nada para el último minuto. Hay buenas noticias el viernes con Júpiter, el planeta de la buena fortuna, entrando a tu sector de hogar y familia; trayendo consigo oportunidades para expandir. Esto podría significar hacer crecer tu familia o la búsqueda de una casa más grande en una nueva ubicación. ¡Lo que mejor te venga!
+Llegan oportunidades grandes Capricornio y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias Capricornio, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Capricornio, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+Encuentra una razón para celebrar, ya que las activas influencias pueden hacer de esta una semana memorable. El actual enfoque en tu sector de relaciones sugiere que saber formar parte de un equipo podría serte más útil que trabajar a solas. Además, cuando Venus entre a Leo, un vínculo romántico podría profundizarse como resultado de una o un par de citas fabulosas. Es posible que sientas inspiración a hacer planes de viaje el fin de semana, cuando también deberías considerar cualquier idea innovadora que pueda ampliar tus horizontes. ¡Es hora de divertirte!
 
 ## Dinero
 
-Ciertos aspectos en tu sector de dinero en efectivo pueden limitar o restringir lo que eres capaz de ganar. En vez de entrar en pánico, piensa en cómo este período te puede proporcionar el tiempo que necesitas para planear tu próximo movimiento. Puedes hacer de un hobby,  un trabajo de tiempo completo con un poco de ingenio y acción concentrada. Tu imaginación no tiene rival ahora mismo. No dejes que un revés financiero te empuje fuera de curso.
+Esta semana es acerca de los aspectos que afectan dinero y valores. Esto es extremadamente afortunado, dándote la oportunidad de mejorar tus finanzas ahora. Se te está empujando a centrarte en la familia y el romance. Podría ser bueno tomarte un descanso o renovar tu convicción de equilibrar tu vida laboral con tu vida personal.

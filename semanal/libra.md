@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 07 de noviembre 2022 al 13 de noviembre 2022 
-description: Horóscopo semanal libra 07 de noviembre 2022 al 13 de noviembre 2022. Vienen emociones fuertes Libra, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+title: libra 14 de noviembre 2022 al 20 de noviembre 2022 
+description: Horóscopo semanal libra 14 de noviembre 2022 al 20 de noviembre 2022. Da la bienvenida a tu nueva vida Libra, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2022-11-07
+ogimg: /images/zodiac/semanal_libra.png#2022-11-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-07'
+ lastmod: '2022-11-14'
 ---
 
 
 
-## Vienen emociones fuertes Libra, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+## Da la bienvenida a tu nueva vida Libra, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 
-No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
-Cuando el sol se alinea con el reflexivo Mercurio en tu sector de relaciones, puede que disfrutes de interacciones muy positivas con un ser querido o en distintos eventos sociales. Pero los malentendidos pueden estar a la orden del día, en especial a mitad de semana, así que ten cuidado. El nebuloso Neptuno también participa en esta combinación, de manera que alguien podría estar equivocado. Uno de tus familiares podría hacer que te sientas culpable por divertirte si él o ella debe quedarse en casa cuidando a un familiar. Si esta persona tiene un reclamo genuino, sería bueno tener una charla. Además, si actúa de este modo a menudo, puede que sea momento de evitar que se transforme en un problema mayor. 
-Por otro lado, presta atención a tus finanzas durante los próximos días; tal vez sientas la tentación de darte un gusto comprando algo que en verdad no necesitas.
+Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
+ y es que no puedes parar, de verdad.
+Un deseo que has tenido durante algún tiempo podría hacerse más fuerte esta semana, sobre todo si tiene que ver con romance. Como resultado, la necesidad de acercarte a esta persona podría convertirse en una especie de obsesión. Sin embargo, ándate con cuidado, ya que esta actitud podría incomodarle a menos que el sentimiento sea mutuo. Además, tal parece que no descansarás hasta que llegues al fondo de un misterio o problema, y tu persistencia en esta área sin duda podría valerte la pena.
 
 ## Dinero
 
-Tu normalmente personalidad impulsiva puede tener que tomar el asiento trasero a tu lado creativo esta semana. Es posible que se te esté pidiendo moverte a una posición de mayor autoridad en tu empresa actual, y es posible que necesites tiempo para decidir si esto es lo que realmente quieres. A pesar de que ofrece un mayor sueldo, puede llevarte en una dirección que frene tu crecimiento. Mantén los ojos en el balance final.
+Para ti, esta semana se trata de llevar un cambio muy necesario a tu familia, los niños, el romance y la diversión, revelando formas inteligentes para desahogarse sin tener que gastar un montón de dinero. Pero el Universo está sacudiendo las cosas de maneras que pudieras no haber previsto. Puede ser difícil el sentirse estable o algún grado de apoyo. Evita cualquier gasto nuevo.

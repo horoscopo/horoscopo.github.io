@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 07 de noviembre 2022 al 13 de noviembre 2022 
-description: Horóscopo semanal piscis 07 de noviembre 2022 al 13 de noviembre 2022. Empieza a hacerte promesas a ti mismo Piscis, empieza a prometerte amor propio, hoy y siempre. 
+title: piscis 14 de noviembre 2022 al 20 de noviembre 2022 
+description: Horóscopo semanal piscis 14 de noviembre 2022 al 20 de noviembre 2022. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-11-07
+ogimg: /images/zodiac/semanal_piscis.png#2022-11-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-07'
+ lastmod: '2022-11-14'
 ---
 
 
 
-## Empieza a hacerte promesas a ti mismo Piscis, empieza a prometerte amor propio, hoy y siempre. 
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-Piscis, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo Piscis. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
-Es hora de proteger tus límites y defender tus principios. La potente alineación astral que alcanza su máximo entre semana necesita ser manejada con cuidado. Si bien es una oportunidad para hacer algunos cambios, puede que tengas que hacerle frente a la oposición de otras personas, lo que podría ser una molestia. Tu coraje y determinación parecen aumentar con la potente Luna Llena en tu signo. Si sabes lo que quieres, los próximos días pueden ser fundamentales para impulsarte a obtenerlo sin importar las consecuencias.
+Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro Piscis, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Piscis, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
+Un deseo podría ser tan fuerte que ocupará tu mente y sentidos, en particular al principio de la semana, cuando te puedes preguntar qué te dio. Quizás deberías darle curso, porque podrías obtener más de lo que esperas. El enfoque en tu sector hogareño podría llevarte a cuestionar las intenciones de algunos miembros de tu familia. Puede que una charla de corazón a corazón sea mucho mejor que albergar sospechas innecesarias. Por último, Venus, el astro del amor, en Libra puede serte útil en las negociaciones y las conversaciones románticas.
 
 ## Dinero
 
-Podrías darte cuenta de que tus habilidades de comunicación necesitan algo de trabajo esta semana. Mientras sientes que los puntos son claros, otros pueden necesitar una aclaración. No lo tomes como algo personal. Ellos (o tú) puede estar actuando bajo subconsciente en lugar de las necesidades reales. Debido a que los aspectos transforman la zona que rige las vidas pasadas, sueños y situaciones kármicas, siempre es mejor pecar por exceso de cortesía, sobre todo en cuanto al dinero se refiere.
+Esta semana, tu sensible naturaleza puede desear dinero para las cosas más suaves de la vida, como la búsqueda de la belleza y la verdad. Pero tu atención se dirige a tus vidas pasadas y el karma, donde es posible que tengas que hacer un poco de curación. Mientras tanto, tu medio de subsistencia es mucho más comunicativo. Cuanto más digas, sobre todo de la manera correcta, más serás capaz de ganar.

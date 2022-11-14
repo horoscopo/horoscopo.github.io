@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 07 de noviembre 2022 al 13 de noviembre 2022 
-description: Horóscopo semanal aries 07 de noviembre 2022 al 13 de noviembre 2022. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+title: aries 14 de noviembre 2022 al 20 de noviembre 2022 
+description: Horóscopo semanal aries 14 de noviembre 2022 al 20 de noviembre 2022. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-11-07
+ogimg: /images/zodiac/semanal_aries.png#2022-11-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-07'
+ lastmod: '2022-11-14'
 ---
 
 
 
-## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Aries, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
-Hay un vivaz énfasis en pasarlo bien y salir a pasear, lo cual te puede hacer bien. Y con la entrada de Venus, tu planeta personal, al mismo sector el martes, puede que haya algo de romance en tu futuro. Este podría ser el momento para volver a encender la llama del amor con esa persona especial. Disfrutar pasatiempos y actividades creativas también puede ayudarte a animar y renovar tu espíritu. El viernes, se presenta actividad solar en tu sector de estilo de vida, lo que podría motivarte para que te organices.
+Estás alcanzando una madurez Aries, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Aries y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
+Puede que te abstengas de compartir tus sentimientos, en especial si se trata de una cuestión sensible. Si ya has tenido experiencia con este asunto, podrías sentirte incluso con menos ganas de hablar de ello. Sin embargo, podría producir un importante logro. A principios de la semana, puede que descubras que superar una barrera y hablar con la verdad es un gran alivio. El vital Marte ingresa a tu sector espiritual el fin de semana, lo que podría revolucionar tu psiquis. Prepárate para algunos vívidos sueños.
 
 ## Dinero
 
-Ahora, puede que estés pensando en cómo pedir prestado algo de dinero para sacarte del apuro ya sea de un mal momento o para abrir un nuevo negocio. Es a quién conoces lo que cuenta. Acude a miembros de la familia, amigos y otras partes interesadas para recibir ya sea asesoramiento o dinero en efectivo. Dado a que una relación de apoyo afecta a tu sector de trabajo y salud, piensa en la posibilidad de avanzar a partir de donde estás ahora.
+Estás a punto de tomar ventaja de nuevas oportunidades. Tus energías masculinas y femeninas están trabajando en conjunto, lo que tiene un efecto positivo en tu balance final. Tus inversiones y propiedad compartida pueden requerir alguna acción de tu parte. Espera unos días antes de firmar cualquier documento o convenio. Tú y tu pareja deben de estar en la misma frecuencia.

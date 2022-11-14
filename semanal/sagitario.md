@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 07 de noviembre 2022 al 13 de noviembre 2022 
-description: Horóscopo semanal sagitario 07 de noviembre 2022 al 13 de noviembre 2022. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: sagitario 14 de noviembre 2022 al 20 de noviembre 2022 
+description: Horóscopo semanal sagitario 14 de noviembre 2022 al 20 de noviembre 2022. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-11-07
+ogimg: /images/zodiac/semanal_sagitario.png#2022-11-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-07'
+ lastmod: '2022-11-14'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Sagitario. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Sagitario, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Sagitario, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Sagitario pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-Tus amistades y tu vida social pueden hacer que el comienzo de la semana sea muy placentero. Sin embargo, podrías descubrir que el martes es más intenso, ya que una conexión entre el encantador Venus y el potente Plutón te encuentra apegándote bastante a alguien o algo. Relájate un poco. Si vuelve a ti, sabrás que tenía que ser. A medida que el sol se aleja de tu sector profesional e ingresa a tu sector social, puede que sientas más tranquilidad y menos cansancio. Has atravesado una agitada etapa últimamente, y el enfoque actual en el signo de Tauro indica que es momento de desconectarte y divertirte. 
-Debido a que tanto el precavido Saturno como el poderoso Plutón retrógrado están en tu sector de relaciones, los próximos meses podrían hacer que veas tus relaciones con más objetividad. Puede que así sea más fácil ver qué cambios son necesarios para que puedas estar feliz y en paz.
+A veces sientes como si no avanzaras Sagitario, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Sagitario, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Sagitario, feliz semana.
+Es posible que motives a otras personas para que se unan a tu búsqueda de unas vacaciones, una nueva oportunidad o un nuevo curso o taller. De hecho, hacer estas actividades sin compañía no es tan divertido como hacerlas con amigos o tu pareja. Venus también entra a tu sector social esta semana, dándote ganas de ponerte en espíritu festivo. Prepárate para recibir muchas invitaciones a divertidas fiestas y reuniones. También prepárate para recibir una oferta inesperada.
 
 ## Dinero
 
-Esta semana tu carrera y autoridad necesitan más atención. Convertirte en el experto que pareces ser significa más dinero en tu cuenta bancaria y más espacio para crecer. Ciertos aspectos astrales afectan tu sector de dinero en el buen sentido. Acumula lo más que puedas para una jubilación cómoda.
+La buena noticia es que el Universo te está haciendo parecer interesante y único/a con todos. La mala noticia es que aporta una buena dosis de tensión a tu sector de profesión. Es posible que desees que tu individualidad y  tus buenas ideas brillen, pero alguien en el trabajo quiere mantener el statu quo. El dinero viene cuando eres capaz de alzar la línea sólo un poco con tal de encontrar un foro de apoyo para tus habilidades.

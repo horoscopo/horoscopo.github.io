@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 07 de noviembre 2022 al 13 de noviembre 2022 
-description: Horóscopo semanal virgo 07 de noviembre 2022 al 13 de noviembre 2022. Tienes que empezar a dejar que el resto luche por tu Virgo, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+title: virgo 14 de noviembre 2022 al 20 de noviembre 2022 
+description: Horóscopo semanal virgo 14 de noviembre 2022 al 20 de noviembre 2022. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-11-07
+ogimg: /images/zodiac/semanal_virgo.png#2022-11-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-07'
+ lastmod: '2022-11-14'
 ---
 
 
 
-## Tienes que empezar a dejar que el resto luche por tu Virgo, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 
-Llega una etapa buena Virgo, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no Virgo. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea…
-A pesar de que la semana pudiera parecer menos productiva de ciertas maneras, hay mucho sucediendo detrás de escenas que es muy importante. El actual enfoque en un sector más apartado de tu carta te invita a sumergirte de lleno y utilizar recursos ocultos que podrían inspirarte y motivarte. Una idea realmente podría emocionarte, y si ese es el caso, tal vez debas darle seguimiento. Cuida tus finanzas una vez que Urano se torne retrógrado a partir del viernes.
+Fíate de ti mismo Virgo, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Virgo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
+Deberías sentirte en tu elemento con Venus y Marte en tu signo aumentando tu vitalidad y elevando tu confianza. Y con tu vida social todavía muy activa, podrías ser el centro de atención en cualquier evento, ya que tu carisma brilla más de lo normal. No derroches tu dinero si sales en los próximos días, ya que, al sentirte bien, podrías fácilmente gastar más dinero del que puedes permitirte, especialmente después de los últimos eventos.
 
 ## Dinero
 
-Estás experimentando un impulso de energía en tus finanzas. Tienes mucha creatividad en cuanto a la creación de ideas nuevas de cómo traer dinero a tu vida. Es posible que tengas nuevos conceptos para un segundo negocio o simplemente ideas innovadoras y de bajo costo para promover un negocio que ya tengas. Los planetas apoyan estos esfuerzos en una gran forma. ¡Estás en la cima del mundo!
+Para ti, esta semana se trata de cultivar una imagen más grande hacia el mundo, rompiendo con viejas preocupaciones y expresando tus creencias y necesidades. Confianza se está convirtiendo en tu segundo nombre. Ahora, con ciertos aspectos en tu sector de enseñanza y aprendizaje, podrías darte cuenta de que puedes desarrollar formas creativas para compartir lo que sabes y también ganar más dinero. No te subestimes.
