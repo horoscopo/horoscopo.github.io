@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 14 de noviembre 2022 al 20 de noviembre 2022 
-description: Horóscopo semanal sagitario 14 de noviembre 2022 al 20 de noviembre 2022. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+title: sagitario 21 de noviembre 2022 al 27 de noviembre 2022 
+description: Horóscopo semanal sagitario 21 de noviembre 2022 al 27 de noviembre 2022. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-11-14
+ogimg: /images/zodiac/semanal_sagitario.png#2022-11-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-14'
+ lastmod: '2022-11-21'
 ---
 
 
 
-## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 
-A veces sientes como si no avanzaras Sagitario, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Sagitario, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Sagitario, feliz semana.
-Es posible que motives a otras personas para que se unan a tu búsqueda de unas vacaciones, una nueva oportunidad o un nuevo curso o taller. De hecho, hacer estas actividades sin compañía no es tan divertido como hacerlas con amigos o tu pareja. Venus también entra a tu sector social esta semana, dándote ganas de ponerte en espíritu festivo. Prepárate para recibir muchas invitaciones a divertidas fiestas y reuniones. También prepárate para recibir una oferta inesperada.
+Quizás deberías dejar de planear todo ahora Sagitario, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien Sagitario, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
+Nuevas oportunidades seguirán viniendo durante semanas, incluso meses, pero puede que durante esta semana las cosas den un giro inesperado. Quizá te des cuenta de que se abren nuevos caminos por la influencia de ciertos eventos o el aliento de otra persona. De hecho, tus amistades y tus seres queridos pueden ser clave para empujarte hacia nuevas aventuras. Sin embargo, a medida que el amoroso Venus se alinea con el apasionado Plutón, no trates de hacer que las cosas pasen. Deja que todo fluya.
 
 ## Dinero
 
-La buena noticia es que el Universo te está haciendo parecer interesante y único/a con todos. La mala noticia es que aporta una buena dosis de tensión a tu sector de profesión. Es posible que desees que tu individualidad y  tus buenas ideas brillen, pero alguien en el trabajo quiere mantener el statu quo. El dinero viene cuando eres capaz de alzar la línea sólo un poco con tal de encontrar un foro de apoyo para tus habilidades.
+Te enfrentas a un momento interesante. Por un lado, las redes sociales son cada vez más grandes y más solidarias. Por otro lado, alguien no está siendo totalmente honesto sobre lo que quiere sacar de tu amistad. En lugar de terminar la relación o tomarlo como algo personal, atribúyeselo a tu irresistible forma de vivir la vida. Tal quiere estar cerca de ti porque eres una persona exitosa y puede ser capaz de ayudarte a alcanzar tus sueños.

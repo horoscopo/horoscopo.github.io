@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 14 de noviembre 2022 al 20 de noviembre 2022 
-description: Horóscopo semanal aries 14 de noviembre 2022 al 20 de noviembre 2022. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: aries 21 de noviembre 2022 al 27 de noviembre 2022 
+description: Horóscopo semanal aries 21 de noviembre 2022 al 27 de noviembre 2022. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-11-14
+ogimg: /images/zodiac/semanal_aries.png#2022-11-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-14'
+ lastmod: '2022-11-21'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 
-Estás alcanzando una madurez Aries, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Aries y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
-Puede que te abstengas de compartir tus sentimientos, en especial si se trata de una cuestión sensible. Si ya has tenido experiencia con este asunto, podrías sentirte incluso con menos ganas de hablar de ello. Sin embargo, podría producir un importante logro. A principios de la semana, puede que descubras que superar una barrera y hablar con la verdad es un gran alivio. El vital Marte ingresa a tu sector espiritual el fin de semana, lo que podría revolucionar tu psiquis. Prepárate para algunos vívidos sueños.
+Madura Aries, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Aries, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Aries, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
+Si debes tomar una decisión, pedirles consejos a tus amigos podría ser de ayuda. Si intentas tomar la decisión por tu cuenta, puede que pienses de más, lo cual tendría el efecto contrario. El Jueves, el ardiente Marte entra a un sector más apartado de tu carta astral para quedarse allí seis semanas, lo cual podría revolucionar tu mente. Puede que vuelva más vívidos tus sueños y podría sacar a la luz algunos asuntos que habían quedado guardados. Esta podría ser la oportunidad para resolverlos y dejarlos atrás.
 
 ## Dinero
 
-Estás a punto de tomar ventaja de nuevas oportunidades. Tus energías masculinas y femeninas están trabajando en conjunto, lo que tiene un efecto positivo en tu balance final. Tus inversiones y propiedad compartida pueden requerir alguna acción de tu parte. Espera unos días antes de firmar cualquier documento o convenio. Tú y tu pareja deben de estar en la misma frecuencia.
+Es posible que tengas que pensar seriamente esta semana sobre el dinero de otras personas, o la deuda. La adopción de una actitud responsable es la mejor mientras haces el balance de la deuda, llega a una negociación realista de rentabilidad y apégate a ella. Ciertos aspectos indican que tu familia o niños pueden ser la mayor fuga de tu dinero por ahora. Esfuérzate para mantener el equilibrio a medida que te apegas a tu presupuesto.

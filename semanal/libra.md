@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 14 de noviembre 2022 al 20 de noviembre 2022 
-description: Horóscopo semanal libra 14 de noviembre 2022 al 20 de noviembre 2022. Da la bienvenida a tu nueva vida Libra, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+title: libra 21 de noviembre 2022 al 27 de noviembre 2022 
+description: Horóscopo semanal libra 21 de noviembre 2022 al 27 de noviembre 2022. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2022-11-14
+ogimg: /images/zodiac/semanal_libra.png#2022-11-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-14'
+ lastmod: '2022-11-21'
 ---
 
 
 
-## Da la bienvenida a tu nueva vida Libra, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
- y es que no puedes parar, de verdad.
-Un deseo que has tenido durante algún tiempo podría hacerse más fuerte esta semana, sobre todo si tiene que ver con romance. Como resultado, la necesidad de acercarte a esta persona podría convertirse en una especie de obsesión. Sin embargo, ándate con cuidado, ya que esta actitud podría incomodarle a menos que el sentimiento sea mutuo. Además, tal parece que no descansarás hasta que llegues al fondo de un misterio o problema, y tu persistencia en esta área sin duda podría valerte la pena.
+Quieres sonreír cuando pase el tiempo y sobretodo no quedarte con las ganas por no haber hecho lo que sentías. No te encierres en lo que debes o no debes hacer Libra, ahora simplemente fluye… Con la vida, con tus amigos, con tu gente, con los que quieres… 
+porque así es como la vida te acaba compensando con nuevas bienvenidas.
+Puede que alguien haya hecho una promesa, pero es posible que deba romperla. De ser así, trata de no tomártelo a pecho, porque esto puede estar relacionado con la fase retrógrada del interactivo Mercurio. Ir con la corriente puede ser la manera más fácil de manejar esta situación. Podrías tener mucho que hacer con respecto a tu esfuerzo por mantenerte saludable y bien. El energizante Marte ingresa a tu sector de bienestar el jueves, lo que te anima a hacer ejercicio o caminar, y que disfrutes de hacerlo.
 
 ## Dinero
 
-Para ti, esta semana se trata de llevar un cambio muy necesario a tu familia, los niños, el romance y la diversión, revelando formas inteligentes para desahogarse sin tener que gastar un montón de dinero. Pero el Universo está sacudiendo las cosas de maneras que pudieras no haber previsto. Puede ser difícil el sentirse estable o algún grado de apoyo. Evita cualquier gasto nuevo.
+Puede que necesites solicitar una audiencia más amplia para que puedas atraer a los compradores, inversionistas y otras personas con dinero. Algo que has estado planeando requiere de dinero con el fin de despegar. Es muy importante prestar atención al dinero que compartes con los demás. Las co-inversiones o deudas deben de ser atendidas. Asegúrate de salvar bien tus documentos y pagar los honorarios a tiempo. A partir de ahí, podrás cosechar recompensas.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 14 de noviembre 2022 al 20 de noviembre 2022 
-description: Horóscopo semanal escorpio 14 de noviembre 2022 al 20 de noviembre 2022. Tu presente y tu futuro valen muchísimo la pena Escorpio. La vida siempre se acaba equilibrando Escorpio. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+title: escorpio 21 de noviembre 2022 al 27 de noviembre 2022 
+description: Horóscopo semanal escorpio 21 de noviembre 2022 al 27 de noviembre 2022. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Escorpio, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-11-14
+ogimg: /images/zodiac/semanal_escorpio.png#2022-11-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-14'
+ lastmod: '2022-11-21'
 ---
 
 
 
-## Tu presente y tu futuro valen muchísimo la pena Escorpio. La vida siempre se acaba equilibrando Escorpio. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+## Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Escorpio, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
 
-Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección Escorpio, y ahora puedes elegir lo que quieras.
-Para sobreponerte a cualquier reserva que tengas en torno a una idea atrevida, puedes beneficiarte de hablar con alguien que haya pasado por una situación similar. La influencia de Venus en tu sector creativo podría ayudarte a ver las cosas desde una perspectiva más positiva o desde un nuevo ángulo, lo que te dará esperanzas. Más adelante en la semana, una conexión con el suertudo Júpiter puede traerte un estado de ánimo optimista que te anime a seguir adelante de todas formas; incluso si el resultado es incierto.
+El mundo no te entiende Escorpio, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Escorpio, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Escorpio, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
+El aventurero y animado Júpiter, tu planeta regente, cambia de signo esta semana, por lo que puedes notar un cambio en tu enfoque. Entra a tu sector espiritual por una estancia de doce meses para llevarte a que te liberes de esas limitaciones y vivas tu vida aprovechando tu máximo potencial. Este puede ser un momento en el que un asesor o mentor tiene un efecto profundo en ti, y te ayuda a elevarte hacia nuevas alturas. Mientras tanto, la semana por delante podría revelar diferencias de opinión que pueden resolverse con un manejo cuidadoso.
 
 ## Dinero
 
-Esta semana tienes una gran cantidad de impulso para atraer más lana. Es posible que solo se trate de que tu ambición esté llegando a la superficie conforme los demás te ven como la persona exitosa en la que estás en proceso de convertirte. Podría haber cierta tensión con colegas o conocidos sociales. Sólo asegúrate de que no apostar la granja.
+Las relaciones serias en tu vida y los problemas financieros que compartes se destacan esta semana. El tener esa importante conversación con tu pareja puede ayudar a aliviar los problemas de dinero antes de que se manifiesten, no después. Eres capaz de utilizar tus habilidades de comunicación para convencer a otros de que tú y tus proyectos son dignos de inversión.

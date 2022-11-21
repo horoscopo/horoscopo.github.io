@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 14 de noviembre 2022 al 20 de noviembre 2022 
-description: Horóscopo semanal tauro 14 de noviembre 2022 al 20 de noviembre 2022. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+title: tauro 21 de noviembre 2022 al 27 de noviembre 2022 
+description: Horóscopo semanal tauro 21 de noviembre 2022 al 27 de noviembre 2022. Mira Tauro, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-11-14
+ogimg: /images/zodiac/semanal_tauro.png#2022-11-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-14'
+ lastmod: '2022-11-21'
 ---
 
 
 
-## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+## Mira Tauro, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
 
-No es que estés cambiando Tauro, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
-Puede que haya ciertos aspectos de tu vida diaria en los que te esfuerzas demasiado para lograr algo. Esta tendencia podría hacerte sentir un poco impaciente con un plan o proyecto que parece estar perdiendo fuerza. Para que todo salga bien, el truco es dar un paso atrás y dejarte llevar por la corriente por un tiempo. Si puedes hacerlo, puede que tengas ideas nuevas y creativas que te permiten trabajar para avanzar con satisfacción.
+Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande Tauro, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Tauro, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
+Con Mercurio alineandose estrechamente con las energías transformativas de Plutón en un sector intenso de tu carta astral, el comienzo de la semana podría empujarte a tomar una decisión. Incluso si no es la decisión correcta, el hecho de que hayas tomado una decisión puede traerte una sensación de alivio. Pero puede que tus amigos tengan algo que decir al respecto. Tendrás que tener una actitud fuerte y positiva para que no te importe lo que digan y mantenerte firme. Al mismo tiempo, la escena social dinámica actual puede hacerte sentir muy bien.
 
 ## Dinero
 
-¡Qué emoción! Las máquinas funcionan muy bien y el correo llega a tiempo. La comunicación facilita. De por si ya te sientes muy rebelde en lo que estás haciendo actualmente para ganarte la vida. Es posible que te des cuenta de que ésta particular visión de llevar tus finanzas funciona mejor para ti ahora. El expresar tus opiniones no tiene por qué convertirse en un trabajo de tiempo completo. Deja que tu trabajo hable por ti.
+Puede que estés pensando en grande esta semana. Puede que sientas tentación de buscar profesionales calificados para que te ayuden a poner tus finanzas en orden. O puede ser que finalmente hayas decidido el no vivir día al día. Utiliza tu inteligencia nativa y tu poder organizacional para lograr un plan que te asegure el tener lo que quieres lograr. Mantén un claro enfoque en alcanzar tus metas.
