@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 21 de noviembre 2022 al 27 de noviembre 2022 
-description: Horóscopo semanal cancer 21 de noviembre 2022 al 27 de noviembre 2022. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: cancer 28 de noviembre 2022 al 04 de diciembre 2022 
+description: Horóscopo semanal cancer 28 de noviembre 2022 al 04 de diciembre 2022. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Cáncer.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-11-21
+ogimg: /images/zodiac/semanal_cancer.png#2022-11-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-21'
+ lastmod: '2022-11-28'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Cáncer.
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos Cáncer así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Cáncer, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
-Tu situación financiera se ve bastante dinámica a partir de esta semana y en adelante. Tal vez te sientas con ganas de seguir un plan que te ayude a aumentar tus ingresos, ya sea que esto signifique encontrar un nuevo trabajo, comenzar un negocio o pedir un aumento. Cuanta más creatividad le pongas a tu situación financiera, más satisfactoria será. Lo único a lo que debes prestarle atención es tu tendencia a la extravagancia. El panorama cósmico sugiere que los objetos más caros no necesariamente son los mejores.
+Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen.
+Podrías sentir la tentación de gastar en planes, eventos sociales y buenos momentos con amigos. Sin embargo, te irá mejor si puedes limitar la cantidad de dinero que gastas. Incómodos aspectos que surgen durante la semana sugieren que cuanto menos gastes, más fáciles serán las cosas para ti. Esto no quiere decir que no puedas divertirte, simplemente no serás capaz de elegir las opciones más caras. No hay garantía de que tales serán más divertidas, así que relájate y disfruta de lo que puedes pagar.
 
 ## Dinero
 
-Eres una mariposa social esta semana. Has pasado tanto tiempo conociendo nuevos amigos, colegas, mentores y clientes que es posible que hayas excedido tu presupuesto de gastos. No te preocupes tanto, déjalo ir, sólo por esta vez. A pesar de que el gasto excesivo no es un buen hábito que cultivar, eres lo suficientemente inteligente como para saber cuando decir basta. Además, es posible que termines trabajando con muchas de estas personas, lo cuál es una buena inversión en tu futuro financiero.
+Eres un genio, por supuesto. Lo que pasa es que los demás no se han percatado de ello. Puede que te atraigan todas las cosas que son únicas e individuales, especialmente en lo que respecta a tu dinero. Y puesto que la actividad está en tu sector de grupos y política, realmente es el momento de correr la voz sobre lo que actualmente estás haciendo para ganar dinero, así como las cosas que quieres hacer en el futuro.

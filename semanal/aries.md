@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 21 de noviembre 2022 al 27 de noviembre 2022 
-description: Horóscopo semanal aries 21 de noviembre 2022 al 27 de noviembre 2022. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+title: aries 28 de noviembre 2022 al 04 de diciembre 2022 
+description: Horóscopo semanal aries 28 de noviembre 2022 al 04 de diciembre 2022. De verdad Aries, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2022-11-21
+ogimg: /images/zodiac/semanal_aries.png#2022-11-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-21'
+ lastmod: '2022-11-28'
 ---
 
 
 
-## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+## De verdad Aries, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 
-Madura Aries, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Aries, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Aries, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-Si debes tomar una decisión, pedirles consejos a tus amigos podría ser de ayuda. Si intentas tomar la decisión por tu cuenta, puede que pienses de más, lo cual tendría el efecto contrario. El Jueves, el ardiente Marte entra a un sector más apartado de tu carta astral para quedarse allí seis semanas, lo cual podría revolucionar tu mente. Puede que vuelva más vívidos tus sueños y podría sacar a la luz algunos asuntos que habían quedado guardados. Esta podría ser la oportunidad para resolverlos y dejarlos atrás.
+No puedes ser sumiso Aries, al final, tus necesidades siempre acaban saliendo a la luz porque no puedes limitarte ni encasillarte con nada. No puedes pasarte la vida sabiendo qué es lo que debes hacer pero sin hacerlo, no puedes pasarte la vida queriendo hacer algo y que al final ese algo sólo se quede en tu cabeza, en tus pensamientos. Tienes que romper con eso. Esta semana céntrate en cumplir cada una de tus metas, trata de hacer lo que te pida el cuerpo sin necesidad de quejarte, piensa en qué es lo que está en tu mano, en qué es lo que tú puedes hacer, y hazlo. No hagas de tu tiempo tiempo perdido, con nada, con nadie… Si no vas a por todo, mejor no vayas. Es uno de tus lemas, pero a veces te olvidas de aplicártelo a ti, y sí, empiezas algo y por unas cosas u otras, no lo acabas. Piensa que así es como te frustras y piensa que es el motivo por el cual te pones de muy mala hostia un día sí y otro también. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo. No te compliques y al lío Aries. Ponte en marcha de una vez esta semana, y no pienses en lo que perdiste o en lo que ganaste, piensa en lo que llegará si de verdad te pones las pilas.
+Amorosas vibraciones podrían estarte llamando fuerte y claramente cuando Venus entre a tu sector de relaciones el martes y le traiga a tu vida romántica un tono coqueto. El mismo aspecto es igual de útil para el cierre de ofertas y la organización de reuniones de negocios. Sin embargo, con una potente mezcla de energías llegando a un punto crítico el jueves, podrías sentir como si tu progreso estuviera siendo bloqueado. La buena noticia es que las cosas irán mejor a partir de ahora, sobre todo durante las próximas semanas.
 
 ## Dinero
 
-Es posible que tengas que pensar seriamente esta semana sobre el dinero de otras personas, o la deuda. La adopción de una actitud responsable es la mejor mientras haces el balance de la deuda, llega a una negociación realista de rentabilidad y apégate a ella. Ciertos aspectos indican que tu familia o niños pueden ser la mayor fuga de tu dinero por ahora. Esfuérzate para mantener el equilibrio a medida que te apegas a tu presupuesto.
+Este período se trata de las formas en las que te pones en contacto con los demás por negocios o por placer. Dado que cierta actividad armoniosa afecta a tu sector de grupos, actividades sociales y negocios propios, puede que estés pensando en cómo usar las redes sociales para lanzar una nueva empresa de algún tipo. Incluso si es un negocio secundario por un tiempo, puede que te percates de que la conexión con los demás puede hacer toda la diferencia.

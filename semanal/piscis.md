@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 21 de noviembre 2022 al 27 de noviembre 2022 
-description: Horóscopo semanal piscis 21 de noviembre 2022 al 27 de noviembre 2022. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: piscis 28 de noviembre 2022 al 04 de diciembre 2022 
+description: Horóscopo semanal piscis 28 de noviembre 2022 al 04 de diciembre 2022. Dedícate la semana a ti Piscis, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-11-21
+ogimg: /images/zodiac/semanal_piscis.png#2022-11-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-21'
+ lastmod: '2022-11-28'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## Dedícate la semana a ti Piscis, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Piscis, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-Con la Luna Nueva desenvolviéndose en tu signo esta semana, las emociones podrían tener una mayor influencia que la lógica en tus decisiones. Además, podrías sentir que otra persona está manejando los hilos y controlando aspectos de tu vida que preferirías manejar por tu cuenta. Sin embargo, la fase de Luna Nueva puede ser un momento donde reacciones exageradamente. Cuando confrontes a esta persona, te convendrá hacerlo de forma medida y razonable. Espera a que los sentimientos más intensos se calmen un poco.
+Hay gente que no respeta que puedas crecer Piscis, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Piscis pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Piscis, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+Conforme tu planeta personal, Plutón, entra a su fase retrógrada el lunes, sería útil que no te obsesionaras demasiado con una determinada situación. Cuanto más puedas permitir que las cosas sigan su curso, más pronto encontrarás la solución. El último movimiento del Sol a Sagitario y a tu sector de relaciones te permite hacer un balance de tus relaciones clave, amistades y una conexión romántica para considerar cómo puedes mejorar ciertas situaciones. Este viernes, ¡espera lo inesperado!
 
 ## Dinero
 
-Tu situación en el hogar y las emociones internas indican un posible cambio para ti ahora mismo. ¿Has estado pensando en la creación de más espacio para ti mismo/a? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener que los jugos que fluyan hacia un nuevo trabajo o fuente de ingresos. El truco estará en no irse por la borda con este esfuerzo. Busca un balance entre el gasto y el ahorro.
+Esta semana es acerca de los aspectos que afectan a tu sector de deuda y el dinero de otros. Tu carrera está afectando a este sector también. Sin embargo, puede que se te ponga a prueba en el sector de amistades u otros grupos. Tales son simplemente inestables y pueden ser de apoyo un día, pero no al siguiente. Es mejor ir en solitario hasta que puedas encontrar gente en quién puedas confiar.

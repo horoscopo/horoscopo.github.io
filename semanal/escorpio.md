@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 21 de noviembre 2022 al 27 de noviembre 2022 
-description: Horóscopo semanal escorpio 21 de noviembre 2022 al 27 de noviembre 2022. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Escorpio, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+title: escorpio 28 de noviembre 2022 al 04 de diciembre 2022 
+description: Horóscopo semanal escorpio 28 de noviembre 2022 al 04 de diciembre 2022. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-11-21
+ogimg: /images/zodiac/semanal_escorpio.png#2022-11-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-21'
+ lastmod: '2022-11-28'
 ---
 
 
 
-## Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Escorpio, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
 
-El mundo no te entiende Escorpio, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Escorpio, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Escorpio, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
-El aventurero y animado Júpiter, tu planeta regente, cambia de signo esta semana, por lo que puedes notar un cambio en tu enfoque. Entra a tu sector espiritual por una estancia de doce meses para llevarte a que te liberes de esas limitaciones y vivas tu vida aprovechando tu máximo potencial. Este puede ser un momento en el que un asesor o mentor tiene un efecto profundo en ti, y te ayuda a elevarte hacia nuevas alturas. Mientras tanto, la semana por delante podría revelar diferencias de opinión que pueden resolverse con un manejo cuidadoso.
+No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo Escorpio pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
+ Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
+Debido a que el comunicador Mercurio está en su fase retrógrada actualmente, sería útil controlar tus gastos del hogar. Puede que sea prudente planificar para la próxima semana, el próximo mes e incluso el próximo año, y hacer una lista de tus gastos diarios. Cuanto más puedas controlar todo, más sencillo será que el tuyo sea un hogar feliz y ordenado. Cuando el encantador Venus ingresa a tu sector de romance el viernes, tu vida amorosa podría irradiar sensuales delicias.
 
 ## Dinero
 
-Las relaciones serias en tu vida y los problemas financieros que compartes se destacan esta semana. El tener esa importante conversación con tu pareja puede ayudar a aliviar los problemas de dinero antes de que se manifiesten, no después. Eres capaz de utilizar tus habilidades de comunicación para convencer a otros de que tú y tus proyectos son dignos de inversión.
+Podrías estar mas ocupado/a en el trabajo que de costumbre cuando las responsabilidades de ciertas personas caigan en tus manos. En la cumbre de la locura, ponte a tono con tus más crudas ambiciones y pregúntate: ¿Qué tan alto quieres llegar en esta empresa? Si la respuesta es no, sabes que tienes muchas ideas propias. Tal vez prefieras invertir un poco de dinero en comenzar un negocio nuevo. Los viajes, la educación, la metafísica, la publicación, la ley, son algunos de los campos que te pudieran interesar.
