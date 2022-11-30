@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Géminis Noviembre 2022
-description: El Horóscopo Noviembre de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Géminis Diciembre 2022
+description: El Horóscopo Diciembre de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo Géminis noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo Géminis diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2022-10-28
+ogimg: /images/mes/geminis_mes.png#2022-11-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-10-28'
+ lastmod: '2022-11-30'
 ---
 
 
- > Géminis, aunque has tenido que esperar a que llegue el la etapa final de año, parece que noviembre será uno de los mejores meses. En el plano amoroso vas a tener que hacer los deberes, priorizar y dejar a un lado cosas que, aunque tu crees que para ti te hacen bien, en realidad no te favorecen.
+ > Géminis, diciembre se te va a pasar volando, lo que quiere decir que será un mes maravilloso para ti. Gozarás de un magnetismo muy grande, te encuentras espectacular y los demás lo notarán. Lo mejor de todo es que muchas de tus dudas llegarán a su fin gracias a tu poder de decisión.
 
 
 
- El eclipse de luna del 8 de noviembre comienza una etapa del año divertida. Es posible que entonces prefieras empezar lentamente y cerca de casa o ir a un lugar especial a solas primero. Ya tendrás mucho tiempo para subirte al divertido escenario más tarde. La Luna Nueva del 23 de noviembre podría traerles a muchas personas una semana muy social. Trata de verte y sentirte en tu punto más encantador y seductor. Pasa tiempo con tus seres queridos, escucha y baila al son de la música que más te gusta. Por la noche, regresa a casa sin problemas y vuelve a hacerlo todo de nuevo al siguiente día. Marte comienza a moverse directamente el 29 de noviembre, pero puede que se requiera de más tiempo para que tu ambición regrese a su nivel.  
+El trabajo puede intentar apartarte de tu hogar durante la luna llena del 8 de diciembre, pero tú sabes dónde está tu corazón. Incluso si es una anticipada fiesta de fin de año, quizás quieras dejarla pasar. Sal a la luz durante la luna nueva del día 23. La gente quiere estar contigo y hacer lo que estás haciendo. Participa en un evento de caridad de fin de año para niños o ancianos o ambos. Siente el placer de hacer las cosas más simples. La luna forma una conjunción con Neptuno el 24 de diciembre. El corazón de las festividades podría ser el momento más soñado, dulce y hermoso de todos.

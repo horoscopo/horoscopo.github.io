@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Cáncer Noviembre 2022
-description: El Horóscopo Noviembre de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Cáncer Diciembre 2022
+description: El Horóscopo Diciembre de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo Cáncer noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo Cáncer diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/cancer_mes.png#2022-10-28
+ogimg: /images/mes/cancer_mes.png#2022-11-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-10-28'
+ lastmod: '2022-11-30'
 ---
 
 
- > Cáncer, disfrutarás de un mes de noviembre cargado de energía y motivación. Parece que has despertado de un profundo letargo y no habrá nada ni nadie que te pare. Recibirás un impulso que era más que necesario para motivarte.
+ > Cáncer, a medida que el mes de diciembre avance, irás dejando atrás todos los lastres que te impedían ser tú misma. Esto implica que te olvidarás de situaciones que no te hacían nada bien, pero también de personas que te cegaban y te impedían crecer como persona.
 
 
 
-El mundo será inmenso bajo la Luna Llena del 8 de noviembre que viene junto a un Eclipse total, y es posible que desees ver más de él. Incluso si no sales de tu ciudad, considera acudir a un concierto de música étnica o restaurante de comida exótica, por ejemplo. Un amigo o vecino de la infancia podría mantenerte en acción bajo la manifestación de la Luna Nueva del 23 de noviembre. Puede que tal sea precisamente la distracción que has estado buscando. Toma una decisión audaz y aprende algo nuevo sobre ti. Alternativamente, tus amigos podrían presentarte a personas nuevas y más aventureras. Bajo la conexione entre Mercurio y Venus del 28 de noviembre, es posible que tengas tantas brillantes ideas que ni siguiera sepas qué hacer con ellas.
+El 7 de diciembre es un día lleno de amor y sueños, cuando la Luna conjunta a Venus y también forma trígono con Neptuno. Goza del espíritu navideño y niégate a permitir que te apresuren o te critiquen. La Luna Llena del 8 de diciembre podría estar llena de gente yendo y viniendo y actividades que puede que no te emocionen totalmente. Sin embargo, te encantará tener contacto con tu familia junto a todos esos tradicionales adornos navideños. Descansa más de lo normal y tómate tus vitaminas alrededor de la Luna Nueva del 23 de diciembre, especialmente si tu familia o ciertos asuntos hogareños están drenando tu energía y haciendo que te sientas mayor de lo que eres. Ten bondad con tu propio ser. 

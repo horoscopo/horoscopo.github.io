@@ -1,29 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Sagitario Noviembre 2022
-description: El Horóscopo Noviembre de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Sagitario Diciembre 2022
+description: El Horóscopo Diciembre de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo Sagitario noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo Sagitario diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/sagitario_mes.png#2022-10-28
+ogimg: /images/mes/sagitario_mes.png#2022-11-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-10-28'
+ lastmod: '2022-11-30'
 ---
 
 
- > Sagitario, durante noviembre vas a tener la oportunidad de sacar lo mejor de ti y empezar de cero en algún proyecto que tienes en mente. Te vas a sentir con gran seguridad y te ves capacitada para afrontar lo que te venga.
+ > Sagitario, durante diciembre vas a empezar a hacer balance de cómo ha ido tu año y, por lo general, te sentirás bastante orgullosa. Esto te servirá para calibrar y ver dónde mejorar. Te sentirás ambiciosa y con ganas de seguir creciendo como persona.
 
 
 
-Estarás muy ocupado este mes, Sagitario, ya que tu temporada trae una oleada de actividad a tu casa 2. Aunque tus días estarán repletos de trabajo, compromisos sociales y ocasionales compras compulsivas, no dejes que el desorden se acumule en tu espacio o podrías caer en un agujero de desorganización.
-Por suerte, sin importar cuán acelerado se sienta el mundo en este momento, estarás en una posición única para moverte más despacio, así que no te sientas culpable por tomarte las cosas a tu propio ritmo. Evita presionarte demasiado y asegúrate de inclinarte hacia el lujo cada vez que necesites un poco de amor propio.
-Lo inesperado podría encontrarte cuando Venus, tu planeta regente, se une al impredecible Urano el 11 de noviembre. Estas vibras también pueden ayudarte a salir de cualquier situación que ya no te sirve, así que no tengas miedo de caminar en una nueva dirección. Desafortunadamente, la oposición que Venus forma con la luna en Escorpión podría aportarle intensidad emocional a tu día, por lo que es importante que seas realista mientras priorizas tus necesidades.
-Sentirás una mayor conexión con tu vocación y tu camino de mayor crecimiento cuando Venus se une al Nodo Norte mientras forma un aspecto con la luna en Capricornio. Mantén los ojos abiertos a sincronicidades y señales detrás del velo mientras el Universo busca maneras de guiarte hacia un futuro más pleno. También es un buen momento para comunicar tus esperanzas y sueños al otro lado, ya que tu capacidad de manifestación será más notable de lo habitual.
-Días destacados: 8, 21, 24
-Días desafiantes: 3, 11, 18
+El Sol forma trígono con el peculiar Urano el 5 de diciembre. Si es que estás buscando ese regalo perfecto, puedes encontrarlo ese día. La Luna Llena del 8 de diciembre podría traerte algunos momentos tranquilos en privado para reflexionar sobre lo que realmente está pasando en tu corazón y tu conciencia. Bajo la Luna Nueva del 23 de diciembre puedes crear mucho, tomar un gran riesgo y aun ser responsable al mismo tiempo. Lo más probable es que implique opiniones de ciertas personas más de lo que implique dinero. Sé valiente y confía en ti. Ya sea en Navidad o al final del año, podrías hacer una observación que enriquezca tu vida futura.

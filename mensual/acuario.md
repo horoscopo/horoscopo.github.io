@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Acuario Noviembre 2022
-description: El Horóscopo Noviembre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Acuario Diciembre 2022
+description: El Horóscopo Diciembre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo Acuario noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo Acuario diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2022-10-28
+ogimg: /images/mes/acuario_mes.png#2022-11-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-10-28'
+ lastmod: '2022-11-30'
 ---
 
 
- > Acuario, prepárate para un mes de noviembre en el que gozarás de un poder intuitivo que te permitirá crecer mucho. Es muy posible que te lleves una grata sorpresa y conozcas a alguien en un momento que no te esperas.
+ > Acuario, diciembre pondrá las cartas sobre la mesa y es que ha llegado el momento de que decidas por dónde vas a querer ir en tu vida. Tu corazón se irá reconstruyendo poco a poco y así recuperarás las ganas de encontrar el amor y disfrutar de él.
 
 
 
-¡Feliz mes nuevo Acuario! La luna llena y Eclipse de Luna del 8 de noviembre sugiere que mantengas un perfil bajo y disfrutes de un buen momento para relajarte intensamente y en privado. Medita sobre cosas importantes. Haz pequeñas cosas en la casa para maximizar la paz y la comodidad. Sé una persona más sana y mejor organizada con la luna nueva del día 23. Haz un leve cambio en tu dieta o en cómo ordenas tu guardarropa. Siéntete mejor sobre todas las cosas y continúa desde allí. Mantente alerta sobre un giro kármico de eventos que te cuide y apoye. 
+La Luna conjunta con Marte el 3 de diciembre, dándote una inyección de energía para que logres terminar esa interminable lista de mandados. Trata de lograr mucho ese fin de semana. Siente tu conexión con todo y todos a tu alrededor bajo la Luna Llena del 8 de diciembre. Vuélvete más inteligente en relación a una cuestión monetaria alrededor de la Luna Nueva del 23 de diciembre. Puede que seas capaz de ahorrar más y te dará gusto tener ese dinero extra más adelante. Si tus amigos quieren que salgas más alrededor de estos días, apégate a tu horario y no dejes que te convenzan. Te amarán aunque no lo hagas. Una vez que la Navidad ya ha pasado, y tienes ganas de seguir de fiesta, ¡pues hazlo!
