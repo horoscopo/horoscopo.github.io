@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de noviembre 2022
-description: Horóscopos del dia de hoy 30 de noviembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de diciembre 2022
+description: Horóscopos del dia de hoy 01 de diciembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-11-30
+ lastmod: 2022-12-01
 ---
-Hoy, el Universo se suaviza con emoción y las relaciones florecer cuando la Luna en Tauro forma sextil con Neptuno. Solteros, no hay misterio, es más bien química cuando Venus también aspecta a Neptuno. Las parejas deberían aprovechar esta energía cósmica y hablar sobre sus sueños. Crear imágenes del futuro es muy tranquilizador, ¿cierto?
+¡Abróchate el cinturón de seguridad! Hoy te encuentras en la vía rápida mientras la Luna aspecta al impredecible Urano. Afortunadamente, eres muy eficiente. Esta noche, la misma vieja rutina parece monótona y poco interesante mientras la Luna en Virgo conjunta a Júpiter. ¡Enfréntate a la noche con una nueva, mejorada y emocionante actitud!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
